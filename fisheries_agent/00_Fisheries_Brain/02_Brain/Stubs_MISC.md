@@ -193,6 +193,18 @@ The 1948 Upper Colorado River Compact is an interstate water allocation agreemen
 ### Mentioned In
 - [[TheDistributionOfTheFreshwater_1979]]
 
+## 1983 Flood
+
+### Summary
+The 1983 flood was a high-flow event on the Colorado River below Glen Canyon Dam. The source notes that terrestrial studies were selected partly for subjects that might show adverse effects of this flood, and it cites flooding generally as favoring native fishes over non-natives and promoting riparian vegetation germination.
+
+### Context
+> This is a 1987 letter-review by [[Minckley]], Professor of Zoology at Arizona State University, of a draft report by the [[National Research Council]] committee evaluating the [[Glen Canyon Environmental Studies]] (GCES). The GCES program was a research effort conducted largely for the [[Bureau of...
+> -- *[[ReviewOfTheNationalResearchCom_13738]]*
+
+### Mentioned In
+- [[ReviewOfTheNationalResearchCom_13738]]
+
 ## 1989 Management Research Permit No. 024
 <!-- fm: auto_enriched: true -->
 

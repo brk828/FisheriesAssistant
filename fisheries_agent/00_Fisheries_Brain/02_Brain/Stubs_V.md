@@ -423,6 +423,18 @@ Van Oosten is a researcher who described methods for age determination in fishes
 ### Mentioned In
 - [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
 
+## Van Oosten 1929
+
+### Summary
+A cited study of lake herring (cisco) that found no clear correlation between air temperature and growth, offered as a comparison with the Norris Reservoir results.
+
+### Context
+> This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
+> -- *[[TheInfluenceOfCertainEnvironme_20701]]*
+
+### Mentioned In
+- [[TheInfluenceOfCertainEnvironme_20701]]
+
 ## Van Oosten 1938
 <!-- fm: auto_enriched: true -->
 
@@ -460,6 +472,18 @@ Van Oosten is a researcher who described methods for age determination in fishes
 
 ### Mentioned In
 - [[TemperaturUndTagesperiodikDerO_1963]]
+
+## Vancouver Island
+
+### Summary
+A large island off the west coast of British Columbia, Canada. Lingcod were tagged and released off its west coast in the Canadian studies that the source uses to describe movement patterns.
+
+### Context
+> This 1958 review by J. B. Phillips of the [[California Department of Fish and Game]] (Marine Resources Operations) assembles what was known about the life history of the [[Lingcod]] and the status of its fishery. The lingcod is prized as a food and sport fish, and local concern had developed that...
+> -- *[[AReviewOfTheLingcodOphiodonElo_11171]]*
+
+### Mentioned In
+- [[AReviewOfTheLingcodOphiodonElo_11171]]
 
 ## Vancouveran Faunal Zone
 <!-- fm: auto_enriched: true -->
@@ -514,6 +538,18 @@ Vanderbilt Reef is a study site in Lynn Canal featuring a sunken vessel at 13-28
 ### Mentioned In
 - [[SeasonalChangesInSpatialDistri_17423]]
 
+## Vanicek
+
+### Summary
+Vanicek (1967) is a survey cited in the source that found Gila cypha very rare below the Yampa River mouth. Three specimens were taken in 1963 and none in 1964–1966, which the source uses to show the species' decline in that reach.
+
+### Context
+> This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
+> -- *[[SpeciesRelationshipsAmongFishe_21162]]*
+
+### Mentioned In
+- [[SpeciesRelationshipsAmongFishe_21162]]
+
 ## Vanicek 1967
 <!-- fm: auto_enriched: true -->
 
@@ -523,6 +559,30 @@ Vanderbilt Reef is a study site in Lynn Canal featuring a sunken vessel at 13-28
 
 ### Mentioned In
 - [[AnnualReportOfTheUtahCooperati_1967]]
+
+## Vanicek and Kramer
+
+### Summary
+Vanicek and Kramer (1969) are cited in the source as having combined all specimens under 200 mm total length into a single category called 'Colorado chub.' The authors use this to illustrate how earlier work failed to separate juveniles of the three species.
+
+### Context
+> This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
+> -- *[[SpeciesRelationshipsAmongFishe_21162]]*
+
+### Mentioned In
+- [[SpeciesRelationshipsAmongFishe_21162]]
+
+## Vanicek et al.
+
+### Summary
+Vanicek et al. (1970) is a follow-up survey cited in the source, alongside Vanicek (1967), that found humpback chub (G. cypha) very rare below the Yampa River mouth. The source uses it as evidence of the species' scarcity in the Green River.
+
+### Context
+> This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
+> -- *[[SpeciesRelationshipsAmongFishe_21162]]*
+
+### Mentioned In
+- [[SpeciesRelationshipsAmongFishe_21162]]
 
 ## Vann's Lake
 
@@ -699,6 +759,18 @@ This source conducts extensive variational analysis using meristic characters in
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
 
+## Vasquez Formation
+
+### Summary
+A mid-Tertiary conglomerate unit studied at Charlie Canyon, Texas Canyon, and Vasquez Rocks. Transport directions and clast suites differ among these localities, and the author infers that source areas lay across the San Francisquito and Soledad faults. Basalt in the unit dates to roughly 24-25 million years.
+
+### Context
+> This is a geology paper, not an aquatic or fish study. Robert G. Bohannon (U.S. Geological Survey, Denver, Colo.) examines coarse redbed conglomerates of mid-Tertiary age in southern California. The units are the [[Simmler Formation]], [[Sespe Formation]], [[Plush Ranch Formation]], [[Vasquez...
+> -- *[[MidtertiaryConglomeratesAndThe_17712]]*
+
+### Mentioned In
+- [[MidtertiaryConglomeratesAndThe_17712]]
+
 ## Vaterite
 <!-- fm: auto_enriched: true -->
 
@@ -806,8 +878,12 @@ Velvet ants are not true ants but wingless female wasps, also called cow ants or
 > This issue of *Wildlife Views* (Arizona Game and Fish Department magazine) contains three main items. The first is a short popular account of stinging and biting insects of Arizona, covering [[Fire Ant]], [[Harvester Ant]], [[Velvet Ant]], [[Paper Nest Wasp]], and [[Honeybee]] stings and first-aid...
 > -- *[[NativeArizonaFishesPartIiiChub_12635]]*
 
+> This Arizona Wildlife Views compilation contains three main parts. The principal item is the third installment of the "Native Arizona Fishes" series on chubs (genus *Gila*, family Cyprinidae) by John N. Rinne and W. L. Minckley of the Department of Zoology, Arizona State University, Tempe. It...
+> -- *[[NativeArizonaFishesPartIiichub_18578]]*
+
 ### Mentioned In
 - [[NativeArizonaFishesPartIiiChub_12635]]
+- [[NativeArizonaFishesPartIiichub_18578]]
 
 ## Velvet Ash
 
@@ -844,8 +920,12 @@ Velvet Mesquite (Prosopis velutina) is a predominant tree species in the Sonoran
 > This biological assessment was conducted 8–18 July 1994 for the [[Papago Park Military Reservation]] (PPMR) in Phoenix, Arizona, in support of an environmental assessment for proposed construction of a consolidated maintenance facility by the Arizona Army National Guard. The survey documented 36...
 > -- *[[PapagoParkMilitaryReservationB_13351]]*
 
+> This Arizona Game and Fish Department (AGFD) technical report, Nongame and Endangered Wildlife Program Technical Report 112 (June 1997), concludes the [[Statewide Riparian Inventory and Mapping]] (SRIM) project by applying remote sensing to riparian areas along intermittent streams. The study...
+> -- *[[RemoteSensingMappingOfArizonaI_14412]]*
+
 ### Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
+- [[RemoteSensingMappingOfArizonaI_14412]]
 
 ## Vemco V13-1L
 
@@ -1032,6 +1112,18 @@ Verde Rim Fontelicella is an undescribed Fontelicella species endemic to Nelson 
 
 ### Mentioned In
 - [[CurrentStatusOfEndangeredThrea_12695]]
+
+## Verde Rim Road
+
+### Summary
+The access road built starting in April 1908 that was completed to the river on July 1, 1908. It drops 3,300 feet to the canyon floor and covers about eleven miles to the flume intake on Fossil Creek.
+
+### Context
+> This document is a 1966 magazine feature from the [[Arizona Engineer And Scientist]] describing the [[Fossil Creek Flume]], a historic water conduit that diverts spring-fed flow from [[Fossil Creek]] to power two small hydroelectric plants, [[Irving Plant]] and [[Childs Plant]], operated by...
+> -- *[[FossilCreakFlumeaPioneerMonume_16579]]*
+
+### Mentioned In
+- [[FossilCreakFlumeaPioneerMonume_16579]]
 
 ## Verde River
 <!-- fm: auto_enriched: true -->
@@ -1286,6 +1378,12 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > The U.S. Fish and Wildlife Service's September 1991 [[Recovery Plan]] for the [[Spikedace]] (*Meda fulgida*), a threatened [[Cyprinidae|cyprinid]] fish, addresses a species extirpated from most of its historic range in the [[Gila River Basin]]. Remaining populations occur in the upper Gila River in...
 > -- *[[SpikedaceMedaFulgidaRecoveryPl_11598]]*
 
+> This document is a 1 September 1987 letter from a professor of zoology at [[Arizona State University]] to the Project Manager of the [[Bureau of Reclamation]] (Arizona Project Office). It reviews the draft [[Environmental Assessment]] (EA) for [[Roosevelt Diversion Dam]] modifications for public...
+> -- *[[CommentsOnEnvironmentalAssessm_11570]]*
+
+> This Arizona Game & Fish Department article (*Wildlife Views*, Vol. 16, No. 6, Nov.-Dec. 1969) by [[W. L. Minckley]] of Arizona State University describes the four native [[Spiny-Rayed Minnows]] of the tribe [[Plagopterini]]. These silvery, stream-dwelling cyprinids occur only in the middle and...
+> -- *[[NativeArizonaFishesPartIispiny_18572]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1434,6 +1532,8 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[AgeAndGrowthOfFlatheadCatfishI_20904]]
 - [[SpikedaceMedaFulgidaRecoveryPl_11598]]
+- [[CommentsOnEnvironmentalAssessm_11570]]
+- [[NativeArizonaFishesPartIispiny_18572]]
 
 ## Verde River Aquatic Ecology
 
@@ -1701,6 +1801,18 @@ Vernon County, Wisconsin was the location of stream trials testing antimycin's e
 ### Mentioned In
 - [[AntimycinaNewFisheryTool_20243]]
 
+## Vernon W. Cole
+
+### Summary
+Research Associate at the Cooperative Fisheries Research Laboratory, Southern Illinois University, Carbondale, and author of this 1957 article on liming Lake Alma. The work was financed by the Ohio Division of Wildlife.
+
+### Context
+> This 1957 article, reprinted from *Industrial Wastes* and written by [[Vernon W. Cole]], describes how [[Acid Mine Drainage]] from bituminous coal mines damaged [[Lake Alma]] in southeastern Ohio. Acid inflow caused a decline and loss of several fish species, including [[Gizzard Shad]], [[Carp]],...
+> -- *[[LimeTreatmentOfLakeReducesAcid_17119]]*
+
+### Mentioned In
+- [[LimeTreatmentOfLakeReducesAcid_17119]]
+
 ## Vero Beach
 <!-- fm: auto_enriched: true -->
 
@@ -1774,6 +1886,15 @@ Vertigo is a genus of minute terrestrial snails. Though not found during this su
 
 ### Mentioned In
 - [[MolluscaFromGreenwoodCountyKan_20276]]
+
+## Vertisol Soils
+
+### Context
+> This U.S. Fish and Wildlife Service (Arizona Ecological Services State Office) biological opinion, dated July 20, 1995 (reference 2-21-95-F-020), evaluates a proposed [[Allotment Management Plan]] for the combined Baseline and Horse Springs livestock grazing allotments in Greenlee County, Arizona....
+> -- *[[BiologicalOpinionOnTheProposed_11939]]*
+
+### Mentioned In
+- [[BiologicalOpinionOnTheProposed_11939]]
 
 ## Vespertilionidae
 <!-- fm: auto_enriched: true -->
@@ -1862,6 +1983,27 @@ Vicariance biogeography in fish science refers to the process by which geographi
 ### Mentioned In
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 
+## Vice President Al Gore
+
+### Summary
+Al Gore was Vice President of the United States in 1994. The source lists him as a recipient of a copy of SWCBD's May 18, 1994 letter. The source records no response from him.
+
+### Context
+> This 1994 correspondence is a dispute between the [[Southwest Center for Biological Diversity]] (SWCBD), led by [[Robin D. Silver]], and the [[National Science Foundation]] (NSF) over NSF funding for astronomical facilities on [[Mt. Graham]], Arizona. SWCBD argues that the project destroys habitat...
+> -- *[[FailureOfTheNationalScienceFou_18967]]*
+
+### Mentioned In
+- [[FailureOfTheNationalScienceFou_18967]]
+
+## Vicia Faba
+
+### Context
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
+### Mentioned In
+- [[GeneralReviewsAndSummariesTrop_17993]]
+
 ## Vickers And Wood 1982
 <!-- fm: auto_enriched: true -->
 
@@ -1871,6 +2013,18 @@ Vicariance biogeography in fish science refers to the process by which geographi
 
 ### Mentioned In
 - [[ProblemsWithGrayLiteratureInFi_1990]]
+
+## Victor Chemical Company
+
+### Summary
+Victor Chemical Company was the party in a July 20, 1963 Tennessee fish kill affecting about 12½ stream miles and an estimated 5,000 lbs of fish. The state requested $6,933.49 in damages and received $2,500.00.
+
+### Context
+> This publication, compiled by John M. Stubbs in Nashville, Tennessee (March 1966), summarizes a questionnaire sent to all U.S. states and nine Canadian provinces on how fish killed by pollution are valued in monetary terms, whether legal or out-of-court damages were collected, and what each...
+> -- *[[MonetaryValuesOfFish_14652]]*
+
+### Mentioned In
+- [[MonetaryValuesOfFish_14652]]
 
 ## Victor G. Springer
 <!-- fm: auto_enriched: true -->
@@ -2034,6 +2188,18 @@ Vinberg's 1960 work, *The Primary Production of Bodies of Water* (AEC-TR-5692), 
 
 ### Mentioned In
 - [[EvaluationOfPPDdtAsAReferenceT_14436]]
+
+## Vinton County
+
+### Summary
+A county in southeastern Ohio where Lake Alma is located. The source places the lake about a mile from Wellston within this county.
+
+### Context
+> This 1957 article, reprinted from *Industrial Wastes* and written by [[Vernon W. Cole]], describes how [[Acid Mine Drainage]] from bituminous coal mines damaged [[Lake Alma]] in southeastern Ohio. Acid inflow caused a decline and loss of several fish species, including [[Gizzard Shad]], [[Carp]],...
+> -- *[[LimeTreatmentOfLakeReducesAcid_17119]]*
+
+### Mentioned In
+- [[LimeTreatmentOfLakeReducesAcid_17119]]
 
 ## Vinyard 1980
 <!-- fm: auto_enriched: true -->
@@ -2378,6 +2544,15 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This document is the summary statement of a first, rapidly executed survey of [[Bait Dealers]] along the [[Lower Colorado River]], from [[Lake Mead]] to the U.S.-Mexican Boundary. The survey was coordinated across [[California]], [[Arizona]], and [[Nevada]]. The author, W. L. Minckley of [[Arizona...
 > -- *[[LowerColoradoRiverBaitIndustry_18581]]*
 
+> This paraphrased meeting summary documents a post-incident review of a [[Rotenone]] renovation (piscicide) operation on the [[Virgin River]] in which a fish kill occurred well beyond the planned treatment reach. Rotenone was not neutralized in time by the [[Detox Station]] because it was set up...
+> -- *[[SummaryOfTheMeetingOfOctoberCo_14775]]*
+
+> This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
+> -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
+
+> This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
+> -- *[[SpeciesRelationshipsAmongFishe_21162]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -2487,6 +2662,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[VirginRiverFishSamplingJanuary_19425]]
 - [[TheBioticCommunitiesOfSouthern_12880]]
 - [[LowerColoradoRiverBaitIndustry_18581]]
+- [[SummaryOfTheMeetingOfOctoberCo_14775]]
+- [[StatusOfTheNativeArizonaIchthy_18579]]
+- [[SpeciesRelationshipsAmongFishe_21162]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -2919,6 +3097,9 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This Arizona Game & Fish Department article (*Wildlife Views*, Vol. 16, No. 6, Nov.-Dec. 1969) by [[W. L. Minckley]] of Arizona State University describes the four native [[Spiny-Rayed Minnows]] of the tribe [[Plagopterini]]. These silvery, stream-dwelling cyprinids occur only in the middle and...
+> -- *[[NativeArizonaFishesPartIispiny_18572]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -2940,6 +3121,7 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[AmericanRiversScientificAndTec_15167]]
 - [[DesertFishesCouncilTwelfthAnnu_12826]]
 - [[FishesOfNevada_15993]]
+- [[NativeArizonaFishesPartIispiny_18572]]
 
 ## Virgin Roundtail Chub
 <!-- fm: auto_enriched: true -->

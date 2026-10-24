@@ -565,6 +565,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This 1950 field study documents the first published observations of spawning behavior in [[Xyrauchen texanus]] (humpback sucker), a native fish of the [[Lower Colorado River]] drainage. Observations were conducted at [[Lake Havasu]], an impoundment created by [[Parker Dam]] in 1938. The author...
 > -- *[[NotesOnTheSpawningOfTheHumpbac_19098]]*
 
+> This 1974 technical report, prepared by [[Eric S. Gustafson]] and submitted by [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], [[Arizona State University]], to the [[U.S. Fish and Wildlife Service]] Regional Office, evaluates external secondary sex characteristics for...
+> -- *[[SexualDimorphismInTheAdultRazo_17843]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -632,6 +635,7 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[ProvisionalKeyToTheProtolarvae_21239]]
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[NotesOnTheSpawningOfTheHumpbac_19098]]
+- [[SexualDimorphismInTheAdultRazo_17843]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->

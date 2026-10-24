@@ -470,6 +470,9 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
 > -- *[[SummaryjuneManagementGroupMeet_20998]]*
 
+> This draft recovery plan, prepared for [[U.S. Fish And Wildlife Service]] Region 6 by Harold M. Tyus of the [[Center For Limnology]] (University of Colorado at Boulder) and dated January 30, 1996, addresses the [[Razorback Sucker]], an endemic, monotypic catostomid of mainstream [[Colorado River...
+> -- *[[PreliminaryDraftRecoveryPlanRa_13063]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -613,6 +616,7 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[TechnicalGroupMeetingMinutesJu_18171]]
 - [[ReInformationYouRequestedForFi_13065]]
 - [[SummaryjuneManagementGroupMeet_20998]]
+- [[PreliminaryDraftRecoveryPlanRa_13063]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -826,6 +830,9 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
 > -- *[[DraftSanBernardinoNationalWild_11500]]*
 
+> This document is a compilation of materials for a West Turkey Creek (WTC) watershed project in Cochise County, Arizona. It contains (1) a U.S. Fish and Wildlife Service (USFWS) Environmental Assessment/Habitat Conservation Plan (EA/HCP) for a 25-year [[Section 10(a)(1)(B) Incidental Take Permit]]...
+> -- *[[ApplicationForWestTurkeyCreekW_12162]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -891,6 +898,7 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[ProtectionUpdatePrivateLandown_20666]]
 - [[LeslieCanyonNationalWildlifeRe_13468]]
 - [[DraftSanBernardinoNationalWild_11500]]
+- [[ApplicationForWestTurkeyCreekW_12162]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -983,6 +991,21 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This issue of *Wildlife Views* (Arizona Game and Fish Department magazine) contains three main items. The first is a short popular account of stinging and biting insects of Arizona, covering [[Fire Ant]], [[Harvester Ant]], [[Velvet Ant]], [[Paper Nest Wasp]], and [[Honeybee]] stings and first-aid...
 > -- *[[NativeArizonaFishesPartIiiChub_12635]]*
 
+> This technical memorandum, written by [[Paul Tashjian]] on 2/18/2000 and addressed to Steve Cullinan and Paul Cornes, assesses how upstream land use could reduce the base flows of [[Leslie Creek]] within the [[Leslie Canyon National Wildlife Refuge]]. The refuge holds an [[In Stream Flow Water...
+> -- *[[TechnicalMemorandumToAddressAs_11247]]*
+
+> This document is a compilation of materials for a West Turkey Creek (WTC) watershed project in Cochise County, Arizona. It contains (1) a U.S. Fish and Wildlife Service (USFWS) Environmental Assessment/Habitat Conservation Plan (EA/HCP) for a 25-year [[Section 10(a)(1)(B) Incidental Take Permit]]...
+> -- *[[ApplicationForWestTurkeyCreekW_12162]]*
+
+> This Arizona Game and Fish Department special report, based on field surveys from June 1989 to April 1990 and a review of historic data, assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona. Both species were...
+> -- *[[StatusOfTheSonoranTopminnowPoe_17209]]*
+
+> This Arizona Wildlife Views compilation contains three main parts. The principal item is the third installment of the "Native Arizona Fishes" series on chubs (genus *Gila*, family Cyprinidae) by John N. Rinne and W. L. Minckley of the Department of Zoology, Arizona State University, Tempe. It...
+> -- *[[NativeArizonaFishesPartIiichub_18578]]*
+
+> This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
+> -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1061,6 +1084,11 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[EditorsCorner_21179]]
 - [[DraftSanBernardinoNationalWild_11500]]
 - [[NativeArizonaFishesPartIiiChub_12635]]
+- [[TechnicalMemorandumToAddressAs_11247]]
+- [[ApplicationForWestTurkeyCreekW_12162]]
+- [[StatusOfTheSonoranTopminnowPoe_17209]]
+- [[NativeArizonaFishesPartIiichub_18578]]
+- [[StatusOfTheNativeArizonaIchthy_18579]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1208,6 +1236,9 @@ The Yaqui Longfin Dace (Agosia chrysogaster, "Yaqui form") is a native cyprinid 
 > This overview examines the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), an endangered freshwater fish native to the [[Gila River Basin]] in Arizona. The species has experienced dramatic population declines due to habitat alteration from human development and predation by the...
 > -- *[[TheGilaTopminnowPoeciliopsisOO_12486]]*
 
+> This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
+> -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
+
 ### Mentioned In
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
 - [[MemorandumOnFederalEndangeredt_1994_10_12]]
@@ -1217,6 +1248,7 @@ The Yaqui Longfin Dace (Agosia chrysogaster, "Yaqui form") is a native cyprinid 
 - [[FisheryManagementForTheSanBern_18979]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[TheGilaTopminnowPoeciliopsisOO_12486]]
+- [[StatusOfTheNativeArizonaIchthy_18579]]
 
 ## Yaqui River Basin
 <!-- fm: auto_enriched: true -->
@@ -1342,6 +1374,9 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > This document is an instream flow request submitted by the [[U.S. Fish and Wildlife Service]] to the [[Arizona Department of Water Resources]] for [[Leslie Creek]] within [[Leslie Canyon National Wildlife Refuge]]. The refuge, located 17 miles north of Douglas, Arizona along the southwestern flank...
 > -- *[[LeslieCanyonNationalWildlifeRe_13468]]*
 
+> This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
+> -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
+
 ### Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -1360,6 +1395,7 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
 - [[IllegalFindingOfNoSignificantI_18971]]
 - [[LeslieCanyonNationalWildlifeRe_13468]]
+- [[StatusOfTheNativeArizonaIchthy_18579]]
 
 ## Yaqui topminnow
 <!-- fm: auto_enriched: true -->
@@ -1443,6 +1479,15 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
 > -- *[[DraftSanBernardinoNationalWild_11500]]*
 
+> This technical memorandum, written by [[Paul Tashjian]] on 2/18/2000 and addressed to Steve Cullinan and Paul Cornes, assesses how upstream land use could reduce the base flows of [[Leslie Creek]] within the [[Leslie Canyon National Wildlife Refuge]]. The refuge holds an [[In Stream Flow Water...
+> -- *[[TechnicalMemorandumToAddressAs_11247]]*
+
+> This document is a compilation of materials for a West Turkey Creek (WTC) watershed project in Cochise County, Arizona. It contains (1) a U.S. Fish and Wildlife Service (USFWS) Environmental Assessment/Habitat Conservation Plan (EA/HCP) for a 25-year [[Section 10(a)(1)(B) Incidental Take Permit]]...
+> -- *[[ApplicationForWestTurkeyCreekW_12162]]*
+
+> This Arizona Game and Fish Department special report, based on field surveys from June 1989 to April 1990 and a review of historic data, assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona. Both species were...
+> -- *[[StatusOfTheSonoranTopminnowPoe_17209]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1495,6 +1540,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[LeslieCanyonNationalWildlifeRe_13468]]
 - [[GeneticCharacterizationOfSonor_16959]]
 - [[DraftSanBernardinoNationalWild_11500]]
+- [[TechnicalMemorandumToAddressAs_11247]]
+- [[ApplicationForWestTurkeyCreekW_12162]]
+- [[StatusOfTheSonoranTopminnowPoe_17209]]
 
 ## Yaqui Watershed
 
@@ -1507,6 +1555,18 @@ The Yaqui Watershed is a river basin extending from southeastern Arizona into So
 
 ### Mentioned In
 - [[LeslieCanyonNationalWildlifeRe_13468]]
+
+## Yaquicoccus
+
+### Summary
+A new monotypic hydrobiid genus described in this source from the Arizona/Sonora drainages. It is one of the new genera established alongside Apachecoccus in the family Hydrobiidae.
+
+### Context
+> This bulletin (Bulletin 116, [[New Mexico Bureau of Mines & Mineral Resources]], Socorro, 1987) by Dwight W. Taylor of Oregon State University describes 22 freshwater mollusc species from New Mexico and adjacent areas. It describes nine new species from New Mexico, four from Arizona, two from Utah,...
+> -- *[[FreshwaterMollusksFromNewMexic_13497]]*
+
+### Mentioned In
+- [[FreshwaterMollusksFromNewMexic_13497]]
 
 ## Yashouv 1958
 <!-- fm: auto_enriched: true -->
@@ -1551,6 +1611,18 @@ Yavapai County is a county in Arizona that contains Tule Creek. This source docu
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+
+## Yavapai Leopard Frog
+
+### Summary
+A leopard frog species of Arizona listed as a Candidate for federal protection. The source says it has been recorded in the Arnett Creek area, and it notes that the narrow-headed garter snake, also a Candidate, is within its probable range there.
+
+### Context
+> This USDA Forest Service Environmental Assessment (EA), dated April 16, 1996, evaluates a proposal to re-establish a native fish community in [[Arnett Creek]] and [[Telegraph Canyon]] on the [[Tonto National Forest]] (Globe Ranger District), in partnership with the [[Arizona Game And Fish...
+> -- *[[EnvironmentalAssessmentarnettC_11509]]*
+
+### Mentioned In
+- [[EnvironmentalAssessmentarnettC_11509]]
 
 ## Yavapai-Apache Indian Community
 
@@ -1862,6 +1934,15 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > **Taxonomic & Life-History Summary**: [[Aravaipa Creek]] supports seven naturally occurring native fish species: [[Longfin Dace]] (*Agosia chrysogaster*), [[Roundtail Chub]] (*Gila robusta*), [[Spikedace]] (*Meda fulgida*, federally endangered), [[Speckled Dace]] (*Rhinichthys osculus*), [[Loach...
 > -- *[[LongtermMonitoringOfADesertFis_2021]]*
 
+> This report, Report No. 815 by C. J. D. Brown of the [[Institute for Fisheries Research]] ([[Michigan Department of Conservation]]), is a small-scale fisheries survey of [[Hopkins Lake]], a 7.9-acre lake at the south edge of [[Owosso]] in [[Shiawassee County]], Michigan. It was reprinted in part...
+> -- *[[FisheriesLakeSurveyASmallscale_12998]]*
+
+> This field survey of the [[Salt River]] in Arizona was conducted in two excursions: one from [[Gleason Flats]] (Station 5) to [[Roosevelt Lake]], and one from the junction of the [[Black River]] and [[White River]] (Station 1) to the crossing of the Salt River at the [[Highway 60 Bridge]]. Sampling...
+> -- *[[DraftsaltRiverSurvey_14100]]*
+
+> This summary report from the [[U.S. Fish And Wildlife Service]] [[Bureau Of Sport Fisheries And Wildlife]] (Branch of Fishery Management Services, Phoenix, Arizona) describes the 1964 fishery management program on the [[San Carlos Apache Indian Reservation]], Arizona. Under a 1958 agreement with...
+> -- *[[SummaryReportSanCarlosApacheIn_19597]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -1952,6 +2033,9 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[EagleCreekGreenleeCountyArizon_17216]]
 - [[LongtermMonitoringOfADesertFis_2021]]
+- [[FisheriesLakeSurveyASmallscale_12998]]
+- [[DraftsaltRiverSurvey_14100]]
+- [[SummaryReportSanCarlosApacheIn_19597]]
 
 ## Yellow Creek
 
@@ -1999,8 +2083,16 @@ Yellow Grub (Clinostomum sp.) is a trematode parasite that appears as yellowish-
 > This document describes common fish parasites affecting bass and other freshwater species in New York State waters, with particular focus on the [[Bass Tapeworm]] (*Proteocephalus ambloplitis*) and various grub parasites (trematodes). The material presents detailed life cycles involving multiple...
 > -- *[[FishParasites_20804]]*
 
+> This field survey of the [[Salt River]] in Arizona was conducted in two excursions: one from [[Gleason Flats]] (Station 5) to [[Roosevelt Lake]], and one from the junction of the [[Black River]] and [[White River]] (Station 1) to the crossing of the Salt River at the [[Highway 60 Bridge]]. Sampling...
+> -- *[[DraftsaltRiverSurvey_14100]]*
+
+> This Wisconsin Conservation Department fishery biology bulletin, written by biologist Jacob H. Fischthal, answers common angler questions about the four main flesh- and organ-inhabiting "grubs" found in fishes across Wisconsin lakes and streams. It covers the [[Yellow Grub]] (*Clinostomum...
+> -- *[[GrubsInFishes_16402]]*
+
 ### Mentioned In
 - [[FishParasites_20804]]
+- [[DraftsaltRiverSurvey_14100]]
+- [[GrubsInFishes_16402]]
 
 ## Yellow Mud Turtle
 
@@ -2158,6 +2250,21 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This 1956 study by Millard Coots of the [[California Department of Fish and Game]] examines the [[Yellow Perch]] (*Perca flavescens*) in the [[Klamath River]] of California, a population that was not native to the drainage. The primary aim, begun in 1951, was to determine whether yellow perch...
 > -- *[[TheYellowPerchPercaFlavescensM_17576]]*
 
+> This 1963 essay by [[Robert R. Miller]], Curator of Fishes at the University of Michigan Museum of Zoology, argues against the widespread use of non-specific chemical toxicants, chiefly [[Rotenone]], in fishery management. Miller contends that "trash fish" eradication programs kill native fishes...
+> -- *[[IsOurNativeUnderwaterLifeWorth_15341]]*
+
+> This reprint from the [[New York State Conservationist]] (August-September 1952) presents a long-term [[Fisheries Management]] research program on New York farm ponds, along with a companion essay on diagnosing and correcting overpopulation and stunting in warm-water lakes. Farm pond construction...
+> -- *[[FisheriesResearchInNewYorkFarm_15810]]*
+
+> This Wisconsin Conservation Department fishery biology bulletin, written by biologist Jacob H. Fischthal, answers common angler questions about the four main flesh- and organ-inhabiting "grubs" found in fishes across Wisconsin lakes and streams. It covers the [[Yellow Grub]] (*Clinostomum...
+> -- *[[GrubsInFishes_16402]]*
+
+> This New York Conservation Department document presents a preliminary survey of the [[Smallmouth Bass]] (black bass) resource in [[Lake Ontario]] and the [[St. Lawrence River]], prepared by the Bureau of Biological Survey under [[Dr. John R. Greeley]]. The survey treats the region as the largest...
+> -- *[[ConservationOfTheBlackBassReso_19213]]*
+
+> This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
+> -- *[[ADemonstrationOfMethodsAndTech_20555]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -2251,6 +2358,11 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[ThirdWorkshopOnEcologyOfPumpst_12641]]
 - [[LeechesAndTheirImportanceInThe_18934]]
 - [[TheYellowPerchPercaFlavescensM_17576]]
+- [[IsOurNativeUnderwaterLifeWorth_15341]]
+- [[FisheriesResearchInNewYorkFarm_15810]]
+- [[GrubsInFishes_16402]]
+- [[ConservationOfTheBlackBassReso_19213]]
+- [[ADemonstrationOfMethodsAndTech_20555]]
 
 ## Yellow Pikeperch
 <!-- fm: auto_enriched: true -->
@@ -2595,6 +2707,18 @@ The Yellowstone River represents a significant aquatic ecosystem in North Americ
 
 ### Mentioned In
 - [[FoodHabitsOfTheYellowstoneWhit_1950]]
+
+## Yellowtail
+
+### Summary
+A marine fish mentioned as one of the species whose tagging work was compared with the methods used on largemouth bass in this study. The source provides no findings specific to yellowtail.
+
+### Context
+> This 1956 report by J. B. Kimsey of the [[California Department of Fish and Game]] (Inland Fisheries Branch) evaluates six types of external tags for [[Largemouth Bass]] (*Micropterus salmoides*), tested in the field at [[Clear Lake]] and in aquaria and hatchery ponds. The study was motivated by...
+> -- *[[LargemouthBassTagging_12531]]*
+
+### Mentioned In
+- [[LargemouthBassTagging_12531]]
 
 ## Yellowtail Flounder
 
@@ -3100,6 +3224,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
 > -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
 
+> This March 1988 document is the [[Arizona Nongame Strategic Plan]] (1987-1991), prepared under Federal Aid Project FW-11-R by the [[Arizona Game and Fish Department]] (AGFD). It sets policy and five-year goals for the Department's [[Nongame and Endangered Wildlife Program]], which is run through...
+> -- *[[ArizonaNongameStrategicPlans_18278]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -3128,6 +3255,7 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[WorkshopProceedings_18372]]
 - [[DraftConsesusReportOnTheDraftC_13540]]
 - [[FieldReportNoStudyOfCienegaDeS_16073]]
+- [[ArizonaNongameStrategicPlans_18278]]
 
 ## Yuma Clapper Rail Recovery Plan
 
@@ -3214,6 +3342,9 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > This management/research plan addendum (1994) documents the [[Colorado River Native Fish Work Group]]'s efforts to evaluate on-site rearing and replacement of the [[Lake Mohave]] [[Razorback Sucker]] population. The [[Razorback Sucker]] (*Xyrauchen texanus*) was federally listed as endangered in...
 > -- *[[LakeMohaveBackwaterrearingFaci_15473]]*
 
+> This Bureau of Reclamation memorandum (April 1990) summarizes two March 1990 meetings of the [[Native Fish Work Group]] on a proposed on-site backwater rearing facility at [[Lake Mohave]]. The group aims to protect the [[Razorback Sucker]] population, which is judged to be at risk of extirpation...
+> -- *[[ResultsOfMarchAndMeetingsConce_15024]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -3247,6 +3378,7 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[RazorbackSuckerMonitoringInLak_17016]]
 - [[EnvironmentalAssessmentForLake_15466]]
 - [[LakeMohaveBackwaterrearingFaci_15473]]
+- [[ResultsOfMarchAndMeetingsConce_15024]]
 
 ## Yuma Cove Backwater
 
@@ -3388,6 +3520,18 @@ Yuma Island is an area within the Yuma Division of the Lower Colorado River wher
 
 ### Mentioned In
 - [[LowerColoradoRiverMaps_12161]]
+
+## Yuma Project
+
+### Summary
+The Yuma Project is a federal irrigation project on the lower Colorado River in the Yuma area. In this source, its return flows are identified as a water source that could be used under the planned CAP water salvage program. The brochure does not describe the project's internal operations.
+
+### Context
+> This document is a [[Bureau Of Reclamation]] public-information brochure describing the planned [[Central Arizona Project]] (CAP), a large water-importation scheme authorized by the [[Colorado River Basin Project Act]] (Public Law 90-537, September 30, 1968) but not yet constructed. The project...
+> -- *[[CentralArizonaProject_13261]]*
+
+### Mentioned In
+- [[CentralArizonaProject_13261]]
 
 ## Yuma Valley
 

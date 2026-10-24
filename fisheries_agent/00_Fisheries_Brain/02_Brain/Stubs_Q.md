@@ -385,8 +385,12 @@ Quartzite Falls is a waterfall barrier on the uppermost Salt River in Arizona. T
 > This recovery plan addresses the alarming decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a monotypic genus endemic to the [[Colorado River]] basin. Authored by Dr. Windell Minckley ([[Arizona State University]]) and Mr. Gail C. Kebetich ([[Bureau of Sport Fisheries and Wildlife]]), the...
 > -- *[[RecoveryPlanForTheRazorbackSuc_15882]]*
 
+> This field survey of the [[Salt River]] in Arizona was conducted in two excursions: one from [[Gleason Flats]] (Station 5) to [[Roosevelt Lake]], and one from the junction of the [[Black River]] and [[White River]] (Station 1) to the crossing of the Salt River at the [[Highway 60 Bridge]]. Sampling...
+> -- *[[DraftsaltRiverSurvey_14100]]*
+
 ### Mentioned In
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
+- [[DraftsaltRiverSurvey_14100]]
 
 ## Quassilabia
 <!-- fm: auto_enriched: true -->
@@ -455,6 +459,18 @@ Quebec is a Canadian province supporting 103 freshwater fish species according t
 ### Mentioned In
 - [[ProvisionalChecklistOfCanadian_21104]]
 
+## Queen Charlotte Islands
+
+### Summary
+An island group off the coast of British Columbia, Canada. The source reports lingcod occasionally caught there at depths as great as 200 fathoms (Wilby, 1937).
+
+### Context
+> This 1958 review by J. B. Phillips of the [[California Department of Fish and Game]] (Marine Resources Operations) assembles what was known about the life history of the [[Lingcod]] and the status of its fishery. The lingcod is prized as a food and sport fish, and local concern had developed that...
+> -- *[[AReviewOfTheLingcodOphiodonElo_11171]]*
+
+### Mentioned In
+- [[AReviewOfTheLingcodOphiodonElo_11171]]
+
 ## Queen City Formation
 <!-- fm: auto_enriched: true -->
 
@@ -496,8 +512,12 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 > This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
 > -- *[[AProposalToReestablishDesertSu_20730]]*
 
+> This USDA Forest Service Environmental Assessment (EA), dated April 16, 1996, evaluates a proposal to re-establish a native fish community in [[Arnett Creek]] and [[Telegraph Canyon]] on the [[Tonto National Forest]] (Globe Ranger District), in partnership with the [[Arizona Game And Fish...
+> -- *[[EnvironmentalAssessmentarnettC_11509]]*
+
 ### Mentioned In
 - [[AProposalToReestablishDesertSu_20730]]
+- [[EnvironmentalAssessmentarnettC_11509]]
 
 ## Queenfish
 <!-- fm: auto_enriched: true -->
@@ -685,6 +705,18 @@ Quicklime is calcium oxide used to disinfect drained fish ponds. The source iden
 ### Mentioned In
 - [[StationProfileOfTheQ_1993]]
 
+## Quinnat
+
+### Summary
+The quinnat (Salmo quinnat), also called California salmon, is a large Pacific salmon that first arrives in the Columbia River in April. Suckley reports adults weighing up to sixty-four and a half pounds, with fish of about seventy pounds reported farther north.
+
+### Context
+> This is a taxonomic monograph by [[George Suckley]], Surgeon, United States Army, written in 1861 and published in the *Report of the Commissioner of Fish and Fisheries* (pp. 92–160). The work was prepared at the request of the [[Smithsonian Institution]], with editorial introduction by [[Spencer...
+> -- *[[AppendixBTheSalmonAndTroutSpec_14665]]*
+
+### Mentioned In
+- [[AppendixBTheSalmonAndTroutSpec_14665]]
+
 ## Quintero
 
 ### Summary
@@ -827,6 +859,9 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
 > -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
 
+> This Arizona Game and Fish Department special report, based on field surveys from June 1989 to April 1990 and a review of historic data, assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona. Both species were...
+> -- *[[StatusOfTheSonoranTopminnowPoe_17209]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -856,6 +891,7 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[WildlifeOfSpecialConcernInAriz_1996_10_14]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[StatusOfTheSonoranTopminnowPoe_17209]]
 
 ## Quitobaquito Pupfish Subspecies
 <!-- fm: auto_enriched: true -->
@@ -906,6 +942,9 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 > This U.S. Fish and Wildlife Service Biological Opinion (dated April 15, 1994) addresses the transportation and delivery of [[Colorado River]] water through the [[Central Arizona Project]] (CAP) aqueduct to water users in the [[Gila River Basin]] in Arizona and New Mexico. The opinion focuses...
 > -- *[[SummaryBiologicalOpinionOnTran_11705]]*
 
+> This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
+> -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
+
 ### Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
@@ -917,6 +956,7 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
 - [[ItemsToBringToYourAttentionAft_13731]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
+- [[StatusOfTheNativeArizonaIchthy_18579]]
 
 ## Quitobaquito Springs
 <!-- fm: auto_enriched: true -->

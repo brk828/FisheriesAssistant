@@ -52,6 +52,18 @@ The Kabul River is a 350 km freshwater river in Afghanistan that rises at Sar Ch
 - [[NotesOnTheRecommendationToDecl_1962]]
 - [[FisheryInvestigationsInRegionI_12196]]
 
+## Kaibab National Forest
+
+### Summary
+The Kaibab National Forest is a national forest in northern Arizona. The source reports that in 1909 foresters did not measure trees under 18 inches in diameter there, which the authors use to illustrate historical tree-size records.
+
+### Context
+> This Southwest Forest Alliance report, dated November 14, 1995 and authored by Torey Silloway and Kieran Suckling of the [[Southwest Center for Biological Diversity]], is a policy critique rather than a primary research study. It argues that a [[U.S. Forest Service]] report by M. Johnson (1995)...
+> -- *[[ForestFraudAndForestHealthUsFo_18957]]*
+
+### Mentioned In
+- [[ForestFraudAndForestHealthUsFo_18957]]
+
 ## Kaibab Plateau
 <!-- fm: auto_enriched: true -->
 
@@ -178,6 +190,9 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > This May 1998 memorandum from the [[Grand Canyon Monitoring and Research Center]] (GCMRC) to the Technical Work Group presents revised Management Objectives and Information Needs for the [[Adaptive Management Program]] (AMP) following [[Glen Canyon Dam]] operations. The document establishes...
 > -- *[[InformationRegardingManagement_16919]]*
 
+> This U.S. Fish and Wildlife Service (Service) draft biological opinion (2-21-93-F-167, dated October 13, 1993) evaluates the effects of operating [[Glen Canyon Dam]] under the [[Modified Low Fluctuating Flow Alternative]] (MLFF), the preferred alternative of the Draft Environmental Impact...
+> -- *[[DraftBiologicalOpinionOperatio_11642]]*
+
 ### Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -188,6 +203,7 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[ReviewOfCommissionOrderForCrus_1994_07_27]]
 - [[FiscalYearAnnualMonitoringAndR_17765]]
 - [[InformationRegardingManagement_16919]]
+- [[DraftBiologicalOpinionOperatio_11642]]
 
 ## Kanab Creek
 <!-- fm: auto_enriched: true -->
@@ -334,14 +350,23 @@ Kane Creek was a fishing location in Lake Powell that received 4.1% of angler tr
 > - **Habitat**: The [[Snail Darter]] inhabits the Tellico River, a tributary system in Tennessee, within freshwater riverine habitat characterized by flowing water suitable for small benthic percid fishes. - **Ecological significance**: Small darter species like *P. tanasi* often serve as indicato...
 > -- *[[EndangeredSpeciesLawSubjectOfC_1998_12_31]]*
 
+> This Federal Register notice (Vol. 59, No. 219, November 15, 1994, Proposed Rules, pp. 58982–59028) from the [[U.S. Fish and Wildlife Service]] (Service), Department of the Interior, presents an updated compilation of vertebrate and invertebrate animal taxa native to the United States under review...
+> -- *[[EndangeredAndThreatenedWildlif_11654]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
+- [[EndangeredAndThreatenedWildlif_11654]]
 
 ## Kanopolis Reservoir
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1956 report by [[Frank Schryer]], Fisheries Biologist, to the [[Kansas Forestry, Fish And Game Commission]] documents a spring spawn-taking program for [[Walleye]] at [[Fall River Reservoir]]. Kansas had no in-state source of walleye eggs, and out-of-state supplies were uncertain, so...
+> -- *[[TheArtificialPropagationOfWall_20615]]*
+
 ### Mentioned In
 - [[StudiesOnKanopolisReservoirIn_1951]]
+- [[TheArtificialPropagationOfWall_20615]]
 
 ## Kansan Province
 <!-- fm: auto_enriched: true -->
@@ -389,8 +414,13 @@ The Kansas Forestry Fish and Game Commission was the state agency responsible fo
 ## Kansas Forestry, Fish And Game Commission
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1956 report by [[Frank Schryer]], Fisheries Biologist, to the [[Kansas Forestry, Fish And Game Commission]] documents a spring spawn-taking program for [[Walleye]] at [[Fall River Reservoir]]. Kansas had no in-state source of walleye eggs, and out-of-state supplies were uncertain, so...
+> -- *[[TheArtificialPropagationOfWall_20615]]*
+
 ### Mentioned In
 - [[ReportOnProgressOfFishManageme_14039]]
+- [[TheArtificialPropagationOfWall_20615]]
 
 ## Kansas Forestry, Fish, And Game Commission
 <!-- fm: auto_enriched: true -->
@@ -505,6 +535,18 @@ Kaolin is a type of clay mineral used in industrial processes. This study refere
 
 ### Mentioned In
 - [[TheGrowthAndSurvivalOfFishInSo_16699]]
+
+## Kaolinite
+
+### Summary
+Kaolinite is a non-swelling kaolin group clay mineral. In exploratory tests cited by the source, kaolinite heaved as much as 200 percent during a 7-day freeze, far more than montmorillonite did.
+
+### Context
+> This USDA Forest Service Rocky Mountain Forest and Range Experiment Station research note (RM-295, August 1975) by L. J. Heidmann reports a 1971 study of the [[Frost Heaving]] susceptibility of six northern Arizona forest soils. Fifteen soil variables were tested in a [[Stepwise Regression]]. The...
+> -- *[[PredictingFrostHeavingSuscepti_16596]]*
+
+### Mentioned In
+- [[PredictingFrostHeavingSuscepti_16596]]
 
 ## Kara Lamb
 
@@ -873,6 +915,30 @@ Kellicotia is a rotifer genus found in the zooplankton community of Twin Lakes. 
 ### Mentioned In
 - [[EstablishmentOfTilap_1970]]
 
+## Kelly Tank
+
+### Summary
+Kelly Tank (Kelly) is a study site at about 7,200 feet, with a field heaving classification of moderate. Its soils were roughly one-half to two-thirds sand, and the model gave a negative predicted heaving value for its 0 to 2.5 cm layer.
+
+### Context
+> This USDA Forest Service Rocky Mountain Forest and Range Experiment Station research note (RM-295, August 1975) by L. J. Heidmann reports a 1971 study of the [[Frost Heaving]] susceptibility of six northern Arizona forest soils. Fifteen soil variables were tested in a [[Stepwise Regression]]. The...
+> -- *[[PredictingFrostHeavingSuscepti_16596]]*
+
+### Mentioned In
+- [[PredictingFrostHeavingSuscepti_16596]]
+
+## Kelp Bass
+
+### Summary
+Kelp bass is a nearshore reef fish of the California coast that supports a recreational fishery. This bibliography reports that a size limit of 10½ inches was imposed in 1953 and raised to 12 inches by 1959. It notes that 1961 and 1962 catches compared favorably with better postwar years.
+
+### Context
+> This document is the third supplement to an annotated bibliography compiled by the State of California, Department of Fish and Game, and submitted to the Legislature under House Resolution No. 70 (1959 Regular Session). It catalogues research publications, bulletins, popular articles and short...
+> -- *[[AnAnnotatedBibliographyOfResea_14741]]*
+
+### Mentioned In
+- [[AnAnnotatedBibliographyOfResea_14741]]
+
 ## Kelp Forest
 <!-- fm: auto_enriched: true -->
 
@@ -924,9 +990,13 @@ Kemp's Ridley Sea Turtle (Lepidochelys kempii) is a marine turtle species found 
 > This document is a comprehensive regulatory compilation from the U.S. Code of Federal Regulations (Title 50, Part 17) listing all species of wildlife and plants determined by the [[U.S. Fish and Wildlife Service]] and [[National Marine Fisheries Service]] to be Endangered or Threatened under the...
 > -- *[[PartEndangeredAndThreatenedWil_11597]]*
 
+> Public Law 100-478, enacted October 7, 1988 by the 100th Congress (102 STAT. 2306–2315), amends the [[Endangered Species Act]] of 1973 and authorizes appropriations for fiscal years 1988 through 1992. The law revises definitions, [[Recovery Plans]] requirements, monitoring of recovered species,...
+> -- *[[EndangeredSpeciesActAmendments_13217]]*
+
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_13327]]
 - [[PartEndangeredAndThreatenedWil_11597]]
+- [[EndangeredSpeciesActAmendments_13217]]
 
 ## Kendall And Behnke 1984
 <!-- fm: auto_enriched: true -->
@@ -1012,6 +1082,18 @@ Kennedy was a researcher who collaborated with Mihursky on temperature effects i
 
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+
+## Kenneth V. Rosenberg
+
+### Summary
+Kenneth V. Rosenberg is a co-author of Birds Of The Lower Colorado River Valley (1991) with Ohmart, Hunter, and Anderson. The source cites his work as part of the research base for its bird-decline findings.
+
+### Context
+> This Fall 1992 [[Arizona State University]] (ASU) feature, the second part of a series on environmental abuse, reports on how water management in the arid West is driving the loss of native fishes, birds, and riparian habitat. ASU researchers [[W. L. Minckley]], [[Michael E. Douglas]], and [[Robert...
+> -- *[[FaunaFarewellLegacyOfEnvironme_12623]]*
+
+### Mentioned In
+- [[FaunaFarewellLegacyOfEnvironme_12623]]
 
 ## Kenney Reservoir
 <!-- fm: auto_enriched: true -->
@@ -1191,9 +1273,13 @@ The Kentucky Bass is a centrarchid (sunfish family) species that was studied as 
 > This 1955 study by the [[Kentucky Department of Fish and Wildlife Resources]] examined the impact of intensive fishing pressure during the opening week of three newly stocked state-owned lakes. [[Largemouth Bass]] (*Micropterus salmoides*) were tagged with monel strap jaw tags prior to opening, and...
 > -- *[[ResultsOfAnOpeningWeekCreelCen_17745]]*
 
+> This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
+> -- *[[TheInfluenceOfCertainEnvironme_20701]]*
+
 ### Mentioned In
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
+- [[TheInfluenceOfCertainEnvironme_20701]]
 
 ## Kentucky Drainages
 <!-- fm: auto_enriched: true -->
@@ -1645,11 +1731,15 @@ The Kiamichi River is a stream system in southeastern Oklahoma that has been stu
 > This Federal Register document (Vol. 56, No. 205, October 23, 1991) announces two final rules listing endangered species: the [[Ouachita Rock Pocketbook]] (*Arkansia wheeleri*, syn. *Arcidens wheeleri*), a freshwater mussel, and the [[Razorback Sucker]] (*Xyrauchen texanus*), a native fish of the...
 > -- *[[EndangeredAndThreatenedWildlif_11592]]*
 
+> This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
+> -- *[[OklahomaFishesWithDistribution_16567]]*
+
 ### Mentioned In
 - [[FactorAnalysisOfSpeciesAssocia_15740]]
 - [[FishCommunityStructureAndStabi_15186]]
 - [[FishFaunalBreaksAndStreamOrder_1986]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+- [[OklahomaFishesWithDistribution_16567]]
 
 ## Kiamichi Shiner
 <!-- fm: auto_enriched: true -->
@@ -1877,9 +1967,13 @@ The Kingfisher (Streptoceyle alcyon) is a fish-eating bird that serves as the de
 > This 1962 conference paper examines the relationship between freshwater fisheries and nature conservation in developed countries, particularly Britain and North America. The author identifies four main categories of freshwater fishing: commercial fishing for species like [[Salmon]] (*Salmo salar*)...
 > -- *[[TheInteractionBetweenFreshwate_20227]]*
 
+> This Wisconsin Conservation Department fishery biology bulletin, written by biologist Jacob H. Fischthal, answers common angler questions about the four main flesh- and organ-inhabiting "grubs" found in fishes across Wisconsin lakes and streams. It covers the [[Yellow Grub]] (*Clinostomum...
+> -- *[[GrubsInFishes_16402]]*
+
 ### Mentioned In
 - [[FishParasites_20804]]
 - [[TheInteractionBetweenFreshwate_20227]]
+- [[GrubsInFishes_16402]]
 
 ## Kings River
 
@@ -2148,9 +2242,13 @@ Kiyi (Coregonus kiyi) is a deepwater cisco from the Salmonidae family that grows
 > This study examined the chemical characteristics of 48 farm ponds in central [[New York]] during 1953-1954, documenting substantial chemical diversity across these artificial impoundments. Total alkalinity ranged from 5 to 226 p.p.m., with concentrations varying considerably within individual ponds...
 > -- *[[ChemicalCharacteristicsOfNewYo_18778]]*
 
+> This 1961 study by [[Lam Nam Muse]] tested the dietary protein level needed for optimum growth of [[Channel Catfish]] (*Ictalurus punctatus*). Eight purified diets, combining four protein levels (6.3, 15.8, 25.3 and 34.8 percent) with two [[Carbohydrate Levels]] (9.3 and 18.6 percent), were fed to...
+> -- *[[TheProteinRequirementOfChannel_19477]]*
+
 ### Mentioned In
 - [[EstimationOfBluegillLepomisMac_1974]]
 - [[ChemicalCharacteristicsOfNewYo_18778]]
+- [[TheProteinRequirementOfChannel_19477]]
 
 ## Klamath
 
@@ -2179,8 +2277,13 @@ The Klamath and North Coast Province encompasses the Klamath River, Trinity Rive
 ## Klamath Basin
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is a 1929 taxonomic check-list of freshwater fishes recorded in [[Oregon]] and [[Washington]] and adjacent regions. It was compiled by [[Leonard P. Schultz]] from published literature, supplemented by a few unpublished records of introduced species observed by D. R. Crawford and the...
+> -- *[[ChecklistOfTheFreshwaterFishes_20621]]*
+
 ### Mentioned In
 - [[MaintenanceOfJuvenileShortnose_1987]]
+- [[ChecklistOfTheFreshwaterFishes_20621]]
 
 ## Klamath Basin Sucker Working Group
 <!-- fm: auto_enriched: true -->
@@ -2598,6 +2701,15 @@ Koberg and Ford are researchers who conducted similar work on destratification a
 ### Mentioned In
 - [[WaterQualityInImpoundmentsAndM_14387]]
 
+## Koch and Riddle
+
+### Context
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
+### Mentioned In
+- [[GeneralReviewsAndSummariesTrop_17993]]
+
 ## Koch Cui-Ui Hatchery
 <!-- fm: auto_enriched: true -->
 
@@ -2673,6 +2785,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > Field observations from the fall of 1949 examined whether [[Kokanee]] (*Oncorhynchus nerka kennerlyi*) spawning on the shore of [[Donner Lake]], Nevada County, California, could produce viable offspring. Spawning began in early November 1949. Nests were exposed by a severe drawdown in December, and...
 > -- *[[NotesOnKokaneeSpawningInDonner_12527]]*
 
+> This document is the third supplement to an annotated bibliography compiled by the State of California, Department of Fish and Game, and submitted to the Legislature under House Resolution No. 70 (1959 Regular Session). It catalogues research publications, bulletins, popular articles and short...
+> -- *[[AnAnnotatedBibliographyOfResea_14741]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -2688,6 +2803,7 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[KokaneeInCalifornia_18108]]
 - [[ReProposalIntroductionOfRainbo_13753]]
 - [[NotesOnKokaneeSpawningInDonner_12527]]
+- [[AnAnnotatedBibliographyOfResea_14741]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -2750,6 +2866,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This 1984 reference document from the [[Nevada Department of Wildlife]] provides a comprehensive inventory of Nevada's native and introduced fish species, documenting the state's unique desert aquatic fauna and conservation challenges. Nevada harbors 61 native fish species and subspecies across...
 > -- *[[FishesOfNevada_15993]]*
 
+> This U.S. Fish and Wildlife Service, Bureau of Commercial Fisheries leaflet (Fishery Leaflet 527, September 1961, by Lola T. Dees) describes the brine shrimp, *Artemia salina*, a crustacean that lives only in high-salinity water. It covers the species' taxonomy, natural history, reproduction, and...
+> -- *[[BrineShrimp_12752]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -2774,6 +2893,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[IntroductionOfTheBonnevilleCis_18820]]
 - [[ThirdWorkshopOnEcologyOfPumpst_12641]]
 - [[FishesOfNevada_15993]]
+- [[BrineShrimp_12752]]
 
 ## Kolkwitz
 
@@ -3167,6 +3287,15 @@ The Kunde Allotment is one of the five grazing allotments shown on the watershed
 ### Mentioned In
 - [[ReRedrockCanyonActionPlanCoron_12858]]
 
+## Kunkel
+
+### Context
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
+### Mentioned In
+- [[GeneralReviewsAndSummariesTrop_17993]]
+
 ## Kupffer's Vesicle
 
 ### Summary
@@ -3212,6 +3341,18 @@ The Kuro Shiwo is a warm ocean current that enters the Sea of Japan through Chos
 
 ### Mentioned In
 - [[PreliminaryReportOnFishRemains_18753]]
+
+## Kwagunt Rapid
+
+### Summary
+Kwagunt Rapid is a whitewater rapid on the Colorado River at river mile 56 in Grand Canyon. In this source it marks the upstream end of the study area, which runs from Kwagunt Rapid to Diamond Creek (RM 226) for humpback chub work begun in 1990.
+
+### Context
+> This interim progress report, prepared for the [[Adaptive Management Work Group]] (ACT) meeting of April 19, 1991, summarizes the first seven months of a field study of [[Humpback Chub]] in the [[Grand Canyon]]. The contractor, [[Bio/West Inc]], was awarded the contract on September 1, 1990, and...
+> -- *[[CharacterizationOfTheLifeHisto_13648]]*
+
+### Mentioned In
+- [[CharacterizationOfTheLifeHisto_13648]]
 
 ## Kyowa A-400
 

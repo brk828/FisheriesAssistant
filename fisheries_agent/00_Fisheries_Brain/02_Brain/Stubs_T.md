@@ -298,8 +298,13 @@ In fish science literature, "Table 1" typically refers to a foundational data ta
 ## Table I
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
+> -- *[[TheInfluenceOfCertainEnvironme_20701]]*
+
 ### Mentioned In
 - [[SoundDiscriminationByMalesOfTw_12764]]
+- [[TheInfluenceOfCertainEnvironme_20701]]
 
 ## Table I - Colorado Squawfish Data
 <!-- fm: auto_enriched: true -->
@@ -338,6 +343,18 @@ In fish science literature, "Table 1" typically refers to a foundational data ta
 
 ### Mentioned In
 - [[StationProfileOfNorforkNationa_19528]]
+
+## Table VI
+
+### Summary
+The table in the source listing annual maximum water elevations for Norris Reservoir from 1937 to 1949, used to test the correlation between water level and sauger first-year growth (r = 0.40).
+
+### Context
+> This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
+> -- *[[TheInfluenceOfCertainEnvironme_20701]]*
+
+### Mentioned In
+- [[TheInfluenceOfCertainEnvironme_20701]]
 
 ## Taborsky
 <!-- fm: auto_enriched: true -->
@@ -1206,6 +1223,9 @@ The Tarahumara are an indigenous community in the Sierra Madre Occidental of Chi
 > This memorandum documents a preliminary fisheries survey of stock-watering tanks at [[Buenos Aires National Wildlife Refuge]] in southern Arizona, conducted in December 1985 and April 1986. The survey assessed 45 tanks to evaluate their potential as supplemental growout habitats for endangered fish...
 > -- *[[PreliminaryFisheriesSurveyOfAq_16481]]*
 
+> This March 1988 document is the [[Arizona Nongame Strategic Plan]] (1987-1991), prepared under Federal Aid Project FW-11-R by the [[Arizona Game and Fish Department]] (AGFD). It sets policy and five-year goals for the Department's [[Nongame and Endangered Wildlife Program]], which is run through...
+> -- *[[ArizonaNongameStrategicPlans_18278]]*
+
 ### Mentioned In
 - [[AttachedDraftListOfSpeciesAssi_14772]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -1213,6 +1233,7 @@ The Tarahumara are an indigenous community in the Sierra Madre Occidental of Chi
 - [[RePreliminaryFisheriesSurveyOf_13711]]
 - [[ProjectsTakeStaffToTheField_13221]]
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
+- [[ArizonaNongameStrategicPlans_18278]]
 
 ## Tarantula Hawk
 
@@ -1226,9 +1247,13 @@ Tarantula Hawks are spider wasps mentioned as part of Arizona's stinging insect 
 > This issue of *Wildlife Views* (Arizona Game and Fish Department magazine) contains three main items. The first is a short popular account of stinging and biting insects of Arizona, covering [[Fire Ant]], [[Harvester Ant]], [[Velvet Ant]], [[Paper Nest Wasp]], and [[Honeybee]] stings and first-aid...
 > -- *[[NativeArizonaFishesPartIiiChub_12635]]*
 
+> This Arizona Wildlife Views compilation contains three main parts. The principal item is the third installment of the "Native Arizona Fishes" series on chubs (genus *Gila*, family Cyprinidae) by John N. Rinne and W. L. Minckley of the Department of Zoology, Arizona State University, Tempe. It...
+> -- *[[NativeArizonaFishesPartIiichub_18578]]*
+
 ### Mentioned In
 - [[PoisonousInsectsOfArizona_12634]]
 - [[NativeArizonaFishesPartIiiChub_12635]]
+- [[NativeArizonaFishesPartIiichub_18578]]
 
 ## Target Species
 <!-- fm: auto_enriched: true -->
@@ -1853,9 +1878,13 @@ Teiidae is the family of whiptail lizards documented across the reservoir sites.
 > This 1996 proposal by the Arizona Game and Fish Department outlines a plan to re-establish native fish populations of [[Longfin Dace]] (*Agosia chrysogaster*) and [[Desert Sucker]] (*Catostomus clarki*) into [[Arnett Creek]] and [[Telegraph Canyon]] in the [[Gila River]] basin. The project involves...
 > -- *[[AProposalToReestablishDesertSu_20730]]*
 
+> This USDA Forest Service Environmental Assessment (EA), dated April 16, 1996, evaluates a proposal to re-establish a native fish community in [[Arnett Creek]] and [[Telegraph Canyon]] on the [[Tonto National Forest]] (Globe Ranger District), in partnership with the [[Arizona Game And Fish...
+> -- *[[EnvironmentalAssessmentarnettC_11509]]*
+
 ### Mentioned In
 - [[FindingOfNoSignificantImpactAr_11493]]
 - [[AProposalToReestablishDesertSu_20730]]
+- [[EnvironmentalAssessmentarnettC_11509]]
 
 ## Teleost Eye Physiology
 <!-- fm: auto_enriched: true -->
@@ -2272,6 +2301,9 @@ Tenkiller Reservoir is an Oklahoma impoundment notable in fisheries science as a
 > This taxonomic description presents *[[Fallicambarus hortoni]]*, a new species of burrowing crayfish discovered in [[McNairy County]], [[Tennessee]]. The species was collected from shallow burrows in sandy soil near a tributary of [[Cypress Creek]] in the [[Hatchie River]] drainage system. Based on...
 > -- *[[ANewCrayfishOfTheGenusFallicam_20420]]*
 
+> This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
+> -- *[[TheInfluenceOfCertainEnvironme_20701]]*
+
 ### Mentioned In
 - [[AnOccurrenceOfBranchiuraSowerb_16007]]
 - [[StationProfileOfErwi_1994]]
@@ -2279,6 +2311,7 @@ Tenkiller Reservoir is an Oklahoma impoundment notable in fisheries science as a
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[ANewCrayfishFromTheNashvilleBa_20416]]
 - [[ANewCrayfishOfTheGenusFallicam_20420]]
+- [[TheInfluenceOfCertainEnvironme_20701]]
 
 ## Tennessee Game and Fish Commission
 
@@ -2289,8 +2322,12 @@ The Tennessee Game and Fish Commission was a state agency whose representative, 
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This publication, compiled by John M. Stubbs in Nashville, Tennessee (March 1966), summarizes a questionnaire sent to all U.S. states and nine Canadian provinces on how fish killed by pollution are valued in monetary terms, whether legal or out-of-court damages were collected, and what each...
+> -- *[[MonetaryValuesOfFish_14652]]*
+
 ### Mentioned In
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[MonetaryValuesOfFish_14652]]
 
 ## Tennessee River
 <!-- fm: auto_enriched: true -->
@@ -2430,6 +2467,9 @@ The Tennessee Valley Authority (TVA) is a major federal agency responsible for m
 > This document is a reference compendium of length-weight data for 95 fish species from Alabama, compiled by [[Wayne E. Swingle]] from river, river impoundment, and pond surveys conducted between 1949 and 1964. The data were gathered by the fisheries staffs of [[Auburn University Agricultural...
 > -- *[[LengthweightRelationshipsOfAla_15123]]*
 
+> This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
+> -- *[[TheInfluenceOfCertainEnvironme_20701]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -2440,6 +2480,7 @@ The Tennessee Valley Authority (TVA) is a major federal agency responsible for m
 - [[StationProfileOfNatchitochesNa_1993]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[LengthweightRelationshipsOfAla_15123]]
+- [[TheInfluenceOfCertainEnvironme_20701]]
 
 ## Tennessee Valley Authority (Tva)
 <!-- fm: auto_enriched: true -->
@@ -2828,8 +2869,13 @@ Teruya Uyeno is a co-author of this systematic revision of the genus Gila in Nor
 ## Test Netting
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1957 article, reprinted from *Industrial Wastes* and written by [[Vernon W. Cole]], describes how [[Acid Mine Drainage]] from bituminous coal mines damaged [[Lake Alma]] in southeastern Ohio. Acid inflow caused a decline and loss of several fish species, including [[Gizzard Shad]], [[Carp]],...
+> -- *[[LimeTreatmentOfLakeReducesAcid_17119]]*
+
 ### Mentioned In
 - [[APowerPackForWinterSurveys_16037]]
+- [[LimeTreatmentOfLakeReducesAcid_17119]]
 
 ## Testosterone
 
@@ -3226,6 +3272,22 @@ The Texas Softshell is an introduced turtle species documented at the reservoir 
 
 ### Mentioned In
 - [[RedescriptionAndAssignmentToTh_17755]]
+
+## Texas Wildrice
+
+### Summary
+Zizania texana, a federally endangered aquatic grass restricted to about 2.4 km of the San Marcos River headwaters within San Marcos city limits. The source reports its abundance declined sharply, with no plants found in Spring Lake in 1976 and no recent seedlings observed in the native habitat.
+
+### Context
+> This draft recovery plan, prepared by the [[San Marcos Recovery Team]] for the U.S. Fish and Wildlife Service, addresses four federally listed species endemic to the [[San Marcos River]] ecosystem: the [[San Marcos Gambusia]], the [[Fountain Darter]], the [[San Marcos Salamander]], and [[Texas...
+> -- *[[SanMarcosRiver_13312]]*
+
+> This U.S. Fish and Wildlife Service recovery plan, prepared by the [[San Marcos Recovery Team]], addresses four federally listed species of the [[San Marcos River Ecosystem]]: the [[San Marcos Gambusia]] (*Gambusia georgei*), the [[Fountain Darter]] (*Etheostoma fonticola*), the [[San Marcos...
+> -- *[[TheSanMarcosRecoveryPlanForSan_15776]]*
+
+### Mentioned In
+- [[SanMarcosRiver_13312]]
+- [[TheSanMarcosRecoveryPlanForSan_15776]]
 
 ## Texiweckelia
 <!-- fm: auto_enriched: true -->
@@ -3658,6 +3720,12 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This document is not an ichthyological or aquatic study. It is an administrative packet from the [[Ecological Society of America]] (ESA) that covers the [[Vegetation Classification Panel]]'s scope of work for 1996-97, its July 1996 annual report, and a [[Federal Geographic Data Committee]] (FGDC)...
 > -- *[[VegetationPanelsScopeOfWork_16204]]*
 
+> This March 1988 document is the [[Arizona Nongame Strategic Plan]] (1987-1991), prepared under Federal Aid Project FW-11-R by the [[Arizona Game and Fish Department]] (AGFD). It sets policy and five-year goals for the Department's [[Nongame and Endangered Wildlife Program]], which is run through...
+> -- *[[ArizonaNongameStrategicPlans_18278]]*
+
+> This document is a set of planning correspondence for the [[Muleshoe Cooperative Management Area]] (CMA) in southeastern Arizona. It contains three parts: a December 10, 1993 letter from the [[Bureau of Land Management]] (BLM) reinitiating planning for the [[Muleshoe Ecosystem Management Plan]]...
+> -- *[[MuleshoeCooperativeManagementA_19869]]*
+
 ### Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -3725,6 +3793,8 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[UpdateOnActivities_20797]]
 - [[TheVertebratesOfSanBernardinoR_12717]]
 - [[VegetationPanelsScopeOfWork_16204]]
+- [[ArizonaNongameStrategicPlans_18278]]
+- [[MuleshoeCooperativeManagementA_19869]]
 
 ## The Nature Conservancy Hassayampa Preserve
 
@@ -4127,6 +4197,9 @@ A thermocline is a distinct layer in a stratified water body where temperature c
 > - **Physical Habitat**: Small, deep, steep-sided lakes (34–72 ft max depth) with minimal shoal area (4–15%). Bottom substrates ranged from sand/peat (South Twin, North Twin, West Lost) to marl/peat (Lost, Hemlock, Section Four). - **Water Chemistry Gradient**: Lakes exhibited a wide natural range...
 > -- *[[SomeConsequencesOfAddingFertil_13454]]*
 
+> This report, Report No. 815 by C. J. D. Brown of the [[Institute for Fisheries Research]] ([[Michigan Department of Conservation]]), is a small-scale fisheries survey of [[Hopkins Lake]], a 7.9-acre lake at the south edge of [[Owosso]] in [[Shiawassee County]], Michigan. It was reprinted in part...
+> -- *[[FisheriesLakeSurveyASmallscale_12998]]*
+
 ### Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -4134,6 +4207,7 @@ A thermocline is a distinct layer in a stratified water body where temperature c
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[SomeConsequencesOfAddingFertil_13454]]
 - [[SomeObservationsOnLimnologyAnd_1954]]
+- [[FisheriesLakeSurveyASmallscale_12998]]
 
 ## Thermocline Dynamics
 <!-- fm: auto_enriched: true -->
@@ -4827,6 +4901,15 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This document is a 1989 draft proposal and supporting correspondence from the Utah Division of Wildlife Resources, prepared by the [[Lake Powell]] Fisheries Project (A. Wayne Gustaveson and Bruce Bonebrake), to introduce [[Rainbow Smelt]] (*Osmerus mordax*) into [[Lake Powell]] as a forage fish....
 > -- *[[DraftProposalIntroductionOfRai_17849]]*
 
+> This document is a pair of 1957 intraoffice memoranda from the [[California Department of Fish and Game]] (signed G. W. McCammon, Fisheries Biologist II, addressed to J. B. Kimsey). They report field observations of [[Threadfin Shad]] (TFS) in the [[Colorado River]] system, covering [[Lake Havasu]]...
+> -- *[[TfsObservationsOnTheColoradoRi_12246]]*
+
+> This technical proposal, dated April 14, 1992, was prepared by [[BIO/WEST Inc]] for the [[Hualapai Tribe]] Wildlife Management Department. It requests a fishery investigation of the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Pearce Ferry]] (RM 286) to monitor the effects of [[Interim...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13621]]*
+
+> This document is the third supplement to an annotated bibliography compiled by the State of California, Department of Fish and Game, and submitted to the Legislature under House Resolution No. 70 (1959 Regular Session). It catalogues research publications, bulletins, popular articles and short...
+> -- *[[AnAnnotatedBibliographyOfResea_14741]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -4951,6 +5034,9 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[RotenoneInFishPondManagement_12549]]
 - [[TheBioticCommunitiesOfSouthern_12880]]
 - [[DraftProposalIntroductionOfRai_17849]]
+- [[TfsObservationsOnTheColoradoRi_12246]]
+- [[TheEffectsOfInterimFlowsFromGl_13621]]
+- [[AnAnnotatedBibliographyOfResea_14741]]
 
 ## Threadfin Shad Introduction
 <!-- fm: auto_enriched: true -->
@@ -5093,6 +5179,18 @@ The Threatened Coachella Valley Fringe-toed Lizard is a Federally-listed upland 
 ### Mentioned In
 - [[ApplicationForScientificCollec_13805]]
 
+## Threatened Native Wildlife List
+
+### Summary
+Arizona's state list of native species considered threatened, first issued in 1982. The plan notes it includes 26 native fish taxa, 9 raptors, and many nonraptorial birds, and that lowland riparian species make up a large share of its non-raptorial birds.
+
+### Context
+> This March 1988 document is the [[Arizona Nongame Strategic Plan]] (1987-1991), prepared under Federal Aid Project FW-11-R by the [[Arizona Game and Fish Department]] (AGFD). It sets policy and five-year goals for the Department's [[Nongame and Endangered Wildlife Program]], which is run through...
+> -- *[[ArizonaNongameStrategicPlans_18278]]*
+
+### Mentioned In
+- [[ArizonaNongameStrategicPlans_18278]]
+
 ## Threatened Species
 <!-- fm: auto_enriched: true -->
 
@@ -5182,6 +5280,18 @@ Three Forks is a location in Arizona where a Fontelicella species (an endemic de
 
 ### Mentioned In
 - [[CurrentStatusOfEndangeredThrea_12695]]
+
+## Three Forks Cave
+
+### Summary
+A cave in Adair County, Oklahoma, and one of the cave records for two of the new species, Asellus ancylus and Asellus steevesi. Material from this cave was collected by Jeffery H. Black on 1 August 1970.
+
+### Context
+> This paper, published in the *Proceedings of the Biological Society of Washington* (Vol. 84, No. 57, pp. 489-500, 29 February 1972), by [[Laurence E. Fleming]] of Virginia Polytechnic Institute and State University, describes four new species of troglobitic asellid isopods from the United States:...
+> -- *[[FourNewSpeciesOfTroglobiticAse_16463]]*
+
+### Mentioned In
+- [[FourNewSpeciesOfTroglobiticAse_16463]]
 
 ## Three Forks Hydrobioid
 
@@ -5711,6 +5821,18 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[ConservationOfNativeFreshwater_15444]]
 - [[CodeOfFederalRegulationsPartEn_11616]]
 
+## Tie Park
+
+### Summary
+Tie Park (TP) is one of the six northern Arizona study sites, at about 7,400 feet elevation. Its surface soil had essentially no sand, and it had the highest montmorillonite content with Beaverhead Flat, and it heaved strongly in laboratory tests.
+
+### Context
+> This USDA Forest Service Rocky Mountain Forest and Range Experiment Station research note (RM-295, August 1975) by L. J. Heidmann reports a 1971 study of the [[Frost Heaving]] susceptibility of six northern Arizona forest soils. Fifteen soil variables were tested in a [[Stepwise Regression]]. The...
+> -- *[[PredictingFrostHeavingSuscepti_16596]]*
+
+### Mentioned In
+- [[PredictingFrostHeavingSuscepti_16596]]
+
 ## Tiemeier
 
 ### Summary
@@ -5816,6 +5938,9 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 > This document is the summary statement of a first, rapidly executed survey of [[Bait Dealers]] along the [[Lower Colorado River]], from [[Lake Mead]] to the U.S.-Mexican Boundary. The survey was coordinated across [[California]], [[Arizona]], and [[Nevada]]. The author, W. L. Minckley of [[Arizona...
 > -- *[[LowerColoradoRiverBaitIndustry_18581]]*
 
+> This document is a compilation of materials for a West Turkey Creek (WTC) watershed project in Cochise County, Arizona. It contains (1) a U.S. Fish and Wildlife Service (USFWS) Environmental Assessment/Habitat Conservation Plan (EA/HCP) for a 25-year [[Section 10(a)(1)(B) Incidental Take Permit]]...
+> -- *[[ApplicationForWestTurkeyCreekW_12162]]*
+
 ### Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[CommissionPresentationOnCaptiv_1994_12_08]]
@@ -5834,6 +5959,7 @@ The Tiger Salamander (*Ambystoma tigrinum*) is an aquatic amphibian whose larval
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
 - [[LetterRequestingLetterOfRecomm_19844]]
 - [[LowerColoradoRiverBaitIndustry_18581]]
+- [[ApplicationForWestTurkeyCreekW_12162]]
 
 ## Tiger Salamanders
 
@@ -5993,6 +6119,9 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 > This document is a preliminary dichotomous identification key to the [[Cichlidae]] (cichlid fishes) of Florida, prepared by William F. Smith-Vaniz and James D. Williams of the National Fisheries Research Center, National Biological Survey, Gainesville, Florida. The key was circulated to selected...
 > -- *[[KeyToCichlidFishesOfFlorida_21211]]*
 
+> This summary report from the [[U.S. Fish And Wildlife Service]] [[Bureau Of Sport Fisheries And Wildlife]] (Branch of Fishery Management Services, Phoenix, Arizona) describes the 1964 fishery management program on the [[San Carlos Apache Indian Reservation]], Arizona. Under a 1958 agreement with...
+> -- *[[SummaryReportSanCarlosApacheIn_19597]]*
+
 ### Mentioned In
 - [[AlamoLakeTilapiaSurveyJune_1997_06_26]]
 - [[AnnualReportArizonaCooperative_1966]]
@@ -6052,6 +6181,7 @@ Tilapia refers to a genus of freshwater and brackish-water cichlid fishes native
 - [[RazorbackSuckerMonitoringStudy_12704]]
 - [[LengthweightRelationshipsOfAla_15123]]
 - [[KeyToCichlidFishesOfFlorida_21211]]
+- [[SummaryReportSanCarlosApacheIn_19597]]
 
 ## Tilapia Aurea
 <!-- fm: auto_enriched: true -->
@@ -6180,6 +6310,9 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This 1955 thesis excerpt, prepared by H. D. Ketry of the [[Alabama Department of Conservation]] and submitted to the Alabama Polytechnic Institute, evaluates the exotic cichlid [[Tilapia Mossambica]] as a candidate for [[Farm Pond Stocking]] in the southeastern United States. In an 18-week concrete...
+> -- *[[PreliminaryStudiesOnTilapiaMos_17926]]*
+
 ### Mentioned In
 - [[ComparativeEvaluationOfTwoTila_15110]]
 - [[EstablishmentOfTilap_1970]]
@@ -6193,6 +6326,7 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 - [[ExoticFishesOfTheGenusTilapiaP_15612]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[PreliminaryStudiesOnTilapiaMos_17926]]
 
 ## Tilapia Nilotica
 <!-- fm: auto_enriched: true -->
@@ -6963,8 +7097,12 @@ Tongue Point is a location in the Columbia River where adult returning Chinook s
 > This chapter, drawn from zooarchaeological analysis of over 47,000 faunal bones recovered from more than 100 prehistoric habitation, ceremonial, and midden sites in the [[Tonto Basin]] (Arizona), documents a small but ecologically significant assemblage of fish remains. The fish component (Table ...
 > -- *[[FaunalResourceUseInThePrehisto_17343]]*
 
+> This Arizona Game and Fish Department (AGFD) technical report, Nongame and Endangered Wildlife Program Technical Report 112 (June 1997), concludes the [[Statewide Riparian Inventory and Mapping]] (SRIM) project by applying remote sensing to riparian areas along intermittent streams. The study...
+> -- *[[RemoteSensingMappingOfArizonaI_14412]]*
+
 ### Mentioned In
 - [[FaunalResourceUseInThePrehisto_17343]]
+- [[RemoteSensingMappingOfArizonaI_14412]]
 
 ## Tonto Creek
 <!-- fm: auto_enriched: true -->
@@ -7000,6 +7138,9 @@ Tongue Point is a location in the Columbia River where adult returning Chinook s
 > This article documents the native livebearer fishes of Arizona, specifically two subspecies of *[[Poeciliopsis occidentalis]]*: the [[Gila Topminnow]] and the [[Sonora Topminnow]]. The [[Gila Topminnow]] has experienced catastrophic population decline from widespread distribution throughout the...
 > -- *[[NativeArizonaFishesPartLivebea_18575]]*
 
+> This report, prepared for the [[U.S. Fish And Wildlife Service]] Albuquerque office by the Arizona Fishery Resources Office, summarizes stream surveys for the threatened [[Loach Minnow]] (*Rhinichthys cobitis*) in the lower reaches of [[Tonto Creek]] and [[Big Bonito Creek]] on the [[Fort Apache...
+> -- *[[SurveysForLoachMinnowInBigBoni_20266]]*
+
 ### Mentioned In
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -7010,6 +7151,7 @@ Tongue Point is a location in the Columbia River where adult returning Chinook s
 - [[DraftEnvironmentalAssessmentDe_11688]]
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[NativeArizonaFishesPartLivebea_18575]]
+- [[SurveysForLoachMinnowInBigBoni_20266]]
 
 ## Tonto Creek State Hatchery
 <!-- fm: auto_enriched: true -->
@@ -7030,6 +7172,18 @@ Tongue Point is a location in the Columbia River where adult returning Chinook s
 
 ### Mentioned In
 - [[StationProfileOfTheP_1991_11_28]]
+
+## Tonto Lake
+
+### Summary
+A reservoir on Tonto Creek on the Fort Apache Indian Reservation in Arizona, constructed in 1941 with its dam modified in the early 1960s. According to the report it does not regulate runoff, and it was historically stocked with rainbow and cutthroat trout and is currently managed with rainbow trout and Apache trout.
+
+### Context
+> This report, prepared for the [[U.S. Fish And Wildlife Service]] Albuquerque office by the Arizona Fishery Resources Office, summarizes stream surveys for the threatened [[Loach Minnow]] (*Rhinichthys cobitis*) in the lower reaches of [[Tonto Creek]] and [[Big Bonito Creek]] on the [[Fort Apache...
+> -- *[[SurveysForLoachMinnowInBigBoni_20266]]*
+
+### Mentioned In
+- [[SurveysForLoachMinnowInBigBoni_20266]]
 
 ## Tonto National Forest
 <!-- fm: auto_enriched: true -->
@@ -7077,6 +7231,9 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 > This technical report documents provisional extirpation determinations for [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites in Arizona surveyed during the 1995-96 field season. Since 1981, the [[Arizona Game and Fish Department]] (AGFD), [[Bureau of Land...
 > -- *[[GilaTopminnowSitesInArizonaPro_19668]]*
 
+> This USDA Forest Service Environmental Assessment (EA), dated April 16, 1996, evaluates a proposal to re-establish a native fish community in [[Arnett Creek]] and [[Telegraph Canyon]] on the [[Tonto National Forest]] (Globe Ranger District), in partnership with the [[Arizona Game And Fish...
+> -- *[[EnvironmentalAssessmentarnettC_11509]]*
+
 ### Mentioned In
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
 - [[FindingOfNoSignificantImpactAr_11493]]
@@ -7100,6 +7257,19 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 - [[BiologicalEvaluationOfTheAppro_15074]]
 - [[AProposalToReestablishDesertSu_20730]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
+- [[EnvironmentalAssessmentarnettC_11509]]
+
+## Tonto National Forest Land Management Plan
+
+### Summary
+The forest-wide land management plan for the Tonto National Forest, which this source cites as direction that warmwater, non-game streams are to be managed to support Gila sucker (Desert Sucker) and Longfin Dace. The Arnett Creek project is described as implementing that direction. The area falls within Management Areas 2E and 2F of the plan.
+
+### Context
+> This USDA Forest Service Environmental Assessment (EA), dated April 16, 1996, evaluates a proposal to re-establish a native fish community in [[Arnett Creek]] and [[Telegraph Canyon]] on the [[Tonto National Forest]] (Globe Ranger District), in partnership with the [[Arizona Game And Fish...
+> -- *[[EnvironmentalAssessmentarnettC_11509]]*
+
+### Mentioned In
+- [[EnvironmentalAssessmentarnettC_11509]]
 
 ## Tonto National Monument
 <!-- fm: auto_enriched: true -->
@@ -7536,6 +7706,18 @@ Tournament best practices are relevant given that tournament translocation was s
 ### Mentioned In
 - [[StatusAssesmentOfAShoalBassPop_2012]]
 
+## Tow Netting
+
+### Summary
+A sampling method in which a net is towed through the water to collect small organisms. In this source, it was used to collect larval threadfin shad in Lake Havasu on September 3, 1957, at 85°F, and it produced no larvae that day.
+
+### Context
+> This document is a pair of 1957 intraoffice memoranda from the [[California Department of Fish and Game]] (signed G. W. McCammon, Fisheries Biologist II, addressed to J. B. Kimsey). They report field observations of [[Threadfin Shad]] (TFS) in the [[Colorado River]] system, covering [[Lake Havasu]]...
+> -- *[[TfsObservationsOnTheColoradoRi_12246]]*
+
+### Mentioned In
+- [[TfsObservationsOnTheColoradoRi_12246]]
+
 ## Townsend Current
 <!-- fm: auto_enriched: true -->
 
@@ -7577,6 +7759,9 @@ Toxaphene is a chlorinated camphene-based insecticide that was employed as a pis
 > This 1961 special report by Charles L. Sowards of the Bureau of Sport Fisheries and Wildlife addresses safety protocols for fishery biologists using chemical compounds and electrical equipment in field operations. The document systematically reviews the toxicology of [[Piscicides]], [[Herbicides]],...
 > -- *[[SafetyAsRelatedToTheUseOfChemi_11812]]*
 
+> This Michigan Department of Conservation pamphlet, written by [[Frank Hooper]] of the [[Institute for Fisheries Research]], gives practical guidance for eradicating unwanted fish from ponds, lakes, and streams using [[Rotenone]]-based toxicants. It covers toxicant selection, lake suitability,...
+> -- *[[EradicationOfFishByChemicalTre_19909]]*
+
 ### Mentioned In
 - [[ControlOfCarpCyprinusCarpioLin_14811]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
@@ -7584,6 +7769,7 @@ Toxaphene is a chlorinated camphene-based insecticide that was employed as a pis
 - [[RoughFishControl_20167]]
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
+- [[EradicationOfFishByChemicalTre_19909]]
 
 ## Toxic Substances
 
@@ -7646,8 +7832,12 @@ The Toyah Basin is part of the West Texas Permian Basin where multiple Gammarus-
 > This comparative taxonomic study examines seven populations of freshwater-to-miohaline amphipods from the [[Gammarus-Pecos Complex]] inhabiting springs and streams in areas of Texas and New Mexico once overlain by [[Permian Seas]]. The study includes three described species—[[Gammarus Pecos]],...
 > -- *[[TheGammaruspecosComplexCrustac_16002]]*
 
+> This New Mexico Department of Game and Fish technical report (Hoagstrom and Brooks, 1998; Tech. Rpt. No. 2) reviews the distribution, status, and conservation of the [[Pecos Pupfish]] (*Cyprinodon pecosensis*) across the Pecos River Basin of New Mexico and Texas. Sampling of all known populations...
+> -- *[[DistributionStatusAndConservat_12985]]*
+
 ### Mentioned In
 - [[TheGammaruspecosComplexCrustac_16002]]
+- [[DistributionStatusAndConservat_12985]]
 
 ## Toyah Creek
 <!-- fm: auto_enriched: true -->
@@ -7901,11 +8091,19 @@ Trammel nets are passive fishing gear consisting of multiple layers of netting w
 > This report documents commercial fish harvest in [[Oklahoma]] waters from 1958-1960, continuing a survey initiated by Ronald E. Elkin in 1957. The study tracked catch data from licensed commercial fishermen through monthly reports and personal interviews. Between 84 fishermen (1958) and 56...
 > -- *[[SummaryOfCommercialFisheriesCa_19834]]*
 
+> This internal memorandum, dated November 28, 1992, prepares [[Bio/West]] representatives for a Principal Investigators Meeting on December 1, 1992, and summarizes progress on contract research on the [[Humpback Chub]] (*Gila cypha*, name not stated in the source) in the [[Grand Canyon]] of the...
+> -- *[[PrincipalInvestigatorsMeeting_13623]]*
+
+> This interim progress report, prepared for the [[Adaptive Management Work Group]] (ACT) meeting of April 19, 1991, summarizes the first seven months of a field study of [[Humpback Chub]] in the [[Grand Canyon]]. The contractor, [[Bio/West Inc]], was awarded the contract on September 1, 1990, and...
+> -- *[[CharacterizationOfTheLifeHisto_13648]]*
+
 ### Mentioned In
 - [[FishHandlingProtocolAsunnhpPro_17005]]
 - [[LetterRegardingRazorbackSucker_1990_05_31]]
 - [[QualitativeAndQuantitativeAppl_20856]]
 - [[SummaryOfCommercialFisheriesCa_19834]]
+- [[PrincipalInvestigatorsMeeting_13623]]
+- [[CharacterizationOfTheLifeHisto_13648]]
 
 ## Trammel Netting
 <!-- fm: auto_enriched: true -->
@@ -7996,6 +8194,18 @@ Transformer Pit was a heavily fished strip-pit lake that attracted anglers from 
 ### Mentioned In
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 
+## Trap Net
+
+### Summary
+A trap net is a passive fishing gear that guides fish into an enclosed pocket, here with wings. The 1956 author recommended adding wing trap nets in the third week of March, expecting them to harm fish less than gill nets and to prevent egg loss from entangled females.
+
+### Context
+> This 1956 report by [[Frank Schryer]], Fisheries Biologist, to the [[Kansas Forestry, Fish And Game Commission]] documents a spring spawn-taking program for [[Walleye]] at [[Fall River Reservoir]]. Kansas had no in-state source of walleye eggs, and out-of-state supplies were uncertain, so...
+> -- *[[TheArtificialPropagationOfWall_20615]]*
+
+### Mentioned In
+- [[TheArtificialPropagationOfWall_20615]]
+
 ## Trap Resistance
 <!-- fm: auto_enriched: true -->
 
@@ -8061,10 +8271,14 @@ Travertine in aquatic ecology refers to porous, calcium carbonate mineral deposi
 > **Habitat type:** Phreatic/interstitial freshwater habitats associated with **desert thermal springs (limnocrenes)** — specifically: - Crevices and tube-like channels within soft, porous [[Travertine]] substrate - Copropelic (organic detrital) sediments at depth (~3 m) - Detritus beneath floating...
 > -- *[[StenasellidIsopodCrustaceansIn_1972_02_29]]*
 
+> This final report, submitted by C.O. Minckley of the [[Northern Arizona University]] Biology Department to the Nongame Branch of the [[Arizona Game and Fish Department]] (dated 20 December 1988), documents two months of field research (27 days in 1987 and 30 days in 1988) on the federally...
+> -- *[[FinalReportOnResearchConducted_18506]]*
+
 ### Mentioned In
 - [[ExplanationOfSnailDiversityAnd_15845]]
 - [[SpeocirolanaThermydronisCrusta_1968_10_16]]
 - [[StenasellidIsopodCrustaceansIn_1972_02_29]]
+- [[FinalReportOnResearchConducted_18506]]
 
 ## Travertine Canyon
 
@@ -8839,6 +9053,30 @@ Trinity River Salmon and Steelhead Hatchery is a California fish hatchery focuse
 ### Mentioned In
 - [[OriginAndEvolutionOfTheFishesO_1962_12_10]]
 
+## Trionyx Ferox
+
+### Summary
+A softshell turtle of Florida, identified in the source as closely allied to T. ater because both share dark dorsal coloration and an ovoid carapace. The two show similar habitat partitioning, with ponds and lakes for T. ferox.
+
+### Context
+> Wees and Legler (1960), in the [[University Of Kansas Science Bulletin]], describe a new softshell turtle, *Trionyx ater* ("Black Softshell"), from the basin of [[Cuatro Ciénegas]] in central Coahuila, Mexico. The species was identified among 14 *Trionyx* specimens collected during a ten-day field...
+> -- *[[ANewSoftshellTurtleGenusTriony_19646]]*
+
+### Mentioned In
+- [[ANewSoftshellTurtleGenusTriony_19646]]
+
+## Trionyx Muticus
+
+### Summary
+The smooth softshell turtle, which the source says resembles T. ater in having smooth male carapace edges and no septal ridges in males. The authors note that T. muticus does not occur in Mexico.
+
+### Context
+> Wees and Legler (1960), in the [[University Of Kansas Science Bulletin]], describe a new softshell turtle, *Trionyx ater* ("Black Softshell"), from the basin of [[Cuatro Ciénegas]] in central Coahuila, Mexico. The species was identified among 14 *Trionyx* specimens collected during a ten-day field...
+> -- *[[ANewSoftshellTurtleGenusTriony_19646]]*
+
+### Mentioned In
+- [[ANewSoftshellTurtleGenusTriony_19646]]
+
 ## Trionyx Sp
 <!-- fm: auto_enriched: true -->
 
@@ -8848,6 +9086,18 @@ Trinity River Salmon and Steelhead Hatchery is a California fish hatchery focuse
 
 ### Mentioned In
 - [[CoyotePredationOnAquaticTurtle_1966_03_12]]
+
+## Trionyx Spinifer Emoryi
+
+### Summary
+A subspecies of spiny softshell turtle (Trionyx spinifer emoryi) that occurs sympatrically with T. ater in the Cuatro Ciénegas basin. The source separates it from T. ater, found mainly in the swift Rio Chiquito, and treats the two as full species because no intermediate populations are known.
+
+### Context
+> Wees and Legler (1960), in the [[University Of Kansas Science Bulletin]], describe a new softshell turtle, *Trionyx ater* ("Black Softshell"), from the basin of [[Cuatro Ciénegas]] in central Coahuila, Mexico. The species was identified among 14 *Trionyx* specimens collected during a ten-day field...
+> -- *[[ANewSoftshellTurtleGenusTriony_19646]]*
+
+### Mentioned In
+- [[ANewSoftshellTurtleGenusTriony_19646]]
 
 ## Triops
 <!-- fm: auto_enriched: true -->
@@ -8922,6 +9172,18 @@ Triple superphosphate is a phosphorus fertilizer. In this source, it was used to
 - [[NoticeOfProposedChangesInRegul_13516]]
 - [[InterimProceduresForStockingNo_15423]]
 - [[EndangeredAndThreatenedWildlif_11592]]
+
+## Triploid Induction
+
+### Summary
+Triploid induction is the artificial production of animals with three sets of chromosomes, a form of polyploidy. The source reports an induced triploid rate over 87% in Penaeus orientalis, and a 1992 paper on its growth and gonadal development was listed as accepted by the Journal of Zoology.
+
+### Context
+> This document is a set of three near-identical graduate application letters, all dated August 18, 1992, from [[Gao Lianyong]] of the [[Fisheries Research Institute]] of Hebei Province, Qinhuangdao, P.R. China. Each letter is addressed to a different group of faculty in the Department of Zoology at...
+> -- *[[RequestToStudyAtArizonaStateUn_20318]]*
+
+### Mentioned In
+- [[RequestToStudyAtArizonaStateUn_20318]]
 
 ## Triplophysa siluroides
 
@@ -9242,6 +9504,15 @@ The Tropical Fish Culture Institute in Malacca, Malaysia was the source of Tilap
 ### Mentioned In
 - [[AnnotherMassasaugaFromMexico_15880]]
 
+## Tropisms
+
+### Context
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
+### Mentioned In
+- [[GeneralReviewsAndSummariesTrop_17993]]
+
 ## Tropocyclops prasinus
 <!-- fm: auto_enriched: true -->
 
@@ -9336,6 +9607,12 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This document is a 1994 pre-publication review by the [[National Research Council]] (NRC) Committee to Review the [[Glen Canyon Environmental Studies]] of the Bureau of Reclamation's *Draft Federal Long-Term Monitoring Plan* for the Colorado River below [[Glen Canyon Dam]]. The committee judges the...
 > -- *[[ReviewOfTheDraftFederalLongter_19498]]*
 
+> This internal memorandum, dated November 28, 1992, prepares [[Bio/West]] representatives for a Principal Investigators Meeting on December 1, 1992, and summarizes progress on contract research on the [[Humpback Chub]] (*Gila cypha*, name not stated in the source) in the [[Grand Canyon]] of the...
+> -- *[[PrincipalInvestigatorsMeeting_13623]]*
+
+> This document is an administrative package from the [[Bureau of Reclamation]], Upper Colorado Region, dated December 13, 1988. It consists of a cover letter to constituents of the [[Glen Canyon Environmental Studies]] (GCES) and a news release. The release announces that Dr. [[Wayne N. Marchant]]...
+> -- *[[SeniorReclamationOfficialAppoi_20786]]*
+
 ### Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -9385,6 +9662,8 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[CommentsOnTheAdequacyOfAccepte_20281]]
 - [[ToHisExcellencyFrederickATritl_13445]]
 - [[ReviewOfTheDraftFederalLongter_19498]]
+- [[PrincipalInvestigatorsMeeting_13623]]
+- [[SeniorReclamationOfficialAppoi_20786]]
 
 ## Trout Creek
 <!-- fm: auto_enriched: true -->
@@ -9399,10 +9678,14 @@ Trout Creek refers to a small montane stream system, exemplified by a third-orde
 > This study examines the effects of drastically fluctuating stream discharge on both fish and macroinvertebrate communities in [[Trout Creek]], a small third-order montane stream in central Colorado. A severe drought during 1978 caused surface flow to cease entirely in portions of the study reach,...
 > -- *[[TheMacroinvertebratesAndFishOf_17377]]*
 
+> This document formally describes [[Gila Boraxobius]] (Borax Lake Chub), a new dwarf species of cyprinid fish from [[Borax Lake]], a small spring-fed lake in the [[Alvord Basin]] of southeastern Oregon. The authors compare it morphologically with its closest relative, [[Gila Alvordensis]], known...
+> -- *[[GilaBoraxobiusANewSpeciesOfCyp_12031]]*
+
 ### Mentioned In
 - [[FactorsInfluencingTroutProduct_1967]]
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
 - [[TheMacroinvertebratesAndFishOf_17377]]
+- [[GilaBoraxobiusANewSpeciesOfCyp_12031]]
 
 ## Trout Fisheries
 
@@ -9502,10 +9785,14 @@ Trout stocking is the deliberate introduction of hatchery-reared trout into natu
 > 1. **Stocking-Only Waters** — Reservoirs, tailwaters, and other altered environments with inadequate spawning/rearing habitat. Trout populations here are entirely dependent on [[Trout Stocking]]; natural reproduction is not a viable pathway. These waters form the "backbone" of Utah's sportfishing...
 > -- *[[WildTroutVSStockedTroutAStateM_20563]]*
 
+> This reprint from the [[New York State Conservationist]] (August-September 1952) presents a long-term [[Fisheries Management]] research program on New York farm ponds, along with a companion essay on diagnosing and correcting overpopulation and stunting in warm-water lakes. Farm pond construction...
+> -- *[[FisheriesResearchInNewYorkFarm_15810]]*
+
 ### Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[TroutPlanting_14377]]
 - [[WildTroutVSStockedTroutAStateM_20563]]
+- [[FisheriesResearchInNewYorkFarm_15810]]
 
 ## Trout Stream
 <!-- fm: auto_enriched: true -->
@@ -9788,6 +10075,18 @@ True Frogs (family Ranidae) are among the 29 species associated with riparian an
 ### Mentioned In
 - [[HerpetofaunaOfTheOrmeButtesCha_18586]]
 
+## Trumpeter Swan
+
+### Summary
+The trumpeter swan is a large white waterbird of North America, known for its loud, trumpet-like call. This notice includes it among the bird taxa reviewed for possible listing as endangered or threatened. The source offers no further details on its status in this entry.
+
+### Context
+> This Federal Register notice (Vol. 59, No. 219, November 15, 1994, Proposed Rules, pp. 58982–59028) from the [[U.S. Fish and Wildlife Service]] (Service), Department of the Interior, presents an updated compilation of vertebrate and invertebrate animal taxa native to the United States under review...
+> -- *[[EndangeredAndThreatenedWildlif_11654]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedWildlif_11654]]
+
 ## Trumpetfish
 <!-- fm: auto_enriched: true -->
 
@@ -9842,8 +10141,24 @@ Tryonia is a related genus of hydrobiid snails that has been the subject of prev
 > This Scholarly Studies Program proposal (Winter 1999 review cycle) by Robert Hershler ([[NMNH]]) and Hsiu-Ping Liu ([[Southwest Missouri State University]]) seeks funding to conduct a comprehensive phylogenetic and biogeographic analysis of *[[Pyrgulopsis]]*, the largest genus of nonmarine snails...
 > -- *[[PhylogenyOfPyrgulopsisSpringsn_16724]]*
 
+> This bulletin (Bulletin 116, [[New Mexico Bureau of Mines & Mineral Resources]], Socorro, 1987) by Dwight W. Taylor of Oregon State University describes 22 freshwater mollusc species from New Mexico and adjacent areas. It describes nine new species from New Mexico, four from Arizona, two from Utah,...
+> -- *[[FreshwaterMollusksFromNewMexic_13497]]*
+
 ### Mentioned In
 - [[PhylogenyOfPyrgulopsisSpringsn_16724]]
+- [[FreshwaterMollusksFromNewMexic_13497]]
+
+## Tryonia alamosae
+
+### Summary
+The Alamosa spring snail, a littoridinid snail recorded in the source as a New Mexico candidate endangered species. It is associated with the upper Rio Grande region.
+
+### Context
+> This bulletin (Bulletin 116, [[New Mexico Bureau of Mines & Mineral Resources]], Socorro, 1987) by Dwight W. Taylor of Oregon State University describes 22 freshwater mollusc species from New Mexico and adjacent areas. It describes nine new species from New Mexico, four from Arizona, two from Utah,...
+> -- *[[FreshwaterMollusksFromNewMexic_13497]]*
+
+### Mentioned In
+- [[FreshwaterMollusksFromNewMexic_13497]]
 
 ## Tryonia gilae
 <!-- fm: auto_enriched: true -->
@@ -9855,6 +10170,18 @@ Tryonia is a related genus of hydrobiid snails that has been the subject of prev
 ### Mentioned In
 - [[ReBylasGambusiaAffinisHealthEx_12697]]
 - [[SonoranDesertExpertsWorkshop_13543]]
+
+## Tryonia kosteri
+
+### Summary
+Koster's spring snail, a littoridinid snail that the source records in gypsum-rich waters of Bitter Lake National Wildlife Refuge. It is listed among candidate endangered species.
+
+### Context
+> This bulletin (Bulletin 116, [[New Mexico Bureau of Mines & Mineral Resources]], Socorro, 1987) by Dwight W. Taylor of Oregon State University describes 22 freshwater mollusc species from New Mexico and adjacent areas. It describes nine new species from New Mexico, four from Arizona, two from Utah,...
+> -- *[[FreshwaterMollusksFromNewMexic_13497]]*
+
+### Mentioned In
+- [[FreshwaterMollusksFromNewMexic_13497]]
 
 ## Tryonia Protea
 <!-- fm: auto_enriched: true -->
@@ -9983,8 +10310,12 @@ Tubifex worms are a live food eagerly accepted by Biotodoma cupido in captivity.
 > This article by Paul V. Loiselle discusses [[Biotodoma cupido]], a South American cichlid first imported to Germany in 1935 and reintroduced to United States aquarists. The species presents maintenance challenges requiring specific water conditions and has steadfastly refused to reproduce in...
 > -- *[[TheCupidoCichlid_16188]]*
 
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
 ### Mentioned In
 - [[TheCupidoCichlid_16188]]
+- [[GeneralReviewsAndSummariesTrop_17993]]
 
 ## Tubifex Tubifex
 <!-- fm: auto_enriched: true -->
@@ -10146,8 +10477,12 @@ The Tucson Aqueduct is one of the authorized geographic locations for CAP fish a
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This document is a [[Bureau Of Reclamation]] public-information brochure describing the planned [[Central Arizona Project]] (CAP), a large water-importation scheme authorized by the [[Colorado River Basin Project Act]] (Public Law 90-537, September 30, 1968) but not yet constructed. The project...
+> -- *[[CentralArizonaProject_13261]]*
+
 ### Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[CentralArizonaProject_13261]]
 
 ## Tucson Basin
 
@@ -10618,9 +10953,13 @@ Tully Dam is a U.S. Corps of Engineers flood control reservoir downstream of Law
 > - **New England States** (Connecticut, Maine, Massachusetts): Associations centered on [[Clam]] digging, [[Lobster]] fishing, [[Sardine]] packing, and groundfish ("draggers," "seiners," "weirmen"). - **Middle Atlantic States** (Maryland, New Jersey, New York, Pennsylvania, Virginia): Heavy focus ...
 > -- *[[ListOfFisheryAssociationsInThe_12333]]*
 
+> This 1956 report by J. B. Kimsey of the [[California Department of Fish and Game]] (Inland Fisheries Branch) evaluates six types of external tags for [[Largemouth Bass]] (*Micropterus salmoides*), tested in the field at [[Clear Lake]] and in aquaria and hatchery ponds. The study was motivated by...
+> -- *[[LargemouthBassTagging_12531]]*
+
 ### Mentioned In
 - [[BiIchthyologyFirstLectureExami_1999]]
 - [[ListOfFisheryAssociationsInThe_12333]]
+- [[LargemouthBassTagging_12531]]
 
 ## Tuna Thermoregulation
 <!-- fm: auto_enriched: true -->
@@ -11059,6 +11398,18 @@ Turtle Bay is a location in Baja California used as a reference point for warm-w
 ### Mentioned In
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 
+## Turtle Excluder Device
+
+### Summary
+A Turtle Excluder Device is a gear modification used in shrimp nets to let sea turtles escape, reducing drowning. This source notes that the use of such devices by shrimp fishermen is part of the management focus under Sec. 1008, and that the Secretary must run an educational effort for shrimp fishermen on their use.
+
+### Context
+> Public Law 100-478, enacted October 7, 1988 by the 100th Congress (102 STAT. 2306–2315), amends the [[Endangered Species Act]] of 1973 and authorizes appropriations for fiscal years 1988 through 1992. The law revises definitions, [[Recovery Plans]] requirements, monitoring of recovered species,...
+> -- *[[EndangeredSpeciesActAmendments_13217]]*
+
+### Mentioned In
+- [[EndangeredSpeciesActAmendments_13217]]
+
 ## Turtle Life History Theory
 <!-- fm: auto_enriched: true -->
 
@@ -11222,6 +11573,9 @@ Twin Lakes is a pair of connected montane glacial lakes in Colorado at 2,802 met
 > This workshop proceedings document, compiled by James F. LaBounty in February 1976, summarizes the third annual workshop on ecological effects of pumped-storage hydroelectric operations, with primary focus on the [[Mt. Elbert Unit]] at [[Twin Lakes, Colorado]]. The workshop brought together...
 > -- *[[ThirdWorkshopOnEcologyOfPumpst_12641]]*
 
+> This Bureau of Reclamation report (REC-ERC-83-2, December 1982) presents the 1981 limnological findings from a long-term study of [[Twin Lakes]], Colorado, before and during early operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The powerplant began testing in July 1981 and operated...
+> -- *[[EffectsOfOperatingTheMtElbertP_12650]]*
+
 ### Mentioned In
 - [[HydroacousticSurveysOfFishAbun_13336]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
@@ -11230,6 +11584,7 @@ Twin Lakes is a pair of connected montane glacial lakes in Colorado at 2,802 met
 - [[StudiesOfTheEffectsOfOperating_12649]]
 - [[MovementsOfLakeTroutInTwinLake_14420]]
 - [[ThirdWorkshopOnEcologyOfPumpst_12641]]
+- [[EffectsOfOperatingTheMtElbertP_12650]]
 
 ## Twin Lakes Tunnel
 

@@ -60,6 +60,18 @@ A researcher cited in the source who observed kokanee spawning on the shore of D
 ### Mentioned In
 - [[ÉtudeDUneCollectionDLsopodesTe_13127]]
 
+## J. G. Cooper
+
+### Summary
+J. G. Cooper co-published with Suckley in The Natural History of Washington Territory, which contained Suckley's earlier 1859 report on the Salmonidae. The source mentions this only as part of the publication history.
+
+### Context
+> This is a taxonomic monograph by [[George Suckley]], Surgeon, United States Army, written in 1861 and published in the *Report of the Commissioner of Fish and Fisheries* (pp. 92–160). The work was prepared at the request of the [[Smithsonian Institution]], with editorial introduction by [[Spencer...
+> -- *[[AppendixBTheSalmonAndTroutSpec_14665]]*
+
+### Mentioned In
+- [[AppendixBTheSalmonAndTroutSpec_14665]]
+
 ## J. H. Ferriss
 
 ### Summary
@@ -110,6 +122,18 @@ A collector who made the earliest malacological trip to the Pinaleno Mountains i
 
 ### Mentioned In
 - [[AvoidanceReactionsOfSalmonidAn_12229]]
+
+## J. R. Holsinger
+
+### Summary
+A collector credited with supplying material for this paper, including the Brewer Cave holotype and the Carrico Cave type specimens. In April 1971 he gave the author personal communication suggesting that an interstitial species in the coastal plains was very likely. He is named as a collector of several specimens reported here.
+
+### Context
+> This paper, published in the *Proceedings of the Biological Society of Washington* (Vol. 84, No. 57, pp. 489-500, 29 February 1972), by [[Laurence E. Fleming]] of Virginia Polytechnic Institute and State University, describes four new species of troglobitic asellid isopods from the United States:...
+> -- *[[FourNewSpeciesOfTroglobiticAse_16463]]*
+
+### Mentioned In
+- [[FourNewSpeciesOfTroglobiticAse_16463]]
 
 ## J. T. Plummer
 <!-- fm: auto_enriched: true -->
@@ -258,6 +282,18 @@ Jack Salmon, also known as walleye (family Percidae), was recently introduced in
 
 ### Mentioned In
 - [[WhatHaveICaught_12929]]
+
+## Jack Swift
+
+### Summary
+Publicity Manager for Public Service (Arizona Public Service). He said the two hydro plants are not large power sources by quantity, but are cost-competitive with newer gas-fueled plants, so they will stay on line.
+
+### Context
+> This document is a 1966 magazine feature from the [[Arizona Engineer And Scientist]] describing the [[Fossil Creek Flume]], a historic water conduit that diverts spring-fed flow from [[Fossil Creek]] to power two small hydroelectric plants, [[Irving Plant]] and [[Childs Plant]], operated by...
+> -- *[[FossilCreakFlumeaPioneerMonume_16579]]*
+
+### Mentioned In
+- [[FossilCreakFlumeaPioneerMonume_16579]]
 
 ## Jack Williams
 <!-- fm: auto_enriched: true -->
@@ -419,6 +455,9 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 > This 1996 paper reports molecular genetic tests on tissue from an alleged Mexican [[Onza]], a large cat shot in the western [[Sierra Madre]] of [[Sinaloa]] in 1986. The authors compared protein markers ([[Isoenzyme Electrophoresis]] and [[Albumin]] [[Isoelectric Focusing]]) and [[Mitochondrial...
 > -- *[[MolecularGeneticIdentification_19135]]*
 
+> This Federal Register notice (Vol. 59, No. 219, November 15, 1994, Proposed Rules, pp. 58982–59028) from the [[U.S. Fish and Wildlife Service]] (Service), Department of the Interior, presents an updated compilation of vertebrate and invertebrate animal taxa native to the United States under review...
+> -- *[[EndangeredAndThreatenedWildlif_11654]]*
+
 ### Mentioned In
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
@@ -429,6 +468,7 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 - [[ReWrittenConcurrenceOnTheFores_11749]]
 - [[FormalConsultationForTheCieneg_13201]]
 - [[MolecularGeneticIdentification_19135]]
+- [[EndangeredAndThreatenedWildlif_11654]]
 
 ## Jaguarundi
 <!-- fm: auto_enriched: true -->
@@ -512,6 +552,9 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 > This report (Nevada State Museum Anthropological Papers No. 13, Part 4, by [[W. Glen Bradley]] and [[James E. Deacon]], October 1967) assigns the native and introduced vascular plants and vertebrate animals of southern Nevada to biotic communities and describes their present distribution and...
 > -- *[[TheBioticCommunitiesOfSouthern_12880]]*
 
+> This Fall 1992 [[Arizona State University]] (ASU) feature, the second part of a series on environmental abuse, reports on how water management in the arid West is driving the loss of native fishes, birds, and riparian habitat. ASU researchers [[W. L. Minckley]], [[Michael E. Douglas]], and [[Robert...
+> -- *[[FaunaFarewellLegacyOfEnvironme_12623]]*
+
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -521,6 +564,7 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[TheBiologyOfTheRazorbackSucker_1979_10_22]]
 - [[TheBioticCommunitiesOfSouthern_12880]]
+- [[FaunaFarewellLegacyOfEnvironme_12623]]
 
 ## James Ellsworth DeKay
 
@@ -593,6 +637,18 @@ The James River is a major Atlantic Slope drainage system in Virginia that serve
 
 ### Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
+
+## James W. Ziglar
+
+### Summary
+James W. Ziglar was the Assistant Secretary of the Interior who announced the appointment of Wayne N. Marchant as coordinator of the Glen Canyon Environmental Studies. The source names him only as the announcing official and gives no further detail about his role in the study.
+
+### Context
+> This document is an administrative package from the [[Bureau of Reclamation]], Upper Colorado Region, dated December 13, 1988. It consists of a cover letter to constituents of the [[Glen Canyon Environmental Studies]] (GCES) and a news release. The release announces that Dr. [[Wayne N. Marchant]]...
+> -- *[[SeniorReclamationOfficialAppoi_20786]]*
+
+### Mentioned In
+- [[SeniorReclamationOfficialAppoi_20786]]
 
 ## James Wilding
 <!-- fm: auto_enriched: true -->
@@ -780,6 +836,30 @@ The Japanese Sardine is a pelagic fish species from the Northwest Pacific that e
 ### Mentioned In
 - [[AdditionOfMisgurnusAnguillicau_1969]]
 
+## Jar Emptier
+
+### Summary
+The Jar Emptier is a low-cost device that uses low-pressure compressed air, such as aquarium aeration at 5 p.s.i., to expel nearly 15 liters of water from a bioassay jar in about 11 seconds. A screened intake prevents loss of fish, and the authors note the 30-pound weight reduction makes jars easier and safer to lift; materials cost $2.35.
+
+### Context
+> This Bureau of Sport Fisheries and Wildlife publication (Resource Publication 38, April 1967, Investigations in Fish Control No. 21) describes three low-cost devices built to reduce manual labor in [[Bioassay]] work at the [[Southeastern Fish Control Laboratory]] in [[Warm Springs Georgia]]. The...
+> -- *[[LaborsavingDevicesForBioassayL_13284]]*
+
+### Mentioned In
+- [[LaborsavingDevicesForBioassayL_13284]]
+
+## Jar Rinsing Rack
+
+### Summary
+The Jar Rinsing Rack is a wooden, plumbed rack described in the source that rinses up to 26 bioassay jars at once, roughly 15.5 feet long. The authors report it cuts washing and rinsing time to less than half the time needed to clean jars individually, at a material cost of $54.20 excluding gratings.
+
+### Context
+> This Bureau of Sport Fisheries and Wildlife publication (Resource Publication 38, April 1967, Investigations in Fish Control No. 21) describes three low-cost devices built to reduce manual labor in [[Bioassay]] work at the [[Southeastern Fish Control Laboratory]] in [[Warm Springs Georgia]]. The...
+> -- *[[LaborsavingDevicesForBioassayL_13284]]*
+
+### Mentioned In
+- [[LaborsavingDevicesForBioassayL_13284]]
+
 ## Jarbidge River
 <!-- fm: auto_enriched: true -->
 
@@ -851,6 +931,18 @@ Jardinella is a genus of hydrobiid snails found in the Great Artesian Basin spri
 ### Mentioned In
 - [[StressInducedPathologiesInFish_16522 (scanned)]]
 
+## Jarvis Decisions
+
+### Summary
+The Jarvis Decisions are a series of Arizona Supreme Court rulings on groundwater export and consumptive use, mainly involving the City of Tucson. Jarvis I (1969) held that reasonable use barred moving water off the land of origin where neighbors were harmed. Jarvis II (1970) allowed Tucson to export water equal to the amount not used on retired farmland in a Critical Groundwater Area, and Jarvis III (1976) limited exports to the consumptive use of that farmland, about half of the historical pumpage.
+
+### Context
+> This Project Bulletin (January 1977) by attorney Robert Fleming summarizes the historical development of [[Groundwater Law]] in [[Arizona]]. It traces the shift from early surface-water-oriented statutes to the [[Groundwater Code of 1948]], the contested [[Bristor v. Cheatham]] decisions on private...
+> -- *[[ArizonaGroundwaterLawHistorica_16464]]*
+
+### Mentioned In
+- [[ArizonaGroundwaterLawHistorica_16464]]
+
 ## Jason Dunham
 <!-- fm: auto_enriched: true -->
 
@@ -913,6 +1005,18 @@ Jardinella is a genus of hydrobiid snails found in the Great Artesian Basin spri
 ### Mentioned In
 - [[FindingOfNoSignificantImpactAr_11493]]
 - [[GilasanFranciscoRiversResource_18256]]
+
+## Jaw Tag
+
+### Summary
+A round, bird-band style monel tag, 3.5 mm wide and 8 mm in diameter, placed over the premaxillary-maxillary overlap of a bass's jaw. In the study it interfered least with feeding among jaw tags, but 20 of 50 hatchery fish shed it within 30 days, and fast-growing fish outgrew it.
+
+### Context
+> This 1956 report by J. B. Kimsey of the [[California Department of Fish and Game]] (Inland Fisheries Branch) evaluates six types of external tags for [[Largemouth Bass]] (*Micropterus salmoides*), tested in the field at [[Clear Lake]] and in aquaria and hatchery ponds. The study was motivated by...
+> -- *[[LargemouthBassTagging_12531]]*
+
+### Mentioned In
+- [[LargemouthBassTagging_12531]]
 
 ## Jay R. Stauffer
 <!-- fm: auto_enriched: true -->
@@ -1256,8 +1360,12 @@ Jim Brooks was personnel from Dexter National Fish Hatchery who was proposed to 
 > This December 1986 letter from [[Dean Hendrickson]] (Arizona Game & Fish Department) to [[Gerald Burton]] (U.S. Fish and Wildlife Service) proposes a collaborative field expedition to collect live specimens of endangered Rio Yaqui basin fishes from Mexico for translocation to [[Dexter National Fish...
 > -- *[[PlansToObtainLiveRioYaquiFishe_14087]]*
 
+> A letter dated October 30, 1989, from the [[Bureau of Reclamation]] (Lower Colorado Regional Office) to [[Arizona State University]], the [[Fish and Wildlife Service]], and the [[National Park Service]] requests help in developing an interagency proposal. The proposal would examine the feasibility...
+> -- *[[RequestForAssistanceInDevelopi_20977]]*
+
 ### Mentioned In
 - [[PlansToObtainLiveRioYaquiFishe_14087]]
+- [[RequestForAssistanceInDevelopi_20977]]
 
 ## Jim Cooper
 <!-- fm: auto_enriched: true -->
@@ -2014,9 +2122,13 @@ Jolly-Seber is mentioned as a multi-sample mark-recapture method that can estima
 > This technical report presents a comprehensive year-long study (July 1958 - July 1959) of drift material in the [[Red Cedar River]], Michigan—a warm-water tributary of the [[Grand River]] system. Drift material was defined as living and non-living suspended matter removable by filtration through...
 > -- *[[TheNutrientCompositionDynamics_12515]]*
 
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
 ### Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[TheNutrientCompositionDynamics_12515]]
+- [[GeneralReviewsAndSummariesTrop_17993]]
 
 ## Jones 1938
 <!-- fm: auto_enriched: true -->
@@ -2115,10 +2227,14 @@ Jones Hole Creek is a tributary to the Green River in Dinosaur National Monument
 > An experimental [[Razorback Sucker]] hatchery was established in 1987 at [[Ouray National Wildlife Refuge]] to evaluate streamside spawning and rearing techniques for this endangered species. The facility consisted of three 1/10 acre ponds and a building with incubators and rearing tanks. From...
 > -- *[[OurayRazorbackHatcherySummary_13377]]*
 
+> This progress report, submitted by Project Manager Wayne C. Starnes (Division of Fishes, [[Smithsonian Institution]]) to the [[U.S. Fish And Wildlife Service]] (USFWS), covers the first full year of the [[Gila Taxonomy Project]] under a cooperative agreement. The project addresses unresolved...
+> -- *[[GilaTaxonomyProjectFiscalProgr_14722]]*
+
 ### Mentioned In
 - [[StationProfileJonesHoleNationa_19544]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[OurayRazorbackHatcherySummary_13377]]
+- [[GilaTaxonomyProjectFiscalProgr_14722]]
 
 ## Jones Hole Nfh
 <!-- fm: auto_enriched: true -->

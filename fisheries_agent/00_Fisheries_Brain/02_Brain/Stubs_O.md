@@ -420,6 +420,18 @@ Ocean Lake in Wyoming was the subject of mark-recapture studies in 1969-1970 tha
 ### Mentioned In
 - [[ReproductiveProductsInMarineFo_14388]]
 
+## Ocean University of Qingdao
+
+### Summary
+The Ocean University of Qingdao is the school from which Gao Lianyong earned his bachelor's degree in Fisheries Biology and Aquaculture in 1983, graduating first in his class. It is also the journal publisher of one of his listed karyotype papers.
+
+### Context
+> This document is a set of three near-identical graduate application letters, all dated August 18, 1992, from [[Gao Lianyong]] of the [[Fisheries Research Institute]] of Hebei Province, Qinhuangdao, P.R. China. Each letter is addressed to a different group of faculty in the Department of Zoology at...
+> -- *[[RequestToStudyAtArizonaStateUn_20318]]*
+
+### Mentioned In
+- [[RequestToStudyAtArizonaStateUn_20318]]
+
 ## Ocelot
 <!-- fm: auto_enriched: true -->
 
@@ -580,6 +592,18 @@ The Ocoee River is a stream system in Tennessee where introgression between Rede
 
 ### Mentioned In
 - [[TheAcuteLethalToxicityToRainbo_1970_02_17]]
+
+## Oden Hatchery
+
+### Summary
+The Oden Hatchery is a Michigan trout hatchery whose waste ditches were shocked semi-annually for about 18 months to remove escaped trout, which the author notes could be a source of infection for hatchery stock. The source also suggests the shocker could remove unwanted fish from hatchery ponds before fingerling stocking.
+
+### Context
+> This 1947 article by [[David S. Shetter]] of the [[Institute For Fisheries Research]], [[Michigan Department Of Conservation]], describes the [[Electric Shocker]], a portable AC electrofishing unit used to capture stream fish alive, chiefly [[Brook Trout]]. The device was adapted from German work...
+> -- *[[TheElectricShockerAndItsUseInM_18901]]*
+
+### Mentioned In
+- [[TheElectricShockerAndItsUseInM_18901]]
 
 ## Odocoileus
 
@@ -846,6 +870,18 @@ Office Cove is a backwater rearing site located at Bill Williams River National 
 ### Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 
+## Ogallala Formation
+
+### Summary
+A widespread alluvial sediment unit of the High Plains. The source argues that Roswell and Delaware basin spring snails are inconsistent with an Ogallala alluvial blanket covering the Pecos Valley.
+
+### Context
+> This bulletin (Bulletin 116, [[New Mexico Bureau of Mines & Mineral Resources]], Socorro, 1987) by Dwight W. Taylor of Oregon State University describes 22 freshwater mollusc species from New Mexico and adjacent areas. It describes nine new species from New Mexico, four from Arizona, two from Utah,...
+> -- *[[FreshwaterMollusksFromNewMexic_13497]]*
+
+### Mentioned In
+- [[FreshwaterMollusksFromNewMexic_13497]]
+
 ## Ogilbia pearsei
 
 ### Summary
@@ -900,8 +936,12 @@ The Ohaus Scale is a balance with a 1,100-gram capacity used in this study to we
 > This study, conducted by the [[Ohio Division of Wildlife]] beginning in 1952, evaluated three tag types—**strap tags**, **streamer-type tags**, and **monel metal ring-type jaw tags**—in a large-scale [[Lake Erie]] fish movement study. Over two years, approximately 60,685 fish across 27 species we...
 > -- *[[SomeMeritsOfThreeKindsOfMarker_18096]]*
 
+> This 1957 article, reprinted from *Industrial Wastes* and written by [[Vernon W. Cole]], describes how [[Acid Mine Drainage]] from bituminous coal mines damaged [[Lake Alma]] in southeastern Ohio. Acid inflow caused a decline and loss of several fish species, including [[Gizzard Shad]], [[Carp]],...
+> -- *[[LimeTreatmentOfLakeReducesAcid_17119]]*
+
 ### Mentioned In
 - [[SomeMeritsOfThreeKindsOfMarker_18096]]
+- [[LimeTreatmentOfLakeReducesAcid_17119]]
 
 ## Ohio Muskellunge
 
@@ -943,6 +983,9 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This 1955 fisheries bulletin reports growth rates of [[White Crappie]] (*Pomoxis annularis*) in the [[Tennessee River]] tailwaters below [[Kentucky Dam]], Kentucky. Scale samples from 237 specimens collected May-December 1952 revealed average growth of 3.4 inches in year one, reaching 11.9 inches...
 > -- *[[GrowthRatesOfTheWhiteCrappiePo_16032]]*
 
+> This 1957 article, reprinted from *Industrial Wastes* and written by [[Vernon W. Cole]], describes how [[Acid Mine Drainage]] from bituminous coal mines damaged [[Lake Alma]] in southeastern Ohio. Acid inflow caused a decline and loss of several fish species, including [[Gizzard Shad]], [[Carp]],...
+> -- *[[LimeTreatmentOfLakeReducesAcid_17119]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -962,6 +1005,7 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[YoungFishDistributionInBackwat_1989]]
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
 - [[GrowthRatesOfTheWhiteCrappiePo_16032]]
+- [[LimeTreatmentOfLakeReducesAcid_17119]]
 
 ## Ohio River Drainage
 <!-- fm: auto_enriched: true -->
@@ -1171,6 +1215,15 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 - [[SummaryOfCommercialFisheriesCa_19834]]
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
 
+## Oklahoma Biological Survey
+
+### Context
+> This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
+> -- *[[OklahomaFishesWithDistribution_16567]]*
+
+### Mentioned In
+- [[OklahomaFishesWithDistribution_16567]]
+
 ## Oklahoma Cooperative Wildlife Research Unit
 <!-- fm: auto_enriched: true -->
 
@@ -1261,6 +1314,18 @@ Oklahoma State University was the institution where this research on fish bioass
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[FishCollectionRecordsAndFieldN_15305]]
+
+## Okriocythere
+
+### Summary
+A genus of entocytherid ostracods described by Hart in 1964. Hobbs argues that Okriocythere, together with Geocythere, Hartocythere, and Ornithocythere, probably shares a common origin.
+
+### Context
+> This taxonomic paper, by [[Horton H. Hobbs III]] of Indiana University, describes three new species of [[Entocytheridae|entocytherid ostracods]] in the genus [[Ornithocythere]] Hobbs, 1967, and erects the new genus [[Hartocythere]] for a single species previously placed in [[Geocythere]]. The three...
+> -- *[[NewEntocytheridOstracodsOfTheG_20414]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsOfTheG_20414]]
 
 ## Old Charley Wash
 <!-- fm: auto_enriched: true -->
@@ -1384,6 +1449,18 @@ Old Dominion is a historical tailings pile that produces extremely acidic runoff
 
 ### Mentioned In
 - [[FisherySurveyOfTheMousamRiver_12823]]
+
+## Old Growth Forests
+
+### Summary
+Old growth forests are mature forests with large, old trees and associated structure. The source says old growth ponderosa pine covered about 75% of the Southwestern landscape in early surveys but only about 2% on the Gila National Forest in recent inventories. It recommends retaining mature and old growth trees.
+
+### Context
+> This Southwest Forest Alliance report, dated November 14, 1995 and authored by Torey Silloway and Kieran Suckling of the [[Southwest Center for Biological Diversity]], is a policy critique rather than a primary research study. It argues that a [[U.S. Forest Service]] report by M. Johnson (1995)...
+> -- *[[ForestFraudAndForestHealthUsFo_18957]]*
+
+### Mentioned In
+- [[ForestFraudAndForestHealthUsFo_18957]]
 
 ## Old Hickory Reservoir
 <!-- fm: auto_enriched: true -->
@@ -1744,6 +1821,15 @@ Olsen Creek is a pink salmon spawning stream located in Olsen Bay, Port Gravina,
 ### Mentioned In
 - [[DurchschneidungDesReissnersche_1962_01_13]]
 
+## Oltramare
+
+### Context
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
+### Mentioned In
+- [[GeneralReviewsAndSummariesTrop_17993]]
+
 ## Olympia Snowe
 <!-- fm: auto_enriched: true -->
 
@@ -1781,6 +1867,18 @@ The Olympic Dam Project is a mining operation whose environmental impacts on Gre
 
 ### Mentioned In
 - [[DamRemovalWhoShouldPay_1999_09_26]]
+
+## Olympic Peninsula
+
+### Summary
+The Olympic Peninsula is a region of Washington state. The source mentions it as the origin of the trout Salmo bathoecetor, one of several trout forms the author considers possibly not valid species.
+
+### Context
+> This document is a 1929 taxonomic check-list of freshwater fishes recorded in [[Oregon]] and [[Washington]] and adjacent regions. It was compiled by [[Leonard P. Schultz]] from published literature, supplemented by a few unpublished records of introduced species observed by D. R. Crawford and the...
+> -- *[[ChecklistOfTheFreshwaterFishes_20621]]*
+
+### Mentioned In
+- [[ChecklistOfTheFreshwaterFishes_20621]]
 
 ## Oman
 
@@ -1827,6 +1925,24 @@ Omura Bay is a body of water north of Nagasaki in southern Japan. Jordan and Sny
 
 ### Mentioned In
 - [[ThePlaceOfEcologyInScience_11353]]
+
+## Onchidium
+
+### Context
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
+### Mentioned In
+- [[GeneralReviewsAndSummariesTrop_17993]]
+
+## Onchidium floridanum
+
+### Context
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
+### Mentioned In
+- [[GeneralReviewsAndSummariesTrop_17993]]
 
 ## Oncorhynchus
 <!-- fm: auto_enriched: true -->
@@ -2444,6 +2560,18 @@ Ophioderma teres is a brittle star species with short arm spines and dark brown 
 
 ### Mentioned In
 - [[TheRelationOfHydrologicalCondi_20023]]
+
+## Ophiodontidae
+
+### Summary
+The family of fishes to which the lingcod belongs, with the lingcod as its only member. The source notes this single-species status when describing the lingcod's taxonomy.
+
+### Context
+> This 1958 review by J. B. Phillips of the [[California Department of Fish and Game]] (Marine Resources Operations) assembles what was known about the life history of the [[Lingcod]] and the status of its fishery. The lingcod is prized as a food and sport fish, and local concern had developed that...
+> -- *[[AReviewOfTheLingcodOphiodonElo_11171]]*
+
+### Mentioned In
+- [[AReviewOfTheLingcodOphiodonElo_11171]]
 
 ## Ophiolepsis variegata
 
@@ -3218,6 +3346,9 @@ Orectolobidae is a family of sharks within the order Squaliformes found in the G
 > This bulletin documents an unprecedented epidemic of the fish leech [[Piscicola punctata]] on [[Red-Mouth Buffalo]] (*Ictiobus cyprinella*) in [[Rock River]], Illinois during the winter of 1925-1926. The infestation was remarkable both for its intensity (up to 50+ leeches per fish, averaging ~20)...
 > -- *[[AnEpidemicOfLeechesOnFishesInR_13584]]*
 
+> This document is a 1929 taxonomic check-list of freshwater fishes recorded in [[Oregon]] and [[Washington]] and adjacent regions. It was compiled by [[Leonard P. Schultz]] from published literature, supplemented by a few unpublished records of introduced species observed by D. R. Crawford and the...
+> -- *[[ChecklistOfTheFreshwaterFishes_20621]]*
+
 ### Mentioned In
 - [[ComparingInstreamFlowProgramsA_12685]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
@@ -3225,6 +3356,7 @@ Orectolobidae is a family of sharks within the order Squaliformes found in the G
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[HowToBuildAFarmPondForFishProd_13264]]
 - [[AnEpidemicOfLeechesOnFishesInR_13584]]
+- [[ChecklistOfTheFreshwaterFishes_20621]]
 
 ## Oregon Chub
 
@@ -3590,10 +3722,14 @@ Organ Pipe National Monument in Pima County, Arizona, contains Quitobaquito Spri
 > This final progress report documents research on five native southwestern fish species conducted 1965-1967 under Sport Fishing Institute funding. The primary objective—delimiting present ranges of [[Lepidomeda vittata]], [[Meda fulgida]], [[Tiaroga cobitis]], [[Cyprinodon macularius]], and...
 > -- *[[FinalProgressReport_18563]]*
 
+> This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
+> -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
+
 ### Mentioned In
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
 - [[FinalProgressReport_18563]]
+- [[StatusOfTheNativeArizonaIchthy_18579]]
 
 ## Organic Drift
 <!-- fm: auto_enriched: true -->
@@ -3734,6 +3870,15 @@ The Orinoco is a major South American river basin to which the Rio Meta system b
 ### Mentioned In
 - [[OnANewSpeciesOfFishesFromColom_15807]]
 
+## Orinoco Basin
+
+### Context
+> This Indiana University Studies publication (Study No. 44, Contribution No. 170 from the Zoological Laboratory of Indiana University) by [[Carl H. Eigenmann]] reports a freshwater fish collection from [[Lake Valencia]], the [[Maracay]] area, [[El Concejo]] on the [[Rio Tuy]], and near [[Caracas]],...
+> -- *[[TheFishesOfLakeValenciaCaracas_15801]]*
+
+### Mentioned In
+- [[TheFishesOfLakeValenciaCaracas_15801]]
+
 ## Orinoco River
 <!-- fm: auto_enriched: true -->
 
@@ -3773,11 +3918,15 @@ Orme Dam (also known as Maxwell Dam) was a proposed water infrastructure project
 > This document summarizes a July 19, 1993 meeting convened by the [[Bureau of Reclamation]] [[Arizona Projects Office]] to discuss fish and wildlife enhancement opportunities associated with the [[Central Arizona Project]] (CAP). The meeting brought together federal agencies, state wildlife...
 > -- *[[SummaryOfJulyMeetingOnCentralA_20608]]*
 
+> This document is a [[Bureau Of Reclamation]] public-information brochure describing the planned [[Central Arizona Project]] (CAP), a large water-importation scheme authorized by the [[Colorado River Basin Project Act]] (Public Law 90-537, September 30, 1968) but not yet constructed. The project...
+> -- *[[CentralArizonaProject_13261]]*
+
 ### Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[LandAndWaterProjectsInvestigat_1966]]
 - [[OrmeMaxwellDamLandAndWaterProj_1967_03_31]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
+- [[CentralArizonaProject_13261]]
 
 ## Orme Reservoir
 <!-- fm: auto_enriched: true -->
@@ -3815,6 +3964,78 @@ Orme Dam (also known as Maxwell Dam) was a proposed water infrastructure project
 - [[CareOfTropicalAquariumFishes_13271]]
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
 
+## Ornithocythere
+
+### Summary
+A genus of crayfish-associated entocytherid ostracods erected by Hobbs in 1967, with Ornithocythere waltonae as its type species. Hobbs describes three new species in this paper, bringing the genus to five species with discontinuous Coastal Plain ranges. Members are defined by a beaklike, 'bird-head' peniferum in males and a heavily sclerotized genital papilla in females.
+
+### Context
+> This taxonomic paper, by [[Horton H. Hobbs III]] of Indiana University, describes three new species of [[Entocytheridae|entocytherid ostracods]] in the genus [[Ornithocythere]] Hobbs, 1967, and erects the new genus [[Hartocythere]] for a single species previously placed in [[Geocythere]]. The three...
+> -- *[[NewEntocytheridOstracodsOfTheG_20414]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsOfTheG_20414]]
+
+## Ornithocythere Aetodes
+
+### Summary
+A new species of Ornithocythere described in this paper from a burrow in a ditch in Smith County, Mississippi (Leaf River drainage), collected from Cambarus diogenes. Males have an S-shaped clasping apparatus with four apical denticles, and females have a papilla with two alate processes. The name refers to the eagle-head-like peniferum, and it is known from no other locality.
+
+### Context
+> This taxonomic paper, by [[Horton H. Hobbs III]] of Indiana University, describes three new species of [[Entocytheridae|entocytherid ostracods]] in the genus [[Ornithocythere]] Hobbs, 1967, and erects the new genus [[Hartocythere]] for a single species previously placed in [[Geocythere]]. The three...
+> -- *[[NewEntocytheridOstracodsOfTheG_20414]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsOfTheG_20414]]
+
+## Ornithocythere Gypodes
+
+### Summary
+A species of Ornithocythere first described by Hobbs III in 1969 from a holotype alone. This paper redescribes it using additional specimens from Pickens County, Alabama and Noxubee County, Mississippi, which allowed the first description of the triunguis female and a fuller account of the male clasping apparatus.
+
+### Context
+> This taxonomic paper, by [[Horton H. Hobbs III]] of Indiana University, describes three new species of [[Entocytheridae|entocytherid ostracods]] in the genus [[Ornithocythere]] Hobbs, 1967, and erects the new genus [[Hartocythere]] for a single species previously placed in [[Geocythere]]. The three...
+> -- *[[NewEntocytheridOstracodsOfTheG_20414]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsOfTheG_20414]]
+
+## Ornithocythere Popi
+
+### Summary
+A new species of Ornithocythere from Mississippi, with its type locality in a drainage ditch in Stone County (Biloxi River drainage) and an additional record from a creek bank in Pearl River County (Pearl River drainage). Males have a gently curved clasping apparatus with three apical denticles, and females have a papilla enclosed in a campanula. It is named in honor of the author's father, Horton H. Hobbs, Jr.
+
+### Context
+> This taxonomic paper, by [[Horton H. Hobbs III]] of Indiana University, describes three new species of [[Entocytheridae|entocytherid ostracods]] in the genus [[Ornithocythere]] Hobbs, 1967, and erects the new genus [[Hartocythere]] for a single species previously placed in [[Geocythere]]. The three...
+> -- *[[NewEntocytheridOstracodsOfTheG_20414]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsOfTheG_20414]]
+
+## Ornithocythere Rhea
+
+### Summary
+A new species of Ornithocythere from Trammel Creek in Allen County, Kentucky (Barren River drainage), the only locality known for it. Its peniferum is elongate, its clasping apparatus always divides into rami, and its penis is very long and slender. Females have a saclike extension from the papilla base, and the name refers to the ostrichlike bird genus Rhea.
+
+### Context
+> This taxonomic paper, by [[Horton H. Hobbs III]] of Indiana University, describes three new species of [[Entocytheridae|entocytherid ostracods]] in the genus [[Ornithocythere]] Hobbs, 1967, and erects the new genus [[Hartocythere]] for a single species previously placed in [[Geocythere]]. The three...
+> -- *[[NewEntocytheridOstracodsOfTheG_20414]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsOfTheG_20414]]
+
+## Ornithocythere Waltonae
+
+### Summary
+The type species of the genus Ornithocythere, described by Hobbs in 1967. Compared with O. aetodes, it has a C-shaped clasping apparatus with an entire external border. Its female genital complex is a papilla enclosed in a posteroventrally directed campanula.
+
+### Context
+> This taxonomic paper, by [[Horton H. Hobbs III]] of Indiana University, describes three new species of [[Entocytheridae|entocytherid ostracods]] in the genus [[Ornithocythere]] Hobbs, 1967, and erects the new genus [[Hartocythere]] for a single species previously placed in [[Geocythere]]. The three...
+> -- *[[NewEntocytheridOstracodsOfTheG_20414]]*
+
+### Mentioned In
+- [[NewEntocytheridOstracodsOfTheG_20414]]
+
 ## Ornithodiplostomum Ptychocheilus
 <!-- fm: auto_enriched: true -->
 
@@ -3850,6 +4071,18 @@ Orocastus is a genus of deltocephaline leafhoppers that this source proposes sho
 
 ### Mentioned In
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+
+## Orocopia Schist
+
+### Summary
+A metamorphic basement rock unit in southern California. The source note lists it among the basement terrains that supplied sediment to the mid-Tertiary conglomerates, but gives no further details about it.
+
+### Context
+> This is a geology paper, not an aquatic or fish study. Robert G. Bohannon (U.S. Geological Survey, Denver, Colo.) examines coarse redbed conglomerates of mid-Tertiary age in southern California. The units are the [[Simmler Formation]], [[Sespe Formation]], [[Plush Ranch Formation]], [[Vasquez...
+> -- *[[MidtertiaryConglomeratesAndThe_17712]]*
+
+### Mentioned In
+- [[MidtertiaryConglomeratesAndThe_17712]]
 
 ## Orontes River
 
@@ -5073,6 +5306,18 @@ Outbreeding depression in fish science refers to the reduction in fitness and su
 ### Mentioned In
 - [[ConservationAgreementForThePec_1998]]
 
+## Overgrazing
+
+### Summary
+Overgrazing is livestock grazing at levels that degrade vegetation and soils. The source argues that it reduced competition between trees and grasses, removed fine fuels that carry fire, and contributed to decline in fire frequency and forest health. The authors say the Forest Service underplays its role.
+
+### Context
+> This Southwest Forest Alliance report, dated November 14, 1995 and authored by Torey Silloway and Kieran Suckling of the [[Southwest Center for Biological Diversity]], is a policy critique rather than a primary research study. It argues that a [[U.S. Forest Service]] report by M. Johnson (1995)...
+> -- *[[ForestFraudAndForestHealthUsFo_18957]]*
+
+### Mentioned In
+- [[ForestFraudAndForestHealthUsFo_18957]]
+
 ## Overhead Cover
 <!-- fm: auto_enriched: true -->
 
@@ -5499,6 +5744,18 @@ Owl Point is a location in the upper portion of Lake Mohave that marked the upst
 ### Mentioned In
 - [[BonytailrazorbackSuckerCoopera_17048]]
 
+## Owosso
+
+### Summary
+Owosso is a city in Michigan that borders Hopkins Lake on its north side, with most land around the lake owned by the city. The city has developed a park on the lake's east side. The source notes the lake's recreational potential is high because it lies almost within the Owosso city limits.
+
+### Context
+> This report, Report No. 815 by C. J. D. Brown of the [[Institute for Fisheries Research]] ([[Michigan Department of Conservation]]), is a small-scale fisheries survey of [[Hopkins Lake]], a 7.9-acre lake at the south edge of [[Owosso]] in [[Shiawassee County]], Michigan. It was reprinted in part...
+> -- *[[FisheriesLakeSurveyASmallscale_12998]]*
+
+### Mentioned In
+- [[FisheriesLakeSurveyASmallscale_12998]]
+
 ## Owyhee County
 
 ### Summary
@@ -5696,6 +5953,15 @@ The oyster toadfish is a marine fish species that serves as the host for the new
 ### Mentioned In
 - [[TwoNewArgulidsCopepodaBranchur_18010]]
 
+## Ozark Blindfish
+
+### Context
+> This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
+> -- *[[OklahomaFishesWithDistribution_16567]]*
+
+### Mentioned In
+- [[OklahomaFishesWithDistribution_16567]]
+
 ## Ozark Border
 <!-- fm: auto_enriched: true -->
 
@@ -5770,6 +6036,15 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 
 ### Mentioned In
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
+
+## Ozark Minnow
+
+### Context
+> This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
+> -- *[[OklahomaFishesWithDistribution_16567]]*
+
+### Mentioned In
+- [[OklahomaFishesWithDistribution_16567]]
 
 ## Ozark Minnows
 <!-- fm: auto_enriched: true -->

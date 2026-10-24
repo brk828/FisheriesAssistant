@@ -170,10 +170,26 @@ The intensive winter creel census was the main survey method used at Branch Lake
 > This annual progress report documents chinook salmon spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1, 1966 to September 30, 1966 (reported in 1967-1968). The survey recorded 7,546 chinook salmon redds across the drainage, representing a 4.6% increase from...
 > -- *[[SalmonSpawningGroundSurveysSal_17594]]*
 
+> This [[National Marine Fisheries Service]] technical report by [[Wesley J. Ebel]] (Seattle, August 1971) summarizes 1970 water sampling of [[Dissolved Nitrogen]] supersaturation in the [[Columbia River]] and [[Snake River]] and reviews its effects on juvenile and adult [[Chinook Salmon]]...
+> -- *[[DissolvedNitrogenConcentration_15718]]*
+
 ### Mentioned In
 - [[EvaluationOfSpringChinookMigra_1969]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
+- [[DissolvedNitrogenConcentration_15718]]
+
+## Iceberg Canyon
+
+### Summary
+Iceberg Canyon is a named sampling site on Lake Powell. The graphs are coded SCUCLP0790 for this site, but the source reports no values for it.
+
+### Context
+> This Bureau of Reclamation memorandum from the [[Glen Canyon Environmental Studies]] group transmits [[HYDROLAB Profiling]] data collected at [[Lake Powell]] during the August 1 through 6, 1994 field trip. The profiles cover water temperature, [[Dissolved Oxygen]], [[Specific Conductivity]], and...
+> -- *[[GlenCanyonEnvironmentalStudies_19731]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19731]]
 
 ## Iceland
 
@@ -1333,6 +1349,15 @@ Idaho is a neighboring state that served as a market for Montana Carp and Sucker
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 - [[HowToBuildAFarmPondForFishProd_13264]]
 
+## Idaho Batholith
+
+### Context
+> Platts and Megahan (1975, [[U.S. Forest Service]], Intermountain Forest and Range Experiment Station) report a 1966–1974 time series of riverbed surface sediment in four major [[Chinook Salmon]] spawning areas of the [[South Fork Salmon River]] (SFSR), Idaho. Accelerated erosion from [[Logging and...
+> -- *[[TimeTrendsInRiverbedSedimentCo_18609]]*
+
+### Mentioned In
+- [[TimeTrendsInRiverbedSedimentCo_18609]]
+
 ## Idaho Cooperative Fishery Research Unit
 <!-- fm: auto_enriched: true -->
 
@@ -1370,10 +1395,14 @@ The Idaho Fish and Game Department is a state agency responsible for fisheries a
 > This annual progress report documents chinook salmon spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1, 1966 to September 30, 1966 (reported in 1967-1968). The survey recorded 7,546 chinook salmon redds across the drainage, representing a 4.6% increase from...
 > -- *[[SalmonSpawningGroundSurveysSal_17594]]*
 
+> This Idaho Department of Fish and Game report by [[Melvin Reingold]] evaluates the transplant of juvenile [[Steelhead Trout]] from the mid-[[Snake River]] to the [[Pahsimeroi River]]. Approximately 1,292,000 juveniles were released into two one-acre holding ponds from February 8 to May 2, 1967, and...
+> -- *[[EvaluationOfTransplantingMidsn_16814]]*
+
 ### Mentioned In
 - [[FederalAidToFishRestorationAnn_19654]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
+- [[EvaluationOfTransplantingMidsn_16814]]
 
 ## Idaho Power Company
 
@@ -1387,9 +1416,13 @@ Idaho Power Company is the owner of C.J. Strike Reservoir in south-central Idaho
 > This annual progress report documents the 1966 [[Chinook Salmon]] spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1 to September 30, 1966. Spring and summer chinook salmon spawning runs into Idaho in 1966 were larger than those of 1965, though the summer-run...
 > -- *[[SalmonAndSteelheadInvestigatio_12147]]*
 
+> This Idaho Department of Fish and Game report by [[Melvin Reingold]] evaluates the transplant of juvenile [[Steelhead Trout]] from the mid-[[Snake River]] to the [[Pahsimeroi River]]. Approximately 1,292,000 juveniles were released into two one-acre holding ponds from February 8 to May 2, 1967, and...
+> -- *[[EvaluationOfTransplantingMidsn_16814]]*
+
 ### Mentioned In
 - [[FederalAidToFishRestorationAnn_19654]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
+- [[EvaluationOfTransplantingMidsn_16814]]
 
 ## Idaho State University Museum
 
@@ -1595,8 +1628,12 @@ The Illinois Department of Conservation is the state agency that jointly support
 > This 1955 paper by [[Leonard Durham]], published in the *Illinois Academy of Science Transactions* (Vol. 47), reports age and growth analyses of [[Smallmouth Bass]] and [[Longear Sunfish]] in the lower four miles of [[Jordan Creek]], a small tributary of the [[Salt Fork of the Vermilion River]] in...
 > -- *[[EcologicalFactorsAffectingTheG_19169]]*
 
+> This publication, compiled by John M. Stubbs in Nashville, Tennessee (March 1966), summarizes a questionnaire sent to all U.S. states and nine Canadian provinces on how fish killed by pollution are valued in monetary terms, whether legal or out-of-court damages were collected, and what each...
+> -- *[[MonetaryValuesOfFish_14652]]*
+
 ### Mentioned In
 - [[EcologicalFactorsAffectingTheG_19169]]
+- [[MonetaryValuesOfFish_14652]]
 
 ## Illinois Department Of Public Health
 <!-- fm: auto_enriched: true -->
@@ -1685,6 +1722,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This compiled document, dated 1994, is a set of correspondence, meeting records, proposals, and technical reference material prepared for the U.S. Fish and Wildlife Service (FWS) [[National Fish Hatchery System]] Review. Its central theme is a proposed shift in the role of federal hatcheries from...
 > -- *[[NationalFishHatcherySystemRevi_11668]]*
 
+> This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
+> -- *[[OklahomaFishesWithDistribution_16567]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -1696,6 +1736,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[TheNationsTenMostEndangeredRiv_17976]]
 - [[LeechesAndTheirImportanceInThe_18934]]
 - [[NationalFishHatcherySystemRevi_11668]]
+- [[OklahomaFishesWithDistribution_16567]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -1816,11 +1857,15 @@ Imperial County is a location in southern California where a Sacramento Hitch wa
 > This memorandum documents the relocation of 20 [[Humpback Sucker]] (HBS) from the 1974 cohort to [[West Pond]] in [[Imperial County]], California on July 16, 1980. The fish, originally received from [[Willow Beach National Fish Hatchery]], were marked and tagged using multiple methods including...
 > -- *[[RelocationOfTheCohortHbsReceiv_11428]]*
 
+> This 1953 reprint from *California Fish and Game* (Vol. 39, No. 1) by [[Carl L. Hubbs]] of the [[Scripps Institution of Oceanography]] reports the first capture of the [[Spotted Sleeper]] (*Eleotris picta*, family [[Eleotridae]]) in California. A non-breeding adult male was caught on April 16,...
+> -- *[[EleotrisPictaAddedToTheFishFau_20054]]*
+
 ### Mentioned In
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[AnAbnormalCarpCyprinusCarpioFr_12321]]
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[RelocationOfTheCohortHbsReceiv_11428]]
+- [[EleotrisPictaAddedToTheFishFau_20054]]
 
 ## Imperial County California
 <!-- fm: auto_enriched: true -->
@@ -1892,6 +1937,12 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This final report documents a 1987 monitoring study of [[Razorback Sucker]] (*Xyrauchen texanus*) reintroduced into the [[Lower Colorado River]]. Approximately 900,000 larvae produced at [[Dexter National Fish Hatchery]] were stocked into selected Colorado River backwaters in late spring 1987, with...
 > -- *[[AMonitoringStudyOfRazorbackSuc_12703]]*
 
+> This document is a pair of 1957 intraoffice memoranda from the [[California Department of Fish and Game]] (signed G. W. McCammon, Fisheries Biologist II, addressed to J. B. Kimsey). They report field observations of [[Threadfin Shad]] (TFS) in the [[Colorado River]] system, covering [[Lake Havasu]]...
+> -- *[[TfsObservationsOnTheColoradoRi_12246]]*
+
+> This 1974 technical report, prepared by [[Eric S. Gustafson]] and submitted by [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], [[Arizona State University]], to the [[U.S. Fish and Wildlife Service]] Regional Office, evaluates external secondary sex characteristics for...
+> -- *[[SexualDimorphismInTheAdultRazo_17843]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -1914,6 +1965,8 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[LowerColoradoRiverMaps_12161]]
 - [[AMonitoringStudyOfRazorbackSuc_12703]]
+- [[TfsObservationsOnTheColoradoRi_12246]]
+- [[SexualDimorphismInTheAdultRazo_17843]]
 
 ## Imperial Dam Impoundment
 <!-- fm: auto_enriched: true -->
@@ -2270,6 +2323,18 @@ Imperial Valley Warmwater Hatchery is a California Department of Fish and Game f
 ### Mentioned In
 - [[UseOfBioassaysInDeterminingLev_13904]]
 
+## In Stream Flow Water Right
+
+### Summary
+An in-stream flow water right is a legal entitlement to keep water flowing in a stream for environmental purposes. For Leslie Creek, the U.S. Fish and Wildlife Service requested this right in 1992, and it was granted in 1993 to protect base flow for the Yaqui Topminnow and Yaqui Chub. Its volume, 419.9 acre-feet per year, is derived from median monthly flows over 1970–1992, and the memo argues upstream farming could threaten it.
+
+### Context
+> This technical memorandum, written by [[Paul Tashjian]] on 2/18/2000 and addressed to Steve Cullinan and Paul Cornes, assesses how upstream land use could reduce the base flows of [[Leslie Creek]] within the [[Leslie Canyon National Wildlife Refuge]]. The refuge holds an [[In Stream Flow Water...
+> -- *[[TechnicalMemorandumToAddressAs_11247]]*
+
+### Mentioned In
+- [[TechnicalMemorandumToAddressAs_11247]]
+
 ## In-Stream Flow Methodology
 <!-- fm: auto_enriched: true -->
 
@@ -2349,9 +2414,13 @@ Inbreeding depression in fish science refers to the reduction in fitness, surviv
 > This document is **not a primary scientific paper** but a regulatory compliance letter from the U.S. Fish and Wildlife Service (FWS), Arizona Ecological Services Field Office, to the U.S. Forest Service, dated October 22, 1993. It addresses non-compliance with a May 7, 1993, [[Biological Opinion]...
 > -- *[[ReYourLetterRegardingTheForest_11890]]*
 
+> This U.S. Fish and Wildlife Service (Arizona Ecological Services State Office) biological opinion, dated July 20, 1995 (reference 2-21-95-F-020), evaluates a proposed [[Allotment Management Plan]] for the combined Baseline and Horse Springs livestock grazing allotments in Greenlee County, Arizona....
+> -- *[[BiologicalOpinionOnTheProposed_11939]]*
+
 ### Mentioned In
 - [[BiologicalOpinionResearchProje_20155]]
 - [[ReYourLetterRegardingTheForest_11890]]
+- [[BiologicalOpinionOnTheProposed_11939]]
 
 ## Incomplete Lineage Sorting
 
@@ -2596,9 +2665,13 @@ The Indian Flap-shelled Turtle is a reptile species that was previously listed u
 > This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
 > -- *[[AdverseBiologicalOpinionIndian_15638]]*
 
+> This report, prepared for the [[U.S. Fish And Wildlife Service]] Albuquerque office by the Arizona Fishery Resources Office, summarizes stream surveys for the threatened [[Loach Minnow]] (*Rhinichthys cobitis*) in the lower reaches of [[Tonto Creek]] and [[Big Bonito Creek]] on the [[Fort Apache...
+> -- *[[SurveysForLoachMinnowInBigBoni_20266]]*
+
 ### Mentioned In
 - [[DistributionAndStatusOfLoachMi_20268]]
 - [[AdverseBiologicalOpinionIndian_15638]]
+- [[SurveysForLoachMinnowInBigBoni_20266]]
 
 ## Indian Hot Springs
 <!-- fm: auto_enriched: true -->
@@ -3162,6 +3235,15 @@ Inspiration Consolidated Copper Company was one of three active mining companies
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
 - [[TheoreticalYieldsAtVariousRate_1953]]
 
+## Instinctive Behavior
+
+### Context
+> This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
+> -- *[[GeneralReviewsAndSummariesTrop_17993]]*
+
+### Mentioned In
+- [[GeneralReviewsAndSummariesTrop_17993]]
+
 ## Institute For Fisheries Research
 <!-- fm: auto_enriched: true -->
 
@@ -3172,10 +3254,22 @@ Inspiration Consolidated Copper Company was one of three active mining companies
 > This 1939 paper by [[Justin W. Leonard]] of the [[Institute For Fisheries Research]] (Michigan) reviews the [[Stream Bottom Sampling]] methods used in fisheries surveys and tests the accuracy of a single 1-square-foot sample. Leonard endorses the collapsible brass-frame [[Surber Net]] as the most...
 > -- *[[CommentsOnTheAdequacyOfAccepte_20281]]*
 
+> This report, Report No. 815 by C. J. D. Brown of the [[Institute for Fisheries Research]] ([[Michigan Department of Conservation]]), is a small-scale fisheries survey of [[Hopkins Lake]], a 7.9-acre lake at the south edge of [[Owosso]] in [[Shiawassee County]], Michigan. It was reprinted in part...
+> -- *[[FisheriesLakeSurveyASmallscale_12998]]*
+
+> This 1947 article by [[David S. Shetter]] of the [[Institute For Fisheries Research]], [[Michigan Department Of Conservation]], describes the [[Electric Shocker]], a portable AC electrofishing unit used to capture stream fish alive, chiefly [[Brook Trout]]. The device was adapted from German work...
+> -- *[[TheElectricShockerAndItsUseInM_18901]]*
+
+> This Michigan Department of Conservation pamphlet, written by [[Frank Hooper]] of the [[Institute for Fisheries Research]], gives practical guidance for eradicating unwanted fish from ponds, lakes, and streams using [[Rotenone]]-based toxicants. It covers toxicant selection, lake suitability,...
+> -- *[[EradicationOfFishByChemicalTre_19909]]*
+
 ### Mentioned In
 - [[BookReviewsStatisticalMethodsF_20731]]
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CommentsOnTheAdequacyOfAccepte_20281]]
+- [[FisheriesLakeSurveyASmallscale_12998]]
+- [[TheElectricShockerAndItsUseInM_18901]]
+- [[EradicationOfFishByChemicalTre_19909]]
 
 ## Institute Of Ecology
 <!-- fm: auto_enriched: true -->
@@ -3319,6 +3413,9 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This completion report documents physical habitat and streamflow analysis conducted on the [[Yampa River]] and [[White River]] in Colorado and Utah during 1981 as part of the [[Colorado River Fisheries Project]] (CRFP). The study applied the [[PHABSIM]] (Physical Habitat Simulation) model to eight...
 > -- *[[CompletionReportYampawhitePhys_18677]]*
 
+> This U.S. Department of the Interior, National Biological Service primer (Biological Report 29, March 1995) introduces the [[Instream Flow Incremental Methodology]] (IFIM), a interdisciplinary framework for evaluating how water management decisions affect aquatic habitat in flowing waters. The...
+> -- *[[TheInstreamFlowIncrementalMeth_14710]]*
+
 ### Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -3327,6 +3424,7 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[BiologicalAssessmentForTheSpik_11476]]
 - [[AcquisitionOfHabitatPreference_11568]]
 - [[CompletionReportYampawhitePhys_18677]]
+- [[TheInstreamFlowIncrementalMeth_14710]]
 
 ## Instream Flow Incremental Methodology (Ifim)
 <!-- fm: auto_enriched: true -->
@@ -3622,9 +3720,17 @@ Interface theory treats transition zones as places where structural or functiona
 > This document is a 1997 review by P. E. Brunkow, Post-doctoral Research Associate in the Department of Zoology at [[Arizona State University]], of aquatic biology project reports from the [[Glen Canyon Environmental Studies]] (GCES) Phase I and Phase II efforts. It was prepared for the [[Bureau of...
 > -- *[[IntegrationAndEvaluationOfGlen_13851]]*
 
+> This technical proposal, dated April 14, 1992, was prepared by [[BIO/WEST Inc]] for the [[Hualapai Tribe]] Wildlife Management Department. It requests a fishery investigation of the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Pearce Ferry]] (RM 286) to monitor the effects of [[Interim...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13621]]*
+
+> This internal memorandum, dated November 28, 1992, prepares [[Bio/West]] representatives for a Principal Investigators Meeting on December 1, 1992, and summarizes progress on contract research on the [[Humpback Chub]] (*Gila cypha*, name not stated in the source) in the [[Grand Canyon]] of the...
+> -- *[[PrincipalInvestigatorsMeeting_13623]]*
+
 ### Mentioned In
 - [[DecemberCritsMeetingSynthesisA_1994_01_04]]
 - [[IntegrationAndEvaluationOfGlen_13851]]
+- [[TheEffectsOfInterimFlowsFromGl_13621]]
+- [[PrincipalInvestigatorsMeeting_13623]]
 
 ## Interim Operating Criteria
 
@@ -3637,6 +3743,15 @@ Interim Operating Criteria are temporary operational guidelines for Glen Canyon 
 
 ### Mentioned In
 - [[BureauOfReclamationAnnouncesDe_20789]]
+
+## Interior Chaparral
+
+### Context
+> This Arizona Game and Fish Department (AGFD) technical report, Nongame and Endangered Wildlife Program Technical Report 112 (June 1997), concludes the [[Statewide Riparian Inventory and Mapping]] (SRIM) project by applying remote sensing to riparian areas along intermittent streams. The study...
+> -- *[[RemoteSensingMappingOfArizonaI_14412]]*
+
+### Mentioned In
+- [[RemoteSensingMappingOfArizonaI_14412]]
 
 ## Interior Drainage
 <!-- fm: auto_enriched: true -->
@@ -3689,6 +3804,18 @@ The interior least tern is a federally listed endangered bird species that is on
 
 ### Mentioned In
 - [[BiogeographyOfTroglobites_15604]]
+
+## Interior Secretary Stewart L. Udall
+
+### Summary
+Stewart L. Udall, a former U.S. Interior Secretary, wrote the foreword to Battle Against Extinction (1991) and was one of the three people interviewed for this article. In the source, he writes that federal water projects are increasingly demanding more water.
+
+### Context
+> This Fall 1992 [[Arizona State University]] (ASU) feature, the second part of a series on environmental abuse, reports on how water management in the arid West is driving the loss of native fishes, birds, and riparian habitat. ASU researchers [[W. L. Minckley]], [[Michael E. Douglas]], and [[Robert...
+> -- *[[FaunaFarewellLegacyOfEnvironme_12623]]*
+
+### Mentioned In
+- [[FaunaFarewellLegacyOfEnvironme_12623]]
 
 ## Interjurisdictional Fisheries Management
 <!-- fm: auto_enriched: true -->
@@ -4987,6 +5114,18 @@ Irvine Lake (also known as Santiago Reservoir) in Orange County received a mixed
 ### Mentioned In
 - [[TheStatusOfThePumpkinseedLepom_12862]]
 
+## Irving Plant
+
+### Summary
+A small hydroelectric plant, operated by Arizona Public Service, that is supplied by the Fossil Creek Flume. The source says it was constructed in 1914 and reports eight staff living at the site.
+
+### Context
+> This document is a 1966 magazine feature from the [[Arizona Engineer And Scientist]] describing the [[Fossil Creek Flume]], a historic water conduit that diverts spring-fed flow from [[Fossil Creek]] to power two small hydroelectric plants, [[Irving Plant]] and [[Childs Plant]], operated by...
+> -- *[[FossilCreakFlumeaPioneerMonume_16579]]*
+
+### Mentioned In
+- [[FossilCreakFlumeaPioneerMonume_16579]]
+
 ## Isabelle Timber Sale
 
 ### Summary
@@ -5012,6 +5151,18 @@ The Isabelle Timber Sale was a proposed timber harvest project covering approxim
 ### Mentioned In
 - [[DragonfliesCollectedInKentucky_1984_06_26]]
 - [[TheOdonataOfCapeCodMassachuset_16984]]
+
+## Isla De Lobos
+
+### Summary
+Isla de Lobos is a coralline island off the Mexican Gulf coast that is the only Mexican record of Hyporhamphus meeki from strictly marine reef waters. The source cites it as a notable habitat contrast to the lagoons and estuaries where most other records were taken.
+
+### Context
+> This study revises the Mexican distribution of halfbeaks in the genus [[Hyporhamphus]] along the Gulf of Mexico and Caribbean coasts of Mexico. It addresses long-standing misidentification in the literature, largely caused by confusion over [[Hyporhamphus Unifasciatus]] (including its synonym *H....
+> -- *[[DistributionalAndEcologicalNot_17538]]*
+
+### Mentioned In
+- [[DistributionalAndEcologicalNot_17538]]
 
 ## Island Biogeography
 <!-- fm: auto_enriched: true -->
@@ -5574,12 +5725,16 @@ The IUCN (International Union for Conservation of Nature) is a global authority 
 > This analytic essay examines captive breeding and reintroduction programs for endangered native fishes in [[Western North America]], focusing on two contrasting groups: long-lived, large-bodied riverine species ([[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], [[Razorback Sucker]]) and...
 > -- *[[FishWithoutARiverTheCaptiveBre_19094]]*
 
+> This document has two parts. Page 1 to 3 is a letter dated 24 November 1992 from Paul V., Curator of Freshwater Fishes at the [[New York Zoological Society]] / [[New York Aquarium]], to [[William L. Minckley]] of Arizona State University. The letter follows up on the 1992 [[Desert Fishes Council]]...
+> -- *[[DfcSymposiumProgram_16193]]*
+
 ### Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
 - [[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]
 - [[SpeciesSurvivalCommissionAMemb_14399]]
 - [[FishWithoutARiverTheCaptiveBre_19094]]
+- [[DfcSymposiumProgram_16193]]
 
 ## Iucn Freshwater Fish Specialist Group
 <!-- fm: auto_enriched: true -->
