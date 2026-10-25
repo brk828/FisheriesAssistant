@@ -4,6 +4,18 @@ letter: MISC
 ---
 # Concept Stubs: MISC
 
+## 0.5 m Conical Plankton Net
+
+### Summary
+The 0.5 m conical plankton net is a low-speed net with a 0.5 m mouth diameter, and the source identifies it as the most used sampling gear in the United States for ichthyoplankton. It was compared against other gear in several cited studies, including close agreement with a centrifugal pump in one study (Aron 1958).
+
+### Context
+> This Fish and Wildlife Service Topical Brief (FWS/OBS-76/20.7, June 1978) reviews how sampling error affects [[Ichthyoplankton]] data (fish eggs and larvae) used in [[Power Plant Entrainment]] impact assessments. It catalogs the seven general categories of sampling gear in use, identifies abiotic...
+> -- *[[FactorsAffectingAccuracyOfIcht_17749]]*
+
+### Mentioned In
+- [[FactorsAffectingAccuracyOfIcht_17749]]
+
 ## 104th Congress
 
 ### Summary
@@ -122,6 +134,9 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This administrative packet from the [[Recovery Program]] for the Endangered Fishes of the Upper Colorado River Basin includes the final summary of the November 26, 1990 [[Management Committee]] meeting, its attendee and assignment lists, a calendar of events for January to August 1991, and a...
 > -- *[[NovemberManagementCommitteeMee_21033]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) final report, prepared by [[Lyon R. Kaeding]] and [[Douglas B. Osmundson]] (May 1989), proposes preliminary flow recommendations for the [[15-Mile Reach]] of the upper [[Colorado River]]. The reach is occupied habitat for the endangered [[Colorado...
+> -- *[[BiologicallyDefensibleFlowReco_17864]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -136,6 +151,7 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[AprilManagementGroupMeetingSum_21009]]
 - [[ManagementGroupMeeting_21017]]
 - [[NovemberManagementCommitteeMee_21033]]
+- [[BiologicallyDefensibleFlowReco_17864]]
 
 ## 15-Mile Reach Gage
 
@@ -232,6 +248,18 @@ The 1983 flood was a high-flow event on the Colorado River below Glen Canyon Dam
 
 ### Mentioned In
 - [[ReviewOfTheNationalResearchCom_13738]]
+
+## 1987 Wetlands Delineation Manual
+
+### Summary
+The 1987 Wetlands Delineation Manual is the guidance the Corps and EPA use to delineate wetlands and waters. In this packet it is cited for identifying the ordinary high water mark through field indicators such as scour lines, shelving, soil changes, debris, and destroyed vegetation.
+
+### Context
+> This document is a 1993 public information packet from the [[U.S. Environmental Protection Agency]] (EPA), Region IX, and the [[U.S. Army Corps of Engineers]] (Corps). It invites the public to workshops on the proposed [[Verde River]] [[Advanced Identification]] (ADID) under [[Section 404 Permit...
+> -- *[[VerdeRiverAdvancedIdentificati_11366]]*
+
+### Mentioned In
+- [[VerdeRiverAdvancedIdentificati_11366]]
 
 ## 1989 Management Research Permit No. 024
 <!-- fm: auto_enriched: true -->

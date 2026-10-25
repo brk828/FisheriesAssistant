@@ -86,6 +86,18 @@ Xanthine Dehydrogenase is an enzyme examined at 1 genetic locus that showed one 
 ### Mentioned In
 - [[CopulatoryFunctionOfTheModifie_14265]]
 
+## Xenoophorus
+
+### Summary
+A genus of small freshwater fishes restricted to very small springs and drainages in the Chihuahuan Desert, cited as an example of endemic genera. The source notes it is one of several genera with restricted ranges that likely arose through genetic drift in small, old habitats. It also appears in the source's list of an undescribed Xenoophorus species.
+
+### Context
+> This review by [[Salvador Contreras-Balderas]] examines how the fish fauna of the [[Chihuahuan Desert]] arose and why it is disappearing. The region holds 107 native species, mostly of northern origin, distributed across interior drainages that once belonged to the former Rio Bravo system. The...
+> -- *[[SpeciationAspectsAndManmadeCom_17519]]*
+
+### Mentioned In
+- [[SpeciationAspectsAndManmadeCom_17519]]
+
 ## Xenopus
 
 ### Summary
@@ -595,6 +607,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
 > -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
 
+> This taxonomic paper by John Otterbein Snyder reports on a freshwater fish collection made by [[Edgar A. Mearns]], surgeon and naturalist with the United States Army, during the survey of the Mexican boundary between January 1892 and September 1894. The specimens came from rivers draining to the...
+> -- *[[NotesOnACollectionOfFishesMade_21252]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -664,6 +679,7 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[NotesOnTheSpawningOfTheHumpbac_19098]]
 - [[SexualDimorphismInTheAdultRazo_17843]]
 - [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
+- [[NotesOnACollectionOfFishesMade_21252]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->

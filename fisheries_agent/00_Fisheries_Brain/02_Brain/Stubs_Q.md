@@ -338,6 +338,18 @@ Quaking Aspen (Populus tremuloides) is a deciduous tree species found in the Jef
 ### Mentioned In
 - [[TheMonoBasin_15632]]
 
+## Quality Control System
+
+### Summary
+A quality control system is an industrial approach that the authors propose adapting to ecological management. It combines sensors, rapid data relay, and a decision unit able to act, so that problems in water quality can be detected and corrected quickly.
+
+### Context
+> This reprinted chapter, from a 1979 U.S. Forest Service proceedings on floodplain wetland and riparian ecosystem protection, argues that eastern U.S. riparian habitats can be both maintained and rehabilitated with existing methods. The authors, [[John Cairns Jr.]], [[Jay R. Stauffer Jr.]] and...
+> -- *[[OpportunitiesForMaintenanceAnd_17327]]*
+
+### Mentioned In
+- [[OpportunitiesForMaintenanceAnd_17327]]
+
 ## Quality Trout Management
 
 ### Summary
@@ -637,6 +649,18 @@ Quibdo is a collection locality in Trans-Andean Colombia where specimens of Hypo
 ### Mentioned In
 - [[TheGymnotidaeOfTransandeanColo_15808]]
 
+## Quiburis Formation
+
+### Summary
+The youngest Tertiary sedimentary unit, made of alluvial and lakebed deposits. It contains Hemphillian vertebrate fossils indicating middle Pliocene age, and fills the basin formed by Basin and Range faulting.
+
+### Context
+> M. H. Krieger describes the geologic structure and stratigraphy of the [[Winkelman 15-Minute Quadrangle]] in Pinal and Gila Counties, southeastern Arizona. A northwest-trending belt of steeply dipping Precambrian and Paleozoic sedimentary rocks separates two contrasting structural domains. To the...
+> -- *[[GeneralizedGeologyAndStructure_12425]]*
+
+### Mentioned In
+- [[GeneralizedGeologyAndStructure_12425]]
+
 ## Quicklime
 
 ### Summary
@@ -694,10 +718,18 @@ The Quien Sabe Prescribed Burn is a planned prescribed fire in the Cave Creek ra
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This Conservation Commission of West Virginia booklet, prepared by the Division of Education under Fish Division Chief Harry Van Meter, is an identification guide for anglers and school classes. It illustrates 50 prominent freshwater fish species, grouped by family and accompanied by brief...
+> -- *[[ProminentFishesOfWestVirginia_13090]]*
+
+> This monitoring study, reprinted from the *Pesticides Monitoring Journal* (Vol. 12, No. 2, September 1978), reports [[Organochlorine Insecticides]] and [[Polychlorinated Biphenyls]] (PCBs) in edible fish flesh from [[Lake Saint Clair]] and [[Lake Erie]] collected between 1968 and 1976. Eighteen...
+> -- *[[ResiduesOfOrganochlorineInsect_18815]]*
+
 ### Mentioned In
 - [[LarvalDevelopmentOfTheShorthea_14149]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[WhatHaveICaught_12929]]
+- [[ProminentFishesOfWestVirginia_13090]]
+- [[ResiduesOfOrganochlorineInsect_18815]]
 
 ## Quillback Carpsucker
 <!-- fm: auto_enriched: true -->
@@ -959,6 +991,9 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > The U.S. Fish and Wildlife Service's 1993 recovery plan for the [[Desert Pupfish]] (*Cyprinodon macularius*) sets out the actions needed to downlist the Colorado River form of this endangered fish, and to protect its two other forms. The plan was prepared by Paul C. Marsh (Arizona State University)...
 > -- *[[DesertPupfishCyprinodonMacular_17053]]*
 
+> This proceedings paper by [[James E Johnson]] (U.S. Fish and Wildlife Service and University of Arkansas) reviews how aquaculture affects endangered North American fishes and how hatcheries can help recover them. The author argues that the most serious threat is the accidental or deliberate...
+> -- *[[AReviewOfSelectedEndangeredFis_19784]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -993,6 +1028,7 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[MinutesOfTheNovemberRecoveryTe_14788]]
 - [[ReDesertPupfishAndGilaTopminno_16904]]
 - [[DesertPupfishCyprinodonMacular_17053]]
+- [[AReviewOfSelectedEndangeredFis_19784]]
 
 ## Quitobaquito Pupfish Subspecies
 <!-- fm: auto_enriched: true -->
@@ -1046,6 +1082,9 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 > This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
 > -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
 
+> This proceedings paper by [[James E Johnson]] (U.S. Fish and Wildlife Service and University of Arkansas) reviews how aquaculture affects endangered North American fishes and how hatcheries can help recover them. The author argues that the most serious threat is the accidental or deliberate...
+> -- *[[AReviewOfSelectedEndangeredFis_19784]]*
+
 ### Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
@@ -1058,6 +1097,7 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 - [[ItemsToBringToYourAttentionAft_13731]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
+- [[AReviewOfSelectedEndangeredFis_19784]]
 
 ## Quitobaquito Springs
 <!-- fm: auto_enriched: true -->
@@ -1117,6 +1157,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This is a written comment letter, dated July 10, 1995, from [[Defenders of Wildlife]] (represented by Wildlife Counsel Gregory J. Sater) to the Superintendent of [[Organ Pipe Cactus National Monument]]. It responds to the Draft General Management Plan, Development Concept Plan, and Environmental...
 > -- *[[WrittenCommentsOnDraftGeneralM_20520]]*
 
+> This package is a renewal application from the [[Arizona State University]] (ASU) Department of Biology to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 2 office. It seeks continued authorization under Federal Fish and Wildlife Permit PRT 797129, which was effective 8/9/96 to 8/9/98. The...
+> -- *[[PermitPrt_17155]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -1140,6 +1183,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[AnnualSummaryOfActivitiesQuito_19496]]
 - [[WrittenCommentsOnDraftGeneralM_20520]]
+- [[PermitPrt_17155]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

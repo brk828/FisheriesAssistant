@@ -92,6 +92,12 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This intra-Service biological opinion (Cons. #2-22-94-F-210, dated February 23, 1994) evaluates a [[Partners for Wildlife Challenge Cost Share Agreement]] between [[The Nature Conservancy]] and the [[U.S. Fish and Wildlife Service]]. The project would detonate and remove the southernmost of four...
 > -- *[[IntraserviceBiologicalOpinionP_18806]]*
 
+> This document is a 1993 public information packet from the [[U.S. Environmental Protection Agency]] (EPA), Region IX, and the [[U.S. Army Corps of Engineers]] (Corps). It invites the public to workshops on the proposed [[Verde River]] [[Advanced Identification]] (ADID) under [[Section 404 Permit...
+> -- *[[VerdeRiverAdvancedIdentificati_11366]]*
+
+> This document is a federal consultation package evaluating whether the proposed [[Hoover Dam]] powerplant modification (a new 500 MW powerhouse plus uprating of existing generators) would affect the endangered [[Bonytail Chub]] (*Gila elegans*) and the non-listed but anticipated-to-be-listed...
+> -- *[[BiologicalAssessmentOfTheImpac_14822]]*
+
 ### Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -118,6 +124,8 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[ResponseOfMigratingAdultSalmon_13581]]
 - [[GizzardShadRemovalInLakeHamilt_14509]]
 - [[IntraserviceBiologicalOpinionP_18806]]
+- [[VerdeRiverAdvancedIdentificati_11366]]
+- [[BiologicalAssessmentOfTheImpac_14822]]
 
 ## U.S. Army Intelligence Center And Fort Huachuca
 
@@ -190,11 +198,15 @@ The U.S. Biological Survey was a federal agency whose member, E. A. Goldman, joi
 > This 1950s-era Arizona Game & Fish Department pamphlet, written by Ernest E. Mulch and William C. Gamble, is a popular angling guide to eight [[Game Fish]] species found in the state's streams and lakes. It combines species descriptions (fin counts, scale counts, spawning and growth information)...
 > -- *[[GameFishesOfArizona_15484]]*
 
+> This 1935 report by M. J. Madsen, Temporary Assistant Biologist for the [[U.S. Bureau of Fisheries]] (Department of Commerce), documents a field survey of the streams and lakes of the [[Coconino National Forest]] in north central Arizona. The survey was conducted from May to August 1934, during a...
+> -- *[[ABiologicalSurveyOfStreamsAndL_19340]]*
+
 ### Mentioned In
 - [[NotesOnTheLeapingOfThePacificS_14869]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[ExplanatoryNote_11949]]
 - [[GameFishesOfArizona_15484]]
+- [[ABiologicalSurveyOfStreamsAndL_19340]]
 
 ## U.S. Bureau Of Land Management
 <!-- fm: auto_enriched: true -->
@@ -520,11 +532,15 @@ The U.S. diplomatic mission in Mexico City, which in this 1986 source receives c
 > This State summary from the [[National Water Summary 1986]] assesses ground-water quality in Arizona. Ground water is the principal public water source: about two-thirds of the State's 1983 water use and 65 percent of its population depended on it, and roughly 73 percent of withdrawals went to...
 > -- *[[ArizonaGroundwaterQuality_19602]]*
 
+> This document is a 1993 public information packet from the [[U.S. Environmental Protection Agency]] (EPA), Region IX, and the [[U.S. Army Corps of Engineers]] (Corps). It invites the public to workshops on the proposed [[Verde River]] [[Advanced Identification]] (ADID) under [[Section 404 Permit...
+> -- *[[VerdeRiverAdvancedIdentificati_11366]]*
+
 ### Mentioned In
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[MiningActivitiesAndWaterQualit_21102]]
 - [[BiologicalAssessmentAndEvaluat_16615]]
 - [[ArizonaGroundwaterQuality_19602]]
+- [[VerdeRiverAdvancedIdentificati_11366]]
 
 ## U.S. Fish & Wildlife Service
 <!-- fm: auto_enriched: true -->
@@ -1418,6 +1434,51 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This document comprises a 1984 cover letter from the [[U.S. Fish and Wildlife Service]] (FWS) to [[W.L. Minckley]] and a reprint of the *Federal Register* proposed rule (Vol. 49, No. 110, June 6, 1984, pp. 23402–23409). The proposal would list the [[Sonora Chub]] (*[[Gila Ditaenia]]*) as a...
 > -- *[[LetterToMinckleylistingOfGilaD_20831]]*
 
+> This document is a 1993 public information packet from the [[U.S. Environmental Protection Agency]] (EPA), Region IX, and the [[U.S. Army Corps of Engineers]] (Corps). It invites the public to workshops on the proposed [[Verde River]] [[Advanced Identification]] (ADID) under [[Section 404 Permit...
+> -- *[[VerdeRiverAdvancedIdentificati_11366]]*
+
+> This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
+> -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
+
+> This report, prepared by W. L. Minckley of the [[Arizona State University]] Department of Zoology (1985) for the [[U.S. Fish and Wildlife Service]] (USFWS), reviews the population and habitat status of native freshwater fishes in USFWS Region II west of the Continental Divide. Natural aquatic...
+> -- *[[NativeFishesAndNaturalAquaticH_13706]]*
+
+> These are the minutes of the [[Desert Fishes Recovery Team]] meeting held February 5-6, 1992, at the Tonto National Forest near Phoenix, Arizona. The document is a transmittal letter to the Regional Director of the [[U.S. Fish and Wildlife Service]] (FWS), Region II, followed by the full minutes....
+> -- *[[MinutesDesertFishesRecoveryTea_14791]]*
+
+> This review by [[Walter A. Chipman]] of the [[U.S. Fish and Wildlife Service]] Radiobiological Investigations examines how marine fish and shellfish take up radioactive materials when [[Fission Products]] and other radioisotopes are present in sea water. Drawing mainly on laboratory work at the...
+> -- *[[AccumulationOfRadioactiveMater_16139]]*
+
+> This package is a renewal application from the [[Arizona State University]] (ASU) Department of Biology to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 2 office. It seeks continued authorization under Federal Fish and Wildlife Permit PRT 797129, which was effective 8/9/96 to 8/9/98. The...
+> -- *[[PermitPrt_17155]]*
+
+> This 1985 discussion paper, prepared by the [[Colorado Department of Natural Resources]], outlines state-level options for recovering the four endangered Colorado River fishes and for conducting [[Section 7 Consultation]] under the [[Endangered Species Act]]. It was written after a memorandum of...
+> -- *[[DiscussionPaperApproachesToRec_17169]]*
+
+> This February 21, 1990 status report from the [[Colorado River Recovery Implementation Committee]] presents recommendations from the Water Acquisition Ad Hoc Subcommittee of the Management Group. Its goal is to expedite the acquisition of water rights, mainly by converting them to [[Instream Flow]]...
+> -- *[[RecoveryImplementationProgramF_17180]]*
+
+> This Fish and Wildlife Service Topical Brief (FWS/OBS-76/20.7, June 1978) reviews how sampling error affects [[Ichthyoplankton]] data (fish eggs and larvae) used in [[Power Plant Entrainment]] impact assessments. It catalogs the seven general categories of sampling gear in use, identifies abiotic...
+> -- *[[FactorsAffectingAccuracyOfIcht_17749]]*
+
+> This 1975 preliminary report, prepared by [[Eric S Gustafson]] and submitted by [[W L Minckley]] of the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], documents early embryonic and larval development of the [[Razorback Sucker]] (*Xyrauchen texanus*). The work...
+> -- *[[PreliminaryReportStagesInTheEm_17844]]*
+
+> This document is a [[Selected Bibliography]] on [[Electrofishing]] for fish population sampling, issued as Bibliography Series No. 31 in November 1974. It was compiled by Ruth Friedman of the Research Services Branch, Office of Library Services, U.S. Department of the Interior, with cooperation...
+> -- *[[ElectrofishingForPopulationSam_18840]]*
+
+> This sworn declaration, filed in [[Colorado Wildlife Federation v. Turner]] (U.S. District Court, District of Colorado, Civil Action No. 92-F-884), was made by [[Henry R. Maddux]], Team Leader of the [[U.S. Fish and Wildlife Service]] Critical Habitat Designation Team for the endangered fishes of...
+> -- *[[ColoradoWildlifeFederationEtAl_19327]]*
+
+> This correspondence from [[Paul B Holden]] of [[BIO/WEST]] to [[Glen Gould]] at the [[Bureau of Reclamation]] (May 12, 1997, with a follow-up fax dated May 13, 1997) responds to [[Reasonable and Prudent Alternative 10]] (RPA #10), issued by the [[U.S. Fish and Wildlife Service]], on recruitment of...
+> -- *[[ResponseToFwsRpaForTheLowerCol_20463]]*
+
+> This paper, prepared for the 47th North American Wildlife and Natural Resources Conference (March 1982), reports on the status of the [[Habitat Evaluation Procedures]] (HEP), a habitat-based method developed by the [[U.S. Fish And Wildlife Service]] (FWS) with the [[Army Corps Of Engineers]] (COE),...
+> -- *[[StatusOfTheHabitatEvaluationPr_20551]]*
+
+> This 1994 draft by fish biologists from the [[U.S. Fish and Wildlife Service]] (FWS) and the [[National Park Service]] reviews how Colorado's recreational trout fisheries have shifted from hatchery-based stocking toward management of native and wild trout. The authors trace stocking history in...
+> -- *[[WildTroutAndPlantedTroutBalanc_21079]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1905,6 +1966,21 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[AStudyOfTheHabitatUseAndMoveme_20461]]
 - [[EstablishingACaptiveBroodstock_20772]]
 - [[LetterToMinckleylistingOfGilaD_20831]]
+- [[VerdeRiverAdvancedIdentificati_11366]]
+- [[ObservationsOnTheStatusOfTheDe_12013]]
+- [[NativeFishesAndNaturalAquaticH_13706]]
+- [[MinutesDesertFishesRecoveryTea_14791]]
+- [[AccumulationOfRadioactiveMater_16139]]
+- [[PermitPrt_17155]]
+- [[DiscussionPaperApproachesToRec_17169]]
+- [[RecoveryImplementationProgramF_17180]]
+- [[FactorsAffectingAccuracyOfIcht_17749]]
+- [[PreliminaryReportStagesInTheEm_17844]]
+- [[ElectrofishingForPopulationSam_18840]]
+- [[ColoradoWildlifeFederationEtAl_19327]]
+- [[ResponseToFwsRpaForTheLowerCol_20463]]
+- [[StatusOfTheHabitatEvaluationPr_20551]]
+- [[WildTroutAndPlantedTroutBalanc_21079]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->
@@ -2150,6 +2226,12 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > The [[Arizona Game and Fish Department]] (AGFD) proposed transplanting approximately 150 [[Sonoran Chub]] (*Gila ditaenia*) from the [[Sycamore Canyon]] main drainage into six permanent water sites in adjacent side drainages. The entire U.S. population of the species is restricted to this one...
 > -- *[[SonoranChubReintroductionToSyc_14342]]*
 
+> This paper, presented by [[Fred H. Kennedy]], Regional Forester of the [[U.S. Forest Service]] Southwestern Region, reports on watershed pilot projects in the national forests of Arizona. It was delivered at the Third Annual Watershed Symposium, "Progress in Watershed Management," held in Phoenix...
+> -- *[[NationalForestWatershedProject_17946]]*
+
+> This 1935 report by M. J. Madsen, Temporary Assistant Biologist for the [[U.S. Bureau of Fisheries]] (Department of Commerce), documents a field survey of the streams and lakes of the [[Coconino National Forest]] in north central Arizona. The survey was conducted from May to August 1934, during a...
+> -- *[[ABiologicalSurveyOfStreamsAndL_19340]]*
+
 ### Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -2212,6 +2294,8 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[GallinasCreekSampling_18700]]
 - [[DraftFishAndWildlifeCoordinati_11625]]
 - [[SonoranChubReintroductionToSyc_14342]]
+- [[NationalForestWatershedProject_17946]]
+- [[ABiologicalSurveyOfStreamsAndL_19340]]
 
 ## U.S. General Accounting Office
 
@@ -2289,6 +2373,15 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 > This December 1989 newsletter from the [[Glen Canyon Environmental Studies]] (GCES) program reports on a four-day steady 5,000 cubic feet per second (cfs) flow release from [[Glen Canyon Dam]], conducted October 6-9, 1989, within a broader October 4-17 study period. Over 40 researchers examined...
 > -- *[[GlenCanyonEnvironmentalStudies_19682]]*
 
+> This paper, presented by [[Fred H. Kennedy]], Regional Forester of the [[U.S. Forest Service]] Southwestern Region, reports on watershed pilot projects in the national forests of Arizona. It was delivered at the Third Annual Watershed Symposium, "Progress in Watershed Management," held in Phoenix...
+> -- *[[NationalForestWatershedProject_17946]]*
+
+> This document is a field data record for a fish count on the [[Gila River]] in the [[Gila Box]] reach of Arizona, conducted by Ben Robles and Dave Oakey. The main dataset is a numbered list of individual observations, mostly of [[Red Shiner]], with smaller numbers of [[Longfin Dace]], [[Flathead...
+> -- *[[GilaBoxNcaFishCountSummaryOfFi_18985]]*
+
+> This sworn declaration, filed in [[Colorado Wildlife Federation v. Turner]] (U.S. District Court, District of Colorado, Civil Action No. 92-F-884), was made by [[Henry R. Maddux]], Team Leader of the [[U.S. Fish and Wildlife Service]] Critical Habitat Designation Team for the endangered fishes of...
+> -- *[[ColoradoWildlifeFederationEtAl_19327]]*
+
 ### Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -2312,6 +2405,9 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 - [[PesticidesInHatcheryTroutdiffe_17109]]
 - [[ArizonaGroundwaterQuality_19602]]
 - [[GlenCanyonEnvironmentalStudies_19682]]
+- [[NationalForestWatershedProject_17946]]
+- [[GilaBoxNcaFishCountSummaryOfFi_18985]]
+- [[ColoradoWildlifeFederationEtAl_19327]]
 
 ## U.S. Lock And Dam No. 4
 <!-- fm: auto_enriched: true -->
@@ -2749,6 +2845,18 @@ An entomologist who in 1913 tentatively assigned Paraguayan material to Rhyacops
 ### Mentioned In
 - [[StudiesOfNeotropicalCaddisFlie_16467]]
 
+## Ulmer Collection
+
+### Summary
+A historical series of caddisfly specimens referred to in the source's discussion of type designations. Flint found that the original Ulmer series contained two species. This finding was part of his reassessment of the lectotype designation for Rhyacophylax brasilianus.
+
+### Context
+> This taxonomic paper by [[Oliver S. Flint Jr.]] reports caddisfly (Trichoptera) material collected in northern Argentina from 30 March to 9 April 1971, in the provinces of [[Santa Fe Province]] and [[Misiones Province]]. The collections yielded a number of poorly known species, describes **13 new...
+> -- *[[StudiesOfNeotropicalCaddisflie_16468]]*
+
+### Mentioned In
+- [[StudiesOfNeotropicalCaddisflie_16468]]
+
 ## Ulocentra
 <!-- fm: auto_enriched: true -->
 
@@ -2809,6 +2917,18 @@ Ultraviolet light is a sterilizing treatment for water that can kill very small 
 
 ### Mentioned In
 - [[ControlAndTreatmentOfParasitic_20451]]
+
+## Ultraviolet Light Trapping
+
+### Summary
+A collecting method in which adult insects are attracted to ultraviolet light and captured. In this study it was the main method, supplemented by beating vegetation and collecting larvae from rubble. It was used at the Argentine sites to obtain the adult material for the species descriptions.
+
+### Context
+> This taxonomic paper by [[Oliver S. Flint Jr.]] reports caddisfly (Trichoptera) material collected in northern Argentina from 30 March to 9 April 1971, in the provinces of [[Santa Fe Province]] and [[Misiones Province]]. The collections yielded a number of poorly known species, describes **13 new...
+> -- *[[StudiesOfNeotropicalCaddisflie_16468]]*
+
+### Mentioned In
+- [[StudiesOfNeotropicalCaddisflie_16468]]
 
 ## Ulvicola Sanctae-Rosae
 <!-- fm: auto_enriched: true -->
@@ -2913,6 +3033,18 @@ Umbridae is a family of small freshwater fishes commonly known as mudminnows, cl
 
 ### Mentioned In
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+
+## UN Framework Convention on Climate Change
+
+### Summary
+The international treaty on climate change, whose Third Conference of the Parties (COP3) was held in Kyoto in 1997. The newsletter's North-South workshops were designed to prepare input for COP3, and its principal recommendation urged parties to increase technology cooperation support.
+
+### Context
+> This Winter 1997-98 newsletter from the [[Pacific Institute]] (Oakland, California) reports on the Institute's activities across climate policy, water resources, public education, and environmental publishing. Its major features are a North-South dialogue on climate change and [[Technology...
+> -- *[[PacificInstituteReport_18370]]*
+
+### Mentioned In
+- [[PacificInstituteReport_18370]]
 
 ## Un-Ionized Ammonia
 <!-- fm: auto_enriched: true -->
@@ -3430,6 +3562,18 @@ The United States Fish Commission was the federal agency that originally transfe
 ### Mentioned In
 - [[ANewCrayfishFromTheNashvilleBa_20416]]
 
+## United States Fishery Reserve
+
+### Summary
+The United States Fishery Reserve is an area set aside by President Woodrow Wilson on April 28, 1916, on which the Metlakatla trap operations were located. When the Alaska State Legislature abolished traps in 1959, it exempted the operations on this reserve.
+
+### Context
+> This Bureau of Commercial Fisheries Fishery Leaflet (No. 611, April 1968) by [[Fred W. Hipkins]] describes the history, legal framework, construction, operation and dismantling of the floating salmon trap, the most efficient fishing gear historically developed for capturing and impounding [[Pacific...
+> -- *[[ConstructionAndOperationOfAFlo_20408]]*
+
+### Mentioned In
+- [[ConstructionAndOperationOfAFlo_20408]]
+
 ## United States Forest Service
 <!-- fm: auto_enriched: true -->
 
@@ -3477,12 +3621,16 @@ The United States Geological Survey is a U.S. government scientific agency. In J
 > This [[United States Geological Survey]] open-file report (Water-Resources Investigations 76-107, September 1976, Tucson) compiles basic well data for the Aravaipa Valley area of southeastern Arizona, prepared in cooperation with the [[Arizona Water Commission]]. The document is a hydrologic...
 > -- *[[WellInformationaravaipaValleyA_19181]]*
 
+> This document is a scanned, partly legible page set from a [[United States Geological Survey]] (USGS) provisional topographic map at 1:24,000 scale, labeled for Arizona. It contains no fish, invertebrate, plankton, water chemistry, or aquatic habitat data. Its content is cartographic and...
+> -- *[[MapOfVirginRiver_11559]]*
+
 ### Mentioned In
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
 - [[GroundwaterResourcesOfTheDunca_20984]]
 - [[CompilationOfRecordsOfSurfaceW_13211]]
 - [[WellInformationaravaipaValleyA_19181]]
+- [[MapOfVirginRiver_11559]]
 
 ## United States National Marine Fisheries Service
 
@@ -3542,6 +3690,12 @@ The United States National Marine Fisheries Service is a federal government agen
 > This 1969 paper by [[Waldo L. Schmitt]] of the [[Smithsonian Institution]] reviews a collection of freshwater crabs from Colombia. The material was sent to the [[United States National Museum]] in 1940–41 by [[Brother Niceforo Maria]], director of the museum of the Instituto de La Salle in Bogotá....
 > -- *[[ColombianFreshwaterCrabNotes_20568]]*
 
+> This taxonomic paper by [[Oliver S. Flint Jr.]] reports caddisfly (Trichoptera) material collected in northern Argentina from 30 March to 9 April 1971, in the provinces of [[Santa Fe Province]] and [[Misiones Province]]. The collections yielded a number of poorly known species, describes **13 new...
+> -- *[[StudiesOfNeotropicalCaddisflie_16468]]*
+
+> This taxonomic paper by John Otterbein Snyder reports on a freshwater fish collection made by [[Edgar A. Mearns]], surgeon and naturalist with the United States Army, during the survey of the Mexican boundary between January 1892 and September 1894. The specimens came from rivers draining to the...
+> -- *[[NotesOnACollectionOfFishesMade_21252]]*
+
 ### Mentioned In
 - [[GirardinusSonoriensisMczCatalo_1994_09_01]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
@@ -3557,6 +3711,8 @@ The United States National Marine Fisheries Service is a federal government agen
 - [[CrossochirKeolziANewCalifornia_20004]]
 - [[CitharichthysAbbottiANewFlatfi_13988]]
 - [[ColombianFreshwaterCrabNotes_20568]]
+- [[StudiesOfNeotropicalCaddisflie_16468]]
+- [[NotesOnACollectionOfFishesMade_21252]]
 
 ## United States v. Cappaert
 
@@ -3593,6 +3749,18 @@ A mining and smelting operation at Jerome and Clarkdale, Arizona. The source say
 
 ### Mentioned In
 - [[FossilCreakFlumeaPioneerMonume_16579]]
+
+## Universal Transverse Mercator
+
+### Summary
+A standard global map coordinate system that divides the Earth into zones and expresses positions as grid values in metres. In this source it is the grid used on the USGS Lone Star Mountain map sheet, specifically Zone 12 with 1000-metre grid lines. The source note does not use it for any survey measurement.
+
+### Context
+> This document is a field data record for a fish count on the [[Gila River]] in the [[Gila Box]] reach of Arizona, conducted by Ben Robles and Dave Oakey. The main dataset is a numbered list of individual observations, mostly of [[Red Shiner]], with smaller numbers of [[Longfin Dace]], [[Flathead...
+> -- *[[GilaBoxNcaFishCountSummaryOfFi_18985]]*
+
+### Mentioned In
+- [[GilaBoxNcaFishCountSummaryOfFi_18985]]
 
 ## Universidad Autonoma de Nuevo Leon
 
@@ -3930,6 +4098,18 @@ The University of Arizona Foundation served as the tax-deductible donation recip
 
 ### Mentioned In
 - [[UpdatesFromEpPister_12831]]
+
+## University of Arizona Geochronology Laboratories
+
+### Summary
+The institution where the report's authors (Mehringer, Martin and Haynes) worked. The laboratory's radiocarbon results on samples from the Murray Springs section are the dates the report relies on.
+
+### Context
+> This interim research report, by Peter J. Mehringer Jr., Paul S. Martin and C. Vance Haynes Jr. of the [[University of Arizona Geochronology Laboratories]], re-examines the Murray Springs pollen locality in the upper [[San Pedro River]] valley of southeastern Arizona. The authors revisit a key site...
+> -- *[[MurraySpringsAMidpostglacialPo_20098]]*
+
+### Mentioned In
+- [[MurraySpringsAMidpostglacialPo_20098]]
 
 ## University Of Arizona Press
 <!-- fm: auto_enriched: true -->
@@ -4537,10 +4717,14 @@ The University of New Mexico is the institutional affiliation of Steven P. Plata
 > This chapter reports the zooarchaeological analysis of 255 unmodified bone fragments and 28 bone artifacts recovered from excavations at [[La Lomita Pequeña]], a [[Santa Cruz]]/[[Sacaton Phase]] hamlet in the [[Salt River Valley]], Arizona. The assemblage is dominated by lagomorphs (74% of...
 > -- *[[ArchaeofaunaFromLaLomitaPequea_12928]]*
 
+> This sworn declaration, filed in [[Colorado Wildlife Federation v. Turner]] (U.S. District Court, District of Colorado, Civil Action No. 92-F-884), was made by [[Henry R. Maddux]], Team Leader of the [[U.S. Fish and Wildlife Service]] Critical Habitat Designation Team for the endangered fishes of...
+> -- *[[ColoradoWildlifeFederationEtAl_19327]]*
+
 ### Mentioned In
 - [[OctoberFishCount_18607]]
 - [[TaxonomicStatusEcologyAndDistr_15409]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
+- [[ColoradoWildlifeFederationEtAl_19327]]
 
 ## University of Nuevo Leon
 
@@ -5348,6 +5532,15 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This U.S. Fish and Wildlife Service (FWS) annual report, published March 1990 by Region 6 (Denver), summarizes status and accounting for the FY-1989 projects of the [[Recovery Implementation Program]] for endangered fishes in the [[Upper Colorado River Basin]]. It covers 39 Work Plan projects plus...
 > -- *[[FiscalYearAnnualReport_19224]]*
 
+> This 1985 discussion paper, prepared by the [[Colorado Department of Natural Resources]], outlines state-level options for recovering the four endangered Colorado River fishes and for conducting [[Section 7 Consultation]] under the [[Endangered Species Act]]. It was written after a memorandum of...
+> -- *[[DiscussionPaperApproachesToRec_17169]]*
+
+> This document is a 1989 legal and policy package from the [[Fish and Wildlife Service]] (Denver). It consists of a Regional Director's request for a legal opinion, the Regional Solicitor's memorandum (dated May 12, 1989), and two attachments. The subject is how the Service should handle [[Section 7...
+> -- *[[SectionConsultationsrecoveryIm_17857]]*
+
+> This draft report (June 1995), prepared by the [[Utah Division of Wildlife Resources]] Colorado River Fishery Project with [[Colorado State University]] and [[Utah State University]] researchers, reviews the life histories and control options for non-indigenous, non-salmonid fishes in the [[Upper...
+> -- *[[OptionsForSelectivelyControlli_20250]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -5462,6 +5655,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[EndangeredAndThreatenedFishesO_18138]]
 - [[RelationsBetweenMaximumannualR_15253]]
 - [[FiscalYearAnnualReport_19224]]
+- [[DiscussionPaperApproachesToRec_17169]]
+- [[SectionConsultationsrecoveryIm_17857]]
+- [[OptionsForSelectivelyControlli_20250]]
 
 ## Upper Colorado River Basin Biological Subcommittee
 <!-- fm: auto_enriched: true -->
@@ -5611,6 +5807,9 @@ The Upper Colorado River Endangered Fish Recovery Program is a collaborative fed
 > This bundle of 1989 correspondence covers the [[Upper Colorado River Endangered Fish Recovery Program]]. It includes the draft summary of the September 13, 1989 [[Management Group]] meeting, the meeting agenda, the November 9, 1989 agenda, a memo on the [[15-Mile Reach]] gage, the adopted motion on...
 > -- *[[ManagementGroupMeeting_21017]]*
 
+> This report, transmitted on 2 April 2001 by Harold M. Tyus of the [[Cooperative Institute for Research in Environmental Sciences]] to the [[Upper Colorado River Endangered Fish Recovery Program]], evaluates how tributary streams contribute to the recovery of four endangered "Big River" fishes:...
+> -- *[[AnEvaluationOfTheRoleOfTributa_13051]]*
+
 ### Mentioned In
 - [[CapturesOfAdultRazorbackSucker_18265]]
 - [[ColoradoEndangeredFishResearch_1989_10_10]]
@@ -5630,6 +5829,7 @@ The Upper Colorado River Endangered Fish Recovery Program is a collaborative fed
 - [[UtahToStockThousandsOfRareBony_14825]]
 - [[RequestForReviewOfDraftFyWorkP_19638]]
 - [[ManagementGroupMeeting_21017]]
+- [[AnEvaluationOfTheRoleOfTributa_13051]]
 
 ## Upper Colorado River Recovery Implementation Program
 
@@ -5680,9 +5880,13 @@ The Upper Colorado River Recovery Implementation Program is a recovery effort fo
 > This provisional dichotomous key enables identification of protolarvae and mesolarvae of six sucker species ([[Catostomus catostomus]], [[Catostomus commersoni]], [[Catostomus discobolus]], [[Catostomus latipinnis]], [[Catostomus platyrhynchus]], and [[Xyrauchen texanus]]) from the [[Upper Colorado...
 > -- *[[ProvisionalKeyToTheProtolarvae_21239]]*
 
+> This December 1978 report from the [[Fish and Wildlife Service]] compiles capture-location records for six fish species of special concern in the [[Upper Colorado River System]]. It was produced by Ecology Consultants, Inc. under an interagency agreement with the [[Environmental Protection Agency]]...
+> -- *[[CaptureLocationsOfRareFishInTh_19862]]*
+
 ### Mentioned In
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
 - [[ProvisionalKeyToTheProtolarvae_21239]]
+- [[CaptureLocationsOfRareFishInTh_19862]]
 
 ## Upper Columbia River
 <!-- fm: auto_enriched: true -->
@@ -6148,8 +6352,12 @@ Upper Saranac Lake is a New York State lake where landlocked salmon (Atlantic sa
 > This 1954 report by Chief Aquatic Biologist John R. Greeley summarizes the rapidly-growing salmon fishery program in New York State lakes, involving two distinct species: [[Landlocked Salmon]] (Atlantic salmon, *Salmo salar*) and [[Red Salmon]] (Pacific sockeye, *Oncorhynchus nerka*). The program,...
 > -- *[[SalmonInNewYork_19216]]*
 
+> This New York State Conservation Department progress report (Bulletin No. 2, 1948) summarizes four years of experimental work on [[Landlocked Salmon]] management. The project began in 1944 with a $7,500 legislative appropriation and was continued as a regular Division of Fish and Game activity. Its...
+> -- *[[FourYearsOfLandlockedSalmonStu_19214]]*
+
 ### Mentioned In
 - [[SalmonInNewYork_19216]]
+- [[FourYearsOfLandlockedSalmonStu_19214]]
 
 ## Upper Snake Muddler
 <!-- fm: auto_enriched: true -->
@@ -7198,6 +7406,12 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 > This comprehensive 1951 report by the Fisheries Task Group of the Colorado River Great Basin Field Committee documents the fishery resources of the Lower Colorado River from [[Hoover Dam]] to the Mexican border, covering approximately 250 river miles across Arizona, Nevada, and California. The...
 > -- *[[FisheriesReportOfTheLowerColor_16429]]*
 
+> This final report by the [[Arizona Game and Fish Department]] (AGFD) for the [[Water and Power Resources Service]] provides a baseline inventory of the fishes, invertebrates, plankton and aquatic vegetation of the upper [[Lake Mead]] reservoir, from Separation Rapids on the [[Colorado River]] to...
+> -- *[[FisheryInvestigationOfLakeMead_12243]]*
+
+> This draft report (June 1995), prepared by the [[Utah Division of Wildlife Resources]] Colorado River Fishery Project with [[Colorado State University]] and [[Utah State University]] researchers, reviews the life histories and control options for non-indigenous, non-salmonid fishes in the [[Upper...
+> -- *[[OptionsForSelectivelyControlli_20250]]*
+
 ### Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[EndangeredAndThreatenedFishInT_1979]]
@@ -7210,6 +7424,8 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 - [[ReviewOfPotentialForageFishInt_19139]]
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[FisheriesReportOfTheLowerColor_16429]]
+- [[FisheryInvestigationOfLakeMead_12243]]
+- [[OptionsForSelectivelyControlli_20250]]
 
 ## Utah Cooperative Fishery Research Unit
 <!-- fm: auto_enriched: true -->
@@ -7386,6 +7602,9 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This U.S. Fish and Wildlife Service (FWS) annual report, published March 1990 by Region 6 (Denver), summarizes status and accounting for the FY-1989 projects of the [[Recovery Implementation Program]] for endangered fishes in the [[Upper Colorado River Basin]]. It covers 39 Work Plan projects plus...
 > -- *[[FiscalYearAnnualReport_19224]]*
 
+> This draft report (June 1995), prepared by the [[Utah Division of Wildlife Resources]] Colorado River Fishery Project with [[Colorado State University]] and [[Utah State University]] researchers, reviews the life histories and control options for non-indigenous, non-salmonid fishes in the [[Upper...
+> -- *[[OptionsForSelectivelyControlli_20250]]*
+
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -7426,6 +7645,7 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[YearFlamingGorgeFlowRecommenda_20257]]
 - [[FyAnnualProjectReportColoradoR_21153]]
 - [[FiscalYearAnnualReport_19224]]
+- [[OptionsForSelectivelyControlli_20250]]
 
 ## Utah Fish and Game Department
 
@@ -7594,6 +7814,9 @@ Utah State University, particularly through its Institute for Natural Systems En
 > This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
 > -- *[[VirginSpinedaceConservationAgr_20262]]*
 
+> This draft report (June 1995), prepared by the [[Utah Division of Wildlife Resources]] Colorado River Fishery Project with [[Colorado State University]] and [[Utah State University]] researchers, reviews the life histories and control options for non-indigenous, non-salmonid fishes in the [[Upper...
+> -- *[[OptionsForSelectivelyControlli_20250]]*
+
 ### Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
@@ -7607,6 +7830,7 @@ Utah State University, particularly through its Institute for Natural Systems En
 - [[VirginSpinedaceConservationAgr_20260]]
 - [[VirginSpinedaceConservationAgr_20261]]
 - [[VirginSpinedaceConservationAgr_20262]]
+- [[OptionsForSelectivelyControlli_20250]]
 
 ## Utah Sucker
 <!-- fm: auto_enriched: true -->

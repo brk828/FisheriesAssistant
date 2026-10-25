@@ -16,6 +16,18 @@ A weir with a triangular notch, used as an overfall-fishway notch option. The so
 ### Mentioned In
 - [[FishwaysInMaine_12745]]
 
+## V. C. Wynne-Edwards
+
+### Summary
+Cited (1952) as the source that places Kennicott's whitefish in the Mackenzie and Yukon rivers, with a Siberian distribution. The author notes no prior growth studies existed for this species.
+
+### Context
+> This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
+> -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
+
+### Mentioned In
+- [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
+
 ## V. D. Vladykov
 <!-- fm: auto_enriched: true -->
 
@@ -25,6 +37,18 @@ A weir with a triangular notch, used as an overfall-fishway notch option. The so
 
 ### Mentioned In
 - [[CommentsOnTheClassificationAnd_1980]]
+
+## V. Legendre
+
+### Summary
+Cited (1954), along with Wilimovsky, for the change of genus name from Leucichthys to Coregonus, which the author follows in this paper.
+
+### Context
+> This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
+> -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
+
+### Mentioned In
+- [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
 
 ## V9 coded acoustic tags
 
@@ -372,6 +396,18 @@ Valley Marshes are permanent fishless standing waters identified as a habitat ty
 ### Mentioned In
 - [[AConservationorientedClassific_15455]]
 
+## Valley of Mexico
+
+### Summary
+The Valley of Mexico is a high-elevation basin in central Mexico that is part of the Mesa Central, where the Aztec shiner occurs. The source notes that fish from lake populations there, such as Presa de Guadalupe, have larger eyes and are more laterally compressed.
+
+### Context
+> Chernoff and Miller (1981, *Proceedings of the Biological Society of Washington* 94(1): 18–36) revise the taxonomy of the [[Aztec Shiner]], *Notropis sallei* (Günther), a cyprinid fish of the Mesa Central of Mexico. The species has a long and confused naming history, having been placed in no fewer...
+> -- *[[SystematicsAndVariationOfTheAz_16114]]*
+
+### Mentioned In
+- [[SystematicsAndVariationOfTheAz_16114]]
+
 ## Valley of the Ajo
 
 ### Summary
@@ -556,8 +592,12 @@ Van Oosten is a researcher who described methods for age determination in fishes
 > This study evaluated the accuracy of the scale method for age determination in [[Largemouth Bass]] (*Micropterus salmoides*) and [[Bluegill]] (*Lepomis macrochirus*) from Alabama waters using fish of known ages from experimental ponds. Photographic prints of scales were examined by a technician...
 > -- *[[ANoteOnTheAccuracyOfTheScaleMe_18667]]*
 
+> This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
+> -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
+
 ### Mentioned In
 - [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
+- [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
 
 ## Van Oosten 1929
 
@@ -833,6 +873,18 @@ The vaquita (*Phocoena sinus*) is a critically endangered porpoise endemic to th
 
 ### Mentioned In
 - [[GrowthRatesOfTheCharSalvelinus_15166]]
+
+## Variable Strip Method
+
+### Summary
+A transect-based bird density method (Emlen 1971) used in the survey, with strip widths adjusted to the habitat. The bird survey used it to calculate densities in each major habitat.
+
+### Context
+> This final 1980 progress report, edited by Terry B. Johnson, presents four parts of a biological survey of the [[George Whittell Wildlife Preserve]] (26,104 acres) and the wider [[Aravaipa Creek Watershed]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife...
+> -- *[[ProgressReportForTheBiological_19815]]*
+
+### Mentioned In
+- [[ProgressReportForTheBiological_19815]]
 
 ## Variation Threshold
 
@@ -1266,10 +1318,14 @@ The Verde Formation is a Miocene-Pliocene geological formation associated with a
 > This U.S. Fish and Wildlife Service (FWS) biological opinion, dated March 30, 1998, evaluates a Bureau of Reclamation action to approve the reassignment of [[Central Arizona Project]] (CAP) water allocations held by Cottonwood Water Works, Inc. (CWW) and Camp Verde Water System, Inc. (CVWS) to the...
 > -- *[[CentralArizonaProjectWaterAssi_13197]]*
 
+> This review synthesizes the Tertiary (Paleocene to Pliocene) sedimentary units of Arizona, cataloguing 41 numbered stratigraphic units by age and location. It links basin formation to three major tectonic events, the [[Laramide Orogeny]], the [[Mid-Tertiary Orogeny]], and the [[Basin and Range...
+> -- *[[LocationOfTertiaryBasinsAndorS_19593]]*
+
 ### Mentioned In
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[FinalReportToMontezumaMonument_16015]]
 - [[CentralArizonaProjectWaterAssi_13197]]
+- [[LocationOfTertiaryBasinsAndorS_19593]]
 
 ## Verde Paddlethon
 <!-- fm: auto_enriched: true -->
@@ -1594,6 +1650,15 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > These minutes record the November 7-8, 1990 meeting of the [[Desert Fishes Recovery Team]] in Phoenix, Arizona, transmitted by Team Coordinator Sally Stefferud on March 15, 1991. The meeting centered on two issues. The first was whether [[Red Shiner]] posed a threat to native fishes in [[Aravaipa...
 > -- *[[MinutesOfTheNovemberRecoveryTe_14788]]*
 
+> This document is a 1993 public information packet from the [[U.S. Environmental Protection Agency]] (EPA), Region IX, and the [[U.S. Army Corps of Engineers]] (Corps). It invites the public to workshops on the proposed [[Verde River]] [[Advanced Identification]] (ADID) under [[Section 404 Permit...
+> -- *[[VerdeRiverAdvancedIdentificati_11366]]*
+
+> This paper, presented by [[Fred H. Kennedy]], Regional Forester of the [[U.S. Forest Service]] Southwestern Region, reports on watershed pilot projects in the national forests of Arizona. It was delivered at the Third Annual Watershed Symposium, "Progress in Watershed Management," held in Phoenix...
+> -- *[[NationalForestWatershedProject_17946]]*
+
+> This 1935 report by M. J. Madsen, Temporary Assistant Biologist for the [[U.S. Bureau of Fisheries]] (Department of Commerce), documents a field survey of the streams and lakes of the [[Coconino National Forest]] in north central Arizona. The survey was conducted from May to August 1934, during a...
+> -- *[[ABiologicalSurveyOfStreamsAndL_19340]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1754,6 +1819,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[CentralArizonaProjectWaterAssi_13197]]
 - [[AnalysisOfHabitatInterrelation_19085]]
 - [[MinutesOfTheNovemberRecoveryTe_14788]]
+- [[VerdeRiverAdvancedIdentificati_11366]]
+- [[NationalForestWatershedProject_17946]]
+- [[ABiologicalSurveyOfStreamsAndL_19340]]
 
 ## Verde River Aquatic Ecology
 
@@ -1936,6 +2004,18 @@ The Vermillion Flycatcher is a neotropical migrant bird species that has become 
 
 ### Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
+
+## Vermont Department of Conservation and Development
+
+### Summary
+A Vermont state agency that supplied landlocked salmon yearlings to the New York study in 1944 and 1945. The source notes these Vermont-stock fish in the Schroon River produced some of the project's most successful results.
+
+### Context
+> This New York State Conservation Department progress report (Bulletin No. 2, 1948) summarizes four years of experimental work on [[Landlocked Salmon]] management. The project began in 1944 with a $7,500 legislative appropriation and was continued as a regular Division of Fish and Game activity. Its...
+> -- *[[FourYearsOfLandlockedSalmonStu_19214]]*
+
+### Mentioned In
+- [[FourYearsOfLandlockedSalmonStu_19214]]
 
 ## Vernal Colorado River Fish Project
 
@@ -3152,6 +3232,9 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This is a 1994 U.S. Fish and Wildlife Service (FWS) correspondence package, not a research study. It is a subpermit letter, dated July 18, 1994, from the Regional Director to Dr. W.L. Minckley of [[Arizona State University]]. It authorizes Minckley and named colleagues and graduate assistants to...
 > -- *[[EndangeredSpeciesPermit_21118]]*
 
+> This package is a renewal application from the [[Arizona State University]] (ASU) Department of Biology to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 2 office. It seeks continued authorization under Federal Fish and Wildlife Permit PRT 797129, which was effective 8/9/96 to 8/9/98. The...
+> -- *[[PermitPrt_17155]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -3216,6 +3299,7 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[VirginSpinedaceConservationAgr_20261]]
 - [[VirginSpinedaceConservationAgr_20262]]
 - [[EndangeredSpeciesPermit_21118]]
+- [[PermitPrt_17155]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -3686,6 +3770,18 @@ The Virgin Spinedace Conservation Agreement (VSCA) is a cooperative conservation
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 
+## Virginia Commission of Game and Inland Fisheries
+
+### Summary
+The Virginia state agency that managed game fish and inland fisheries and co-sponsored this 1956 survey with the Virginia Cooperative Wildlife Research Unit. Game wardens nominated the trout and bass streams that the crew sampled.
+
+### Context
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
+### Mentioned In
+- [[GameFishStreamsAndRecordsOfFis_21088]]
+
 ## Virginia Creek Fishes
 <!-- fm: auto_enriched: true -->
 
@@ -3755,11 +3851,15 @@ I appreciate your detailed question, but I must be candid: I cannot find reliabl
 > A fish survey of [[Aravaipa Creek]] in [[Arizona]] was conducted November 9-11, 1974, by Arizona State University's Ichthyology class under supervision of Dr. W. L. Minckley. The survey documented seven native fish species across 27 sampling stations using seining and electrofishing. Key findings...
 > -- *[[SurveyOfFishesOfAravaipaCreekG_20605]]*
 
+> A memorandum from the [[Arizona Game and Fish Department]] (AGFD) reports a survey of [[Aravaipa Creek]] conducted July 6-8, 1998, jointly with [[The Nature Conservancy]] (TNC) and the [[Bureau of Land Management]] (BLM). The survey aimed to document the distribution and reproduction of the exotic...
+> -- *[[SummaryOfRedShinerSamplingOnJu_17690]]*
+
 ### Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[MicrochemicalAnalysisOfAravaip_11794]]
 - [[MicrochemicalAnalysisOfAravaip_1977_01_30]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
+- [[SummaryOfRedShinerSamplingOnJu_17690]]
 
 ## Virology
 <!-- fm: auto_enriched: true -->

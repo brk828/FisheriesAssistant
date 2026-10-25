@@ -600,6 +600,18 @@ Ichthyophthirius multifiliis, commonly known as "ich," is a parasitic ciliate pr
 - [[TheGrassCarp_11260]]
 - [[HydrobiologicalAndIchthyologic_12963]]
 
+## Ichthyoplankton
+
+### Summary
+Ichthyoplankton are the fish eggs and larvae drifting in the water column. This brief treats them as the sampled material whose accuracy is at issue, since gear and environmental factors can cause samples to misrepresent actual egg and larval abundance.
+
+### Context
+> This Fish and Wildlife Service Topical Brief (FWS/OBS-76/20.7, June 1978) reviews how sampling error affects [[Ichthyoplankton]] data (fish eggs and larvae) used in [[Power Plant Entrainment]] impact assessments. It catalogs the seven general categories of sampling gear in use, identifies abiotic...
+> -- *[[FactorsAffectingAccuracyOfIcht_17749]]*
+
+### Mentioned In
+- [[FactorsAffectingAccuracyOfIcht_17749]]
+
 ## Ichthyoplankton Sampling
 <!-- fm: auto_enriched: true -->
 
@@ -644,6 +656,18 @@ ICLARM (International Center for Living Aquatic Resources Management) is a resea
 ### Mentioned In
 - [[ProblemsWithGrayLiteratureInFi_1990]]
 - [[FoodFishfreshAndFrozenProducts_11510]]
+
+## ICNAF Fish Marking Symposium
+
+### Summary
+The ICNAF Fish Marking Symposium was a meeting held at Woods Hole in May 1961, and many of the leaflet's references come from it. The source cites it as a major body of marking research but gives no further detail about its proceedings.
+
+### Context
+> This 1963 U.S. Fish and Wildlife Service, Bureau of Commercial Fisheries leaflet (Fishery Leaflet 545) by George A. Rounsefell, of the [[Biological Laboratory]] in Galveston, Texas, is a practical guide to marking fish and invertebrates. It explains why marking is needed, describes the main [[Mark...
+> -- *[[MarkingFishAndInvertebrates_21101]]*
+
+### Mentioned In
+- [[MarkingFishAndInvertebrates_21101]]
 
 ## ICNAF Symposium
 
@@ -1642,6 +1666,30 @@ Iguanidae is the family of iguanid lizards documented at the reservoir sites. Th
 ### Mentioned In
 - [[GrowthOfBluegillLepomisMacroch_1957_08_15]]
 
+## Iko Bay
+
+### Summary
+A known fish habitat downstream of the lake outlet, with tidal estuary depths reported to reach ten feet. No fish were taken there during this study.
+
+### Context
+> This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
+> -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
+
+### Mentioned In
+- [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
+
+## Ikroavik Lake
+
+### Summary
+A shallow northern lake about six miles south of the Arctic Research Laboratory and the main collection site for both species. The author judged its whitefish populations small, which limits potential harvest, and concluded that the 'X' type sardinella migrated into it from elsewhere.
+
+### Context
+> This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
+> -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
+
+### Mentioned In
+- [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
+
 ## Iliamna Lake
 
 ### Summary
@@ -1764,12 +1812,16 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This workshop paper by [[James B. Reynolds]] of the [[Cooperative Fishery Research Unit]] (Columbia, Missouri) summarizes a two-year pilot study of boat electrofishing efficiency in warm water impoundments, focusing on [[Largemouth Bass]]. Efficiency was measured by comparing fish captured by...
 > -- *[[ElectrofishingEfficiencyAndIts_16823]]*
 
+> This document is the proceedings of a 1957 symposium, held at Iowa State College (Ames, Iowa) and convened by [[Kenneth D. Carlander]], on evaluating fish populations in warm water streams. The symposium treated any method giving population estimates, relative abundance, trends or condition as...
+> -- *[[SymposiumOnEvaluationOfFishPop_14380]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 - [[EcologicalFactorsAffectingTheG_19169]]
 - [[TheMosquitoesOfIllinoisDiptera_21083]]
 - [[ElectrofishingEfficiencyAndIts_16823]]
+- [[SymposiumOnEvaluationOfFishPop_14380]]
 
 ## Illinois River
 <!-- fm: auto_enriched: true -->
@@ -2453,6 +2505,18 @@ This is the section of a U.S. Fish and Wildlife Service recovery plan that the s
 - [[FishCultureAsAFactorInWildlife_1964]]
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
 
+## Impoundment Fishing
+
+### Summary
+Fishing in dammed lakes and reservoirs. The source argues that impoundments are becoming the future of West Virginia angling because they withstand heavier fishing pressure, are more productive, are easier to manage, and yield higher creel returns.
+
+### Context
+> This Conservation Commission of West Virginia booklet, prepared by the Division of Education under Fish Division Chief Harry Van Meter, is an identification guide for anglers and school classes. It illustrates 50 prominent freshwater fish species, grouped by family and accompanied by brief...
+> -- *[[ProminentFishesOfWestVirginia_13090]]*
+
+### Mentioned In
+- [[ProminentFishesOfWestVirginia_13090]]
+
 ## Impoundment Habitat
 <!-- fm: auto_enriched: true -->
 
@@ -3069,8 +3133,12 @@ This refers to the Indiana longear sunfish growth data reported by Hile (1931), 
 > - **Earliest records (1820s–1870s):** [[Constantine Samuel Rafinesque]]'s *Ichthyologia Ohiensis* (1820) marked the first ichthyological work touching Indiana, based on an 1818 survey of the Falls of the Ohio River near Jeffersonville. Rafinesque described roughly 100 new species but preserved no...
 > -- *[[AHistoryOfTheStudyOfFishesInIn_16964]]*
 
+> This document is the proceedings of a 1957 symposium, held at Iowa State College (Ames, Iowa) and convened by [[Kenneth D. Carlander]], on evaluating fish populations in warm water streams. The symposium treated any method giving population estimates, relative abundance, trends or condition as...
+> -- *[[SymposiumOnEvaluationOfFishPop_14380]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
+- [[SymposiumOnEvaluationOfFishPop_14380]]
 
 ## Indiana University Biological Station
 <!-- fm: auto_enriched: true -->
@@ -3103,6 +3171,18 @@ Indio City Golf Course had a pond used for field observations of hybrid tilapia 
 
 ### Mentioned In
 - [[ProgressReportOfTheCultureOfTi_14692]]
+
+## Indira Gandhi Canal
+
+### Summary
+A major irrigation canal in the Rajasthan region of India. The newsletter reports that water tables rose by an average of 5-10 meters in parts of its command area between 1984 and 1994.
+
+### Context
+> This Winter 1997-98 newsletter from the [[Pacific Institute]] (Oakland, California) reports on the Institute's activities across climate policy, water resources, public education, and environmental publishing. Its major features are a North-South dialogue on climate change and [[Technology...
+> -- *[[PacificInstituteReport_18370]]*
+
+### Mentioned In
+- [[PacificInstituteReport_18370]]
 
 ## Indo-Australian Archipelago
 
@@ -3196,6 +3276,18 @@ The Indus River is a major river system that receives flow from three Afghan dra
 ### Mentioned In
 - [[TheToxicityToWarmWaterFishesOf_14914]]
 
+## Industrial Midlands
+
+### Summary
+The Industrial Midlands is the densely populated industrial region of central England where the study was carried out. The authors describe it as containing many fishless rivers that carry industrial wastes and domestic effluents, with the West Midlands area (Birmingham, Wolverhampton, Stourbridge and Halesowen) serving as the main study area.
+
+### Context
+> This 1965 paper, reprinted from the Journal of the [[Institute of Sewage Purification]], investigates why several rivers in the [[Industrial Midlands]] of England are free of fish. The authors, D. W. M. Herbert, D. H. M. Jordan and R. Lloyd of the [[Water Pollution Research Laboratory]] at...
+> -- *[[AStudyOfSomeFishlessRiversInTh_16697]]*
+
+### Mentioned In
+- [[AStudyOfSomeFishlessRiversInTh_16697]]
+
 ## Ine
 <!-- fm: auto_enriched: true -->
 
@@ -3217,6 +3309,18 @@ One of two ecological principles, from Cairns and Dickson (1977), that the autho
 
 ### Mentioned In
 - [[InfluenceOfABariteTailingsPond_20438]]
+
+## Inertia Index
+
+### Summary
+The inertia index is a score the authors use to estimate how well a stream section can resist displacement. It is the product of six rated categories, including redundancy and temperature, and was calculated for each section of Conowingo Creek and the Youghiogheny River. Section 3 of Conowingo Creek had the highest value.
+
+### Context
+> This reprinted chapter, from a 1979 U.S. Forest Service proceedings on floodplain wetland and riparian ecosystem protection, argues that eastern U.S. riparian habitats can be both maintained and rehabilitated with existing methods. The authors, [[John Cairns Jr.]], [[Jay R. Stauffer Jr.]] and...
+> -- *[[OpportunitiesForMaintenanceAnd_17327]]*
+
+### Mentioned In
+- [[OpportunitiesForMaintenanceAnd_17327]]
 
 ## Infante & Riehl 1984
 <!-- fm: auto_enriched: true -->
@@ -3273,6 +3377,18 @@ A groundwater collection structure in Bonita Creek, sited about 6 km above the G
 
 ### Mentioned In
 - [[DraftReviewRip_18167]]
+
+## Information Technology
+
+### Summary
+The use of computers, networks, and the Internet to store and share information. The newsletter reports that IT-focused technology cooperation programs helped accelerate market acceptance of widely applicable technologies, and that expanded networking and Internet use are important tools.
+
+### Context
+> This Winter 1997-98 newsletter from the [[Pacific Institute]] (Oakland, California) reports on the Institute's activities across climate policy, water resources, public education, and environmental publishing. Its major features are a North-South dialogue on climate change and [[Technology...
+> -- *[[PacificInstituteReport_18370]]*
+
+### Mentioned In
+- [[PacificInstituteReport_18370]]
 
 ## Ingolf Expedition
 
@@ -3355,9 +3471,13 @@ The Inland Fisheries Branch was a division of the California Department of Fish 
 > This document is a comprehensive author-title index compiled by the [[California Department of Fish and Game]] [[Inland Fisheries Branch]] covering administrative reports from March 1932 through December 1967 (Reports 32-1 through 67-16). The index supersedes three earlier versions (55-12, 58-11,...
 > -- *[[AuthortitleIndexToInlandFisher_14367]]*
 
+> This California Department of Fish and Game study, by George W. McCammon and Charles M. Seeley of the [[Inland Fisheries Branch]], tagged and released [[White Catfish]] (*Ictalurus catus*) and [[Brown Bullhead]] (*Ictalurus nebulosus*) in [[Clear Lake]] to estimate survival, mortality, and...
+> -- *[[SurvivalMortalityAndMovementsO_12247]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14867]]
 - [[AuthortitleIndexToInlandFisher_14367]]
+- [[SurvivalMortalityAndMovementsO_12247]]
 
 ## Inland Fisheries Informational Leaflets
 
@@ -3670,6 +3790,18 @@ The Institute of Marine Science at the University of Texas, Port Aransas, was th
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 
+## Institute of Sewage Purification
+
+### Summary
+The Institute of Sewage Purification was the professional body whose Journal published this 1965 paper by Herbert, Jordan and Lloyd. The source is reprinted from that journal, which is where the study on fishless rivers appeared.
+
+### Context
+> This 1965 paper, reprinted from the Journal of the [[Institute of Sewage Purification]], investigates why several rivers in the [[Industrial Midlands]] of England are free of fish. The authors, D. W. M. Herbert, D. H. M. Jordan and R. Lloyd of the [[Water Pollution Research Laboratory]] at...
+> -- *[[AStudyOfSomeFishlessRiversInTh_16697]]*
+
+### Mentioned In
+- [[AStudyOfSomeFishlessRiversInTh_16697]]
+
 ## Instituto de Investigaciones Oceanologicas
 
 ### Summary
@@ -3724,6 +3856,18 @@ A Mexican national fisheries research institute credited in the source as a co-p
 ### Mentioned In
 - [[UnaManeraSencillaYEconomicaDeA_11373]]
 
+## Instream Debris
+
+### Summary
+Instream debris refers to accumulated woody material and piles of debris in the river channel. According to this source, Rio Grande silvery minnow concentrate in debris piles in winter, with over 70% of individuals selecting them in a winter study (Dudley and Platania 1996). Debris piles were also the most-used mesohabitat overall, at 40.5% of fish.
+
+### Context
+> This draft recovery plan, prepared by the [[Fish and Wildlife Service]] (Region 2, Albuquerque) with a stakeholder [[Recovery Team]], addresses the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*), federally listed as endangered and also listed as endangered in New Mexico, Texas, and the...
+> -- *[[DraftRioGrandeSilveryMinnowHyb_13199]]*
+
+### Mentioned In
+- [[DraftRioGrandeSilveryMinnowHyb_13199]]
+
 ## Instream Flow
 <!-- fm: auto_enriched: true -->
 
@@ -3743,12 +3887,16 @@ A Mexican national fisheries research institute credited in the source as a co-p
 > This U.S. Forest Service General Technical Report (RM-207), authored by [[James E Johnson]] of the U.S. Fish and Wildlife Service, reviews management of endangered and threatened fishes that depend on western warmwater springs and streams. Of 83 federally listed U.S. fish taxa, 59 (71%) are western...
 > -- *[[ManagementConcernsForEndangere_19782]]*
 
+> This February 21, 1990 status report from the [[Colorado River Recovery Implementation Committee]] presents recommendations from the Water Acquisition Ad Hoc Subcommittee of the Management Group. Its goal is to expedite the acquisition of water rights, mainly by converting them to [[Instream Flow]]...
+> -- *[[RecoveryImplementationProgramF_17180]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
 - [[SolicitorsOpinionReColoradoRiv_14140]]
 - [[ReferencesForNdEditionOfInland_15457]]
 - [[ManagementConcernsForEndangere_19782]]
+- [[RecoveryImplementationProgramF_17180]]
 
 ## Instream Flow Ad Hoc Group
 
@@ -3937,8 +4085,12 @@ Instream flows are water kept flowing in a river channel to support fish and oth
 > This newsletter-style document describes the [[Recovery Implementation Program]] for four rare native fishes of the Upper Colorado River Basin: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]] and [[Razorback Sucker]]. A cooperative agreement was signed in January 1988 by the Secretary...
 > -- *[[RecoveryImplementationProgramF_15036]]*
 
+> This 1985 discussion paper, prepared by the [[Colorado Department of Natural Resources]], outlines state-level options for recovering the four endangered Colorado River fishes and for conducting [[Section 7 Consultation]] under the [[Endangered Species Act]]. It was written after a memorandum of...
+> -- *[[DiscussionPaperApproachesToRec_17169]]*
+
 ### Mentioned In
 - [[RecoveryImplementationProgramF_15036]]
+- [[DiscussionPaperApproachesToRec_17169]]
 
 ## Insular Biogeography
 <!-- fm: auto_enriched: true -->
@@ -4106,6 +4258,18 @@ The ESA Section 7 process requiring federal agencies to consult with the Service
 ### Mentioned In
 - [[LetterAndDraftAgendaForTheAriz_1993_09_07]]
 
+## Interagency Scientific Committee
+
+### Summary
+A group whose May 1990 report and conservation strategy supported the Northern Spotted Owl designation. Maddux cites it as a comparison, noting that no comparable in-depth study yet exists for the razorback sucker.
+
+### Context
+> This sworn declaration, filed in [[Colorado Wildlife Federation v. Turner]] (U.S. District Court, District of Colorado, Civil Action No. 92-F-884), was made by [[Henry R. Maddux]], Team Leader of the [[U.S. Fish and Wildlife Service]] Critical Habitat Designation Team for the endangered fishes of...
+> -- *[[ColoradoWildlifeFederationEtAl_19327]]*
+
+### Mentioned In
+- [[ColoradoWildlifeFederationEtAl_19327]]
+
 ## Interagency Standardized Monitoring Program
 <!-- fm: auto_enriched: true -->
 
@@ -4179,6 +4343,18 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 ### Mentioned In
 - [[LetterToProspectiveAreaCoordin_1977_08_29]]
 
+## Interbasin Transfers
+
+### Summary
+Projects that move water from one river basin to another, usually through large engineered conveyance. The newsletter notes that such large transfer schemes, along with large surface irrigation and centralized supply, have been widely criticized on environmental, economic, and equity grounds.
+
+### Context
+> This Winter 1997-98 newsletter from the [[Pacific Institute]] (Oakland, California) reports on the Institute's activities across climate policy, water resources, public education, and environmental publishing. Its major features are a North-South dialogue on climate change and [[Technology...
+> -- *[[PacificInstituteReport_18370]]*
+
+### Mentioned In
+- [[PacificInstituteReport_18370]]
+
 ## Interbasin Water Transfer
 
 ### Summary
@@ -4190,6 +4366,18 @@ The artificial withdrawal of water from a source in one drainage basin for use i
 
 ### Mentioned In
 - [[AReviewOfInterbasinWaterTransf_18377]]
+
+## Interdisciplinary Collaboration
+
+### Summary
+Interdisciplinary collaboration is the approach of pairing fisheries managers with geneticists, fish culturists, ecologists, nutritionists, water quality specialists, and bioengineers toward agreed goals. The source calls for this teamwork with objective reporting, while leaving policy decisions to policymakers and having scientists supply data and options with estimated success probabilities.
+
+### Context
+> This review by [[Robert R. Stickney]] (University of Washington School of Fisheries, published in *Fisheries*, Vol. 19, No. 5, May 1994) examines the use of hatchery-raised fish for [[Fisheries Enhancement]]. It traces the history of [[Enhancement Hatcheries]] in the United States, uses the...
+> -- *[[UseOfHatcheryFishInEnhancement_14332]]*
+
+### Mentioned In
+- [[UseOfHatcheryFishInEnhancement_14332]]
 
 ## Interdisciplinary Team
 
@@ -4661,8 +4849,12 @@ The International Rules of Zoological Nomenclature are the official guidelines g
 > This document is a reprint of a presentation by [[Carl L. Hubbs]] at the XIV International Congress of Zoology in Copenhagen, 1953, addressing the critical need for stability in zoological nomenclature. Hubbs discusses the controversies arising from the Paris decisions five years prior, reports on...
 > -- *[[WaysOfStabilizingZoologicalNom_20061]]*
 
+> This document is a 1957 supplement to David Hinks' *[[The Fishes of Manitoba]]* (1943), which had gone out of print. Written by J. J. Keleher of the [[Fisheries Research Board of Canada]] and B. Kooyman of the Manitoba Department of Mines and Natural Resources, it updates the freshwater fish fauna...
+> -- *[[SupplementToHinksTheFishesOfMa_17920]]*
+
 ### Mentioned In
 - [[WaysOfStabilizingZoologicalNom_20061]]
+- [[SupplementToHinksTheFishesOfMa_17920]]
 
 ## International Sonoran Desert Alliance
 
@@ -4703,6 +4895,18 @@ The IUCN is the international conservation body that, according to this source, 
 
 ### Mentioned In
 - [[TechnicalReviewDraftYaquiFishe_13259]]
+
+## International Water Resources Association
+
+### Summary
+A professional international association focused on water resources. The newsletter reports that Peter Gleick was elected to its Board of Directors.
+
+### Context
+> This Winter 1997-98 newsletter from the [[Pacific Institute]] (Oakland, California) reports on the Institute's activities across climate policy, water resources, public education, and environmental publishing. Its major features are a North-South dialogue on climate change and [[Technology...
+> -- *[[PacificInstituteReport_18370]]*
+
+### Mentioned In
+- [[PacificInstituteReport_18370]]
 
 ## International Whaling Commission
 <!-- fm: auto_enriched: true -->
@@ -5151,6 +5355,9 @@ An invasive species in fish science refers to a non-native fish species that has
 > This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
 > -- *[[ReferencesForNdEditionOfInland_15457]]*
 
+> A memorandum from the [[Arizona Game and Fish Department]] (AGFD) reports a survey of [[Aravaipa Creek]] conducted July 6-8, 1998, jointly with [[The Nature Conservancy]] (TNC) and the [[Bureau of Land Management]] (BLM). The survey aimed to document the distribution and reproduction of the exotic...
+> -- *[[SummaryOfRedShinerSamplingOnJu_17690]]*
+
 ### Mentioned In
 - [[ConcernAboutThePresenceOfASpec_14235]]
 - [[DistributionAndStatusOfTheGras_11158]]
@@ -5162,6 +5369,7 @@ An invasive species in fish science refers to a non-native fish species that has
 - [[SpeciesSurvivalCommissionAMemb_14399]]
 - [[ExecutiveOrderInvasiveSpeices_13569]]
 - [[ReferencesForNdEditionOfInland_15457]]
+- [[SummaryOfRedShinerSamplingOnJu_17690]]
 
 ## invasive species biocontrol
 <!-- fm: auto_enriched: true -->
@@ -5543,6 +5751,18 @@ The Iowa Darter is a small freshwater fish species documented in mid-20th centur
 ### Mentioned In
 - [[AContributionTowardABibliograp_12687]]
 
+## Iowa State College
+
+### Summary
+The Ames, Iowa institution that hosted the 1957 symposium and was a co-publisher of the proceedings with the Iowa State Conservation Commission and the U.S. Fish and Wildlife Service. It was among the institutions represented by attendees.
+
+### Context
+> This document is the proceedings of a 1957 symposium, held at Iowa State College (Ames, Iowa) and convened by [[Kenneth D. Carlander]], on evaluating fish populations in warm water streams. The symposium treated any method giving population estimates, relative abundance, trends or condition as...
+> -- *[[SymposiumOnEvaluationOfFishPop_14380]]*
+
+### Mentioned In
+- [[SymposiumOnEvaluationOfFishPop_14380]]
+
 ## Ipswich River
 <!-- fm: auto_enriched: true -->
 
@@ -5795,8 +6015,12 @@ Irvine Lake (also known as Santiago Reservoir) in Orange County received a mixed
 > This 1955 report documents the distribution and status of the introduced [[Pumpkinseed]] (*Lepomis gibbosus*) in [[California]]. The species was considered rare in the state, with scattered populations in widely separated locations. The authors compile historical records from 1939-1954, correcting...
 > -- *[[TheStatusOfThePumpkinseedLepom_12862]]*
 
+> This Department of Fish and Game administrative report (Inland Fisheries Administrative Report No. 63-3, submitted February 15, 1963, by Alex Calhoun) argues that stocking trout in urban waters could provide 1,000,000 or more angler days of fishing in California each year, possibly as many as...
+> -- *[[UrbanTroutAngling_17337]]*
+
 ### Mentioned In
 - [[TheStatusOfThePumpkinseedLepom_12862]]
+- [[UrbanTroutAngling_17337]]
 
 ## Irving Langmuir
 
@@ -5809,6 +6033,18 @@ Irving Langmuir was a scientist whose 1938 hypothesis proposed that helical wind
 
 ### Mentioned In
 - [[TurbulenceAndDiffusionInTheGre_18086]]
+
+## Irving Mintzer
+
+### Summary
+A researcher who co-led a consortium of NGOs running North-South dialogue workshops on climate change in 1997. The newsletter credits him with guiding efforts to prepare developing-country input for COP3 in Kyoto.
+
+### Context
+> This Winter 1997-98 newsletter from the [[Pacific Institute]] (Oakland, California) reports on the Institute's activities across climate policy, water resources, public education, and environmental publishing. Its major features are a North-South dialogue on climate change and [[Technology...
+> -- *[[PacificInstituteReport_18370]]*
+
+### Mentioned In
+- [[PacificInstituteReport_18370]]
 
 ## Irving Plant
 
@@ -6044,6 +6280,18 @@ Isleta Diversion Dam is one of six mainstream dams on the middle Rio Grande that
 ### Mentioned In
 - [[WinterMovementAndHabitatOfAdul_1993_12_16]]
 - [[DevelopmentOfAStandardizedMoni_15549]]
+
+## ISO 14000
+
+### Summary
+A family of international environmental management standards from the International Organization for Standardization. The newsletter reports that Jason Morrison was named one of three expert US delegates to the ISO process for life cycle impact assessment (ISO/TC 207).
+
+### Context
+> This Winter 1997-98 newsletter from the [[Pacific Institute]] (Oakland, California) reports on the Institute's activities across climate policy, water resources, public education, and environmental publishing. Its major features are a North-South dialogue on climate change and [[Technology...
+> -- *[[PacificInstituteReport_18370]]*
+
+### Mentioned In
+- [[PacificInstituteReport_18370]]
 
 ## Isocitrate Dehydrogenase
 <!-- fm: auto_enriched: true -->
@@ -6346,6 +6594,18 @@ Isospondyli is an order of fishes that includes three families represented in Ut
 
 ### Mentioned In
 - [[GrassCarpCtenopharyngodonIdell_19237]]
+
+## Issacs-Kidd Mid-Water Trawl
+
+### Summary
+The Issacs-Kidd mid-water trawl is a towed net for sampling in the water column, listed among the seven gear categories in the brief. The source includes it as an example of mid-water trawl gear and gives no specific findings about its accuracy.
+
+### Context
+> This Fish and Wildlife Service Topical Brief (FWS/OBS-76/20.7, June 1978) reviews how sampling error affects [[Ichthyoplankton]] data (fish eggs and larvae) used in [[Power Plant Entrainment]] impact assessments. It catalogs the seven general categories of sampling gear in use, identifies abiotic...
+> -- *[[FactorsAffectingAccuracyOfIcht_17749]]*
+
+### Mentioned In
+- [[FactorsAffectingAccuracyOfIcht_17749]]
 
 ## Isthmus Of Panama
 <!-- fm: auto_enriched: true -->

@@ -187,6 +187,9 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > This document describes the standardized stream habitat survey used by the [[Arizona Game and Fish Department]] in Region II. It also contains scanned 1979 field data sheets from several central Arizona streams. The method combines three kinds of measurement: - Physico-chemical habitat: channel...
 > -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
 
+> This 1935 report by M. J. Madsen, Temporary Assistant Biologist for the [[U.S. Bureau of Fisheries]] (Department of Commerce), documents a field survey of the streams and lakes of the [[Coconino National Forest]] in north central Arizona. The survey was conducted from May to August 1934, during a...
+> -- *[[ABiologicalSurveyOfStreamsAndL_19340]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -203,6 +206,7 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[BlueRiverPoolSamplingGreenleeC_17213]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
+- [[ABiologicalSurveyOfStreamsAndL_19340]]
 
 ## Oak Creek Canyon
 
@@ -1094,6 +1098,18 @@ The Ohaus Scale is a balance with a 1,100-gram capacity used in this study to we
 ### Mentioned In
 - [[AlcoholDehydrogenaseVariabilit_1977]]
 
+## Ohio Brook Lamprey
+
+### Summary
+A nonparasitic, eel-like lamprey reaching about 8 inches in length. The source identifies it by having two dorsal fins and 54–60 muscle segments, and notes that its larvae live buried in stream banks for several years.
+
+### Context
+> This Conservation Commission of West Virginia booklet, prepared by the Division of Education under Fish Division Chief Harry Van Meter, is an identification guide for anglers and school classes. It illustrates 50 prominent freshwater fish species, grouped by family and accompanied by brief...
+> -- *[[ProminentFishesOfWestVirginia_13090]]*
+
+### Mentioned In
+- [[ProminentFishesOfWestVirginia_13090]]
+
 ## Ohio Division Of Wildlife
 <!-- fm: auto_enriched: true -->
 
@@ -1235,6 +1251,18 @@ Ohio Valley is a reference region used for comparative context regarding species
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 
+## Oil and Gas Development
+
+### Summary
+An industrial stressor in the Colorado River Basin. The source says aromatic hydrocarbons from oil and gas activity along the San Juan, Green, White, Duchesne, and Colorado rivers have caused fish kills.
+
+### Context
+> This sworn declaration, filed in [[Colorado Wildlife Federation v. Turner]] (U.S. District Court, District of Colorado, Civil Action No. 92-F-884), was made by [[Henry R. Maddux]], Team Leader of the [[U.S. Fish and Wildlife Service]] Critical Habitat Designation Team for the endangered fishes of...
+> -- *[[ColoradoWildlifeFederationEtAl_19327]]*
+
+### Mentioned In
+- [[ColoradoWildlifeFederationEtAl_19327]]
+
 ## Oil Pollution
 
 ### Summary
@@ -1326,6 +1354,42 @@ Ojo de Agua is a spring system southeast of Cananea, Sonora, Mexico where Lilaeo
 
 ### Mentioned In
 - [[StatusReportLilaeopsisSchaffne_14909]]
+
+## Ojo de Agua Charco Azul
+
+### Summary
+An extensive spring complex of about 1.5 ha, with pools 2 to 4 m deep that fed a small creek. Populations of about 10,000 to 12,000 pupfish and crayfish were recorded at discovery, along with the snail *Valvata beltrani*. After water fell by more than 1 m following 1988, only pupfish remained in 1 to 3 pools by November 1994, and the crayfish had disappeared.
+
+### Context
+> This manuscript, by [[Salvador Contreras-Balderas]] and [[María de Lourdes Lozano-Vilano]], documents the decline of a group of narrowly endemic pupfishes, crayfishes and valvatid snails inhabiting isolated springs in the arid southwest of Nuevo León, Mexico. Of the springs surveyed, four are...
+> -- *[[SurvivalStatusOfTheSandiaAndPo_17533]]*
+
+### Mentioned In
+- [[SurvivalStatusOfTheSandiaAndPo_17533]]
+
+## Ojo de Agua La Presa
+
+### Summary
+A spring area of about 0.8 ha with pools 1 to 2 m deep and an outlet creek. The source reports a water-level drop of more than 1.5 m by June 1990, with no fish left, and says the spring dried completely in 1991. The pupfish *Cyprinodon ceciliae* was lost within about 2 years of its discovery.
+
+### Context
+> This manuscript, by [[Salvador Contreras-Balderas]] and [[María de Lourdes Lozano-Vilano]], documents the decline of a group of narrowly endemic pupfishes, crayfishes and valvatid snails inhabiting isolated springs in the arid southwest of Nuevo León, Mexico. Of the springs surveyed, four are...
+> -- *[[SurvivalStatusOfTheSandiaAndPo_17533]]*
+
+### Mentioned In
+- [[SurvivalStatusOfTheSandiaAndPo_17533]]
+
+## Ojo La Trinidad
+
+### Summary
+A spring whose area fell from about 1 ha to less than 0.1 ha as water dropped more than 1 m below its original level. The source says the pupfish *Cyprinodon inmemoriam* was described from a single mature male. The spring was nearly dry by April 1984, held only two fungus-covered female crayfish in 1985, and the species disappeared in less than 2 years.
+
+### Context
+> This manuscript, by [[Salvador Contreras-Balderas]] and [[María de Lourdes Lozano-Vilano]], documents the decline of a group of narrowly endemic pupfishes, crayfishes and valvatid snails inhabiting isolated springs in the arid southwest of Nuevo León, Mexico. Of the springs surveyed, four are...
+> -- *[[SurvivalStatusOfTheSandiaAndPo_17533]]*
+
+### Mentioned In
+- [[SurvivalStatusOfTheSandiaAndPo_17533]]
 
 ## Okaloosa Darter
 <!-- fm: auto_enriched: true -->
@@ -2033,8 +2097,12 @@ Smithsonian Institution entomologist and the author of this 1971 taxonomic revis
 > This taxonomic paper by [[Oliver S. Flint Jr.]] (Smithsonian Institution) revises the poorly known hydroptilid caddisfly genus [[Rhyacopsyche]], originally named by [[Fritz Müller]] from Brazil. The author argues that [[Rhyacopsyche Mexicana]] (originally described as [[Metrichia]] mexicana) is...
 > -- *[[StudiesOfNeotropicalCaddisFlie_16467]]*
 
+> This taxonomic paper by [[Oliver S. Flint Jr.]] reports caddisfly (Trichoptera) material collected in northern Argentina from 30 March to 9 April 1971, in the provinces of [[Santa Fe Province]] and [[Misiones Province]]. The collections yielded a number of poorly known species, describes **13 new...
+> -- *[[StudiesOfNeotropicalCaddisflie_16468]]*
+
 ### Mentioned In
 - [[StudiesOfNeotropicalCaddisFlie_16467]]
+- [[StudiesOfNeotropicalCaddisflie_16468]]
 
 ## Olivia and Caroline Phelps Stokes Fund
 
@@ -2647,6 +2715,18 @@ Ontario County is a county in New York State where Flint Creek is located. The n
 ### Mentioned In
 - [[LethalOxygenConcentrationsForT_17548]]
 
+## Ontogenetic Allometry
+
+### Summary
+Ontogenetic allometry describes how shape covaries with size during an individual's growth. The source uses it to compare each size class of Dexter razorback suckers with the adjacent smaller size class, testing whether shape changes during development follow size.
+
+### Context
+> This 1993 study proposal by Christopher R. Reimus sets out a morphometric plan to test whether shape changes in the [[Razorback Sucker]] (*Xyrauchen texanus*) are simply the consequence of changes in size. The work uses [[Static Allometry]] (differences among same-stage individuals of different...
+> -- *[[StaticAndOntogenicAllometryInT_16811]]*
+
+### Mentioned In
+- [[StaticAndOntogenicAllometryInT_16811]]
+
 ## Ontogenetic Diet Shift
 <!-- fm: auto_enriched: true -->
 
@@ -2793,6 +2873,18 @@ This was the less intensive spring-season survey used alongside the ice census a
 
 ### Mentioned In
 - [[FinalReportOfTheIceFishingCree_12822]]
+
+## Opequon Creek
+
+### Summary
+A Potomac direct tributary covered by the survey, with flow data in Table 3. The report recommended managing it for bass and sunfish.
+
+### Context
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
+### Mentioned In
+- [[GameFishStreamsAndRecordsOfFis_21088]]
 
 ## Opercle
 
@@ -3149,6 +3241,18 @@ The optical method is the second particle-sizing technique used in the study. It
 - [[FoodHabitsOfLakeTrou_17691]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 
+## Optioservus
+
+### Summary
+A riffle beetle genus with about five to six eastern species, common in middle and East Tennessee. The report found it common in the recovery zone below treated sewage and present where chlorides exceed 800 mg/L.
+
+### Context
+> This 1964 technical report by [[Ralph M. Sinclair]] of the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health) assesses the water quality tolerances of the [[Riffle Beetles]] family [[Elmidae]]. It challenges the long-held view that elmids are a strict "clean-water"...
+> -- *[[WaterQualityRequirementsForElm_19002]]*
+
+### Mentioned In
+- [[WaterQualityRequirementsForElm_19002]]
+
 ## Optomotor Reflex
 <!-- fm: auto_enriched: true -->
 
@@ -3394,6 +3498,9 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 > This 1956 report, prepared by Tom Eady, Ward Faulkner, Jerry Kerbs, and Art Metcalf of the Fisheries Management Class at Kansas State College, documents a preliminary seine survey of [[Mill Creek]] in Riley County, Kansas, carried out between March 21 and early April 1956. The survey sampled six...
 > -- *[[PreliminarySurveyOfTheFishFaun_15760]]*
 
+> This Illinois Natural History Survey Biological Notes paper (No. 58, 1967) by Marvin E. Braasch and Philip W. Smith presents the first detailed life-history study of the [[Slough Darter]] (*Etheostoma gracile*), the westernmost member of the subgenus *Hololepis*. Fieldwork was conducted in [[Dismal...
+> -- *[[TheLifeHistoryOfTheSloughDarte_12872]]*
+
 ### Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[DurationOfSpermViabilityAsAFac_14210]]
@@ -3404,6 +3511,7 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
 - [[PreliminarySurveyOfTheFishFaun_15760]]
+- [[TheLifeHistoryOfTheSloughDarte_12872]]
 
 ## Orara River
 <!-- fm: auto_enriched: true -->
@@ -3684,9 +3792,13 @@ A crayfish subspecies that hosted Attheyella pilosa at Doe Run, Kentucky. The st
 > This critical review examines fish introduction practices in North American waters, evaluating whether such introductions represent sound management, mismanagement, or absence of management. The authors, Walter R. Courtenay, Jr. and C. Richard Robins, analyze the eight-step procedure proposed in...
 > -- *[[FishIntroductionsGoodManagemen_17630]]*
 
+> This revision by J. A. Riegel (University of California, Davis) presents the first comprehensive account of California's crayfishes. It recognizes five valid species in three genera and two subfamilies, and it synonymizes [[Pacifastacus Trowbridgi]] with [[Pacifastacus Leniusculus]]. Only...
+> -- *[[TheSystematicsAndDistributionO_14952]]*
+
 ### Mentioned In
 - [[NotesOnTheFishesOfTheColoradoR_13441]]
 - [[FishIntroductionsGoodManagemen_17630]]
+- [[TheSystematicsAndDistributionO_14952]]
 
 ## Orconectes Wrighti
 <!-- fm: auto_enriched: true -->
@@ -3856,6 +3968,18 @@ The Oregon Cooperative Fishery Research Unit is an Oregon State University resea
 
 ### Mentioned In
 - [[CritiqueOfHumpbackChubResearch_20317]]
+
+## Oregon Department of Fish and Wildlife
+
+### Summary
+This state agency is the recipient of the 1991 final report by Phillip M. Harris. The report was written to inform management of the Upper Klamath Lake suckers, whose declines and possible hybridization were of concern for conservation.
+
+### Context
+> This 1991 final report, submitted by Phillip M. Harris (Oregon State University) to the [[Oregon Department of Fish and Wildlife]], tests whether [[Shortnose Sucker]] (*Chasmistes brevirostris*), [[Lost River Sucker]] (*Deltistes luxatus*) and [[Klamath Largescale Sucker]] (*Catostomus snyderi*)...
+> -- *[[BiochemistryAndMorphologyOfUpp_20670]]*
+
+### Mentioned In
+- [[BiochemistryAndMorphologyOfUpp_20670]]
 
 ## Oregon Junco
 
@@ -4277,6 +4401,18 @@ Organic nitrogen is nitrogen bound in organic compounds, measured as a water che
 ### Mentioned In
 - [[EffectOfDifferentNitrogenSourc_19233]]
 
+## Organic Phosphorus Compounds
+
+### Summary
+A group of pesticides used mainly against insects and mites that parasitize plants and animals, with examples including parathion, malathion, phosdrin, and TEPP. According to the source, most of these decompose more quickly than chlorinated compounds, and malathion was identified as relatively safe to birds and mammals at insecticidal rates.
+
+### Context
+> This 1966 U.S. Department of the Interior, [[Fish and Wildlife Service]] (FWS) publication reviews how [[Synthetic Pesticides]] affect fish, wildlife, and their aquatic and coastal environments. It argues that controlled pesticide use is necessary, but that persistent chemicals pose subtle,...
+> -- *[[FishWildlifeAndpesticides_11525]]*
+
+### Mentioned In
+- [[FishWildlifeAndpesticides_11525]]
+
 ## Organic Pollution And Stream Ecology
 <!-- fm: auto_enriched: true -->
 
@@ -4288,6 +4424,18 @@ Organic nitrogen is nitrogen bound in organic compounds, measured as a water che
 
 ### Mentioned In
 - [[DetectionAndAssessmentOfWaterP_1966]]
+
+## Organochlorine Insecticides
+
+### Summary
+A class of synthetic chlorinated pesticides, such as DDT, dieldrin and chlordane, that persist in the environment and accumulate in fat. In this study they were measured as residues in edible fish flesh from Lakes Saint Clair and Erie.
+
+### Context
+> This monitoring study, reprinted from the *Pesticides Monitoring Journal* (Vol. 12, No. 2, September 1978), reports [[Organochlorine Insecticides]] and [[Polychlorinated Biphenyls]] (PCBs) in edible fish flesh from [[Lake Saint Clair]] and [[Lake Erie]] collected between 1968 and 1976. Eighteen...
+> -- *[[ResiduesOfOrganochlorineInsect_18815]]*
+
+### Mentioned In
+- [[ResiduesOfOrganochlorineInsect_18815]]
 
 ## Organochlorine Pesticides
 <!-- fm: auto_enriched: true -->
@@ -4410,6 +4558,18 @@ The Orinoco is a major South American river basin to which the Rio Meta system b
 
 ### Mentioned In
 - [[OnNewSpeciesOfFishesFromTheRio_15806]]
+
+## Orizaba
+
+### Summary
+Orizaba is a city in Veracruz, Mexico, near which the author sampled the Rio Blanco, a headwater stream rising from springs and falling steeply toward the Gulf of Mexico. Only one species, Pseudoxiphophorus bimaculatus, was collected there, and it was very abundant in mill races and quiet nooks.
+
+### Context
+> This 1894 report by [[Albert J. Woolman]] documents a small collection of 24 freshwater fish species from headwater streams sampled between [[El Paso del Norte]], Texas, and [[Orizaba]], Veracruz, during a 1891 expedition connected with studies of [[Mount Orizaba]]. Six species and one genus...
+> -- *[[CollectionOfFishesFromTheRiver_20840]]*
+
+### Mentioned In
+- [[CollectionOfFishesFromTheRiver_20840]]
 
 ## Orme Dam
 <!-- fm: auto_enriched: true -->
@@ -4752,6 +4912,18 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 
 ### Mentioned In
 - [[WhatHaveICaught_12929]]
+
+## Osborne 1911 Clinostomum Study
+
+### Summary
+Osborne's 1911 study of Clinostomum is cited by Smallwood as a source of comparison for adult worm size. Osborne gave adult lengths of 3 to 8 mm and widths of 0.9 to 2 mm. Smallwood's specimens were mostly 5 to 8 mm long, with some reaching 10 mm, which exceeds Osborne's range. Osborne also supplied material from Michigan and Lake Clear, New York.
+
+### Context
+> This 1914 preliminary report by [[W. M. Smallwood]], published as Technical Publication No. 1 of the [[New York State College of Forestry]] at [[Syracuse University]], examines why yellow perch and bass in Adirondack ponds become unfit for food each summer. The cause is the trematode [[Clinostomum...
+> -- *[[PreliminaryReportOnTheDiseases_19028]]*
+
+### Mentioned In
+- [[PreliminaryReportOnTheDiseases_19028]]
 
 ## Oscillatoria
 <!-- fm: auto_enriched: true -->
@@ -5280,10 +5452,14 @@ Ostichthys trachypoma is a soldierfish species in the subfamily Myripristinae fo
 > This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
 > -- *[[DistributionAndAbundanceOfBent_13853]]*
 
+> This 1980 *Hilgardia* study compared the effects of the native [[Desert Pupfish]] (*Cyprinodon macularius*) and the introduced [[Western Mosquitofish]] (*Gambusia affinis affinis*) on aquatic insects and zooplankton in 12 experimental ponds in Riverside, California, during 1974 and 1975. Both fish...
+> -- *[[ImpactOfTheDesertPupfishCyprin_14858]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[DistributionAndAbundanceOfBent_13853]]
+- [[ImpactOfTheDesertPupfishCyprin_14858]]
 
 ## Ostracodermi
 
@@ -5548,6 +5724,18 @@ A genus of fishes in the drum family. The author first thought Lompoquia retrope
 ### Mentioned In
 - [[DescriptionOfMioceneFishesFrom_19848]]
 
+## Otoliths
+
+### Summary
+Otoliths are calcified structures in the inner ear of fishes, used to estimate age. In this source, otoliths are removed from the prepared skeletal specimens as part of the standard preparation process.
+
+### Context
+> This 1993 study proposal by Christopher R. Reimus sets out a morphometric plan to test whether shape changes in the [[Razorback Sucker]] (*Xyrauchen texanus*) are simply the consequence of changes in size. The work uses [[Static Allometry]] (differences among same-stage individuals of different...
+> -- *[[StaticAndOntogenicAllometryInT_16811]]*
+
+### Mentioned In
+- [[StaticAndOntogenicAllometryInT_16811]]
+
 ## Otsego Whitefish
 
 ### Summary
@@ -5665,9 +5853,13 @@ A bottom-towed net used by the four northern California vessels that supplied th
 > This 1961 study by [[John C Poole]] of the [[New York State Conservation Department]] determined the age and growth of [[Summer Flounder]] (*Paralichthys dentatus*, "fluke") in [[Great South Bay]] using annular marks on the [[Otolith]] (sagitta). Growth was back-calculated for 357 fish taken in...
 > -- *[[AgeAndGrowthOfTheFlukeInGreatS_18632]]*
 
+> This U.S. Fish and Wildlife Service fishery leaflet (Fishery Leaflet 241, Part I of two) by [[Boris O. Knake]] describes hand methods of [[Net Mending]] used by New England [[Otter Trawl]] fishermen. It covers netting terminology, knot definitions, damage inspection and trimming, needle filling,...
+> -- *[[MethodsOfNetMendingnewEngland_12569]]*
+
 ### Mentioned In
 - [[StatusOfTheAnimalFoodFisheryIn_18204]]
 - [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
+- [[MethodsOfNetMendingnewEngland_12569]]
 
 ## Otter Trawling
 
@@ -5680,6 +5872,18 @@ A bottom trawling method using an otter board to keep the net open while towed. 
 
 ### Mentioned In
 - [[DistributionSizeCompositionAnd_17286]]
+
+## Otto Friedrich Müller
+
+### Summary
+Otto Friedrich Müller was an 18th-century naturalist whose 1776 work begins the history of the genus Planaria as traced in this paper. The paper also cites his 1774 description of Fasciola torva, which became the type species of Planaria.
+
+### Context
+> This taxonomic paper by [[Roman Kenk]] revises the freshwater triclad genus [[Planaria]] (Turbellaria) in North America. It traces the history of the genus from [[Otto Friedrich Müller]] (1776) to its modern restriction, and it confirms the narrowed genus contains very few species. The paper...
+> -- *[[FreshwaterTricladsTurbellariaO_17938]]*
+
+### Mentioned In
+- [[FreshwaterTricladsTurbellariaO_17938]]
 
 ## Ouabain
 <!-- fm: auto_enriched: true -->
@@ -6002,6 +6206,18 @@ Outbreeding depression in fish science refers to the reduction in fitness and su
 - [[LetterRegardingGilaTopminnowRe_1992_12_08]]
 - [[HeterozygosityAndFitnessDiffer_18732]]
 
+## Outer Continental Shelf
+
+### Summary
+The Outer Continental Shelf is the submerged seabed of the continental margin beyond state waters, under federal jurisdiction. The source lists OCS development as one of the Biological Services Program's project areas, but does not discuss it further.
+
+### Context
+> This Fish and Wildlife Service Topical Brief (FWS/OBS-76/20.7, June 1978) reviews how sampling error affects [[Ichthyoplankton]] data (fish eggs and larvae) used in [[Power Plant Entrainment]] impact assessments. It catalogs the seven general categories of sampling gear in use, identifies abiotic...
+> -- *[[FactorsAffectingAccuracyOfIcht_17749]]*
+
+### Mentioned In
+- [[FactorsAffectingAccuracyOfIcht_17749]]
+
 ## Outreach
 <!-- fm: auto_enriched: true -->
 
@@ -6303,6 +6519,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > *At the Crossroads* is the January 1972 inaugural report of the [[California Department of Fish and Game]] (DFG) to Governor Ronald Reagan on the state's endangered and rare fish and wildlife. It was prepared under the [[California Species Preservation Act]] of 1970 and the [[California Endangered...
 > -- *[[AtTheCrossroadsAReportOnCalifo_20214]]*
 
+> This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
+> -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -6324,6 +6543,7 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[RegionalInformationSummaryOfTh_12740]]
 - [[ReferencesForNdEditionOfInland_15457]]
 - [[AtTheCrossroadsAReportOnCalifo_20214]]
+- [[ObservationsOnTheStatusOfTheDe_12013]]
 
 ## Owens River
 <!-- fm: auto_enriched: true -->
@@ -6378,6 +6598,18 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 ### Mentioned In
 - [[FourthAnnualMeetingDeathValley_11111]]
 
+## Owens River Tui Chub
+
+### Summary
+The Owens River tui chub (*Gila bicolor snyderi*) is a small minnow native to the Owens Valley region of California. In this source it is listed as one of the native fishes protected in the Owens Valley Native Fish Sanctuary at Fish Slough, alongside the Owens pupfish and Owens sucker. The report does not provide population data for this species.
+
+### Context
+> This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
+> -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
+
+### Mentioned In
+- [[ObservationsOnTheStatusOfTheDe_12013]]
+
 ## Owens Speckled Dace
 
 ### Summary
@@ -6419,6 +6651,9 @@ The Owens Sucker (*Catostomus* sp.) is a cyprinid fish species endemic to the Ow
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
+> -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -6426,6 +6661,7 @@ The Owens Sucker (*Catostomus* sp.) is a cyprinid fish species endemic to the Ow
 - [[GeneticsMorphologyAndSystemati_19379]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[ObservationsOnTheStatusOfTheDe_12013]]
 
 ## Owens Tui Chub
 <!-- fm: auto_enriched: true -->
@@ -6498,11 +6734,15 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
+> -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
+
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[ObservationsOnTheStatusOfTheDe_12013]]
 
 ## Owens Valley Pupfish
 <!-- fm: auto_enriched: true -->
@@ -6780,6 +7020,18 @@ A power generating facility with a thermal outfall, listed among the thermal dis
 ### Mentioned In
 - [[AnAnnotatedBibliographyOfTheEf_18153]]
 
+## Oyster Cultch
+
+### Summary
+Oyster cultch is shell material placed on the bottom to provide settling surfaces for oysters. The source notes that such shells can retain radioactivity, since shells accumulate strontium from water.
+
+### Context
+> This review by [[Walter A. Chipman]] of the [[U.S. Fish and Wildlife Service]] Radiobiological Investigations examines how marine fish and shellfish take up radioactive materials when [[Fission Products]] and other radioisotopes are present in sea water. Drawing mainly on laboratory work at the...
+> -- *[[AccumulationOfRadioactiveMater_16139]]*
+
+### Mentioned In
+- [[AccumulationOfRadioactiveMater_16139]]
+
 ## Oyster Larvae
 <!-- fm: auto_enriched: true -->
 
@@ -6813,8 +7065,12 @@ Marine and estuarine bivalve molluscs that are widely cultured for food. The sou
 > This document is FAO Fisheries Circular No. 924 (FIRI/C924), compiled by André G. Coche and published by the [[Food and Agriculture Organization]] in Rome in 1997. It is a bibliographical index of about 600 selected FAO documents on [[Aquaculture]] published between January 1960 and March 1997. It...
 > -- *[[AnIndexedListOfFaoPublications_16312]]*
 
+> This review by [[Walter A. Chipman]] of the [[U.S. Fish and Wildlife Service]] Radiobiological Investigations examines how marine fish and shellfish take up radioactive materials when [[Fission Products]] and other radioisotopes are present in sea water. Drawing mainly on laboratory work at the...
+> -- *[[AccumulationOfRadioactiveMater_16139]]*
+
 ### Mentioned In
 - [[AnIndexedListOfFaoPublications_16312]]
+- [[AccumulationOfRadioactiveMater_16139]]
 
 ## Ozark Blindfish
 

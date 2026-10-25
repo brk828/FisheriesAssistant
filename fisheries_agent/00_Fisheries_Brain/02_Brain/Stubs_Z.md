@@ -114,6 +114,18 @@ Zannichellia is a submergent aquatic plant that appeared in Apache Lake by 1975 
 ### Mentioned In
 - [[InfluenceOfPumpStorageAndGener_15886]]
 
+## Zannichellia Palustris
+
+### Summary
+Zannichellia palustris, known as horned pondweed, is an aquatic plant that grew in the study ponds. By September it, together with Chlorophyta, covered more than 80 percent of pond bottoms, with weed mass filling 30 to 90 percent of the water volume.
+
+### Context
+> This 1980 *Hilgardia* study compared the effects of the native [[Desert Pupfish]] (*Cyprinodon macularius*) and the introduced [[Western Mosquitofish]] (*Gambusia affinis affinis*) on aquatic insects and zooplankton in 12 experimental ponds in Riverside, California, during 1974 and 1975. Both fish...
+> -- *[[ImpactOfTheDesertPupfishCyprin_14858]]*
+
+### Mentioned In
+- [[ImpactOfTheDesertPupfishCyprin_14858]]
+
 ## Zanzibar
 
 ### Summary
@@ -350,9 +362,13 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 > This two-part study by R. [[Lloyd]] and D. H. M. [[Herbert]] (Jordan in the source) tests whether the acute toxicity of [[Sewage Effluent]] to [[Rainbow Trout]] (*Salmo gairdnerii*) can be predicted from chemical analysis of a few common poisons. The authors summed the individual toxicities of...
 > -- *[[PredictedAndObservedToxicities_16173]]*
 
+> This 1965 paper, reprinted from the Journal of the [[Institute of Sewage Purification]], investigates why several rivers in the [[Industrial Midlands]] of England are free of fish. The authors, D. W. M. Herbert, D. H. M. Jordan and R. Lloyd of the [[Water Pollution Research Laboratory]] at...
+> -- *[[AStudyOfSomeFishlessRiversInTh_16697]]*
+
 ### Mentioned In
 - [[TheAcuteLethalToxicityToRainbo_1970_02_17]]
 - [[PredictedAndObservedToxicities_16173]]
+- [[AStudyOfSomeFishlessRiversInTh_16697]]
 
 ## Zinc Sulphate
 <!-- fm: auto_enriched: true -->
@@ -398,10 +414,14 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 > This is the third supplement (February 1965) to a selected bibliography of terrestrial and freshwater radioecology, compiled by [[Alfred W. Klement Jr.]] and [[Vincent Schultz]] for the [[United States Atomic Energy Commission]] (AEC), Division of Biology and Medicine (report TID-3910, Suppl. 3)....
 > -- *[[TerrestrialAndFreshwaterRadioe_12564]]*
 
+> This review by [[Walter A. Chipman]] of the [[U.S. Fish and Wildlife Service]] Radiobiological Investigations examines how marine fish and shellfish take up radioactive materials when [[Fission Products]] and other radioisotopes are present in sea water. Drawing mainly on laboratory work at the...
+> -- *[[AccumulationOfRadioactiveMater_16139]]*
+
 ### Mentioned In
 - [[RadioactiveMaterialsInAquaticA_13967]]
 - [[TerrestrialAndFreshwaterRadioe_12563]]
 - [[TerrestrialAndFreshwaterRadioe_12564]]
+- [[AccumulationOfRadioactiveMater_16139]]
 
 ## Zion Canyon
 
@@ -548,12 +568,16 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 > This letter-report, written by [[Dale A. Zimmerman]] (Professor and Chairman, Department of Biological Sciences, Western New Mexico University), argues that the riparian valley of the [[Gila River]] in southwestern New Mexico is a critical wildlife reservoir. The author contends that agency studies...
 > -- *[[TheGilaRiverValleyInSouthweste_20942]]*
 
+> This final 1980 progress report, edited by Terry B. Johnson, presents four parts of a biological survey of the [[George Whittell Wildlife Preserve]] (26,104 acres) and the wider [[Aravaipa Creek Watershed]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife...
+> -- *[[ProgressReportForTheBiological_19815]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[ResourceReportOnAravaipaCanyon_11458]]
 - [[DeadmanCreekSurveyApril_20350]]
 - [[TheGilaRiverValleyInSouthweste_20942]]
+- [[ProgressReportForTheBiological_19815]]
 
 ## Zonitoides Arboreus
 <!-- fm: auto_enriched: true -->
@@ -746,6 +770,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This 1969 Master of Science thesis by Eric P. Bergersen, submitted to the [[University of Arizona]] in fishery biology, investigates why [[Parker Canyon Lake]] has low fish production. Between September 1967 and September 1968, the author compared forage-supporting factors across Parker Canyon,...
 > -- *[[SomeFactorsAffectingFishForage_18194]]*
 
+> This 1980 *Hilgardia* study compared the effects of the native [[Desert Pupfish]] (*Cyprinodon macularius*) and the introduced [[Western Mosquitofish]] (*Gambusia affinis affinis*) on aquatic insects and zooplankton in 12 experimental ponds in Riverside, California, during 1974 and 1975. Both fish...
+> -- *[[ImpactOfTheDesertPupfishCyprin_14858]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -767,6 +794,7 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[BluewaterLakeRehabilitation_14527]]
 - [[SomeEffectsOfMechanicalEvapora_20305]]
 - [[SomeFactorsAffectingFishForage_18194]]
+- [[ImpactOfTheDesertPupfishCyprin_14858]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->

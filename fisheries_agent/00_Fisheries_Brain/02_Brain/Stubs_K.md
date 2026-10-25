@@ -695,6 +695,18 @@ Kariz (also called qanat) are traditional underground water channel systems. Thi
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 
+## Karl F. Lagler
+
+### Summary
+Cited (1952) as the source of the method used to mount fish scales for ageing, in glycerin and gelatin, which were then read on a projection microscope.
+
+### Context
+> This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
+> -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
+
+### Mentioned In
+- [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
+
 ## Karmex
 <!-- fm: auto_enriched: true -->
 
@@ -724,8 +736,12 @@ Kariz (also called qanat) are traditional underground water channel systems. Thi
 > - **Habitat range**: Species occupy a spectrum of subterranean and groundwater-associated habitats: - Seeps and spring outlets (epigean-adjacent, shallow subterranean influence) - Wells and caves (true deep subterranean/hypogean habitats) - **Geographic distribution**: - Appalachian region — 7 sp...
 > -- *[[Some Aspects of Evolution and Speciation in the Subterranean Amphipod Genus Stygonectes (Gammaridae)]]*
 
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
 ### Mentioned In
 - [[Some Aspects of Evolution and Speciation in the Subterranean Amphipod Genus Stygonectes (Gammaridae)]]
+- [[GameFishStreamsAndRecordsOfFis_21088]]
 
 ## Karst Terrain
 <!-- fm: auto_enriched: true -->
@@ -1200,6 +1216,9 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 > This Colorado State University Cooperative Extension bulletin (issued September 1980, revised February 1983, with 1982 updates) describes the biology, distribution, status and causes of decline of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It covers five focal...
 > -- *[[EndangeredAndThreatenedFishesO_18138]]*
 
+> This December 1978 report from the [[Fish and Wildlife Service]] compiles capture-location records for six fish species of special concern in the [[Upper Colorado River System]]. It was produced by Ecology Consultants, Inc. under an interagency agreement with the [[Environmental Protection Agency]]...
+> -- *[[CaptureLocationsOfRareFishInTh_19862]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[PharyngealTeethInTheEndangered_1988]]
@@ -1208,6 +1227,7 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[EndangeredAndThreatenedFishesO_18138]]
+- [[CaptureLocationsOfRareFishInTh_19862]]
 
 ## Kenilworth Aquatic Gardens
 
@@ -1220,6 +1240,18 @@ Kenilworth Aquatic Gardens is a restored marsh area on the Anacostia River in Wa
 
 ### Mentioned In
 - [[AmericanRiversProposalFundingR_17975]]
+
+## Kenkiidae
+
+### Summary
+Kenkiidae is a proposed third triclad family named by Hyman in 1937. The paper notes that later workers did not accept it as a valid family.
+
+### Context
+> This taxonomic paper by [[Roman Kenk]] revises the freshwater triclad genus [[Planaria]] (Turbellaria) in North America. It traces the history of the genus from [[Otto Friedrich Müller]] (1776) to its modern restriction, and it confirms the narrowed genus contains very few species. The paper...
+> -- *[[FreshwaterTricladsTurbellariaO_17938]]*
+
+### Mentioned In
+- [[FreshwaterTricladsTurbellariaO_17938]]
 
 ## Kennebunk, Maine
 <!-- fm: auto_enriched: true -->
@@ -1254,6 +1286,18 @@ Kenneth B. Armitage is a co-author of this 1967 University of Kansas Science Bul
 
 ### Mentioned In
 - [[ExternalMorphologyOfAdultAndCo_17878]]
+
+## Kenneth D. Carlander
+
+### Summary
+Iowa fisheries biologist who edited and convened the 1957 symposium on evaluating fish populations in warm water streams, held at Iowa State College in Ames. The source credits him as editor of the proceedings.
+
+### Context
+> This document is the proceedings of a 1957 symposium, held at Iowa State College (Ames, Iowa) and convened by [[Kenneth D. Carlander]], on evaluating fish populations in warm water streams. The symposium treated any method giving population estimates, relative abundance, trends or condition as...
+> -- *[[SymposiumOnEvaluationOfFishPop_14380]]*
+
+### Mentioned In
+- [[SymposiumOnEvaluationOfFishPop_14380]]
 
 ## Kenneth D. Woodburn
 
@@ -1697,6 +1741,9 @@ Kern County Parks and Recreation is a local agency that supported the Isabella R
 > This 1962 report by [[Robert L. Butler]] of the [[California Department of Fish and Game]] (Inland Fisheries Branch) examines why voluntary angler tag returns often fail to represent the true catch of planted fish. Drawing on 76 tagging studies of catchable-sized [[Rainbow Trout]] in 17 California...
 > -- *[[RecognitionAndReturnOfTroutTag_14111]]*
 
+> This 1955 magazine reprint, from the April 1955 issue of *Sunset* (Lane Publishing Co.), was issued for the California Department of Fish and Game. It profiles the trout of the American West, covering five native trout and three introduced species, and gives a state-by-state report on trout...
+> -- *[[TheStoryOfWesternTrout_14677]]*
+
 ### Mentioned In
 - [[SalmoRoseiNotAValidSpecies_12861]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
@@ -1704,6 +1751,7 @@ Kern County Parks and Recreation is a local agency that supported the Isabella R
 - [[ErythrocyteAntigensOfCaliforni_17330]]
 - [[EstimatedAnglerUseAndHarvestIs_20724]]
 - [[RecognitionAndReturnOfTroutTag_14111]]
+- [[TheStoryOfWesternTrout_14677]]
 
 ## Kern River Hatchery
 
@@ -2339,6 +2387,18 @@ Kings River is one of 13 streams studied in this comprehensive evaluation of Cal
 - [[LetterToJerryBurtonOnBuenosAir_1986_10_21]]
 - [[PreliminaryReportOnTheFirstCol_1987_01_31]]
 
+## Kingsbury Production Rule
+
+### Summary
+This is a production estimate attributed to O. R. Kingsbury and cited by the authors. It estimates potential trout production at at least 40 pounds per year per gallon per minute of spring water supply, and required rearing space at at least 2 pounds of trout per year per cubic foot. The source states these figures apply specifically to ponds 2 feet deep.
+
+### Context
+> This compiled document contains three unrelated pieces. The main fisheries content is a 1960 study of [[Trout Hatchery Pond Design]] in New York State, which tested [[Water Circulation]], [[Aeration Efficiency]] and [[Screen Area]] in rectangular rearing ponds. Its key results are that full-width...
+> -- *[[FactorsInHatcheryPondDesign_20694]]*
+
+### Mentioned In
+- [[FactorsInHatcheryPondDesign_20694]]
+
 ## Kingsley Dam
 
 ### Summary
@@ -2692,9 +2752,13 @@ The Klamath Lakes are a system of freshwater lakes in the Klamath River Basin, p
 > **Interspecific Hybridization:** - [[Lost River Sucker]] and [[Shortnose Sucker]] both hybridize with [[Klamath Largescale Sucker]]. - Hybridization between Lost River and Shortnose Suckers themselves is **less common** than hybridization of either with Klamath Largescale Sucker. - Hybridization ...
 > -- *[[ScopeOfWorkForShortnoseAndLost_1986_12_08]]*
 
+> This 1991 final report, submitted by Phillip M. Harris (Oregon State University) to the [[Oregon Department of Fish and Wildlife]], tests whether [[Shortnose Sucker]] (*Chasmistes brevirostris*), [[Lost River Sucker]] (*Deltistes luxatus*) and [[Klamath Largescale Sucker]] (*Catostomus snyderi*)...
+> -- *[[BiochemistryAndMorphologyOfUpp_20670]]*
+
 ### Mentioned In
 - [[GeneticsMorphologyAndSystemati_19379]]
 - [[ScopeOfWorkForShortnoseAndLost_1986_12_08]]
+- [[BiochemistryAndMorphologyOfUpp_20670]]
 
 ## Klamath River
 <!-- fm: auto_enriched: true -->
@@ -2745,6 +2809,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
 > -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
 
+> This 1955 magazine reprint, from the April 1955 issue of *Sunset* (Lane Publishing Co.), was issued for the California Department of Fish and Game. It profiles the trout of the American West, covering five native trout and three introduced species, and gives a state-by-state report on trout...
+> -- *[[TheStoryOfWesternTrout_14677]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -2763,6 +2830,7 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[ReviewOfMoyleAndBergsProjectRe_13795]]
 - [[TheYellowPerchPercaFlavescensM_17576]]
 - [[ARevisionOfTheOsmeridFishesOfT_19980]]
+- [[TheStoryOfWesternTrout_14677]]
 
 ## Klamath River Basin
 

@@ -283,6 +283,18 @@ Jack C. Schmidt is a researcher from Utah State University who was scheduled to 
 ### Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
 
+## Jack S. Dendy
+
+### Summary
+A biologist whose elmid data from pre-impoundment studies of the Watts Bar Reservoir and Cherokee Reservoir in East Tennessee are drawn on in the source. The source uses these records to describe the fauna before impoundment.
+
+### Context
+> This 1964 technical report by [[Ralph M. Sinclair]] of the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health) assesses the water quality tolerances of the [[Riffle Beetles]] family [[Elmidae]]. It challenges the long-held view that elmids are a strict "clean-water"...
+> -- *[[WaterQualityRequirementsForElm_19002]]*
+
+### Mentioned In
+- [[WaterQualityRequirementsForElm_19002]]
+
 ## Jack Salmon
 
 ### Summary
@@ -445,6 +457,18 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 ### Mentioned In
 - [[FisherySurveyOfTheMousamRiver_12823]]
 
+## Jago's Resort
+
+### Summary
+A release station on Clear Lake, about seven miles southeast of The Narrows, used in the 1954–55 tagging study. Only 15 white catfish were tagged here, too few for a comparison, while 41 brown bullheads were tagged, with a return rate of 16.4 percent, the highest of any bullhead site.
+
+### Context
+> This California Department of Fish and Game study, by George W. McCammon and Charles M. Seeley of the [[Inland Fisheries Branch]], tagged and released [[White Catfish]] (*Ictalurus catus*) and [[Brown Bullhead]] (*Ictalurus nebulosus*) in [[Clear Lake]] to estimate survival, mortality, and...
+> -- *[[SurvivalMortalityAndMovementsO_12247]]*
+
+### Mentioned In
+- [[SurvivalMortalityAndMovementsO_12247]]
+
 ## Jaguar
 <!-- fm: auto_enriched: true -->
 
@@ -580,8 +604,12 @@ James E. Johnson of the U.S. Fish and Wildlife Service is the author of this 199
 > This U.S. Forest Service General Technical Report (RM-207), authored by [[James E Johnson]] of the U.S. Fish and Wildlife Service, reviews management of endangered and threatened fishes that depend on western warmwater springs and streams. Of 83 federally listed U.S. fish taxa, 59 (71%) are western...
 > -- *[[ManagementConcernsForEndangere_19782]]*
 
+> This proceedings paper by [[James E Johnson]] (U.S. Fish and Wildlife Service and University of Arkansas) reviews how aquaculture affects endangered North American fishes and how hatcheries can help recover them. The author argues that the most serious threat is the accidental or deliberate...
+> -- *[[AReviewOfSelectedEndangeredFis_19784]]*
+
 ### Mentioned In
 - [[ManagementConcernsForEndangere_19782]]
+- [[AReviewOfSelectedEndangeredFis_19784]]
 
 ## James E. Deacon
 <!-- fm: auto_enriched: true -->
@@ -637,6 +665,18 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[ManuscriptAppraisalForWlMinckl_11437]]
 - [[ResearchProposalOutlineEffects_11729]]
 - [[ManuscriptlongevityAndGrowthOf_11310]]
+
+## James E. Johnson
+
+### Summary
+James E. Johnson is one of the three authors of this 1977 USDA Forest Service research paper (RM-198) on the Gila topminnow and its co-occurrence with mosquitofish. The note lists him as a co-author alongside W. L. Minckley and John N. Rinne but does not describe his specific role.
+
+### Context
+> This USDA Forest Service research paper (RM-198, December 1977) by [[W. L. Minckley]], [[John N. Rinne]] and [[James E. Johnson]] reports that the [[Gila Topminnow]] and the introduced [[Mosquitofish]] coexist for variable periods, especially in complex habitats and near springs, before...
+> -- *[[StatusOfTheGilaTopminnowAndIts_15888]]*
+
+### Mentioned In
+- [[StatusOfTheGilaTopminnowAndIts_15888]]
 
 ## James Ellsworth DeKay
 
@@ -1064,6 +1104,18 @@ The Jarvis Decisions are a series of Arizona Supreme Court rulings on groundwate
 ### Mentioned In
 - [[MinutesOfTheDesertFishesRecove_1999_11_07]]
 
+## Jason Morrison
+
+### Summary
+A Pacific Institute staff member who wrote the article on the Mexicali binational workshop about Colorado River delta restoration. He was also named one of three expert US delegates to the ISO 14000 standard process and briefed the Sierra Club's Colorado River Task Force.
+
+### Context
+> This Winter 1997-98 newsletter from the [[Pacific Institute]] (Oakland, California) reports on the Institute's activities across climate policy, water resources, public education, and environmental publishing. Its major features are a North-South dialogue on climate change and [[Technology...
+> -- *[[PacificInstituteReport_18370]]*
+
+### Mentioned In
+- [[PacificInstituteReport_18370]]
+
 ## Jasper National Park
 <!-- fm: auto_enriched: true -->
 
@@ -1143,6 +1195,18 @@ A round, bird-band style monel tag, 3.5 mm wide and 8 mm in diameter, placed ove
 
 ### Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
+
+## Jay R. Stauffer Jr.
+
+### Summary
+Jay R. Stauffer Jr. is a co-author of this chapter with John Cairns Jr. and Charles H. Hocutt. The paper uses fish data from the Youghiogheny River and Conowingo Creek to test the inertia and elasticity indices he helped develop.
+
+### Context
+> This reprinted chapter, from a 1979 U.S. Forest Service proceedings on floodplain wetland and riparian ecosystem protection, argues that eastern U.S. riparian habitats can be both maintained and rehabilitated with existing methods. The authors, [[John Cairns Jr.]], [[Jay R. Stauffer Jr.]] and...
+> -- *[[OpportunitiesForMaintenanceAnd_17327]]*
+
+### Mentioned In
+- [[OpportunitiesForMaintenanceAnd_17327]]
 
 ## Jeddito Formation
 
@@ -1236,6 +1300,18 @@ Jeffrey was an Auburn University researcher who conducted pond aeration experime
 
 ### Mentioned In
 - [[NutritionInCommercialCatfishcu_16217]]
+
+## Jeffrey J. Webb
+
+### Summary
+A researcher credited with estimating the population in Cave Spring Cave in Union County, Illinois, at 35 to 45 fish. The source includes this estimate in its population summary.
+
+### Context
+> This Illinois Natural History Survey Biological Notes report (No. 104, May 1978, by [[Philip W. Smith]] and [[Norbert M. Welch]]) summarizes the taxonomy, life history, distribution, and conservation status of the [[Spring Cavefish]], *[[Chologaster Agassizi]]*. The species is a small, nocturnal,...
+> -- *[[ASummaryOfTheLifeHistoryAndDis_21200]]*
+
+### Mentioned In
+- [[ASummaryOfTheLifeHistoryAndDis_21200]]
 
 ## Jeffrey Pine
 
@@ -1541,6 +1617,18 @@ Jim Brooks was personnel from Dexter National Fish Hatchery who was proposed to 
 ### Mentioned In
 - [[CuiUiRecoveryTeamMeeting_1990_11_29]]
 
+## Jim Davis
+
+### Summary
+Jim Davis was a fisheries research biologist for the Louisiana Wild Life and Fisheries Commission and a main source for this 1966 article. He predicted Louisiana could produce 30,000,000 pounds of marketable catfish within three years, cited a net profit of about $200 per acre, and said catfish could outperform cotton and soybeans.
+
+### Context
+> This 1966 magazine feature, reprinted from the *Louisiana Conservationist* and issued as Wild Life Education Bulletin No. 95, describes the rapid growth of commercial catfish farming in Louisiana. The article presents the industry as a profitable alternative to cash crops, with an acre of catfish...
+> -- *[[CatfishByTheAcrea_19153]]*
+
+### Mentioned In
+- [[CatfishByTheAcrea_19153]]
+
 ## Jim Deacon
 <!-- fm: auto_enriched: true -->
 
@@ -1614,6 +1702,18 @@ Region VI Fish Specialist with the Arizona Game and Fish Department in Mesa, Ari
 ### Mentioned In
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
 - [[LifeHistoryStudiesOfTheAlabama_20199]]
+
+## Jimmie Thompson
+
+### Summary
+Jimmie Thompson was chairman of the Louisiana Wild Life and Fisheries Commission, according to this article. The source describes him as experienced in catfish production.
+
+### Context
+> This 1966 magazine feature, reprinted from the *Louisiana Conservationist* and issued as Wild Life Education Bulletin No. 95, describes the rapid growth of commercial catfish farming in Louisiana. The article presents the industry as a profitable alternative to cash crops, with an acre of catfish...
+> -- *[[CatfishByTheAcrea_19153]]*
+
+### Mentioned In
+- [[CatfishByTheAcrea_19153]]
 
 ## Jmsg
 <!-- fm: auto_enriched: true -->
@@ -1770,6 +1870,18 @@ John C. Poole is the author of this 1961 study, published in the New York Fish a
 ### Mentioned In
 - [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
 
+## John Cairns Jr.
+
+### Summary
+John Cairns Jr. is one of the three authors of this 1979 chapter on maintaining and rehabilitating eastern U.S. riparian habitats. He co-developed the inertia and elasticity framework and the case-study analyses, and he observed the Thames estuary recovery during two visits in 1978.
+
+### Context
+> This reprinted chapter, from a 1979 U.S. Forest Service proceedings on floodplain wetland and riparian ecosystem protection, argues that eastern U.S. riparian habitats can be both maintained and rehabilitated with existing methods. The authors, [[John Cairns Jr.]], [[Jay R. Stauffer Jr.]] and...
+> -- *[[OpportunitiesForMaintenanceAnd_17327]]*
+
+### Mentioned In
+- [[OpportunitiesForMaintenanceAnd_17327]]
+
 ## John Carollo Engineers
 
 ### Summary
@@ -1781,6 +1893,18 @@ John Carollo Engineers was a private engineering firm that provided design suppo
 
 ### Mentioned In
 - [[ArizonaEnvironmentalAndResourc_17454]]
+
+## John Casper Branner
+
+### Summary
+A geologist who directed the 1907 collecting of fossil fishes at Riacho Doce, Alagoas, Brazil, for the Carnegie Museum. The paper's material was gathered under his direction. The species Dastilbe crandalli was named for his assistant, Roderic Crandall.
+
+### Context
+> This taxonomic paper by [[David Starr Jordan]] describes a collection of fossil fishes from bituminous shales at [[Riacho Doce]], [[Alagoas]], Brazil. The material was gathered in 1907 under the direction of [[John Casper Branner]] for the [[Carnegie Museum]] of Pittsburgh, with duplicates held at...
+> -- *[[IiDescriptionOfACollectionOfFo_19854]]*
+
+### Mentioned In
+- [[IiDescriptionOfACollectionOfFo_19854]]
 
 ## John D. Black
 <!-- fm: auto_enriched: true -->
@@ -1980,8 +2104,12 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 > This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
 > -- *[[CreelCensusReport_11332]]*
 
+> This 1950s-era educational pamphlet, written by William L. Reavley and published by the [[Colorado Game and Fish Department]] (Educational Pamphlet Number Three, Colorado Conservation Magazine), explains the problems that affect fishing in Colorado and describes the principal game and rough fish of...
+> -- *[[TheFishOfColorado_16785]]*
+
 ### Mentioned In
 - [[CreelCensusReport_11332]]
+- [[TheFishOfColorado_16785]]
 
 ## John Millican
 <!-- fm: auto_enriched: true -->
@@ -2004,9 +2132,13 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 > - **1851:** First collected from southern tributaries of the Gila River by J.H. Clark, prior to the Gadsden Purchase (1853) - **1854:** Originally described as *Gila gibbosa* (Baird and Girard) from the Rio Santa Cruz — later invalidated as an erroneous homonym - **1856:** Officially described as...
 > -- *[[TaxonomicHistoryAndStatusOfThe_1995_12_01]]*
 
+> This USDA Forest Service research paper (RM-198, December 1977) by [[W. L. Minckley]], [[John N. Rinne]] and [[James E. Johnson]] reports that the [[Gila Topminnow]] and the introduced [[Mosquitofish]] coexist for variable periods, especially in complex habitats and near springs, before...
+> -- *[[StatusOfTheGilaTopminnowAndIts_15888]]*
+
 ### Mentioned In
 - [[PhysicalHabitatEvaluationOfSma_14995]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[StatusOfTheGilaTopminnowAndIts_15888]]
 
 ## John O. Snyder
 
@@ -2104,6 +2236,18 @@ Gottschalk was Director of the Bureau of Sport Fisheries and Wildlife, and his O
 ### Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 
+## John W. Price
+
+### Summary
+Cited (1940) on lake whitefish egg incubation, where warmer temperatures sped development. The author draws a parallel between that finding and the faster kennicotti hatching at Ikroavik Lake.
+
+### Context
+> This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
+> -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
+
+### Mentioned In
+- [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
+
 ## John Wesley Powell
 
 ### Summary
@@ -2169,6 +2313,9 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 > This 1956 report, prepared by Tom Eady, Ward Faulkner, Jerry Kerbs, and Art Metcalf of the Fisheries Management Class at Kansas State College, documents a preliminary seine survey of [[Mill Creek]] in Riley County, Kansas, carried out between March 21 and early April 1956. The survey sampled six...
 > -- *[[PreliminarySurveyOfTheFishFaun_15760]]*
 
+> This Illinois Natural History Survey Biological Notes paper (No. 58, 1967) by Marvin E. Braasch and Philip W. Smith presents the first detailed life-history study of the [[Slough Darter]] (*Etheostoma gracile*), the westernmost member of the subgenus *Hololepis*. Fieldwork was conducted in [[Dismal...
+> -- *[[TheLifeHistoryOfTheSloughDarte_12872]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[AgeGrowthFecundityAndFoodHabit_1964]]
@@ -2180,6 +2327,7 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 - [[Perch_16750]]
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[PreliminarySurveyOfTheFishFaun_15760]]
+- [[TheLifeHistoryOfTheSloughDarte_12872]]
 
 ## Johnson
 
@@ -2240,6 +2388,18 @@ Johnson is a researcher who studied pesticide persistence in aquatic environment
 
 ### Mentioned In
 - [[FoodOfThePelagicYoungOfWalleye_13890]]
+
+## Johnson 1977
+
+### Summary
+Reported in the source as removing 85% of the adult white sucker standing crop in a Minnesota lake, with no evident recovery by recruitment until 1972.
+
+### Context
+> This draft report (June 1995), prepared by the [[Utah Division of Wildlife Resources]] Colorado River Fishery Project with [[Colorado State University]] and [[Utah State University]] researchers, reviews the life histories and control options for non-indigenous, non-salmonid fishes in the [[Upper...
+> -- *[[OptionsForSelectivelyControlli_20250]]*
+
+### Mentioned In
+- [[OptionsForSelectivelyControlli_20250]]
 
 ## Johnson 1984
 <!-- fm: auto_enriched: true -->
@@ -2428,9 +2588,13 @@ Jolly-Seber is mentioned as a multi-sample mark-recapture method that can estima
 > - The **Lower Basin Recovery Implementation Scientific Workgroup** comprises a small group of academic ichthyologists (e.g., [[James E. Deacon]], [[Paul Marsh]], [[William Matthews]], [[W.L. Minckley]], [[Dave Propst]]) and agency biologists (e.g., [[Owen T. Gorman]], [[C.O. Minckley]], [[Gordon ...
 > -- *[[RosterLowerBasinRecoveryImplem_21095]]*
 
+> This correspondence from [[Paul B Holden]] of [[BIO/WEST]] to [[Glen Gould]] at the [[Bureau of Reclamation]] (May 12, 1997, with a follow-up fax dated May 13, 1997) responds to [[Reasonable and Prudent Alternative 10]] (RPA #10), issued by the [[U.S. Fish and Wildlife Service]], on recruitment of...
+> -- *[[ResponseToFwsRpaForTheLowerCol_20463]]*
+
 ### Mentioned In
 - [[ProposedHooverDamPowerplantMod_1991_06_27]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
+- [[ResponseToFwsRpaForTheLowerCol_20463]]
 
 ## Jonassen Method
 <!-- fm: auto_enriched: true -->
@@ -2644,17 +2808,33 @@ Jordan and Evermann refers to the landmark ichthyological works produced by Davi
 > - **Historical gap filled**: Eddy's manual, alongside [[Fishes of Ohio]] (Trautman) and Moore's contribution to *Vertebrate Animals of the United States*, represents the first adequate identification treatment of U.S. freshwater fishes since [[Jordan and Evermann]]'s work at the turn of the 20th ...
 > -- *[[BookReviewOfHowToKnowTheFreshw_1959]]*
 
+> This 1933 taxonomic paper by [[Carl L. Hubbs]] and [[Leonard P. Schultz]] describes two new rockfish species of the genus [[Sebastodes]] from the west coast of North America: [[Sebastodes Columbianus]] and [[Sebastodes Littoris]]. It also resolves long-standing synonymies and misidentifications...
+> -- *[[DescriptionsOfTwoNewAmericanSp_14468]]*
+
 ### Mentioned In
 - [[BookReviewOfHowToKnowTheFreshw_1959]]
 - [[CommentsOnTheProposedRejection_14473]]
 - [[OccurenceOfTheSturgeonChubHybo_18028]]
 - [[ReviewOfFreshwaterFishesOfCana_17244]]
+- [[DescriptionsOfTwoNewAmericanSp_14468]]
 
 ## Jordan And Evermann 1896
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[OccurenceOfTheSturgeonChubHybo_18028]]
+
+## Jordan and Evermann 1927
+
+### Summary
+A citation for the 1927 proposal of the genus name Forbesella for the subterranean form of the spring cavefish. The name was later replaced by Forbesichthys because it was preoccupied.
+
+### Context
+> This Illinois Natural History Survey Biological Notes report (No. 104, May 1978, by [[Philip W. Smith]] and [[Norbert M. Welch]]) summarizes the taxonomy, life history, distribution, and conservation status of the [[Spring Cavefish]], *[[Chologaster Agassizi]]*. The species is a small, nocturnal,...
+> -- *[[ASummaryOfTheLifeHistoryAndDis_21200]]*
+
+### Mentioned In
+- [[ASummaryOfTheLifeHistoryAndDis_21200]]
 
 ## Jordan And Gilbert
 <!-- fm: auto_enriched: true -->
@@ -2679,6 +2859,18 @@ Jordan and Evermann refers to the landmark ichthyological works produced by Davi
 
 ### Mentioned In
 - [[SystematicsOfTheAmericanAtheri_1946_11_15]]
+
+## Jordan and Hubbs Nomenclature
+
+### Summary
+The 1925 subspecific classification of Pacific Coast threespine sticklebacks that retained three subspecies, in contrast to Hagen and McPhail's proposal to recognize G. trachurus and G. leiurus as species. Stephen Ross follows this nomenclature for the central and southern California populations in the study.
+
+### Context
+> This Natural History Museum of Los Angeles County technical paper (Contributions in Science No. 243, June 1973, by Stephen T. Ross) examines the taxonomy of the threespine stickleback, [[Gasterosteus aculeatus]], in central and southern California. The study compares three principally allopatric...
+> -- *[[TheSystematicsOfGasterosteusAc_21089]]*
+
+### Mentioned In
+- [[TheSystematicsOfGasterosteusAc_21089]]
 
 ## Jordan And Mcgregor
 <!-- fm: auto_enriched: true -->
@@ -3421,6 +3613,18 @@ Juniper-Cross Mountain refers to water rights on the Yampa River that were the f
 ### Mentioned In
 - [[SummaryjanuaryManagementGroupM_21002]]
 - [[SummarynovemberAndFebruaryMana_21001]]
+
+## Juniper-Cross Mountain Conditional Water Right
+
+### Summary
+A conditional water right that controls the mainstem Yampa River flow and is the key acquisition target for the Yampa. The source says acquiring it could greatly benefit endangered fish in the Lower Yampa River, and the Yampa is ranked the top priority for acquisition investigation.
+
+### Context
+> This February 21, 1990 status report from the [[Colorado River Recovery Implementation Committee]] presents recommendations from the Water Acquisition Ad Hoc Subcommittee of the Management Group. Its goal is to expedite the acquisition of water rights, mainly by converting them to [[Instream Flow]]...
+> -- *[[RecoveryImplementationProgramF_17180]]*
+
+### Mentioned In
+- [[RecoveryImplementationProgramF_17180]]
 
 ## Juniper-Cross Mountain Project
 

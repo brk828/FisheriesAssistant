@@ -1182,6 +1182,12 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > This legal review, written by Gregory S. Weber (McGeorge School of Law), analyzes *United States v. Glenn-Colusa Irrigation District*, 788 F. Supp. 1126 (N.D. Cal., 10 March 1992). The court found that pumping by the [[Glenn-Colusa Irrigation District]] (GCID) "took" threatened [[Sacramento River...
 > -- *[[TheEndangeredSpeciesActNewWeap_19657]]*
 
+> This Federal Register compilation contains three regulatory items. The first is the [[Environmental Protection Agency]]'s interim approval of the [[Alaska Department Of Environmental Conservation]]'s [[Title V Operating Permits]] program, effective December 5, 1996. The second and largest is the...
+> -- *[[EndangeredAndThreatenedWildlif_11735]]*
+
+> This is an administrative package from the [[Fish and Wildlife Service]] (FWS) Region 2 office, Albuquerque, New Mexico, dated January 1992. It sets out guidance and procedures for preparing, reviewing, approving and distributing [[Recovery Plan]]s for species under the [[Endangered Species Act]]...
+> -- *[[EndangeredSpeciesActRecoveryPr_11834]]*
+
 ### Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -1226,6 +1232,8 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[FishProtectiveDevicesACompilat_11796]]
 - [[GlenCanyonEnvironmentalStudies_15606]]
 - [[TheEndangeredSpeciesActNewWeap_19657]]
+- [[EndangeredAndThreatenedWildlif_11735]]
+- [[EndangeredSpeciesActRecoveryPr_11834]]
 
 ## National Environmental Protection Act
 <!-- fm: auto_enriched: true -->
@@ -1667,6 +1675,9 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This legal review, written by Gregory S. Weber (McGeorge School of Law), analyzes *United States v. Glenn-Colusa Irrigation District*, 788 F. Supp. 1126 (N.D. Cal., 10 March 1992). The court found that pumping by the [[Glenn-Colusa Irrigation District]] (GCID) "took" threatened [[Sacramento River...
 > -- *[[TheEndangeredSpeciesActNewWeap_19657]]*
 
+> This document is a 1993 public information packet from the [[U.S. Environmental Protection Agency]] (EPA), Region IX, and the [[U.S. Army Corps of Engineers]] (Corps). It invites the public to workshops on the proposed [[Verde River]] [[Advanced Identification]] (ADID) under [[Section 404 Permit...
+> -- *[[VerdeRiverAdvancedIdentificati_11366]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -1706,6 +1717,7 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[NoticeOfPolicyForConservingSpe_11740]]
 - [[DraftPolicyForConservingSpecie_11730]]
 - [[TheEndangeredSpeciesActNewWeap_19657]]
+- [[VerdeRiverAdvancedIdentificati_11366]]
 
 ## National Museum
 
@@ -2027,6 +2039,12 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This December 1989 newsletter from the [[Glen Canyon Environmental Studies]] (GCES) program reports on a four-day steady 5,000 cubic feet per second (cfs) flow release from [[Glen Canyon Dam]], conducted October 6-9, 1989, within a broader October 4-17 study period. Over 40 researchers examined...
 > -- *[[GlenCanyonEnvironmentalStudies_19682]]*
 
+> This final report by the [[Arizona Game and Fish Department]] (AGFD) for the [[Water and Power Resources Service]] provides a baseline inventory of the fishes, invertebrates, plankton and aquatic vegetation of the upper [[Lake Mead]] reservoir, from Separation Rapids on the [[Colorado River]] to...
+> -- *[[FisheryInvestigationOfLakeMead_12243]]*
+
+> This 1994 draft by fish biologists from the [[U.S. Fish and Wildlife Service]] (FWS) and the [[National Park Service]] reviews how Colorado's recreational trout fisheries have shifted from hatchery-based stocking toward management of native and wild trout. The authors trace stocking history in...
+> -- *[[WildTroutAndPlantedTroutBalanc_21079]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -2129,6 +2147,8 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[TheNativeFishFaunaOfYosemiteNa_14482]]
 - [[GlenCanyonEnvironmentalStudies_15606]]
 - [[GlenCanyonEnvironmentalStudies_19682]]
+- [[FisheryInvestigationOfLakeMead_12243]]
+- [[WildTroutAndPlantedTroutBalanc_21079]]
 
 ## National Park Service Resource Management
 <!-- fm: auto_enriched: true -->
@@ -2390,6 +2410,18 @@ A series of U.S. Geological Survey state-level reports assessing ground-water qu
 ### Mentioned In
 - [[ArizonaGroundwaterQuality_19602]]
 
+## National Wetlands Inventory
+
+### Summary
+The National Wetlands Inventory is a set of wetland maps used to set the riparian boundaries for the Verde River ADID planning area. The source notes that NWI areas are broader than the land actually subject to Clean Water Act jurisdiction, which the Corps determines case by case.
+
+### Context
+> This document is a 1993 public information packet from the [[U.S. Environmental Protection Agency]] (EPA), Region IX, and the [[U.S. Army Corps of Engineers]] (Corps). It invites the public to workshops on the proposed [[Verde River]] [[Advanced Identification]] (ADID) under [[Section 404 Permit...
+> -- *[[VerdeRiverAdvancedIdentificati_11366]]*
+
+### Mentioned In
+- [[VerdeRiverAdvancedIdentificati_11366]]
+
 ## National Wild And Scenic River
 <!-- fm: auto_enriched: true -->
 
@@ -2559,6 +2591,18 @@ Sovereign tribal nations with treaty rights related to fish resources. The sourc
 
 ### Mentioned In
 - [[LetterRequestingUtahFishAndMol_1997_10_27]]
+
+## Native Clam
+
+### Summary
+A native freshwater clam recorded at the Black River confluence and at several downstream sites during the survey. The source treats its presence as an indication of mussel-bearing habitat along the river.
+
+### Context
+> A four-day fisheries survey (June 10–13, 1997) of the [[Black River]], [[Nutrioso Creek]], [[Luna Lake]], and associated tributaries in Apache and Greenlee Counties, Arizona, was conducted by Arizona State University personnel (Brian Bagley, Terry Inman, Patti Sowka). The main objective was to...
+> -- *[[BlackRiverAndTributariesNutrio_17214]]*
+
+### Mentioned In
+- [[BlackRiverAndTributariesNutrio_17214]]
 
 ## Native Colorado River Fish
 <!-- fm: auto_enriched: true -->
@@ -3189,11 +3233,15 @@ Native suckers are the Catostomidae fishes native to the Green River system, whi
 > The [[Colorado Department Of Game And Fish]] 1954 [[Creel Census]] report, issued in June 1955, summarizes angler catch and effort on Colorado trout and warm-water waters. Wardens checked anglers' creels and licenses, and the results were projected to statewide totals using a [[Random Survey]]...
 > -- *[[CreelCensusReport_19659]]*
 
+> This 1950s-era educational pamphlet, written by William L. Reavley and published by the [[Colorado Game and Fish Department]] (Educational Pamphlet Number Three, Colorado Conservation Magazine), explains the problems that affect fishing in Colorado and describes the principal game and rough fish of...
+> -- *[[TheFishOfColorado_16785]]*
+
 ### Mentioned In
 - [[SummaryOfPertinentProblemsPert_1961_01_15]]
 - [[ProjectReportGrandLakeShadowMo_16322]]
 - [[ForestLakeMarkedFishStudies_15614]]
 - [[CreelCensusReport_19659]]
+- [[TheFishOfColorado_16785]]
 
 ## Native Trout Restoration
 <!-- fm: auto_enriched: true -->
@@ -3368,6 +3416,18 @@ An environmental advocacy organization that filed an October 1973 lawsuit which 
 ### Mentioned In
 - [[AquaticInventoryOfTheUpperBill_12502]]
 - [[AquaticInventoryOfTheUpperBill_12504]]
+
+## Natural Resources Library
+
+### Summary
+The library at which this bibliography was compiled, serving people who use electrofishing gear to sample fish populations. The source names it as the compiling institution, with Ruth Friedman of the Research Services Branch credited as compiler.
+
+### Context
+> This document is a [[Selected Bibliography]] on [[Electrofishing]] for fish population sampling, issued as Bibliography Series No. 31 in November 1974. It was compiled by Ruth Friedman of the Research Services Branch, Office of Library Services, U.S. Department of the Interior, with cooperation...
+> -- *[[ElectrofishingForPopulationSam_18840]]*
+
+### Mentioned In
+- [[ElectrofishingForPopulationSam_18840]]
 
 ## Natural Selection
 <!-- fm: auto_enriched: true -->
@@ -4380,6 +4440,30 @@ This is a 1981 method for estimating effective population size from gene frequen
 ### Mentioned In
 - [[EstimationOfEffectivePopulatio_20556]]
 
+## Nei Genetic Distance
+
+### Summary
+Nei genetic distance is a standard measure of genetic difference between populations, computed from allele frequencies. In this source, Nei (1978) unbiased genetic identity and distance values were calculated for all 42 Apache trout and reference units, and many wild populations showed identities near 0.97 to 1.00.
+
+### Context
+> This document is a cover letter from [[Genetic Analyses]] (Maureen E. Schmidt) to fishery biologist James N. Hanson, dated December 4, 1989, transmitting the electrophoretic data and [[BIOSYS-1]] output for a genetic survey of [[Apache Trout]] (*Oncorhynchus gilae apache*). The survey compared wild...
+> -- *[[ApacheTroutGeneticAnalysis_20567]]*
+
+### Mentioned In
+- [[ApacheTroutGeneticAnalysis_20567]]
+
+## Nei's Genetic Distance
+
+### Summary
+A measure of genetic divergence between populations or species, based on allele frequencies at many loci. In this study, the values were 0.077 for largescale vs Lost River, 0.064 for largescale vs shortnose, and 0.059 for shortnose vs Lost River. The author cautions that the value depends on the number of loci, so the 24 loci used likely underestimate true divergence.
+
+### Context
+> This 1991 final report, submitted by Phillip M. Harris (Oregon State University) to the [[Oregon Department of Fish and Wildlife]], tests whether [[Shortnose Sucker]] (*Chasmistes brevirostris*), [[Lost River Sucker]] (*Deltistes luxatus*) and [[Klamath Largescale Sucker]] (*Catostomus snyderi*)...
+> -- *[[BiochemistryAndMorphologyOfUpp_20670]]*
+
+### Mentioned In
+- [[BiochemistryAndMorphologyOfUpp_20670]]
+
 ## Nei'S Genetic Similarity Index
 <!-- fm: auto_enriched: true -->
 
@@ -4477,6 +4561,18 @@ Nelson Reservoir is a 4,560-acre man-made reservoir in Montana that serves as on
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[BiologicalOpinionOfFederalAids_11920]]
+
+## Nelson River
+
+### Summary
+A major river draining into Hudson Bay in Manitoba. The source lists it among the Hudson Bay drainage rivers and records Manitoba's few sites for silver lamprey on its lower reaches, plus common carp from its upper part in 1956.
+
+### Context
+> This document is a 1957 supplement to David Hinks' *[[The Fishes of Manitoba]]* (1943), which had gone out of print. Written by J. J. Keleher of the [[Fisheries Research Board of Canada]] and B. Kooyman of the Manitoba Department of Mines and Natural Resources, it updates the freshwater fish fauna...
+> -- *[[SupplementToHinksTheFishesOfMa_17920]]*
+
+### Mentioned In
+- [[SupplementToHinksTheFishesOfMa_17920]]
 
 ## Nelson's Trout
 
@@ -5093,6 +5189,18 @@ Nest construction in smallmouth bass involves males creating oval depressions 35
 ### Mentioned In
 - [[DiurnalFluctuationsOfTemperatu_1977]]
 
+## Nested Clade Analysis
+
+### Summary
+A method (Templeton 1998) that uses haplotype networks and geographic locations to test whether genetic patterns reflect processes such as fragmentation or long-distance colonization. In this study it detected allopatric fragmentation in both clades and one long-distance colonization event between the Spanish Fork River and Salina Creek.
+
+### Context
+> This study by Johnson and Jordan examines intraspecific phylogenetic relationships in [[Leatherside Chub]] (*Snyderichthys copei*), a desert fish endemic to the [[Bonneville Basin]] and upper [[Snake River]] drainages of western North America. Using the complete mitochondrial [[Cytochrome B]] gene...
+> -- *[[PhylogeneticDivergenceInLeathe_19747]]*
+
+### Mentioned In
+- [[PhylogeneticDivergenceInLeathe_19747]]
+
 ## Net Barriers
 
 ### Summary
@@ -5134,6 +5242,30 @@ In this study, where a net was placed strongly determined how many catfish it ca
 
 ### Mentioned In
 - [[ATaggingExperimentWithChannelC_12244]]
+
+## Net Mending
+
+### Summary
+Net mending is the hand repair of torn or damaged fishing nets, which is done by tying knots and replacing broken strands. In this source, it is the central subject, covering how otter trawl crews repair nets, often at sea in harsh conditions.
+
+### Context
+> This U.S. Fish and Wildlife Service fishery leaflet (Fishery Leaflet 241, Part I of two) by [[Boris O. Knake]] describes hand methods of [[Net Mending]] used by New England [[Otter Trawl]] fishermen. It covers netting terminology, knot definitions, damage inspection and trimming, needle filling,...
+> -- *[[MethodsOfNetMendingnewEngland_12569]]*
+
+### Mentioned In
+- [[MethodsOfNetMendingnewEngland_12569]]
+
+## Net Needle
+
+### Summary
+A net needle, also called a shuttle, is the basic hand tool used in net mending to carry twine through the netting. According to the source, for otter trawl repairs it is about 8 inches long and roughly 1/4 inch thick, traditionally made of ash, hickory, bamboo, or dogwood, and sometimes of metal, plastic, or ivory.
+
+### Context
+> This U.S. Fish and Wildlife Service fishery leaflet (Fishery Leaflet 241, Part I of two) by [[Boris O. Knake]] describes hand methods of [[Net Mending]] used by New England [[Otter Trawl]] fishermen. It covers netting terminology, knot definitions, damage inspection and trimming, needle filling,...
+> -- *[[MethodsOfNetMendingnewEngland_12569]]*
+
+### Mentioned In
+- [[MethodsOfNetMendingnewEngland_12569]]
 
 ## Net Plankton
 <!-- fm: auto_enriched: true -->
@@ -5204,8 +5336,12 @@ The neural complex is a group of bones forming part of the fish's dorsal skeleta
 > This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
 > -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
 
+> This 1993 study proposal by Christopher R. Reimus sets out a morphometric plan to test whether shape changes in the [[Razorback Sucker]] (*Xyrauchen texanus*) are simply the consequence of changes in size. The work uses [[Static Allometry]] (differences among same-stage individuals of different...
+> -- *[[StaticAndOntogenicAllometryInT_16811]]*
+
 ### Mentioned In
 - [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
+- [[StaticAndOntogenicAllometryInT_16811]]
 
 ## Neurocranium
 
@@ -5216,8 +5352,12 @@ The neurocranium is the part of the skull that encloses and protects the brain. 
 > This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
 > -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
 
+> This 1993 study proposal by Christopher R. Reimus sets out a morphometric plan to test whether shape changes in the [[Razorback Sucker]] (*Xyrauchen texanus*) are simply the consequence of changes in size. The work uses [[Static Allometry]] (differences among same-stage individuals of different...
+> -- *[[StaticAndOntogenicAllometryInT_16811]]*
+
 ### Mentioned In
 - [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
+- [[StaticAndOntogenicAllometryInT_16811]]
 
 ## Neuroendocrine Stress Axis
 <!-- fm: auto_enriched: true -->
@@ -5366,8 +5506,13 @@ Nevada County is a California county containing Donner Lake. This source identif
 ## Nevada Department Of Fish And Game
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
+> -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
+
 ### Mentioned In
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
+- [[ObservationsOnTheStatusOfTheDe_12013]]
 
 ## Nevada Department of Wildlife
 <!-- fm: auto_enriched: true -->
@@ -5448,6 +5593,9 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 > This Bureau of Reclamation memorandum (April 1990) summarizes two March 1990 meetings of the [[Native Fish Work Group]] on a proposed on-site backwater rearing facility at [[Lake Mohave]]. The group aims to protect the [[Razorback Sucker]] population, which is judged to be at risk of extirpation...
 > -- *[[ResultsOfMarchAndMeetingsConce_15024]]*
 
+> This correspondence from [[Paul B Holden]] of [[BIO/WEST]] to [[Glen Gould]] at the [[Bureau of Reclamation]] (May 12, 1997, with a follow-up fax dated May 13, 1997) responds to [[Reasonable and Prudent Alternative 10]] (RPA #10), issued by the [[U.S. Fish and Wildlife Service]], on recruitment of...
+> -- *[[ResponseToFwsRpaForTheLowerCol_20463]]*
+
 ### Mentioned In
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
 - [[CommentsOnTheDesertFishesCounc_20490]]
@@ -5482,6 +5630,7 @@ The Nevada Department of Wildlife is the state regulatory and management agency 
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[FishesOfNevada_15993]]
 - [[ResultsOfMarchAndMeetingsConce_15024]]
+- [[ResponseToFwsRpaForTheLowerCol_20463]]
 
 ## Nevada Division Of Wildlife
 <!-- fm: auto_enriched: true -->
@@ -6386,8 +6535,12 @@ The New York State College of Forestry, at Syracuse, is the institution with whi
 > This paper by [[Justus F. Mueller]], a field naturalist at the [[Roosevelt Wild Life Station]], formally describes a peritrichous ciliate that lives inside the urinary system of the [[Chain Pickerel]] (*Esox niger*) in [[Oneida Lake]], New York. The organism was first published as *Cyclochaeta...
 > -- *[[TrichodinaRenicolaMuellerACili_15477]]*
 
+> This 1914 preliminary report by [[W. M. Smallwood]], published as Technical Publication No. 1 of the [[New York State College of Forestry]] at [[Syracuse University]], examines why yellow perch and bass in Adirondack ponds become unfit for food each summer. The cause is the trematode [[Clinostomum...
+> -- *[[PreliminaryReportOnTheDiseases_19028]]*
+
 ### Mentioned In
 - [[TrichodinaRenicolaMuellerACili_15477]]
+- [[PreliminaryReportOnTheDiseases_19028]]
 
 ## New York State Conservation Department
 
@@ -7809,6 +7962,18 @@ Nitrophenols are a class of chemical compounds. The source reports that after te
 ### Mentioned In
 - [[AttackOnTheSeaLamprey_16543]]
 
+## Nitzschia
+
+### Summary
+Nitzschia is a genus of diatoms, single-celled photosynthetic algae that form part of the phytoplankton. The source reports that Nitzschia concentrated zinc-65 many thousands of times over sea water.
+
+### Context
+> This review by [[Walter A. Chipman]] of the [[U.S. Fish and Wildlife Service]] Radiobiological Investigations examines how marine fish and shellfish take up radioactive materials when [[Fission Products]] and other radioisotopes are present in sea water. Drawing mainly on laboratory work at the...
+> -- *[[AccumulationOfRadioactiveMater_16139]]*
+
+### Mentioned In
+- [[AccumulationOfRadioactiveMater_16139]]
+
 ## Nitzschia Dissipata
 <!-- fm: auto_enriched: true -->
 
@@ -8270,6 +8435,18 @@ Nogales, Sonora is a Mexican city near the Arizona border mentioned in the 1981 
 ### Mentioned In
 - [[LactateDehydrogenaseLdhIsozyme_1978]]
 
+## Nolichucky River
+
+### Summary
+An East Tennessee river whose elmid fauna the report considers similar to middle Tennessee. Mica mining wastes entering it had little apparent effect on Gonielmis dietrichi or Microcylloepus pusillus, though siltation became severe enough to require dredging mica from deposits in Davy Crockett Reservoir.
+
+### Context
+> This 1964 technical report by [[Ralph M. Sinclair]] of the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health) assesses the water quality tolerances of the [[Riffle Beetles]] family [[Elmidae]]. It challenges the long-held view that elmids are a strict "clean-water"...
+> -- *[[WaterQualityRequirementsForElm_19002]]*
+
+### Mentioned In
+- [[WaterQualityRequirementsForElm_19002]]
+
 ## Nolina microcarpa
 
 ### Summary
@@ -8524,10 +8701,18 @@ Non-native fish introductions refer to the deliberate or accidental establishmen
 > This Colorado State University Cooperative Extension bulletin (issued September 1980, revised February 1983, with 1982 updates) describes the biology, distribution, status and causes of decline of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It covers five focal...
 > -- *[[EndangeredAndThreatenedFishesO_18138]]*
 
+> This 1993 study proposal by Christopher R. Reimus sets out a morphometric plan to test whether shape changes in the [[Razorback Sucker]] (*Xyrauchen texanus*) are simply the consequence of changes in size. The work uses [[Static Allometry]] (differences among same-stage individuals of different...
+> -- *[[StaticAndOntogenicAllometryInT_16811]]*
+
+> This sworn declaration, filed in [[Colorado Wildlife Federation v. Turner]] (U.S. District Court, District of Colorado, Civil Action No. 92-F-884), was made by [[Henry R. Maddux]], Team Leader of the [[U.S. Fish and Wildlife Service]] Critical Habitat Designation Team for the endangered fishes of...
+> -- *[[ColoradoWildlifeFederationEtAl_19327]]*
+
 ### Mentioned In
 - [[AnEvaluationOfFishPredationInB_1993]]
 - [[RazorbackSuckerCriticalHabitat_19329]]
 - [[EndangeredAndThreatenedFishesO_18138]]
+- [[StaticAndOntogenicAllometryInT_16811]]
+- [[ColoradoWildlifeFederationEtAl_19327]]
 
 ## Non-Native Species
 <!-- fm: auto_enriched: true -->
@@ -8947,6 +9132,9 @@ Nonnative fish species are aquatic organisms that have been introduced to ecosys
 > This U.S. Fish and Wildlife Service (Service) draft biological opinion, issued under Section 7 of the [[Endangered Species Act]], evaluates whether the [[Mimbres Resource Management Plan]] (RMP) of the [[Bureau of Land Management]] (BLM) Mimbres Resource Area (MRA) is likely to jeopardize five...
 > -- *[[BiologicalOpinionOnTheMimbresR_16802]]*
 
+> This draft recovery plan, prepared by the [[Fish and Wildlife Service]] (Region 2, Albuquerque) with a stakeholder [[Recovery Team]], addresses the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*), federally listed as endangered and also listed as endangered in New Mexico, Texas, and the...
+> -- *[[DraftRioGrandeSilveryMinnowHyb_13199]]*
+
 ### Mentioned In
 - [[FloodedBottomlandsRestorationP_1995_02_15]]
 - [[HighlightsOfTheRazorbackSucker_1994_09_29]]
@@ -8954,6 +9142,7 @@ Nonnative fish species are aquatic organisms that have been introduced to ecosys
 - [[NonnativeFishesOfThe_1992_11_18]]
 - [[WesternAreaPowerAdministration_19148]]
 - [[BiologicalOpinionOnTheMimbresR_16802]]
+- [[DraftRioGrandeSilveryMinnowHyb_13199]]
 
 ## Nonnative Fish Species Interactions
 <!-- fm: auto_enriched: true -->
@@ -9057,6 +9246,18 @@ Error that occurs when people who did not reply to a survey differ from those wh
 ### Mentioned In
 - [[AnEconomicEvaluationOfCaliforn_19355]]
 
+## Norbert M. Welch
+
+### Summary
+Co-author with Philip W. Smith of this 1978 Illinois Natural History Survey Biological Notes report on the spring cavefish. The source credits him with unpublished observations, including failed attempts to strip eggs and sperm from fish.
+
+### Context
+> This Illinois Natural History Survey Biological Notes report (No. 104, May 1978, by [[Philip W. Smith]] and [[Norbert M. Welch]]) summarizes the taxonomy, life history, distribution, and conservation status of the [[Spring Cavefish]], *[[Chologaster Agassizi]]*. The species is a small, nocturnal,...
+> -- *[[ASummaryOfTheLifeHistoryAndDis_21200]]*
+
+### Mentioned In
+- [[ASummaryOfTheLifeHistoryAndDis_21200]]
+
 ## Norfork Dam
 <!-- fm: auto_enriched: true -->
 
@@ -9107,6 +9308,18 @@ Co-author of this 1898 report with Charles Henry Gilbert, on a collection of fis
 
 ### Mentioned In
 - [[NotesOnACollectionOfFishesFrom_16994]]
+
+## Norman J. Wilimovsky
+
+### Summary
+A researcher cited for the view that Eskimo use of Alaskan arctic fresh-water fishes has been inefficient and of secondary importance, with its potential still unexplored.
+
+### Context
+> This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
+> -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
+
+### Mentioned In
+- [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
 
 ## Norman Upland
 
@@ -9889,6 +10102,18 @@ The North Fork Santiam River is one of three primary source populations for uppe
 ### Mentioned In
 - [[SizeAtReleaseSizeselectiveMort_2011]]
 
+## North Fork Shenandoah River
+
+### Summary
+A Shenandoah River branch with a basin of about 1036 square miles and roughly 100 river miles, surveyed at six main-stem stations plus Linville and Smith Creeks. The report calls the reach below Bergton the best smallmouth bass stream observed, and notes that its basin east of Big North Mountain sits on porous limestone with low summer stages.
+
+### Context
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
+### Mentioned In
+- [[GameFishStreamsAndRecordsOfFis_21088]]
+
 ## North Fork Skokomish River
 
 ### Summary
@@ -10058,6 +10283,18 @@ North Pond is one of 16 existing water sources at San Bernardino National Wildli
 ### Mentioned In
 - [[BiologicalOpinionForTheSanBern_13329]]
 - [[CompiledStockingRecordsForSanB_15975]]
+
+## North River
+
+### Summary
+A South Fork Shenandoah tributary whose headwaters fell to about 3 cfs in July 1956 and were nearly dry, with few fish found there. The lower river was described as an excellent bass stream with a rich, varied fish fauna.
+
+### Context
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
+### Mentioned In
+- [[GameFishStreamsAndRecordsOfFis_21088]]
 
 ## North Saluda River
 <!-- fm: auto_enriched: true -->
@@ -10650,11 +10887,15 @@ The Northern Largemouth Bass (*Micropterus salmoides salmoides*) is a subspecies
 > - **Subspecies distinction:** [[Florida Largemouth Bass]] and [[Northern Largemouth Bass]] are managed as genetically distinct stocks with documented **intergrade hatchery populations** (e.g., Marion, Alabama; Inks Dam, Texas) resulting from historical stocking and introgression. - **Stocking imp...
 > -- *[[GeneticMarkerIdentificationInL_1986]]*
 
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
 ### Mentioned In
 - [[AGrowthStudyAndBloodProteinAna_15288]]
 - [[AnAquaculturalEvaluationOfFlor_1988]]
 - [[DifferentialResponseToHandling_1986]]
 - [[GeneticMarkerIdentificationInL_1986]]
+- [[GameFishStreamsAndRecordsOfFis_21088]]
 
 ## Northern Leopard Frog
 <!-- fm: auto_enriched: true -->
@@ -10709,6 +10950,22 @@ Northern Mexican Gartersnake (Thamnophis eques megalops) is a covered species th
 
 ### Mentioned In
 - [[TheDietOfJuvenileAndAdultStrip_1967]]
+
+## Northern Muddler
+
+### Summary
+A small, scaleless, flattened-headed stream fish in the sculpin family, under 5 inches long. The source lists it among the prominent fishes of West Virginia's streams.
+
+### Context
+> This Conservation Commission of West Virginia booklet, prepared by the Division of Education under Fish Division Chief Harry Van Meter, is an identification guide for anglers and school classes. It illustrates 50 prominent freshwater fish species, grouped by family and accompanied by brief...
+> -- *[[ProminentFishesOfWestVirginia_13090]]*
+
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
+### Mentioned In
+- [[ProminentFishesOfWestVirginia_13090]]
+- [[GameFishStreamsAndRecordsOfFis_21088]]
 
 ## Northern Pacific Seastar
 <!-- fm: auto_enriched: true -->
@@ -10923,6 +11180,15 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This document is Resource Publication 18 (January 1967) in the [[Investigations in Fish Control]] series, issued by the [[Bureau of Sport Fisheries and Wildlife]] and written by chemist [[Leif L. Marking]] at the [[Fish Control Laboratories]] in La Crosse, Wisconsin. It measures the toxicity of the...
 > -- *[[ToxicityOfMsToSelectedFishes_19378]]*
 
+> This document, issued by the U.S. Fish and Wildlife Service (Region 6, Denver) in revised form dated March 6, 1998 (original October 15, 1993), contains two parts: the Section 7 Consultation, Sufficient Progress, and Historic Projects Agreement (Part One) and the [[Recovery Implementation Program]]...
+> -- *[[SectionConsultationSufficientP_13192]]*
+
+> This document is a [[Selected Bibliography]] on [[Electrofishing]] for fish population sampling, issued as Bibliography Series No. 31 in November 1974. It was compiled by Ruth Friedman of the Research Services Branch, Office of Library Services, U.S. Department of the Interior, with cooperation...
+> -- *[[ElectrofishingForPopulationSam_18840]]*
+
+> This draft report (June 1995), prepared by the [[Utah Division of Wildlife Resources]] Colorado River Fishery Project with [[Colorado State University]] and [[Utah State University]] researchers, reviews the life histories and control options for non-indigenous, non-salmonid fishes in the [[Upper...
+> -- *[[OptionsForSelectivelyControlli_20250]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -11021,6 +11287,9 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[TrichodinaRenicolaMuellerACili_15477]]
 - [[ALookAtALake_15686]]
 - [[ToxicityOfMsToSelectedFishes_19378]]
+- [[SectionConsultationSufficientP_13192]]
+- [[ElectrofishingForPopulationSam_18840]]
+- [[OptionsForSelectivelyControlli_20250]]
 
 ## Northern Pikeminnow
 <!-- fm: auto_enriched: true -->
@@ -11171,6 +11440,18 @@ Northern Rhodesia is the location where P. I. R. Maclaren collected eel specimen
 ### Mentioned In
 - [[DistributionOfTheFishesOfBoone_14736]]
 
+## Northern Rockbass
+
+### Summary
+Ambloplites rupestris, a sunfish of the family Centrarchidae. The survey found it to be one of the common game fishes in the Shenandoah and Potomac drainages.
+
+### Context
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
+### Mentioned In
+- [[GameFishStreamsAndRecordsOfFis_21088]]
+
 ## Northern Sea Lion
 
 ### Summary
@@ -11192,8 +11473,12 @@ Micropterus dolomieu, a black bass native to the Tennessee River drainage and in
 > This 1954 reprint from *Alabama Conservation* by J. M. Lawrence, Assistant Fish Culturist at the [[A.P.I. Agricultural Experiment Station]], is a field identification guide to the four [[Black Bass]] species found in Alabama's ponds, lakes, and streams. It gives external and internal diagnostic...
 > -- *[[TheBlackBassesOfAlabama_20203]]*
 
+> This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
+> -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
+
 ### Mentioned In
 - [[TheBlackBassesOfAlabama_20203]]
+- [[GameFishStreamsAndRecordsOfFis_21088]]
 
 ## Northern Spotted Owl
 <!-- fm: auto_enriched: true -->
@@ -11220,12 +11505,16 @@ The Northern Spotted Owl is not inherently a fish science concept, but rather a 
 > This [[Southern Utah Wilderness Alliance]] (SUWA) newsletter, Vol. XI, No. 3 (Fall/Winter 1994), assesses the first [[Clinton Administration]] term's record on public lands and environmental policy. The authors, [[Cindy Shogan]] and [[Mike Matz]], conclude that the administration has been...
 > -- *[[TheClintonAdministrationDisapp_11801]]*
 
+> This sworn declaration, filed in [[Colorado Wildlife Federation v. Turner]] (U.S. District Court, District of Colorado, Civil Action No. 92-F-884), was made by [[Henry R. Maddux]], Team Leader of the [[U.S. Fish and Wildlife Service]] Critical Habitat Designation Team for the endangered fishes of...
+> -- *[[ColoradoWildlifeFederationEtAl_19327]]*
+
 ### Mentioned In
 - [[DayPetitionFindingForLathyrusG_1994_07_11]]
 - [[ExorcisingAmbiguityFromTheEnda_1991]]
 - [[PlanOfferedToProtectHabitatsOf_18307]]
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
 - [[TheClintonAdministrationDisapp_11801]]
+- [[ColoradoWildlifeFederationEtAl_19327]]
 
 ## Northern Spotted Owl v. Lujan
 
@@ -11529,6 +11818,30 @@ Notocytherinae is a subfamily of entocytherid ostracods found in Australia and N
 
 ### Mentioned In
 - [[ANewOstracodEntocytheridaeNoto_20684]]
+
+## Notolepidomyzon
+
+### Summary
+*Notolepidomyzon* is a genus of suckers distinguished by a thick cranium with a closed suture between the parietal and frontal bones, and by a horny lip sheath. Snyder recognises the name as available for this thick-skulled group, separate from the thin-skulled *Pantosteus*. The source also places the Bonneville Basin as a centre of distribution for this genus and notes that it survives in southern California streams as *Notolepidomyzon santa-anae*.
+
+### Context
+> This taxonomic paper by John Otterbein Snyder reports on a freshwater fish collection made by [[Edgar A. Mearns]], surgeon and naturalist with the United States Army, during the survey of the Mexican boundary between January 1892 and September 1894. The specimens came from rivers draining to the...
+> -- *[[NotesOnACollectionOfFishesMade_21252]]*
+
+### Mentioned In
+- [[NotesOnACollectionOfFishesMade_21252]]
+
+## Notolepidomyzon Clarki
+
+### Summary
+*Notolepidomyzon clarki* is a sucker of the Colorado system, and Snyder includes *Pantosteus arizonae* and the cotypes of *Catostomus clarki* within it. The source records specimens from Beaver Creek with 62 to 75 scales in the lateral series. The smallest specimen examined, 70 mm long, lacked a fontanelle.
+
+### Context
+> This taxonomic paper by John Otterbein Snyder reports on a freshwater fish collection made by [[Edgar A. Mearns]], surgeon and naturalist with the United States Army, during the survey of the Mexican boundary between January 1892 and September 1894. The specimens came from rivers draining to the...
+> -- *[[NotesOnACollectionOfFishesMade_21252]]*
+
+### Mentioned In
+- [[NotesOnACollectionOfFishesMade_21252]]
 
 ## Notonecta
 <!-- fm: auto_enriched: true -->
@@ -12307,6 +12620,9 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 > This review traces the decline, rescue, and recovery of [[Gambusia Gaigei]], an endangered poeciliid fish known only from springs near the [[Rio Grande]] in [[Big Bend National Park]]. The species' status has been shaped less by its biology than by human actions: a 1950s children's fishing pool...
 > -- *[[AReviewOfCircumstancesAffectin_20065]]*
 
+> This review by [[Salvador Contreras-Balderas]] examines how the fish fauna of the [[Chihuahuan Desert]] arose and why it is disappearing. The region holds 107 native species, mostly of northern origin, distributed across interior drainages that once belonged to the former Rio Bravo system. The...
+> -- *[[SpeciationAspectsAndManmadeCom_17519]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AReassessmentOfTheDistribution_1980]]
@@ -12344,6 +12660,7 @@ Notropis lutrensis, commonly known as the Red Shiner, is a small cyprinid fish n
 - [[AKaryologicalAnalysisOfTwoCypr_20325]]
 - [[OutlineOfThoughtsForAMethodolo_15198]]
 - [[AReviewOfCircumstancesAffectin_20065]]
+- [[SpeciationAspectsAndManmadeCom_17519]]
 
 ## Notropis Lutrensis Lutrensis
 
@@ -12378,8 +12695,12 @@ A minnow form that Hubbs separates from the introduced red shiners, since it has
 > Carl L. Hubbs (Scripps Institution of Oceanography) reports the recent establishment of the [[Red Shiner]] ([[Notropis Lutrensis]]) in the [[Lower Colorado River System]], based on [[Field Collections]] made in January and December 1953. The species is a small, nonpredatory forage fish that may...
 > -- *[[EstablishmentOfAForageFishTheR_20058]]*
 
+> This taxonomic paper by John Otterbein Snyder reports on a freshwater fish collection made by [[Edgar A. Mearns]], surgeon and naturalist with the United States Army, during the survey of the Mexican boundary between January 1892 and September 1894. The specimens came from rivers draining to the...
+> -- *[[NotesOnACollectionOfFishesMade_21252]]*
+
 ### Mentioned In
 - [[EstablishmentOfAForageFishTheR_20058]]
+- [[NotesOnACollectionOfFishesMade_21252]]
 
 ## Notropis Medialunae
 
@@ -13481,6 +13802,9 @@ Nuptial tubercles are small, hardened projections or keratinous bumps that devel
 > This 1974 technical report, prepared by [[Eric S. Gustafson]] and submitted by [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], [[Arizona State University]], to the [[U.S. Fish and Wildlife Service]] Regional Office, evaluates external secondary sex characteristics for...
 > -- *[[SexualDimorphismInTheAdultRazo_17843]]*
 
+> This Illinois Natural History Survey Biological Notes paper (No. 58, 1967) by Marvin E. Braasch and Philip W. Smith presents the first detailed life-history study of the [[Slough Darter]] (*Etheostoma gracile*), the westernmost member of the subgenus *Hololepis*. Fieldwork was conducted in [[Dismal...
+> -- *[[TheLifeHistoryOfTheSloughDarte_12872]]*
+
 ### Mentioned In
 - [[BreedingBiologyOfTheLakeChubCo_1970]]
 - [[NotesOnSomeCaptiveMinnowsPimep_1961]]
@@ -13488,6 +13812,7 @@ Nuptial tubercles are small, hardened projections or keratinous bumps that devel
 - [[SpawningOfTheDesertSucker_1987]]
 - [[RedescriptionOfTheBigeyeShiner_14069]]
 - [[SexualDimorphismInTheAdultRazo_17843]]
+- [[TheLifeHistoryOfTheSloughDarte_12872]]
 
 ## Nuptial Tuberculation
 <!-- fm: auto_enriched: true -->
@@ -13651,6 +13976,9 @@ Nutrioso Creek is a tributary stream system in Arizona that represents one of th
 > This report documents a comprehensive survey (May 1990–November 1991) assessing the distribution, abundance, and habitat of the federally threatened [[Little Colorado Spinedace]] (*Lepidomeda vittata*) in the [[Coconino National Forest]] and [[Apache-Sitgreaves National Forest]] along [[East Clear...
 > -- *[[DistributionAbundanceAndHabita_12811]]*
 
+> A four-day fisheries survey (June 10–13, 1997) of the [[Black River]], [[Nutrioso Creek]], [[Luna Lake]], and associated tributaries in Apache and Greenlee Counties, Arizona, was conducted by Arizona State University personnel (Brian Bagley, Terry Inman, Patti Sowka). The main objective was to...
+> -- *[[BlackRiverAndTributariesNutrio_17214]]*
+
 ### Mentioned In
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
 - [[MitochondrialDnaVariationWithi_1993_09_14]]
@@ -13660,6 +13988,7 @@ Nutrioso Creek is a tributary stream system in Arizona that represents one of th
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[BiologicalOpinionOfFederalAids_11920]]
 - [[DistributionAbundanceAndHabita_12811]]
+- [[BlackRiverAndTributariesNutrio_17214]]
 
 ## Nutritional Disease
 
