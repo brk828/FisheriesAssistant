@@ -115,6 +115,14 @@ class PdfIngestTests(unittest.TestCase):
         self.assertEqual(result, valid_note)
         self.assertEqual([call.args[1] for call in chat.call_args_list], ["cheap-model", "fallback-model"])
 
+    def test_add_prompt_timeout_defaults_to_15_and_can_be_disabled(self):
+        with patch.dict(os.environ, {}, clear=True):
+            self.assertEqual(pdf_ingest.add_prompt_timeout(), 15)
+        with patch.dict(os.environ, {"INGEST_AUTO_YES_SECONDS": "0"}):
+            self.assertEqual(pdf_ingest.add_prompt_timeout(), 0)
+        with patch.dict(os.environ, {"INGEST_AUTO_YES_SECONDS": "abc"}):
+            self.assertEqual(pdf_ingest.add_prompt_timeout(), 15)
+
     def test_fallback_model_can_be_disabled(self):
         with patch.dict(os.environ, {"OPENROUTER_FALLBACK_MODEL": "off"}):
             self.assertEqual(pdf_ingest.fallback_model("anthropic/claude-haiku-5.5"), "")

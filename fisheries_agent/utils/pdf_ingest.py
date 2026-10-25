@@ -65,6 +65,14 @@ OCR_DPI = 200
 MAX_NOTE_CHARS = 250_000   # default cap on text sent for the note; longer documents are flagged for a case-by-case decision
 FULL_NOTE_CHARS = 450_000  # ceiling when the user chooses to process a long document in full (~110k tokens, inside the model's context)
 LONG_DOC_PROMPT_TIMEOUT = 10
+
+
+def add_prompt_timeout() -> int:
+    """Seconds the watcher waits at 'Add them to the brain now?' before assuming yes (INGEST_AUTO_YES_SECONDS; 0 = wait forever)."""
+    try:
+        return max(0, int(os.getenv("INGEST_AUTO_YES_SECONDS", "15")))
+    except ValueError:
+        return 15
 OCR_SAMPLE_PAGES = 3
 CITE_SAMPLE_CHARS = 3500
 NOTE_OUT_TOKENS = 3000  # typical note length, used for cost estimates
@@ -1112,7 +1120,19 @@ class PdfWatcher:
             print(f"   Model: {model}. {_cost_text(model, in_tok, out_tok)}")
             print("   Adding sends each document's text to OpenRouter (note, citation, concept summaries).")
             retry = " / [r]etry the failed ones too" if failed else ""
-            answer = input(f"   Add them to the brain now? [y]es{' (new files only)' if failed else ''}{retry} / [n]o (ask again only for new files) / [l]ater: ").strip().lower()
+            question = f"   Add them to the brain now? [y]es{' (new files only)' if failed else ''}{retry} / [n]o (ask again only for new files) / [l]ater"
+            wait = add_prompt_timeout()
+            if wait:
+                try:
+                    reply = _input_with_timeout(f"{question} (no answer in {wait}s = yes): ", wait)
+                except EOFError:
+                    reply = None
+                if reply is None:
+                    print(f"   No answer in {wait} seconds; adding them (yes).")
+                    reply = "y"
+                answer = reply.strip().lower()
+            else:
+                answer = input(f"{question}: ").strip().lower()
         else:
             answer = input("   [r]etry the failed PDFs (an estimate and confirmation follow) / [s]kip them (default): ").strip().lower()
             answer = "r" if answer.startswith("r") else "n"
