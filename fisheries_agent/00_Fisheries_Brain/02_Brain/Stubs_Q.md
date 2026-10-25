@@ -338,6 +338,18 @@ Quaking Aspen (Populus tremuloides) is a deciduous tree species found in the Jef
 ### Mentioned In
 - [[TheMonoBasin_15632]]
 
+## Quality Trout Management
+
+### Summary
+A Colorado Division of Wildlife program begun in 1979 after a Wild Trout Symposium, using restrictive bag limits, size limits, and terminal tackle rules to raise trout density, biomass, and the number of large fish. The source reports it as a strong success, with rainbow trout overtaking brown trout in several streams within 3-5 years. It is the regulatory approach the author evaluates for rebuilding wild rainbow populations.
+
+### Context
+> This Colorado Division of Wildlife report by R. Barry Nehring evaluates whether [[Quality Trout Management]] and wild-trout stocking strategies can re-establish self-sustaining wild [[Rainbow Trout]] populations in large streams once dominated by [[Brown Trout]]. Drawing on electrofishing surveys...
+> -- *[[WildTroutManagementDoesItWorkI_19622]]*
+
+### Mentioned In
+- [[WildTroutManagementDoesItWorkI_19622]]
+
 ## Quantitative Ecology
 
 ### Summary
@@ -472,8 +484,12 @@ Quebec is a Canadian province supporting 103 freshwater fish species according t
 > This provisional checklist, compiled by the Department of Ichthyology and Herpetology at the [[Royal Ontario Museum]] in July 1967, documents 185 species of freshwater fishes across 25 families occurring in Canadian waters. The document was prepared as a working aid for a comprehensive text on...
 > -- *[[ProvisionalChecklistOfCanadian_21104]]*
 
+> This 1956 Quebec Department of Fisheries paper by Vladykov reports the distant recaptures of [[American Shad]] (*[[Alosa Sapidissima]]*) tagged in the [[St. Lawrence River]] between 1945 and 1950. Of 2,223 fish tagged, 13 were recaptured outside the Province of [[Quebec]], and the paper analyses...
+> -- *[[DistantRecapturesOfShadAlosaSa_13176]]*
+
 ### Mentioned In
 - [[ProvisionalChecklistOfCanadian_21104]]
+- [[DistantRecapturesOfShadAlosaSa_13176]]
 
 ## Queen Charlotte Islands
 
@@ -632,6 +648,18 @@ Quicklime is calcium oxide used to disinfect drained fish ponds. The source iden
 
 ### Mentioned In
 - [[ControlAndTreatmentOfParasitic_20451]]
+
+## Quien Sabe Prescribed Burn
+
+### Summary
+The Quien Sabe Prescribed Burn is a planned prescribed fire in the Cave Creek ranger district of Arizona's Tonto National Forest. The U.S. Fish and Wildlife Service's 1991 Biological Opinion found it unlikely to jeopardize the Gila topminnow but anticipated incidental take, and required two years of fishery and habitat monitoring tied to the burn.
+
+### Context
+> This 1992 report, prepared by [[Jerome A. Stefferud]] for the [[Tonto National Forest]], documents the first year of fishery and habitat monitoring tied to the [[Quien Sabe Prescribed Burn]] on [[Cave Creek]] and [[Seven Springs Wash]], Arizona. Monitoring was a term of the [[Biological Opinion]]...
+> -- *[[FisheryMonitoringForTheQuienSa_14755]]*
+
+### Mentioned In
+- [[FisheryMonitoringForTheQuienSa_14755]]
 
 ## Quilcene
 <!-- fm: auto_enriched: true -->
@@ -922,6 +950,15 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > This document package from the [[Coronado National Forest]] (Sierra Vista Ranger District) comprises a cover letter dated 04/23/92, a project proposal dated March 9, 1992, a draft public comment letter, and a mailing list dated 03/12/92. Together they describe a proposed fish renovation of the...
 > -- *[[BogHoleRenovationProjectPropos_12750]]*
 
+> These minutes record the November 7-8, 1990 meeting of the [[Desert Fishes Recovery Team]] in Phoenix, Arizona, transmitted by Team Coordinator Sally Stefferud on March 15, 1991. The meeting centered on two issues. The first was whether [[Red Shiner]] posed a threat to native fishes in [[Aravaipa...
+> -- *[[MinutesOfTheNovemberRecoveryTe_14788]]*
+
+> This document is a set of Arizona Game and Fish Department (AGFD) records from 2000 covering three linked items: a letter arranging the establishment of [[Refugia Populations]] of the [[Quitobaquito Pupfish]] and [[Gila Topminnow]] at a Scottsdale Community College pond; a [[Federal Endangered...
+> -- *[[ReDesertPupfishAndGilaTopminno_16904]]*
+
+> The U.S. Fish and Wildlife Service's 1993 recovery plan for the [[Desert Pupfish]] (*Cyprinodon macularius*) sets out the actions needed to downlist the Colorado River form of this endangered fish, and to protect its two other forms. The plan was prepared by Paul C. Marsh (Arizona State University)...
+> -- *[[DesertPupfishCyprinodonMacular_17053]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -953,6 +990,9 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[StatusOfTheSonoranTopminnowPoe_17209]]
 - [[BogHoleRenovationProjectPropos_12750]]
+- [[MinutesOfTheNovemberRecoveryTe_14788]]
+- [[ReDesertPupfishAndGilaTopminno_16904]]
+- [[DesertPupfishCyprinodonMacular_17053]]
 
 ## Quitobaquito Pupfish Subspecies
 <!-- fm: auto_enriched: true -->

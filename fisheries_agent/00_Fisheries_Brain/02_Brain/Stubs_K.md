@@ -137,6 +137,18 @@ The Kalamazoo River is a major river drainage system in Michigan to which two of
 ### Mentioned In
 - [[FishingInTwelveMichiganLakesUn_16148]]
 
+## Kalers Pond
+
+### Summary
+Kalers Pond is a 75-acre great pond in the drainage that supports a brown trout fishery maintained by periodic stocking. Its outlet is nearly dry in summer and is blocked by beaver workings.
+
+### Context
+> This 1956 report by [[Robert E Foye]], Regional Fishery Biologist with the [[Maine Department Of Inland Fisheries And Game]], condenses biological survey findings and management recommendations for the [[Medomak River]] drainage in coastal Maine. The river is a 36-mile tributary of the Atlantic...
+> -- *[[MedomakRiverDrainageFishManage_18810]]*
+
+### Mentioned In
+- [[MedomakRiverDrainageFishManage_18810]]
+
 ## Kaluga
 <!-- fm: auto_enriched: true -->
 
@@ -233,6 +245,9 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > This U.S. Fish and Wildlife Service (Service) draft biological opinion (2-21-93-F-167, dated October 13, 1993) evaluates the effects of operating [[Glen Canyon Dam]] under the [[Modified Low Fluctuating Flow Alternative]] (MLFF), the preferred alternative of the Draft Environmental Impact...
 > -- *[[DraftBiologicalOpinionOperatio_11642]]*
 
+> This document is a set of Arizona Game and Fish Department (AGFD) records from 2000 covering three linked items: a letter arranging the establishment of [[Refugia Populations]] of the [[Quitobaquito Pupfish]] and [[Gila Topminnow]] at a Scottsdale Community College pond; a [[Federal Endangered...
+> -- *[[ReDesertPupfishAndGilaTopminno_16904]]*
+
 ### Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -244,6 +259,7 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[FiscalYearAnnualMonitoringAndR_17765]]
 - [[InformationRegardingManagement_16919]]
 - [[DraftBiologicalOpinionOperatio_11642]]
+- [[ReDesertPupfishAndGilaTopminno_16904]]
 
 ## Kanab Creek
 <!-- fm: auto_enriched: true -->
@@ -306,6 +322,9 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This U.S. Fish and Wildlife Service (USFWS) annual report for the 1993 field season of [[Glen Canyon Environmental Studies]] (GCES) Phase II documents habitat use by the endangered [[Humpback Chub]] and other native fishes in the [[Little Colorado River]] (LCR), and assesses the potential of...
 > -- *[[GlenCanyonEnvironmentalStudies_11085]]*
 
+> This 1994 University of Arizona M.S. thesis by Edward (Ted) Osgood Otis IV documents seasonal distribution, abundance, and composition of fishes in two [[Grand Canyon]] tributaries of the [[Colorado River]], [[Bright Angel Creek]] and [[Kanab Creek]], from January 1992 to June 1993. Sampling used...
+> -- *[[DistributionAbundanceAndCompos_18356]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -330,6 +349,7 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
 - [[GlenCanyonEnvironmentalStudies_11085]]
+- [[DistributionAbundanceAndCompos_18356]]
 
 ## Kanab Creek-Virgin River Basin
 <!-- fm: auto_enriched: true -->
@@ -1032,8 +1052,12 @@ Kelp bass is a nearshore reef fish of the California coast that supports a recre
 > This document is the third supplement to an annotated bibliography compiled by the State of California, Department of Fish and Game, and submitted to the Legislature under House Resolution No. 70 (1959 Regular Session). It catalogues research publications, bulletins, popular articles and short...
 > -- *[[AnAnnotatedBibliographyOfResea_14741]]*
 
+> This appendix, written by W. I. Follett for the 1962–1963 Annual Report of the [[Archaeological Survey]] (University of California, Los Angeles), identifies fish remains from the [[Century Ranch Site]] (LAn-227). The site lies in an inland valley of the [[Santa Monica Mountains]], about 64 miles by...
+> -- *[[FishRemainsFromTheCenturyRanch_18756]]*
+
 ### Mentioned In
 - [[AnAnnotatedBibliographyOfResea_14741]]
+- [[FishRemainsFromTheCenturyRanch_18756]]
 
 ## Kelp Beds
 
@@ -1086,6 +1110,18 @@ Kelp beds are nearshore underwater forests of large brown algae along the Pacifi
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
 
+## Kemp (1949)
+
+### Summary
+A study cited as contrasting with Wallen's findings. It linked gill damage in fish to turbidities as low as 3,000 mg/l, and a 1936 Potomac River flood at 6,000 mg/l for 15 days was associated with a large fish kill.
+
+### Context
+> This document combines two aquatic studies of mining-related stress in Ozark and Appalachian streams. The principal paper examines the effects of a barite tailings pond rupture on the [[Big River]] fish fauna in Missouri (1975–1976). The authors (Hocutt, Stauffer and Mills) found no detectable...
+> -- *[[InfluenceOfABariteTailingsPond_20438]]*
+
+### Mentioned In
+- [[InfluenceOfABariteTailingsPond_20438]]
+
 ## Kemp's Ridley Sea Turtle
 
 ### Summary
@@ -1105,6 +1141,18 @@ Kemp's Ridley Sea Turtle (Lepidochelys kempii) is a marine turtle species found 
 - [[PartEndangeredAndThreatenedWil_13327]]
 - [[PartEndangeredAndThreatenedWil_11597]]
 - [[EndangeredSpeciesActAmendments_13217]]
+
+## Kendall
+
+### Summary
+Kendall (1935) is cited in the leaflet as one of its key references. It is the same work as William C. Kendall's 1935 recognition of Salmo sebago as the only landlocked species. The source does not give further details of the reference.
+
+### Context
+> This Fish and Wildlife Service leaflet (reissued March 1955) by [[Samuel F. Hildebrand]], senior ichthyologist of the Service, reviews the classification of North American trouts. The author states that the group is exceptionally difficult to classify, that ichthyologists rarely agree on which...
+> -- *[[TheTroutsOfNorthAmericaGeneral_20390]]*
+
+### Mentioned In
+- [[TheTroutsOfNorthAmericaGeneral_20390]]
 
 ## Kendall And Behnke 1984
 <!-- fm: auto_enriched: true -->
@@ -1207,6 +1255,18 @@ Kenneth B. Armitage is a co-author of this 1967 University of Kansas Science Bul
 ### Mentioned In
 - [[ExternalMorphologyOfAdultAndCo_17878]]
 
+## Kenneth D. Woodburn
+
+### Summary
+Co-author of this 1960 Florida State Board of Conservation Marine Laboratory report with Victor Springer. He helped document the fish fauna of the Tampa Bay area from about October 1957 to mid-1959.
+
+### Context
+> This 1960 Florida State Board of Conservation Marine Laboratory report (Professional Papers Series No. 1, by [[Victor G. Springer]] and [[Kenneth D. Woodburn]]) documents the fish fauna of the Tampa Bay area from roughly October 1957 to mid-1959. Monthly collections were made at shore and trawl...
+> -- *[[AnEcologicalStudyOfTheFishesOf_11938]]*
+
+### Mentioned In
+- [[AnEcologicalStudyOfTheFishesOf_11938]]
+
 ## Kenneth V. Rosenberg
 
 ### Summary
@@ -1265,6 +1325,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This bundle of 1989 correspondence covers the [[Upper Colorado River Endangered Fish Recovery Program]]. It includes the draft summary of the September 13, 1989 [[Management Group]] meeting, the meeting agenda, the November 9, 1989 agenda, a memo on the [[15-Mile Reach]] gage, the adopted motion on...
 > -- *[[ManagementGroupMeeting_21017]]*
 
+> This U.S. Fish and Wildlife Service (FWS) annual report, published March 1990 by Region 6 (Denver), summarizes status and accounting for the FY-1989 projects of the [[Recovery Implementation Program]] for endangered fishes in the [[Upper Colorado River Basin]]. It covers 39 Work Plan projects plus...
+> -- *[[FiscalYearAnnualReport_19224]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1280,6 +1343,7 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[TechnicalGroupMeetingMinutesJu_18171]]
 - [[AprilManagementGroupMeetingSum_21009]]
 - [[ManagementGroupMeeting_21017]]
+- [[FiscalYearAnnualReport_19224]]
 
 ## Kennith Foster
 
@@ -1560,8 +1624,13 @@ Keratella is a rotifer genus that was one of the dominant zooplankton organisms 
 ## Keratella Cochlearis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is the program and abstract booklet for the 5th Annual Meeting of the [[Society For Conservation Biology]], held 18-23 June 1991 at the University of Wisconsin-Madison. It schedules sessions, social events, logistics and roughly 186 numbered abstracts. Most abstracts cover terrestrial...
+> -- *[[ThAnnualMeetingOfTheSocietyFor_13524]]*
+
 ### Mentioned In
 - [[FoodSupplyAndReproductionOfZoo_1962]]
+- [[ThAnnualMeetingOfTheSocietyFor_13524]]
 
 ## Kermit E. Sneed
 
@@ -1951,11 +2020,59 @@ The Kiamichi River is a stream system in southeastern Oklahoma that has been stu
 - [[KiatuthlannaALimnologicalAppra_1965_I]]
 - [[KiatuthlannaALimnologicalAppra_1965_II]]
 
+## Kiawah Inshore
+
+### Summary
+Kiawah Inshore is one of the high-salinity trawl stations in this study. It was grouped with Kiawah Offshore and Bloody Point as sites with higher salinity.
+
+### Context
+> This Bears Bluff Laboratories contribution (No. 53), by [[G. Robert Lunz]] and [[Frank J. Schwartz]], analyzes eighteen years (January 1953 through December 1968) of standardized otter-trawl sampling at 18 stations along the South Carolina coast. It focuses on three seatrouts of the family...
+> -- *[[AnalysisOfEighteenYearTrawlCap_16271]]*
+
+### Mentioned In
+- [[AnalysisOfEighteenYearTrawlCap_16271]]
+
+## Kiawah Offshore
+
+### Summary
+Kiawah Offshore is one of the high-salinity trawl stations used in the South Carolina seatrout survey. It was grouped with Kiawah Inshore and Bloody Point.
+
+### Context
+> This Bears Bluff Laboratories contribution (No. 53), by [[G. Robert Lunz]] and [[Frank J. Schwartz]], analyzes eighteen years (January 1953 through December 1968) of standardized otter-trawl sampling at 18 stations along the South Carolina coast. It focuses on three seatrouts of the family...
+> -- *[[AnalysisOfEighteenYearTrawlCap_16271]]*
+
+### Mentioned In
+- [[AnalysisOfEighteenYearTrawlCap_16271]]
+
 ## Kidney
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[LetterOnHistologicalSlidePrepa_17660]]
+
+## Kijik Lake
+
+### Summary
+Kijik Lake is one of the three lakes in the Kvichak system whose spawning streams and beaches are cataloged in the report. It is named as a key geographic feature covered by the survey maps.
+
+### Context
+> This 1964 U.S. Fish and Wildlife Service Special Scientific Report (No. 488), compiled by Robert L. Demory, Russell F. Orrell and Donald R. Heinle of the [[Fisheries Research Institute]] (University of Washington), catalogs the spawning streams, ponds and beaches used by [[Red Salmon]]...
+> -- *[[SpawningGroundCatalogOfTheKvic_12869]]*
+
+### Mentioned In
+- [[SpawningGroundCatalogOfTheKvic_12869]]
+
+## Kilby
+
+### Summary
+Author of an earlier Florida study (1955) cited by the authors. It covered a single habitat, coastal marshes, in contrast to the broader Tampa Bay survey.
+
+### Context
+> This 1960 Florida State Board of Conservation Marine Laboratory report (Professional Papers Series No. 1, by [[Victor G. Springer]] and [[Kenneth D. Woodburn]]) documents the fish fauna of the Tampa Bay area from roughly October 1957 to mid-1959. Monthly collections were made at shore and trawl...
+> -- *[[AnEcologicalStudyOfTheFishesOf_11938]]*
+
+### Mentioned In
+- [[AnEcologicalStudyOfTheFishesOf_11938]]
 
 ## Kill Creek
 <!-- fm: auto_enriched: true -->
@@ -1997,6 +2114,30 @@ Authors of a 1986 publication that the report cites for the principle that fishe
 
 ### Mentioned In
 - [[LimnologyOfAPrairieReservoirAN_11701]]
+
+## Kimsey
+
+### Summary
+A researcher cited in the source (1958) who suggested that competition between threadfin shad and small bass could be severe. The source uses this as one of the reasons for studying young bass diet, but does not report Kimsey's own data.
+
+### Context
+> This California Department of Fish and Game study (Heubach, Toth and McCready, 1963) describes the year-round diet of young-of-the-year [[Striped Bass]] (*Morone saxatilis*, cited in the source as *Roccus saxatilis*) in the [[Sacramento-San Joaquin Delta]] and adjacent waters. Stomach contents of...
+> -- *[[FoodOfYoungoftheyearStripedBas_20374]]*
+
+### Mentioned In
+- [[FoodOfYoungoftheyearStripedBas_20374]]
+
+## Kimsey 1954
+
+### Summary
+Kimsey 1954 is a published source with an earlier age estimate for the Eagle Lake tui-chub. The source states that the ages it reports are about six times greater than this earlier limit.
+
+### Context
+> This manuscript, circulated with a 1987 cover letter from [[G. Gary Scoppettone]] of the [[U.S. Fish and Wildlife Service]] to [[James E. Deacon]], refines the age and growth of the endangered [[Cui-Ui]] (*Chasmistes cujus*), an endemic catostomid of [[Pyramid Lake]], Nevada. Using opercular bones...
+> -- *[[ManuscriptlongevityAndGrowthOf_11310]]*
+
+### Mentioned In
+- [[ManuscriptlongevityAndGrowthOf_11310]]
 
 ## Kimsey 1956
 <!-- fm: auto_enriched: true -->
@@ -2897,6 +3038,18 @@ Knowlton Cactus is an endangered cactus that depends on halicitid bee pollinator
 ### Mentioned In
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 
+## Knutson Bay
+
+### Summary
+Knutson Bay is one of the highest-escapement sites in the catalog, with escapement ranging from 3,000 to 1,000,000 fish. In 1960 it accounted for 10 percent or more of the Kvichak total.
+
+### Context
+> This 1964 U.S. Fish and Wildlife Service Special Scientific Report (No. 488), compiled by Robert L. Demory, Russell F. Orrell and Donald R. Heinle of the [[Fisheries Research Institute]] (University of Washington), catalogs the spawning streams, ponds and beaches used by [[Red Salmon]]...
+> -- *[[SpawningGroundCatalogOfTheKvic_12869]]*
+
+### Mentioned In
+- [[SpawningGroundCatalogOfTheKvic_12869]]
+
 ## Knutson-Vandenberg Act
 
 ### Summary
@@ -3099,6 +3252,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This report presents the 1962 results of a joint [[California Department of Fish and Game]] and [[Nevada Fish and Game Commission]] creel census on [[Lake Tahoe]]. The census estimated total angler use at 144,147 angler-hours (47,732 angler-days), equal to 1.2 angler-hours per surface acre. The...
 > -- *[[TroutCatchAndAnglerUseAtLakeTa_12122]]*
 
+> The [[Colorado Department Of Game And Fish]] 1954 [[Creel Census]] report, issued in June 1955, summarizes angler catch and effort on Colorado trout and warm-water waters. Wardens checked anglers' creels and licenses, and the results were projected to statewide totals using a [[Random Survey]]...
+> -- *[[CreelCensusReport_19659]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -3126,6 +3282,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[BrineShrimp_12752]]
 - [[PreimpoundmentInvestigationsOf_12301]]
 - [[TroutCatchAndAnglerUseAtLakeTa_12122]]
+- [[CreelCensusReport_19659]]
 
 ## Kolkwitz
 
@@ -3151,8 +3308,16 @@ Kolkwitz was co-author of a classical 1908 work on the biological aspects of wat
 > This document is a 1997 review by P. E. Brunkow, Post-doctoral Research Associate in the Department of Zoology at [[Arizona State University]], of aquatic biology project reports from the [[Glen Canyon Environmental Studies]] (GCES) Phase I and Phase II efforts. It was prepared for the [[Bureau of...
 > -- *[[IntegrationAndEvaluationOfGlen_13851]]*
 
+> This final report (BIO/WEST, Inc., prepared for the [[U.S. Fish and Wildlife Service]], June 1987) presents interim [[Habitat Suitability Index]] (HSI) curves for depth, velocity, substrate and habitat type for three endangered fishes of the Upper Colorado River Basin (UCRB): [[Colorado...
+> -- *[[HabitatSuitabilityIndexCurvesF_13603]]*
+
+> This study examines the habitat requirements of the federally endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*). The authors combined field observations of aggregations in [[Cienega Creek]], Arizona, with controlled experiments in outdoor pools testing responses to three...
+> -- *[[HabitatUseAndPreferenceOfGilaT_18784]]*
+
 ### Mentioned In
 - [[IntegrationAndEvaluationOfGlen_13851]]
+- [[HabitatSuitabilityIndexCurvesF_13603]]
+- [[HabitatUseAndPreferenceOfGilaT_18784]]
 
 ## Kolmos et al. 2013
 
@@ -3263,6 +3428,18 @@ The Korean flounder, Glyptocephalus stelleri, is a deep-water pleuronectid flatf
 
 ### Mentioned In
 - [[DropletsFromTheSadoMarineBiolo_19899]]
+
+## Kornfield Et Al 1982
+
+### Summary
+Kornfield et al. (1982) provided direct behavioural evidence that the morphs of the Cuatro Ciénegas cichlid belong to one species. The source cites this work as a key earlier step toward the conspecificity finding.
+
+### Context
+> This 1983 paper in the *Proceedings of the Biological Society of Washington* (96(2), pp. 253-269) by Irv Kornfield and Jeffrey N. Taylor describes [[Cichlasoma Minckleyi]], a new species of polymorphic cichlid endemic to the [[Cuatro Ciénegas Basin]] in Coahuila, Mexico. The species combines two...
+> -- *[[ANewSpeciesOfPolymorphicFishCi_12628]]*
+
+### Mentioned In
+- [[ANewSpeciesOfPolymorphicFishCi_12628]]
 
 ## Korsakova
 
@@ -3505,6 +3682,18 @@ Krumholz is an author cited in the leaflet's reference list for a 1948 work on r
 ### Mentioned In
 - [[AKeyToTheCommonParasiticProtoz_1966_03_01]]
 
+## Kudo, 1931
+
+### Summary
+Kudo, 1931 is an author who omitted Urceolaria from his classification and placed Trichodina and Cyclochaeta in the family Trichodinidae. The source notes this arrangement as a point of disagreement with Mueller, who retained Urceolaria.
+
+### Context
+> This paper by [[Justus F. Mueller]], a field naturalist at the [[Roosevelt Wild Life Station]], formally describes a peritrichous ciliate that lives inside the urinary system of the [[Chain Pickerel]] (*Esox niger*) in [[Oneida Lake]], New York. The organism was first published as *Cyclochaeta...
+> -- *[[TrichodinaRenicolaMuellerACili_15477]]*
+
+### Mentioned In
+- [[TrichodinaRenicolaMuellerACili_15477]]
+
 ## Kuehne 1962
 <!-- fm: auto_enriched: true -->
 
@@ -3625,6 +3814,18 @@ The Kuro Shiwo is a warm ocean current that enters the Sea of Japan through Chos
 ### Mentioned In
 - [[TheHydrographicAndFaunalIndepe_19989]]
 
+## Kurshiu Lagoon
+
+### Summary
+The Kurshiu Lagoon is a brackish Baltic lagoon shared by Lithuania and Russia, where the source reports changing fish communities. Commercial catches fell from 60-80 kg/ha historically to 30-45 kg/ha, and 46 species were recorded in 1981-1994 compared with 43 in 1949-1957. The source links these changes to pollution, the Kaunas dam on the River Nemunas, and loss of traditional fishing grounds after the central part of the lagoon came under Russian jurisdiction.
+
+### Context
+> This compilation (FAO Fisheries Report No. 541, Supplement, 1997 publication of 1996 meetings) gathers reports from the [[European Inland Fisheries Advisory Commission]] (EIFAC) and its partner [[Food and Agriculture Organization]] (FAO) bodies. It covers five areas: a Symposium on Social, Economic...
+> -- *[[ReportsOfTheSymposiumOnSocialE_18344]]*
+
+### Mentioned In
+- [[ReportsOfTheSymposiumOnSocialE_18344]]
+
 ## Kusnetzow 1939
 <!-- fm: auto_enriched: true -->
 
@@ -3646,6 +3847,18 @@ The Kuro Shiwo is a warm ocean current that enters the Sea of Japan through Chos
 
 ### Mentioned In
 - [[PreliminaryReportOnFishRemains_18753]]
+
+## Kvichak River
+
+### Summary
+The Kvichak River is the main river system in this catalog and the largest contributor to the Bristol Bay red salmon fishery, with about 60 percent of the Bristol Bay catch from 1932 to 1962. The source lists about 8,992,720 square yards (1,858.0 acres) of total accessible spawning area, of which 929.0 acres is potential spawning area.
+
+### Context
+> This 1964 U.S. Fish and Wildlife Service Special Scientific Report (No. 488), compiled by Robert L. Demory, Russell F. Orrell and Donald R. Heinle of the [[Fisheries Research Institute]] (University of Washington), catalogs the spawning streams, ponds and beaches used by [[Red Salmon]]...
+> -- *[[SpawningGroundCatalogOfTheKvic_12869]]*
+
+### Mentioned In
+- [[SpawningGroundCatalogOfTheKvic_12869]]
 
 ## Kwagunt Rapid
 

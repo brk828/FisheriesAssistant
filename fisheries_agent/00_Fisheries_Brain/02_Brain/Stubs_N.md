@@ -456,6 +456,18 @@ Nankoweap Creek is a tributary to the Colorado River in Grand Canyon that serves
 - [[EstimatingTheProbabilityThatHi_1998]]
 - [[ANewSpeciesOfCorophiumLatreill_20748]]
 
+## Naohisa Kanda
+
+### Summary
+Naohisa Kanda is a co-author of this 1999 Gila trout genetics report. He collaborated with Robb Leary and Fred Allendorf on the pair-mating experiments and genetic analyses of 1997 and 1998 progeny.
+
+### Context
+> This Wild Trout and Salmon Genetics Laboratory report (University of Montana, Report 99/1) by [[Robb F. Leary]], [[Fred W. Allendorf]] and [[Naohisa Kanda]] evaluates an attempt to recover pure [[Gila Trout]] (*Oncorhynchus gilae*) from populations in the Mogollon Creek drainage. [[South Diamond...
+> -- *[[RecoveryOfGilaTroutDescendedFr_20218]]*
+
+### Mentioned In
+- [[RecoveryOfGilaTroutDescendedFr_20218]]
+
 ## Napa County
 
 ### Summary
@@ -774,6 +786,9 @@ The National Academy of Sciences is a prestigious, congressionally chartered ins
 > This document is a set of management correspondence from the [[Glen Canyon Environmental Studies]] (GCES) program, dated January 1992. It transmits an external review of the four endangered-fish projects on the [[Humpback Chub]] (*Gila cypha*), organized by [[Wendell Minckley]], and sets out the...
 > -- *[[GlenCanyonEnvironmentalStudies_19716]]*
 
+> This document is a Bureau of Reclamation implementation guide for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The program assesses how the operation of [[Glen Canyon Dam]] affects downstream natural and recreational resources in the [[Grand Canyon]]. Phase II focuses on two...
+> -- *[[GlenCanyonEnvironmentalStudies_15606]]*
+
 ### Mentioned In
 - [[DisposalOfRadioactiveMaterials_16140]]
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
@@ -783,6 +798,7 @@ The National Academy of Sciences is a prestigious, congressionally chartered ins
 - [[GlenCanyonEnvironmentalStudies_19685]]
 - [[EndangeredSpeciesActAmendments_13217]]
 - [[GlenCanyonEnvironmentalStudies_19716]]
+- [[GlenCanyonEnvironmentalStudies_15606]]
 
 ## National Ambient Air Quality Standards
 
@@ -1160,6 +1176,12 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > This report compiles concept designs, operating experience, and screening technologies used in the United States to protect fish at water intakes. It was prepared under the 1974 US/USSR Agreement on Thermal Power Plant Heat Rejection and Water Supply Systems, which required the exchange of fish...
 > -- *[[FishProtectiveDevicesACompilat_11796]]*
 
+> This document is a Bureau of Reclamation implementation guide for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The program assesses how the operation of [[Glen Canyon Dam]] affects downstream natural and recreational resources in the [[Grand Canyon]]. Phase II focuses on two...
+> -- *[[GlenCanyonEnvironmentalStudies_15606]]*
+
+> This legal review, written by Gregory S. Weber (McGeorge School of Law), analyzes *United States v. Glenn-Colusa Irrigation District*, 788 F. Supp. 1126 (N.D. Cal., 10 March 1992). The court found that pumping by the [[Glenn-Colusa Irrigation District]] (GCID) "took" threatened [[Sacramento River...
+> -- *[[TheEndangeredSpeciesActNewWeap_19657]]*
+
 ### Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -1202,6 +1224,8 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[PigeonCreekLakeProject_20727]]
 - [[WrittenCommentsOnDraftGeneralM_20520]]
 - [[FishProtectiveDevicesACompilat_11796]]
+- [[GlenCanyonEnvironmentalStudies_15606]]
+- [[TheEndangeredSpeciesActNewWeap_19657]]
 
 ## National Environmental Protection Act
 <!-- fm: auto_enriched: true -->
@@ -1498,6 +1522,18 @@ National Geographic partnered with American Rivers to develop a traveling exhibi
 ### Mentioned In
 - [[LetterToJerryConleyOnStateFede_1994_08_09]]
 
+## National Historic Preservation Act
+
+### Summary
+The National Historic Preservation Act, enacted in 1966 and amended in 1980, is a federal law that governs the work of assessing dam impacts on archaeological sites in the Grand Canyon corridor. The source lists it among several federal laws that apply to the October 1989 archaeological monitoring, alongside the NPS Organic Act of 1916.
+
+### Context
+> This December 1989 newsletter from the [[Glen Canyon Environmental Studies]] (GCES) program reports on a four-day steady 5,000 cubic feet per second (cfs) flow release from [[Glen Canyon Dam]], conducted October 6-9, 1989, within a broader October 4-17 study period. Over 40 researchers examined...
+> -- *[[GlenCanyonEnvironmentalStudies_19682]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19682]]
+
 ## National Institutes Of Health
 <!-- fm: auto_enriched: true -->
 
@@ -1625,6 +1661,12 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 > This Federal Register notice, published June 3, 1996, sets out a joint policy by the [[Fish and Wildlife Service]] (Interior) and the [[National Marine Fisheries Service]] (Commerce), collectively "the Services." The policy addresses the conservation needs of species listed, or proposed for...
 > -- *[[NoticeOfPolicyForConservingSpe_11740]]*
 
+> This Federal Register compilation (December 1995) contains four unrelated federal notices. Three concern land management in the western United States: a Draft [[Environmental Impact Statement]] for expanding the [[Lone Tree Mine]] in Nevada, public workshops on the Northern and Eastern [[Colorado...
+> -- *[[DraftPolicyForConservingSpecie_11730]]*
+
+> This legal review, written by Gregory S. Weber (McGeorge School of Law), analyzes *United States v. Glenn-Colusa Irrigation District*, 788 F. Supp. 1126 (N.D. Cal., 10 March 1992). The court found that pumping by the [[Glenn-Colusa Irrigation District]] (GCID) "took" threatened [[Sacramento River...
+> -- *[[TheEndangeredSpeciesActNewWeap_19657]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[ConservingFederallyThreatenedE_1994_10_25]]
@@ -1662,6 +1704,8 @@ The National Marine Fisheries Service (NMFS) is a federal agency responsible for
 - [[DissolvedNitrogenConcentration_15718]]
 - [[FishAndWildlifeServiceNational_11618]]
 - [[NoticeOfPolicyForConservingSpe_11740]]
+- [[DraftPolicyForConservingSpecie_11730]]
+- [[TheEndangeredSpeciesActNewWeap_19657]]
 
 ## National Museum
 
@@ -1715,6 +1759,9 @@ The National Museum of Canada is one of three institutions where paratype specim
 > This taxonomic paper, published in the *Proceedings of the Biological Society of Washington* (Vol. 84, No. 11, pp. 81-94, 30 June 1971) by Horton H. Hobbs, Jr., of the [[Smithsonian Institution]], describes two new freshwater crayfish species of the genus *Procambarus*. [[Procambarus Capillatus]]...
 > -- *[[NewCrayfishesOfTheGenusProcamb_20418]]*
 
+> This Final Draft report (12 December 1989), prepared by [[Wayne C. Starnes]] of the Smithsonian Institution for the [[U.S. Fish and Wildlife Service]], is Part 1 of Phase I of the [[Colorado River Gila Taxonomy Project]]. It reviews existing taxonomic and distributional literature on the cyprinid...
+> -- *[[PartReviewOfExistingInformatio_14721]]*
+
 ### Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
 - [[RangeOfChriodorus_17137]]
@@ -1725,6 +1772,7 @@ The National Museum of Canada is one of three institutions where paratype specim
 - [[NewEntocytheridOstracodsOfTheG_20414]]
 - [[NewEntocytheridOstracodsFromTe_20423]]
 - [[NewCrayfishesOfTheGenusProcamb_20418]]
+- [[PartReviewOfExistingInformatio_14721]]
 
 ## National Museum of Natural Sciences
 
@@ -1970,6 +2018,15 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This FY-93 annual report from the [[Colorado River Recovery Program]] documents the first year of a limited long-term [[Channel Monitoring]] effort on the [[Green River]] between Split Mountain and Jensen, Utah. The work, led by principal investigator George R. Smith of the [[U.S. Fish and Wildlife...
 > -- *[[FyAnnualProjectReportColoradoR_21153]]*
 
+> This Yosemite Nature Notes article by [[Carl L. Hubbs]] and Orthello L. Wallis (1948) revises the known native fish fauna of [[Yosemite National Park]]. It reports that the park's recognized native fishes double from three species to six, through the addition of the [[Sacramento Squawfish]], the...
+> -- *[[TheNativeFishFaunaOfYosemiteNa_14482]]*
+
+> This document is a Bureau of Reclamation implementation guide for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The program assesses how the operation of [[Glen Canyon Dam]] affects downstream natural and recreational resources in the [[Grand Canyon]]. Phase II focuses on two...
+> -- *[[GlenCanyonEnvironmentalStudies_15606]]*
+
+> This December 1989 newsletter from the [[Glen Canyon Environmental Studies]] (GCES) program reports on a four-day steady 5,000 cubic feet per second (cfs) flow release from [[Glen Canyon Dam]], conducted October 6-9, 1989, within a broader October 4-17 study period. Over 40 researchers examined...
+> -- *[[GlenCanyonEnvironmentalStudies_19682]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -2069,6 +2126,9 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[GlenCanyonNationalRecreationAr_17852]]
 - [[NovemberManagementCommitteeMee_21033]]
 - [[FyAnnualProjectReportColoradoR_21153]]
+- [[TheNativeFishFaunaOfYosemiteNa_14482]]
+- [[GlenCanyonEnvironmentalStudies_15606]]
+- [[GlenCanyonEnvironmentalStudies_19682]]
 
 ## National Park Service Resource Management
 <!-- fm: auto_enriched: true -->
@@ -2252,6 +2312,12 @@ National Scenic Areas are special management designations within the California 
 > This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
 > -- *[[InteractionOfEffectsByEnvironm_14113]]*
 
+> The Amazon molly is a female-only fish whose offspring are essentially identical twins within each clone. Its breeding system raises a basic question about how the population originated and how heredity is controlled. [[Rezneat Darnell]] and [[Peter Abramoff]], associate professors of zoology at...
+> -- *[[ConsiderTheAmazonMollyfish_13948]]*
+
+> This 1969 taxonomic paper by C. E. Dawson of the [[Gulf Coast Research Laboratory]] (Ocean Springs, Mississippi), published in the *Proceedings of the Biological Society of Washington* (vol. 82, pp. 355-372), describes [[Citharichthys Abbotti]] as a new species of [[Bothidae|bothid flatfish]] from...
+> -- *[[CitharichthysAbbottiANewFlatfi_13988]]*
+
 ### Mentioned In
 - [[TheRoleAndInfluenceOfTheUSNati_1995_07_06]]
 - [[ConcernsAboutIntroductionOfRai_13174]]
@@ -2261,6 +2327,8 @@ National Scenic Areas are special management designations within the California 
 - [[FailureOfTheNationalScienceFou_18967]]
 - [[FinalReportToMontezumaMonument_16015]]
 - [[InteractionOfEffectsByEnvironm_14113]]
+- [[ConsiderTheAmazonMollyfish_13948]]
+- [[CitharichthysAbbottiANewFlatfi_13988]]
 
 ## National Shellfisheries Association
 <!-- fm: auto_enriched: true -->
@@ -2920,6 +2988,9 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 > This document is a set of interagency planning materials from 1995 for the [[Fish Management Plan]] (FMP) of [[Glen Canyon National Recreation Area]] (GLCA). It contains four parts: an FMP outline with assigned responsibilities, a [[National Park Service]] (NPS) scoping memo to the [[Native Fish...
 > -- *[[GlenCanyonNationalRecreationAr_17852]]*
 
+> This U.S. Fish and Wildlife Service (FWS) report, dated September 25, 1991, summarizes the "Camp Four" multi-agency field survey for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The survey was run from the Phoenix Field Office and took place in March 1991 at...
+> -- *[[CampFourAnnualSurveyForRazorba_15637]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[FishAndWildlifeServiceReviewOf_1990_09_11]]
@@ -2958,6 +3029,7 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 - [[ResultsOfMarchAndMeetingsConce_15024]]
 - [[SpecificCommentsOnTheUsFishAnd_20665]]
 - [[GlenCanyonNationalRecreationAr_17852]]
+- [[CampFourAnnualSurveyForRazorba_15637]]
 
 ## Native Fish Working Group
 <!-- fm: auto_enriched: true -->
@@ -3114,10 +3186,14 @@ Native suckers are the Catostomidae fishes native to the Green River system, whi
 > This three-year study (1952-1954) of [[Forest Lake]], a 32.5-acre reservoir on [[Grand Mesa]] in [[Delta County]], [[Colorado]], evaluated marked fish returns, creel census data, food utilization, limnology, and age-growth characteristics of [[Rainbow Trout]], [[Brook Trout]], and [[Native Trout]]...
 > -- *[[ForestLakeMarkedFishStudies_15614]]*
 
+> The [[Colorado Department Of Game And Fish]] 1954 [[Creel Census]] report, issued in June 1955, summarizes angler catch and effort on Colorado trout and warm-water waters. Wardens checked anglers' creels and licenses, and the results were projected to statewide totals using a [[Random Survey]]...
+> -- *[[CreelCensusReport_19659]]*
+
 ### Mentioned In
 - [[SummaryOfPertinentProblemsPert_1961_01_15]]
 - [[ProjectReportGrandLakeShadowMo_16322]]
 - [[ForestLakeMarkedFishStudies_15614]]
+- [[CreelCensusReport_19659]]
 
 ## Native Trout Restoration
 <!-- fm: auto_enriched: true -->
@@ -3406,8 +3482,12 @@ The National Network of Natural Heritage Programs and Conservation Data Centers.
 > This Federal Register notice, published June 3, 1996, sets out a joint policy by the [[Fish and Wildlife Service]] (Interior) and the [[National Marine Fisheries Service]] (Commerce), collectively "the Services." The policy addresses the conservation needs of species listed, or proposed for...
 > -- *[[NoticeOfPolicyForConservingSpe_11740]]*
 
+> This Federal Register compilation (December 1995) contains four unrelated federal notices. Three concern land management in the western United States: a Draft [[Environmental Impact Statement]] for expanding the [[Lone Tree Mine]] in Nevada, public workshops on the Northern and Eastern [[Colorado...
+> -- *[[DraftPolicyForConservingSpecie_11730]]*
+
 ### Mentioned In
 - [[NoticeOfPolicyForConservingSpe_11740]]
+- [[DraftPolicyForConservingSpecie_11730]]
 
 ## Nau Cpsu
 <!-- fm: auto_enriched: true -->
@@ -3604,6 +3684,9 @@ The Navajo Nation, in the context of fish science and aquatic ecology, represent
 > This is a June 20, 1989 transmittal letter from the U.S. Fish and Wildlife Service (Phoenix Ecological Services) with an attached June 1, 1989 draft of seven conservation measures. The measures are actions that the [[Bureau of Reclamation]] would commit to in the biological opinion on operation of...
 > -- *[[DraftConservationMeasuresGlenC_11851]]*
 
+> This document is a cover letter from the [[Arizona Game and Fish Department]] (AGFD) Research Branch to Dave Wegner of [[Glen Canyon Environmental Studies]], enclosing a program description and a November 4, 1991 progress report on the Native Fishes Studies of the [[Little Colorado River]] (LCR)....
+> -- *[[SynopsisOfTheDepartmentsResear_15924]]*
+
 ### Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[GlenCanyonEnvironmentalStudies_1992_03_07]]
@@ -3616,6 +3699,7 @@ The Navajo Nation, in the context of fish science and aquatic ecology, represent
 - [[ReviewOfGlenCanyonEnvironmenta_14007]]
 - [[GlenCanyonEnvironmentalStudies_19734]]
 - [[DraftConservationMeasuresGlenC_11851]]
+- [[SynopsisOfTheDepartmentsResear_15924]]
 
 ## Navajo Nation Heritage Program
 <!-- fm: auto_enriched: true -->
@@ -4024,6 +4108,42 @@ The Neches River is a Texas river that flows through Tyler and Jasper Counties a
 
 ### Mentioned In
 - [[ANewSpeciesOfAnouraMammaliaChi_1968_12_30]]
+
+## Needham
+
+### Summary
+Needham (1938) is listed in the leaflet among its key references on trout classification. The source does not describe the findings of this work. It is cited only by name and year.
+
+### Context
+> This Fish and Wildlife Service leaflet (reissued March 1955) by [[Samuel F. Hildebrand]], senior ichthyologist of the Service, reviews the classification of North American trouts. The author states that the group is exceptionally difficult to classify, that ichthyologists rarely agree on which...
+> -- *[[TheTroutsOfNorthAmericaGeneral_20390]]*
+
+### Mentioned In
+- [[TheTroutsOfNorthAmericaGeneral_20390]]
+
+## Needham (1956)
+
+### Summary
+Needham (1956) is an earlier work by the same author that, according to this source, previously described the underwater observation tank used in the present study. The note does not describe its findings. It is cited as the source of the tank's design details.
+
+### Context
+> This 1961 study by [[Paul R. Needham]] documents all phases of natural spawning in [[Eastern Brook Trout]] (*Salvelinus fontinalis*) observed from an [[Underwater Observation Tank]] at the [[Sagehen Creek Wildlife and Fisheries Station]] in the Sierra Nevada, California, during late September and...
+> -- *[[ObservationsOnTheNaturalSpawni_19610]]*
+
+### Mentioned In
+- [[ObservationsOnTheNaturalSpawni_19610]]
+
+## Needham and Jones (1959)
+
+### Summary
+Needham and Jones (1959) is an earlier publication that, according to this source, also described the underwater observation tank at Sagehen Creek. The note does not summarize its content beyond that. It is cited as a prior description of the apparatus.
+
+### Context
+> This 1961 study by [[Paul R. Needham]] documents all phases of natural spawning in [[Eastern Brook Trout]] (*Salvelinus fontinalis*) observed from an [[Underwater Observation Tank]] at the [[Sagehen Creek Wildlife and Fisheries Station]] in the Sierra Nevada, California, during late September and...
+> -- *[[ObservationsOnTheNaturalSpawni_19610]]*
+
+### Mentioned In
+- [[ObservationsOnTheNaturalSpawni_19610]]
 
 ## Needham And Usinger 1956
 
@@ -4572,8 +4692,13 @@ Neomysis is a genus of mysid shrimp that inhabits San Francisco Bay and Delta wa
 ## Neomysis Mercedis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This California Department of Fish and Game study (Heubach, Toth and McCready, 1963) describes the year-round diet of young-of-the-year [[Striped Bass]] (*Morone saxatilis*, cited in the source as *Roccus saxatilis*) in the [[Sacramento-San Joaquin Delta]] and adjacent waters. Stomach contents of...
+> -- *[[FoodOfYoungoftheyearStripedBas_20374]]*
+
 ### Mentioned In
 - [[ObservationsOnTheFoodHabitsOfJ_20603]]
+- [[FoodOfYoungoftheyearStripedBas_20374]]
 
 ## Neon Tetra
 
@@ -5923,6 +6048,9 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 > This Biological Assessment, prepared by Gary L. Helbing of the Douglas Ranger District Wildlife Staff (dated December 9, 1998), evaluates a proposal by the [[Coronado National Forest]] to manage the West Turkey Creek watershed as a native fishery. The project would remove all nonnative fishes using...
 > -- *[[BiologicalAssessmentAndEvaluat_16615]]*
 
+> This State of New Mexico job completion report (Project F-10-R-1, Job C-1) evaluates the design, operation and results of the [[Pecos River Fish Barrier and Trap No. 1]]. The structure was built in summer 1954 by the [[New Mexico Department of Game and Fish]] to reduce "trash fish" that were...
+> -- *[[PecosRiverFishBarrierAndTrapNo_14528]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[LetterClarifyingReportingDates_1987_08_03]]
@@ -5942,6 +6070,7 @@ The New Mexico Department of Game and Fish is the state regulatory agency respon
 - [[AppendixBForLoachMinnowTiaroga_11588]]
 - [[ConceptualOutlineEcosystemCons_18705]]
 - [[BiologicalAssessmentAndEvaluat_16615]]
+- [[PecosRiverFishBarrierAndTrapNo_14528]]
 
 ## New Mexico Department of Public Health
 
@@ -6089,6 +6218,9 @@ The New Mexico Wildlife Conservation Act of 1975 is state legislation that provi
 > This 1942 report documents the first confirmed occurrence of ten-pounders ([[Elops affinis]]) in the [[Salton Sea]], California, representing a potential new sport fishery for this previously barren water body. Between May 14-24, 1942, commercial fishermen and biologists captured 244 specimens...
 > -- *[[AGameFishForTheSaltonSeaTheTen_12860]]*
 
+> This document combines two aquatic studies of mining-related stress in Ozark and Appalachian streams. The principal paper examines the effects of a barite tailings pond rupture on the [[Big River]] fish fauna in Missouri (1975–1976). The authors (Hocutt, Stauffer and Mills) found no detectable...
+> -- *[[InfluenceOfABariteTailingsPond_20438]]*
+
 ### Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
@@ -6098,6 +6230,7 @@ The New Mexico Wildlife Conservation Act of 1975 is state legislation that provi
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[WorkshopProceedings_18372]]
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
+- [[InfluenceOfABariteTailingsPond_20438]]
 
 ## New River (Ichthyofauna)
 <!-- fm: auto_enriched: true -->
@@ -6243,6 +6376,18 @@ New York State is a geographic region in the northeastern United States where Ye
 - [[Perch_16750]]
 - [[TroutOrSalmon_19215]]
 - [[Sunfishes_19212]]
+
+## New York State College of Forestry
+
+### Summary
+The New York State College of Forestry, at Syracuse, is the institution with which the Roosevelt Wild Life Forest Experiment Station was associated. The station was conducted under the college, which supported the forest wild-life research described in the source.
+
+### Context
+> This paper by [[Justus F. Mueller]], a field naturalist at the [[Roosevelt Wild Life Station]], formally describes a peritrichous ciliate that lives inside the urinary system of the [[Chain Pickerel]] (*Esox niger*) in [[Oneida Lake]], New York. The organism was first published as *Cyclochaeta...
+> -- *[[TrichodinaRenicolaMuellerACili_15477]]*
+
+### Mentioned In
+- [[TrichodinaRenicolaMuellerACili_15477]]
 
 ## New York State Conservation Department
 
@@ -6392,6 +6537,18 @@ Newfoundland is a Canadian province in eastern Canada covered by this checklist.
 ### Mentioned In
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[FoodFishfreshAndFrozenProducts_11510]]
+
+## Newhalen River
+
+### Summary
+The Newhalen River is a large glacial river and one of the largest spawning systems in the catalog, with about 3,667,268 square yards (757.7 acres) of total accessible area and 303.1 acres of potential spawning area. It supported escapement of 300,000 or more red salmon, roughly 5 to 9 percent of the Kvichak total, though its fast water (above 5 feet per second in many places) makes much of it poor spawning habitat.
+
+### Context
+> This 1964 U.S. Fish and Wildlife Service Special Scientific Report (No. 488), compiled by Robert L. Demory, Russell F. Orrell and Donald R. Heinle of the [[Fisheries Research Institute]] (University of Washington), catalogs the spawning streams, ponds and beaches used by [[Red Salmon]]...
+> -- *[[SpawningGroundCatalogOfTheKvic_12869]]*
+
+### Mentioned In
+- [[SpawningGroundCatalogOfTheKvic_12869]]
 
 ## Newlands Project
 <!-- fm: auto_enriched: true -->
@@ -6567,9 +6724,13 @@ Niagara Springs Hatchery is where the steelhead in this program were hatched and
 > - **Headwater specialists**: [[Gila Trout]] populations are historically restricted to small, remote, high-elevation headwater streams, a strategy now recognized as suboptimal for long-term persistence; recovery efforts are shifting toward re-establishment in larger drainages. - **Riverine benthi...
 > -- *[[ImperiledAquaticResourcesGeneP_14905]]*
 
+> This document is an excerpt of the U.S. Fish and Wildlife Service regulations under 50 CFR Part 17, which implement the [[Endangered Species Act]] of 1973 for endangered and threatened wildlife and plants. It sets out definitions, prohibitions, permit procedures, special rules, and the official...
+> -- *[[EndangeredAndThreatenedWildlif_18279]]*
+
 ### Mentioned In
 - [[ImperiledAquaticResourcesGeneP_14905]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
+- [[EndangeredAndThreatenedWildlif_18279]]
 
 ## Niche Breadth
 <!-- fm: auto_enriched: true -->
@@ -6763,6 +6924,30 @@ Niigata is a location in northern Sea of Japan waters where several warm-water f
 ### Mentioned In
 - [[RecordsOfYpatchedBarracudinasL_19901]]
 
+## Niigata City Aquarium
+
+### Summary
+An aquarium in Niigata City, Japan. The source states that the fixed ovary samples from both study specimens are kept there.
+
+### Context
+> This study examines the histology of ovaries from two [[Beaked Whales]] (*Mesoplodon stejnegeri*) that stranded on the coast of the [[Niigata District]], [[Sea of Japan]], in March 1992. The ovaries were too degenerated for electron microscopy, so the work relied on light microscopy of paraffin...
+> -- *[[HistologicalStudiesOnTheOvarie_19903]]*
+
+### Mentioned In
+- [[HistologicalStudiesOnTheOvarie_19903]]
+
+## Niigata District
+
+### Summary
+A coastal district on the west coast of Honshu, Japan, on the Sea of Japan. The source places both study specimens here, which stranded in March 1992. The district also sees frequent winter and early spring cetacean strandings, including many migrating species.
+
+### Context
+> This study examines the histology of ovaries from two [[Beaked Whales]] (*Mesoplodon stejnegeri*) that stranded on the coast of the [[Niigata District]], [[Sea of Japan]], in March 1992. The ovaries were too degenerated for electron microscopy, so the work relied on light microscopy of paraffin...
+> -- *[[HistologicalStudiesOnTheOvarie_19903]]*
+
+### Mentioned In
+- [[HistologicalStudiesOnTheOvarie_19903]]
+
 ## Niigata University
 
 ### Summary
@@ -6909,12 +7094,16 @@ The Nile Tilapia (*Oreochromis niloticus*) is a cichlid fish species native to A
 > This 1965 Auburn University Agricultural Experiment Station report (E. E. Prather) describes three pond experiments (1962–1964) evaluating the [[White Catfish]] (*Ictalurus catus*) as a sport fish for small ponds, stocked alone at 2,000 and 3,000 per acre and in combination with [[Channel Catfish]]...
 > -- *[[ExperimentsWithWhiteCatfishAsA_18665]]*
 
+> This compilation (FAO Fisheries Report No. 541, Supplement, 1997 publication of 1996 meetings) gathers reports from the [[European Inland Fisheries Advisory Commission]] (EIFAC) and its partner [[Food and Agriculture Organization]] (FAO) bodies. It covers five areas: a Symposium on Social, Economic...
+> -- *[[ReportsOfTheSymposiumOnSocialE_18344]]*
+
 ### Mentioned In
 - [[BiologicalMeansOfIncreasingPro_1968]]
 - [[ComparativeEvaluationOfTwoTila_15110]]
 - [[LetterFromDesertFishesCouncilO_1984_07_30]]
 - [[StationProfileOfTheAbernathySa_1993]]
 - [[ExperimentsWithWhiteCatfishAsA_18665]]
+- [[ReportsOfTheSymposiumOnSocialE_18344]]
 
 ## Nile Valley
 
@@ -7509,6 +7698,18 @@ A harpacticoid copepod in which copepodids remain on the host. The source cites 
 ### Mentioned In
 - [[ANewNitocrellaFromPhreaticSubt_11221]]
 - [[SomeHarpacticoidsFromSubterran_1981_03_09]]
+
+## Nitrate
+
+### Summary
+Nitrate is a dissolved form of nitrogen that enters lakes in inflowing water and serves as a nutrient for aquatic life. In this source, inflow nitrate concentrations were strongly correlated with standing crops of planktonic (r = .993), benthic (r = .929), and littoral (r = .950) forage organisms, and the author concludes that low nitrate import explains the low productivity of Parker Canyon Lake.
+
+### Context
+> This 1969 Master of Science thesis by Eric P. Bergersen, submitted to the [[University of Arizona]] in fishery biology, investigates why [[Parker Canyon Lake]] has low fish production. Between September 1967 and September 1968, the author compared forage-supporting factors across Parker Canyon,...
+> -- *[[SomeFactorsAffectingFishForage_18194]]*
+
+### Mentioned In
+- [[SomeFactorsAffectingFishForage_18194]]
 
 ## Nitrification
 <!-- fm: auto_enriched: true -->
@@ -8176,6 +8377,18 @@ The NRC committee recommends greater use of non-invasive monitoring methods in t
 ### Mentioned In
 - [[ReviewOfTheDraftFederalLongter_19498]]
 
+## Non-Jeopardy Biological Opinion
+
+### Summary
+A non-jeopardy biological opinion is a U.S. Fish and Wildlife Service finding that a federal action is not likely to jeopardize listed species. In this source, FWS has reissued a draft of this opinion for Glen Canyon Dam operations, and it contains seven Conservation Measures that are being integrated into the Phase II study plans.
+
+### Context
+> This document is a Bureau of Reclamation implementation guide for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The program assesses how the operation of [[Glen Canyon Dam]] affects downstream natural and recreational resources in the [[Grand Canyon]]. Phase II focuses on two...
+> -- *[[GlenCanyonEnvironmentalStudies_15606]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_15606]]
+
 ## Non-Lethal Tissue Sampling
 
 ### Summary
@@ -8758,11 +8971,15 @@ Nonnative fish species are aquatic organisms that have been introduced to ecosys
 > This manuscript (Ms. no. 95-130 in peer review at the [[Great Basin Naturalist]]) by [[Timothy Modde]] of the [[Colorado River Fishery Project]] (U.S. Fish and Wildlife Service) reports the occurrence of subadult [[Razorback Sucker]] in the [[Green River]] and [[Yampa River]] and examines whether...
 > -- *[[OccurrenceOfSubadultRazorbackS_16531]]*
 
+> This 1996 draft technical report from the [[Arizona Game and Fish Department]] (AGFD) reviews the status of the [[Gila Chub]] (*Gila intermedia*), a small, deep-bodied minnow endemic to the Gila River basin of the Colorado River system. It was funded by the [[U.S. Fish and Wildlife Service]] to...
+> -- *[[StatusReviewOfGilaChubGilaInte_19667]]*
+
 ### Mentioned In
 - [[CommissionMeetingMinutesOnTheM_1995_08_04]]
 - [[EndanderedAndThreatenedWildlif_16520]]
 - [[RecoveryGoalsForRazorbackSucke_15075]]
 - [[OccurrenceOfSubadultRazorbackS_16531]]
+- [[StatusReviewOfGilaChubGilaInte_19667]]
 
 ## Nonnative Species Introduction
 <!-- fm: auto_enriched: true -->
@@ -8861,11 +9078,35 @@ Error that occurs when people who did not reply to a survey differ from those wh
 ### Mentioned In
 - [[StationProfileOfNorforkNationa_19528]]
 
+## Norman 1934
+
+### Summary
+An earlier taxonomic work on flatfishes cited in this paper as one of the existing revisions and keys that did not allow identification of the new species. The source mentions it only in that context.
+
+### Context
+> This 1969 taxonomic paper by C. E. Dawson of the [[Gulf Coast Research Laboratory]] (Ocean Springs, Mississippi), published in the *Proceedings of the Biological Society of Washington* (vol. 82, pp. 355-372), describes [[Citharichthys Abbotti]] as a new species of [[Bothidae|bothid flatfish]] from...
+> -- *[[CitharichthysAbbottiANewFlatfi_13988]]*
+
+### Mentioned In
+- [[CitharichthysAbbottiANewFlatfi_13988]]
+
 ## Norman 1966
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[FishesOfTheWorldAKeyToFamilies_1975]]
+
+## Norman Bishop Scofield
+
+### Summary
+Co-author of this 1898 report with Charles Henry Gilbert, on a collection of fishes from the Colorado basin in Arizona. The source credits him as the second author of the paper; it does not describe his specific role in the 1890 field work.
+
+### Context
+> This note summarises a 1890 field survey and taxonomic report by [[Charles Henry Gilbert]] and [[Norman Bishop Scofield]]. The expedition, made by the senior author and A. B. Alexander of the [[U.S. Fish Commission]] during the late April and early May 1890 detached from the [[Albatross...
+> -- *[[NotesOnACollectionOfFishesFrom_16994]]*
+
+### Mentioned In
+- [[NotesOnACollectionOfFishesFrom_16994]]
 
 ## Norman Upland
 
@@ -8958,6 +9199,9 @@ Norris Reservoir is a Tennessee Valley Authority (TVA) storage reservoir that se
 > This 1966 study (Dingell-Johnson Project F-18-R) uses scales to determine age and growth of [[Largemouth Bass]], [[Smallmouth Bass]], [[Bluegill]] and [[Red-ear Sunfish]] in [[Folsom Lake]] during the first 7 years after impoundment (1955-1961). Largemouth bass grew slightly faster than smallmouth...
 > -- *[[TheAgeAndGrowthOfCentrarchidFi_13538]]*
 
+> This report, part of the ORO-587 Ecological Survey of the Vertebrate Fauna of [[White Oak Lake]] and Environs, documents six semi-annual netting studies (August 1950 to April 1953) and a final [[Rotenone]] kill in April 1953. The study estimated fish numbers by species with mark-recapture methods,...
+> -- *[[AnEcologicalSurveyOfTheVertebr_12441]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[AgeGrowthAndConditionOfBlackCr_13075]]
@@ -8972,6 +9216,7 @@ Norris Reservoir is a Tennessee Valley Authority (TVA) storage reservoir that se
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[TheInfluenceOfCertainEnvironme_20701]]
 - [[TheAgeAndGrowthOfCentrarchidFi_13538]]
+- [[AnEcologicalSurveyOfTheVertebr_12441]]
 
 ## Norris Tailwater
 <!-- fm: auto_enriched: true -->
@@ -10669,6 +10914,15 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This annual report from the [[Colorado River Fishes Recovery Program]] (Recovery Program Project 18-2, dated December 10, 1993) describes the second-to-last field season of a study on how [[Colorado Squawfish]] (*Ptychocheilus lucius*) nursery habitat forms and persists in the [[Green River]] below...
 > -- *[[YearFlamingGorgeFlowRecommenda_20257]]*
 
+> This paper by [[Justus F. Mueller]], a field naturalist at the [[Roosevelt Wild Life Station]], formally describes a peritrichous ciliate that lives inside the urinary system of the [[Chain Pickerel]] (*Esox niger*) in [[Oneida Lake]], New York. The organism was first published as *Cyclochaeta...
+> -- *[[TrichodinaRenicolaMuellerACili_15477]]*
+
+> This 1947 popular-science article by William C. Beckman of the [[Institute For Fisheries Research]], Fish and Fisheries Division, [[Michigan Department Of Conservation]], describes a lake inventory survey on Long Lake, Michigan. Through a fictional-style dialogue with a curious fisherman, the...
+> -- *[[ALookAtALake_15686]]*
+
+> This document is Resource Publication 18 (January 1967) in the [[Investigations in Fish Control]] series, issued by the [[Bureau of Sport Fisheries and Wildlife]] and written by chemist [[Leif L. Marking]] at the [[Fish Control Laboratories]] in La Crosse, Wisconsin. It measures the toxicity of the...
+> -- *[[ToxicityOfMsToSelectedFishes_19378]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -10764,6 +11018,9 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[StockingVsEnvironmentalImprove_20743]]
 - [[SomeYoungFreshwaterFishesOfNew_16763]]
 - [[YearFlamingGorgeFlowRecommenda_20257]]
+- [[TrichodinaRenicolaMuellerACili_15477]]
+- [[ALookAtALake_15686]]
+- [[ToxicityOfMsToSelectedFishes_19378]]
 
 ## Northern Pikeminnow
 <!-- fm: auto_enriched: true -->
@@ -10876,11 +11133,15 @@ The Northern Redhorse (Moxostoma macrolepidotum) is a cyprinid fish species belo
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This report, part of the ORO-587 Ecological Survey of the Vertebrate Fauna of [[White Oak Lake]] and Environs, documents six semi-annual netting studies (August 1950 to April 1953) and a final [[Rotenone]] kill in April 1953. The study estimated fish numbers by species with mark-recapture methods,...
+> -- *[[AnEcologicalSurveyOfTheVertebr_12441]]*
+
 ### Mentioned In
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
 - [[EvaluationOfAnElectronicMethod_14437]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[WhatHaveICaught_12929]]
+- [[AnEcologicalSurveyOfTheVertebr_12441]]
 
 ## Northern Rhodesia
 
@@ -10956,11 +11217,15 @@ The Northern Spotted Owl is not inherently a fish science concept, but rather a 
 > - **Regulatory ambiguity**: Section 50 CFR 424.12 defines critical habitat as areas providing space, resources, cover, and breeding sites that are "representative of the historic geographical and ecological distributions of the species" — a definition the authors argue is indistinguishable from o...
 > -- *[[ExorcisingAmbiguityFromTheEnda_1991]]*
 
+> This [[Southern Utah Wilderness Alliance]] (SUWA) newsletter, Vol. XI, No. 3 (Fall/Winter 1994), assesses the first [[Clinton Administration]] term's record on public lands and environmental policy. The authors, [[Cindy Shogan]] and [[Mike Matz]], conclude that the administration has been...
+> -- *[[TheClintonAdministrationDisapp_11801]]*
+
 ### Mentioned In
 - [[DayPetitionFindingForLathyrusG_1994_07_11]]
 - [[ExorcisingAmbiguityFromTheEnda_1991]]
 - [[PlanOfferedToProtectHabitatsOf_18307]]
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
+- [[TheClintonAdministrationDisapp_11801]]
 
 ## Northern Spotted Owl v. Lujan
 
@@ -12396,6 +12661,18 @@ Notropis simus, commonly known as the bluntnose minnow, is a small cyprinid fish
 ### Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[BookReviewTheFishesOfIllinois_1979]]
+
+## Notropis Stonei
+
+### Summary
+A minnow species that Fowler described in 1921 from the Pocotaligo River in South Carolina. The source mentions it as one of Fowler's own taxonomic contributions to southern fish records.
+
+### Context
+> This paper by [[Henry W. Fowler]] (*Proceedings of the Biological Society of Washington*, vol. 36, pp. 7–34, March 28, 1923) compiles state-by-state records of fishes for the southern United States. It draws on older museum collections at the [[Academy of Natural Sciences of Philadelphia]], many of...
+> -- *[[RecordsOfFishesForTheSouthernS_18800]]*
+
+### Mentioned In
+- [[RecordsOfFishesForTheSouthernS_18800]]
 
 ## Notropis Stramineus
 <!-- fm: auto_enriched: true -->

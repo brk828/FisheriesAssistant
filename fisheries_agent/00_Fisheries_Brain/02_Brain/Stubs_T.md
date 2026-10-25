@@ -283,6 +283,18 @@ In fish science literature, "Table 1" typically refers to a foundational data ta
 ### Mentioned In
 - [[EstablishingACaptiveBroodstock_18727]]
 
+## Table 1 Study Group Composition
+
+### Summary
+This is a summary table included in the GCES Phase II package that lists the composition of the study groups. The source mentions it only as an attachment and does not give its contents.
+
+### Context
+> This document is a Bureau of Reclamation implementation guide for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The program assesses how the operation of [[Glen Canyon Dam]] affects downstream natural and recreational resources in the [[Grand Canyon]]. Phase II focuses on two...
+> -- *[[GlenCanyonEnvironmentalStudies_15606]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_15606]]
+
 ## Table 2 Genotype Distribution
 <!-- fm: auto_enriched: true -->
 
@@ -631,6 +643,9 @@ The Tahoe Sucker (*Catostomus tahoe*) is a native cyprinid fish species endemic 
 > This 1970 study by [[Ted C. Frantz]] and [[Almo J. Cordone]] (Nevada and California Departments of Fish and Game) describes the diet of [[Lake Trout]] (*Salvelinus namaycush*) in [[Lake Tahoe]]. Stomachs from 1,389 fish were examined, 1,097 of which contained food. Diet shifted from invertebrates...
 > -- *[[FoodOfLakeTroutInLakeTahoe_18822]]*
 
+> This 1995 operation plan, prepared by the U.S. [[Fish and Wildlife Service]] (Region 1, Northern Nevada Fishery Resource Office) for the [[Marble Bluff Fish Facility]], sets out management strategies and physical modifications to improve fish passage and reduce mortality at the facility. It also...
+> -- *[[MarbleBluffFishFacilityOperati_16613]]*
+
 ### Mentioned In
 - [[AllozymeDifferencesDuplicateGe_11423]]
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
@@ -654,6 +669,7 @@ The Tahoe Sucker (*Catostomus tahoe*) is a native cyprinid fish species endemic 
 - [[FishRemainsFromHumanCoprolites_18767]]
 - [[DistributionSizeCompositionAnd_17286]]
 - [[FoodOfLakeTroutInLakeTahoe_18822]]
+- [[MarbleBluffFishFacilityOperati_16613]]
 
 ## Taillight Shiner
 <!-- fm: auto_enriched: true -->
@@ -1358,6 +1374,9 @@ The Tarahumara are an indigenous community in the Sierra Madre Occidental of Chi
 > This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program Technical Report 121, June 1997, edited by Michael J. Sredl) compiles three linked studies on Arizona's native ranid frogs, chiefly [[Lowland Leopard Frog]] (*Rana yavapaiensis*) and [[Chiricahua Leopard...
 > -- *[[RanidFrogConservationAndManage_11871]]*
 
+> This document comprises a 1984 cover letter from the [[U.S. Fish and Wildlife Service]] (FWS) to [[W.L. Minckley]] and a reprint of the *Federal Register* proposed rule (Vol. 49, No. 110, June 6, 1984, pp. 23402–23409). The proposal would list the [[Sonora Chub]] (*[[Gila Ditaenia]]*) as a...
+> -- *[[LetterToMinckleylistingOfGilaD_20831]]*
+
 ### Mentioned In
 - [[AttachedDraftListOfSpeciesAssi_14772]]
 - [[BiologicalOpinionOnEmergencyRe_1994_06_02]]
@@ -1367,6 +1386,7 @@ The Tarahumara are an indigenous community in the Sierra Madre Occidental of Chi
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
 - [[ArizonaNongameStrategicPlans_18278]]
 - [[RanidFrogConservationAndManage_11871]]
+- [[LetterToMinckleylistingOfGilaD_20831]]
 
 ## Tarantula Hawk
 
@@ -1420,12 +1440,16 @@ Tarpon (*Megalops atlanticus*) is a large, euryhaline marine fish species that w
 > This taxonomic study documents a small collection of Isospondylous and Characoid fishes from [[British Honduras]] (modern [[Belize]]) and neighboring [[Guatemala]], a poorly known Central American region. The collection includes representatives from two families: [[Dorosomidae]] (gizzard shads) and...
 > -- *[[InQuestOfTheMayansSequelIiOnCe_16973]]*
 
+> This classic zoogeographic study, a contribution from the Zoological Laboratory of Indiana University (No. 177) by Carl H. Eigenmann, analyses the origin, composition and distribution of the fishes of the [[Magdalena Basin]] in western Colombia. The author reports roughly 150 species in about 70...
+> -- *[[TheMagdalenaBasinAndTheHorizon_15804]]*
+
 ### Mentioned In
 - [[ExperimentalIntroductionOfFish_1955]]
 - [[SpeciesStockingHistoryInTexasD_1987]]
 - [[StatusOfIntroducedWalkingCatfi_17609]]
 - [[TheRelationOfHydrologicalCondi_20023]]
 - [[InQuestOfTheMayansSequelIiOnCe_16973]]
+- [[TheMagdalenaBasinAndTheHorizon_15804]]
 
 ## Tarpon atlanticus
 
@@ -1494,6 +1518,18 @@ The Tatshenshini River, part of a river system spanning Alaska and British Colum
 
 ### Mentioned In
 - [[TheNationsTenMostEndangeredRiv_17976]]
+
+## Tattersal
+
+### Summary
+A researcher cited in the source (1932) who identified salinity as the key limiting factor for Neomysis, the mysid shrimp. The source relies on this work to explain why Neomysis was most abundant in low-salinity waters above San Pablo Bay.
+
+### Context
+> This California Department of Fish and Game study (Heubach, Toth and McCready, 1963) describes the year-round diet of young-of-the-year [[Striped Bass]] (*Morone saxatilis*, cited in the source as *Roccus saxatilis*) in the [[Sacramento-San Joaquin Delta]] and adjacent waters. Stomach contents of...
+> -- *[[FoodOfYoungoftheyearStripedBas_20374]]*
+
+### Mentioned In
+- [[FoodOfYoungoftheyearStripedBas_20374]]
 
 ## Taunton River
 
@@ -1867,12 +1903,32 @@ Tebalurus is a genus of madtom catfish (family Ictaluridae) found in the Cuatro 
 > This administrative document is a memorandum from the [[Fish And Wildlife Service]] (FWS) transmitting the summary of the June 23, 1988 meeting of the [[Management Group]] of the [[Colorado River Recovery Program]], held at the FWS Regional Office in Lakewood, Colorado. The memo header is dated...
 > -- *[[SummaryjuneManagementGroupMeet_20998]]*
 
+> This U.S. Fish and Wildlife Service (FWS) annual report, published March 1990 by Region 6 (Denver), summarizes status and accounting for the FY-1989 projects of the [[Recovery Implementation Program]] for endangered fishes in the [[Upper Colorado River Basin]]. It covers 39 Work Plan projects plus...
+> -- *[[FiscalYearAnnualReport_19224]]*
+
+> This document is a compilation of administrative records from the [[Colorado River Recovery Implementation Program]], a multi-agency effort to recover endangered fishes in the Upper Colorado River Basin. It contains meeting notices, agendas, a meeting summary, a Technical Group minutes record, a...
+> -- *[[ColoradoRiverManagementGroupMe_21029]]*
+
 ### Mentioned In
 - [[MemorandumOnAnnualResearchersQ_18168]]
 - [[MinutesfebruaryRecoveryImpleme_19220]]
 - [[FyReportingAndAccounting_21020]]
 - [[TechnicalGroupMeetingMinutesJu_18171]]
 - [[SummaryjuneManagementGroupMeet_20998]]
+- [[FiscalYearAnnualReport_19224]]
+- [[ColoradoRiverManagementGroupMe_21029]]
+
+## Technical Integration Group
+
+### Summary
+The Technical Integration Group is the GCES body that combines the environmental and economic study work. According to the source, it produces the final Integrated Study Plan and final technical report and develops contingency plans.
+
+### Context
+> This document is a Bureau of Reclamation implementation guide for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The program assesses how the operation of [[Glen Canyon Dam]] affects downstream natural and recreational resources in the [[Grand Canyon]]. Phase II focuses on two...
+> -- *[[GlenCanyonEnvironmentalStudies_15606]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_15606]]
 
 ## Technical Work Group
 <!-- fm: auto_enriched: true -->
@@ -2284,6 +2340,18 @@ Temperature preference in fish refers to the range of water temperatures that an
 ### Mentioned In
 - [[ModificationsOfTemperatureAvoi_20110]]
 
+## Temperature Stratification
+
+### Summary
+Temperature stratification is the layering of lake water into zones of different temperature, typically warm surface water above cooler deep water. In this study, together with oxygen stratification, it limited benthic invertebrate production and restricted fish access to deep benthic communities.
+
+### Context
+> This 1969 Master of Science thesis by Eric P. Bergersen, submitted to the [[University of Arizona]] in fishery biology, investigates why [[Parker Canyon Lake]] has low fish production. Between September 1967 and September 1968, the author compared forage-supporting factors across Parker Canyon,...
+> -- *[[SomeFactorsAffectingFishForage_18194]]*
+
+### Mentioned In
+- [[SomeFactorsAffectingFishForage_18194]]
+
 ## Temperature Units
 <!-- fm: auto_enriched: true -->
 
@@ -2370,6 +2438,18 @@ Tenasserim is a coastal region in Southeast Asia. This source mentions it as a g
 
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16310]]
+
+## Tenaya Lake
+
+### Summary
+A lake in Yosemite at 8,141 ft. The source says the Sacramento sucker is not native there and is presumed introduced.
+
+### Context
+> This Yosemite Nature Notes article by [[Carl L. Hubbs]] and Orthello L. Wallis (1948) revises the known native fish fauna of [[Yosemite National Park]]. It reports that the park's recognized native fishes double from three species to six, through the addition of the [[Sacramento Squawfish]], the...
+> -- *[[TheNativeFishFaunaOfYosemiteNa_14482]]*
+
+### Mentioned In
+- [[TheNativeFishFaunaOfYosemiteNa_14482]]
 
 ## Tench
 <!-- fm: auto_enriched: true -->
@@ -3161,6 +3241,18 @@ Teruya Uyeno is a co-author of this systematic revision of the genus Gila in Nor
 
 ### Mentioned In
 - [[ConcernsOnSpecializedFacilitie_1994_05_20]]
+
+## Tesch 1971
+
+### Summary
+Tesch 1971 is a reference the authors followed for reading scales. The source used it to age scales taken from the left side of cui-ui, which were then compared with opercular ages.
+
+### Context
+> This manuscript, circulated with a 1987 cover letter from [[G. Gary Scoppettone]] of the [[U.S. Fish and Wildlife Service]] to [[James E. Deacon]], refines the age and growth of the endangered [[Cui-Ui]] (*Chasmistes cujus*), an endemic catostomid of [[Pyramid Lake]], Nevada. Using opercular bones...
+> -- *[[ManuscriptlongevityAndGrowthOf_11310]]*
+
+### Mentioned In
+- [[ManuscriptlongevityAndGrowthOf_11310]]
 
 ## Tesch 1977
 <!-- fm: auto_enriched: true -->
@@ -4141,6 +4233,12 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This bundle of 1989 correspondence covers the [[Upper Colorado River Endangered Fish Recovery Program]]. It includes the draft summary of the September 13, 1989 [[Management Group]] meeting, the meeting agenda, the November 9, 1989 agenda, a memo on the [[15-Mile Reach]] gage, the adopted motion on...
 > -- *[[ManagementGroupMeeting_21017]]*
 
+> This document is a December 1990 U.S. Fish and Wildlife Service (FWS) memorandum and the draft minutes of the November 1990 [[Desert Fishes Recovery Team]] meeting in Phoenix, Arizona. It covers three linked issues: public comment on draft recovery plans for [[Spikedace]] and [[Loach Minnow]]; the...
+> -- *[[DraftMinutesOfTheNovemberTeamM_14785]]*
+
+> These minutes record the November 7-8, 1990 meeting of the [[Desert Fishes Recovery Team]] in Phoenix, Arizona, transmitted by Team Coordinator Sally Stefferud on March 15, 1991. The meeting centered on two issues. The first was whether [[Red Shiner]] posed a threat to native fishes in [[Aravaipa...
+> -- *[[MinutesOfTheNovemberRecoveryTe_14788]]*
+
 ### Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -4217,6 +4315,8 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[IntraserviceBiologicalOpinionC_18805]]
 - [[IntraserviceBiologicalOpinionP_18806]]
 - [[ManagementGroupMeeting_21017]]
+- [[DraftMinutesOfTheNovemberTeamM_14785]]
+- [[MinutesOfTheNovemberRecoveryTe_14788]]
 
 ## The Nature Conservancy Hassayampa Preserve
 
@@ -4729,6 +4829,9 @@ A thermocline is a distinct layer in a stratified water body where temperature c
 > This paper, presented at a Great Lakes research conference, reviews the University of Waterloo group's work on how pollutants spread through the Great Lakes. It argues that effluent concentrations are random variables, so engineering estimates should rely on statistics beyond the mean, chiefly the...
 > -- *[[DispersalOfForeignMatterByTheC_18087]]*
 
+> This 1947 popular-science article by William C. Beckman of the [[Institute For Fisheries Research]], Fish and Fisheries Division, [[Michigan Department Of Conservation]], describes a lake inventory survey on Long Lake, Michigan. Through a fictional-style dialogue with a curious fisherman, the...
+> -- *[[ALookAtALake_15686]]*
+
 ### Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -4738,6 +4841,7 @@ A thermocline is a distinct layer in a stratified water body where temperature c
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[FisheriesLakeSurveyASmallscale_12998]]
 - [[DispersalOfForeignMatterByTheC_18087]]
+- [[ALookAtALake_15686]]
 
 ## Thermocline Dynamics
 <!-- fm: auto_enriched: true -->
@@ -4993,6 +5097,18 @@ Thin-plate spline is a mathematical method, following Bookstein (1991), that mod
 
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
+
+## Thomas A. Dowling
+
+### Summary
+A fish geneticist and one of the key investigators working on Colorado basin Gila taxonomy, listed among the researchers the report reviews. The source mentions him only as an active worker in the field.
+
+### Context
+> This Final Draft report (12 December 1989), prepared by [[Wayne C. Starnes]] of the Smithsonian Institution for the [[U.S. Fish and Wildlife Service]], is Part 1 of Phase I of the [[Colorado River Gila Taxonomy Project]]. It reviews existing taxonomic and distributional literature on the cyprinid...
+> -- *[[PartReviewOfExistingInformatio_14721]]*
+
+### Mentioned In
+- [[PartReviewOfExistingInformatio_14721]]
 
 ## Thomas A. Strekal
 
@@ -5533,6 +5649,18 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This 1967 study by Laurence and Yerger (Florida State University) reports the first detailed life-history data for the [[Alabama Shad]], a Gulf coast anadromous clupeid about which knowledge was "almost nonexistent." Adults were sampled on their 1966 spawning run in the [[Apalachicola River]]...
 > -- *[[LifeHistoryStudiesOfTheAlabama_20199]]*
 
+> This U.S. Fish and Wildlife Service (FWS) report, dated September 25, 1991, summarizes the "Camp Four" multi-agency field survey for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The survey was run from the Phoenix Field Office and took place in March 1991 at...
+> -- *[[CampFourAnnualSurveyForRazorba_15637]]*
+
+> This 1963 Fishery Management Report, prepared by the [[Bureau of Sport Fisheries and Wildlife]] (Branch of Fishery Management Services) for the San Carlos Apache Tribe, evaluates the sport fishery of the [[San Carlos Apache Indian Reservation]]. The Bureau's 1963 program had four phases: a records...
+> -- *[[SanCarlosApacheIndianReservati_19596]]*
+
+> This Oklahoma Fishery Research Laboratory report (Alfred Houser, 1959 survey; supporting agencies the Oklahoma Wildlife Conservation Department and the University of Oklahoma Biological Survey) assesses the [[Lake Lawtonka]] fishery. A mark-and-recapture survey in June-July 1959 estimated a...
+> -- *[[AFisherySurveyByPopulationEsti_19936]]*
+
+> This California Department of Fish and Game study (Heubach, Toth and McCready, 1963) describes the year-round diet of young-of-the-year [[Striped Bass]] (*Morone saxatilis*, cited in the source as *Roccus saxatilis*) in the [[Sacramento-San Joaquin Delta]] and adjacent waters. Stomach contents of...
+> -- *[[FoodOfYoungoftheyearStripedBas_20374]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -5667,6 +5795,10 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[ReferencesForNdEditionOfInland_15457]]
 - [[EnvironmentalAssessmentForProp_17082]]
 - [[LifeHistoryStudiesOfTheAlabama_20199]]
+- [[CampFourAnnualSurveyForRazorba_15637]]
+- [[SanCarlosApacheIndianReservati_19596]]
+- [[AFisherySurveyByPopulationEsti_19936]]
+- [[FoodOfYoungoftheyearStripedBas_20374]]
 
 ## Threadfin Shad Introduction
 <!-- fm: auto_enriched: true -->
@@ -5762,6 +5894,9 @@ Threatened and Endangered Species (TES) in fish science refers to fish populatio
 > This memorandum, dated June 20, 1994, from the co-chairs of the [[National Fish Hatchery Review Panel]] (Fred Meyer and Bob Putz, of [[The Conservation Fund]]) distributes 36 issue statements drawn from the June 8, 1994 Minneapolis meeting. The statements question the mission, role, policies, and...
 > -- *[[IssuesToBeAddressedInPanelRepo_20168]]*
 
+> This document is a set of Arizona Game and Fish Department (AGFD) records from 2000 covering three linked items: a letter arranging the establishment of [[Refugia Populations]] of the [[Quitobaquito Pupfish]] and [[Gila Topminnow]] at a Scottsdale Community College pond; a [[Federal Endangered...
+> -- *[[ReDesertPupfishAndGilaTopminno_16904]]*
+
 ### Mentioned In
 - [[AmendmentLetterExtendingThreat_1994_03_11]]
 - [[CommentsOnFishAndWildlifeServi_1997_07_08]]
@@ -5780,6 +5915,7 @@ Threatened and Endangered Species (TES) in fish science refers to fish populatio
 - [[DraftRecommendationsNationalFi_19586]]
 - [[ReportOfTheNationalFishHatcher_20170]]
 - [[IssuesToBeAddressedInPanelRepo_20168]]
+- [[ReDesertPupfishAndGilaTopminno_16904]]
 
 ## Threatened Coachella Valley Fringe-toed Lizard
 
@@ -5951,6 +6087,18 @@ Three Forks Hydrobioid is mentioned in the source but not described in the provi
 ### Mentioned In
 - [[CurrentStatusOfEndangeredThrea_12695]]
 
+## Three Forks Water Rights
+
+### Summary
+A conditional water-right package owned by the Pittsburg and Midway Coal Mining Company (P&M) and included in the 1989 Little Snake evaluation. The source lists Three Forks among upstream projects whose development would reduce transferable yield for instream use downstream.
+
+### Context
+> This document is a compilation of 1989 materials from the [[Recovery Implementation Program]] for [[Colorado River Endangered Fishes]] in the Upper Colorado River Basin. It contains a cover letter, a draft proposal to evaluate [[Little Snake River]] water rights, a [[Section 7 Consultation]]...
+> -- *[[LetterToJohnHamillProposalForE_12209]]*
+
+### Mentioned In
+- [[LetterToJohnHamillProposalForE_12209]]
+
 ## Three Gorges Dam
 
 ### Summary
@@ -5970,8 +6118,12 @@ The Three Gorges Dam is a major hydroelectric dam on the Changjiang River in Chi
 > - **Flow regime and sediment transport**: The rhodamine dye study (Julie Graf, USGS) found that a dye "slug" moved at ~1 mile/hour through the [[Lee's Ferry]] reach, with velocity slightly increased by two fluctuation cycles between Lee's Ferry and Grand Canyon gaging stations. This directly affe...
 > -- *[[GlenCanyonEnvironmentalStudies_1989_12_13]]*
 
+> This December 1989 newsletter from the [[Glen Canyon Environmental Studies]] (GCES) program reports on a four-day steady 5,000 cubic feet per second (cfs) flow release from [[Glen Canyon Dam]], conducted October 6-9, 1989, within a broader October 4-17 study period. Over 40 researchers examined...
+> -- *[[GlenCanyonEnvironmentalStudies_19682]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1989_12_13]]
+- [[GlenCanyonEnvironmentalStudies_19682]]
 
 ## Three Mile Lake
 
@@ -6384,6 +6536,9 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 > This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
 > -- *[[DistributionAndAbundanceOfBent_13853]]*
 
+> This note summarises a 1890 field survey and taxonomic report by [[Charles Henry Gilbert]] and [[Norman Bishop Scofield]]. The expedition, made by the senior author and A. B. Alexander of the [[U.S. Fish Commission]] during the late April and early May 1890 detached from the [[Albatross...
+> -- *[[NotesOnACollectionOfFishesFrom_16994]]*
+
 ### Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
 - [[BiologicalOpinionsAndConcurren_11655]]
@@ -6431,6 +6586,7 @@ Tiaroga cobitis, commonly known as the loach minnow, is a small cyprinid fish na
 - [[GilaRiverFishdistributionProje_15844]]
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[DistributionAndAbundanceOfBent_13853]]
+- [[NotesOnACollectionOfFishesFrom_16994]]
 
 ## Tiberias Hot Springs
 <!-- fm: auto_enriched: true -->
@@ -7281,6 +7437,30 @@ Tina J. Ayers is a researcher affiliated with Northern Arizona University who co
 ### Mentioned In
 - [[TransitionMonitoringForRiparia_17903]]
 
+## Tinaja Canyon
+
+### Summary
+Tinaja Canyon contains a pool, described as five pools in the proposal, southeast of Little Tinaja Spring. It is one of the two unfenced pools identified as ideal immediate transplant sites for phase one in fall 1991.
+
+### Context
+> The [[Arizona Game and Fish Department]] (AGFD) proposed transplanting approximately 150 [[Sonoran Chub]] (*Gila ditaenia*) from the [[Sycamore Canyon]] main drainage into six permanent water sites in adjacent side drainages. The entire U.S. population of the species is restricted to this one...
+> -- *[[SonoranChubReintroductionToSyc_14342]]*
+
+### Mentioned In
+- [[SonoranChubReintroductionToSyc_14342]]
+
+## Tinaja Spring
+
+### Summary
+Tinaja Spring is one of the four springs among the six permanent water sources found in the June 1990 survey. The plan proposes improving it with exclosures and cattle drinkers before the second transplant phase.
+
+### Context
+> The [[Arizona Game and Fish Department]] (AGFD) proposed transplanting approximately 150 [[Sonoran Chub]] (*Gila ditaenia*) from the [[Sycamore Canyon]] main drainage into six permanent water sites in adjacent side drainages. The entire U.S. population of the species is restricted to this one...
+> -- *[[SonoranChubReintroductionToSyc_14342]]*
+
+### Mentioned In
+- [[SonoranChubReintroductionToSyc_14342]]
+
 ## Tinbergen 1951
 <!-- fm: auto_enriched: true -->
 
@@ -7453,6 +7633,18 @@ Tisomingo National Fish Hatchery is a federal fish hatchery located in Oklahoma 
 
 ### Mentioned In
 - [[LetterOnHistologicalSlidePrepa_17660]]
+
+## Tissue Transplantation
+
+### Summary
+Tissue transplantation is the grafting of tissue from one individual to another. The source uses it as a test: tissues from identical twins are interchangeable, so a successful graft suggests donor and host are essentially identical, while rejection signals genetic difference. Fish shipped alive to the Marquette aquarium were used for such experiments, and a fin graft from a black molly was rejected.
+
+### Context
+> The Amazon molly is a female-only fish whose offspring are essentially identical twins within each clone. Its breeding system raises a basic question about how the population originated and how heredity is controlled. [[Rezneat Darnell]] and [[Peter Abramoff]], associate professors of zoology at...
+> -- *[[ConsiderTheAmazonMollyfish_13948]]*
+
+### Mentioned In
+- [[ConsiderTheAmazonMollyfish_13948]]
 
 ## Title 17
 <!-- fm: auto_enriched: true -->
@@ -7808,6 +8000,18 @@ Tombstone is one of the ten Arizona development projects proposed in Maxwell's 1
 ### Mentioned In
 - [[TimeCoOrdinatedPrefeedingActiv_13978]]
 
+## Tomkok Creek
+
+### Summary
+Tomkok Creek is a stream in the Kvichak system whose channel was redirected by floods in 1927 and 1959, along with Chekok and Canyon creeks. The catalog corrects a U.S.G.S. map error in which the Chekok Creek label should be Tomkok Creek.
+
+### Context
+> This 1964 U.S. Fish and Wildlife Service Special Scientific Report (No. 488), compiled by Robert L. Demory, Russell F. Orrell and Donald R. Heinle of the [[Fisheries Research Institute]] (University of Washington), catalogs the spawning streams, ponds and beaches used by [[Red Salmon]]...
+> -- *[[SpawningGroundCatalogOfTheKvic_12869]]*
+
+### Mentioned In
+- [[SpawningGroundCatalogOfTheKvic_12869]]
+
 ## Tongass National Forest
 
 ### Summary
@@ -7992,6 +8196,15 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 > This completion report, prepared for the [[Tonto National Forest]] (U.S. Forest Service) by New Mexico State University, applies the adapted fishery planning model [[RIOFISH]] to [[Saguaro Lake]] near Phoenix, Arizona. The aim was to estimate how artificial habitat installed in the lake would...
 > -- *[[AnalysisOfCentralArizonaAngler_17118]]*
 
+> This 1992 report, prepared by [[Jerome A. Stefferud]] for the [[Tonto National Forest]], documents the first year of fishery and habitat monitoring tied to the [[Quien Sabe Prescribed Burn]] on [[Cave Creek]] and [[Seven Springs Wash]], Arizona. Monitoring was a term of the [[Biological Opinion]]...
+> -- *[[FisheryMonitoringForTheQuienSa_14755]]*
+
+> This brief summary by [[Tonto National Forest]] biologist Lisa Bizios, dated January 7, 1993, reports August 1992 fish surveys at [[Spring Creek]] and [[Rock Creek]]. It was prepared to support initial evaluation of a proposal by the [[Arizona Game And Fish Department]] to stock [[Brown Trout]] in...
+> -- *[[BriefSummaryOfSpringCreekSurve_17656]]*
+
+> This document is a set of 1987–1988 correspondence and project materials from [[Arizona State University]] (ASU) and the [[Arizona Game And Fish Department]] (AZGFD). It contains a cover letter, an AZGFD [[Environmental Assessment Checklist]] with attachments, a refuge stocking memo, and three...
+> -- *[[AzgfdEaChecklistspikedaceAndLo_19415]]*
+
 ### Mentioned In
 - [[FederalEndangeredFishSpeciesCo_1993_11_19]]
 - [[FindingOfNoSignificantImpactAr_11493]]
@@ -8017,6 +8230,9 @@ Tonto National Forest represents a key geographic region within Arizona's Gila R
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[EnvironmentalAssessmentarnettC_11509]]
 - [[AnalysisOfCentralArizonaAngler_17118]]
+- [[FisheryMonitoringForTheQuienSa_14755]]
+- [[BriefSummaryOfSpringCreekSurve_17656]]
+- [[AzgfdEaChecklistspikedaceAndLo_19415]]
 
 ## Tonto National Forest Land Management Plan
 
@@ -8100,6 +8316,18 @@ The Topeka Shiner (*Notropis topeka*) is a small cyprinid fish historically dist
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
 - [[FishesOfTheWakarusaRiverInKans_14015]]
 - [[ListOfFishesReportedFromKansas_18026]]
+
+## Topminnow Reintroduction
+
+### Summary
+The effort to establish Gila topminnows at new sites where they can survive. The source says the $8,000 ASARCO paid was used by AGFD for introducing topminnows to selected sites, since Cocio Wash could not be rehabilitated.
+
+### Context
+> This correspondence set, dated September to December 1983 with a related Arizona Department of Health Services resolution (Handout #6-b-84), documents how recurrent [[Mine Tailings Release]]s from the [[ASARCO]] [[Silver Bell Mine]] eliminated the [[Gila Topminnow]] population in [[Cocio Wash]]....
+> -- *[[CocioWashEliminationOfTopminno_19838]]*
+
+### Mentioned In
+- [[CocioWashEliminationOfTopminno_19838]]
 
 ## Topoc Marsh
 
@@ -8545,6 +8773,9 @@ Toxaphene is a chlorinated camphene-based insecticide that was employed as a pis
 > This Michigan Department of Conservation pamphlet, written by [[Frank Hooper]] of the [[Institute for Fisheries Research]], gives practical guidance for eradicating unwanted fish from ponds, lakes, and streams using [[Rotenone]]-based toxicants. It covers toxicant selection, lake suitability,...
 > -- *[[EradicationOfFishByChemicalTre_19909]]*
 
+> This document is Resource Publication 18 (January 1967) in the [[Investigations in Fish Control]] series, issued by the [[Bureau of Sport Fisheries and Wildlife]] and written by chemist [[Leif L. Marking]] at the [[Fish Control Laboratories]] in La Crosse, Wisconsin. It measures the toxicity of the...
+> -- *[[ToxicityOfMsToSelectedFishes_19378]]*
+
 ### Mentioned In
 - [[ControlOfCarpCyprinusCarpioLin_14811]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
@@ -8553,6 +8784,7 @@ Toxaphene is a chlorinated camphene-based insecticide that was employed as a pis
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[EradicationOfFishByChemicalTre_19909]]
+- [[ToxicityOfMsToSelectedFishes_19378]]
 
 ## Toxic Substances
 
@@ -8658,6 +8890,18 @@ The Toyah Basin is part of the West Texas Permian Basin where multiple Gammarus-
 
 ### Mentioned In
 - [[GeneticMarkersToDetectPossible_13857]]
+
+## Trace Metals
+
+### Summary
+Trace metals are metallic elements present in small concentrations in lake water and aquatic organisms. In this thesis they were analysed by atomic absorption spectrometry, and the author found that heavy and trace metal concentrations were not believed to limit invertebrate production in the study lakes.
+
+### Context
+> This 1969 Master of Science thesis by Eric P. Bergersen, submitted to the [[University of Arizona]] in fishery biology, investigates why [[Parker Canyon Lake]] has low fish production. Between September 1967 and September 1968, the author compared forage-supporting factors across Parker Canyon,...
+> -- *[[SomeFactorsAffectingFishForage_18194]]*
+
+### Mentioned In
+- [[SomeFactorsAffectingFishForage_18194]]
 
 ## Tracheliastes polycolpus
 
@@ -8878,6 +9122,9 @@ A trammel net is a passive fishing gear consisting of three layers of netting de
 > This memorandum from BIO/WEST, Inc. to the [[Glen Canyon Environmental Studies]] program documents fish handling impacts and protocols for endangered [[Humpback Chub]] research in the [[Colorado River]] through [[Grand Canyon]]. From October 1990 through August 1991, researchers handled 569...
 > -- *[[FishHandlingAssessmentOnGrandC_13650]]*
 
+> This U.S. Fish and Wildlife Service (FWS) report, dated September 25, 1991, summarizes the "Camp Four" multi-agency field survey for [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail Chub]] (*Gila elegans*). The survey was run from the Phoenix Field Office and took place in March 1991 at...
+> -- *[[CampFourAnnualSurveyForRazorba_15637]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[LakeMohaveSamplingMarch_1998_03_26]]
@@ -8886,6 +9133,7 @@ A trammel net is a passive fishing gear consisting of three layers of netting de
 - [[SamplingAtAsuResearchParkMay_1991_08_14]]
 - [[SelectivityAndEffectivenessOfC_12188]]
 - [[FishHandlingAssessmentOnGrandC_13650]]
+- [[CampFourAnnualSurveyForRazorba_15637]]
 
 ## Trammel Net Sampling
 <!-- fm: auto_enriched: true -->
@@ -8967,6 +9215,18 @@ Trammel nets are passive fishing gear consisting of multiple layers of netting w
 - [[StudiesOfColoradoSquawfishInTh_11681]]
 - [[FishHandlingAssessmentOnGrandC_13599]]
 
+## Trans-Alaska Pipeline
+
+### Summary
+The Trans-Alaska Pipeline carries oil from Alaska's North Slope, and a ban on exporting oil it carries is at issue here. The source reports the administration considered lifting that export ban, which the authors argue would increase development pressure and spill risks in Alaska and California.
+
+### Context
+> This [[Southern Utah Wilderness Alliance]] (SUWA) newsletter, Vol. XI, No. 3 (Fall/Winter 1994), assesses the first [[Clinton Administration]] term's record on public lands and environmental policy. The authors, [[Cindy Shogan]] and [[Mike Matz]], conclude that the administration has been...
+> -- *[[TheClintonAdministrationDisapp_11801]]*
+
+### Mentioned In
+- [[TheClintonAdministrationDisapp_11801]]
+
 ## Transactions Of The American Fisheries Society
 <!-- fm: auto_enriched: true -->
 
@@ -8995,6 +9255,18 @@ Trammel nets are passive fishing gear consisting of multiple layers of netting w
 
 ### Mentioned In
 - [[SantaClaraSloughSurveys_1992_09_08]]
+
+## Transfer-Hybridization
+
+### Summary
+A DNA analysis technique used here to study mitochondrial DNA variation in the Gila project. According to the response, it requires very small amounts of tissue, such as blood drops and fin clips, so it can be used alongside non-lethal sampling.
+
+### Context
+> This document is a correspondence item, not a research report. It is the principal investigators' (PIs') formal response to technical reviews of a proposal for a [[Gila Taxonomy Project]] submitted in response to a [[Request For Proposals]] (RFP). The project covers three schedules: morphological...
+> -- *[[GilaTaxonomyresponseToTechnica_19111]]*
+
+### Mentioned In
+- [[GilaTaxonomyresponseToTechnica_19111]]
 
 ## Transformer Pit
 
@@ -9384,6 +9656,18 @@ Triangle-leaf Bursage (Ambrosia deltoidea) is a predominant shrub species in the
 ### Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
 
+## Triangular Weir
+
+### Summary
+A triangular weir is a V-shaped notch used to measure water flow by reading the depth of water over it. The source describes a 90-degree triangular weir as Procedure B for measuring trough outflow, with a table giving gallons per minute for depths from 1 to 5 inches and an error the authors put at no more than 2 per cent.
+
+### Context
+> This 1932 New York State Conservation Department bulletin, by [[O. R. Kingsbury]] and [[G. C. Embody]] of the [[Cornell University]] Laboratory of Fish Culture, describes a device that treats hatchery fish diseases by adding a constant, metered flow of chemical reagent to the water supply of a...
+> -- *[[ThePreventionAndControlOfHatch_12545]]*
+
+### Mentioned In
+- [[ThePreventionAndControlOfHatch_12545]]
+
 ## Tribal Natural Resource Management
 <!-- fm: auto_enriched: true -->
 
@@ -9462,12 +9746,16 @@ Trichodina is a ciliate protozoan parasite that infests the gills of fish, rangi
 > This study by H. R. Schmittou, [[Auburn University]] Agricultural Experiment Station, examined how [[Supplemental Feeding]] and [[Controlled Fishing]] affect [[Largemouth Bass]]-[[Bluegill]] pond populations. It ran in two phases. Phase 1 compared one control pond (C) with two fed treatment ponds...
 > -- *[[SomeEffectsOfSupplementalFeedi_20572]]*
 
+> This paper by [[Justus F. Mueller]], a field naturalist at the [[Roosevelt Wild Life Station]], formally describes a peritrichous ciliate that lives inside the urinary system of the [[Chain Pickerel]] (*Esox niger*) in [[Oneida Lake]], New York. The organism was first published as *Cyclochaeta...
+> -- *[[TrichodinaRenicolaMuellerACili_15477]]*
+
 ### Mentioned In
 - [[AKeyToTheCommonParasiticProtoz_1966_03_01]]
 - [[CatastrophicFishMortalitiesOnK_1965_11_16]]
 - [[OverwinteringGilaTopminnows_1981]]
 - [[TheChemicalControlOfSomeDiseas_15950]]
 - [[SomeEffectsOfSupplementalFeedi_20572]]
+- [[TrichodinaRenicolaMuellerACili_15477]]
 
 ## Trichodinella
 <!-- fm: auto_enriched: true -->
@@ -10528,6 +10816,9 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This Master of Science thesis in fishery biology, written by [[Steven Alan Lewis]] at the [[University of Arizona]], examines how [[Mechanical Evaporation Barriers]] affect [[Fish Growth]] and overall [[Pond Productivity]]. Four experiments were run: a spring [[Trout]] experiment, a summer...
 > -- *[[SomeEffectsOfMechanicalEvapora_20305]]*
 
+> This 1947 popular-science article by William C. Beckman of the [[Institute For Fisheries Research]], Fish and Fisheries Division, [[Michigan Department Of Conservation]], describes a lake inventory survey on Long Lake, Michigan. Through a fictional-style dialogue with a curious fisherman, the...
+> -- *[[ALookAtALake_15686]]*
+
 ### Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -10581,6 +10872,7 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[SeniorReclamationOfficialAppoi_20786]]
 - [[UnaManeraSencillaYEconomicaDeA_11373]]
 - [[SomeEffectsOfMechanicalEvapora_20305]]
+- [[ALookAtALake_15686]]
 
 ## Trout and Salmon
 
@@ -10664,10 +10956,14 @@ A trout fishery is a managed aquatic system, typically in tailwater areas below 
 > 8. **Management Implications**: Cold hypolimnetic releases enabled establishment of a put-and-take [[Trout Fishery]] in the tailwater, partially offsetting economic/recreational loss of native redhorse and catfish populations, though at higher management cost than a self-sustaining warmwater fish...
 > -- *[[InfluenceOfAKentuckyFloodContr_15125]]*
 
+> This document is a Bureau of Reclamation implementation guide for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The program assesses how the operation of [[Glen Canyon Dam]] affects downstream natural and recreational resources in the [[Grand Canyon]]. Phase II focuses on two...
+> -- *[[GlenCanyonEnvironmentalStudies_15606]]*
+
 ### Mentioned In
 - [[InfluenceOfAKentuckyFloodContr_15125]]
 - [[LeesFerryTrophyTroutFishery_18301]]
 - [[LetterConcerningStripedBassThr_1990_06_03]]
+- [[GlenCanyonEnvironmentalStudies_15606]]
 
 ## Trout Fishery Management
 <!-- fm: auto_enriched: true -->
@@ -10702,6 +10998,18 @@ Trout food habits are the diet composition of trout in the study ponds. The thes
 
 ### Mentioned In
 - [[SomeEffectsOfMechanicalEvapora_20305]]
+
+## Trout Lake
+
+### Summary
+Trout Lake is named in the report as one of the developments the Bureau recommends building, alongside new roads, to create a recreational trout fishery that could bring income and jobs to tribal members. The source gives no further details about its location, size, or design.
+
+### Context
+> This 1963 Fishery Management Report, prepared by the [[Bureau of Sport Fisheries and Wildlife]] (Branch of Fishery Management Services) for the San Carlos Apache Tribe, evaluates the sport fishery of the [[San Carlos Apache Indian Reservation]]. The Bureau's 1963 program had four phases: a records...
+> -- *[[SanCarlosApacheIndianReservati_19596]]*
+
+### Mentioned In
+- [[SanCarlosApacheIndianReservati_19596]]
 
 ## Trout Lake (Michigan)
 <!-- fm: auto_enriched: true -->
@@ -10982,6 +11290,9 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 > This document is a [[Biological Opinion]] issued by the [[Fish and Wildlife Service]] under Section 7 consultation of the [[Endangered Species Act]]. It evaluates the effects of proposed long-term operating procedures for the [[Newlands Project]] in western Nevada on two protected species: the...
 > -- *[[BaldEagle_13866]]*
 
+> This 1995 operation plan, prepared by the U.S. [[Fish and Wildlife Service]] (Region 1, Northern Nevada Fishery Resource Office) for the [[Marble Bluff Fish Facility]], sets out management strategies and physical modifications to improve fish passage and reduce mortality at the facility. It also...
+> -- *[[MarbleBluffFishFacilityOperati_16613]]*
+
 ### Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -11023,6 +11334,7 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 - [[CuiuiChasmistesCujusSecondRevi_11586]]
 - [[FeasibilityStudiesBasedOnRepor_14021]]
 - [[BaldEagle_13866]]
+- [[MarbleBluffFishFacilityOperati_16613]]
 
 ## Truckee River Basin
 <!-- fm: auto_enriched: true -->
@@ -11367,9 +11679,13 @@ Tubifex worms are a live food eagerly accepted by Biotodoma cupido in captivity.
 > This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
 > -- *[[GeneralReviewsAndSummariesTrop_17993]]*
 
+> This taxonomic paper, part of a revision of the North American freshwater triclad (Turbellaria) fauna, describes one new species and redescribes or expands on three little-known species of the genus [[Phagocata]]. The new species, [[Phagocata Bulbosa]], is described from North Carolina and is...
+> -- *[[FreshwaterTricladsTurbellariaO_17939]]*
+
 ### Mentioned In
 - [[TheCupidoCichlid_16188]]
 - [[GeneralReviewsAndSummariesTrop_17993]]
+- [[FreshwaterTricladsTurbellariaO_17939]]
 
 ## Tubifex Tubifex
 <!-- fm: auto_enriched: true -->
@@ -11878,6 +12194,9 @@ Tule Creek is a lotic (flowing water) system in Arizona that has served as a stu
 > This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program Technical Report 121, June 1997, edited by Michael J. Sredl) compiles three linked studies on Arizona's native ranid frogs, chiefly [[Lowland Leopard Frog]] (*Rana yavapaiensis*) and [[Chiricahua Leopard...
 > -- *[[RanidFrogConservationAndManage_11871]]*
 
+> This document is a [[Biological Opinion]] issued by the [[Fish and Wildlife Service]] (FWS) on February 21, 1991, under Section 7 of the [[Endangered Species Act]]. It responds to a November 21, 1990 request from the [[Bureau of Land Management]] (BLM) Phoenix District for formal consultation on a...
+> -- *[[BiologicalOpinionTuleCreekRipa_20154]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnDraftRevise_1993_09_08]]
 - [[BiologicalOpinionTuleCreekRipa_1991_09_03]]
@@ -11891,6 +12210,7 @@ Tule Creek is a lotic (flowing water) system in Arizona that has served as a stu
 - [[TuleCreekExclosureProjectSumma_17655]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[RanidFrogConservationAndManage_11871]]
+- [[BiologicalOpinionTuleCreekRipa_20154]]
 
 ## Tule Creek Pipeline
 <!-- fm: auto_enriched: true -->
@@ -12008,9 +12328,25 @@ Tule Spring is a spring within San Bernardino Wildlife Refuge with water tempera
 > This management plan outline for [[San Bernardino Ranch]] addresses the restoration and protection of aquatic habitats supporting native [[Rio Yaqui]] fish species. The document, dated January 15, 1980, identifies five springs, four ponds, canals, and four historical cienega areas requiring...
 > -- *[[OutlineOfSanBernardinoRanchMan_20829]]*
 
+> This study tests whether genetic diversity affects fitness in [[Poeciliopsis Occidentalis]], an endangered viviparous fish of the Gila River drainage and adjacent Sonora, Mexico. Three wild-derived laboratory stocks, differing in mean heterozygosity, were compared for survival, growth, fecundity,...
+> -- *[[HeterozygosityAndFitnessDiffer_18732]]*
+
 ### Mentioned In
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[OutlineOfSanBernardinoRanchMan_20829]]
+- [[HeterozygosityAndFitnessDiffer_18732]]
+
+## Tule Springs
+
+### Summary
+A fossil site in the Las Vegas Valley that yielded pollen and plant remains used by the author as evidence for a vegetation depression of about 1000 m during the Late Wisconsin.
+
+### Context
+> This document is an interim research report (Report No. 11) by Peter J. Mehringer, Jr., of the [[University of Arizona]] Geochronology Laboratories. It is explicitly tentative and not a publication. It reconstructs probable vegetation changes in the [[Mohave Desert]] during the [[Late Wisconsin]]...
+> -- *[[SomeNotesOnTheLateQuaternaryBi_20095]]*
+
+### Mentioned In
+- [[SomeNotesOnTheLateQuaternaryBi_20095]]
 
 ## Tullibee
 <!-- fm: auto_enriched: true -->
@@ -12113,6 +12449,18 @@ Tuolumne County was the fifth-ranked trout county in California in 1960, with 3,
 ### Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
 - [[KokaneeInCalifornia_18108]]
+
+## Tuolumne River
+
+### Summary
+A Sierra Nevada river system flowing through Yosemite. The source notes its western park boundary lies at about 3,150 ft, and that a native Sierra chub-roach population may have existed there before the Hetch Hetchy impoundment.
+
+### Context
+> This Yosemite Nature Notes article by [[Carl L. Hubbs]] and Orthello L. Wallis (1948) revises the known native fish fauna of [[Yosemite National Park]]. It reports that the park's recognized native fishes double from three species to six, through the addition of the [[Sacramento Squawfish]], the...
+> -- *[[TheNativeFishFaunaOfYosemiteNa_14482]]*
+
+### Mentioned In
+- [[TheNativeFishFaunaOfYosemiteNa_14482]]
 
 ## Turbellaria
 <!-- fm: auto_enriched: true -->
@@ -12274,6 +12622,9 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 > This Colorado State University master's thesis (Kevin R. Bestgen, Fall 1985) reports a two-year study (December 1982 to December 1984) of the [[Roundtail Chub]] (*Gila robusta*, treated as *G. r. grahami*) in the [[Gila River]] drainage of New Mexico. The study documented historic and present...
 > -- *[[DistributionBiologyAndStatusOf_18205]]*
 
+> These minutes record the November 7-8, 1990 meeting of the [[Desert Fishes Recovery Team]] in Phoenix, Arizona, transmitted by Team Coordinator Sally Stefferud on March 15, 1991. The meeting centered on two issues. The first was whether [[Red Shiner]] posed a threat to native fishes in [[Aravaipa...
+> -- *[[MinutesOfTheNovemberRecoveryTe_14788]]*
+
 ### Mentioned In
 - [[AravaipaShinerSurveyJuly_1998_07_10]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -12302,6 +12653,7 @@ Turkey Creek is a desert stream system in Arizona that serves as a critical cons
 - [[ProtectionUpdatePrivateLandown_20666]]
 - [[EditorsCorner_21179]]
 - [[DistributionBiologyAndStatusOf_18205]]
+- [[MinutesOfTheNovemberRecoveryTe_14788]]
 
 ## Turkey Pen Creek
 
@@ -12431,9 +12783,14 @@ The Turnbull Mountains are one of the mountain ranges surrounding the Aravaipa C
 ## Turner 1983
 <!-- fm: auto_enriched: true -->
 
+### Context
+> The U.S. Fish and Wildlife Service's 1993 recovery plan for the [[Desert Pupfish]] (*Cyprinodon macularius*) sets out the actions needed to downlist the Colorado River form of this endangered fish, and to protect its two other forms. The plan was prepared by Paul C. Marsh (Arizona State University)...
+> -- *[[DesertPupfishCyprinodonMacular_17053]]*
+
 ### Mentioned In
 - [[EvaluationOfDesertPupfishRecov_19158]]
 - [[LetterToMrMichaelSpearRegardin_1986_10_22]]
+- [[DesertPupfishCyprinodonMacular_17053]]
 
 ## Turner 1984
 <!-- fm: auto_enriched: true -->
@@ -12687,6 +13044,18 @@ A therapeutic compound tested for toxicity to fish. The source reports that brow
 ### Mentioned In
 - [[UnexploitedPotentialsOfOurFres_1958]]
 
+## TVA v. Hill
+
+### Summary
+TVA v. Hill is the U.S. Supreme Court case in which the Court applied the Endangered Species Act strictly to halt a nearly complete dam to protect the snail darter. The source contrasts it with the GCID ruling, noting that later decisions such as TVA v. Hill allowed traditional equitable balancing that the GCID court did not perform.
+
+### Context
+> This legal review, written by Gregory S. Weber (McGeorge School of Law), analyzes *United States v. Glenn-Colusa Irrigation District*, 788 F. Supp. 1126 (N.D. Cal., 10 March 1992). The court found that pumping by the [[Glenn-Colusa Irrigation District]] (GCID) "took" threatened [[Sacramento River...
+> -- *[[TheEndangeredSpeciesActNewWeap_19657]]*
+
+### Mentioned In
+- [[TheEndangeredSpeciesActNewWeap_19657]]
+
 ## Tweed River Purification Board
 
 ### Summary
@@ -12886,6 +13255,18 @@ Two-source capture-recapture is a population estimation method that uses data fr
 
 ### Mentioned In
 - [[TwowayCapturerecaptureMethodsW_2026]]
+
+## Two-Way Anova
+
+### Summary
+A two-way analysis of variance, a statistical method for testing the effects of two factors and their interaction on a measured outcome. In this study it was used to analyze depth, water column position, and time of day in the habitat data.
+
+### Context
+> This study examines the habitat requirements of the federally endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*). The authors combined field observations of aggregations in [[Cienega Creek]], Arizona, with controlled experiments in outdoor pools testing responses to three...
+> -- *[[HabitatUseAndPreferenceOfGilaT_18784]]*
+
+### Mentioned In
+- [[HabitatUseAndPreferenceOfGilaT_18784]]
 
 ## Twospine Stickleback
 

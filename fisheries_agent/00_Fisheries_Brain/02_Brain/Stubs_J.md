@@ -482,6 +482,9 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 > This Federal Register notice (Vol. 59, No. 219, November 15, 1994, Proposed Rules, pp. 58982–59028) from the [[U.S. Fish and Wildlife Service]] (Service), Department of the Interior, presents an updated compilation of vertebrate and invertebrate animal taxa native to the United States under review...
 > -- *[[EndangeredAndThreatenedWildlif_11654]]*
 
+> This document is a set of Arizona Game and Fish Department (AGFD) records from 2000 covering three linked items: a letter arranging the establishment of [[Refugia Populations]] of the [[Quitobaquito Pupfish]] and [[Gila Topminnow]] at a Scottsdale Community College pond; a [[Federal Endangered...
+> -- *[[ReDesertPupfishAndGilaTopminno_16904]]*
+
 ### Mentioned In
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
@@ -493,6 +496,7 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 - [[FormalConsultationForTheCieneg_13201]]
 - [[MolecularGeneticIdentification_19135]]
 - [[EndangeredAndThreatenedWildlif_11654]]
+- [[ReDesertPupfishAndGilaTopminno_16904]]
 
 ## Jaguarundi
 <!-- fm: auto_enriched: true -->
@@ -526,6 +530,18 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DouglasMexicanTemperaturePreci_12378]]
 
+## James B. Reynolds
+
+### Summary
+James B. Reynolds is the author of this 1978 workshop paper, written while he was with the Cooperative Fishery Research Unit in Columbia, Missouri. The paper reports his two-year pilot study of boat electrofishing efficiency in warm water impoundments, focusing on largemouth bass.
+
+### Context
+> This workshop paper by [[James B. Reynolds]] of the [[Cooperative Fishery Research Unit]] (Columbia, Missouri) summarizes a two-year pilot study of boat electrofishing efficiency in warm water impoundments, focusing on [[Largemouth Bass]]. Efficiency was measured by comparing fish captured by...
+> -- *[[ElectrofishingEfficiencyAndIts_16823]]*
+
+### Mentioned In
+- [[ElectrofishingEfficiencyAndIts_16823]]
+
 ## James Bay Hydroelectric Project
 
 ### Summary
@@ -554,6 +570,18 @@ The James Bay Hydroelectric Project is a major hydroelectric development in Queb
 
 ### Mentioned In
 - [[MemorandumOnGlenCanyonEnvironm_1991_08_27]]
+
+## James E Johnson
+
+### Summary
+James E. Johnson of the U.S. Fish and Wildlife Service is the author of this 1991 U.S. Forest Service technical review on managing endangered and threatened warmwater fishes in western springs and streams. The paper draws on his review of listed fish taxa, management history, and recommendations for recovery. The source presents him as an authority on western native fish conservation.
+
+### Context
+> This U.S. Forest Service General Technical Report (RM-207), authored by [[James E Johnson]] of the U.S. Fish and Wildlife Service, reviews management of endangered and threatened fishes that depend on western warmwater springs and streams. Of 83 federally listed U.S. fish taxa, 59 (71%) are western...
+> -- *[[ManagementConcernsForEndangere_19782]]*
+
+### Mentioned In
+- [[ManagementConcernsForEndangere_19782]]
 
 ## James E. Deacon
 <!-- fm: auto_enriched: true -->
@@ -592,6 +620,9 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 > This [[National Park Service]] research proposal, submitted by [[James E. Deacon]] (principal investigator) and [[Eric S. Gustafson]] (graduate student) at the [[University of Nevada Las Vegas]], asks whether diel (daily) oxygen variation is needed for normal embryonic development and hatching in...
 > -- *[[ResearchProposalOutlineEffects_11729]]*
 
+> This manuscript, circulated with a 1987 cover letter from [[G. Gary Scoppettone]] of the [[U.S. Fish and Wildlife Service]] to [[James E. Deacon]], refines the age and growth of the endangered [[Cui-Ui]] (*Chasmistes cujus*), an endemic catostomid of [[Pyramid Lake]], Nevada. Using opercular bones...
+> -- *[[ManuscriptlongevityAndGrowthOf_11310]]*
+
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -605,6 +636,7 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[RegionalInformationSummaryOfTh_12740]]
 - [[ManuscriptAppraisalForWlMinckl_11437]]
 - [[ResearchProposalOutlineEffects_11729]]
+- [[ManuscriptlongevityAndGrowthOf_11310]]
 
 ## James Ellsworth DeKay
 
@@ -1385,6 +1417,18 @@ The Jensen Reach (RMI 301.7-276.9) is a section of the middle Green River where 
 ### Mentioned In
 - [[DevelopmentAndComparativeMorph_13429]]
 
+## Jerome A. Stefferud
+
+### Summary
+Jerome A. Stefferud is the author of this 1992 report, prepared for the Tonto National Forest. He led the fishery and habitat monitoring effort (about 15 days of personnel time) tied to the Quien Sabe prescribed burn on Cave Creek and Seven Springs Wash.
+
+### Context
+> This 1992 report, prepared by [[Jerome A. Stefferud]] for the [[Tonto National Forest]], documents the first year of fishery and habitat monitoring tied to the [[Quien Sabe Prescribed Burn]] on [[Cave Creek]] and [[Seven Springs Wash]], Arizona. Monitoring was a term of the [[Biological Opinion]]...
+> -- *[[FisheryMonitoringForTheQuienSa_14755]]*
+
+### Mentioned In
+- [[FisheryMonitoringForTheQuienSa_14755]]
+
 ## Jerome State Historic Park
 
 ### Summary
@@ -1548,6 +1592,18 @@ Jim Sedell is a stream ecologist associated with the Pacific Northwest (PNW) reg
 ### Mentioned In
 - [[CritiqueOfHumpbackChubResearch_20317]]
 
+## Jim Warnecke
+
+### Summary
+Region VI Fish Specialist with the Arizona Game and Fish Department in Mesa, Arizona, who led the 1987 Gap Creek inventory with colleagues and prepared the report in September 1987.
+
+### Context
+> This Region VI fisheries inventory, conducted on August 25, 1987, assessed the extent and viability of a [[Gila Trout]] (*Salmo gilae*) population in [[Gap Creek]], Yavapai County, Arizona. The survey was funded under [[Federal Aid Project F7R-30]] and carried out by [[Jim Warnecke]] and colleagues...
+> -- *[[FisheriesInventoryOfGapCreekYa_14884]]*
+
+### Mentioned In
+- [[FisheriesInventoryOfGapCreekYa_14884]]
+
 ## Jim Woodruff Dam
 <!-- fm: auto_enriched: true -->
 
@@ -1569,6 +1625,18 @@ Jim Sedell is a stream ecologist associated with the Pacific Northwest (PNW) reg
 ### Mentioned In
 - [[BeyondGeneticAndDemographicMan_1991]]
 
+## Job 09 Monitoring And Reintroduction
+
+### Summary
+Job 09 is an AGFD workplan for monitoring Sonoran topminnow and desert pupfish, including Quitobaquito pupfish, at natural and reintroduced sites. It is funded by USFWS and State matching money and includes yearly surveys, extirpation reports, restocking, and a five-year completion report.
+
+### Context
+> This document is a set of Arizona Game and Fish Department (AGFD) records from 2000 covering three linked items: a letter arranging the establishment of [[Refugia Populations]] of the [[Quitobaquito Pupfish]] and [[Gila Topminnow]] at a Scottsdale Community College pond; a [[Federal Endangered...
+> -- *[[ReDesertPupfishAndGilaTopminno_16904]]*
+
+### Mentioned In
+- [[ReDesertPupfishAndGilaTopminno_16904]]
+
 ## Jobling 1981
 <!-- fm: auto_enriched: true -->
 
@@ -1578,6 +1646,18 @@ Jim Sedell is a stream ecologist associated with the Pacific Northwest (PNW) reg
 
 ### Mentioned In
 - [[ResponsesOfFishPopulationsInTh_1983]]
+
+## Jocotepec Quarry
+
+### Summary
+A gravel pit about 5 km west of Jocotepec, Jalisco, Mexico, where the fossil fish fauna was collected from a roughly 15 m exposure of late Pliocene-early Pleistocene volcanic sediments. The section contains cross-bedded pumice conglomerate and laminated lacustrine shale, and yielded fish, frog or toad, turtle, bird, and mammal remains.
+
+### Context
+> This paleontological study describes a seven-species fish fauna in six families from late Pliocene-early Pleistocene deposits at the [[Jocotepec Quarry]], a gravel pit about 5 km west of Jocotepec, Jalisco, in the [[Lake Chapala Basin]] of the [[Mesa Central]], Mexico. Six species still live in the...
+> -- *[[ClimaticAndBiogeographicSignif_21184]]*
+
+### Mentioned In
+- [[ClimaticAndBiogeographicSignif_21184]]
 
 ## Joe N. Fries
 <!-- fm: auto_enriched: true -->
@@ -1655,6 +1735,18 @@ Johannes Schmidt was a researcher who discovered the spawning areas of fresh-wat
 ### Mentioned In
 - [[Eel_14169]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
+
+## John A. Maciolek
+
+### Summary
+John A. Maciolek was a staff member on the 1950s brook trout study of Bunny Lake, which was directed by Reed S. Nielson. The source names him as part of the project team alongside Norman Reimers and Harry D. Kennedy.
+
+### Context
+> This 1958 study by Norman Reimers (U.S. Fish and Wildlife Service, Reno, Nevada) follows a population of [[Eastern Brook Trout]] introduced into [[Bunny Lake]], a fishless, 24-acre snow-fed cirque lake at 10,900 ft in the [[Convict Creek Basin]], [[Mono County]], California. About 1,790 fingerlings...
+> -- *[[ConditionsOfExistencesGrowthAn_16809]]*
+
+### Mentioned In
+- [[ConditionsOfExistencesGrowthAn_16809]]
 
 ## John Allen
 <!-- fm: auto_enriched: true -->
@@ -1915,6 +2007,18 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 ### Mentioned In
 - [[PhysicalHabitatEvaluationOfSma_14995]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+
+## John O. Snyder
+
+### Summary
+John O. Snyder wrote a 1940 work on the trouts of California that the leaflet quotes at length. He described the trout complex as "a huge mosaic" of geographic races that resist logical treatment. He concluded that the steelhead is a sea-migrant form of whichever resident species inhabits the stream, and he used the name Salmo irideus for the coast rainbow.
+
+### Context
+> This Fish and Wildlife Service leaflet (reissued March 1955) by [[Samuel F. Hildebrand]], senior ichthyologist of the Service, reviews the classification of North American trouts. The author states that the group is exceptionally difficult to classify, that ichthyologists rarely agree on which...
+> -- *[[TheTroutsOfNorthAmericaGeneral_20390]]*
+
+### Mentioned In
+- [[TheTroutsOfNorthAmericaGeneral_20390]]
 
 ## John Otterbein Snyder
 <!-- fm: auto_enriched: true -->
@@ -2236,6 +2340,18 @@ A historical museum connected to the refuge area; the source says the historic S
 
 ### Mentioned In
 - [[DraftSanBernardinoNationalWild_11500]]
+
+## Johnson Pond
+
+### Summary
+Johnson Pond is a 10-acre great pond, the smallest of the seven great ponds in the Medomak drainage. The report lists it among the lakes in the drainage without describing its fish populations in detail.
+
+### Context
+> This 1956 report by [[Robert E Foye]], Regional Fishery Biologist with the [[Maine Department Of Inland Fisheries And Game]], condenses biological survey findings and management recommendations for the [[Medomak River]] drainage in coastal Maine. The river is a 36-mile tributary of the Atlantic...
+> -- *[[MedomakRiverDrainageFishManage_18810]]*
+
+### Mentioned In
+- [[MedomakRiverDrainageFishManage_18810]]
 
 ## Johnson-Taylor Suction Trap
 
@@ -2776,6 +2892,18 @@ Joseph F. Fitzpatrick Jr. is the person in whose honor the species was named. Ac
 ### Mentioned In
 - [[ClosureOfBogHoleToFishing_1992_05_05]]
 
+## Joseph P. Hubbard
+
+### Summary
+The author of a 1968 report on the biological resources of the Gila River in New Mexico. Zimmerman argues that this report barely addresses birds, which he considers the most important recreational part of the valley's fauna.
+
+### Context
+> This letter-report, written by [[Dale A. Zimmerman]] (Professor and Chairman, Department of Biological Sciences, Western New Mexico University), argues that the riparian valley of the [[Gila River]] in southwestern New Mexico is a critical wildlife reservoir. The author contends that agency studies...
+> -- *[[TheGilaRiverValleyInSouthweste_20942]]*
+
+### Mentioned In
+- [[TheGilaRiverValleyInSouthweste_20942]]
+
 ## Joseph Spring
 
 ### Summary
@@ -2955,6 +3083,18 @@ Jubilee Spring (Site #27) was a reintroduction site where the spring was modifie
 
 ### Mentioned In
 - [[ThePlanktonSamplerAnInstrument_1950]]
+
+## Judge William Dwyer
+
+### Summary
+Judge William Dwyer presided over lawsuits that, according to this source, have halted new logging in federally managed ancient forests since 1991. The note mentions him only in connection with this litigation over old growth forest management.
+
+### Context
+> This [[Southern Utah Wilderness Alliance]] (SUWA) newsletter, Vol. XI, No. 3 (Fall/Winter 1994), assesses the first [[Clinton Administration]] term's record on public lands and environmental policy. The authors, [[Cindy Shogan]] and [[Mike Matz]], conclude that the administration has been...
+> -- *[[TheClintonAdministrationDisapp_11801]]*
+
+### Mentioned In
+- [[TheClintonAdministrationDisapp_11801]]
 
 ## Judy Creek
 
@@ -3147,6 +3287,9 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 > This document presents a comprehensive checklist of fish species native to or introduced into Utah, based on the Jordan, Evermann and Clark check list, supplemented by collections and reliable reports. The inventory catalogs 58 species across 5 orders and 11 families, with introduced species...
 > -- *[[FishesNativeToOrIntroducedInPa_18945]]*
 
+> This manuscript, circulated with a 1987 cover letter from [[G. Gary Scoppettone]] of the [[U.S. Fish and Wildlife Service]] to [[James E. Deacon]], refines the age and growth of the endangered [[Cui-Ui]] (*Chasmistes cujus*), an endemic catostomid of [[Pyramid Lake]], Nevada. Using opercular bones...
+> -- *[[ManuscriptlongevityAndGrowthOf_11310]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
@@ -3159,6 +3302,7 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 - [[AbstractsFromTheDesertFishesCo_15019]]
 - [[OccurrencesOfTheLostRiverSucke_17577]]
 - [[FishesNativeToOrIntroducedInPa_18945]]
+- [[ManuscriptlongevityAndGrowthOf_11310]]
 
 ## June Sucker Recovery Implementation Program
 
@@ -3287,8 +3431,12 @@ The Juniper-Cross Mountain Project was one of several proposed water development
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This document is a compilation of 1989 materials from the [[Recovery Implementation Program]] for [[Colorado River Endangered Fishes]] in the Upper Colorado River Basin. It contains a cover letter, a draft proposal to evaluate [[Little Snake River]] water rights, a [[Section 7 Consultation]]...
+> -- *[[LetterToJohnHamillProposalForE_12209]]*
+
 ### Mentioned In
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[LetterToJohnHamillProposalForE_12209]]
 
 ## Juniperus
 
@@ -3355,6 +3503,30 @@ Justin W. Leonard was the author of this 1939 paper, affiliated with the Institu
 
 ### Mentioned In
 - [[CommentsOnTheAdequacyOfAccepte_20281]]
+
+## Justus F. Mueller
+
+### Summary
+Justus F. Mueller was a field naturalist who wrote this paper describing the urinary ciliate Trichodina renicola from chain pickerel in Oneida Lake, New York. He reassigned the organism from Cyclochaeta to Trichodina on the basis of its lack of cirri and documented its morphology, host specificity and pathology.
+
+### Context
+> This paper by [[Justus F. Mueller]], a field naturalist at the [[Roosevelt Wild Life Station]], formally describes a peritrichous ciliate that lives inside the urinary system of the [[Chain Pickerel]] (*Esox niger*) in [[Oneida Lake]], New York. The organism was first published as *Cyclochaeta...
+> -- *[[TrichodinaRenicolaMuellerACili_15477]]*
+
+### Mentioned In
+- [[TrichodinaRenicolaMuellerACili_15477]]
+
+## Juvenile Impingement
+
+### Summary
+Impingement is when fish are pinned against a screen by water flowing toward the diversion. The source says juvenile winter-run salmon were impinged when screen approach velocities were too high, a problem made worse when falling river levels reduced the effective screen area.
+
+### Context
+> This legal review, written by Gregory S. Weber (McGeorge School of Law), analyzes *United States v. Glenn-Colusa Irrigation District*, 788 F. Supp. 1126 (N.D. Cal., 10 March 1992). The court found that pumping by the [[Glenn-Colusa Irrigation District]] (GCID) "took" threatened [[Sacramento River...
+> -- *[[TheEndangeredSpeciesActNewWeap_19657]]*
+
+### Mentioned In
+- [[TheEndangeredSpeciesActNewWeap_19657]]
 
 ## Juvenile-Adult Telemetry
 <!-- fm: auto_enriched: true -->

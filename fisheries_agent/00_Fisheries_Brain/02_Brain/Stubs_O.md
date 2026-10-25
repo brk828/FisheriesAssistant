@@ -35,8 +35,12 @@ O'Donnell Canyon contains a large tank (50 m × 10 m) that was surveyed in Janua
 > This intra-office memo documents a survey of 15 [[Gila Topminnow]] (POOCOC - *Poeciliopsis occidentalis occidentalis*) and [[Desert Pupfish]] sites in Southwestern Arizona conducted 5-8 January 1991. The survey assessed current fish populations, evaluated potential reintroduction sites, and...
 > -- *[[IntraofficeMemoTopminnowpupfis_13822]]*
 
+> This 1996 draft technical report from the [[Arizona Game and Fish Department]] (AGFD) reviews the status of the [[Gila Chub]] (*Gila intermedia*), a small, deep-bodied minnow endemic to the Gila River basin of the Colorado River system. It was funded by the [[U.S. Fish and Wildlife Service]] to...
+> -- *[[StatusReviewOfGilaChubGilaInte_19667]]*
+
 ### Mentioned In
 - [[IntraofficeMemoTopminnowpupfis_13822]]
+- [[StatusReviewOfGilaChubGilaInte_19667]]
 
 ## O'Donnell Creek
 <!-- fm: auto_enriched: true -->
@@ -99,6 +103,18 @@ O. Eugene Maughan is listed under the Keywords chapter's Fish entry. The source 
 ### Mentioned In
 - [[WhereToFindWaterExpertiseAtSta_13522]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
+
+## O. R. Kingsbury
+
+### Summary
+O. R. Kingsbury is one of the two named authors of this 1932 New York Conservation Department bulletin on treating hatchery water supplies with chemicals. The source links him to the Cornell University Laboratory of Fish Culture, where the work was done.
+
+### Context
+> This 1932 New York State Conservation Department bulletin, by [[O. R. Kingsbury]] and [[G. C. Embody]] of the [[Cornell University]] Laboratory of Fish Culture, describes a device that treats hatchery fish diseases by adding a constant, metered flow of chemical reagent to the water supply of a...
+> -- *[[ThePreventionAndControlOfHatch_12545]]*
+
+### Mentioned In
+- [[ThePreventionAndControlOfHatch_12545]]
 
 ## O. virginianus
 
@@ -235,12 +251,16 @@ Oak Ridge is a location in Tennessee that houses the Oak Ridge National Laborato
 > This is the third supplement (February 1965) to a selected bibliography of terrestrial and freshwater radioecology, compiled by [[Alfred W. Klement Jr.]] and [[Vincent Schultz]] for the [[United States Atomic Energy Commission]] (AEC), Division of Biology and Medicine (report TID-3910, Suppl. 3)....
 > -- *[[TerrestrialAndFreshwaterRadioe_12564]]*
 
+> This report, part of the ORO-587 Ecological Survey of the Vertebrate Fauna of [[White Oak Lake]] and Environs, documents six semi-annual netting studies (August 1950 to April 1953) and a final [[Rotenone]] kill in April 1953. The study estimated fish numbers by species with mark-recapture methods,...
+> -- *[[AnEcologicalSurveyOfTheVertebr_12441]]*
+
 ### Mentioned In
 - [[AccumulationAndRetentionOfRadi_1957]]
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 - [[GrowthAndMovementOfSmallmouthB_17077]]
 - [[TerrestrialAndFreshwaterRadioe_12564]]
+- [[AnEcologicalSurveyOfTheVertebr_12441]]
 
 ## Oasis Valley
 
@@ -339,8 +359,13 @@ The Obed River is a Tennessee stream system where introgression between Redeye B
 ## Obey River
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1970 taxonomic paper by [[Horton H. Hobbs Jr.]] describes two new crayfish species of the genus [[Cambarus]] (Decapoda, Astacidae): [[Cambarus Bouchardi]] from Tennessee and [[Cambarus Cymatilis]] from Georgia. The author argues that [[Cambarus Bouchardi]] is a primitive species linking the...
+> -- *[[NewCrayfishesOfTheGenusCambaru_20415]]*
+
 ### Mentioned In
 - [[TheGrowthRatesOfSomeKentuckyFi_13369]]
+- [[NewCrayfishesOfTheGenusCambaru_20415]]
 
 ## Obion River
 <!-- fm: auto_enriched: true -->
@@ -485,8 +510,12 @@ The oceanic skipjack (Katsuwonus pelamis) is a pelagic tuna that lives far from 
 > This appendix by W. I. Follett reports the identified fish remains from [[LAn-229]], a [[Chumash]] archaeological site on the [[Century Ranch Sites]] in western Los Angeles County. The collection of 574 specimens, mostly vertebrae in fragmentary condition, yielded at least 19 species in 18 genera...
 > -- *[[FishRemainsFromCenturyRanchSit_18766]]*
 
+> This appendix, written by W. I. Follett for the 1962–1963 Annual Report of the [[Archaeological Survey]] (University of California, Los Angeles), identifies fish remains from the [[Century Ranch Site]] (LAn-227). The site lies in an inland valley of the [[Santa Monica Mountains]], about 64 miles by...
+> -- *[[FishRemainsFromTheCenturyRanch_18756]]*
+
 ### Mentioned In
 - [[FishRemainsFromCenturyRanchSit_18766]]
+- [[FishRemainsFromTheCenturyRanch_18756]]
 
 ## Ocelot
 <!-- fm: auto_enriched: true -->
@@ -2508,6 +2537,9 @@ The Oneida Fish Hatchery is a New York fish hatchery whose personnel collected s
 > This compiled journal issue contains three items. The first is only a literature-cited page from a [[Canvasback]] distribution and mortality study. The second is a full research paper by John L. Forney on the growth, movements, survival and exploitation of [[Smallmouth Bass]] in [[Oneida Lake]],...
 > -- *[[GrowthMovementsAndSurvivalOfSm_18781]]*
 
+> This paper by [[Justus F. Mueller]], a field naturalist at the [[Roosevelt Wild Life Station]], formally describes a peritrichous ciliate that lives inside the urinary system of the [[Chain Pickerel]] (*Esox niger*) in [[Oneida Lake]], New York. The organism was first published as *Cyclochaeta...
+> -- *[[TrichodinaRenicolaMuellerACili_15477]]*
+
 ### Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -2518,6 +2550,19 @@ The Oneida Fish Hatchery is a New York fish hatchery whose personnel collected s
 - [[TheAgeAndGrowthOfCentrarchidFi_13538]]
 - [[TheLampreyInNewYorkWaters_19217]]
 - [[GrowthMovementsAndSurvivalOfSm_18781]]
+- [[TrichodinaRenicolaMuellerACili_15477]]
+
+## Oneida Tennessee
+
+### Summary
+A town in Scott County, Tennessee, used in the source as the reference point for the type locality of Cambarus bouchardi, about 6.9 miles north along U.S. Highway 27 at Perkins Creek.
+
+### Context
+> This 1970 taxonomic paper by [[Horton H. Hobbs Jr.]] describes two new crayfish species of the genus [[Cambarus]] (Decapoda, Astacidae): [[Cambarus Bouchardi]] from Tennessee and [[Cambarus Cymatilis]] from Georgia. The author argues that [[Cambarus Bouchardi]] is a primitive species linking the...
+> -- *[[NewCrayfishesOfTheGenusCambaru_20415]]*
+
+### Mentioned In
+- [[NewCrayfishesOfTheGenusCambaru_20415]]
 
 ## Oniscidae
 
@@ -3482,11 +3527,15 @@ Orchonectes is a genus of exotic crayfish that has been introduced to Valle de C
 > This taxonomic description presents *[[Fallicambarus hortoni]]*, a new species of burrowing crayfish discovered in [[McNairy County]], [[Tennessee]]. The species was collected from shallow burrows in sandy soil near a tributary of [[Cypress Creek]] in the [[Hatchie River]] drainage system. Based on...
 > -- *[[ANewCrayfishOfTheGenusFallicam_20420]]*
 
+> This 1970 taxonomic paper by [[Horton H. Hobbs Jr.]] describes two new crayfish species of the genus [[Cambarus]] (Decapoda, Astacidae): [[Cambarus Bouchardi]] from Tennessee and [[Cambarus Cymatilis]] from Georgia. The author argues that [[Cambarus Bouchardi]] is a primitive species linking the...
+> -- *[[NewCrayfishesOfTheGenusCambaru_20415]]*
+
 ### Mentioned In
 - [[ANewFaxonellaFromNortheastLoui_1968_12_30]]
 - [[ZurTagesperiodikVonNiphargusAq_15503]]
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
 - [[ANewCrayfishOfTheGenusFallicam_20420]]
+- [[NewCrayfishesOfTheGenusCambaru_20415]]
 
 ## Orconectes Australis
 <!-- fm: auto_enriched: true -->
@@ -4112,6 +4161,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > This is a written comment letter, dated July 10, 1995, from [[Defenders of Wildlife]] (represented by Wildlife Counsel Gregory J. Sater) to the Superintendent of [[Organ Pipe Cactus National Monument]]. It responds to the Draft General Management Plan, Development Concept Plan, and Environmental...
 > -- *[[WrittenCommentsOnDraftGeneralM_20520]]*
 
+> The U.S. Fish and Wildlife Service's 1993 recovery plan for the [[Desert Pupfish]] (*Cyprinodon macularius*) sets out the actions needed to downlist the Colorado River form of this endangered fish, and to protect its two other forms. The plan was prepared by Paul C. Marsh (Arizona State University)...
+> -- *[[DesertPupfishCyprinodonMacular_17053]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -4136,6 +4188,7 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
 - [[AnnualSummaryOfActivitiesQuito_19496]]
 - [[WrittenCommentsOnDraftGeneralM_20520]]
+- [[DesertPupfishCyprinodonMacular_17053]]
 
 ## Organ Pipe National Monument
 
@@ -4155,11 +4208,15 @@ Organ Pipe National Monument in Pima County, Arizona, contains Quitobaquito Spri
 > This 1970 annotated checklist by [[W. L. Minckley]] of Arizona State University, Tempe, summarizes the current status of the native fishes of [[Arizona]]. Roughly 35 native kinds, including subspecies and suspected distinctive forms, are recognized. Although Arizona is largely desert, its aquatic...
 > -- *[[StatusOfTheNativeArizonaIchthy_18579]]*
 
+> This document is a December 1990 U.S. Fish and Wildlife Service (FWS) memorandum and the draft minutes of the November 1990 [[Desert Fishes Recovery Team]] meeting in Phoenix, Arizona. It covers three linked issues: public comment on draft recovery plans for [[Spikedace]] and [[Loach Minnow]]; the...
+> -- *[[DraftMinutesOfTheNovemberTeamM_14785]]*
+
 ### Mentioned In
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
 - [[FinalProgressReport_18563]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
+- [[DraftMinutesOfTheNovemberTeamM_14785]]
 
 ## Organic Act
 
@@ -4327,8 +4384,12 @@ The Orinoco is a major South American river basin to which the Rio Meta system b
 > This Indiana University Studies publication (Study No. 44, Contribution No. 170 from the Zoological Laboratory of Indiana University) by [[Carl H. Eigenmann]] reports a freshwater fish collection from [[Lake Valencia]], the [[Maracay]] area, [[El Concejo]] on the [[Rio Tuy]], and near [[Caracas]],...
 > -- *[[TheFishesOfLakeValenciaCaracas_15801]]*
 
+> This classic zoogeographic study, a contribution from the Zoological Laboratory of Indiana University (No. 177) by Carl H. Eigenmann, analyses the origin, composition and distribution of the fishes of the [[Magdalena Basin]] in western Colombia. The author reports roughly 150 species in about 70...
+> -- *[[TheMagdalenaBasinAndTheHorizon_15804]]*
+
 ### Mentioned In
 - [[TheFishesOfLakeValenciaCaracas_15801]]
+- [[TheMagdalenaBasinAndTheHorizon_15804]]
 
 ## Orinoco River
 <!-- fm: auto_enriched: true -->
@@ -5400,8 +5461,12 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 > This document is a set of correspondence and tabulated data from an [[Otolith Ageing]] project on large-bodied fishes of the Colorado River basin. It contains three letters and a series of age-reading tables. The work was carried out under contract between [[Arizona State University]] (Dr. [[W. L....
 > -- *[[ReInformationYouRequestedForFi_13065]]*
 
+> This document is a cover letter from the [[Arizona Game and Fish Department]] (AGFD) Research Branch to Dave Wegner of [[Glen Canyon Environmental Studies]], enclosing a program description and a November 4, 1991 progress report on the Native Fishes Studies of the [[Little Colorado River]] (LCR)....
+> -- *[[SynopsisOfTheDepartmentsResear_15924]]*
+
 ### Mentioned In
 - [[ReInformationYouRequestedForFi_13065]]
+- [[SynopsisOfTheDepartmentsResear_15924]]
 
 ## Otolith Aging
 <!-- fm: auto_enriched: true -->
@@ -5458,6 +5523,18 @@ Otolith analysis is a method that reads growth rings in the ear stones of fish t
 
 ### Mentioned In
 - [[FishSamplingAtAsuResearchParkA_19405]]
+
+## Otolith Daily Growth Rings
+
+### Summary
+Otolith daily growth rings are microstructure increments in the ear bones that can be counted to estimate fish age. The source says they can be validated with chemical marking, though processing is tedious, and it recommends them as one option for validating ages in suspected long-lived species.
+
+### Context
+> This manuscript, circulated with a 1987 cover letter from [[G. Gary Scoppettone]] of the [[U.S. Fish and Wildlife Service]] to [[James E. Deacon]], refines the age and growth of the endangered [[Cui-Ui]] (*Chasmistes cujus*), an endemic catostomid of [[Pyramid Lake]], Nevada. Using opercular bones...
+> -- *[[ManuscriptlongevityAndGrowthOf_11310]]*
+
+### Mentioned In
+- [[ManuscriptlongevityAndGrowthOf_11310]]
 
 ## Otolithes
 
@@ -5915,17 +5992,33 @@ Outbreeding depression in fish science refers to the reduction in fitness and su
 > This 1992 American Fisheries Society (AFS) Position Statement addresses the genetic risks posed by **stock transfers** — the movement of individuals from one genetically distinct stock into waters inhabited by another stock of the same species. Unlike non-native species introductions (already add...
 > -- *[[AmericanFisheriesSocietyPositi_11162]]*
 
+> This study tests whether genetic diversity affects fitness in [[Poeciliopsis Occidentalis]], an endangered viviparous fish of the Gila River drainage and adjacent Sonora, Mexico. Three wild-derived laboratory stocks, differing in mean heterozygosity, were compared for survival, growth, fecundity,...
+> -- *[[HeterozygosityAndFitnessDiffer_18732]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[ConservingFishGenomesPhilosoph_1988_08_02]]
 - [[GuidelinesForIntroductionsOfTh_12022]]
 - [[LetterRegardingGilaTopminnowRe_1992_12_08]]
+- [[HeterozygosityAndFitnessDiffer_18732]]
 
 ## Outreach
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[FisheriesNews_1993_12_21]]
+
+## Outstanding Graduate Teaching Award
+
+### Summary
+The Outstanding Graduate Teaching Award is an annual Arizona State University honor for graduate mentoring and teaching excellence, co-sponsored by the ASU Foundation. In this 1990 booklet it recognizes Peter Buseck and W. L. Minckley. The source frames the award as recognition of graduate teaching quality rather than of research output alone.
+
+### Context
+> This Arizona State University booklet honors two scientists, [[Peter Buseck]] (Regents' Professor of Geology and Chemistry) and [[W. L. Minckley]] (Professor of Zoology), as recipients of the annual [[Outstanding Graduate Teaching Award]]. It contains a Dean's statement, a sponsor message from the...
+> -- *[[OutstandingGraduateMentorsGrad_21259]]*
+
+### Mentioned In
+- [[OutstandingGraduateMentorsGrad_21259]]
 
 ## Over-Summering Refuges
 
@@ -6594,8 +6687,13 @@ Oxnard, California was the site of the Daryl Arnold Ranch where in 1953, five th
 ## Oxygen Isotope Paleothermometry
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This informal talk by [[Carl L. Hubbs]] of the [[Scripps Institution of Oceanography]], given at the 1957 Conference on Recent Research in Climatology (La Jolla, March 25-26, 1957), presents fourteen working hypotheses on climatic change in California, Baja California and the arid Southwest from...
+> -- *[[RecentClimacticHistoryInCalifo_17984]]*
+
 ### Mentioned In
 - [[UpsetForMilankovitchTheory_1992_10_29]]
+- [[RecentClimacticHistoryInCalifo_17984]]
 
 ## Oxygen Isotope Ratio
 <!-- fm: auto_enriched: true -->

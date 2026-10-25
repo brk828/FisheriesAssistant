@@ -178,6 +178,54 @@ Valdez, Holden and Hardy, of BIO/WEST, Inc., are the authors of this 1990 paper 
 ### Mentioned In
 - [[VariousProposalsForStudiesOfEn_1993_12_17]]
 
+## Valdivia devillei
+
+### Summary
+A trichodactylid crab name that Schmitt treats as questionable. A lone large female he identifies as T. (V.) peruvianus carries a devillei label added by Pretzmann, and its final identity is left unresolved.
+
+### Context
+> This 1969 paper by [[Waldo L. Schmitt]] of the [[Smithsonian Institution]] reviews a collection of freshwater crabs from Colombia. The material was sent to the [[United States National Museum]] in 1940–41 by [[Brother Niceforo Maria]], director of the museum of the Instituto de La Salle in Bogotá....
+> -- *[[ColombianFreshwaterCrabNotes_20568]]*
+
+### Mentioned In
+- [[ColombianFreshwaterCrabNotes_20568]]
+
+## Valdivia niceforoi
+
+### Summary
+A trichodactylid crab named by Pretzmann as Trichodactylus (Valdivia) niceforei and corrected by Schmitt to niceforoi. Schmitt's description is based on a 34 mm specimen from Cúcuta, with markedly unequal chelae and unusual anterior gonopods whose distal two-thirds form a hollow sheath.
+
+### Context
+> This 1969 paper by [[Waldo L. Schmitt]] of the [[Smithsonian Institution]] reviews a collection of freshwater crabs from Colombia. The material was sent to the [[United States National Museum]] in 1940–41 by [[Brother Niceforo Maria]], director of the museum of the Instituto de La Salle in Bogotá....
+> -- *[[ColombianFreshwaterCrabNotes_20568]]*
+
+### Mentioned In
+- [[ColombianFreshwaterCrabNotes_20568]]
+
+## Valdivia piriformis
+
+### Summary
+A trichodactylid crab whose males show progressive reduction of lateral carapace spines with increasing size, while females keep sharp spines. Schmitt examines Pretzmann's 48 mm male holotype from Cúcuta and several Niceforo specimens from Cúcuta, Sardinata and Puerto Salgar.
+
+### Context
+> This 1969 paper by [[Waldo L. Schmitt]] of the [[Smithsonian Institution]] reviews a collection of freshwater crabs from Colombia. The material was sent to the [[United States National Museum]] in 1940–41 by [[Brother Niceforo Maria]], director of the museum of the Instituto de La Salle in Bogotá....
+> -- *[[ColombianFreshwaterCrabNotes_20568]]*
+
+### Mentioned In
+- [[ColombianFreshwaterCrabNotes_20568]]
+
+## Valdivia serrata
+
+### Summary
+A trichodactylid crab identified in this paper from three specimens collected at Puerto Asís, Putumayo, including one male and two females. The source gives measurements for these specimens but no further ecological detail.
+
+### Context
+> This 1969 paper by [[Waldo L. Schmitt]] of the [[Smithsonian Institution]] reviews a collection of freshwater crabs from Colombia. The material was sent to the [[United States National Museum]] in 1940–41 by [[Brother Niceforo Maria]], director of the museum of the Instituto de La Salle in Bogotá....
+> -- *[[ColombianFreshwaterCrabNotes_20568]]*
+
+### Mentioned In
+- [[ColombianFreshwaterCrabNotes_20568]]
+
 ## Valeira Reservoir
 <!-- fm: auto_enriched: true -->
 
@@ -335,6 +383,18 @@ The Valley of the Ajo is a location within Organ Pipe Cactus National Monument. 
 
 ### Mentioned In
 - [[BetweenTheDesertAndTheSeaArche_13223]]
+
+## Valley Perch
+
+### Summary
+A lowland Central Valley fish that the source lists among species considered unable to reach the park by natural dispersal, and therefore excluded from the native park fauna.
+
+### Context
+> This Yosemite Nature Notes article by [[Carl L. Hubbs]] and Orthello L. Wallis (1948) revises the known native fish fauna of [[Yosemite National Park]]. It reports that the park's recognized native fishes double from three species to six, through the addition of the [[Sacramento Squawfish]], the...
+> -- *[[TheNativeFishFaunaOfYosemiteNa_14482]]*
+
+### Mentioned In
+- [[TheNativeFishFaunaOfYosemiteNa_14482]]
 
 ## Valley-Floor Trough
 <!-- fm: auto_enriched: true -->
@@ -623,8 +683,12 @@ Vanicek (1967) is a survey cited in the source that found Gila cypha very rare b
 > This paper by [[Robert Rush Miller]] and [[W. Daniel Sable]] examines the taxonomy of the chubs of the [[Gila Robusta Complex]] (family Cyprinidae) inhabiting the [[Colorado River]] basin and certain rivers in northwestern Mexico. The authors argue that the group has been confused by subjective,...
 > -- *[[SpeciesRelationshipsAmongFishe_21162]]*
 
+> This study, by Paul B. Holden of [[BIO/WEST, Inc.]] (Logan, Utah), examined habitat use and movement of four rare large-river fishes in the Green River of Utah: the endangered [[Colorado Squawfish]] and [[Humpback Chub]], and the rare [[Bonytail Chub]] and [[Razorback Sucker]]. Young fish of these...
+> -- *[[AStudyOfTheHabitatUseAndMoveme_20461]]*
+
 ### Mentioned In
 - [[SpeciesRelationshipsAmongFishe_21162]]
+- [[AStudyOfTheHabitatUseAndMoveme_20461]]
 
 ## Vanicek 1967
 <!-- fm: auto_enriched: true -->
@@ -1168,8 +1232,12 @@ Veracruz is a Mexican state included in the geographic extent of this climatolog
 > This document describes a comprehensive climatological database for Mexico developed by Dr. Arthur Douglas (Creighton University). The dataset comprises monthly temperature and precipitation records from 280 precipitation stations and 92 temperature stations across 18 climatological divisions in...
 > -- *[[DouglasMexicanTemperaturePreci_12378]]*
 
+> This 1969 taxonomic paper by C. E. Dawson of the [[Gulf Coast Research Laboratory]] (Ocean Springs, Mississippi), published in the *Proceedings of the Biological Society of Washington* (vol. 82, pp. 355-372), describes [[Citharichthys Abbotti]] as a new species of [[Bothidae|bothid flatfish]] from...
+> -- *[[CitharichthysAbbottiANewFlatfi_13988]]*
+
 ### Mentioned In
 - [[DouglasMexicanTemperaturePreci_12378]]
+- [[CitharichthysAbbottiANewFlatfi_13988]]
 
 ## Verde
 
@@ -1523,6 +1591,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This first annual report (1987–88) from the [[Arizona State University]] Department of Zoology, prepared for the [[Arizona Game and Fish Department]], evaluates how the introduced [[Red Shiner]] interacts with two threatened native minnows of the [[Gila River Basin]]: the [[Spikedace]] and the...
 > -- *[[AnalysisOfHabitatInterrelation_19085]]*
 
+> These minutes record the November 7-8, 1990 meeting of the [[Desert Fishes Recovery Team]] in Phoenix, Arizona, transmitted by Team Coordinator Sally Stefferud on March 15, 1991. The meeting centered on two issues. The first was whether [[Red Shiner]] posed a threat to native fishes in [[Aravaipa...
+> -- *[[MinutesOfTheNovemberRecoveryTe_14788]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1682,6 +1753,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[DraftFishAndWildlifeCoordinati_11625]]
 - [[CentralArizonaProjectWaterAssi_13197]]
 - [[AnalysisOfHabitatInterrelation_19085]]
+- [[MinutesOfTheNovemberRecoveryTe_14788]]
 
 ## Verde River Aquatic Ecology
 
@@ -2197,8 +2269,12 @@ Victor Chemical Company was the party in a July 20, 1963 Tennessee fish kill aff
 > This 1963 communication to the *Bulletin of Zoological Nomenclature* is a formal rebuttal to a proposal (Z.N.(S.) 1279, raised by Dr. China) seeking a ruling that [[Jordan And Evermann]] did **not** validly designate type-species for fish genera in their works of 1896 and 1896–1900 (*Bull. U.S. N...
 > -- *[[CommentsOnTheProposedRejection_14473]]*
 
+> This 1960 Florida State Board of Conservation Marine Laboratory report (Professional Papers Series No. 1, by [[Victor G. Springer]] and [[Kenneth D. Woodburn]]) documents the fish fauna of the Tampa Bay area from roughly October 1957 to mid-1959. Monthly collections were made at shore and trawl...
+> -- *[[AnEcologicalStudyOfTheFishesOf_11938]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
+- [[AnEcologicalStudyOfTheFishesOf_11938]]
 
 ## Victoria Falls
 
@@ -2223,6 +2299,18 @@ Victory Lake was a 26-acre lake at Fort Benning, Georgia where antimycin A was u
 
 ### Mentioned In
 - [[AResumeOnFieldApplicationsOfAn_11531]]
+
+## Video Image Analysis
+
+### Summary
+A morphological method in which fish, live or preserved, are filmed and measured from images rather than by handling or lethal sampling. In this source it is the basis for the proposed non-lethal morphological measurements of Gila cypha, and the PIs are checking whether video-based data can be combined with caliper-based data.
+
+### Context
+> This document is a correspondence item, not a research report. It is the principal investigators' (PIs') formal response to technical reviews of a proposal for a [[Gila Taxonomy Project]] submitted in response to a [[Request For Proposals]] (RFP). The project covers three schedules: morphological...
+> -- *[[GilaTaxonomyresponseToTechnica_19111]]*
+
+### Mentioned In
+- [[GilaTaxonomyresponseToTechnica_19111]]
 
 ## Videoscan Morphology
 <!-- fm: auto_enriched: true -->
@@ -2437,6 +2525,18 @@ The Vir Reservoir is an impoundment on the Svratka River that demonstrated signi
 ### Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
 
+## Viral Hemorrhagic Septicemia
+
+### Summary
+Viral hemorrhagic septicemia is an acute viral disease of fish. The paper notes that erratic swimming, exophthalmia, dropsy, and hemorrhage also occur in this disease, so those signs alone do not distinguish it from CCVD.
+
+### Context
+> This 1970 Technical Paper from the [[Bureau of Sport Fisheries and Wildlife]] reports the first demonstrated viral disease of [[Channel Catfish]] (*Ictalurus punctatus*). Field and laboratory work by Fijan, Wellborn, and Naftel of [[Auburn University]] linked a new virus, the [[Channel Catfish...
+> -- *[[AnAcuteViralDiseaseOfChannelCa_16376]]*
+
+### Mentioned In
+- [[AnAcuteViralDiseaseOfChannelCa_16376]]
+
 ## Virden Valley
 
 ### Summary
@@ -2509,6 +2609,9 @@ The Virgin Chub is an endemic fish species found exclusively in the Virgin River
 > - **Recruitment Failure Hypothesis (Razorback Sucker)**: Long-term biannual monitoring (since ~1985) in Lake Mohave has detected **no apparent recruitment** to the adult population. Combined with an aging adult cohort nearing maximum longevity (40–50 yrs), the population is projected to **decline...
 > -- *[[DocumentsRelatingToSubpermitRe_13803]]*
 
+> This document is the program and abstract booklet for the 5th Annual Meeting of the [[Society For Conservation Biology]], held 18-23 June 1991 at the University of Wisconsin-Madison. It schedules sessions, social events, logistics and roughly 186 numbered abstracts. Most abstracts cover terrestrial...
+> -- *[[ThAnnualMeetingOfTheSocietyFor_13524]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
@@ -2518,6 +2621,19 @@ The Virgin Chub is an endemic fish species found exclusively in the Virgin River
 - [[FinalMinutesOfTheFebruaryMeeti_1993_07_20]]
 - [[LetterOnInadvisabilityOfStocki_1990_05_08]]
 - [[PermitReportAndEndangeredSpeci_1993_11_28]]
+- [[ThAnnualMeetingOfTheSocietyFor_13524]]
+
+## Virgin Falls
+
+### Summary
+A set of 20-foot plunge pools on Gap Creek that lie within the viable trout reaches and act as one of two geologic barriers. The source reports the population was stable despite these pools.
+
+### Context
+> This Region VI fisheries inventory, conducted on August 25, 1987, assessed the extent and viability of a [[Gila Trout]] (*Salmo gilae*) population in [[Gap Creek]], Yavapai County, Arizona. The survey was funded under [[Federal Aid Project F7R-30]] and carried out by [[Jim Warnecke]] and colleagues...
+> -- *[[FisheriesInventoryOfGapCreekYa_14884]]*
+
+### Mentioned In
+- [[FisheriesInventoryOfGapCreekYa_14884]]
 
 ## Virgin Fishes Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -4218,6 +4334,18 @@ VR2 receivers are acoustic telemetry listening stations deployed in an array of 
 
 ### Mentioned In
 - [[LetterRegardingGilaTopminnowRe_1992_12_08]]
+
+## Vrijenhoek et al.
+
+### Summary
+An earlier study that the authors build on. It found that most Arizona topminnow populations carry less genetic variation than Sonoran ones, and it recommended substituting Sharp Spring stock for the Monkey Spring hatchery stock, a recommendation the U.S. Fish and Wildlife Service cautiously adopted.
+
+### Context
+> This study tests whether genetic diversity affects fitness in [[Poeciliopsis Occidentalis]], an endangered viviparous fish of the Gila River drainage and adjacent Sonora, Mexico. Three wild-derived laboratory stocks, differing in mean heterozygosity, were compared for survival, growth, fecundity,...
+> -- *[[HeterozygosityAndFitnessDiffer_18732]]*
+
+### Mentioned In
+- [[HeterozygosityAndFitnessDiffer_18732]]
 
 ## Vrijenhoek Et Al. 1985
 <!-- fm: auto_enriched: true -->

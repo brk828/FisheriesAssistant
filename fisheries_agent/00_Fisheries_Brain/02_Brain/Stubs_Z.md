@@ -545,11 +545,15 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 > This inter-office memo from the [[Arizona Game and Fish Department]] (dated 10 April 1991) reports a reconnaissance of the upper [[Deadman Creek]] drainage, focusing on the [[South Fork Deadman Creek]], in the [[Mazatal Wilderness]]. The survey aimed to verify reports of an unidentified trout in...
 > -- *[[DeadmanCreekSurveyApril_20350]]*
 
+> This letter-report, written by [[Dale A. Zimmerman]] (Professor and Chairman, Department of Biological Sciences, Western New Mexico University), argues that the riparian valley of the [[Gila River]] in southwestern New Mexico is a critical wildlife reservoir. The author contends that agency studies...
+> -- *[[TheGilaRiverValleyInSouthweste_20942]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[ChangesInRiparianVegetationAnd_14524]]
 - [[ResourceReportOnAravaipaCanyon_11458]]
 - [[DeadmanCreekSurveyApril_20350]]
+- [[TheGilaRiverValleyInSouthweste_20942]]
 
 ## Zonitoides Arboreus
 <!-- fm: auto_enriched: true -->
@@ -739,6 +743,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This Master of Science thesis in fishery biology, written by [[Steven Alan Lewis]] at the [[University of Arizona]], examines how [[Mechanical Evaporation Barriers]] affect [[Fish Growth]] and overall [[Pond Productivity]]. Four experiments were run: a spring [[Trout]] experiment, a summer...
 > -- *[[SomeEffectsOfMechanicalEvapora_20305]]*
 
+> This 1969 Master of Science thesis by Eric P. Bergersen, submitted to the [[University of Arizona]] in fishery biology, investigates why [[Parker Canyon Lake]] has low fish production. Between September 1967 and September 1968, the author compared forage-supporting factors across Parker Canyon,...
+> -- *[[SomeFactorsAffectingFishForage_18194]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -759,6 +766,7 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[CentrarchidFeedingInteractions_18244]]
 - [[BluewaterLakeRehabilitation_14527]]
 - [[SomeEffectsOfMechanicalEvapora_20305]]
+- [[SomeFactorsAffectingFishForage_18194]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->

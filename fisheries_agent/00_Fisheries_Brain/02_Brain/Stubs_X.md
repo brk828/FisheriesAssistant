@@ -162,6 +162,18 @@ Xenotoca is a goodeid genus for which pregnant females have been examined for ov
 ### Mentioned In
 - [[ProposalForSupportOfResearchOn_15568]]
 
+## Xerces Society
+
+### Summary
+The Xerces Society is an organisation devoted to invertebrate conservation. In this source its sessions ran in parallel with those of the Society for Conservation Biology, and each society held its own business meeting on Friday afternoon.
+
+### Context
+> This document is the program and abstract booklet for the 5th Annual Meeting of the [[Society For Conservation Biology]], held 18-23 June 1991 at the University of Wisconsin-Madison. It schedules sessions, social events, logistics and roughly 186 numbered abstracts. Most abstracts cover terrestrial...
+> -- *[[ThAnnualMeetingOfTheSocietyFor_13524]]*
+
+### Mentioned In
+- [[ThAnnualMeetingOfTheSocietyFor_13524]]
+
 ## Xererpes
 <!-- fm: auto_enriched: true -->
 
@@ -457,6 +469,18 @@ Xyrauchen is a genus of suckers in the family Catostomidae, most notably represe
 - [[NotesOnACollectionOfFishesObta_1889]]
 - [[ObservationsOnTheDistributionO_1961]]
 - [[ReRazorbackSuckerFossilFromCal_1997_05_23]]
+
+## Xyrauchen cypha
+
+### Summary
+A large sucker (Catostomidae) of the Colorado Basin. In this survey the authors examined eight specimens, found it abundant at Yuma and downstream to Horseshoe Bend, and judged Xyrauchen uncompahgre likely conspecific with it.
+
+### Context
+> This note summarises a 1890 field survey and taxonomic report by [[Charles Henry Gilbert]] and [[Norman Bishop Scofield]]. The expedition, made by the senior author and A. B. Alexander of the [[U.S. Fish Commission]] during the late April and early May 1890 detached from the [[Albatross...
+> -- *[[NotesOnACollectionOfFishesFrom_16994]]*
+
+### Mentioned In
+- [[NotesOnACollectionOfFishesFrom_16994]]
 
 ## Xyrauchen Cypho
 <!-- fm: auto_enriched: true -->
