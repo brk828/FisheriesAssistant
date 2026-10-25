@@ -647,6 +647,18 @@ James E. Johnson of the U.S. Fish and Wildlife Service is the author of this 199
 - [[ManagementConcernsForEndangere_19782]]
 - [[AReviewOfSelectedEndangeredFis_19784]]
 
+## James E Platz
+
+### Summary
+James E. Platz is the author of this 1984 status report, prepared for the U.S. Fish and Wildlife Service Office of Endangered Species. He examined museum specimens, ran multivariate analyses, and surveyed sites in 1983 and 1984. He concluded that Rana onca is a valid species and is most likely extinct.
+
+### Context
+> This 1984 status report, prepared by [[James E Platz]] for the [[U S Fish and Wildlife Service]] Office of Endangered Species, evaluates the taxonomic standing and current survival of the [[Utah Frog]] ([[Rana Onca]]), a leopard frog known from a narrow desert corridor in southwestern Utah and...
+> -- *[[StatusReportForRanaOncaCope_18613]]*
+
+### Mentioned In
+- [[StatusReportForRanaOncaCope_18613]]
+
 ## James E. Deacon
 <!-- fm: auto_enriched: true -->
 
@@ -869,6 +881,18 @@ James W. Ziglar was the Assistant Secretary of the Interior who announced the ap
 
 ### Mentioned In
 - [[GrazingIsTheMajorCauseOfForest_1995_05_09]]
+
+## Jamestown Falls
+
+### Summary
+A natural waterfall and rapids on the Raquette River that, with Carry Falls, formed a barrier to upstream fish movement before impoundment. The Jamestown stillwater section above the rapids retained rooted aquatic vegetation after the reservoir was filled, since it experienced less water-level fluctuation than the main body.
+
+### Context
+> This report, by District Fisheries Manager Donald G. Pasko of the [[New York State Conservation Department]], compares the fish resource and angling of a 9-mile section of the [[Raquette River]] in St. Lawrence County before and after impoundment by the [[Carry Falls Reservoir]]. Surveys were run...
+> -- *[[CarryFallsReservoirInvestigati_18446]]*
+
+### Mentioned In
+- [[CarryFallsReservoirInvestigati_18446]]
 
 ## Jamie L. Whitten
 <!-- fm: auto_enriched: true -->
@@ -2286,6 +2310,18 @@ John Otterbein Snyder was a prominent ichthyologist and fisheries scientist who 
 - [[TheFishesOfMohaveRiverCaliforn_21253]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
 
+## John P Wise
+
+### Summary
+John P. Wise was a fishery research biologist and the author of this 1958 review, issued by the Bureau of Commercial Fisheries as Special Scientific Report–Fisheries No. 245. The review collates scattered studies on how Atlantic cod life stages relate to hydrographic conditions, and Wise presents it as a starting point for experiments rather than a complete account.
+
+### Context
+> This literature review, issued by the [[Bureau Of Commercial Fisheries]] as Special Scientific Report–Fisheries No. 245 (May 1958, Washington, D.C.), by fishery research biologist [[John P Wise]], collates scattered studies on how [[Atlantic Cod]] ([[Gadus Morhua]]) life stages relate to...
+> -- *[[CodAndHydrographyaReview_20791]]*
+
+### Mentioned In
+- [[CodAndHydrographyaReview_20791]]
+
 ## John R. Calaprice
 
 ### Summary
@@ -2562,10 +2598,14 @@ Johnson Creek is not mentioned in this source.
 > This annual progress report documents chinook salmon spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1, 1966 to September 30, 1966 (reported in 1967-1968). The survey recorded 7,546 chinook salmon redds across the drainage, representing a 4.6% increase from...
 > -- *[[SalmonSpawningGroundSurveysSal_17594]]*
 
+> This California Department of Fish and Game special publication (Inland Fisheries Endangered Species Program, Special Publication 80-6, November 1980, by Terry J. Mills) reviews the status of the [[Modoc Sucker]], a small catostomid endemic to northeastern California. The species was listed as rare...
+> -- *[[LifeHistoryStatusAndManagement_18492]]*
+
 ### Mentioned In
 - [[DistributionBiologyAndConserva_2002]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
+- [[LifeHistoryStatusAndManagement_18492]]
 
 ## Johnson Diversion
 <!-- fm: auto_enriched: true -->

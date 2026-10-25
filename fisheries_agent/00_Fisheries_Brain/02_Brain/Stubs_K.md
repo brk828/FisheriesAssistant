@@ -4,6 +4,18 @@ letter: K
 ---
 # Concept Stubs: K
 
+## K. E. F. Watt
+
+### Summary
+K. E. F. Watt was an ecologist whose work on ecosystem dynamics Miller cites in support of the argument that biological diversity promotes ecosystem stability, efficient use of solar energy, and resilience against environmental stress.
+
+### Context
+> This is an essay by [[Robert Rush Miller]] on the conservation of rare and endangered fishes, with emphasis on freshwater species of the American Southwest. Miller argues that fishes have received far less conservation attention than birds and mammals, that habitat alteration caused by human...
+> -- *[[RareAndEndangeredFish_15354]]*
+
+### Mentioned In
+- [[RareAndEndangeredFish_15354]]
+
 ## K. Hoffmann
 <!-- fm: auto_enriched: true -->
 
@@ -206,11 +218,19 @@ A peninsula in the Russian Far East that lies within the North Pacific range of 
 > Albert S. Hazzard of the [[Institute for Fisheries Research]], [[Michigan Department of Conservation]], argues in this 1948 article (reprinted from *Michigan Conservation*, based on a paper given to the [[Izaak Walton League of America]]) that stocking and habitat improvement are both valid...
 > -- *[[StockingVsEnvironmentalImprove_20743]]*
 
+> This document is a 1958 revision of the official check list of California's freshwater and anadromous fishes, prepared by Leo Shapovalov, William A. Dill, and Almo J. Cordone of the [[California Department Of Fish And Game]] Inland Fisheries Branch. It replaces the 1950 edition because nine years...
+> -- *[[ARevisedCheckListOfTheFreshwat_11401]]*
+
+> This 1968 report by [[Almo J. Cordone]] and [[Ted C. Frantz]] evaluates experimental trout stocking in [[Lake Tahoe]] from 1960 to 1963, run as part of the cooperative California-Nevada Lake Tahoe Fisheries Study. The stated goal was to improve fishing, especially for shore and pier anglers in...
+> -- *[[AnEvaluationOfTroutPlantingInL_17592]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[TwoNewBloodFlukeParasitesOfTro_14426]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[StockingVsEnvironmentalImprove_20743]]
+- [[ARevisedCheckListOfTheFreshwat_11401]]
+- [[AnEvaluationOfTroutPlantingInL_17592]]
 
 ## Kamloops Trout
 <!-- fm: auto_enriched: true -->
@@ -403,6 +423,18 @@ The Kanawha River is a major drainage system in the Ohio River watershed of West
 - [[YoungFishDistributionInBackwat_1989]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
 
+## Kandler and Pirwitz
+
+### Summary
+A 1957 method cited for estimating egg numbers volumetrically. The authors used it to count eggs from the ovaries of five mature female razorback suckers when assessing fecundity.
+
+### Context
+> This 1975 final report to the U.S. Fish and Wildlife Service, prepared by [[Eric S. Gustafson]] and [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], Arizona State University, covers the first-year task of a planned five-year life history study of the [[Razorback...
+> -- *[[EarlyDevelopmentAdultSexualDim_17842]]*
+
+### Mentioned In
+- [[EarlyDevelopmentAdultSexualDim_17842]]
+
 ## Kane Creek
 
 ### Summary
@@ -575,8 +607,12 @@ Kansas State Teachers College at Pittsburg was an educational institution that s
 > This report documents fisheries management activities in reclaimed coal strip-pit lakes across southeastern Kansas (Crawford, Cherokee, and Linn Counties) from approximately 1951 through spring 1956. The [[Kansas Forestry Fish and Game Commission]] conducted reconditioning and restocking programs...
 > -- *[[SummaryOfFishGrowthAndFishingS_14038]]*
 
+> This 1957 study from [[Kansas State Teachers College]] (Emporia) examines the seasonal abundance of [[Cladocera]] and [[Copepoda]] (collectively called entomostraca) and the physical-chemical conditions of the [[Fall River]] and [[Verdigris River]] in southeastern Kansas. Sampling ran from April...
+> -- *[[SeasonalVariationsAndAbundance_18697]]*
+
 ### Mentioned In
 - [[SummaryOfFishGrowthAndFishingS_14038]]
+- [[SeasonalVariationsAndAbundance_18697]]
 
 ## Kansas State University
 
@@ -605,6 +641,18 @@ The Kansas University Museum is a natural history collection that houses preserv
 
 ### Mentioned In
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
+
+## Kansas Water Storage Law
+
+### Summary
+A 1941 Kansas law (Chapter 400, Laws of Kansas) that gives landowners with an approved reservoir a ten-year reduction in assessed valuation. The source gives a schedule of $200 per acre-foot for the first ten acre-feet, then declining rates, with a total cap of $3,500 and 40% of the contiguous acreage's assessed valuation.
+
+### Context
+> This 1954 bulletin from the [[Forestry, Fish and Game Commission]] (Pratt, Kansas), Bulletin No. 9, by Otto W. Tiemeier with Seth Way and Roy Schoonover, gives practical guidance on building and managing [[Farm Pond]]s for water supply, fish production, wildlife, and recreation. It replaces the...
+> -- *[[TheConstructionAndManagementOf_13343]]*
+
+### Mentioned In
+- [[TheConstructionAndManagementOf_13343]]
 
 ## Kanungo And Prosser 1959
 <!-- fm: auto_enriched: true -->
@@ -780,8 +828,12 @@ Cited (1952) as the source of the method used to mount fish scales for ageing, i
 > - **Target tissue**: Gill arches (1–2 arches excised per fish), specifically the actively dividing epithelial cells associated with gill filaments. - **Cellular structures of interest**: Mitotic chromosomes arrested at **metaphase**, visualized as spreads on the equatorial plate. - **Chromosome p...
 > -- *[[TechniqueForPreparingChromosom_1971_08_01]]*
 
+> This short 1969 methods paper reports an attempt to determine the chromosome number of the [[Desert Pupfish]] (*Cyprinodon macularius*), a small desert fish whose range has shrunk to a few isolated springs and ponds. The author did not attempt to interpret the number or construct a [[Karyotype]]....
+> -- *[[ChromosomeStudyOnTheDesertPupf_15677]]*
+
 ### Mentioned In
 - [[TechniqueForPreparingChromosom_1971_08_01]]
+- [[ChromosomeStudyOnTheDesertPupf_15677]]
 
 ## Karyotype Analysis
 <!-- fm: auto_enriched: true -->
@@ -1067,6 +1119,18 @@ Kellicotia is a rotifer genus found in the zooplankton community of Twin Lakes. 
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[StudiesOfTheEffectsOfOperating_12648]]
 
+## Kellicottia Longispina
+
+### Summary
+Kellicottia longispina is a rotifer, a small zooplankton animal with a wheel-like ciliated organ. In this study it was the second most abundant rotifer after Keratella cochlearis, and it was one of the 11 zooplankton species identified to species level in Twin Lakes.
+
+### Context
+> This Bureau of Reclamation technical report (REC-ERC-82-21, February 1983) by Davine M. Lieberman provides a taxonomic species list of the common plankton collected from [[Twin Lakes]] and the associated [[Mt. Elbert Forebay]] since 1974. The work supports a broader study of the effects of the...
+> -- *[[CommonPlanktonOfTwinLakesColor_20321]]*
+
+### Mentioned In
+- [[CommonPlanktonOfTwinLakesColor_20321]]
+
 ## Kelloggella
 <!-- fm: auto_enriched: true -->
 
@@ -1174,6 +1238,18 @@ Kelp beds are nearshore underwater forests of large brown algae along the Pacifi
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
 
+## Kemmerer Water Sampler
+
+### Summary
+The water sampler used to collect the 4-liter plankton samples in this study. Samples were then strained, preserved in formalin, and counted.
+
+### Context
+> This 1957 study from [[Kansas State Teachers College]] (Emporia) examines the seasonal abundance of [[Cladocera]] and [[Copepoda]] (collectively called entomostraca) and the physical-chemical conditions of the [[Fall River]] and [[Verdigris River]] in southeastern Kansas. Sampling ran from April...
+> -- *[[SeasonalVariationsAndAbundance_18697]]*
+
+### Mentioned In
+- [[SeasonalVariationsAndAbundance_18697]]
+
 ## Kemp (1949)
 
 ### Summary
@@ -1267,6 +1343,9 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 > This December 1978 report from the [[Fish and Wildlife Service]] compiles capture-location records for six fish species of special concern in the [[Upper Colorado River System]]. It was produced by Ecology Consultants, Inc. under an interagency agreement with the [[Environmental Protection Agency]]...
 > -- *[[CaptureLocationsOfRareFishInTh_19862]]*
 
+> This 1977 report (FWS/OBS-77/62; Part 2 of a three-part study) evaluates the status, life history, and habitat requirements of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It was prepared by Ecology Consultants, Inc. (Timothy W. Joseph and James A. Sinning) with...
+> -- *[[AnEvaluationOfTheStatusLifeHis_13289]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[PharyngealTeethInTheEndangered_1988]]
@@ -1276,6 +1355,7 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[EndangeredAndThreatenedFishesO_18138]]
 - [[CaptureLocationsOfRareFishInTh_19862]]
+- [[AnEvaluationOfTheStatusLifeHis_13289]]
 
 ## Kenilworth Aquatic Gardens
 
@@ -1732,9 +1812,13 @@ Keratella is a rotifer genus that was one of the dominant zooplankton organisms 
 > This document is the program and abstract booklet for the 5th Annual Meeting of the [[Society For Conservation Biology]], held 18-23 June 1991 at the University of Wisconsin-Madison. It schedules sessions, social events, logistics and roughly 186 numbered abstracts. Most abstracts cover terrestrial...
 > -- *[[ThAnnualMeetingOfTheSocietyFor_13524]]*
 
+> This Bureau of Reclamation technical report (REC-ERC-82-21, February 1983) by Davine M. Lieberman provides a taxonomic species list of the common plankton collected from [[Twin Lakes]] and the associated [[Mt. Elbert Forebay]] since 1974. The work supports a broader study of the effects of the...
+> -- *[[CommonPlanktonOfTwinLakesColor_20321]]*
+
 ### Mentioned In
 - [[FoodSupplyAndReproductionOfZoo_1962]]
 - [[ThAnnualMeetingOfTheSocietyFor_13524]]
+- [[CommonPlanktonOfTwinLakesColor_20321]]
 
 ## Kermit E. Sneed
 
@@ -1769,6 +1853,18 @@ Kern County was the fifth-ranked black bass county in California in 1960, with 7
 
 ### Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
+
+## Kern County HCP
+
+### Summary
+An HCP in California that the handbook describes as under development at the time of the draft. It overlays the Metropolitan Bakersfield HCP.
+
+### Context
+> This is a November 9, 1993 draft of an internal [[Fish and Wildlife Service]] (FWS) handbook. It governs how staff develop [[Habitat Conservation Plan]]s (HCPs) and process [[Incidental Take Permit]]s under section 10(a)(1)(B) of the [[Endangered Species Act]] (ESA). The handbook has two stated...
+> -- *[[DraftInterimHandbookForHabitat_11641]]*
+
+### Mentioned In
+- [[DraftInterimHandbookForHabitat_11641]]
 
 ## Kern County Parks and Recreation
 
@@ -2000,8 +2096,12 @@ The Key Deer is an ungulate species listed as endangered or threatened under Par
 > This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11572]]*
 
+> This U.S. government report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (apparently late 1960s), argues that species are now disappearing faster than they evolve, largely because of human actions. It reviews historic extinctions in North America, describes endangered animals and their...
+> -- *[[TheRightToExist_11512]]*
+
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_11572]]
+- [[TheRightToExist_11512]]
 
 ## Key Factor Analysis
 
@@ -2760,6 +2860,18 @@ Kirkwood conducted a 1962 study that demonstrated survival of pink and chum salm
 ### Mentioned In
 - [[BiologicalCharacteristicsOfInt_16617]]
 
+## Kirsch 1893
+
+### Summary
+Kirsch 1893 is an early historical record cited in the source, in which the Ashy Darter was rediscovered in the Obey River in Tennessee. It is part of the species' documented collection history.
+
+### Context
+> This 1984 study by [[Thomas E. Shepard]] and [[Brooks M. Burr]] redescribes the [[Ashy Darter]] (*Etheostoma cinereum*), a large, poorly known endemic of the [[Cumberland River]] and [[Tennessee River]] drainages. The species was historically recorded from 15 tributary systems but has been...
+> -- *[[SystematicsStatusAndLifeHistor_18898]]*
+
+### Mentioned In
+- [[SystematicsStatusAndLifeHistor_18898]]
+
 ## Kiyi
 
 ### Summary
@@ -2895,10 +3007,14 @@ The Klamath Lakes are a system of freshwater lakes in the Klamath River Basin, p
 > This 1991 final report, submitted by Phillip M. Harris (Oregon State University) to the [[Oregon Department of Fish and Wildlife]], tests whether [[Shortnose Sucker]] (*Chasmistes brevirostris*), [[Lost River Sucker]] (*Deltistes luxatus*) and [[Klamath Largescale Sucker]] (*Catostomus snyderi*)...
 > -- *[[BiochemistryAndMorphologyOfUpp_20670]]*
 
+> This draft final report (April 1, 1991) from the [[University Of California]] Department of Wildlife & Fisheries Biology, prepared under California Department of Fish and Game contract FG-8143, uses [[Allozyme Electrophoresis]] to assess the genetic status of three federally and state-listed...
+> -- *[[PopulationGeneticsOfEndangered_15456]]*
+
 ### Mentioned In
 - [[GeneticsMorphologyAndSystemati_19379]]
 - [[ScopeOfWorkForShortnoseAndLost_1986_12_08]]
 - [[BiochemistryAndMorphologyOfUpp_20670]]
+- [[PopulationGeneticsOfEndangered_15456]]
 
 ## Klamath Project
 
@@ -3038,10 +3154,14 @@ A sucker found in the Klamath River and listed among the fishes associated with 
 > This document presents a hierarchical classification system for California's inland waters designed to support conservation efforts and the establishment of [[Aquatic Diversity Management Areas]] (ADMAs). The system is based primarily on patterns of fish distribution and endemism but includes...
 > -- *[[AConservationorientedClassific_15455]]*
 
+> This draft final report (April 1, 1991) from the [[University Of California]] Department of Wildlife & Fisheries Biology, prepared under California Department of Fish and Game contract FG-8143, uses [[Allozyme Electrophoresis]] to assess the genetic status of three federally and state-listed...
+> -- *[[PopulationGeneticsOfEndangered_15456]]*
+
 ### Mentioned In
 - [[GeneticsMorphologyAndSystemati_19379]]
 - [[ScopeOfWorkForShortnoseAndLost_1986_12_08]]
 - [[AConservationorientedClassific_15455]]
+- [[PopulationGeneticsOfEndangered_15456]]
 
 ## Klamath Speckled Dace
 
@@ -3339,6 +3459,18 @@ Kofa National Wildlife Refuge is a protected area in Yuma, Arizona. This source 
 - [[MinutesDesertFishesRecoveryTea_13749]]
 - [[MinutesForDesertFishesRecovery_12506]]
 
+## Kofoid
+
+### Summary
+Kofoid is cited as a historical source describing a prolonged winter freeze in 1894–95 on the Illinois River. That freeze caused near-total loss of plankton and many dead fish, and the river was already heavily polluted then.
+
+### Context
+> This 1925 bulletin by [[David H. Thompson]], published by the [[Illinois Natural History Survey]], examines how [[Dissolved Oxygen]] limits fish life in the [[Illinois River]]. The river froze over in December 1924 and thawed in early February 1925. During that period dissolved oxygen fell to very...
+> -- *[[SomeObservationsOnTheOxygenReq_13582]]*
+
+### Mentioned In
+- [[SomeObservationsOnTheOxygenReq_13582]]
+
 ## Kokanee
 <!-- fm: auto_enriched: true -->
 
@@ -3391,6 +3523,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This technical report by [[E. J. Crossman]] and [[Harry D. Van Meter]] (Great Lakes Fishery Commission Technical Report No. 36, June 1979) is an annotated checklist of the fishes of [[Lake Ontario]] and its watershed. It draws on published distribution records, [[Royal Ontario Museum]] collections,...
 > -- *[[AnnotatedListOfTheFishesOfTheL_18070]]*
 
+> This Inland Fisheries Administrative Report, by Almo J. Cordone and Stephen Phinney of the [[California Department of Fish and Game]], documents a biological survey of silt pollution in the [[Truckee River]] and [[Cold Creek]], conducted September 2–4, 1958. The survey followed a near-continuous...
+> -- *[[NotesOnSiltPollutionInTheTruck_17588]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -3409,6 +3544,7 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[AnAnnotatedBibliographyOfResea_14741]]
 - [[CoueuDaleneLakeFisheriesInvest_19366]]
 - [[AnnotatedListOfTheFishesOfTheL_18070]]
+- [[NotesOnSiltPollutionInTheTruck_17588]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -3486,6 +3622,12 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This Eastern Washington University technical report (Final Report, 1991, Part 2) measures [[Thyroxine]] (T4) in developing [[Flannelmouth Sucker]] eggs and larvae from the [[Green River]], Utah. Eggs were collected from wild fish, fertilized, and reared at the [[Ouray National Fish Hatchery]]....
 > -- *[[NotesOnTheDevelopmentAndMeasur_20598]]*
 
+> This 1968 report by [[Almo J. Cordone]] and [[Ted C. Frantz]] evaluates experimental trout stocking in [[Lake Tahoe]] from 1960 to 1963, run as part of the cooperative California-Nevada Lake Tahoe Fisheries Study. The stated goal was to improve fishing, especially for shore and pier anglers in...
+> -- *[[AnEvaluationOfTroutPlantingInL_17592]]*
+
+> This Idaho Fish and Game Department Job Completion Report (Project F-53-R-2, period March 1, 1966 to February 28, 1967) covers six jobs on [[Priest Lake]] and [[Upper Priest Lake]] in northern Idaho. The work examined how [[Cutthroat Trout]] and [[Kokanee Salmon]] could be propagated, how juvenile...
+> -- *[[TheUseOfIncubationChannelsForT_20297]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -3515,6 +3657,8 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[TroutCatchAndAnglerUseAtLakeTa_12122]]
 - [[CreelCensusReport_19659]]
 - [[NotesOnTheDevelopmentAndMeasur_20598]]
+- [[AnEvaluationOfTroutPlantingInL_17592]]
+- [[TheUseOfIncubationChannelsForT_20297]]
 
 ## Kolkwitz
 
@@ -3806,6 +3950,18 @@ Koski (1974) is an author cited in the source who proposed that anthropogenic en
 
 ### Mentioned In
 - [[ThreatenedFishesOfTheWorldSand_1996]]
+
+## KP Creek
+
+### Summary
+A stream in the upper Blue River drainage where Apache trout are known to occur, according to the source. It was not sampled during the 1998 survey, so the source gives no survey data for it.
+
+### Context
+> A June–July 1998 fisheries survey by [[Arizona State University]] sampled about 50 named localities across the upper [[Blue River]] drainage in Arizona and New Mexico. The survey recorded 10 fish taxa: six native and four non-native. Native species were [[Apache Trout]], [[Longfin Dace]],...
+> -- *[[UpperBlueRiverAndTributariesFi_17219]]*
+
+### Mentioned In
+- [[UpperBlueRiverAndTributariesFi_17219]]
 
 ## Kramer and Smith
 

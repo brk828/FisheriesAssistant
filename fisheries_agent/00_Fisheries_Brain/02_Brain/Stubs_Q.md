@@ -164,6 +164,9 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 > This BIO/WEST report (PR-197-1, January 1991), prepared with the [[Utah Division of Wildlife Resources]] (UDWR), assesses the distribution, abundance and threats facing the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a fish endemic to the [[Virgin River Drainage]]. Field work by...
 > -- *[[StatusOfTheVirginSpinedaceLepi_13652]]*
 
+> This 1984 status report, prepared by [[James E Platz]] for the [[U S Fish and Wildlife Service]] Office of Endangered Species, evaluates the taxonomic standing and current survival of the [[Utah Frog]] ([[Rana Onca]]), a leopard frog known from a narrow desert corridor in southwestern Utah and...
+> -- *[[StatusReportForRanaOncaCope_18613]]*
+
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
@@ -174,6 +177,7 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 - [[VirginRiverFishesRecoveryPlan_13186]]
 - [[VirginRiverFishSamplingJanuary_19425]]
 - [[StatusOfTheVirginSpinedaceLepi_13652]]
+- [[StatusReportForRanaOncaCope_18613]]
 
 ## Quail Creek Dam
 <!-- fm: auto_enriched: true -->
@@ -256,6 +260,12 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 > This field report documents emergency fish sampling conducted 07-08 January 1989 along the [[Virgin River]] (Arizona-Nevada-Utah) immediately following the catastrophic failure of [[Quail Creek Reservoir]] dike on 01 January 1989. Personnel from [[Arizona State University]] (ASU) and [[University...
 > -- *[[VirginRiverFishSamplingJanuary_19425]]*
 
+> This 1993 report by the [[Southern Utah Wilderness Alliance]] (SUWA) is a conservationist "blueprint" for restoring balance to management of the Virgin River, a roughly 200-mile desert river flowing through Utah, Arizona and Nevada into [[Lake Mead]]. The report argues that water management has...
+> -- *[[AVisionForTheVirginConservatio_15060]]*
+
+> This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
+> -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -270,6 +280,8 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[AnnotatedBibliographyForTheWou_20385]]
 - [[DraftConservationAgreementVirg_18320]]
 - [[VirginRiverFishSamplingJanuary_19425]]
+- [[AVisionForTheVirginConservatio_15060]]
+- [[FisheriesSurveyOfTheVirginRive_16379]]
 
 ## Quail Creek Reservoir Project
 <!-- fm: auto_enriched: true -->
@@ -337,6 +349,18 @@ Quaking Aspen (Populus tremuloides) is a deciduous tree species found in the Jef
 
 ### Mentioned In
 - [[TheMonoBasin_15632]]
+
+## Qualitative Sampling
+
+### Summary
+A stream survey approach that records which taxa are present rather than measuring their exact weight or numbers. The authors found that only 2–3 samples captured the commonest insect groups, so they recommended qualitative sampling for pollution studies because it saves time and labor.
+
+### Context
+> This 1956 study in *Hilgardia* (Needham and Usinger, University of California) measured the normal variability of benthic macroinvertebrates in one uniform riffle on [[Prosser Creek]], Nevada County, California. One hundred bottom samples were collected with the [[Surber Sampler]] in a [[Latin...
+> -- *[[VariabilityInTheMacrofaunaOfAS_19613]]*
+
+### Mentioned In
+- [[VariabilityInTheMacrofaunaOfAS_19613]]
 
 ## Quality Control System
 
@@ -431,6 +455,18 @@ Quartzite Falls is a waterfall barrier on the uppermost Salt River in Arizona. T
 ### Mentioned In
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
 - [[DraftsaltRiverSurvey_14100]]
+
+## Quasi-Baseline Monitoring
+
+### Summary
+This is the surveillance component of the plan, calling for at least monthly observations at control and to-be-modified sites. Because the river is continually altered, the authors say only a "quasi-baseline" can be established rather than a true pre-modification baseline.
+
+### Context
+> This 1972 document is a transmittal letter, a generalized master plan, and an attached prospectus from the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]] (ASU). It proposes a multi-institution coalition to build a [[Strategic Environmental Assessment System]] for...
+> -- *[[AGeneralizedMasterPlanOfEnviro_16071]]*
+
+### Mentioned In
+- [[AGeneralizedMasterPlanOfEnviro_16071]]
 
 ## Quassilabia
 <!-- fm: auto_enriched: true -->
@@ -776,11 +812,15 @@ A compound in the low toxicity class. Lake trout were roughly ten times as sensi
 > This 1970 report by [[Earl S. Herald]], [[Robert P. Dempster]] and [[Marjorie Hunt]] of the [[Steinhart Aquarium]] evaluates [[Ultraviolet Sterilization]] as a way to reduce bacterial loads in crowded, recirculating aquarium systems. Test and production units were installed between 1960 and the...
 > -- *[[UltravioletSterilizationOfAqua_16687]]*
 
+> This document compiles three reports from the U.S. Bureau of Sport Fisheries and Wildlife, *Investigations in Fish Control* numbers 22 to 24 (January 1969). Together they evaluate [[Quinaldine]] (2-methylquinoline), a coal-tar derived chemical, as a lower-cost alternative to [[MS-222]] for...
+> -- *[[EfficacyOfQuinaldineAsAnAnesth_20586]]*
+
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[QuinaldineAsAnAnestheticOnSire_1961]]
 - [[ColoradoSquawfishRecoveryPlan_20997]]
 - [[UltravioletSterilizationOfAqua_16687]]
+- [[EfficacyOfQuinaldineAsAnAnesth_20586]]
 
 ## Quinault
 <!-- fm: auto_enriched: true -->
@@ -1022,6 +1062,9 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > This proceedings paper by [[James E Johnson]] (U.S. Fish and Wildlife Service and University of Arkansas) reviews how aquaculture affects endangered North American fishes and how hatcheries can help recover them. The author argues that the most serious threat is the accidental or deliberate...
 > -- *[[AReviewOfSelectedEndangeredFis_19784]]*
 
+> This issue of *Bajada*, a free triannual newsletter from the [[National Biological Service]] Cooperative Park Studies Unit at The University of Arizona, is a multi-article communication piece rather than a single study. Its dominant theme is the conservation of endangered native desert fishes in...
+> -- *[[RioYaquiFishesTwoRefugesSustai_15979]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1057,6 +1100,7 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[ReDesertPupfishAndGilaTopminno_16904]]
 - [[DesertPupfishCyprinodonMacular_17053]]
 - [[AReviewOfSelectedEndangeredFis_19784]]
+- [[RioYaquiFishesTwoRefugesSustai_15979]]
 
 ## Quitobaquito Pupfish Subspecies
 <!-- fm: auto_enriched: true -->
@@ -1244,3 +1288,15 @@ Quitovac is a location in Sonora, Mexico, approximately 35 miles southeast of Or
 
 ### Mentioned In
 - [[BetweenTheDesertAndTheSeaArche_13223]]
+
+## Quitovaquito Spring
+
+### Summary
+A spring in Organ Pipe Cactus National Monument, Arizona, that is one of two surviving Arizona populations of the desert pupfish. The author suggests that this isolated population has diverged from the historical form, so chromosome studies could help clarify its relationships to other populations.
+
+### Context
+> This short 1969 methods paper reports an attempt to determine the chromosome number of the [[Desert Pupfish]] (*Cyprinodon macularius*), a small desert fish whose range has shrunk to a few isolated springs and ponds. The author did not attempt to interpret the number or construct a [[Karyotype]]....
+> -- *[[ChromosomeStudyOnTheDesertPupf_15677]]*
+
+### Mentioned In
+- [[ChromosomeStudyOnTheDesertPupf_15677]]

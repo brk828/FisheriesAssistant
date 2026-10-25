@@ -781,6 +781,15 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This document presents a comprehensive overview of larval fish ecology in warmwater streams of the southeastern United States, emphasizing that fish larvae are ecologically distinct from their juvenile and adult counterparts. The author, Darrel E. Snyder from the [[Larval Fish Laboratory]] at...
 > -- *[[FishLarvaeecologicallyDistinct_21240]]*
 
+> This document is a multi-level identification key to freshwater fishes, most likely of the southwestern and central United States, judging by taxon names such as [[Gila Trout]], [[Colorado Squawfish]] and [[Pecos Shiner]]. It begins with a family-level key, then gives a series of species-level keys...
+> -- *[[AKeyToTheFishesOfNewMexico_12401]]*
+
+> This near-final draft manuscript (dated October 7, 1998) by Julian Humphries and Robert Rush Miller describes [[Ictalurus Chihuahua]], a new catfish of the [[Ictaluridae]] from the Chihuahuan Desert region. The species had been confused with [[Headwater Catfish]] (*I. lupus*) and [[Channel...
+> -- *[[IctalurusChihuahuaANewCatfishF_14516]]*
+
+> This paper, by C. R. Guier, L. E. Nichols and R. T. Rachels of the [[North Carolina Wildlife Resources Commission]], documents the establishment and spread of the non-native [[Flathead Catfish]] (*Pylodictis olivaris*) in the mainstream of the [[Cape Fear River]], North Carolina. Eleven adult...
+> -- *[[BiologicalInvestigationOfFlath_17815]]*
+
 ### Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -842,6 +851,9 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[StatewideRoughFishControlfishE_14929]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[FishLarvaeecologicallyDistinct_21240]]
+- [[AKeyToTheFishesOfNewMexico_12401]]
+- [[IctalurusChihuahuaANewCatfishF_14516]]
+- [[BiologicalInvestigationOfFlath_17815]]
 
 ## Ictalurus
 <!-- fm: auto_enriched: true -->
@@ -911,8 +923,12 @@ Ictalurus catus (white catfish) is a predator of Corophium aquafuscum in Georgia
 > - **53 total fish species** documented for the Pecos River, with *Morone chrysops* noted as an introduced addition to the native fauna count. - **New species description**: *[[Ictalurus Chihuahua]]* n. sp. is introduced in this checklist within [[Ictaluridae]]. - **Conservation status flags** app...
 > -- *[[ChecklistOfPecosRiverAndMexica_18282]]*
 
+> This near-final draft manuscript (dated October 7, 1998) by Julian Humphries and Robert Rush Miller describes [[Ictalurus Chihuahua]], a new catfish of the [[Ictaluridae]] from the Chihuahuan Desert region. The species had been confused with [[Headwater Catfish]] (*I. lupus*) and [[Channel...
+> -- *[[IctalurusChihuahuaANewCatfishF_14516]]*
+
 ### Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
+- [[IctalurusChihuahuaANewCatfishF_14516]]
 
 ## Ictalurus Dugesi
 <!-- fm: auto_enriched: true -->
@@ -1198,6 +1214,9 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 > This document presents research findings from [[Auburn University]] Agricultural Experiment Station (begun 1966) on developing cage culture systems for raising [[Channel Catfish]] ([[Ictalurus punctatus]]) from fingerlings to marketable size. The system allows intensive fish culture in previously...
 > -- *[[CageCultureOfChannelCatfish_20574]]*
 
+> This document is a multi-level identification key to freshwater fishes, most likely of the southwestern and central United States, judging by taxon names such as [[Gila Trout]], [[Colorado Squawfish]] and [[Pecos Shiner]]. It begins with a family-level key, then gives a series of species-level keys...
+> -- *[[AKeyToTheFishesOfNewMexico_12401]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[ChecklistOfParasitesFromCatfis_1959]]
@@ -1227,6 +1246,7 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[CageCultureOfChannelCatfish_20574]]
+- [[AKeyToTheFishesOfNewMexico_12401]]
 
 ## Icthyobodo Sp
 <!-- fm: auto_enriched: true -->
@@ -1277,6 +1297,9 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 > This 1922 Bureau of Fisheries circular provides comprehensive guidance on the artificial propagation and pond culture of three buffalo fish species: [[Ictiobus bubalus]] (razorback buffalo), [[Ictiobus cyprinella]] (bigmouth buffalo), and [[Ictiobus urus]] (black buffalo). The document details...
 > -- *[[CareAndFeedingOfBuffaloFishInP_17373]]*
 
+> This document is a multi-level identification key to freshwater fishes, most likely of the southwestern and central United States, judging by taxon names such as [[Gila Trout]], [[Colorado Squawfish]] and [[Pecos Shiner]]. It begins with a family-level key, then gives a series of species-level keys...
+> -- *[[AKeyToTheFishesOfNewMexico_12401]]*
+
 ### Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[FirstCanadianRecordOfTheBlackB_1979]]
@@ -1284,6 +1307,7 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[CareAndFeedingOfBuffaloFishInP_17373]]
+- [[AKeyToTheFishesOfNewMexico_12401]]
 
 ## Ictiobus Cyprinella
 <!-- fm: auto_enriched: true -->
@@ -1344,10 +1368,14 @@ Ictiobus labiosus is an endemic sucker species found in the Rio Panuco basin. Th
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
+> This document is a multi-level identification key to freshwater fishes, most likely of the southwestern and central United States, judging by taxon names such as [[Gila Trout]], [[Colorado Squawfish]] and [[Pecos Shiner]]. It begins with a family-level key, then gives a series of species-level keys...
+> -- *[[AKeyToTheFishesOfNewMexico_12401]]*
+
 ### Mentioned In
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[FirstCanadianRecordOfTheBlackB_1979]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
+- [[AKeyToTheFishesOfNewMexico_12401]]
 
 ## Ictiobus urus
 
@@ -1658,6 +1686,18 @@ IFIM (Instream Flow Incremental Methodology) is a modeling approach used to quan
 - [[LetterOnImplementationCommitte_11623]]
 - [[FyReportingAndAccounting_21020]]
 
+## IFIM PHABSIM
+
+### Summary
+IFIM (Instream Flow Incremental Methodology) is a habitat-modeling framework for evaluating streamflow needs, and PHABSIM is its physical habitat simulation component. The plan uses these analyses for instream flow recommendations on the Colorado River ($176,500) and the Yampa River ($72,500).
+
+### Context
+> This document is the FY-1989 work plan and budget for the [[Colorado River Recovery Program]], approved by the Colorado River Implementation Committee on August 30, 1988. The plan covers the fiscal year beginning October 1, 1988. It sets priorities for recovering four federally listed and rare...
+> -- *[[FiscalYearWorkPlan_11627]]*
+
+### Mentioned In
+- [[FiscalYearWorkPlan_11627]]
+
 ## Iguanidae
 
 ### Summary
@@ -1853,6 +1893,9 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This 1953 Illinois Natural History Survey publication, Biological Notes No. 3, by [[Harlow B. Mills]] and W. L. Minckley, examines the conservation problems of the [[Great Lakes]]. It argues that the lakes' fisheries are complex, interdependent biological systems whose decline cannot be attributed...
 > -- *[[SomeConservationProblemsOfTheG_18489]]*
 
+> This 1925 bulletin by [[David H. Thompson]], published by the [[Illinois Natural History Survey]], examines how [[Dissolved Oxygen]] limits fish life in the [[Illinois River]]. The river froze over in December 1924 and thawed in early February 1925. During that period dissolved oxygen fell to very...
+> -- *[[SomeObservationsOnTheOxygenReq_13582]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -1862,6 +1905,7 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[SymposiumOnEvaluationOfFishPop_14380]]
 - [[HistoryOfFishAndFishingInTheUp_17391]]
 - [[SomeConservationProblemsOfTheG_18489]]
+- [[SomeObservationsOnTheOxygenReq_13582]]
 
 ## Illinois River
 <!-- fm: auto_enriched: true -->
@@ -1903,6 +1947,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This Illinois Natural History Survey bulletin by [[Samuel Eddy]] (published November 1931) examines how a [[Sewage Treatment Plant]] at Springfield and the [[Lake Decatur]] impoundment at Decatur have changed the abundance and composition of [[Plankton]] in the [[Sangamon River]]. Collections were...
 > -- *[[ThePlanktonOfTheSangamonRiverI_15758]]*
 
+> This 1925 bulletin by [[David H. Thompson]], published by the [[Illinois Natural History Survey]], examines how [[Dissolved Oxygen]] limits fish life in the [[Illinois River]]. The river froze over in December 1924 and thawed in early February 1925. During that period dissolved oxygen fell to very...
+> -- *[[SomeObservationsOnTheOxygenReq_13582]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -1917,6 +1964,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[OklahomaFishesWithDistribution_16567]]
 - [[GrowthOfFreshwaterDrumInOklaho_19938]]
 - [[ThePlanktonOfTheSangamonRiverI_15758]]
+- [[SomeObservationsOnTheOxygenReq_13582]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -1995,6 +2043,18 @@ IMADES (Instituto del Medio Ambiente y el Desarrollo Sustentable del Estado de S
 ### Mentioned In
 - [[SonoranDesertExpertsWorkshop_13543]]
 
+## Imhoff Cone
+
+### Summary
+A settling cone used to measure the settling rate of suspended solids in a water sample. The source recommends it as a physical measurement for silt pollution investigations.
+
+### Context
+> This Inland Fisheries Administrative Report, by Almo J. Cordone and Stephen Phinney of the [[California Department of Fish and Game]], documents a biological survey of silt pollution in the [[Truckee River]] and [[Cold Creek]], conducted September 2–4, 1958. The survey followed a near-continuous...
+> -- *[[NotesOnSiltPollutionInTheTruck_17588]]*
+
+### Mentioned In
+- [[NotesOnSiltPollutionInTheTruck_17588]]
+
 ## Immune Response
 <!-- fm: auto_enriched: true -->
 
@@ -2036,6 +2096,18 @@ Immunology is the study of the body's defense systems, including how tissues are
 
 ### Mentioned In
 - [[FishCommunityStructureAndStabi_15186]]
+
+## Impact Studies
+
+### Summary
+Impact Studies are one of the three research components proposed in the master plan, aimed at areas facing imminent change. The source's example is studying how stabilizing the Lake Havasu intake would affect the ecosystem for the Central Arizona Project.
+
+### Context
+> This 1972 document is a transmittal letter, a generalized master plan, and an attached prospectus from the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]] (ASU). It proposes a multi-institution coalition to build a [[Strategic Environmental Assessment System]] for...
+> -- *[[AGeneralizedMasterPlanOfEnviro_16071]]*
+
+### Mentioned In
+- [[AGeneralizedMasterPlanOfEnviro_16071]]
 
 ## Impenjati Estuary
 <!-- fm: auto_enriched: true -->
@@ -2153,6 +2225,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This 1995 public update and overview from the [[Bureau Of Reclamation]], Lower Colorado Region, describes a [[Biological Assessment]] of routine operations and maintenance on the mainstem [[Lower Colorado River]]. The assessment is required under [[Section 7 Consultation]] of the [[Endangered...
 > -- *[[LowerColoradoRiverBiologicalAs_13908]]*
 
+> This 1972 document is a transmittal letter, a generalized master plan, and an attached prospectus from the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]] (ASU). It proposes a multi-institution coalition to build a [[Strategic Environmental Assessment System]] for...
+> -- *[[AGeneralizedMasterPlanOfEnviro_16071]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -2179,6 +2254,7 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[SexualDimorphismInTheAdultRazo_17843]]
 - [[ATaggingExperimentWithChannelC_12244]]
 - [[LowerColoradoRiverBiologicalAs_13908]]
+- [[AGeneralizedMasterPlanOfEnviro_16071]]
 
 ## Imperial Dam Impoundment
 <!-- fm: auto_enriched: true -->
@@ -2480,6 +2556,9 @@ The trapping of fish against intake screens by the force of water being drawn in
 > This document is a compilation of administrative records from the [[Colorado River Recovery Implementation Program]], a multi-agency effort to recover endangered fishes in the Upper Colorado River Basin. It contains meeting notices, agendas, a meeting summary, a Technical Group minutes record, a...
 > -- *[[ColoradoRiverManagementGroupMe_21029]]*
 
+> This U.S. Fish and Wildlife Service (Service) document, dated November 1991 with a March 1992 membership correction, sets out the organization, mission, and procedures of the [[Recovery Implementation Program]] for four endangered fishes: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail...
+> -- *[[OrganizationAndMission_11595]]*
+
 ### Mentioned In
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
@@ -2489,6 +2568,7 @@ The trapping of fish against intake screens by the force of water being drawn in
 - [[ManagementGroupMeeting_21017]]
 - [[LetterToJohnHamillProposalForE_12209]]
 - [[ColoradoRiverManagementGroupMe_21029]]
+- [[OrganizationAndMission_11595]]
 
 ## Implementation Schedule
 
@@ -2513,8 +2593,12 @@ This is the section of a U.S. Fish and Wildlife Service recovery plan that the s
 > - The **[[Section 10 Incidental Take Permit]]** is issued under the [[Endangered Species Act]] and requires a complete application package: permit application, [[Habitat Conservation Plan]], NEPA document (EA or EIS), and an [[Implementing Agreement]]. - **Six statutory issuance criteria** must b...
 > -- *[[OverviewEndangeredSpeciesActSe_13258]]*
 
+> This is a November 9, 1993 draft of an internal [[Fish and Wildlife Service]] (FWS) handbook. It governs how staff develop [[Habitat Conservation Plan]]s (HCPs) and process [[Incidental Take Permit]]s under section 10(a)(1)(B) of the [[Endangered Species Act]] (ESA). The handbook has two stated...
+> -- *[[DraftInterimHandbookForHabitat_11641]]*
+
 ### Mentioned In
 - [[OverviewEndangeredSpeciesActSe_13258]]
+- [[DraftInterimHandbookForHabitat_11641]]
 
 ## Implications To Dam Management
 <!-- fm: auto_enriched: true -->
@@ -2578,6 +2662,18 @@ Fishing in dammed lakes and reservoirs. The source argues that impoundments are 
 
 ### Mentioned In
 - [[PhaseIiIvHabitatUseByAdultRazo_1999]]
+
+## Impoundments
+
+### Summary
+Reservoirs created by damming streams, which the source identifies as a stream modification that interferes with spawning. Burying species, which need flowing water with coarse substrate, cannot spawn successfully in impounded or modified streams.
+
+### Context
+> This review reconstructs the evolution of spawning behavior in percid fishes, a group that arose as freshwater derivatives of a marine perciform and diversified strongly in North America. The paper recognizes six egg-deposition behaviors (broadcasting, stranding, burying, attaching, clumping and...
+> -- *[[EvolutionOfReproductiveBehavio_18403]]*
+
+### Mentioned In
+- [[EvolutionOfReproductiveBehavio_18403]]
 
 ## Imprinting
 
@@ -2716,8 +2812,12 @@ Under section 10 of the Endangered Species Act, an incidental take permit allows
 > This legal review, written by Gregory S. Weber (McGeorge School of Law), analyzes *United States v. Glenn-Colusa Irrigation District*, 788 F. Supp. 1126 (N.D. Cal., 10 March 1992). The court found that pumping by the [[Glenn-Colusa Irrigation District]] (GCID) "took" threatened [[Sacramento River...
 > -- *[[TheEndangeredSpeciesActNewWeap_19657]]*
 
+> This is a November 9, 1993 draft of an internal [[Fish and Wildlife Service]] (FWS) handbook. It governs how staff develop [[Habitat Conservation Plan]]s (HCPs) and process [[Incidental Take Permit]]s under section 10(a)(1)(B) of the [[Endangered Species Act]] (ESA). The handbook has two stated...
+> -- *[[DraftInterimHandbookForHabitat_11641]]*
+
 ### Mentioned In
 - [[TheEndangeredSpeciesActNewWeap_19657]]
+- [[DraftInterimHandbookForHabitat_11641]]
 
 ## Incidental Take Statement
 <!-- fm: auto_enriched: true -->
@@ -2732,11 +2832,15 @@ Under section 10 of the Endangered Species Act, an incidental take permit allows
 > This document is a [[Biological Opinion]] issued by the [[Fish and Wildlife Service]] (FWS) on February 21, 1991, under Section 7 of the [[Endangered Species Act]]. It responds to a November 21, 1990 request from the [[Bureau of Land Management]] (BLM) Phoenix District for formal consultation on a...
 > -- *[[BiologicalOpinionTuleCreekRipa_20154]]*
 
+> This is a [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (Arizona Ecological Services State Office) on June 21, 1994, under section 7 of the [[Endangered Species Act]]. The action agency is the [[Federal Highway Administration]], which requested consultation for the repair,...
+> -- *[[BiologicalOpinionThatThePropos_11899]]*
+
 ### Mentioned In
 - [[BiologicalOpinionResearchProje_20155]]
 - [[ReYourLetterRegardingTheForest_11890]]
 - [[BiologicalOpinionOnTheProposed_11939]]
 - [[BiologicalOpinionTuleCreekRipa_20154]]
+- [[BiologicalOpinionThatThePropos_11899]]
 
 ## Inclined Screen
 
@@ -2749,6 +2853,18 @@ A screen type used mainly in irrigation and water supply systems, with limited d
 
 ### Mentioned In
 - [[FishProtectiveDevicesACompilat_11796]]
+
+## Inclined Screen Weir
+
+### Summary
+A fish trap built across a stream that uses an inclined screen to guide migrating fish into a holding area. In this study it was placed about 200 yards above the mouth of Kalispell Creek and operated from May 23 to November 30, 1966. It captured 1,364 fish, including 619 juvenile cutthroat and 125 spent adult cutthroat, which were fin-clipped and used to estimate migration and return patterns.
+
+### Context
+> This Idaho Fish and Game Department Job Completion Report (Project F-53-R-2, period March 1, 1966 to February 28, 1967) covers six jobs on [[Priest Lake]] and [[Upper Priest Lake]] in northern Idaho. The work examined how [[Cutthroat Trout]] and [[Kokanee Salmon]] could be propagated, how juvenile...
+> -- *[[TheUseOfIncubationChannelsForT_20297]]*
+
+### Mentioned In
+- [[TheUseOfIncubationChannelsForT_20297]]
 
 ## Incomplete Lineage Sorting
 
@@ -2795,6 +2911,18 @@ A habitat assessment framework that combines hydraulic simulation of a stream re
 
 ### Mentioned In
 - [[TheDevelopmentOfAnAquaticMitig_19674]]
+
+## Incubation Channel
+
+### Summary
+An artificial channel placed in a stream where eyed eggs are incubated and the fry are then released. In this report the Kalispell Creek channel received 552,800 eyed cutthroat eggs in June 1966, with an estimated egg-to-fry survival of 41.6 percent. A winter kokanee plant there failed largely because spring silt deposition killed many eggs and sac fry.
+
+### Context
+> This Idaho Fish and Game Department Job Completion Report (Project F-53-R-2, period March 1, 1966 to February 28, 1967) covers six jobs on [[Priest Lake]] and [[Upper Priest Lake]] in northern Idaho. The work examined how [[Cutthroat Trout]] and [[Kokanee Salmon]] could be propagated, how juvenile...
+> -- *[[TheUseOfIncubationChannelsForT_20297]]*
+
+### Mentioned In
+- [[TheUseOfIncubationChannelsForT_20297]]
 
 ## Independence Area
 
@@ -3510,6 +3638,18 @@ Ingram was a co-author of a 1967 publication that this review identifies as "the
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Iniomi
+
+### Summary
+Iniomi is a suborder of fishes to which the source places the family Anotopteridae, most likely within the Alepisauroidei. The authors reaffirm this placement, finding the family's closest relative to be Alepisauridae.
+
+### Context
+> This 1953 *Bulletin of the Scripps Institution of Oceanography* paper by [[Carl L. Hubbs]], [[Giles W. Mead]], and [[Norman J. Wilimovsky]] reports new North Pacific records of the highly modified bathypelagic fish [[Anotopterus Pharao]], previously known only from the northeastern Atlantic and...
+> -- *[[TheWidespreadProbablyAntitropi_14301]]*
+
+### Mentioned In
+- [[TheWidespreadProbablyAntitropi_14301]]
+
 ## Iniopterygia
 <!-- fm: auto_enriched: true -->
 
@@ -3542,6 +3682,18 @@ Ingram was a co-author of a 1967 publication that this review identifies as "the
 
 ### Mentioned In
 - [[StationProfileOfTheInksDamNati_19548]]
+
+## Inland Cutthroat Trout
+
+### Summary
+Inland Cutthroat Trout is a native trout of western North American inland waters, belonging to the family Salmonidae. In this source, the author says some populations may be considered for listing under the Endangered Species Act, which would add to federal responsibility for managing them. The paper treats them as a native species that federal policy favors over exotic introductions.
+
+### Context
+> This paper by Rick Stowell of the [[Forest Service]] (Missoula, Montana) defines the current responsibilities of the [[Forest Service]] (FS) and the [[Bureau of Land Management]] (BLM) for trout management in the [[Rocky Mountain Region]]. The author argues that the core federal role is to provide...
+> -- *[[DefiningTheCurrentResponsibili_14602]]*
+
+### Mentioned In
+- [[DefiningTheCurrentResponsibili_14602]]
 
 ## Inland Fisheries and Game Department
 
@@ -3898,6 +4050,18 @@ The Institute of Marine Science at the University of Texas, Port Aransas, was th
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 
+## Institute of Medicine
+
+### Summary
+The Institute of Medicine (IOM) is one of the four organizations in the National Academies complex. The source says it was formed in 1967 and became an Academy institution in 1970. Its 1992 report on emerging infections is cited as leading to a federal disease surveillance program.
+
+### Context
+> This 1994 booklet describes the private, non-profit institution created by Congress in 1863 to advise the federal government on science and technology. The institution now comprises four organizations: the [[National Academy of Sciences]] (NAS), the [[National Academy of Engineering]] (NAE), the...
+> -- *[[AUniqueNationalResource_19493]]*
+
+### Mentioned In
+- [[AUniqueNationalResource_19493]]
+
 ## Institute of Sewage Purification
 
 ### Summary
@@ -4001,6 +4165,12 @@ Instream debris refers to accumulated woody material and piles of debris in the 
 > This Management Group report, prepared by the [[Water Acquisition Ad Hoc Subcommittee]] for the [[Recovery Implementation Program]], sets out recommendations for acquiring water rights to convert to [[Instream Flow]] for endangered fishes in the Upper [[Colorado River]] Basin. It was approved by...
 > -- *[[RecoveryImplementationProgramF_19222]]*
 
+> This U.S. Fish and Wildlife Service (Service) document, dated November 1991 with a March 1992 membership correction, sets out the organization, mission, and procedures of the [[Recovery Implementation Program]] for four endangered fishes: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail...
+> -- *[[OrganizationAndMission_11595]]*
+
+> This is a compilation of administrative material from 1989 concerning the [[Upper Colorado River Endangered Fish Recovery Implementation Program]], which aims to recover three endangered fishes and one threatened or rare fish while allowing water development to continue. It contains a Management...
+> -- *[[ManagementGroupMeeting_21011]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
@@ -4009,6 +4179,8 @@ Instream debris refers to accumulated woody material and piles of debris in the 
 - [[ManagementConcernsForEndangere_19782]]
 - [[RecoveryImplementationProgramF_17180]]
 - [[RecoveryImplementationProgramF_19222]]
+- [[OrganizationAndMission_11595]]
+- [[ManagementGroupMeeting_21011]]
 
 ## Instream Flow Ad Hoc Group
 
@@ -4218,6 +4390,18 @@ Instream flows are water kept flowing in a river channel to support fish and oth
 ### Mentioned In
 - [[WestAfricanRiversAsBiogeograph_1989]]
 
+## Insurance Populations
+
+### Summary
+Captive or separately maintained groups of a species set up as a safeguard against extinction in the wild. The report recommends them for species with very limited ranges, so that a single catastrophe cannot wipe out the whole species.
+
+### Context
+> This U.S. government report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (apparently late 1960s), argues that species are now disappearing faster than they evolve, largely because of human actions. It reviews historic extinctions in North America, describes endangered animals and their...
+> -- *[[TheRightToExist_11512]]*
+
+### Mentioned In
+- [[TheRightToExist_11512]]
+
 ## Integrated Agriculture-Aquaculture
 
 ### Summary
@@ -4341,6 +4525,18 @@ A fisheries organization whose work on tuna in the eastern Pacific is cited in t
 
 ### Mentioned In
 - [[ExpandedBibliographyOfArticleE_14464]]
+
+## Inter-Intraspecific Interactions
+
+### Summary
+A contingency project (C3, $96,000) to study interactions among and within species, using laboratory work and in situ cage field tests. It is one of three contingency projects listed in Table 3.2 of the plan.
+
+### Context
+> This document is the FY-1989 work plan and budget for the [[Colorado River Recovery Program]], approved by the Colorado River Implementation Committee on August 30, 1988. The plan covers the fiscal year beginning October 1, 1988. It sets priorities for recovering four federally listed and rare...
+> -- *[[FiscalYearWorkPlan_11627]]*
+
+### Mentioned In
+- [[FiscalYearWorkPlan_11627]]
 
 ## Interactive Segregation
 <!-- fm: auto_enriched: true -->
@@ -4562,11 +4758,19 @@ Interface theory treats transition zones as places where structural or functiona
 > This internal memorandum, dated November 28, 1992, prepares [[Bio/West]] representatives for a Principal Investigators Meeting on December 1, 1992, and summarizes progress on contract research on the [[Humpback Chub]] (*Gila cypha*, name not stated in the source) in the [[Grand Canyon]] of the...
 > -- *[[PrincipalInvestigatorsMeeting_13623]]*
 
+> This Quarterly Report (Trip No. 1, June 24 – July 2, 1992) by [[BIO/WEST Inc]] for the [[Hualapai Wildlife Management Department]] documents the first field trip of a study of aquatic resources in the 60-mile reach of the [[Colorado River]] from Diamond Creek (RM 226) to below Pearce Ferry (RM...
+> -- *[[TheEffectsOfInterimFlowsFromGl_13608]]*
+
+> This Final Report (February 1998), prepared by Duncan T. Patten for the [[Bureau of Reclamation]] and the [[Grand Canyon Monitoring and Research Center]] under Cooperative Agreement 1425-96-FC-81-05003, evaluates research funded by [[Glen Canyon Environmental Studies]] (GCES) Phases I and II. It...
+> -- *[[IntegrationAndEvaluationOfGlen_18447]]*
+
 ### Mentioned In
 - [[DecemberCritsMeetingSynthesisA_1994_01_04]]
 - [[IntegrationAndEvaluationOfGlen_13851]]
 - [[TheEffectsOfInterimFlowsFromGl_13621]]
 - [[PrincipalInvestigatorsMeeting_13623]]
+- [[TheEffectsOfInterimFlowsFromGl_13608]]
+- [[IntegrationAndEvaluationOfGlen_18447]]
 
 ## Interim Operating Criteria
 
@@ -5032,6 +5236,18 @@ The International Sonoran Desert Biosphere Reserve is a proposed protected area 
 ### Mentioned In
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 
+## International Union for Conservation of Nature
+
+### Summary
+An international conservation organization whose lists of threatened species are used to assess species status. In this source, the Comanche Springs pupfish is listed by the IUCN as one of the species given conservation recognition.
+
+### Context
+> This recovery plan, prepared by the [[Rio Grande Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]] on April 20, 1981, addresses the [[Comanche Springs Pupfish]] (*Cyprinodon elegans*), a species listed as endangered under the [[Endangered Species Act]] of 1973. The...
+> -- *[[ComancheSpringsPupfishCyprinod_13298]]*
+
+### Mentioned In
+- [[ComancheSpringsPupfishCyprinod_13298]]
+
 ## International Union for Conservation of Nature and Natural Resources
 
 ### Summary
@@ -5194,6 +5410,18 @@ Interstate Highway 15 is a major transportation corridor that passes through the
 
 ### Mentioned In
 - [[StatusOfIntroducedWalkingCatfi_17609]]
+
+## Intraspecific Competition
+
+### Summary
+Intraspecific competition is competition among individuals of the same species for resources such as food and space. In this source, the author reads the rise in buffalo condition coefficient (Kn, from 1.37 to 1.44) as a sign of reduced intraspecific competition. The fall in buffalo numbers from commercial removal is linked to faster growth and better condition in the survivors.
+
+### Context
+> This 1970 Master of Science thesis by Thomas Monroe Moody (New Mexico State University, Wildlife Science) evaluates how commercial removal of [[Smallmouth Buffalo]] (*Ictiobus bubalus*) affected the population of [[Elephant Butte Lake]], a large warmwater reservoir on the [[Rio Grande]]. Between...
+> -- *[[EffectsOfCommercialFishingOnTh_16560]]*
+
+### Mentioned In
+- [[EffectsOfCommercialFishingOnTh_16560]]
 
 ## Intraspecific Variation In Freshwater Snails
 <!-- fm: auto_enriched: true -->
@@ -6110,6 +6338,30 @@ Ironwood (Olneya tesota) is a predominant tree species in the Sonoran Desertscru
 ### Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
 
+## Irreversible Starvation
+
+### Summary
+Irreversible starvation is the point after which a larval fish has lost too much condition to recover even if food becomes available. The source places this point for razorback sucker between 17 and 21 days post-hatch, based on the feeding-delay experiment, after which larvae were too weakened to feed.
+
+### Context
+> This report, prepared by Diana Papoulias of [[Arizona State University]] for the U.S. Fish and Wildlife Service, Office of Endangered Species, describes three laboratory experiments testing whether food availability controls mortality and growth in larval [[Razorback Sucker]] (*[[Xyrauchen...
+> -- *[[TheEffectOfFoodAvailabilityOnG_18413]]*
+
+### Mentioned In
+- [[TheEffectOfFoodAvailabilityOnG_18413]]
+
+## Irrigation Diversion Dams
+
+### Summary
+Irrigation diversion dams are barriers across the Pecos River, described here as 8–15 m high. The source reports that abrupt changes in allele frequencies coincided with these dams, and that they appear to slow gene flow, especially upstream.
+
+### Context
+> This 1987 Master of Science thesis from [[Oklahoma State University]] (Zoology, 45 pages, by Patrick J. Connor) uses an [[Allozyme Analysis]] survey to document hybridization between the endemic [[Pecos Pupfish]] (*Cyprinodon pecosensis*) and the introduced [[Sheepshead Minnow]] (*C. variegatus*)...
+> -- *[[AGeneticAnalysisOfAHybridSwarm_17485]]*
+
+### Mentioned In
+- [[AGeneticAnalysisOfAHybridSwarm_17485]]
+
 ## Irrigation Drain Water Contamination
 <!-- fm: auto_enriched: true -->
 
@@ -6233,6 +6485,18 @@ A small hydroelectric plant, operated by Arizona Public Service, that is supplie
 
 ### Mentioned In
 - [[FossilCreakFlumeaPioneerMonume_16579]]
+
+## Irving Reach
+
+### Summary
+The stretch of Fossil Creek below Fossil Springs where the Irving diversion, penstock, and flume are located. The source identifies it as the main area of travertine deposition and dam formation, and it is expected to shift from riffle/run to step/pool habitat if the project is decommissioned.
+
+### Context
+> This technical report, prepared by W.L. Bouchard & Associates for [[Arizona Public Service Company]] (APS), supports the relicensing of the [[Childs and Irving Hydroelectric Project]] (FERC Project No. 2069-003) on [[Fossil Creek]], a tributary of the [[Verde River]]. The core question is how...
+> -- *[[FossilCreekHydrologyAndTravert_20796]]*
+
+### Mentioned In
+- [[FossilCreekHydrologyAndTravert_20796]]
 
 ## Isabella Dam
 
@@ -6649,6 +6913,18 @@ Isognomon chemnitsiana is a bivalve species documented at Puerto Peñasco. This 
 ### Mentioned In
 - [[LowerColoradoRiverMultiSpecies_12191]]
 
+## Isolating Mechanisms
+
+### Summary
+Biological traits that prevent interbreeding between species, such as temporal, habitat, behavioral, mechanical, and postmating barriers. In this proposal they are the main candidate explanation for why the Gambusia species have their observed distributions, and the author plans to test each category.
+
+### Context
+> This document is a 1973 research proposal submitted to the [[National Science Foundation]] by David W. Greenfield of [[Northern Illinois University]]. It requests $35,382 over two years to study four livebearing species of the genus [[Gambusia]] in [[Belize]] (British Honduras) and adjacent Central...
+> -- *[[IsolatingMechanismsAndCompetit_19238]]*
+
+### Mentioned In
+- [[IsolatingMechanismsAndCompetit_19238]]
+
 ## Isometric Growth
 <!-- fm: auto_enriched: true -->
 
@@ -6988,6 +7264,9 @@ The IUCN (International Union for Conservation of Nature) is a global authority 
 > This document has two parts. Page 1 to 3 is a letter dated 24 November 1992 from Paul V., Curator of Freshwater Fishes at the [[New York Zoological Society]] / [[New York Aquarium]], to [[William L. Minckley]] of Arizona State University. The letter follows up on the 1992 [[Desert Fishes Council]]...
 > -- *[[DfcSymposiumProgram_16193]]*
 
+> This is an essay by [[Robert Rush Miller]] on the conservation of rare and endangered fishes, with emphasis on freshwater species of the American Southwest. Miller argues that fishes have received far less conservation attention than birds and mammals, that habitat alteration caused by human...
+> -- *[[RareAndEndangeredFish_15354]]*
+
 ### Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
@@ -6995,6 +7274,7 @@ The IUCN (International Union for Conservation of Nature) is a global authority 
 - [[SpeciesSurvivalCommissionAMemb_14399]]
 - [[FishWithoutARiverTheCaptiveBre_19094]]
 - [[DfcSymposiumProgram_16193]]
+- [[RareAndEndangeredFish_15354]]
 
 ## Iucn Freshwater Fish Specialist Group
 <!-- fm: auto_enriched: true -->
@@ -7055,6 +7335,18 @@ The Ivel River in England was used as a comparative system in the Blue River stu
 ### Mentioned In
 - [[OxygenBalanceInASouthernGreatP_19151]]
 
+## Ivins Reservoir
+
+### Summary
+A reservoir near St. George, Utah, surveyed in 1983-1984 during the status study of the Utah Frog. The author judged it unsuitable for the species because it was heavily used and polluted, and no leopard frogs were found there.
+
+### Context
+> This 1984 status report, prepared by [[James E Platz]] for the [[U S Fish and Wildlife Service]] Office of Endangered Species, evaluates the taxonomic standing and current survival of the [[Utah Frog]] ([[Rana Onca]]), a leopard frog known from a narrow desert corridor in southwestern Utah and...
+> -- *[[StatusReportForRanaOncaCope_18613]]*
+
+### Mentioned In
+- [[StatusReportForRanaOncaCope_18613]]
+
 ## Ivlev 1961
 <!-- fm: auto_enriched: true -->
 
@@ -7088,8 +7380,12 @@ The ivory-billed woodpecker is a large woodpecker of North American forests. Hap
 > This conceptual essay by George B. Happ of [[The Principia College]] argues that [[Human Ecology]] offers a practical framework for [[Natural Resource Management]]. Happ holds that people are the dominant environmental factor in resource management because of their capacity to make choices,...
 > -- *[[ResourceManagementAndHumanEcol_20627]]*
 
+> This U.S. government report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (apparently late 1960s), argues that species are now disappearing faster than they evolve, largely because of human actions. It reviews historic extinctions in North America, describes endangered animals and their...
+> -- *[[TheRightToExist_11512]]*
+
 ### Mentioned In
 - [[ResourceManagementAndHumanEcol_20627]]
+- [[TheRightToExist_11512]]
 
 ## Ivy Log Creek
 <!-- fm: auto_enriched: true -->

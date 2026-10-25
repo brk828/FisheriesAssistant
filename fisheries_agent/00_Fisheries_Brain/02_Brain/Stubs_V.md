@@ -937,6 +937,18 @@ This source conducts extensive variational analysis using meristic characters in
 ### Mentioned In
 - [[NaturalProductivityOfFishAndCr_1940]]
 
+## Vasco Tanner
+
+### Summary
+Vasco Tanner collected the leopard frogs from Berry Springs in 1950 that are held in the Brigham Young University collection. That sample of 14 adults included six R. onca, one R. pipiens, and seven intermediate hybrids. The sample provides evidence of sympatry between the two species.
+
+### Context
+> This 1984 status report, prepared by [[James E Platz]] for the [[U S Fish and Wildlife Service]] Office of Endangered Species, evaluates the taxonomic standing and current survival of the [[Utah Frog]] ([[Rana Onca]]), a leopard frog known from a narrow desert corridor in southwestern Utah and...
+> -- *[[StatusReportForRanaOncaCope_18613]]*
+
+### Mentioned In
+- [[StatusReportForRanaOncaCope_18613]]
+
 ## Vasey'S Paradise
 <!-- fm: auto_enriched: true -->
 
@@ -1683,6 +1695,12 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This U.S. Geological Survey report presents a working hypothesis for how the drainage of southeastern Arizona and southwestern New Mexico developed during late Cenozoic time, mainly the [[Pliocene]] and [[Quaternary]]. Drainage evolution was repeatedly controlled by large-scale faulting,...
 > -- *[[SomeNotesOnTheLateCenozoicDrai_17545]]*
 
+> This is the revised recovery plan for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), prepared by the Colorado River Fishes Recovery Team for U.S. Fish and Wildlife Service Region 6. The species was listed as endangered on March 11, 1967, and the original plan was approved on March 16, 1978....
+> -- *[[ColoradoSquawfishRevisedRecove_17170]]*
+
+> This technical report, prepared by W.L. Bouchard & Associates for [[Arizona Public Service Company]] (APS), supports the relicensing of the [[Childs and Irving Hydroelectric Project]] (FERC Project No. 2069-003) on [[Fossil Creek]], a tributary of the [[Verde River]]. The core question is how...
+> -- *[[FossilCreekHydrologyAndTravert_20796]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1847,6 +1865,8 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[NationalForestWatershedProject_17946]]
 - [[ABiologicalSurveyOfStreamsAndL_19340]]
 - [[SomeNotesOnTheLateCenozoicDrai_17545]]
+- [[ColoradoSquawfishRevisedRecove_17170]]
+- [[FossilCreekHydrologyAndTravert_20796]]
 
 ## Verde River Aquatic Ecology
 
@@ -1924,11 +1944,15 @@ Verdigris River is a Kansas waterway where Spotted Sucker was most common along 
 > This 1960 report (Oklahoma Fishery Research Laboratory Report No. 78, by Alfred Houser) summarizes growth of the [[Freshwater Drum]] (*Aplodinotus grunniens*) in Oklahoma from 19 years of data (1940–1958). Scale samples from 3,103 fish were drawn from 32 waters (16 reservoirs, 7 large lakes, 9...
 > -- *[[GrowthOfFreshwaterDrumInOklaho_19938]]*
 
+> This 1957 study from [[Kansas State Teachers College]] (Emporia) examines the seasonal abundance of [[Cladocera]] and [[Copepoda]] (collectively called entomostraca) and the physical-chemical conditions of the [[Fall River]] and [[Verdigris River]] in southeastern Kansas. Sampling ran from April...
+> -- *[[SeasonalVariationsAndAbundance_18697]]*
+
 ### Mentioned In
 - [[WhatHaveICaught_12929]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
 - [[GrowthOfFreshwaterDrumInOklaho_19938]]
+- [[SeasonalVariationsAndAbundance_18697]]
 
 ## Verduin 1960
 <!-- fm: auto_enriched: true -->
@@ -2178,6 +2202,18 @@ Vertebral centra are the central body parts of the backbone vertebrae. The study
 ### Mentioned In
 - [[TheBiologicalDiversityCrisisAC_12097]]
 
+## Vertebrate Endocrinology
+
+### Summary
+Vertebrate endocrinology is the study of hormone-producing glands and their functions across vertebrate animals. The authors stressed that data on the chondrichthyan thyroid are valuable for this field because cartilaginous fishes are phylogenetically important.
+
+### Context
+> This study by [[Yoshiharu Honma]] and [[Akira Chiba]] (Report of the [[Sado Marine Biological Station]], Niigata University, No. 23, 1993) describes the fine structure of the thyroid gland in the [[Banded Dogfish]] (*Triakis scyllia*), a cartilaginous fish sampled off [[Sado Island]] in the [[Sea...
+> -- *[[ElectronMicroscopeObservations_19900]]*
+
+### Mentioned In
+- [[ElectronMicroscopeObservations_19900]]
+
 ## Vertebrate Population Segment
 <!-- fm: auto_enriched: true -->
 
@@ -2295,6 +2331,18 @@ The Veterinary Specialist Group is one of five disciplinary groups within the IU
 
 ### Mentioned In
 - [[SpeciesSurvivalCommissionAMemb_14399]]
+
+## Vette Swale
+
+### Summary
+Vette Swale is a site where the greatest variety of fishes was taken at 9 ppm oxygen on February 26–27, 1925. At least 22, and perhaps 26, species of larger fishes were caught in nine hoop-nets there.
+
+### Context
+> This 1925 bulletin by [[David H. Thompson]], published by the [[Illinois Natural History Survey]], examines how [[Dissolved Oxygen]] limits fish life in the [[Illinois River]]. The river froze over in December 1924 and thawed in early February 1925. During that period dissolved oxygen fell to very...
+> -- *[[SomeObservationsOnTheOxygenReq_13582]]*
+
+### Mentioned In
+- [[SomeObservationsOnTheOxygenReq_13582]]
 
 ## Vibrio
 
@@ -2997,6 +3045,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
 > -- *[[EndangeredSpeciesPermitRenewal_20638]]*
 
+> This 1984 status report, prepared by [[James E Platz]] for the [[U S Fish and Wildlife Service]] Office of Endangered Species, evaluates the taxonomic standing and current survival of the [[Utah Frog]] ([[Rana Onca]]), a leopard frog known from a narrow desert corridor in southwestern Utah and...
+> -- *[[StatusReportForRanaOncaCope_18613]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3114,6 +3165,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[StatusOfTheVirginSpinedaceLepi_13652]]
 - [[AquaticEcosystemSymposiumARepo_15847]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
+- [[StatusReportForRanaOncaCope_18613]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -3284,6 +3336,12 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This package is a renewal application from the [[Arizona State University]] (ASU) Department of Biology to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 2 office. It seeks continued authorization under Federal Fish and Wildlife Permit PRT 797129, which was effective 8/9/96 to 8/9/98. The...
 > -- *[[PermitPrt_17155]]*
 
+> This document is a U.S. Bureau of Reclamation (Upper Colorado Region) federal solicitation, No. 0-SP-40-09700, for a total small business set-aside contract to carry out the [[Gila Taxonomy Project]]. The project seeks to resolve long-running uncertainty about the taxonomy of endangered [[Gila]]...
+> -- *[[GilaTaxonomySolicitationNoSp_11479]]*
+
+> This 1993 report by the [[Southern Utah Wilderness Alliance]] (SUWA) is a conservationist "blueprint" for restoring balance to management of the Virgin River, a roughly 200-mile desert river flowing through Utah, Arizona and Nevada into [[Lake Mead]]. The report argues that water management has...
+> -- *[[AVisionForTheVirginConservatio_15060]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -3349,6 +3407,8 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[VirginSpinedaceConservationAgr_20262]]
 - [[EndangeredSpeciesPermit_21118]]
 - [[PermitPrt_17155]]
+- [[GilaTaxonomySolicitationNoSp_11479]]
+- [[AVisionForTheVirginConservatio_15060]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -3440,9 +3500,13 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 > - **Affected reach:** Virgin River upper reach — from La Verkin Springs/Ash Creek confluence down through the [[Red Cliffs Desert Reserve]] to the Quail Creek Reservoir outflow and onward to the Washington Fields Diversion. This reach was proposed critical habitat for both woundfin and Virgin Riv...
 > -- *[[ViolationOfQuailCreekReservoir_1982_12_07]]*
 
+> This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
+> -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
+
 ### Mentioned In
 - [[PossibleAlternativeA_1989_01_20]]
 - [[ViolationOfQuailCreekReservoir_1982_12_07]]
+- [[FisheriesSurveyOfTheVirginRive_16379]]
 
 ## Virgin River Gorge
 
@@ -3459,10 +3523,14 @@ The Virgin River Gorge is a geographic feature on the Virgin River that serves a
 > This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
 > -- *[[VirginRiverFishesRecoveryPlan_13186]]*
 
+> This 1993 report by the [[Southern Utah Wilderness Alliance]] (SUWA) is a conservationist "blueprint" for restoring balance to management of the Virgin River, a roughly 200-mile desert river flowing through Utah, Arizona and Nevada into [[Lake Mead]]. The report argues that water management has...
+> -- *[[AVisionForTheVirginConservatio_15060]]*
+
 ### Mentioned In
 - [[MinutesdesertFishesRecoveryTea_13730]]
 - [[PreliminaryDraftEnvironmentalA_11680]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
+- [[AVisionForTheVirginConservatio_15060]]
 
 ## Virgin River Narrows
 <!-- fm: auto_enriched: true -->
@@ -3555,6 +3623,9 @@ The Virgin River Roundtail Chub (*Gila robusta seminuda*) is a federally endange
 > This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
 > -- *[[EndangeredSpeciesPermitRenewal_20638]]*
 
+> This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
+> -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -3567,6 +3638,7 @@ The Virgin River Roundtail Chub (*Gila robusta seminuda*) is a federally endange
 - [[VirginRiverMonitoringNevadaSum_1995_05_31]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
+- [[FisheriesSurveyOfTheVirginRive_16379]]
 
 ## Virgin River spinedace
 <!-- fm: auto_enriched: true -->
@@ -3623,6 +3695,12 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
 > -- *[[EndangeredSpeciesPermitRenewal_20638]]*
 
+> This 1993 report by the [[Southern Utah Wilderness Alliance]] (SUWA) is a conservationist "blueprint" for restoring balance to management of the Virgin River, a roughly 200-mile desert river flowing through Utah, Arizona and Nevada into [[Lake Mead]]. The report argues that water management has...
+> -- *[[AVisionForTheVirginConservatio_15060]]*
+
+> This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
+> -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -3648,6 +3726,8 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[DraftLowerVirginRiverProjectPr_11483]]
 - [[TheVirginRiverSpinedaceLepidom_12189]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
+- [[AVisionForTheVirginConservatio_15060]]
+- [[FisheriesSurveyOfTheVirginRive_16379]]
 
 ## Virgin Roundtail Chub
 <!-- fm: auto_enriched: true -->
@@ -4271,6 +4351,18 @@ Volcan La Malinche is a volcano that forms the eastern boundary of the Puebla Pl
 
 ### Mentioned In
 - [[AquaticResourceSurveyOfTheUnli_17285]]
+
+## Vollenweider Model
+
+### Summary
+The Vollenweider model is a nutrient-loading framework for predicting lake trophic status, originally derived from studies of natural lakes with long retention times. In this source it is applied to Lake Mead, where it predicts dangerously eutrophic conditions for the Lower Basin at 2.9 g P m⁻² yr⁻¹, yet measured status is oligotrophic–mesotrophic because much phosphorus leaves in hypolimnion discharge.
+
+### Context
+> This Technical Report by Larry J. Paulson (Lake Mead Limnological Research Center, University of Nevada, Las Vegas, May 1981) examines how the depth of water discharge at [[Hoover Dam]] controls nutrient losses from [[Lake Mead]] and, through that, the reservoir's fertility and trophic state. The...
+> -- *[[NutrientManagementWithHydroele_18469]]*
+
+### Mentioned In
+- [[NutrientManagementWithHydroele_18469]]
 
 ## Vollenweider-Dillon Phosphorus Model
 

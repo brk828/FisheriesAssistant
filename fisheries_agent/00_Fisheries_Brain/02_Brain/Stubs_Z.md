@@ -447,6 +447,18 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 - [[TerrestrialAndFreshwaterRadioe_12564]]
 - [[AccumulationOfRadioactiveMater_16139]]
 
+## Zingel
+
+### Summary
+A Palearctic percid genus with 3 species in the source's taxonomic table. The source mentions it only in the table of percid subfamilies and genera.
+
+### Context
+> This review reconstructs the evolution of spawning behavior in percid fishes, a group that arose as freshwater derivatives of a marine perciform and diversified strongly in North America. The paper recognizes six egg-deposition behaviors (broadcasting, stranding, burying, attaching, clumping and...
+> -- *[[EvolutionOfReproductiveBehavio_18403]]*
+
+### Mentioned In
+- [[EvolutionOfReproductiveBehavio_18403]]
+
 ## Zion Canyon
 
 ### Summary
@@ -476,12 +488,16 @@ Zion Canyon is one of the steep-walled, narrow canyons that characterize the Vir
 > This report, organized and edited by [[Wendell L. Minckley]] at Arizona State University (17 February 1997), compiles five independent reviews prepared for the Western Water Policy Review Advisory Commission. Each review examines one component of western aquatic systems and concludes that these...
 > -- *[[AquaticEcosystemSymposiumARepo_15847]]*
 
+> This 1993 report by the [[Southern Utah Wilderness Alliance]] (SUWA) is a conservationist "blueprint" for restoring balance to management of the Virgin River, a roughly 200-mile desert river flowing through Utah, Arizona and Nevada into [[Lake Mead]]. The report argues that water management has...
+> -- *[[AVisionForTheVirginConservatio_15060]]*
+
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[VirginSpinedaceLepidomedaMolli_14744]]
 - [[DraftConservationAgreementVirg_18320]]
 - [[AquaticEcosystemSymposiumARepo_15847]]
+- [[AVisionForTheVirginConservatio_15060]]
 
 ## Zion Power Station
 

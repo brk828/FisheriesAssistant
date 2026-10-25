@@ -143,6 +143,12 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This 1989 document is a set of U.S. Fish and Wildlife Service (FWS) memoranda and a Regional Solicitor's legal opinion. It concerns how [[Endangered Species Act]] (ESA) [[Section 7 Consultation]] applies to new water depletions in the [[Upper Colorado River Basin]] that affect the [[Colorado...
 > -- *[[SolicitorsOpinionReColoradoRiv_21006]]*
 
+> This is a compilation of administrative material from 1989 concerning the [[Upper Colorado River Endangered Fish Recovery Implementation Program]], which aims to recover three endangered fishes and one threatened or rare fish while allowing water development to continue. It contains a Management...
+> -- *[[ManagementGroupMeeting_21011]]*
+
+> This memorandum from [[Fish and Wildlife Service]] (FWS) Program Director John Hamill transmits the summary of the July 13-14, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Management Group, held at the FWS Regional Office in Lakewood, Colorado. The meeting approved a...
+> -- *[[JulyManagementGroupMeetingSumm_21014]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -160,6 +166,8 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[BiologicallyDefensibleFlowReco_17864]]
 - [[RecoveryImplementationProgramF_19222]]
 - [[SolicitorsOpinionReColoradoRiv_21006]]
+- [[ManagementGroupMeeting_21011]]
+- [[JulyManagementGroupMeetingSumm_21014]]
 
 ## 15-Mile Reach Gage
 
@@ -291,6 +299,18 @@ The 1987 Wetlands Delineation Manual is the guidance the Corps and EPA use to de
 ### Mentioned In
 - [[ContributionToTheSystematicsAn_15497]]
 
+## 2,4,5-T Herbicide
+
+### Summary
+A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The source recommends one gallon of 2,4,5-T to three gallons of 2,4-D ester per acre for aerial treatment, and says this mix was the economical choice where woody plants such as water willow grew among hyacinth.
+
+### Context
+> This 1955 completion report, prepared by Don R. Luethy for the [[Florida Game and Fresh Water Fish Commission]], documents the Noxious Vegetation Control Program (Project F-2-D-2). The program targeted [[Water Hyacinth]] and other emergent and marginal aquatic plants that were covering fishing...
+> -- *[[NoxiousVegetationControl_16243]]*
+
+### Mentioned In
+- [[NoxiousVegetationControl_16243]]
+
 ## 2,4-D
 
 ### Summary
@@ -306,6 +326,18 @@ The 1987 Wetlands Delineation Manual is the guidance the Corps and EPA use to de
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
+
+## 2,4-D Herbicide
+
+### Summary
+A widely used phenoxy herbicide that was the main chemical in this program, applied as an ester (aerial, oil carrier) or amine (boat, water carrier). The source reports average use of 0.64 gallon per acre to reach control and a chemical cost of about $2.99 per acre, but also warns that its vapor can drift and kill nearby crops.
+
+### Context
+> This 1955 completion report, prepared by Don R. Luethy for the [[Florida Game and Fresh Water Fish Commission]], documents the Noxious Vegetation Control Program (Project F-2-D-2). The program targeted [[Water Hyacinth]] and other emergent and marginal aquatic plants that were covering fishing...
+> -- *[[NoxiousVegetationControl_16243]]*
+
+### Mentioned In
+- [[NoxiousVegetationControl_16243]]
 
 ## 2-Methylquinoline
 <!-- fm: auto_enriched: true -->

@@ -634,6 +634,12 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This taxonomic paper by John Otterbein Snyder reports on a freshwater fish collection made by [[Edgar A. Mearns]], surgeon and naturalist with the United States Army, during the survey of the Mexican boundary between January 1892 and September 1894. The specimens came from rivers draining to the...
 > -- *[[NotesOnACollectionOfFishesMade_21252]]*
 
+> This 1975 final report to the U.S. Fish and Wildlife Service, prepared by [[Eric S. Gustafson]] and [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], Arizona State University, covers the first-year task of a planned five-year life history study of the [[Razorback...
+> -- *[[EarlyDevelopmentAdultSexualDim_17842]]*
+
+> This report, prepared by Diana Papoulias of [[Arizona State University]] for the U.S. Fish and Wildlife Service, Office of Endangered Species, describes three laboratory experiments testing whether food availability controls mortality and growth in larval [[Razorback Sucker]] (*[[Xyrauchen...
+> -- *[[TheEffectOfFoodAvailabilityOnG_18413]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -704,6 +710,8 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[SexualDimorphismInTheAdultRazo_17843]]
 - [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
 - [[NotesOnACollectionOfFishesMade_21252]]
+- [[EarlyDevelopmentAdultSexualDim_17842]]
+- [[TheEffectOfFoodAvailabilityOnG_18413]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->

@@ -434,6 +434,30 @@ Ocate Creek is one of the perennial tributaries of the Canadian River in northea
 ### Mentioned In
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
 
+## Ocate River
+
+### Summary
+A river from which water is diverted to Charette Lake through its sister lake, Upper Charette Lake. The source identifies it as the supply source for the lake's water.
+
+### Context
+> This New Mexico Department of Game and Fish job completion report (Federal Aid Project F-9-R-1, Job No. Bel) documents a 1955 season study of [[Charette Lake]], a 300-acre natural basin in [[Mora County]]. The lake was managed as a put-and-take [[Rainbow Trout]] fishery. Natural trout reproduction...
+> -- *[[AStudyOfTheFishPopulationsOfCh_20808]]*
+
+### Mentioned In
+- [[AStudyOfTheFishPopulationsOfCh_20808]]
+
+## Occidental Geanticline
+
+### Summary
+The Occidental Geanticline was a broad geanticline of Jurassic and Cretaceous age that Eardley (1951) described as controlling deposition in the region. The source mentions it only as one of the framing structures for the Mogollon Highlands. No further detail is given.
+
+### Context
+> This 1963 paper by M. E. Cooley and B. S. Davidson of the [[U.S. Geological Survey]] reconstructs the history of the [[Mogollon Highlands]], a persistent upland in central and southern Arizona and adjoining New Mexico. The authors argue that the highlands were a major control on erosion and...
+> -- *[[TheMogollonHighlandstheirInflu_17547]]*
+
+### Mentioned In
+- [[TheMogollonHighlandstheirInflu_17547]]
+
 ## Occult Little Brown Bat
 
 ### Summary
@@ -886,8 +910,13 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 ## Odum 1956
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This report, prepared at the [[Oklahoma Fishery Research Laboratory]] under Director Robert M. Jenkins and supported by the Oklahoma Wildlife Conservation Department and the University of Oklahoma Biological Survey, presents the first limnological survey of Oklahoma streams. The author, Lothar E....
+> -- *[[ASurveyOfFourOklahomaStreamsWi_19925]]*
+
 ### Mentioned In
 - [[AquaticMacrophytesAndTheOxygen_12171]]
+- [[ASurveyOfFourOklahomaStreamsWi_19925]]
 
 ## Odum 1957b
 
@@ -1020,6 +1049,18 @@ Office Cove is a backwater rearing site located at Bill Williams River National 
 
 ### Mentioned In
 - [[LakeMohaveBackwaterrearingFaci_15473]]
+
+## Office of Endangered Species
+
+### Summary
+The Office of Endangered Species is a U.S. federal office that has issued the U.S. Redbook of Rare and Endangered Wildlife since 1964. Miller cites it as one of the national bodies tracking threatened wildlife.
+
+### Context
+> This is an essay by [[Robert Rush Miller]] on the conservation of rare and endangered fishes, with emphasis on freshwater species of the American Southwest. Miller argues that fishes have received far less conservation attention than birds and mammals, that habitat alteration caused by human...
+> -- *[[RareAndEndangeredFish_15354]]*
+
+### Mentioned In
+- [[RareAndEndangeredFish_15354]]
 
 ## Office of Naval Research
 
@@ -1232,6 +1273,9 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This Illinois Natural History Survey Biological Notes report (No. 93, February 1975) by Lawrence M. Page documents the [[Life History]] of the [[Stripetail Darter]], *Etheostoma kennicotti*, in [[Big Creek]], Hardin County, Illinois. Based on 1,380 preserved specimens collected between 6 October...
 > -- *[[TheLifeHistoryOfTheStripetailD_18382]]*
 
+> This Illinois Natural History Survey Biological Notes publication (No. 73, May 1971) by Philip W. Smith, Alvin C. Lopinot, and William L. Pflieger documents the present distribution of fishes along the [[Upper Mississippi River]]. It was produced as a joint contribution of the [[Upper Mississippi...
+> -- *[[ADistributionalAtlasOfUpperMis_21198]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -1255,6 +1299,7 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[ArtificialKeysForTheIdentifica_13390]]
 - [[TheAgeAndGrowthOfCatostomusCom_14581]]
 - [[TheLifeHistoryOfTheStripetailD_18382]]
+- [[ADistributionalAtlasOfUpperMis_21198]]
 
 ## Ohio River Drainage
 <!-- fm: auto_enriched: true -->
@@ -1271,8 +1316,13 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 ## Ohio River Valley Water Sanitation Commission
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1956 handbook, prepared by the [[Aquatic-Life Advisory Committee]] for the [[Ohio River Valley Water Sanitation Commission]], provides a uniform field protocol for the initial investigation of fish-kills in natural waters. It is explicitly a practical outline for emergency response, not a...
+> -- *[[ProceduresForInvestigationOfFi_21178]]*
+
 ### Mentioned In
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
+- [[ProceduresForInvestigationOfFi_21178]]
 
 ## Ohio Shad
 
@@ -1628,10 +1678,14 @@ The Oklahoma Fishery Research Laboratory was a state research institution that c
 > This 1961 report by Thomas L. Linton, issued by the [[Oklahoma Fishery Research Laboratory]] (Report No. 81), documents a pre-impoundment survey of the reaches of the [[Arkansas River]] and [[Cimarron River]] that would be inundated by the proposed [[Keystone Reservoir]] in northeastern Oklahoma....
 > -- *[[AStudyOfFishesOfTheArkansasAnd_20347]]*
 
+> This report, prepared at the [[Oklahoma Fishery Research Laboratory]] under Director Robert M. Jenkins and supported by the Oklahoma Wildlife Conservation Department and the University of Oklahoma Biological Survey, presents the first limnological survey of Oklahoma streams. The author, Lothar E....
+> -- *[[ASurveyOfFourOklahomaStreamsWi_19925]]*
+
 ### Mentioned In
 - [[SummaryOfCommercialFisheriesCa_19834]]
 - [[GrowthOfBlackBullheadCatfishIn_19942]]
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
+- [[ASurveyOfFourOklahomaStreamsWi_19925]]
 
 ## Oklahoma Fishery Resources Office
 <!-- fm: auto_enriched: true -->
@@ -1712,11 +1766,15 @@ Oklahoma State University was the institution where this research on fish bioass
 > This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
 > -- *[[InteractionOfEffectsByEnvironm_14113]]*
 
+> This 1987 Master of Science thesis from [[Oklahoma State University]] (Zoology, 45 pages, by Patrick J. Connor) uses an [[Allozyme Analysis]] survey to document hybridization between the endemic [[Pecos Pupfish]] (*Cyprinodon pecosensis*) and the introduced [[Sheepshead Minnow]] (*C. variegatus*)...
+> -- *[[AGeneticAnalysisOfAHybridSwarm_17485]]*
+
 ### Mentioned In
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[FishCollectionRecordsAndFieldN_15305]]
 - [[InteractionOfEffectsByEnvironm_14113]]
+- [[AGeneticAnalysisOfAHybridSwarm_17485]]
 
 ## Oklahoma Wildlife Conservation Department
 
@@ -1912,6 +1970,18 @@ Old Hickory Reservoir is a major impoundment on the Cumberland River in Tennesse
 - [[CatastrophicFishMortalitiesOnK_1965_11_16]]
 - [[OutbreaksOfColumnarisInCenterH_1959]]
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
+
+## Old High Water Zone
+
+### Summary
+A riparian zone along the Colorado River in Grand Canyon that the source describes as declining. It is one of three riparian zone types the report distinguishes under post-dam flow conditions.
+
+### Context
+> This Final Report (February 1998), prepared by Duncan T. Patten for the [[Bureau of Reclamation]] and the [[Grand Canyon Monitoring and Research Center]] under Cooperative Agreement 1425-96-FC-81-05003, evaluates research funded by [[Glen Canyon Environmental Studies]] (GCES) Phases I and II. It...
+> -- *[[IntegrationAndEvaluationOfGlen_18447]]*
+
+### Mentioned In
+- [[IntegrationAndEvaluationOfGlen_18447]]
 
 ## Old River
 
@@ -3011,6 +3081,18 @@ The Opaleye (Girella simplicans) is a fish the key uses to illustrate basic exte
 ### Mentioned In
 - [[KeyToTheFamiliesOfTheInshoreTe_13333]]
 
+## Open Access Fisheries
+
+### Summary
+Fisheries in which no effective limit restricts who can fish, so individual fishers lack incentive to conserve. The Strategy notes this leads to depletion and over-capitalization, and that management systems must account for it (principle 14(ix)).
+
+### Context
+> This document is the FAO *Strategy for Fisheries Management and Development* (Rome, 1986), endorsed by consensus at the FAO World Conference on Fisheries Management and Development (27 June–6 July 1984). It is a non-binding set of principles and guidelines for governments and international...
+> -- *[[StrategyForFisheriesManagement_18774]]*
+
+### Mentioned In
+- [[StrategyForFisheriesManagement_18774]]
+
 ## Open Ditch Effluent Passage
 
 ### Summary
@@ -3046,6 +3128,18 @@ A Potomac direct tributary covered by the survey, with flow data in Table 3. The
 
 ### Mentioned In
 - [[GameFishStreamsAndRecordsOfFis_21088]]
+
+## Operating Principles
+
+### Summary
+The Fryingpan-Arkansas Project Operating Principles (House Document 130) are governing documents cited in this source as permitting sale or lease of Ruedi Reservoir storage to Colorado users for any purpose recognized by U.S. law. The source also references paragraph 19, which gives the Fryingpan-Arkansas Commission power to collect data and make findings of fact.
+
+### Context
+> This 1989 Colorado Water Conservation Board (CWCB) memorandum and attached draft contract propose a legally enforceable mechanism for delivering 10,000 acre-feet of stored water from the regulatory capacity of [[Ruedi Reservoir]] to the 15 Mile Reach of the [[Colorado River]] below Palisade. The...
+> -- *[[RuediReservoirReleasescolorado_12300]]*
+
+### Mentioned In
+- [[RuediReservoirReleasescolorado_12300]]
 
 ## Opercle
 
@@ -3416,8 +3510,12 @@ Optical Character Recognition (OCR) is software that converts images of printed 
 > The source is a two-page scan of a newspaper edition dated Monday, February 17, 1964, with the masthead "ARIZONA." Most of the text is too degraded to read reliably. Page 1 is rotated and dominated by OCR noise, and Page 2 contains numbered, column-style text with some dollar-like figures. No...
 > -- *[[UdallPutsCentralArizonaProject_14402]]*
 
+> The supplied document is a three-page scan whose text layer is almost entirely corrupted. Most lines appear rotated, mirrored, or upside down, and the resulting character strings are not recoverable words in any language. Because of this, the note cannot report species, sites, sample sizes,...
+> -- *[[LakeMeadNationalRecreationArea_11518]]*
+
 ### Mentioned In
 - [[UdallPutsCentralArizonaProject_14402]]
+- [[LakeMeadNationalRecreationArea_11518]]
 
 ## Optical Method
 
@@ -3624,6 +3722,9 @@ Orangemouth Corvina is a marine fish species that has been documented in the con
 > This document bundles two [[California Department of Fish and Game]] Inland Fisheries Branch administrative reports. The first summarizes the production and operating costs of the Department's [[Fish Hatcheries]] for the 1968-69 fiscal year, when output first exceeded 3,000,000 pounds of fish. The...
 > -- *[[CaliforniaTroutSalmonAndWarmwa_20548]]*
 
+> This document is a 1958 revision of the official check list of California's freshwater and anadromous fishes, prepared by Leo Shapovalov, William A. Dill, and Almo J. Cordone of the [[California Department Of Fish And Game]] Inland Fisheries Branch. It replaces the 1950 edition because nine years...
+> -- *[[ARevisedCheckListOfTheFreshwat_11401]]*
+
 ### Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 - [[EvaluationOfProposedIntroducti_12261]]
@@ -3634,6 +3735,7 @@ Orangemouth Corvina is a marine fish species that has been documented in the con
 - [[SaltonSeaFishLarvaeInvestigati_20193]]
 - [[ADistributionSurveyOfDesertPup_20197]]
 - [[CaliforniaTroutSalmonAndWarmwa_20548]]
+- [[ARevisedCheckListOfTheFreshwat_11401]]
 
 ## Orangespotted Sunfish
 <!-- fm: auto_enriched: true -->
@@ -3745,8 +3847,12 @@ Orchard Mesa Irrigation District is one of several water management entities tha
 > The 1996 Annual Report documents progress of the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover four endangered fish species—[[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and [[Humpback Chub]]...
 > -- *[[AnnualReportRecoveryProgramFor_11678]]*
 
+> This 1989 Colorado Water Conservation Board (CWCB) memorandum and attached draft contract propose a legally enforceable mechanism for delivering 10,000 acre-feet of stored water from the regulatory capacity of [[Ruedi Reservoir]] to the 15 Mile Reach of the [[Colorado River]] below Palisade. The...
+> -- *[[RuediReservoirReleasescolorado_12300]]*
+
 ### Mentioned In
 - [[AnnualReportRecoveryProgramFor_11678]]
+- [[RuediReservoirReleasescolorado_12300]]
 
 ## Orchard Mesa Power Plant
 
@@ -4508,6 +4614,12 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > This Technical Report (No. 13) from the [[Cooperative National Park Resources Studies Unit]] at the University of Arizona, published December 1983, examines how birds use the two management areas of [[Quitobaquito Springs]], a desert oasis within [[Organ Pipe Cactus National Monument]]. Breeding...
 > -- *[[AvianUseOfQuitobaquitoSpringsO_19805]]*
 
+> This short 1969 methods paper reports an attempt to determine the chromosome number of the [[Desert Pupfish]] (*Cyprinodon macularius*), a small desert fish whose range has shrunk to a few isolated springs and ponds. The author did not attempt to interpret the number or construct a [[Karyotype]]....
+> -- *[[ChromosomeStudyOnTheDesertPupf_15677]]*
+
+> This issue of *Bajada*, a free triannual newsletter from the [[National Biological Service]] Cooperative Park Studies Unit at The University of Arizona, is a multi-article communication piece rather than a single study. Its dominant theme is the conservation of endangered native desert fishes in...
+> -- *[[RioYaquiFishesTwoRefugesSustai_15979]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -4534,6 +4646,8 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[WrittenCommentsOnDraftGeneralM_20520]]
 - [[DesertPupfishCyprinodonMacular_17053]]
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
+- [[ChromosomeStudyOnTheDesertPupf_15677]]
+- [[RioYaquiFishesTwoRefugesSustai_15979]]
 
 ## Organ Pipe National Monument
 
@@ -4734,6 +4848,18 @@ The Oriental Realm is one of three major biogeographic realms connected by the L
 
 ### Mentioned In
 - [[LetterFromPeterBMoyleToWalterR_1991_01_22]]
+
+## Orientation Responses
+
+### Summary
+Directed or undirected reactions of an organism to environmental stimuli. Fraenkel and Gunn (1940) separate primary orientation (normal posture relative to fixed marks) from secondary orientation, dividing responses into kineses (undirected) and taxes (directed), with transverse orientations as a further category.
+
+### Context
+> This is a review chapter by F.E.J. Fry (Department of Zoology, University of Toronto), published in the *Proceedings of the Indo-Pacific Fisheries Council* (III), pages 37–42, in 1958. It surveys laboratory and aquarium methods for studying fish behaviour, with emphasis on the **ecological level**...
+> -- *[[TheExperimentalStudyOfBehaviou_18861]]*
+
+### Mentioned In
+- [[TheExperimentalStudyOfBehaviou_18861]]
 
 ## Orinoco
 
@@ -5091,6 +5217,18 @@ Orthoselection is a form of directional selection that the author proposes as th
 
 ### Mentioned In
 - [[PhylogenetischeTrendsInDerGatt_14751]]
+
+## Orvar Nybelin
+
+### Summary
+Orvar Nybelin was a researcher who revised the genus Anotopterus in 1946 and described A. antarcticus and A. arcticus. The source argues that the size differences he used to separate these species reflect latitude, collection method, and age rather than true species differences.
+
+### Context
+> This 1953 *Bulletin of the Scripps Institution of Oceanography* paper by [[Carl L. Hubbs]], [[Giles W. Mead]], and [[Norman J. Wilimovsky]] reports new North Pacific records of the highly modified bathypelagic fish [[Anotopterus Pharao]], previously known only from the northeastern Atlantic and...
+> -- *[[TheWidespreadProbablyAntitropi_14301]]*
+
+### Mentioned In
+- [[TheWidespreadProbablyAntitropi_14301]]
 
 ## Oryzias
 
@@ -5835,6 +5973,18 @@ Othilia tenuispina is a common orange starfish of the lowest rocky intertidal zo
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
 
+## Otic Placodes
+
+### Summary
+Thickenings of the embryonic ectoderm that form the origin of the inner ear and the lateral-line canals. In this source, the otic placodes form dorsally and just posterior to the rhombencephalon at Stage 8. Canal extensions grow from them in Stage 10, and by Stage 11 they have become auditory vesicles and lost contact with the canal extensions.
+
+### Context
+> This 1965 Master of Science thesis from [[Arizona State University]] (Department of Zoology, by Daniel L. Neel) examines the anatomy, histology, and embryology of the cephalic [[Acustico-Lateralis System]] in the [[Western Mosquitofish]] (*Gambusia affinis affinis*). The fish's open-furrow sensory...
+> -- *[[EmbryonicDevelopmentOfTheSenso_19617]]*
+
+### Mentioned In
+- [[EmbryonicDevelopmentOfTheSenso_19617]]
+
 ## Otis-Burnham-White-Anderson Method
 
 ### Summary
@@ -6113,10 +6263,14 @@ A bottom-towed net used by the four northern California vessels that supplied th
 > This U.S. Fish and Wildlife Service fishery leaflet (Fishery Leaflet 241, Part I of two) by [[Boris O. Knake]] describes hand methods of [[Net Mending]] used by New England [[Otter Trawl]] fishermen. It covers netting terminology, knot definitions, damage inspection and trimming, needle filling,...
 > -- *[[MethodsOfNetMendingnewEngland_12569]]*
 
+> This Illinois Natural History Survey Biological Notes publication (No. 73, May 1971) by Philip W. Smith, Alvin C. Lopinot, and William L. Pflieger documents the present distribution of fishes along the [[Upper Mississippi River]]. It was produced as a joint contribution of the [[Upper Mississippi...
+> -- *[[ADistributionalAtlasOfUpperMis_21198]]*
+
 ### Mentioned In
 - [[StatusOfTheAnimalFoodFisheryIn_18204]]
 - [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
 - [[MethodsOfNetMendingnewEngland_12569]]
+- [[ADistributionalAtlasOfUpperMis_21198]]
 
 ## Otter Trawling
 
@@ -6385,6 +6539,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This manuscript (Ms. no. 95-130 in peer review at the [[Great Basin Naturalist]]) by [[Timothy Modde]] of the [[Colorado River Fishery Project]] (U.S. Fish and Wildlife Service) reports the occurrence of subadult [[Razorback Sucker]] in the [[Green River]] and [[Yampa River]] and examines whether...
 > -- *[[OccurrenceOfSubadultRazorbackS_16531]]*
 
+> This is a January 10, 1994 comment letter from the [[Sierra Club Legal Defense Fund]] to the Utah State Supervisor of the [[U.S. Fish and Wildlife Service]] on the proposed rule designating [[Critical Habitat]] for four endangered fishes of the [[Colorado River Basin]]: the [[Bonytail Chub]],...
+> -- *[[ProposedRuleDesignatingCritica_17486]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -6410,6 +6567,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[ColoradoSquawfishRecoveryPlan_20997]]
 - [[ReconnaissanceInventoryAndPrio_14383]]
 - [[OccurrenceOfSubadultRazorbackS_16531]]
+- [[ProposedRuleDesignatingCritica_17486]]
 
 ## Ouray Reach
 
@@ -6539,6 +6697,18 @@ Places where aquatic macroinvertebrates persist through the dry period, such as 
 ### Mentioned In
 - [[MeetingSummaryColoradoRiverTec_1989_03_30]]
 
+## Overby and Neary
+
+### Summary
+A 1996 study that counted a minimum of 81 sets of relict travertine dams on Fossil Creek, mostly near channel nick points. The source notes that this count is unverified.
+
+### Context
+> This technical report, prepared by W.L. Bouchard & Associates for [[Arizona Public Service Company]] (APS), supports the relicensing of the [[Childs and Irving Hydroelectric Project]] (FERC Project No. 2069-003) on [[Fossil Creek]], a tributary of the [[Verde River]]. The core question is how...
+> -- *[[FossilCreekHydrologyAndTravert_20796]]*
+
+### Mentioned In
+- [[FossilCreekHydrologyAndTravert_20796]]
+
 ## Overfall Type Fishway
 
 ### Summary
@@ -6561,10 +6731,14 @@ A fishway in which water passes from pool to pool mainly over notched weirs or c
 > This U.S. Fish and Wildlife Service, Bureau of Commercial Fisheries leaflet (Fishery Leaflet 526, September 1961, by Lola T. Dees) is a general overview of the [[Sturgeon]] family, Acipenseridae. It covers morphology, life history, feeding, reproduction, behavior, the causes of population decline,...
 > -- *[[Sturgeons_12753]]*
 
+> This U.S. Fish and Wildlife Service Fishery Leaflet (No. 614, August 1968) by Randall P. Cheek of the [[Bureau Of Commercial Fisheries]] Biological Laboratory, Beaufort, N.C., reviews the life history, fisheries, and management of the [[American Shad]] (*[[Alosa Sapidissima]]*). The leaflet focuses...
+> -- *[[TheAmericanShad_16110]]*
+
 ### Mentioned In
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
 - [[TheControlOfPopulationDensityT_1959]]
 - [[Sturgeons_12753]]
+- [[TheAmericanShad_16110]]
 
 ## Overflow Wetlands Wildlife Habitat Area
 <!-- fm: auto_enriched: true -->
@@ -6807,6 +6981,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
 > -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
 
+> This is an essay by [[Robert Rush Miller]] on the conservation of rare and endangered fishes, with emphasis on freshwater species of the American Southwest. Miller argues that fishes have received far less conservation attention than birds and mammals, that habitat alteration caused by human...
+> -- *[[RareAndEndangeredFish_15354]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -6829,6 +7006,7 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[ReferencesForNdEditionOfInland_15457]]
 - [[AtTheCrossroadsAReportOnCalifo_20214]]
 - [[ObservationsOnTheStatusOfTheDe_12013]]
+- [[RareAndEndangeredFish_15354]]
 
 ## Owens River
 <!-- fm: auto_enriched: true -->
@@ -6994,6 +7172,9 @@ The Owens Valley represents a significant case study in the historical transitio
 > This document is the program for the 22nd Annual Symposium of the Desert Fishes Council (El Consejo de los Peces del Desierto), held November 14-17, 1990, at the Facultad de Ciencias, Universidad Autónoma de Baja California, Ensenada, Baja California, Mexico. The symposium featured 36 scientific...
 > -- *[[ElConsejoDeLosPecesDelDesierto_12830]]*
 
+> This is an essay by [[Robert Rush Miller]] on the conservation of rare and endangered fishes, with emphasis on freshwater species of the American Southwest. Miller argues that fishes have received far less conservation attention than birds and mammals, that habitat alteration caused by human...
+> -- *[[RareAndEndangeredFish_15354]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
@@ -7002,6 +7183,7 @@ The Owens Valley represents a significant case study in the historical transitio
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[FishesAndAquaticResourcesDeath_15415]]
 - [[ElConsejoDeLosPecesDelDesierto_12830]]
+- [[RareAndEndangeredFish_15354]]
 
 ## Owens Valley Native Fish Sanctuary
 <!-- fm: auto_enriched: true -->
@@ -7022,12 +7204,16 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 > This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
 > -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
 
+> This is an essay by [[Robert Rush Miller]] on the conservation of rare and endangered fishes, with emphasis on freshwater species of the American Southwest. Miller argues that fishes have received far less conservation attention than birds and mammals, that habitat alteration caused by human...
+> -- *[[RareAndEndangeredFish_15354]]*
+
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[ObservationsOnTheStatusOfTheDe_12013]]
+- [[RareAndEndangeredFish_15354]]
 
 ## Owens Valley Pupfish
 <!-- fm: auto_enriched: true -->
@@ -7365,9 +7551,13 @@ Marine and estuarine bivalve molluscs that are widely cultured for food. The sou
 > This review by [[Walter A. Chipman]] of the [[U.S. Fish and Wildlife Service]] Radiobiological Investigations examines how marine fish and shellfish take up radioactive materials when [[Fission Products]] and other radioisotopes are present in sea water. Drawing mainly on laboratory work at the...
 > -- *[[AccumulationOfRadioactiveMater_16139]]*
 
+> This 1962 public circular from the [[Bureau Of Sport Fisheries And Wildlife]] explains what wetlands are, why they matter to a wide range of users, how they have been lost, and what conservation programs are in place. It frames wetlands as a national "resource estate" whose main purpose is...
+> -- *[[YourStakeInWetlandsWhatWetland_13280]]*
+
 ### Mentioned In
 - [[AnIndexedListOfFaoPublications_16312]]
 - [[AccumulationOfRadioactiveMater_16139]]
+- [[YourStakeInWetlandsWhatWetland_13280]]
 
 ## Ozark Blindfish
 
