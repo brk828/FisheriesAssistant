@@ -125,6 +125,18 @@ Kajaki is the site of a dam in Afghanistan that represents one of the environmen
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
 
+## Kalama River
+
+### Summary
+The Kalama River is a lower Columbia tributary in Washington. Its upstream spawning area is limited to about 7 miles by an insurmountable falls. Fall chinook there built 143 redds averaging 5.7 square yards, and large gravel made redds smaller than in the Toutle system.
+
+### Context
+> This Fish and Wildlife Service bulletin (Fishery Bulletin 61, Volume 52, 1951) by [[Clifford J. Burner]] describes the spawning nests, or [[Redd]]s, of four Pacific salmon species in the [[Columbia River]] watershed. The study was undertaken to guide the relocation of salmon runs displaced by...
+> -- *[[CharacteristicsOfSpawningNests_14037]]*
+
+### Mentioned In
+- [[CharacteristicsOfSpawningNests_14037]]
+
 ## Kalamazoo River
 
 ### Summary
@@ -628,6 +640,18 @@ Kaolinite is a non-swelling kaolin group clay mineral. In exploratory tests cite
 ### Mentioned In
 - [[PredictingFrostHeavingSuscepti_16596]]
 
+## Kapp and Gooding
+
+### Summary
+Researchers whose 1964 regional pollen work the authors cite when drawing climatic inferences from their Lake Erie pollen zones by correlation with other records.
+
+### Context
+> This 1966 study by [[Lewis, Anderson, and Berti]] of the [[Geological Survey of Canada]] uses [[Piston Coring]], [[Echo Sounding]], [[Seismic Reflection Profiling]] and SCUBA observations to reconstruct a postglacial low-water stage of [[Lake Erie]], named [[Early Lake Erie]]. Geological evidence...
+> -- *[[GeologicalAndPalynologicalStud_20301]]*
+
+### Mentioned In
+- [[GeologicalAndPalynologicalStud_20301]]
+
 ## Kara Lamb
 
 ### Summary
@@ -864,6 +888,18 @@ Kathy Hiett was a biological technician with CPSU/UA who participated in field r
 ### Mentioned In
 - [[ProjectsTakeStaffToTheField_13221]]
 
+## Kathy Holley
+
+### Summary
+Kathy Holley is a Bureau of Reclamation biologist profiled in the newsletter. She leads a study of selenium effects on razorback sucker reproduction, which holds larval fish in lab jars and places adult razorbacks in a managed side channel for 18 months.
+
+### Context
+> This 1997 newsletter from the [[Upper Colorado River Recovery Program]] reports on habitat acquisition, wetland restoration, hatchery operations, stocking, water-rights agreements, and local partnerships. The program aims to re-establish self-sustaining populations of four endangered fishes:...
+> -- *[[RecoveryProgramForTheEndangere_11682]]*
+
+### Mentioned In
+- [[RecoveryProgramForTheEndangere_11682]]
+
 ## Kats Petranka And Sih 1988
 <!-- fm: auto_enriched: true -->
 
@@ -1046,6 +1082,18 @@ Kellicotia is a rotifer genus found in the zooplankton community of Twin Lakes. 
 
 ### Mentioned In
 - [[EstablishmentOfTilap_1970]]
+
+## Kelly Pond
+
+### Summary
+One of the five Lake Winnipegosis nursery ponds stocked with walleye in 1977. The source lists it among the stocked ponds but gives no further details about it.
+
+### Context
+> This Canadian Technical Report from the [[Department Of Fisheries And Oceans]] (Western Region, Winnipeg) evaluates small, shallow [[Rearing Ponds]] on the shores of [[Lake Winnipegosis]] as nursery areas for young-of-the-year [[Walleye]]. The study, conducted in 1977, examined growth, survival,...
+> -- *[[GrowthAndSurvivalOfWalleyeStiz_17356]]*
+
+### Mentioned In
+- [[GrowthAndSurvivalOfWalleyeStiz_17356]]
 
 ## Kelly Tank
 
@@ -1623,6 +1671,18 @@ The Kentucky River is a major freshwater drainage system in central Kentucky tha
 ### Mentioned In
 - [[BiologicalNotesOnSomeEastAfric_14561]]
 
+## Keokuk
+
+### Summary
+A city in Iowa on the Upper Mississippi River and the main fieldwork site for this study in 1957 and 1958. Mayfly emergences there were tracked through bottom sampling and reports, and the source notes it is less troubled by nuisance mayflies than Fort Madison.
+
+### Context
+> This study examines the biology of [[Hexagenia Bilineata]] and its congener [[Hexagenia Limbata]], large mayflies whose mass emergences along the [[Upper Mississippi River]] create nuisances, navigation hazards and possible allergies in river cities. Fieldwork in 1957 and 1958 centered on...
+> -- *[[BiologyOfALargeMayflyHexagenia_18832]]*
+
+### Mentioned In
+- [[BiologyOfALargeMayflyHexagenia_18832]]
+
 ## Kepner Jakle & Baucom 1983
 <!-- fm: auto_enriched: true -->
 
@@ -1786,6 +1846,18 @@ The Kern River Rainbow Trout is an endemic California salmonid historically rest
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[LetterToDADuffOnSalmoAndParasa_1988_03_09]]
 - [[SalmoRoseiNotAValidSpecies_12861]]
+
+## Kern River Trout Hatchery
+
+### Summary
+This is a California Department of Fish and Game trout hatchery. The source notes that its return to production, along with Fillmore's, helped drive the rise in catchable trout output in 1968-69.
+
+### Context
+> This document bundles two [[California Department of Fish and Game]] Inland Fisheries Branch administrative reports. The first summarizes the production and operating costs of the Department's [[Fish Hatcheries]] for the 1968-69 fiscal year, when output first exceeded 3,000,000 pounds of fish. The...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_20548]]*
+
+### Mentioned In
+- [[CaliforniaTroutSalmonAndWarmwa_20548]]
 
 ## Kerr Dam
 <!-- fm: auto_enriched: true -->
@@ -1997,11 +2069,35 @@ The Keystone Biodiversity Strategy was a meeting or initiative focused on biodiv
 ### Mentioned In
 - [[ReactionsToTalkAtAfsMeetingInB_18595]]
 
+## Keystone Dam
+
+### Summary
+A planned earth-fill dam with a concrete spillway, about one mile below the confluence of the Arkansas and Cimarron rivers near Keystone, Oklahoma. The source describes it as 4,570 ft long and 121 ft high, with a drainage basin of 74,350 square miles. It was authorized for flood control, navigation, and water supply, and was designed so power generation could be added later.
+
+### Context
+> This 1961 report by Thomas L. Linton, issued by the [[Oklahoma Fishery Research Laboratory]] (Report No. 81), documents a pre-impoundment survey of the reaches of the [[Arkansas River]] and [[Cimarron River]] that would be inundated by the proposed [[Keystone Reservoir]] in northeastern Oklahoma....
+> -- *[[AStudyOfFishesOfTheArkansasAnd_20347]]*
+
+### Mentioned In
+- [[AStudyOfFishesOfTheArkansasAnd_20347]]
+
 ## Keystone Predator
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+
+## Keystone Reservoir
+
+### Summary
+The proposed reservoir that would be formed by Keystone Dam on the Arkansas and Cimarron rivers in northeastern Oklahoma. The source gives it a conservation pool elevation of 714.5 ft, a surface area of 20,500 acres, and about 260 miles of shoreline. The author used the survey to predict how impoundment would change the local fish community, expecting it to resemble Lake Texoma and Canton Reservoir.
+
+### Context
+> This 1961 report by Thomas L. Linton, issued by the [[Oklahoma Fishery Research Laboratory]] (Report No. 81), documents a pre-impoundment survey of the reaches of the [[Arkansas River]] and [[Cimarron River]] that would be inundated by the proposed [[Keystone Reservoir]] in northeastern Oklahoma....
+> -- *[[AStudyOfFishesOfTheArkansasAnd_20347]]*
+
+### Mentioned In
+- [[AStudyOfFishesOfTheArkansasAnd_20347]]
 
 ## Keystone Species
 <!-- fm: auto_enriched: true -->
@@ -2127,6 +2223,18 @@ Author of an earlier Florida study (1955) cited by the authors. It covered a sin
 
 ### Mentioned In
 - [[SomeEffectsOfANeutralMixtureOf_1969_06_11]]
+
+## Killdeer
+
+### Summary
+A plover that bred at Quitobaquito when Hensley surveyed the site in 1954 but was absent in 1983. The authors link its decline to the loss of the open gravel shoreline when the pond was drained and diked.
+
+### Context
+> This Technical Report (No. 13) from the [[Cooperative National Park Resources Studies Unit]] at the University of Arizona, published December 1983, examines how birds use the two management areas of [[Quitobaquito Springs]], a desert oasis within [[Organ Pipe Cactus National Monument]]. Breeding...
+> -- *[[AvianUseOfQuitobaquitoSpringsO_19805]]*
+
+### Mentioned In
+- [[AvianUseOfQuitobaquitoSpringsO_19805]]
 
 ## Killifish
 <!-- fm: auto_enriched: true -->
@@ -2307,6 +2415,15 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This 1951 preliminary analysis by [[Garth I. Murphy]] and [[Leo Shapovalov]] of the California Division of Fish and Game compares fish-counting records from four northern California stations with commercial catch statistics for [[King Salmon]], [[Silver Salmon]] and [[Steelhead Trout]]. Correlation...
 > -- *[[APreliminaryAnalysisOfNorthern_15526]]*
 
+> This 1951 survey by the [[California Department Of Fish And Game]], run jointly with the [[Fish And Wildlife Service]] and the [[Bureau Of Reclamation]], was the first quantitative estimate of young-of-year [[Striped Bass]] abundance in the [[Sacramento-San Joaquin Delta]]. Using oblique tow-net...
+> -- *[[DistributionOfStripedBassFryIn_17336]]*
+
+> This document bundles two [[California Department of Fish and Game]] Inland Fisheries Branch administrative reports. The first summarizes the production and operating costs of the Department's [[Fish Hatcheries]] for the 1968-69 fiscal year, when output first exceeded 3,000,000 pounds of fish. The...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_20548]]*
+
+> This 1963 report from the [[U.S. Fish and Wildlife Service]] (Bureau of Commercial Fisheries) by Robert M. Yancey and Fredrik V. Thorsteinson, published as Special Scientific Report–Fisheries No. 440, investigates the decline of [[King Salmon]] (*Oncorhynchus tshawytscha*) runs in [[Cook Inlet]],...
+> -- *[[TheKingSalmonOfCookInletAlaska_20877]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -2323,6 +2440,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[FishesOfNevada_15993]]
 - [[TheYellowPerchPercaFlavescensM_17576]]
 - [[APreliminaryAnalysisOfNorthern_15526]]
+- [[DistributionOfStripedBassFryIn_17336]]
+- [[CaliforniaTroutSalmonAndWarmwa_20548]]
+- [[TheKingSalmonOfCookInletAlaska_20877]]
 
 ## King Snake
 
@@ -2458,6 +2578,18 @@ Kingston Springs is a town in Cheatham County, Tennessee, near the type-locality
 
 ### Mentioned In
 - [[FurtherObservationsOnTheMigrat_1974_03_28]]
+
+## Kinne 1960
+
+### Summary
+This is a study cited in the source showing that hypersalinity reduced the growth of the desert pupfish. It supports the source's expectation that high salinity slows growth in Salton Sea fishes.
+
+### Context
+> This document bundles two [[California Department of Fish and Game]] Inland Fisheries Branch administrative reports. The first summarizes the production and operating costs of the Department's [[Fish Hatcheries]] for the 1968-69 fiscal year, when output first exceeded 3,000,000 pounds of fish. The...
+> -- *[[CaliforniaTroutSalmonAndWarmwa_20548]]*
+
+### Mentioned In
+- [[CaliforniaTroutSalmonAndWarmwa_20548]]
 
 ## Kinniconick Creek
 <!-- fm: auto_enriched: true -->
@@ -2637,8 +2769,12 @@ Kiyi (Coregonus kiyi) is a deepwater cisco from the Salmonidae family that grows
 > This 1986 report by the Arizona Game and Fish Department evaluates 18 potential forage fish species for introduction into [[Lake Mead]] to support declining [[Striped Bass]] populations. [[Threadfin Shad]] populations had decreased during the late 1970s, resulting in poor growth and emaciation of...
 > -- *[[ReviewOfPotentialForageFishInt_19139]]*
 
+> This technical report by [[E. J. Crossman]] and [[Harry D. Van Meter]] (Great Lakes Fishery Commission Technical Report No. 36, June 1979) is an annotated checklist of the fishes of [[Lake Ontario]] and its watershed. It draws on published distribution records, [[Royal Ontario Museum]] collections,...
+> -- *[[AnnotatedListOfTheFishesOfTheL_18070]]*
+
 ### Mentioned In
 - [[ReviewOfPotentialForageFishInt_19139]]
+- [[AnnotatedListOfTheFishesOfTheL_18070]]
 
 ## Kjeldahl Method
 <!-- fm: auto_enriched: true -->
@@ -2686,9 +2822,13 @@ The Klamath and North Coast Province encompasses the Klamath River, Trinity Rive
 > This document is a 1929 taxonomic check-list of freshwater fishes recorded in [[Oregon]] and [[Washington]] and adjacent regions. It was compiled by [[Leonard P. Schultz]] from published literature, supplemented by a few unpublished records of introduced species observed by D. R. Crawford and the...
 > -- *[[ChecklistOfTheFreshwaterFishes_20621]]*
 
+> This document is a 1992 federal biological opinion (USFWS) and supporting review covering two endemic catostomid fishes, the [[Lost River Sucker]] and the [[Shortnose Sucker]], both federally listed as endangered on July 18, 1988. It traces the historical abundance of the suckers in the [[Klamath...
+> -- *[[ExcerptFromBiologicalOpinionlo_11599]]*
+
 ### Mentioned In
 - [[MaintenanceOfJuvenileShortnose_1987]]
 - [[ChecklistOfTheFreshwaterFishes_20621]]
+- [[ExcerptFromBiologicalOpinionlo_11599]]
 
 ## Klamath Basin Sucker Working Group
 <!-- fm: auto_enriched: true -->
@@ -2760,6 +2900,18 @@ The Klamath Lakes are a system of freshwater lakes in the Klamath River Basin, p
 - [[ScopeOfWorkForShortnoseAndLost_1986_12_08]]
 - [[BiochemistryAndMorphologyOfUpp_20670]]
 
+## Klamath Project
+
+### Summary
+The Klamath Project is an irrigation development in the Klamath Basin that drained and converted large areas of marsh. The source reports that more than 100,000 of its 240,000 irrigated acres were marshland before project actions, and that project-induced lake fluctuations average about three feet.
+
+### Context
+> This document is a 1992 federal biological opinion (USFWS) and supporting review covering two endemic catostomid fishes, the [[Lost River Sucker]] and the [[Shortnose Sucker]], both federally listed as endangered on July 18, 1988. It traces the historical abundance of the suckers in the [[Klamath...
+> -- *[[ExcerptFromBiologicalOpinionlo_11599]]*
+
+### Mentioned In
+- [[ExcerptFromBiologicalOpinionlo_11599]]
+
 ## Klamath River
 <!-- fm: auto_enriched: true -->
 
@@ -2812,6 +2964,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This 1955 magazine reprint, from the April 1955 issue of *Sunset* (Lane Publishing Co.), was issued for the California Department of Fish and Game. It profiles the trout of the American West, covering five native trout and three introduced species, and gives a state-by-state report on trout...
 > -- *[[TheStoryOfWesternTrout_14677]]*
 
+> This California Department of Fish and Game special publication (Special Publication 82-1, February 1982), by [[Robert A. Daniels]] and [[Louis A. Courtois]], reviews the status of the [[Rough Sculpin]], a small freshwater cottid restricted to the middle [[Pit River]] system of northeastern...
+> -- *[[StatusAndProposedManagementOfT_13934]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -2831,6 +2986,7 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[TheYellowPerchPercaFlavescensM_17576]]
 - [[ARevisionOfTheOsmeridFishesOfT_19980]]
 - [[TheStoryOfWesternTrout_14677]]
+- [[StatusAndProposedManagementOfT_13934]]
 
 ## Klamath River Basin
 
@@ -3232,6 +3388,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This 1968 report by Regional Fishery Biologist Jerry L. Mallet, [[Idaho Department of Fish and Game]], evaluates fishery management on [[Coeur d'Alene Lake]] using a [[Boat Count Interview Census]] run from April 29 to November 30, 1967. The survey estimated 37,757 anglers spent 169,908 hours and...
 > -- *[[CoueuDaleneLakeFisheriesInvest_19366]]*
 
+> This technical report by [[E. J. Crossman]] and [[Harry D. Van Meter]] (Great Lakes Fishery Commission Technical Report No. 36, June 1979) is an annotated checklist of the fishes of [[Lake Ontario]] and its watershed. It draws on published distribution records, [[Royal Ontario Museum]] collections,...
+> -- *[[AnnotatedListOfTheFishesOfTheL_18070]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -3249,6 +3408,7 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[NotesOnKokaneeSpawningInDonner_12527]]
 - [[AnAnnotatedBibliographyOfResea_14741]]
 - [[CoueuDaleneLakeFisheriesInvest_19366]]
+- [[AnnotatedListOfTheFishesOfTheL_18070]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -3323,6 +3483,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > The [[Colorado Department Of Game And Fish]] 1954 [[Creel Census]] report, issued in June 1955, summarizes angler catch and effort on Colorado trout and warm-water waters. Wardens checked anglers' creels and licenses, and the results were projected to statewide totals using a [[Random Survey]]...
 > -- *[[CreelCensusReport_19659]]*
 
+> This Eastern Washington University technical report (Final Report, 1991, Part 2) measures [[Thyroxine]] (T4) in developing [[Flannelmouth Sucker]] eggs and larvae from the [[Green River]], Utah. Eggs were collected from wild fish, fertilized, and reared at the [[Ouray National Fish Hatchery]]....
+> -- *[[NotesOnTheDevelopmentAndMeasur_20598]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -3351,6 +3514,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[PreimpoundmentInvestigationsOf_12301]]
 - [[TroutCatchAndAnglerUseAtLakeTa_12122]]
 - [[CreelCensusReport_19659]]
+- [[NotesOnTheDevelopmentAndMeasur_20598]]
 
 ## Kolkwitz
 
@@ -3404,6 +3568,18 @@ Kolmos et al. 2013 developed a historical dorsal spine ageing protocol for Gray 
 
 ### Mentioned In
 - [[WestAfricanRiversAsBiogeograph_1989]]
+
+## Konrad Kreutzer
+
+### Summary
+A German physicist who co-invented the proposed electric sea-fishing system with Herbert Peglow. The source says he held several basic patents on the selenium rectifier and came to the idea through wartime electro-shock work for Siemens-Reiniger. The supplement calls him "Conradin" Kreutzer and a physiologist, which the source suggests may refer to the same person.
+
+### Context
+> This U.S. Fish and Wildlife Service leaflet (Fishery Leaflet 348, reissued) compiles a 1949 American Consulate report on a proposed [[Electric Trawling]] system for German sea fishing, invented by [[Konrad Kreutzer]] and [[Herbert Peglow]]. The leaflet also reprints a German supplement from...
+> -- *[[GermanCommercialElectricalFish_19946]]*
+
+### Mentioned In
+- [[GermanCommercialElectricalFish_19946]]
 
 ## Konrad Lorenz
 <!-- fm: auto_enriched: true -->
@@ -3639,6 +3815,18 @@ Koski (1974) is an author cited in the source who proposed that anthropogenic en
 
 ### Mentioned In
 - [[ObservationsOnTheFoodOfFingler_12249]]
+
+## Kraus 1988
+
+### Summary
+A study the authors cite as consistent with the monophyly of Linguaelapsus preserved in their reanalysis.
+
+### Context
+> This is a critical commentary and reanalysis by Thomas R. Jones, Arnold G. Kluge, and Alan J. Wolf (University of Michigan Museum of Zoology). It responds to [[Shaffer Et Al. 1991]] (hereafter SCK), who studied the phylogeny of North American [[Ambystomatidae]] using [[Allozymes]] and morphology....
+> -- *[[WhenTheoriesAndMethodologiesCl_19841]]*
+
+### Mentioned In
+- [[WhenTheoriesAndMethodologiesCl_19841]]
 
 ## Krauskopf 1956
 <!-- fm: auto_enriched: true -->
@@ -3909,6 +4097,18 @@ The Kurshiu Lagoon is a brackish Baltic lagoon shared by Lithuania and Russia, w
 
 ### Mentioned In
 - [[SummerFoodHabitsOfYellowBassAn_1962]]
+
+## Kuwait Institute for Scientific Research
+
+### Summary
+The Kuwait Institute for Scientific Research is one of the contributing institutes. It has the largest number of listed programmes, at 33, and the source notes Kuwaiti shrimp as an example taxon.
+
+### Context
+> This document is FAO Fisheries Circular No. 746 (April 1982), edited by J.F. Caddy of the [[FAO Fisheries Department]]'s Marine Resources Service. It is an annotated, provisional catalogue of computer programmes used in [[Fish Stock Assessment]] that participating fisheries institutes are willing...
+> -- *[[ProvisionalWorldListOfComputer_17320]]*
+
+### Mentioned In
+- [[ProvisionalWorldListOfComputer_17320]]
 
 ## Kuyui
 <!-- fm: auto_enriched: true -->

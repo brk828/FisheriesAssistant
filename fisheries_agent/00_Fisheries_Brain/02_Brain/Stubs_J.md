@@ -62,6 +62,18 @@ A researcher who collected the type series of Eretmobrycon bayano and carried ou
 ### Mentioned In
 - [[ANewGenusOfCharacidFishFromThe_16384]]
 
+## J. F. Boepple
+
+### Summary
+A businessman credited with starting the first pearl button plant at Muscatine, Iowa, in 1891. His plant marks the start of the commercial mussel-button industry described in the source.
+
+### Context
+> This 1954 historical monograph by Harriet Bell Carlander, sponsored by the [[Upper Mississippi River Conservation Committee]], traces how fish and fishing shaped and were shaped by the Upper Mississippi River from St. Paul, Minnesota, to Caruthersville, Missouri (951 miles). It draws on Indian,...
+> -- *[[HistoryOfFishAndFishingInTheUp_17391]]*
+
+### Mentioned In
+- [[HistoryOfFishAndFishingInTheUp_17391]]
+
 ## J. F. Brandt
 <!-- fm: auto_enriched: true -->
 
@@ -146,6 +158,18 @@ A collector credited with supplying material for this paper, including the Brewe
 
 ### Mentioned In
 - [[FourNewSpeciesOfTroglobiticAse_16463]]
+
+## J. R. Thompson
+
+### Summary
+J. R. Thompson is a co-author of this 1975 USDA Forest Service report on Black Mesa watershed hydrology. He worked with E. C. Frank and H. E. Brown on the 11-year study of precipitation, runoff, and sediment.
+
+### Context
+> This USDA Forest Service General Technical Report (RM-13, June 1975) by [[Ernest C. Frank]], [[Harry E. Brown]], and [[J. R. Thompson]] reports 11 years (1957–67) of precipitation, [[Snowmelt Runoff]], [[Suspended Sediment]], and [[Trapped Sediment]] measurements from three small mountain-grassland...
+> -- *[[HydrologyOfBlackMesaWatersheds_18816]]*
+
+### Mentioned In
+- [[HydrologyOfBlackMesaWatersheds_18816]]
 
 ## J. T. Plummer
 <!-- fm: auto_enriched: true -->
@@ -324,6 +348,18 @@ Publicity Manager for Public Service (Arizona Public Service). He said the two h
 
 ### Mentioned In
 - [[SuggestionsRegardingDfcAgencyR_1991_11_26]]
+
+## Jackknife Resampling
+
+### Summary
+A resampling method SCK used to support confidence in their results. The source challenges the confidence claims drawn from it, mainly through the same concerns about resampling assumptions raised for bootstrapping.
+
+### Context
+> This is a critical commentary and reanalysis by Thomas R. Jones, Arnold G. Kluge, and Alan J. Wolf (University of Michigan Museum of Zoology). It responds to [[Shaffer Et Al. 1991]] (hereafter SCK), who studied the phylogeny of North American [[Ambystomatidae]] using [[Allozymes]] and morphology....
+> -- *[[WhenTheoriesAndMethodologiesCl_19841]]*
+
+### Mentioned In
+- [[WhenTheoriesAndMethodologiesCl_19841]]
 
 ## Jackman Reservoir
 
@@ -651,6 +687,9 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 > This manuscript, circulated with a 1987 cover letter from [[G. Gary Scoppettone]] of the [[U.S. Fish and Wildlife Service]] to [[James E. Deacon]], refines the age and growth of the endangered [[Cui-Ui]] (*Chasmistes cujus*), an endemic catostomid of [[Pyramid Lake]], Nevada. Using opercular bones...
 > -- *[[ManuscriptlongevityAndGrowthOf_11310]]*
 
+> This 1981 technical research proposal, submitted to the Water and Power Resources Service (Lower Colorado River Region) by [[Larry J. Paulson]], [[James E. Deacon]] and John R. Baker of the [[Lake Mead Limnological Research Center]] and the University of Nevada, Las Vegas, argues that the...
+> -- *[[TheBiologyOfBonytailChubsAndRa_11244]]*
+
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -665,6 +704,7 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[ManuscriptAppraisalForWlMinckl_11437]]
 - [[ResearchProposalOutlineEffects_11729]]
 - [[ManuscriptlongevityAndGrowthOf_11310]]
+- [[TheBiologyOfBonytailChubsAndRa_11244]]
 
 ## James E. Johnson
 
@@ -775,6 +815,18 @@ James W. Moffett was a fisheries scientist with the Bureau of Commercial Fisheri
 
 ### Mentioned In
 - [[AttackOnTheSeaLamprey_16543]]
+
+## James W. Morrert
+
+### Summary
+The executive summary credits this 1942 survey of the Colorado River below Boulder Dam to James W. Morrert of the U.S. Fish and Wildlife Service, and describes the report's fishery conditions and management plan. The source's citation lists the author as J. W. Moffett, so the name is inconsistent within the note.
+
+### Context
+> This 1942 survey by [[James W. Morrert]] (U.S. Fish and Wildlife Service) describes the [[Colorado River]] for roughly 25 miles below [[Boulder Dam]] and proposes a tentative fishery management plan. The dam's reservoir, [[Lake Mead]], traps silt, and water is released from deep, cold levels. These...
+> -- *[[AFisherySurveyOfTheColoradoRiv_16542]]*
+
+### Mentioned In
+- [[AFisherySurveyOfTheColoradoRiv_16542]]
 
 ## James W. Small Jr
 <!-- fm: auto_enriched: true -->
@@ -1337,6 +1389,18 @@ Jeffrey R. Wilson of Arizona State University prepared the statistical power ana
 ### Mentioned In
 - [[DraftlongtermMonitoringPlanFor_11488]]
 
+## Jeffries Wyman
+
+### Summary
+Jeffries Wyman was an American anatomist whose earlier work on viviparous fishes is extensively quoted by Ryder. Wyman classified viviparous fishes into two groups according to where the embryo develops, and he supplied the Anableps material on ovarian gestation that this paper reproduces.
+
+### Context
+> This 1885 paper by John A. Ryder, published in the *Proceedings of the United States National Museum*, summarizes what was known about truly viviparous bony fishes whose embryos develop inside the ovary or in follicles. It reviews earlier work, reproduces long extracts from [[Jeffries Wyman]] on...
+> -- *[[OnTheDevelopmentOfViviparousOs_21126]]*
+
+### Mentioned In
+- [[OnTheDevelopmentOfViviparousOs_21126]]
+
 ## Jemez Canyon Dam
 
 ### Summary
@@ -1480,6 +1544,18 @@ The Jensen Reach (RMI 301.7-276.9) is a section of the middle Green River where 
 ### Mentioned In
 - [[DevelopmentOfAStandardizedMoni_15549]]
 
+## Jensen Stirewalt And Walters
+
+### Summary
+Cited as a 1965 study that maintained *Schistosoma mansoni* cercariae in vitro for as long as 112 days. The source uses this as an example of prior in vitro parasite culture.
+
+### Context
+> This Auburn University Agricultural Experiment Station bulletin (Zoology-Entomology Department Series, Fisheries No. 5, May 1967) by Heino Beckert gives laboratory culture protocols for three common freshwater fish parasites: [[Ichthyophthirius Multifiliis]], a ciliated protozoan causing white spot...
+> -- *[[CultureOfSomeCommonFishParasit_15681]]*
+
+### Mentioned In
+- [[CultureOfSomeCommonFishParasit_15681]]
+
 ## Jenynsiidae
 <!-- fm: auto_enriched: true -->
 
@@ -1504,6 +1580,18 @@ Jerome A. Stefferud is the author of this 1992 report, prepared for the Tonto Na
 
 ### Mentioned In
 - [[FisheryMonitoringForTheQuienSa_14755]]
+
+## Jerome Member
+
+### Summary
+A member of the Martin Formation in the western study area, recognized by Teichert (1965). Pine divides it into the Fetid Dolomite Unit, Aphanitic Dolomite Unit, and an Upper Unit, which record intertidal to subtidal conditions. The Upper Unit is Fingerlake to Chemung in age.
+
+### Context
+> This 1968 University of Arizona doctoral dissertation by Gordon Leroy Pine is a petrographic and stratigraphic study of [[Devonian Strata]] in east-central and southeastern Arizona. Twenty-four localities were examined, and the work identifies a topographic high near Bylas that divides the study...
+> -- *[[DevonianStratigraphyAndPaleoge_11148]]*
+
+### Mentioned In
+- [[DevonianStratigraphyAndPaleoge_11148]]
 
 ## Jerome State Historic Park
 
@@ -2019,10 +2107,18 @@ John Hamill was involved in recovery planning for endangered Colorado River fish
 > This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
 > -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
 
+> This 1997 newsletter from the [[Upper Colorado River Recovery Program]] reports on habitat acquisition, wetland restoration, hatchery operations, stocking, water-rights agreements, and local partnerships. The program aims to re-establish self-sustaining populations of four endangered fishes:...
+> -- *[[RecoveryProgramForTheEndangere_11682]]*
+
+> This Fall 1996 newsletter from the [[Recovery Program]] for Endangered Fishes of the Upper Colorado River Basin reports on efforts to recover four endangered fishes: [[Colorado Squawfish]], [[Razorback Sucker]], [[Humpback Chub]], and [[Bonytail]]. The lead story covers the $1 million [[Redlands...
+> -- *[[RecoveryProgramFromTheEndanger_18333]]*
+
 ### Mentioned In
 - [[TripReportForUpperColoradoRive_12974]]
 - [[ColoradoRiverRecoveryImplement_17881]]
 - [[ColoradoSquawfishRecoveryPlan_20997]]
+- [[RecoveryProgramForTheEndangere_11682]]
+- [[RecoveryProgramFromTheEndanger_18333]]
 
 ## John Hunter
 
@@ -2082,6 +2178,18 @@ John Lawrence Butler is the author of this 1964 Oklahoma State University doctor
 
 ### Mentioned In
 - [[InteractionOfEffectsByEnvironm_14113]]
+
+## John Long
+
+### Summary
+An early observer whose accounts are used in the source's discussion of the river's beginnings and early fishing. The source cites his accounts as part of the early historical record of fish and fishing on the river.
+
+### Context
+> This 1954 historical monograph by Harriet Bell Carlander, sponsored by the [[Upper Mississippi River Conservation Committee]], traces how fish and fishing shaped and were shaped by the Upper Mississippi River from St. Paul, Minnesota, to Caruthersville, Missouri (951 miles). It draws on Indian,...
+> -- *[[HistoryOfFishAndFishingInTheUp_17391]]*
+
+### Mentioned In
+- [[HistoryOfFishAndFishingInTheUp_17391]]
 
 ## John Lundberg
 
@@ -2571,6 +2679,18 @@ Jolly-Seber is mentioned as a multi-sample mark-recapture method that can estima
 ### Mentioned In
 - [[ReducingEffectsOfDispersalOnTh_2018]]
 
+## Jolly-Seber Method
+
+### Summary
+The Jolly-Seber method is a mark-recapture approach for estimating the size of an open population, where births, deaths and migration can occur between samples. The catalogue lists it under population size and tagging programmes, alongside the Schnabel and Schumacher estimators.
+
+### Context
+> This document is FAO Fisheries Circular No. 746 (April 1982), edited by J.F. Caddy of the [[FAO Fisheries Department]]'s Marine Resources Service. It is an annotated, provisional catalogue of computer programmes used in [[Fish Stock Assessment]] that participating fisheries institutes are willing...
+> -- *[[ProvisionalWorldListOfComputer_17320]]*
+
+### Mentioned In
+- [[ProvisionalWorldListOfComputer_17320]]
+
 ## Jolyet And Regnard 1877
 <!-- fm: auto_enriched: true -->
 
@@ -2894,9 +3014,13 @@ The 1925 subspecific classification of Pacific Coast threespine sticklebacks tha
 > This 1955 paper by [[Leonard Durham]], published in the *Illinois Academy of Science Transactions* (Vol. 47), reports age and growth analyses of [[Smallmouth Bass]] and [[Longear Sunfish]] in the lower four miles of [[Jordan Creek]], a small tributary of the [[Salt Fork of the Vermilion River]] in...
 > -- *[[EcologicalFactorsAffectingTheG_19169]]*
 
+> This 1952 Illinois Natural History Survey Biological Notes report by R. Weldon Larimore tests whether [[Smallmouth Black Bass]] (*Micropterus dolomieu*) establish [[Home Pool]] territories in [[Jordan Creek]], a small stream in east-central Illinois. A [[Mark-Recapture]] census, followed by three...
+> -- *[[HomePoolsAndHomingBehaviorOfSm_20184]]*
+
 ### Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
 - [[EcologicalFactorsAffectingTheG_19169]]
+- [[HomePoolsAndHomingBehaviorOfSm_20184]]
 
 ## Jordan Evermann And Clark
 <!-- fm: auto_enriched: true -->
@@ -3436,8 +3560,12 @@ A high-elevation glacial lake (7,612 ft) in central Mono County, California, wit
 > This 1943 report by Elden H. Vestal, of the California Division of Fish and Game, evaluates the yield of [[Hatchery Stocking]] programs at [[June Lake]], a high-elevation glacial lake in Mono County. From May 1939 through 1942, the study used intensive [[Creel Census]] methods and [[Fish Marking]]...
 > -- *[[CreelReturnsFromHatcheryTroutI_13125]]*
 
+> This synthesis by Brran Curtis (formerly of the [[Bureau of Fish Conservation]], [[California Division of Fish and Game]]) compiles roughly a decade (1940 to 1950) of hatchery trout yield experiments in nine California lakes. Six lakes are treated in detail and three more briefly. The paper...
+> -- *[[YieldOfHatcheryTroutInCaliforn_18106]]*
+
 ### Mentioned In
 - [[CreelReturnsFromHatcheryTroutI_13125]]
+- [[YieldOfHatcheryTroutInCaliforn_18106]]
 
 ## June Sucker
 <!-- fm: auto_enriched: true -->
@@ -3623,8 +3751,12 @@ A conditional water right that controls the mainstem Yampa River flow and is the
 > This February 21, 1990 status report from the [[Colorado River Recovery Implementation Committee]] presents recommendations from the Water Acquisition Ad Hoc Subcommittee of the Management Group. Its goal is to expedite the acquisition of water rights, mainly by converting them to [[Instream Flow]]...
 > -- *[[RecoveryImplementationProgramF_17180]]*
 
+> This Management Group report, prepared by the [[Water Acquisition Ad Hoc Subcommittee]] for the [[Recovery Implementation Program]], sets out recommendations for acquiring water rights to convert to [[Instream Flow]] for endangered fishes in the Upper [[Colorado River]] Basin. It was approved by...
+> -- *[[RecoveryImplementationProgramF_19222]]*
+
 ### Mentioned In
 - [[RecoveryImplementationProgramF_17180]]
+- [[RecoveryImplementationProgramF_19222]]
 
 ## Juniper-Cross Mountain Project
 

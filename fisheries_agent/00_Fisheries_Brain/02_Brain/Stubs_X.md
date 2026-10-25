@@ -4,6 +4,18 @@ letter: X
 ---
 # Concept Stubs: X
 
+## X-Ray Diffraction
+
+### Summary
+An analytical method that identifies minerals by how they scatter X-rays. Pine used it on about 180 samples to determine qualitative mineralogy, including quartz, illite-like clay, feldspar, chlorite, talc, and corrensite.
+
+### Context
+> This 1968 University of Arizona doctoral dissertation by Gordon Leroy Pine is a petrographic and stratigraphic study of [[Devonian Strata]] in east-central and southeastern Arizona. Twenty-four localities were examined, and the work identifies a topographic high near Bylas that divides the study...
+> -- *[[DevonianStratigraphyAndPaleoge_11148]]*
+
+### Mentioned In
+- [[DevonianStratigraphyAndPaleoge_11148]]
+
 ## X. couchianus
 
 ### Summary
@@ -223,6 +235,18 @@ Xeroriparian Mixed Scrub is a riparian habitat type associated with ephemeral wa
 
 ### Mentioned In
 - [[BiologicalEvaluationOfTheAppro_15074]]
+
+## Xerothermic Interval
+
+### Summary
+A warm-dry climatic phase, roughly 6,000 to 4,000 B.P., that the source treats as a hypothesis for fragmenting mesic forest ranges and producing relict populations. The author notes it is strongly supported but that evidence suggests it may not have been much drier than the present.
+
+### Context
+> This chapter reviews how the geographic ranges of North American vertebrates adjusted over the last ~5,000 years (from 5,000 B.P. to the present). The author treats three periods: the [[Xerothermic Interval]] and early post-Xerothermic period (6,000–3,000 B.P.), the Prehistoric Period (3,000–200...
+> -- *[[RecentAdjustmentsInAnimalRange_20846]]*
+
+### Mentioned In
+- [[RecentAdjustmentsInAnimalRange_20846]]
 
 ## Xerothermic Period
 <!-- fm: auto_enriched: true -->

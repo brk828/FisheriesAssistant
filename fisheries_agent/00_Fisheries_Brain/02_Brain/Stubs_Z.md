@@ -236,6 +236,18 @@ Zebrafish (Danio rerio) are small freshwater cyprinids native to South Asia that
 - [[EffectiveBreedingEfficiencyAnI_13479]]
 - [[ChromosomelevelReferenceGenome_2023]]
 
+## Zebulon Pike
+
+### Summary
+An American explorer included among the early explorers and settlers whose accounts the source reviews. The source notes that these explorers recorded fish species and angling along the river.
+
+### Context
+> This 1954 historical monograph by Harriet Bell Carlander, sponsored by the [[Upper Mississippi River Conservation Committee]], traces how fish and fishing shaped and were shaped by the Upper Mississippi River from St. Paul, Minnesota, to Caruthersville, Missouri (951 miles). It draws on Indian,...
+> -- *[[HistoryOfFishAndFishingInTheUp_17391]]*
+
+### Mentioned In
+- [[HistoryOfFishAndFishingInTheUp_17391]]
+
 ## Zeidae
 <!-- fm: auto_enriched: true -->
 
@@ -317,6 +329,18 @@ The Zhob-Gowmal River is one of three Afghan drainage basins that flows to the s
 
 ### Mentioned In
 - [[ExperimentsOnControlOfReleaseO_1967]]
+
+## Zill's Cichlid
+
+### Summary
+An African cichlid fish introduced to the Salton Sea area and counted in the survey as one of the two 'tilapia' species. The source cites Matsui (1981) as finding that Zill's cichlids interfered behaviorally with pupfish reproduction, and it recommends further study of such exotic-species interactions.
+
+### Context
+> A qualitative survey by the [[California Department of Fish and Game]] (CDFG), Inland Fisheries Division, measured the distribution of the endangered [[Desert Pupfish]] (*Cyprinodon macularius*) in non-refuge habitats around the [[Salton Sea]] during April, May and June 1991. Baited [[Minnow Trap]]...
+> -- *[[ADistributionSurveyOfDesertPup_20197]]*
+
+### Mentioned In
+- [[ADistributionSurveyOfDesertPup_20197]]
 
 ## Zill's Tilapia
 
@@ -773,6 +797,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This 1980 *Hilgardia* study compared the effects of the native [[Desert Pupfish]] (*Cyprinodon macularius*) and the introduced [[Western Mosquitofish]] (*Gambusia affinis affinis*) on aquatic insects and zooplankton in 12 experimental ponds in Riverside, California, during 1974 and 1975. Both fish...
 > -- *[[ImpactOfTheDesertPupfishCyprin_14858]]*
 
+> This document is an expanded bibliography supplementing Chapter 5, "Oceanography and Marine Life along the Pacific Coast of Middle America," by [[Carl L. Hubbs]] and [[Gunnar I. Roden]]. The chapter appeared in Volume 1 (1964) of *Natural Environment and Early Cultures*, part of the *Handbook of...
+> -- *[[ExpandedBibliographyOfArticleE_14464]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -795,6 +822,7 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[SomeEffectsOfMechanicalEvapora_20305]]
 - [[SomeFactorsAffectingFishForage_18194]]
 - [[ImpactOfTheDesertPupfishCyprin_14858]]
+- [[ExpandedBibliographyOfArticleE_14464]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->

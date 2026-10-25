@@ -442,6 +442,18 @@ Quartzite Falls is a waterfall barrier on the uppermost Salt River in Arizona. T
 ### Mentioned In
 - [[ErrataForBibliographyOfTheFami_1991]]
 
+## Quaternary
+
+### Summary
+The Quaternary is the most recent geologic period, spanning roughly the last 2.6 million years. In this source it marks the time after which normal faulting had become minor, and the source places the end of younger valley-fill deposition and the establishment of through drainage in early post-Blancan time, which is at or near the start of the Quaternary.
+
+### Context
+> This U.S. Geological Survey report presents a working hypothesis for how the drainage of southeastern Arizona and southwestern New Mexico developed during late Cenozoic time, mainly the [[Pliocene]] and [[Quaternary]]. Drainage evolution was repeatedly controlled by large-scale faulting,...
+> -- *[[SomeNotesOnTheLateCenozoicDrai_17545]]*
+
+### Mentioned In
+- [[SomeNotesOnTheLateCenozoicDrai_17545]]
+
 ## Quaternary Paleoclimatology
 <!-- fm: auto_enriched: true -->
 
@@ -761,10 +773,14 @@ A compound in the low toxicity class. Lake trout were roughly ten times as sensi
 > This source is a 1988 [[Fish And Wildlife Service]] (FWS) correspondence packet with two attachments. It covers three linked items: 1. A request to the [[California Department Of Fish And Game]] recovery team for comments on proposed revisions to the [[Colorado Squawfish]] Recovery Plan. The...
 > -- *[[ColoradoSquawfishRecoveryPlan_20997]]*
 
+> This 1970 report by [[Earl S. Herald]], [[Robert P. Dempster]] and [[Marjorie Hunt]] of the [[Steinhart Aquarium]] evaluates [[Ultraviolet Sterilization]] as a way to reduce bacterial loads in crowded, recirculating aquarium systems. Test and production units were installed between 1960 and the...
+> -- *[[UltravioletSterilizationOfAqua_16687]]*
+
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[QuinaldineAsAnAnestheticOnSire_1961]]
 - [[ColoradoSquawfishRecoveryPlan_20997]]
+- [[UltravioletSterilizationOfAqua_16687]]
 
 ## Quinault
 <!-- fm: auto_enriched: true -->
@@ -833,6 +849,18 @@ The quinnat (Salmo quinnat), also called California salmon, is a large Pacific s
 
 ### Mentioned In
 - [[AppendixBTheSalmonAndTroutSpec_14665]]
+
+## Quintana Roo
+
+### Summary
+A state on the eastern Yucatán Peninsula of Mexico, covering about 58,443 km². This catalogue inventories its continental fishes, which are found in cenotes, lagoons, ponds, and the Río Hondo with its tributaries. The source describes a tropical climate with summer rains and two main hydrological basins: the arheic Cobá district in the north and the Río Hondo basin in the southeast.
+
+### Context
+> This 1996 catalogue by Juan Jacobo Schmitter-Soto (El Colegio de la Frontera Sur, Unidad Chetumal) inventories the fishes of the continental waters of [[Quintana Roo]]: [[Cenotes]], lagoons, ponds, and the [[Río Hondo]] with its tributaries. It lists 125 species in 43 families, of which 86 species...
+> -- *[[CatalogoDeLosPecesContinentale_20569]]*
+
+### Mentioned In
+- [[CatalogoDeLosPecesContinentale_20569]]
 
 ## Quintero
 
@@ -1160,6 +1188,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This package is a renewal application from the [[Arizona State University]] (ASU) Department of Biology to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 2 office. It seeks continued authorization under Federal Fish and Wildlife Permit PRT 797129, which was effective 8/9/96 to 8/9/98. The...
 > -- *[[PermitPrt_17155]]*
 
+> This Technical Report (No. 13) from the [[Cooperative National Park Resources Studies Unit]] at the University of Arizona, published December 1983, examines how birds use the two management areas of [[Quitobaquito Springs]], a desert oasis within [[Organ Pipe Cactus National Monument]]. Breeding...
+> -- *[[AvianUseOfQuitobaquitoSpringsO_19805]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -1184,6 +1215,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[AnnualSummaryOfActivitiesQuito_19496]]
 - [[WrittenCommentsOnDraftGeneralM_20520]]
 - [[PermitPrt_17155]]
+- [[AvianUseOfQuitobaquitoSpringsO_19805]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

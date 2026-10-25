@@ -137,6 +137,12 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This U.S. Fish and Wildlife Service (USFWS) final report, prepared by [[Lyon R. Kaeding]] and [[Douglas B. Osmundson]] (May 1989), proposes preliminary flow recommendations for the [[15-Mile Reach]] of the upper [[Colorado River]]. The reach is occupied habitat for the endangered [[Colorado...
 > -- *[[BiologicallyDefensibleFlowReco_17864]]*
 
+> This Management Group report, prepared by the [[Water Acquisition Ad Hoc Subcommittee]] for the [[Recovery Implementation Program]], sets out recommendations for acquiring water rights to convert to [[Instream Flow]] for endangered fishes in the Upper [[Colorado River]] Basin. It was approved by...
+> -- *[[RecoveryImplementationProgramF_19222]]*
+
+> This 1989 document is a set of U.S. Fish and Wildlife Service (FWS) memoranda and a Regional Solicitor's legal opinion. It concerns how [[Endangered Species Act]] (ESA) [[Section 7 Consultation]] applies to new water depletions in the [[Upper Colorado River Basin]] that affect the [[Colorado...
+> -- *[[SolicitorsOpinionReColoradoRiv_21006]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -152,6 +158,8 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[ManagementGroupMeeting_21017]]
 - [[NovemberManagementCommitteeMee_21033]]
 - [[BiologicallyDefensibleFlowReco_17864]]
+- [[RecoveryImplementationProgramF_19222]]
+- [[SolicitorsOpinionReColoradoRiv_21006]]
 
 ## 15-Mile Reach Gage
 
@@ -322,6 +330,18 @@ The 24 Road Hatchery is a facility with 36 tanks specifically designed for raisi
 
 ### Mentioned In
 - [[AnnualReportRecoveryProgramFor_11678]]
+
+## 316(b) Demonstration
+
+### Summary
+A study required under Section 316(b) of the Clean Water Act to show that a power plant's cooling water intake structure reflects the best technology available for minimizing adverse environmental impact on fish and other aquatic life. This brief treats it as a report the plant must prepare, and it recommends the kinds of biological information such reports should include.
+
+### Context
+> This Fish and Wildlife Service topical brief (FWS/OBS-76/204, March 1977), written by John Boreman of the [[Biological Services Program]]'s National Power Plant Team, describes how the velocity of water drawn into power plant cooling intakes drives the death of fish and other aquatic organisms...
+> -- *[[ImpactsOfPowerPlantIntakeVeloc_11537]]*
+
+### Mentioned In
+- [[ImpactsOfPowerPlantIntakeVeloc_11537]]
 
 ## 319(H) Nonpoint Source Demonstration Projects
 <!-- fm: auto_enriched: true -->

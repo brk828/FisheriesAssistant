@@ -595,9 +595,13 @@ Van Oosten is a researcher who described methods for age determination in fishes
 > This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
 > -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
 
+> This 1953 Illinois Natural History Survey publication, Biological Notes No. 3, by [[Harlow B. Mills]] and W. L. Minckley, examines the conservation problems of the [[Great Lakes]]. It argues that the lakes' fisheries are complex, interdependent biological systems whose decline cannot be attributed...
+> -- *[[SomeConservationProblemsOfTheG_18489]]*
+
 ### Mentioned In
 - [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
 - [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
+- [[SomeConservationProblemsOfTheG_18489]]
 
 ## Van Oosten 1929
 
@@ -966,8 +970,13 @@ A mid-Tertiary conglomerate unit studied at Charlie Canyon, Texas Canyon, and Va
 ## Vaterite
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This study tests the age of the remnant [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona-Nevada, and compares several bony structures for age estimation. Of seven structures examined, only sectioned [[Sectioned Otoliths]] (sagittae) gave reliable ages for large...
+> -- *[[AgeDeterminationForImperiledRa_12256]]*
+
 ### Mentioned In
 - [[VateriteAsTheCrystallineStruct_12254]]
+- [[AgeDeterminationForImperiledRa_12256]]
 
 ## Vaucheria
 
@@ -1072,6 +1081,18 @@ The Vegetation Management Study, conducted by the Bureau of Reclamation in 1990,
 
 ### Mentioned In
 - [[BiologicalNotesOnSomeEastAfric_14561]]
+
+## Velocity Cap
+
+### Summary
+A physical intake modification placed over an intake opening to limit the zone from which water and organisms are withdrawn. The brief names it as a way to reduce entrainment and impingement.
+
+### Context
+> This Fish and Wildlife Service topical brief (FWS/OBS-76/204, March 1977), written by John Boreman of the [[Biological Services Program]]'s National Power Plant Team, describes how the velocity of water drawn into power plant cooling intakes drives the death of fish and other aquatic organisms...
+> -- *[[ImpactsOfPowerPlantIntakeVeloc_11537]]*
+
+### Mentioned In
+- [[ImpactsOfPowerPlantIntakeVeloc_11537]]
 
 ## Velocity Capped Intake
 
@@ -1659,6 +1680,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This 1935 report by M. J. Madsen, Temporary Assistant Biologist for the [[U.S. Bureau of Fisheries]] (Department of Commerce), documents a field survey of the streams and lakes of the [[Coconino National Forest]] in north central Arizona. The survey was conducted from May to August 1934, during a...
 > -- *[[ABiologicalSurveyOfStreamsAndL_19340]]*
 
+> This U.S. Geological Survey report presents a working hypothesis for how the drainage of southeastern Arizona and southwestern New Mexico developed during late Cenozoic time, mainly the [[Pliocene]] and [[Quaternary]]. Drainage evolution was repeatedly controlled by large-scale faulting,...
+> -- *[[SomeNotesOnTheLateCenozoicDrai_17545]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1822,6 +1846,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[VerdeRiverAdvancedIdentificati_11366]]
 - [[NationalForestWatershedProject_17946]]
 - [[ABiologicalSurveyOfStreamsAndL_19340]]
+- [[SomeNotesOnTheLateCenozoicDrai_17545]]
 
 ## Verde River Aquatic Ecology
 
@@ -2129,6 +2154,18 @@ Research Associate at the Cooperative Fisheries Research Laboratory, Southern Il
 ### Mentioned In
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
 
+## Vertebral Centra
+
+### Summary
+Vertebral centra are the central body parts of the backbone vertebrae. The study examined them as one of seven aging structures; in large adults, unsectioned centra were obscured by thickening and did not give reliable ages.
+
+### Context
+> This study tests the age of the remnant [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona-Nevada, and compares several bony structures for age estimation. Of seven structures examined, only sectioned [[Sectioned Otoliths]] (sagittae) gave reliable ages for large...
+> -- *[[AgeDeterminationForImperiledRa_12256]]*
+
+### Mentioned In
+- [[AgeDeterminationForImperiledRa_12256]]
+
 ## Vertebral Fusion
 <!-- fm: auto_enriched: true -->
 
@@ -2377,8 +2414,12 @@ Victory Lake was a 26-acre lake at Fort Benning, Georgia where antimycin A was u
 > This 1970 Bureau of Sport Fisheries and Wildlife report by [[Robert E. Lennon]] and [[Bernard L. Berger]] summarizes over 50 field applications of [[Antimycin A]], an antibiotic fish toxicant, across 19 U.S. states, Canada, and Guatemala. [[Antimycin A]] is a powerful respiratory inhibitor produced...
 > -- *[[AResumeOnFieldApplicationsOfAn_11531]]*
 
+> This 1970 resume by [[Robert E. Lennon]] and [[Bernard L. Berger]] of the [[Fish Control Laboratory]], [[Bureau of Sport Fisheries and Wildlife]], reviews more than 50 field applications of [[Antimycin A]], a piscicide, in lakes, ponds, and streams in 19 U.S. States, Canada, and Guatemala. The...
+> -- *[[AResumeOnFieldApplicationOfAnt_20263]]*
+
 ### Mentioned In
 - [[AResumeOnFieldApplicationsOfAn_11531]]
+- [[AResumeOnFieldApplicationOfAnt_20263]]
 
 ## Video Image Analysis
 
@@ -2747,8 +2788,12 @@ The Virgin Islands are a U.S. territory included in the geographic coverage of t
 > This Virgin Islands Ecological Research Station (VIERS) special report (Contribution No. 2, July 15, 1970) documents exploratory deep-water hook-and-line and trap fishing along the [[Shelf Slope]] of the Virgin Islands and nearby [[Saba Bank]], [[Anguilla Bank]] and [[Barbuda Bank]]. The work had...
 > -- *[[ExploratoryFishingForASourceOf_13187]]*
 
+> This 1969 Special Report, Contribution Number 1 of the [[Virgin Islands Ecological Research Station]] (VIERS), documents a joint fisheries study of the American Virgin Islands conducted by the Caribbean Research Institute of the College of the Virgin Islands with support from the U.S. Bureau of...
+> -- *[[StudyOfTheFisheriesPotentialOf_13188]]*
+
 ### Mentioned In
 - [[ExploratoryFishingForASourceOf_13187]]
+- [[StudyOfTheFisheriesPotentialOf_13188]]
 
 ## Virgin River
 <!-- fm: auto_enriched: true -->
@@ -2949,6 +2994,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This report, organized and edited by [[Wendell L. Minckley]] at Arizona State University (17 February 1997), compiles five independent reviews prepared for the Western Water Policy Review Advisory Commission. Each review examines one component of western aquatic systems and concludes that these...
 > -- *[[AquaticEcosystemSymposiumARepo_15847]]*
 
+> This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
+> -- *[[EndangeredSpeciesPermitRenewal_20638]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3065,6 +3113,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[VirginSpinedaceConservationAgr_20260]]
 - [[StatusOfTheVirginSpinedaceLepi_13652]]
 - [[AquaticEcosystemSymposiumARepo_15847]]
+- [[EndangeredSpeciesPermitRenewal_20638]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -3341,9 +3390,13 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 > This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
 > -- *[[VirginRiverFishesRecoveryPlan_13186]]*
 
+> This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
+> -- *[[EndangeredSpeciesPermitRenewal_20638]]*
+
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
+- [[EndangeredSpeciesPermitRenewal_20638]]
 
 ## Virgin River Fishes Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -3361,11 +3414,15 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 > This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
 > -- *[[VirginSpinedaceConservationAgr_20262]]*
 
+> This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
+> -- *[[EndangeredSpeciesPermitRenewal_20638]]*
+
 ### Mentioned In
 - [[VirginRiverMeetingOf_11186]]
 - [[VirginRiverWoundfinPlanForBroo_16685]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[VirginSpinedaceConservationAgr_20262]]
+- [[EndangeredSpeciesPermitRenewal_20638]]
 
 ## Virgin River Fishes Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -3495,6 +3552,9 @@ The Virgin River Roundtail Chub (*Gila robusta seminuda*) is a federally endange
 > This document comprises correspondence and a Federal Register proposal (June 24, 1986) to list the [[Virgin River Roundtail Chub]] (*Gila robusta seminuda*) as an endangered species with designated critical habitat under the [[Endangered Species Act]]. The subspecies is endemic to the [[Virgin...
 > -- *[[CorrespondenceBetweenMinckleyA_16449]]*
 
+> This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
+> -- *[[EndangeredSpeciesPermitRenewal_20638]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -3506,6 +3566,7 @@ The Virgin River Roundtail Chub (*Gila robusta seminuda*) is a federally endange
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[VirginRiverMonitoringNevadaSum_1995_05_31]]
 - [[CorrespondenceBetweenMinckleyA_16449]]
+- [[EndangeredSpeciesPermitRenewal_20638]]
 
 ## Virgin River spinedace
 <!-- fm: auto_enriched: true -->
@@ -3559,6 +3620,9 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > This short field report by David A. White (Department of Zoology, [[Brigham Young University]], Provo, Utah) documents the capture of seven adult [[Virgin River Spinedace]] (*Lepidomeda mollispinis mollispinis*) from the [[Sevier River]] in Utah on 6 July 1967. The fish were seined about 3.2 miles...
 > -- *[[TheVirginRiverSpinedaceLepidom_12189]]*
 
+> This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
+> -- *[[EndangeredSpeciesPermitRenewal_20638]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -3583,6 +3647,7 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[NativeArizonaFishesPartIispiny_18572]]
 - [[DraftLowerVirginRiverProjectPr_11483]]
 - [[TheVirginRiverSpinedaceLepidom_12189]]
+- [[EndangeredSpeciesPermitRenewal_20638]]
 
 ## Virgin Roundtail Chub
 <!-- fm: auto_enriched: true -->
@@ -3871,6 +3936,18 @@ I appreciate your detailed question, but I must be candid: I cannot find reliabl
 ### Mentioned In
 - [[StationProfileOfTheFishHealthU_19502]]
 
+## Virtual Population Analysis
+
+### Summary
+Virtual Population Analysis (VPA) is a method that reconstructs past fish population numbers and fishing mortality from catch-at-age data, working backwards from the oldest age group. The catalogue lists Gulland's VPA among its mortality and cohort-analysis programmes. Spain's HP-based package also includes VPA.
+
+### Context
+> This document is FAO Fisheries Circular No. 746 (April 1982), edited by J.F. Caddy of the [[FAO Fisheries Department]]'s Marine Resources Service. It is an annotated, provisional catalogue of computer programmes used in [[Fish Stock Assessment]] that participating fisheries institutes are willing...
+> -- *[[ProvisionalWorldListOfComputer_17320]]*
+
+### Mentioned In
+- [[ProvisionalWorldListOfComputer_17320]]
+
 ## Visayan Sea
 
 ### Summary
@@ -3906,6 +3983,18 @@ Vishnu Quadrangle is a topographic map by Evans and Matthes that the expedition 
 
 ### Mentioned In
 - [[DiaryOfGrandCanyonSurvey_17643]]
+
+## Visitor Use Plot
+
+### Summary
+The second study plot, covering 0.82 ha, with trails, picnic tables and interpretive signs. It has more cottonwood canopy than the resting plot and held significantly more migrant birds, which the authors attribute mainly to that cottonwood canopy.
+
+### Context
+> This Technical Report (No. 13) from the [[Cooperative National Park Resources Studies Unit]] at the University of Arizona, published December 1983, examines how birds use the two management areas of [[Quitobaquito Springs]], a desert oasis within [[Organ Pipe Cactus National Monument]]. Breeding...
+> -- *[[AvianUseOfQuitobaquitoSpringsO_19805]]*
+
+### Mentioned In
+- [[AvianUseOfQuitobaquitoSpringsO_19805]]
 
 ## Visual Census Methodology
 <!-- fm: auto_enriched: true -->
@@ -3961,6 +4050,18 @@ A survey method in which observers count frogs by sight. This report validated V
 
 ### Mentioned In
 - [[AnEvaluationOfFeedsForRaisingR_1992]]
+
+## Vitamin D
+
+### Summary
+Vitamin D is a vitamin that the body, or in fishes the skin, produces with the help of certain light. The source notes that the 2900–3100 Å UV band is antirachitic, meaning it stimulates vitamin D production.
+
+### Context
+> This 1970 report by [[Earl S. Herald]], [[Robert P. Dempster]] and [[Marjorie Hunt]] of the [[Steinhart Aquarium]] evaluates [[Ultraviolet Sterilization]] as a way to reduce bacterial loads in crowded, recirculating aquarium systems. Test and production units were installed between 1960 and the...
+> -- *[[UltravioletSterilizationOfAqua_16687]]*
+
+### Mentioned In
+- [[UltravioletSterilizationOfAqua_16687]]
 
 ## Vitamin Premix
 
@@ -4088,6 +4189,18 @@ A canyon at about 7,500 ft where Marsh camped from July 2, 1936. Green Rattlesna
 
 ### Mentioned In
 - [[LetterToDADuffOnSalmoAndParasa_1988_03_09]]
+
+## VNIRO
+
+### Summary
+VNIRO is a Soviet fisheries research institute (with ATLANTNIRO) that contributed to the catalogue. Its complex programmes compare Schaefer, Fox, Doi, Beverton-Holt and regression estimates of maximum equilibrium catch.
+
+### Context
+> This document is FAO Fisheries Circular No. 746 (April 1982), edited by J.F. Caddy of the [[FAO Fisheries Department]]'s Marine Resources Service. It is an annotated, provisional catalogue of computer programmes used in [[Fish Stock Assessment]] that participating fisheries institutes are willing...
+> -- *[[ProvisionalWorldListOfComputer_17320]]*
+
+### Mentioned In
+- [[ProvisionalWorldListOfComputer_17320]]
 
 ## Volcan La Malinche
 
@@ -4251,6 +4364,18 @@ A core sampler with interchangeable barrels 1 and 2.7 m long and 7.30 cm in diam
 ### Mentioned In
 - [[SedimentationInASmallChannelty_16602]]
 
+## Volunteer Fish
+
+### Summary
+Fish that appeared in the hatchery ponds without being stocked, and which competed with stocked fish for food and preyed on young fish. At Drayton Plains the main volunteer was the brook stickleback (Eucalia inconstans), with about 113,000 found in one pond when it was drained, complicating assessment of fish production.
+
+### Context
+> This 1949 Michigan State College technical bulletin (Robert C. Ball, prepared in cooperation with the [[Michigan Institute For Fisheries Research]]) reports a 1946 field experiment in which 21 hatchery ponds at three state fish hatcheries were fertilized to test whether inorganic fertilizer raises...
+> -- *[[ExperimentalUseOfFertilizerInT_17300]]*
+
+### Mentioned In
+- [[ExperimentalUseOfFertilizerInT_17300]]
+
 ## Volvox
 
 ### Summary
@@ -4314,8 +4439,12 @@ The Von Bertalanffy Growth Equation is the specific mathematical formula l_t = L
 > This technical bulletin presents a practical method for fitting the [[Von Bertalanffy Growth Curve]] to fish age-length data using [[Least Squares]] estimation. Authors Patrick K. Tomlinson and Norman J. Abramson provide comprehensive polynomial tables and computational procedures to enable...
 > -- *[[FittingAVonBertalanffyGrowthCu_13367]]*
 
+> This document is FAO Fisheries Circular No. 746 (April 1982), edited by J.F. Caddy of the [[FAO Fisheries Department]]'s Marine Resources Service. It is an annotated, provisional catalogue of computer programmes used in [[Fish Stock Assessment]] that participating fisheries institutes are willing...
+> -- *[[ProvisionalWorldListOfComputer_17320]]*
+
 ### Mentioned In
 - [[FittingAVonBertalanffyGrowthCu_13367]]
+- [[ProvisionalWorldListOfComputer_17320]]
 
 ## Von Bertalanffy Growth Model
 
