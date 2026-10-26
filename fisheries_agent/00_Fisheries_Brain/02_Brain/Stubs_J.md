@@ -836,6 +836,18 @@ James Elser is one of the experts listed under the Keywords chapter's Fish entry
 ### Mentioned In
 - [[LetterRegardingReviewOfPopulat_1990_12_17]]
 
+## James F. LaBounty
+
+### Summary
+James F. LaBounty was the Principal Investigator of the Twin Lakes Ecological Study. He introduced the 1975 workshop as the first step toward an annual meeting to keep stakeholders informed about the pumped-storage research. The source identifies him as the leader of the program's ecological work.
+
+### Context
+> This workshop proceedings, held January 1975 in Denver, Colorado, reports progress on the environmental effects of [[Pumped-Storage Operation]] on aquatic systems. Three study sites represent different climates: the montane [[Twin Lakes]] in Colorado, the temperate [[Banks Lake]] in Washington, and...
+> -- *[[SecondWorkshopOnEcologyOfPumpe_20515]]*
+
+### Mentioned In
+- [[SecondWorkshopOnEcologyOfPumpe_20515]]
+
 ## James J. Cooper
 
 ### Summary
@@ -1435,6 +1447,18 @@ Jeff Hershler is a malacologist at the Smithsonian Institution and co-author of 
 
 ### Mentioned In
 - [[NotesFromAugustMeetingOnFishBa_1994_09_28]]
+
+## Jefferson Davis
+
+### Summary
+The Secretary of War, whose War Department instructions authorized this railroad-route survey. The source names him as the official who issued the survey's orders.
+
+### Context
+> This 1854 report by [[John G. Parke]], Lieutenant of the Corps of Topographical Engineers, documents a survey for a railroad route to the Pacific between the [[Rio Grande]] (near [[Dona Ana]]) and the [[Gila River]] (at the Pimas villages). The survey was authorized under War Department...
+> -- *[[ReportOfExplorationsForThatPor_18430]]*
+
+### Mentioned In
+- [[ReportOfExplorationsForThatPor_18430]]
 
 ## Jefferson Salamander
 <!-- fm: auto_enriched: true -->
@@ -2206,6 +2230,30 @@ John Edward Holbrook (1794-1871) produced the "Ichthyology of South Carolina" (1
 ### Mentioned In
 - [[CuiUiRecoveryTeamMeeting_1990_11_29]]
 
+## John F. Dequine
+
+### Summary
+John F. Dequine was the Chief Fisheries Biologist for the Florida Game and Fresh Water Fish Commission and the author of this 1952 Fish Management Bulletin. In this source he argues that Florida's freshwater fish populations should be managed like a crop, and he presents the case for a three-year controlled seining experiment.
+
+### Context
+> This 1952 bulletin, written by [[John F. Dequine]], Chief Fisheries Biologist, and published by the [[Florida Game And Fresh Water Fish Commission]], presents the case for a three-year experimental [[Controlled Seining Program]] in six large Florida lakes. Sport-fishing pressure had grown sharply,...
+> -- *[[FloridasControlledSeiningProgr_12821]]*
+
+### Mentioned In
+- [[FloridasControlledSeiningProgr_12821]]
+
+## John G. Parke
+
+### Summary
+Lieutenant of the Corps of Topographical Engineers who led this 1854 railroad-route survey between the Rio Grande and the Gila and wrote the report, dated August 22, 1854. The report recommends that a railroad is practicable along or near the route, with water scarcity as the main obstacle.
+
+### Context
+> This 1854 report by [[John G. Parke]], Lieutenant of the Corps of Topographical Engineers, documents a survey for a railroad route to the Pacific between the [[Rio Grande]] (near [[Dona Ana]]) and the [[Gila River]] (at the Pimas villages). The survey was authorized under War Department...
+> -- *[[ReportOfExplorationsForThatPor_18430]]*
+
+### Mentioned In
+- [[ReportOfExplorationsForThatPor_18430]]
+
 ## John G. Weise
 
 ### Summary
@@ -2402,11 +2450,15 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 > This bi-monthly issue of [[Wildlife Views]], published by the [[Arizona Game and Fish Department]], is a mixed-content magazine rather than a single research report. Its most substantive scientific material is the third installment of the "Native Arizona Fishes" series by [[John N. Rinne]] and [[W....
 > -- *[[ConservationEngineer_12615]]*
 
+> This Wildlife Unit Technical Series publication, prepared by [[William Silvey]], [[John N. Rinne]] and [[Roger Sorenson]] for the Southwestern Region, provides a computer-compatible digital index of all naturally occurring perennial waters in Arizona. It was written as a working tool for fisheries...
+> -- *[[IndexToTheNaturalDrainageSyste_18981]]*
+
 ### Mentioned In
 - [[PhysicalHabitatEvaluationOfSma_14995]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[StatusOfTheGilaTopminnowAndIts_15888]]
 - [[ConservationEngineer_12615]]
+- [[IndexToTheNaturalDrainageSyste_18981]]
 
 ## John O. Snyder
 
@@ -2564,9 +2616,13 @@ John Wesley Powell led the first expedition to run the entire Colorado River, ro
 > This document is a July 30, 1994 notice letter from the [[Southwest Center for Biological Diversity]] to the U.S. Secretary of the Interior, the [[Bureau of Reclamation]] (BR) Commissioner and the [[U.S. Fish and Wildlife Service]] (FWS) Director. It alleges that the [[Central Arizona Project]]...
 > -- *[[UsBureauOfReclamationsOngoingI_18968]]*
 
+> This review by [[Clarence A. Carlson]] and [[Robert T. Muth]] (Colorado State University) treats the [[Colorado River]] as a single ecosystem. The authors argue that in less than a century the river has been transformed from a free-flowing, highly variable system into a chain of regulated, man-made...
+> -- *[[TheColoradoRiverLifelineOfTheA_17416]]*
+
 ### Mentioned In
 - [[TheColoradoRiverRailroadSurvey_16614]]
 - [[UsBureauOfReclamationsOngoingI_18968]]
+- [[TheColoradoRiverLifelineOfTheA_17416]]
 
 ## John Wesley Powell Centennial
 
@@ -3458,6 +3514,18 @@ Joseph F. Fitzpatrick Jr. is the person in whose honor the species was named. Ac
 - [[TheRoleOfNaturalHistoryCollect_11379]]
 - [[PotentialForACHartMerriamCente_13747]]
 
+## Joseph H. Kutkuhn
+
+### Summary
+Kutkuhn is the author of this 1963 California Department of Fish and Game Fish Bulletin (No. 120), which develops and evaluates statistical methods for estimating the age structure of salmon landings off California. The work uses scale-annuli age data collected in 1952–1957.
+
+### Context
+> This Fish Bulletin (No. 120, California Department of Fish and Game, 1963) by [[Joseph H. Kutkuhn]] develops and evaluates statistical methods for estimating the absolute age structure of [[King Salmon]] (*Oncorhynchus tshawytscha*) landings off California, using scale-annuli age data collected in...
+> -- *[[EstimatingAbsoluteAgeCompositi_12493]]*
+
+### Mentioned In
+- [[EstimatingAbsoluteAgeCompositi_12493]]
+
 ## Joseph L. Janisch
 <!-- fm: auto_enriched: true -->
 
@@ -3508,9 +3576,13 @@ A spring in Calhoun County (Station 6), about 24 miles from Blue Eye Spring, whe
 > This intra-office memo documents fish surveys conducted at multiple sites in southern Arizona between January 30 and February 10, 1991, focusing on [[Desert Pupfish]] (*Cyprinodon macularius*) and [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) populations. The survey assessed both...
 > -- *[[IntraofficeMemoFishSurveys_13821]]*
 
+> This draft technical report from the [[Arizona Game And Fish Department]] (AGFD) Nongame Branch reviews the status of introduced [[Gila Topminnow]] populations at 26 sites in Arizona. Most sites were stocked between 1975 and 1983 with fish from [[Boyce Thompson Arboretum]], which originated from...
+> -- *[[GilaTopminnowSitesInArizonaPro_19671]]*
+
 ### Mentioned In
 - [[RecentGilaTopminnowRecordsFrom_11903]]
 - [[IntraofficeMemoFishSurveys_13821]]
+- [[GilaTopminnowSitesInArizonaPro_19671]]
 
 ## Josiah Austin
 
@@ -4053,6 +4125,18 @@ The Juniper-Cross Mountain Project was one of several proposed water development
 ### Mentioned In
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[LetterToJohnHamillProposalForE_12209]]
+
+## Juniper-Cross Mountain Reservoirs
+
+### Summary
+Proposed Colorado River-system reservoirs in northwestern Colorado that were discussed as a possible source of water. At a January 3, 1989 hearing in Craig, about one third of attendees supported developing them, and the Craig City Council voted 7–0 on January 10, 1989 to support continued negotiations on a 100,000 acre-foot reservoir and long-term use of Juniper-Cross water rights for instream flow. FWS was skeptical of a lease-based arrangement because it gives no permanent legal protection.
+
+### Context
+> This document is a bundle of U.S. Fish and Wildlife Service (FWS) and stakeholder records from the [[Recovery Implementation Program]] for endangered fishes of the Colorado River. It covers the listing status of the [[Razorback Sucker]], the draft [[Colorado Squawfish]] recovery plan, the...
+> -- *[[ManagementGroupMeeting_21008]]*
+
+### Mentioned In
+- [[ManagementGroupMeeting_21008]]
 
 ## Juniperus
 

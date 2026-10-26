@@ -1093,6 +1093,9 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > This issue of *Bajada*, a free triannual newsletter from the [[National Biological Service]] Cooperative Park Studies Unit at The University of Arizona, is a multi-article communication piece rather than a single study. Its dominant theme is the conservation of endangered native desert fishes in...
 > -- *[[RioYaquiFishesTwoRefugesSustai_15979]]*
 
+> This technical draft recovery action plan, prepared for the [[U.S. Fish and Wildlife Service]] Region 2 (June 1990) by Paul C. Marsh and Donald W. Sada, addresses the [[Desert Pupfish]] (*Cyprinodon macularius*). The species is represented by two subspecies: the [[Colorado River Pupfish]] (*C. m....
+> -- *[[DesertPupfishCyprinodonMacular_17044]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1129,6 +1132,7 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[DesertPupfishCyprinodonMacular_17053]]
 - [[AReviewOfSelectedEndangeredFis_19784]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
+- [[DesertPupfishCyprinodonMacular_17044]]
 
 ## Quitobaquito Pupfish Subspecies
 <!-- fm: auto_enriched: true -->

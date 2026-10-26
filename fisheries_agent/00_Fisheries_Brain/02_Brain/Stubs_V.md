@@ -647,6 +647,18 @@ A cited study of lake herring (cisco) that found no clear correlation between ai
 ### Mentioned In
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
 
+## Van Slyke Blood Gas Apparatus
+
+### Summary
+A laboratory apparatus used to measure gases in trout blood, applied in this report to fish of about 5–6 inches. It was used to show that ammonia at about 1.0 ppm raised blood carbon dioxide and nitrogen and lowered oxygen.
+
+### Context
+> This hatchery research report, produced by a New York State and Federal fish-culture laboratory, covers trout nutrition, disease, water quality and stocking biology. Its central finding is that [[Blue-Slime Disease]] in trout is linked to low [[Biotin]] storage in the liver, and that standard...
+> -- *[[TheNutritionOfTroutCortlandHat_11164]]*
+
+### Mentioned In
+- [[TheNutritionOfTroutCortlandHat_11164]]
+
 ## Van'T Hoff Rule
 <!-- fm: auto_enriched: true -->
 
@@ -1192,9 +1204,13 @@ Velvet Mesquite (Prosopis velutina) is a predominant tree species in the Sonoran
 > This Arizona Game and Fish Department (AGFD) technical report, Nongame and Endangered Wildlife Program Technical Report 112 (June 1997), concludes the [[Statewide Riparian Inventory and Mapping]] (SRIM) project by applying remote sensing to riparian areas along intermittent streams. The study...
 > -- *[[RemoteSensingMappingOfArizonaI_14412]]*
 
+> This USDA Forest Service Research Paper (RM-149, July 1975) by Dwight R. Cable and S. Clark Martin reports a 10-year study (1957–1966) of vegetation on four cattle pastures at the upper edge of the semidesert grass-shrub type on the [[Santa Rita Experimental Range]], near Tucson, Arizona. The study...
+> -- *[[VegetationResponsesToGrazingRa_17319]]*
+
 ### Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[RemoteSensingMappingOfArizonaI_14412]]
+- [[VegetationResponsesToGrazingRa_17319]]
 
 ## Vemco V13-1L
 
@@ -1727,6 +1743,18 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This Arizona Game and Fish Department completion report (Project F-7-R-9, Work Plan 8, Job R-4, 1 January to 31 December 1966), authored by Louis H. Carufel, is the third and final year of predevelopment surveys on nine proposed or completed lakes and eighteen to nineteen streams. The study sought...
 > -- *[[WatershedFisheriesSurveyPredev_16041]]*
 
+> This U.S. Fish and Wildlife Service report, prepared by the Division of Wildlife Services in Phoenix, documents a survey of the endangered [[Southern Bald Eagle]] (*Haliaeetus leucocephalus leucocephalus*) in Arizona, conducted from July 1972 to June 30, 1975. Surveyors located nesting territories...
+> -- *[[TheSouthernBaldEagleInArizona_13287]]*
+
+> This report by [[W. L. Minckley]] (Arizona State University) reviews the native and introduced fishes of the [[Coconino National Forest]] (CNF) region of Arizona. It was prepared as a final report to the CNF in April 1993. It compiles voucher specimen records from the [[University Of Michigan...
+> -- *[[AReviewOfFishesOfTheCoconinoNa_13810]]*
+
+> This Wildlife Unit Technical Series publication, prepared by [[William Silvey]], [[John N. Rinne]] and [[Roger Sorenson]] for the Southwestern Region, provides a computer-compatible digital index of all naturally occurring perennial waters in Arizona. It was written as a working tool for fisheries...
+> -- *[[IndexToTheNaturalDrainageSyste_18981]]*
+
+> This agency review draft is a [[Recovery Plan]] for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid listed as threatened under the [[Endangered Species Act]] of 1973. The plan was prepared by Paul C. Marsh (Arizona State University) for the [[U.S. Fish And Wildlife Service]]...
+> -- *[[DraftSpikedaceMedaFulgidaRecov_19419]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1895,6 +1923,10 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[FossilCreekHydrologyAndTravert_20796]]
 - [[MovementsAndHabitatUtilization_15939]]
 - [[WatershedFisheriesSurveyPredev_16041]]
+- [[TheSouthernBaldEagleInArizona_13287]]
+- [[AReviewOfFishesOfTheCoconinoNa_13810]]
+- [[IndexToTheNaturalDrainageSyste_18981]]
+- [[DraftSpikedaceMedaFulgidaRecov_19419]]
 
 ## Verde River Aquatic Ecology
 
@@ -2083,8 +2115,12 @@ A stream system rated fair, with 80 species. It is one of the systems showing mo
 > - **Species dominance:** The most numerous remains recovered were [[Turkey-red Rockfish]], [[Black Rockfish]], [[Cabezon]], [[Pacific Halibut]], and [[Vermilion Rockfish]]. - **Evidence of deep-sea fishing capability:** The presence of [[Turkey-red Rockfish]] and [[Vermilion Rockfish]], both deep...
 > -- *[[FishSpeciesFromThePointStGeorg_1965_02_22]]*
 
+> This California Department of Fish and Game bulletin (Fish Bulletin 126, by Julius B. Phillips) reports life-history data for ten commercially important [[Rockfish]] species of the genus *Sebastodes*. It covers annual growth, size and age at maturity, weight-length relationships, spawning season,...
+> -- *[[LifeHistoryStudiesOnTenSpecies_11172]]*
+
 ### Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
+- [[LifeHistoryStudiesOnTenSpecies_11172]]
 
 ## Vermillion Flycatcher
 
@@ -2461,10 +2497,14 @@ Vicariance biogeography in fish science refers to the process by which geographi
 > - **Allopatric (vicariant) speciation dominates**: Phylogenetic evidence suggests up to 71% of speciation events arise from geographic isolation of ancestral populations, producing sister species — a major driver of biodiversity patterns relevant to reserve design. - **Community cladogenesis**: W...
 > -- *[[PhylogenyAndBiodiversityConser_12967]]*
 
+> This is a two-year funding proposal to the [[Scholarly Studies Program]] of the [[Smithsonian Institution]] (start date September 1, 1998; total request $62,506). It asks for support to build a molecular phylogeny of [[Pyrgulopsis]], the largest genus of nonmarine snails in North America, and to...
+> -- *[[PhylogenyOfPyrgulopsisSpringsn_20361]]*
+
 ### Mentioned In
 - [[DifferentiationInFishesOfTheAm_12774]]
 - [[FishesOfTheDesert_1940]]
 - [[PhylogenyAndBiodiversityConser_12967]]
+- [[PhylogenyOfPyrgulopsisSpringsn_20361]]
 
 ## Vicariant Speciation
 <!-- fm: auto_enriched: true -->
@@ -3140,6 +3180,12 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This 1984 status report, prepared by [[James E Platz]] for the [[U S Fish and Wildlife Service]] Office of Endangered Species, evaluates the taxonomic standing and current survival of the [[Utah Frog]] ([[Rana Onca]]), a leopard frog known from a narrow desert corridor in southwestern Utah and...
 > -- *[[StatusReportForRanaOncaCope_18613]]*
 
+> This 1951 survey by [[Robert Rush Miller]] (University of Michigan) identifies the bait fishes sold along the [[Lower Colorado River]] between [[Lake Mead]], Nevada, and [[Yuma]], Arizona. It provides a dichotomous identification key covering 32 species, records the known or probable origin of...
+> -- *[[CommunityStructureOfBenthicMac_15163]]*
+
+> This review by [[Clarence A. Carlson]] and [[Robert T. Muth]] (Colorado State University) treats the [[Colorado River]] as a single ecosystem. The authors argue that in less than a century the river has been transformed from a free-flowing, highly variable system into a chain of regulated, man-made...
+> -- *[[TheColoradoRiverLifelineOfTheA_17416]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3258,6 +3304,8 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[AquaticEcosystemSymposiumARepo_15847]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
 - [[StatusReportForRanaOncaCope_18613]]
+- [[CommunityStructureOfBenthicMac_15163]]
+- [[TheColoradoRiverLifelineOfTheA_17416]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -4007,6 +4055,18 @@ The Virgin Spinedace Conservation Agreement (VSCA) is a cooperative conservation
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 
+## Virginia
+
+### Summary
+A state with about 30,000 acres disturbed in nine southwestern counties. The report says major stream systems were not severely affected, largely due to calcareous material, though mining reduced stream flow and a state hatchery closed due to offsite mining effects.
+
+### Context
+> This 1968 special report from the [[Bureau Of Sport Fisheries And Wildlife]] assesses how [[Surface Mining]] for coal affects fish and wildlife across eight Appalachian States. It draws on field observations by a multi-agency [[Field Appraisal Team]] that toured mined areas in 1965–66. The report...
+> -- *[[EffectsOfSurfaceMiningOnFishAn_17706]]*
+
+### Mentioned In
+- [[EffectsOfSurfaceMiningOnFishAn_17706]]
+
 ## Virginia Commission of Game and Inland Fisheries
 
 ### Summary
@@ -4390,6 +4450,18 @@ VNIRO is a Soviet fisheries research institute (with ATLANTNIRO) that contribute
 ### Mentioned In
 - [[ProvisionalWorldListOfComputer_17320]]
 
+## Volatilization
+
+### Summary
+The process by which a pesticide evaporates into the air after application. The second paper in this source describes a field system built to measure it, and reports that volatilization was a significant factor in the net loss of endrin applied to sugar cane.
+
+### Context
+> This Pesticides Monitoring Journal issue (Vol. 3, No. 3, December 1969) contains two papers. The main paper reports the first year-and-a-half of the [[National Pesticide Monitoring Program]] fish survey, in which whole-fish composites from 50 U.S. stations were analyzed for 11 [[Organochlorine...
+> -- *[[OrganochlorineInsecticideResid_16625]]*
+
+### Mentioned In
+- [[OrganochlorineInsecticideResid_16625]]
+
 ## Volcan La Malinche
 
 ### Summary
@@ -4682,9 +4754,13 @@ The Von Bertalanffy Growth Model is a mathematical model describing fish growth 
 > **Core Problem Addressed:** Accurate estimation of [[Gray Triggerfish]] growth parameters while accounting for ageing error from multiple readers and comparing three ageing protocols (whole otoliths, new dorsal spine protocol, old dorsal spine protocol). The study addresses how biased age estimates...
 > -- *[[BayesianEstimationOfVonBertala_2025]]*
 
+> This California Department of Fish and Game bulletin (Fish Bulletin 126, by Julius B. Phillips) reports life-history data for ten commercially important [[Rockfish]] species of the genus *Sebastodes*. It covers annual growth, size and age at maturity, weight-length relationships, spawning season,...
+> -- *[[LifeHistoryStudiesOnTenSpecies_11172]]*
+
 ### Mentioned In
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[BayesianEstimationOfVonBertala_2025]]
+- [[LifeHistoryStudiesOnTenSpecies_11172]]
 
 ## Von Ihering
 

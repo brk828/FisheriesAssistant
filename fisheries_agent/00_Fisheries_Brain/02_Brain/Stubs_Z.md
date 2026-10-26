@@ -826,6 +826,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This symposium overview, by [[Cronin and Mansueti]] of the Chesapeake Biological Laboratory (University of Maryland), describes estuaries as semi-enclosed waters with a free connection to the open sea, where seawater is measurably diluted by land drainage. The paper uses [[Coastal Plain Estuary]]...
 > -- *[[TheBiologyOfTheEstuary_18021]]*
 
+> This 1946 report, written by a fisheries worker for the [[Arizona Game and Fish Commission]], evaluates a low-cost method of controlling submerged aquatic vegetation by darkening water with a black dye, so that less [[Light Penetration|light]] reaches rooted plants. The dye of choice was...
+> -- *[[AnalineDyeInAquaticWeedControl_15796]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -851,6 +854,7 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[ExpandedBibliographyOfArticleE_14464]]
 - [[SystematicsAndBiologyOfTheGizz_15335]]
 - [[TheBiologyOfTheEstuary_18021]]
+- [[AnalineDyeInAquaticWeedControl_15796]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->

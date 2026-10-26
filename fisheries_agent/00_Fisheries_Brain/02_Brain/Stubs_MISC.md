@@ -58,6 +58,18 @@ The U.S. Congress elected in the November 8, 1994 midterm election. The source f
 ### Mentioned In
 - [[SummaryOfEndangeredFishResearc_13612]]
 
+## 13th Hole Pond
+
+### Summary
+A grow-out pond in the study. It received 234 survivors of an airline-delayed squawfish shipment in 1986, and catch dropped sharply afterward, with only four to five fish surviving into 1987.
+
+### Context
+> This second annual progress report from the [[U.S. Fish And Wildlife Service]] (FWS) Colorado River Fishery Project covers two linked studies of the endangered [[Colorado Squawfish]] and [[Razorback Sucker]] in the Grand Valley, Colorado. The work was funded by the [[U.S. Bureau Of Reclamation]]...
+> -- *[[AReportOnTheStudiesOfTheEndang_17862]]*
+
+### Mentioned In
+- [[AReportOnTheStudiesOfTheEndang_17862]]
+
 ## 13th-Hole Pond
 
 ### Summary
@@ -155,6 +167,15 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > These are the final minutes of the August 30, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Committee, convened by the [[Fish and Wildlife Service]] (FWS) to coordinate recovery of four endangered fishes of the Upper Colorado River Basin: the [[Razorback Sucker]],...
 > -- *[[MinutesaugustRecoveryImplement_21016]]*
 
+> This document is the fiscal year (FY) 1990 work plan and budget for the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin (Recovery Program). It was issued by the [[Fish and Wildlife Service]] (Region 6, Denver) on August 30, 1989, and approved the...
+> -- *[[DraftfiscalYearWorkPlan_11611]]*
+
+> This second annual progress report from the [[U.S. Fish And Wildlife Service]] (FWS) Colorado River Fishery Project covers two linked studies of the endangered [[Colorado Squawfish]] and [[Razorback Sucker]] in the Grand Valley, Colorado. The work was funded by the [[U.S. Bureau Of Reclamation]]...
+> -- *[[AReportOnTheStudiesOfTheEndang_17862]]*
+
+> This document is a bundle of U.S. Fish and Wildlife Service (FWS) and stakeholder records from the [[Recovery Implementation Program]] for endangered fishes of the Colorado River. It covers the listing status of the [[Razorback Sucker]], the draft [[Colorado Squawfish]] recovery plan, the...
+> -- *[[ManagementGroupMeeting_21008]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -176,6 +197,9 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[JulyManagementGroupMeetingSumm_21014]]
 - [[FiscalYearAnnualReport_11581]]
 - [[MinutesaugustRecoveryImplement_21016]]
+- [[DraftfiscalYearWorkPlan_11611]]
+- [[AReportOnTheStudiesOfTheEndang_17862]]
+- [[ManagementGroupMeeting_21008]]
 
 ## 15-Mile Reach Gage
 
@@ -346,10 +370,18 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 > This Texas Agricultural Extension Service publication, authored by Edwin H. Cooper (Extension Specialist in Wildlife Conservation, Texas A. & M. College System), is a practical manual for building, stocking, fertilizing, fishing and maintaining small [[Farm Pond]]s for family recreation. It covers...
 > -- *[[ImproveYourFarmFishPond_17549]]*
 
+> This U.S. Fish and Wildlife Service Fishery Leaflet (No. 344, July 1949), by Fishery Research Biologist Eugene W. Surber, gives practical guidance for controlling nuisance aquatic plants in farm ponds, hatchery ponds and small lakes. Its central argument is that excessive submersed or emergent...
+> -- *[[ControlOfAquaticPlantsInPondsA_14680]]*
+
+> This Alabama Polytechnic Institute Extension circular, written by [[Earl Franklin Kennamer]] (Fish and Wildlife Specialist), is a practical guide for farmers who want to build, stock, fertilize, and manage a farm pond for food, recreation, and income. It covers site selection, watershed and water...
+> -- *[[YourOwnFishpond_17944]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
 - [[ImproveYourFarmFishPond_17549]]
+- [[ControlOfAquaticPlantsInPondsA_14680]]
+- [[YourOwnFishpond_17944]]
 
 ## 2,4-D Herbicide
 
@@ -360,8 +392,12 @@ A widely used phenoxy herbicide that was the main chemical in this program, appl
 > This 1955 completion report, prepared by Don R. Luethy for the [[Florida Game and Fresh Water Fish Commission]], documents the Noxious Vegetation Control Program (Project F-2-D-2). The program targeted [[Water Hyacinth]] and other emergent and marginal aquatic plants that were covering fishing...
 > -- *[[NoxiousVegetationControl_16243]]*
 
+> This Job Completion Report from the [[West Virginia Conservation Commission]] Fish Division, Project F-3-R-3, documents a series of investigations into the stocking, management, and biology of small farm ponds. Work covered study-pond selection, creation of experimental ponds, physical and chemical...
+> -- *[[SelectionOfRepresentativeSmall_12163]]*
+
 ### Mentioned In
 - [[NoxiousVegetationControl_16243]]
+- [[SelectionOfRepresentativeSmall_12163]]
 
 ## 2-Methylquinoline
 <!-- fm: auto_enriched: true -->

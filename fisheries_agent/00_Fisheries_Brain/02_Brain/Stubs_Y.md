@@ -636,6 +636,12 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > These are the final minutes of the August 30, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Committee, convened by the [[Fish and Wildlife Service]] (FWS) to coordinate recovery of four endangered fishes of the Upper Colorado River Basin: the [[Razorback Sucker]],...
 > -- *[[MinutesaugustRecoveryImplement_21016]]*
 
+> This document is the fiscal year (FY) 1990 work plan and budget for the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin (Recovery Program). It was issued by the [[Fish and Wildlife Service]] (Region 6, Denver) on August 30, 1989, and approved the...
+> -- *[[DraftfiscalYearWorkPlan_11611]]*
+
+> This 1980 BIO/WEST report, prepared for the [[National Park Service]] to support its reserved water-rights claim in Dinosaur National Monument, tests whether flow from the [[Yampa River]] governs reproductive success of [[Colorado Squawfish]] in the upper [[Green River]]. Using year-class catch...
+> -- *[[TheRelationshipBetweenFlowsInT_20459]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -817,6 +823,8 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[MovementMigrationAndHabitatPre_18485]]
 - [[MinutesfebruaryRecoveryImpleme_20999]]
 - [[MinutesaugustRecoveryImplement_21016]]
+- [[DraftfiscalYearWorkPlan_11611]]
+- [[TheRelationshipBetweenFlowsInT_20459]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1090,6 +1098,9 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This report, prepared for the [[U.S. Fish and Wildlife Service]] and the [[Cochise County Parks Advisory Commission]] (December 1983), uses oral history to reconstruct environmental change at the [[San Bernardino Ranch]] in extreme southeastern Cochise County, Arizona. Five in-depth interviews with...
 > -- *[[TallGrassAndFlowingWaterAnOral_18812]]*
 
+> This 1996 technical report, prepared by José R. Campoy-Favela of the [[Instituto del Medio Ambiente y del Desarrollo Sustentable del Estado de Sonora]] (IMADES) for the [[Arizona Game and Fish Department]] (AGFD), evaluates the status of five target native fishes: [[Desert Pupfish]], [[Sonoran...
+> -- *[[EvaluationOfPopulationsOfCypri_17370]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -1167,6 +1178,7 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[SanBernardinoAquaticHabitatMan_19783]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
 - [[TallGrassAndFlowingWaterAnOral_18812]]
+- [[EvaluationOfPopulationsOfCypri_17370]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1325,6 +1337,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This report, prepared for the [[U.S. Fish and Wildlife Service]] and the [[Cochise County Parks Advisory Commission]] (December 1983), uses oral history to reconstruct environmental change at the [[San Bernardino Ranch]] in extreme southeastern Cochise County, Arizona. Five in-depth interviews with...
 > -- *[[TallGrassAndFlowingWaterAnOral_18812]]*
 
+> This 1996 technical report, prepared by José R. Campoy-Favela of the [[Instituto del Medio Ambiente y del Desarrollo Sustentable del Estado de Sonora]] (IMADES) for the [[Arizona Game and Fish Department]] (AGFD), evaluates the status of five target native fishes: [[Desert Pupfish]], [[Sonoran...
+> -- *[[EvaluationOfPopulationsOfCypri_17370]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1425,6 +1440,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[ConservationEngineer_12615]]
 - [[RestorationOfCienegaDeSanBerna_17600]]
 - [[TallGrassAndFlowingWaterAnOral_18812]]
+- [[EvaluationOfPopulationsOfCypri_17370]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -2440,6 +2456,9 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This draft Environmental Assessment (EA), prepared by the [[Bureau of Reclamation]] (lead federal agency, with the [[Bureau of Indian Affairs]] and [[U.S. Fish and Wildlife Service]] as cooperators), evaluates building two reinforced concrete drop structures near the lower end of [[Aravaipa...
 > -- *[[DraftEnvironmentalAssessmentCo_11757]]*
 
+> This report documents a multi-year creel census and mark-recapture study of the fish community of [[Spear Lake]], a 40-acre glacial moraine lake in Kosciusko County, Indiana. The work was carried out in 1944–45 and again in 1947–49 as part of the [[Indiana Lake and Stream Survey]], run jointly by...
+> -- *[[FishAndFishingInSpearLakeIndia_16866]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -2544,6 +2563,7 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[SummaryOfRedShinerSamplingOnJu_17690]]
 - [[EffectivenessOfVariousRotenone_13031]]
 - [[DraftEnvironmentalAssessmentCo_11757]]
+- [[FishAndFishingInSpearLakeIndia_16866]]
 
 ## Yellow Creek
 
@@ -2838,6 +2858,15 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This University of Minnesota Agricultural Experiment Station Miscellaneous Report (152-1978), by J.D. Winter, V.B. Kuechle, D.B. Siniff and J.R. Tester, is a practical guide for fisheries biologists who want to start [[Radio Telemetry]] programs for freshwater fish. It covers the history of aquatic...
 > -- *[[EquipmentAndMethodsForRadioTra_20781]]*
 
+> This 1931 Ohio Division of Wildlife bulletin, authored by [[Edward L. Wickliff]] and [[Milton B. Trautman]] (reprinted through 1962), is a field identification guide for anglers covering fourteen common food and game fishes of Ohio. It includes a descriptive family key, species accounts with...
+> -- *[[SomeFoodAndGameFishesOfOhio_12216]]*
+
+> This 1951 survey by [[Robert Rush Miller]] (University of Michigan) identifies the bait fishes sold along the [[Lower Colorado River]] between [[Lake Mead]], Nevada, and [[Yuma]], Arizona. It provides a dichotomous identification key covering 32 species, records the known or probable origin of...
+> -- *[[CommunityStructureOfBenthicMac_15163]]*
+
+> This report documents a multi-year creel census and mark-recapture study of the fish community of [[Spear Lake]], a 40-acre glacial moraine lake in Kosciusko County, Indiana. The work was carried out in 1944–45 and again in 1947–49 as part of the [[Indiana Lake and Stream Survey]], run jointly by...
+> -- *[[FishAndFishingInSpearLakeIndia_16866]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -2955,6 +2984,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[SomePanFishesOfNewYork_16764]]
 - [[BiologyAndVitalStatisticsOfRai_20688]]
 - [[EquipmentAndMethodsForRadioTra_20781]]
+- [[SomeFoodAndGameFishesOfOhio_12216]]
+- [[CommunityStructureOfBenthicMac_15163]]
+- [[FishAndFishingInSpearLakeIndia_16866]]
 
 ## Yellow Pike Perch
 
@@ -3150,9 +3182,13 @@ Yellowbelly Sunfish (Lepomis auritus) is one of three sunfish species used in th
 > This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
 > -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
 
+> This Job Completion Report from the [[West Virginia Conservation Commission]] Fish Division, Project F-3-R-3, documents a series of investigations into the stocking, management, and biology of small farm ponds. Work covered study-pond selection, creation of experimental ponds, physical and chemical...
+> -- *[[SelectionOfRepresentativeSmall_12163]]*
+
 ### Mentioned In
 - [[EstablishmentOfNewOrReclaimedP_12166]]
 - [[GameFishStreamsAndRecordsOfFis_21088]]
+- [[SelectionOfRepresentativeSmall_12163]]
 
 ## Yellowfin Goby
 <!-- fm: auto_enriched: true -->
@@ -3409,10 +3445,14 @@ The Yellowstone River represents a significant aquatic ecosystem in North Americ
 > This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
 > -- *[[DraftProposedCriteriaForDesign_14776]]*
 
+> This 1987 special report by [[Lee H Simons]] of the [[Arizona Game And Fish Department]] assesses the status of the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in the United States under Project E-1 of Title VI of the [[Endangered Species Act]]. The subspecies was listed as...
+> -- *[[StatusOfTheGilaTopminnowPoecil_18996]]*
+
 ### Mentioned In
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[DraftProposedCriteriaForDesign_14776]]
+- [[StatusOfTheGilaTopminnowPoecil_18996]]
 
 ## Yellowstone Whitefish
 <!-- fm: auto_enriched: true -->
@@ -3486,9 +3526,13 @@ A commercially important flounder species managed under ICNAF quotas of 13,000 m
 > This study documents seasonal behavioral patterns in mixed aggregations of [[Yellowtail Rockfish]] (*Sebastes flavidus*) and [[Dusky Rockfish]] (*S. ciliatus*) observed by divers in [[Lynn Canal]], southeastern [[Alaska]] from 1965-75. The rockfishes exhibited dramatic seasonal shifts in spatial...
 > -- *[[SeasonalChangesInSpatialDistri_17423]]*
 
+> This California Department of Fish and Game bulletin (Fish Bulletin 126, by Julius B. Phillips) reports life-history data for ten commercially important [[Rockfish]] species of the genus *Sebastodes*. It covers annual growth, size and age at maturity, weight-length relationships, spawning season,...
+> -- *[[LifeHistoryStudiesOnTenSpecies_11172]]*
+
 ### Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
 - [[SeasonalChangesInSpatialDistri_17423]]
+- [[LifeHistoryStudiesOnTenSpecies_11172]]
 
 ## Yellowtail Snapper
 <!-- fm: auto_enriched: true -->
@@ -4005,6 +4049,9 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 > This report by Duncan T. Patten synthesizes the ideas generated at a [[Workshop Symposium]] held on July 8-9, 1998, by the U.S. Fish and Wildlife Service and the Bureau of Reclamation. The document provides background on the heavily regulated [[Lower Colorado River]], discusses concepts of...
 > -- *[[RestorationStrategiesForTheLow_18459]]*
 
+> This 1951 survey by [[Robert Rush Miller]] (University of Michigan) identifies the bait fishes sold along the [[Lower Colorado River]] between [[Lake Mead]], Nevada, and [[Yuma]], Arizona. It provides a dichotomous identification key covering 32 species, records the known or probable origin of...
+> -- *[[CommunityStructureOfBenthicMac_15163]]*
+
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
@@ -4015,6 +4062,7 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 - [[BotanicalExplorationsInTheSout_12961]]
 - [[SportOnTheLowerColorado_19172]]
 - [[RestorationStrategiesForTheLow_18459]]
+- [[CommunityStructureOfBenthicMac_15163]]
 
 ## Yuma Area Office
 

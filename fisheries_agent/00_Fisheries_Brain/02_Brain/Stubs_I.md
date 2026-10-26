@@ -179,6 +179,9 @@ The intensive winter creel census was the main survey method used at Branch Lake
 > The [[Station Development Plan]] for the [[Marble Bluff Fish Facility]] (MBFF), prepared by the [[Fish and Wildlife Service]] (FWS) Region 1 Division of Engineering, assesses why the facility fails to pass migrating [[Cui-ui]] and [[Lahontan Cutthroat Trout]] (LCT) from [[Pyramid Lake]] to spawning...
 > -- *[[MarbleBluffFishFacilityStation_13317]]*
 
+> This U.S. Bureau of Commercial Fisheries circular (Circular 254, October 1968, by [[Parker S. Trefethen]]) summarizes the [[Fish-Passage Research Program]] from 1961 through 1966. The program studied how anadromous salmonids pass [[High Dams]] on the [[Columbia River]] and its major tributary, the...
+> -- *[[FishpassageResearchReviewOfPro_13394]]*
+
 ### Mentioned In
 - [[EvaluationOfSpringChinookMigra_1969]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
@@ -186,6 +189,7 @@ The intensive winter creel census was the main survey method used at Branch Lake
 - [[DissolvedNitrogenConcentration_15718]]
 - [[MarbleBluffFishFacilityOperati_16613]]
 - [[MarbleBluffFishFacilityStation_13317]]
+- [[FishpassageResearchReviewOfPro_13394]]
 
 ## Iceberg Canyon
 
@@ -571,6 +575,9 @@ Ichthyophthirius is a parasitic ciliate protozoan that causes a common and econo
 > This 1932 New York State Conservation Department bulletin, by [[O. R. Kingsbury]] and [[G. C. Embody]] of the [[Cornell University]] Laboratory of Fish Culture, describes a device that treats hatchery fish diseases by adding a constant, metered flow of chemical reagent to the water supply of a...
 > -- *[[ThePreventionAndControlOfHatch_12545]]*
 
+> This U.S. Fish and Wildlife Service station report, by [[Robert E. David]] and [[Lawrence J. Wirtanen]], describes the development of an artificial propagation protocol for the [[Loach Minnow]], a threatened stream fish listed under the [[Endangered Species Act]]. Wild fish were collected in June...
+> -- *[[ArtificialPropagationOfLoachMi_13956]]*
+
 ### Mentioned In
 - [[ChannelCatfishCultureInCalifor_16946]]
 - [[PreliminaryReportOnTheMalaccaT_12279]]
@@ -579,6 +586,7 @@ Ichthyophthirius is a parasitic ciliate protozoan that causes a common and econo
 - [[ToxicityOfTherapeuticCompounds_13281]]
 - [[AnAnnotatedBibliographyOfTheEf_18153]]
 - [[ThePreventionAndControlOfHatch_12545]]
+- [[ArtificialPropagationOfLoachMi_13956]]
 
 ## Ichthyophthirius Multifiliis
 <!-- fm: auto_enriched: true -->
@@ -1875,6 +1883,18 @@ The Illinois Department of Conservation is the state agency that jointly support
 ### Mentioned In
 - [[NewDistributionalRecordsOfIlli_1988]]
 
+## Illinois Fish Code
+
+### Summary
+The Illinois Fish Code is the state fisheries law of Illinois. According to this source, it protects the Bantam Sunfish, which is also listed as endangered in Illinois.
+
+### Context
+> This Illinois Natural History Survey bulletin (Volume 31, Article 10, September 1977) by [[Brooks M. Burr]] is a systematic, distributional, and life-history study of the [[Bantam Sunfish]] (*Lepomis symmetricus*), one of the least known members of the genus [[Lepomis]]. The author combined a...
+> -- *[[TheBantamSunfishLepomisSymmetr_14043]]*
+
+### Mentioned In
+- [[TheBantamSunfishLepomisSymmetr_14043]]
+
 ## Illinois Fish Fauna
 <!-- fm: auto_enriched: true -->
 
@@ -1933,6 +1953,9 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This 1945 Illinois Natural History Survey bulletin by [[George W. Bennett]] documents the only case of [[Overfishing]] ever observed by Survey aquatic biologists in Illinois. The study covers [[Onized Lake]], a 2-acre artificial pond near [[Alton Illinois]] that was intensively angled by members of...
 > -- *[[OverfishingInASmallArtificialL_18158]]*
 
+> This 1948 Illinois Natural History Survey bulletin by [[George W. Bennett]] reports a multi-year study of Fork Lake, a 1.38-acre farm pond near Mount Zion, Illinois. The pond was rotenone-poisoned in June 1938, restocked with [[Largemouth Bass]] fry and [[Bluegill]] adults, and then cropped with...
+> -- *[[TheBassbluegillCombinationInAS_18160]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -1946,6 +1969,7 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[HybridizationBetweenThreeSpeci_16130]]
 - [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 - [[OverfishingInASmallArtificialL_18158]]
+- [[TheBassbluegillCombinationInAS_18160]]
 
 ## Illinois Natural History Survey Resurvey (1950-1971)
 
@@ -2008,6 +2032,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This 1928 bulletin from the [[Illinois Natural History Survey]], by David H. Thompson, describes a skeletal and growth malformation in [[Cyprinus Carpio]] (common carp) of the middle [[Illinois River]]. Fishermen called the affected fish "knotheads." The study was begun with [[Ludwig Scheuring]]...
 > -- *[[TheKnotheadCarpOfTheIllinoisRi_13583]]*
 
+> This Illinois Natural History Survey bulletin (Volume 31, Article 10, September 1977) by [[Brooks M. Burr]] is a systematic, distributional, and life-history study of the [[Bantam Sunfish]] (*Lepomis symmetricus*), one of the least known members of the genus [[Lepomis]]. The author combined a...
+> -- *[[TheBantamSunfishLepomisSymmetr_14043]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -2025,6 +2052,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[SomeObservationsOnTheOxygenReq_13582]]
 - [[ObservationsOnTheLimnologicalD_14675]]
 - [[TheKnotheadCarpOfTheIllinoisRi_13583]]
+- [[TheBantamSunfishLepomisSymmetr_14043]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2299,6 +2327,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This 1972 proposal, prepared by the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], sets out a generalized master plan for environmental studies of the lower [[Lower Colorado River Basin]] ecosystem. The authors argue that the basin is among the most heavily...
 > -- *[[AGeneralizedMasterPlanOfEnviro_18588]]*
 
+> This review by [[Clarence A. Carlson]] and [[Robert T. Muth]] (Colorado State University) treats the [[Colorado River]] as a single ecosystem. The authors argue that in less than a century the river has been transformed from a free-flowing, highly variable system into a chain of regulated, man-made...
+> -- *[[TheColoradoRiverLifelineOfTheA_17416]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -2327,6 +2358,7 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[LowerColoradoRiverBiologicalAs_13908]]
 - [[AGeneralizedMasterPlanOfEnviro_16071]]
 - [[AGeneralizedMasterPlanOfEnviro_18588]]
+- [[TheColoradoRiverLifelineOfTheA_17416]]
 
 ## Imperial Dam Impoundment
 <!-- fm: auto_enriched: true -->
@@ -3380,6 +3412,18 @@ Indian Spring is one of approximately seven spring systems within 1 km of School
 ### Mentioned In
 - [[DiscussionDraftBillToEstablish_1994]]
 
+## Indian Wells Valley
+
+### Summary
+Indian Wells Valley, in the southern Sierra Nevada, is where P. giulianii is found in five streams in its western part. These are Sage, Sand, Ninemile, Grapevine and Cow canyons, plus a small streamlet in South Fork Short Canyon. The paper treats these records as part of the species' known distribution in the Death Valley System region.
+
+### Context
+> This paper, the third and final in a series on springsnails (Hydrobiidae) of the [[Death Valley System]], describes the new species [[Pyrgulopsis Giulianii]] from six small to moderate-sized streams in the southern [[Sierra Nevada]]. The species is separated from its closest relative, [[Pyrgulopsis...
+> -- *[[ANewPyrgulopsisFromSoutheaster_20362]]*
+
+### Mentioned In
+- [[ANewPyrgulopsisFromSoutheaster_20362]]
+
 ## Indiana
 
 ### Summary
@@ -3439,8 +3483,12 @@ This refers to the Indiana longear sunfish growth data reported by Hile (1931), 
 > This 1945 study by William E. Ricker, part of the [[Indiana Lake and Stream Survey]], investigates the relative contributions of **fishing mortality** versus **natural mortality** in populations of Indiana's small-lake game fishes. Using fin-clip marking and creel census methodology, the study qu...
 > -- *[[CausesOfDeathAmongIndianaFishe_1945]]*
 
+> This report documents a multi-year creel census and mark-recapture study of the fish community of [[Spear Lake]], a 40-acre glacial moraine lake in Kosciusko County, Indiana. The work was carried out in 1944–45 and again in 1947–49 as part of the [[Indiana Lake and Stream Survey]], run jointly by...
+> -- *[[FishAndFishingInSpearLakeIndia_16866]]*
+
 ### Mentioned In
 - [[CausesOfDeathAmongIndianaFishe_1945]]
+- [[FishAndFishingInSpearLakeIndia_16866]]
 
 ## Indiana Myotis
 
@@ -4206,6 +4254,18 @@ The Institute of Medicine (IOM) is one of the four organizations in the National
 ### Mentioned In
 - [[AUniqueNationalResource_19493]]
 
+## Institute of Radiation Ecology
+
+### Summary
+The Institute of Radiation Ecology is the research unit at the University of Georgia that prepared this 1965 report by Robert L. Humphries. The source describes it as the institution behind the study of channel catfish movements in the Savannah River area.
+
+### Context
+> This 1965 report by Robert L. Humphries, prepared at the [[Institute of Radiation Ecology]] of the [[University of Georgia]], presents a mark-recapture study of [[Channel Catfish]] (*Ictalurus lacustris punctatus*) in the [[Savannah River]] and its tributary [[Upper Three Runs]] within the...
+> -- *[[AStudyOfTheMovementsOfTheChann_14515]]*
+
+### Mentioned In
+- [[AStudyOfTheMovementsOfTheChann_14515]]
+
 ## Institute of Sewage Purification
 
 ### Summary
@@ -4235,6 +4295,18 @@ The Instituto de Investigaciones Oceanologicas is a research institution at UABC
 
 ### Mentioned In
 - [[AnfipodesTroglobios_1951]]
+
+## Instituto del Medio Ambiente y del Desarrollo Sustentable del Estado de Sonora
+
+### Summary
+IMADES is a Sonoran state environmental and sustainable development institute. In this 1996 report, it is the affiliation of author José R. Campoy-Favela and a partner in the project, providing additional support and remaining funds for the planned evaluation trips.
+
+### Context
+> This 1996 technical report, prepared by José R. Campoy-Favela of the [[Instituto del Medio Ambiente y del Desarrollo Sustentable del Estado de Sonora]] (IMADES) for the [[Arizona Game and Fish Department]] (AGFD), evaluates the status of five target native fishes: [[Desert Pupfish]], [[Sonoran...
+> -- *[[EvaluationOfPopulationsOfCypri_17370]]*
+
+### Mentioned In
+- [[EvaluationOfPopulationsOfCypri_17370]]
 
 ## Instituto Indigenista
 
@@ -4935,6 +5007,18 @@ Interface theory treats transition zones as places where structural or functiona
 ### Mentioned In
 - [[InUnexpectedPlacesCluesToAncie_14832]]
 
+## Interim Flow Criteria
+
+### Summary
+Interim Flow Criteria are the operating rules for Glen Canyon Dam releases that the source says have applied since August 1, 1991. They set mainstem flows between 5,000 and 20,000 cfs, limit daily fluctuation by monthly volume class, and cap ramp rates at 2,500 cfs per hour when rising and 1,500 cfs per hour when falling. The report links these flows to changes in chub habitat, such as a drop in average absolute stage change from 14.4 to 5.4 cm/hr and more low-velocity habitat for fathead minnows.
+
+### Context
+> This Annual Report from [[BIO/WEST]] to the [[Bureau of Reclamation]] covers the calendar year 1992 of a four-year study of the endangered [[Humpback Chub]] in the mainstem [[Colorado River]] through [[Grand Canyon]]. The study tests how [[Glen Canyon Dam]] operations affect the species' life...
+> -- *[[CharacterizationOfTheLifeHisto_13631]]*
+
+### Mentioned In
+- [[CharacterizationOfTheLifeHisto_13631]]
+
 ## Interim Flow Regime
 <!-- fm: auto_enriched: true -->
 
@@ -5121,6 +5205,18 @@ A stream that stops flowing for part of the year, leaving pools or dried bed. St
 ### Mentioned In
 - [[AgosiaChrysogasterACyprinidFro_17955]]
 - [[SomeAspectsOfBiologyOfTheLongf_1971_05_25]]
+
+## Intermittent Streams
+
+### Summary
+Intermittent streams, especially on the plains, can be dammed to form ponds for warm water species. The source says adequate spillway design is needed for flood protection.
+
+### Context
+> This Colorado Department of Game and Fish information pamphlet, written by W.R. Seaman, Superintendent of Fish Culture, gives practical guidance for private landowners and small commercial operators who want to raise fish. Its central premise is that water (its temperature, quantity, and quality)...
+> -- *[[FishCultureForFunForProfit_11333]]*
+
+### Mentioned In
+- [[FishCultureForFunForProfit_11333]]
 
 ## International Aquaculture Research
 <!-- fm: auto_enriched: true -->
@@ -5468,9 +5564,13 @@ An international conservation organization whose lists of threatened species are
 > This document is a 1970 exchange of letters between American ichthyologist [[Robert R. Miller]] and Mexican botanist [[Arturo Gomez Pompa]] of the [[Universidad Nacional Autónoma de México]] (UNAM). Miller writes to urge protection of two Mexican aquatic sites of high biological value: the [[Cuatro...
 > -- *[[InterestInConservationInLatinA_15353]]*
 
+> This technical draft recovery action plan, prepared for the [[U.S. Fish and Wildlife Service]] Region 2 (June 1990) by Paul C. Marsh and Donald W. Sada, addresses the [[Desert Pupfish]] (*Cyprinodon macularius*). The species is represented by two subspecies: the [[Colorado River Pupfish]] (*C. m....
+> -- *[[DesertPupfishCyprinodonMacular_17044]]*
+
 ### Mentioned In
 - [[ComancheSpringsPupfishCyprinod_13298]]
 - [[InterestInConservationInLatinA_15353]]
+- [[DesertPupfishCyprinodonMacular_17044]]
 
 ## International Union for Conservation of Nature and Natural Resources
 
@@ -6543,6 +6643,18 @@ Iron Gate Hatchery was one of California's "mitigation" hatcheries operated by t
 - [[AuthortitleIndexToInlandFisher_14367]]
 - [[CaliforniaTroutSalmonAndWarmwa_20548]]
 
+## Iron Hydroxide
+
+### Summary
+A yellow-brown precipitate, called "yellow boy" in the report, that coats stream bottoms where mine drainage has become acid. The report says it destroys aquatic habitat.
+
+### Context
+> This 1968 special report from the [[Bureau Of Sport Fisheries And Wildlife]] assesses how [[Surface Mining]] for coal affects fish and wildlife across eight Appalachian States. It draws on field observations by a multi-agency [[Field Appraisal Team]] that toured mined areas in 1965–66. The report...
+> -- *[[EffectsOfSurfaceMiningOnFishAn_17706]]*
+
+### Mentioned In
+- [[EffectsOfSurfaceMiningOnFishAn_17706]]
+
 ## Iron Ore Mining
 
 ### Summary
@@ -6918,8 +7030,13 @@ Island and Rainbow Parks is a flat, meandering reach of the Green River that the
 ## Island Biogeography Theory
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This review synthesizes empirical observations and partial differential equation (PDE) theory on how [[Habitat Edges]] alter [[Species Interactions]] and community dynamics. The authors argue that edge research has moved from describing [[Edge Effects]] (such as elevated species richness at...
+> -- *[[HowHabitatEdgesChangeSpeciesIn_16297]]*
+
 ### Mentioned In
 - [[CuatroCienegasFishesResearchRe_13699]]
+- [[HowHabitatEdgesChangeSpeciesIn_16297]]
 
 ## Island Communities
 

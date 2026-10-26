@@ -258,9 +258,13 @@ A peninsula in the Russian Far East that lies within the North Pacific range of 
 > - **[[Kamloops Trout]]** — previously listed separately in 1955, now reclassified/subsumed under **[[Rainbow Trout]]**. - **Aurora Trout** — previously listed separately, now considered synonymous with **[[Brook Trout]]**. - **Marston's Trout** — previously listed separately, now considered synon...
 > -- *[[ReviewOfFreshwaterFishesOfEast_11318]]*
 
+> This 1955 booklet, issued under the authority of the Minister of Northern Affairs and National Resources and written in the voice of [[Gregory Clark]], is a tourist and angling guide to the principal game fishes of Canada. It describes the sporting value, size records, range, seasons and tackle for...
+> -- *[[GameFishInCanada_15912]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
+- [[GameFishInCanada_15912]]
 
 ## Kanab Ambersnail
 <!-- fm: auto_enriched: true -->
@@ -299,6 +303,9 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > This compilation of planning documents, dated mainly October–November 1995, assembles proposals from federal, state, tribal and university groups to study the effects of a planned spring 1996 experimental high flow from [[Glen Canyon Dam]]. The flow was planned at 45,000 cfs for about seven days,...
 > -- *[[MeetingNextWeek_19735]]*
 
+> The document is a set of U.S. Department of the Interior memoranda and peer review records concerning the [[Grand Canyon Monitoring and Research Center]] (GCMRC). The Center was created under the [[Grand Canyon Protection Act]] of 1992 to run long-term monitoring and research on how [[Glen Canyon...
+> -- *[[EstablishmentOfTheGrandCanyonM_16920]]*
+
 ### Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -312,6 +319,7 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[DraftBiologicalOpinionOperatio_11642]]
 - [[ReDesertPupfishAndGilaTopminno_16904]]
 - [[MeetingNextWeek_19735]]
+- [[EstablishmentOfTheGrandCanyonM_16920]]
 
 ## Kanab Creek
 <!-- fm: auto_enriched: true -->
@@ -620,12 +628,20 @@ The Kansas River is a major fluvial system in northeastern Kansas that serves as
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This 1953 preliminary report by the [[Fish and Wildlife Service]] (Missouri River Basin Studies, Billings, Montana) assesses how the planned [[Tuttle Creek Dam]] and [[Tuttle Creek Reservoir]] on the [[Big Blue River]] would affect fish and wildlife. The reservoir is a flood-control project within...
+> -- *[[APreliminaryReportOnFishAndWil_15141]]*
+
+> This 1956 student report by W. L. Minckley, submitted to Kansas State College, examines the ecology of the [[Topeka Shiner]] (*Notropis topeka* Gilbert) in [[Deep Creek]], a small tributary of the [[Kansas River]] in Riley County, Kansas. Fieldwork ran from September 1 to November 25, 1956 across...
+> -- *[[SomeEcologicalStudiesOfNotropi_18546]]*
+
 ### Mentioned In
 - [[FishesOfTheWakarusaRiverInKans_14015]]
 - [[NewLocalityRecordsForSomeKansa_1981]]
 - [[OccurenceOfTheSturgeonChubHybo_18028]]
 - [[SomeEffectsOfANeutralMixtureOf_1969_06_11]]
 - [[WhatHaveICaught_12929]]
+- [[APreliminaryReportOnFishAndWil_15141]]
+- [[SomeEcologicalStudiesOfNotropi_18546]]
 
 ## Kansas River Basin
 <!-- fm: auto_enriched: true -->
@@ -637,6 +653,18 @@ The Kansas River Basin is a major inland freshwater drainage system in central N
 - [[ChecklistOfParasitesFromCatfis_1959]]
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
+
+## Kansas State Board of Health
+
+### Summary
+A state health agency that cooperated with the Bureau of Mines on this report about petroleum waste from oil-producing leases in Kansas. The source notes its involvement in the work, which was motivated by the problem of oil pollution in agricultural areas.
+
+### Context
+> This 1930s Bureau of Mines report, prepared with the [[Kansas State Board of Health]], examines how [[Petroleum Wastes]] from oil-producing leases damage soils, vegetation, [[Aquatic Life]], livestock, and waterfowl, and how such wastes can be reduced and disposed of properly. The authors argue...
+> -- *[[SoilsAndWaterResourcesOfKansas_19835]]*
+
+### Mentioned In
+- [[SoilsAndWaterResourcesOfKansas_19835]]
 
 ## Kansas State Teachers College
 
@@ -1601,6 +1629,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
 > -- *[[ColoradoRiverEndangeredFishRec_21021]]*
 
+> This document is the fiscal year (FY) 1990 work plan and budget for the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin (Recovery Program). It was issued by the [[Fish and Wildlife Service]] (Region 6, Denver) on August 30, 1989, and approved the...
+> -- *[[DraftfiscalYearWorkPlan_11611]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1620,6 +1651,7 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[AprilManagementGroupMeetingSum_21010]]
 - [[JulyDraftManagmentGroupMetingS_21013]]
 - [[ColoradoRiverEndangeredFishRec_21021]]
+- [[DraftfiscalYearWorkPlan_11611]]
 
 ## Kennith Foster
 
@@ -1676,9 +1708,13 @@ Kent County is a jurisdiction along the Chesapeake Bay that experienced signific
 > This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
 > -- *[[WaterRightsBibliography_17761]]*
 
+> This 1968 special report from the [[Bureau Of Sport Fisheries And Wildlife]] assesses how [[Surface Mining]] for coal affects fish and wildlife across eight Appalachian States. It draws on field observations by a multi-agency [[Field Appraisal Team]] that toured mined areas in 1965–66. The report...
+> -- *[[EffectsOfSurfaceMiningOnFishAn_17706]]*
+
 ### Mentioned In
 - [[ADistributionalAtlas_1986_10_01]]
 - [[WaterRightsBibliography_17761]]
+- [[EffectsOfSurfaceMiningOnFishAn_17706]]
 
 ## Kentucky Academy Of Science
 <!-- fm: auto_enriched: true -->
@@ -2063,6 +2099,18 @@ This is a California Department of Fish and Game trout hatchery. The source note
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_20548]]
 
+## Kern River Valley
+
+### Summary
+Kern River Valley is the adjacent valley where P. giulianii occurs in one stream. The authors link this occurrence to the historic South Fork Kern River connection with the Owens Basin. This is one of the historic drainage connections the paper uses to reconstruct regional drainage evolution.
+
+### Context
+> This paper, the third and final in a series on springsnails (Hydrobiidae) of the [[Death Valley System]], describes the new species [[Pyrgulopsis Giulianii]] from six small to moderate-sized streams in the southern [[Sierra Nevada]]. The species is separated from its closest relative, [[Pyrgulopsis...
+> -- *[[ANewPyrgulopsisFromSoutheaster_20362]]*
+
+### Mentioned In
+- [[ANewPyrgulopsisFromSoutheaster_20362]]
+
 ## Kerr Dam
 <!-- fm: auto_enriched: true -->
 
@@ -2274,6 +2322,18 @@ A dichotomous key in the handbook that helps readers sort New Hampshire fishes i
 
 ### Mentioned In
 - [[ASportsmansGuideToTheFreshwate_17439]]
+
+## Key to Species
+
+### Summary
+The Key to Species is a dichotomous identification key included in the monograph for separating the four gar species treated. The source uses it for distinctions such as snout proportions, gill raker counts, and body spotting.
+
+### Context
+> This 1963 taxonomic monograph, reprinted from the [[Sears Foundation for Marine Research]] *Memoir*, revises the Garfishes (Order [[Lepisostei]], family [[Lepisosteidae]]) of the Western North Atlantic. It covers the single living genus [[Lepisosteus]] and four species: [[Spotted Gar]] (*L....
+> -- *[[OrderLepisostei_15047]]*
+
+### Mentioned In
+- [[OrderLepisostei_15047]]
 
 ## Keys 1930
 <!-- fm: auto_enriched: true -->
@@ -2672,6 +2732,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This 1963 report from the [[U.S. Fish and Wildlife Service]] (Bureau of Commercial Fisheries) by Robert M. Yancey and Fredrik V. Thorsteinson, published as Special Scientific Report–Fisheries No. 440, investigates the decline of [[King Salmon]] (*Oncorhynchus tshawytscha*) runs in [[Cook Inlet]],...
 > -- *[[TheKingSalmonOfCookInletAlaska_20877]]*
 
+> This Fish Bulletin (No. 120, California Department of Fish and Game, 1963) by [[Joseph H. Kutkuhn]] develops and evaluates statistical methods for estimating the absolute age structure of [[King Salmon]] (*Oncorhynchus tshawytscha*) landings off California, using scale-annuli age data collected in...
+> -- *[[EstimatingAbsoluteAgeCompositi_12493]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -2691,6 +2754,7 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[DistributionOfStripedBassFryIn_17336]]
 - [[CaliforniaTroutSalmonAndWarmwa_20548]]
 - [[TheKingSalmonOfCookInletAlaska_20877]]
+- [[EstimatingAbsoluteAgeCompositi_12493]]
 
 ## King Snake
 
@@ -2838,6 +2902,18 @@ This is a study cited in the source showing that hypersalinity reduced the growt
 
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_20548]]
+
+## Kinney 1964
+
+### Summary
+A 1964 source cited by the report, from which Table 2 of acid-pollution data is adapted. It is the basis for estimates of 5,132 miles of affected streams and 13,825 acres of impoundments.
+
+### Context
+> This 1968 special report from the [[Bureau Of Sport Fisheries And Wildlife]] assesses how [[Surface Mining]] for coal affects fish and wildlife across eight Appalachian States. It draws on field observations by a multi-agency [[Field Appraisal Team]] that toured mined areas in 1965–66. The report...
+> -- *[[EffectsOfSurfaceMiningOnFishAn_17706]]*
+
+### Mentioned In
+- [[EffectsOfSurfaceMiningOnFishAn_17706]]
 
 ## Kinniconick Creek
 <!-- fm: auto_enriched: true -->
@@ -3031,6 +3107,18 @@ Hydrologic Investigations Atlas HA-214, which provides the companion chemical da
 
 ### Mentioned In
 - [[GeohydrologyAndWaterUtilizatio_13828]]
+
+## Kit Fox
+
+### Summary
+A small desert canid that the source lists as a potential predator of desert tortoises. The source names kit foxes, with American badgers, as the main predators of tortoise nests and carcasses, and notes that occupied kit fox dens peaked at 5 in June 1983 at Plot 1.
+
+### Context
+> This 1984 report, prepared for [[Southern California Edison Company]] by Frederick B. Turner and Kristin H. Berry, documents a 1983 field study of the [[Desert Tortoise]] (*Gopherus agassizii*, also written *Scaptochelys agassizii* in the source) at Goffs, eastern San Bernardino County, California....
+> -- *[[PopulationEcologyOfTheDesertTo_13432]]*
+
+### Mentioned In
+- [[PopulationEcologyOfTheDesertTo_13432]]
 
 ## Kiyi
 
@@ -3263,6 +3351,9 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This California Department of Fish and Game special publication (Special Publication 82-1, February 1982), by [[Robert A. Daniels]] and [[Louis A. Courtois]], reviews the status of the [[Rough Sculpin]], a small freshwater cottid restricted to the middle [[Pit River]] system of northeastern...
 > -- *[[StatusAndProposedManagementOfT_13934]]*
 
+> This National Park Service appendix, dated January 1982, lists the rivers in the [[National Wild and Scenic Rivers System]] as of 1981 and the rivers designated for study under Section 5(a) of the [[Wild and Scenic Rivers Act]]. The document is an administrative inventory, not a research study. It...
+> -- *[[TheNationwideRiversInventoryAp_19589]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -3283,6 +3374,7 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[ARevisionOfTheOsmeridFishesOfT_19980]]
 - [[TheStoryOfWesternTrout_14677]]
 - [[StatusAndProposedManagementOfT_13934]]
+- [[TheNationwideRiversInventoryAp_19589]]
 
 ## Klamath River Basin
 
@@ -3360,6 +3452,18 @@ A small minnow of the Klamath River listed among the fishes associated with yell
 
 ### Mentioned In
 - [[RareAndEndangeredWorldFreshwat_15350]]
+
+## Klamath Tribes
+
+### Summary
+A tribal government in the Klamath Basin and one of the participating organizations in the multi-agency research compiled in this 1992 annual report. The source lists them only as a participant and does not describe a specific role.
+
+### Context
+> This Bureau of Reclamation annual report (Denver Office, September 1993, edited by S. G. Campbell) compiles multi-agency research on the Klamath Basin, Oregon, aimed at a basin-wide management plan for aquatic resources. Its focus is the Agency Lake sub-basin of [[Upper Klamath Lake]], where...
+> -- *[[EnvironmentalResearchInTheKlam_17365]]*
+
+### Mentioned In
+- [[EnvironmentalResearchInTheKlam_17365]]
 
 ## Klamath Tui Chub
 
@@ -3602,6 +3706,18 @@ Koberg and Ford are researchers who conducted similar work on destratification a
 ### Mentioned In
 - [[WaterQualityInImpoundmentsAndM_14387]]
 
+## Kobuk River
+
+### Summary
+An Alaskan river in the National System listed in the appendix at about 110 miles, and it lies within the Kobuk Valley setting noted in the document. The source gives no fish or habitat measurements for it.
+
+### Context
+> This National Park Service appendix, dated January 1982, lists the rivers in the [[National Wild and Scenic Rivers System]] as of 1981 and the rivers designated for study under Section 5(a) of the [[Wild and Scenic Rivers Act]]. The document is an administrative inventory, not a research study. It...
+> -- *[[TheNationwideRiversInventoryAp_19589]]*
+
+### Mentioned In
+- [[TheNationwideRiversInventoryAp_19589]]
+
 ## Koch and Riddle
 
 ### Context
@@ -3734,6 +3850,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This April 1969 report, prepared by W. L. Minckley (Department of Zoology, Arizona State University) for the Office of River Basins, U.S. Department of the Interior, presents a partial checklist of the fishes of the lower [[Colorado River Basin]] from about Lee's Ferry, Arizona, to Mexico. The...
 > -- *[[PartialChecklistOfFishesOfTheL_18573]]*
 
+> This 1955 completion report by [[Richard A. Wagner]] for the [[Arizona Game and Fish Department]] (Wildlife Restoration Division) documents a basic survey of [[Lake Mohave]], a young reservoir on the [[Colorado River]] between [[Davis Dam]] and [[Boulder Dam]]. The survey aimed to determine fishery...
+> -- *[[BasicSurveyOfLakeMohave_14411]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -3757,6 +3876,7 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[AReviewOfTheJapaneseSalmons_16151]]
 - [[FederalAidToFishRestorationLak_16598]]
 - [[PartialChecklistOfFishesOfTheL_18573]]
+- [[BasicSurveyOfLakeMohave_14411]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -4174,6 +4294,18 @@ Koski (1974) is an author cited in the source who proposed that anthropogenic en
 
 ### Mentioned In
 - [[ThreatenedFishesOfTheWorldSand_1996]]
+
+## Koyukuk River
+
+### Summary
+An Alaskan river in the National System listed in the appendix at about 102 miles. The document includes it only as an administrative entry with no ecological findings.
+
+### Context
+> This National Park Service appendix, dated January 1982, lists the rivers in the [[National Wild and Scenic Rivers System]] as of 1981 and the rivers designated for study under Section 5(a) of the [[Wild and Scenic Rivers Act]]. The document is an administrative inventory, not a research study. It...
+> -- *[[TheNationwideRiversInventoryAp_19589]]*
+
+### Mentioned In
+- [[TheNationwideRiversInventoryAp_19589]]
 
 ## KP Creek
 
@@ -4601,6 +4733,18 @@ Kyrauchen (razorback sucker) is a western North American freshwater fish that wa
 
 ### Mentioned In
 - [[TissueSampleAnalysisOfCuiuihyb_14120]]
+
+## Kyrene Plant
+
+### Summary
+A power generating plant in the Salt River Project system. The report says its units came online in 1952 (30,000 KW) and 1954 (60,000 KW).
+
+### Context
+> This 1960 organizational report, attributed to the [[Salt River Project]] (SRP), traces the history, infrastructure, and statistics of a federal reclamation project in the [[Salt River Valley]] of central Arizona. It covers pre-Columbian canal irrigation by the [[Hohokam]], the 1902 federal...
+> -- *[[SaltRiverProject_17586]]*
+
+### Mentioned In
+- [[SaltRiverProject_17586]]
 
 ## Kyushu
 
