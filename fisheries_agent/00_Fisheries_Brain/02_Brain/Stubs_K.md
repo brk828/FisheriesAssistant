@@ -49,8 +49,12 @@ Kaeding and Zimmerman (1982, 1983) are Arizona Game and Fish Department studies 
 > This 1990 draft report by the [[Arizona Game and Fish Department]] (Research Branch), submitted to the [[Bureau of Reclamation]] (Upper Colorado Region), compiles and reanalyzes the scattered "grey literature," agency reports and unpublished data on the endangered [[Humpback Chub]] in the Colorado...
 > -- *[[TheEndangeredHumpbackChubGilaC_12469]]*
 
+> This report documents the fourth year of monitoring the [[Humpback Chub]] (*Gila cypha*) population in the lower [[Little Colorado River]] (LCR), Grand Canyon, Arizona. It was prepared by C.O. Minckley of the [[Northern Arizona University]] Biology Department for the [[Arizona Game and Fish...
+> -- *[[FinalReportOnResearchConducted_18508]]*
+
 ### Mentioned In
 - [[TheEndangeredHumpbackChubGilaC_12469]]
+- [[FinalReportOnResearchConducted_18508]]
 
 ## Kaeding And Zimmerman 1983
 <!-- fm: auto_enriched: true -->
@@ -292,6 +296,9 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > This document is a set of Arizona Game and Fish Department (AGFD) records from 2000 covering three linked items: a letter arranging the establishment of [[Refugia Populations]] of the [[Quitobaquito Pupfish]] and [[Gila Topminnow]] at a Scottsdale Community College pond; a [[Federal Endangered...
 > -- *[[ReDesertPupfishAndGilaTopminno_16904]]*
 
+> This compilation of planning documents, dated mainly October–November 1995, assembles proposals from federal, state, tribal and university groups to study the effects of a planned spring 1996 experimental high flow from [[Glen Canyon Dam]]. The flow was planned at 45,000 cfs for about seven days,...
+> -- *[[MeetingNextWeek_19735]]*
+
 ### Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -304,6 +311,7 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[InformationRegardingManagement_16919]]
 - [[DraftBiologicalOpinionOperatio_11642]]
 - [[ReDesertPupfishAndGilaTopminno_16904]]
+- [[MeetingNextWeek_19735]]
 
 ## Kanab Creek
 <!-- fm: auto_enriched: true -->
@@ -496,6 +504,18 @@ A river in the Illinois-Mississippi drainage that flows through northern Indiana
 
 ### Mentioned In
 - [[UtilizationAndSurvivalOfTroutI_16857]]
+
+## Kankakee-Iroquois River System
+
+### Summary
+A stream system rated excellent in the classification, supporting 72 species. It is one of the representative systems Smith uses to illustrate the excellent rating category.
+
+### Context
+> Philip W. Smith (Illinois Natural History Survey) classifies the streams of Illinois into 33 stream systems, each rated excellent, good, fair, poor, or variable based on the fish species present. The state's fauna is recorded as 193 species, of which 180 are native and 13 are naturalized. Comparing...
+> -- *[[IllinoisStreamsAClassification_21196]]*
+
+### Mentioned In
+- [[IllinoisStreamsAClassification_21196]]
 
 ## Kanopolis Reservoir
 <!-- fm: auto_enriched: true -->
@@ -926,6 +946,18 @@ The Kaskaskia River is an Illinois river used here for comparison. The author no
 
 ### Mentioned In
 - [[ThePlanktonOfTheSangamonRiverI_15758]]
+
+## Kaskaskia-Marys River System
+
+### Summary
+A stream system with the highest species count in the survey, at 104 species. Smith attributes this to it being the largest basin with the greatest habitat variety.
+
+### Context
+> Philip W. Smith (Illinois Natural History Survey) classifies the streams of Illinois into 33 stream systems, each rated excellent, good, fair, poor, or variable based on the fish species present. The state's fauna is recorded as 193 species, of which 180 are native and 13 are naturalized. Comparing...
+> -- *[[IllinoisStreamsAClassification_21196]]*
+
+### Mentioned In
+- [[IllinoisStreamsAClassification_21196]]
 
 ## Katherine
 <!-- fm: auto_enriched: true -->
@@ -2175,9 +2207,25 @@ The Key Deer is an ungulate species listed as endangered or threatened under Par
 > This U.S. government report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (apparently late 1960s), argues that species are now disappearing faster than they evolve, largely because of human actions. It reviews historic extinctions in North America, describes endangered animals and their...
 > -- *[[TheRightToExist_11512]]*
 
+> This U.S. Senate Committee on Commerce report, ordered printed August 17, 1966, accompanies H.R. 9424, a bill to conserve, protect, restore, and propagate native fish and wildlife (including migratory birds) threatened with extinction, and to consolidate the Secretary of the Interior's authority...
+> -- *[[ConservationOfEndangeredSpecie_19348]]*
+
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_11572]]
 - [[TheRightToExist_11512]]
+- [[ConservationOfEndangeredSpecie_19348]]
+
+## Key Deer National Wildlife Refuge
+
+### Summary
+A refuge in the Florida Keys established to protect the Key Deer. The report includes special provisions for it, and it serves as the report's main case study, with details on acreage owned and leased, acquisition needs, and legal limits on land acquisition.
+
+### Context
+> This U.S. Senate Committee on Commerce report, ordered printed August 17, 1966, accompanies H.R. 9424, a bill to conserve, protect, restore, and propagate native fish and wildlife (including migratory birds) threatened with extinction, and to consolidate the Secretary of the Interior's authority...
+> -- *[[ConservationOfEndangeredSpecie_19348]]*
+
+### Mentioned In
+- [[ConservationOfEndangeredSpecie_19348]]
 
 ## Key Factor Analysis
 
@@ -2214,6 +2262,18 @@ Key Findings in fish science and aquatic ecology research refers to the primary 
 - [[SamplingAtHorseshoeReservoirJa_1990_01_30]]
 - [[SexualDimorphismInTheAdultRazo_1974_11_15]]
 - [[TheDietOfJuvenileAndAdultStrip_1967]]
+
+## Key To Families
+
+### Summary
+A dichotomous key in the handbook that helps readers sort New Hampshire fishes into families using features such as fin position, spines, rays, mouth shape, scale counts and barbels. It is the entry point for the family-by-family species accounts.
+
+### Context
+> This 1947 handbook, published by the [[New Hampshire Fish And Game Commission]], is a field identification guide for anglers and laymen. It covers **62 known species and subspecies** of fresh-water fishes recorded in New Hampshire. The guide uses a dichotomous [[Key To Families]], family-by-family...
+> -- *[[ASportsmansGuideToTheFreshwate_17439]]*
+
+### Mentioned In
+- [[ASportsmansGuideToTheFreshwate_17439]]
 
 ## Keys 1930
 <!-- fm: auto_enriched: true -->
@@ -2411,6 +2471,18 @@ A plover that bred at Quitobaquito when Hensley surveyed the site in 1954 but wa
 
 ### Mentioned In
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
+
+## Killen's Pond
+
+### Summary
+A 74-acre impoundment in the Murderkill system in Delaware surveyed in 1952–1953. The source reports very light fishing, overpopulation of carp, stunted common sunfish, and about two feet of silt, and recommends full reclamation including drawdown, seining, rotenone treatment and restocking.
+
+### Context
+> This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 3, Federal Aid Project F-1-R-2, by fisheries biologist Jay L. Harmic) reports the second phase of a survey of the state's freshwater ponds, carried out in 1952 and 1953. It covers six impoundments in Kent...
+> -- *[[DelawareLakeAndPondSurvey_20644]]*
+
+### Mentioned In
+- [[DelawareLakeAndPondSurvey_20644]]
 
 ## Killifish
 <!-- fm: auto_enriched: true -->
@@ -2948,6 +3020,18 @@ Kirsch 1893 is an early historical record cited in the source, in which the Ashy
 ### Mentioned In
 - [[SystematicsStatusAndLifeHistor_18898]]
 
+## Kister et al. (1966)
+
+### Summary
+Hydrologic Investigations Atlas HA-214, which provides the companion chemical data for groundwater in the Willcox basin. This source refers readers to it for water-quality information.
+
+### Context
+> This USGS Water-Supply Paper (1859-F), prepared with the [[Arizona State Land Department]], assesses the [[Groundwater]] system of the [[Willcox Basin]], a closed interior-drainage basin of about 1,500 square miles in northern [[Sulphur Springs Valley]]. Its valley floor covers about 950 square...
+> -- *[[GeohydrologyAndWaterUtilizatio_13828]]*
+
+### Mentioned In
+- [[GeohydrologyAndWaterUtilizatio_13828]]
+
 ## Kiyi
 
 ### Summary
@@ -3013,10 +3097,14 @@ The Klamath and North Coast Province encompasses the Klamath River, Trinity Rive
 > This document is a 1992 federal biological opinion (USFWS) and supporting review covering two endemic catostomid fishes, the [[Lost River Sucker]] and the [[Shortnose Sucker]], both federally listed as endangered on July 18, 1988. It traces the historical abundance of the suckers in the [[Klamath...
 > -- *[[ExcerptFromBiologicalOpinionlo_11599]]*
 
+> This chapter reviews the general biology, status and habitat needs of three endangered taxa affected by the [[Klamath Reclamation Project]]: the [[Bald Eagle]] (*Haliaeetus leucocephalus*), the [[Lost River Sucker]] (*Deltistes luxatus*) and the [[Shortnose Sucker]] (*Chasmistes brevirostris*). The...
+> -- *[[GeneralBiologyOfTheEndangeredS_11584]]*
+
 ### Mentioned In
 - [[MaintenanceOfJuvenileShortnose_1987]]
 - [[ChecklistOfTheFreshwaterFishes_20621]]
 - [[ExcerptFromBiologicalOpinionlo_11599]]
+- [[GeneralBiologyOfTheEndangeredS_11584]]
 
 ## Klamath Basin Sucker Working Group
 <!-- fm: auto_enriched: true -->
@@ -3057,8 +3145,12 @@ The Klamath Lakes are a system of freshwater lakes in the Klamath River Basin, p
 > This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
 > -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
 
+> E. D. Cope's 1883 paper, published in the *Proceedings of the Academy of Natural Sciences of Philadelphia*, describes the fishes of the modern lakes of the northwestern [[Great Basin]] and of the late-Tertiary (Pliocene) lake deposits of Oregon and Idaho. It proposes [[Lake Idaho]] as a distinct...
+> -- *[[OnTheFishesOfTheRecentAndPlioc_17581]]*
+
 ### Mentioned In
 - [[OccurrencesOfTheLostRiverSucke_17577]]
+- [[OnTheFishesOfTheRecentAndPlioc_17581]]
 
 ## Klamath Large-Scaled Sucker
 <!-- fm: auto_enriched: true -->
@@ -3103,6 +3195,18 @@ The Klamath Project is an irrigation development in the Klamath Basin that drain
 
 ### Mentioned In
 - [[ExcerptFromBiologicalOpinionlo_11599]]
+
+## Klamath Reclamation Project
+
+### Summary
+A federal irrigation project in the Klamath Basin of Oregon and California whose water management affects the three endangered taxa covered in this chapter, including the bald eagle and the two sucker species. The source describes it as the setting for the background review of these species' status and habitat needs.
+
+### Context
+> This chapter reviews the general biology, status and habitat needs of three endangered taxa affected by the [[Klamath Reclamation Project]]: the [[Bald Eagle]] (*Haliaeetus leucocephalus*), the [[Lost River Sucker]] (*Deltistes luxatus*) and the [[Shortnose Sucker]] (*Chasmistes brevirostris*). The...
+> -- *[[GeneralBiologyOfTheEndangeredS_11584]]*
+
+### Mentioned In
+- [[GeneralBiologyOfTheEndangeredS_11584]]
 
 ## Klamath River
 <!-- fm: auto_enriched: true -->
@@ -3430,9 +3534,13 @@ Knoll Lake is a 55-acre lake located in upper Leonard Canyon on the Coconino Nat
 > This report documents a comprehensive survey (May 1990–November 1991) assessing the distribution, abundance, and habitat of the federally threatened [[Little Colorado Spinedace]] (*Lepidomeda vittata*) in the [[Coconino National Forest]] and [[Apache-Sitgreaves National Forest]] along [[East Clear...
 > -- *[[DistributionAbundanceAndHabita_12811]]*
 
+> This Arizona Game and Fish Department completion report (Project F-7-R-9, Work Plan 8, Job R-4, 1 January to 31 December 1966), authored by Louis H. Carufel, is the third and final year of predevelopment surveys on nine proposed or completed lakes and eighteen to nineteen streams. The study sought...
+> -- *[[WatershedFisheriesSurveyPredev_16041]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOfFederalAids_11920]]
 - [[DistributionAbundanceAndHabita_12811]]
+- [[WatershedFisheriesSurveyPredev_16041]]
 
 ## Knolls Atomic Power Laboratory
 
@@ -3620,6 +3728,12 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This Ontario Department of Lands and Forests Research Information Paper (Fisheries) No. 37 (February 1970, by W. J. Christie) reviews two native Japanese Pacific salmons, the [[Cherry Salmon]] (*Oncorhynchus masou*) and the [[Redspot Salmon]] (*O. rhodurus*), as candidates for introduction into the...
 > -- *[[AReviewOfTheJapaneseSalmons_16151]]*
 
+> This Idaho Fish and Game Department annual report, prepared by John T. Heimer, Fishery Biologist, covers four jobs under the [[Federal Aid To Fish Restoration]] Lake and Reservoir Investigations program (Project F 53-R-2) for March 1, 1966 to February 28, 1967 at [[Anderson Ranch Reservoir]]. The...
+> -- *[[FederalAidToFishRestorationLak_16598]]*
+
+> This April 1969 report, prepared by W. L. Minckley (Department of Zoology, Arizona State University) for the Office of River Basins, U.S. Department of the Interior, presents a partial checklist of the fishes of the lower [[Colorado River Basin]] from about Lee's Ferry, Arizona, to Mexico. The...
+> -- *[[PartialChecklistOfFishesOfTheL_18573]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -3641,6 +3755,8 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[NotesOnSiltPollutionInTheTruck_17588]]
 - [[ACheckListOfTheFreshwaterAndAn_11395]]
 - [[AReviewOfTheJapaneseSalmons_16151]]
+- [[FederalAidToFishRestorationLak_16598]]
+- [[PartialChecklistOfFishesOfTheL_18573]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -3786,10 +3902,18 @@ Kolkwitz was co-author of a classical 1908 work on the biological aspects of wat
 > This study examines the habitat requirements of the federally endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*). The authors combined field observations of aggregations in [[Cienega Creek]], Arizona, with controlled experiments in outdoor pools testing responses to three...
 > -- *[[HabitatUseAndPreferenceOfGilaT_18784]]*
 
+> This 1993 Arizona Game and Fish Department special report documents two years of radiotelemetry monitoring of hatchery-raised, adult-sized [[Razorback Sucker]] and [[Colorado Squawfish]] released into the upper [[Verde River]], a tributary of the [[Gila River Basin]]. Twenty-four razorbacks and 15...
+> -- *[[MovementsAndHabitatUtilization_15939]]*
+
+> This undated draft research proposal, written for the U.S. Fish and Wildlife Service and Bureau of Reclamation context, plans to quantify how [[Humpback Chub]] (*Gila cypha*) use habitat in the [[Little Colorado River]] (LCR) and in several tributaries of the [[Colorado River]] in the [[Grand...
+> -- *[[DraftProposalHabitatUseByHumpb_20264]]*
+
 ### Mentioned In
 - [[IntegrationAndEvaluationOfGlen_13851]]
 - [[HabitatSuitabilityIndexCurvesF_13603]]
 - [[HabitatUseAndPreferenceOfGilaT_18784]]
+- [[MovementsAndHabitatUtilization_15939]]
+- [[DraftProposalHabitatUseByHumpb_20264]]
 
 ## Kolmos et al. 2013
 
@@ -4093,6 +4217,18 @@ A study the authors cite as consistent with the monophyly of Linguaelapsus prese
 
 ### Mentioned In
 - [[EcologicalFactorsInvolvedInThe_1957]]
+
+## Kray-Meekin Trap
+
+### Summary
+A trap used in this study to capture kokanee migrating downstream on the South Fork Boise River, to monitor the outmigration of stocked fingerlings.
+
+### Context
+> This Idaho Fish and Game Department annual report, prepared by John T. Heimer, Fishery Biologist, covers four jobs under the [[Federal Aid To Fish Restoration]] Lake and Reservoir Investigations program (Project F 53-R-2) for March 1, 1966 to February 28, 1967 at [[Anderson Ranch Reservoir]]. The...
+> -- *[[FederalAidToFishRestorationLak_16598]]*
+
+### Mentioned In
+- [[FederalAidToFishRestorationLak_16598]]
 
 ## Krene
 <!-- fm: auto_enriched: true -->

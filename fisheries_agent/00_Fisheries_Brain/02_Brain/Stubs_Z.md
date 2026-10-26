@@ -611,6 +611,9 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 > This final 1980 progress report, edited by Terry B. Johnson, presents four parts of a biological survey of the [[George Whittell Wildlife Preserve]] (26,104 acres) and the wider [[Aravaipa Creek Watershed]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife...
 > -- *[[ProgressReportForTheBiological_19815]]*
 
+> This interagency inventory (1973–1974) documents the biological resources of the lower [[Gila River]] valley in southwestern New Mexico, from the Gila Wilderness boundary to the Arizona state line, a reach of about 67 river miles. The study prioritized the [[Riparian Vegetation]] that makes the...
+> -- *[[LowerGilaRiverBiologicalInvent_18262]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[ChangesInRiparianVegetationAnd_14524]]
@@ -618,6 +621,7 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 - [[DeadmanCreekSurveyApril_20350]]
 - [[TheGilaRiverValleyInSouthweste_20942]]
 - [[ProgressReportForTheBiological_19815]]
+- [[LowerGilaRiverBiologicalInvent_18262]]
 
 ## Zonitoides Arboreus
 <!-- fm: auto_enriched: true -->
@@ -816,6 +820,12 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This document is an expanded bibliography supplementing Chapter 5, "Oceanography and Marine Life along the Pacific Coast of Middle America," by [[Carl L. Hubbs]] and [[Gunnar I. Roden]]. The chapter appeared in Volume 1 (1964) of *Natural Environment and Early Cultures*, part of the *Handbook of...
 > -- *[[ExpandedBibliographyOfArticleE_14464]]*
 
+> This U.S. Fish and Wildlife Service Fishery Bulletin (No. 173, Volume 60, 1960) by [[Robert Rush Miller]] reviews the systematics and biology of the gizzard shads, marine and freshwater herrings of the subfamily [[Dorosomatinae]]. It provides keys to the seven known genera and to the five species...
+> -- *[[SystematicsAndBiologyOfTheGizz_15335]]*
+
+> This symposium overview, by [[Cronin and Mansueti]] of the Chesapeake Biological Laboratory (University of Maryland), describes estuaries as semi-enclosed waters with a free connection to the open sea, where seawater is measurably diluted by land drainage. The paper uses [[Coastal Plain Estuary]]...
+> -- *[[TheBiologyOfTheEstuary_18021]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -839,6 +849,8 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[SomeFactorsAffectingFishForage_18194]]
 - [[ImpactOfTheDesertPupfishCyprin_14858]]
 - [[ExpandedBibliographyOfArticleE_14464]]
+- [[SystematicsAndBiologyOfTheGizz_15335]]
+- [[TheBiologyOfTheEstuary_18021]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->
@@ -1049,11 +1061,15 @@ The Zuni River is a tributary of the Little Colorado River in the southwestern U
 > This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
 > -- *[[DistributionStatusAndNotesOnTh_18709]]*
 
+> This 1853 United States War Department report, submitted by [[Colonel J. J. Abert]] of the Corps of Topographical Engineers, documents the expedition led by [[Captain Sitgreaves]] from the Zuni pueblo in New Mexico down the [[Zuni River]] to its junction with the [[Colorado River]], and onward to...
+> -- *[[ReportOfTheSecretaryOfWar_17487]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[DistributionAbundanceAndHabita_12811]]
 - [[DistributionStatusAndNotesOnTh_18709]]
+- [[ReportOfTheSecretaryOfWar_17487]]
 
 ## Zwartkops River
 

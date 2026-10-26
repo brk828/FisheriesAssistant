@@ -624,6 +624,18 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
 > -- *[[ColoradoRiverEndangeredFishRec_21021]]*
 
+> This is the final Fiscal Year 1989 Annual Report of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin, issued by the U.S. Fish and Wildlife Service (Region 6, Denver) in March 1990. It summarizes the status and accounting of all FY-1989 projects funded...
+> -- *[[FiscalYearAnnualReport_11581]]*
+
+> This 1983 report from the [[Fish and Wildlife Service]] ([[Colorado River Fishery Project]]), prepared for the [[Bureau of Reclamation]], presents the first analysis of [[Radiotelemetry]] data for the endangered [[Colorado Squawfish]] in the [[Green River]], [[White River]] and [[Yampa River]]. A...
+> -- *[[MovementMigrationAndHabitatPre_18485]]*
+
+> This document is a compiled record from the U.S. Fish and Wildlife Service (Service), Region 6, concerning the [[Colorado River Recovery Implementation Program]] for four endangered fishes of the Upper Colorado River Basin (UCRB). It includes the minutes of the February 23, 1988 Implementation...
+> -- *[[MinutesfebruaryRecoveryImpleme_20999]]*
+
+> These are the final minutes of the August 30, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Committee, convened by the [[Fish and Wildlife Service]] (FWS) to coordinate recovery of four endangered fishes of the Upper Colorado River Basin: the [[Razorback Sucker]],...
+> -- *[[MinutesaugustRecoveryImplement_21016]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -801,6 +813,10 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[SecondAnnualReport_18486]]
 - [[ReviewMaterialaugustImplementa_21015]]
 - [[ColoradoRiverEndangeredFishRec_21021]]
+- [[FiscalYearAnnualReport_11581]]
+- [[MovementMigrationAndHabitatPre_18485]]
+- [[MinutesfebruaryRecoveryImpleme_20999]]
+- [[MinutesaugustRecoveryImplement_21016]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1071,6 +1087,9 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This issue of *Bajada*, a free triannual newsletter from the [[National Biological Service]] Cooperative Park Studies Unit at The University of Arizona, is a multi-article communication piece rather than a single study. Its dominant theme is the conservation of endangered native desert fishes in...
 > -- *[[RioYaquiFishesTwoRefugesSustai_15979]]*
 
+> This report, prepared for the [[U.S. Fish and Wildlife Service]] and the [[Cochise County Parks Advisory Commission]] (December 1983), uses oral history to reconstruct environmental change at the [[San Bernardino Ranch]] in extreme southeastern Cochise County, Arizona. Five in-depth interviews with...
+> -- *[[TallGrassAndFlowingWaterAnOral_18812]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -1147,6 +1166,7 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[WestTurkeyCreekYaquiChubRestor_17126]]
 - [[SanBernardinoAquaticHabitatMan_19783]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
+- [[TallGrassAndFlowingWaterAnOral_18812]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1296,6 +1316,15 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This issue of *Bajada*, a free triannual newsletter from the [[National Biological Service]] Cooperative Park Studies Unit at The University of Arizona, is a multi-article communication piece rather than a single study. Its dominant theme is the conservation of endangered native desert fishes in...
 > -- *[[RioYaquiFishesTwoRefugesSustai_15979]]*
 
+> This bi-monthly issue of [[Wildlife Views]], published by the [[Arizona Game and Fish Department]], is a mixed-content magazine rather than a single research report. Its most substantive scientific material is the third installment of the "Native Arizona Fishes" series by [[John N. Rinne]] and [[W....
+> -- *[[ConservationEngineer_12615]]*
+
+> This is a 2000 proposal submitted to the [[North American Wetlands Conservation Act]] (NAWCA) program to restore the [[Cienega de San Bernardino]], a binational desert wetland straddling the Mexico–USA border. The Mexican portion lies within [[Rancho San Bernardino]], a 4,050 ha (10,000 acre)...
+> -- *[[RestorationOfCienegaDeSanBerna_17600]]*
+
+> This report, prepared for the [[U.S. Fish and Wildlife Service]] and the [[Cochise County Parks Advisory Commission]] (December 1983), uses oral history to reconstruct environmental change at the [[San Bernardino Ranch]] in extreme southeastern Cochise County, Arizona. Five in-depth interviews with...
+> -- *[[TallGrassAndFlowingWaterAnOral_18812]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1393,6 +1422,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[WestTurkeyCreekYaquiChubRestor_17126]]
 - [[SanBernardinoAquaticHabitatMan_19783]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
+- [[ConservationEngineer_12615]]
+- [[RestorationOfCienegaDeSanBerna_17600]]
+- [[TallGrassAndFlowingWaterAnOral_18812]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1843,6 +1875,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This issue of *Bajada*, a free triannual newsletter from the [[National Biological Service]] Cooperative Park Studies Unit at The University of Arizona, is a multi-article communication piece rather than a single study. Its dominant theme is the conservation of endangered native desert fishes in...
 > -- *[[RioYaquiFishesTwoRefugesSustai_15979]]*
 
+> This document is a 1989 [[U.S. Geological Survey]] (USGS) Water-Resources Division package, consisting of a cover letter, a manuscript routing sheet, a colleague review form, and a preliminary draft report by Steve A. Longsworth. The draft describes the geohydrology, ground-water occurrence and...
+> -- *[[ManuscriptOfGeohydrologyAndOcc_19326]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1907,6 +1942,7 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[YaquiFishesRecoveryPlan_13319]]
 - [[SanBernardinoAquaticHabitatMan_19783]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
+- [[ManuscriptOfGeohydrologyAndOcc_19326]]
 
 ## Yaqui Watershed
 
@@ -2197,6 +2233,12 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This is a January 1991 transmittal letter from the Bureau of Reclamation (Arizona Projects Office) to Dr. Bill Matter (University of Arizona). It forwards agency and expert comments on the draft report "Potential for Transfer of Non-native Fish in Central Arizona Project Canal Waters to the Gila...
 > -- *[[ReviewOfTheDraftReportPotentia_13378]]*
 
+> This 1945 Illinois Natural History Survey bulletin by [[George W. Bennett]] documents the only case of [[Overfishing]] ever observed by Survey aquatic biologists in Illinois. The study covers [[Onized Lake]], a 2-acre artificial pond near [[Alton Illinois]] that was intensively angled by members of...
+> -- *[[OverfishingInASmallArtificialL_18158]]*
+
+> This April 1969 report, prepared by W. L. Minckley (Department of Zoology, Arizona State University) for the Office of River Basins, U.S. Department of the Interior, presents a partial checklist of the fishes of the lower [[Colorado River Basin]] from about Lee's Ferry, Arizona, to Mexico. The...
+> -- *[[PartialChecklistOfFishesOfTheL_18573]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -2232,6 +2274,8 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[FisheryInvestigationsInRegionI_12196]]
 - [[FishesOfOklahoma_16566]]
 - [[ReviewOfTheDraftReportPotentia_13378]]
+- [[OverfishingInASmallArtificialL_18158]]
+- [[PartialChecklistOfFishesOfTheL_18573]]
 
 ## Yellow Belly Sunfish
 
@@ -2576,11 +2620,15 @@ The Yellow Mud Turtle (Kinosternon flavescens flavescens) is a turtle species li
 > This Technical Report (No. 13) from the [[Cooperative National Park Resources Studies Unit]] at the University of Arizona, published December 1983, examines how birds use the two management areas of [[Quitobaquito Springs]], a desert oasis within [[Organ Pipe Cactus National Monument]]. Breeding...
 > -- *[[AvianUseOfQuitobaquitoSpringsO_19805]]*
 
+> This 1986 final report by Philip C. Rosen (Arizona State University) documents a mark-recapture study of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], from September 1982 to September 1985. The population is...
+> -- *[[PopulationDeclineOfSonoranMudT_21070]]*
+
 ### Mentioned In
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[RePreliminaryFisheriesSurveyOf_13711]]
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
+- [[PopulationDeclineOfSonoranMudT_21070]]
 
 ## Yellow Perch
 <!-- fm: auto_enriched: true -->
@@ -2772,6 +2820,24 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This New Mexico Department of Game and Fish job completion report (Federal Aid Project F-9-R-1, Job No. Bel) documents a 1955 season study of [[Charette Lake]], a 300-acre natural basin in [[Mora County]]. The lake was managed as a put-and-take [[Rainbow Trout]] fishery. Natural trout reproduction...
 > -- *[[AStudyOfTheFishPopulationsOfCh_20808]]*
 
+> This chapter reviews the general biology, status and habitat needs of three endangered taxa affected by the [[Klamath Reclamation Project]]: the [[Bald Eagle]] (*Haliaeetus leucocephalus*), the [[Lost River Sucker]] (*Deltistes luxatus*) and the [[Shortnose Sucker]] (*Chasmistes brevirostris*). The...
+> -- *[[GeneralBiologyOfTheEndangeredS_11584]]*
+
+> This document reprints a Massachusetts Division of Fisheries and Game report on the fishes of central Massachusetts lakes and ponds, based on biological surveys in the summers of 1944 and 1945 (53 lakes and ponds surveyed). It covers game fishes (trouts, black basses, pickerel), pan fishes (yellow...
+> -- *[[FishesOfSomeOfTheLakesAndPonds_12242]]*
+
+> This Idaho Fish and Game Department annual report, prepared by John T. Heimer, Fishery Biologist, covers four jobs under the [[Federal Aid To Fish Restoration]] Lake and Reservoir Investigations program (Project F 53-R-2) for March 1, 1966 to February 28, 1967 at [[Anderson Ranch Reservoir]]. The...
+> -- *[[FederalAidToFishRestorationLak_16598]]*
+
+> This document is a compilation of three articles from the *N. Y. State Conservationist*, the New York State Conservation Department's magazine (1965), plus an identification leaflet on the Bluegill and Redbreast Sunfish. The articles, written by Edward C. Raney, cover the "pan fishes" of the state....
+> -- *[[SomePanFishesOfNewYork_16764]]*
+
+> This paper, a 1959 study published in the *New York Fish and Game Journal* (Vol. 6, No. 2) and derived from a doctoral thesis by [[Wilbur L. Hartman]], reports a joint study of [[Rainbow Trout]] in the [[Finger Lakes]] (Cayuga, Seneca, Skaneateles, Keuka and Canandaigua Lakes and their spawning...
+> -- *[[BiologyAndVitalStatisticsOfRai_20688]]*
+
+> This University of Minnesota Agricultural Experiment Station Miscellaneous Report (152-1978), by J.D. Winter, V.B. Kuechle, D.B. Siniff and J.R. Tester, is a practical guide for fisheries biologists who want to start [[Radio Telemetry]] programs for freshwater fish. It covers the history of aquatic...
+> -- *[[EquipmentAndMethodsForRadioTra_20781]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -2883,6 +2949,12 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[TheWarmWaterGameFishesOfCalifo_18105]]
 - [[ResiduesOfOrganochlorineInsect_18815]]
 - [[AStudyOfTheFishPopulationsOfCh_20808]]
+- [[GeneralBiologyOfTheEndangeredS_11584]]
+- [[FishesOfSomeOfTheLakesAndPonds_12242]]
+- [[FederalAidToFishRestorationLak_16598]]
+- [[SomePanFishesOfNewYork_16764]]
+- [[BiologyAndVitalStatisticsOfRai_20688]]
+- [[EquipmentAndMethodsForRadioTra_20781]]
 
 ## Yellow Pike Perch
 
@@ -3181,6 +3253,9 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 > This 1968 report by [[Almo J. Cordone]] and [[Ted C. Frantz]] evaluates experimental trout stocking in [[Lake Tahoe]] from 1960 to 1963, run as part of the cooperative California-Nevada Lake Tahoe Fisheries Study. The stated goal was to improve fishing, especially for shore and pier anglers in...
 > -- *[[AnEvaluationOfTroutPlantingInL_17592]]*
 
+> This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
+> -- *[[YellowstoneFishAndFishing_11404]]*
+
 ### Mentioned In
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[ObservationsOnTheLongnoseSucke_1954]]
@@ -3193,6 +3268,7 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 - [[ConservationAssessmentForInlan_11502]]
 - [[WildTroutAndPlantedTroutBalanc_21079]]
 - [[AnEvaluationOfTroutPlantingInL_17592]]
+- [[YellowstoneFishAndFishing_11404]]
 
 ## Yellowstone Drainage
 <!-- fm: auto_enriched: true -->
@@ -3206,6 +3282,18 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
+
+## Yellowstone Falls
+
+### Summary
+A 109-foot waterfall about 12 miles downstream of Yellowstone Lake. The source identifies it as a barrier that restricts fish movement, and notes that mountain whitefish introduced above it in 1889 did not survive.
+
+### Context
+> This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
+> -- *[[YellowstoneFishAndFishing_11404]]*
+
+### Mentioned In
+- [[YellowstoneFishAndFishing_11404]]
 
 ## Yellowstone Fao
 <!-- fm: auto_enriched: true -->
@@ -3237,9 +3325,25 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 > This paper examines the status and distribution of native trout species in the [[Rocky Mountains]] and evaluates the impacts of introduced non-native trout species. Native [[Cutthroat Trout]] subspecies and [[Bull Trout]] have experienced dramatic range contractions, with most populations now...
 > -- *[[NativeRockyMountainTroutAndSto_17773]]*
 
+> This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
+> -- *[[YellowstoneFishAndFishing_11404]]*
+
 ### Mentioned In
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[NativeRockyMountainTroutAndSto_17773]]
+- [[YellowstoneFishAndFishing_11404]]
+
+## Yellowstone Library and Museum Association
+
+### Summary
+The nonprofit that published this 1970 booklet on Yellowstone fishes and fishing. The source credits it as publisher alongside the National Park Service.
+
+### Context
+> This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
+> -- *[[YellowstoneFishAndFishing_11404]]*
+
+### Mentioned In
+- [[YellowstoneFishAndFishing_11404]]
 
 ## Yellowstone National Park
 <!-- fm: auto_enriched: true -->
@@ -3260,12 +3364,16 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 > This Colorado Division of Wildlife report by R. Barry Nehring evaluates whether [[Quality Trout Management]] and wild-trout stocking strategies can re-establish self-sustaining wild [[Rainbow Trout]] populations in large streams once dominated by [[Brown Trout]]. Drawing on electrofishing surveys...
 > -- *[[WildTroutManagementDoesItWorkI_19622]]*
 
+> This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
+> -- *[[YellowstoneFishAndFishing_11404]]*
+
 ### Mentioned In
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
 - [[MrRosenfeldHadNoPartInThePlann_12044]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[WildTroutManagementDoesItWorkI_19622]]
+- [[YellowstoneFishAndFishing_11404]]
 
 ## Yellowstone River
 <!-- fm: auto_enriched: true -->
@@ -3395,6 +3503,18 @@ A commercially important flounder species managed under ICNAF quotas of 13,000 m
 ### Mentioned In
 - [[DiurnalVariabilityInAFishAssem_1981]]
 - [[ResultsOfTheTektiteProgramEcol_17141]]
+
+## Yellowwood
+
+### Summary
+A tree listed as Rare-1 in the 1975 Oklahoma report, meaning it is not presently threatened but occurs in small numbers in the state. The source notes only its status category.
+
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesAn_11494]]
 
 ## Yerba Mansa
 <!-- fm: auto_enriched: true -->
@@ -3748,6 +3868,18 @@ Yucatan is a region of Mexico included in the Bureau of Fisheries research area.
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[DistributionalAndLocalVernacul_13815]]
 
+## Yucatan Platform
+
+### Summary
+The Yucatan Platform is a low plateau in the Yucatan region of Mexico, underlain by subhorizontal Mesozoic strata. The source describes it as a morphotectonic province.
+
+### Context
+> Special Paper 278 by [[Richard L. Sedlock]], [[Fernando Ortega-Gutiérrez]] and [[Robert C. Speed]] is a two-part synthesis of the geology of [[Mexico]] and northern [[Central America]]. Part 1 divides the region into 17 tectonostratigraphic terranes, 16 of which are named after indigenous cultures...
+> -- *[[TectonostratigraphicTerranesAn_11492]]*
+
+### Mentioned In
+- [[TectonostratigraphicTerranesAn_11492]]
+
 ## Yucatan, Mexico
 
 ### Summary
@@ -4032,6 +4164,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This 1995 public update and overview from the [[Bureau Of Reclamation]], Lower Colorado Region, describes a [[Biological Assessment]] of routine operations and maintenance on the mainstem [[Lower Colorado River]]. The assessment is required under [[Section 7 Consultation]] of the [[Endangered...
 > -- *[[LowerColoradoRiverBiologicalAs_13908]]*
 
+> This study characterizes the vegetation of the [[Cienega de Santa Clara]], the largest remaining wetland in the [[Rio Colorado Delta]] (Sonora, Mexico), and documents how an eight-month interruption of canal inflow affected it. The wetland, sustained by agricultural drainage from the...
+> -- *[[CienegaDeSantaClaraARemnantWet_20932]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -4065,6 +4200,7 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[EnvironmentalAssessmentForProp_17082]]
 - [[AtTheCrossroadsAReportOnCalifo_20214]]
 - [[LowerColoradoRiverBiologicalAs_13908]]
+- [[CienegaDeSantaClaraARemnantWet_20932]]
 
 ## Yuma Clapper Rail Recovery Plan
 
@@ -4274,9 +4410,13 @@ The Yuma Desalting Plant is a facility authorized under the Colorado River Salin
 > This legal notice, dated July 3, 1997, from the [[Southwest Center for Biological Diversity]] to the [[U.S. Bureau of Reclamation]], [[U.S. Fish and Wildlife Service]], and [[National Marine Fisheries Service]] serves dual purposes: (1) providing formal comment on the Final Biological Opinion for...
 > -- *[[CommentsOnFinalBiologicalAndCo_11806]]*
 
+> This study characterizes the vegetation of the [[Cienega de Santa Clara]], the largest remaining wetland in the [[Rio Colorado Delta]] (Sonora, Mexico), and documents how an eight-month interruption of canal inflow affected it. The wetland, sustained by agricultural drainage from the...
+> -- *[[CienegaDeSantaClaraARemnantWet_20932]]*
+
 ### Mentioned In
 - [[TransmittalRegardingReasonable_19809]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
+- [[CienegaDeSantaClaraARemnantWet_20932]]
 
 ## Yuma District
 

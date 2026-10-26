@@ -452,6 +452,18 @@ Quantitative Ecology (Bio 526) was a graduate-level field class proposed for the
 - [[EffectsOfInterimFlowsFromGlenC_13659]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
 
+## Quartz Monzonite
+
+### Summary
+A coarse-grained intrusive igneous rock related to granite and granodiorite. In this source it is one of the three intrusive phases of the Wickenburg batholith, described as porphyritic.
+
+### Context
+> This paper is a geology and geochronology study, not an aquatic or fish study. It contains no ichthyological, aquatic-ecosystem, or water-chemistry content, so the ichthyology-specific frontmatter fields are marked N/A. The authors (Rehrig, Shafiqullah, and Damon, 1980) combine geologic mapping...
+> -- *[[GeochronologyGeologyAndLisricN_16804]]*
+
+### Mentioned In
+- [[GeochronologyGeologyAndLisricN_16804]]
+
 ## Quartzite Falls
 
 ### Summary
@@ -1251,6 +1263,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This Technical Report (No. 13) from the [[Cooperative National Park Resources Studies Unit]] at the University of Arizona, published December 1983, examines how birds use the two management areas of [[Quitobaquito Springs]], a desert oasis within [[Organ Pipe Cactus National Monument]]. Breeding...
 > -- *[[AvianUseOfQuitobaquitoSpringsO_19805]]*
 
+> This 1986 final report by Philip C. Rosen (Arizona State University) documents a mark-recapture study of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], from September 1982 to September 1985. The population is...
+> -- *[[PopulationDeclineOfSonoranMudT_21070]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -1276,6 +1291,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[WrittenCommentsOnDraftGeneralM_20520]]
 - [[PermitPrt_17155]]
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
+- [[PopulationDeclineOfSonoranMudT_21070]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

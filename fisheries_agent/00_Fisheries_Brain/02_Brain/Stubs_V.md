@@ -974,10 +974,14 @@ Vasco Tanner collected the leopard frogs from Berry Springs in 1950 that are hel
 > This document is the personal diary of C.H. Birdseye, Chief of Party for the 1923 [[United States Geological Survey]] expedition through [[Marble Canyon]] and [[Grand Canyon]]. The survey party departed [[Flagstaff]] on July 18, 1923, and navigated the [[Colorado River]] from [[Lees Ferry]] through...
 > -- *[[DiaryOfGrandCanyonSurvey_17643]]*
 
+> This compilation of planning documents, dated mainly October–November 1995, assembles proposals from federal, state, tribal and university groups to study the effects of a planned spring 1996 experimental high flow from [[Glen Canyon Dam]]. The flow was planned at 45,000 cfs for about seven days,...
+> -- *[[MeetingNextWeek_19735]]*
+
 ### Mentioned In
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
+- [[MeetingNextWeek_19735]]
 
 ## Vasquez Formation
 
@@ -1142,9 +1146,13 @@ Velvet ants are not true ants but wingless female wasps, also called cow ants or
 > This Arizona Wildlife Views compilation contains three main parts. The principal item is the third installment of the "Native Arizona Fishes" series on chubs (genus *Gila*, family Cyprinidae) by John N. Rinne and W. L. Minckley of the Department of Zoology, Arizona State University, Tempe. It...
 > -- *[[NativeArizonaFishesPartIiichub_18578]]*
 
+> This bi-monthly issue of [[Wildlife Views]], published by the [[Arizona Game and Fish Department]], is a mixed-content magazine rather than a single research report. Its most substantive scientific material is the third installment of the "Native Arizona Fishes" series by [[John N. Rinne]] and [[W....
+> -- *[[ConservationEngineer_12615]]*
+
 ### Mentioned In
 - [[NativeArizonaFishesPartIiiChub_12635]]
 - [[NativeArizonaFishesPartIiichub_18578]]
+- [[ConservationEngineer_12615]]
 
 ## Velvet Ash
 
@@ -1713,6 +1721,12 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This technical report, prepared by W.L. Bouchard & Associates for [[Arizona Public Service Company]] (APS), supports the relicensing of the [[Childs and Irving Hydroelectric Project]] (FERC Project No. 2069-003) on [[Fossil Creek]], a tributary of the [[Verde River]]. The core question is how...
 > -- *[[FossilCreekHydrologyAndTravert_20796]]*
 
+> This 1993 Arizona Game and Fish Department special report documents two years of radiotelemetry monitoring of hatchery-raised, adult-sized [[Razorback Sucker]] and [[Colorado Squawfish]] released into the upper [[Verde River]], a tributary of the [[Gila River Basin]]. Twenty-four razorbacks and 15...
+> -- *[[MovementsAndHabitatUtilization_15939]]*
+
+> This Arizona Game and Fish Department completion report (Project F-7-R-9, Work Plan 8, Job R-4, 1 January to 31 December 1966), authored by Louis H. Carufel, is the third and final year of predevelopment surveys on nine proposed or completed lakes and eighteen to nineteen streams. The study sought...
+> -- *[[WatershedFisheriesSurveyPredev_16041]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1879,6 +1893,8 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[SomeNotesOnTheLateCenozoicDrai_17545]]
 - [[ColoradoSquawfishRevisedRecove_17170]]
 - [[FossilCreekHydrologyAndTravert_20796]]
+- [[MovementsAndHabitatUtilization_15939]]
+- [[WatershedFisheriesSurveyPredev_16041]]
 
 ## Verde River Aquatic Ecology
 
@@ -1970,6 +1986,18 @@ Verdigris River is a Kansas waterway where Spotted Sucker was most common along 
 - [[SeasonalVariationsAndAbundance_18697]]
 - [[AnEcologicalStudyOfTheFishesOf_18698]]
 
+## Verdin
+
+### Summary
+A small desert-adapted songbird listed as Rare-1 in the 1975 Oklahoma report, meaning it is not presently threatened but occurs in small numbers. The source includes it only in the status list.
+
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesAn_11494]]
+
 ## Verduin 1960
 <!-- fm: auto_enriched: true -->
 
@@ -2029,6 +2057,18 @@ The Vermejo River is one of the perennial tributaries of the Canadian River in n
 
 ### Mentioned In
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+
+## Vermilion (of the North) River System
+
+### Summary
+A stream system rated fair, with 80 species. It is one of the systems showing moderate degradation in Smith's classification.
+
+### Context
+> Philip W. Smith (Illinois Natural History Survey) classifies the streams of Illinois into 33 stream systems, each rated excellent, good, fair, poor, or variable based on the fish species present. The state's fauna is recorded as 193 species, of which 180 are native and 13 are naturalized. Comparing...
+> -- *[[IllinoisStreamsAClassification_21196]]*
+
+### Mentioned In
+- [[IllinoisStreamsAClassification_21196]]
 
 ## Vermilion Rockfish
 <!-- fm: auto_enriched: true -->
@@ -2335,6 +2375,18 @@ Vertigo is a genus of minute terrestrial snails. Though not found during this su
 
 ### Mentioned In
 - [[ModificationOfTheResponseToHig_1973_05_10]]
+
+## Veterans Lake
+
+### Summary
+A lake whose water system the authors recommended managing along with the City of Sulphur's supply. The source treats it as part of the regional water system affected by the reservoir plan.
+
+### Context
+> This 1950s technical report from the [[Oklahoma Fishery Research Laboratory]] documents a pre-impoundment survey of the streams that would be flooded by the proposed [[Arbuckle Reservoir]] on [[Rock Creek]] in [[Murray County]], Oklahoma. Field collections in 1957 and 1958 recorded 39 fish species...
+> -- *[[APreimpoundmentStudyOfArbuckle_20512]]*
+
+### Mentioned In
+- [[APreimpoundmentStudyOfArbuckle_20512]]
 
 ## Veterans Memorial Park
 
@@ -4180,8 +4232,12 @@ Vitamin D is a vitamin that the body, or in fishes the skin, produces with the h
 > This 1970 report by [[Earl S. Herald]], [[Robert P. Dempster]] and [[Marjorie Hunt]] of the [[Steinhart Aquarium]] evaluates [[Ultraviolet Sterilization]] as a way to reduce bacterial loads in crowded, recirculating aquarium systems. Test and production units were installed between 1960 and the...
 > -- *[[UltravioletSterilizationOfAqua_16687]]*
 
+> This 1928 bulletin from the [[Illinois Natural History Survey]], by David H. Thompson, describes a skeletal and growth malformation in [[Cyprinus Carpio]] (common carp) of the middle [[Illinois River]]. Fishermen called the affected fish "knotheads." The study was begun with [[Ludwig Scheuring]]...
+> -- *[[TheKnotheadCarpOfTheIllinoisRi_13583]]*
+
 ### Mentioned In
 - [[UltravioletSterilizationOfAqua_16687]]
+- [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 
 ## Vitamin Premix
 
@@ -4242,6 +4298,18 @@ Viviparidae is a family of freshwater gastropod mollusks (snails) characterized 
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 - [[KeyToMajorFamiliesOfNorthAmeri_1968]]
 - [[MioceneFreshwaterMollusksFromT_13495]]
+
+## Viviparity
+
+### Summary
+Viviparity is a reproductive mode in which embryos develop inside the mother's body and are born as live young rather than hatched from eggs. The source states that the Big Bend gambusia is viviparous, and notes that Hubbs and Broderick (1963) recorded two broods totalling 40 young from two small females.
+
+### Context
+> The [[Recovery Plan]] for the [[Big Bend Gambusia]] (*Gambusia gaigei* Hubbs, 1929) was prepared by the [[U.S. Fish and Wildlife Service]] (USFWS) with the [[Rio Grande Fishes Recovery Team]] and approved in 1984. The species is a small livebearing poeciliid known only from warm spring habitats in...
+> -- *[[BigBendGambusia_13310]]*
+
+### Mentioned In
+- [[BigBendGambusia_13310]]
 
 ## Viviparity In Fishes
 <!-- fm: auto_enriched: true -->
@@ -4333,6 +4401,18 @@ Volcan La Malinche is a volcano that forms the eastern boundary of the Puebla Pl
 
 ### Mentioned In
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
+
+## Volcanic Upland
+
+### Summary
+The basaltic upland landform of the study area, known as the Mesa de la Avanzada or 'malpai,' which supplies cool spring water to the ranch. The source describes it as one of the two main physical settings of the ranch, alongside the alluvial lowland.
+
+### Context
+> This report, prepared for the [[U.S. Fish and Wildlife Service]] and the [[Cochise County Parks Advisory Commission]] (December 1983), uses oral history to reconstruct environmental change at the [[San Bernardino Ranch]] in extreme southeastern Cochise County, Arizona. Five in-depth interviews with...
+> -- *[[TallGrassAndFlowingWaterAnOral_18812]]*
+
+### Mentioned In
+- [[TallGrassAndFlowingWaterAnOral_18812]]
 
 ## Volcano Creek Golden Trout
 <!-- fm: auto_enriched: true -->
@@ -4635,6 +4715,18 @@ VORTEX (Version 5.1) is a Monte Carlo stochastic simulation model used for popul
 
 ### Mentioned In
 - [[TheRapidSpreadOfTheFreshwaterH_1989_11_16]]
+
+## Voshell's Pond
+
+### Summary
+A 31.5-acre Delaware pond with good bass and pickerel catches, with bass reaching nine pounds and golden shiners the most effective bait. The source notes that leaks lowered water levels and dense weeds such as sago pondweed and Elodea made summer fishing difficult.
+
+### Context
+> This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 3, Federal Aid Project F-1-R-2, by fisheries biologist Jay L. Harmic) reports the second phase of a survey of the state's freshwater ponds, carried out in 1952 and 1953. It covers six impoundments in Kent...
+> -- *[[DelawareLakeAndPondSurvey_20644]]*
+
+### Mentioned In
+- [[DelawareLakeAndPondSurvey_20644]]
 
 ## Vostok Ice Core
 <!-- fm: auto_enriched: true -->

@@ -140,6 +140,18 @@ O. virginianus is the scientific name for white-tailed deer, a species that inha
 ### Mentioned In
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 
+## Oahe Reservoir
+
+### Summary
+Oahe Reservoir is a main stem Missouri River reservoir where the study was extended in 1964. The report describes it as deeper and clearer than Lewis and Clark Lake, and its fish grew faster. Oahe catches also showed that the 1962 year class, produced when the water rose 18 ft, dominated the carp and bigmouth buffalo samples.
+
+### Context
+> This Fish and Wildlife Service research report (Research Report 69, 1966) by Charles H. Walburg and William R. Nelson examines age composition, growth, length-weight relation, reproduction, year-class strength and food habits of four large-bodied fishes in [[Lewis and Clark Lake]], a [[Missouri...
+> -- *[[CarpRiverCarpsuckerSmallmouthB_14418]]*
+
+### Mentioned In
+- [[CarpRiverCarpsuckerSmallmouthB_14418]]
+
 ## Oak
 <!-- fm: auto_enriched: true -->
 
@@ -293,6 +305,18 @@ A vegetation type that the source names as one of the habitat themes in the bibl
 
 ### Mentioned In
 - [[SelectedBibliographyOfWildlife_18466]]
+
+## Oak-Woodland
+
+### Summary
+A vegetation type covering about 131 acres (1.0 percent of the forest), occurring in Parker and Pocket Creeks between 4,800 and 5,300 feet. It is dominated by Arizona white oak and Emory oak.
+
+### Context
+> This U.S. Forest Service Research Paper (RM-41, 1968) by Charles P. Pase and R. Roy Johnson describes the vegetation and vascular flora of the [[Sierra Ancha Experimental Forest]], a 12,820-acre watershed research unit in Gila County, central Arizona. The forest, part of the [[Tonto National...
+> -- *[[FloraAndVegetationOfTheSierraA_18445]]*
+
+### Mentioned In
+- [[FloraAndVegetationOfTheSierraA_18445]]
 
 ## Oasis Valley
 
@@ -1273,6 +1297,18 @@ A nonparasitic, eel-like lamprey reaching about 8 inches in length. The source i
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
 - [[ArtificialKeysForTheIdentifica_13390]]
 
+## Ohio Lamprey
+
+### Summary
+A lamprey native to Illinois streams. The paper says the Chestnut Lamprey replaced it through species interaction, one of the examples of native species displacement it cites.
+
+### Context
+> Philip W. Smith (Illinois Natural History Survey) classifies the streams of Illinois into 33 stream systems, each rated excellent, good, fair, poor, or variable based on the fish species present. The state's fauna is recorded as 193 species, of which 180 are native and 13 are naturalized. Comparing...
+> -- *[[IllinoisStreamsAClassification_21196]]*
+
+### Mentioned In
+- [[IllinoisStreamsAClassification_21196]]
+
 ## Ohio Muskellunge
 
 ### Summary
@@ -1331,6 +1367,9 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This 1964 [[U.S. Fish and Wildlife Service]] circular, prepared by Edward C. Kinney of the [[Bureau of Sport Fisheries and Wildlife]], compiles State-reported data on waters in the United States where [[Acid Mine Drainage]] degrades fish and wildlife habitat. The work followed a series of 1963...
 > -- *[[ExtentOfAcidMinePollutionInThe_12548]]*
 
+> This Illinois Natural History Survey Biological Notes report (No. 89, May 1974, by [[Lawrence M. Page]]) describes the life history of the [[Spottail Darter]] ([[Etheostoma Squamiceps]]), a small benthic percid of the subgenus [[Catonotus Subgenus]]. Field work ran from 6 October 1970 to 19 June...
+> -- *[[TheLifeHistoryOfTheSpottailDar_18381]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -1356,6 +1395,7 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[TheLifeHistoryOfTheStripetailD_18382]]
 - [[ADistributionalAtlasOfUpperMis_21198]]
 - [[ExtentOfAcidMinePollutionInThe_12548]]
+- [[TheLifeHistoryOfTheSpottailDar_18381]]
 
 ## Ohio River Drainage
 <!-- fm: auto_enriched: true -->
@@ -1658,6 +1698,9 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 > This is a 1952 checklist of the fishes of [[Oklahoma]], compiled by Dr. George A. Moore and published by the State Game & Fish Department in Oklahoma City. It lists numbered entries for fish species grouped by family, from [[Lamprey]] through [[Sculpin]] families, with scientific authorities and...
 > -- *[[FishesOfOklahoma_16566]]*
 
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
 ### Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[RegionEndangeredSpeciesActIntr_11825]]
@@ -1666,6 +1709,7 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 - [[SummaryOfCommercialFisheriesCa_19834]]
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
 - [[FishesOfOklahoma_16566]]
+- [[RareAndEndangeredVertebratesAn_11494]]
 
 ## Oklahoma Biological Survey
 
@@ -1696,6 +1740,18 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 ### Mentioned In
 - [[LetterToWLMinckleyOnOklahomaSS_1984_09_12]]
 - [[TheIntroductionOfWhiteBassRocc_1966]]
+
+## Oklahoma Dwarf Salamander
+
+### Summary
+A salamander listed as Rare-1 in the 1975 Oklahoma report, named for the state where it is included in the inventory. The source notes only its status category and does not provide additional findings.
+
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesAn_11494]]
 
 ## Oklahoma Fish and Game Council
 
@@ -1749,11 +1805,19 @@ The Oklahoma Fishery Research Laboratory was a state research institution that c
 > This report, prepared at the [[Oklahoma Fishery Research Laboratory]] under Director Robert M. Jenkins and supported by the Oklahoma Wildlife Conservation Department and the University of Oklahoma Biological Survey, presents the first limnological survey of Oklahoma streams. The author, Lothar E....
 > -- *[[ASurveyOfFourOklahomaStreamsWi_19925]]*
 
+> This 1967 bulletin from the [[Oklahoma Fishery Research Laboratory]] by Edwin B. May and Charles R. Gasaway presents a preliminary, dichotomous, illustrated key for identifying larval and early juvenile freshwater fishes of Oklahoma, built mainly from meter-net collections in [[Canton Reservoir]]....
+> -- *[[APreliminaryKeyToTheIdentifica_15219]]*
+
+> This 1950s technical report from the [[Oklahoma Fishery Research Laboratory]] documents a pre-impoundment survey of the streams that would be flooded by the proposed [[Arbuckle Reservoir]] on [[Rock Creek]] in [[Murray County]], Oklahoma. Field collections in 1957 and 1958 recorded 39 fish species...
+> -- *[[APreimpoundmentStudyOfArbuckle_20512]]*
+
 ### Mentioned In
 - [[SummaryOfCommercialFisheriesCa_19834]]
 - [[GrowthOfBlackBullheadCatfishIn_19942]]
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
 - [[ASurveyOfFourOklahomaStreamsWi_19925]]
+- [[APreliminaryKeyToTheIdentifica_15219]]
+- [[APreimpoundmentStudyOfArbuckle_20512]]
 
 ## Oklahoma Fishery Resources Office
 <!-- fm: auto_enriched: true -->
@@ -1775,10 +1839,14 @@ The Oklahoma Fishery Research Laboratory was a state research institution that c
 > This job completion report from the Oklahoma investigations project (F-6-R-1) compiles fisheries data from [[Fort Gibson Reservoir]] for calendar years 1952 through August 31, 1956. It combines a 1952 [[Pre-Impoundment Survey]], seven [[Creel Census]] reports run by the [[U.S. Army Corps of...
 > -- *[[ASummaryOfFisheriesInvestigati_19934]]*
 
+> This 1954 bulletin, published by the [[Oklahoma Game and Fish Department]] and authored by H. C. Ward, E. M. Leonard, and J. Mayo Martin, is a practical guide to building and managing farm ponds for sport fishing. It estimates that Oklahoma holds about 100,000 farm ponds, with roughly 12,000 new...
+> -- *[[FarmPondsForFishInOklahoma_14872]]*
+
 ### Mentioned In
 - [[EffectivenessOfRotenoneInPondR_1953]]
 - [[EarlyLimnologicalAndFishPopula_13878]]
 - [[ASummaryOfFisheriesInvestigati_19934]]
+- [[FarmPondsForFishInOklahoma_14872]]
 
 ## Oklahoma Natural Heritage Inventory
 
@@ -1856,9 +1924,13 @@ A state wildlife agency that supported the Oklahoma Fishery Research Laboratory 
 > This 1961 report by Thomas L. Linton, issued by the [[Oklahoma Fishery Research Laboratory]] (Report No. 81), documents a pre-impoundment survey of the reaches of the [[Arkansas River]] and [[Cimarron River]] that would be inundated by the proposed [[Keystone Reservoir]] in northeastern Oklahoma....
 > -- *[[AStudyOfFishesOfTheArkansasAnd_20347]]*
 
+> This 1950s technical report from the [[Oklahoma Fishery Research Laboratory]] documents a pre-impoundment survey of the streams that would be flooded by the proposed [[Arbuckle Reservoir]] on [[Rock Creek]] in [[Murray County]], Oklahoma. Field collections in 1957 and 1958 recorded 39 fish species...
+> -- *[[APreimpoundmentStudyOfArbuckle_20512]]*
+
 ### Mentioned In
 - [[GrowthOfBlackBullheadCatfishIn_19942]]
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
+- [[APreimpoundmentStudyOfArbuckle_20512]]
 
 ## Okriocythere
 
@@ -2441,6 +2513,18 @@ Olmita, Texas is a location in the Mexican border region of southern Texas. It w
 ### Mentioned In
 - [[ThePlaceOfEcologyInScience_11353]]
 
+## Olney's Bulrush
+
+### Summary
+Scirpus olneyi, a dense emergent aquatic plant. At Quitobaquito Springs it forms a mat along the north end of the pond. Rosen links the disturbance of this bulrush mat and its later succession to the turtle population's decline.
+
+### Context
+> This 1986 final report by Philip C. Rosen (Arizona State University) documents a mark-recapture study of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], from September 1982 to September 1985. The population is...
+> -- *[[PopulationDeclineOfSonoranMudT_21070]]*
+
+### Mentioned In
+- [[PopulationDeclineOfSonoranMudT_21070]]
+
 ## Olsen Bay
 
 ### Summary
@@ -2971,6 +3055,18 @@ Oniscidae is a family of terrestrial isopods to which the type specimen of Synur
 ### Mentioned In
 - [[ÉtudeDUneCollectionDLsopodesTe_13127]]
 
+## Onized Lake
+
+### Summary
+A roughly 2-acre artificial lake near Alton, Illinois, built in 1933 by damming a ravine. The source studies it because a company fishing club intensively angled it from 1938 to 1941, leading to observed overfishing.
+
+### Context
+> This 1945 Illinois Natural History Survey bulletin by [[George W. Bennett]] documents the only case of [[Overfishing]] ever observed by Survey aquatic biologists in Illinois. The study covers [[Onized Lake]], a 2-acre artificial pond near [[Alton Illinois]] that was intensively angled by members of...
+> -- *[[OverfishingInASmallArtificialL_18158]]*
+
+### Mentioned In
+- [[OverfishingInASmallArtificialL_18158]]
+
 ## Ono Et Al. 1983
 <!-- fm: auto_enriched: true -->
 
@@ -3238,8 +3334,12 @@ The opercle is a bone of the gill cover in fishes. The proposal selects landmark
 > This 1993 research proposal by Christopher R. Reimus describes a planned morphometric study of the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The study aims to quantify how skeletal shape changes with age, body size, and sex, and to provide a baseline that can help resolve long-standing...
 > -- *[[TheEffectsOfAgeSexAndSizeOnMor_16810]]*
 
+> This 1928 bulletin from the [[Illinois Natural History Survey]], by David H. Thompson, describes a skeletal and growth malformation in [[Cyprinus Carpio]] (common carp) of the middle [[Illinois River]]. Fishermen called the affected fish "knotheads." The study was begun with [[Ludwig Scheuring]]...
+> -- *[[TheKnotheadCarpOfTheIllinoisRi_13583]]*
+
 ### Mentioned In
 - [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
+- [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 
 ## Opercle Aging Method
 <!-- fm: auto_enriched: true -->
@@ -3908,6 +4008,9 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 > This Illinois Natural History Survey Biological Notes paper (No. 58, 1967) by Marvin E. Braasch and Philip W. Smith presents the first detailed life-history study of the [[Slough Darter]] (*Etheostoma gracile*), the westernmost member of the subgenus *Hololepis*. Fieldwork was conducted in [[Dismal...
 > -- *[[TheLifeHistoryOfTheSloughDarte_12872]]*
 
+> This Missouri Department of Conservation report (Aquatic Series No. 18, Jefferson City, October 1984) by William L. Pflieger documents the distribution, abundance, habitat, diet, growth, reproduction, and conservation status of the [[Bluestripe Darter]], an endemic fish of the [[Osage River]] and...
+> -- *[[DistributionStatusAndLifeHisto_11159]]*
+
 ### Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[DurationOfSpermViabilityAsAFac_14210]]
@@ -3919,6 +4022,7 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
 - [[PreliminarySurveyOfTheFishFaun_15760]]
 - [[TheLifeHistoryOfTheSloughDarte_12872]]
+- [[DistributionStatusAndLifeHisto_11159]]
 
 ## Orara River
 <!-- fm: auto_enriched: true -->
@@ -4720,6 +4824,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > This issue of *Bajada*, a free triannual newsletter from the [[National Biological Service]] Cooperative Park Studies Unit at The University of Arizona, is a multi-article communication piece rather than a single study. Its dominant theme is the conservation of endangered native desert fishes in...
 > -- *[[RioYaquiFishesTwoRefugesSustai_15979]]*
 
+> This 1986 final report by Philip C. Rosen (Arizona State University) documents a mark-recapture study of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], from September 1982 to September 1985. The population is...
+> -- *[[PopulationDeclineOfSonoranMudT_21070]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -4748,6 +4855,7 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
 - [[ChromosomeStudyOnTheDesertPupf_15677]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
+- [[PopulationDeclineOfSonoranMudT_21070]]
 
 ## Organ Pipe National Monument
 
@@ -5376,6 +5484,18 @@ Oryzias is a new genus established by Jordan and Snyder in 1906 to accommodate t
 - [[ProductivityRelationsInCarboyM_12276]]
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 
+## Osage Fork
+
+### Summary
+A tributary stream in the Gasconade system of central Missouri where the Bluestripe Darter lives. The source includes it among the Ozark streams with known populations, and the 1884 type series came from it.
+
+### Context
+> This Missouri Department of Conservation report (Aquatic Series No. 18, Jefferson City, October 1984) by William L. Pflieger documents the distribution, abundance, habitat, diet, growth, reproduction, and conservation status of the [[Bluestripe Darter]], an endemic fish of the [[Osage River]] and...
+> -- *[[DistributionStatusAndLifeHisto_11159]]*
+
+### Mentioned In
+- [[DistributionStatusAndLifeHisto_11159]]
+
 ## Osage River
 
 ### Summary
@@ -5385,8 +5505,12 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This Missouri Department of Conservation report (Aquatic Series No. 18, Jefferson City, October 1984) by William L. Pflieger documents the distribution, abundance, habitat, diet, growth, reproduction, and conservation status of the [[Bluestripe Darter]], an endemic fish of the [[Osage River]] and...
+> -- *[[DistributionStatusAndLifeHisto_11159]]*
+
 ### Mentioned In
 - [[WhatHaveICaught_12929]]
+- [[DistributionStatusAndLifeHisto_11159]]
 
 ## Osborne 1911 Clinostomum Study
 
@@ -5399,6 +5523,18 @@ Osborne's 1911 study of Clinostomum is cited by Smallwood as a source of compari
 
 ### Mentioned In
 - [[PreliminaryReportOnTheDiseases_19028]]
+
+## Osburn
+
+### Summary
+Osburn is Dr. R. C. Osburn, who made the species identifications for the fish examined at the Stone Laboratory. Ohio species names in the study follow his 1930 work. His identifications served as the basis for the taxonomy used throughout the paper.
+
+### Context
+> This 1933 monograph, Contribution Number 5 from the [[Franz Theodore Stone Laboratory]] of The Ohio State University, by [[Robert A. Moore]] (Western Reserve University), reports the gross and microscopic structure of the kidneys of ninety-one species of freshwater fishes collected in the summer of...
+> -- *[[MorphologyOfTheKidneysOfOhioFi_16580]]*
+
+### Mentioned In
+- [[MorphologyOfTheKidneysOfOhioFi_16580]]
 
 ## Oscillatoria
 <!-- fm: auto_enriched: true -->
@@ -5769,6 +5905,12 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 > This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
 > -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
 
+> This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
+> -- *[[YellowstoneFishAndFishing_11404]]*
+
+> This chapter reviews the general biology, status and habitat needs of three endangered taxa affected by the [[Klamath Reclamation Project]]: the [[Bald Eagle]] (*Haliaeetus leucocephalus*), the [[Lost River Sucker]] (*Deltistes luxatus*) and the [[Shortnose Sucker]] (*Chasmistes brevirostris*). The...
+> -- *[[GeneralBiologyOfTheEndangeredS_11584]]*
+
 ### Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
@@ -5782,6 +5924,20 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 - [[MovementOfHumpbackChubInTheCol_13639]]
 - [[WildlifeStudiesPatuxentWildlif_14328]]
 - [[FieldReportNoStudyOfCienegaDeS_16073]]
+- [[YellowstoneFishAndFishing_11404]]
+- [[GeneralBiologyOfTheEndangeredS_11584]]
+
+## Osprey Falls
+
+### Summary
+A waterfall in Yellowstone that the source lists among the falls restricting fish movement. It is one of the barriers that isolate fish populations.
+
+### Context
+> This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
+> -- *[[YellowstoneFishAndFishing_11404]]*
+
+### Mentioned In
+- [[YellowstoneFishAndFishing_11404]]
 
 ## Ospreys
 
@@ -6327,6 +6483,18 @@ The Otter (Lutra canadensis) is a large semi-aquatic member of the weasel family
 - [[MichiganFishPredators_12681]]
 - [[TheInteractionBetweenFreshwate_20227]]
 
+## Otter Brook
+
+### Summary
+A stream in the Lower Connecticut River Basin associated with a proposed flood control dam. The report recommended a stabilized minimum flow, avoiding siltation during construction, and no channel straightening.
+
+### Context
+> This 1955 report from the [[New Hampshire Fish And Game Department]] (Management and Research Division) assesses how dams affect fish and wildlife in New Hampshire. It concludes that some dams have been highly destructive while many have been beneficial. The authors argue that dam proposals should...
+> -- *[[DamsInNewHampshireAndTheirEffe_18942]]*
+
+### Mentioned In
+- [[DamsInNewHampshireAndTheirEffe_18942]]
+
 ## Otter Creek
 
 ### Summary
@@ -6437,8 +6605,13 @@ Otto Friedrich Müller was an 18th-century naturalist whose 1776 work begins the
 ## Ouachita Mountains
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
 ### Mentioned In
 - [[ThreeShinersNotropisOrtenburge_14255]]
+- [[RareAndEndangeredVertebratesAn_11494]]
 
 ## Ouachita River
 <!-- fm: auto_enriched: true -->
@@ -6447,10 +6620,14 @@ Otto Friedrich Müller was an 18th-century naturalist whose 1776 work begins the
 > This report describes a 1957 rotenone treatment of [[Lake Hamilton]], a 7,200-acre reservoir near [[Hot Springs]], Arkansas, undertaken to reduce an overpopulation of [[Gizzard Shad]] and [[Freshwater Drum]]. The control was recommended by a three-year comparative fisheries survey and was carried...
 > -- *[[GizzardShadRemovalInLakeHamilt_14509]]*
 
+> This taxonomic paper describes two new crayfish species of the genus [[Procambarus]] and provides dichotomous keys to the [[Spiculifer Group]]. [[Procambarus Elegans]] is known from five localities in the [[Ouachita River]] system of Louisiana. [[Procambarus Gibbus]] is known from seven localities...
+> -- *[[TwoNewSpeciesOfTheCrayfishGenu_20412]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
 - [[GizzardShadRemovalInLakeHamilt_14509]]
+- [[TwoNewSpeciesOfTheCrayfishGenu_20412]]
 
 ## Ouachita Rock Pocketbook
 
@@ -6882,11 +7059,15 @@ A fishway in which water passes from pool to pool mainly over notched weirs or c
 > This U.S. Fish and Wildlife Service Fishery Leaflet (No. 614, August 1968) by Randall P. Cheek of the [[Bureau Of Commercial Fisheries]] Biological Laboratory, Beaufort, N.C., reviews the life history, fisheries, and management of the [[American Shad]] (*[[Alosa Sapidissima]]*). The leaflet focuses...
 > -- *[[TheAmericanShad_16110]]*
 
+> This 1945 Illinois Natural History Survey bulletin by [[George W. Bennett]] documents the only case of [[Overfishing]] ever observed by Survey aquatic biologists in Illinois. The study covers [[Onized Lake]], a 2-acre artificial pond near [[Alton Illinois]] that was intensively angled by members of...
+> -- *[[OverfishingInASmallArtificialL_18158]]*
+
 ### Mentioned In
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
 - [[TheControlOfPopulationDensityT_1959]]
 - [[Sturgeons_12753]]
 - [[TheAmericanShad_16110]]
+- [[OverfishingInASmallArtificialL_18158]]
 
 ## Overflow Wetlands Wildlife Habitat Area
 <!-- fm: auto_enriched: true -->
@@ -7136,6 +7317,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This is an essay by [[Robert Rush Miller]] on the conservation of rare and endangered fishes, with emphasis on freshwater species of the American Southwest. Miller argues that fishes have received far less conservation attention than birds and mammals, that habitat alteration caused by human...
 > -- *[[RareAndEndangeredFish_15354]]*
 
+> This report summarizes a symposium held November 18-19, 1969 at [[Death Valley National Monument]], California, attended by 42 persons from federal and state agencies, universities, and conservation organizations. Coordinated by E. P. Pister of the California Department of Fish and Game and...
+> -- *[[SymposiumOnRareAndEndangeredFi_15352]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -7159,6 +7343,7 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[AtTheCrossroadsAReportOnCalifo_20214]]
 - [[ObservationsOnTheStatusOfTheDe_12013]]
 - [[RareAndEndangeredFish_15354]]
+- [[SymposiumOnRareAndEndangeredFi_15352]]
 
 ## Owens River
 <!-- fm: auto_enriched: true -->
@@ -7359,6 +7544,9 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 > This is an essay by [[Robert Rush Miller]] on the conservation of rare and endangered fishes, with emphasis on freshwater species of the American Southwest. Miller argues that fishes have received far less conservation attention than birds and mammals, that habitat alteration caused by human...
 > -- *[[RareAndEndangeredFish_15354]]*
 
+> This report summarizes a symposium held November 18-19, 1969 at [[Death Valley National Monument]], California, attended by 42 persons from federal and state agencies, universities, and conservation organizations. Coordinated by E. P. Pister of the California Department of Fish and Game and...
+> -- *[[SymposiumOnRareAndEndangeredFi_15352]]*
+
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
@@ -7366,6 +7554,7 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[ObservationsOnTheStatusOfTheDe_12013]]
 - [[RareAndEndangeredFish_15354]]
+- [[SymposiumOnRareAndEndangeredFi_15352]]
 
 ## Owens Valley Pupfish
 <!-- fm: auto_enriched: true -->
@@ -7601,8 +7790,12 @@ A profile of dissolved oxygen plotted against distance along a river or estuary,
 > This 1956 conference paper, by Water Pollution Research Laboratory staff, analyses what controls dissolved oxygen (DO) in the [[Thames Estuary]]. Long-term sag-curve data, pollutant loads, tidal mixing theory and oxygen-balance accounting are combined to build a predictive model. The model...
 > -- *[[FactorsAffectingTheConcentrati_16907]]*
 
+> This document is the published proceedings of the first national seminar on dissolved oxygen (DO) relationships in streams. The seminar was sponsored by the Water Supply and Water Pollution Program of the [[Public Health Service]] Sanitary Engineering Center, held October 30 to November 1, 1957, in...
+> -- *[[OxygenRelationsInStreams_11632]]*
+
 ### Mentioned In
 - [[FactorsAffectingTheConcentrati_16907]]
+- [[OxygenRelationsInStreams_11632]]
 
 ## Oxygen-Deficient Water
 <!-- fm: auto_enriched: true -->
@@ -7727,6 +7920,18 @@ Marine and estuarine bivalve molluscs that are widely cultured for food. The sou
 - [[AccumulationOfRadioactiveMater_16139]]
 - [[YourStakeInWetlandsWhatWetland_13280]]
 
+## Ozark Blind Salamander
+
+### Summary
+A blind, cave-associated salamander listed as Rare-2 in the 1975 Oklahoma inventory, meaning it is known from few localities or a restricted habitat in the state. The source lists it only in the status category.
+
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesAn_11494]]
+
 ## Ozark Blindfish
 
 ### Context
@@ -7774,6 +7979,9 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 > This document is Appendix I of a U.S. Fish and Wildlife Service (FWS) guide to preparing [[Recovery Plan]]s for species listed under the Endangered Species Act. It sets out the required title page, disclaimer, executive summary, plan outline, introduction, recovery criteria, narrative outline,...
 > -- *[[AppendixIRecoveryPlanFormat_13274]]*
 
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
@@ -7782,6 +7990,7 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 - [[PartEndangeredAndThreatenedWil_11597]]
 - [[PartEndangeredAndThreatenedWil_11733]]
 - [[AppendixIRecoveryPlanFormat_13274]]
+- [[RareAndEndangeredVertebratesAn_11494]]
 
 ## Ozark Faunal Group
 <!-- fm: auto_enriched: true -->
@@ -7802,6 +8011,18 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 
 ### Mentioned In
 - [[ADistributionalStudyOfTheFishe_1969]]
+
+## Ozark Highland
+
+### Summary
+A Land Resource Area in northeastern Oklahoma, shown in the report's preface maps. It is one of the regions the authors reference when placing listed species, including the Ozark Cavefish found in the northeast.
+
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesAn_11494]]
 
 ## Ozark Highlands
 <!-- fm: auto_enriched: true -->
@@ -7895,14 +8116,31 @@ An upland region in the central United States. The source notes that fishes and 
 ## Ozark Uplands
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This Missouri Department of Conservation report (Aquatic Series No. 18, Jefferson City, October 1984) by William L. Pflieger documents the distribution, abundance, habitat, diet, growth, reproduction, and conservation status of the [[Bluestripe Darter]], an endemic fish of the [[Osage River]] and...
+> -- *[[DistributionStatusAndLifeHisto_11159]]*
+
 ### Mentioned In
 - [[FishCommunityStructureAndStabi_15186]]
+- [[DistributionStatusAndLifeHisto_11159]]
 
 ## Ozark Uplands Fish Fauna
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[SmallFishCommunityStructureInO_1982]]
+
+## Ozark Violet
+
+### Summary
+A violet (Viola) native to the Ozark region, which extends into northeastern Oklahoma. The report lists it among the Rare-1 herbaceous plants, meaning it is in small numbers and could become endangered if its environment declines.
+
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesAn_11494]]
 
 ## Ozark-Lowland Faunal Group
 <!-- fm: auto_enriched: true -->

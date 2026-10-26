@@ -149,6 +149,12 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This memorandum from [[Fish and Wildlife Service]] (FWS) Program Director John Hamill transmits the summary of the July 13-14, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Management Group, held at the FWS Regional Office in Lakewood, Colorado. The meeting approved a...
 > -- *[[JulyManagementGroupMeetingSumm_21014]]*
 
+> This is the final Fiscal Year 1989 Annual Report of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin, issued by the U.S. Fish and Wildlife Service (Region 6, Denver) in March 1990. It summarizes the status and accounting of all FY-1989 projects funded...
+> -- *[[FiscalYearAnnualReport_11581]]*
+
+> These are the final minutes of the August 30, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Committee, convened by the [[Fish and Wildlife Service]] (FWS) to coordinate recovery of four endangered fishes of the Upper Colorado River Basin: the [[Razorback Sucker]],...
+> -- *[[MinutesaugustRecoveryImplement_21016]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -168,6 +174,8 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[SolicitorsOpinionReColoradoRiv_21006]]
 - [[ManagementGroupMeeting_21011]]
 - [[JulyManagementGroupMeetingSumm_21014]]
+- [[FiscalYearAnnualReport_11581]]
+- [[MinutesaugustRecoveryImplement_21016]]
 
 ## 15-Mile Reach Gage
 
@@ -204,6 +212,18 @@ The 1922 Colorado River Compact is an interstate water allocation agreement that
 
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
+
+## 1940 Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere
+
+### Summary
+An international agreement among Western Hemisphere nations on protecting nature and wildlife. The report notes that the United States had ratified it and that the State Department supported the bill partly because of this convention.
+
+### Context
+> This U.S. Senate Committee on Commerce report, ordered printed August 17, 1966, accompanies H.R. 9424, a bill to conserve, protect, restore, and propagate native fish and wildlife (including migratory birds) threatened with extinction, and to consolidate the Secretary of the Interior's authority...
+> -- *[[ConservationOfEndangeredSpecie_19348]]*
+
+### Mentioned In
+- [[ConservationOfEndangeredSpecie_19348]]
 
 ## 1948 Upper Colorado River Compact
 
@@ -413,6 +433,18 @@ A study required under Section 316(b) of the Clean Water Act to show that a powe
 
 ### Mentioned In
 - [[StationProfileOfMammothSpringN_19535]]
+
+## 41 U.S.C. 5
+
+### Summary
+A section of the U.S. Code requiring that federal contracts generally be awarded through formal advertising. The Comptroller General cited it in raising concerns about negotiated accommodation contracts that bypass this process.
+
+### Context
+> This U.S. Senate Committee on Commerce report, ordered printed August 17, 1966, accompanies H.R. 9424, a bill to conserve, protect, restore, and propagate native fish and wildlife (including migratory birds) threatened with extinction, and to consolidate the Secretary of the Interior's authority...
+> -- *[[ConservationOfEndangeredSpecie_19348]]*
+
+### Mentioned In
+- [[ConservationOfEndangeredSpecie_19348]]
 
 ## 5-Year Flaming Gorge Flow Investigations Program
 <!-- fm: auto_enriched: true -->

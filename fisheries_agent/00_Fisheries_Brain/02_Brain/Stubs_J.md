@@ -503,6 +503,18 @@ Jacob Corwin Blumer (1872-1947) was a Swiss-born botanist who conducted extensiv
 ### Mentioned In
 - [[TitleTheInfluenceOfFloatingVas_1976]]
 
+## Jacobs D Index
+
+### Summary
+A standardized index of habitat selection that compares how much a species uses each habitat category relative to what is available. The study used it to express the strength of selection for velocity, depth, and substrate.
+
+### Context
+> This 1993 Arizona Game and Fish Department special report documents two years of radiotelemetry monitoring of hatchery-raised, adult-sized [[Razorback Sucker]] and [[Colorado Squawfish]] released into the upper [[Verde River]], a tributary of the [[Gila River Basin]]. Twenty-four razorbacks and 15...
+> -- *[[MovementsAndHabitatUtilization_15939]]*
+
+### Mentioned In
+- [[MovementsAndHabitatUtilization_15939]]
+
 ## Jacobsen (1905)
 <!-- fm: auto_enriched: true -->
 
@@ -835,6 +847,18 @@ James J. Cooper of the Bioresources Center, Desert Research Institute, is the au
 
 ### Mentioned In
 - [[DistributionalEcologyOfNativeA_17570]]
+
+## James P Henley
+
+### Summary
+James P. Henley was the Principal Fishery Biologist with the Kentucky Department of Fish and Wildlife Resources who authored this 1967 final report. The report covers coldwater trout stream and tailwater studies in Kentucky from March 1965 through February 1966.
+
+### Context
+> This final report by [[James P Henley]], Principal Fishery Biologist with the Kentucky Department of Fish and Wildlife Resources, evaluates four coldwater streams and three dam tailwaters in Kentucky from March 1965 through February 1966. The study examined water chemistry and temperature, fish...
+> -- *[[FinalReportTroutStreamStudies_16677]]*
+
+### Mentioned In
+- [[FinalReportTroutStreamStudies_16677]]
 
 ## James P. Collins
 <!-- fm: auto_enriched: true -->
@@ -1733,6 +1757,18 @@ Jerusalem is a city in the Levantine region used as a reference point for illust
 ### Mentioned In
 - [[BiologyOfThreeNewSpeciesOfTrog_14750]]
 
+## Jewfish
+
+### Summary
+A large grouper (Epinephelus itajara, family Serranidae) listed among the notable fishes of the estero. The survey records it along with juvenile snappers, and it notes that mangroves shelter juvenile jewfish. The estero serves as a nursery and refuge for this species.
+
+### Context
+> This technical report presents a preliminary "before" ecological survey of [[Estero Soldado]], a shallow negative estuary (estero) on the Gulf of California coast near [[Guaymas]], Sonora. The survey was commissioned as an impact study ahead of a proposed marina and tourist resort. Field work took...
+> -- *[[PreliminaryEcologicalSurveyOfE_13332]]*
+
+### Mentioned In
+- [[PreliminaryEcologicalSurveyOfE_13332]]
+
 ## Jicarilla Mountains
 
 ### Summary
@@ -2363,10 +2399,14 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 > This USDA Forest Service research paper (RM-198, December 1977) by [[W. L. Minckley]], [[John N. Rinne]] and [[James E. Johnson]] reports that the [[Gila Topminnow]] and the introduced [[Mosquitofish]] coexist for variable periods, especially in complex habitats and near springs, before...
 > -- *[[StatusOfTheGilaTopminnowAndIts_15888]]*
 
+> This bi-monthly issue of [[Wildlife Views]], published by the [[Arizona Game and Fish Department]], is a mixed-content magazine rather than a single research report. Its most substantive scientific material is the third installment of the "Native Arizona Fishes" series by [[John N. Rinne]] and [[W....
+> -- *[[ConservationEngineer_12615]]*
+
 ### Mentioned In
 - [[PhysicalHabitatEvaluationOfSma_14995]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[StatusOfTheGilaTopminnowAndIts_15888]]
+- [[ConservationEngineer_12615]]
 
 ## John O. Snyder
 
@@ -2442,6 +2482,18 @@ John R. Holsinger is the author of this 1973 taxonomic paper, affiliated with th
 ### Mentioned In
 - [[TwoNewSpeciesOfTheSubterranean_19884]]
 
+## John Redmond Reservoir
+
+### Summary
+An impoundment on the Neosho River in Coffey County, Kansas, with a surface area of about 3,800 ha at conservation pool. In this study, larval fish drift was sampled in its tailwaters below the spillway, where the authors found that drift largely reflected reservoir releases, including many Gizzard Shad.
+
+### Context
+> This 1985 study by Greg R. Wedd, published in the *Emporia State Research Studies* (Vol. XXXIV, No. 1), describes the 1981 larval fish drift above and below [[John Redmond Reservoir]] on the [[Neosho River]] in Coffey County, Kansas. Sampling ran from 25 April to 31 July at three locations and...
+> -- *[[ObservationsOnNeoshoRiverLarva_19663]]*
+
+### Mentioned In
+- [[ObservationsOnNeoshoRiverLarva_19663]]
+
 ## John Rinne
 <!-- fm: auto_enriched: true -->
 
@@ -2475,6 +2527,18 @@ Gottschalk was Director of the Bureau of Sport Fisheries and Wildlife, and his O
 
 ### Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
+
+## John Slaughter
+
+### Summary
+Texas John Slaughter, who bought the San Bernardino Ranch in 1884 when most of its roughly 65,000 acres lay in Mexico. The source says he was first attracted to the ranch by its 'tall grass and flowing water.'
+
+### Context
+> This report, prepared for the [[U.S. Fish and Wildlife Service]] and the [[Cochise County Parks Advisory Commission]] (December 1983), uses oral history to reconstruct environmental change at the [[San Bernardino Ranch]] in extreme southeastern Cochise County, Arizona. Five in-depth interviews with...
+> -- *[[TallGrassAndFlowingWaterAnOral_18812]]*
+
+### Mentioned In
+- [[TallGrassAndFlowingWaterAnOral_18812]]
 
 ## John W. Price
 
@@ -2560,6 +2624,9 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 > This Illinois Natural History Survey Biological Notes paper (No. 58, 1967) by Marvin E. Braasch and Philip W. Smith presents the first detailed life-history study of the [[Slough Darter]] (*Etheostoma gracile*), the westernmost member of the subgenus *Hololepis*. Fieldwork was conducted in [[Dismal...
 > -- *[[TheLifeHistoryOfTheSloughDarte_12872]]*
 
+> This document reprints a Massachusetts Division of Fisheries and Game report on the fishes of central Massachusetts lakes and ponds, based on biological surveys in the summers of 1944 and 1945 (53 lakes and ponds surveyed). It covers game fishes (trouts, black basses, pickerel), pan fishes (yellow...
+> -- *[[FishesOfSomeOfTheLakesAndPonds_12242]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[AgeGrowthFecundityAndFoodHabit_1964]]
@@ -2572,6 +2639,7 @@ The Johnny Darter (*Etheostoma nigrum*) is a small benthic darter species common
 - [[TheHabitsOfTheBlacknosedDaceRh_13393]]
 - [[PreliminarySurveyOfTheFishFaun_15760]]
 - [[TheLifeHistoryOfTheSloughDarte_12872]]
+- [[FishesOfSomeOfTheLakesAndPonds_12242]]
 
 ## Johnson
 
@@ -2843,6 +2911,18 @@ The Jolly-Seber method is a mark-recapture approach for estimating the size of a
 ### Mentioned In
 - [[ProvisionalWorldListOfComputer_17320]]
 
+## Jolly-Seber Model
+
+### Summary
+The Jolly-Seber model is a standard mark-recapture method for estimating survival and population size from repeated captures of marked animals. The authors state that their modified Chapman-Robson method is not a replacement for Jolly-Seber analysis. They note the Chapman-Robson approach is better suited to the population structure data they had.
+
+### Context
+> This study estimates growth and adult survival of the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the upper [[Colorado River]] using fish captured from 1990 through 1995. It combines scale-based ageing for young fish with growth increments from recaptured, [[Passive Integrated...
+> -- *[[GrowthAndSurvivalOfColoradoSqu_18352]]*
+
+### Mentioned In
+- [[GrowthAndSurvivalOfColoradoSqu_18352]]
+
 ## Jolyet And Regnard 1877
 <!-- fm: auto_enriched: true -->
 
@@ -2925,6 +3005,18 @@ The Jolly-Seber method is a mark-recapture approach for estimating the size of a
 
 ### Mentioned In
 - [[AcclimationOfRainbowTroutToHig_15535]]
+
+## Jones and Cushman (1947)
+
+### Summary
+An earlier published study cited as prior work on the Willcox basin groundwater. This report builds on it for background on the basin's water resources.
+
+### Context
+> This USGS Water-Supply Paper (1859-F), prepared with the [[Arizona State Land Department]], assesses the [[Groundwater]] system of the [[Willcox Basin]], a closed interior-drainage basin of about 1,500 square miles in northern [[Sulphur Springs Valley]]. Its valley floor covers about 950 square...
+> -- *[[GeohydrologyAndWaterUtilizatio_13828]]*
+
+### Mentioned In
+- [[GeohydrologyAndWaterUtilizatio_13828]]
 
 ## Jones Creek
 
@@ -3420,6 +3512,18 @@ A spring in Calhoun County (Station 6), about 24 miles from Blue Eye Spring, whe
 - [[RecentGilaTopminnowRecordsFrom_11903]]
 - [[IntraofficeMemoFishSurveys_13821]]
 
+## Josiah Austin
+
+### Summary
+A private individual who, with Valer Austin, founded and privately funded the Fundacion de Refugio de San Bernardino. The source credits the Austins with managing the Mexican property, including removing livestock there in 1998.
+
+### Context
+> This is a 2000 proposal submitted to the [[North American Wetlands Conservation Act]] (NAWCA) program to restore the [[Cienega de San Bernardino]], a binational desert wetland straddling the Mexico–USA border. The Mexican portion lies within [[Rancho San Bernardino]], a 4,050 ha (10,000 acre)...
+> -- *[[RestorationOfCienegaDeSanBerna_17600]]*
+
+### Mentioned In
+- [[RestorationOfCienegaDeSanBerna_17600]]
+
 ## José Álvarez Del Villar
 <!-- fm: auto_enriched: true -->
 
@@ -3493,6 +3597,18 @@ A parasitologist credited in the source for a separate section on parasitic anim
 
 ### Mentioned In
 - [[FaunaAndFloraInTheWatersAdjace_19905]]
+
+## Juan Bautista de Anza
+
+### Summary
+A Spanish colonial military leader whose 1770s campaigns against the Apache used the San Bernardino site as a presidio, according to this source. The note mentions him only in connection with that history of the site.
+
+### Context
+> This report, prepared for the [[U.S. Fish and Wildlife Service]] and the [[Cochise County Parks Advisory Commission]] (December 1983), uses oral history to reconstruct environmental change at the [[San Bernardino Ranch]] in extreme southeastern Cochise County, Arizona. Five in-depth interviews with...
+> -- *[[TallGrassAndFlowingWaterAnOral_18812]]*
+
+### Mentioned In
+- [[TallGrassAndFlowingWaterAnOral_18812]]
 
 ## Juan Luis Cifuentes
 
@@ -3989,8 +4105,12 @@ Justicia (water willow) is an aquatic vegetation genus found in Alabama streams.
 > **Primary Sampling Purpose**: This document provides taxonomic identification keys and natural history information for sunfishes (family [[Centrarchidae]]) in Alabama, with detailed species accounts for [[Redeye Bass]] ([[Micropterus coosae]]) and [[Smallmouth Bass]] ([[Micropterus dolomieu]]). The...
 > -- *[[FishesOfAlabama_1990]]*
 
+> This Missouri Department of Conservation report (Aquatic Series No. 18, Jefferson City, October 1984) by William L. Pflieger documents the distribution, abundance, habitat, diet, growth, reproduction, and conservation status of the [[Bluestripe Darter]], an endemic fish of the [[Osage River]] and...
+> -- *[[DistributionStatusAndLifeHisto_11159]]*
+
 ### Mentioned In
 - [[FishesOfAlabama_1990]]
+- [[DistributionStatusAndLifeHisto_11159]]
 
 ## Justin W. Leonard
 

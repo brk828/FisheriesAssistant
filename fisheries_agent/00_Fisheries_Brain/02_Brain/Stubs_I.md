@@ -1927,6 +1927,12 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This Illinois Natural History Survey bulletin (Biological Notes No. 46, November 1961) by [[William F. Childers]] and [[George W. Bennett]] tests whether hybrid sunfish could serve as a stocking fish for small warm-water ponds. The stated problem is overpopulation and stunting in ponds, which makes...
 > -- *[[HybridizationBetweenThreeSpeci_16130]]*
 
+> This 1928 bulletin from the [[Illinois Natural History Survey]], by David H. Thompson, describes a skeletal and growth malformation in [[Cyprinus Carpio]] (common carp) of the middle [[Illinois River]]. Fishermen called the affected fish "knotheads." The study was begun with [[Ludwig Scheuring]]...
+> -- *[[TheKnotheadCarpOfTheIllinoisRi_13583]]*
+
+> This 1945 Illinois Natural History Survey bulletin by [[George W. Bennett]] documents the only case of [[Overfishing]] ever observed by Survey aquatic biologists in Illinois. The study covers [[Onized Lake]], a 2-acre artificial pond near [[Alton Illinois]] that was intensively angled by members of...
+> -- *[[OverfishingInASmallArtificialL_18158]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -1938,6 +1944,20 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[SomeConservationProblemsOfTheG_18489]]
 - [[SomeObservationsOnTheOxygenReq_13582]]
 - [[HybridizationBetweenThreeSpeci_16130]]
+- [[TheKnotheadCarpOfTheIllinoisRi_13583]]
+- [[OverfishingInASmallArtificialL_18158]]
+
+## Illinois Natural History Survey Resurvey (1950-1971)
+
+### Summary
+A more thorough, modern-era survey of Illinois fishes, made easier by improved transportation, and including hundreds of later collections from the Division of Fisheries. Smith uses it to measure changes in species ranges and abundance since the Forbes and Richardson survey.
+
+### Context
+> Philip W. Smith (Illinois Natural History Survey) classifies the streams of Illinois into 33 stream systems, each rated excellent, good, fair, poor, or variable based on the fish species present. The state's fauna is recorded as 193 species, of which 180 are native and 13 are naturalized. Comparing...
+> -- *[[IllinoisStreamsAClassification_21196]]*
+
+### Mentioned In
+- [[IllinoisStreamsAClassification_21196]]
 
 ## Illinois River
 <!-- fm: auto_enriched: true -->
@@ -1985,6 +2005,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
 > -- *[[ObservationsOnTheLimnologicalD_14675]]*
 
+> This 1928 bulletin from the [[Illinois Natural History Survey]], by David H. Thompson, describes a skeletal and growth malformation in [[Cyprinus Carpio]] (common carp) of the middle [[Illinois River]]. Fishermen called the affected fish "knotheads." The study was begun with [[Ludwig Scheuring]]...
+> -- *[[TheKnotheadCarpOfTheIllinoisRi_13583]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -2001,6 +2024,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[ThePlanktonOfTheSangamonRiverI_15758]]
 - [[SomeObservationsOnTheOxygenReq_13582]]
 - [[ObservationsOnTheLimnologicalD_14675]]
+- [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2076,8 +2100,12 @@ IMADES (Instituto del Medio Ambiente y el Desarrollo Sustentable del Estado de S
 > This document presents the agenda, background materials, and participant information for the [[Sonoran Desert]] Ecoregion Experts Workshop held May 20-21, 1998, at the University of Arizona Student Union. Co-sponsored by [[The Nature Conservancy]], [[IMADES]] (Instituto del Medio Ambiente y el...
 > -- *[[SonoranDesertExpertsWorkshop_13543]]*
 
+> This is a 2000 proposal submitted to the [[North American Wetlands Conservation Act]] (NAWCA) program to restore the [[Cienega de San Bernardino]], a binational desert wetland straddling the Mexico–USA border. The Mexican portion lies within [[Rancho San Bernardino]], a 4,050 ha (10,000 acre)...
+> -- *[[RestorationOfCienegaDeSanBerna_17600]]*
+
 ### Mentioned In
 - [[SonoranDesertExpertsWorkshop_13543]]
+- [[RestorationOfCienegaDeSanBerna_17600]]
 
 ## Imhoff Cone
 
@@ -2612,6 +2640,9 @@ The trapping of fish against intake screens by the force of water being drawn in
 > This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
 > -- *[[ColoradoRiverEndangeredFishRec_21021]]*
 
+> This U.S. Fish and Wildlife Service (Service) planning document, Region 6, Denver, dated September 8, 1994, sets out the organization, mission, staffing, and review procedures for the [[Recovery Implementation Program]] for four endangered fishes of the [[Upper Colorado River Basin]]: [[Colorado...
+> -- *[[RecoveryProgramOrganizationMis_11666]]*
+
 ### Mentioned In
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
@@ -2625,6 +2656,7 @@ The trapping of fish against intake screens by the force of water being drawn in
 - [[JulyDraftManagmentGroupMetingS_21013]]
 - [[ReviewMaterialaugustImplementa_21015]]
 - [[ColoradoRiverEndangeredFishRec_21021]]
+- [[RecoveryProgramOrganizationMis_11666]]
 
 ## Implementation Schedule
 
@@ -2652,9 +2684,13 @@ This is the section of a U.S. Fish and Wildlife Service recovery plan that the s
 > This is a November 9, 1993 draft of an internal [[Fish and Wildlife Service]] (FWS) handbook. It governs how staff develop [[Habitat Conservation Plan]]s (HCPs) and process [[Incidental Take Permit]]s under section 10(a)(1)(B) of the [[Endangered Species Act]] (ESA). The handbook has two stated...
 > -- *[[DraftInterimHandbookForHabitat_11641]]*
 
+> This preliminary draft handbook (dated September 15, 1994; running headers read 1996) is internal guidance from the [[Fish and Wildlife Service]] (FWS) to its Regional and Field Offices on developing [[Habitat Conservation Plan]]s (HCPs) and processing [[Incidental Take Permit]] applications under...
+> -- *[[PreliminaryDraftHandbookForHab_11711]]*
+
 ### Mentioned In
 - [[OverviewEndangeredSpeciesActSe_13258]]
 - [[DraftInterimHandbookForHabitat_11641]]
+- [[PreliminaryDraftHandbookForHab_11711]]
 
 ## Implications To Dam Management
 <!-- fm: auto_enriched: true -->
@@ -2875,9 +2911,13 @@ Under section 10 of the Endangered Species Act, an incidental take permit allows
 > This is a November 9, 1993 draft of an internal [[Fish and Wildlife Service]] (FWS) handbook. It governs how staff develop [[Habitat Conservation Plan]]s (HCPs) and process [[Incidental Take Permit]]s under section 10(a)(1)(B) of the [[Endangered Species Act]] (ESA). The handbook has two stated...
 > -- *[[DraftInterimHandbookForHabitat_11641]]*
 
+> This preliminary draft handbook (dated September 15, 1994; running headers read 1996) is internal guidance from the [[Fish and Wildlife Service]] (FWS) to its Regional and Field Offices on developing [[Habitat Conservation Plan]]s (HCPs) and processing [[Incidental Take Permit]] applications under...
+> -- *[[PreliminaryDraftHandbookForHab_11711]]*
+
 ### Mentioned In
 - [[TheEndangeredSpeciesActNewWeap_19657]]
 - [[DraftInterimHandbookForHabitat_11641]]
+- [[PreliminaryDraftHandbookForHab_11711]]
 
 ## Incidental Take Statement
 <!-- fm: auto_enriched: true -->
@@ -2895,12 +2935,16 @@ Under section 10 of the Endangered Species Act, an incidental take permit allows
 > This is a [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (Arizona Ecological Services State Office) on June 21, 1994, under section 7 of the [[Endangered Species Act]]. The action agency is the [[Federal Highway Administration]], which requested consultation for the repair,...
 > -- *[[BiologicalOpinionThatThePropos_11899]]*
 
+> This document is a [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (FWS) on August 7, 1991, under [[Section 7 Consultation]] of the [[Endangered Species Act]]. It addresses proposed livestock grazing and associated structural improvements under the Bar V Bar and Campaign...
+> -- *[[BiologicalOpinionImplementatio_11859]]*
+
 ### Mentioned In
 - [[BiologicalOpinionResearchProje_20155]]
 - [[ReYourLetterRegardingTheForest_11890]]
 - [[BiologicalOpinionOnTheProposed_11939]]
 - [[BiologicalOpinionTuleCreekRipa_20154]]
 - [[BiologicalOpinionThatThePropos_11899]]
+- [[BiologicalOpinionImplementatio_11859]]
 
 ## Inclined Screen
 
@@ -3398,6 +3442,18 @@ This refers to the Indiana longear sunfish growth data reported by Hile (1931), 
 ### Mentioned In
 - [[CausesOfDeathAmongIndianaFishe_1945]]
 
+## Indiana Myotis
+
+### Summary
+A cave-dwelling bat listed as Endangered in the report. Oklahoma is at the edge of its range, and about 90% of the population hibernates in four Kentucky caves.
+
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesAn_11494]]
+
 ## Indiana University
 <!-- fm: auto_enriched: true -->
 
@@ -3690,6 +3746,18 @@ The Ingolf Expedition is the source of the two male specimens that Ditlevsen use
 ### Mentioned In
 - [[ARedescriptionOfEnoplusGroenla_19915]]
 
+## Ingols
+
+### Summary
+Ingols is named in the source as a participant who agreed with Tarzwell that scour periods are critical in relation to sludge deposits and fish kills. The source gives no further detail about his work.
+
+### Context
+> This document is the published proceedings of the first national seminar on dissolved oxygen (DO) relationships in streams. The seminar was sponsored by the Water Supply and Water Pollution Program of the [[Public Health Service]] Sanitary Engineering Center, held October 30 to November 1, 1957, in...
+> -- *[[OxygenRelationsInStreams_11632]]*
+
+### Mentioned In
+- [[OxygenRelationsInStreams_11632]]
+
 ## Ingram
 
 ### Summary
@@ -3808,6 +3876,18 @@ The Inland Fisheries Informational Leaflets are reference materials published by
 
 ### Mentioned In
 - [[AGrowthStudyAndBloodProteinAna_15288]]
+
+## Inland Lakes Whitefish
+
+### Summary
+A whitefish recorded in New Hampshire that the guide separates from the Round Whitefish by having more than 23 gill rakers on the first gill arch and two nostril flaps per side. It is one of the salmon-and-whitefish group the guide associates with large lakes such as Winnipesaukee, Newfound and Squam.
+
+### Context
+> This 1947 handbook, published by the [[New Hampshire Fish And Game Commission]], is a field identification guide for anglers and laymen. It covers **62 known species and subspecies** of fresh-water fishes recorded in New Hampshire. The guide uses a dichotomous [[Key To Families]], family-by-family...
+> -- *[[ASportsmansGuideToTheFreshwate_17439]]*
+
+### Mentioned In
+- [[ASportsmansGuideToTheFreshwate_17439]]
 
 ## Inland Redband Trout
 <!-- fm: auto_enriched: true -->
@@ -4168,6 +4248,18 @@ The Instituto Indigenista is a Mexican government institution that provided cred
 ### Mentioned In
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 
+## Instituto Nacional de Ecologia
+
+### Summary
+The Mexican federal institute for ecology (INE), listed as a partner in the restoration project. The source names it among the partners, with SEMARNAP, IMADES, UNAM Hermosillo and the San Bernardino National Wildlife Refuge.
+
+### Context
+> This is a 2000 proposal submitted to the [[North American Wetlands Conservation Act]] (NAWCA) program to restore the [[Cienega de San Bernardino]], a binational desert wetland straddling the Mexico–USA border. The Mexican portion lies within [[Rancho San Bernardino]], a 4,050 ha (10,000 acre)...
+> -- *[[RestorationOfCienegaDeSanBerna_17600]]*
+
+### Mentioned In
+- [[RestorationOfCienegaDeSanBerna_17600]]
+
 ## Instituto Nacional de Investigaciones Biológico Pesqueras
 
 ### Summary
@@ -4238,6 +4330,12 @@ Instream debris refers to accumulated woody material and piles of debris in the 
 > This document is a U.S. Fish and Wildlife Service (FWS) memorandum transmitting the summary of the April 6-7, 1989, [[Management Group]] meeting of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The attachments include a [[Technical Group]] meeting...
 > -- *[[AprilManagementGroupMeetingSum_21010]]*
 
+> This U.S. Fish and Wildlife Service (Service) planning document, Region 6, Denver, dated September 8, 1994, sets out the organization, mission, staffing, and review procedures for the [[Recovery Implementation Program]] for four endangered fishes of the [[Upper Colorado River Basin]]: [[Colorado...
+> -- *[[RecoveryProgramOrganizationMis_11666]]*
+
+> This document is a compiled record from the U.S. Fish and Wildlife Service (Service), Region 6, concerning the [[Colorado River Recovery Implementation Program]] for four endangered fishes of the Upper Colorado River Basin (UCRB). It includes the minutes of the February 23, 1988 Implementation...
+> -- *[[MinutesfebruaryRecoveryImpleme_20999]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
@@ -4249,6 +4347,8 @@ Instream debris refers to accumulated woody material and piles of debris in the 
 - [[OrganizationAndMission_11595]]
 - [[ManagementGroupMeeting_21011]]
 - [[AprilManagementGroupMeetingSum_21010]]
+- [[RecoveryProgramOrganizationMis_11666]]
+- [[MinutesfebruaryRecoveryImpleme_20999]]
 
 ## Instream Flow Ad Hoc Group
 
@@ -4337,6 +4437,9 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
 > -- *[[ColoradoRiverEndangeredFishRec_21021]]*
 
+> This document combines two U.S. Fish and Wildlife Service products. The first is a 1984 working paper by Patrick C. Nelson that explains how [[Suitability Index Curves]] (SI curves) are built, used, and documented in the [[Instream Flow Incremental Methodology]] (IFIM). The second is a November...
+> -- *[[SuitabilityIndexSiCurvesForUse_19636]]*
+
 ### Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -4353,6 +4456,7 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[EcologicalAndGeomorphologicalC_20402]]
 - [[ManagementGroupMeeting_21018]]
 - [[ColoradoRiverEndangeredFishRec_21021]]
+- [[SuitabilityIndexSiCurvesForUse_19636]]
 
 ## Instream Flow Incremental Methodology (Ifim)
 <!-- fm: auto_enriched: true -->
@@ -4859,6 +4963,9 @@ Interface theory treats transition zones as places where structural or functiona
 > This draft work plan, dated November 23, 1991, sets out the [[Glen Canyon Environmental Studies]] (GCES) approach for measuring the downstream effects of the [[Interim Flows]] released from [[Glen Canyon Dam]]. The plan is a framework rather than a detailed study design. It defines four evaluations...
 > -- *[[GlenCanyonEnvironmentalStudies_19702]]*
 
+> This compilation of planning documents, dated mainly October–November 1995, assembles proposals from federal, state, tribal and university groups to study the effects of a planned spring 1996 experimental high flow from [[Glen Canyon Dam]]. The flow was planned at 45,000 cfs for about seven days,...
+> -- *[[MeetingNextWeek_19735]]*
+
 ### Mentioned In
 - [[DecemberCritsMeetingSynthesisA_1994_01_04]]
 - [[IntegrationAndEvaluationOfGlen_13851]]
@@ -4867,6 +4974,7 @@ Interface theory treats transition zones as places where structural or functiona
 - [[TheEffectsOfInterimFlowsFromGl_13608]]
 - [[IntegrationAndEvaluationOfGlen_18447]]
 - [[GlenCanyonEnvironmentalStudies_19702]]
+- [[MeetingNextWeek_19735]]
 
 ## Interim Operating Criteria
 
@@ -5095,6 +5203,9 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 > This ECONorthwest draft report (February 1996), prepared for the [[U.S. Fish and Wildlife Service]] New Mexico Ecological Services Field Office, estimates the economic consequences of designating critical habitat for the endangered [[Rio Grande Silvery Minnow]] (RGSM). The Service listed the...
 > -- *[[ThePotentialEconomicConsequenc_15754]]*
 
+> This Arizona Department of Health Services report compiles water quality data for the Upper [[San Pedro River]] for 1973–1979. It covers the 1973 intensive survey, the 1977 University of Arizona monitoring, and the Arizona Game and Fish Department and BWQC spill investigations. Its main focus is...
+> -- *[[SanPedroRiverBasinWaterQuality_15721]]*
+
 ### Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
 - [[NoticeOfIntentToFileCitizenSui_1995_05_24]]
@@ -5105,6 +5216,7 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 - [[StateOfTheUsmexicoBorderEnviro_14365]]
 - [[LowerColoradoRiverMaps_12161]]
 - [[ThePotentialEconomicConsequenc_15754]]
+- [[SanPedroRiverBasinWaterQuality_15721]]
 
 ## International Code of Botanical Nomenclature
 
@@ -5259,6 +5371,18 @@ A binational body that took up Canadian concerns about the Garrison Diversion pr
 
 ### Mentioned In
 - [[AReviewOfInterbasinWaterTransf_18377]]
+
+## International Network on Genetics in Aquaculture
+
+### Summary
+INGA is an international network that works on genetics in aquaculture. The source says it already covers genetic improvement, so the 1997 Bangkok workshop did not adopt a separate regional project on this theme.
+
+### Context
+> This FAO Fisheries Circular (No. 930, November 1997), prepared with the [[Network of Aquaculture Centres in Asia-Pacific]] (NACA), synthesizes a 1996 survey of 14 Asian countries/regions and the outcomes of a Regional Workshop held in Bangkok, 20-23 May 1997. The study finds that aquaculture...
+> -- *[[SurveyAndAnalysisOfAquaculture_16306]]*
+
+### Mentioned In
+- [[SurveyAndAnalysisOfAquaculture_16306]]
 
 ## International North Pacific Fisheries Commission
 
@@ -5418,6 +5542,9 @@ Interspecific competition in fish and aquatic ecology refers to the interaction 
 > This philosophical analysis examines a major methodological controversy in [[Community Ecology]] concerning the use of [[Null Hypotheses]] to test explanations of [[Community Structure]] based on [[Interspecific Competition]]. The author (Peter B. Sloep, Department of Animal Physiology, Haren,...
 > -- *[[NullHypothesesInEcologyAnAttem_19026]]*
 
+> This 1945 Illinois Natural History Survey bulletin by [[George W. Bennett]] documents the only case of [[Overfishing]] ever observed by Survey aquatic biologists in Illinois. The study covers [[Onized Lake]], a 2-acre artificial pond near [[Alton Illinois]] that was intensively angled by members of...
+> -- *[[OverfishingInASmallArtificialL_18158]]*
+
 ### Mentioned In
 - [[DonTThrowGrandpaBack_14198]]
 - [[FurtherObservationsOnTheRangeE_12854]]
@@ -5425,6 +5552,7 @@ Interspecific competition in fish and aquatic ecology refers to the interaction 
 - [[Species Composition and Seasonal Distribution of Limnetic Crustacean Zooplankton of Northeastern Kansas]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
 - [[NullHypothesesInEcologyAnAttem_19026]]
+- [[OverfishingInASmallArtificialL_18158]]
 
 ## Interspecific Competition (Fish)
 <!-- fm: auto_enriched: true -->
@@ -6147,6 +6275,18 @@ IOFC (Indian Ocean Fishery Commission) is a regional fishery body that provides 
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16310]]
 
+## Ionic Dissociation Theory
+
+### Summary
+This is the chemical theory that dissolved salts separate into charged ions in solution. Hem uses it as the basis for expressing water analyses in ionic terms, such as equivalents per million (epm) for cations and anions.
+
+### Context
+> This U.S. Geological Survey Water-Supply Paper (No. 1473, by John D. Hem, 1959) is a reference treatise on the chemistry of natural waters. It explains how dissolved constituents arise from rock weathering and decomposition, how water samples should be collected and analyzed, how results are...
+> -- *[[StudyAndInterpretationOfTheChe_16621]]*
+
+### Mentioned In
+- [[StudyAndInterpretationOfTheChe_16621]]
+
 ## Ionic Regulation In Fish
 <!-- fm: auto_enriched: true -->
 
@@ -6447,6 +6587,18 @@ Iron Pond is a 17-acre great pond whose outlet is Hope Brook. The outlet provide
 ### Mentioned In
 - [[StationAllocationsAndFtesForOp_1994_03_29]]
 
+## Ironcolor Shiner
+
+### Summary
+A minnow listed as Endangered in the report. Its only known Oklahoma records are from the Mountain Fork River.
+
+### Context
+> This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
+> -- *[[RareAndEndangeredVertebratesAn_11494]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesAn_11494]]
+
 ## Ironoquia punctatissima
 
 ### Summary
@@ -6512,6 +6664,18 @@ Man-made agricultural drainage channels that carry irrigation runoff to the Salt
 
 ### Mentioned In
 - [[ADistributionSurveyOfDesertPup_20197]]
+
+## Irrigation Pumping
+
+### Summary
+Pumping of groundwater to water crops, which this report identifies as the dominant driver of storage loss in the Willcox basin. Pumpage rose sharply after the 1910s and especially after 1953, reaching about 180,000 acre-feet in 1963, well above natural recharge.
+
+### Context
+> This USGS Water-Supply Paper (1859-F), prepared with the [[Arizona State Land Department]], assesses the [[Groundwater]] system of the [[Willcox Basin]], a closed interior-drainage basin of about 1,500 square miles in northern [[Sulphur Springs Valley]]. Its valley floor covers about 950 square...
+> -- *[[GeohydrologyAndWaterUtilizatio_13828]]*
+
+### Mentioned In
+- [[GeohydrologyAndWaterUtilizatio_13828]]
 
 ## Irrigation Reservoir
 
@@ -7154,6 +7318,18 @@ Isoperla decepta is a stonefly species in Caldwell Hollow that likely survives a
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
 
+## Isopods (Woodlice)
+
+### Summary
+Isopods are small crustaceans commonly called woodlice. In this source, isopod burrowing in the Sde Boker slopes breaks the soil crust and produces pellets whose volume is comparable to the sediment removed in a rainy season, and burrow density is higher on Shivta outcrops than on Drorim or Netser.
+
+### Context
+> This methodological paper by [[Aaron Yair]] and an interdisciplinary team describes a research programme on slope runoff and erosion at an experimental watershed of about 11,325 m² in the arid [[Northern Negev]] of Israel. The team, which includes climatologists, zoologists, botanists, pedologists...
+> -- *[[InterdisciplinaryResearchOnRun_20875]]*
+
+### Mentioned In
+- [[InterdisciplinaryResearchOnRun_20875]]
+
 ## Isospondyli
 
 ### Summary
@@ -7469,6 +7645,18 @@ The IUCN Red Data Book provides the major international framework for assessing 
 - [[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]
 - [[SpeciesSurvivalCommissionAMemb_14399]]
 - [[TheContemporaryStatusOfTheTwoA_20499]]
+
+## IUCN Red List Criteria
+
+### Summary
+A set of international categories used to classify the conservation status of species by their risk of extinction. This report adopts these definitions, under which "endangered" means survival is unlikely without special protective measures and "rare" means a species is not under immediate threat but is so few in number or so restricted in habitat that it could quickly disappear.
+
+### Context
+> This report summarizes a symposium held November 18-19, 1969 at [[Death Valley National Monument]], California, attended by 42 persons from federal and state agencies, universities, and conservation organizations. Coordinated by E. P. Pister of the California Department of Fish and Game and...
+> -- *[[SymposiumOnRareAndEndangeredFi_15352]]*
+
+### Mentioned In
+- [[SymposiumOnRareAndEndangeredFi_15352]]
 
 ## Iucn Species Survival Commission
 <!-- fm: auto_enriched: true -->
