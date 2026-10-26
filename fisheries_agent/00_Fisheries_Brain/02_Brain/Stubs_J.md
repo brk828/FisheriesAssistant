@@ -118,6 +118,18 @@ A collector who made the earliest malacological trip to the Pinaleno Mountains i
 ### Mentioned In
 - [[ThreeProtozoanDiseasesOfTroutI_14425]]
 
+## J. Holt Williamson
+
+### Summary
+Author of a paper on the Rare Fishes Propagation and Genetics Management Plan included in this review package. The plan he addressed aims for self-sustaining wild populations of rare Colorado basin fishes through habitat protection and genetically guided artificial propagation.
+
+### Context
+> This document set, circulated in August 1989 ahead of the [[Implementation Committee]] meeting of August 30, 1989, concerns the consultation process under [[Section 7 Consultation]] of the [[Endangered Species Act]] for water development projects in the Upper Colorado River Basin. It contains draft...
+> -- *[[ReviewMaterialaugustImplementa_21015]]*
+
+### Mentioned In
+- [[ReviewMaterialaugustImplementa_21015]]
+
 ## J. Hume Patterson
 <!-- fm: auto_enriched: true -->
 
@@ -136,6 +148,18 @@ A collector who made the earliest malacological trip to the Pinaleno Mountains i
 
 ### Mentioned In
 - [[UnNouveauSynasellusCrustaceaIs_15812]]
+
+## J. M. Hester
+
+### Summary
+J. M. Hester was a fisheries biologist and co-author of this 1955 Alabama Department of Conservation report. The source credits him with the study of insecticide damage to North Alabama streams after the 1950 cotton dusting season.
+
+### Context
+> This Alabama Department of Conservation Fisheries Report (Number 2, March 1955), by fisheries biologists [[A. D. Hooper]] and [[J. M. Hester]], assesses the damage to streams in North Alabama caused by agricultural insecticides applied to cotton during the 1950 [[Boll Weevil]] infestation. Heavy...
+> -- *[[AStudyOfThirtysixStreamsThatWe_19907]]*
+
+### Mentioned In
+- [[AStudyOfThirtysixStreamsThatWe_19907]]
 
 ## J. R. E. Jones 1952
 <!-- fm: auto_enriched: true -->
@@ -398,6 +422,18 @@ Jackman Reservoir is a water body in southern New Hampshire examined in this sur
 ### Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
 
+## Jackson Brook
+
+### Summary
+Jackson Brook is about five miles long and is a tributary of the Kennebec with an annual spawning migration. It has the greatest flow fluctuation of the streams studied, ranging from about 3 to 20 c.f.s. in 1954, and in June 1955 held only seepage. An impassable falls about one mile above the mouth limits its habitat, so its contribution to the main fishery is likely minor in normal years.
+
+### Context
+> This report documents a 1954–1955 study of the [[Rainbow Trout]] fishery in the [[Kennebec River]] between [[Wyman Dam]] and [[Solon Dam]], Maine, with attention to temperature, flow, spawning tributaries, age and growth, and the effects of hatchery stocking. Rainbow trout were introduced to the...
+> -- *[[PreliminaryStudyOfKennebecRive_17719]]*
+
+### Mentioned In
+- [[PreliminaryStudyOfKennebecRive_17719]]
+
 ## Jackson et al. 1987 Assessment
 
 ### Summary
@@ -409,6 +445,18 @@ The Jackson et al. 1987 Assessment is the BLM study of water conditions on the u
 
 ### Mentioned In
 - [[ReassessmentOfOriginalInformat_13781]]
+
+## Jackson Lake
+
+### Summary
+Jackson Lake (JL) is one of the four predator-treatment sites in the study, with cutthroat trout present alongside chub. It covers about 23,150 hectares, and its sample had 32 chub, the second-smallest of the eight. Jackson Lake chub had a median age of 14 years, among the highest recorded, and a youngest mature age of 6 years.
+
+### Context
+> Johnson and Belk (Brigham Young University) compared eight isolated populations of [[Utah Chub]] (*Gila atraria*) to test whether long-term exposure to a gape-limited predator, [[Cutthroat Trout]] (*Oncorhynchus clarki*), has shaped life-history evolution. Four populations had co-existed with...
+> -- *[[EffectsOfPredationOnLifehistor_19786]]*
+
+### Mentioned In
+- [[EffectsOfPredationOnLifehistor_19786]]
 
 ## Jackson National Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -589,6 +637,18 @@ A release station on Clear Lake, about seven miles southeast of The Narrows, use
 ### Mentioned In
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DouglasMexicanTemperaturePreci_12378]]
+
+## James A. St. Amant
+
+### Summary
+James A. St. Amant was the author of this 1967 California Department of Fish and Game report on whether piranhas could survive in southern California. Writing from the department's Region 5 (Inland Fisheries), he compiled literature, interviews and correspondence into a risk assessment that recommended against introduction.
+
+### Context
+> This 1967 California Department of Fish and Game administrative report, authored by [[James A. St. Amant]] of Region 5 (Inland Fisheries), assesses whether [[Piranha]] could survive and establish reproducing populations in southern California. It is a literature-based compendium supplemented by...
+> -- *[[SurvivalPotentialOfPiranhaInSo_14693]]*
+
+### Mentioned In
+- [[SurvivalPotentialOfPiranhaInSo_14693]]
 
 ## James B. Reynolds
 
@@ -1871,6 +1931,18 @@ A gravel pit about 5 km west of Jocotepec, Jalisco, Mexico, where the fossil fis
 ### Mentioned In
 - [[ClimaticAndBiogeographicSignif_21184]]
 
+## Joe Foss Brook
+
+### Summary
+Joe Foss Brook is a spring-fed tributary entering the Kennebec about half a mile below Wyman Dam. Both rainbow and brook trout use its entire length, and temperatures stayed at or below 60°F in July. Redds were counted in a 300-yard section of it in 1955, and a redd excavated there in 1954 yielded eggs about 90 percent fertilized.
+
+### Context
+> This report documents a 1954–1955 study of the [[Rainbow Trout]] fishery in the [[Kennebec River]] between [[Wyman Dam]] and [[Solon Dam]], Maine, with attention to temperature, flow, spawning tributaries, age and growth, and the effects of hatchery stocking. Rainbow trout were introduced to the...
+> -- *[[PreliminaryStudyOfKennebecRive_17719]]*
+
+### Mentioned In
+- [[PreliminaryStudyOfKennebecRive_17719]]
+
 ## Joe N. Fries
 <!-- fm: auto_enriched: true -->
 
@@ -1970,6 +2042,18 @@ John A. Maciolek was a staff member on the 1950s brook trout study of Bunny Lake
 ### Mentioned In
 - [[StationProfileO_19523]]
 
+## John Breukelman
+
+### Summary
+John Breukelman was a Kansas ichthyologist who verified the fish identifications in this study. The source also cites his 1940 catalogue of 56 species and subspecies in 10 families at Dyche Museum, and his 1940 report of 26 species from the Verdigris River, 21 of which Schelske also collected.
+
+### Context
+> This note summarizes a year-round study of the fish assemblage of the [[Fall River]] and [[Verdigris River]] in Wilson and Montgomery Counties, southeastern Kansas, conducted from March 1954 to February 1955 as part of a larger survey of the rivers' physical, chemical, and biological...
+> -- *[[AnEcologicalStudyOfTheFishesOf_18698]]*
+
+### Mentioned In
+- [[AnEcologicalStudyOfTheFishesOf_18698]]
+
 ## John C Poole
 
 ### Summary
@@ -2033,6 +2117,18 @@ A geologist who directed the 1907 collecting of fossil fishes at Riacho Doce, Al
 
 ### Mentioned In
 - [[ReproductiveProductsInMarineFo_14388]]
+
+## John Dobie
+
+### Summary
+Aquatic biologist and author of this 1948 Minnesota Department of Conservation bulletin on minnow propagation. He joined the Bureau of Fisheries Research in 1940 after earlier work with the U.S. Forest Service, the Wisconsin Conservation Department, and the Minnesota CCC program.
+
+### Context
+> This 1948 Minnesota Department of Conservation bulletin, written by aquatic biologist [[John Dobie]], addresses a shortage of bait minnows caused by postwar fishing pressure. It argues that bait dealers should rear their own fish in [[Natural Ponds]] or [[Artificial Ponds]] rather than rely on...
+> -- *[[MinnowPropagation_19045]]*
+
+### Mentioned In
+- [[MinnowPropagation_19045]]
 
 ## John E. Cushing
 
@@ -2401,8 +2497,12 @@ John Wesley Powell led the first expedition to run the entire Colorado River, ro
 > This historical article describes the 1889–90 expedition led by [[Robert Brewster Stanton]] down the [[Colorado River]]. The expedition was commissioned to survey the river's canyons and determine whether a railroad could be built along its full length. It was only the second party to run the...
 > -- *[[TheColoradoRiverRailroadSurvey_16614]]*
 
+> This document is a July 30, 1994 notice letter from the [[Southwest Center for Biological Diversity]] to the U.S. Secretary of the Interior, the [[Bureau of Reclamation]] (BR) Commissioner and the [[U.S. Fish and Wildlife Service]] (FWS) Director. It alleges that the [[Central Arizona Project]]...
+> -- *[[UsBureauOfReclamationsOngoingI_18968]]*
+
 ### Mentioned In
 - [[TheColoradoRiverRailroadSurvey_16614]]
+- [[UsBureauOfReclamationsOngoingI_18968]]
 
 ## John Wesley Powell Centennial
 
@@ -2648,6 +2748,18 @@ A historical museum connected to the refuge area; the source says the historic S
 
 ### Mentioned In
 - [[DraftSanBernardinoNationalWild_11500]]
+
+## Johnson Historical Museum of the Southwest
+
+### Summary
+A museum adjacent to the refuge that owns 131 acres and holds an easement for fisheries management in House Pond. The source also notes it may send up to 3,000 visitors per year to the refuge.
+
+### Context
+> This November 1985 Environmental Assessment (EA), prepared by the [[U.S. Fish and Wildlife Service]] (Service) in Albuquerque, New Mexico, evaluates management options for the 2,308.9-acre [[San Bernardino National Wildlife Refuge]] (NWR) in Cochise County, Arizona. The refuge was acquired...
+> -- *[[ManagementOfTheSanBernardinoNa_13328]]*
+
+### Mentioned In
+- [[ManagementOfTheSanBernardinoNa_13328]]
 
 ## Johnson Pond
 
@@ -3163,6 +3275,18 @@ The Jordan Valley is the river system and rift valley in which tilapias of Israe
 ### Mentioned In
 - [[CyprinodonAndRelatedGeneraStud_15366]]
 - [[TheDistributionOfTheOviparousK_16815]]
+
+## Jorge Carranza
+
+### Summary
+A former student of Robert R. Miller who worked at the Mexican institution where Gomez Pompa was based. Miller mentioned him in his April 1970 letter, noting that he was connected to the same institution.
+
+### Context
+> This document is a 1970 exchange of letters between American ichthyologist [[Robert R. Miller]] and Mexican botanist [[Arturo Gomez Pompa]] of the [[Universidad Nacional Autónoma de México]] (UNAM). Miller writes to urge protection of two Mexican aquatic sites of high biological value: the [[Cuatro...
+> -- *[[InterestInConservationInLatinA_15353]]*
+
+### Mentioned In
+- [[InterestInConservationInLatinA_15353]]
 
 ## Jorge Eiras
 <!-- fm: auto_enriched: true -->

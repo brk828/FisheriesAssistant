@@ -323,9 +323,13 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 > This Michigan Department of Conservation Fish Division pamphlet (No. 16, by F. F. Hooper and A. B. Cook, Jr.) summarizes practical guidance on using liquid sodium arsenite to control rooted submerged flowering weeds in ponds and along lake shorelines. It covers target and non-target plants, dosage...
 > -- *[[ChemicalControlOfSubmergedWate_19910]]*
 
+> This Texas Agricultural Extension Service publication, authored by Edwin H. Cooper (Extension Specialist in Wildlife Conservation, Texas A. & M. College System), is a practical manual for building, stocking, fertilizing, fishing and maintaining small [[Farm Pond]]s for family recreation. It covers...
+> -- *[[ImproveYourFarmFishPond_17549]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
+- [[ImproveYourFarmFishPond_17549]]
 
 ## 2,4-D Herbicide
 

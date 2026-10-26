@@ -215,6 +215,9 @@ A ranch in the Sierra del Carmen region visited during Marsh's 1936 survey. Seve
 > This review by [[Salvador Contreras-Balderas]] examines how the fish fauna of the [[Chihuahuan Desert]] arose and why it is disappearing. The region holds 107 native species, mostly of northern origin, distributed across interior drainages that once belonged to the former Rio Bravo system. The...
 > -- *[[SpeciationAspectsAndManmadeCom_17519]]*
 
+> This document is a 1970 exchange of letters between American ichthyologist [[Robert R. Miller]] and Mexican botanist [[Arturo Gomez Pompa]] of the [[Universidad Nacional Autónoma de México]] (UNAM). Miller writes to urge protection of two Mexican aquatic sites of high biological value: the [[Cuatro...
+> -- *[[InterestInConservationInLatinA_15353]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -223,6 +226,7 @@ A ranch in the Sierra del Carmen region visited during Marsh's 1936 survey. Seve
 - [[CompositionAndDerivationOfTheF_15375]]
 - [[TwoLettersConcerningStudyOfSpe_13691]]
 - [[SpeciationAspectsAndManmadeCom_17519]]
+- [[InterestInConservationInLatinA_15353]]
 
 ## La Media Luna Springs
 
@@ -384,6 +388,18 @@ La Verkin Springs (also known as Pah Tempe Springs) is a significant thermal spr
 - [[EvaluationAndRelativeResistanc_19097]]
 - [[EcologyOfTheMississippiSilvers_20121]]
 
+## Labor Camp Pond
+
+### Summary
+A gravel pit pond near Grand Junction that was one of the two main pit study sites in this report. It supported larger largemouth bass populations than Fish Pond, and adult squawfish were periodically recorded moving into and out of it.
+
+### Context
+> This first annual report from the [[Windy-Gap Fishes Study]] covers 1982 field work on endangered fishes of the upper [[Colorado River]] system. The study was run by the [[U.S. Fish and Wildlife Service]] under a cooperative agreement with the Northern Colorado Water Conservancy District. Its aim...
+> -- *[[WindygapFishesStudyFirstAnnual_18483]]*
+
+### Mentioned In
+- [[WindygapFishesStudyFirstAnnual_18483]]
+
 ## Laboratory
 
 ### Summary
@@ -395,6 +411,18 @@ The test facility, the Fisheries-Engineering Research Laboratory at Bonneville D
 
 ### Mentioned In
 - [[ResponseOfMigratingAdultSalmon_13581]]
+
+## Laboratory Aquaria
+
+### Summary
+Controlled indoor tanks used to hold and rear fish under constant, as far as possible identical, conditions. In this source, the Arizona State University aquaria served as a backup to the fishless pond rearing, so the progeny could be grown in standardized conditions to test growth differences.
+
+### Context
+> This document is a 1989 letter from [[Minckley]], Professor of Zoology at [[Arizona State University]], to Buddy L. Jensen at the [[Dexter National Fish Hatchery]], New Mexico. It proposes a breeding protocol to test whether bimodal growth in [[Razorback Sucker]] cohorts has a genetic basis. The...
+> -- *[[ProposedProtocolForTestingForA_13770]]*
+
+### Mentioned In
+- [[ProposedProtocolForTestingForA_13770]]
 
 ## Laboratory of Tree-Ring Research
 
@@ -483,6 +511,9 @@ Labridae is the wrasse family, represented at this site by the California sheeph
 > This Bureau of Reclamation memorandum from the [[Glen Canyon Environmental Studies]] group transmits [[HYDROLAB Profiling]] data collected at [[Lake Powell]] during the August 1 through 6, 1994 field trip. The profiles cover water temperature, [[Dissolved Oxygen]], [[Specific Conductivity]], and...
 > -- *[[GlenCanyonEnvironmentalStudies_19731]]*
 
+> This second annual report from the [[Colorado River Fishery Project]] covers 1983 field work on endangered endemic fishes of the Upper [[Colorado River]] Basin. Work was conducted by the U.S. Fish and Wildlife Service under a cooperative agreement with the Northern Colorado Water Conservancy...
+> -- *[[SecondAnnualReport_18486]]*
+
 ### Mentioned In
 - [[DistributionReproductionAndHab_1987]]
 - [[RadiotelemetryOfColoradoSquawf_1980]]
@@ -490,6 +521,7 @@ Labridae is the wrasse family, represented at this site by the California sheeph
 - [[RecoveryPlanForTheHumpbackChub_11544]]
 - [[GreenRiverRareAndEndangeredFis_13060]]
 - [[GlenCanyonEnvironmentalStudies_19731]]
+- [[SecondAnnualReport_18486]]
 
 ## Lac Vieux Desert
 <!-- fm: auto_enriched: true -->
@@ -835,6 +867,18 @@ Lagler (1956) is a fisheries reference cited for the choice of scale sampling si
 
 ### Mentioned In
 - [[IntraSpecificVariationInTheBig_11432]]
+
+## Lagler and Steinmetz
+
+### Summary
+Lagler and Steinmetz (1957) are cited in this bulletin as having crossed pumpkinseed and bluegill sunfish. Their work is one of the prior hybridization studies compared in the bulletin's summary table of Lepomis crosses.
+
+### Context
+> This Illinois Natural History Survey bulletin (Biological Notes No. 46, November 1961) by [[William F. Childers]] and [[George W. Bennett]] tests whether hybrid sunfish could serve as a stocking fish for small warm-water ponds. The stated problem is overpopulation and stunting in ponds, which makes...
+> -- *[[HybridizationBetweenThreeSpeci_16130]]*
+
+### Mentioned In
+- [[HybridizationBetweenThreeSpeci_16130]]
 
 ## Lagler Bardach And Miller 1977
 
@@ -1228,8 +1272,12 @@ A lagoon in the Cuatro Ciénegas Basin that the Churince River flows into. It fo
 > This data sheet, from the WWF/IUCN *Centres of Plant Diversity* series (Volume 3, The Americas), describes the [[Cuatro Ciénegas Basin]] in Coahuila, northern Mexico. The c. 2000 km² region is a closed-drainage intermontane basin within the eastern [[Chihuahuan Desert]], and its warm springs,...
 > -- *[[CentresOfPlantDiversityAGuideA_18340]]*
 
+> This descriptive limnology study by Quinn E. Respet (Limnology, Bio 426, Spring 1996) examines how ionic and nutrient composition changes along two spring-fed aquatic systems in the [[Cuatro Cienegas Basin]], Coahuila, Mexico: the [[Churince System]] and the [[El Mojarrel System]]. Water chemistry...
+> -- *[[EvolutionOfWaterCompositionInT_16819]]*
+
 ### Mentioned In
 - [[CentresOfPlantDiversityAGuideA_18340]]
+- [[EvolutionOfWaterCompositionInT_16819]]
 
 ## Laguna Madre
 <!-- fm: auto_enriched: true -->
@@ -1533,6 +1581,15 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 > This 1968 report by [[Almo J. Cordone]] and [[Ted C. Frantz]] evaluates experimental trout stocking in [[Lake Tahoe]] from 1960 to 1963, run as part of the cooperative California-Nevada Lake Tahoe Fisheries Study. The stated goal was to improve fishing, especially for shore and pier anglers in...
 > -- *[[AnEvaluationOfTroutPlantingInL_17592]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
+> The [[Station Development Plan]] for the [[Marble Bluff Fish Facility]] (MBFF), prepared by the [[Fish and Wildlife Service]] (FWS) Region 1 Division of Engineering, assesses why the facility fails to pass migrating [[Cui-ui]] and [[Lahontan Cutthroat Trout]] (LCT) from [[Pyramid Lake]] to spawning...
+> -- *[[MarbleBluffFishFacilityStation_13317]]*
+
+> This 1966 reprint by [[Almo Cordone]] (California Department of Fish and Game) and [[Ted Frantz]] (Nevada Fish and Game Commission) reports results of the cooperative [[Lake Tahoe Fisheries Study]], begun July 1, 1960. Using a coordinated [[Creel Census]] of boat anglers and the [[Cave Rock...
+> -- *[[TheLakeTahoeSportFishery_17591]]*
+
 ### Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -1574,6 +1631,9 @@ The Lahontan Cutthroat Trout is a threatened native salmonid species endemic to 
 - [[MarbleBluffFishFacilityOperati_16613]]
 - [[EndangeredAndThreatenedWildlif_18279]]
 - [[AnEvaluationOfTroutPlantingInL_17592]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
+- [[MarbleBluffFishFacilityStation_13317]]
+- [[TheLakeTahoeSportFishery_17591]]
 
 ## Lahontan Drainage
 
@@ -1643,6 +1703,9 @@ Lahontan National Fish Hatchery is a U.S. Fish and Wildlife Service facility est
 > This 1995 operation plan, prepared by the U.S. [[Fish and Wildlife Service]] (Region 1, Northern Nevada Fishery Resource Office) for the [[Marble Bluff Fish Facility]], sets out management strategies and physical modifications to improve fish passage and reduce mortality at the facility. It also...
 > -- *[[MarbleBluffFishFacilityOperati_16613]]*
 
+> The [[Station Development Plan]] for the [[Marble Bluff Fish Facility]] (MBFF), prepared by the [[Fish and Wildlife Service]] (FWS) Region 1 Division of Engineering, assesses why the facility fails to pass migrating [[Cui-ui]] and [[Lahontan Cutthroat Trout]] (LCT) from [[Pyramid Lake]] to spawning...
+> -- *[[MarbleBluffFishFacilityStation_13317]]*
+
 ### Mentioned In
 - [[MarbleBluffFishFacilityStation_1994_02_04]]
 - [[StationProfileOfTheCaliforniaN_19503]]
@@ -1651,6 +1714,7 @@ Lahontan National Fish Hatchery is a U.S. Fish and Wildlife Service facility est
 - [[CuiuiAndLahontanCutthroatTrout_13865]]
 - [[IssuesToDiscussAndResolveAtCui_14619]]
 - [[MarbleBluffFishFacilityOperati_16613]]
+- [[MarbleBluffFishFacilityStation_13317]]
 
 ## Lahontan Province
 <!-- fm: auto_enriched: true -->
@@ -1675,10 +1739,14 @@ Lahontan National Fish Hatchery is a U.S. Fish and Wildlife Service facility est
 > This 1965 report documents the introduction of [[Bonneville Cisco]] (*Prosopium gemmiferum*) from [[Bear Lake]] (Utah-Idaho) into [[Lake Tahoe]] (California-Nevada) in January 1964. The introduction aimed to provide forage for [[Lake Trout]] (*Salvelinus namaycush*) in deep waters during summer...
 > -- *[[IntroductionOfTheBonnevilleCis_18820]]*
 
+> This 1966 reprint by [[Almo Cordone]] (California Department of Fish and Game) and [[Ted Frantz]] (Nevada Fish and Game Commission) reports results of the cooperative [[Lake Tahoe Fisheries Study]], begun July 1, 1960. Using a coordinated [[Creel Census]] of boat anglers and the [[Cave Rock...
+> -- *[[TheLakeTahoeSportFishery_17591]]*
+
 ### Mentioned In
 - [[NoteOnSpringFoodHabitsOfTheLak_12533]]
 - [[AConservationorientedClassific_15455]]
 - [[IntroductionOfTheBonnevilleCis_18820]]
+- [[TheLakeTahoeSportFishery_17591]]
 
 ## Lahontan Reservoir
 
@@ -2027,6 +2095,18 @@ Lake Berryessa is a reservoir in California that became a popular black bass fis
 ### Mentioned In
 - [[DistributionOfSexRatiosOfBlueg_12688]]
 
+## Lake Biwa
+
+### Summary
+Lake Biwa is a large lake in Japan that supports a population of redspot salmon. The source reports that its redspot spawn in the lake, juveniles and older fish inhabit the hypolimnion in summer, and spawners measure 44.9 to 48.2 cm. Christie favors Lake Biwa redspot as the preferred egg source for a possible introduction to Ontario, with supply estimated at up to 100,000 eggs per year.
+
+### Context
+> This Ontario Department of Lands and Forests Research Information Paper (Fisheries) No. 37 (February 1970, by W. J. Christie) reviews two native Japanese Pacific salmons, the [[Cherry Salmon]] (*Oncorhynchus masou*) and the [[Redspot Salmon]] (*O. rhodurus*), as candidates for introduction into the...
+> -- *[[AReviewOfTheJapaneseSalmons_16151]]*
+
+### Mentioned In
+- [[AReviewOfTheJapaneseSalmons_16151]]
+
 ## Lake Blanche
 <!-- fm: auto_enriched: true -->
 
@@ -2068,6 +2148,9 @@ Lake Bonneville was a large Pleistocene pluvial lake that once covered much of t
 > This study by Johnson and Jordan examines intraspecific phylogenetic relationships in [[Leatherside Chub]] (*Snyderichthys copei*), a desert fish endemic to the [[Bonneville Basin]] and upper [[Snake River]] drainages of western North America. Using the complete mitochondrial [[Cytochrome B]] gene...
 > -- *[[PhylogeneticDivergenceInLeathe_19747]]*
 
+> Johnson and Belk (Brigham Young University) compared eight isolated populations of [[Utah Chub]] (*Gila atraria*) to test whether long-term exposure to a gape-limited predator, [[Cutthroat Trout]] (*Oncorhynchus clarki*), has shaped life-history evolution. Four populations had co-existed with...
+> -- *[[EffectsOfPredationOnLifehistor_19786]]*
+
 ### Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[LetterToMrDonnellyHillRegardin_1994_08_29]]
@@ -2078,6 +2161,7 @@ Lake Bonneville was a large Pleistocene pluvial lake that once covered much of t
 - [[BrineShrimp_12752]]
 - [[TheStoryOfWesternTrout_14677]]
 - [[PhylogeneticDivergenceInLeathe_19747]]
+- [[EffectsOfPredationOnLifehistor_19786]]
 
 ## Lake Bonneville Cisco
 
@@ -3368,6 +3452,12 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This is a January 10, 1994 comment letter from the [[Sierra Club Legal Defense Fund]] to the Utah State Supervisor of the [[U.S. Fish and Wildlife Service]] on the proposed rule designating [[Critical Habitat]] for four endangered fishes of the [[Colorado River Basin]]: the [[Bonytail Chub]],...
 > -- *[[ProposedRuleDesignatingCritica_17486]]*
 
+> This Bureau of Reclamation progress report presents preliminary first-year findings from a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal of the [[Central Arizona Project]] that carries Colorado River water from [[Lake Havasu]] toward central Arizona. The study was...
+> -- *[[FisheryInvestigationsProgressR_11557]]*
+
+> This 1972 proposal, prepared by the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], sets out a generalized master plan for environmental studies of the lower [[Lower Colorado River Basin]] ecosystem. The authors argue that the basin is among the most heavily...
+> -- *[[AGeneralizedMasterPlanOfEnviro_18588]]*
+
 ### Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -3473,6 +3563,8 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[AGeneralizedMasterPlanOfEnviro_16071]]
 - [[BonytailChubRevisedRecoveryPla_17174]]
 - [[ProposedRuleDesignatingCritica_17486]]
+- [[FisheryInvestigationsProgressR_11557]]
+- [[AGeneralizedMasterPlanOfEnviro_18588]]
 
 ## Lake Havasu City
 
@@ -3560,6 +3652,18 @@ The Lake Havasu Fisheries Improvement Project was a Bureau of Land Management pr
 ### Mentioned In
 - [[IntroductionOfBonytailChubsAnd_1994_02_09]]
 - [[StockingOfBonytailChubsOnOctob_1994_10_25]]
+
+## Lake Havasu Pumping Plant
+
+### Summary
+The pumping plant at Lake Havasu that lifts Colorado River water into the Central Arizona Project system, feeding the canal through a tunnel under the Buckskin Mountains. The report identifies it as the likely point through which fish are entrained into the Granite Reef Aqueduct, and it is one of the pumping plants where egg and larval sampling and downstream netting were recommended.
+
+### Context
+> This Bureau of Reclamation progress report presents preliminary first-year findings from a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal of the [[Central Arizona Project]] that carries Colorado River water from [[Lake Havasu]] toward central Arizona. The study was...
+> -- *[[FisheryInvestigationsProgressR_11557]]*
+
+### Mentioned In
+- [[FisheryInvestigationsProgressR_11557]]
 
 ## Lake Helena
 
@@ -4697,6 +4801,18 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > This 1984 status report, prepared by [[James E Platz]] for the [[U S Fish and Wildlife Service]] Office of Endangered Species, evaluates the taxonomic standing and current survival of the [[Utah Frog]] ([[Rana Onca]]), a leopard frog known from a narrow desert corridor in southwestern Utah and...
 > -- *[[StatusReportForRanaOncaCope_18613]]*
 
+> This paper, by Richard A. Valdez of [[BIO/WEST Inc]], argues that cold hypolimnetic releases from [[Glen Canyon Dam]] currently prevent mainstem spawning by native fishes in the [[Colorado River]] through [[Grand Canyon]]. It proposes that a [[Multi-Level Intake Structure]] (MLIS) allowing warmed...
+> -- *[[PossibleResponsesByTheFishesOf_13624]]*
+
+> This peer review, dated 24 November 1991 and written by Dr. William J. Matthews of the [[University of Oklahoma Biological Station]], evaluates the [[Glen Canyon Environmental Studies]] (GCES) endangered species projects on the federally endangered [[Humpback Chub]] (*Gila cypha*). The review...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_15187]]*
+
+> This report by Duncan T. Patten synthesizes the ideas generated at a [[Workshop Symposium]] held on July 8-9, 1998, by the U.S. Fish and Wildlife Service and the Bureau of Reclamation. The document provides background on the heavily regulated [[Lower Colorado River]], discusses concepts of...
+> -- *[[RestorationStrategiesForTheLow_18459]]*
+
+> This 1972 proposal, prepared by the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], sets out a generalized master plan for environmental studies of the lower [[Lower Colorado River Basin]] ecosystem. The authors argue that the basin is among the most heavily...
+> -- *[[AGeneralizedMasterPlanOfEnviro_18588]]*
+
 ### Mentioned In
 - [[ALakeMeadSolution_1997_05_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -4892,6 +5008,10 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[FisheriesSurveyOfTheVirginRive_16379]]
 - [[NutrientManagementWithHydroele_18469]]
 - [[StatusReportForRanaOncaCope_18613]]
+- [[PossibleResponsesByTheFishesOf_13624]]
+- [[ReviewOfGlenCanyonEnvironmenta_15187]]
+- [[RestorationStrategiesForTheLow_18459]]
+- [[AGeneralizedMasterPlanOfEnviro_18588]]
 
 ## Lake Mead Fault System
 <!-- fm: auto_enriched: true -->
@@ -5653,6 +5773,12 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This document is a 1990 progress report and management/research plan from the [[Native Fish Work Group]] (NFWG), a multiagency task force formed to augment the aging [[Razorback Sucker]] population in [[Lake Mohave]]. The population of about 60,000 adults is old (25 to 45 years) and shows little or...
 > -- *[[AccomplishmentsOfTheNativeFish_20978]]*
 
+> This study examined the movements, habitat use, and short-term behavioral acclimation of stocked juvenile [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered [[Colorado River]] fish, in [[Lake Powell]] and [[Lake Mohave]] during summer 1997. Juvenile razorbacks are rarely found in the wild,...
+> -- *[[PoststockingDispersalHabitatUs_15474]]*
+
+> The [[Fish and Wildlife Service]] (Service) proposed critical habitat for four endangered [[Colorado River Basin]] fishes: [[Razorback Sucker]], [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail Chub]]. The proposal was published in the *Federal Register* on January 29, 1993 (Vol. 58, No....
+> -- *[[EndangeredAndThreatenedWildlif_19334]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -5970,6 +6096,8 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[TheEffectOfFoodAvailabilityOnG_18413]]
 - [[ReportOnAgeAndGrowthOfXyrauche_18828]]
 - [[AccomplishmentsOfTheNativeFish_20978]]
+- [[PoststockingDispersalHabitatUs_15474]]
+- [[EndangeredAndThreatenedWildlif_19334]]
 
 ## Lake Mohave Backwater Network
 <!-- fm: auto_enriched: true -->
@@ -6690,6 +6818,9 @@ I appreciate your request, but I need to clarify that based on the context snipp
 > This document is a [[Biological Opinion]] issued by the [[Fish and Wildlife Service]] (FWS) on February 21, 1991, under Section 7 of the [[Endangered Species Act]]. It responds to a November 21, 1990 request from the [[Bureau of Land Management]] (BLM) Phoenix District for formal consultation on a...
 > -- *[[BiologicalOpinionTuleCreekRipa_20154]]*
 
+> This Bureau of Reclamation progress report presents preliminary first-year findings from a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal of the [[Central Arizona Project]] that carries Colorado River water from [[Lake Havasu]] toward central Arizona. The study was...
+> -- *[[FisheryInvestigationsProgressR_11557]]*
+
 ### Mentioned In
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
 - [[RequestForTheCommissionToAppro_1997_07_14]]
@@ -6701,6 +6832,7 @@ I appreciate your request, but I need to clarify that based on the context snipp
 - [[FisheryInvestigationsProgressR_11561]]
 - [[AnalysisOfCentralArizonaAngler_17118]]
 - [[BiologicalOpinionTuleCreekRipa_20154]]
+- [[FisheryInvestigationsProgressR_11557]]
 
 ## Lake Poelela
 <!-- fm: auto_enriched: true -->
@@ -7105,6 +7237,24 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This memorandum from [[Fish and Wildlife Service]] (FWS) Program Director John Hamill transmits the summary of the July 13-14, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Management Group, held at the FWS Regional Office in Lakewood, Colorado. The meeting approved a...
 > -- *[[JulyManagementGroupMeetingSumm_21014]]*
 
+> This U.S. Geological Survey Open-File Report (99-110), prepared with [[Northern Arizona University]], tests whether holding hatchery-reared [[Razorback Sucker]] at the release site for 2 to 3 days before release reduces short-term dispersal. Telemetry trials ran in [[Lake Powell]] and the [[Green...
+> -- *[[ACaseForSiteAcclimationInTheRe_11770]]*
+
+> This paper, by Richard A. Valdez of [[BIO/WEST Inc]], argues that cold hypolimnetic releases from [[Glen Canyon Dam]] currently prevent mainstem spawning by native fishes in the [[Colorado River]] through [[Grand Canyon]]. It proposes that a [[Multi-Level Intake Structure]] (MLIS) allowing warmed...
+> -- *[[PossibleResponsesByTheFishesOf_13624]]*
+
+> This study examined the movements, habitat use, and short-term behavioral acclimation of stocked juvenile [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered [[Colorado River]] fish, in [[Lake Powell]] and [[Lake Mohave]] during summer 1997. Juvenile razorbacks are rarely found in the wild,...
+> -- *[[PoststockingDispersalHabitatUs_15474]]*
+
+> This report by Duncan T. Patten synthesizes the ideas generated at a [[Workshop Symposium]] held on July 8-9, 1998, by the U.S. Fish and Wildlife Service and the Bureau of Reclamation. The document provides background on the heavily regulated [[Lower Colorado River]], discusses concepts of...
+> -- *[[RestorationStrategiesForTheLow_18459]]*
+
+> This draft literature review, prepared by Richard A. Lechleitner, compiles published thermal tolerance and requirement data for organisms in the [[Colorado River]] below [[Glen Canyon Dam]]. Its purpose is to assess how a possible shift to warmer outflows, through a [[Multiple Level Intake]] or...
+> -- *[[LiteratureReviewOfTheThermalRe_20221]]*
+
+> This document is a U.S. Fish and Wildlife Service (FWS) memorandum transmitting the summary of the April 6-7, 1989, [[Management Group]] meeting of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The attachments include a [[Technical Group]] meeting...
+> -- *[[AprilManagementGroupMeetingSum_21010]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -7282,6 +7432,12 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[NutrientManagementWithHydroele_18469]]
 - [[ManagementGroupMeeting_21011]]
 - [[JulyManagementGroupMeetingSumm_21014]]
+- [[ACaseForSiteAcclimationInTheRe_11770]]
+- [[PossibleResponsesByTheFishesOf_13624]]
+- [[PoststockingDispersalHabitatUs_15474]]
+- [[RestorationStrategiesForTheLow_18459]]
+- [[LiteratureReviewOfTheThermalRe_20221]]
+- [[AprilManagementGroupMeetingSum_21010]]
 
 ## Lake Powell Fishery
 <!-- fm: auto_enriched: true -->
@@ -7816,6 +7972,9 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 > This 1968 report by [[Almo J. Cordone]] and [[Ted C. Frantz]] evaluates experimental trout stocking in [[Lake Tahoe]] from 1960 to 1963, run as part of the cooperative California-Nevada Lake Tahoe Fisheries Study. The stated goal was to improve fishing, especially for shore and pier anglers in...
 > -- *[[AnEvaluationOfTroutPlantingInL_17592]]*
 
+> This 1966 reprint by [[Almo Cordone]] (California Department of Fish and Game) and [[Ted Frantz]] (Nevada Fish and Game Commission) reports results of the cooperative [[Lake Tahoe Fisheries Study]], begun July 1, 1960. Using a coordinated [[Creel Census]] of boat anglers and the [[Cave Rock...
+> -- *[[TheLakeTahoeSportFishery_17591]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -7845,6 +8004,7 @@ Lake Tahoe is a large, deep alpine lake located in the Sierra Nevada mountains o
 - [[FreshwaterTricladsTurbellariaO_17939]]
 - [[TheSystematicsAndDistributionO_14952]]
 - [[AnEvaluationOfTroutPlantingInL_17592]]
+- [[TheLakeTahoeSportFishery_17591]]
 
 ## Lake Tahoe Basin Management Unit
 
@@ -7870,9 +8030,13 @@ A six-year fisheries investigation of Lake Tahoe begun in 1960 by the California
 > This 1970 study by [[Ted C. Frantz]] and [[Almo J. Cordone]] (Nevada and California Departments of Fish and Game) describes the diet of [[Lake Trout]] (*Salvelinus namaycush*) in [[Lake Tahoe]]. Stomachs from 1,389 fish were examined, 1,097 of which contained food. Diet shifted from invertebrates...
 > -- *[[FoodOfLakeTroutInLakeTahoe_18822]]*
 
+> This 1966 reprint by [[Almo Cordone]] (California Department of Fish and Game) and [[Ted Frantz]] (Nevada Fish and Game Commission) reports results of the cooperative [[Lake Tahoe Fisheries Study]], begun July 1, 1960. Using a coordinated [[Creel Census]] of boat anglers and the [[Cave Rock...
+> -- *[[TheLakeTahoeSportFishery_17591]]*
+
 ### Mentioned In
 - [[DistributionSizeCompositionAnd_17286]]
 - [[FoodOfLakeTroutInLakeTahoe_18822]]
+- [[TheLakeTahoeSportFishery_17591]]
 
 ## Lake Tahoe Sucker
 
@@ -7999,6 +8163,12 @@ Lake Texoma is a large reservoir on the Red River formed by the Denison Dam, ser
 > This 1961 report by Thomas L. Linton, issued by the [[Oklahoma Fishery Research Laboratory]] (Report No. 81), documents a pre-impoundment survey of the reaches of the [[Arkansas River]] and [[Cimarron River]] that would be inundated by the proposed [[Keystone Reservoir]] in northeastern Oklahoma....
 > -- *[[AStudyOfFishesOfTheArkansasAnd_20347]]*
 
+> This Oklahoma Game and Fish Department booklet, written by H. C. Ward with illustrations by Wallace Hughes and edited by Juanita Mahaffey, is an educational field guide to the state's freshwater fishes. It covers 16 of the 23 known fish families and about one-third of the more than 150 species...
+> -- *[[KnowYourOklahomaFishes_14870]]*
+
+> This 1954 report from the [[Oklahoma Fisheries Research Laboratory]] consolidates age and growth data for [[Channel Catfish]] (*Ictalurus punctatus*) across Oklahoma. It draws on 7,717 specimens from 107 bodies of water collected between 1946 and 1954. Growth is calculated from lengths at each...
+> -- *[[GrowthOfChannelCatfishInOklaho_16396]]*
+
 ### Mentioned In
 - [[DepthDistributionOfStripedBass_1985]]
 - [[EtheostomaRadiosumOrangebellyD_1986]]
@@ -8012,6 +8182,8 @@ Lake Texoma is a large reservoir on the Red River formed by the Denison Dam, ser
 - [[GrowthOfFreshwaterDrumInOklaho_19938]]
 - [[EcologyOfTheMississippiSilvers_20121]]
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
+- [[KnowYourOklahomaFishes_14870]]
+- [[GrowthOfChannelCatfishInOklaho_16396]]
 
 ## Lake Thermal Stratification
 <!-- fm: auto_enriched: true -->
@@ -8221,6 +8393,12 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > This Bureau of Reclamation technical report (REC-ERC-82-21, February 1983) by Davine M. Lieberman provides a taxonomic species list of the common plankton collected from [[Twin Lakes]] and the associated [[Mt. Elbert Forebay]] since 1974. The work supports a broader study of the effects of the...
 > -- *[[CommonPlanktonOfTwinLakesColor_20321]]*
 
+> This 1966 reprint by [[Almo Cordone]] (California Department of Fish and Game) and [[Ted Frantz]] (Nevada Fish and Game Commission) reports results of the cooperative [[Lake Tahoe Fisheries Study]], begun July 1, 1960. Using a coordinated [[Creel Census]] of boat anglers and the [[Cave Rock...
+> -- *[[TheLakeTahoeSportFishery_17591]]*
+
+> This Bureau of Reclamation report presents the preoperational limnological baseline for the [[Mt. Elbert Forebay]], a pumped-storage reservoir north of [[Twin Lakes]], Colorado. Sampling ran from November 1978 through September 1979. The forebay was classed as a cold monomictic impoundment. It was...
+> -- *[[LimnologyOfMtElbertForebay_17710]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -8314,12 +8492,26 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[SomeConservationProblemsOfTheG_18489]]
 - [[AnEvaluationOfTroutPlantingInL_17592]]
 - [[CommonPlanktonOfTwinLakesColor_20321]]
+- [[TheLakeTahoeSportFishery_17591]]
+- [[LimnologyOfMtElbertForebay_17710]]
 
 ## Lake Trout Decline
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
+
+## Lake Trout Fry
+
+### Summary
+Young lake trout. The divers saw them only once, in June 1974, in the powerplant tailrace area of Juday Bay at 19 m (62 ft), at a density of about 200 per m² over bare glacial flour.
+
+### Context
+> This Bureau of Reclamation report (REC-ERC-76-15, September 1976) documents qualitative, observational data from SCUBA dives in [[Twin Lakes]], a pair of connected high-altitude glacial lakes in Lake County, Colorado. Three dive series, each about a week long, were made in June and August 1974 and...
+> -- *[[DiveStudiesAtTwinLakesColorado_12646]]*
+
+### Mentioned In
+- [[DiveStudiesAtTwinLakesColorado_12646]]
 
 ## Lake Trummen
 
@@ -9372,10 +9564,14 @@ The Land and Water Conservation Fund is a federal funding mechanism established 
 > This document is the cooperative plan for the [[San Juan River Basin Recovery Implementation Program]] (Implementation Program). Its purpose is to protect and recover the endangered [[Colorado Squawfish]] and [[Razorback Sucker]] while water development proceeds in compliance with federal and state...
 > -- *[[SanJuanRiverBasinRecoveryImple_11693]]*
 
+> This Defenders of Wildlife report (May 1985) assesses how the Reagan administration and Congress implemented the [[Endangered Species Act]] (ESA) during 1984. It is the first annual report in a series that follows a ten-year analysis published in 1984. It covers three areas: budget and funding,...
+> -- *[[ImplementationOfTheUsEndangere_21133]]*
+
 ### Mentioned In
 - [[BlmRespondsToPublicConcernsAlo_19144]]
 - [[SummaryjuneManagementGroupMeet_20998]]
 - [[SanJuanRiverBasinRecoveryImple_11693]]
+- [[ImplementationOfTheUsEndangere_21133]]
 
 ## Land And Water Conservation Fund Act
 <!-- fm: auto_enriched: true -->
@@ -9405,6 +9601,18 @@ The Land and Water Conservation Fund is a federal funding mechanism established 
 
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
+
+## Land Management Plan
+
+### Summary
+The Tonto National Forest's Land Management Plan (LMP) is the governing framework that this document's objectives reference, including its definitions of Range Management Levels and its Research Natural Area designation. The draft cites it for the 30% effective ground cover standard on upland sites. The source does not describe the plan in further detail.
+
+### Context
+> This document is a 1994 public-comment letter and attachment package from the [[Tonto National Forest]] (Forest Supervisor Charles R. Bazan). It presents draft management objectives, evaluation criteria, mitigation standards, and five draft alternatives for the Picketpost Mountain/Arnett Creek...
+> -- *[[DraftManagementObjectivesAndDr_15660]]*
+
+### Mentioned In
+- [[DraftManagementObjectivesAndDr_15660]]
 
 ## Land Scientific Research
 
@@ -9502,9 +9710,13 @@ Lander Spring Brook was a spring and brook in Chaves County, New Mexico, that on
 > The [[Landlocked Atlantic Salmon]] (*Salmo salar*) broodstock program represents a complementary restoration effort for a landlocked salmonid population adapted to Great Lakes and connected river systems (e.g., Oswego and Oneida Rivers), occupying a similar pelagic predatory niche.
 > -- *[[StationProfileOfTheAlleghenyNa_1993]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[StationProfileOfTheAlleghenyNa_1993]]
 - [[StationProfileOfThePittsfordNa_1993]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## Landlocked Fish Populations
 <!-- fm: auto_enriched: true -->
@@ -10703,6 +10915,60 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This Technical Report by Larry J. Paulson (Lake Mead Limnological Research Center, University of Nevada, Las Vegas, May 1981) examines how the depth of water discharge at [[Hoover Dam]] controls nutrient losses from [[Lake Mead]] and, through that, the reservoir's fertility and trophic state. The...
 > -- *[[NutrientManagementWithHydroele_18469]]*
 
+> This Bureau of Reclamation progress report presents preliminary first-year findings from a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal of the [[Central Arizona Project]] that carries Colorado River water from [[Lake Havasu]] toward central Arizona. The study was...
+> -- *[[FisheryInvestigationsProgressR_11557]]*
+
+> This Fish and Wildlife Service circular (Fish and Wildlife Circular 86, May 1960), prepared by [[Willis King]] of the Branch of Fishery Management Services, evaluates the [[Farm Pond Stocking Program]] run by the [[Bureau of Sport Fisheries and Wildlife]]. Interviews with owners of a random sample...
+> -- *[[ASurveyOfFishingInInPondsStock_12544]]*
+
+> This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
+> -- *[[ObservationsOnTheLimnologicalD_14675]]*
+
+> This Oklahoma Game and Fish Department booklet, written by H. C. Ward with illustrations by Wallace Hughes and edited by Juanita Mahaffey, is an educational field guide to the state's freshwater fishes. It covers 16 of the 23 known fish families and about one-third of the more than 150 species...
+> -- *[[KnowYourOklahomaFishes_14870]]*
+
+> This implementation report from the [[Arizona Game and Fish Department]] (AGFD), Region 6, documents the Canyon Lake - LaBarge Cove Fish Habitat Project (CLLCFHP), carried out from November 2 to November 22, 1988. The project placed three types of artificial underwater cover in LaBarge Cove of...
+> -- *[[CanyonLakeLabargeCoveFishHabit_14885]]*
+
+> This study examined the movements, habitat use, and short-term behavioral acclimation of stocked juvenile [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered [[Colorado River]] fish, in [[Lake Powell]] and [[Lake Mohave]] during summer 1997. Juvenile razorbacks are rarely found in the wild,...
+> -- *[[PoststockingDispersalHabitatUs_15474]]*
+
+> This Arizona Game and Fish Department supplement evaluates the [[Catchable Trout Program]] in the [[Salt River]] below [[Stewart Mountain Dam]] during 1974 and 1975. About 30,000 [[Rainbow Trout]] were stocked and 100 percent were tagged with [[Flag Tags]] to estimate harvest, angler usage and...
+> -- *[[EvaluationOfTheAndCatchableTro_15816]]*
+
+> This 1960s-era conference paper by [[Denzel E. Ferguson]] (Department of Zoology, Mississippi State University) reviews evidence that insecticide resistance in natural fish populations is a serious ecological hazard rather than a benign curiosity. Resistance was first documented in [[Mosquitofish]]...
+> -- *[[TheEcologicalConsequencesOfPes_16336]]*
+
+> This 1954 report from the [[Oklahoma Fisheries Research Laboratory]] consolidates age and growth data for [[Channel Catfish]] (*Ictalurus punctatus*) across Oklahoma. It draws on 7,717 specimens from 107 bodies of water collected between 1946 and 1954. Growth is calculated from lengths at each...
+> -- *[[GrowthOfChannelCatfishInOklaho_16396]]*
+
+> This 1943 U.S. Department of Agriculture publication (Miscellaneous Publication No. 528), written by Lawrence V. Compton of the Soil Conservation Service, reviews the literature on farm fishpond management and presents management methods tested mainly in the Southeastern United States. Its core...
+> -- *[[TechniquesOfFishpondManagement_17457]]*
+
+> This Texas Agricultural Extension Service publication, authored by Edwin H. Cooper (Extension Specialist in Wildlife Conservation, Texas A. & M. College System), is a practical manual for building, stocking, fertilizing, fishing and maintaining small [[Farm Pond]]s for family recreation. It covers...
+> -- *[[ImproveYourFarmFishPond_17549]]*
+
+> This report documents a 1954–1955 study of the [[Rainbow Trout]] fishery in the [[Kennebec River]] between [[Wyman Dam]] and [[Solon Dam]], Maine, with attention to temperature, flow, spawning tributaries, age and growth, and the effects of hatchery stocking. Rainbow trout were introduced to the...
+> -- *[[PreliminaryStudyOfKennebecRive_17719]]*
+
+> This U.S. Forest Service Southwest Region publication, Wildlife Habitat Technical Bulletin No. 5 (April 6, 1978), is a systematic checklist of vertebrate species that occur in [[Arizona]] and [[New Mexico]]. Compiled by David R. Patton, it was built to store wildlife data for the 1979 Wildlife...
+> -- *[[VertebrateChecklistForArizonaA_18465]]*
+
+> This first annual report from the [[Windy-Gap Fishes Study]] covers 1982 field work on endangered fishes of the upper [[Colorado River]] system. The study was run by the [[U.S. Fish and Wildlife Service]] under a cooperative agreement with the Northern Colorado Water Conservancy District. Its aim...
+> -- *[[WindygapFishesStudyFirstAnnual_18483]]*
+
+> This Technical Report by the [[Arizona Game and Fish Department]] (Region V Fisheries Program, Technical Report 98-5-1) documents a 1998 creel survey of anglers on the Upper Gila River and three area lakes in Graham County, Arizona. The survey was motivated by a 1997 department proposal to remove...
+> -- *[[UpperGilaRiverAnglerSurvey_18636]]*
+
+> This Alabama Department of Conservation Fisheries Report (Number 2, March 1955), by fisheries biologists [[A. D. Hooper]] and [[J. M. Hester]], assesses the damage to streams in North Alabama caused by agricultural insecticides applied to cotton during the 1950 [[Boll Weevil]] infestation. Heavy...
+> -- *[[AStudyOfThirtysixStreamsThatWe_19907]]*
+
+> This Arizona Game and Fish Department (AGFD) draft assessment, prepared by Don Mitchell and Kirk Young, evaluates the impacts of [[Northern Pike]] (*Esox lucius*), which were illegally introduced into [[Parker Canyon Lake]] around late 1996 to early 1997. Evidence from gill netting, electrofishing...
+> -- *[[ManagementAssessmentOfTheImpac_20181]]*
+
+> This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 4, 1955), written by fisheries biologist Jay L. Harmic under [[Federal Aid Projects]] F-1-R-3 and F-1-R-4, is the final booklet in a series of preliminary biological surveys of the state's freshwater fishing...
+> -- *[[DelawareLandAndPondSurvey_20645]]*
+
 ### Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -11244,6 +11510,24 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[FisheriesSurveyOfTheVirginRive_16379]]
 - [[ProposedRuleDesignatingCritica_17486]]
 - [[NutrientManagementWithHydroele_18469]]
+- [[FisheryInvestigationsProgressR_11557]]
+- [[ASurveyOfFishingInInPondsStock_12544]]
+- [[ObservationsOnTheLimnologicalD_14675]]
+- [[KnowYourOklahomaFishes_14870]]
+- [[CanyonLakeLabargeCoveFishHabit_14885]]
+- [[PoststockingDispersalHabitatUs_15474]]
+- [[EvaluationOfTheAndCatchableTro_15816]]
+- [[TheEcologicalConsequencesOfPes_16336]]
+- [[GrowthOfChannelCatfishInOklaho_16396]]
+- [[TechniquesOfFishpondManagement_17457]]
+- [[ImproveYourFarmFishPond_17549]]
+- [[PreliminaryStudyOfKennebecRive_17719]]
+- [[VertebrateChecklistForArizonaA_18465]]
+- [[WindygapFishesStudyFirstAnnual_18483]]
+- [[UpperGilaRiverAnglerSurvey_18636]]
+- [[AStudyOfThirtysixStreamsThatWe_19907]]
+- [[ManagementAssessmentOfTheImpac_20181]]
+- [[DelawareLandAndPondSurvey_20645]]
 
 ## Largemouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -11303,6 +11587,9 @@ Largemouth Black Bass (*Micropterus salmoides*) is a freshwater predatory fish s
 > This 1935 U.S. Bureau of Fisheries report by M. J. Madsen surveys the streams and reservoir lakes of the [[Tonto National Forest]] in Arizona. Its purpose is to collect physical, chemical, and biological data so that fish species, size, and numbers can be matched to each water body before stocking....
 > -- *[[ABiologicalSurveyOfStreamsAndL_19339]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[ChangesInGrowthRatesOfFishesFo_1948]]
@@ -11326,6 +11613,7 @@ Largemouth Black Bass (*Micropterus salmoides*) is a freshwater predatory fish s
 - [[ACursorySurveyOfTheBlueRiverSy_17374]]
 - [[TheWarmWaterGameFishesOfCalifo_18105]]
 - [[ABiologicalSurveyOfStreamsAndL_19339]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## Largemouth Buffalo
 <!-- fm: auto_enriched: true -->
@@ -11561,6 +11849,18 @@ Larval drift sampling was used to assess Channel Catfish spawning productivity i
 - [[LetterToDrWLMinckleyOnGcesPhas_1993_11_17]]
 - [[DeclineOfTheRazorbackSuckerInL_2003]]
 
+## Larval Fish Collection
+
+### Summary
+Larval fish were gathered from backwaters and shoreline areas with 0.5 mm mesh nets and preserved in 5% formaldehyde for later study. In the Yampa River, 104 larval Colorado squawfish came from 17 samples, and spawning was judged to have occurred by 10 August. Colorado River larval collections had not yet been analyzed when the report was written.
+
+### Context
+> This second annual report from the [[Colorado River Fishery Project]] covers 1983 field work on endangered endemic fishes of the Upper [[Colorado River]] Basin. Work was conducted by the U.S. Fish and Wildlife Service under a cooperative agreement with the Northern Colorado Water Conservancy...
+> -- *[[SecondAnnualReport_18486]]*
+
+### Mentioned In
+- [[SecondAnnualReport_18486]]
+
 ## Larval Fish Development
 <!-- fm: auto_enriched: true -->
 
@@ -11595,6 +11895,18 @@ Larval fish drift refers to the passive downstream movement of newly hatched or 
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
 - [[RazorbackSuckerBroodstockColle_1994_10_24]]
+
+## Larval Fish Feeding
+
+### Summary
+A research approach that studies what larval fish eat and how feeding affects their survival and growth. In this review, the reviewer recommended larval feeding studies to answer questions about the dietary, thermal, and habitat needs of early humpback chub life stages.
+
+### Context
+> This peer review, dated 24 November 1991 and written by Dr. William J. Matthews of the [[University of Oklahoma Biological Station]], evaluates the [[Glen Canyon Environmental Studies]] (GCES) endangered species projects on the federally endangered [[Humpback Chub]] (*Gila cypha*). The review...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_15187]]*
+
+### Mentioned In
+- [[ReviewOfGlenCanyonEnvironmenta_15187]]
 
 ## Larval Fish Identification
 <!-- fm: auto_enriched: true -->
@@ -12691,6 +13003,18 @@ LaVerkin Hot Springs is a spring in the Virgin River basin. The report says it y
 ### Mentioned In
 - [[NylonVsLinenGillNetsAtClearLak_1956_12_06]]
 
+## Lawrence
+
+### Summary
+Lawrence (1950) is a cited laboratory and pond toxicity study. It found that toxaphene, DDT, and BHC killed bluegill and largemouth bass fingerlings at various concentrations, with effects differing between aquaria and ponds and persisting for different durations.
+
+### Context
+> This Alabama Department of Conservation Fisheries Report (Number 2, March 1955), by fisheries biologists [[A. D. Hooper]] and [[J. M. Hester]], assesses the damage to streams in North Alabama caused by agricultural insecticides applied to cotton during the 1950 [[Boll Weevil]] infestation. Heavy...
+> -- *[[AStudyOfThirtysixStreamsThatWe_19907]]*
+
+### Mentioned In
+- [[AStudyOfThirtysixStreamsThatWe_19907]]
+
 ## Lawrence 1941 Madder Root Marking
 <!-- fm: auto_enriched: true -->
 
@@ -12777,6 +13101,18 @@ Layton Tank is a stock tank located immediately upstream of the AD Wash study ar
 
 ### Mentioned In
 - [[GeneralLimnologyAndMarineFishe_12334]]
+
+## LC50
+
+### Summary
+A standard toxicology and predation-testing measure of the concentration or dose that is lethal to half of test organisms. In this review, the reviewer recommended comparative LC50-style predation trials, with realistic escape opportunities, to test whether exotic fish prey on humpback chub.
+
+### Context
+> This peer review, dated 24 November 1991 and written by Dr. William J. Matthews of the [[University of Oklahoma Biological Station]], evaluates the [[Glen Canyon Environmental Studies]] (GCES) endangered species projects on the federally endangered [[Humpback Chub]] (*Gila cypha*). The review...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_15187]]*
+
+### Mentioned In
+- [[ReviewOfGlenCanyonEnvironmenta_15187]]
 
 ## Lcr Biology Subcommittee
 <!-- fm: auto_enriched: true -->
@@ -13300,8 +13636,12 @@ Lebistes is a genus of poeciliid fish. Males from this genus were able to produc
 > This experimental study documents 12 years (1932-1944) of breeding experiments with [[Mollienisia formosa]], the Amazon Molly, a viviparous fish species in which no males have ever been found. Approximately 8,000 individuals representing 20 generations were bred at the Museum of Zoology,...
 > -- *[[ExperimentalBreedingOfTheAmazo_14310]]*
 
+> This excerpt is a taxonomic catalogue from the [[United States National Museum]] (Bulletin 47, Part I, by [[David Starr Jordan]] and [[Barton Warren Evermann]]). It is not a research study. It gives formal descriptions, diagnostic keys, type localities, synonymy and distribution for freshwater...
+> -- *[[TheFishesOfNorthAndMiddleAmeri_19853]]*
+
 ### Mentioned In
 - [[ExperimentalBreedingOfTheAmazo_14310]]
+- [[TheFishesOfNorthAndMiddleAmeri_19853]]
 
 ## Lebistes Reticulatus
 <!-- fm: auto_enriched: true -->
@@ -13652,6 +13992,9 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 > This December 1989 newsletter from the [[Glen Canyon Environmental Studies]] (GCES) program reports on a four-day steady 5,000 cubic feet per second (cfs) flow release from [[Glen Canyon Dam]], conducted October 6-9, 1989, within a broader October 4-17 study period. Over 40 researchers examined...
 > -- *[[GlenCanyonEnvironmentalStudies_19682]]*
 
+> This document is a handwritten field notebook of about 27 scanned pages. Optical character recognition has degraded most of the text, and many pages contain only fragments, blank areas, or unreadable marks. The legible portions appear to record fish collections, species counts, station names,...
+> -- *[[GrandCanyonTripNotes_13995]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -13687,6 +14030,7 @@ Lee's Ferry is a cold-water tailwater reach of the Colorado River located immedi
 - [[TheColoradoRiverRailroadSurvey_16614]]
 - [[GlenCanyonEnvironmentalStudies_15606]]
 - [[GlenCanyonEnvironmentalStudies_19682]]
+- [[GrandCanyonTripNotes_13995]]
 
 ## Lee'S Ferry Tailwater
 <!-- fm: auto_enriched: true -->
@@ -14258,6 +14602,18 @@ A method of estimating fish age by grouping individuals into size classes and id
 ### Mentioned In
 - [[TheEffectOfGillNetSelectionOnT_12551]]
 
+## Length-Weight Data
+
+### Summary
+Individual measurements of fish length (mm) and weight (g) recorded on dated hatchery field sheets. In this source, the scanned sheets cover tagged and untagged Razorback Suckers, including 'Study' and 'Wiwek's Exp.' sets, but OCR quality prevents reliable transcription of the individual values.
+
+### Context
+> This document is a 1989 letter from [[Minckley]], Professor of Zoology at [[Arizona State University]], to Buddy L. Jensen at the [[Dexter National Fish Hatchery]], New Mexico. It proposes a breeding protocol to test whether bimodal growth in [[Razorback Sucker]] cohorts has a genetic basis. The...
+> -- *[[ProposedProtocolForTestingForA_13770]]*
+
+### Mentioned In
+- [[ProposedProtocolForTestingForA_13770]]
+
 ## Length-Weight Regression
 <!-- fm: auto_enriched: true -->
 
@@ -14289,6 +14645,9 @@ The length-weight relationship in fish science describes the mathematical correl
 > This paper, by C. R. Guier, L. E. Nichols and R. T. Rachels of the [[North Carolina Wildlife Resources Commission]], documents the establishment and spread of the non-native [[Flathead Catfish]] (*Pylodictis olivaris*) in the mainstream of the [[Cape Fear River]], North Carolina. Eleven adult...
 > -- *[[BiologicalInvestigationOfFlath_17815]]*
 
+> This 1954 report from the [[Oklahoma Fisheries Research Laboratory]] consolidates age and growth data for [[Channel Catfish]] (*Ictalurus punctatus*) across Oklahoma. It draws on 7,717 specimens from 107 bodies of water collected between 1946 and 1954. Growth is calculated from lengths at each...
+> -- *[[GrowthOfChannelCatfishInOklaho_16396]]*
+
 ### Mentioned In
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
 - [[AgeAndGrowthOfLargemouthBassIn_1964]]
@@ -14300,6 +14659,7 @@ The length-weight relationship in fish science describes the mathematical correl
 - [[TheAgeAndGrowthOfCatostomusCom_14581]]
 - [[GrowthOfBlackBullheadCatfishIn_19942]]
 - [[BiologicalInvestigationOfFlath_17815]]
+- [[GrowthOfChannelCatfishInOklaho_16396]]
 
 ## Length-Weight Relationship (Fisheries)
 <!-- fm: auto_enriched: true -->
@@ -16504,6 +16864,18 @@ Leslie Hubricht is a collector who gathered the amphipod specimens from the San 
 ### Mentioned In
 - [[TwoNewSpeciesOfTheSubterranean_19884]]
 
+## Leslie Matrix
+
+### Summary
+A projection matrix format used in age-structured population modelling. The source judges it the most useful model format for the humpback chub, since it can incorporate environmental and density-dependent effects and address several of the GCES objectives.
+
+### Context
+> This Phase I feasibility evaluation, prepared by [[BIO/WEST, Inc.]] (Ronald J. Ryel and Richard A. Valdez, March 8, 1993), assesses whether a population model should be developed for the endangered [[Humpback Chub]] (*Gila cypha*) in Grand Canyon. The authors conclude that a modelling effort would...
+> -- *[[DevelopmentOfAPopulationModelF_21128]]*
+
+### Mentioned In
+- [[DevelopmentOfAPopulationModelF_21128]]
+
 ## Leslie Matrix Model
 
 ### Summary
@@ -16849,9 +17221,13 @@ Leuciscidae is a family of freshwater cypriniform fishes that was established th
 > This document represents a comprehensive systematic revision of the cyprinid fish genus [[Gila]] in [[North America]], focusing on populations in the western [[United States]] and [[Mexico]]. Authors [[Robert Rush Miller]] and [[Teruya Uyeno]] undertake a taxonomic clarification of a genus that has...
 > -- *[[DraftsAndNotesOnTheCyprinidFis_15336]]*
 
+> This excerpt is a taxonomic catalogue from the [[United States National Museum]] (Bulletin 47, Part I, by [[David Starr Jordan]] and [[Barton Warren Evermann]]). It is not a research study. It gives formal descriptions, diagnostic keys, type localities, synonymy and distribution for freshwater...
+> -- *[[TheFishesOfNorthAndMiddleAmeri_19853]]*
+
 ### Mentioned In
 - [[SnyderichthysANewGenericNameFo_1944_11_22]]
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
+- [[TheFishesOfNorthAndMiddleAmeri_19853]]
 
 ## Leuciscus intermedius
 
@@ -17473,11 +17849,15 @@ The army officer under whom the collections described in this paper were made. T
 > This Illinois Natural History Survey Biological Notes report (No. 93, February 1975) by Lawrence M. Page documents the [[Life History]] of the [[Stripetail Darter]], *Etheostoma kennicotti*, in [[Big Creek]], Hardin County, Illinois. Based on 1,380 preserved specimens collected between 6 October...
 > -- *[[TheLifeHistoryOfTheStripetailD_18382]]*
 
+> This Illinois Natural History Survey Biological Notes report (No. 69, September 1970, by Lawrence M. Page and Philip W. Smith) documents the [[Life History]] of the [[Dusky Darter]] (*Percina sciera*) in the middle [[Embarras River]], Illinois. Over a 2-year study (August 1967 to July 1969) the...
+> -- *[[TheLifeHistoryOfTheDuskyDarter_18378]]*
+
 ### Mentioned In
 - [[NotesOnSomeCaptiveMinnowsPimep_1961]]
 - [[SexualDimorphismInTheAdultRazo_17843]]
 - [[AlaskasFisheryResourcesTheChum_20135]]
 - [[TheLifeHistoryOfTheStripetailD_18382]]
+- [[TheLifeHistoryOfTheDuskyDarter_18378]]
 
 ## Life History Analysis
 
@@ -17590,8 +17970,13 @@ Ligia is a genus of isopods found in the upper intertidal zone at Puerto Peñasc
 ## Ligula Intestinalis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> Johnson and Belk (Brigham Young University) compared eight isolated populations of [[Utah Chub]] (*Gila atraria*) to test whether long-term exposure to a gape-limited predator, [[Cutthroat Trout]] (*Oncorhynchus clarki*), has shaped life-history evolution. Four populations had co-existed with...
+> -- *[[EffectsOfPredationOnLifehistor_19786]]*
+
 ### Mentioned In
 - [[SpeciesAccountRhinichthysOscul_13165]]
+- [[EffectsOfPredationOnLifehistor_19786]]
 
 ## Ligumia subrostrata
 
@@ -18114,6 +18499,9 @@ Limnology is the scientific study of freshwater ecosystems, including lakes, riv
 > This memorandum from April 7, 1997 documents a comprehensive curriculum revision for the Wildlife Conservation Biology major at [[Arizona State University]]'s Department of Zoology. The proposal renames the major to "Conservation Biology," restructures core courses to eliminate the...
 > -- *[[ModificationOfTheWildlifeConse_20526]]*
 
+> This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
+> -- *[[ObservationsOnTheLimnologicalD_14675]]*
+
 ### Mentioned In
 - [[A New Material for Marking Kordite Line and Various Animals]]
 - [[ASubSurfaceWaterSamplerForLake_14940]]
@@ -18126,6 +18514,7 @@ Limnology is the scientific study of freshwater ecosystems, including lakes, riv
 - [[TheIonicCompositionOfSomeLowla_11054]]
 - [[UptakeAndAssimilationOfNitroge_1969]]
 - [[ModificationOfTheWildlifeConse_20526]]
+- [[ObservationsOnTheLimnologicalD_14675]]
 
 ## Limnology of Folsom Lake
 
@@ -18148,6 +18537,18 @@ This refers to the water-chemistry and physical data for Folsom Lake, attributed
 
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
+
+## Limnophotometer
+
+### Summary
+An instrument for measuring underwater light intensity at different depths, used to calculate light extinction coefficients. Here it supported the light-penetration measurements that helped classify the reservoir as mesotrophic.
+
+### Context
+> This 1976 Bureau of Reclamation report (GR-2-77, by J.F. LaBounty, J.J. Sartoris and R.A. Roline) presents a baseline limnological survey of [[Seminoe Reservoir]], a mainstream [[North Platte River]] impoundment in south-central Wyoming. Field work took place August 31 to September 3, 1976, at five...
+> -- *[[LimnologicalReconnaissanceOfSe_12640]]*
+
+### Mentioned In
+- [[LimnologicalReconnaissanceOfSe_12640]]
 
 ## Limosus Group
 <!-- fm: auto_enriched: true -->
@@ -18868,6 +19269,18 @@ A bacterial species that can cause foodborne illness. This source does not menti
 ### Mentioned In
 - [[StepsToEffectiveSanitationInSm_19075]]
 
+## Listing
+
+### Summary
+Listing is the process of formally designating a species as endangered or threatened under the Endangered Species Act. The report tracks listing activity closely, noting 124 listing rules in 1984, a 369-day average from proposal to final rule, and a candidate backlog of 3,827 species. It argues that slow listing risks turning the process into a record of extinctions rather than protection.
+
+### Context
+> This Defenders of Wildlife report (May 1985) assesses how the Reagan administration and Congress implemented the [[Endangered Species Act]] (ESA) during 1984. It is the first annual report in a series that follows a ten-year analysis published in 1984. It covers three areas: budget and funding,...
+> -- *[[ImplementationOfTheUsEndangere_21133]]*
+
+### Mentioned In
+- [[ImplementationOfTheUsEndangere_21133]]
+
 ## Listing Priority Guidance
 
 ### Summary
@@ -19520,6 +19933,27 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This 1991 Bureau of Reclamation package, issued by the [[Glen Canyon Environmental Studies]] (GCES) office, records the December 3, 1991 meeting of the [[Aquatic Coordination Team]] (ACT) and related correspondence. Its focus is the endangered [[Humpback Chub]] (HBC) in the [[Little Colorado...
 > -- *[[GlenCanyonEnvironmentalStudies_19703]]*
 
+> This preliminary trip report from [[BIO/WEST Inc.]], prepared for the [[Bureau of Reclamation]] and dated August 5, 1991, documents Trip #7 of a [[Humpback Chub]] study in the [[Grand Canyon]]. The field trip ran from July 9 to July 28, 1991. Crews handled 133 humpback chub, most of them in Reach 1...
+> -- *[[CharacterizationOfTheLifeHisto_13610]]*
+
+> This paper, by Richard A. Valdez of [[BIO/WEST Inc]], argues that cold hypolimnetic releases from [[Glen Canyon Dam]] currently prevent mainstem spawning by native fishes in the [[Colorado River]] through [[Grand Canyon]]. It proposes that a [[Multi-Level Intake Structure]] (MLIS) allowing warmed...
+> -- *[[PossibleResponsesByTheFishesOf_13624]]*
+
+> This peer review, dated 24 November 1991 and written by Dr. William J. Matthews of the [[University of Oklahoma Biological Station]], evaluates the [[Glen Canyon Environmental Studies]] (GCES) endangered species projects on the federally endangered [[Humpback Chub]] (*Gila cypha*). The review...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_15187]]*
+
+> This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
+> -- *[[DistributionStatusAndNotesOnTh_18709]]*
+
+> The [[Fish and Wildlife Service]] (Service) proposed critical habitat for four endangered [[Colorado River Basin]] fishes: [[Razorback Sucker]], [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail Chub]]. The proposal was published in the *Federal Register* on January 29, 1993 (Vol. 58, No....
+> -- *[[EndangeredAndThreatenedWildlif_19334]]*
+
+> This 1992 document packet, issued under the [[Glen Canyon Environmental Studies]] (GCES) program, collects four items: a program update memo from [[Dave Wegner]] to the [[Aquatic Coordination Team]] (ACT), a [[U.S. Fish and Wildlife Service]] (USFWS) report justifying its intensive study sites in...
+> -- *[[GlenCanyonEnvironmentalStudies_19717]]*
+
+> This Phase I feasibility evaluation, prepared by [[BIO/WEST, Inc.]] (Ronald J. Ryel and Richard A. Valdez, March 8, 1993), assesses whether a population model should be developed for the endangered [[Humpback Chub]] (*Gila cypha*) in Grand Canyon. The authors conclude that a modelling effort would...
+> -- *[[DevelopmentOfAPopulationModelF_21128]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -19772,6 +20206,13 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[IntegrationAndEvaluationOfGlen_18447]]
 - [[HumpbackPropagationPlan_18514]]
 - [[GlenCanyonEnvironmentalStudies_19703]]
+- [[CharacterizationOfTheLifeHisto_13610]]
+- [[PossibleResponsesByTheFishesOf_13624]]
+- [[ReviewOfGlenCanyonEnvironmenta_15187]]
+- [[DistributionStatusAndNotesOnTh_18709]]
+- [[EndangeredAndThreatenedWildlif_19334]]
+- [[GlenCanyonEnvironmentalStudies_19717]]
+- [[DevelopmentOfAPopulationModelF_21128]]
 
 ## Little Colorado River (Lcr)
 <!-- fm: auto_enriched: true -->
@@ -19973,6 +20414,9 @@ The Little Colorado Spinedace (*Lepidomeda vittata*) is a small endemic cyprinid
 > This package is a renewal application from the [[Arizona State University]] (ASU) Department of Biology to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 2 office. It seeks continued authorization under Federal Fish and Wildlife Permit PRT 797129, which was effective 8/9/96 to 8/9/98. The...
 > -- *[[PermitPrt_17155]]*
 
+> This report, prepared for the [[Coconino National Forest]], uses [[AFLP]] (Amplified Fragment Length Polymorphism) markers to measure genetic diversity and population structure in the federally threatened [[Little Colorado Spinedace]]. Samples came from three natural populations in the Little...
+> -- *[[AnAnalysisOfGeneticVariationIn_19229]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -20019,6 +20463,7 @@ The Little Colorado Spinedace (*Lepidomeda vittata*) is a small endemic cyprinid
 - [[NoLongerEndangered_14638]]
 - [[EndangeredAndThreatenedWildlif_18279]]
 - [[PermitPrt_17155]]
+- [[AnAnalysisOfGeneticVariationIn_19229]]
 
 ## Little Colorado Sucker
 <!-- fm: auto_enriched: true -->
@@ -20203,8 +20648,12 @@ A canal pumping plant at about Mile 57 of the Central Arizona Project. Razorback
 > This 1987 progress report from the [[Bureau of Reclamation]] presents preliminary findings of fishery investigations in the [[Central Arizona Project]] (CAP) canal system, which conveys Colorado River water from [[Lake Havasu]] toward central Arizona. Sampling in 1987 used standardized gill...
 > -- *[[FisheryInvestigationsProgressR_11561]]*
 
+> This Bureau of Reclamation progress report presents preliminary first-year findings from a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal of the [[Central Arizona Project]] that carries Colorado River water from [[Lake Havasu]] toward central Arizona. The study was...
+> -- *[[FisheryInvestigationsProgressR_11557]]*
+
 ### Mentioned In
 - [[FisheryInvestigationsProgressR_11561]]
+- [[FisheryInvestigationsProgressR_11557]]
 
 ## Little Hole
 <!-- fm: auto_enriched: true -->
@@ -20562,6 +21011,12 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 > This document is the FY-1989 work plan and budget for the [[Colorado River Recovery Program]], approved by the Colorado River Implementation Committee on August 30, 1988. The plan covers the fiscal year beginning October 1, 1988. It sets priorities for recovering four federally listed and rare...
 > -- *[[FiscalYearWorkPlan_11627]]*
 
+> This document is a U.S. Fish and Wildlife Service (FWS) memorandum transmitting the summary of the April 6-7, 1989, [[Management Group]] meeting of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The attachments include a [[Technical Group]] meeting...
+> -- *[[AprilManagementGroupMeetingSum_21010]]*
+
+> This document set, circulated in August 1989 ahead of the [[Implementation Committee]] meeting of August 30, 1989, concerns the consultation process under [[Section 7 Consultation]] of the [[Endangered Species Act]] for water development projects in the Upper Colorado River Basin. It contains draft...
+> -- *[[ReviewMaterialaugustImplementa_21015]]*
+
 ### Mentioned In
 - [[OccurrenceOfTwoEndangeredFishe_1990_07_19]]
 - [[StationProfileSaratogaNational_1993_12_11]]
@@ -20591,6 +21046,8 @@ The Little Snake River is a major tributary of the Yampa River in the Upper Colo
 - [[SolicitorsOpinionReColoradoRiv_21006]]
 - [[OrganizationAndMission_11595]]
 - [[FiscalYearWorkPlan_11627]]
+- [[AprilManagementGroupMeetingSum_21010]]
+- [[ReviewMaterialaugustImplementa_21015]]
 
 ## Little Snake Rivers
 
@@ -20675,6 +21132,18 @@ Little Uchee Creek is a stream in Alabama where ontogenetic habitat shifts in Sh
 
 ### Mentioned In
 - [[StatusAssesmentOfAShoalBassPop_2012]]
+
+## Little Wabash River
+
+### Summary
+A river in the Illinois area where the source reports collecting the largest dusky darter examined, a 108 mm standard length male taken on November 1, 1968, aged at 4 years.
+
+### Context
+> This Illinois Natural History Survey Biological Notes report (No. 69, September 1970, by Lawrence M. Page and Philip W. Smith) documents the [[Life History]] of the [[Dusky Darter]] (*Percina sciera*) in the middle [[Embarras River]], Illinois. Over a 2-year study (August 1967 to July 1969) the...
+> -- *[[TheLifeHistoryOfTheDuskyDarter_18378]]*
+
+### Mentioned In
+- [[TheLifeHistoryOfTheDuskyDarter_18378]]
 
 ## Little Wall Lake
 <!-- fm: auto_enriched: true -->
@@ -20830,6 +21299,18 @@ Littlefield Springs Fontelicella is an undescribed Fontelicella species found in
 
 ### Mentioned In
 - [[ProposalForAquaticInvestigatio_1979_04_20]]
+
+## Littoridina Group
+
+### Summary
+An informal group of hydrobiid snail genera within the subfamily Cochliopinae, historically defined partly by males having glandular papillae on the penis. The source tests this grouping and finds it polyphyletic, with Tryonia, Littoridinops, an undescribed Pyrgophorus and Heleobia-group members falling in separate clades.
+
+### Context
+> This study tests whether the freshwater snail genus [[Tryonia]] is a natural (monophyletic) group and reconstructs its evolutionary relationships to infer the regional biogeographic history of western North America. The authors sequenced a 603 bp fragment of the mitochondrial [[Cytochrome C Oxidase...
+> -- *[[PhylogeneticRelationshipsWithi_20353]]*
+
+### Mentioned In
+- [[PhylogeneticRelationshipsWithi_20353]]
 
 ## Littoridininae
 <!-- fm: auto_enriched: true -->
@@ -21182,6 +21663,18 @@ R. Lloyd is the first-named author of this 1963 study on predicting sewage efflu
 
 ### Mentioned In
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
+
+## Lloyd Gill Model
+
+### Summary
+A predictive model that the paper uses to show how reduced dissolved oxygen lowers the threshold concentration of several poisons. It predicts similar proportional reductions for zinc, lead, copper and monohydric phenols. Table 2 factors were 1.00 at full saturation, falling to 0.71 at 40 per cent saturation.
+
+### Context
+> D. W. M. Herbert of the [[Water Pollution Research Laboratory]] reviews how waste discharges harm freshwater fish and how that harm can be predicted and controlled. The paper combines a field survey of [[China-Clay Wastes]] in Cornish rivers with laboratory [[Toxicity Testing]] of soluble poisons,...
+> -- *[[FreshwaterFisheriesAndPollutio_16690]]*
+
+### Mentioned In
+- [[FreshwaterFisheriesAndPollutio_16690]]
 
 ## Lloyd Graphs
 
@@ -21588,6 +22081,21 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 > A June–July 1998 fisheries survey by [[Arizona State University]] sampled about 50 named localities across the upper [[Blue River]] drainage in Arizona and New Mexico. The survey recorded 10 fish taxa: six native and four non-native. Native species were [[Apache Trout]], [[Longfin Dace]],...
 > -- *[[UpperBlueRiverAndTributariesFi_17219]]*
 
+> This memorandum from the [[Arizona Game and Fish Department]] (AGFD) reports a seine-based fish and habitat survey of [[Aravaipa Creek]] conducted December 8–10, 1992. Six stations were sampled: three upstream and three downstream of the [[Aravaipa Canyon Wilderness Area]]. A total of 1,848 fish...
+> -- *[[AravaipaCreekMonitoringData_18221]]*
+
+> This document is a July 30, 1994 notice letter from the [[Southwest Center for Biological Diversity]] to the U.S. Secretary of the Interior, the [[Bureau of Reclamation]] (BR) Commissioner and the [[U.S. Fish and Wildlife Service]] (FWS) Director. It alleges that the [[Central Arizona Project]]...
+> -- *[[UsBureauOfReclamationsOngoingI_18968]]*
+
+> This document is a September 3, 1994 public comment letter from the [[Southwest Center for Biological Diversity]] (SWCBD) to the U.S. Army Garrison at [[Fort Huachuca]], Arizona. It responds to the Federal Register notice of May 19, 1994 announcing a [[Programmatic Draft Environmental Impact...
+> -- *[[CommentsOnTheProgrammaticDraft_18969]]*
+
+> This report, prepared for the [[Coconino National Forest]], uses [[AFLP]] (Amplified Fragment Length Polymorphism) markers to measure genetic diversity and population structure in the federally threatened [[Little Colorado Spinedace]]. Samples came from three natural populations in the Little...
+> -- *[[AnAnalysisOfGeneticVariationIn_19229]]*
+
+> This project report documents the redesign and repair of an irrigation diversion at [[Geronimo's Cave]] on the [[East Fork of the White River]], within the [[Fort Apache Indian Reservation]] in Arizona. The work was planned and carried out by the [[White Mountain Apache Tribe]] with the [[Arizona...
+> -- *[[FishPassageProjectGeronimosCav_21113]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -21840,6 +22348,11 @@ The Loach Minnow (*Tiaroga cobitis*) is a small, federally endangered cyprinid f
 - [[CurrentAndPredictedFutureStatu_20689]]
 - [[DraftEnvironmentalAssessmentCo_11757]]
 - [[UpperBlueRiverAndTributariesFi_17219]]
+- [[AravaipaCreekMonitoringData_18221]]
+- [[UsBureauOfReclamationsOngoingI_18968]]
+- [[CommentsOnTheProgrammaticDraft_18969]]
+- [[AnAnalysisOfGeneticVariationIn_19229]]
+- [[FishPassageProjectGeronimosCav_21113]]
 
 ## Loach Minnow Conservation
 <!-- fm: auto_enriched: true -->
@@ -22493,8 +23006,24 @@ London Bridge is a landmark on the Thames River used as a reference point for me
 > This 1959 paper by [[A. B. Wheatland]], [[M. J. Barrett]], and [[A. M. Bruce]] from the [[Water Pollution Research Laboratory]] investigates bacterial denitrification in polluted rivers and estuaries, with particular focus on the [[Thames Estuary]]. The authors demonstrate that nitrate serves as an...
 > -- *[[SomeObservationsOnDenitrificat_12181]]*
 
+> This 1956 conference paper, by Water Pollution Research Laboratory staff, analyses what controls dissolved oxygen (DO) in the [[Thames Estuary]]. Long-term sag-curve data, pollutant loads, tidal mixing theory and oxygen-balance accounting are combined to build a predictive model. The model...
+> -- *[[FactorsAffectingTheConcentrati_16907]]*
+
 ### Mentioned In
 - [[SomeObservationsOnDenitrificat_12181]]
+- [[FactorsAffectingTheConcentrati_16907]]
+
+## London County Council
+
+### Summary
+The local authority that, according to the paper, took over estuary sampling after the Metropolitan Board of Works and also operated the Northern Outfall Sewage Works at Barking. It is cited as a source of the long-running DO sampling record.
+
+### Context
+> This 1956 conference paper, by Water Pollution Research Laboratory staff, analyses what controls dissolved oxygen (DO) in the [[Thames Estuary]]. Long-term sag-curve data, pollutant loads, tidal mixing theory and oxygen-balance accounting are combined to build a predictive model. The model...
+> -- *[[FactorsAffectingTheConcentrati_16907]]*
+
+### Mentioned In
+- [[FactorsAffectingTheConcentrati_16907]]
 
 ## London Dumping Convention
 
@@ -22592,6 +23121,18 @@ A proposed dry interval from about 7,500 to 4,000 years ago, put forward by Erns
 
 ### Mentioned In
 - [[MurraySpringsAMidpostglacialPo_20098]]
+
+## Long Gulch Artesian
+
+### Summary
+A cienega with three pools on the Tonto National Forest, flowing at least 10 gallons per minute and supporting lowland leopard frogs. Stocking was deferred because a possible water diversion for goose habitat tied to Roosevelt Lake mitigation had to be resolved first.
+
+### Context
+> This U.S. Fish and Wildlife Service biological opinion (dated November 9, 1990) responds to a U.S. Forest Service request for formal [[Section 7 Consultation]] under the [[Endangered Species Act]] on the proposed introduction of the endangered [[Gila Topminnow]] into eight sites on the [[Tonto...
+> -- *[[GilaTopminnowIntroductionTonto_17278]]*
+
+### Mentioned In
+- [[GilaTopminnowIntroductionTonto_17278]]
 
 ## Long Hollow
 <!-- fm: auto_enriched: true -->
@@ -23235,6 +23776,15 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 > A June–July 1998 fisheries survey by [[Arizona State University]] sampled about 50 named localities across the upper [[Blue River]] drainage in Arizona and New Mexico. The survey recorded 10 fish taxa: six native and four non-native. Native species were [[Apache Trout]], [[Longfin Dace]],...
 > -- *[[UpperBlueRiverAndTributariesFi_17219]]*
 
+> This U.S. Fish and Wildlife Service recovery plan (Region 2, Albuquerque, New Mexico, approved 1986) addresses the [[Chihuahua Chub]] (*Gila nigrescens*), a federally threatened minnow treated as endangered by the State of New Mexico. The plan's goal is to remove the species from the federal list...
+> -- *[[ChihuahuaChubGilaNigrescensGir_13324]]*
+
+> This document is a 1994 public-comment letter and attachment package from the [[Tonto National Forest]] (Forest Supervisor Charles R. Bazan). It presents draft management objectives, evaluation criteria, mitigation standards, and five draft alternatives for the Picketpost Mountain/Arnett Creek...
+> -- *[[DraftManagementObjectivesAndDr_15660]]*
+
+> This memorandum from the [[Arizona Game and Fish Department]] (AGFD) reports a seine-based fish and habitat survey of [[Aravaipa Creek]] conducted December 8–10, 1992. Six stations were sampled: three upstream and three downstream of the [[Aravaipa Canyon Wilderness Area]]. A total of 1,848 fish...
+> -- *[[AravaipaCreekMonitoringData_18221]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AravaipaCreekFishesOctober_1986_01_20]]
@@ -23404,6 +23954,9 @@ The Longfin Dace (*Agosia chrysogaster*) is a small-bodied cyprinid minnow nativ
 - [[AFishAndRiparianSurveyOfTheCli_18416]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
 - [[UpperBlueRiverAndTributariesFi_17219]]
+- [[ChihuahuaChubGilaNigrescensGir_13324]]
+- [[DraftManagementObjectivesAndDr_15660]]
+- [[AravaipaCreekMonitoringData_18221]]
 
 ## Longfin Smelt
 
@@ -23453,8 +24006,12 @@ Longitudinal succession is the idea that fish and invertebrate assemblages chang
 > This U.S. Department of the Interior, National Biological Service primer (Biological Report 29, March 1995) introduces the [[Instream Flow Incremental Methodology]] (IFIM), a interdisciplinary framework for evaluating how water management decisions affect aquatic habitat in flowing waters. The...
 > -- *[[TheInstreamFlowIncrementalMeth_14710]]*
 
+> This note summarizes a year-round study of the fish assemblage of the [[Fall River]] and [[Verdigris River]] in Wilson and Montgomery Counties, southeastern Kansas, conducted from March 1954 to February 1955 as part of a larger survey of the rivers' physical, chemical, and biological...
+> -- *[[AnEcologicalStudyOfTheFishesOf_18698]]*
+
 ### Mentioned In
 - [[TheInstreamFlowIncrementalMeth_14710]]
+- [[AnEcologicalStudyOfTheFishesOf_18698]]
 
 ## Longitudinal Zonation
 <!-- fm: auto_enriched: true -->
@@ -23510,10 +24067,14 @@ Longitudinal succession is the idea that fish and invertebrate assemblages chang
 > A qualitative survey by the [[California Department of Fish and Game]] (CDFG), Inland Fisheries Division, measured the distribution of the endangered [[Desert Pupfish]] (*Cyprinodon macularius*) in non-refuge habitats around the [[Salton Sea]] during April, May and June 1991. Baited [[Minnow Trap]]...
 > -- *[[ADistributionSurveyOfDesertPup_20197]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[SurvivalOfSomeFishesRecentlyIn_19099]]
 - [[InvestigationsOfCommercialFish_18562]]
 - [[ADistributionSurveyOfDesertPup_20197]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## Longnose Dace
 <!-- fm: auto_enriched: true -->
@@ -23546,6 +24107,9 @@ The Longnose Dace (*Rhinichthys cataractae*) is a small cyprinid minnow commonly
 > This 1948 reprint from *Michigan Conservation* (by C. Troy Yoder, [[Institute for Fisheries Research]], [[Michigan Department Of Conservation]]) describes a legalized method for harvesting bait minnows from designated trout streams using [[Glass Minnow Traps]]. A shortage of bait minnows for...
 > -- *[[UseOfGlassMinnowTrapsInTroutSt_20888]]*
 
+> This 1976 Bureau of Reclamation report (GR-2-77, by J.F. LaBounty, J.J. Sartoris and R.A. Roline) presents a baseline limnological survey of [[Seminoe Reservoir]], a mainstream [[North Platte River]] impoundment in south-central Wyoming. Field work took place August 31 to September 3, 1976, at five...
+> -- *[[LimnologicalReconnaissanceOfSe_12640]]*
+
 ### Mentioned In
 - [[BreedingBiologyOfTheLakeChubCo_1970]]
 - [[FishesOfTheHeadwatersOfShavers_11342]]
@@ -23557,6 +24121,7 @@ The Longnose Dace (*Rhinichthys cataractae*) is a small cyprinid minnow commonly
 - [[SiteAndLandscapescaleEstimates_2026]]
 - [[LakeAndReservoirInvestigations_12145]]
 - [[UseOfGlassMinnowTrapsInTroutSt_20888]]
+- [[LimnologicalReconnaissanceOfSe_12640]]
 
 ## Longnose Darter
 <!-- fm: auto_enriched: true -->
@@ -23626,6 +24191,9 @@ Longnose Gar (*Lepisosteus longirostus*) is a primitive freshwater fish species 
 > This 1967 Master of Science thesis, published as Oklahoma Fishery Research Laboratory Bulletin No. 6, examines the life history, distribution, and forage value of the [[Mississippi Silverside]] (*[[Menidia Audens]]*) in [[Lake Texoma]]. Fieldwork ran from June 1965 through August 1966, centered on...
 > -- *[[EcologyOfTheMississippiSilvers_20121]]*
 
+> This Oklahoma Game and Fish Department booklet, written by H. C. Ward with illustrations by Wallace Hughes and edited by Juanita Mahaffey, is an educational field guide to the state's freshwater fishes. It covers 16 of the 23 known fish families and about one-third of the more than 150 species...
+> -- *[[KnowYourOklahomaFishes_14870]]*
+
 ### Mentioned In
 - [[AgesAndSizesOfFlatheadCatfishF_1956]]
 - [[DynamicsOfMsInTheBloodAndBrain_14518]]
@@ -23648,6 +24216,7 @@ Longnose Gar (*Lepisosteus longirostus*) is a primitive freshwater fish species 
 - [[ProminentFishesOfWestVirginia_13090]]
 - [[ResiduesOfOrganochlorineInsect_18815]]
 - [[EcologyOfTheMississippiSilvers_20121]]
+- [[KnowYourOklahomaFishes_14870]]
 
 ## Longnose Killifish
 <!-- fm: auto_enriched: true -->
@@ -23705,6 +24274,9 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 > This Water Resources Series report (No. 50, April 1974, by William R. Good) is a thesis-based study of how a [[Benthic Invertebrate]] community in a high mountain stream responds to the [[Snowmelt Runoff]]. The study covered a 1 km reach of [[Nash Fork Creek]] in the [[Snowy Range]], Wyoming, with...
 > -- *[[SomeEffectsOfSpringSnowmeltRun_11294]]*
 
+> This 1976 Bureau of Reclamation report (GR-2-77, by J.F. LaBounty, J.J. Sartoris and R.A. Roline) presents a baseline limnological survey of [[Seminoe Reservoir]], a mainstream [[North Platte River]] impoundment in south-central Wyoming. Field work took place August 31 to September 3, 1976, at five...
+> -- *[[LimnologicalReconnaissanceOfSe_12640]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
@@ -23719,6 +24291,7 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 - [[EcologyOfCatostomidsInTwinLake_12424]]
 - [[MovementsOfLakeTroutInTwinLake_14420]]
 - [[SomeEffectsOfSpringSnowmeltRun_11294]]
+- [[LimnologicalReconnaissanceOfSe_12640]]
 
 ## Longnosed Dace
 <!-- fm: auto_enriched: true -->
@@ -23741,6 +24314,18 @@ The Longnose Sucker (Catostomus catostomus) is a benthic cyprinid fish species c
 
 ### Mentioned In
 - [[ThunnusSouthPiscesProposedVali_17128]]
+
+## Longview Washington
+
+### Summary
+Longview, Washington is the home of the Salmon-Cultural Laboratory, where the report's authors worked. The stamina tunnel research described in the source was conducted from this base.
+
+### Context
+> This 1964 research report from the [[Bureau of Sport Fisheries and Wildlife]] describes a [[Stamina Tunnel]], a closed-circuit water tunnel built to measure the physical stamina of hatchery-reared salmonid fingerlings. The authors, based at the [[Salmon-Cultural Laboratory]] in [[Longview...
+> -- *[[ADeviceForStaminaMeasurementOf_13573]]*
+
+### Mentioned In
+- [[ADeviceForStaminaMeasurementOf_13573]]
 
 ## Longview, Washington
 
@@ -23893,6 +24478,18 @@ Lord Howe Island is the location where Lernaeolophus sultanus, one of only two l
 
 ### Mentioned In
 - [[VertebralAnomaliesInHumpbacked_1968_07_19]]
+
+## Lordsburg Mesa
+
+### Summary
+Lordsburg Mesa is an adjacent land area included in the report's scope alongside the Gila and San Francisco river areas. The source lists it as part of the study's coverage but gives no detailed findings for it.
+
+### Context
+> This January 1963 Bureau of Reclamation memorandum report, prepared by the Region 3 office in [[Boulder City, Nevada]], gives a preliminary reconnaissance of the water resource potential of the [[Upper Gila River Basin]] in New Mexico. It excludes the Upper San Simon Valley. The study inventories...
+> -- *[[UpperGilaRiverInvestigationsNe_11521]]*
+
+### Mentioned In
+- [[UpperGilaRiverInvestigationsNe_11521]]
 
 ## Lorenzo Navas
 
@@ -24072,6 +24669,18 @@ Los Fresnos is a laguna approximately 25 meters in diameter located about 1 km n
 
 ### Mentioned In
 - [[AlonzoRiosContreras_20775]]
+
+## Los Tuxtlas
+
+### Summary
+A region in Veracruz, Mexico, where UNAM held a very small protected area that it intended to enlarge. Gomez Pompa described it as the last zone of high perennial rainforest in the northern range of the American tropics.
+
+### Context
+> This document is a 1970 exchange of letters between American ichthyologist [[Robert R. Miller]] and Mexican botanist [[Arturo Gomez Pompa]] of the [[Universidad Nacional Autónoma de México]] (UNAM). Miller writes to urge protection of two Mexican aquatic sites of high biological value: the [[Cuatro...
+> -- *[[InterestInConservationInLatinA_15353]]*
+
+### Mentioned In
+- [[InterestInConservationInLatinA_15353]]
 
 ## Loss Of Equilibrium
 
@@ -24546,10 +25155,14 @@ The Louisiana Red Crayfish (Procambarus clarkii) is cultured in rotation with ri
 > This 1966 magazine feature, reprinted from the *Louisiana Conservationist* and issued as Wild Life Education Bulletin No. 95, describes the rapid growth of commercial catfish farming in Louisiana. The article presents the industry as a profitable alternative to cash crops, with an acre of catfish...
 > -- *[[CatfishByTheAcrea_19153]]*
 
+> This Louisiana Wild Life and Fisheries Commission bulletin (B-875, 1967) by fisheries biologists James T. Davis and Janice S. Hughes is a practical manual for starting a commercial [[Channel Catfish]] farming operation in the state. It draws on nine years of experimentation, with all...
+> -- *[[ChannelCatfishFarmingInLouisia_13972]]*
+
 ### Mentioned In
 - [[AContributionTowardABibliograp_12687]]
 - [[PercyVioscaJr_17835]]
 - [[CatfishByTheAcrea_19153]]
+- [[ChannelCatfishFarmingInLouisia_13972]]
 
 ## Lourdes Juarez
 
@@ -25028,6 +25641,12 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 > This 1995 public update and overview from the [[Bureau Of Reclamation]], Lower Colorado Region, describes a [[Biological Assessment]] of routine operations and maintenance on the mainstem [[Lower Colorado River]]. The assessment is required under [[Section 7 Consultation]] of the [[Endangered...
 > -- *[[LowerColoradoRiverBiologicalAs_13908]]*
 
+> This report by Duncan T. Patten synthesizes the ideas generated at a [[Workshop Symposium]] held on July 8-9, 1998, by the U.S. Fish and Wildlife Service and the Bureau of Reclamation. The document provides background on the heavily regulated [[Lower Colorado River]], discusses concepts of...
+> -- *[[RestorationStrategiesForTheLow_18459]]*
+
+> This study uses allozyme electrophoresis and mitochondrial COI DNA sequences to reconstruct the phylogenetic relationships of the nine [[Tryonia]] springsnail species endemic to the [[Death Valley System]]. Both data sets show that the regional fauna is non-monophyletic. Upper Amargosa basin...
+> -- *[[BiogeographyInTheDeathValleyRe_20354]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AgeAndGrowthAndLengthWeightRel_1983]]
@@ -25138,6 +25757,8 @@ The Lower Colorado River refers to the downstream reach of the Colorado River sy
 - [[AspectsOfJuvenileAndAdultRazor_16214]]
 - [[StudyOfTheLowerColoradoRiverCa_20695]]
 - [[LowerColoradoRiverBiologicalAs_13908]]
+- [[RestorationStrategiesForTheLow_18459]]
+- [[BiogeographyInTheDeathValleyRe_20354]]
 
 ## Lower Colorado River Authority
 <!-- fm: auto_enriched: true -->
@@ -25239,6 +25860,9 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 > This report, by Mark Fredlake, estimates the age and growth of the [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Scale Analysis]] of fish collected from [[Lake Mohave]], a mainstream reservoir in the [[Lower Colorado River Basin]]. Sixty-three fish were captured in November 1975, and scales...
 > -- *[[ReportOnAgeAndGrowthOfXyrauche_18828]]*
 
+> This 1972 proposal, prepared by the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], sets out a generalized master plan for environmental studies of the lower [[Lower Colorado River Basin]] ecosystem. The authors argue that the basin is among the most heavily...
+> -- *[[AGeneralizedMasterPlanOfEnviro_18588]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[BriefingNotesEndangeredFishInC_14950]]
@@ -25289,6 +25913,7 @@ The Lower Colorado River Basin refers to the downstream portion of the Colorado 
 - [[FishesOfHuntersHoleYumaCountyA_15885]]
 - [[PreliminaryReportStagesInTheEm_17844]]
 - [[ReportOnAgeAndGrowthOfXyrauche_18828]]
+- [[AGeneralizedMasterPlanOfEnviro_18588]]
 
 ## Lower Colorado River Basin Fish Conservation
 <!-- fm: auto_enriched: true -->
@@ -25347,6 +25972,9 @@ The Lower Colorado River Basin Management Plan was a proposed management framewo
 > This 1975 final report to the U.S. Fish and Wildlife Service, prepared by [[Eric S. Gustafson]] and [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], Arizona State University, covers the first-year task of a planned five-year life history study of the [[Razorback...
 > -- *[[EarlyDevelopmentAdultSexualDim_17842]]*
 
+> This 1972 proposal, prepared by the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], sets out a generalized master plan for environmental studies of the lower [[Lower Colorado River Basin]] ecosystem. The authors argue that the basin is among the most heavily...
+> -- *[[AGeneralizedMasterPlanOfEnviro_18588]]*
+
 ### Mentioned In
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
 - [[SexualDimorphismInTheAdultRazo_17843]]
@@ -25354,6 +25982,7 @@ The Lower Colorado River Basin Management Plan was a proposed management framewo
 - [[PreliminaryReportStagesInTheEm_17844]]
 - [[AGeneralizedMasterPlanOfEnviro_16071]]
 - [[EarlyDevelopmentAdultSexualDim_17842]]
+- [[AGeneralizedMasterPlanOfEnviro_18588]]
 
 ## Lower Colorado River Basin Research Station
 
@@ -25834,6 +26463,18 @@ The larger of the two Twin Lakes in central Colorado, at about 736.5 ha and roug
 ### Mentioned In
 - [[EffectsOfOperatingTheMtElbertP_12651]]
 
+## Lower Lethal Temperature
+
+### Summary
+The lowest water temperature an organism can survive for a given exposure time. The review uses it to compare cold tolerance across native and nonnative fishes and aquatic taxa in the Colorado River context.
+
+### Context
+> This draft literature review, prepared by Richard A. Lechleitner, compiles published thermal tolerance and requirement data for organisms in the [[Colorado River]] below [[Glen Canyon Dam]]. Its purpose is to assess how a possible shift to warmer outflows, through a [[Multiple Level Intake]] or...
+> -- *[[LiteratureReviewOfTheThermalRe_20221]]*
+
+### Mentioned In
+- [[LiteratureReviewOfTheThermalRe_20221]]
+
 ## Lower Mississippi River
 
 ### Summary
@@ -25845,6 +26486,18 @@ A major river system in the central United States that flows through Southern Lo
 
 ### Mentioned In
 - [[ThePotentialForBigGrassCarpPro_19180]]
+
+## Lower Missouri Region Dive Team
+
+### Summary
+The team of divers from the Bureau of Reclamation's Lower Missouri Region that conducted the Twin Lakes dives. Its members were partly acclimated to high-altitude work.
+
+### Context
+> This Bureau of Reclamation report (REC-ERC-76-15, September 1976) documents qualitative, observational data from SCUBA dives in [[Twin Lakes]], a pair of connected high-altitude glacial lakes in Lake County, Colorado. Three dive series, each about a week long, were made in June and August 1974 and...
+> -- *[[DiveStudiesAtTwinLakesColorado_12646]]*
+
+### Mentioned In
+- [[DiveStudiesAtTwinLakesColorado_12646]]
 
 ## Lower Monumental Dam
 
@@ -26314,6 +26967,18 @@ Lucania parva is a small cyprinodontid (killifish) species that inhabits freshwa
 - [[TheDistributionOfTheOviparousK_16815]]
 - [[TemporalChangesInTheGambusiaHe_15772]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+
+## Luce
+
+### Summary
+Luce (1937) is cited as a source of the hand-stripping method used to produce hybrids, in which eggs and milt are squeezed into fingerbowls or petri dishes. This study adopted that approach for its laboratory crosses.
+
+### Context
+> This Illinois Natural History Survey bulletin (Biological Notes No. 46, November 1961) by [[William F. Childers]] and [[George W. Bennett]] tests whether hybrid sunfish could serve as a stocking fish for small warm-water ponds. The stated problem is overpopulation and stunting in ponds, which makes...
+> -- *[[HybridizationBetweenThreeSpeci_16130]]*
+
+### Mentioned In
+- [[HybridizationBetweenThreeSpeci_16130]]
 
 ## Lucifuga
 <!-- fm: auto_enriched: true -->

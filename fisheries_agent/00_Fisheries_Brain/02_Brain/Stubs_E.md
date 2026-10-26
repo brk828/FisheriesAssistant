@@ -92,6 +92,30 @@ Co-author, with Harry D. Van Meter, of this 1979 Great Lakes Fishery Commission 
 - [[CorrespondenceRegardingBattleA_1989_11_30]]
 - [[FourteenthAnnualSymposiumNovem_1982_08_30]]
 
+## E. R. Cross
+
+### Summary
+The author of the dive tables (Tables A-1 and A-2) that the Twin Lakes team used to build its altitude-adjusted repetitive dive tables. The source gives no further biographical detail.
+
+### Context
+> This Bureau of Reclamation report (REC-ERC-76-15, September 1976) documents qualitative, observational data from SCUBA dives in [[Twin Lakes]], a pair of connected high-altitude glacial lakes in Lake County, Colorado. Three dive series, each about a week long, were made in June and August 1974 and...
+> -- *[[DiveStudiesAtTwinLakesColorado_12646]]*
+
+### Mentioned In
+- [[DiveStudiesAtTwinLakesColorado_12646]]
+
+## E. R. Squibb and Sons
+
+### Summary
+E. R. Squibb and Sons is a pharmaceutical company that donated liver concentrate to the trout nutrition studies. The source reports that its liver fraction was among those that checked the anemia in trout fed a deficient synthetic diet.
+
+### Context
+> This 1940 report from the [[Cortland Hatchery]] summarizes a year of cooperative research by the New York State Conservation Department, the [[United States Fish and Wildlife Service]] and [[Cornell University]]. The work covers nutritional anemia, vitamin A storage, carbohydrate absorption, the...
+> -- *[[TheNutritionOfTroutCortlandHat_11165]]*
+
+### Mentioned In
+- [[TheNutritionOfTroutCortlandHat_11165]]
+
 ## E. W. Bonn
 <!-- fm: auto_enriched: true -->
 
@@ -438,11 +462,15 @@ Eagle Creek Pump Station is a landmark location on Eagle Creek in Greenlee Count
 > This 1954 life history study by J. B. Kimsey of the California Department of Fish and Game examines the [[Tui Chub]] (*Siphateles bicolor*), the most abundant fish in [[Eagle Lake]], Lassen County. The work was launched because the [[Eagle Lake Rainbow Trout]] (*Salmo gairdneri aquilarum*) was near...
 > -- *[[TheLifeHistoryOfTheTuiChubSiph_12529]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[LetterToDADuffOnSalmoAndParasa_1988_03_09]]
 - [[AConservationorientedClassific_15455]]
 - [[ConservationOfNativeFreshwater_15444]]
 - [[TheLifeHistoryOfTheTuiChubSiph_12529]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## Eagle Lake Trout
 <!-- fm: auto_enriched: true -->
@@ -793,6 +821,9 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 > This document comprises field collection records and museum catalog entries from the [[University of Michigan Museum of Zoology]] (UMMZ) spanning 1934-1978, documenting fish fauna of the [[Colorado River]] basin in [[Coconino County]], [[Arizona]]. The records include handwritten field notes,...
 > -- *[[GrandCanyonFieldNotesFromAndVa_15334]]*
 
+> This report, prepared for the [[Coconino National Forest]], uses [[AFLP]] (Amplified Fragment Length Polymorphism) markers to measure genetic diversity and population structure in the federally threatened [[Little Colorado Spinedace]]. Samples came from three natural populations in the Little...
+> -- *[[AnAnalysisOfGeneticVariationIn_19229]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
@@ -808,6 +839,7 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 - [[BiologicalOpinionOfFederalAids_11920]]
 - [[DistributionAbundanceAndHabita_12811]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
+- [[AnAnalysisOfGeneticVariationIn_19229]]
 
 ## East Eagle Creek
 <!-- fm: auto_enriched: true -->
@@ -879,6 +911,18 @@ The East Fork is a tributary of the Gila River in New Mexico that historically s
 - [[FisherySurveyOfTheGilaRiverWit_1995_09_19]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+
+## East Fork of the White River
+
+### Summary
+A tributary of the Salt River in the Gila River Basin of Arizona, rising at Mount Baldy and flowing about 18 miles to its confluence with the North Fork near Fort Apache. The source describes it as supporting Apache Trout, Loach Minnow, and other native fishes, and as used heavily for tribal agricultural irrigation.
+
+### Context
+> This project report documents the redesign and repair of an irrigation diversion at [[Geronimo's Cave]] on the [[East Fork of the White River]], within the [[Fort Apache Indian Reservation]] in Arizona. The work was planned and carried out by the [[White Mountain Apache Tribe]] with the [[Arizona...
+> -- *[[FishPassageProjectGeronimosCav_21113]]*
+
+### Mentioned In
+- [[FishPassageProjectGeronimosCav_21113]]
 
 ## East Fork Spring
 
@@ -1272,6 +1316,9 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 > This Inland Fisheries Administrative Report, by Almo J. Cordone and Stephen Phinney of the [[California Department of Fish and Game]], documents a biological survey of silt pollution in the [[Truckee River]] and [[Cold Creek]], conducted September 2–4, 1958. The survey followed a near-continuous...
 > -- *[[NotesOnSiltPollutionInTheTruck_17588]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -1300,6 +1347,19 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 - [[ProminentFishesOfWestVirginia_13090]]
 - [[TheStoryOfWesternTrout_14677]]
 - [[NotesOnSiltPollutionInTheTruck_17588]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
+
+## Eastern California Shear Zone
+
+### Summary
+A zone of right-lateral strike-slip faulting in eastern California and adjacent areas. The source includes it among the Cenozoic faulting events relevant to the biogeographic history it proposes for Tryonia.
+
+### Context
+> This study tests whether the freshwater snail genus [[Tryonia]] is a natural (monophyletic) group and reconstructs its evolutionary relationships to infer the regional biogeographic history of western North America. The authors sequenced a 603 bp fragment of the mitochondrial [[Cytochrome C Oxidase...
+> -- *[[PhylogeneticRelationshipsWithi_20353]]*
+
+### Mentioned In
+- [[PhylogeneticRelationshipsWithi_20353]]
 
 ## Eastern Central Atlantic
 
@@ -1712,6 +1772,18 @@ An acoustic instrument used to detect and map fish in water. In this source, ech
 ### Mentioned In
 - [[NoteSurDesFormationsDeTufCalca_1951]]
 
+## Eckman Dredge
+
+### Summary
+The Eckman dredge is a bottom sampling device used to collect sediment and organisms from streams and lakes. The authors used it to sample bottom fauna in the 36 streams when conditions allowed, and used hand or bucket sampling on rocky bottoms.
+
+### Context
+> This Alabama Department of Conservation Fisheries Report (Number 2, March 1955), by fisheries biologists [[A. D. Hooper]] and [[J. M. Hester]], assesses the damage to streams in North Alabama caused by agricultural insecticides applied to cotton during the 1950 [[Boll Weevil]] infestation. Heavy...
+> -- *[[AStudyOfThirtysixStreamsThatWe_19907]]*
+
+### Mentioned In
+- [[AStudyOfThirtysixStreamsThatWe_19907]]
+
 ## Eco-Pioneers
 
 ### Summary
@@ -1991,10 +2063,14 @@ The economic evaluation required before the razorback sucker critical habitat ru
 > This is a January 10, 1994 comment letter from the [[Sierra Club Legal Defense Fund]] to the Utah State Supervisor of the [[U.S. Fish and Wildlife Service]] on the proposed rule designating [[Critical Habitat]] for four endangered fishes of the [[Colorado River Basin]]: the [[Bonytail Chub]],...
 > -- *[[ProposedRuleDesignatingCritica_17486]]*
 
+> The [[Fish and Wildlife Service]] (Service) proposed critical habitat for four endangered [[Colorado River Basin]] fishes: [[Razorback Sucker]], [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail Chub]]. The proposal was published in the *Federal Register* on January 29, 1993 (Vol. 58, No....
+> -- *[[EndangeredAndThreatenedWildlif_19334]]*
+
 ### Mentioned In
 - [[ColoradoWildlifeFederationEtAl_19327]]
 - [[ReviewOfSupplementalLetterRepo_13957]]
 - [[ProposedRuleDesignatingCritica_17486]]
+- [[EndangeredAndThreatenedWildlif_19334]]
 
 ## Economic Importance
 
@@ -2511,6 +2587,18 @@ Edgar A. Mearns was a surgeon and naturalist with the United States Army who col
 - [[NotesOnACollectionOfFishesMade_21252]]
 - [[ManAndWildlifeInArizonaIiTheAm_17431]]
 
+## Edgar Anderson
+
+### Summary
+Edgar Anderson was an American botanist known for his work on plant hybridization and variation. In this source he is cited as the originator of the term "hybridized habitat" for the canal environments in Coahuila.
+
+### Context
+> This paper, by Robert R. Miller, argues that [[Hybridization]] between fish species is common in temperate freshwaters, especially in the [[Nearctic Region]], and that human-driven environmental change and species introductions have accelerated it. The author classifies hybrids into three types...
+> -- *[[HybridizationAsAFactorInTheSpe_15346]]*
+
+### Mentioned In
+- [[HybridizationAsAFactorInTheSpe_15346]]
+
 ## Edgar C. Black
 <!-- fm: auto_enriched: true -->
 
@@ -2824,12 +2912,20 @@ R. W. Edwards, co-author of the source, whose 1957 work found larval Chironomus 
 > This U.S. Fish and Wildlife Service recovery plan, prepared by the [[San Marcos Recovery Team]], addresses four federally listed species of the [[San Marcos River Ecosystem]]: the [[San Marcos Gambusia]] (*Gambusia georgei*), the [[Fountain Darter]] (*Etheostoma fonticola*), the [[San Marcos...
 > -- *[[TheSanMarcosRecoveryPlanForSan_15776]]*
 
+> This descriptive limnology study by Quinn E. Respet (Limnology, Bio 426, Spring 1996) examines how ionic and nutrient composition changes along two spring-fed aquatic systems in the [[Cuatro Cienegas Basin]], Coahuila, Mexico: the [[Churince System]] and the [[El Mojarrel System]]. Water chemistry...
+> -- *[[EvolutionOfWaterCompositionInT_16819]]*
+
+> This taxonomic paper by John R. Holsinger (Old Dominion University) describes four new stygobiont (groundwater-dwelling) amphipod crustaceans from south-central and western Texas: [[Artesia Welbourni]] (Artesiidae), [[Holsingerius Smaragdinus]] (Hadziidae), [[Mexiweckelia Hardeni]] (Hadziidae) and...
+> -- *[[FourNewSpeciesOfSubterraneanAm_19888]]*
+
 ### Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[FountainDarterEtheostomaFontic_1993_05_19]]
 - [[TheLarvaOfANewSubterraneanWate_16197]]
 - [[SanMarcosRiver_13312]]
 - [[TheSanMarcosRecoveryPlanForSan_15776]]
+- [[EvolutionOfWaterCompositionInT_16819]]
+- [[FourNewSpeciesOfSubterraneanAm_19888]]
 
 ## Edwards Plateau
 <!-- fm: auto_enriched: true -->
@@ -3016,6 +3112,18 @@ Eels are long, snake-like fishes in the genus Anguilla. The source's Taxonomic I
 
 ### Mentioned In
 - [[BeyondGeneticAndDemographicMan_1991]]
+
+## Effective Contact Time
+
+### Summary
+Effective contact time trials measured how long fish had to be exposed to a given antimycin concentration to be killed. Brief exposures were often sufficient; for example, at 10 ppb a 1-hour exposure was lethal to green sunfish and bluegill, while black bullheads needed 3 to 4 hours at 500 ppb.
+
+### Context
+> This U.S. Bureau of Sport Fisheries and Wildlife report (Berger, Lennon, and Hogan, February 1969) documents laboratory and simulated-field studies of [[Antimycin A]], a teleocidal antibiotic formulated as a piscicide. The work tested liquid and sand formulations against 31 freshwater species...
+> -- *[[LaboratoryStudiesOnAntimycinAA_18193]]*
+
+### Mentioned In
+- [[LaboratoryStudiesOnAntimycinAA_18193]]
 
 ## Effective Habitat Time Series Analysis
 
@@ -3796,6 +3904,18 @@ A locality in California where Deprandus lestes is known. The source treats it a
 - [[AlonzoRiosContreras_20775]]
 - [[SpeocirolanaThermydronisCrusta_1968_10_16]]
 
+## El Mojarrel System
+
+### Summary
+The El Mojarrel System is the second spring-fed system studied in the Cuatro Cienegas Basin, comprising the West Mojarrel high-flow headspring, a short overgrown stream, and the terminal East Mojarrel lagoon. The source notes it is not directly affected by irrigation diversions. Its correlations among water parameters were weaker than in the Churince, which the author attributes to possible subterranean inflows and outflows.
+
+### Context
+> This descriptive limnology study by Quinn E. Respet (Limnology, Bio 426, Spring 1996) examines how ionic and nutrient composition changes along two spring-fed aquatic systems in the [[Cuatro Cienegas Basin]], Coahuila, Mexico: the [[Churince System]] and the [[El Mojarrel System]]. Water chemistry...
+> -- *[[EvolutionOfWaterCompositionInT_16819]]*
+
+### Mentioned In
+- [[EvolutionOfWaterCompositionInT_16819]]
+
 ## El Nino
 
 ### Summary
@@ -4249,6 +4369,18 @@ Electivity curves are a method for expressing habitat preference by comparing ho
 ### Mentioned In
 - [[ElectricEel_1963]]
 
+## Electric Fish Barriers
+
+### Summary
+Electric fish barriers are installed in canals and streams to block the upstream or downstream movement of fish, including exotic species. This source says the barriers are to be kept operating under the Biological Opinion, and it cites a grass carp found above a barrier on the Salt River Project's Arizona Canal as evidence that such barriers can fail.
+
+### Context
+> This document is a July 30, 1994 notice letter from the [[Southwest Center for Biological Diversity]] to the U.S. Secretary of the Interior, the [[Bureau of Reclamation]] (BR) Commissioner and the [[U.S. Fish and Wildlife Service]] (FWS) Director. It alleges that the [[Central Arizona Project]]...
+> -- *[[UsBureauOfReclamationsOngoingI_18968]]*
+
+### Mentioned In
+- [[UsBureauOfReclamationsOngoingI_18968]]
+
 ## Electric Fish Bioassay
 <!-- fm: auto_enriched: true -->
 
@@ -4330,6 +4462,18 @@ A fishing device that uses an electric current to stun fish drawn toward a seine
 - [[ElectrofishingForPopulationSam_18840]]
 - [[HomePoolsAndHomingBehaviorOfSm_20184]]
 
+## Electric Seine Sampling
+
+### Summary
+A quantitative sampling method using an electric seine to collect fish. In this study, one sample covering 507 square yards yielded 750 fishes of 18 species, and the dusky darter made up 2.5 percent of that catch.
+
+### Context
+> This Illinois Natural History Survey Biological Notes report (No. 69, September 1970, by Lawrence M. Page and Philip W. Smith) documents the [[Life History]] of the [[Dusky Darter]] (*Percina sciera*) in the middle [[Embarras River]], Illinois. Over a 2-year study (August 1967 to July 1969) the...
+> -- *[[TheLifeHistoryOfTheDuskyDarter_18378]]*
+
+### Mentioned In
+- [[TheLifeHistoryOfTheDuskyDarter_18378]]
+
 ## Electric Shocker
 
 ### Summary
@@ -4373,6 +4517,18 @@ A proposed method of sea fishing in which an electric current is applied through
 
 ### Mentioned In
 - [[GermanCommercialElectricalFish_19946]]
+
+## Electrical Field Fish Barrier
+
+### Summary
+The electrical field fish barrier is installed at the tunnel outlet and uses three aluminum bands powered through a variable transformer. It holds fish in the tunnel until they tire, so the time at which they leave can be recorded.
+
+### Context
+> This 1964 research report from the [[Bureau of Sport Fisheries and Wildlife]] describes a [[Stamina Tunnel]], a closed-circuit water tunnel built to measure the physical stamina of hatchery-reared salmonid fingerlings. The authors, based at the [[Salmon-Cultural Laboratory]] in [[Longview...
+> -- *[[ADeviceForStaminaMeasurementOf_13573]]*
+
+### Mentioned In
+- [[ADeviceForStaminaMeasurementOf_13573]]
 
 ## Electrical Stunning
 <!-- fm: auto_enriched: true -->
@@ -4419,6 +4575,18 @@ Electrical weir barriers are structures placed across spawning streams that comb
 
 ### Mentioned In
 - [[ElectrofishingConstructionPrac_1978_03_09]]
+
+## Electrode Resistance
+
+### Summary
+Electrode resistance is the opposition an anode or cathode presents to current flow in the water. In this source, larger electrodes have lower resistance, and resistance varies inversely and linearly with conductivity. Shallow-water anode resistance averaged about 160% of deep-water values, and for large two-anode systems the cathode can make up nearly half the total resistance, so enlarging it is recommended.
+
+### Context
+> This Wisconsin Department of Natural Resources Technical Bulletin (No. 31, 1971) develops a field guideline for portable, hand-held direct current (DC) [[Electrofishing]] systems used to capture fish in Wisconsin streams. The authors argue that anode current is a good electrical measure of...
+> -- *[[AGuidelineForPortableDirectCur_18255]]*
+
+### Mentioned In
+- [[AGuidelineForPortableDirectCur_18255]]
 
 ## Electrofishing
 <!-- fm: auto_enriched: true -->
@@ -4547,6 +4715,18 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > This Illinois Natural History Survey Biological Notes publication (No. 73, May 1971) by Philip W. Smith, Alvin C. Lopinot, and William L. Pflieger documents the present distribution of fishes along the [[Upper Mississippi River]]. It was produced as a joint contribution of the [[Upper Mississippi...
 > -- *[[ADistributionalAtlasOfUpperMis_21198]]*
 
+> This Bureau of Reclamation progress report presents preliminary first-year findings from a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal of the [[Central Arizona Project]] that carries Colorado River water from [[Lake Havasu]] toward central Arizona. The study was...
+> -- *[[FisheryInvestigationsProgressR_11557]]*
+
+> This preliminary trip report from [[BIO/WEST Inc.]], prepared for the [[Bureau of Reclamation]] and dated August 5, 1991, documents Trip #7 of a [[Humpback Chub]] study in the [[Grand Canyon]]. The field trip ran from July 9 to July 28, 1991. Crews handled 133 humpback chub, most of them in Reach 1...
+> -- *[[CharacterizationOfTheLifeHisto_13610]]*
+
+> This Wisconsin Department of Natural Resources Technical Bulletin (No. 31, 1971) develops a field guideline for portable, hand-held direct current (DC) [[Electrofishing]] systems used to capture fish in Wisconsin streams. The authors argue that anode current is a good electrical measure of...
+> -- *[[AGuidelineForPortableDirectCur_18255]]*
+
+> This 1992 document packet, issued under the [[Glen Canyon Environmental Studies]] (GCES) program, collects four items: a program update memo from [[Dave Wegner]] to the [[Aquatic Coordination Team]] (ACT), a [[U.S. Fish and Wildlife Service]] (USFWS) report justifying its intensive study sites in...
+> -- *[[GlenCanyonEnvironmentalStudies_19717]]*
+
 ### Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -4597,6 +4777,10 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[TheUseOfIncubationChannelsForT_20297]]
 - [[AccomplishmentsOfTheNativeFish_20978]]
 - [[ADistributionalAtlasOfUpperMis_21198]]
+- [[FisheryInvestigationsProgressR_11557]]
+- [[CharacterizationOfTheLifeHisto_13610]]
+- [[AGuidelineForPortableDirectCur_18255]]
+- [[GlenCanyonEnvironmentalStudies_19717]]
 
 ## Electrofishing Protocol
 
@@ -4631,8 +4815,12 @@ Electrofishing is a sampling method that uses an electric current in the water t
 > This document is a 28-page set of field datasheets from a spring electrofishing survey, labelled "Vernal CREP Electrofishing Survey." Each sheet logs one sampling effort on a river reach. The forms capture location (river, stratum, river mile [[River Mile Index]] start and stop), effort (date,...
 > -- *[[VernalCrfpElectrofishingSurvey_13058]]*
 
+> This project report documents the redesign and repair of an irrigation diversion at [[Geronimo's Cave]] on the [[East Fork of the White River]], within the [[Fort Apache Indian Reservation]] in Arizona. The work was planned and carried out by the [[White Mountain Apache Tribe]] with the [[Arizona...
+> -- *[[FishPassageProjectGeronimosCav_21113]]*
+
 ### Mentioned In
 - [[VernalCrfpElectrofishingSurvey_13058]]
+- [[FishPassageProjectGeronimosCav_21113]]
 
 ## Electrofishing Survey Methods
 <!-- fm: auto_enriched: true -->
@@ -5056,6 +5244,18 @@ The Elf Owl (Athene cunicularia) is a sensitive owl species addressed by the LCR
 - [[LowerColoradoRiverMultispecies_11766]]
 - [[TheGilaRiverValleyInSouthweste_20942]]
 
+## Eli Lilly Company
+
+### Summary
+Eli Lilly Company is a pharmaceutical firm that donated liver concentrate used in the trout feeding trials. The source reports that its liver fraction was tested and checked the anemia in trout deficient in the anti-anemic factor.
+
+### Context
+> This 1940 report from the [[Cortland Hatchery]] summarizes a year of cooperative research by the New York State Conservation Department, the [[United States Fish and Wildlife Service]] and [[Cornell University]]. The work covers nutritional anemia, vitamin A storage, carbohydrate absorption, the...
+> -- *[[TheNutritionOfTroutCortlandHat_11165]]*
+
+### Mentioned In
+- [[TheNutritionOfTroutCortlandHat_11165]]
+
 ## Elimia
 
 ### Summary
@@ -5102,8 +5302,12 @@ Elimia is a genus of freshwater snails living in streams and rivers, primarily i
 > - **Migration corridors**: [[Interstate 17]] was found to bisect established [[Elk]] migration routes near Sedona Road Junction and Munds Park; box culverts were recommended to reduce elk-vehicle collisions and preserve connectivity. - **Bighorn sheep habitat**: The Parker-Topock Highway Project ...
 > -- *[[HighwayCoordination_1966]]*
 
+> This document is USDA Forest Service General Technical Report RM-16 (September 1975) by [[David R. Patton]] and [[Peter F. Ffolliott]]. It is an annotated-by-subject bibliography of 390 references on wildlife and habitat management in Arizona and New Mexico, covering publications from 1913 to early...
+> -- *[[SelectedBibliographyOfWildlife_18466]]*
+
 ### Mentioned In
 - [[HighwayCoordination_1966]]
+- [[SelectedBibliographyOfWildlife_18466]]
 
 ## Elk Creek
 <!-- fm: auto_enriched: true -->
@@ -5510,6 +5714,9 @@ Elmidae, or riffle beetles (Coleoptera), were found at all sampling stations in 
 > This Michigan Department of Conservation Fish Division pamphlet (No. 16, by F. F. Hooper and A. B. Cook, Jr.) summarizes practical guidance on using liquid sodium arsenite to control rooted submerged flowering weeds in ponds and along lake shorelines. It covers target and non-target plants, dosage...
 > -- *[[ChemicalControlOfSubmergedWate_19910]]*
 
+> This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 4, 1955), written by fisheries biologist Jay L. Harmic under [[Federal Aid Projects]] F-1-R-3 and F-1-R-4, is the final booklet in a series of preliminary biological surveys of the state's freshwater fishing...
+> -- *[[DelawareLandAndPondSurvey_20645]]*
+
 ### Mentioned In
 - [[AnEcologicObservatio_1959]]
 - [[WeedControlPossibilitiesInMass_14648]]
@@ -5518,6 +5725,7 @@ Elmidae, or riffle beetles (Coleoptera), were found at all sampling stations in 
 - [[MuskalongemakingMuskies_11361]]
 - [[AnEpidemicOfLeechesOnFishesInR_13584]]
 - [[ChemicalControlOfSubmergedWate_19910]]
+- [[DelawareLandAndPondSurvey_20645]]
 
 ## Elodea Canadensis
 <!-- fm: auto_enriched: true -->
@@ -5695,6 +5903,18 @@ Elves Chasm is a location in Grand Canyon between 131-172 miles below Glen Canyo
 ### Mentioned In
 - [[DamRemovalWhoShouldPay_1999_09_26]]
 - [[DealStruckToRemoveConditDamInW_17768]]
+
+## Embarras River
+
+### Summary
+A tributary of the Wabash River in Illinois, draining about 2,400 square miles over roughly 180 miles. The study site was its middle section near Greenup, where the authors found 14 darter species, with the dusky darter the most abundant.
+
+### Context
+> This Illinois Natural History Survey Biological Notes report (No. 69, September 1970, by Lawrence M. Page and Philip W. Smith) documents the [[Life History]] of the [[Dusky Darter]] (*Percina sciera*) in the middle [[Embarras River]], Illinois. Over a 2-year study (August 1967 to July 1969) the...
+> -- *[[TheLifeHistoryOfTheDuskyDarter_18378]]*
+
+### Mentioned In
+- [[TheLifeHistoryOfTheDuskyDarter_18378]]
 
 ## Embassichthys Bathybius
 <!-- fm: auto_enriched: true -->
@@ -5879,6 +6099,18 @@ The Emerald Shiner (*Notropis atherinoides*) is a small, silvery cyprinid minnow
 - [[FishLarvaeecologicallyDistinct_21240]]
 - [[SystematicsAndVariationOfTheAz_16114]]
 - [[ADistributionalAtlasOfUpperMis_21198]]
+
+## Emerald Sink
+
+### Summary
+A cave on the Stockton Plateau in Val Verde County, Texas, about 91 m deep, with a deep phreatic lake in Cretaceous limestones. The lake supports the cirolanid isopod Speocirolana hardeni, and it is a locality for the new Holsingerius smaragdinus.
+
+### Context
+> This taxonomic paper by John R. Holsinger (Old Dominion University) describes four new stygobiont (groundwater-dwelling) amphipod crustaceans from south-central and western Texas: [[Artesia Welbourni]] (Artesiidae), [[Holsingerius Smaragdinus]] (Hadziidae), [[Mexiweckelia Hardeni]] (Hadziidae) and...
+> -- *[[FourNewSpeciesOfSubterraneanAm_19888]]*
+
+### Mentioned In
+- [[FourNewSpeciesOfSubterraneanAm_19888]]
 
 ## Emerald Spring
 <!-- fm: auto_enriched: true -->
@@ -7612,6 +7844,54 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This document is a 1990 progress report and management/research plan from the [[Native Fish Work Group]] (NFWG), a multiagency task force formed to augment the aging [[Razorback Sucker]] population in [[Lake Mohave]]. The population of about 60,000 adults is old (25 to 45 years) and shows little or...
 > -- *[[AccomplishmentsOfTheNativeFish_20978]]*
 
+> This U.S. Fish and Wildlife Service notice, published in the *Federal Register* on September 19, 1997 (62 FR 49397 et seq.), is an annual update under the [[Endangered Species Act]] of 1973. It lists native U.S. plant and animal taxa that are candidates for listing, or proposed for listing, as...
+> -- *[[EndangeredAndThreatenedSpecies_11687]]*
+
+> This document is a U.S. Fish and Wildlife Service (FWS) biological opinion, dated October 3, 1991, issued under Section 7 of the [[Endangered Species Act]] to the [[U.S. Forest Service]] (USFS). It assesses the proposed [[Quien Sabe Prescribed Burn]], a 4,000-acre controlled burn on the Cave Creek...
+> -- *[[DraftBiologicalOpinionQuienSab_11862]]*
+
+> This November 1985 Environmental Assessment (EA), prepared by the [[U.S. Fish and Wildlife Service]] (Service) in Albuquerque, New Mexico, evaluates management options for the 2,308.9-acre [[San Bernardino National Wildlife Refuge]] (NWR) in Cochise County, Arizona. The refuge was acquired...
+> -- *[[ManagementOfTheSanBernardinoNa_13328]]*
+
+> This paper, by Richard A. Valdez of [[BIO/WEST Inc]], argues that cold hypolimnetic releases from [[Glen Canyon Dam]] currently prevent mainstem spawning by native fishes in the [[Colorado River]] through [[Grand Canyon]]. It proposes that a [[Multi-Level Intake Structure]] (MLIS) allowing warmed...
+> -- *[[PossibleResponsesByTheFishesOf_13624]]*
+
+> This U.S. Fish and Wildlife Service biological opinion (dated November 9, 1990) responds to a U.S. Forest Service request for formal [[Section 7 Consultation]] under the [[Endangered Species Act]] on the proposed introduction of the endangered [[Gila Topminnow]] into eight sites on the [[Tonto...
+> -- *[[GilaTopminnowIntroductionTonto_17278]]*
+
+> This first annual report from the [[Windy-Gap Fishes Study]] covers 1982 field work on endangered fishes of the upper [[Colorado River]] system. The study was run by the [[U.S. Fish and Wildlife Service]] under a cooperative agreement with the Northern Colorado Water Conservancy District. Its aim...
+> -- *[[WindygapFishesStudyFirstAnnual_18483]]*
+
+> This second annual report from the [[Colorado River Fishery Project]] covers 1983 field work on endangered endemic fishes of the Upper [[Colorado River]] Basin. Work was conducted by the U.S. Fish and Wildlife Service under a cooperative agreement with the Northern Colorado Water Conservancy...
+> -- *[[SecondAnnualReport_18486]]*
+
+> This document is a July 30, 1994 notice letter from the [[Southwest Center for Biological Diversity]] to the U.S. Secretary of the Interior, the [[Bureau of Reclamation]] (BR) Commissioner and the [[U.S. Fish and Wildlife Service]] (FWS) Director. It alleges that the [[Central Arizona Project]]...
+> -- *[[UsBureauOfReclamationsOngoingI_18968]]*
+
+> This document is a September 3, 1994 public comment letter from the [[Southwest Center for Biological Diversity]] (SWCBD) to the U.S. Army Garrison at [[Fort Huachuca]], Arizona. It responds to the Federal Register notice of May 19, 1994 announcing a [[Programmatic Draft Environmental Impact...
+> -- *[[CommentsOnTheProgrammaticDraft_18969]]*
+
+> The [[Fish and Wildlife Service]] (Service) proposed critical habitat for four endangered [[Colorado River Basin]] fishes: [[Razorback Sucker]], [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail Chub]]. The proposal was published in the *Federal Register* on January 29, 1993 (Vol. 58, No....
+> -- *[[EndangeredAndThreatenedWildlif_19334]]*
+
+> This document is a U.S. Fish and Wildlife Service (FWS) memorandum transmitting the summary of the April 6-7, 1989, [[Management Group]] meeting of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The attachments include a [[Technical Group]] meeting...
+> -- *[[AprilManagementGroupMeetingSum_21010]]*
+
+> This document is a 1989 file of correspondence, meeting summaries, agendas, work plan tables and proposals for the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover endangered big-river fishes. The fishes named are [[Colorado Pikeminnow]], [[Razorback Sucker]], [[Humpback...
+> -- *[[JulyDraftManagmentGroupMetingS_21013]]*
+
+> This document set, circulated in August 1989 ahead of the [[Implementation Committee]] meeting of August 30, 1989, concerns the consultation process under [[Section 7 Consultation]] of the [[Endangered Species Act]] for water development projects in the Upper Colorado River Basin. It contains draft...
+> -- *[[ReviewMaterialaugustImplementa_21015]]*
+
+> This document is a compilation of program materials from the [[Fish and Wildlife Service]] (FWS) and the [[Recovery Implementation Program]] for endangered fishes of the Upper Colorado River Basin. It includes a September 5, 1989 Management Group meeting memorandum, a list of barriers to protecting...
+> -- *[[ManagementGroupMeeting_21018]]*
+
+> This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
+> -- *[[ColoradoRiverEndangeredFishRec_21021]]*
+
+> This Defenders of Wildlife report (May 1985) assesses how the Reagan administration and Congress implemented the [[Endangered Species Act]] (ESA) during 1984. It is the first annual report in a series that follows a ten-year analysis published in 1984. It covers three areas: budget and funding,...
+> -- *[[ImplementationOfTheUsEndangere_21133]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -8134,6 +8414,22 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[BonytailChubRevisedRecoveryPla_17174]]
 - [[ProposedRuleDesignatingCritica_17486]]
 - [[AccomplishmentsOfTheNativeFish_20978]]
+- [[EndangeredAndThreatenedSpecies_11687]]
+- [[DraftBiologicalOpinionQuienSab_11862]]
+- [[ManagementOfTheSanBernardinoNa_13328]]
+- [[PossibleResponsesByTheFishesOf_13624]]
+- [[GilaTopminnowIntroductionTonto_17278]]
+- [[WindygapFishesStudyFirstAnnual_18483]]
+- [[SecondAnnualReport_18486]]
+- [[UsBureauOfReclamationsOngoingI_18968]]
+- [[CommentsOnTheProgrammaticDraft_18969]]
+- [[EndangeredAndThreatenedWildlif_19334]]
+- [[AprilManagementGroupMeetingSum_21010]]
+- [[JulyDraftManagmentGroupMetingS_21013]]
+- [[ReviewMaterialaugustImplementa_21015]]
+- [[ManagementGroupMeeting_21018]]
+- [[ColoradoRiverEndangeredFishRec_21021]]
+- [[ImplementationOfTheUsEndangere_21133]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
@@ -8266,6 +8562,9 @@ The Endangered Species Act of 1973 is a landmark federal legislation that provid
 > This correspondence set, dated September to December 1983 with a related Arizona Department of Health Services resolution (Handout #6-b-84), documents how recurrent [[Mine Tailings Release]]s from the [[ASARCO]] [[Silver Bell Mine]] eliminated the [[Gila Topminnow]] population in [[Cocio Wash]]....
 > -- *[[CocioWashEliminationOfTopminno_19838]]*
 
+> This 1979 special section, prepared by the [[American Fisheries Society]] (AFS) [[Endangered Species Committee]] (authors James E. Deacon, Gail Kobetich, James D. Williams, and Salvador Contreras), presents a revised status list of North American freshwater fishes. After three years of work, the...
+> -- *[[FishesOfNorthAmericaEndangered_12741]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[CorrespondenceRegardingExperim_1986_07_25]]
@@ -8289,6 +8588,7 @@ The Endangered Species Act of 1973 is a landmark federal legislation that provid
 - [[FaunaFarewellLegacyOfEnvironme_12623]]
 - [[EndemicFishesOfTheColoradoRive_17181]]
 - [[CocioWashEliminationOfTopminno_19838]]
+- [[FishesOfNorthAmericaEndangered_12741]]
 
 ## Endangered Species Act Permitting
 <!-- fm: auto_enriched: true -->
@@ -8392,8 +8692,16 @@ Section 7 Consultation under the Endangered Species Act is a mandatory interagen
 > Miller held significant leadership roles shaping fish conservation policy and taxonomy, including: - Chairman, Freshwater Fish Group, [[IUCN]] (1965–1979) - Chairman, [[Endangered Species Committee]], American Fisheries Society (1969–1971) - Chairman, [[Desert Fishes Council]] (1974–1976) - Ichth...
 > -- *[[CurriculumVitaeOfRobertRushMil_15383]]*
 
+> This 1979 special section, prepared by the [[American Fisheries Society]] (AFS) [[Endangered Species Committee]] (authors James E. Deacon, Gail Kobetich, James D. Williams, and Salvador Contreras), presents a revised status list of North American freshwater fishes. After three years of work, the...
+> -- *[[FishesOfNorthAmericaEndangered_12741]]*
+
+> This document is a July 30, 1994 notice letter from the [[Southwest Center for Biological Diversity]] to the U.S. Secretary of the Interior, the [[Bureau of Reclamation]] (BR) Commissioner and the [[U.S. Fish and Wildlife Service]] (FWS) Director. It alleges that the [[Central Arizona Project]]...
+> -- *[[UsBureauOfReclamationsOngoingI_18968]]*
+
 ### Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
+- [[FishesOfNorthAmericaEndangered_12741]]
+- [[UsBureauOfReclamationsOngoingI_18968]]
 
 ## Endangered Species Conservation
 <!-- fm: auto_enriched: true -->
@@ -8827,9 +9135,13 @@ The Endangered Yuma Clapper Rail is a Federally-listed wetland species targeted 
 > **Taxonomic & Life-History Summary:** This study revises the [[Redeye Bass]] (*Micropterus coosae*) species complex, originally described by Hubbs and Bailey (1940) from the Mobile River basin, Chattahoochee, and Savannah rivers. Examination of morphological variation and mitochondrial DNA (ND2...
 > -- *[[DiversityWithinTheRedeyeBassMi_2013]]*
 
+> This planning document from the [[U.S. Fish and Wildlife Service]] sets out the long-range objectives, management direction and public-use program for [[Ash Meadows National Wildlife Refuge]], established in 1984 primarily to conserve threatened and endangered species. The plan is explicitly...
+> -- *[[APlanForTheFutureAshMeadowsNat_11626]]*
+
 ### Mentioned In
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[DiversityWithinTheRedeyeBassMi_2013]]
+- [[APlanForTheFutureAshMeadowsNat_11626]]
 
 ## Endemic Species Committees
 
@@ -8973,6 +9285,9 @@ Endrin is a highly toxic organochlorine insecticide that poses severe risks to f
 > This 1963 article by [[Denzel E. Ferguson]], Associate Professor of Zoology at [[Mississippi State University]], reports laboratory and field evidence that vertebrates can develop [[Pesticide Resistance]] within roughly 20 years of heavy insecticide use. Work on [[Cricket Frog]] and [[Mosquito...
 > -- *[[InLessThanYearsMississippiDelt_16337]]*
 
+> This 1960s-era conference paper by [[Denzel E. Ferguson]] (Department of Zoology, Mississippi State University) reviews evidence that insecticide resistance in natural fish populations is a serious ecological hazard rather than a benign curiosity. Resistance was first documented in [[Mosquitofish]]...
+> -- *[[TheEcologicalConsequencesOfPes_16336]]*
+
 ### Mentioned In
 - [[DisappearanceOfEndrinFromFishA_12936]]
 - [[DynamicsOfEndrinUptakeAndRelea_16344]]
@@ -8982,6 +9297,7 @@ Endrin is a highly toxic organochlorine insecticide that poses severe risks to f
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[ResiduesOfOrganochlorineInsect_18815]]
 - [[InLessThanYearsMississippiDelt_16337]]
+- [[TheEcologicalConsequencesOfPes_16336]]
 
 ## Endrin Toxicity
 <!-- fm: auto_enriched: true -->
@@ -9541,10 +9857,18 @@ The drawing of fish, especially small ones, through an intake and into the cooli
 > This Fish and Wildlife Service topical brief (FWS/OBS-76/204, March 1977), written by John Boreman of the [[Biological Services Program]]'s National Power Plant Team, describes how the velocity of water drawn into power plant cooling intakes drives the death of fish and other aquatic organisms...
 > -- *[[ImpactsOfPowerPlantIntakeVeloc_11537]]*
 
+> This Bureau of Reclamation progress report presents preliminary first-year findings from a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal of the [[Central Arizona Project]] that carries Colorado River water from [[Lake Havasu]] toward central Arizona. The study was...
+> -- *[[FisheryInvestigationsProgressR_11557]]*
+
+> This peer review, dated 24 November 1991 and written by Dr. William J. Matthews of the [[University of Oklahoma Biological Station]], evaluates the [[Glen Canyon Environmental Studies]] (GCES) endangered species projects on the federally endangered [[Humpback Chub]] (*Gila cypha*). The review...
+> -- *[[ReviewOfGlenCanyonEnvironmenta_15187]]*
+
 ### Mentioned In
 - [[FishProtectiveDevicesACompilat_11796]]
 - [[TheEndangeredSpeciesActNewWeap_19657]]
 - [[ImpactsOfPowerPlantIntakeVeloc_11537]]
+- [[FisheryInvestigationsProgressR_11557]]
+- [[ReviewOfGlenCanyonEnvironmenta_15187]]
 
 ## Entrainment (Fish Mortality)
 <!-- fm: auto_enriched: true -->
@@ -9810,6 +10134,18 @@ A federal policy concept requiring agencies to avoid disproportionate adverse ef
 
 ### Mentioned In
 - [[ResignationLetterDesertFishesR_1990_05_04]]
+
+## Environmental Planning
+
+### Summary
+In this source, environmental planning is referred to only as the process the early-notice listing review is meant to inform. The notice says that flagging potential listings lets planners reduce threats and possibly avoid the need to list taxa at all. The source does not describe any specific planning program in detail.
+
+### Context
+> This U.S. Fish and Wildlife Service notice, published in the *Federal Register* on September 19, 1997 (62 FR 49397 et seq.), is an annual update under the [[Endangered Species Act]] of 1973. It lists native U.S. plant and animal taxa that are candidates for listing, or proposed for listing, as...
+> -- *[[EndangeredAndThreatenedSpecies_11687]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedSpecies_11687]]
 
 ## Environmental Protection Agency
 <!-- fm: auto_enriched: true -->
@@ -10175,6 +10511,9 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > This 1956 study in *Hilgardia* (Needham and Usinger, University of California) measured the normal variability of benthic macroinvertebrates in one uniform riffle on [[Prosser Creek]], Nevada County, California. One hundred bottom samples were collected with the [[Surber Sampler]] in a [[Latin...
 > -- *[[VariabilityInTheMacrofaunaOfAS_19613]]*
 
+> This 1966 Bureau of Sport Fisheries and Wildlife Technical Paper (Technical Paper 5), by Danny M. Regan of the [[Colorado Cooperative Fishery Unit]], reports field and laboratory work on [[Gila Trout]] (*[[Salmo Gilae]]*) in a 2.5-mile section of [[Main Diamond Creek]] in New Mexico. Fieldwork ran...
+> -- *[[EcologyOfGilaTroutInMainDiamon_16799]]*
+
 ### Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -10202,6 +10541,7 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[AnEcologicalInvestigationOfStr_11870]]
 - [[ImpactOfTheDesertPupfishCyprin_14858]]
 - [[VariabilityInTheMacrofaunaOfAS_19613]]
+- [[EcologyOfGilaTroutInMainDiamon_16799]]
 
 ## Ephippium
 <!-- fm: auto_enriched: true -->
@@ -11387,6 +11727,18 @@ Escherichia coli is a bacterial species that reduces nitrate to nitrite and then
 
 ### Mentioned In
 - [[ResponsesOfFishPopulationsInTh_1983]]
+
+## Eschmeyer et al. 1998
+
+### Summary
+Eschmeyer et al. (1998) considered the change of the subspecies epithet to yarrowi 'perhaps unjustified', but accepted yarrowi as the valid name. The source cites them as a key reference on the subspecies' nomenclature.
+
+### Context
+> This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
+> -- *[[DistributionStatusAndNotesOnTh_18709]]*
+
+### Mentioned In
+- [[DistributionStatusAndNotesOnTh_18709]]
 
 ## Escobedo
 
@@ -13338,9 +13690,13 @@ Eulachon (Thaleichthys pacificus) is an anadromous fish species found in the Kla
 > This document is a 1929 taxonomic check-list of freshwater fishes recorded in [[Oregon]] and [[Washington]] and adjacent regions. It was compiled by [[Leonard P. Schultz]] from published literature, supplemented by a few unpublished records of introduced species observed by D. R. Crawford and the...
 > -- *[[ChecklistOfTheFreshwaterFishes_20621]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[AConservationorientedClassific_15455]]
 - [[ChecklistOfTheFreshwaterFishes_20621]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## Eulo Supergroup
 
@@ -13861,6 +14217,15 @@ Eutrophication is the process of nutrient enrichment (particularly nitrogen and 
 > This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
 > -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
 
+> This Ontario Department of Lands and Forests Research Information Paper (Fisheries) No. 37 (February 1970, by W. J. Christie) reviews two native Japanese Pacific salmons, the [[Cherry Salmon]] (*Oncorhynchus masou*) and the [[Redspot Salmon]] (*O. rhodurus*), as candidates for introduction into the...
+> -- *[[AReviewOfTheJapaneseSalmons_16151]]*
+
+> This master's thesis in [[Fishery Biology]] tested whether living organisms could remove dissolved [[Ortho-Phosphate]] from water, with the goal of controlling [[Eutrophication]] in [[Wastewater Reclamation|reclaimed wastewater]] intended for recreational fisheries. Several candidates were...
+> -- *[[BiologicalRemovalOfPhosphatesF_19273]]*
+
+> This USDA Forest Service research paper (INT-168, June 1975) by Gordon G. Snyder, Harold F. Haupt, and George H. Belt, Jr. evaluates how [[Clearcutting]] and [[Slash Burning]] change stream water chemistry in the [[Cedar-Hemlock-Grand Fir Ecosystem]] of northern Idaho. Three clearcut-burned units...
+> -- *[[ClearcuttingAndBurningSlashAlt_21245]]*
+
 ### Mentioned In
 - [[AcclimationOfRainbowTroutToHig_15535]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -13890,6 +14255,9 @@ Eutrophication is the process of nutrient enrichment (particularly nitrogen and 
 - [[PartialBibliographyOfInterestT_18238]]
 - [[ConceptualOutlineEcosystemCons_18705]]
 - [[GameFishStreamsAndRecordsOfFis_21088]]
+- [[AReviewOfTheJapaneseSalmons_16151]]
+- [[BiologicalRemovalOfPhosphatesF_19273]]
+- [[ClearcuttingAndBurningSlashAlt_21245]]
 
 ## Evans & Noble 1979
 <!-- fm: auto_enriched: true -->
@@ -13922,6 +14290,18 @@ Evans 1948 is a cited method for preparing fish specimens by clearing and staini
 
 ### Mentioned In
 - [[CommentsOnAssessmentOfAForageF_1990_04_06]]
+
+## Evaporation
+
+### Summary
+Evaporation is the process by which water leaves a surface as vapor, here strongly enhanced by the dry desert climate and strong afternoon winds. In this study the author identifies it as the main driver of chemical change, removing water and concentrating ions as flow moves downstream toward terminal lagunas. The Rio Churince's length and width make it especially susceptible to this effect.
+
+### Context
+> This descriptive limnology study by Quinn E. Respet (Limnology, Bio 426, Spring 1996) examines how ionic and nutrient composition changes along two spring-fed aquatic systems in the [[Cuatro Cienegas Basin]], Coahuila, Mexico: the [[Churince System]] and the [[El Mojarrel System]]. Water chemistry...
+> -- *[[EvolutionOfWaterCompositionInT_16819]]*
+
+### Mentioned In
+- [[EvolutionOfWaterCompositionInT_16819]]
 
 ## Evaporative Heat Exchange
 <!-- fm: auto_enriched: true -->
@@ -14112,6 +14492,18 @@ An earlier source cited by the authors for the transplant history: 12 golden tro
 
 ### Mentioned In
 - [[SalmoRoseiNotAValidSpecies_12861]]
+
+## Evermann and Clark 1921
+
+### Summary
+An earlier checklist of California fishes that the authors judged inadequate. It was less inclusive than this paper, contained errors, and lacked official sanction.
+
+### Context
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
+### Mentioned In
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## Evermann And Clark 1931
 <!-- fm: auto_enriched: true -->
@@ -14342,8 +14734,12 @@ A maritime zone, commonly extending up to 200 miles from a coast, in which a coa
 > This document is the FAO *Strategy for Fisheries Management and Development* (Rome, 1986), endorsed by consensus at the FAO World Conference on Fisheries Management and Development (27 June–6 July 1984). It is a non-binding set of principles and guidelines for governments and international...
 > -- *[[StrategyForFisheriesManagement_18774]]*
 
+> This FAO Fisheries Circular by J.A. Gulland (1983) is a non-specialist guide to why [[Stock Assessment]] is needed and how it is conducted. Its central argument is that assessment advice is essential to fishery administrators, investors and industry at every stage of a fishery's development. The...
+> -- *[[StockAssessmentWhy_17822]]*
+
 ### Mentioned In
 - [[StrategyForFisheriesManagement_18774]]
+- [[StockAssessmentWhy_17822]]
 
 ## Exclusivity
 <!-- fm: auto_enriched: true -->
@@ -14447,6 +14843,18 @@ Exhibit Island is a site in Godbout, Quebec that contains isolated pond systems 
 ### Mentioned In
 - [[OurayWildlifeRefugeNaturalFloo_16476]]
 
+## Eximius Complex
+
+### Summary
+A Cyprinodon species-complex whose courtship, as described in this 1969 dissertation, combines visual displays with tactile stimulation. Its courtship is distinct from the Variegatus and Nevadensis complexes.
+
+### Context
+> This 1969 UCLA doctoral dissertation by Robert Kung-shan Liu compares the courtship, agonistic and reproductive behavior of geographically isolated pupfishes of the genus [[Cyprinodon]]. The study tests whether morphological divergence among allopatric forms implies sufficient genetic divergence to...
+> -- *[[TheComparativeBehaviorOfAllopa_16159]]*
+
+### Mentioned In
+- [[TheComparativeBehaviorOfAllopa_16159]]
+
 ## Exocoetidae
 
 ### Summary
@@ -14548,6 +14956,18 @@ Non-native fish species introduced into a water body outside their natural range
 
 ### Mentioned In
 - [[StatusOfIntroducedWalkingCatfi_17609]]
+
+## Exotic Fish Removal
+
+### Summary
+Exotic fish removal is an action proposed under Alternatives B, C, and D in this draft to clear non-native fishes from Arnett Creek. It is paired with building a fish barrier and reintroducing native fishes above it. The source does not name the exotic fish species targeted or describe removal methods.
+
+### Context
+> This document is a 1994 public-comment letter and attachment package from the [[Tonto National Forest]] (Forest Supervisor Charles R. Bazan). It presents draft management objectives, evaluation criteria, mitigation standards, and five draft alternatives for the Picketpost Mountain/Arnett Creek...
+> -- *[[DraftManagementObjectivesAndDr_15660]]*
+
+### Mentioned In
+- [[DraftManagementObjectivesAndDr_15660]]
 
 ## Exotic Fish Section
 <!-- fm: auto_enriched: true -->
@@ -14845,6 +15265,18 @@ Exploitation is the proportion of a fish population removed by fishing. Northern
 
 ### Mentioned In
 - [[PopulationDynamicsTrophicInter_2003]]
+
+## Exploitation Curve
+
+### Summary
+A curve showing how quickly stocked fish are caught after planting. The source says the Salt River followed the classic catchable pattern, with 57 percent of the 1975 catch in the first 10 days and 77 percent within 20 days, and it recommends planning on 75 percent removal within 20 days.
+
+### Context
+> This Arizona Game and Fish Department supplement evaluates the [[Catchable Trout Program]] in the [[Salt River]] below [[Stewart Mountain Dam]] during 1974 and 1975. About 30,000 [[Rainbow Trout]] were stocked and 100 percent were tagged with [[Flag Tags]] to estimate harvest, angler usage and...
+> -- *[[EvaluationOfTheAndCatchableTro_15816]]*
+
+### Mentioned In
+- [[EvaluationOfTheAndCatchableTro_15816]]
 
 ## Exploitative Competition
 <!-- fm: auto_enriched: true -->

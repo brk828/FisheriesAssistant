@@ -16,6 +16,18 @@ A 1990 genetic study of Florida panthers that identified two stocks: a Big Cypre
 ### Mentioned In
 - [[ReviewOfDraftPolicyProtectionO_11697]]
 
+## O'Donnell and Churchill
+
+### Summary
+O'Donnell and Churchill (1954), a study from Wisconsin, is cited by Reimers on anchor ice effects in streams. They reported extensive scouring of the stream bottom. Reimers notes this as a conflict with findings from Michigan and Montana.
+
+### Context
+> This 1957 study by [[Norman Reimers]] (United States Fish and Wildlife Service, Reno, Nevada) examines why wild and hatchery trout die in large numbers during winter in small, exposed streams. Field work at [[Convict Creek]], California, from April 1952 to June 1956 combined bottom and drift food...
+> -- *[[DescriptionOfANewSpeciesOfLamp_16808]]*
+
+### Mentioned In
+- [[DescriptionOfANewSpeciesOfLamp_16808]]
+
 ## O'Donnell And Churchill (1954)
 <!-- fm: auto_enriched: true -->
 
@@ -190,6 +202,9 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > This 1935 report by M. J. Madsen, Temporary Assistant Biologist for the [[U.S. Bureau of Fisheries]] (Department of Commerce), documents a field survey of the streams and lakes of the [[Coconino National Forest]] in north central Arizona. The survey was conducted from May to August 1934, during a...
 > -- *[[ABiologicalSurveyOfStreamsAndL_19340]]*
 
+> This Arizona Game and Fish Department supplement evaluates the [[Catchable Trout Program]] in the [[Salt River]] below [[Stewart Mountain Dam]] during 1974 and 1975. About 30,000 [[Rainbow Trout]] were stocked and 100 percent were tagged with [[Flag Tags]] to estimate harvest, angler usage and...
+> -- *[[EvaluationOfTheAndCatchableTro_15816]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -207,6 +222,7 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[BlueRiverPoolSamplingGreenleeC_17213]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[ABiologicalSurveyOfStreamsAndL_19340]]
+- [[EvaluationOfTheAndCatchableTro_15816]]
 
 ## Oak Creek Canyon
 
@@ -265,6 +281,18 @@ Oak Ridge is a location in Tennessee that houses the Oak Ridge National Laborato
 - [[GrowthAndMovementOfSmallmouthB_17077]]
 - [[TerrestrialAndFreshwaterRadioe_12564]]
 - [[AnEcologicalSurveyOfTheVertebr_12441]]
+
+## Oak Woodland
+
+### Summary
+A vegetation type that the source names as one of the habitat themes in the bibliography. The note does not give specific findings about it.
+
+### Context
+> This document is USDA Forest Service General Technical Report RM-16 (September 1975) by [[David R. Patton]] and [[Peter F. Ffolliott]]. It is an annotated-by-subject bibliography of 390 references on wildlife and habitat management in Arizona and New Mexico, covering publications from 1913 to early...
+> -- *[[SelectedBibliographyOfWildlife_18466]]*
+
+### Mentioned In
+- [[SelectedBibliographyOfWildlife_18466]]
 
 ## Oasis Valley
 
@@ -782,6 +810,18 @@ The Oden Hatchery is a Michigan trout hatchery whose waste ditches were shocked 
 ### Mentioned In
 - [[TheElectricShockerAndItsUseInM_18901]]
 
+## Odland Reservoir
+
+### Summary
+A 100-acre impoundment with a maximum depth of 16 ft and a muck bottom. It received 5 ppb toxaphene in August 1960, which killed many young-of-the-year bullheads and yellow perch, while adults were not significantly reduced. Bosmina and Cyclops declined but recovered to abundant levels by 362 days.
+
+### Context
+> This 1962 Master of Science thesis by Robert G. Needham, submitted to [[Montana State College]], examines how low concentrations of the piscicide [[Toxaphene]] affect plankton and larger aquatic invertebrates. The work was tied to North Dakota's [[Rough-Fish Removal]] program. Five lakes and...
+> -- *[[EffectsOfToxapheneUponPlankton_19616]]*
+
+### Mentioned In
+- [[EffectsOfToxapheneUponPlankton_19616]]
+
 ## Odocoileus
 
 ### Summary
@@ -1050,6 +1090,18 @@ Office Cove is a backwater rearing site located at Bill Williams River National 
 ### Mentioned In
 - [[LakeMohaveBackwaterrearingFaci_15473]]
 
+## Office of Arid Lands
+
+### Summary
+An information retrieval system that the source says the proposed program plans to collaborate with. The note mentions it only in the context of data management, and gives no further detail about its operations or holdings.
+
+### Context
+> This 1972 proposal, prepared by the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], sets out a generalized master plan for environmental studies of the lower [[Lower Colorado River Basin]] ecosystem. The authors argue that the basin is among the most heavily...
+> -- *[[AGeneralizedMasterPlanOfEnviro_18588]]*
+
+### Mentioned In
+- [[AGeneralizedMasterPlanOfEnviro_18588]]
+
 ## Office of Endangered Species
 
 ### Summary
@@ -1276,6 +1328,9 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This Illinois Natural History Survey Biological Notes publication (No. 73, May 1971) by Philip W. Smith, Alvin C. Lopinot, and William L. Pflieger documents the present distribution of fishes along the [[Upper Mississippi River]]. It was produced as a joint contribution of the [[Upper Mississippi...
 > -- *[[ADistributionalAtlasOfUpperMis_21198]]*
 
+> This 1964 [[U.S. Fish and Wildlife Service]] circular, prepared by Edward C. Kinney of the [[Bureau of Sport Fisheries and Wildlife]], compiles State-reported data on waters in the United States where [[Acid Mine Drainage]] degrades fish and wildlife habitat. The work followed a series of 1963...
+> -- *[[ExtentOfAcidMinePollutionInThe_12548]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -1300,6 +1355,7 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[TheAgeAndGrowthOfCatostomusCom_14581]]
 - [[TheLifeHistoryOfTheStripetailD_18382]]
 - [[ADistributionalAtlasOfUpperMis_21198]]
+- [[ExtentOfAcidMinePollutionInThe_12548]]
 
 ## Ohio River Drainage
 <!-- fm: auto_enriched: true -->
@@ -1662,6 +1718,18 @@ The Oklahoma state body that sponsored the Canton Reservoir study reported here.
 
 ### Mentioned In
 - [[LetterToWLMinckleyOnOklahomaSS_1984_09_12]]
+
+## Oklahoma Fisheries Research Laboratory
+
+### Summary
+The state fisheries research unit that issued this 1954 report on channel catfish age and growth in Oklahoma. The report uses data from 7,717 specimens across 107 waters collected from 1946 to 1954 and includes management recommendations for stocking, thinning, and watershed treatment.
+
+### Context
+> This 1954 report from the [[Oklahoma Fisheries Research Laboratory]] consolidates age and growth data for [[Channel Catfish]] (*Ictalurus punctatus*) across Oklahoma. It draws on 7,717 specimens from 107 bodies of water collected between 1946 and 1954. Growth is calculated from lengths at each...
+> -- *[[GrowthOfChannelCatfishInOklaho_16396]]*
+
+### Mentioned In
+- [[GrowthOfChannelCatfishInOklaho_16396]]
 
 ## Oklahoma Fishery Research Laboratory
 
@@ -2101,6 +2169,12 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 > This Master's thesis investigated the seasonal and longitudinal distribution and abundance of dominant benthic invertebrates in [[Aravaipa Creek]], a [[Sonoran Desert]] stream in Arizona, from April 1975 to April 1976. Eight sampling stations were established representing habitats above, within,...
 > -- *[[DistributionAndAbundanceOfBent_13853]]*
 
+> This 1976 Bureau of Reclamation report (GR-2-77, by J.F. LaBounty, J.J. Sartoris and R.A. Roline) presents a baseline limnological survey of [[Seminoe Reservoir]], a mainstream [[North Platte River]] impoundment in south-central Wyoming. Field work took place August 31 to September 3, 1976, at five...
+> -- *[[LimnologicalReconnaissanceOfSe_12640]]*
+
+> This Alabama Department of Conservation Fisheries Report (Number 2, March 1955), by fisheries biologists [[A. D. Hooper]] and [[J. M. Hester]], assesses the damage to streams in North Alabama caused by agricultural insecticides applied to cotton during the 1950 [[Boll Weevil]] infestation. Heavy...
+> -- *[[AStudyOfThirtysixStreamsThatWe_19907]]*
+
 ### Mentioned In
 - [[OnAnInterestingPhilippineSpeci_1970_05_27]]
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
@@ -2108,6 +2182,8 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[TheEnvironmentalConditionsOfAn_16280]]
 - [[DistributionAndAbundanceOfBent_13853]]
+- [[LimnologicalReconnaissanceOfSe_12640]]
+- [[AStudyOfThirtysixStreamsThatWe_19907]]
 
 ## Oligocottus Maculosus
 <!-- fm: auto_enriched: true -->
@@ -2134,6 +2210,18 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 
 ### Mentioned In
 - [[Eutrophication_1967_05_06]]
+
+## Oligotrophic Conditions
+
+### Summary
+A state of low nutrient supply and low biological productivity in a water body. The source describes the forebay as oligotrophic, with low total phosphorus and probable phosphorus limitation, and it reports sparse phytoplankton, zooplankton and benthos.
+
+### Context
+> This Bureau of Reclamation report presents the preoperational limnological baseline for the [[Mt. Elbert Forebay]], a pumped-storage reservoir north of [[Twin Lakes]], Colorado. Sampling ran from November 1978 through September 1979. The forebay was classed as a cold monomictic impoundment. It was...
+> -- *[[LimnologyOfMtElbertForebay_17710]]*
+
+### Mentioned In
+- [[LimnologyOfMtElbertForebay_17710]]
 
 ## Oligotrophic Lake
 <!-- fm: auto_enriched: true -->
@@ -3536,6 +3624,18 @@ The optical method is the second particle-sizing technique used in the study. It
 - [[FoodHabitsOfLakeTrou_17691]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 
+## Optimum Growth Temperature
+
+### Summary
+The water temperature at which an organism grows fastest or performs best. The review gives such optima for several Colorado River fishes and notes that most data come from populations outside the Colorado Basin.
+
+### Context
+> This draft literature review, prepared by Richard A. Lechleitner, compiles published thermal tolerance and requirement data for organisms in the [[Colorado River]] below [[Glen Canyon Dam]]. Its purpose is to assess how a possible shift to warmer outflows, through a [[Multiple Level Intake]] or...
+> -- *[[LiteratureReviewOfTheThermalRe_20221]]*
+
+### Mentioned In
+- [[LiteratureReviewOfTheThermalRe_20221]]
+
 ## Optioservus
 
 ### Summary
@@ -4896,9 +4996,13 @@ The Orinoco is a major South American river basin to which the Rio Meta system b
 > This taxonomic report by [[Carl H. Eigenmann]] and Homer G. Fisher documents the distribution and collection records of the family [[Gymnotidae]] (electric knifefishes) from Trans-Andean Colombia and Ecuador. The study reports on extensive collections made between 1912-1913 in the [[Magdalena...
 > -- *[[TheGymnotidaeOfTransandeanColo_15808]]*
 
+> This 1967 California Department of Fish and Game administrative report, authored by [[James A. St. Amant]] of Region 5 (Inland Fisheries), assesses whether [[Piranha]] could survive and establish reproducing populations in southern California. It is a literature-based compendium supplemented by...
+> -- *[[SurvivalPotentialOfPiranhaInSo_14693]]*
+
 ### Mentioned In
 - [[ForeignIntroductionsOfNorthAme_15556]]
 - [[TheGymnotidaeOfTransandeanColo_15808]]
+- [[SurvivalPotentialOfPiranhaInSo_14693]]
 
 ## Orinoco River Drainage
 <!-- fm: auto_enriched: true -->
@@ -5136,6 +5240,18 @@ ORSTOM was the French overseas scientific research institute, now known as IRD. 
 
 ### Mentioned In
 - [[AquacultureInFreshWatersAnInde_16307]]
+
+## Ortho-Phosphate
+
+### Summary
+Ortho-phosphate is the dissolved inorganic form of phosphorus that plants and algae can directly take up. According to this source, it forms when polyphosphates from detergents in municipal effluent hydrolyze, and the author used it as the target compound for removal. The source also notes that early survey values for ortho-phosphate carry an undetermined positive bias.
+
+### Context
+> This master's thesis in [[Fishery Biology]] tested whether living organisms could remove dissolved [[Ortho-Phosphate]] from water, with the goal of controlling [[Eutrophication]] in [[Wastewater Reclamation|reclaimed wastewater]] intended for recreational fisheries. Several candidates were...
+> -- *[[BiologicalRemovalOfPhosphatesF_19273]]*
+
+### Mentioned In
+- [[BiologicalRemovalOfPhosphatesF_19273]]
 
 ## Orthocyclops
 <!-- fm: auto_enriched: true -->
@@ -5961,6 +6077,18 @@ Otero Pasture is one of three south pastures in the Dos S Unit that would be man
 ### Mentioned In
 - [[BiologicalOpinionThatAuthoriza_11901]]
 
+## Other Sussex County Ponds
+
+### Summary
+This group consists of Diamond, Wagamons, Betts, Millsboro, Morris, McGinnis, and Moores Lake ponds in Sussex County, Delaware. The survey treated them as a grouped set of waters.
+
+### Context
+> This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 4, 1955), written by fisheries biologist Jay L. Harmic under [[Federal Aid Projects]] F-1-R-3 and F-1-R-4, is the final booklet in a series of preliminary biological surveys of the state's freshwater fishing...
+> -- *[[DelawareLandAndPondSurvey_20645]]*
+
+### Mentioned In
+- [[DelawareLandAndPondSurvey_20645]]
+
 ## Othilia tenuispina
 
 ### Summary
@@ -6450,6 +6578,12 @@ The Ouray Endangered Fish Hatchery is a propagation facility for endangered fish
 > This Eastern Washington University technical report (Final Report, 1991, Part 2) measures [[Thyroxine]] (T4) in developing [[Flannelmouth Sucker]] eggs and larvae from the [[Green River]], Utah. Eggs were collected from wild fish, fertilized, and reared at the [[Ouray National Fish Hatchery]]....
 > -- *[[NotesOnTheDevelopmentAndMeasur_20598]]*
 
+> This U.S. Geological Survey Open-File Report (99-110), prepared with [[Northern Arizona University]], tests whether holding hatchery-reared [[Razorback Sucker]] at the release site for 2 to 3 days before release reduces short-term dispersal. Telemetry trials ran in [[Lake Powell]] and the [[Green...
+> -- *[[ACaseForSiteAcclimationInTheRe_11770]]*
+
+> This study examined the movements, habitat use, and short-term behavioral acclimation of stocked juvenile [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered [[Colorado River]] fish, in [[Lake Powell]] and [[Lake Mohave]] during summer 1997. Juvenile razorbacks are rarely found in the wild,...
+> -- *[[PoststockingDispersalHabitatUs_15474]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyRegardingR_1988_09_20]]
 - [[PropagationAndFacilitiesDevelo_1993]]
@@ -6462,6 +6596,8 @@ The Ouray Endangered Fish Hatchery is a propagation facility for endangered fish
 - [[RecoveryProgramForTheEndangere_11682]]
 - [[RecoveryProgramFromTheEndanger_18333]]
 - [[NotesOnTheDevelopmentAndMeasur_20598]]
+- [[ACaseForSiteAcclimationInTheRe_11770]]
+- [[PoststockingDispersalHabitatUs_15474]]
 
 ## Ouray National Wildlife Refuge
 <!-- fm: auto_enriched: true -->
@@ -6691,6 +6827,18 @@ Places where aquatic macroinvertebrates persist through the dry period, such as 
 ### Mentioned In
 - [[OversummeringStategiesOfMacroi_17739]]
 
+## Over-Wintering Fish
+
+### Summary
+Methods for keeping minnows alive through winter in ponds. The source describes keeping ice clear of snow to admit light for photosynthesis, and applying soot to melt snow and ice. One trial raised dissolved oxygen from 2.4 to over 7 ppm. Golden shiners in particular need a deep pond to over-winter.
+
+### Context
+> This 1948 Minnesota Department of Conservation bulletin, written by aquatic biologist [[John Dobie]], addresses a shortage of bait minnows caused by postwar fishing pressure. It argues that bait dealers should rear their own fish in [[Natural Ponds]] or [[Artificial Ponds]] rather than rely on...
+> -- *[[MinnowPropagation_19045]]*
+
+### Mentioned In
+- [[MinnowPropagation_19045]]
+
 ## Overbank Flooding
 <!-- fm: auto_enriched: true -->
 
@@ -6859,9 +7007,13 @@ The ovipositor is the egg-laying organ of female insects. The paper reports that
 > - The **Lower Basin Recovery Implementation Scientific Workgroup** comprises a small group of academic ichthyologists (e.g., [[James E. Deacon]], [[Paul Marsh]], [[William Matthews]], [[W.L. Minckley]], [[Dave Propst]]) and agency biologists (e.g., [[Owen T. Gorman]], [[C.O. Minckley]], [[Gordon ...
 > -- *[[RosterLowerBasinRecoveryImplem_21095]]*
 
+> This 1992 document packet, issued under the [[Glen Canyon Environmental Studies]] (GCES) program, collects four items: a program update memo from [[Dave Wegner]] to the [[Aquatic Coordination Team]] (ACT), a [[U.S. Fish and Wildlife Service]] (USFWS) report justifying its intensive study sites in...
+> -- *[[GlenCanyonEnvironmentalStudies_19717]]*
+
 ### Mentioned In
 - [[RevisedUsfwsPinetopFaoGeneralS_1991_10_01]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
+- [[GlenCanyonEnvironmentalStudies_19717]]
 
 ## Owens And Edwards 1962
 <!-- fm: auto_enriched: true -->
@@ -7222,8 +7374,12 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 > **Notable Ecological Hotspot — Ash Meadows/Death Valley Region, Nevada-California**: Hosts numerous spring-endemic *Cyprinodon* and *Empetrichthys* taxa ([[Devils Hole Pupfish]], [[Ash Meadows Pupfish]], [[Warm Spring Pupfish]], [[Tecopa Pupfish]], [[Shoshone Pupfish]], [[Owens Valley Pupfish]], ...
 > -- *[[RareAndEndangeredWorldFreshwat_15350]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[RareAndEndangeredWorldFreshwat_15350]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## Owens Valley Refuge
 
@@ -7435,6 +7591,18 @@ The oxygen minimum zone is a region of extremely low dissolved oxygen concentrat
 
 ### Mentioned In
 - [[BathyconchoeciaDeeveyaeAHighly_12629]]
+
+## Oxygen Sag Curve
+
+### Summary
+A profile of dissolved oxygen plotted against distance along a river or estuary, showing a minimum where oxygen demand is greatest. In this paper, half-tide-adjusted samples collapse onto a single smooth sag curve, and quarterly averages were built from 1920 to 1955.
+
+### Context
+> This 1956 conference paper, by Water Pollution Research Laboratory staff, analyses what controls dissolved oxygen (DO) in the [[Thames Estuary]]. Long-term sag-curve data, pollutant loads, tidal mixing theory and oxygen-balance accounting are combined to build a predictive model. The model...
+> -- *[[FactorsAffectingTheConcentrati_16907]]*
+
+### Mentioned In
+- [[FactorsAffectingTheConcentrati_16907]]
 
 ## Oxygen-Deficient Water
 <!-- fm: auto_enriched: true -->

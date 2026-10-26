@@ -963,9 +963,13 @@ Zorach (1972) is cited as the researcher who summarized about 15 years of work o
 > - **[[Desert Pupfish]] (*Cyprinodon macularius*)**: Recovery Plan not commenced; no drafting funds. Hatchery stock derived from 150 individuals collected from the eastern Colorado River delta in 1975 (permit to R.R. Miller, University of Michigan), later supplemented with BOR fish (1978) and a 19...
 > -- *[[MinutesOfTheDesertFishesRecove_16659]]*
 
+> This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
+> -- *[[DistributionStatusAndNotesOnTh_18709]]*
+
 ### Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
 - [[MinutesOfTheDesertFishesRecove_16659]]
+- [[DistributionStatusAndNotesOnTh_18709]]
 
 ## Zuni Migration Legend
 <!-- fm: auto_enriched: true -->
@@ -996,6 +1000,18 @@ The Zuni Mountain Sucker is a freshwater sucker species endemic to the southwest
 - [[FederalCandidateSpeciesOfArizo_11661]]
 - [[FederalCandidateSpeciesOfArizo_11893]]
 - [[ScientificCollectingPermitRene_1994_11_08]]
+
+## Zuni Mountains
+
+### Summary
+The Zuni Mountains are the range in west-central New Mexico where the Rio Nutria and Rio Pescado rise. The source places the headwater streams that hold the sucker populations in this range.
+
+### Context
+> This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
+> -- *[[DistributionStatusAndNotesOnTh_18709]]*
+
+### Mentioned In
+- [[DistributionStatusAndNotesOnTh_18709]]
 
 ## Zuni Mythology
 <!-- fm: auto_enriched: true -->
@@ -1030,10 +1046,14 @@ The Zuni River is a tributary of the Little Colorado River in the southwestern U
 > This report documents a comprehensive survey (May 1990–November 1991) assessing the distribution, abundance, and habitat of the federally threatened [[Little Colorado Spinedace]] (*Lepidomeda vittata*) in the [[Coconino National Forest]] and [[Apache-Sitgreaves National Forest]] along [[East Clear...
 > -- *[[DistributionAbundanceAndHabita_12811]]*
 
+> This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
+> -- *[[DistributionStatusAndNotesOnTh_18709]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[DistributionAbundanceAndHabita_12811]]
+- [[DistributionStatusAndNotesOnTh_18709]]
 
 ## Zwartkops River
 

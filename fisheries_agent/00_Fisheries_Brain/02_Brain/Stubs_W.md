@@ -501,6 +501,9 @@ The Wabash River is a major tributary of the Ohio River in the midwestern United
 > This Illinois Natural History Survey Biological Notes paper (No. 58, 1967) by Marvin E. Braasch and Philip W. Smith presents the first detailed life-history study of the [[Slough Darter]] (*Etheostoma gracile*), the westernmost member of the subgenus *Hololepis*. Fieldwork was conducted in [[Dismal...
 > -- *[[TheLifeHistoryOfTheSloughDarte_12872]]*
 
+> This Illinois Natural History Survey Biological Notes report (No. 69, September 1970, by Lawrence M. Page and Philip W. Smith) documents the [[Life History]] of the [[Dusky Darter]] (*Percina sciera*) in the middle [[Embarras River]], Illinois. Over a 2-year study (August 1967 to July 1969) the...
+> -- *[[TheLifeHistoryOfTheDuskyDarter_18378]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[ExtensionOfTheRangeOfCorbicula_18834]]
@@ -508,6 +511,7 @@ The Wabash River is a major tributary of the Ohio River in the midwestern United
 - [[TheAgeAndGrowthOfTheSilverjawM_14844]]
 - [[AnEpidemicOfLeechesOnFishesInR_13584]]
 - [[TheLifeHistoryOfTheSloughDarte_12872]]
+- [[TheLifeHistoryOfTheDuskyDarter_18378]]
 
 ## Waccamaw Darter
 <!-- fm: auto_enriched: true -->
@@ -1015,6 +1019,18 @@ Walker and Schoettger (1966) are cited as the source of residue measurements sho
 - [[ManuscriptlongevityAndGrowthOf_11310]]
 - [[OutlineAndScheduleForDraftCuiu_14624]]
 
+## Walker Lane Belt
+
+### Summary
+A zone of right-lateral strike-slip faulting in the western United States. The source lists it as part of the Cenozoic tectonic setting that frames its vicariance hypotheses for Tryonia distribution.
+
+### Context
+> This study tests whether the freshwater snail genus [[Tryonia]] is a natural (monophyletic) group and reconstructs its evolutionary relationships to infer the regional biogeographic history of western North America. The authors sequenced a 603 bp fragment of the mitochondrial [[Cytochrome C Oxidase...
+> -- *[[PhylogeneticRelationshipsWithi_20353]]*
+
+### Mentioned In
+- [[PhylogeneticRelationshipsWithi_20353]]
+
 ## Walker Wildlife Area
 
 ### Summary
@@ -1415,6 +1431,24 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This review reconstructs the evolution of spawning behavior in percid fishes, a group that arose as freshwater derivatives of a marine perciform and diversified strongly in North America. The paper recognizes six egg-deposition behaviors (broadcasting, stranding, burying, attaching, clumping and...
 > -- *[[EvolutionOfReproductiveBehavio_18403]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
+> This 1976 Bureau of Reclamation report (GR-2-77, by J.F. LaBounty, J.J. Sartoris and R.A. Roline) presents a baseline limnological survey of [[Seminoe Reservoir]], a mainstream [[North Platte River]] impoundment in south-central Wyoming. Field work took place August 31 to September 3, 1976, at five...
+> -- *[[LimnologicalReconnaissanceOfSe_12640]]*
+
+> This preliminary trip report from [[BIO/WEST Inc.]], prepared for the [[Bureau of Reclamation]] and dated August 5, 1991, documents Trip #7 of a [[Humpback Chub]] study in the [[Grand Canyon]]. The field trip ran from July 9 to July 28, 1991. Crews handled 133 humpback chub, most of them in Reach 1...
+> -- *[[CharacterizationOfTheLifeHisto_13610]]*
+
+> This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
+> -- *[[ObservationsOnTheLimnologicalD_14675]]*
+
+> This U.S. Forest Service Southwest Region publication, Wildlife Habitat Technical Bulletin No. 5 (April 6, 1978), is a systematic checklist of vertebrate species that occur in [[Arizona]] and [[New Mexico]]. Compiled by David R. Patton, it was built to store wildlife data for the 1979 Wildlife...
+> -- *[[VertebrateChecklistForArizonaA_18465]]*
+
+> This draft literature review, prepared by Richard A. Lechleitner, compiles published thermal tolerance and requirement data for organisms in the [[Colorado River]] below [[Glen Canyon Dam]]. Its purpose is to assess how a possible shift to warmer outflows, through a [[Multiple Level Intake]] or...
+> -- *[[LiteratureReviewOfTheThermalRe_20221]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -1540,6 +1574,12 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[GrowthAndSurvivalOfWalleyeStiz_17356]]
 - [[AgeAndGrowthOfTheApacheLakeWal_18185]]
 - [[EvolutionOfReproductiveBehavio_18403]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
+- [[LimnologicalReconnaissanceOfSe_12640]]
+- [[CharacterizationOfTheLifeHisto_13610]]
+- [[ObservationsOnTheLimnologicalD_14675]]
+- [[VertebrateChecklistForArizonaA_18465]]
+- [[LiteratureReviewOfTheThermalRe_20221]]
 
 ## Walleye Growth Comparison
 <!-- fm: auto_enriched: true -->
@@ -1574,6 +1614,18 @@ Walleye pollock is a gadid fish targeted by deep-sea gill nets. In the source, i
 
 ### Mentioned In
 - [[DropletsFromTheSadoMarineBiolo_19899]]
+
+## Walleye Stocking
+
+### Summary
+The introduction of walleye into a water body to establish or supplement a population. This report was a limnological assessment meant to judge whether conditions at Tenkiller Ferry Reservoir would support the walleye introduction planned for spring 1961, and it concluded that no chemical or physical limitation was present.
+
+### Context
+> This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
+> -- *[[ObservationsOnTheLimnologicalD_14675]]*
+
+### Mentioned In
+- [[ObservationsOnTheLimnologicalD_14675]]
 
 ## Walleye Surfperch
 
@@ -1853,10 +1905,18 @@ The Walter Walker Wildlife Area is a location near Grand Junction, Colorado in t
 > This first annual report of the [[Colorado River Fishes Monitoring Project]] (CRFMP), issued January 1983 by the U.S. Fish and Wildlife Service (FWS) and the U.S. Bureau of Reclamation (BR), documents the 1982 field season on three endangered Upper Colorado River fishes: [[Colorado Squawfish]],...
 > -- *[[FirstAnnualReport_18484]]*
 
+> This first annual report from the [[Windy-Gap Fishes Study]] covers 1982 field work on endangered fishes of the upper [[Colorado River]] system. The study was run by the [[U.S. Fish and Wildlife Service]] under a cooperative agreement with the Northern Colorado Water Conservancy District. Its aim...
+> -- *[[WindygapFishesStudyFirstAnnual_18483]]*
+
+> This second annual report from the [[Colorado River Fishery Project]] covers 1983 field work on endangered endemic fishes of the Upper [[Colorado River]] Basin. Work was conducted by the U.S. Fish and Wildlife Service under a cooperative agreement with the Northern Colorado Water Conservancy...
+> -- *[[SecondAnnualReport_18486]]*
+
 ### Mentioned In
 - [[ProposalToListTheRazorbackSuck_14703]]
 - [[ColoradoRiverFisheriesInvestig_18481]]
 - [[FirstAnnualReport_18484]]
+- [[WindygapFishesStudyFirstAnnual_18483]]
+- [[SecondAnnualReport_18486]]
 
 ## Walton County
 
@@ -3017,6 +3077,18 @@ A utility that has regulated Coeur d'Alene Lake's water levels since 1903. The s
 ### Mentioned In
 - [[StationProfileOfTheM_1992]]
 
+## Wastewater Reclamation
+
+### Summary
+Wastewater reclamation is the treatment of municipal effluent so it can be reused, here for recreational fisheries. In this thesis, reclaimed tertiary-treated water is the medium in which phosphate removal is studied. The author recommends it be released only after total phosphate falls below 0.30 mg/L.
+
+### Context
+> This master's thesis in [[Fishery Biology]] tested whether living organisms could remove dissolved [[Ortho-Phosphate]] from water, with the goal of controlling [[Eutrophication]] in [[Wastewater Reclamation|reclaimed wastewater]] intended for recreational fisheries. Several candidates were...
+> -- *[[BiologicalRemovalOfPhosphatesF_19273]]*
+
+### Mentioned In
+- [[BiologicalRemovalOfPhosphatesF_19273]]
+
 ## Wastewater Treatment
 <!-- fm: auto_enriched: true -->
 
@@ -3307,10 +3379,14 @@ A water column sampler is a sampling device used to collect aquatic insects from
 > This Outdoor California article, written by [[Dick Hallock]] of the [[California Department of Fish and Game]] (DFG), describes a radio-tagging study of adult [[Chinook Salmon]] migrating past [[Red Bluff Diversion Dam]] on the upper [[Sacramento River]]. The study asks whether the dam delays or...
 > -- *[[SolvingSacramentoRiverSalmonPr_20979]]*
 
+> This Wisconsin Department of Natural Resources Technical Bulletin (No. 31, 1971) develops a field guideline for portable, hand-held direct current (DC) [[Electrofishing]] systems used to capture fish in Wisconsin streams. The authors argue that anode current is a good electrical measure of...
+> -- *[[AGuidelineForPortableDirectCur_18255]]*
+
 ### Mentioned In
 - [[DevelopmentOfElectricFishShock_1957_05_13]]
 - [[ElectrofishingConstructionPrac_1978_03_09]]
 - [[SolvingSacramentoRiverSalmonPr_20979]]
+- [[AGuidelineForPortableDirectCur_18255]]
 
 ## Water Conservation Areas
 <!-- fm: auto_enriched: true -->
@@ -3329,6 +3405,18 @@ Water crowfoot (*Ranunculus*) is a genus of aquatic plants with rooted or attach
 
 ### Mentioned In
 - [[ChemicalControlOfSubmergedWate_19910]]
+
+## Water Data Acquisition Methods
+
+### Summary
+Standard analytical procedures from the US Bureau of Reclamation's water data acquisition program. The study used them to analyze trace metals (copper, zinc, iron, manganese, lead) and nutrients such as orthophosphate, total phosphorus, TKN, nitrate, nitrite and ammonia in the forebay and Twin Lakes.
+
+### Context
+> This Bureau of Reclamation report presents the preoperational limnological baseline for the [[Mt. Elbert Forebay]], a pumped-storage reservoir north of [[Twin Lakes]], Colorado. Sampling ran from November 1978 through September 1979. The forebay was classed as a cold monomictic impoundment. It was...
+> -- *[[LimnologyOfMtElbertForebay_17710]]*
+
+### Mentioned In
+- [[LimnologyOfMtElbertForebay_17710]]
 
 ## Water Depletion
 <!-- fm: auto_enriched: true -->
@@ -3393,9 +3481,14 @@ Water Fleas are tiny crustaceans that were consumed by Montana Grayling in the e
 ## Water Hardness
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This U.S. Bureau of Sport Fisheries and Wildlife report (Berger, Lennon, and Hogan, February 1969) documents laboratory and simulated-field studies of [[Antimycin A]], a teleocidal antibiotic formulated as a piscicide. The work tested liquid and sand formulations against 31 freshwater species...
+> -- *[[LaboratoryStudiesOnAntimycinAA_18193]]*
+
 ### Mentioned In
 - [[TheSurvivalOfChondrococcusColu_1968_09_27]]
 - [[TheToxicityOfMixturesOfZincAnd_16168]]
+- [[LaboratoryStudiesOnAntimycinAA_18193]]
 
 ## Water Hardness And Metal Toxicity
 <!-- fm: auto_enriched: true -->
@@ -3434,6 +3527,9 @@ Water hyacinth (*Eichhornia crassipes*) is a prolific floating aquatic macrophyt
 > This 1955 completion report, prepared by Don R. Luethy for the [[Florida Game and Fresh Water Fish Commission]], documents the Noxious Vegetation Control Program (Project F-2-D-2). The program targeted [[Water Hyacinth]] and other emergent and marginal aquatic plants that were covering fishing...
 > -- *[[NoxiousVegetationControl_16243]]*
 
+> This Texas Agricultural Extension Service publication, authored by Edwin H. Cooper (Extension Specialist in Wildlife Conservation, Texas A. & M. College System), is a practical manual for building, stocking, fertilizing, fishing and maintaining small [[Farm Pond]]s for family recreation. It covers...
+> -- *[[ImproveYourFarmFishPond_17549]]*
+
 ### Mentioned In
 - [[EffectOfWaterHyacinthsAndFerti_14413]]
 - [[EffectsOfWaterHyacinthsOnFishP_1969]]
@@ -3442,6 +3538,7 @@ Water hyacinth (*Eichhornia crassipes*) is a prolific floating aquatic macrophyt
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[SupplementToTheListOfRefernece_19264]]
 - [[NoxiousVegetationControl_16243]]
+- [[ImproveYourFarmFishPond_17549]]
 
 ## Water Improvement Commission
 
@@ -3569,6 +3666,18 @@ Water Ouzel (Cinclus mexicanus) is a bird species. This report notes that it occ
 ### Mentioned In
 - [[ResourceReportOnAravaipaCanyon_11458]]
 
+## Water PH
+
+### Summary
+pH had the strongest influence on antimycin activity among the water-quality factors tested. Goldfish 96-hour EC99 values rose from 0.20 ppb at pH 5 to 1.10 ppb at pH 8 and 60 ppb at pH 10, and the toxicant degraded faster at high pH.
+
+### Context
+> This U.S. Bureau of Sport Fisheries and Wildlife report (Berger, Lennon, and Hogan, February 1969) documents laboratory and simulated-field studies of [[Antimycin A]], a teleocidal antibiotic formulated as a piscicide. The work tested liquid and sand formulations against 31 freshwater species...
+> -- *[[LaboratoryStudiesOnAntimycinAA_18193]]*
+
+### Mentioned In
+- [[LaboratoryStudiesOnAntimycinAA_18193]]
+
 ## Water Pollution
 <!-- fm: auto_enriched: true -->
 
@@ -3683,6 +3792,9 @@ A Water Pollution Research Laboratory is a specialized facility dedicated to inv
 > This paper, by M. Owens and R. W. Edwards of the [[Water Pollution Research Laboratory]] (Stevenage), studies the oxygen balance of two stretches of the [[River Lark]] in Suffolk, carried out with the Great Ouse River Board. The river was studied before and after the closure of the old [[Bury St...
 > -- *[[SomeOxygenStudiesInTheRiverLar_18366]]*
 
+> D. W. M. Herbert of the [[Water Pollution Research Laboratory]] reviews how waste discharges harm freshwater fish and how that harm can be predicted and controlled. The paper combines a field survey of [[China-Clay Wastes]] in Cornish rivers with laboratory [[Toxicity Testing]] of soluble poisons,...
+> -- *[[FreshwaterFisheriesAndPollutio_16690]]*
+
 ### Mentioned In
 - [[DeterminationOfCarbonateInSoli_14364]]
 - [[PolarographicMeasurementOfTheR_12575]]
@@ -3696,6 +3808,7 @@ A Water Pollution Research Laboratory is a specialized facility dedicated to inv
 - [[TheEffectOfSuspendedMineralSol_16698]]
 - [[AStudyOfSomeFishlessRiversInTh_16697]]
 - [[SomeOxygenStudiesInTheRiverLar_18366]]
+- [[FreshwaterFisheriesAndPollutio_16690]]
 
 ## Water Quality
 <!-- fm: auto_enriched: true -->
@@ -3948,10 +4061,18 @@ Water rights acquisition is a recovery program topic in which the program pursue
 > This memorandum from [[Fish and Wildlife Service]] (FWS) Program Director John Hamill transmits the summary of the July 13-14, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Management Group, held at the FWS Regional Office in Lakewood, Colorado. The meeting approved a...
 > -- *[[JulyManagementGroupMeetingSumm_21014]]*
 
+> This document is a U.S. Fish and Wildlife Service (FWS) memorandum transmitting the summary of the April 6-7, 1989, [[Management Group]] meeting of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The attachments include a [[Technical Group]] meeting...
+> -- *[[AprilManagementGroupMeetingSum_21010]]*
+
+> This document is a compilation of program materials from the [[Fish and Wildlife Service]] (FWS) and the [[Recovery Implementation Program]] for endangered fishes of the Upper Colorado River Basin. It includes a September 5, 1989 Management Group meeting memorandum, a list of barriers to protecting...
+> -- *[[ManagementGroupMeeting_21018]]*
+
 ### Mentioned In
 - [[ColoradoRiverManagementGroupMe_21029]]
 - [[ManagementGroupMeeting_21011]]
 - [[JulyManagementGroupMeetingSumm_21014]]
+- [[AprilManagementGroupMeetingSum_21010]]
+- [[ManagementGroupMeeting_21018]]
 
 ## Water Rights Acquisition Subcommittee
 
@@ -4442,6 +4563,18 @@ Waters of the United States is a regulatory term defining aquatic areas subject 
 ### Mentioned In
 - [[RemoteSensingMappingOfArizonaI_14412]]
 
+## Watershed
+
+### Summary
+The land area that drains surface runoff into a pond, and a key factor in pond design. The source says woodland watersheds reduce runoff by about 50 percent compared with pasture, and cultivated red-clay watersheds produce muddy ponds with poor fishing.
+
+### Context
+> This 1949 extension circular from the [[Alabama Agricultural Experiment Station]] (Alabama Polytechnic Institute, Auburn), written by assistant fish culturist J. M. Lawrence, is a practical construction guide for [[Farm Fish Ponds]] in Alabama. It covers site selection, watershed sizing, subsoil...
+> -- *[[ConstructionOfFarmFishPonds_20201]]*
+
+### Mentioned In
+- [[ConstructionOfFarmFishPonds_20201]]
+
 ## Watershed 11
 
 ### Summary
@@ -4582,6 +4715,18 @@ The Common Watersnake (Natrix sipedon) is a non-poisonous aquatic snake found th
 
 ### Mentioned In
 - [[MichiganFishPredators_12681]]
+
+## Waterweed
+
+### Summary
+Waterweed (Elodea sp.) is a submerged aquatic plant. The report describes it as prominent in the lower lake, where some specimens could not be identified because their roots were buried too deep in glacial flour.
+
+### Context
+> This Bureau of Reclamation report (REC-ERC-76-15, September 1976) documents qualitative, observational data from SCUBA dives in [[Twin Lakes]], a pair of connected high-altitude glacial lakes in Lake County, Colorado. Three dive series, each about a week long, were made in June and August 1974 and...
+> -- *[[DiveStudiesAtTwinLakesColorado_12646]]*
+
+### Mentioned In
+- [[DiveStudiesAtTwinLakesColorado_12646]]
 
 ## Waterweeds
 
@@ -5040,8 +5185,12 @@ A lake management measure the source lists among possible recommendations for in
 > This document is a 1953 demonstration paper by the [[New Jersey Division Of Fish And Game]] describing the methods and principles of fisheries management in New Jersey. It was presented at the Schiffs Scout Reservation, Mendham, New Jersey, on June 19, 1953. The paper argues that fisheries...
 > -- *[[ADemonstrationOfMethodsAndTech_20555]]*
 
+> This 1948 Minnesota Department of Conservation bulletin, written by aquatic biologist [[John Dobie]], addresses a shortage of bait minnows caused by postwar fishing pressure. It argues that bait dealers should rear their own fish in [[Natural Ponds]] or [[Artificial Ponds]] rather than rely on...
+> -- *[[MinnowPropagation_19045]]*
+
 ### Mentioned In
 - [[ADemonstrationOfMethodsAndTech_20555]]
+- [[MinnowPropagation_19045]]
 
 ## Weed Society of America
 
@@ -5141,6 +5290,18 @@ Weir aeration is the increase in dissolved oxygen that occurs as water falls ove
 
 ### Mentioned In
 - [[SomeOxygenStudiesInTheRiverLar_18366]]
+
+## Weir and Cockerham Theta
+
+### Summary
+Weir and Cockerham theta (θ) is a standard estimator of population differentiation based on allele frequencies, where higher values indicate greater genetic divergence. The report calculated θ = 0.5162 across all four populations (jackknife SD 0.0378) and θ = 0.0345 between the Arboretum captive population and Rudd Creek. It also compared its AFLP-based result with an earlier mtDNA-based θ of 0.5542 from Tibbets et al. (1993).
+
+### Context
+> This report, prepared for the [[Coconino National Forest]], uses [[AFLP]] (Amplified Fragment Length Polymorphism) markers to measure genetic diversity and population structure in the federally threatened [[Little Colorado Spinedace]]. Samples came from three natural populations in the Little...
+> -- *[[AnAnalysisOfGeneticVariationIn_19229]]*
+
+### Mentioned In
+- [[AnAnalysisOfGeneticVariationIn_19229]]
 
 ## Weir Barrier
 
@@ -5586,6 +5747,18 @@ Wendell Minckley was a prominent ichthyologist and desert fish biologist whose e
 ### Mentioned In
 - [[TheConservationDilemmaOfNonNat_15856]]
 
+## Wentworth Classification
+
+### Summary
+The Wentworth Classification is a grain-size scale for sediment. The Bio/West plan uses a modified version to classify substrate, ranging from clay and silt (less than 0.06 mm) up to boulder (greater than 256 mm). The classification supports the plan's goal of identifying potential humpback chub spawning substrate.
+
+### Context
+> This 1992 document packet, issued under the [[Glen Canyon Environmental Studies]] (GCES) program, collects four items: a program update memo from [[Dave Wegner]] to the [[Aquatic Coordination Team]] (ACT), a [[U.S. Fish and Wildlife Service]] (USFWS) report justifying its intensive study sites in...
+> -- *[[GlenCanyonEnvironmentalStudies_19717]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19717]]
+
 ## Wentworth Scale
 
 ### Summary
@@ -5802,6 +5975,18 @@ West Fork of Pinto Creek is a stream in the Brushiest Allotment and Superstition
 
 ### Mentioned In
 - [[AgreementRegardingThePopulatio_12215]]
+
+## West Fork Pinto Creek
+
+### Summary
+A perennial stream reach of about half to three-quarters of a mile on the Tonto National Forest near Globe, where longfin dace are abundant. The opinion rated it highly suitable for topminnow stocking, noted a private inholding for sale, and recorded a water temperature of 97° F in August 1989.
+
+### Context
+> This U.S. Fish and Wildlife Service biological opinion (dated November 9, 1990) responds to a U.S. Forest Service request for formal [[Section 7 Consultation]] under the [[Endangered Species Act]] on the proposed introduction of the endangered [[Gila Topminnow]] into eight sites on the [[Tonto...
+> -- *[[GilaTopminnowIntroductionTonto_17278]]*
+
+### Mentioned In
+- [[GilaTopminnowIntroductionTonto_17278]]
 
 ## West Fork San Luis Rey River
 
@@ -6044,8 +6229,12 @@ West Virginia is the state where this pond management research was conducted dur
 > This multi-job completion report documents experimental pond management studies conducted by the West Virginia Conservation Commission during 1955-1956 (Project F-3-R-4). The investigation focused on establishing experimental ponds, conducting creel censuses, sampling fish populations, and testing...
 > -- *[[EstablishmentOfNewOrReclaimedP_12166]]*
 
+> This 1964 [[U.S. Fish and Wildlife Service]] circular, prepared by Edward C. Kinney of the [[Bureau of Sport Fisheries and Wildlife]], compiles State-reported data on waters in the United States where [[Acid Mine Drainage]] degrades fish and wildlife habitat. The work followed a series of 1963...
+> -- *[[ExtentOfAcidMinePollutionInThe_12548]]*
+
 ### Mentioned In
 - [[EstablishmentOfNewOrReclaimedP_12166]]
+- [[ExtentOfAcidMinePollutionInThe_12548]]
 
 ## West Water Canyon
 <!-- fm: auto_enriched: true -->
@@ -6178,6 +6367,12 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 > This item is a bundle of [[National Research Council]] (NRC) correspondence and a supplemental letter report from the [[Glen Canyon Environmental Studies Oversight Committee]], issued to the [[Bureau Of Reclamation]] in 1988. It follows up on the committee's 1987 report, [[River And Dam...
 > -- *[[ReviewOfSupplementalLetterRepo_13957]]*
 
+> This document is a 1989 file of correspondence, meeting summaries, agendas, work plan tables and proposals for the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover endangered big-river fishes. The fishes named are [[Colorado Pikeminnow]], [[Razorback Sucker]], [[Humpback...
+> -- *[[JulyDraftManagmentGroupMetingS_21013]]*
+
+> This document set, circulated in August 1989 ahead of the [[Implementation Committee]] meeting of August 30, 1989, concerns the consultation process under [[Section 7 Consultation]] of the [[Endangered Species Act]] for water development projects in the Upper Colorado River Basin. It contains draft...
+> -- *[[ReviewMaterialaugustImplementa_21015]]*
+
 ### Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[ErrataSheetFyWorkPlanForTheRec_20993]]
@@ -6216,6 +6411,8 @@ The Western Area Power Administration (WAPA) is a federal agency responsible for
 - [[GlenCanyonEnvironmentalStudies_15606]]
 - [[RecoveryProgramFromTheEndanger_18333]]
 - [[ReviewOfSupplementalLetterRepo_13957]]
+- [[JulyDraftManagmentGroupMetingS_21013]]
+- [[ReviewMaterialaugustImplementa_21015]]
 
 ## Western Association Of Fish And Wildlife Agencies
 <!-- fm: auto_enriched: true -->
@@ -6595,6 +6792,12 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This 1965 Master of Science thesis from [[Arizona State University]] (Department of Zoology, by Daniel L. Neel) examines the anatomy, histology, and embryology of the cephalic [[Acustico-Lateralis System]] in the [[Western Mosquitofish]] (*Gambusia affinis affinis*). The fish's open-furrow sensory...
 > -- *[[EmbryonicDevelopmentOfTheSenso_19617]]*
 
+> This memorandum from the [[Arizona Game and Fish Department]] (AGFD) reports a seine-based fish and habitat survey of [[Aravaipa Creek]] conducted December 8–10, 1992. Six stations were sampled: three upstream and three downstream of the [[Aravaipa Canyon Wilderness Area]]. A total of 1,848 fish...
+> -- *[[AravaipaCreekMonitoringData_18221]]*
+
+> This 1993 annual report from the [[U.S. Fish and Wildlife Service]] Arizona Fishery Resources Office describes the first full year of a long-term monitoring program on the [[Bylas Springs]] complex, three small springs in east-central Arizona that hold one of the few remaining natural stocks of the...
+> -- *[[BylasSpringsAndTheEndangeredSo_20267]]*
+
 ### Mentioned In
 - [[ABombsAgainstAmphibians_12845]]
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -6652,6 +6855,8 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[WestTurkeyCreekYaquiChubRestor_17126]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
 - [[EmbryonicDevelopmentOfTheSenso_19617]]
+- [[AravaipaCreekMonitoringData_18221]]
+- [[BylasSpringsAndTheEndangeredSo_20267]]
 
 ## Western New Mexico University
 <!-- fm: auto_enriched: true -->
@@ -7086,6 +7291,9 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 > This Fish and Wildlife Service memorandum (June 1996, FY96) transmits the highlights of a February 29–March 1, 1996 workshop reviewing the [[Gila Taxonomy Project]], which was funded through the [[Upper Colorado River Basin Recovery Program]]. The project examined the *Gila* complex of [[Humpback...
 > -- *[[GilaTaxonomyWorkshop_20867]]*
 
+> This second annual report from the [[Colorado River Fishery Project]] covers 1983 field work on endangered endemic fishes of the Upper [[Colorado River]] Basin. Work was conducted by the U.S. Fish and Wildlife Service under a cooperative agreement with the Northern Colorado Water Conservancy...
+> -- *[[SecondAnnualReport_18486]]*
+
 ### Mentioned In
 - [[DetermineStatusOfColoradoSquaw_11150]]
 - [[InteragencyStandardizedMonitor_1993]]
@@ -7113,6 +7321,7 @@ Westwater Canyon is a geomorphologically significant reach of the Upper Colorado
 - [[PartReviewOfExistingInformatio_14721]]
 - [[RelationsBetweenMaximumannualR_15253]]
 - [[GilaTaxonomyWorkshop_20867]]
+- [[SecondAnnualReport_18486]]
 
 ## Westwater Canyons
 
@@ -7668,6 +7877,9 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 > This job completion report from the Oklahoma investigations project (F-6-R-1) compiles fisheries data from [[Fort Gibson Reservoir]] for calendar years 1952 through August 31, 1956. It combines a 1952 [[Pre-Impoundment Survey]], seven [[Creel Census]] reports run by the [[U.S. Army Corps of...
 > -- *[[ASummaryOfFisheriesInvestigati_19934]]*
 
+> This Oklahoma Game and Fish Department booklet, written by H. C. Ward with illustrations by Wallace Hughes and edited by Juanita Mahaffey, is an educational field guide to the state's freshwater fishes. It covers 16 of the 23 known fish families and about one-third of the more than 150 species...
+> -- *[[KnowYourOklahomaFishes_14870]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AgeAndGrowthOfWhiteBassFromPoo_11259]]
@@ -7732,6 +7944,7 @@ White Bass (*Morone chrysops*) is a freshwater fish species of significant impor
 - [[EarlyLimnologicalAndFishPopula_13878]]
 - [[FishesOfTheRedRiverTributaries_17585]]
 - [[ASummaryOfFisheriesInvestigati_19934]]
+- [[KnowYourOklahomaFishes_14870]]
 
 ## White Bass Group
 <!-- fm: auto_enriched: true -->
@@ -8002,6 +8215,15 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > This 1961 report by Thomas L. Linton, issued by the [[Oklahoma Fishery Research Laboratory]] (Report No. 81), documents a pre-impoundment survey of the reaches of the [[Arkansas River]] and [[Cimarron River]] that would be inundated by the proposed [[Keystone Reservoir]] in northeastern Oklahoma....
 > -- *[[AStudyOfFishesOfTheArkansasAnd_20347]]*
 
+> This 1954 report from the [[Oklahoma Fisheries Research Laboratory]] consolidates age and growth data for [[Channel Catfish]] (*Ictalurus punctatus*) across Oklahoma. It draws on 7,717 specimens from 107 bodies of water collected between 1946 and 1954. Growth is calculated from lengths at each...
+> -- *[[GrowthOfChannelCatfishInOklaho_16396]]*
+
+> This 1943 U.S. Department of Agriculture publication (Miscellaneous Publication No. 528), written by Lawrence V. Compton of the Soil Conservation Service, reviews the literature on farm fishpond management and presents management methods tested mainly in the Southeastern United States. Its core...
+> -- *[[TechniquesOfFishpondManagement_17457]]*
+
+> This Colorado Division of Wildlife Special Report (No. 31, April 1973, by T. G. Powell) evaluates whether [[Northern Pike]] stocking can control an overabundant [[White Crappie]] population in [[Carbody Reservoir]], a small [[Irrigation Reservoir]] on the Colorado high plains. The crappie...
+> -- *[[EffectOfNorthernPikeIntroducti_18653]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -8079,6 +8301,9 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[EarlyLimnologicalAndFishPopula_13878]]
 - [[ASummaryOfFisheriesInvestigati_19934]]
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
+- [[GrowthOfChannelCatfishInOklaho_16396]]
+- [[TechniquesOfFishpondManagement_17457]]
+- [[EffectOfNorthernPikeIntroducti_18653]]
 
 ## White Croaker
 <!-- fm: auto_enriched: true -->
@@ -8242,6 +8467,18 @@ The White Mountain Apache Reservation contains four Gila populations in Salt Riv
 - [[FinalProgressReport_18563]]
 - [[DraftEnvironmentalAssessmentDe_11688]]
 
+## White Mountain Apache Tribal Utility Authority
+
+### Summary
+The utility body serving the Whiteriver area on the Fort Apache Indian Reservation, for which the Indian Health Service prepared this 1991 analysis. According to the source, it has 18 staff, none of whom hold Level II certification, and it would own and operate the proposed treatment plant. The document's recommendations are directed to it and to the Tribe.
+
+### Context
+> This document is a 1991 operating cost analysis for a proposed surface water treatment plant serving [[Whiteriver]] and North Whiteriver on the [[Fort Apache Indian Reservation]]. It was prepared by the [[Indian Health Service]] (IHS) Eastern Arizona District Office for the [[White Mountain Apache...
+> -- *[[OperatingCostAnalysisForPropos_12844]]*
+
+### Mentioned In
+- [[OperatingCostAnalysisForPropos_12844]]
+
 ## White Mountain Apache Tribe
 <!-- fm: auto_enriched: true -->
 
@@ -8273,6 +8510,12 @@ The White Mountain Apache Tribe is a Native American sovereign nation that plays
 > This document is a litigation file and legal complaint from the [[White Mountain Apache Tribe]] against federal and Arizona state officials, filed in the U.S. District Court for the District of Arizona (Civ. 83-2045 PCT CAM, filed October 20, 1983). It concerns the Tribe's reserved water rights to...
 > -- *[[WhiteMountainApacheSuitAgainst_14941]]*
 
+> This document is a 1991 operating cost analysis for a proposed surface water treatment plant serving [[Whiteriver]] and North Whiteriver on the [[Fort Apache Indian Reservation]]. It was prepared by the [[Indian Health Service]] (IHS) Eastern Arizona District Office for the [[White Mountain Apache...
+> -- *[[OperatingCostAnalysisForPropos_12844]]*
+
+> This project report documents the redesign and repair of an irrigation diversion at [[Geronimo's Cave]] on the [[East Fork of the White River]], within the [[Fort Apache Indian Reservation]] in Arizona. The work was planned and carried out by the [[White Mountain Apache Tribe]] with the [[Arizona...
+> -- *[[FishPassageProjectGeronimosCav_21113]]*
+
 ### Mentioned In
 - [[CorrespondenceRegardingLoachMi_1993_06_14]]
 - [[LoachMinnowStudyPlanForBiologi_1996_05_17]]
@@ -8284,6 +8527,8 @@ The White Mountain Apache Tribe is a Native American sovereign nation that plays
 - [[NativeTroutOfArizonaAndNewMexi_13251]]
 - [[FormalSectionConsultationMiner_11842]]
 - [[WhiteMountainApacheSuitAgainst_14941]]
+- [[OperatingCostAnalysisForPropos_12844]]
+- [[FishPassageProjectGeronimosCav_21113]]
 
 ## White Mountains
 <!-- fm: auto_enriched: true -->
@@ -8514,6 +8759,9 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > This technical report by [[E. J. Crossman]] and [[Harry D. Van Meter]] (Great Lakes Fishery Commission Technical Report No. 36, June 1979) is an annotated checklist of the fishes of [[Lake Ontario]] and its watershed. It draws on published distribution records, [[Royal Ontario Museum]] collections,...
 > -- *[[AnnotatedListOfTheFishesOfTheL_18070]]*
 
+> This report documents a 1954–1955 study of the [[Rainbow Trout]] fishery in the [[Kennebec River]] between [[Wyman Dam]] and [[Solon Dam]], Maine, with attention to temperature, flow, spawning tributaries, age and growth, and the effects of hatchery stocking. Rainbow trout were introduced to the...
+> -- *[[PreliminaryStudyOfKennebecRive_17719]]*
+
 ### Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -8538,6 +8786,7 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[MedomakRiverDrainageFishManage_18810]]
 - [[AModelOfAlewifeMigrationInTheP_20319]]
 - [[AnnotatedListOfTheFishesOfTheL_18070]]
+- [[PreliminaryStudyOfKennebecRive_17719]]
 
 ## White Pine County
 
@@ -8779,6 +9028,9 @@ The White River refers to a river system in the south-central United States (pri
 > This is the revised recovery plan for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), prepared by the Colorado River Fishes Recovery Team for U.S. Fish and Wildlife Service Region 6. The species was listed as endangered on March 11, 1967, and the original plan was approved on March 16, 1978....
 > -- *[[ColoradoSquawfishRevisedRecove_17170]]*
 
+> This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
+> -- *[[ColoradoRiverEndangeredFishRec_21021]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -8871,6 +9123,7 @@ The White River refers to a river system in the south-central United States (pri
 - [[CharacteristicsOfSpawningNests_14037]]
 - [[RecoveryImplementationProgramF_19222]]
 - [[ColoradoSquawfishRevisedRecove_17170]]
+- [[ColoradoRiverEndangeredFishRec_21021]]
 
 ## White River (Arizona)
 <!-- fm: auto_enriched: true -->
@@ -9262,8 +9515,12 @@ A pupfish species, Cyprinodon tularosa, that the source lists as a related speci
 > This New Mexico Department of Game and Fish technical report (Hoagstrom and Brooks, 1998; Tech. Rpt. No. 2) reviews the distribution, status, and conservation of the [[Pecos Pupfish]] (*Cyprinodon pecosensis*) across the Pecos River Basin of New Mexico and Texas. Sampling of all known populations...
 > -- *[[DistributionStatusAndConservat_12985]]*
 
+> This U.S. Forest Service Southwest Region publication, Wildlife Habitat Technical Bulletin No. 5 (April 6, 1978), is a systematic checklist of vertebrate species that occur in [[Arizona]] and [[New Mexico]]. Compiled by David R. Patton, it was built to store wildlife data for the 1979 Wildlife...
+> -- *[[VertebrateChecklistForArizonaA_18465]]*
+
 ### Mentioned In
 - [[DistributionStatusAndConservat_12985]]
+- [[VertebrateChecklistForArizonaA_18465]]
 
 ## White Seabass
 
@@ -9346,6 +9603,9 @@ White Sturgeon (Acipenser transmontanus) is a large, long-lived anadromous and p
 > This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
 > -- *[[ReferencesForNdEditionOfInland_15457]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[ObservationsOnTheFoodHabitsOfJ_20603]]
@@ -9359,6 +9619,7 @@ White Sturgeon (Acipenser transmontanus) is a large, long-lived anadromous and p
 - [[TheCaliforniaSturgeon_17339]]
 - [[Sturgeons_12753]]
 - [[ReferencesForNdEditionOfInland_15457]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## White Sucker
 <!-- fm: auto_enriched: true -->
@@ -9484,6 +9745,9 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 > This review, by [[Richard S. Wydoski]] and [[Gary A. Wedemeyer]], examines the difficulties of using physiological, mainly [[Blood Chemistry]], data to monitor wild fish populations. The authors argue that fish constantly adjust [[Osmoregulation]] and metabolism to environmental change, that...
 > -- *[[ProblemsInThePhysiologicalMoni_20869]]*
 
+> This 1976 Bureau of Reclamation report (GR-2-77, by J.F. LaBounty, J.J. Sartoris and R.A. Roline) presents a baseline limnological survey of [[Seminoe Reservoir]], a mainstream [[North Platte River]] impoundment in south-central Wyoming. Field work took place August 31 to September 3, 1976, at five...
+> -- *[[LimnologicalReconnaissanceOfSe_12640]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
 - [[AnEvaluationOfMassachusettsTro_15488]]
@@ -9548,6 +9812,7 @@ The White Sucker (Catostomus commersoni) is a widespread North American cyprinif
 - [[OptionsForSelectivelyControlli_20250]]
 - [[AnnotatedListOfTheFishesOfTheL_18070]]
 - [[ProblemsInThePhysiologicalMoni_20869]]
+- [[LimnologicalReconnaissanceOfSe_12640]]
 
 ## White Suckers
 
@@ -9637,12 +9902,16 @@ White-tailed deer (Odocoileus virginianus) is a medium-sized ungulate that inhab
 > This 1962 public circular from the [[Bureau Of Sport Fisheries And Wildlife]] explains what wetlands are, why they matter to a wide range of users, how they have been lost, and what conservation programs are in place. It frames wetlands as a national "resource estate" whose main purpose is...
 > -- *[[YourStakeInWetlandsWhatWetland_13280]]*
 
+> This document is USDA Forest Service General Technical Report RM-16 (September 1975) by [[David R. Patton]] and [[Peter F. Ffolliott]]. It is an annotated-by-subject bibliography of 390 references on wildlife and habitat management in Arizona and New Mexico, covering publications from 1913 to early...
+> -- *[[SelectedBibliographyOfWildlife_18466]]*
+
 ### Mentioned In
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[EstimatingAnimalAbundance_X-e15b3990]]
 - [[ReportOnTheSurveyOfTheMammalsO_11840]]
 - [[YourStakeInWetlandsWhatWetland_13280]]
+- [[SelectedBibliographyOfWildlife_18466]]
 
 ## White-Throated Swift
 <!-- fm: auto_enriched: true -->
@@ -9696,6 +9965,9 @@ I cannot provide an accurate definition of "White-Winged Dove" in the context of
 > This completion report documents wildlife habitat monitoring along the [[Gila River]] from Phoenix to [[Gillespie Dam]] during August 1965 to July 1966, in response to a proposed Army Corps of Engineers flood control project. The project would have cleared a 2,000-foot-wide channel through critical...
 > -- *[[GilaAndSaltRiverClearningAndCh_12483]]*
 
+> This document is USDA Forest Service General Technical Report RM-16 (September 1975) by [[David R. Patton]] and [[Peter F. Ffolliott]]. It is an annotated-by-subject bibliography of 390 references on wildlife and habitat management in Arizona and New Mexico, covering publications from 1913 to early...
+> -- *[[SelectedBibliographyOfWildlife_18466]]*
+
 ### Mentioned In
 - [[ColoradoRiverStudies_1966]]
 - [[GilaAndSaltRiverClearingAndCha_1967_03_31]]
@@ -9703,6 +9975,7 @@ I cannot provide an accurate definition of "White-Winged Dove" in the context of
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[GilaAndSaltRiverClearningAndCh_12483]]
+- [[SelectedBibliographyOfWildlife_18466]]
 
 ## White-Winged Fairy-Wren
 <!-- fm: auto_enriched: true -->
@@ -9805,8 +10078,12 @@ Whiteriver is a town on the White Mountain Apache Reservation in Arizona that is
 > This draft biological opinion, prepared by the [[U.S. Fish and Wildlife Service]] (FWS) in August 1992, evaluates the [[Indian Health Service]] (IHS) proposal to divert water from the [[North Fork White River]] on the [[White Mountain Apache Reservation]], [[Navajo County]], Arizona. The project...
 > -- *[[AdverseBiologicalOpinionIndian_15638]]*
 
+> This document is a 1991 operating cost analysis for a proposed surface water treatment plant serving [[Whiteriver]] and North Whiteriver on the [[Fort Apache Indian Reservation]]. It was prepared by the [[Indian Health Service]] (IHS) Eastern Arizona District Office for the [[White Mountain Apache...
+> -- *[[OperatingCostAnalysisForPropos_12844]]*
+
 ### Mentioned In
 - [[AdverseBiologicalOpinionIndian_15638]]
+- [[OperatingCostAnalysisForPropos_12844]]
 
 ## Whiteriver gauge
 
@@ -10131,6 +10408,9 @@ A dam on the Machias River that the report identifies as the most serious obstac
 > This U.S. government report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (apparently late 1960s), argues that species are now disappearing faster than they evolve, largely because of human actions. It reviews historic extinctions in North America, describes endangered animals and their...
 > -- *[[TheRightToExist_11512]]*
 
+> This Defenders of Wildlife report (May 1985) assesses how the Reagan administration and Congress implemented the [[Endangered Species Act]] (ESA) during 1984. It is the first annual report in a series that follows a ten-year analysis published in 1984. It covers three areas: budget and funding,...
+> -- *[[ImplementationOfTheUsEndangere_21133]]*
+
 ### Mentioned In
 - [[ImportanceOfWetlandsToEndanger_12005]]
 - [[AlternativeApproachesToHcpsFor_16735]]
@@ -10142,6 +10422,7 @@ A dam on the Machias River that the report identifies as the most serious obstac
 - [[EndangeredSpeciesPermit_21118]]
 - [[EndangeredSpeciesActRecoveryPr_11834]]
 - [[TheRightToExist_11512]]
+- [[ImplementationOfTheUsEndangere_21133]]
 
 ## Wiberg 1983
 <!-- fm: auto_enriched: true -->
@@ -10578,6 +10859,18 @@ Wilderness designation is a federal land classification that provides the highes
 
 ### Mentioned In
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
+
+## Wilderness Society
+
+### Summary
+The Wilderness Society is a U.S. conservation organization focused on public land protection. The source lists its Southwest Office among the endorsing organizations for the 1992 Sky-Island proposal.
+
+### Context
+> This 1992 proposal by the [[Sky-Island Alliance]] asks the U.S. Forest Service and Congress to designate the most ecologically rich mountain ranges of the [[Coronado National Forest]] as a biodiversity conservation area (a National Conservation Area, or possibly a [[UNESCO Biosphere Reserve]])...
+> -- *[[SkyislandNationalBiodiversityC_19020]]*
+
+### Mentioned In
+- [[SkyislandNationalBiodiversityC_19020]]
 
 ## Wilderness Status
 
@@ -11023,6 +11316,18 @@ William C. Kendall (1935) is cited in the leaflet for recognizing only one speci
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 
+## William F. Childers
+
+### Summary
+William F. Childers is one of the two co-authors of this 1961 Illinois Natural History Survey bulletin (Biological Notes No. 46) on hybridization among bluegill, green sunfish, and red-ear sunfish. The bulletin reports laboratory and pond crosses of these Lepomis species to test whether hybrids could serve as a stocking fish for small warm-water ponds.
+
+### Context
+> This Illinois Natural History Survey bulletin (Biological Notes No. 46, November 1961) by [[William F. Childers]] and [[George W. Bennett]] tests whether hybrid sunfish could serve as a stocking fish for small warm-water ponds. The stated problem is overpopulation and stunting in ponds, which makes...
+> -- *[[HybridizationBetweenThreeSpeci_16130]]*
+
+### Mentioned In
+- [[HybridizationBetweenThreeSpeci_16130]]
+
 ## William F. Fagan
 <!-- fm: auto_enriched: true -->
 
@@ -11032,6 +11337,18 @@ William C. Kendall (1935) is cited in the leaflet for recognizing only one speci
 
 ### Mentioned In
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
+
+## William F. Scheuermann Jr.
+
+### Summary
+William F. Scheuermann Jr. was a legislative intern and Public Administration graduate student who compiled this 1958 annotated bibliography for the California Assembly Interim Committee on Fish and Game. Serving through the California Legislative Internship Program, he was given the task of listing and summarizing research on about 144 economically important California species. The source describes him as having wildlife curriculum training, and it notes that his annotations summarize content rather than judge reliability.
+
+### Context
+> This document is the front matter and marine-fishes section of a 1958 annotated bibliography prepared for the California Assembly Interim Committee on Fish and Game. Compiled by [[William F. Scheuermann Jr.]], a legislative intern, it was commissioned under House Resolution No. 124 (1957) to list...
+> -- *[[AnAnnotatedBibliographyOfResea_20554]]*
+
+### Mentioned In
+- [[AnAnnotatedBibliographyOfResea_20554]]
 
 ## William F. Thompson
 
@@ -11417,9 +11734,13 @@ Williams Creek National Fish Hatchery is a federal aquaculture facility that ser
 > - **[[Golden Shiner]]**: Native North American cyprinid; the most economically important farm-raised baitfish species in the U.S., especially in Arkansas (75% of state baitfish production; 3.7 million kg produced in 1990, valued at $20.4 million). Raised in earthen pond aquaculture systems using ...
 > -- *[[MeristicsAndMorphometricsOfGol_1993]]*
 
+> This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
+> -- *[[DistributionStatusAndNotesOnTh_18709]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyRegardingThe_1994_05_19]]
 - [[MeristicsAndMorphometricsOfGol_1993]]
+- [[DistributionStatusAndNotesOnTh_18709]]
 
 ## Williams Fork
 
@@ -11565,6 +11886,18 @@ An author who published one of the four earlier reports on the park's fish fauna
 
 ### Mentioned In
 - [[MineralResourceSurvey_1941_10_23]]
+
+## Willis King
+
+### Summary
+Willis King was the author of this 1960 Fish and Wildlife Service circular, prepared while with the Branch of Fishery Management Services. The source note credits him with the survey of fishing in 1,000 Bureau-stocked farm and ranch ponds in 1959.
+
+### Context
+> This Fish and Wildlife Service circular (Fish and Wildlife Circular 86, May 1960), prepared by [[Willis King]] of the Branch of Fishery Management Services, evaluates the [[Farm Pond Stocking Program]] run by the [[Bureau of Sport Fisheries and Wildlife]]. Interviews with owners of a random sample...
+> -- *[[ASurveyOfFishingInInPondsStock_12544]]*
+
+### Mentioned In
+- [[ASurveyOfFishingInInPondsStock_12544]]
 
 ## Willm And Dorris Diversity Index
 <!-- fm: auto_enriched: true -->
@@ -11859,6 +12192,9 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > This 1975 final report to the U.S. Fish and Wildlife Service, prepared by [[Eric S. Gustafson]] and [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], Arizona State University, covers the first-year task of a planned five-year life history study of the [[Razorback...
 > -- *[[EarlyDevelopmentAdultSexualDim_17842]]*
 
+> This study examined the movements, habitat use, and short-term behavioral acclimation of stocked juvenile [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered [[Colorado River]] fish, in [[Lake Powell]] and [[Lake Mohave]] during summer 1997. Juvenile razorbacks are rarely found in the wild,...
+> -- *[[PoststockingDispersalHabitatUs_15474]]*
+
 ### Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -11946,6 +12282,7 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[EstablishingACaptiveBroodstock_20773]]
 - [[HooverPowerplantModificationFe_11472]]
 - [[EarlyDevelopmentAdultSexualDim_17842]]
+- [[PoststockingDispersalHabitatUs_15474]]
 
 ## Willow Beach National Fish Hatchery And Technology Center
 <!-- fm: auto_enriched: true -->
@@ -12436,6 +12773,18 @@ Money from the Windy Gap water project set aside for fish recovery work in the U
 - [[LetterToJohnHamillProposalForE_12209]]
 - [[JulyManagementGroupMeetingSumm_21014]]
 
+## Windy-Gap Fishes Study
+
+### Summary
+A 1982–1983 study run by the U.S. Fish and Wildlife Service under a cooperative agreement with the Northern Colorado Water Conservancy District. It investigated factors limiting first-year survival of endangered Colorado squawfish and humpback chub in the upper Colorado River system, using radiotelemetry, larval and young-of-the-year surveys, and backwater and gravel pit sampling near Grand Junction, Colorado.
+
+### Context
+> This first annual report from the [[Windy-Gap Fishes Study]] covers 1982 field work on endangered fishes of the upper [[Colorado River]] system. The study was run by the [[U.S. Fish and Wildlife Service]] under a cooperative agreement with the Northern Colorado Water Conservancy District. Its aim...
+> -- *[[WindygapFishesStudyFirstAnnual_18483]]*
+
+### Mentioned In
+- [[WindygapFishesStudyFirstAnnual_18483]]
+
 ## Winifred Frost
 
 ### Summary
@@ -12523,6 +12872,9 @@ The Winkler Method is a classical chemical titration technique used to measure d
 > This 1935 U.S. Bureau of Fisheries report by M. J. Madsen surveys the streams and reservoir lakes of the [[Tonto National Forest]] in Arizona. Its purpose is to collect physical, chemical, and biological data so that fish species, size, and numbers can be matched to each water body before stocking....
 > -- *[[ABiologicalSurveyOfStreamsAndL_19339]]*
 
+> This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
+> -- *[[ObservationsOnTheLimnologicalD_14675]]*
+
 ### Mentioned In
 - [[HowShouldPopulationSurveysBeMa_16090]]
 - [[SeasonalChangesInTheStandardRa_1964]]
@@ -12536,6 +12888,7 @@ The Winkler Method is a classical chemical titration technique used to measure d
 - [[ABiologicalSurveyOfStreamsAndL_19341]]
 - [[ABiologicalSurveyOfStreamsAndL_19340]]
 - [[ABiologicalSurveyOfStreamsAndL_19339]]
+- [[ObservationsOnTheLimnologicalD_14675]]
 
 ## Winkler Titration Method
 <!-- fm: auto_enriched: true -->
@@ -13148,6 +13501,18 @@ Cited in press as the source on increasing age-specific mortality, which the aut
 ### Mentioned In
 - [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
 
+## Wolf Butte Reservoir
+
+### Summary
+A 24-acre, runoff-fed impoundment in southwestern North Dakota with a maximum depth of 9 ft and a muck bottom. It was treated with toxaphene at 35 ppb in August 1960, and many green sunfish and black bullheads died. Zooplankton such as Keratella and Daphnia declined at first, and Aphanizomenon increased sharply.
+
+### Context
+> This 1962 Master of Science thesis by Robert G. Needham, submitted to [[Montana State College]], examines how low concentrations of the piscicide [[Toxaphene]] affect plankton and larger aquatic invertebrates. The work was tied to North Dakota's [[Rough-Fish Removal]] program. Five lakes and...
+> -- *[[EffectsOfToxapheneUponPlankton_19616]]*
+
+### Mentioned In
+- [[EffectsOfToxapheneUponPlankton_19616]]
+
 ## Wolf Creek
 
 ### Summary
@@ -13598,6 +13963,18 @@ In this source, the Work Plan is the annual FY-91 plan of the Recovery Implement
 ### Mentioned In
 - [[TechnicalGroupMeetingMinutesJu_18171]]
 
+## Workshop Symposium
+
+### Summary
+A workshop held July 8-9, 1998, by the U.S. Fish and Wildlife Service and the Bureau of Reclamation on restoring the Lower Colorado River. Participants generated conceptual approaches across spatial and temporal scales and addressed 14 main questions on hydrology, sediment, predation control and related constraints. Patten's report synthesizes the ideas the workshop produced.
+
+### Context
+> This report by Duncan T. Patten synthesizes the ideas generated at a [[Workshop Symposium]] held on July 8-9, 1998, by the U.S. Fish and Wildlife Service and the Bureau of Reclamation. The document provides background on the heavily regulated [[Lower Colorado River]], discusses concepts of...
+> -- *[[RestorationStrategiesForTheLow_18459]]*
+
+### Mentioned In
+- [[RestorationStrategiesForTheLow_18459]]
+
 ## World Aquaculture 1998
 <!-- fm: auto_enriched: true -->
 
@@ -13904,6 +14281,12 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 > This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
 > -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
+> This U.S. Forest Service Southwest Region publication, Wildlife Habitat Technical Bulletin No. 5 (April 6, 1978), is a systematic checklist of vertebrate species that occur in [[Arizona]] and [[New Mexico]]. Compiled by David R. Patton, it was built to store wildlife data for the 1979 Wildlife...
+> -- *[[VertebrateChecklistForArizonaA_18465]]*
+
 ### Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -14040,6 +14423,8 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 - [[DraftLittleColoradoRiverBasinB_19595]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
 - [[FisheriesSurveyOfTheVirginRive_16379]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
+- [[VertebrateChecklistForArizonaA_18465]]
 
 ## Woundfin Minnow
 <!-- fm: auto_enriched: true -->
@@ -14263,6 +14648,18 @@ Wyland Lake is an example of a Type I pseudo-metalimnetic oxygen maximum lake, w
 
 ### Mentioned In
 - [[FurtherStudiesOnTheMetalimneti_15723]]
+
+## Wyman Dam
+
+### Summary
+Wyman Dam is the upstream boundary of the study section on the Kennebec River in Maine, impounding Wyman Lake. According to the source, cold water released from the bottom of Wyman Lake keeps the river below the dam cooler than is typical for a river of its type. The main rainbow trout fishery is concentrated in the first four miles below the dam.
+
+### Context
+> This report documents a 1954–1955 study of the [[Rainbow Trout]] fishery in the [[Kennebec River]] between [[Wyman Dam]] and [[Solon Dam]], Maine, with attention to temperature, flow, spawning tributaries, age and growth, and the effects of hatchery stocking. Rainbow trout were introduced to the...
+> -- *[[PreliminaryStudyOfKennebecRive_17719]]*
+
+### Mentioned In
+- [[PreliminaryStudyOfKennebecRive_17719]]
 
 ## Wynne-Edwards 1962
 <!-- fm: auto_enriched: true -->

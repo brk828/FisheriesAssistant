@@ -937,6 +937,18 @@ This source conducts extensive variational analysis using meristic characters in
 ### Mentioned In
 - [[NaturalProductivityOfFishAndCr_1940]]
 
+## Variegatus Complex
+
+### Summary
+A species-complex of Cyprinodon pupfishes that, according to this study, courts mainly through visual displays such as looping. The complex shares coastal habitats with up to seven other cyprinodontoid species.
+
+### Context
+> This 1969 UCLA doctoral dissertation by Robert Kung-shan Liu compares the courtship, agonistic and reproductive behavior of geographically isolated pupfishes of the genus [[Cyprinodon]]. The study tests whether morphological divergence among allopatric forms implies sufficient genetic divergence to...
+> -- *[[TheComparativeBehaviorOfAllopa_16159]]*
+
+### Mentioned In
+- [[TheComparativeBehaviorOfAllopa_16159]]
+
 ## Vasco Tanner
 
 ### Summary
@@ -1947,12 +1959,16 @@ Verdigris River is a Kansas waterway where Spotted Sucker was most common along 
 > This 1957 study from [[Kansas State Teachers College]] (Emporia) examines the seasonal abundance of [[Cladocera]] and [[Copepoda]] (collectively called entomostraca) and the physical-chemical conditions of the [[Fall River]] and [[Verdigris River]] in southeastern Kansas. Sampling ran from April...
 > -- *[[SeasonalVariationsAndAbundance_18697]]*
 
+> This note summarizes a year-round study of the fish assemblage of the [[Fall River]] and [[Verdigris River]] in Wilson and Montgomery Counties, southeastern Kansas, conducted from March 1954 to February 1955 as part of a larger survey of the rivers' physical, chemical, and biological...
+> -- *[[AnEcologicalStudyOfTheFishesOf_18698]]*
+
 ### Mentioned In
 - [[WhatHaveICaught_12929]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
 - [[GrowthOfFreshwaterDrumInOklaho_19938]]
 - [[SeasonalVariationsAndAbundance_18697]]
+- [[AnEcologicalStudyOfTheFishesOf_18698]]
 
 ## Verduin 1960
 <!-- fm: auto_enriched: true -->
@@ -2252,6 +2268,18 @@ Vertebrate endocrinology is the study of hormone-producing glands and their func
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
 
+## Vertical Raceways
+
+### Summary
+Vertical raceways, also called silos, are cylindrical rearing tanks in which water enters through a drop tube and rises through the fish before spilling over a screen. In this 1978 study at Seven Springs, five steel silos grew rainbow trout faster than raceways and produced higher fish densities, largely reducing labor, though they needed more feed per pound gained.
+
+### Context
+> This New Mexico Department of Game and Fish bulletin (No. 17, 1978) by Thomas M. Moody and Richard N. McCleskey compares rainbow trout rearing in [[Vertical Raceways]] (silos) with conventional [[Concrete Raceways]] at the [[Seven Springs Hatchery]]. Silos grew trout faster and were more...
+> -- *[[VerticalRacewaysForProductionO_16561]]*
+
+### Mentioned In
+- [[VerticalRacewaysForProductionO_16561]]
+
 ## Vertical Traveling Screen
 
 ### Summary
@@ -2355,6 +2383,18 @@ Vibrio is a bacterial infection that affected tilapia in the Salton Sea and play
 
 ### Mentioned In
 - [[WorkshopProceedings_18372]]
+
+## Vicariance
+
+### Summary
+The splitting of a once-continuous species range into separate populations by a geographic barrier, such as uplift, faulting or marine transgression. The authors use vicariance as the main framework for explaining the living distribution of Tryonia, linking clade splits to Cenozoic tectonic events, though they call these interpretations largely speculative.
+
+### Context
+> This study tests whether the freshwater snail genus [[Tryonia]] is a natural (monophyletic) group and reconstructs its evolutionary relationships to infer the regional biogeographic history of western North America. The authors sequenced a 603 bp fragment of the mitochondrial [[Cytochrome C Oxidase...
+> -- *[[PhylogeneticRelationshipsWithi_20353]]*
+
+### Mentioned In
+- [[PhylogeneticRelationshipsWithi_20353]]
 
 ## Vicariance Biogeography
 <!-- fm: auto_enriched: true -->
@@ -4537,6 +4577,18 @@ The Von Bertalanffy Growth Equation is the specific mathematical formula l_t = L
 ### Mentioned In
 - [[FittingAVonBertalanffyGrowthCu_13367]]
 - [[ProvisionalWorldListOfComputer_17320]]
+
+## Von Bertalanffy Growth Function
+
+### Summary
+The von Bertalanffy growth function (VBGF) is a model that describes how fish length increases with age toward an asymptotic maximum length. The authors fitted it to chub aged 5 years and older (N = 324) to estimate the Brody coefficient k and asymptotic length L∞ for each population.
+
+### Context
+> Johnson and Belk (Brigham Young University) compared eight isolated populations of [[Utah Chub]] (*Gila atraria*) to test whether long-term exposure to a gape-limited predator, [[Cutthroat Trout]] (*Oncorhynchus clarki*), has shaped life-history evolution. Four populations had co-existed with...
+> -- *[[EffectsOfPredationOnLifehistor_19786]]*
+
+### Mentioned In
+- [[EffectsOfPredationOnLifehistor_19786]]
 
 ## Von Bertalanffy Growth Model
 

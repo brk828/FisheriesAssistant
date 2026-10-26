@@ -124,6 +124,18 @@ The Yalobusha River is a drainage system in central Mississippi where Procambaru
 ### Mentioned In
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
 
+## Yamabe
+
+### Summary
+Yamabe is the name for river-resident cherry salmon that do not migrate to sea. In rearing experiments, 40 to 60% of fry from anadromous cherry salmon runs became Yamabe and failed to smolt, with males making up as much as 75% of them. Their egg output is much lower than that of anadromous females, at 200 to 400 eggs each.
+
+### Context
+> This Ontario Department of Lands and Forests Research Information Paper (Fisheries) No. 37 (February 1970, by W. J. Christie) reviews two native Japanese Pacific salmons, the [[Cherry Salmon]] (*Oncorhynchus masou*) and the [[Redspot Salmon]] (*O. rhodurus*), as candidates for introduction into the...
+> -- *[[AReviewOfTheJapaneseSalmons_16151]]*
+
+### Mentioned In
+- [[AReviewOfTheJapaneseSalmons_16151]]
+
 ## Yampa Basin Feasibility Study
 
 ### Summary
@@ -139,6 +151,18 @@ The Yampa Basin Feasibility Study was a planned investigation of the Yampa River
 ### Mentioned In
 - [[ManagementGroupMeetingSummarSe_21019]]
 - [[ManagementGroupMeeting_21017]]
+
+## Yampa Basin Reservoir Feasibility Study
+
+### Summary
+A study of a possible reservoir in the Yampa River Basin, to which the Colorado Water Conservation Board contributed. According to this 1989 Management Group record, the CWCB asked for $56.2K credit for its share, in addition to the $50.0K Recovery Program contribution. Concerns raised included how it linked to water rights purchases and the need to define fish flow needs first.
+
+### Context
+> This document is a 1989 file of correspondence, meeting summaries, agendas, work plan tables and proposals for the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover endangered big-river fishes. The fishes named are [[Colorado Pikeminnow]], [[Razorback Sucker]], [[Humpback...
+> -- *[[JulyDraftManagmentGroupMetingS_21013]]*
+
+### Mentioned In
+- [[JulyDraftManagmentGroupMetingS_21013]]
 
 ## Yampa Canyon
 <!-- fm: auto_enriched: true -->
@@ -189,6 +213,9 @@ Yampa Canyon refers to a river canyon section within the Yampa River system that
 > This Fish and Wildlife Service memorandum (June 1996, FY96) transmits the highlights of a February 29–March 1, 1996 workshop reviewing the [[Gila Taxonomy Project]], which was funded through the [[Upper Colorado River Basin Recovery Program]]. The project examined the *Gila* complex of [[Humpback...
 > -- *[[GilaTaxonomyWorkshop_20867]]*
 
+> This second annual report from the [[Colorado River Fishery Project]] covers 1983 field work on endangered endemic fishes of the Upper [[Colorado River]] Basin. Work was conducted by the U.S. Fish and Wildlife Service under a cooperative agreement with the Northern Colorado Water Conservancy...
+> -- *[[SecondAnnualReport_18486]]*
+
 ### Mentioned In
 - [[DistributionHabitatUseAndGrowt_1991]]
 - [[GilaTaxonomy_14730]]
@@ -207,6 +234,7 @@ Yampa Canyon refers to a river canyon section within the Yampa River system that
 - [[FyAnnualProjectReportColoradoR_21154]]
 - [[HabitatSuitabilityIndexCurvesF_13603]]
 - [[GilaTaxonomyWorkshop_20867]]
+- [[SecondAnnualReport_18486]]
 
 ## Yampa River
 <!-- fm: auto_enriched: true -->
@@ -584,6 +612,18 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This memorandum from [[Fish and Wildlife Service]] (FWS) Program Director John Hamill transmits the summary of the July 13-14, 1989 meeting of the [[Colorado River Recovery Implementation Program]] Management Group, held at the FWS Regional Office in Lakewood, Colorado. The meeting approved a...
 > -- *[[JulyManagementGroupMeetingSumm_21014]]*
 
+> This first annual report from the [[Windy-Gap Fishes Study]] covers 1982 field work on endangered fishes of the upper [[Colorado River]] system. The study was run by the [[U.S. Fish and Wildlife Service]] under a cooperative agreement with the Northern Colorado Water Conservancy District. Its aim...
+> -- *[[WindygapFishesStudyFirstAnnual_18483]]*
+
+> This second annual report from the [[Colorado River Fishery Project]] covers 1983 field work on endangered endemic fishes of the Upper [[Colorado River]] Basin. Work was conducted by the U.S. Fish and Wildlife Service under a cooperative agreement with the Northern Colorado Water Conservancy...
+> -- *[[SecondAnnualReport_18486]]*
+
+> This document set, circulated in August 1989 ahead of the [[Implementation Committee]] meeting of August 30, 1989, concerns the consultation process under [[Section 7 Consultation]] of the [[Endangered Species Act]] for water development projects in the Upper Colorado River Basin. It contains draft...
+> -- *[[ReviewMaterialaugustImplementa_21015]]*
+
+> This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
+> -- *[[ColoradoRiverEndangeredFishRec_21021]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -757,6 +797,10 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[IdentificationOfHabitatRequire_20735]]
 - [[ManagementGroupMeeting_21011]]
 - [[JulyManagementGroupMeetingSumm_21014]]
+- [[WindygapFishesStudyFirstAnnual_18483]]
+- [[SecondAnnualReport_18486]]
+- [[ReviewMaterialaugustImplementa_21015]]
+- [[ColoradoRiverEndangeredFishRec_21021]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -3439,6 +3483,18 @@ Yield per recruit models estimate the long-term yield obtainable from each fish 
 ### Mentioned In
 - [[ProvisionalWorldListOfComputer_17320]]
 
+## Yield-Per-Recruit
+
+### Summary
+Yield per recruit is the yield obtained from each fish entering the fishery, and the source presents it as the preferred advice tool because recruitment is highly variable and hard to predict. Gulland gives the example that a predicted 10% rise in yield per recruit is a more useful guide to a policy's merit than predicted changes in total catch.
+
+### Context
+> This FAO Fisheries Circular by J.A. Gulland (1983) is a non-specialist guide to why [[Stock Assessment]] is needed and how it is conducted. Its central argument is that assessment advice is essential to fishery administrators, investors and industry at every stage of a fishery's development. The...
+> -- *[[StockAssessmentWhy_17822]]*
+
+### Mentioned In
+- [[StockAssessmentWhy_17822]]
+
 ## Yield-Per-Recruit Model
 <!-- fm: auto_enriched: true -->
 
@@ -3814,6 +3870,9 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 > This is a first-person travel and hunting reminiscence, not a research paper. The author describes a trip of roughly three weeks down the lower [[Colorado River]] from [[Yuma]] to its mouth and about fifty miles beyond, written to guide future sportsmen. The text covers the best waterfowl habitat...
 > -- *[[SportOnTheLowerColorado_19172]]*
 
+> This report by Duncan T. Patten synthesizes the ideas generated at a [[Workshop Symposium]] held on July 8-9, 1998, by the U.S. Fish and Wildlife Service and the Bureau of Reclamation. The document provides background on the heavily regulated [[Lower Colorado River]], discusses concepts of...
+> -- *[[RestorationStrategiesForTheLow_18459]]*
+
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
@@ -3823,6 +3882,7 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 - [[AHuntingTripDownTheColorado_17597]]
 - [[BotanicalExplorationsInTheSout_12961]]
 - [[SportOnTheLowerColorado_19172]]
+- [[RestorationStrategiesForTheLow_18459]]
 
 ## Yuma Area Office
 

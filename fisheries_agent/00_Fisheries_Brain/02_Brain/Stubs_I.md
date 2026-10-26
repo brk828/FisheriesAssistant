@@ -176,12 +176,16 @@ The intensive winter creel census was the main survey method used at Branch Lake
 > This 1995 operation plan, prepared by the U.S. [[Fish and Wildlife Service]] (Region 1, Northern Nevada Fishery Resource Office) for the [[Marble Bluff Fish Facility]], sets out management strategies and physical modifications to improve fish passage and reduce mortality at the facility. It also...
 > -- *[[MarbleBluffFishFacilityOperati_16613]]*
 
+> The [[Station Development Plan]] for the [[Marble Bluff Fish Facility]] (MBFF), prepared by the [[Fish and Wildlife Service]] (FWS) Region 1 Division of Engineering, assesses why the facility fails to pass migrating [[Cui-ui]] and [[Lahontan Cutthroat Trout]] (LCT) from [[Pyramid Lake]] to spawning...
+> -- *[[MarbleBluffFishFacilityStation_13317]]*
+
 ### Mentioned In
 - [[EvaluationOfSpringChinookMigra_1969]]
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
 - [[DissolvedNitrogenConcentration_15718]]
 - [[MarbleBluffFishFacilityOperati_16613]]
+- [[MarbleBluffFishFacilityStation_13317]]
 
 ## Iceberg Canyon
 
@@ -236,6 +240,18 @@ A code of practice from the International Council for the Exploration of the Sea
 
 ### Mentioned In
 - [[FindingsConclusionsAndRecommen_15791]]
+
+## Ich
+
+### Summary
+Ich is a parasitic disease of fish, commonly called white spot disease, caused by the protozoan Ichthyophthirius multifiliis. In this source it is listed among the serious diseases affecting farmed channel catfish, alongside Pseudomonas infection, fungal infection, and gas bubble disease. The bulletin does not give further detail about it.
+
+### Context
+> This Louisiana Wild Life and Fisheries Commission bulletin (B-875, 1967) by fisheries biologists James T. Davis and Janice S. Hughes is a practical manual for starting a commercial [[Channel Catfish]] farming operation in the state. It draws on nine years of experimentation, with all...
+> -- *[[ChannelCatfishFarmingInLouisia_13972]]*
+
+### Mentioned In
+- [[ChannelCatfishFarmingInLouisia_13972]]
 
 ## Ichetucknee Springs
 
@@ -1433,6 +1449,18 @@ Ictiobus urus, commonly called mongrel, sheep's-nose, or blue-rooter buffalo, is
 ### Mentioned In
 - [[CommentOnTheRequestForA_14192]]
 
+## Ida Creek
+
+### Summary
+Ida Creek is a small headwater stream draining a roughly 2.6-hectare level clearcut that was logged and burned in 1970. Its on-site turbidity returned to prior levels within six months, and its off-site station had the highest concentrations, attributed to lateral leachate rather than dilution.
+
+### Context
+> This USDA Forest Service research paper (INT-168, June 1975) by Gordon G. Snyder, Harold F. Haupt, and George H. Belt, Jr. evaluates how [[Clearcutting]] and [[Slash Burning]] change stream water chemistry in the [[Cedar-Hemlock-Grand Fir Ecosystem]] of northern Idaho. Three clearcut-burned units...
+> -- *[[ClearcuttingAndBurningSlashAlt_21245]]*
+
+### Mentioned In
+- [[ClearcuttingAndBurningSlashAlt_21245]]
+
 ## Idaho
 
 ### Summary
@@ -1896,6 +1924,9 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This 1925 bulletin by [[David H. Thompson]], published by the [[Illinois Natural History Survey]], examines how [[Dissolved Oxygen]] limits fish life in the [[Illinois River]]. The river froze over in December 1924 and thawed in early February 1925. During that period dissolved oxygen fell to very...
 > -- *[[SomeObservationsOnTheOxygenReq_13582]]*
 
+> This Illinois Natural History Survey bulletin (Biological Notes No. 46, November 1961) by [[William F. Childers]] and [[George W. Bennett]] tests whether hybrid sunfish could serve as a stocking fish for small warm-water ponds. The stated problem is overpopulation and stunting in ponds, which makes...
+> -- *[[HybridizationBetweenThreeSpeci_16130]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -1906,6 +1937,7 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[HistoryOfFishAndFishingInTheUp_17391]]
 - [[SomeConservationProblemsOfTheG_18489]]
 - [[SomeObservationsOnTheOxygenReq_13582]]
+- [[HybridizationBetweenThreeSpeci_16130]]
 
 ## Illinois River
 <!-- fm: auto_enriched: true -->
@@ -1950,6 +1982,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This 1925 bulletin by [[David H. Thompson]], published by the [[Illinois Natural History Survey]], examines how [[Dissolved Oxygen]] limits fish life in the [[Illinois River]]. The river froze over in December 1924 and thawed in early February 1925. During that period dissolved oxygen fell to very...
 > -- *[[SomeObservationsOnTheOxygenReq_13582]]*
 
+> This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
+> -- *[[ObservationsOnTheLimnologicalD_14675]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -1965,6 +2000,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[GrowthOfFreshwaterDrumInOklaho_19938]]
 - [[ThePlanktonOfTheSangamonRiverI_15758]]
 - [[SomeObservationsOnTheOxygenReq_13582]]
+- [[ObservationsOnTheLimnologicalD_14675]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2106,8 +2142,12 @@ Impact Studies are one of the three research components proposed in the master p
 > This 1972 document is a transmittal letter, a generalized master plan, and an attached prospectus from the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]] (ASU). It proposes a multi-institution coalition to build a [[Strategic Environmental Assessment System]] for...
 > -- *[[AGeneralizedMasterPlanOfEnviro_16071]]*
 
+> This 1972 proposal, prepared by the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], sets out a generalized master plan for environmental studies of the lower [[Lower Colorado River Basin]] ecosystem. The authors argue that the basin is among the most heavily...
+> -- *[[AGeneralizedMasterPlanOfEnviro_18588]]*
+
 ### Mentioned In
 - [[AGeneralizedMasterPlanOfEnviro_16071]]
+- [[AGeneralizedMasterPlanOfEnviro_18588]]
 
 ## Impenjati Estuary
 <!-- fm: auto_enriched: true -->
@@ -2228,6 +2268,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This 1972 document is a transmittal letter, a generalized master plan, and an attached prospectus from the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]] (ASU). It proposes a multi-institution coalition to build a [[Strategic Environmental Assessment System]] for...
 > -- *[[AGeneralizedMasterPlanOfEnviro_16071]]*
 
+> This 1972 proposal, prepared by the [[Lower Colorado River Basin Research Laboratory]] at [[Arizona State University]], sets out a generalized master plan for environmental studies of the lower [[Lower Colorado River Basin]] ecosystem. The authors argue that the basin is among the most heavily...
+> -- *[[AGeneralizedMasterPlanOfEnviro_18588]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -2255,6 +2298,7 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[ATaggingExperimentWithChannelC_12244]]
 - [[LowerColoradoRiverBiologicalAs_13908]]
 - [[AGeneralizedMasterPlanOfEnviro_16071]]
+- [[AGeneralizedMasterPlanOfEnviro_18588]]
 
 ## Imperial Dam Impoundment
 <!-- fm: auto_enriched: true -->
@@ -2559,6 +2603,15 @@ The trapping of fish against intake screens by the force of water being drawn in
 > This U.S. Fish and Wildlife Service (Service) document, dated November 1991 with a March 1992 membership correction, sets out the organization, mission, and procedures of the [[Recovery Implementation Program]] for four endangered fishes: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail...
 > -- *[[OrganizationAndMission_11595]]*
 
+> This document is a 1989 file of correspondence, meeting summaries, agendas, work plan tables and proposals for the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover endangered big-river fishes. The fishes named are [[Colorado Pikeminnow]], [[Razorback Sucker]], [[Humpback...
+> -- *[[JulyDraftManagmentGroupMetingS_21013]]*
+
+> This document set, circulated in August 1989 ahead of the [[Implementation Committee]] meeting of August 30, 1989, concerns the consultation process under [[Section 7 Consultation]] of the [[Endangered Species Act]] for water development projects in the Upper Colorado River Basin. It contains draft...
+> -- *[[ReviewMaterialaugustImplementa_21015]]*
+
+> This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
+> -- *[[ColoradoRiverEndangeredFishRec_21021]]*
+
 ### Mentioned In
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
@@ -2569,6 +2622,9 @@ The trapping of fish against intake screens by the force of water being drawn in
 - [[LetterToJohnHamillProposalForE_12209]]
 - [[ColoradoRiverManagementGroupMe_21029]]
 - [[OrganizationAndMission_11595]]
+- [[JulyDraftManagmentGroupMetingS_21013]]
+- [[ReviewMaterialaugustImplementa_21015]]
+- [[ColoradoRiverEndangeredFishRec_21021]]
 
 ## Implementation Schedule
 
@@ -2800,8 +2856,12 @@ Inbreeding depression in fish science refers to the reduction in fitness, surviv
 > - **Regulatory Framework**: All deaths or injuries of [[Humpback Chub]] and [[Razorback Sucker]] incurred during authorized research must be reported to the Service's Region 6 office in Denver, with dead specimens salvageable for scientific study only by employees of federal land management agenc...
 > -- *[[ReminderNoticeOnReportingRequi_1993_07_02]]*
 
+> This U.S. Fish and Wildlife Service biological opinion (dated November 9, 1990) responds to a U.S. Forest Service request for formal [[Section 7 Consultation]] under the [[Endangered Species Act]] on the proposed introduction of the endangered [[Gila Topminnow]] into eight sites on the [[Tonto...
+> -- *[[GilaTopminnowIntroductionTonto_17278]]*
+
 ### Mentioned In
 - [[ReminderNoticeOnReportingRequi_1993_07_02]]
+- [[GilaTopminnowIntroductionTonto_17278]]
 
 ## Incidental Take Permit
 
@@ -3155,11 +3215,15 @@ A site at about 1,550 ft in the park that held every fish species collected duri
 > This biological evaluation, prepared by the [[White Mountain Apache Game And Fish Department]] for the [[Indian Health Service]], assesses the effects of a proposed municipal water treatment plant and intake on the North Fork of the [[White River]] at Whiteriver, Arizona. Under Section 7 of the...
 > -- *[[BiologicalEvaluationWaterTreat_18284]]*
 
+> This document is a 1991 operating cost analysis for a proposed surface water treatment plant serving [[Whiteriver]] and North Whiteriver on the [[Fort Apache Indian Reservation]]. It was prepared by the [[Indian Health Service]] (IHS) Eastern Arizona District Office for the [[White Mountain Apache...
+> -- *[[OperatingCostAnalysisForPropos_12844]]*
+
 ### Mentioned In
 - [[DistributionAndStatusOfLoachMi_20268]]
 - [[AdverseBiologicalOpinionIndian_15638]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
 - [[BiologicalEvaluationWaterTreat_18284]]
+- [[OperatingCostAnalysisForPropos_12844]]
 
 ## Indian Hot Springs
 <!-- fm: auto_enriched: true -->
@@ -4171,6 +4235,9 @@ Instream debris refers to accumulated woody material and piles of debris in the 
 > This is a compilation of administrative material from 1989 concerning the [[Upper Colorado River Endangered Fish Recovery Implementation Program]], which aims to recover three endangered fishes and one threatened or rare fish while allowing water development to continue. It contains a Management...
 > -- *[[ManagementGroupMeeting_21011]]*
 
+> This document is a U.S. Fish and Wildlife Service (FWS) memorandum transmitting the summary of the April 6-7, 1989, [[Management Group]] meeting of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The attachments include a [[Technical Group]] meeting...
+> -- *[[AprilManagementGroupMeetingSum_21010]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
@@ -4181,6 +4248,7 @@ Instream debris refers to accumulated woody material and piles of debris in the 
 - [[RecoveryImplementationProgramF_19222]]
 - [[OrganizationAndMission_11595]]
 - [[ManagementGroupMeeting_21011]]
+- [[AprilManagementGroupMeetingSum_21010]]
 
 ## Instream Flow Ad Hoc Group
 
@@ -4263,6 +4331,12 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This paper proposes a conceptual framework that links [[Instream Flow Incremental Methodology]] (IFIM) fish-habitat modelling with the geomorphic and riparian flow needs of river ecosystems. The authors argue that single-purpose instream flows, such as those derived from [[PHABSIM]], protect fish...
 > -- *[[EcologicalAndGeomorphologicalC_20402]]*
 
+> This document is a compilation of program materials from the [[Fish and Wildlife Service]] (FWS) and the [[Recovery Implementation Program]] for endangered fishes of the Upper Colorado River Basin. It includes a September 5, 1989 Management Group meeting memorandum, a list of barriers to protecting...
+> -- *[[ManagementGroupMeeting_21018]]*
+
+> This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
+> -- *[[ColoradoRiverEndangeredFishRec_21021]]*
+
 ### Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -4277,6 +4351,8 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[HabitatSuitabilityIndexCurvesF_13643]]
 - [[HabitatSuitabilityIndexCurvesF_13603]]
 - [[EcologicalAndGeomorphologicalC_20402]]
+- [[ManagementGroupMeeting_21018]]
+- [[ColoradoRiverEndangeredFishRec_21021]]
 
 ## Instream Flow Incremental Methodology (Ifim)
 <!-- fm: auto_enriched: true -->
@@ -4425,6 +4501,18 @@ The Integrated Border Environmental Plan (IBEP) was prepared by EPA and Mexico's
 
 ### Mentioned In
 - [[StateOfTheUsmexicoBorderEnviro_14365]]
+
+## Integrated Humpback Chub Final Report
+
+### Summary
+A planned report for which the authors recommend refining a conceptual population model in Phase II, using the modelling effort to integrate data for it. The source treats it as the intended product that the model work should feed into.
+
+### Context
+> This Phase I feasibility evaluation, prepared by [[BIO/WEST, Inc.]] (Ronald J. Ryel and Richard A. Valdez, March 8, 1993), assesses whether a population model should be developed for the endangered [[Humpback Chub]] (*Gila cypha*) in Grand Canyon. The authors conclude that a modelling effort would...
+> -- *[[DevelopmentOfAPopulationModelF_21128]]*
+
+### Mentioned In
+- [[DevelopmentOfAPopulationModelF_21128]]
 
 ## Integrated Standardized Monitoring Program
 
@@ -4712,8 +4800,12 @@ An interdisciplinary team is a group of specialists from different fields that a
 > This document package from the [[Coronado National Forest]] (Sierra Vista Ranger District) comprises a cover letter dated 04/23/92, a project proposal dated March 9, 1992, a draft public comment letter, and a mailing list dated 03/12/92. Together they describe a proposed fish renovation of the...
 > -- *[[BogHoleRenovationProjectPropos_12750]]*
 
+> This document is a 1994 public-comment letter and attachment package from the [[Tonto National Forest]] (Forest Supervisor Charles R. Bazan). It presents draft management objectives, evaluation criteria, mitigation standards, and five draft alternatives for the Picketpost Mountain/Arnett Creek...
+> -- *[[DraftManagementObjectivesAndDr_15660]]*
+
 ### Mentioned In
 - [[BogHoleRenovationProjectPropos_12750]]
+- [[DraftManagementObjectivesAndDr_15660]]
 
 ## Interface Theory
 
@@ -4764,6 +4856,9 @@ Interface theory treats transition zones as places where structural or functiona
 > This Final Report (February 1998), prepared by Duncan T. Patten for the [[Bureau of Reclamation]] and the [[Grand Canyon Monitoring and Research Center]] under Cooperative Agreement 1425-96-FC-81-05003, evaluates research funded by [[Glen Canyon Environmental Studies]] (GCES) Phases I and II. It...
 > -- *[[IntegrationAndEvaluationOfGlen_18447]]*
 
+> This draft work plan, dated November 23, 1991, sets out the [[Glen Canyon Environmental Studies]] (GCES) approach for measuring the downstream effects of the [[Interim Flows]] released from [[Glen Canyon Dam]]. The plan is a framework rather than a detailed study design. It defines four evaluations...
+> -- *[[GlenCanyonEnvironmentalStudies_19702]]*
+
 ### Mentioned In
 - [[DecemberCritsMeetingSynthesisA_1994_01_04]]
 - [[IntegrationAndEvaluationOfGlen_13851]]
@@ -4771,6 +4866,7 @@ Interface theory treats transition zones as places where structural or functiona
 - [[PrincipalInvestigatorsMeeting_13623]]
 - [[TheEffectsOfInterimFlowsFromGl_13608]]
 - [[IntegrationAndEvaluationOfGlen_18447]]
+- [[GlenCanyonEnvironmentalStudies_19702]]
 
 ## Interim Operating Criteria
 
@@ -5245,8 +5341,12 @@ An international conservation organization whose lists of threatened species are
 > This recovery plan, prepared by the [[Rio Grande Fishes Recovery Team]] and approved by the [[U.S. Fish and Wildlife Service]] on April 20, 1981, addresses the [[Comanche Springs Pupfish]] (*Cyprinodon elegans*), a species listed as endangered under the [[Endangered Species Act]] of 1973. The...
 > -- *[[ComancheSpringsPupfishCyprinod_13298]]*
 
+> This document is a 1970 exchange of letters between American ichthyologist [[Robert R. Miller]] and Mexican botanist [[Arturo Gomez Pompa]] of the [[Universidad Nacional Autónoma de México]] (UNAM). Miller writes to urge protection of two Mexican aquatic sites of high biological value: the [[Cuatro...
+> -- *[[InterestInConservationInLatinA_15353]]*
+
 ### Mentioned In
 - [[ComancheSpringsPupfishCyprinod_13298]]
+- [[InterestInConservationInLatinA_15353]]
 
 ## International Union for Conservation of Nature and Natural Resources
 
@@ -5259,6 +5359,18 @@ The IUCN is the international conservation body that, according to this source, 
 
 ### Mentioned In
 - [[TechnicalReviewDraftYaquiFishe_13259]]
+
+## International Union for the Conservation of Nature
+
+### Summary
+The International Union for the Conservation of Nature (IUCN) is a global conservation organization. According to the source, it was recommending the larger U.S.-Mexico sky-island region as a Center of Plant Diversity.
+
+### Context
+> This 1992 proposal by the [[Sky-Island Alliance]] asks the U.S. Forest Service and Congress to designate the most ecologically rich mountain ranges of the [[Coronado National Forest]] as a biodiversity conservation area (a National Conservation Area, or possibly a [[UNESCO Biosphere Reserve]])...
+> -- *[[SkyislandNationalBiodiversityC_19020]]*
+
+### Mentioned In
+- [[SkyislandNationalBiodiversityC_19020]]
 
 ## International Water Resources Association
 
@@ -5616,10 +5728,15 @@ The approach area in the laboratory where test fish were released as they arrive
 ### Summary
 Introgressive hybridization in fish science refers to the process by which genetic material from one species becomes incorporated into the gene pool of another species through repeated backcrossing of hybrids with one or both parental species. This phenomenon is particularly significant in conservation biology and aquatic ecology because it can alter the genetic integrity of native fish populations, especially when non-native or hatchery-origin fish interbreed with wild populations, potentially reducing fitness and evolutionary distinctiveness of conservation-important stocks. Understanding introgressive hybridization is critical for managing threatened species and maintaining taxonomically distinct populations in the face of human-mediated introductions and habitat fragmentation.
 
+### Context
+> This paper, by Robert R. Miller, argues that [[Hybridization]] between fish species is common in temperate freshwaters, especially in the [[Nearctic Region]], and that human-driven environmental change and species introductions have accelerated it. The author classifies hybrids into three types...
+> -- *[[HybridizationAsAFactorInTheSpe_15346]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[EvolutionarySignificanceOfIntr_19106]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
+- [[HybridizationAsAFactorInTheSpe_15346]]
 
 ## Introgressive Hybridization In Salmonids
 <!-- fm: auto_enriched: true -->
@@ -5924,6 +6041,18 @@ This is a 1952 publication by Larimore, Pickering, and Durham cited in the sourc
 ### Mentioned In
 - [[EcologicalFactorsAffectingTheG_19169]]
 
+## Inverse Stratification
+
+### Summary
+A condition in which colder, less dense water lies above warmer water, which is unusual for lakes. The April 1979 forebay profile showed it under ice, with 1.4 °C at the surface and 3.8 °C at the bottom. The authors used this pattern to support classifying the forebay as cold monomictic.
+
+### Context
+> This Bureau of Reclamation report presents the preoperational limnological baseline for the [[Mt. Elbert Forebay]], a pumped-storage reservoir north of [[Twin Lakes]], Colorado. Sampling ran from November 1978 through September 1979. The forebay was classed as a cold monomictic impoundment. It was...
+> -- *[[LimnologyOfMtElbertForebay_17710]]*
+
+### Mentioned In
+- [[LimnologyOfMtElbertForebay_17710]]
+
 ## Invertebrate Bioassay
 
 ### Context
@@ -6109,6 +6238,9 @@ The Iowa Darter is a small freshwater fish species documented in mid-20th centur
 > This 1964 Bureau of Sport Fisheries and Wildlife circular reports preliminary laboratory and field investigations of [[Antimycin A]], an antifungal antibiotic, as a potential fish toxicant for fishery management. The study evaluated toxicity at concentrations of 0.01 to 120 p.p.b. on 24 freshwater...
 > -- *[[PrelimaryObservationsOnTheToxi_14434]]*
 
+> This 1976 Bureau of Reclamation report (GR-2-77, by J.F. LaBounty, J.J. Sartoris and R.A. Roline) presents a baseline limnological survey of [[Seminoe Reservoir]], a mainstream [[North Platte River]] impoundment in south-central Wyoming. Field work took place August 31 to September 3, 1976, at five...
+> -- *[[LimnologicalReconnaissanceOfSe_12640]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AntimycinFintrolAsAFishToxican_1965_10_18]]
@@ -6116,6 +6248,7 @@ The Iowa Darter is a small freshwater fish species documented in mid-20th centur
 - [[IncreasedGrowthRateOfRockBassA_15683]]
 - [[RatesOfSurvivalAndGrowthOfBlue_12437]]
 - [[PrelimaryObservationsOnTheToxi_14434]]
+- [[LimnologicalReconnaissanceOfSe_12640]]
 
 ## Iowa Lakes Quantitative Creel Census
 <!-- fm: auto_enriched: true -->
@@ -6379,6 +6512,18 @@ Man-made agricultural drainage channels that carry irrigation runoff to the Salt
 
 ### Mentioned In
 - [[ADistributionSurveyOfDesertPup_20197]]
+
+## Irrigation Reservoir
+
+### Summary
+A human-made water body built to store water for agricultural irrigation. In this source, Colorado small warmwater irrigation reservoirs (under 500 acres) are described as lying at 3,400 to 5,000 ft elevation, with short effective warm-water growing seasons and a tendency for panfish to overpopulate.
+
+### Context
+> This Colorado Division of Wildlife Special Report (No. 31, April 1973, by T. G. Powell) evaluates whether [[Northern Pike]] stocking can control an overabundant [[White Crappie]] population in [[Carbody Reservoir]], a small [[Irrigation Reservoir]] on the Colorado high plains. The crappie...
+> -- *[[EffectOfNorthernPikeIntroducti_18653]]*
+
+### Mentioned In
+- [[EffectOfNorthernPikeIntroducti_18653]]
 
 ## Irrigation Reservoirs
 
@@ -7281,6 +7426,18 @@ The IUCN (International Union for Conservation of Nature) is a global authority 
 
 ### Mentioned In
 - [[TheFutureOfFishes_14521]]
+
+## IUCN Red Book
+
+### Summary
+The Red Data Book series published by the International Union for Conservation of Nature to list threatened species. According to Miller, the Freshwater Fish Group he chaired recently produced the first world listing of threatened freshwater fishes as Volume IV of this series.
+
+### Context
+> This document is a 1970 exchange of letters between American ichthyologist [[Robert R. Miller]] and Mexican botanist [[Arturo Gomez Pompa]] of the [[Universidad Nacional Autónoma de México]] (UNAM). Miller writes to urge protection of two Mexican aquatic sites of high biological value: the [[Cuatro...
+> -- *[[InterestInConservationInLatinA_15353]]*
+
+### Mentioned In
+- [[InterestInConservationInLatinA_15353]]
 
 ## IUCN Red Data Book
 

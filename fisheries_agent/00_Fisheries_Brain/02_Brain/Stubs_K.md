@@ -113,6 +113,18 @@ The Kaibab National Forest is a national forest in northern Arizona. The source 
 ### Mentioned In
 - [[PathogensAsAFactorLimitingTheS_1991]]
 
+## Kaibab Squirrel
+
+### Summary
+A squirrel form closely related to Abert's squirrel, listed alongside it in the source's mammal index. The note does not provide findings about it.
+
+### Context
+> This document is USDA Forest Service General Technical Report RM-16 (September 1975) by [[David R. Patton]] and [[Peter F. Ffolliott]]. It is an annotated-by-subject bibliography of 390 references on wildlife and habitat management in Arizona and New Mexico, covering publications from 1913 to early...
+> -- *[[SelectedBibliographyOfWildlife_18466]]*
+
+### Mentioned In
+- [[SelectedBibliographyOfWildlife_18466]]
+
 ## Kaiser Pumping Plant
 
 ### Summary
@@ -357,6 +369,12 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This 1994 University of Arizona M.S. thesis by Edward (Ted) Osgood Otis IV documents seasonal distribution, abundance, and composition of fishes in two [[Grand Canyon]] tributaries of the [[Colorado River]], [[Bright Angel Creek]] and [[Kanab Creek]], from January 1992 to June 1993. Sampling used...
 > -- *[[DistributionAbundanceAndCompos_18356]]*
 
+> This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
+> -- *[[DistributionStatusAndNotesOnTh_18709]]*
+
+> This Phase I feasibility evaluation, prepared by [[BIO/WEST, Inc.]] (Ronald J. Ryel and Richard A. Valdez, March 8, 1993), assesses whether a population model should be developed for the endangered [[Humpback Chub]] (*Gila cypha*) in Grand Canyon. The authors conclude that a modelling effort would...
+> -- *[[DevelopmentOfAPopulationModelF_21128]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -382,6 +400,8 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[DiaryOfGrandCanyonSurvey_17643]]
 - [[GlenCanyonEnvironmentalStudies_11085]]
 - [[DistributionAbundanceAndCompos_18356]]
+- [[DistributionStatusAndNotesOnTh_18709]]
+- [[DevelopmentOfAPopulationModelF_21128]]
 
 ## Kanab Creek-Virgin River Basin
 <!-- fm: auto_enriched: true -->
@@ -778,6 +798,30 @@ Cited (1952) as the source of the method used to mount fish scales for ageing, i
 
 ### Mentioned In
 - [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
+
+## Karluk Lagoon
+
+### Summary
+Karluk Lagoon is a shallow lagoon on Kodiak Island, Alaska, where this 1953 study set up its trap and gill-net site for tagging red salmon. Tagged fish were held and counted there, and the authors recorded 110 tagged dead fish recovered in the lagoon, most of them net-marked.
+
+### Context
+> This 1955 U.S. Fish and Wildlife Service Research Report (No. 40), by Philip R. Nelson and Carl E. Abegglen, measures whether [[Gill Net]] marks reduce the survival and spawning success of [[Red Salmon]]. In 1953, 6,253 salmon were tagged at a trap and gill-net site in [[Karluk Lagoon]], [[Kodiak...
+> -- *[[SurvivalAndSpawningOfGillnetma_19634]]*
+
+### Mentioned In
+- [[SurvivalAndSpawningOfGillnetma_19634]]
+
+## Karluk Weir
+
+### Summary
+The Karluk Weir is a counting weir on the Karluk River, about 23 miles upstream from the lagoon study site. Tagged fish were counted there, and about 44.3% of net-marked fish and 63.8% of controls in Group A passed through it. The authors also note that up to 20% of fish at the weir were net-marked in some weeks.
+
+### Context
+> This 1955 U.S. Fish and Wildlife Service Research Report (No. 40), by Philip R. Nelson and Carl E. Abegglen, measures whether [[Gill Net]] marks reduce the survival and spawning success of [[Red Salmon]]. In 1953, 6,253 salmon were tagged at a trap and gill-net site in [[Karluk Lagoon]], [[Kodiak...
+> -- *[[SurvivalAndSpawningOfGillnetma_19634]]*
+
+### Mentioned In
+- [[SurvivalAndSpawningOfGillnetma_19634]]
 
 ## Karmex
 <!-- fm: auto_enriched: true -->
@@ -1235,8 +1279,12 @@ Kelp beds are nearshore underwater forests of large brown algae along the Pacifi
 > This paper (Watten, 1983) describes the design, construction, and cost of a novel **spring-activated gate-valve water sampler** intended to overcome deficiencies in traditional sub-surface water sampling instruments such as the [[Kemmerer Sampler]] and [[Van Dorn Sampler]]. The device is engineer...
 > -- *[[ASubSurfaceWaterSamplerForLake_14940]]*
 
+> This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
+> -- *[[ObservationsOnTheLimnologicalD_14675]]*
+
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
+- [[ObservationsOnTheLimnologicalD_14675]]
 
 ## Kemmerer Water Sampler
 
@@ -1381,6 +1429,18 @@ Kenkiidae is a proposed third triclad family named by Hyman in 1937. The paper n
 ### Mentioned In
 - [[FreshwaterTricladsTurbellariaO_17938]]
 
+## Kennebec River
+
+### Summary
+The Kennebec River is a large river in Maine, and this report studies its reach between Wyman Dam and Solon Dam. The source describes it as draining 2,710 square miles at Bingham, with flow regulated by reservoirs and two power plants. Its lower-study-reach bottom is mainly rubble with good trout spawning and nursery areas.
+
+### Context
+> This report documents a 1954–1955 study of the [[Rainbow Trout]] fishery in the [[Kennebec River]] between [[Wyman Dam]] and [[Solon Dam]], Maine, with attention to temperature, flow, spawning tributaries, age and growth, and the effects of hatchery stocking. Rainbow trout were introduced to the...
+> -- *[[PreliminaryStudyOfKennebecRive_17719]]*
+
+### Mentioned In
+- [[PreliminaryStudyOfKennebecRive_17719]]
+
 ## Kennebunk, Maine
 <!-- fm: auto_enriched: true -->
 
@@ -1500,6 +1560,15 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This U.S. Fish and Wildlife Service (FWS) annual report, published March 1990 by Region 6 (Denver), summarizes status and accounting for the FY-1989 projects of the [[Recovery Implementation Program]] for endangered fishes in the [[Upper Colorado River Basin]]. It covers 39 Work Plan projects plus...
 > -- *[[FiscalYearAnnualReport_19224]]*
 
+> This document is a U.S. Fish and Wildlife Service (FWS) memorandum transmitting the summary of the April 6-7, 1989, [[Management Group]] meeting of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The attachments include a [[Technical Group]] meeting...
+> -- *[[AprilManagementGroupMeetingSum_21010]]*
+
+> This document is a 1989 file of correspondence, meeting summaries, agendas, work plan tables and proposals for the [[Upper Colorado River Recovery Program]], a multi-agency effort to recover endangered big-river fishes. The fishes named are [[Colorado Pikeminnow]], [[Razorback Sucker]], [[Humpback...
+> -- *[[JulyDraftManagmentGroupMetingS_21013]]*
+
+> This document is a solicitation and guidance packet issued by the [[Technical Group]] of the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. It asks researchers, managers and interested individuals to submit proposals for Fiscal Year 1990 (FY-90)...
+> -- *[[ColoradoRiverEndangeredFishRec_21021]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1516,6 +1585,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[AprilManagementGroupMeetingSum_21009]]
 - [[ManagementGroupMeeting_21017]]
 - [[FiscalYearAnnualReport_19224]]
+- [[AprilManagementGroupMeetingSum_21010]]
+- [[JulyDraftManagmentGroupMetingS_21013]]
+- [[ColoradoRiverEndangeredFishRec_21021]]
 
 ## Kennith Foster
 
@@ -1938,10 +2010,14 @@ The Kern River Rainbow Trout is an endemic California salmonid historically rest
 > - **Habitat context**: The salmonids under discussion occupy North Pacific freshwater and anadromous marine systems, including lacustrine (lake), riverine, and coastal marine environments. - **Evolutionary/ecological history** (per attached speculative phylogeny): 1. **Miocene radiation** of larg...
 > -- *[[LetterToDADuffOnSalmoAndParasa_1988_03_09]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
 ### Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[LetterToDADuffOnSalmoAndParasa_1988_03_09]]
 - [[SalmoRoseiNotAValidSpecies_12861]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
 
 ## Kern River Trout Hatchery
 
@@ -3443,6 +3519,18 @@ Koberg and Ford are researchers who conducted similar work on destratification a
 ### Mentioned In
 - [[LineCutsFromPencilSketches_12400]]
 
+## Kodiak Island
+
+### Summary
+Kodiak Island is a large island off the south coast of Alaska in the North Pacific. In this source it is the island on which the Karluk Lagoon study site lies.
+
+### Context
+> This 1955 U.S. Fish and Wildlife Service Research Report (No. 40), by Philip R. Nelson and Carl E. Abegglen, measures whether [[Gill Net]] marks reduce the survival and spawning success of [[Red Salmon]]. In 1953, 6,253 salmon were tagged at a trap and gill-net site in [[Karluk Lagoon]], [[Kodiak...
+> -- *[[SurvivalAndSpawningOfGillnetma_19634]]*
+
+### Mentioned In
+- [[SurvivalAndSpawningOfGillnetma_19634]]
+
 ## Kofa National Wildlife Refuge
 
 ### Summary
@@ -3526,6 +3614,12 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This Inland Fisheries Administrative Report, by Almo J. Cordone and Stephen Phinney of the [[California Department of Fish and Game]], documents a biological survey of silt pollution in the [[Truckee River]] and [[Cold Creek]], conducted September 2–4, 1958. The survey followed a near-continuous...
 > -- *[[NotesOnSiltPollutionInTheTruck_17588]]*
 
+> This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
+> -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
+
+> This Ontario Department of Lands and Forests Research Information Paper (Fisheries) No. 37 (February 1970, by W. J. Christie) reviews two native Japanese Pacific salmons, the [[Cherry Salmon]] (*Oncorhynchus masou*) and the [[Redspot Salmon]] (*O. rhodurus*), as candidates for introduction into the...
+> -- *[[AReviewOfTheJapaneseSalmons_16151]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -3545,6 +3639,8 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[CoueuDaleneLakeFisheriesInvest_19366]]
 - [[AnnotatedListOfTheFishesOfTheL_18070]]
 - [[NotesOnSiltPollutionInTheTruck_17588]]
+- [[ACheckListOfTheFreshwaterAndAn_11395]]
+- [[AReviewOfTheJapaneseSalmons_16151]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -3938,8 +4034,12 @@ Koski (1974) is an author cited in the source who proposed that anthropogenic en
 > 6. **Cited Foundational Sources**: - [[Koster 1957]] – *Guide to the Fishes of New Mexico*, University of New Mexico Press. - [[Minckley 1973]] – *Fishes of Arizona*, Arizona Game and Fish Department. - [[Propst, Bestgen & Painter 1986]] – *Distribution, Status, Biology, and Conservation of the S...
 > -- *[[LetterToBureauOfReclamationReg_1987_01_31]]*
 
+> This U.S. Forest Service Southwest Region publication, Wildlife Habitat Technical Bulletin No. 5 (April 6, 1978), is a systematic checklist of vertebrate species that occur in [[Arizona]] and [[New Mexico]]. Compiled by David R. Patton, it was built to store wildlife data for the 1979 Wildlife...
+> -- *[[VertebrateChecklistForArizonaA_18465]]*
+
 ### Mentioned In
 - [[LetterToBureauOfReclamationReg_1987_01_31]]
+- [[VertebrateChecklistForArizonaA_18465]]
 
 ## Kowie River
 <!-- fm: auto_enriched: true -->
@@ -4024,6 +4124,18 @@ The author of U.S. Geological Survey geologic quadrangle maps GQ-668 and GQ-669 
 ### Mentioned In
 - [[WellInformationaravaipaValleyA_19181]]
 
+## Krill
+
+### Summary
+Krill are small planktonic crustaceans, and the Antarctic krill fishery is the source's main example of opposite-direction species interactions. Gulland notes that whale depletion may increase krill density, while krill catches may slow whale recovery, so krill total allowable catch should be set with whales in mind.
+
+### Context
+> This FAO Fisheries Circular by J.A. Gulland (1983) is a non-specialist guide to why [[Stock Assessment]] is needed and how it is conducted. Its central argument is that assessment advice is essential to fishery administrators, investors and industry at every stage of a fishery's development. The...
+> -- *[[StockAssessmentWhy_17822]]*
+
+### Mentioned In
+- [[StockAssessmentWhy_17822]]
+
 ## Krogh 1914
 <!-- fm: auto_enriched: true -->
 
@@ -4043,8 +4155,12 @@ Krumholz is an author cited in the leaflet's reference list for a 1948 work on r
 > This 1949 U.S. Fish and Wildlife Service leaflet, prepared by the Branches of Fishery Biology and Game-fish and Hatcheries, gives practical guidance on using [[Rotenone]] (from [[Derris]] and [[Cube]] powders) to eradicate unwanted fish from lakes, ponds, and streams. It stresses that poisoning...
 > -- *[[TheUseOfRotenoneAsAFishPoison_13279]]*
 
+> This Illinois Natural History Survey bulletin (Biological Notes No. 46, November 1961) by [[William F. Childers]] and [[George W. Bennett]] tests whether hybrid sunfish could serve as a stocking fish for small warm-water ponds. The stated problem is overpopulation and stunting in ponds, which makes...
+> -- *[[HybridizationBetweenThreeSpeci_16130]]*
+
 ### Mentioned In
 - [[TheUseOfRotenoneAsAFishPoison_13279]]
+- [[HybridizationBetweenThreeSpeci_16130]]
 
 ## Krumholz 1946
 <!-- fm: auto_enriched: true -->
@@ -4087,6 +4203,18 @@ Krumholz is an author cited in the leaflet's reference list for a 1948 work on r
 
 ### Mentioned In
 - [[ChangesInTheFishPopulationInTh_12453]]
+
+## Kruskal-Wallis Test
+
+### Summary
+The Kruskal-Wallis test is a nonparametric statistical test that does not assume normally distributed data. The authors used it because most count data in this survey were not normally distributed. The source reports significant differences in angler counts by location, month, and period using this approach, but not by day type.
+
+### Context
+> This Technical Report by the [[Arizona Game and Fish Department]] (Region V Fisheries Program, Technical Report 98-5-1) documents a 1998 creel survey of anglers on the Upper Gila River and three area lakes in Graham County, Arizona. The survey was motivated by a 1997 department proposal to remove...
+> -- *[[UpperGilaRiverAnglerSurvey_18636]]*
+
+### Mentioned In
+- [[UpperGilaRiverAnglerSurvey_18636]]
 
 ## Kudo 1954 Classification
 <!-- fm: auto_enriched: true -->
@@ -4180,6 +4308,18 @@ Kuhlia rupestris is a fish species found in the Kosi System. One individual was 
 
 ### Mentioned In
 - [[AReportOnTheLakesOfTheTippecan_11316]]
+
+## Kundaeli
+
+### Summary
+Cited with Reynolds (1972) for a study on pinyon-juniper removal and the responses of cottontails and deer.
+
+### Context
+> This document is USDA Forest Service General Technical Report RM-16 (September 1975) by [[David R. Patton]] and [[Peter F. Ffolliott]]. It is an annotated-by-subject bibliography of 390 references on wildlife and habitat management in Arizona and New Mexico, covering publications from 1913 to early...
+> -- *[[SelectedBibliographyOfWildlife_18466]]*
+
+### Mentioned In
+- [[SelectedBibliographyOfWildlife_18466]]
 
 ## Kunde Allotment
 

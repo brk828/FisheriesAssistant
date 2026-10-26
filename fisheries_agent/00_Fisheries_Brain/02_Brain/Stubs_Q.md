@@ -338,6 +338,18 @@ The Quail Creek Water Reclamation Project was a water infrastructure project und
 ### Mentioned In
 - [[AnnualReportFisheryManagementP_1970_02_06]]
 
+## Quail Springs Dam
+
+### Summary
+Quail Springs Dam is one of the potential dam sites on the San Francisco River considered in the report's planning options. The source lists it among development alternatives without giving detailed analysis of it.
+
+### Context
+> This January 1963 Bureau of Reclamation memorandum report, prepared by the Region 3 office in [[Boulder City, Nevada]], gives a preliminary reconnaissance of the water resource potential of the [[Upper Gila River Basin]] in New Mexico. It excludes the Upper San Simon Valley. The study inventories...
+> -- *[[UpperGilaRiverInvestigationsNe_11521]]*
+
+### Mentioned In
+- [[UpperGilaRiverInvestigationsNe_11521]]
+
 ## Quaking Aspen
 
 ### Summary
@@ -730,8 +742,12 @@ The Quien Sabe Prescribed Burn is a planned prescribed fire in the Cave Creek ra
 > This 1992 report, prepared by [[Jerome A. Stefferud]] for the [[Tonto National Forest]], documents the first year of fishery and habitat monitoring tied to the [[Quien Sabe Prescribed Burn]] on [[Cave Creek]] and [[Seven Springs Wash]], Arizona. Monitoring was a term of the [[Biological Opinion]]...
 > -- *[[FisheryMonitoringForTheQuienSa_14755]]*
 
+> This document is a U.S. Fish and Wildlife Service (FWS) biological opinion, dated October 3, 1991, issued under Section 7 of the [[Endangered Species Act]] to the [[U.S. Forest Service]] (USFS). It assesses the proposed [[Quien Sabe Prescribed Burn]], a 4,000-acre controlled burn on the Cave Creek...
+> -- *[[DraftBiologicalOpinionQuienSab_11862]]*
+
 ### Mentioned In
 - [[FisheryMonitoringForTheQuienSa_14755]]
+- [[DraftBiologicalOpinionQuienSab_11862]]
 
 ## Quilcene
 <!-- fm: auto_enriched: true -->
