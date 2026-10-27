@@ -59,8 +59,12 @@ The Qu'Appelle River is a river system in southern Saskatchewan, Canada, that in
 > - **Habitat Statistics**: 1,687 lakes/ponds/reservoirs statewide (139,000 acres total), with only 450 water bodies (38,000 acres, excluding the 25,000-acre [[Quabbin Reservoir]]) legally open to public fishing and management. - **Depth Stratification**: Approximately 25% of manageable acreage is ...
 > -- *[[WhyTheMassachusettsDivisionOfF_15491]]*
 
+> This 1969 manual, written by Paul S. Mugford and published by the [[Massachusetts Division of Fisheries and Game]] (Publication No. 4064), is a field identification guide to the freshwater fishes of Massachusetts. It illustrates more than seventy species, provides dichotomous keys to families and...
+> -- *[[IllustratedManualOfMassachuset_15557]]*
+
 ### Mentioned In
 - [[WhyTheMassachusettsDivisionOfF_15491]]
+- [[IllustratedManualOfMassachuset_15557]]
 
 ## Quaboag River
 <!-- fm: auto_enriched: true -->
@@ -207,6 +211,18 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 - [[LetterToGalenButerbaughOnVirgi_1989_02_27]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
 
+## Quail Creek Dam Breach
+
+### Summary
+A breach of the Quail Creek Dam in January 1989, listed by the Nevada Division of Wildlife as one of the events whose effect on native fishes the study was asked to evaluate. The report does not establish a specific finding for this event beyond posing it as a research question.
+
+### Context
+> This draft report by [[BIO/WEST]] re-analyzes the [[Virgin River Database]], a centralized record of fish monitoring at multiple stations since 1976, to explain declines in native fishes. The primary focus is [[Woundfin]], a federally endangered minnow, with secondary attention to [[Virgin River...
+> -- *[[AnEvaluationOfChangesInNativeF_20471]]*
+
+### Mentioned In
+- [[AnEvaluationOfChangesInNativeF_20471]]
+
 ## Quail Creek Diversion
 
 ### Summary
@@ -283,6 +299,15 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 > This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
 > -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
 
+> This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
+> -- *[[CollectedNotesminutesreportsno_17172]]*
+
+> This draft report by [[BIO/WEST, Inc.]] (prepared for the [[U.S. Fish and Wildlife Service]], co-funded by the [[Southern Nevada Water Authority]]) re-examines a 1976–1993 monitoring database for native fishes of the Virgin River. Its central aim is to determine what caused the decline of...
+> -- *[[DraftAnEvaluationOfChangesInNa_17641]]*
+
+> This draft report by [[BIO/WEST]] re-analyzes the [[Virgin River Database]], a centralized record of fish monitoring at multiple stations since 1976, to explain declines in native fishes. The primary focus is [[Woundfin]], a federally endangered minnow, with secondary attention to [[Virgin River...
+> -- *[[AnEvaluationOfChangesInNativeF_20471]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -299,6 +324,9 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[VirginRiverFishSamplingJanuary_19425]]
 - [[AVisionForTheVirginConservatio_15060]]
 - [[FisheriesSurveyOfTheVirginRive_16379]]
+- [[CollectedNotesminutesreportsno_17172]]
+- [[DraftAnEvaluationOfChangesInNa_17641]]
+- [[AnEvaluationOfChangesInNativeF_20471]]
 
 ## Quail Creek Reservoir Project
 <!-- fm: auto_enriched: true -->

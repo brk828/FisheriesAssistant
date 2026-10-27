@@ -16,6 +16,18 @@ The 0.5 m conical plankton net is a low-speed net with a 0.5 m mouth diameter, a
 ### Mentioned In
 - [[FactorsAffectingAccuracyOfIcht_17749]]
 
+## 100-Year Floodplain
+
+### Summary
+The area inundated by a flood with a 1% annual chance of occurring in a given year. In this assessment, the Virgin River's 100-year floodplain is part of the proposed critical habitat, because seasonal inundation and large flow events are important for the native fishes' spawning and habitat renewal.
+
+### Context
+> This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
+> -- *[[DesignationOfCriticalHabitatFo_20640]]*
+
+### Mentioned In
+- [[DesignationOfCriticalHabitatFo_20640]]
+
 ## 104th Congress
 
 ### Summary
@@ -189,6 +201,12 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
 > -- *[[JulyManagementGroupMeetingSumm_21031]]*
 
+> This 1989 final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fishery Project evaluates how the endangered [[Colorado Squawfish]] and [[Razorback Sucker]] use the 14.2-mile [[15-Mile Reach]] of the [[Colorado River]] in the [[Grand Valley]], Colorado. The study ran from May 1986...
+> -- *[[StudiesOfColoradoSquawfishAndR_18346]]*
+
+> This U.S. Fish and Wildlife Service report (Colorado River Fishery Project, April 1991; authors Douglas B. Osmundson and Lynn R. Kaeding) gives year-round flow recommendations for the [[15-Mile Reach]] of the [[Upper Colorado River]] for October through June. It addresses the endangered [[Colorado...
+> -- *[[RecommendationsForFlowsInTheMi_18351]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -216,6 +234,8 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[MinutesfebruaryRecoveryImpleme_21004]]
 - [[MinutesfebruaryRecoveryImpleme_21005]]
 - [[JulyManagementGroupMeetingSumm_21031]]
+- [[StudiesOfColoradoSquawfishAndR_18346]]
+- [[RecommendationsForFlowsInTheMi_18351]]
 
 ## 15-Mile Reach Gage
 
@@ -238,8 +258,12 @@ The 18-Mile Reach is a section of the Colorado River in the Upper Colorado River
 > This document comprises multiple research proposals (FY-1994 Scope-of-Work) for the Recovery Implementation Program targeting endangered fish species in the [[Upper Colorado River Basin]]. The proposals focus on evaluating flow manipulations from the [[Aspinall Unit]] and their effects on...
 > -- *[[FiscalYearScopeOfWorkResearchP_11213]]*
 
+> This 1989 final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fishery Project evaluates how the endangered [[Colorado Squawfish]] and [[Razorback Sucker]] use the 14.2-mile [[15-Mile Reach]] of the [[Colorado River]] in the [[Grand Valley]], Colorado. The study ran from May 1986...
+> -- *[[StudiesOfColoradoSquawfishAndR_18346]]*
+
 ### Mentioned In
 - [[FiscalYearScopeOfWorkResearchP_11213]]
+- [[StudiesOfColoradoSquawfishAndR_18346]]
 
 ## 1922 Colorado River Compact
 
@@ -395,6 +419,9 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 > This document is a bibliographic compilation of literature on the control of aquatic plants and algae, prepared by Margaret Greenwald of the Research Division of the [[Chipman Chemical Company]], Bound Brook, New Jersey, in January 1956. It replaces an earlier 1954 list and is explicitly described...
 > -- *[[ListOfReferencesOnControlOfAqu_19263]]*
 
+> This Pennsylvania extension-style guide explains how aquatic plants (flowering plants and algae) shape freshwater ecosystems, why they are sometimes desirable and sometimes a nuisance, and how managers can control them. It covers the three growth forms of flowering plants ([[Submergent Plants]],...
+> -- *[[AquaticPlantsManagementAndCont_17108]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
@@ -402,6 +429,7 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 - [[ControlOfAquaticPlantsInPondsA_14680]]
 - [[YourOwnFishpond_17944]]
 - [[ListOfReferencesOnControlOfAqu_19263]]
+- [[AquaticPlantsManagementAndCont_17108]]
 
 ## 2,4-D Herbicide
 

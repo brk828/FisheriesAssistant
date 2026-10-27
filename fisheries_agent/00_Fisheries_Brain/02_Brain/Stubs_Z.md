@@ -434,6 +434,18 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 - [[AStudyOfSomeFishlessRiversInTh_16697]]
 - [[ConceptualManagementPlanForHab_13899]]
 
+## Zinc Analysis
+
+### Summary
+The study's assessment of whether zinc limits Bear Lake's productivity. Kemmerer et al.'s 1912 sample gave 0.65 ppm. Current analyses found a maximum of 0.076 ppm and a lake average of 0.020 ppm, so the authors conclude zinc is not a limiting factor.
+
+### Context
+> This 1957 bulletin, produced jointly by the [[Utah State Department of Fish and Game]], the [[Idaho Department of Fish and Game]] and the Wildlife Management Department of Utah State Agricultural College, reports a multi-year study of [[Bear Lake]], a large, deep, naturally alkaline lake straddling...
+> -- *[[BearLakeItsFishAndFishing_12272]]*
+
+### Mentioned In
+- [[BearLakeItsFishAndFishing_12272]]
+
 ## Zinc Sulphate
 <!-- fm: auto_enriched: true -->
 
@@ -881,6 +893,15 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This 1946 report, written by a fisheries worker for the [[Arizona Game and Fish Commission]], evaluates a low-cost method of controlling submerged aquatic vegetation by darkening water with a black dye, so that less [[Light Penetration|light]] reaches rooted plants. The dye of choice was...
 > -- *[[AnalineDyeInAquaticWeedControl_15796]]*
 
+> This Resource Publication (No. 62), prepared by Donald Chapman, Leader of the [[Idaho Cooperative Fishery Unit]] and issued by the United States Department of the Interior in June 1968, reports on the 1967 activities of the [[Cooperative Fishery Units]] program. The program is a nationwide...
+> -- *[[AnnualReportForCooperativeFish_11527]]*
+
+> This 1957 bulletin, produced jointly by the [[Utah State Department of Fish and Game]], the [[Idaho Department of Fish and Game]] and the Wildlife Management Department of Utah State Agricultural College, reports a multi-year study of [[Bear Lake]], a large, deep, naturally alkaline lake straddling...
+> -- *[[BearLakeItsFishAndFishing_12272]]*
+
+> This 1950s Georgia Game and Fish Commission handbook, written by Fred J. Dickson, Chief of Fish Management, is a practical guide to building, stocking, fertilizing, fishing, and renovating private farm ponds in Georgia. It focuses on [[Largemouth Bass]] and [[Bluegill]] as the core species, and...
+> -- *[[GeorgiaFishPondManagement_12850]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -907,6 +928,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[SystematicsAndBiologyOfTheGizz_15335]]
 - [[TheBiologyOfTheEstuary_18021]]
 - [[AnalineDyeInAquaticWeedControl_15796]]
+- [[AnnualReportForCooperativeFish_11527]]
+- [[BearLakeItsFishAndFishing_12272]]
+- [[GeorgiaFishPondManagement_12850]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->

@@ -1420,9 +1420,13 @@ Kelp bass is a nearshore reef fish of the California coast that supports a recre
 > This appendix, written by W. I. Follett for the 1962–1963 Annual Report of the [[Archaeological Survey]] (University of California, Los Angeles), identifies fish remains from the [[Century Ranch Site]] (LAn-227). The site lies in an inland valley of the [[Santa Monica Mountains]], about 64 miles by...
 > -- *[[FishRemainsFromTheCenturyRanch_18756]]*
 
+> Fish Bulletin 122 (California Department of Fish and Game, 1963), by Parke H. Young, is a long-term study of the [[Kelp Bass]] (*Paralabrax clathratus*) as a target of the southern California [[Sportboat Fishery]]. It combines 1947-1958 sport-catch logs, dockside verification, tagging (5,817 bass...
+> -- *[[TheKelpBassParalabraxClathratu_20910]]*
+
 ### Mentioned In
 - [[AnAnnotatedBibliographyOfResea_14741]]
 - [[FishRemainsFromTheCenturyRanch_18756]]
+- [[TheKelpBassParalabraxClathratu_20910]]
 
 ## Kelp Beds
 
@@ -1433,8 +1437,12 @@ Kelp beds are nearshore underwater forests of large brown algae along the Pacifi
 > This appendix by W. I. Follett reports the identified fish remains from [[LAn-229]], a [[Chumash]] archaeological site on the [[Century Ranch Sites]] in western Los Angeles County. The collection of 574 specimens, mostly vertebrae in fragmentary condition, yielded at least 19 species in 18 genera...
 > -- *[[FishRemainsFromCenturyRanchSit_18766]]*
 
+> Fish Bulletin 122 (California Department of Fish and Game, 1963), by Parke H. Young, is a long-term study of the [[Kelp Bass]] (*Paralabrax clathratus*) as a target of the southern California [[Sportboat Fishery]]. It combines 1947-1958 sport-catch logs, dockside verification, tagging (5,817 bass...
+> -- *[[TheKelpBassParalabraxClathratu_20910]]*
+
 ### Mentioned In
 - [[FishRemainsFromCenturyRanchSit_18766]]
+- [[TheKelpBassParalabraxClathratu_20910]]
 
 ## Kelp Forest
 <!-- fm: auto_enriched: true -->
@@ -1465,6 +1473,18 @@ Kelp beds are nearshore underwater forests of large brown algae along the Pacifi
 ### Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
 
+## Kemmerer et al. 1923
+
+### Summary
+An earlier limnological investigation of Bear Lake cited in the source's study history. The source reports that Kemmerer et al.'s 1912 sample measured 0.65 ppm zinc, and that they suggested zinc limited productivity. The current study later found this was not the case.
+
+### Context
+> This 1957 bulletin, produced jointly by the [[Utah State Department of Fish and Game]], the [[Idaho Department of Fish and Game]] and the Wildlife Management Department of Utah State Agricultural College, reports a multi-year study of [[Bear Lake]], a large, deep, naturally alkaline lake straddling...
+> -- *[[BearLakeItsFishAndFishing_12272]]*
+
+### Mentioned In
+- [[BearLakeItsFishAndFishing_12272]]
+
 ## Kemmerer Sampler
 <!-- fm: auto_enriched: true -->
 
@@ -1488,8 +1508,12 @@ The water sampler used to collect the 4-liter plankton samples in this study. Sa
 > This 1957 study from [[Kansas State Teachers College]] (Emporia) examines the seasonal abundance of [[Cladocera]] and [[Copepoda]] (collectively called entomostraca) and the physical-chemical conditions of the [[Fall River]] and [[Verdigris River]] in southeastern Kansas. Sampling ran from April...
 > -- *[[SeasonalVariationsAndAbundance_18697]]*
 
+> This 1964 final report (Part VI of the [[Studies On The Ecology Of The Brook Trout In The Rocky Mountain Region]] series, by Thomas R. Garofalo) examines the [[Brook Trout]] fisheries of [[Towner Lake]] and [[Little Brooklyn Lake]] in southeastern Wyoming during summer 1962. It was a joint product...
+> -- *[[AStudyOfThePopulationDynamicsA_16918]]*
+
 ### Mentioned In
 - [[SeasonalVariationsAndAbundance_18697]]
+- [[AStudyOfThePopulationDynamicsA_16918]]
 
 ## Kemp (1949)
 
@@ -1534,6 +1558,18 @@ The Project Geologist who co-authored this November 1994 Bureau of Reclamation s
 
 ### Mentioned In
 - [[SiteScreeningResultsForSevenSi_20474]]
+
+## Kenai National Wildlife Refuge
+
+### Summary
+The Kenai Peninsula is part of the Gulf Region, which the source calls the Territory's most important game region. The circular does not describe the refuge's status or boundaries, and the Kenai moose is the largest of its kind.
+
+### Context
+> This 1953 U.S. Fish and Wildlife Service circular, written by Regional Director Clarence J. Rhode and Will Barker, is a regional field guide to Alaska's fishes, mammals and birds. It describes the Territory's five natural divisions (Southeastern Alaska, the Gulf Region, the Interior, the Arctic...
+> -- *[[AlaskasFishAndWildlife_16830]]*
+
+### Mentioned In
+- [[AlaskasFishAndWildlife_16830]]
 
 ## Kendall
 
@@ -1668,6 +1704,18 @@ Kennedy was a researcher who collaborated with Mihursky on temperature effects i
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Kennedy and Sprules 1967
+
+### Summary
+A study cited as the main source of biological data on the Goldeye in Canada, covering its biology and seasonal feeding at Lake Winnipegosis. The review relies heavily on this work for much of its Goldeye information.
+
+### Context
+> This literature review, prepared by Eric W. Flohrschutz for Dr. W. L. Minckley, compiles available information on the family [[Hiodontidae]], which contains two North American freshwater species: the [[Mooneye]] (*Hiodon tergisus*) and the [[Goldeye]] (*Hiodon alosoides*). The review covers...
+> -- *[[ASummaryOfAvailableInformation_18737]]*
+
+### Mentioned In
+- [[ASummaryOfAvailableInformation_18737]]
+
 ## Kennedy's Metabolic Rate Theory
 
 ### Summary
@@ -1796,6 +1844,12 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
 > -- *[[JulyManagementGroupMeetingSumm_21031]]*
 
+> This revised recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] for the [[U.S. Fish and Wildlife Service]] (Region 6), addresses the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America and the top native carnivore of the [[Colorado River]]...
+> -- *[[ColoradoSquawfishRevisedRecove_11602]]*
+
+> This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
+> -- *[[CollectedNotesminutesreportsno_17172]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1817,6 +1871,8 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[ColoradoRiverEndangeredFishRec_21021]]
 - [[DraftfiscalYearWorkPlan_11611]]
 - [[JulyManagementGroupMeetingSumm_21031]]
+- [[ColoradoSquawfishRevisedRecove_11602]]
+- [[CollectedNotesminutesreportsno_17172]]
 
 ## Kennith Foster
 
@@ -1871,6 +1927,18 @@ The Kent Decree of 1910 is a court decree that established water rights among us
 
 ### Mentioned In
 - [[MajorFactsInBrief_20500]]
+
+## Kent Miller
+
+### Summary
+Kent Miller led the Colorado River Fishes Recovery Team during its 1981 meeting, which reviewed the draft recovery plans for the squawfish, humpback chub and bonytail. The source names him as team leader for that period.
+
+### Context
+> This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
+> -- *[[CollectedNotesminutesreportsno_17172]]*
+
+### Mentioned In
+- [[CollectedNotesminutesreportsno_17172]]
 
 ## Kent Turner
 <!-- fm: auto_enriched: true -->
@@ -2091,6 +2159,18 @@ A city in Iowa on the Upper Mississippi River and the main fieldwork site for th
 
 ### Mentioned In
 - [[BiologyOfALargeMayflyHexagenia_18832]]
+
+## Keokuk Iowa
+
+### Summary
+A town on the Mississippi River where Coker (1929) collected Goldeye and Mooneye. Those samples provided diet and spawning-timing records cited in the review.
+
+### Context
+> This literature review, prepared by Eric W. Flohrschutz for Dr. W. L. Minckley, compiles available information on the family [[Hiodontidae]], which contains two North American freshwater species: the [[Mooneye]] (*Hiodon tergisus*) and the [[Goldeye]] (*Hiodon alosoides*). The review covers...
+> -- *[[ASummaryOfAvailableInformation_18737]]*
+
+### Mentioned In
+- [[ASummaryOfAvailableInformation_18737]]
 
 ## Kepner 1988
 
@@ -2357,6 +2437,18 @@ Kesterson Reservoir was a California wetland that received agricultural drainage
 
 ### Mentioned In
 - [[AquaticEcosystemSymposiumARepo_15847]]
+
+## Keswick Dam
+
+### Summary
+A dam on the Sacramento River that, together with Shasta Dam, blocks anadromous fish migration and moderates river flows. The source notes it as one of the barriers that shaped steelhead habitat in the upper river.
+
+### Context
+> This California Department of Fish and Game bulletin (Fish Bulletin No. 114, 1961) by Richard J. Hallock, William F. Van Woert, and Leo Shapovalov reports a study begun in 1952 to test whether releasing marked, yearling [[Hatchery-Reared Steelhead]] into the [[Sacramento River]] increases adult...
+> -- *[[AnEvaluationOfStockingHatchery_20980]]*
+
+### Mentioned In
+- [[AnEvaluationOfStockingHatchery_20980]]
 
 ## Kettle Hole Pond Ecology
 <!-- fm: auto_enriched: true -->
@@ -2639,6 +2731,9 @@ The Kiamichi River is a stream system in southeastern Oklahoma that has been stu
 > This Oklahoma Fishery Research Laboratory bulletin, derived from a [[Master of Science Thesis]] at the University of Oklahoma (1968), documents the first detailed study of the [[Grass Pickerel]] in Oklahoma. Fieldwork ran from 1963 to 1966 across six counties of southeastern Oklahoma. The study...
 > -- *[[LifeHistoryOfTheGrassPickerelE_16501]]*
 
+> This paper, the third report of the [[University of Oklahoma Fish Survey]], presents the fishes collected during summer 1927 by a field party from the Museum of Zoology of the University of Oklahoma, led by A. I. Ortenburger, with [[Carl L. Hubbs]] as co-author. The party seined streams in...
+> -- *[[FishesCollectedInOklahomaAndAr_14452]]*
+
 ### Mentioned In
 - [[FactorAnalysisOfSpeciesAssocia_15740]]
 - [[FishCommunityStructureAndStabi_15186]]
@@ -2646,6 +2741,7 @@ The Kiamichi River is a stream system in southeastern Oklahoma that has been stu
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[OklahomaFishesWithDistribution_16567]]
 - [[LifeHistoryOfTheGrassPickerelE_16501]]
+- [[FishesCollectedInOklahomaAndAr_14452]]
 
 ## Kiamichi Shiner
 <!-- fm: auto_enriched: true -->
@@ -2944,6 +3040,12 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This Fish Bulletin (No. 120, California Department of Fish and Game, 1963) by [[Joseph H. Kutkuhn]] develops and evaluates statistical methods for estimating the absolute age structure of [[King Salmon]] (*Oncorhynchus tshawytscha*) landings off California, using scale-annuli age data collected in...
 > -- *[[EstimatingAbsoluteAgeCompositi_12493]]*
 
+> Fish Bulletin No. 92 (California Department of Fish and Game, 1953), by James E. Kerr of Bechtel Corporation, reports a 17-month research program (ending October 1952) into protecting fish drawn into the condenser cooling water of the [[Contra Costa Steam Plant]] on the San Joaquin River near...
+> -- *[[StudiesOnFishPreservationAtThe_12509]]*
+
+> This California Department of Fish and Game bulletin (Fish Bulletin No. 114, 1961) by Richard J. Hallock, William F. Van Woert, and Leo Shapovalov reports a study begun in 1952 to test whether releasing marked, yearling [[Hatchery-Reared Steelhead]] into the [[Sacramento River]] increases adult...
+> -- *[[AnEvaluationOfStockingHatchery_20980]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -2964,6 +3066,8 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[CaliforniaTroutSalmonAndWarmwa_20548]]
 - [[TheKingSalmonOfCookInletAlaska_20877]]
 - [[EstimatingAbsoluteAgeCompositi_12493]]
+- [[StudiesOnFishPreservationAtThe_12509]]
+- [[AnEvaluationOfStockingHatchery_20980]]
 
 ## King Snake
 
@@ -3133,6 +3237,18 @@ A 1964 source cited by the report, from which Table 2 of acid-pollution data is 
 
 ### Mentioned In
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
+
+## Kinnikinick Lake
+
+### Summary
+A roughly 110-acre Anderson Mesa lake (about 16.5 ft deep) holding rainbow and cutthroat trout, yellow perch, bluegill, carp and bullheads. The report identifies wind-driven turbidity from volcanic silt as a key problem and describes a 1952 chemical control program that removed yellow perch.
+
+### Context
+> This Arizona Game and Fish Commission Wildlife Restoration Division report, Project FW-1-R, compiles four completion reports by Project Leader [[Richard A. Wagner]] covering the high-elevation lakes of [[Anderson Mesa]] (Work Plans 1 and 2), a herbicide and buffering trial at [[Ashurst Lake]] (Work...
+> -- *[[InvestigationOfTheLakesOfAnder_14410]]*
+
+### Mentioned In
+- [[InvestigationOfTheLakesOfAnder_14410]]
 
 ## Kino Spring
 
@@ -3980,6 +4096,18 @@ Kodiak Island is a large island off the south coast of Alaska in the North Pacif
 ### Mentioned In
 - [[SurvivalAndSpawningOfGillnetma_19634]]
 
+## Kodiak National Wildlife Refuge
+
+### Summary
+Kodiak Island is part of the Gulf Region, which the source calls the Territory's most important game region. The circular does not describe the refuge's status or boundaries, and Kodiak bears are the largest brown bears in the source's account.
+
+### Context
+> This 1953 U.S. Fish and Wildlife Service circular, written by Regional Director Clarence J. Rhode and Will Barker, is a regional field guide to Alaska's fishes, mammals and birds. It describes the Territory's five natural divisions (Southeastern Alaska, the Gulf Region, the Interior, the Arctic...
+> -- *[[AlaskasFishAndWildlife_16830]]*
+
+### Mentioned In
+- [[AlaskasFishAndWildlife_16830]]
+
 ## Kofa National Wildlife Refuge
 
 ### Summary
@@ -4078,6 +4206,9 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This 1955 completion report by [[Richard A. Wagner]] for the [[Arizona Game and Fish Department]] (Wildlife Restoration Division) documents a basic survey of [[Lake Mohave]], a young reservoir on the [[Colorado River]] between [[Davis Dam]] and [[Boulder Dam]]. The survey aimed to determine fishery...
 > -- *[[BasicSurveyOfLakeMohave_14411]]*
 
+> This 1969 manual, written by Paul S. Mugford and published by the [[Massachusetts Division of Fisheries and Game]] (Publication No. 4064), is a field identification guide to the freshwater fishes of Massachusetts. It illustrates more than seventy species, provides dichotomous keys to families and...
+> -- *[[IllustratedManualOfMassachuset_15557]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -4102,6 +4233,7 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[FederalAidToFishRestorationLak_16598]]
 - [[PartialChecklistOfFishesOfTheL_18573]]
 - [[BasicSurveyOfLakeMohave_14411]]
+- [[IllustratedManualOfMassachuset_15557]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -4194,6 +4326,15 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This Minnesota Division of Game and Fish investigational report (Report No. 279, dated October 9, 1964, by R. E. Schumacher) presents preliminary 1963 test-netting results from six large lakes stocked with [[Rainbow Trout]] to create a [[Two-Story Fishery]]: a cold-water lower stratum for trout...
 > -- *[[PreliminaryResultsFromExperime_11284]]*
 
+> This progress report from the cooperative [[Lake Powell]] study (Utah Division of Fish and Game and Arizona Game and Fish Department) covers February 1, 1966 to January 31, 1967, the fourth year of post-impoundment work on the reservoir behind [[Glen Canyon Dam]]. Utah handled physical and chemical...
+> -- *[[GlenCanyonReservoirPostimpound_13231]]*
+
+> This progress report from the cooperative Utah Division of Fish and Game and Arizona Game and Fish Department programme documents the fourth year of post-impoundment study of [[Lake Powell]], a reservoir formed behind [[Glen Canyon Dam]] on the [[Colorado River]] (impoundment began January 1963)....
+> -- *[[GlenCanyonReservoirPostimpound_14592]]*
+
+> This U.S. Bureau of Sport Fisheries and Wildlife publication (Resource Publication 70, January 1969) by John G. Hewston and the late Donald R. Franklin, produced through the [[Utah Cooperative Fishery Unit]] at Utah State University, documents how recreational use developed on [[Flaming Gorge...
+> -- *[[RecreationalUsePatternsAtFlami_20379]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -4228,6 +4369,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[ResultsOfFisheriesInvestigatio_16398]]
 - [[AProgressReportOfTheTwinLakesB_18601]]
 - [[PreliminaryResultsFromExperime_11284]]
+- [[GlenCanyonReservoirPostimpound_13231]]
+- [[GlenCanyonReservoirPostimpound_14592]]
+- [[RecreationalUsePatternsAtFlami_20379]]
 
 ## Kolkwitz
 

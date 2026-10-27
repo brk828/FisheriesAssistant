@@ -668,11 +668,15 @@ The oceanic skipjack (Katsuwonus pelamis) is a pelagic tuna that lives far from 
 > This 1988 U.S. Fish and Wildlife Service (FWS) memorandum from the [[Regional Office]] of [[Region 2]] (Albuquerque, NM) transfers day-to-day lead responsibility for endangered, threatened, and candidate species from the regional office to individual [[Ecological Services Field Stations]] and...
 > -- *[[ReassignmentOfEndangeredSpecie_11826]]*
 
+> This draft plan from the [[Fish and Wildlife Service]] (FWS) assesses the fish and wildlife consequences of the [[North American Free Trade Agreement]] (NAFTA) along the U.S.-Mexico border and in Mexico. It argues that trade-driven growth will raise pressure on habitats, endangered species,...
+> -- *[[DraftimplementationOfTheNorthA_11640]]*
+
 ### Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[ReassignmentOfEndangeredSpecie_11826]]
+- [[DraftimplementationOfTheNorthA_11640]]
 
 ## Ochetobius Elongatus
 <!-- fm: auto_enriched: true -->
@@ -1403,6 +1407,18 @@ A nonparasitic, eel-like lamprey reaching about 8 inches in length. The source i
 ### Mentioned In
 - [[ProminentFishesOfWestVirginia_13090]]
 
+## Ohio Cooperative Fishery Unit
+
+### Summary
+The Ohio unit studied strip-mine ponds, finding that only 12 of 170 impoundments could support fish and only one held a substantial bluegill population. The source says zooplankton in low-pH ponds was almost entirely rotifers and that pyrite oxidation continued to lower runoff pH.
+
+### Context
+> This Resource Publication (No. 62), prepared by Donald Chapman, Leader of the [[Idaho Cooperative Fishery Unit]] and issued by the United States Department of the Interior in June 1968, reports on the 1967 activities of the [[Cooperative Fishery Units]] program. The program is a nationwide...
+> -- *[[AnnualReportForCooperativeFish_11527]]*
+
+### Mentioned In
+- [[AnnualReportForCooperativeFish_11527]]
+
 ## Ohio Creek
 
 ### Summary
@@ -1521,6 +1537,9 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This Kentucky Nature Preserves Commission report (Scientific and Technical Series No. 3, January 1983) by Retzer, Burr, and Warren presents an annotated checklist and ecological analysis of the fishes of the lower [[Green River]] drainage. Collections at 112 stations, mostly in the summers of 1979...
 > -- *[[FishesOfTheLowerGreenRiverDrai_16821]]*
 
+> This literature review, prepared by Eric W. Flohrschutz for Dr. W. L. Minckley, compiles available information on the family [[Hiodontidae]], which contains two North American freshwater species: the [[Mooneye]] (*Hiodon tergisus*) and the [[Goldeye]] (*Hiodon alosoides*). The review covers...
+> -- *[[ASummaryOfAvailableInformation_18737]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -1548,6 +1567,7 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[ExtentOfAcidMinePollutionInThe_12548]]
 - [[TheLifeHistoryOfTheSpottailDar_18381]]
 - [[FishesOfTheLowerGreenRiverDrai_16821]]
+- [[ASummaryOfAvailableInformation_18737]]
 
 ## Ohio River Drainage
 <!-- fm: auto_enriched: true -->
@@ -1654,8 +1674,12 @@ Oil refinery effluent is listed in the bibliography as one of the effluent types
 > This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
 > -- *[[PartialBibliographyOfInterestT_18238]]*
 
+> This 1963 doctoral dissertation by Richard James Graham (Department of Zoology, [[Oklahoma State University]]) tests whether [[Oil Refinery Effluent]] harms fish when exposed for extended periods, a question that standard short-term tests cannot answer. Using [[Fathead Minnow]] as the test...
+> -- *[[LongtermToxicityBioassayOfOilR_19191]]*
+
 ### Mentioned In
 - [[PartialBibliographyOfInterestT_18238]]
+- [[LongtermToxicityBioassayOfOilR_19191]]
 
 ## Oil Shale
 
@@ -2013,8 +2037,12 @@ The state fisheries research unit that issued this 1954 report on channel catfis
 > This 1954 report from the [[Oklahoma Fisheries Research Laboratory]] consolidates age and growth data for [[Channel Catfish]] (*Ictalurus punctatus*) across Oklahoma. It draws on 7,717 specimens from 107 bodies of water collected between 1946 and 1954. Growth is calculated from lengths at each...
 > -- *[[GrowthOfChannelCatfishInOklaho_16396]]*
 
+> This 1955 field survey by the [[Oklahoma Fisheries Research Laboratory]] (Finnell, Jenkins and Hall) documents the fish populations, habitat, growth rates and standing crops of the [[Little River]] system in southeastern Oklahoma. Sampling took place June to August 1955 using rotenone, seines, gill...
+> -- *[[TheFisheryResourcesOfTheLittle_16397]]*
+
 ### Mentioned In
 - [[GrowthOfChannelCatfishInOklaho_16396]]
+- [[TheFisheryResourcesOfTheLittle_16397]]
 
 ## Oklahoma Fishery Research Laboratory
 
@@ -2145,6 +2173,9 @@ Oklahoma State University was the institution where this research on fish bioass
 > This 1961 Master of Science thesis by Morgan Emery Sisk, submitted to [[Oklahoma State University]], compares the bony elements of the [[Weberian Apparatus]] in three species of [[Dionda]] and six species of [[Notropis]], plus one hybrid combination. The author set out to test whether this small,...
 > -- *[[AComparativeStudyOfTheWeberian_19005]]*
 
+> This 1963 doctoral dissertation by Richard James Graham (Department of Zoology, [[Oklahoma State University]]) tests whether [[Oil Refinery Effluent]] harms fish when exposed for extended periods, a question that standard short-term tests cannot answer. Using [[Fathead Minnow]] as the test...
+> -- *[[LongtermToxicityBioassayOfOilR_19191]]*
+
 ### Mentioned In
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[EvaluationAndRelativeResistanc_19097]]
@@ -2152,6 +2183,7 @@ Oklahoma State University was the institution where this research on fish bioass
 - [[InteractionOfEffectsByEnvironm_14113]]
 - [[AGeneticAnalysisOfAHybridSwarm_17485]]
 - [[AComparativeStudyOfTheWeberian_19005]]
+- [[LongtermToxicityBioassayOfOilR_19191]]
 
 ## Oklahoma Wildlife Conservation Department
 
@@ -2197,6 +2229,18 @@ A herbicide the bulletin recommends for duckweed. It is mixed at two fluid ounce
 ### Mentioned In
 - [[PondsForFishAndWildlifeProduct_16513]]
 
+## Old Bat's House
+
+### Summary
+One of the nine sites with standing or partly standing structures on the San Bernardino Ranch, designated SB-5. The authors note its standing walls are weathering and recommend stabilization.
+
+### Context
+> This August 1982 report by Lyle M. Stone and James E. Ayres of [[Archaeological Research Services]] (Tempe, Arizona) describes and evaluates the archaeological resources of a 131.24-acre parcel of the [[San Bernardino Grant]] owned by the [[Johnson Historical Museum]] of the Southwest, Inc. The...
+> -- *[[ADescriptionAndEvaluationOfArc_14586]]*
+
+### Mentioned In
+- [[ADescriptionAndEvaluationOfArc_14586]]
+
 ## Old Charley Wash
 <!-- fm: auto_enriched: true -->
 
@@ -2237,6 +2281,9 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 > This is a December 14, 1994 memorandum from Pat Nelson, Coordinator of the Flooded Bottom Lands Restoration Program, to its Technical Advisory Group. It requests review of draft FY 95 proposals by January 5, 1995, and asks four questions: do the proposals fit what the group had in mind, do they...
 > -- *[[RequestForReviewOfDraftFyWorkP_19638]]*
 
+> This U.S. Fish and Wildlife Service final report (Wydoski and Wick, 1998), prepared for the [[Upper Colorado River Basin Recovery Program]], reviews the ecological value of [[Floodplain Habitats]] for recovering the [[Razorback Sucker]] (*Xyrauchen texanus*) and anticipates how endangered, native...
+> -- *[[EcologicalValueOfFloodplainHab_20871]]*
+
 ### Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -2249,6 +2296,7 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 - [[FiscalYearWorkPlan_11743]]
 - [[FiscalYearWorkPlan_11756]]
 - [[RequestForReviewOfDraftFyWorkP_19638]]
+- [[EcologicalValueOfFloodplainHab_20871]]
 
 ## Old Charlie Inlet
 
@@ -2392,9 +2440,13 @@ Old River is a 4,100-acre oxbow lake in Louisiana that experiences annual floodi
 > This study investigated the biology and vital statistics of [[White Catfish]] (*Ictalurus catus*) in the [[Sacramento-San Joaquin Delta]] during 1952-1955. The research employed extensive tagging programs (totaling 4,864 tagged fish across three studies) to assess movement patterns, mortality...
 > -- *[[WhiteCatfishIctalurusCatusOfTh_17725]]*
 
+> This California Department of Fish and Game report (Fish Bulletin 151, 1970, by Richard J. Hallock, Robert F. Elwell and Donald H. Fry, Jr.) examines why [[San Joaquin River]] salmon runs collapsed after 1961 while [[Sacramento River]] runs did not. The authors attribute the collapse to an annually...
+> -- *[[MigrationsOfAdultKingSalmonOnc_20982]]*
+
 ### Mentioned In
 - [[AStudyOfTheAgeAndGrowthOfLarge_12917]]
 - [[WhiteCatfishIctalurusCatusOfTh_17725]]
+- [[MigrationsOfAdultKingSalmonOnc_20982]]
 
 ## Older Alluvial Fill
 
@@ -3544,6 +3596,18 @@ Oodinium is a genus of parasitic dinoflagellates that infect fishes. The source 
 ### Mentioned In
 - [[DesmosomesInTheFollicularEpith_1964_06_11]]
 
+## Opae
+
+### Summary
+Atyid shrimp, freshwater shrimp of the family Atyidae, named in the source as part of the invertebrate food-web studies. The source does not report specific findings for them.
+
+### Context
+> This Resource Publication (No. 62), prepared by Donald Chapman, Leader of the [[Idaho Cooperative Fishery Unit]] and issued by the United States Department of the Interior in June 1968, reports on the 1967 activities of the [[Cooperative Fishery Units]] program. The program is a nationwide...
+> -- *[[AnnualReportForCooperativeFish_11527]]*
+
+### Mentioned In
+- [[AnnualReportForCooperativeFish_11527]]
+
 ## Opaleye
 
 ### Summary
@@ -3887,6 +3951,18 @@ Ophiothrix spiculata is a brittle star characterized by very long arm spines and
 
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+
+## Ophisternon aenigmaticum
+
+### Summary
+A swamp eel of the Synbranchidae family, a fish with an elongated body that lacks normal paired fins. The source reports it ranges from northeastern South America through Guatemala and Mexico to Cuba, and is one of the five native freshwater species of the Lesser Antilles. It nests in a horizontal mud tunnel, and the male guards the eggs.
+
+### Context
+> This 1983 Supplement to the [[Atlas of North American Freshwater Fishes]] was compiled by D. S. Lee, S. P. Platania, and G. H. Burgess of the [[North Carolina Biological Survey]] and the [[North Carolina State Museum of Natural History]]. It supplies species accounts for the freshwater fishes of...
+> -- *[[AtlasOfNorthAmericanFreshwater_20231]]*
+
+### Mentioned In
+- [[AtlasOfNorthAmericanFreshwater_20231]]
 
 ## Ophisternon Infernale
 
@@ -4327,6 +4403,9 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 > This report, by Alfred Houser and Michael G. Bross of the [[Oklahoma Fishery Research Laboratory]], consolidates statewide average growth rates and length-weight relationships for fifteen freshwater fish species in Oklahoma. It is a summary of excerpts and revisions from eight earlier published...
 > -- *[[AverageGrowthRatesAndLengthwei_19941]]*
 
+> This 1965 Louisiana State University M.S. thesis by [[Dudley Clay Carver]] examines eight centrarchid (sunfish family) species on [[Delta National Wildlife Refuge]], a Gulf of Mexico estuarine delta system in Plaquemines Parish, Louisiana. Fieldwork ran from August 1963 to January 1965. The study...
+> -- *[[EcologicalFactorsAffectingDist_16042]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[DistributionHabitatAndAbundanc_1959]]
@@ -4340,6 +4419,7 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 - [[PreliminarySurveyOfTheFishFaun_15760]]
 - [[SomeEcologicalStudiesOfNotropi_18546]]
 - [[AverageGrowthRatesAndLengthwei_19941]]
+- [[EcologicalFactorsAffectingDist_16042]]
 
 ## Orangethroat Darter
 <!-- fm: auto_enriched: true -->
@@ -4375,6 +4455,9 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 > This Missouri Department of Conservation report (Aquatic Series No. 18, Jefferson City, October 1984) by William L. Pflieger documents the distribution, abundance, habitat, diet, growth, reproduction, and conservation status of the [[Bluestripe Darter]], an endemic fish of the [[Osage River]] and...
 > -- *[[DistributionStatusAndLifeHisto_11159]]*
 
+> This 1968 monograph by Donald A. Distler (University of Kansas Science Bulletin, vol. 48, no. 5, pp. 143–208) revises the [[Orangethroat Darter]], *Etheostoma spectabile* (Agassiz), a small bottom-dwelling percid. It combines range mapping, morphometric and meristic variation, laboratory breeding...
+> -- *[[DistributionAndVariationOfEthe_19031]]*
+
 ### Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[DurationOfSpermViabilityAsAFac_14210]]
@@ -4387,6 +4470,7 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 - [[PreliminarySurveyOfTheFishFaun_15760]]
 - [[TheLifeHistoryOfTheSloughDarte_12872]]
 - [[DistributionStatusAndLifeHisto_11159]]
+- [[DistributionAndVariationOfEthe_19031]]
 
 ## Orara River
 <!-- fm: auto_enriched: true -->
@@ -6534,6 +6618,18 @@ Osteichthys is the class-level taxonomic classification for the Pahrump Killifis
 ### Mentioned In
 - [[AnEnzymeMethodOfClearingAndSta_1967]]
 
+## Osteology
+
+### Summary
+The study of skeletal structure, which is the main tool this source uses to classify North American cyprinid minnows. Uyeno compares skull, axial skeleton, fins and pharyngeal bones across Gila, Richardsonius and Ptychocheilus species to resolve their relationships.
+
+### Context
+> This 1960 University of Michigan doctoral dissertation by [[Teruya Uyeno]] uses comparative [[Osteology]] to resolve the classification of North American minnows in the genera [[Gila]], [[Richardsonius]] and [[Ptychocheilus]]. These genera had a chaotic systematic history, with many species shifted...
+> -- *[[OsteologyAndPhylogenyOfTheAmer_13238]]*
+
+### Mentioned In
+- [[OsteologyAndPhylogenyOfTheAmer_13238]]
+
 ## Osteostraci
 
 ### Summary
@@ -7130,9 +7226,13 @@ Otto Friedrich Müller was an 18th-century naturalist whose 1776 work begins the
 > This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
 > -- *[[RareAndEndangeredVertebratesAn_11494]]*
 
+> This 1955 field survey by the [[Oklahoma Fisheries Research Laboratory]] (Finnell, Jenkins and Hall) documents the fish populations, habitat, growth rates and standing crops of the [[Little River]] system in southeastern Oklahoma. Sampling took place June to August 1955 using rotenone, seines, gill...
+> -- *[[TheFisheryResourcesOfTheLittle_16397]]*
+
 ### Mentioned In
 - [[ThreeShinersNotropisOrtenburge_14255]]
 - [[RareAndEndangeredVertebratesAn_11494]]
+- [[TheFisheryResourcesOfTheLittle_16397]]
 
 ## Ouachita River
 <!-- fm: auto_enriched: true -->
@@ -7390,6 +7490,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
 > -- *[[JulyManagementGroupMeetingSumm_21031]]*
 
+> This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
+> -- *[[CollectedNotesminutesreportsno_17172]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -7418,6 +7521,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[ProposedRuleDesignatingCritica_17486]]
 - [[HabitatRequirementsOfJuvenileC_20460]]
 - [[JulyManagementGroupMeetingSumm_21031]]
+- [[CollectedNotesminutesreportsno_17172]]
 
 ## Ouray Reach
 
@@ -7484,12 +7588,16 @@ Outbreeding depression in fish science refers to the reduction in fitness and su
 > This study tests whether genetic diversity affects fitness in [[Poeciliopsis Occidentalis]], an endangered viviparous fish of the Gila River drainage and adjacent Sonora, Mexico. Three wild-derived laboratory stocks, differing in mean heterozygosity, were compared for survival, growth, fecundity,...
 > -- *[[HeterozygosityAndFitnessDiffer_18732]]*
 
+> This document is a 1993 proposal to the [[National Science Foundation]] (NSF Conservation Research program, NSF 90-66) from [[Arizona State University]]. It was submitted by [[Philip W. Hedrick]] (Principal Investigator, Department of Zoology) and [[Wendell Minckley]] (Co-Principal Investigator)....
+> -- *[[InbreedingDepression_20767]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[ConservingFishGenomesPhilosoph_1988_08_02]]
 - [[GuidelinesForIntroductionsOfTh_12022]]
 - [[LetterRegardingGilaTopminnowRe_1992_12_08]]
 - [[HeterozygosityAndFitnessDiffer_18732]]
+- [[InbreedingDepression_20767]]
 
 ## Outer Continental Shelf
 
@@ -7688,8 +7796,12 @@ Overton Arm is one of the four major sections of Lake Mead reservoir. The study 
 > This final report (Contract 14-06-300-2210, 1971) presents an integrated study of chemistry, hydrobiology, and hydrodynamics in [[Lake Mead]], conducted by the University of Arizona for the U.S. Bureau of Reclamation. The investigation examined eight sampling stations across the reservoir's four...
 > -- *[[MicronutrientsAndBiologicalPat_11436]]*
 
+> This report covers the second year (July 1997-June 1998) of a cooperative [[Razorback Sucker]] study on [[Lake Mead]], Nevada, prepared by BIO/WEST, Inc. for the [[Southern Nevada Water Authority]]. Field work used [[Trammel Netting]] as the main adult sampling gear, [[Larval Sampling]] with dip...
+> -- *[[RazorbackSuckerStudiesOnLakeMe_19873]]*
+
 ### Mentioned In
 - [[MicronutrientsAndBiologicalPat_11436]]
+- [[RazorbackSuckerStudiesOnLakeMe_19873]]
 
 ## Overton Wildlife Management Area
 
@@ -7866,8 +7978,12 @@ Owens Lake is a lake in Inyo County, California, that marked the southern extent
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This review by [[Peter J. Mehringer Jr.]] (Washington State University), published in the [[Desert Research Institute]] symposium volume edited by [[Don D. Fowler]] (1977), synthesizes evidence for the magnitude and chronology of late Quaternary environmental change in the [[Great Basin]]. The...
+> -- *[[GreatBasinLateQuaternaryEnviro_20097]]*
+
 ### Mentioned In
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[GreatBasinLateQuaternaryEnviro_20097]]
 
 ## Owens Pupfish
 <!-- fm: auto_enriched: true -->
@@ -7971,6 +8087,9 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 > This final report, prepared for the [[California Department of Fish and Game]] under Contract FG0524 by Donald Sada, Hugh B. Britten, and Peter F. Brussard, examines the systematics of [[Speckled Dace]] (*[[Rhinichthys Osculus]]*) in the [[Death Valley System]] (DVS). It combines [[Morphometric...
 > -- *[[MorphometricAndGeneticDifferen_20491]]*
 
+> This review by [[Peter J. Mehringer Jr.]] (Washington State University), published in the [[Desert Research Institute]] symposium volume edited by [[Don D. Fowler]] (1977), synthesizes evidence for the magnitude and chronology of late Quaternary environmental change in the [[Great Basin]]. The...
+> -- *[[GreatBasinLateQuaternaryEnviro_20097]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -7982,6 +8101,7 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 - [[TheFishesOfMohaveRiverCaliforn_21253]]
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[MorphometricAndGeneticDifferen_20491]]
+- [[GreatBasinLateQuaternaryEnviro_20097]]
 
 ## Owens River Basin
 <!-- fm: auto_enriched: true -->

@@ -195,6 +195,18 @@ The intensive winter creel census was the main survey method used at Branch Lake
 - [[MarbleBluffFishFacilityStation_13317]]
 - [[FishpassageResearchReviewOfPro_13394]]
 
+## Ice Harbor Fishway
+
+### Summary
+A standard type of vertical-slot or pool-and-weir fish ladder design used to help migrating fish pass barriers such as dams. In this source, the Marble Bluff Fish Facility's Pyramid Lake Fishway uses modified 1-on-10 Ice Harbor Fishway ladders, a configuration built to be passable at flows of 20 to 50 cfs. The source reports that fishway ladder design was the main limiting factor for cui-ui passage.
+
+### Context
+> This U.S. Fish and Wildlife Service report (Great Basin Complex, Reno; Mark E. Coleman, February 1986) reviews eight years of spawning-run data from the [[Marble Bluff Fish Facility]] (MBFF) on the lower [[Truckee River]], which links [[Pyramid Lake]] to its upstream spawning grounds. MBFF was...
+> -- *[[EvaluationOfSpawningRunsAtTheM_17121]]*
+
+### Mentioned In
+- [[EvaluationOfSpawningRunsAtTheM_17121]]
+
 ## Iceberg Canyon
 
 ### Summary
@@ -1540,6 +1552,18 @@ Idaho is a neighboring state that served as a market for Montana Carp and Sucker
 ### Mentioned In
 - [[HatcheryAndLaboratoryPhaseOfTh_1980]]
 
+## Idaho Cooperative Fishery Unit
+
+### Summary
+One of the 23 cooperative fishery units, led by Donald Chapman, who prepared this 1967 report. The source reports unit research on over-wintering steelhead and salmon, which stayed in stream substrate while water stayed below about 41°F, and on smallmouth bass movement in the Snake River.
+
+### Context
+> This Resource Publication (No. 62), prepared by Donald Chapman, Leader of the [[Idaho Cooperative Fishery Unit]] and issued by the United States Department of the Interior in June 1968, reports on the 1967 activities of the [[Cooperative Fishery Units]] program. The program is a nationwide...
+> -- *[[AnnualReportForCooperativeFish_11527]]*
+
+### Mentioned In
+- [[AnnualReportForCooperativeFish_11527]]
+
 ## Idaho Department of Fish and Game
 
 ### Summary
@@ -1555,10 +1579,14 @@ The Idaho Department of Fish and Game is a state wildlife management agency that
 > This 1968 report by Regional Fishery Biologist Jerry L. Mallet, [[Idaho Department of Fish and Game]], evaluates fishery management on [[Coeur d'Alene Lake]] using a [[Boat Count Interview Census]] run from April 29 to November 30, 1967. The survey estimated 37,757 anglers spent 169,908 hours and...
 > -- *[[CoueuDaleneLakeFisheriesInvest_19366]]*
 
+> This 1957 bulletin, produced jointly by the [[Utah State Department of Fish and Game]], the [[Idaho Department of Fish and Game]] and the Wildlife Management Department of Utah State Agricultural College, reports a multi-year study of [[Bear Lake]], a large, deep, naturally alkaline lake straddling...
+> -- *[[BearLakeItsFishAndFishing_12272]]*
+
 ### Mentioned In
 - [[TheIntroductionOfKokaneeRedSal_18826]]
 - [[SalmonDecision_19385]]
 - [[CoueuDaleneLakeFisheriesInvest_19366]]
+- [[BearLakeItsFishAndFishing_12272]]
 
 ## Idaho Fescue
 
@@ -1761,6 +1789,18 @@ IFIM (Instream Flow Incremental Methodology) is a habitat-modeling framework for
 
 ### Mentioned In
 - [[FiscalYearWorkPlan_11627]]
+
+## Ignacio de Perez
+
+### Summary
+The man who acquired the San Bernardino Grant from Mexico in May 1822 for $90.00. He abandoned the property in the early 1830s due to Apache hostilities, and his hacienda lay just across the border in Sonora.
+
+### Context
+> This August 1982 report by Lyle M. Stone and James E. Ayres of [[Archaeological Research Services]] (Tempe, Arizona) describes and evaluates the archaeological resources of a 131.24-acre parcel of the [[San Bernardino Grant]] owned by the [[Johnson Historical Museum]] of the Southwest, Inc. The...
+> -- *[[ADescriptionAndEvaluationOfArc_14586]]*
+
+### Mentioned In
+- [[ADescriptionAndEvaluationOfArc_14586]]
 
 ## Ignacio de Perez Land Grant
 
@@ -2101,6 +2141,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This Oklahoma Fisheries Research Laboratory report (Report No. 33, December 1953) documents the first post-impoundment fish survey of [[Tenkiller Reservoir]] in northeastern Oklahoma. It compares 1953 collections with pre-impoundment work on the [[Illinois River]] (1952) to track early changes in...
 > -- *[[ContinuedFisheriesInvestigatio_20970]]*
 
+> This paper, the third report of the [[University of Oklahoma Fish Survey]], presents the fishes collected during summer 1927 by a field party from the Museum of Zoology of the University of Oklahoma, led by A. I. Ortenburger, with [[Carl L. Hubbs]] as co-author. The party seined streams in...
+> -- *[[FishesCollectedInOklahomaAndAr_14452]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -2121,6 +2164,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[TheBantamSunfishLepomisSymmetr_14043]]
 - [[SportFishingAtLakeChautauquaNe_14738]]
 - [[ContinuedFisheriesInvestigatio_20970]]
+- [[FishesCollectedInOklahomaAndAr_14452]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -3464,9 +3508,13 @@ A site at about 1,550 ft in the park that held every fish species collected duri
 > **1. Saline Rio Grande Fauna** (upstream of Rio Conchos confluence) - Dominated by four widespread, salt- and flow-variability-tolerant species: *Dorosoma cepedianum*, *Cyprinus carpio* (exotic), *Notropis lutrensis*, and *Lepomis cyanellus*. - Low diversity (Shannon H' generally <2), attributed ...
 > -- *[[FishesInhabitingTheRioGrandeTe_1977_07_09]]*
 
+> This U.S. Geological Survey Water-Supply Paper (1950), prepared with the [[Defense Plant Corporation]] and based on 1943–44 fieldwork, quantifies the [[Use of Water]] consumed by nonbeneficial [[Phreatophytes]] along the [[Gila River]] in lower [[Safford Valley]]. It was undertaken because all...
+> -- *[[UseOfWaterByBottomlandVegetati_16931]]*
+
 ### Mentioned In
 - [[FishesInhabitingTheRioGrandeTe_1977_07_09]]
 - [[LaboratoryAndFieldTestsOfTempe_16970]]
+- [[UseOfWaterByBottomlandVegetati_16931]]
 
 ## Indian Major Carps
 
@@ -3932,6 +3980,18 @@ Infiltrometer studies measure how quickly water infiltrates soil under controlle
 
 ### Mentioned In
 - [[HydrologyOfBlackMesaWatersheds_18816]]
+
+## Inflow-Outflow Method
+
+### Summary
+The Inflow-Outflow Method computed vegetation water use as the residual of a water budget for the bottom land, comparing groundwater inflow and outflow. It was one of the six methods used in the study.
+
+### Context
+> This U.S. Geological Survey Water-Supply Paper (1950), prepared with the [[Defense Plant Corporation]] and based on 1943–44 fieldwork, quantifies the [[Use of Water]] consumed by nonbeneficial [[Phreatophytes]] along the [[Gila River]] in lower [[Safford Valley]]. It was undertaken because all...
+> -- *[[UseOfWaterByBottomlandVegetati_16931]]*
+
+### Mentioned In
+- [[UseOfWaterByBottomlandVegetati_16931]]
 
 ## Information And Education (I&E)
 <!-- fm: auto_enriched: true -->
@@ -4732,6 +4792,9 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This U.S. Fish and Wildlife Service [[Biological Opinion]] (May 1990) addresses the proposed [[Central Arizona Project]] (CAP) Water Exchange on the upper [[Verde River]], Yavapai County, Arizona. The threatened [[Spikedace]] (*[[Meda Fulgida]]*) is the species of concern. The request was submitted...
 > -- *[[BiologicalOpinionCentralArizon_11830]]*
 
+> This 1988 U.S. Fish and Wildlife Service report, prepared for the [[Bureau of Reclamation]], applies the [[Instream Flow Incremental Methodology]] (IFG4a/PHABSIM family) to the upper Gila River in New Mexico. It evaluates the aquatic impacts of proposed Direct Pumping/Offstream Storage alternatives...
+> -- *[[InstreamFlowIncrementalMethodo_11622]]*
+
 ### Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -4750,6 +4813,7 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[ColoradoRiverEndangeredFishRec_21021]]
 - [[SuitabilityIndexSiCurvesForUse_19636]]
 - [[BiologicalOpinionCentralArizon_11830]]
+- [[InstreamFlowIncrementalMethodo_11622]]
 
 ## Instream Flow Incremental Methodology (Ifim)
 <!-- fm: auto_enriched: true -->
@@ -4782,9 +4846,13 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This Fish and Wildlife Service report (FWS/OBS-77/65, October 1977), prepared by Paul B. Holden of BIO/WEST, Inc., under the [[Biological Services Program]] and the Federal Interagency Energy/Environment Research and Development Program, examines the habitat use and movements of four rare fishes in...
 > -- *[[HabitatRequirementsOfJuvenileC_20460]]*
 
+> This 1977 U.S. Fish and Wildlife Service report, prepared by Paul B. Holden of [[BIO/WEST Inc]] under the Federal Interagency Energy/Environmental Research and Development Program, examines the habitat use and movements of rare fishes in the [[Green River]] between Jensen and Green River, Utah,...
+> -- *[[HabitatRequirementsOfJuvenileC_19387]]*
+
 ### Mentioned In
 - [[MicrohabitatUtilizationOfLoach_14998]]
 - [[HabitatRequirementsOfJuvenileC_20460]]
+- [[HabitatRequirementsOfJuvenileC_19387]]
 
 ## Instream Flow Needs
 <!-- fm: auto_enriched: true -->
@@ -4913,8 +4981,12 @@ The Integrated Border Environmental Plan (IBEP) was prepared by EPA and Mexico's
 > This letter report from the EPA Border Environmental Plan Public Advisory Committee to Administrator Carol Browner (July 22, 1993) documents critical environmental and public health concerns in the [[U.S.-Mexico Border Region]]. The Committee, working with the [[Udall Center for Studies in Public...
 > -- *[[StateOfTheUsmexicoBorderEnviro_14365]]*
 
+> This draft plan from the [[Fish and Wildlife Service]] (FWS) assesses the fish and wildlife consequences of the [[North American Free Trade Agreement]] (NAFTA) along the U.S.-Mexico border and in Mexico. It argues that trade-driven growth will raise pressure on habitats, endangered species,...
+> -- *[[DraftimplementationOfTheNorthA_11640]]*
+
 ### Mentioned In
 - [[StateOfTheUsmexicoBorderEnviro_14365]]
+- [[DraftimplementationOfTheNorthA_11640]]
 
 ## Integrated Humpback Chub Final Report
 
@@ -5151,6 +5223,12 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 > This U.S. Fish and Wildlife Service (FWS) document, dated August 30, 1999, is the work plan and budget for the [[Recovery Implementation Program]] (Recovery Program) for FY 2000, which runs from October 1, 1999. The Colorado River Implementation Committee approved it on August 30, 1999. The plan...
 > -- *[[FiscalYearWorkPlan_11960]]*
 
+> This [[Genetics Management Plan]], prepared by the U.S. Fish and Wildlife Service (Region 6, Denver) in August 1994 under the [[Recovery Implementation Program]], covers four [[Endangered Species Act]]-listed fishes of the [[Upper Colorado River Basin]]. The plan (1) justifies the identification of...
+> -- *[[GeneticsManagementPlanRecovery_20861]]*
+
+> This U.S. Fish and Wildlife Service final report (Wydoski and Wick, 1998), prepared for the [[Upper Colorado River Basin Recovery Program]], reviews the ecological value of [[Floodplain Habitats]] for recovering the [[Razorback Sucker]] (*Xyrauchen texanus*) and anticipates how endangered, native...
+> -- *[[EcologicalValueOfFloodplainHab_20871]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -5166,6 +5244,8 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 - [[RecoveryImplementationProgramF_15036]]
 - [[RelationsBetweenMaximumannualR_15253]]
 - [[FiscalYearWorkPlan_11960]]
+- [[GeneticsManagementPlanRecovery_20861]]
+- [[EcologicalValueOfFloodplainHab_20871]]
 
 ## Interagency Standardized Monitoring Program (Ismp)
 <!-- fm: auto_enriched: true -->
@@ -5553,8 +5633,12 @@ One of the two Forest Service regions covered by the paper, including national f
 > This 1962 Research Paper from the [[Intermountain Forest And Range Experiment Station]], written by S. Blair Hutchison, describes the recreation situation on the national forests of the [[Northern Region]] and [[Intermountain Region]]. It argues that rapidly growing recreation use is creating...
 > -- *[[RecreationOpportunitiesAndProb_14544]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) agency review draft sets out a recovery plan for twelve federally listed endangered and threatened species of [[Ash Meadows]], an isolated spring-fed oasis in the Mojave Desert straddling the Nevada–California border. The plan covers four fishes, eight...
+> -- *[[EndangeredAndThreatenedSpecies_13275]]*
+
 ### Mentioned In
 - [[RecreationOpportunitiesAndProb_14544]]
+- [[EndangeredAndThreatenedSpecies_13275]]
 
 ## International Aquaculture Research
 <!-- fm: auto_enriched: true -->
@@ -5655,6 +5739,12 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 > This October 1969 booklet from the [[Bureau Of Reclamation]] (Region 3) presents facility maps and program status for the Colorado River Operation and Maintenance (O&M) Program on the lower [[Colorado River]]. The program is authorized under the [[Colorado River Front Work And Levee System Act]] of...
 > -- *[[LowerColoradoRiverMaps_11471]]*
 
+> This draft plan from the [[Fish and Wildlife Service]] (FWS) assesses the fish and wildlife consequences of the [[North American Free Trade Agreement]] (NAFTA) along the U.S.-Mexico border and in Mexico. It argues that trade-driven growth will raise pressure on habitats, endangered species,...
+> -- *[[DraftimplementationOfTheNorthA_11640]]*
+
+> This August 1982 report by Lyle M. Stone and James E. Ayres of [[Archaeological Research Services]] (Tempe, Arizona) describes and evaluates the archaeological resources of a 131.24-acre parcel of the [[San Bernardino Grant]] owned by the [[Johnson Historical Museum]] of the Southwest, Inc. The...
+> -- *[[ADescriptionAndEvaluationOfArc_14586]]*
+
 ### Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
 - [[NoticeOfIntentToFileCitizenSui_1995_05_24]]
@@ -5667,6 +5757,8 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 - [[ThePotentialEconomicConsequenc_15754]]
 - [[SanPedroRiverBasinWaterQuality_15721]]
 - [[LowerColoradoRiverMaps_11471]]
+- [[DraftimplementationOfTheNorthA_11640]]
+- [[ADescriptionAndEvaluationOfArc_14586]]
 
 ## International Code of Botanical Nomenclature
 
@@ -5986,6 +6078,18 @@ An international organisation (IWRB) that convened the 1991 Grado meeting and is
 ### Mentioned In
 - [[SeasonalVariationsInTheHormone_15092]]
 
+## Intersection Wash
+
+### Summary
+Intersection Wash is a backwater site in the Upper Colorado River Basin identified as a key habitat for razorback suckers. It is one of only two backwaters where zooplankton reached the levels needed during the larval critical period. The report uses it as an example of productive off-channel habitat.
+
+### Context
+> This U.S. Fish and Wildlife Service final report (Wydoski and Wick, 1998), prepared for the [[Upper Colorado River Basin Recovery Program]], reviews the ecological value of [[Floodplain Habitats]] for recovering the [[Razorback Sucker]] (*Xyrauchen texanus*) and anticipates how endangered, native...
+> -- *[[EcologicalValueOfFloodplainHab_20871]]*
+
+### Mentioned In
+- [[EcologicalValueOfFloodplainHab_20871]]
+
 ## Interspecific Association Coefficient
 <!-- fm: auto_enriched: true -->
 
@@ -6247,6 +6351,18 @@ Introduced fishes are non-native fish species that have been deliberately or acc
 
 ### Mentioned In
 - [[OriginAndDispersalOfTheAlewife_1957]]
+
+## Introduced Minnows
+
+### Summary
+Non-native minnows in the Colorado River, specifically red shiner, fathead minnow and sand shiner. In the source they dominate backwater nursery habitat, and laboratory work found young Colorado Squawfish competitively inferior to several of them. Red shiner also preyed on larval Razorback Suckers. Larval abundance of these minnows declined as spring peak flow increased, which is why the authors recommend high flows to help control them.
+
+### Context
+> This U.S. Fish and Wildlife Service report (Colorado River Fishery Project, April 1991; authors Douglas B. Osmundson and Lynn R. Kaeding) gives year-round flow recommendations for the [[15-Mile Reach]] of the [[Upper Colorado River]] for October through June. It addresses the endangered [[Colorado...
+> -- *[[RecommendationsForFlowsInTheMi_18351]]*
+
+### Mentioned In
+- [[RecommendationsForFlowsInTheMi_18351]]
 
 ## Introduced Nonnative Fishes
 
@@ -7435,6 +7551,18 @@ Isinglass is a product made from the sturgeon's air bladder. The source says it 
 ### Mentioned In
 - [[Sturgeons_12753]]
 
+## Isistius brasiliensis
+
+### Summary
+Isistius brasiliensis, the cookiecutter shark, is a small midwater dalatiine shark. The source uses it as the main anatomical comparison for Euprotomicrus, noting differences in liver size, spiral valve turns, and the overall visceral layout.
+
+### Context
+> This monograph by [[Carl L. Hubbs]], Tamotsu Iwai, and Kiyomatsu Matsubara (Bulletin of the [[Scripps Institution of Oceanography]], Vol. 10, 1967) consolidates knowledge of the pygmy shark *Euprotomicrus bispinatus*, one of the smallest known sharks. Whereas only 8 specimens were reported before...
+> -- *[[ExternalAndInternalCharactersH_14317]]*
+
+### Mentioned In
+- [[ExternalAndInternalCharactersH_14317]]
+
 ## Isla De Lobos
 
 ### Summary
@@ -7554,12 +7682,16 @@ Island Lake Complex is one of the specific locations within the Imperial Nationa
 > This study documents fish population changes in the [[Green River]] following inlet modifications to [[Flaming Gorge Dam]] in 1978. The dam closure in 1962 created an excellent tailwater trout fishery but eliminated [[Colorado Squawfish]] (Ptychocheilus lucius) for 105 km downstream. Both the trout...
 > -- *[[ChangesInTheFishPopulationsInT_20462]]*
 
+> This report, prepared by [[Harold K. Hagen]] and [[Joseph E. Banks]] of [[Colorado State University]] for the [[National Park Service]] (contract No. 14-10-0232-686, June 1963), documents the ecology and limnology of the Green River in [[Dinosaur National Monument]]. Its main focus was the rare...
+> -- *[[AnEcologicalAndLimnologicalStu_20953]]*
+
 ### Mentioned In
 - [[AvailabilityOfHabitatCharacter_1993]]
 - [[FisheryManagementReportGreenRi_1963_10_11]]
 - [[DraftbonytailChubGilaElegans_14696]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
 - [[ChangesInTheFishPopulationsInT_20462]]
+- [[AnEcologicalAndLimnologicalStu_20953]]
 
 ## Isle Of Man
 <!-- fm: auto_enriched: true -->
@@ -8051,6 +8183,18 @@ Isurus oxyrinchus (mako) is a mackerel shark represented at the site by 4 teeth.
 
 ### Mentioned In
 - [[FishRemainsFromArroyoSequitShe_18754]]
+
+## Italian Slough Pumping Plant
+
+### Summary
+A Delta pumping facility with a 10,000 cfs capacity. The authors expected its operation to intensify flow reversal in the southern Delta until a Peripheral Canal was built.
+
+### Context
+> This California Department of Fish and Game report (Fish Bulletin 151, 1970, by Richard J. Hallock, Robert F. Elwell and Donald H. Fry, Jr.) examines why [[San Joaquin River]] salmon runs collapsed after 1961 while [[Sacramento River]] runs did not. The authors attribute the collapse to an annually...
+> -- *[[MigrationsOfAdultKingSalmonOnc_20982]]*
+
+### Mentioned In
+- [[MigrationsOfAdultKingSalmonOnc_20982]]
 
 ## Itchen River
 

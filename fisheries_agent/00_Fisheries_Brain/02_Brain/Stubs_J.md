@@ -670,10 +670,14 @@ A release station on Clear Lake, about seven miles southeast of The Narrows, use
 > This 1988 U.S. Fish and Wildlife Service (FWS) memorandum from the [[Regional Office]] of [[Region 2]] (Albuquerque, NM) transfers day-to-day lead responsibility for endangered, threatened, and candidate species from the regional office to individual [[Ecological Services Field Stations]] and...
 > -- *[[ReassignmentOfEndangeredSpecie_11826]]*
 
+> This draft plan from the [[Fish and Wildlife Service]] (FWS) assesses the fish and wildlife consequences of the [[North American Free Trade Agreement]] (NAFTA) along the U.S.-Mexico border and in Mexico. It argues that trade-driven growth will raise pressure on habitats, endangered species,...
+> -- *[[DraftimplementationOfTheNorthA_11640]]*
+
 ### Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[ReassignmentOfEndangeredSpecie_11826]]
+- [[DraftimplementationOfTheNorthA_11640]]
 
 ## Jalisco
 <!-- fm: auto_enriched: true -->
@@ -852,8 +856,12 @@ James E. Johnson is one of the three authors of this 1977 USDA Forest Service re
 > This USDA Forest Service research paper (RM-198, December 1977) by [[W. L. Minckley]], [[John N. Rinne]] and [[James E. Johnson]] reports that the [[Gila Topminnow]] and the introduced [[Mosquitofish]] coexist for variable periods, especially in complex habitats and near springs, before...
 > -- *[[StatusOfTheGilaTopminnowAndIts_15888]]*
 
+> This document is the verbatim transcript of a [[Public Hearing]] held by the [[Fish and Wildlife Service]] (U.S. Department of the Interior) on October 7, 1985, at Western New Mexico University in Silver City, New Mexico. The hearing addressed proposals to list the [[Spikedace]] (*Meda fulgida*)...
+> -- *[[PublicHearingTranscriptPropose_13316]]*
+
 ### Mentioned In
 - [[StatusOfTheGilaTopminnowAndIts_15888]]
+- [[PublicHearingTranscriptPropose_13316]]
 
 ## James Ellsworth DeKay
 
@@ -1080,6 +1088,18 @@ A natural waterfall and rapids on the Raquette River that, with Carry Falls, for
 
 ### Mentioned In
 - [[StationProfileO_19523]]
+
+## Jan Klein
+
+### Summary
+Jan Klein is an immunogeneticist at the University of Miami and Max-Planck Institute who collaborated on this project. He provided a letter offering probes, expertise and training for the MHC work, and supplied the primers used to amplify class II exon 2 in the Gila topminnow.
+
+### Context
+> This document is a 1993 proposal to the [[National Science Foundation]] (NSF Conservation Research program, NSF 90-66) from [[Arizona State University]]. It was submitted by [[Philip W. Hedrick]] (Principal Investigator, Department of Zoology) and [[Wendell Minckley]] (Co-Principal Investigator)....
+> -- *[[InbreedingDepression_20767]]*
+
+### Mentioned In
+- [[InbreedingDepression_20767]]
 
 ## Jana Fry
 <!-- fm: auto_enriched: true -->
@@ -1747,6 +1767,18 @@ Jensen is a geographic reference point in the middle Green River system, associa
 - [[DevelopmentOfAStandardizedMoni_15549]]
 - [[ChangesInTheFishPopulationsInT_20462]]
 
+## Jensen 1986
+
+### Summary
+Jensen 1986 is a cited source giving an assumed ceiling of about 85% accuracy for satellite-derived land cover data. The Statewide Riparian Inventory and Mapping project used this figure as a benchmark, setting its own target of 80% correct classification.
+
+### Context
+> This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Technical Report 111, by [[Richard A. Winstead]], June 1997) documents the methods and accuracy of the [[Statewide Riparian Inventory and Mapping]] (SRIM) project for riparian vegetation along perennial...
+> -- *[[StatewideRiparianInventoryAndM_20779]]*
+
+### Mentioned In
+- [[StatewideRiparianInventoryAndM_20779]]
+
 ## Jensen And Gaufin 1964
 <!-- fm: auto_enriched: true -->
 
@@ -2009,6 +2041,18 @@ Based on the archival documents, Jim Deacon appears to be a prominent figure in 
 - [[LetterToPhilPisterWithdrawingT_1988_12_26]]
 - [[PreProposalForStudiesOfMtdnaGe_1989_12_26]]
 
+## Jim Heinrich
+
+### Summary
+Jim Heinrich of the Nevada Department of Fish and Game posed six stakeholder questions for this evaluation. The questions covered the woundfin decline, drought effects, Quail Creek Reservoir and its 1989 dam break, the red shiner increase, and the 1988 chemical treatment in Utah.
+
+### Context
+> This draft report by [[BIO/WEST, Inc.]] (prepared for the [[U.S. Fish and Wildlife Service]], co-funded by the [[Southern Nevada Water Authority]]) re-examines a 1976–1993 monitoring database for native fishes of the Virgin River. Its central aim is to determine what caused the decline of...
+> -- *[[DraftAnEvaluationOfChangesInNa_17641]]*
+
+### Mentioned In
+- [[DraftAnEvaluationOfChangesInNa_17641]]
+
 ## Jim Hutchison
 <!-- fm: auto_enriched: true -->
 
@@ -2036,6 +2080,18 @@ Jim Sedell is a stream ecologist associated with the Pacific Northwest (PNW) reg
 
 ### Mentioned In
 - [[CritiqueOfHumpbackChubResearch_20317]]
+
+## Jim St. Amant
+
+### Summary
+Jim St. Amant led the Colorado River Fishes Recovery Team at the April 15–17, 1987 meeting in Las Vegas, Nevada, where the recovery plans were updated with information gathered since 1984. The source names him as team leader for that meeting.
+
+### Context
+> This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
+> -- *[[CollectedNotesminutesreportsno_17172]]*
+
+### Mentioned In
+- [[CollectedNotesminutesreportsno_17172]]
 
 ## Jim Warnecke
 
@@ -2081,6 +2137,18 @@ Jimmie Thompson was chairman of the Louisiana Wild Life and Fisheries Commission
 
 ### Mentioned In
 - [[BeyondGeneticAndDemographicMan_1991]]
+
+## Joan Hardesty
+
+### Summary
+Joan Hardesty gave testimony at the 1985 hearing supporting the listing and critical habitat designation. She emphasized the importance of genetic variability to the long-term survival of these fish.
+
+### Context
+> This document is the verbatim transcript of a [[Public Hearing]] held by the [[Fish and Wildlife Service]] (U.S. Department of the Interior) on October 7, 1985, at Western New Mexico University in Silver City, New Mexico. The hearing addressed proposals to list the [[Spikedace]] (*Meda fulgida*)...
+> -- *[[PublicHearingTranscriptPropose_13316]]*
+
+### Mentioned In
+- [[PublicHearingTranscriptPropose_13316]]
 
 ## Job 09 Monitoring And Reintroduction
 
@@ -2314,6 +2382,18 @@ A geologist who directed the 1907 collecting of fossil fishes at Riacho Doce, Al
 
 ### Mentioned In
 - [[ReproductiveProductsInMarineFo_14388]]
+
+## John Dingell
+
+### Summary
+A Michigan congressman who, with Colorado's Edwin Johnson, introduced the legislation that became the Federal Aid in Fish Restoration Act (Dingell-Johnson Act). The source credits him and Johnson as the Act's sponsors.
+
+### Context
+> This U.S. Bureau of Sport Fisheries and Wildlife report, prepared with the [[Sport Fishing Institute]], reviews the first 15 years (1952–1966) of the [[Federal Aid in Fish Restoration Act]], known as the [[Dingell-Johnson Act]] or D-J program. The program is a cooperative state-federal arrangement...
+> -- *[[YearsOfBetterFishing_13260]]*
+
+### Mentioned In
+- [[YearsOfBetterFishing_13260]]
 
 ## John Dobie
 
@@ -2613,6 +2693,18 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 - [[ConservationEngineer_12615]]
 - [[IndexToTheNaturalDrainageSyste_18981]]
 
+## John Norman Rinne
+
+### Summary
+John Norman Rinne is the author of this 1969 Arizona State University Master of Science thesis on Gila chubs. The thesis is cited as the source for the taxonomic revision of the genus Gila in the lower Colorado River basin.
+
+### Context
+> This 1969 Master of Science thesis by [[John Norman Rinne]] (Arizona State University) revises the taxonomy of western chubs of the genus [[Gila]] (family [[Cyprinidae]]) in the lower [[Colorado River]] basin. Drawing on roughly 1500 museum specimens, the author combines meristic counts,...
+> -- *[[CyprinidFishesOfTheGenusGilaFr_14986]]*
+
+### Mentioned In
+- [[CyprinidFishesOfTheGenusGilaFr_14986]]
+
 ## John O. Snyder
 
 ### Summary
@@ -2754,8 +2846,12 @@ Texas John Slaughter, who bought the San Bernardino Ranch in 1884 when most of i
 > This report, prepared for the [[U.S. Fish and Wildlife Service]] and the [[Cochise County Parks Advisory Commission]] (December 1983), uses oral history to reconstruct environmental change at the [[San Bernardino Ranch]] in extreme southeastern Cochise County, Arizona. Five in-depth interviews with...
 > -- *[[TallGrassAndFlowingWaterAnOral_18812]]*
 
+> This technical report documents a Class III (100% coverage) cultural resources survey of a 58-mile, 60- and 120-foot-wide transmission line right-of-way corridor, covering 436 acres, north and east of Douglas, Arizona. The survey was conducted by [[Cultural and Environmental Systems]] (C&ES) for...
+> -- *[[ACulturalResourcesInventoryOfP_20375]]*
+
 ### Mentioned In
 - [[TallGrassAndFlowingWaterAnOral_18812]]
+- [[ACulturalResourcesInventoryOfP_20375]]
 
 ## John W. Price
 
@@ -3047,8 +3143,12 @@ A historical museum connected to the refuge area; the source says the historic S
 > This Comprehensive Management Plan (CMP) covers the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona, and sets a 20-year planning framework for managing both units as elements of a larger "area of ecological concern" centred on...
 > -- *[[DraftSanBernardinoNationalWild_11500]]*
 
+> This August 1982 report by Lyle M. Stone and James E. Ayres of [[Archaeological Research Services]] (Tempe, Arizona) describes and evaluates the archaeological resources of a 131.24-acre parcel of the [[San Bernardino Grant]] owned by the [[Johnson Historical Museum]] of the Southwest, Inc. The...
+> -- *[[ADescriptionAndEvaluationOfArc_14586]]*
+
 ### Mentioned In
 - [[DraftSanBernardinoNationalWild_11500]]
+- [[ADescriptionAndEvaluationOfArc_14586]]
 
 ## Johnson Historical Museum of the Southwest
 
@@ -3459,9 +3559,13 @@ A citation for the 1927 proposal of the genus name Forbesella for the subterrane
 > This 1933 Proceedings of the [[United States National Museum]] paper by Carl L. Hubbs describes a new genus and species of [[Embiotocidae]] (viviparous perches of the North Pacific), [[Crossochir Koelzi]]. The species had been misidentified for decades as [[Holconotus Rhodoterus]]. Its...
 > -- *[[CrossochirKeolziANewCalifornia_20004]]*
 
+> This paper, the third report of the [[University of Oklahoma Fish Survey]], presents the fishes collected during summer 1927 by a field party from the Museum of Zoology of the University of Oklahoma, led by A. I. Ortenburger, with [[Carl L. Hubbs]] as co-author. The party seined streams in...
+> -- *[[FishesCollectedInOklahomaAndAr_14452]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
 - [[CrossochirKeolziANewCalifornia_20004]]
+- [[FishesCollectedInOklahomaAndAr_14452]]
 
 ## Jordan and Hubbs
 
@@ -3694,6 +3798,30 @@ Joseph Barlow Lippincott was a U.S. Geological Survey hydrographer and co-author
 
 ### Mentioned In
 - [[StorageOfWaterOnGilaRiverArizo_20348]]
+
+## Joseph E. Banks
+
+### Summary
+Joseph E. Banks is co-author, with Harold K. Hagen, of this report on the Green River in Dinosaur National Monument. The work was prepared for the National Park Service under a Colorado State University contract and covers the 1962 field season and the October 1962 resampling.
+
+### Context
+> This report, prepared by [[Harold K. Hagen]] and [[Joseph E. Banks]] of [[Colorado State University]] for the [[National Park Service]] (contract No. 14-10-0232-686, June 1963), documents the ecology and limnology of the Green River in [[Dinosaur National Monument]]. Its main focus was the rare...
+> -- *[[AnEcologicalAndLimnologicalStu_20953]]*
+
+### Mentioned In
+- [[AnEcologicalAndLimnologicalStu_20953]]
+
+## Joseph E. Ward
+
+### Summary
+Joseph E. Ward was a graduate student who testified at the hearing. He argued that watershed mismanagement, especially overgrazing, was the main threat to these fish and that flood-control dams would make the problem worse.
+
+### Context
+> This document is the verbatim transcript of a [[Public Hearing]] held by the [[Fish and Wildlife Service]] (U.S. Department of the Interior) on October 7, 1985, at Western New Mexico University in Silver City, New Mexico. The hearing addressed proposals to list the [[Spikedace]] (*Meda fulgida*)...
+> -- *[[PublicHearingTranscriptPropose_13316]]*
+
+### Mentioned In
+- [[PublicHearingTranscriptPropose_13316]]
 
 ## Joseph Et Al. 1977
 <!-- fm: auto_enriched: true -->

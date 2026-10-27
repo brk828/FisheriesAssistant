@@ -16,6 +16,18 @@ An analytical method that identifies minerals by how they scatter X-rays. Pine u
 ### Mentioned In
 - [[DevonianStratigraphyAndPaleoge_11148]]
 
+## X-Ray Radiography
+
+### Summary
+The use of X-rays to image internal structures such as bones without dissection. The source lists radiography as one of the methods used to examine the skeletons of the minnow specimens.
+
+### Context
+> This 1960 University of Michigan doctoral dissertation by [[Teruya Uyeno]] uses comparative [[Osteology]] to resolve the classification of North American minnows in the genera [[Gila]], [[Richardsonius]] and [[Ptychocheilus]]. These genera had a chaotic systematic history, with many species shifted...
+> -- *[[OsteologyAndPhylogenyOfTheAmer_13238]]*
+
+### Mentioned In
+- [[OsteologyAndPhylogenyOfTheAmer_13238]]
+
 ## X. couchianus
 
 ### Summary

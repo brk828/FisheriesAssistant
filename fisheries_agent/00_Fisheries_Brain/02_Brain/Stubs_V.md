@@ -74,6 +74,18 @@ A area of volcanic rocks about 50 km south of Picacho Peak, used as a regional c
 ### Mentioned In
 - [[RadiometricAndChemicalDataForT_17317]]
 
+## Vail Lake
+
+### Summary
+A secondary Anderson Mesa lake that appears only in wet years. The report considers it to have no fishery value and recommends managing it for waterfowl.
+
+### Context
+> This Arizona Game and Fish Commission Wildlife Restoration Division report, Project FW-1-R, compiles four completion reports by Project Leader [[Richard A. Wagner]] covering the high-elevation lakes of [[Anderson Mesa]] (Work Plans 1 and 2), a herbicide and buffering trial at [[Ashurst Lake]] (Work...
+> -- *[[InvestigationOfTheLakesOfAnder_14410]]*
+
+### Mentioned In
+- [[InvestigationOfTheLakesOfAnder_14410]]
+
 ## Vaillant
 
 ### Summary
@@ -101,6 +113,18 @@ A researcher whose 1897 work is cited among the earlier surveys of Panama's fres
 
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
+
+## Vairimorpha
+
+### Summary
+A microsporidian found infecting Mormon crickets during this study and identified as new in 1985. Infection rates of 50–100% were recorded at several sites, and high spore production suggested strong potential for horizontal transmission. The authors recommended investigating it as a possible key limiting factor in cricket populations.
+
+### Context
+> This 1987 final report to the [[National Park Service]], prepared by John Capinera and Charles MacVean of [[Colorado State University]], reviews the biology, ecology, and economic history of the [[Mormon Cricket]] (*Anabrus simplex*) and presents results of a two-year study (1984–1986) at...
+> -- *[[EcologyAndManagementOfMormonCr_17378]]*
+
+### Mentioned In
+- [[EcologyAndManagementOfMormonCr_17378]]
 
 ## Val Verde County
 
@@ -1170,6 +1194,18 @@ The Vegetation Management Study, conducted by the Bureau of Reclamation in 1990,
 ### Mentioned In
 - [[BiologicalNotesOnSomeEastAfric_14561]]
 
+## Velocity Barrier
+
+### Summary
+A velocity barrier uses abrupt differences in water velocity to deflect fish away from an intake, relying on the fact that fish avoid sharp velocity changes. The source tested vanes set in a V-pattern, which deflected all experimental fish in one arrangement, and a 30-degree deflection with 10-degree vanes at 1.85 ft./sec., which recovered 92 percent of fish. A pipe barrier recovered 93 percent. The author notes these results were laboratory-scale only.
+
+### Context
+> Fish Bulletin No. 92 (California Department of Fish and Game, 1953), by James E. Kerr of Bechtel Corporation, reports a 17-month research program (ending October 1952) into protecting fish drawn into the condenser cooling water of the [[Contra Costa Steam Plant]] on the San Joaquin River near...
+> -- *[[StudiesOnFishPreservationAtThe_12509]]*
+
+### Mentioned In
+- [[StudiesOnFishPreservationAtThe_12509]]
+
 ## Velocity Cap
 
 ### Summary
@@ -1836,6 +1872,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > On September 17, 1993, the [[Greater Gila Biodiversity Project]], the [[Southwest Center for Biological Diversity]], and the [[Biodiversity Legal Foundation]], together with individuals [[David Hogan]] and [[Peter Galvin]], petitioned the [[U.S. Fish and Wildlife Service]] (USFWS) to uplist the...
 > -- *[[PetitionsToReclassifyTheLoachm_20447]]*
 
+> This document is the verbatim transcript of a [[Public Hearing]] held by the [[Fish and Wildlife Service]] (U.S. Department of the Interior) on October 7, 1985, at Western New Mexico University in Silver City, New Mexico. The hearing addressed proposals to list the [[Spikedace]] (*Meda fulgida*)...
+> -- *[[PublicHearingTranscriptPropose_13316]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -2015,6 +2054,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[ReconaissanceOfHeadwaterSpring_16363]]
 - [[StreamDynamicsAnOverviewForLan_16592]]
 - [[PetitionsToReclassifyTheLoachm_20447]]
+- [[PublicHearingTranscriptPropose_13316]]
 
 ## Verde River Aquatic Ecology
 
@@ -2467,6 +2507,18 @@ Vertical raceways, also called silos, are cylindrical rearing tanks in which wat
 
 ### Mentioned In
 - [[VerticalRacewaysForProductionO_16561]]
+
+## Vertical Slot Fishway
+
+### Summary
+A fish passage structure with a series of pools separated by vertical slots or orifices, which lets fish choose their swimming depth. In this study it is the design type recommended for the Redlands Dam, with Alternate No. 1A a vertical slot/orifice ladder placed beside the existing sluice gates at a cost of $782,900. The report chose it over Denil fishways because the target species are bottom-oriented and only moderately strong swimmers.
+
+### Context
+> This U.S. Army Corps of Engineers (Walla Walla District) feasibility report, prepared for the [[U.S. Fish and Wildlife Service]] (Region 6) in December 1986, evaluates fish passage concepts at the existing [[Redlands Diversion Dam]] on the [[Gunnison River]] near Grand Junction, Colorado. The goal...
+> -- *[[RedlandsDamFeasibilityStudyGun_11453]]*
+
+### Mentioned In
+- [[RedlandsDamFeasibilityStudyGun_11453]]
 
 ## Vertical Traveling Screen
 
@@ -3323,6 +3375,18 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This technical report, prepared by [[BIO/WEST Inc]] for the [[Southern Nevada Water Authority]] in March 1999, documents five years of seine-based fish surveys (July 1993 to December 1997) in the lower [[Virgin River]]. The study was started as a cooperative effort with the [[Nevada Division Of...
 > -- *[[FisheriesSurveyOfTheLowerVirgi_19872]]*
 
+> This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
+> -- *[[CollectedNotesminutesreportsno_17172]]*
+
+> This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
+> -- *[[DesignationOfCriticalHabitatFo_20640]]*
+
+> This 1993 addendum, prepared by Woodward-Clyde Consultants, Dames & Moore and the [[Las Vegas Valley Water District]], updates the 1992 environmental report for a proposed diversion of [[Virgin River]] water at [[Halfway Wash]]. Design changes since the original report, including a new water right...
+> -- *[[AddendumToEnvironmentalReportO_20828]]*
+
+> This is the completed 1983 revision (dated March 1, 1985) of the Recovery Plan for the endangered woundfin, *Plagopterus argentissimus*, prepared by the U.S. Fish and Wildlife Service (FWS) with a [[Woundfin Recovery Team]] of state, federal, and consultant biologists. It supersedes the original...
+> -- *[[RecoveryPlanForWoundfinPlagopt_20845]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3450,6 +3514,10 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[PreliminaryBibliographyOnFishI_12265]]
 - [[DesignationOfCriticalHabitatFo_13209]]
 - [[FisheriesSurveyOfTheLowerVirgi_19872]]
+- [[CollectedNotesminutesreportsno_17172]]
+- [[DesignationOfCriticalHabitatFo_20640]]
+- [[AddendumToEnvironmentalReportO_20828]]
+- [[RecoveryPlanForWoundfinPlagopt_20845]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -3641,6 +3709,18 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This technical report, prepared by [[BIO/WEST Inc]] for the [[Southern Nevada Water Authority]] in March 1999, documents five years of seine-based fish surveys (July 1993 to December 1997) in the lower [[Virgin River]]. The study was started as a cooperative effort with the [[Nevada Division Of...
 > -- *[[FisheriesSurveyOfTheLowerVirgi_19872]]*
 
+> This draft report by [[BIO/WEST, Inc.]] (prepared for the [[U.S. Fish and Wildlife Service]], co-funded by the [[Southern Nevada Water Authority]]) re-examines a 1976–1993 monitoring database for native fishes of the Virgin River. Its central aim is to determine what caused the decline of...
+> -- *[[DraftAnEvaluationOfChangesInNa_17641]]*
+
+> This draft report by [[BIO/WEST]] re-analyzes the [[Virgin River Database]], a centralized record of fish monitoring at multiple stations since 1976, to explain declines in native fishes. The primary focus is [[Woundfin]], a federally endangered minnow, with secondary attention to [[Virgin River...
+> -- *[[AnEvaluationOfChangesInNativeF_20471]]*
+
+> This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
+> -- *[[DesignationOfCriticalHabitatFo_20640]]*
+
+> This 1993 addendum, prepared by Woodward-Clyde Consultants, Dames & Moore and the [[Las Vegas Valley Water District]], updates the 1992 environmental report for a proposed diversion of [[Virgin River]] water at [[Halfway Wash]]. Design changes since the original report, including a new water right...
+> -- *[[AddendumToEnvironmentalReportO_20828]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -3713,6 +3793,10 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[AuthorizationToUseUsFishAndWil_11958]]
 - [[DesignationOfCriticalHabitatFo_13209]]
 - [[FisheriesSurveyOfTheLowerVirgi_19872]]
+- [[DraftAnEvaluationOfChangesInNa_17641]]
+- [[AnEvaluationOfChangesInNativeF_20471]]
+- [[DesignationOfCriticalHabitatFo_20640]]
+- [[AddendumToEnvironmentalReportO_20828]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -3725,6 +3809,18 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 
 ### Mentioned In
 - [[BiologicalOpinionOnTheEffectsO_11915]]
+
+## Virgin River Database
+
+### Summary
+A centralized record of fish monitoring at multiple stations on the Virgin River since 1976, used by the authors to analyze native fish declines. The report re-analyzes this database, excluding 69 of 3,068 samples that were single-pass or had missing or erroneous data, leaving 2,983 for analysis. Earlier researchers used the same data but with differing metrics, and the reliability of the data was questioned at a 1995 workshop.
+
+### Context
+> This draft report by [[BIO/WEST]] re-analyzes the [[Virgin River Database]], a centralized record of fish monitoring at multiple stations since 1976, to explain declines in native fishes. The primary focus is [[Woundfin]], a federally endangered minnow, with secondary attention to [[Virgin River...
+> -- *[[AnEvaluationOfChangesInNativeF_20471]]*
+
+### Mentioned In
+- [[AnEvaluationOfChangesInNativeF_20471]]
 
 ## Virgin River Depression
 
@@ -3796,6 +3892,9 @@ A structural basin in the lower Virgin River area whose faults control the direc
 > This **draft** [[Environmental Assessment]] (U.S. Fish and Wildlife Service, Utah Field Office, dated August 9, 1999) evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*),...
 > -- *[[DesignationOfCriticalHabitatFo_13209]]*
 
+> This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
+> -- *[[DesignationOfCriticalHabitatFo_20640]]*
+
 ### Mentioned In
 - [[VirginRiverMeetingOf_11186]]
 - [[VirginRiverWoundfinPlanForBroo_16685]]
@@ -3803,6 +3902,7 @@ A structural basin in the lower Virgin River area whose faults control the direc
 - [[VirginSpinedaceConservationAgr_20262]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
 - [[DesignationOfCriticalHabitatFo_13209]]
+- [[DesignationOfCriticalHabitatFo_20640]]
 
 ## Virgin River Fishes Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -3823,10 +3923,14 @@ A structural basin in the lower Virgin River area whose faults control the direc
 > This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
 > -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
 
+> This draft report by [[BIO/WEST, Inc.]] (prepared for the [[U.S. Fish and Wildlife Service]], co-funded by the [[Southern Nevada Water Authority]]) re-examines a 1976–1993 monitoring database for native fishes of the Virgin River. Its central aim is to determine what caused the decline of...
+> -- *[[DraftAnEvaluationOfChangesInNa_17641]]*
+
 ### Mentioned In
 - [[PossibleAlternativeA_1989_01_20]]
 - [[ViolationOfQuailCreekReservoir_1982_12_07]]
 - [[FisheriesSurveyOfTheVirginRive_16379]]
+- [[DraftAnEvaluationOfChangesInNa_17641]]
 
 ## Virgin River Gorge
 
@@ -3851,6 +3955,18 @@ The Virgin River Gorge is a geographic feature on the Virgin River that serves a
 - [[PreliminaryDraftEnvironmentalA_11680]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
 - [[AVisionForTheVirginConservatio_15060]]
+
+## Virgin River Management Plan
+
+### Summary
+A management plan with which the assessment states the critical habitat designation is consistent. Together with the proposed Virgin River Resource Management and Recovery Program, it is intended to serve as reasonable and prudent alternatives under Section 7 consultation for Utah.
+
+### Context
+> This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
+> -- *[[DesignationOfCriticalHabitatFo_20640]]*
+
+### Mentioned In
+- [[DesignationOfCriticalHabitatFo_20640]]
 
 ## Virgin River Narrows
 <!-- fm: auto_enriched: true -->
@@ -3906,8 +4022,13 @@ The Virgin River Recovery Team is an interagency collaborative effort establishe
 ## Virgin River Resource Management And Recovery Program
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
+> -- *[[DesignationOfCriticalHabitatFo_20640]]*
+
 ### Mentioned In
 - [[VirginRiverWoundfinPlanForBroo_16685]]
+- [[DesignationOfCriticalHabitatFo_20640]]
 
 ## Virgin River Round-Tailed Chub
 <!-- fm: auto_enriched: true -->
@@ -4029,6 +4150,9 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
 > -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
 
+> This 1993 addendum, prepared by Woodward-Clyde Consultants, Dames & Moore and the [[Las Vegas Valley Water District]], updates the 1992 environmental report for a proposed diversion of [[Virgin River]] water at [[Halfway Wash]]. Design changes since the original report, including a new water right...
+> -- *[[AddendumToEnvironmentalReportO_20828]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -4056,6 +4180,7 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[EndangeredSpeciesPermitRenewal_20638]]
 - [[AVisionForTheVirginConservatio_15060]]
 - [[FisheriesSurveyOfTheVirginRive_16379]]
+- [[AddendumToEnvironmentalReportO_20828]]
 
 ## Virgin Roundtail Chub
 <!-- fm: auto_enriched: true -->
@@ -4167,6 +4292,15 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > The Woundfin Recovery Plan, prepared by the Woundfin Recovery Team and dated April 15, 1979, sets out a management strategy for [[Woundfin]] (*Plagopterus argentissimus*), a cyprinid minnow listed as endangered since 1967. The Virgin River in Utah, Arizona and Nevada is the only stream where the...
 > -- *[[WoundfinPlagopterusArgentissim_13296]]*
 
+> This draft report by [[BIO/WEST, Inc.]] (prepared for the [[U.S. Fish and Wildlife Service]], co-funded by the [[Southern Nevada Water Authority]]) re-examines a 1976–1993 monitoring database for native fishes of the Virgin River. Its central aim is to determine what caused the decline of...
+> -- *[[DraftAnEvaluationOfChangesInNa_17641]]*
+
+> This draft report by [[BIO/WEST]] re-analyzes the [[Virgin River Database]], a centralized record of fish monitoring at multiple stations since 1976, to explain declines in native fishes. The primary focus is [[Woundfin]], a federally endangered minnow, with secondary attention to [[Virgin River...
+> -- *[[AnEvaluationOfChangesInNativeF_20471]]*
+
+> This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
+> -- *[[DesignationOfCriticalHabitatFo_20640]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -4216,6 +4350,9 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[FishCommunityReorganizationInA_15861]]
 - [[EnvironmentalAssessmentForReds_16521]]
 - [[WoundfinPlagopterusArgentissim_13296]]
+- [[DraftAnEvaluationOfChangesInNa_17641]]
+- [[AnEvaluationOfChangesInNativeF_20471]]
+- [[DesignationOfCriticalHabitatFo_20640]]
 
 ## Virgin Spinedace Conservation Agreement
 
@@ -4851,6 +4988,18 @@ Volodin was an associate of Luk'yanenko who contributed to extensive observation
 
 ### Mentioned In
 - [[CommitteeToConsiderEstablishme_17229]]
+
+## Volume-Density Method
+
+### Summary
+The Volume-Density Method converts tank results into field estimates by accounting for the density of plant volume in the field. The authors developed it during this study and considered it applicable to other areas and phreatophyte types.
+
+### Context
+> This U.S. Geological Survey Water-Supply Paper (1950), prepared with the [[Defense Plant Corporation]] and based on 1943–44 fieldwork, quantifies the [[Use of Water]] consumed by nonbeneficial [[Phreatophytes]] along the [[Gila River]] in lower [[Safford Valley]]. It was undertaken because all...
+> -- *[[UseOfWaterByBottomlandVegetati_16931]]*
+
+### Mentioned In
+- [[UseOfWaterByBottomlandVegetati_16931]]
 
 ## Volumetric Piston-Type Sampler
 

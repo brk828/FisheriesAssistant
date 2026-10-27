@@ -670,6 +670,18 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
 > -- *[[JulyManagementGroupMeetingSumm_21031]]*
 
+> This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
+> -- *[[CollectedNotesminutesreportsno_17172]]*
+
+> This U.S. Fish and Wildlife Service report (Colorado River Fishery Project, April 1991; authors Douglas B. Osmundson and Lynn R. Kaeding) gives year-round flow recommendations for the [[15-Mile Reach]] of the [[Upper Colorado River]] for October through June. It addresses the endangered [[Colorado...
+> -- *[[RecommendationsForFlowsInTheMi_18351]]*
+
+> This 1982 U.S. Fish and Wildlife Service (FWS) final report documents the 1981 Yampa River Fishes Study, conducted under a cooperative agreement with the [[National Park Service]] within [[Dinosaur National Monument]] (DNM). The study addressed potential conflicts between planned water projects and...
+> -- *[[YampaRiverFishesStudy_18482]]*
+
+> This report, prepared by [[Harold K. Hagen]] and [[Joseph E. Banks]] of [[Colorado State University]] for the [[National Park Service]] (contract No. 14-10-0232-686, June 1963), documents the ecology and limnology of the Green River in [[Dinosaur National Monument]]. Its main focus was the rare...
+> -- *[[AnEcologicalAndLimnologicalStu_20953]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -861,6 +873,10 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[MinutesfebruaryRecoveryImpleme_21005]]
 - [[DistributionAbundanceAndLifeHi_20456]]
 - [[JulyManagementGroupMeetingSumm_21031]]
+- [[CollectedNotesminutesreportsno_17172]]
+- [[RecommendationsForFlowsInTheMi_18351]]
+- [[YampaRiverFishesStudy_18482]]
+- [[AnEcologicalAndLimnologicalStu_20953]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1155,6 +1171,12 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This U.S. Fish and Wildlife Service recovery plan, prepared by Kevin S. Cobble and dated December 1994, addresses four listed fishes of the [[Rio Yaqui Basin]] of southeastern Arizona, New Mexico and northwestern Mexico. Two are listed as endangered: [[Yaqui Chub]] and [[Yaqui Topminnow]]. Two are...
 > -- *[[FishesOfTheRioYaquiRecoveryPla_15978]]*
 
+> This U.S. Fish and Wildlife Service recovery plan addresses three federally listed fishes of the [[Rio Yaqui Basin]] of southwestern North America: [[Yaqui Chub]] (endangered), [[Beautiful Shiner]] (threatened), and [[Yaqui Catfish]] (threatened). It also covers the endangered [[Sonoran Topminnow]]...
+> -- *[[DraftYaquiFishesRecoveryPlan_12834]]*
+
+> This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
+> -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -1235,6 +1257,8 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[EvaluationOfPopulationsOfCypri_17370]]
 - [[DraftRioYaquiFishesRecoveryPla_13748]]
 - [[FishesOfTheRioYaquiRecoveryPla_15978]]
+- [[DraftYaquiFishesRecoveryPlan_12834]]
+- [[KeyToFamiliesOfBonyFishesInInl_18571]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1414,6 +1438,15 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This 1995 grant application to the [[Arizona Water Protection Fund]] (AWPF) requests funding for a two-year project to quantify and monitor the effects of gabion-based erosion control on the West Turkey Creek (WTC) watershed in Cochise County, Arizona. The applicants, owners of [[El Coronado...
 > -- *[[WestTurkeyCreekWatershedRestor_18328]]*
 
+> This U.S. Fish and Wildlife Service recovery plan addresses three federally listed fishes of the [[Rio Yaqui Basin]] of southwestern North America: [[Yaqui Chub]] (endangered), [[Beautiful Shiner]] (threatened), and [[Yaqui Catfish]] (threatened). It also covers the endangered [[Sonoran Topminnow]]...
+> -- *[[DraftYaquiFishesRecoveryPlan_12834]]*
+
+> This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
+> -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
+
+> This Master's thesis from the [[University of Arizona]] (1995) quantifies microhabitat use by three endangered or threatened Rio Yaqui fishes, the [[Yaqui Chub]], [[Yaqui Topminnow]], and [[Beautiful Shiner]], on the [[San Bernardino National Wildlife Refuge]] (SBNWR). Field work used snorkel...
+> -- *[[HabitatUseByFishesOfTheSanBern_19343]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1521,6 +1554,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[EnvironmentalAssessmentPropose_12210]]
 - [[FishesOfTheRioYaquiRecoveryPla_15978]]
 - [[WestTurkeyCreekWatershedRestor_18328]]
+- [[DraftYaquiFishesRecoveryPlan_12834]]
+- [[KeyToFamiliesOfBonyFishesInInl_18571]]
+- [[HabitatUseByFishesOfTheSanBern_19343]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1846,6 +1882,12 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > This U.S. Fish and Wildlife Service recovery plan guides the recovery of three federally listed fishes of the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered), [[Beautiful Shiner]] (*Notropis formosus*, threatened) and [[Yaqui Catfish]] (*Ictalurus pricei*, threatened). It also...
 > -- *[[DraftRioYaquiFishesRecoveryPla_13748]]*
 
+> This U.S. Fish and Wildlife Service recovery plan addresses three federally listed fishes of the [[Rio Yaqui Basin]] of southwestern North America: [[Yaqui Chub]] (endangered), [[Beautiful Shiner]] (threatened), and [[Yaqui Catfish]] (threatened). It also covers the endangered [[Sonoran Topminnow]]...
+> -- *[[DraftYaquiFishesRecoveryPlan_12834]]*
+
+> This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
+> -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
+
 ### Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -1868,6 +1910,8 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[AgencyReviewDraftYaquiFishesRe_13257]]
 - [[SanBernardinoAquaticHabitatMan_19783]]
 - [[DraftRioYaquiFishesRecoveryPla_13748]]
+- [[DraftYaquiFishesRecoveryPlan_12834]]
+- [[KeyToFamiliesOfBonyFishesInInl_18571]]
 
 ## Yaqui topminnow
 <!-- fm: auto_enriched: true -->
@@ -2002,6 +2046,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This U.S. Fish and Wildlife Service recovery plan, prepared by Kevin S. Cobble and dated December 1994, addresses four listed fishes of the [[Rio Yaqui Basin]] of southeastern Arizona, New Mexico and northwestern Mexico. Two are listed as endangered: [[Yaqui Chub]] and [[Yaqui Topminnow]]. Two are...
 > -- *[[FishesOfTheRioYaquiRecoveryPla_15978]]*
 
+> This Master's thesis from the [[University of Arizona]] (1995) quantifies microhabitat use by three endangered or threatened Rio Yaqui fishes, the [[Yaqui Chub]], [[Yaqui Topminnow]], and [[Beautiful Shiner]], on the [[San Bernardino National Wildlife Refuge]] (SBNWR). Field work used snorkel...
+> -- *[[HabitatUseByFishesOfTheSanBern_19343]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -2071,6 +2118,7 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[EndangeredAndThreatenedFishAnd_11507]]
 - [[EnvironmentalAssessmentPropose_12210]]
 - [[FishesOfTheRioYaquiRecoveryPla_15978]]
+- [[HabitatUseByFishesOfTheSanBern_19343]]
 
 ## Yaqui Watershed
 
@@ -2582,6 +2630,12 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This quarterly progress report, prepared by W. L. Minckley and dated April 15, 1968, is a [[Commercial Fisheries Research And Development Act]] document issued under the [[Bureau Of Commercial Fisheries]], [[U.S. Fish And Wildlife Service]], for the state of Arizona (Sub-Project No. 6-1-R-2,...
 > -- *[[QuarterlyProgressReportInvesti_18564]]*
 
+> This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
+> -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
+
+> This Bureau of Reclamation memorandum (June 1995, Phoenix Area Office) transmits an addendum to the March 1994 [[Biological Assessment]] on whether nonnative fishes carried by the [[Central Arizona Project]] (CAP) aqueduct could invade the [[Santa Cruz River]] Basin. The 1994 assessment found "no...
+> -- *[[AddendumToTheBiologicalAssessm_20609]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -2688,6 +2742,8 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[DraftEnvironmentalAssessmentCo_11757]]
 - [[FishAndFishingInSpearLakeIndia_16866]]
 - [[QuarterlyProgressReportInvesti_18564]]
+- [[KeyToFamiliesOfBonyFishesInInl_18571]]
+- [[AddendumToTheBiologicalAssessm_20609]]
 
 ## Yellow Creek
 
@@ -3009,6 +3065,21 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This Minnesota Division of Game and Fish investigational report (Report No. 279, dated October 9, 1964, by R. E. Schumacher) presents preliminary 1963 test-netting results from six large lakes stocked with [[Rainbow Trout]] to create a [[Two-Story Fishery]]: a cold-water lower stratum for trout...
 > -- *[[PreliminaryResultsFromExperime_11284]]*
 
+> This 1957 bulletin, produced jointly by the [[Utah State Department of Fish and Game]], the [[Idaho Department of Fish and Game]] and the Wildlife Management Department of Utah State Agricultural College, reports a multi-year study of [[Bear Lake]], a large, deep, naturally alkaline lake straddling...
+> -- *[[BearLakeItsFishAndFishing_12272]]*
+
+> This Arizona Game and Fish Commission Wildlife Restoration Division report, Project FW-1-R, compiles four completion reports by Project Leader [[Richard A. Wagner]] covering the high-elevation lakes of [[Anderson Mesa]] (Work Plans 1 and 2), a herbicide and buffering trial at [[Ashurst Lake]] (Work...
+> -- *[[InvestigationOfTheLakesOfAnder_14410]]*
+
+> This Maine Department of Inland Fisheries and Game report (Dingell-Johnson Project F-5-R, Fishery Research and Management Division, by Lyndon H. Bond and Stuart E. DeRoche) examines how far [[Landlocked Salmon]] and [[Eastern Brook Trout]] use the outlet streams of the Cold Stream drainage (about...
+> -- *[[LandlockedSalmonAndBrookTroutO_17720]]*
+
+> This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
+> -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
+
+> This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 1, 1952) reports a 1950 summer survey of nine warm-water impoundments in Delaware. Crews combined fish sampling, a creel census of anglers, age determination from scales, bottom fauna and plankton sampling,...
+> -- *[[FreshWaterFisheriesSurvey_20643]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -3135,6 +3206,11 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[WisconsinGameFish_20790]]
 - [[FisheriesSurveyOfTheCanadianAn_20807]]
 - [[PreliminaryResultsFromExperime_11284]]
+- [[BearLakeItsFishAndFishing_12272]]
+- [[InvestigationOfTheLakesOfAnder_14410]]
+- [[LandlockedSalmonAndBrookTroutO_17720]]
+- [[KeyToFamiliesOfBonyFishesInInl_18571]]
+- [[FreshWaterFisheriesSurvey_20643]]
 
 ## Yellow Pike Perch
 
@@ -3278,6 +3354,9 @@ Yellow-bellied Marmot (Marmota flaviventris) is one of over 40 mammal species do
 > This 1990 final report from the [[Governor's Riparian Habitat Task Force]] was submitted to Governor Rose Mofford of Arizona under [[Executive Order 89-16]], "Streams and Riparian Resources." The Task Force was charged with developing a definition, classification system, inventory, list of key...
 > -- *[[FinalReportAndRecommendationsO_17455]]*
 
+> This 1989 nomination, prepared by the [[Bureau Of Land Management]] Safford District Office and the City of Safford for the [[Arizona Department Of Environmental Quality]], proposes a 15-mile segment of [[Bonita Creek]] for designation as a Unique Water under Arizona Administrative Code R18-11-303....
+> -- *[[UniqueWatersNominationBonitaCr_19141]]*
+
 ### Mentioned In
 - [[NotesFromMayMeetingLowerColora_1997_05_28]]
 - [[ChangesInRiparianVegetationAnd_14524]]
@@ -3289,6 +3368,7 @@ Yellow-bellied Marmot (Marmota flaviventris) is one of over 40 mammal species do
 - [[SanPedroRiparianNationalConser_11468]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[FinalReportAndRecommendationsO_17455]]
+- [[UniqueWatersNominationBonitaCr_19141]]
 
 ## Yellow-Breasted Chat
 
@@ -4769,6 +4849,18 @@ The Yuma Dunes are an extremely arid sand dune habitat located south and east of
 
 ### Mentioned In
 - [[FringetoedLizardstheSnowshoeHa_13222]]
+
+## Yuma Gauging Station
+
+### Summary
+The river gauging point at Yuma where the source records Colorado discharge, including a 24-year average, a 1921 absolute maximum of 186,000 second-feet and a 1924 minimum of 1,200 second-feet.
+
+### Context
+> This 1932 geographic study by Fred B. Kniffen (University of California Publications in Geography, vol. 5) describes the natural landscape of the [[Colorado Delta]], an alluvial surface built by the [[Colorado River]] where it enters the upper [[Gulf of California]]. The document is primarily about...
+> -- *[[LowerCaliforniaStudiesIvTheNat_12572]]*
+
+### Mentioned In
+- [[LowerCaliforniaStudiesIvTheNat_12572]]
 
 ## Yuma Island
 
