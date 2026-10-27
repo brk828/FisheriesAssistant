@@ -433,6 +433,15 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This second annual progress report from the [[U.S. Fish And Wildlife Service]] (FWS) Colorado River Fishery Project covers two linked studies of the endangered [[Colorado Squawfish]] and [[Razorback Sucker]] in the Grand Valley, Colorado. The work was funded by the [[U.S. Bureau Of Reclamation]]...
 > -- *[[AReportOnTheStudiesOfTheEndang_17862]]*
 
+> This 1993 addendum, prepared by the [[Las Vegas Valley Water District]] (District), updates an earlier hydrologic study of the lower [[Virgin River]] valley. It supports a proposed water diversion at [[Halfway Wash]] with a maximum rate of 700 cfs and a storage facility of about 113,000 acre-feet....
+> -- *[[AddendumToHydrologyAndInteract_12989]]*
+
+> This 1989 final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fishery Project documents three years (1986–1989) of experiments on rearing endangered [[Colorado Squawfish]] and [[Razorback Sucker]] in four former [[Gravel-Pit Ponds]] near Grand Junction, Colorado. The work was...
+> -- *[[ColoradoSquawfishAndRazorbackS_18350]]*
+
+> This report, prepared by the [[Utah Division of Wildlife Resources]] (UDWR) and the [[U.S. Bureau of Reclamation]] (BOR) in February 1988, documents the fish community of the San Juan River, Utah, and its transition zone with the San Juan Arm of [[Lake Powell]]. Sampling ran March through September...
+> -- *[[FisheriesSurveyOfTheSanJuanRiv_20164]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -488,6 +497,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[ArtificialPropagationOfLoachMi_13956]]
 - [[StatusOfLoachMinnowInTheBlackR_17017]]
 - [[AReportOnTheStudiesOfTheEndang_17862]]
+- [[AddendumToHydrologyAndInteract_12989]]
+- [[ColoradoSquawfishAndRazorbackS_18350]]
+- [[FisheriesSurveyOfTheSanJuanRiv_20164]]
 
 ## U.S. Bureau Of Sport Fisheries And Wildlife
 <!-- fm: auto_enriched: true -->
@@ -549,12 +561,16 @@ The U.S. Department of Agriculture is a federal agency that issued warnings abou
 > This comprehensive bibliography compiled by Joseph B. Hunn for the [[Bureau of Sport Fisheries and Wildlife]] in 1967 assembles more than 850 references on fish blood chemistry. The document serves as a guide to widely scattered literature on the subject, addressing the lack of standard reference...
 > -- *[[BibliographyOnTheBloodChemistr_14517]]*
 
+> This 1968 Bureau of Sport Fisheries and Wildlife publication (Resource Publication 46) describes the work of the [[Denver Wildlife Research Center]], one of 24 federal wildlife research centers. The document is a program overview rather than a research paper. It covers control of nuisance birds and...
+> -- *[[DenverWildlifeResearchCenter_11516]]*
+
 ### Mentioned In
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 - [[NoticeOfIntentToSueForViolatio_20521]]
 - [[AResolutionOfTheBoardOfSupervi_18593]]
 - [[ChemicalVegetationControlManua_12838]]
 - [[BibliographyOnTheBloodChemistr_14517]]
+- [[DenverWildlifeResearchCenter_11516]]
 
 ## U.S. Department Of The Interior 1984
 <!-- fm: auto_enriched: true -->
@@ -1774,6 +1790,45 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This Fishery Bulletin, by William F. Royce of the [[U.S. Fish and Wildlife Service]] (Fishery Bulletin 59, Volume 52, 1951), reports a study of the breeding habits and early life history of [[Lake Trout]] (*Salvelinus namaycush*) made in 1939, 1940 and 1941 on several [[New York Finger Lakes]] and...
 > -- *[[BreedingHabitsOfLakeTroutInNew_21105]]*
 
+> This is a series of 24 information letters, issued by the [[U.S. Fish and Wildlife Service]] (Bureau of Sport Fisheries and Wildlife, Parker, Arizona) between March 1973 and September 1974. They document the formation and early work of the [[Lower Colorado River Drainage System Endangered Fishes...
+> -- *[[VariousInformationLettersOnThe_11532]]*
+
+> This revised recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] for the [[U.S. Fish and Wildlife Service]] (Region 6), addresses the [[Bonytail Chub]] (*Gila elegans*), listed as endangered on April 23, 1980. The original plan was approved May 16, 1984. The species is very rare...
+> -- *[[BonytailChubRevisedRecoveryPla_11574]]*
+
+> This December 1977 recovery plan, prepared by the Cui-ui Recovery Team and published by the [[U.S. Fish and Wildlife Service]] (approved January 23, 1978), addresses the endangered [[Cui-ui]] (*Chasmistes cujus*), a sucker endemic to [[Pyramid Lake]], Nevada. The stated prime objective is to...
+> -- *[[CuiuiChasmistesCujus_13290]]*
+
+> This preliminary report from the Illinois Natural History Survey and Illinois Department of Conservation (Biological Notes No. 30, 1952) documents a creel census of the sport fishery at [[Lake Chautauqua]], a reflooded drainage district on the [[Illinois River]] floodplain near Havana. Recorded...
+> -- *[[SportFishingAtLakeChautauquaNe_14738]]*
+
+> This document is a research proposal submitted by [[Arizona State University]] (Department of Zoology and Center for Environmental Studies) to the [[U.S. Fish and Wildlife Service]], Region II, for a five-year study of fish community recovery in the [[Virgin River]]. The study follows an accidental...
+> -- *[[FishCommunityReorganizationInA_15861]]*
+
+> This draft environmental assessment (EA), prepared by the [[U.S. Fish And Wildlife Service]] (Service) in August 1996, evaluates a project to eradicate the nonnative [[Red Shiner]] from the Virgin River in Utah. The red shiner competes with and may prey on native fishes, including the federally...
+> -- *[[EnvironmentalAssessmentForReds_16521]]*
+
+> This 1989 final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fishery Project documents three years (1986–1989) of experiments on rearing endangered [[Colorado Squawfish]] and [[Razorback Sucker]] in four former [[Gravel-Pit Ponds]] near Grand Junction, Colorado. The work was...
+> -- *[[ColoradoSquawfishAndRazorbackS_18350]]*
+
+> This quarterly progress report, prepared by W. L. Minckley and dated April 15, 1968, is a [[Commercial Fisheries Research And Development Act]] document issued under the [[Bureau Of Commercial Fisheries]], [[U.S. Fish And Wildlife Service]], for the state of Arizona (Sub-Project No. 6-1-R-2,...
+> -- *[[QuarterlyProgressReportInvesti_18564]]*
+
+> This 1983 Arizona State University Master of Science thesis by Gayle Ellen Marrs-Smith documents the vegetation and vascular flora of the [[San Bernardino Ranch]], a 994 ha (2,433 acre) property in the [[San Bernardino Valley]] purchased by the [[U.S. Fish and Wildlife Service]] (USFWS) mainly to...
+> -- *[[VegetationAndFloraOfTheSanBern_19380]]*
+
+> The [[Loach Minnow]] (*Tiaroga cobitis*) is a small, bottom-dwelling cyprinid listed as threatened under the [[Endangered Species Act]] (1986). It is endemic to the [[Gila River Basin]] and has been extirpated from most of its historic range. Remaining populations occur in limited reaches of the...
+> -- *[[LoachMinnowTiarogaCobitisRecov_19447]]*
+
+> This March 1994 draft Biological Assessment, prepared by the [[Bureau of Reclamation]] (Arizona Projects Office), evaluates whether transporting nonnative fish through the [[Central Arizona Project]] (CAP) aqueduct could harm federally listed fish and amphibians in the Santa Cruz River Basin of...
+> -- *[[BiologicalAssessmentTransportO_20613]]*
+
+> This document is a 1991 draft completion report on the [[Age and Growth]] of endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Upper Colorado River Basin]]. It was prepared by John A. Hawkins (Larval Fish Laboratory, Colorado State University) for the [[U.S. Fish and Wildlife...
+> -- *[[AgeAndGrowthOfColoradoSquawfis_20720]]*
+
+> This Kentucky Department of Fish and Wildlife Resources bulletin (Federal Aid Project F-3-R, Farm Pond Investigations) evaluates the success of past [[Stocking Ratios]] and rates of [[Largemouth Bass]] and [[Bluegill]] in state farm ponds. Between 1945 and 1953 more than 24,000 ponds were reported...
+> -- *[[ASurveyOfTheSuccessOfVariousSt_21207]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -2345,6 +2400,19 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[TheStatusOfNotropisSimusPecose_20710]]
 - [[InformationRequestForAdditiona_20880]]
 - [[BreedingHabitsOfLakeTroutInNew_21105]]
+- [[VariousInformationLettersOnThe_11532]]
+- [[BonytailChubRevisedRecoveryPla_11574]]
+- [[CuiuiChasmistesCujus_13290]]
+- [[SportFishingAtLakeChautauquaNe_14738]]
+- [[FishCommunityReorganizationInA_15861]]
+- [[EnvironmentalAssessmentForReds_16521]]
+- [[ColoradoSquawfishAndRazorbackS_18350]]
+- [[QuarterlyProgressReportInvesti_18564]]
+- [[VegetationAndFloraOfTheSanBern_19380]]
+- [[LoachMinnowTiarogaCobitisRecov_19447]]
+- [[BiologicalAssessmentTransportO_20613]]
+- [[AgeAndGrowthOfColoradoSquawfis_20720]]
+- [[ASurveyOfTheSuccessOfVariousSt_21207]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->
@@ -2975,11 +3043,15 @@ The U.S. Public Health Service is a federal agency that conducted companion stud
 > This Arizona Department of Health Services report compiles water quality data for the Upper [[San Pedro River]] for 1973–1979. It covers the 1973 intensive survey, the 1977 University of Arizona monitoring, and the Arizona Game and Fish Department and BWQC spill investigations. Its main focus is...
 > -- *[[SanPedroRiverBasinWaterQuality_15721]]*
 
+> This doctoral dissertation by Richard Cunningham Harrel (Oklahoma State University, Zoology, July 1966) tests whether [[Stream Order]] classification, following [[Horton Stream Order System]] and [[Strahler Modification]], can predict the morphometry, [[Physico-Chemical Conditions]] and biological...
+> -- *[[StreamOrderAndCommunityStructu_20656]]*
+
 ### Mentioned In
 - [[TheRadioactivityAndEcologyOfAq_14009]]
 - [[ChemicalControlOfSubmergedWate_19910]]
 - [[ThePlanningOperationAndAnalysi_17632]]
 - [[SanPedroRiverBasinWaterQuality_15721]]
+- [[StreamOrderAndCommunityStructu_20656]]
 
 ## U.S. Soil Conservation Service
 
@@ -3194,6 +3266,18 @@ The Udall Center for Studies in Public Policy worked with the EPA Border Environ
 
 ### Mentioned In
 - [[ResultsOfTheTektiteProgramEcol_17141]]
+
+## Uganda Game and Fisheries Department
+
+### Summary
+The Ugandan government fisheries agency. According to the source, it introduced Lates niloticus albertianus into the Victoria Nile below the Owen Falls dam and into Lake Kyoga.
+
+### Context
+> This chapter of the *Uganda Journal* series *The Fishes of Uganda* provides identification keys, species descriptions, ecological notes and distribution records for five freshwater fish families: the killifishes ([[Cyprinodontidae]]), the [[Lates]] (Nile Perch) family ([[Centropomidae]]), the...
+> -- *[[TheFishesOfUgandaiv_19265]]*
+
+### Mentioned In
+- [[TheFishesOfUgandaiv_19265]]
 
 ## Uinta Basin Hookless Cactus
 
@@ -3777,6 +3861,18 @@ The underwater observation tank was an artificial pool at Sagehen Creek where th
 ### Mentioned In
 - [[ObservationsOnTheNaturalSpawni_19610]]
 
+## Underwater Photography
+
+### Summary
+A sampling approach that uses cameras underwater to count organisms in place. Here it was used alongside trawling to estimate opossum shrimp abundance in Twin Lakes, and photo counts were correlated with trawl counts (r = 0.9183).
+
+### Context
+> This joint report from the [[Colorado Division of Wildlife]] and the [[Bureau of Reclamation]] documents the preoperational fishery of Twin Lakes, Colorado, before the [[Mt. Elbert Pumped-Storage Powerplant]] began operation. The study covers 1973–76, with most field work in 1974–75. It addresses...
+> -- *[[ResultsOfFisheriesInvestigatio_16398]]*
+
+### Mentioned In
+- [[ResultsOfFisheriesInvestigatio_16398]]
+
 ## Underwood's Mastiff Bat
 
 ### Summary
@@ -3846,6 +3942,18 @@ Uniomerus tetralasmus is a freshwater mussel in the family Unionidae. It was col
 
 ### Mentioned In
 - [[FreshwaterMollusksCollectedByT_13490]]
+
+## Union City Station
+
+### Summary
+An Erie County warmwater station established in 1905 that rears mainly muskellunge, northern pike and forage minnows. It has 85 tanks and 33 ponds and is supervised together with Corry Station.
+
+### Context
+> This 1963 (First Revision) booklet from the [[Pennsylvania Fish Commission]] describes the Commission's fish cultural system: nine production stations plus one research station, the species they raise, and the methods used to hatch, rear, and stock fish in public waters. The core program is...
+> -- *[[FishCultureInPennsylvania_11272]]*
+
+### Mentioned In
+- [[FishCultureInPennsylvania_11272]]
 
 ## Union Lake
 
@@ -4272,6 +4380,9 @@ The United States Geological Survey is a U.S. government scientific agency. In J
 > This Wildlife Unit Technical Series publication, prepared by [[William Silvey]], [[John N. Rinne]] and [[Roger Sorenson]] for the Southwestern Region, provides a computer-compatible digital index of all naturally occurring perennial waters in Arizona. It was written as a working tool for fisheries...
 > -- *[[IndexToTheNaturalDrainageSyste_18981]]*
 
+> This document is a multi-year series of [[United States Geological Survey]] (USGS) daily mean discharge tables for six stream gauging stations in southeastern Arizona. It covers the [[San Pedro River]] mainstem and its tributary [[Aravaipa Creek]], for [[Water Year]]s 1980 through 1986. The text...
+> -- *[[SanPedroWaterDischargeData_13219]]*
+
 ### Mentioned In
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
@@ -4284,6 +4395,7 @@ The United States Geological Survey is a U.S. government scientific agency. In J
 - [[SymposiumOnRareAndEndangeredFi_15352]]
 - [[OriginStatusAndFutureManagemen_17966]]
 - [[IndexToTheNaturalDrainageSyste_18981]]
+- [[SanPedroWaterDischargeData_13219]]
 
 ## United States National Marine Fisheries Service
 
@@ -5740,6 +5852,18 @@ UNLV Living Stream is a university-based facility for holding and researching Vi
 ### Mentioned In
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 
+## Unmanageable Ponds
+
+### Summary
+The lowest pond rating in the survey, based on poor physical conditions such as depth, water-level stability and clarity. About 53% of sampled ponds fell in this category. Siltation and turbidity from livestock and inadequate depth were the main limiting factors, and only 10% of owners reported fair to good fishing.
+
+### Context
+> This Kentucky Department of Fish and Wildlife Resources bulletin (Federal Aid Project F-3-R, Farm Pond Investigations) evaluates the success of past [[Stocking Ratios]] and rates of [[Largemouth Bass]] and [[Bluegill]] in state farm ponds. Between 1945 and 1953 more than 24,000 ponds were reported...
+> -- *[[ASurveyOfTheSuccessOfVariousSt_21207]]*
+
+### Mentioned In
+- [[ASurveyOfTheSuccessOfVariousSt_21207]]
+
 ## Unnamed Dace
 
 ### Summary
@@ -5923,8 +6047,12 @@ The Upper Basin Recovery Implementation Program (UBRIP) is the body for which th
 > This draft plan, prepared for the [[Upper Basin Recovery Implementation Program]] (UBRIP) and dated October 4, 1995, sets out a strategy for removing or breaching levees on selected [[Floodplain Wetlands]] in the Upper Colorado River Basin. The goal is to restore floodplain function that supports...
 > -- *[[LeveeRemovalStrategicPlan_18081]]*
 
+> This document is a 1989–1990 interagency package from the [[Bureau of Reclamation]] (Upper Colorado Region) and the [[Fish and Wildlife Service]] (FWS) on seven conservation measures for the operation of [[Glen Canyon Dam]]. The measures are attached to the Section 7 consultation under the...
+> -- *[[ConservationMeasuresForGlenCan_14782]]*
+
 ### Mentioned In
 - [[LeveeRemovalStrategicPlan_18081]]
+- [[ConservationMeasuresForGlenCan_14782]]
 
 ## Upper Basin Recovery Program
 
@@ -6332,6 +6460,21 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This 1993 Arizona Game and Fish Department special report documents two years of radiotelemetry monitoring of hatchery-raised, adult-sized [[Razorback Sucker]] and [[Colorado Squawfish]] released into the upper [[Verde River]], a tributary of the [[Gila River Basin]]. Twenty-four razorbacks and 15...
 > -- *[[MovementsAndHabitatUtilization_15939]]*
 
+> This U.S. Fish and Wildlife Service (Service) document, dated September 7, 1995, sets out the work plan and budget for the [[Recovery Implementation Program]] for endangered fishes in the [[Upper Colorado River Basin]] for Fiscal Year 1996 (October 1, 1995 to September 30, 1996). The...
+> -- *[[FiscalYearWorkPlan_11724]]*
+
+> This U.S. Fish and Wildlife Service, Region 6 (Denver) document, dated March 11, 1996, is the program guidance for the FY 1997 Work Plan of the [[Recovery Implementation Program]] for endangered fishes in the [[Upper Colorado River Basin]]. It is a request for proposals: it sets out which ongoing,...
+> -- *[[FiscalYearProgramGuidance_11731]]*
+
+> This Colorado State University master's thesis (Jay M. Thompson, Fall 1989, Department of Fishery and Wildlife Biology) tests how body size, condition factor and lipid reserves affect first-winter survival of hatchery-reared age-0 [[Colorado Squawfish]] (*Ptychocheilus lucius*), an endangered...
+> -- *[[TheRoleOfSizeConditionAndLipid_13587]]*
+
+> This document is a 1991 draft completion report on the [[Age and Growth]] of endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Upper Colorado River Basin]]. It was prepared by John A. Hawkins (Larval Fish Laboratory, Colorado State University) for the [[U.S. Fish and Wildlife...
+> -- *[[AgeAndGrowthOfColoradoSquawfis_20720]]*
+
+> This document is a 1988 file of correspondence and two draft manuscripts by [[Mark J. Rosenfeld]] on the taxonomy of endangered [[Colorado River Gila]] chubs (*Gila* spp., Cyprinidae) of the [[Upper Colorado River Basin]]. The manuscripts apply [[Morphometrics]] (photographic measurements analyzed...
+> -- *[[MorphometryOfFishesInTheGenusG_21074]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -6455,6 +6598,11 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[RecoveryProgramOrganizationMis_11666]]
 - [[DraftGeneticManagementGuidelin_12086]]
 - [[MovementsAndHabitatUtilization_15939]]
+- [[FiscalYearWorkPlan_11724]]
+- [[FiscalYearProgramGuidance_11731]]
+- [[TheRoleOfSizeConditionAndLipid_13587]]
+- [[AgeAndGrowthOfColoradoSquawfis_20720]]
+- [[MorphometryOfFishesInTheGenusG_21074]]
 
 ## Upper Colorado River Basin Biological Subcommittee
 <!-- fm: auto_enriched: true -->
@@ -6492,10 +6640,14 @@ The Upper Colorado River Basin Compact is one of the legal agreements that compr
 > This document is a February 3, 1987 letter from the [[Fish and Wildlife Service]] (FWS) Colorado/Platte River Endangered Species Recovery Coordinator to Dr. W. L. Minckley of Arizona State University. It requests literature review for the planned 1987 updates of three [[Recovery Plan]]s for the...
 > -- *[[RecoveryPlanscoloradoSquawfish_20994]]*
 
+> This final report (April 1987) from the U.S. Fish and Wildlife Service (FWS) Vernal Field Station summarizes field work on the endangered fishes of the upper [[Colorado River]] Basin, mainly in the [[Green River]] and its tributaries. The work was a continuation of the 1979-1981 Colorado River...
+> -- *[[DraftcoloradoRiverFishMonitori_13045]]*
+
 ### Mentioned In
 - [[ReferencesWithNewInformationFo_1987_03_01]]
 - [[SolicitorsOpinionReColoradoRiv_14140]]
 - [[RecoveryPlanscoloradoSquawfish_20994]]
+- [[DraftcoloradoRiverFishMonitori_13045]]
 
 ## Upper Colorado River Basin Endangered Fishes Council
 
@@ -6939,6 +7091,18 @@ The Upper Gulf of California and Colorado River Delta Biosphere Reserve was esta
 ### Mentioned In
 - [[TheColoradoRiverDeltaAndUpperG_1998_08_01]]
 
+## Upper Hard-Rock Area
+
+### Summary
+This is the rugged, mountainous part of the watershed, about 85 percent of its area (165 square miles), underlain by granite, crystalline and metamorphic rock, and basaltic lava. The study treats it as the main source of runoff, averaging 6,110 acre-feet of water yield per year.
+
+### Context
+> This U.S. Geological Survey Water-Supply Paper (1968) reports a 1961–65 hydrologic investigation of the [[Sycamore Creek Watershed]] in eastern Maricopa County, Arizona. The study was prepared with the Arizona State Land Department and the Salt River Valley Water Users' Association. The authors...
+> -- *[[WaterResourcesOfTheSycamoreCre_13331]]*
+
+### Mentioned In
+- [[WaterResourcesOfTheSycamoreCre_13331]]
+
 ## Upper Highway Tank
 <!-- fm: auto_enriched: true -->
 
@@ -7370,8 +7534,12 @@ Upper Twin Lake is a mountain lake in Colorado at 2802 m elevation, covering 263
 > This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
 > -- *[[StudiesOfTheEffectsOfOperating_12648]]*
 
+> This California Department of Fish and Game progress report evaluates a six-year management experiment in which [[Kokanee Salmon]] (*Oncorhynchus nerka*) were introduced into the [[Twin Lakes]] of Mono County in 1958. The primary goal was a dependable local source of eggs from a late-spawning...
+> -- *[[AProgressReportOfTheTwinLakesB_18601]]*
+
 ### Mentioned In
 - [[StudiesOfTheEffectsOfOperating_12648]]
+- [[AProgressReportOfTheTwinLakesB_18601]]
 
 ## Upper Verde River
 <!-- fm: auto_enriched: true -->
@@ -8355,6 +8523,18 @@ These are historical water quality datasets that the plan relies on, and they be
 ### Mentioned In
 - [[FeasibilityOfEstimatingLongTer_18583]]
 
+## Usinger
+
+### Summary
+An entomologist whose stream classification work is reviewed in the introduction of this study, following earlier systems from Steinmann and Thienemann. The source presents his system as part of the history of stream classification, which the author argues is often subjective and region-specific.
+
+### Context
+> This doctoral dissertation by Richard Cunningham Harrel (Oklahoma State University, Zoology, July 1966) tests whether [[Stream Order]] classification, following [[Horton Stream Order System]] and [[Strahler Modification]], can predict the morphometry, [[Physico-Chemical Conditions]] and biological...
+> -- *[[StreamOrderAndCommunityStructu_20656]]*
+
+### Mentioned In
+- [[StreamOrderAndCommunityStructu_20656]]
+
 ## Usinger and Needham 1954
 
 ### Summary
@@ -8692,6 +8872,15 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This draft report (June 1995), prepared by the [[Utah Division of Wildlife Resources]] Colorado River Fishery Project with [[Colorado State University]] and [[Utah State University]] researchers, reviews the life histories and control options for non-indigenous, non-salmonid fishes in the [[Upper...
 > -- *[[OptionsForSelectivelyControlli_20250]]*
 
+> This draft environmental assessment (EA), prepared by the [[U.S. Fish And Wildlife Service]] (Service) in August 1996, evaluates a project to eradicate the nonnative [[Red Shiner]] from the Virgin River in Utah. The red shiner competes with and may prey on native fishes, including the federally...
+> -- *[[EnvironmentalAssessmentForReds_16521]]*
+
+> This report, prepared by the [[Utah Division of Wildlife Resources]] (UDWR) and the [[U.S. Bureau of Reclamation]] (BOR) in February 1988, documents the fish community of the San Juan River, Utah, and its transition zone with the San Juan Arm of [[Lake Powell]]. Sampling ran March through September...
+> -- *[[FisheriesSurveyOfTheSanJuanRiv_20164]]*
+
+> This document is a 1988 file of correspondence and two draft manuscripts by [[Mark J. Rosenfeld]] on the taxonomy of endangered [[Colorado River Gila]] chubs (*Gila* spp., Cyprinidae) of the [[Upper Colorado River Basin]]. The manuscripts apply [[Morphometrics]] (photographic measurements analyzed...
+> -- *[[MorphometryOfFishesInTheGenusG_21074]]*
+
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -8733,6 +8922,21 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[FyAnnualProjectReportColoradoR_21153]]
 - [[FiscalYearAnnualReport_19224]]
 - [[OptionsForSelectivelyControlli_20250]]
+- [[EnvironmentalAssessmentForReds_16521]]
+- [[FisheriesSurveyOfTheSanJuanRiv_20164]]
+- [[MorphometryOfFishesInTheGenusG_21074]]
+
+## Utah Fish And Game Commission
+
+### Summary
+The Utah Fish and Game Commission is the state body that authorized the 1955 survey. The study was undertaken under Federal Aid Project FW-2-R-1 of the Federal Aid in Fish and Wildlife Restoration program, as stated in the source.
+
+### Context
+> This Utah State Department of Fish and Game publication (Publication No. 7, Federal Aid Division, submitted February 1957) reports an economic survey of sportsmen's expenditures on hunting and fishing in 1955, conducted by the [[Bureau Of Economic And Business Research]] at the University of Utah....
+> -- *[[AStudyOfTheEconomicValueOfFish_13230]]*
+
+### Mentioned In
+- [[AStudyOfTheEconomicValueOfFish_13230]]
 
 ## Utah Fish and Game Department
 

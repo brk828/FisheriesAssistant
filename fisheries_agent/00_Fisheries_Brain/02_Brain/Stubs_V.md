@@ -114,6 +114,18 @@ Val Verde County is a county in Texas, USA, that was home to Goodenough Spring, 
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11567]]
 
+## Valdez 1990
+
+### Summary
+A source cited for expected lengths at first annulus formation in Colorado squawfish, given as 33.2-42.7 mm. The author used these values to explain why the first annulus was not seen on any scale in this study, which suggests most fish did not form a discernible first annulus.
+
+### Context
+> This document is a 1991 draft completion report on the [[Age and Growth]] of endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Upper Colorado River Basin]]. It was prepared by John A. Hawkins (Larval Fish Laboratory, Colorado State University) for the [[U.S. Fish and Wildlife...
+> -- *[[AgeAndGrowthOfColoradoSquawfis_20720]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfColoradoSquawfis_20720]]
+
 ## Valdez And Clemmer 1982
 <!-- fm: auto_enriched: true -->
 
@@ -583,6 +595,18 @@ A Van Dorn Bottle is a water sampling device used to collect water samples at sp
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
 
+## Van Horne
+
+### Summary
+A researcher whose 1983 and 1986 work the source follows in defining habitat quality as the areas supporting a variety of life stages. The source uses this definition as the basis for its macrohabitat analysis of Sonora chub.
+
+### Context
+> This draft final report, prepared by Jeanette Carpenter and O. Eugene Maughan for the [[Arizona Game and Fish Department]] under the project "Habitat Use of the Sonora Chub, Gila ditaenia" (11/15/89 to 6/30/92), quantifies summer habitat use by the federally threatened [[Sonora Chub]] in [[Sycamore...
+> -- *[[SummerHabitatUseBySonoraChubIn_17438]]*
+
+### Mentioned In
+- [[SummerHabitatUseBySonoraChubIn_17438]]
+
 ## Van Oosten
 
 ### Summary
@@ -664,6 +688,18 @@ A laboratory apparatus used to measure gases in trout blood, applied in this rep
 
 ### Mentioned In
 - [[TemperaturUndTagesperiodikDerO_1963]]
+
+## Vanadium
+
+### Summary
+A metallic element that the source tested in 96-hour LC50 laboratory toxicity trials on seven inorganic contaminants. It was among the two most toxic of those contaminants to the test species, which the plan cites as evidence of trace-element risk to early life stages.
+
+### Context
+> This conceptual management plan, prepared by Bob D. Burdick for the [[Recovery Implementation Program]] (June 1994), proposes restoring floodplain connectivity at two bottomland sites in the [[Escalante State Wildlife Area]] on the [[Gunnison River]], downstream of Delta, Colorado. The plan argues...
+> -- *[[ConceptualManagementPlanForHab_13899]]*
+
+### Mentioned In
+- [[ConceptualManagementPlanForHab_13899]]
 
 ## Vancouver Island
 
@@ -767,6 +803,18 @@ Vanicek and Kramer (1969) are cited in the source as having combined all specime
 
 ### Mentioned In
 - [[SpeciesRelationshipsAmongFishe_21162]]
+
+## Vanicek and Kramer 1969
+
+### Summary
+An earlier age and growth study of Colorado squawfish from the Yampa and Green rivers in Dinosaur National Monument, based on 167 fish collected in 1964-1966. Only 38 adults were aged, and validation did not extend to older fish. Their oldest fish was 11 years, and they observed annulus formation in early June.
+
+### Context
+> This document is a 1991 draft completion report on the [[Age and Growth]] of endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Upper Colorado River Basin]]. It was prepared by John A. Hawkins (Larval Fish Laboratory, Colorado State University) for the [[U.S. Fish and Wildlife...
+> -- *[[AgeAndGrowthOfColoradoSquawfis_20720]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfColoradoSquawfis_20720]]
 
 ## Vanicek et al.
 
@@ -1344,6 +1392,18 @@ Ventrifossa macronemus is a deep-sea macrourid fish species endemic to the Phili
 - [[TheEmbryonicAndEarlyLarvalStag_20681]]
 - [[TheLifeHistoryOfTheTuiChubSiph_12529]]
 
+## Vera G. Collins
+
+### Summary
+Vera G. Collins was a senior scientist at the Freshwater Biological Association and the author of this 1963 review. She reviewed how freshwater bacteria had been studied, argued that lake bacteriology is fundamentally ecological, and reported over a decade of weekly sampling in Windermere and Esthwaite Water.
+
+### Context
+> This two-part paper by [[Vera G. Collins]], a senior scientist at the Freshwater Biological Association, reviews how freshwater bacteria have been studied and then reports a new method for counting them. The author argues that bacteriology of freshwater has been dominated by water-quality testing,...
+> -- *[[TheDistributionAndEcologyOfBac_17161]]*
+
+### Mentioned In
+- [[TheDistributionAndEcologyOfBac_17161]]
+
 ## Veracruz
 
 ### Summary
@@ -1755,6 +1815,15 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This agency review draft is a [[Recovery Plan]] for the [[Spikedace]] (*Meda fulgida*), a small stream-dwelling cyprinid listed as threatened under the [[Endangered Species Act]] of 1973. The plan was prepared by Paul C. Marsh (Arizona State University) for the [[U.S. Fish And Wildlife Service]]...
 > -- *[[DraftSpikedaceMedaFulgidaRecov_19419]]*
 
+> This U.S. Geological Survey Water-Supply Paper (1968) reports a 1961–65 hydrologic investigation of the [[Sycamore Creek Watershed]] in eastern Maricopa County, Arizona. The study was prepared with the Arizona State Land Department and the Salt River Valley Water Users' Association. The authors...
+> -- *[[WaterResourcesOfTheSycamoreCre_13331]]*
+
+> This document is a compiled field record from electrofish sampling of the [[Verde River]] and [[Salt River]] systems in Arizona, most likely conducted by [[Dames & Moore]] in 1981. It contains roughly 20 "Adult Fish Data Sheets" (per-site field forms) and about 30 "Field Memoranda" (handwritten...
+> -- *[[FieldNotesverdeRiverBelowBartl_17698]]*
+
+> The spikedace (*Meda fulgida*) is a threatened minnow that has been extirpated from most of its historic range in the [[Gila River Basin]]. It now survives only in the upper Gila River in New Mexico, and in [[Aravaipa Creek]], [[Eagle Creek]], and the upper [[Verde River]] in Arizona. All known...
+> -- *[[SpikedaceMedaFulgidaRecoveryPl_19448]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1927,6 +1996,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[AReviewOfFishesOfTheCoconinoNa_13810]]
 - [[IndexToTheNaturalDrainageSyste_18981]]
 - [[DraftSpikedaceMedaFulgidaRecov_19419]]
+- [[WaterResourcesOfTheSycamoreCre_13331]]
+- [[FieldNotesverdeRiverBelowBartl_17698]]
+- [[SpikedaceMedaFulgidaRecoveryPl_19448]]
 
 ## Verde River Aquatic Ecology
 
@@ -2101,6 +2173,18 @@ A stream system rated fair, with 80 species. It is one of the systems showing mo
 
 ### Mentioned In
 - [[IllinoisStreamsAClassification_21196]]
+
+## Vermilion County
+
+### Summary
+A county in east central Illinois, USA, where Jordan Creek and its study section are located. The source places the 1950 fish inventory within this county.
+
+### Context
+> This report presents an intensive electrofishing inventory of the fish community of [[Jordan Creek]], a warm-water tributary of the [[Salt Fork Vermilion River]] in [[Vermilion County]], Illinois. The census ran from July 25 to September 5, 1950, across a 4-mile study section divided into eight...
+> -- *[[AnInventoryOfTheFishesOfJordan_20182]]*
+
+### Mentioned In
+- [[AnInventoryOfTheFishesOfJordan_20182]]
 
 ## Vermilion Rockfish
 <!-- fm: auto_enriched: true -->
@@ -2500,11 +2584,15 @@ Vicariance biogeography in fish science refers to the process by which geographi
 > This is a two-year funding proposal to the [[Scholarly Studies Program]] of the [[Smithsonian Institution]] (start date September 1, 1998; total request $62,506). It asks for support to build a molecular phylogeny of [[Pyrgulopsis]], the largest genus of nonmarine snails in North America, and to...
 > -- *[[PhylogenyOfPyrgulopsisSpringsn_20361]]*
 
+> This Smithsonian Scholarly Studies Program proposal requests **$25,966** over two years (Year 1: $14,640; Year 2: $11,326) to study the evolution and biogeography of [[Tryonia]], a genus of small freshwater snails ("[[Springsnails]]") in the family [[Hydrobiidae]]. The project is led by Robert...
+> -- *[[EvolutionOfTheNorthAmericanSpr_20359]]*
+
 ### Mentioned In
 - [[DifferentiationInFishesOfTheAm_12774]]
 - [[FishesOfTheDesert_1940]]
 - [[PhylogenyAndBiodiversityConser_12967]]
 - [[PhylogenyOfPyrgulopsisSpringsn_20361]]
+- [[EvolutionOfTheNorthAmericanSpr_20359]]
 
 ## Vicariant Speciation
 <!-- fm: auto_enriched: true -->
@@ -3186,6 +3274,15 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This review by [[Clarence A. Carlson]] and [[Robert T. Muth]] (Colorado State University) treats the [[Colorado River]] as a single ecosystem. The authors argue that in less than a century the river has been transformed from a free-flowing, highly variable system into a chain of regulated, man-made...
 > -- *[[TheColoradoRiverLifelineOfTheA_17416]]*
 
+> This 1993 addendum, prepared by the [[Las Vegas Valley Water District]] (District), updates an earlier hydrologic study of the lower [[Virgin River]] valley. It supports a proposed water diversion at [[Halfway Wash]] with a maximum rate of 700 cfs and a storage facility of about 113,000 acre-feet....
+> -- *[[AddendumToHydrologyAndInteract_12989]]*
+
+> This document is a research proposal submitted by [[Arizona State University]] (Department of Zoology and Center for Environmental Studies) to the [[U.S. Fish and Wildlife Service]], Region II, for a five-year study of fish community recovery in the [[Virgin River]]. The study follows an accidental...
+> -- *[[FishCommunityReorganizationInA_15861]]*
+
+> This document is a 1988 file of correspondence and two draft manuscripts by [[Mark J. Rosenfeld]] on the taxonomy of endangered [[Colorado River Gila]] chubs (*Gila* spp., Cyprinidae) of the [[Upper Colorado River Basin]]. The manuscripts apply [[Morphometrics]] (photographic measurements analyzed...
+> -- *[[MorphometryOfFishesInTheGenusG_21074]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3306,6 +3403,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[StatusReportForRanaOncaCope_18613]]
 - [[CommunityStructureOfBenthicMac_15163]]
 - [[TheColoradoRiverLifelineOfTheA_17416]]
+- [[AddendumToHydrologyAndInteract_12989]]
+- [[FishCommunityReorganizationInA_15861]]
+- [[MorphometryOfFishesInTheGenusG_21074]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -3482,6 +3582,12 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This 1993 report by the [[Southern Utah Wilderness Alliance]] (SUWA) is a conservationist "blueprint" for restoring balance to management of the Virgin River, a roughly 200-mile desert river flowing through Utah, Arizona and Nevada into [[Lake Mead]]. The report argues that water management has...
 > -- *[[AVisionForTheVirginConservatio_15060]]*
 
+> This document is a research proposal submitted by [[Arizona State University]] (Department of Zoology and Center for Environmental Studies) to the [[U.S. Fish and Wildlife Service]], Region II, for a five-year study of fish community recovery in the [[Virgin River]]. The study follows an accidental...
+> -- *[[FishCommunityReorganizationInA_15861]]*
+
+> This draft environmental assessment (EA), prepared by the [[U.S. Fish And Wildlife Service]] (Service) in August 1996, evaluates a project to eradicate the nonnative [[Red Shiner]] from the Virgin River in Utah. The red shiner competes with and may prey on native fishes, including the federally...
+> -- *[[EnvironmentalAssessmentForReds_16521]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -3549,6 +3655,8 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[PermitPrt_17155]]
 - [[GilaTaxonomySolicitationNoSp_11479]]
 - [[AVisionForTheVirginConservatio_15060]]
+- [[FishCommunityReorganizationInA_15861]]
+- [[EnvironmentalAssessmentForReds_16521]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -3561,6 +3669,18 @@ The Virgin River Corridor Area of Critical Environmental Concern is a Bureau of 
 
 ### Mentioned In
 - [[BiologicalOpinionOnTheEffectsO_11915]]
+
+## Virgin River Depression
+
+### Summary
+A structural basin in the lower Virgin River area whose faults control the direction of groundwater flow and may convey deeper groundwater into the valley's alluvial system. The source identifies it as a key factor shaping regional flow paths.
+
+### Context
+> This 1993 addendum, prepared by the [[Las Vegas Valley Water District]] (District), updates an earlier hydrologic study of the lower [[Virgin River]] valley. It supports a proposed water diversion at [[Halfway Wash]] with a maximum rate of 700 cfs and a storage facility of about 113,000 acre-feet....
+> -- *[[AddendumToHydrologyAndInteract_12989]]*
+
+### Mentioned In
+- [[AddendumToHydrologyAndInteract_12989]]
 
 ## Virgin River Drainage
 <!-- fm: auto_enriched: true -->
@@ -3766,6 +3886,12 @@ The Virgin River Roundtail Chub (*Gila robusta seminuda*) is a federally endange
 > This document combines three items from 1993 concerning the [[Virgin River Fishes Recovery Team]]: meeting minutes from a September 27, 1993 session in St. George, Utah; a BIO/WEST fisheries survey of the Virgin River below [[Riverside Bridge]], Nevada, conducted in July and August-September 1993;...
 > -- *[[FisheriesSurveyOfTheVirginRive_16379]]*
 
+> This compiled document, authored by Mark J. Rosenfeld (Department of Biology, University of Utah), reports three linked studies on the endangered chubs of the genus *Gila* in the [[Colorado River Basin]]. The first uses [[Allozyme Electrophoresis]] to build a biochemical genetic database for the...
+> -- *[[BiochemicalGeneticsOfTheColora_21073]]*
+
+> This study by Mark J. Rosenfeld examines genetic variation in the [[Tui Chub]] (*Gila bicolor*) across the [[Lahontan System]] of north-central Nevada using horizontal starch electrophoresis of 21 protein loci and chromosome analysis with Giemsa and silver staining. Samples came from the Humboldt...
+> -- *[[ElectrophoreticAndCytogeneticV_21076]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -3779,6 +3905,8 @@ The Virgin River Roundtail Chub (*Gila robusta seminuda*) is a federally endange
 - [[CorrespondenceBetweenMinckleyA_16449]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
 - [[FisheriesSurveyOfTheVirginRive_16379]]
+- [[BiochemicalGeneticsOfTheColora_21073]]
+- [[ElectrophoreticAndCytogeneticV_21076]]
 
 ## Virgin River spinedace
 <!-- fm: auto_enriched: true -->
@@ -3970,6 +4098,12 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This BIO/WEST report (PR-197-1, January 1991), prepared with the [[Utah Division of Wildlife Resources]] (UDWR), assesses the distribution, abundance and threats facing the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a fish endemic to the [[Virgin River Drainage]]. Field work by...
 > -- *[[StatusOfTheVirginSpinedaceLepi_13652]]*
 
+> This document is a research proposal submitted by [[Arizona State University]] (Department of Zoology and Center for Environmental Studies) to the [[U.S. Fish and Wildlife Service]], Region II, for a five-year study of fish community recovery in the [[Virgin River]]. The study follows an accidental...
+> -- *[[FishCommunityReorganizationInA_15861]]*
+
+> This draft environmental assessment (EA), prepared by the [[U.S. Fish And Wildlife Service]] (Service) in August 1996, evaluates a project to eradicate the nonnative [[Red Shiner]] from the Virgin River in Utah. The red shiner competes with and may prey on native fishes, including the federally...
+> -- *[[EnvironmentalAssessmentForReds_16521]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -4016,6 +4150,8 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[VirginSpinedaceConservationAgr_20261]]
 - [[VirginSpinedaceConservationAgr_20262]]
 - [[StatusOfTheVirginSpinedaceLepi_13652]]
+- [[FishCommunityReorganizationInA_15861]]
+- [[EnvironmentalAssessmentForReds_16521]]
 
 ## Virgin Spinedace Conservation Agreement
 
@@ -4669,8 +4805,12 @@ Volvox is a genus of phytoplankton (colonial green algae) that commonly blooms i
 > This administrative report documents the highly successful trout fishery at [[Crowley Lake]], an artificial reservoir in southern [[Mono County]], [[California]]. The fishery is managed as a trophy fishery through annual planting of approximately 300,000 subcatchable [[Rainbow Trout]] averaging 10...
 > -- *[[TheTroutFisheryOfCrowleyLakeMo_11106]]*
 
+> This report summarizes a three-year (June 1950 – July 1, 1953) cooperative survey by the [[Tennessee Valley Authority]] for the [[Atomic Energy Commission]] on the physical and biological effects of radioactive effluents from the [[Oak Ridge National Laboratory]] on [[White Oak Creek]] and [[White...
+> -- *[[ASummaryOfFindingsOfTheEcologi_12440]]*
+
 ### Mentioned In
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
+- [[ASummaryOfFindingsOfTheEcologi_12440]]
 
 ## Vomerine Dentition
 

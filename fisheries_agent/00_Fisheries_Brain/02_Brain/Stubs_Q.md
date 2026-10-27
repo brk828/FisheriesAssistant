@@ -65,8 +65,13 @@ The Qu'Appelle River is a river system in southern Saskatchewan, Canada, that in
 ## Quaboag River
 <!-- fm: auto_enriched: true -->
 
+### Context
+> A 1955 study by the [[New Hampshire Fish And Game Department]] evaluated the trout stream fisheries of the [[Baboosic Watershed]], a roughly 50-square-mile area in southeastern [[Hillsborough County]], New Hampshire. It was a contribution to a State-Federal "pilot" resource development project. The...
+> -- *[[AStudyOfTheTroutStreamFisherie_11203]]*
+
 ### Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
+- [[AStudyOfTheTroutStreamFisherie_11203]]
 
 ## Quadrula Petrina
 <!-- fm: auto_enriched: true -->
@@ -114,6 +119,18 @@ Quadrula quadrula, commonly known as the Macroshell or Mapleleaf mussel, is a fr
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
+
+## Quadruple Objective Holder
+
+### Summary
+A quadruple objective holder is a microscope nosepiece that carries four objective lenses. Lund favours it as the arrangement for a microscope, starting with 16 mm and 4 mm lenses and adding a 2 mm oil or water immersion lens for highest magnification.
+
+### Context
+> This paper by [[J. W. G. Lund]] is a practical guide for water-industry staff who need to identify the small objects found in freshwater. It does not attempt full identification keys. Instead it advises readers to learn common microscopic materials by direct, mostly live, examination. The paper...
+> -- *[[TheMicroscopicalExaminationOfF_16251]]*
+
+### Mentioned In
+- [[TheMicroscopicalExaminationOfF_16251]]
 
 ## Quagga mussel
 
@@ -651,6 +668,18 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 ### Mentioned In
 - [[InitialObservationsOnSpawningA_1991]]
 
+## Quekett Microscopical Club
+
+### Summary
+The Quekett Microscopical Club is a microscopy society. Lund recommends membership to readers who want to develop their skills in microscopy.
+
+### Context
+> This paper by [[J. W. G. Lund]] is a practical guide for water-industry staff who need to identify the small objects found in freshwater. It does not attempt full identification keys. Instead it advises readers to learn common microscopic materials by direct, mostly live, examination. The paper...
+> -- *[[TheMicroscopicalExaminationOfF_16251]]*
+
+### Mentioned In
+- [[TheMicroscopicalExaminationOfF_16251]]
+
 ## Quelccaya Ice Cap
 <!-- fm: auto_enriched: true -->
 
@@ -660,6 +689,18 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 
 ### Mentioned In
 - [[IceCoreRecordsOfPastClimateCha_1995_09_06]]
+
+## Quemado Lake
+
+### Summary
+Quemado Lake is one of the five Apache National Forest lakes covered by this draft environmental statement, with a surface area of about 136 acres. The source says its treatment depends on cooperative studies with the New Mexico Game and Fish Department.
+
+### Context
+> This U.S. Forest Service draft Environmental Statement, prepared under Section 102(2)(c) of the National Environmental Policy Act (Public Law 91-190), evaluates methods for controlling excessive submersed aquatic vegetation in five lakes on the [[Apache National Forest]]: [[Nelson Reservoir]],...
+> -- *[[DraftEnvironmentalStatementAqu_11508]]*
+
+### Mentioned In
+- [[DraftEnvironmentalStatementAqu_11508]]
 
 ## Quercus
 
@@ -730,8 +771,12 @@ The youngest Tertiary sedimentary unit, made of alluvial and lakebed deposits. I
 > M. H. Krieger describes the geologic structure and stratigraphy of the [[Winkelman 15-Minute Quadrangle]] in Pinal and Gila Counties, southeastern Arizona. A northwest-trending belt of steeply dipping Precambrian and Paleozoic sedimentary rocks separates two contrasting structural domains. To the...
 > -- *[[GeneralizedGeologyAndStructure_12425]]*
 
+> This U.S. Geological Survey bulletin by L. A. Heindl revises the Cenozoic history of the lower [[San Pedro River]] valley near Mammoth, Arizona. Mapping of discrete alluvial units led the author to replace the earlier single-formation view of the [[Gila Group]] with a sequence of named units. The...
+> -- *[[CenozoicGeologyInTheMammothAre_16601]]*
+
 ### Mentioned In
 - [[GeneralizedGeologyAndStructure_12425]]
+- [[CenozoicGeologyInTheMammothAre_16601]]
 
 ## Quicklime
 
@@ -981,6 +1026,9 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 > Minutes from the [[Desert Fishes Recovery Team]] meeting held April 17-18, 1986 in Tucson, Arizona. The team, led by W.L. Minckley of [[Arizona State University]], reviewed recovery efforts for multiple endangered fish species in the [[Colorado River Basin]] and surrounding drainages. Key...
 > -- *[[MinutesdesertFishesRecoveryTea_13730]]*
 
+> This 1987 technical report by Robert Rush Miller and Lee A. Fuiman, issued by the [[Cooperative National Park Resources Studies Unit]] (University of Arizona) under a [[National Park Service]] contract, formally describes *Cyprinodon macularius eremus* as a new subspecies of [[Desert Pupfish]]...
+> -- *[[StatusOfCyprinodonMaculariusEr_15416]]*
+
 ### Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
@@ -993,6 +1041,7 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 - [[BetweenTheDesertAndTheSeaArche_13223]]
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
 - [[MinutesdesertFishesRecoveryTea_13730]]
+- [[StatusOfCyprinodonMaculariusEr_15416]]
 
 ## Quitobaquito Basin
 
@@ -1270,6 +1319,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This 1986 final report by Philip C. Rosen (Arizona State University) documents a mark-recapture study of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], from September 1982 to September 1985. The population is...
 > -- *[[PopulationDeclineOfSonoranMudT_21070]]*
 
+> This University of Arizona doctoral dissertation (Thomas J. Cox, 1966, Department of Zoology) describes the ecology and behavior of the Quitobaquito form of the [[Desert Pupfish]] (*Cyprinodon macularius*), based on fieldwork during 1964 and 1965 at [[Quitobaquito Springs]] in [[Organ Pipe Cactus...
+> -- *[[ABehavioralAndEcologicalStudyO_17972]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -1296,6 +1348,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[PermitPrt_17155]]
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
 - [[PopulationDeclineOfSonoranMudT_21070]]
+- [[ABehavioralAndEcologicalStudyO_17972]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

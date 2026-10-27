@@ -132,9 +132,13 @@ I.C. Russell authored the definitive 1889 monograph describing Pleistocene glaci
 > This Maine Department of Inland Fisheries and Game report, prepared by [[W. L. Minckley]], [[Stuart E. DeRoche]] and [[Lyndon H. Bond]] (dated June 18, 1952), evaluates whether [[Ice Fishing]] harms trout and salmon populations. The study ran as the [[Dingell-Johnson Project]] F-7-R-1 on [[Branch...
 > -- *[[FinalReportOfTheIceFishingCree_12822]]*
 
+> This 1955 New Jersey Division of Fish and Game report (Miscellaneous Report #15, by Roland F. Smith and Richard W. Gross) evaluates whether a [[Fifteen-Inch Minimum Size Limit]] on [[Chain Pickerel]] (*[[Esox Niger]]*) achieved its goals in New Jersey lakes. The regulation took effect in May 1951....
+> -- *[[AnEvaluationOfTheFifteeninchMi_21203]]*
+
 ### Mentioned In
 - [[TroutPlanting_14377]]
 - [[FinalReportOfTheIceFishingCree_12822]]
+- [[AnEvaluationOfTheFifteeninchMi_21203]]
 
 ## Ice Fishing Creel Census
 
@@ -268,6 +272,18 @@ A spring system in Columbia County, Florida, where University of Florida biologi
 
 ### Mentioned In
 - [[IdentifyingTheFloridaBasses_12820]]
+
+## Ichthyobodo
+
+### Summary
+Ichthyobodo is a flagellate protozoan parasite that infects freshwater fish. In this study it was treated with salt, which raised sodium levels in the aquaria, and it caused mortality among large brine-shrimp-fed fish in December.
+
+### Context
+> This Colorado State University master's thesis (Jay M. Thompson, Fall 1989, Department of Fishery and Wildlife Biology) tests how body size, condition factor and lipid reserves affect first-winter survival of hatchery-reared age-0 [[Colorado Squawfish]] (*Ptychocheilus lucius*), an endangered...
+> -- *[[TheRoleOfSizeConditionAndLipid_13587]]*
+
+### Mentioned In
+- [[TheRoleOfSizeConditionAndLipid_13587]]
 
 ## Ichthyobus Tumidus
 <!-- fm: auto_enriched: true -->
@@ -645,6 +661,18 @@ Ichthyoplankton are the fish eggs and larvae drifting in the water column. This 
 
 ### Mentioned In
 - [[FeedingActivityAndSpawning_11266]]
+
+## Ichthyotoxins
+
+### Summary
+Chemical agents that poison fish, used to stun or kill them for capture. In this report, low-concentration rotenone was tested in selected bays; it was highly efficient for threadfin shad, but because the fish sink quickly after treatment, the authors judged it unlikely to be a practical harvest method.
+
+### Context
+> This quarterly progress report, prepared by W. L. Minckley and dated April 15, 1968, is a [[Commercial Fisheries Research And Development Act]] document issued under the [[Bureau Of Commercial Fisheries]], [[U.S. Fish And Wildlife Service]], for the state of Arizona (Sub-Project No. 6-1-R-2,...
+> -- *[[QuarterlyProgressReportInvesti_18564]]*
+
+### Mentioned In
+- [[QuarterlyProgressReportInvesti_18564]]
 
 ## Icicle River
 <!-- fm: auto_enriched: true -->
@@ -1734,6 +1762,18 @@ IFIM (Instream Flow Incremental Methodology) is a habitat-modeling framework for
 ### Mentioned In
 - [[FiscalYearWorkPlan_11627]]
 
+## Ignacio de Perez Land Grant
+
+### Summary
+A land grant of 29,640 ha (about 73,000 acres) made in 1820 that included the San Bernardino Valley area. The source lists it as one step in the ranch's history of land use, before later settlement by John Slaughter.
+
+### Context
+> This 1983 Arizona State University Master of Science thesis by Gayle Ellen Marrs-Smith documents the vegetation and vascular flora of the [[San Bernardino Ranch]], a 994 ha (2,433 acre) property in the [[San Bernardino Valley]] purchased by the [[U.S. Fish and Wildlife Service]] (USFWS) mainly to...
+> -- *[[VegetationAndFloraOfTheSanBern_19380]]*
+
+### Mentioned In
+- [[VegetationAndFloraOfTheSanBern_19380]]
+
 ## Iguanidae
 
 ### Summary
@@ -1859,9 +1899,21 @@ The Illinois Department of Conservation is the state agency that jointly support
 > This publication, compiled by John M. Stubbs in Nashville, Tennessee (March 1966), summarizes a questionnaire sent to all U.S. states and nine Canadian provinces on how fish killed by pollution are valued in monetary terms, whether legal or out-of-court damages were collected, and what each...
 > -- *[[MonetaryValuesOfFish_14652]]*
 
+> This Illinois Natural History Survey *Biological Notes* report (No. 11, August 1939, by David H. Thompson and George W. Bennett) evaluates [[Lincoln Lakes]], a set of water-filled gravel pits near Lincoln, Illinois, and a 3.69-acre arm called [[Sportsmen'S Lake]]. Hook-and-line fishing in the main...
+> -- *[[LakeManagementReports_13585]]*
+
+> This 1967 Illinois Department of Conservation bulletin, written by chief fishery biologist A.C. Lopinot, is a practical guide to stocking, managing, fishing, and protecting farm ponds. Its central argument is that good pond fishing is a managed crop, not a byproduct of building a dam. The...
+> -- *[[PondFishAndFishingInIllinois_16199]]*
+
+> This report presents an intensive electrofishing inventory of the fish community of [[Jordan Creek]], a warm-water tributary of the [[Salt Fork Vermilion River]] in [[Vermilion County]], Illinois. The census ran from July 25 to September 5, 1950, across a 4-mile study section divided into eight...
+> -- *[[AnInventoryOfTheFishesOfJordan_20182]]*
+
 ### Mentioned In
 - [[EcologicalFactorsAffectingTheG_19169]]
 - [[MonetaryValuesOfFish_14652]]
+- [[LakeManagementReports_13585]]
+- [[PondFishAndFishingInIllinois_16199]]
+- [[AnInventoryOfTheFishesOfJordan_20182]]
 
 ## Illinois Department Of Public Health
 <!-- fm: auto_enriched: true -->
@@ -1956,6 +2008,9 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This 1948 Illinois Natural History Survey bulletin by [[George W. Bennett]] reports a multi-year study of Fork Lake, a 1.38-acre farm pond near Mount Zion, Illinois. The pond was rotenone-poisoned in June 1938, restocked with [[Largemouth Bass]] fry and [[Bluegill]] adults, and then cropped with...
 > -- *[[TheBassbluegillCombinationInAS_18160]]*
 
+> This report presents an intensive electrofishing inventory of the fish community of [[Jordan Creek]], a warm-water tributary of the [[Salt Fork Vermilion River]] in [[Vermilion County]], Illinois. The census ran from July 25 to September 5, 1950, across a 4-mile study section divided into eight...
+> -- *[[AnInventoryOfTheFishesOfJordan_20182]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -1970,6 +2025,7 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 - [[OverfishingInASmallArtificialL_18158]]
 - [[TheBassbluegillCombinationInAS_18160]]
+- [[AnInventoryOfTheFishesOfJordan_20182]]
 
 ## Illinois Natural History Survey Resurvey (1950-1971)
 
@@ -2035,6 +2091,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This Illinois Natural History Survey bulletin (Volume 31, Article 10, September 1977) by [[Brooks M. Burr]] is a systematic, distributional, and life-history study of the [[Bantam Sunfish]] (*Lepomis symmetricus*), one of the least known members of the genus [[Lepomis]]. The author combined a...
 > -- *[[TheBantamSunfishLepomisSymmetr_14043]]*
 
+> This preliminary report from the Illinois Natural History Survey and Illinois Department of Conservation (Biological Notes No. 30, 1952) documents a creel census of the sport fishery at [[Lake Chautauqua]], a reflooded drainage district on the [[Illinois River]] floodplain near Havana. Recorded...
+> -- *[[SportFishingAtLakeChautauquaNe_14738]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -2053,6 +2112,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[ObservationsOnTheLimnologicalD_14675]]
 - [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 - [[TheBantamSunfishLepomisSymmetr_14043]]
+- [[SportFishingAtLakeChautauquaNe_14738]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2065,6 +2125,30 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 
 ### Mentioned In
 - [[BookReviewTheFishesOfIllinois_1979]]
+
+## Illinois State Water Survey
+
+### Summary
+The Illinois State Water Survey is a state scientific agency. In this report, J. B. Swartz of the Survey ran chemical analyses on water samples collected on April 30 and November 16, 1938, from the Lincoln lake system. The results informed the report's water-chemistry discussion.
+
+### Context
+> This Illinois Natural History Survey *Biological Notes* report (No. 11, August 1939, by David H. Thompson and George W. Bennett) evaluates [[Lincoln Lakes]], a set of water-filled gravel pits near Lincoln, Illinois, and a 3.69-acre arm called [[Sportsmen'S Lake]]. Hook-and-line fishing in the main...
+> -- *[[LakeManagementReports_13585]]*
+
+### Mentioned In
+- [[LakeManagementReports_13585]]
+
+## Illinois Water Survey
+
+### Summary
+An Illinois state agency that studies water resources. In this source, it conducted a 1950 silt survey of Lake Chautauqua, which found storage capacity reduced by 18.3 per cent in 23.75 years.
+
+### Context
+> This preliminary report from the Illinois Natural History Survey and Illinois Department of Conservation (Biological Notes No. 30, 1952) documents a creel census of the sport fishery at [[Lake Chautauqua]], a reflooded drainage district on the [[Illinois River]] floodplain near Havana. Recorded...
+> -- *[[SportFishingAtLakeChautauquaNe_14738]]*
+
+### Mentioned In
+- [[SportFishingAtLakeChautauquaNe_14738]]
 
 ## Illinois-Missouri Waters
 <!-- fm: auto_enriched: true -->
@@ -2675,6 +2759,12 @@ The trapping of fish against intake screens by the force of water being drawn in
 > This U.S. Fish and Wildlife Service (Service) planning document, Region 6, Denver, dated September 8, 1994, sets out the organization, mission, staffing, and review procedures for the [[Recovery Implementation Program]] for four endangered fishes of the [[Upper Colorado River Basin]]: [[Colorado...
 > -- *[[RecoveryProgramOrganizationMis_11666]]*
 
+> This U.S. Fish and Wildlife Service (Service) document, dated September 7, 1995, sets out the work plan and budget for the [[Recovery Implementation Program]] for endangered fishes in the [[Upper Colorado River Basin]] for Fiscal Year 1996 (October 1, 1995 to September 30, 1996). The...
+> -- *[[FiscalYearWorkPlan_11724]]*
+
+> These are draft minutes of the February 21, 1989 meeting of the [[Implementation Committee]] that oversees the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The Program is a 15-year, consensus-based effort to recover four fish species while allowing...
+> -- *[[MinutesfebruaryRecoveryImpleme_21004]]*
+
 ### Mentioned In
 - [[LetterRegardingProposedStockin_1989_06_23]]
 - [[LetterToDuaneLShroufeOnGrandCa_1989_04_24]]
@@ -2689,6 +2779,8 @@ The trapping of fish against intake screens by the force of water being drawn in
 - [[ReviewMaterialaugustImplementa_21015]]
 - [[ColoradoRiverEndangeredFishRec_21021]]
 - [[RecoveryProgramOrganizationMis_11666]]
+- [[FiscalYearWorkPlan_11724]]
+- [[MinutesfebruaryRecoveryImpleme_21004]]
 
 ## Implementation Schedule
 
@@ -3048,6 +3140,18 @@ A habitat assessment framework that combines hydraulic simulation of a stream re
 ### Mentioned In
 - [[TheDevelopmentOfAnAquaticMitig_19674]]
 
+## Incremental Stream Flow Methodology
+
+### Summary
+Incremental Stream Flow Methodology is a flow-habitat modeling approach used to link river discharge to usable habitat for fish. In this study it was used together with PHABSIM to model spawning habitat for Colorado squawfish. The source uses the model outputs to suggest preliminary target flows for the Yampa River, which the authors describe as not FWS-endorsed.
+
+### Context
+> This final report (April 1987) from the U.S. Fish and Wildlife Service (FWS) Vernal Field Station summarizes field work on the endangered fishes of the upper [[Colorado River]] Basin, mainly in the [[Green River]] and its tributaries. The work was a continuation of the 1979-1981 Colorado River...
+> -- *[[DraftcoloradoRiverFishMonitori_13045]]*
+
+### Mentioned In
+- [[DraftcoloradoRiverFishMonitori_13045]]
+
 ## Incubation Channel
 
 ### Summary
@@ -3215,6 +3319,18 @@ Index Medicus is a major medical and biological literature indexing service that
 - [[FishAsIndicatorsOfEnvironmenta_1998]]
 - [[LetterToSecretaryBabbittReques_1993_10_08]]
 - [[ConceptualOutlineEcosystemCons_18705]]
+
+## Index of Heterogeneity
+
+### Summary
+A measure (IH) of how similar or different the faunas are between sampling stations. In this study mean annual heterogeneity decreased with stream order, meaning faunal similarity between stations increased downstream. The adventitious third-order station 3(3) resembled higher-order streams more than other third-order stations did.
+
+### Context
+> This doctoral dissertation by Richard Cunningham Harrel (Oklahoma State University, Zoology, July 1966) tests whether [[Stream Order]] classification, following [[Horton Stream Order System]] and [[Strahler Modification]], can predict the morphometry, [[Physico-Chemical Conditions]] and biological...
+> -- *[[StreamOrderAndCommunityStructu_20656]]*
+
+### Mentioned In
+- [[StreamOrderAndCommunityStructu_20656]]
 
 ## Index of Hydrologic Alteration
 
@@ -3486,9 +3602,13 @@ This refers to the Indiana longear sunfish growth data reported by Hile (1931), 
 > This report documents a multi-year creel census and mark-recapture study of the fish community of [[Spear Lake]], a 40-acre glacial moraine lake in Kosciusko County, Indiana. The work was carried out in 1944–45 and again in 1947–49 as part of the [[Indiana Lake and Stream Survey]], run jointly by...
 > -- *[[FishAndFishingInSpearLakeIndia_16866]]*
 
+> This 1942 study by William E. Ricker (Indiana University) uses scale-based age determination to measure growth of [[Bluegill Sunfish]] (*Lepomis macrochirus macrochirus*) in natural lakes of northern Indiana. Scales were gathered from 53 lakes, mostly through the [[Indiana Lake and Stream Survey]],...
+> -- *[[TheRateOfGrowthOfBluegillSunfi_16851]]*
+
 ### Mentioned In
 - [[CausesOfDeathAmongIndianaFishe_1945]]
 - [[FishAndFishingInSpearLakeIndia_16866]]
+- [[TheRateOfGrowthOfBluegillSunfi_16851]]
 
 ## Indiana Myotis
 
@@ -4042,6 +4162,18 @@ The sand, gravel and silt deposits filling the narrower, later-cut valley of the
 ### Mentioned In
 - [[UrenchelysAbditusNewSpeciesThe_11967]]
 
+## Inorganic Sediment
+
+### Summary
+Mineral particles such as silt, clay, and fine gravel that enter streams from erosion and mining and settle on the bottom. The source argues that gradual deposition of these particles is a major threat to trout and salmon, mostly by smothering redds and eggs and reducing invertebrate food and shelter.
+
+### Context
+> This California Department of Fish and Game review, by [[Almo J. Cordone]] and [[Don W. Kelley]] (1960), synthesizes investigations on how [[Inorganic Sediment]] affects stream fisheries. The authors conclude that sediment is harmful to [[Salmonids]] streams, mainly through indirect pathways:...
+> -- *[[TheInfluencesOfInorganicSedime_17590]]*
+
+### Mentioned In
+- [[TheInfluencesOfInorganicSedime_17590]]
+
 ## Insect Yields
 
 ### Summary
@@ -4557,8 +4689,13 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 ## Instream Flow Methodology
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This Fish and Wildlife Service report (FWS/OBS-77/65, October 1977), prepared by Paul B. Holden of BIO/WEST, Inc., under the [[Biological Services Program]] and the Federal Interagency Energy/Environment Research and Development Program, examines the habitat use and movements of four rare fishes in...
+> -- *[[HabitatRequirementsOfJuvenileC_20460]]*
+
 ### Mentioned In
 - [[MicrohabitatUtilizationOfLoach_14998]]
+- [[HabitatRequirementsOfJuvenileC_20460]]
 
 ## Instream Flow Needs
 <!-- fm: auto_enriched: true -->
@@ -4641,6 +4778,18 @@ Instream flows are water kept flowing in a river channel to support fish and oth
 
 ### Mentioned In
 - [[WestAfricanRiversAsBiogeograph_1989]]
+
+## Insulin
+
+### Summary
+A hormone that regulates blood sugar. In this study, injected insulin (0.24 units per fish) lowered blood sugar in brook trout faster than in controls, which were still elevated after 15 hours, and the authors concluded that insulin accelerated glucose oxidation.
+
+### Context
+> This Fisheries Research Bulletin (No. 7) reports the 1945 work of the [[Cortland Hatchery]], operated jointly by the [[New York Conservation Department]], the [[Fish and Wildlife Service]] and [[Cornell University]]. The study covers four areas: vitamin requirements (riboflavin, pantothenic acid...
+> -- *[[TheNutritionOfTroutCorlandHatc_11166]]*
+
+### Mentioned In
+- [[TheNutritionOfTroutCorlandHatc_11166]]
 
 ## Insurance Populations
 
@@ -4898,6 +5047,9 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 > This 1989 U.S. Fish and Wildlife Service final report, prepared by the [[Colorado River Fishery Project]], tests whether [[Maximum-Annual Discharge]] in the upper [[Colorado River]] is related to the relative abundance of larval and post-larval [[Colorado Squawfish]] and six sympatric fish species....
 > -- *[[RelationsBetweenMaximumannualR_15253]]*
 
+> This U.S. Fish and Wildlife Service (FWS) document, dated August 30, 1999, is the work plan and budget for the [[Recovery Implementation Program]] (Recovery Program) for FY 2000, which runs from October 1, 1999. The Colorado River Implementation Committee approved it on August 30, 1999. The plan...
+> -- *[[FiscalYearWorkPlan_11960]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -4912,6 +5064,7 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 - [[RecoveryImplementationProgramF_11712]]
 - [[RecoveryImplementationProgramF_15036]]
 - [[RelationsBetweenMaximumannualR_15253]]
+- [[FiscalYearWorkPlan_11960]]
 
 ## Interagency Standardized Monitoring Program (Ismp)
 <!-- fm: auto_enriched: true -->
@@ -4952,8 +5105,12 @@ The artificial withdrawal of water from a source in one drainage basin for use i
 > This review, authored by G. Padmanabhan of [[North Dakota State University]], examines how [[Interbasin Water Transfer]] schemes move aquatic organisms (fish, invertebrates, bacteria, viruses, and parasites) between drainage basins, with emphasis on [[Biota Transfer]]. The author argues that...
 > -- *[[AReviewOfInterbasinWaterTransf_18377]]*
 
+> This 1995 report by Herbert R. Ludwig Jr. and Jay A. Leitch (North Dakota Water Resources Research Institute, North Dakota State University) catalogs the ways living aquatic organisms can move between adjacent watersheds. The work was motivated by uncertainty over how isolated the [[Hudson Bay...
+> -- *[[PathwaysForAquaticBiotaTransfe_16237]]*
+
 ### Mentioned In
 - [[AReviewOfInterbasinWaterTransf_18377]]
+- [[PathwaysForAquaticBiotaTransfe_16237]]
 
 ## Interdisciplinary Collaboration
 
@@ -5050,6 +5207,12 @@ Interim Flow Criteria are the operating rules for Glen Canyon Dam releases that 
 > This compilation of planning documents, dated mainly October–November 1995, assembles proposals from federal, state, tribal and university groups to study the effects of a planned spring 1996 experimental high flow from [[Glen Canyon Dam]]. The flow was planned at 45,000 cfs for about seven days,...
 > -- *[[MeetingNextWeek_19735]]*
 
+> This quarterly report covers Trip No. 3 (December 1–13, 1992) of a monitoring investigation of the aquatic resources of the [[Colorado River]] from [[Diamond Creek]] (RM 226) to Lake Mead below Pierce Ferry (RM 286). The project was led by the [[Hualapai Wildlife Management Department]] with...
+> -- *[[EffectsOfInterimFlowsFromGlenC_13633]]*
+
+> This study describes the movements of the endangered [[Humpback Chub]] (*Gila cypha*) in the mainstem [[Colorado River]] in [[Grand Canyon]], Arizona, from October 1990 through November 1993, and evaluates how [[Glen Canyon Dam]] operations influence those movements. Adults showed strong spatial...
+> -- *[[MovementOfHumpbackChubInTheCol_21130]]*
+
 ### Mentioned In
 - [[DecemberCritsMeetingSynthesisA_1994_01_04]]
 - [[IntegrationAndEvaluationOfGlen_13851]]
@@ -5059,6 +5222,8 @@ Interim Flow Criteria are the operating rules for Glen Canyon Dam releases that 
 - [[IntegrationAndEvaluationOfGlen_18447]]
 - [[GlenCanyonEnvironmentalStudies_19702]]
 - [[MeetingNextWeek_19735]]
+- [[EffectsOfInterimFlowsFromGlenC_13633]]
+- [[MovementOfHumpbackChubInTheCol_21130]]
 
 ## Interim Operating Criteria
 
@@ -6375,6 +6540,18 @@ IOFC (Indian Ocean Fishery Commission) is a regional fishery body that provides 
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16310]]
 
+## Ion Exchange
+
+### Summary
+A biological uptake pathway in which radionuclides are absorbed through an organism's body surfaces and enter its metabolism. The paper treats it, with ingestion, as one of the two biological routes of uptake.
+
+### Context
+> This 1960 conference paper by [[Louis A. Krumholz]] (University of Louisville) reviews how aquatic organisms take up, concentrate, and retain radionuclides from natural waters. Radioactive input comes from natural sources, [[Radioactive Fallout]] from weapons tests, and [[Radioactive Waste...
+> -- *[[AquaticAndBiologicalFactorsInN_12451]]*
+
+### Mentioned In
+- [[AquaticAndBiologicalFactorsInN_12451]]
+
 ## Ionic Dissociation Theory
 
 ### Summary
@@ -6512,6 +6689,18 @@ The Ames, Iowa institution that hosted the 1957 symposium and was a co-publisher
 ### Mentioned In
 - [[SymposiumOnEvaluationOfFishPop_14380]]
 
+## Iowa Stream Fauna Changes
+
+### Summary
+A historical shift documented by Aitken (1936) in which Iowa trout and smallmouth bass streams gave way to rough fish as erosion increased. The source cites it as an example of how sediment can change stream fish communities over time.
+
+### Context
+> This California Department of Fish and Game review, by [[Almo J. Cordone]] and [[Don W. Kelley]] (1960), synthesizes investigations on how [[Inorganic Sediment]] affects stream fisheries. The authors conclude that sediment is harmful to [[Salmonids]] streams, mainly through indirect pathways:...
+> -- *[[TheInfluencesOfInorganicSedime_17590]]*
+
+### Mentioned In
+- [[TheInfluencesOfInorganicSedime_17590]]
+
 ## Ipswich River
 <!-- fm: auto_enriched: true -->
 
@@ -6562,6 +6751,18 @@ Iris Spring was a proposed project on the Apache-Sitgreaves National Forest that
 
 ### Mentioned In
 - [[AReportOnTheLakesOfTheTippecan_11316]]
+
+## Iron Bacteria
+
+### Summary
+Bacteria that form filamentous sheaths, such as Sphaerotilus natans and Leptothrix spp. The source reports that their sheaths attract other microbes in the thermocline zone of lakes.
+
+### Context
+> This two-part paper by [[Vera G. Collins]], a senior scientist at the Freshwater Biological Association, reviews how freshwater bacteria have been studied and then reports a new method for counting them. The author argues that bacteriology of freshwater has been dominated by water-quality testing,...
+> -- *[[TheDistributionAndEcologyOfBac_17161]]*
+
+### Mentioned In
+- [[TheDistributionAndEcologyOfBac_17161]]
 
 ## Iron Blue Dun
 

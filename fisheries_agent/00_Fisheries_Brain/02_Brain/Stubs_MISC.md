@@ -79,8 +79,12 @@ A grow-out pond in the study. It received 234 survivors of an airline-delayed sq
 > This report evaluates the biological feasibility of passive integrated transponder ([[PIT Tags]]) for marking endangered fishes in the [[Upper Colorado River Basin]]. The study tested PIT tags on [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), and...
 > -- *[[AStudyToDetermineTheBiological_11576]]*
 
+> This 1989 final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fishery Project documents three years (1986–1989) of experiments on rearing endangered [[Colorado Squawfish]] and [[Razorback Sucker]] in four former [[Gravel-Pit Ponds]] near Grand Junction, Colorado. The work was...
+> -- *[[ColoradoSquawfishAndRazorbackS_18350]]*
+
 ### Mentioned In
 - [[AStudyToDetermineTheBiological_11576]]
+- [[ColoradoSquawfishAndRazorbackS_18350]]
 
 ## 15 Mile Reach
 <!-- fm: auto_enriched: true -->
@@ -176,6 +180,12 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This document is a bundle of U.S. Fish and Wildlife Service (FWS) and stakeholder records from the [[Recovery Implementation Program]] for endangered fishes of the Colorado River. It covers the listing status of the [[Razorback Sucker]], the draft [[Colorado Squawfish]] recovery plan, the...
 > -- *[[ManagementGroupMeeting_21008]]*
 
+> These are draft minutes of the February 21, 1989 meeting of the [[Implementation Committee]] that oversees the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The Program is a 15-year, consensus-based effort to recover four fish species while allowing...
+> -- *[[MinutesfebruaryRecoveryImpleme_21004]]*
+
+> This U.S. Fish and Wildlife Service (FWS) memorandum transmits the minutes of the February 21, 1989 meeting of the [[Recovery Implementation Committee]], which oversees the [[Recovery Implementation Program]] for four endangered or rare fishes of the [[Colorado River Basin]]: [[Colorado...
+> -- *[[MinutesfebruaryRecoveryImpleme_21005]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -200,6 +210,8 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[DraftfiscalYearWorkPlan_11611]]
 - [[AReportOnTheStudiesOfTheEndang_17862]]
 - [[ManagementGroupMeeting_21008]]
+- [[MinutesfebruaryRecoveryImpleme_21004]]
+- [[MinutesfebruaryRecoveryImpleme_21005]]
 
 ## 15-Mile Reach Gage
 
@@ -376,12 +388,16 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 > This Alabama Polytechnic Institute Extension circular, written by [[Earl Franklin Kennamer]] (Fish and Wildlife Specialist), is a practical guide for farmers who want to build, stock, fertilize, and manage a farm pond for food, recreation, and income. It covers site selection, watershed and water...
 > -- *[[YourOwnFishpond_17944]]*
 
+> This document is a bibliographic compilation of literature on the control of aquatic plants and algae, prepared by Margaret Greenwald of the Research Division of the [[Chipman Chemical Company]], Bound Brook, New Jersey, in January 1956. It replaces an earlier 1954 list and is explicitly described...
+> -- *[[ListOfReferencesOnControlOfAqu_19263]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
 - [[ImproveYourFarmFishPond_17549]]
 - [[ControlOfAquaticPlantsInPondsA_14680]]
 - [[YourOwnFishpond_17944]]
+- [[ListOfReferencesOnControlOfAqu_19263]]
 
 ## 2,4-D Herbicide
 

@@ -525,6 +525,18 @@ A stream system rated excellent in the classification, supporting 72 species. It
 ### Mentioned In
 - [[IllinoisStreamsAClassification_21196]]
 
+## Kannally Member
+
+### Summary
+A member of the San Manuel Formation described in the source. The source states that it shows a depositional break similar to the one seen between the Quiburis and Sacaton formations.
+
+### Context
+> This U.S. Geological Survey bulletin by L. A. Heindl revises the Cenozoic history of the lower [[San Pedro River]] valley near Mammoth, Arizona. Mapping of discrete alluvial units led the author to replace the earlier single-formation view of the [[Gila Group]] with a sequence of named units. The...
+> -- *[[CenozoicGeologyInTheMammothAre_16601]]*
+
+### Mentioned In
+- [[CenozoicGeologyInTheMammothAre_16601]]
+
 ## Kanopolis Reservoir
 <!-- fm: auto_enriched: true -->
 
@@ -930,8 +942,13 @@ The Karluk Weir is a counting weir on the Karluk River, about 23 miles upstream 
 ## Karyotype Analysis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This compiled document, authored by Mark J. Rosenfeld (Department of Biology, University of Utah), reports three linked studies on the endangered chubs of the genus *Gila* in the [[Colorado River Basin]]. The first uses [[Allozyme Electrophoresis]] to build a biochemical genetic database for the...
+> -- *[[BiochemicalGeneticsOfTheColora_21073]]*
+
 ### Mentioned In
 - [[MeristicsAndMorphometricsOfGol_1993]]
+- [[BiochemicalGeneticsOfTheColora_21073]]
 
 ## Karzinkin 1935
 <!-- fm: auto_enriched: true -->
@@ -1695,6 +1712,18 @@ Kent County is a jurisdiction along the Chesapeake Bay that experienced signific
 ### Mentioned In
 - [[ALiteratureReviewOfTheEffectsO_20478]]
 
+## Kent Decree
+
+### Summary
+The Kent Decree of 1910 is a court decree that established water rights among users of the Salt River system. According to this source, it covers normal-flow rights for 151,083 of the Project's 240,000 acres, with rights dated 1869 to 1909, where earlier dates take priority.
+
+### Context
+> This 1958 corporate and historical memorandum describes the [[Salt River Project]], a United States Reclamation Project operated by the Salt River Project Agricultural Improvement and Power District and the Salt River Valley Water Users' Association. It traces irrigation in the Salt River Valley...
+> -- *[[MajorFactsInBrief_20500]]*
+
+### Mentioned In
+- [[MajorFactsInBrief_20500]]
+
 ## Kent Turner
 <!-- fm: auto_enriched: true -->
 
@@ -1881,6 +1910,18 @@ The Kentucky River is a major freshwater drainage system in central Kentucky tha
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
 
+## Kentucky Soil Regions
+
+### Summary
+The six soil regions into which the study divided Kentucky: Jackson Purchase, Western Coalfields, Pennyroyal, Outer Bluegrass, Inner Bluegrass and Eastern Coalfields. The source notes that most regions were low in phosphate and acidic, with the Inner Bluegrass the exception because its soils come from phosphatic limestone. Regional differences were used to frame the pond surveys and carrying-capacity estimates.
+
+### Context
+> This Kentucky Department of Fish and Wildlife Resources bulletin (Federal Aid Project F-3-R, Farm Pond Investigations) evaluates the success of past [[Stocking Ratios]] and rates of [[Largemouth Bass]] and [[Bluegill]] in state farm ponds. Between 1945 and 1953 more than 24,000 ponds were reported...
+> -- *[[ASurveyOfTheSuccessOfVariousSt_21207]]*
+
+### Mentioned In
+- [[ASurveyOfTheSuccessOfVariousSt_21207]]
+
 ## Kenya
 <!-- fm: auto_enriched: true -->
 
@@ -1902,6 +1943,18 @@ A city in Iowa on the Upper Mississippi River and the main fieldwork site for th
 
 ### Mentioned In
 - [[BiologyOfALargeMayflyHexagenia_18832]]
+
+## Kepner 1988
+
+### Summary
+Kepner 1988 is a baseline data source cited in the opinion that reported 5.51 mg/l of dissolved oxygen at West Border Well, below the state standard of 6.0 mg/l. The opinion notes that this well is the water supply for Robertson Cienega.
+
+### Context
+> This U.S. Fish and Wildlife Service biological opinion, issued under [[Section 7 Consultation]] of the [[Endangered Species Act]], evaluates eight proposed prescribed burns on the [[San Bernardino National Wildlife Refuge]] (SBNWR) and [[Leslie Canyon National Wildlife Refuge]] (LCNWR) in Cochise...
+> -- *[[BiologicalOpinionOnEightPropos_17899]]*
+
+### Mentioned In
+- [[BiologicalOpinionOnEightPropos_17899]]
 
 ## Kepner Jakle & Baucom 1983
 <!-- fm: auto_enriched: true -->
@@ -2402,9 +2455,13 @@ The proposed reservoir that would be formed by Keystone Dam on the Arkansas and 
 > - **Colonization success rates** are low: estimates range from ~10% (Williamson) up to a likely-overestimated 35%; paleobiological estimates (Vermeij) for Miocene–Pleistocene biotic exchanges show most taxa achieving <1–24% establishment, rarely up to 46%. - **Impact prevalence**: Only an estimat...
 > -- *[[BiologicalInvasionsLessonsForE_16179]]*
 
+> This January/February 1994 issue of the [[Fish and Wildlife Service]] *Endangered Species Technical Bulletin* is a multi-article newsletter rather than a single research study. It covers the status of plants, birds, mammals, reptiles, fishes, insects and marine mammals under the [[Endangered...
+> -- *[[InTheEyeOfTheBeholderOurImageO_11713]]*
+
 ### Mentioned In
 - [[BiologicalInvasionsLessonsForE_16179]]
 - [[WhyLinkSpeciesAndEcosystemsAPe_1994]]
+- [[InTheEyeOfTheBeholderOurImageO_11713]]
 
 ## Khanabad River
 
@@ -2431,12 +2488,16 @@ The Kiamichi River is a stream system in southeastern Oklahoma that has been stu
 > This document is the 1954 monograph *Oklahoma Fishes, with Distributional Notes and Keys* by [[George A. Moore]] of the Oklahoma Agricultural and Mechanical College. It presents an [[Annotated List]] of the state's freshwater fishes, dichotomous [[Dichotomous Keys]] to families and species, a...
 > -- *[[OklahomaFishesWithDistribution_16567]]*
 
+> This Oklahoma Fishery Research Laboratory bulletin, derived from a [[Master of Science Thesis]] at the University of Oklahoma (1968), documents the first detailed study of the [[Grass Pickerel]] in Oklahoma. Fieldwork ran from 1963 to 1966 across six counties of southeastern Oklahoma. The study...
+> -- *[[LifeHistoryOfTheGrassPickerelE_16501]]*
+
 ### Mentioned In
 - [[FactorAnalysisOfSpeciesAssocia_15740]]
 - [[FishCommunityStructureAndStabi_15186]]
 - [[FishFaunalBreaksAndStreamOrder_1986]]
 - [[EndangeredAndThreatenedWildlif_11592]]
 - [[OklahomaFishesWithDistribution_16567]]
+- [[LifeHistoryOfTheGrassPickerelE_16501]]
 
 ## Kiamichi Shiner
 <!-- fm: auto_enriched: true -->
@@ -2983,9 +3044,13 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 > This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
 > -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
 
+> This document is a research-fellowship application and its review file, submitted to the [[Wildlife Conservation Society]] (WCS) [[Research Fellowship Program]] in 1995. The applicants, four Mexican biologists based at Mexico's national university, request USD 19,920 for a one-year survey and...
+> -- *[[ConservationAndManagementOfThe_20505]]*
+
 ### Mentioned In
 - [[LifeHistoryAndEcologyOfTheSono_1997]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
+- [[ConservationAndManagementOfThe_20505]]
 
 ## Kinosternon Hirtipes
 <!-- fm: auto_enriched: true -->
@@ -3083,6 +3148,18 @@ Kirkwood conducted a 1962 study that demonstrated survival of pink and chum salm
 
 ### Mentioned In
 - [[BiologicalCharacteristicsOfInt_16617]]
+
+## Kirkwood Scale-Body Relationship
+
+### Summary
+A method for back-calculating a fish's earlier lengths from the size of its scales, used here to estimate growth from scale samples. The source applied it to the bluegill, largemouth bass and Kentucky bass aged in the study. It supported the finding that bluegill rarely reached 6 inches before their fourth summer.
+
+### Context
+> This Kentucky Department of Fish and Wildlife Resources bulletin (Federal Aid Project F-3-R, Farm Pond Investigations) evaluates the success of past [[Stocking Ratios]] and rates of [[Largemouth Bass]] and [[Bluegill]] in state farm ponds. Between 1945 and 1953 more than 24,000 ponds were reported...
+> -- *[[ASurveyOfTheSuccessOfVariousSt_21207]]*
+
+### Mentioned In
+- [[ASurveyOfTheSuccessOfVariousSt_21207]]
 
 ## Kirsch 1893
 
@@ -3960,6 +4037,12 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This Idaho Fish and Game Department Job Completion Report (Project F-53-R-2, period March 1, 1966 to February 28, 1967) covers six jobs on [[Priest Lake]] and [[Upper Priest Lake]] in northern Idaho. The work examined how [[Cutthroat Trout]] and [[Kokanee Salmon]] could be propagated, how juvenile...
 > -- *[[TheUseOfIncubationChannelsForT_20297]]*
 
+> This joint report from the [[Colorado Division of Wildlife]] and the [[Bureau of Reclamation]] documents the preoperational fishery of Twin Lakes, Colorado, before the [[Mt. Elbert Pumped-Storage Powerplant]] began operation. The study covers 1973–76, with most field work in 1974–75. It addresses...
+> -- *[[ResultsOfFisheriesInvestigatio_16398]]*
+
+> This California Department of Fish and Game progress report evaluates a six-year management experiment in which [[Kokanee Salmon]] (*Oncorhynchus nerka*) were introduced into the [[Twin Lakes]] of Mono County in 1958. The primary goal was a dependable local source of eggs from a late-spawning...
+> -- *[[AProgressReportOfTheTwinLakesB_18601]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -3991,6 +4074,8 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[NotesOnTheDevelopmentAndMeasur_20598]]
 - [[AnEvaluationOfTroutPlantingInL_17592]]
 - [[TheUseOfIncubationChannelsForT_20297]]
+- [[ResultsOfFisheriesInvestigatio_16398]]
+- [[AProgressReportOfTheTwinLakesB_18601]]
 
 ## Kolkwitz
 
@@ -4198,6 +4283,18 @@ Kortes and Alcova Reservoirs in Wyoming were sites where planning studies for po
 
 ### Mentioned In
 - [[ThirdWorkshopOnEcologyOfPumpst_12641]]
+
+## Kortes Reservoir
+
+### Summary
+Kortes Reservoir is a small reservoir confined to a narrow, steep canyon on the upper North Platte River in Wyoming, with a capacity of about 4,765 acre-feet. It mainly regulates releases from upstream Seminoe Reservoir. The study found that it did not trap nutrients, and its very short retention time of about 4.6 days in June–August 1977 limited productivity.
+
+### Context
+> This Bureau of Reclamation report (GR-79-1, July 1978) presents the 1977 limnological survey of the four uppermost reservoirs of the [[North Platte River]] system: [[Seminoe Reservoir]], [[Kortes Reservoir]], [[Pathfinder Reservoir]] and [[Alcova Reservoir]]. Sampling occurred in June and late...
+> -- *[[LimnologyOfTheUpperNorthPlatte_12647]]*
+
+### Mentioned In
+- [[LimnologyOfTheUpperNorthPlatte_12647]]
 
 ## Kortowskie Lake
 <!-- fm: auto_enriched: true -->
@@ -4426,9 +4523,13 @@ Krumholz is an author cited in the leaflet's reference list for a 1948 work on r
 > This Illinois Natural History Survey bulletin (Biological Notes No. 46, November 1961) by [[William F. Childers]] and [[George W. Bennett]] tests whether hybrid sunfish could serve as a stocking fish for small warm-water ponds. The stated problem is overpopulation and stunting in ponds, which makes...
 > -- *[[HybridizationBetweenThreeSpeci_16130]]*
 
+> This 1961 Master of Science thesis by Morgan Emery Sisk, submitted to [[Oklahoma State University]], compares the bony elements of the [[Weberian Apparatus]] in three species of [[Dionda]] and six species of [[Notropis]], plus one hybrid combination. The author set out to test whether this small,...
+> -- *[[AComparativeStudyOfTheWeberian_19005]]*
+
 ### Mentioned In
 - [[TheUseOfRotenoneAsAFishPoison_13279]]
 - [[HybridizationBetweenThreeSpeci_16130]]
+- [[AComparativeStudyOfTheWeberian_19005]]
 
 ## Krumholz 1946
 <!-- fm: auto_enriched: true -->
@@ -4704,6 +4805,18 @@ Kwagunt Rapid is a whitewater rapid on the Colorado River at river mile 56 in Gr
 ### Mentioned In
 - [[CharacterizationOfTheLifeHisto_13648]]
 
+## KWIC Index
+
+### Summary
+A keyword-in-context index, which lists significant title words with the surrounding title text so references can be retrieved by subject term. In this source it forms the second part of the bibliography, with each keyword linked to an accession number. The source notes the OCR text of this index is largely unreadable.
+
+### Context
+> This document is a preliminary annotated reference compilation, not a primary research study. Compiled by [[Robert Livingstone Jr.]], a fishery biologist with the [[Bureau of Commercial Fisheries]] Biological Laboratory at Woods Hole, Massachusetts, it was published in May 1965 as U.S. Fish and...
+> -- *[[APreliminaryBibliographyWithKw_16163]]*
+
+### Mentioned In
+- [[APreliminaryBibliographyWithKw_16163]]
+
 ## Kyowa A-400
 
 ### Summary
@@ -4745,6 +4858,18 @@ A power generating plant in the Salt River Project system. The report says its u
 
 ### Mentioned In
 - [[SaltRiverProject_17586]]
+
+## Kyrene Power Plant
+
+### Summary
+The Kyrene Power Plant is a power generating facility in the Salt River Project system. This source lists it with a capacity of 30,000 kW, completed in 1952, and notes a second Kyrene unit of 60,000 kW added in 1954.
+
+### Context
+> This 1958 corporate and historical memorandum describes the [[Salt River Project]], a United States Reclamation Project operated by the Salt River Project Agricultural Improvement and Power District and the Salt River Valley Water Users' Association. It traces irrigation in the Salt River Valley...
+> -- *[[MajorFactsInBrief_20500]]*
+
+### Mentioned In
+- [[MajorFactsInBrief_20500]]
 
 ## Kyushu
 

@@ -217,6 +217,18 @@ J. Taylor is an author of a 1983 publication that was referenced in corresponden
 ### Mentioned In
 - [[TheoryOfHybridOriginAndTheEasy_13398]]
 
+## J. W. G. Lund
+
+### Summary
+Lund was a biologist trained in botany and seaweed research who later worked at the Freshwater Biological Association's Windermere Laboratory. He wrote this 1960 practical guide to examining small freshwater objects for water-industry staff. He argues that readers should first learn common materials by direct, mostly live, examination.
+
+### Context
+> This paper by [[J. W. G. Lund]] is a practical guide for water-industry staff who need to identify the small objects found in freshwater. It does not attempt full identification keys. Instead it advises readers to learn common microscopic materials by direct, mostly live, examination. The paper...
+> -- *[[TheMicroscopicalExaminationOfF_16251]]*
+
+### Mentioned In
+- [[TheMicroscopicalExaminationOfF_16251]]
+
 ## J. Weldon Watson
 
 ### Context
@@ -689,9 +701,14 @@ The James Bay Hydroelectric Project is a major hydroelectric development in Queb
 ## James Deacon
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This is a series of 24 information letters, issued by the [[U.S. Fish and Wildlife Service]] (Bureau of Sport Fisheries and Wildlife, Parker, Arizona) between March 1973 and September 1974. They document the formation and early work of the [[Lower Colorado River Drainage System Endangered Fishes...
+> -- *[[VariousInformationLettersOnThe_11532]]*
+
 ### Mentioned In
 - [[AquaticCoordinationTeamMeeting_1991_10_28]]
 - [[LetterToBobWilliamsRegardingVi_1994_09_06]]
+- [[VariousInformationLettersOnThe_11532]]
 
 ## James Devos
 <!-- fm: auto_enriched: true -->
@@ -845,8 +862,24 @@ James F. LaBounty was the Principal Investigator of the Twin Lakes Ecological St
 > This workshop proceedings, held January 1975 in Denver, Colorado, reports progress on the environmental effects of [[Pumped-Storage Operation]] on aquatic systems. Three study sites represent different climates: the montane [[Twin Lakes]] in Colorado, the temperate [[Banks Lake]] in Washington, and...
 > -- *[[SecondWorkshopOnEcologyOfPumpe_20515]]*
 
+> This Bureau of Reclamation report (REC-ERC-76-12, October 1976) compiles three studies of [[Twin Lakes]], a pair of connected glacial lakes in Lake County, Colorado. The work was a baseline before the [[Mt. Elbert Pumped-Storage Powerplant]] began operating, so that future short-term and long-term...
+> -- *[[StudiesOfTheBenthicEnvironment_12642]]*
+
 ### Mentioned In
 - [[SecondWorkshopOnEcologyOfPumpe_20515]]
+- [[StudiesOfTheBenthicEnvironment_12642]]
+
+## James Henrickson
+
+### Summary
+James Henrickson is one of the two named authors of this 1976 gazetteer, prepared at California State University, Los Angeles. The source credits him with compiling the place-name and coordinate listings for the Chihuahuan Desert Region as a supplement to a flora of the area.
+
+### Context
+> This 1976 publication by [[James Henrickson]] and [[Richard M. Straw]] (California State University, Los Angeles) is a geographic gazetteer, not a fish or aquatic-fauna study. It was prepared at the suggestion of [[Marshall C. Johnston]] as a companion to a forthcoming flora of the region. It...
+> -- *[[AGazetteerOfTheChihuahuanDeser_16676]]*
+
+### Mentioned In
+- [[AGazetteerOfTheChihuahuanDeser_16676]]
 
 ## James J. Cooper
 
@@ -859,6 +892,18 @@ James J. Cooper of the Bioresources Center, Desert Research Institute, is the au
 
 ### Mentioned In
 - [[DistributionalEcologyOfNativeA_17570]]
+
+## James J. Sartoris
+
+### Summary
+Sartoris is co-author, with James F. LaBounty, of one of the three studies in this Bureau of Reclamation report on the baseline benthic environment of Twin Lakes, Colorado. The note does not specify which of the three papers he wrote, beyond that it was one of the LaBounty and Sartoris papers.
+
+### Context
+> This Bureau of Reclamation report (REC-ERC-76-12, October 1976) compiles three studies of [[Twin Lakes]], a pair of connected glacial lakes in Lake County, Colorado. The work was a baseline before the [[Mt. Elbert Pumped-Storage Powerplant]] began operating, so that future short-term and long-term...
+> -- *[[StudiesOfTheBenthicEnvironment_12642]]*
+
+### Mentioned In
+- [[StudiesOfTheBenthicEnvironment_12642]]
 
 ## James P Henley
 
@@ -1167,6 +1212,18 @@ The Jar Emptier is a low-cost device that uses low-pressure compressed air, such
 
 ### Mentioned In
 - [[LaborsavingDevicesForBioassayL_13284]]
+
+## Jar Hatching Method
+
+### Summary
+A trout egg hatching technique developed at Benner Spring Fish Research Station and now used at all of the Commission's trout stations. The source presents it as the standard hatching approach for trout culture.
+
+### Context
+> This 1963 (First Revision) booklet from the [[Pennsylvania Fish Commission]] describes the Commission's fish cultural system: nine production stations plus one research station, the species they raise, and the methods used to hatch, rear, and stock fish in public waters. The core program is...
+> -- *[[FishCultureInPennsylvania_11272]]*
+
+### Mentioned In
+- [[FishCultureInPennsylvania_11272]]
 
 ## Jar Rinsing Rack
 
@@ -1759,6 +1816,18 @@ Jerome State Historic Park is a protected historic site located within the Verde
 ### Mentioned In
 - [[SouthAustraliaSMoundSpringsSom_20663]]
 
+## Jersey Wildlife Preservation Trust
+
+### Summary
+This is a wildlife conservation organization that the note links to captive breeding of Terrapene coahuila, which it reports has been carried out there. The note also says investigator Adrián Cerda-Ardura holds a diploma in endangered-species management from the Trust.
+
+### Context
+> This document is a research-fellowship application and its review file, submitted to the [[Wildlife Conservation Society]] (WCS) [[Research Fellowship Program]] in 1995. The applicants, four Mexican biologists based at Mexico's national university, request USD 19,920 for a one-year survey and...
+> -- *[[ConservationAndManagementOfThe_20505]]*
+
+### Mentioned In
+- [[ConservationAndManagementOfThe_20505]]
+
 ## Jerusalem
 
 ### Summary
@@ -1991,6 +2060,18 @@ A gravel pit about 5 km west of Jocotepec, Jalisco, Mexico, where the fossil fis
 ### Mentioned In
 - [[ClimaticAndBiogeographicSignif_21184]]
 
+## Joe English Brook
+
+### Summary
+One of the four main tributaries of Baboosic Brook in the study area. It was the only tributary accessible by road along most of its length, and it had the highest tag return among tributaries (66%).
+
+### Context
+> A 1955 study by the [[New Hampshire Fish And Game Department]] evaluated the trout stream fisheries of the [[Baboosic Watershed]], a roughly 50-square-mile area in southeastern [[Hillsborough County]], New Hampshire. It was a contribution to a State-Federal "pilot" resource development project. The...
+> -- *[[AStudyOfTheTroutStreamFisherie_11203]]*
+
+### Mentioned In
+- [[AStudyOfTheTroutStreamFisherie_11203]]
+
 ## Joe Foss Brook
 
 ### Summary
@@ -2201,6 +2282,18 @@ John E. Cushing was a researcher affiliated with the University of California Sa
 
 ### Mentioned In
 - [[ErythrocyteAntigensOfCaliforni_17330]]
+
+## John E. Deacon
+
+### Summary
+John E. Deacon is a fisheries biologist who, with his students from the 1960s onward, produced a long-term quantitative monitoring database for woundfin in the Virgin River. The source identifies this database as a key resource for assessing the fish community's response to the 1988 rotenone event.
+
+### Context
+> This document is a research proposal submitted by [[Arizona State University]] (Department of Zoology and Center for Environmental Studies) to the [[U.S. Fish and Wildlife Service]], Region II, for a five-year study of fish community recovery in the [[Virgin River]]. The study follows an accidental...
+> -- *[[FishCommunityReorganizationInA_15861]]*
+
+### Mentioned In
+- [[FishCommunityReorganizationInA_15861]]
 
 ## John E. Randall
 <!-- fm: auto_enriched: true -->
@@ -2533,6 +2626,18 @@ John R. Holsinger is the author of this 1973 taxonomic paper, affiliated with th
 
 ### Mentioned In
 - [[TwoNewSpeciesOfTheSubterranean_19884]]
+
+## John Radovich
+
+### Summary
+John Radovich is the other co-author of this 1952 California Department of Fish and Game bulletin on young Pacific Sardine surveys. The report covers sardine year-class strength, distribution and forecasts for the fishery from 1938 to 1951.
+
+### Context
+> This California Department of Fish and Game Bureau of Marine Fisheries bulletin (Fish Bulletin No. 87, 1952) by [[Julius B. Phillips]] and [[John Radovich]] reports fall surveys of young-of-year [[Pacific Sardine]] (*Sardinops caerulea*) along the Pacific coast from Bodega Head, California to Cape...
+> -- *[[DistributionAndAbundanceOfYoun_11170]]*
+
+### Mentioned In
+- [[DistributionAndAbundanceOfYoun_11170]]
 
 ## John Redmond Reservoir
 
@@ -3270,6 +3375,18 @@ A citation for the 1927 proposal of the genus name Forbesella for the subterrane
 - [[CommentsOnTheProposedRejection_14473]]
 - [[CrossochirKeolziANewCalifornia_20004]]
 
+## Jordan and Hubbs
+
+### Summary
+Jordan and Hubbs (1919) is a taxonomic reference that the source follows for classifying the baysmelt genus. Per the source, it recognizes three species and four subspecies of Atherinops with largely exclusive ranges from Mexico to northern Oregon.
+
+### Context
+> This 1933 study by [[Leonard P. Schultz]] (University of Washington Publications in Biology, Vol. 2, No. 3) examines the age, growth, sexual maturity and life history of baysmelt (*Atherinops*) collected between Coos Bay, Oregon, and San Diego Bay, California. Age was estimated primarily from...
+> -- *[[TheAgeAndGrowthOfAtherinopsAff_20623]]*
+
+### Mentioned In
+- [[TheAgeAndGrowthOfAtherinopsAff_20623]]
+
 ## Jordan And Hubbs 1919
 <!-- fm: auto_enriched: true -->
 
@@ -3317,10 +3434,14 @@ The 1925 subspecific classification of Pacific Coast threespine sticklebacks tha
 > This 1952 Illinois Natural History Survey Biological Notes report by R. Weldon Larimore tests whether [[Smallmouth Black Bass]] (*Micropterus dolomieu*) establish [[Home Pool]] territories in [[Jordan Creek]], a small stream in east-central Illinois. A [[Mark-Recapture]] census, followed by three...
 > -- *[[HomePoolsAndHomingBehaviorOfSm_20184]]*
 
+> This report presents an intensive electrofishing inventory of the fish community of [[Jordan Creek]], a warm-water tributary of the [[Salt Fork Vermilion River]] in [[Vermilion County]], Illinois. The census ran from July 25 to September 5, 1950, across a 4-mile study section divided into eight...
+> -- *[[AnInventoryOfTheFishesOfJordan_20182]]*
+
 ### Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
 - [[EcologicalFactorsAffectingTheG_19169]]
 - [[HomePoolsAndHomingBehaviorOfSm_20184]]
+- [[AnInventoryOfTheFishesOfJordan_20182]]
 
 ## Jordan Evermann And Clark
 <!-- fm: auto_enriched: true -->
@@ -3734,6 +3855,18 @@ Jubilee Spring (Site #27) was a reintroduction site where the spring was modifie
 ### Mentioned In
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 
+## Juday
+
+### Summary
+Juday's 1906 zooplankton collections from Twin Lakes recorded 6 rotifer, 5 copepod, and 10 cladoceran species. The authors compare this with over 500 later collections, which found only rotifers and two copepod species still present, and they attribute the loss of cladocerans to the mysis shrimp.
+
+### Context
+> This Bureau of Reclamation report (REC-ERC-76-12, October 1976) compiles three studies of [[Twin Lakes]], a pair of connected glacial lakes in Lake County, Colorado. The work was a baseline before the [[Mt. Elbert Pumped-Storage Powerplant]] began operating, so that future short-term and long-term...
+> -- *[[StudiesOfTheBenthicEnvironment_12642]]*
+
+### Mentioned In
+- [[StudiesOfTheBenthicEnvironment_12642]]
+
 ## Juday 1926
 <!-- fm: auto_enriched: true -->
 
@@ -3862,6 +3995,18 @@ Julian M. Humphries is the lead author of this 1982 taxonomic study on Ictalurus
 
 ### Mentioned In
 - [[LetterFromRobertRMillerToWLMin_1984_01_17]]
+
+## Julius B. Phillips
+
+### Summary
+Julius B. Phillips is a co-author of this California Department of Fish and Game bulletin (Fish Bulletin No. 87, 1952) on young sardine distribution and abundance. The bulletin reports his fall surveys of young-of-year Pacific Sardine along the Pacific coast, from Bodega Head to Cape San Lucas.
+
+### Context
+> This California Department of Fish and Game Bureau of Marine Fisheries bulletin (Fish Bulletin No. 87, 1952) by [[Julius B. Phillips]] and [[John Radovich]] reports fall surveys of young-of-year [[Pacific Sardine]] (*Sardinops caerulea*) along the Pacific coast from Bodega Head, California to Cape...
+> -- *[[DistributionAndAbundanceOfYoun_11170]]*
+
+### Mentioned In
+- [[DistributionAndAbundanceOfYoun_11170]]
 
 ## Jumbo Reservoir
 
@@ -4137,6 +4282,18 @@ Proposed Colorado River-system reservoirs in northwestern Colorado that were dis
 
 ### Mentioned In
 - [[ManagementGroupMeeting_21008]]
+
+## Juniper-Cross Mountain Water Rights
+
+### Summary
+Juniper-Cross Mountain Water Rights are water rights tied to Yampa River instream flow work. The source notes that the Colorado River Water Conservation District would evaluate alternative reservoir sites in lieu of these rights.
+
+### Context
+> This U.S. Fish and Wildlife Service (FWS) memorandum transmits the minutes of the February 21, 1989 meeting of the [[Recovery Implementation Committee]], which oversees the [[Recovery Implementation Program]] for four endangered or rare fishes of the [[Colorado River Basin]]: [[Colorado...
+> -- *[[MinutesfebruaryRecoveryImpleme_21005]]*
+
+### Mentioned In
+- [[MinutesfebruaryRecoveryImpleme_21005]]
 
 ## Juniperus
 

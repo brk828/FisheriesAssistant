@@ -98,9 +98,13 @@ Zander (Stizostedion lucioperca) is a European fish species closely related to t
 > This 1995 policy document by [[Gordon Berg]], chairman of the [[Devils Lake-Sheyenne-Red River Advisory Committee]], argues that [[Devils Lake]] water management must include both an inlet and an outlet, not an outlet alone. Berg contends that an outlet-only plan will concentrate salts, risk a...
 > -- *[[WaterForBirdsFishPeople_18182]]*
 
+> This document is a 1995 policy compilation by [[Gordon Berg]], North Dakota state representative and chairman of the Devils Lake-Sheyenne-Red River Advisory Committee. It promotes a comprehensive "inlet-and-outlet" water plan for [[Devils Lake]] and [[Stump Lake]] that uses the [[Sheyenne River]]...
+> -- *[[WaterForBirdsFishAndPeople_18183]]*
+
 ### Mentioned In
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[WaterForBirdsFishPeople_18182]]
+- [[WaterForBirdsFishAndPeople_18183]]
 
 ## Zannichellia
 
@@ -193,6 +197,9 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This compiled set of U.S. Fish and Wildlife Service (Service) documents, dated roughly 1991–1994, addresses how the [[National Fish Hatchery System]] (NFHS) can better conserve wild stocks, maintain genetic integrity, and propagate threatened and endangered fishes. Central proposals include the...
 > -- *[[ChangingDirectionsOfTheNationa_11656]]*
 
+> This 1995 report by Herbert R. Ludwig Jr. and Jay A. Leitch (North Dakota Water Resources Research Institute, North Dakota State University) catalogs the ways living aquatic organisms can move between adjacent watersheds. The work was motivated by uncertainty over how isolated the [[Hudson Bay...
+> -- *[[PathwaysForAquaticBiotaTransfe_16237]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -202,6 +209,7 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[ArizonaComparativeRiskProjectE_15833]]
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[ChangingDirectionsOfTheNationa_11656]]
+- [[PathwaysForAquaticBiotaTransfe_16237]]
 
 ## Zebra-tailed Lizard
 
@@ -330,6 +338,18 @@ The Zhob-Gowmal River is one of three Afghan drainage basins that flows to the s
 ### Mentioned In
 - [[ExperimentsOnControlOfReleaseO_1967]]
 
+## Ziebell
+
+### Summary
+A 1957 study on the South Fork Chehalis River that found 173 organisms per square foot above a gravel washing plant and only 4 per square foot 100 yards below it. The source uses this above-and-below comparison to show sharp invertebrate losses from sediment sources.
+
+### Context
+> This California Department of Fish and Game review, by [[Almo J. Cordone]] and [[Don W. Kelley]] (1960), synthesizes investigations on how [[Inorganic Sediment]] affects stream fisheries. The authors conclude that sediment is harmful to [[Salmonids]] streams, mainly through indirect pathways:...
+> -- *[[TheInfluencesOfInorganicSedime_17590]]*
+
+### Mentioned In
+- [[TheInfluencesOfInorganicSedime_17590]]
+
 ## Zill's Cichlid
 
 ### Summary
@@ -389,10 +409,14 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 > This 1965 paper, reprinted from the Journal of the [[Institute of Sewage Purification]], investigates why several rivers in the [[Industrial Midlands]] of England are free of fish. The authors, D. W. M. Herbert, D. H. M. Jordan and R. Lloyd of the [[Water Pollution Research Laboratory]] at...
 > -- *[[AStudyOfSomeFishlessRiversInTh_16697]]*
 
+> This conceptual management plan, prepared by Bob D. Burdick for the [[Recovery Implementation Program]] (June 1994), proposes restoring floodplain connectivity at two bottomland sites in the [[Escalante State Wildlife Area]] on the [[Gunnison River]], downstream of Delta, Colorado. The plan argues...
+> -- *[[ConceptualManagementPlanForHab_13899]]*
+
 ### Mentioned In
 - [[TheAcuteLethalToxicityToRainbo_1970_02_17]]
 - [[PredictedAndObservedToxicities_16173]]
 - [[AStudyOfSomeFishlessRiversInTh_16697]]
+- [[ConceptualManagementPlanForHab_13899]]
 
 ## Zinc Sulphate
 <!-- fm: auto_enriched: true -->
@@ -520,6 +544,18 @@ A thermal power plant on Lake Michigan that the report lists among major intake 
 
 ### Mentioned In
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
+
+## Zirconium-95
+
+### Summary
+A fission product released by weapons tests and reactors and one of the biologically important nuclides the paper lists. Dead cattail tissue was noted to selectively adsorb it.
+
+### Context
+> This 1960 conference paper by [[Louis A. Krumholz]] (University of Louisville) reviews how aquatic organisms take up, concentrate, and retain radionuclides from natural waters. Radioactive input comes from natural sources, [[Radioactive Fallout]] from weapons tests, and [[Radioactive Waste...
+> -- *[[AquaticAndBiologicalFactorsInN_12451]]*
+
+### Mentioned In
+- [[AquaticAndBiologicalFactorsInN_12451]]
 
 ## Zoanthus danae
 
