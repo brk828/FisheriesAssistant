@@ -648,9 +648,17 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 > This USDA Forest Service Environmental Assessment (EA), dated April 16, 1996, evaluates a proposal to re-establish a native fish community in [[Arnett Creek]] and [[Telegraph Canyon]] on the [[Tonto National Forest]] (Globe Ranger District), in partnership with the [[Arizona Game And Fish...
 > -- *[[EnvironmentalAssessmentarnettC_11509]]*
 
+> This 1900 U.S. Geological Survey Water-Supply Paper, written by [[Joseph Barlow Lippincott]] and verified by James D. Schuyler, assesses how to store Gila River water to restore irrigation supply to the [[Gila River Indian Reservation]]. The authors judged that at least 40,000 acre-feet must be...
+> -- *[[StorageOfWaterOnGilaRiverArizo_20348]]*
+
+> This 1947 U.S. Geological Survey water-supply report, prepared by [[Leonard C. Halpenny]] and [[Robert L. Cushman]] with a water-quality section by J. D. Hem, examines the ground-water resources of the [[Cactus Flat-Artesia Area]] in the lower (northern) end of the [[San Simon Basin]], Graham...
+> -- *[[GroundwaterResourcesAndProblem_20985]]*
+
 ### Mentioned In
 - [[AProposalToReestablishDesertSu_20730]]
 - [[EnvironmentalAssessmentarnettC_11509]]
+- [[StorageOfWaterOnGilaRiverArizo_20348]]
+- [[GroundwaterResourcesAndProblem_20985]]
 
 ## Queenfish
 <!-- fm: auto_enriched: true -->
@@ -1189,6 +1197,18 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 ### Mentioned In
 - [[LetterToMarkStrombergRegarding_1986_06_02]]
 
+## Quitobaquito Science Series
+
+### Summary
+A publication series from the Quitobaquito studies at Organ Pipe Cactus National Monument; this report is listed as No. 3 in the series, dated January 1987. The series name identifies the report's place in that body of work.
+
+### Context
+> This technical report, by Peter L. Warren and L. Susan Anderson (January 1987, [[Quitobaquito Science Series]] No. 3), documents vegetation change around the spring complex at [[Quitobaquito Spring]], [[Organ Pipe Cactus National Monument]], after domestic livestock were removed from the monument...
+> -- *[[VegetationRecoveryFollowingLiv_14904]]*
+
+### Mentioned In
+- [[VegetationRecoveryFollowingLiv_14904]]
+
 ## Quitobaquito Snail
 
 ### Summary
@@ -1238,6 +1258,12 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 > This proceedings paper by [[James E Johnson]] (U.S. Fish and Wildlife Service and University of Arkansas) reviews how aquaculture affects endangered North American fishes and how hatcheries can help recover them. The author argues that the most serious threat is the accidental or deliberate...
 > -- *[[AReviewOfSelectedEndangeredFis_19784]]*
 
+> This technical report, by Peter L. Warren and L. Susan Anderson (January 1987, [[Quitobaquito Science Series]] No. 3), documents vegetation change around the spring complex at [[Quitobaquito Spring]], [[Organ Pipe Cactus National Monument]], after domestic livestock were removed from the monument...
+> -- *[[VegetationRecoveryFollowingLiv_14904]]*
+
+> This review by Allan A. Schoenherr (Fullerton College), presented at the *Desert Ecology 1986* symposium, compiles what is known about the [[Desert Pupfish]] and its allies and documents a serious population decline. The species was once common in the [[Gila River]], the [[Lower Colorado River]],...
+> -- *[[AReviewOfTheLifeHistoryAndStat_20583]]*
+
 ### Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
@@ -1251,6 +1277,8 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[AReviewOfSelectedEndangeredFis_19784]]
+- [[VegetationRecoveryFollowingLiv_14904]]
+- [[AReviewOfTheLifeHistoryAndStat_20583]]
 
 ## Quitobaquito Springs
 <!-- fm: auto_enriched: true -->

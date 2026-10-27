@@ -664,6 +664,12 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This U.S. Fish and Wildlife Service (FWS) memorandum transmits the minutes of the February 21, 1989 meeting of the [[Recovery Implementation Committee]], which oversees the [[Recovery Implementation Program]] for four endangered or rare fishes of the [[Colorado River Basin]]: [[Colorado...
 > -- *[[MinutesfebruaryRecoveryImpleme_21005]]*
 
+> This 1973 Utah State University doctoral dissertation by Paul Bernard Holden documents the status of the fish fauna of the [[Upper Colorado River Basin]]. Sampling ran from 1967 to 1972. The study found that introduced species outnumbered native species 19 to 10, and that four endemic large-river...
+> -- *[[DistributionAbundanceAndLifeHi_20456]]*
+
+> This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
+> -- *[[JulyManagementGroupMeetingSumm_21031]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -853,6 +859,8 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[DraftcoloradoRiverFishMonitori_13045]]
 - [[MinutesfebruaryRecoveryImpleme_21004]]
 - [[MinutesfebruaryRecoveryImpleme_21005]]
+- [[DistributionAbundanceAndLifeHi_20456]]
+- [[JulyManagementGroupMeetingSumm_21031]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1144,6 +1152,9 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This U.S. Fish and Wildlife Service recovery plan guides the recovery of three federally listed fishes of the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered), [[Beautiful Shiner]] (*Notropis formosus*, threatened) and [[Yaqui Catfish]] (*Ictalurus pricei*, threatened). It also...
 > -- *[[DraftRioYaquiFishesRecoveryPla_13748]]*
 
+> This U.S. Fish and Wildlife Service recovery plan, prepared by Kevin S. Cobble and dated December 1994, addresses four listed fishes of the [[Rio Yaqui Basin]] of southeastern Arizona, New Mexico and northwestern Mexico. Two are listed as endangered: [[Yaqui Chub]] and [[Yaqui Topminnow]]. Two are...
+> -- *[[FishesOfTheRioYaquiRecoveryPla_15978]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -1223,6 +1234,7 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[TallGrassAndFlowingWaterAnOral_18812]]
 - [[EvaluationOfPopulationsOfCypri_17370]]
 - [[DraftRioYaquiFishesRecoveryPla_13748]]
+- [[FishesOfTheRioYaquiRecoveryPla_15978]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1390,6 +1402,18 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This U.S. Fish and Wildlife Service biological opinion, issued under [[Section 7 Consultation]] of the [[Endangered Species Act]], evaluates eight proposed prescribed burns on the [[San Bernardino National Wildlife Refuge]] (SBNWR) and [[Leslie Canyon National Wildlife Refuge]] (LCNWR) in Cochise...
 > -- *[[BiologicalOpinionOnEightPropos_17899]]*
 
+> This document is a set of U.S. Fish and Wildlife Service (USFWS) permitting records that authorize [[Arizona State University]] researchers to take, hold, propagate and study federally listed species. The core item is a subpermit letter from the Regional Director, dated 1992 and valid through...
+> -- *[[AuthorizationToUseUsFishAndWil_11958]]*
+
+> This Arizona Game and Fish Department planning document (prepared July 1972, amended November 1976) evaluates a proposed multi-use reservoir on Leslie Creek in Cochise County, southeastern Arizona. The project was intended to meet demand for water-based recreation in southern Arizona. Hydrologic...
+> -- *[[EnvironmentalAssessmentPropose_12210]]*
+
+> This U.S. Fish and Wildlife Service recovery plan, prepared by Kevin S. Cobble and dated December 1994, addresses four listed fishes of the [[Rio Yaqui Basin]] of southeastern Arizona, New Mexico and northwestern Mexico. Two are listed as endangered: [[Yaqui Chub]] and [[Yaqui Topminnow]]. Two are...
+> -- *[[FishesOfTheRioYaquiRecoveryPla_15978]]*
+
+> This 1995 grant application to the [[Arizona Water Protection Fund]] (AWPF) requests funding for a two-year project to quantify and monitor the effects of gabion-based erosion control on the West Turkey Creek (WTC) watershed in Cochise County, Arizona. The applicants, owners of [[El Coronado...
+> -- *[[WestTurkeyCreekWatershedRestor_18328]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1493,6 +1517,10 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[EvaluationOfPopulationsOfCypri_17370]]
 - [[DraftRioYaquiFishesRecoveryPla_13748]]
 - [[BiologicalOpinionOnEightPropos_17899]]
+- [[AuthorizationToUseUsFishAndWil_11958]]
+- [[EnvironmentalAssessmentPropose_12210]]
+- [[FishesOfTheRioYaquiRecoveryPla_15978]]
+- [[WestTurkeyCreekWatershedRestor_18328]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1710,6 +1738,18 @@ The Yaqui River Basin is a transboundary aquatic ecosystem spanning the United S
 ### Mentioned In
 - [[AsianTapewormEradicationStrate_13118]]
 - [[WestTurkeyCreekFishS_1999_11_29]]
+
+## Yaqui River System
+
+### Summary
+A river system in northern Mexico and southeastern Arizona that is home to the Yaqui chub, Yaqui topminnow, Mexican stoneroller, and longfin dace. According to the source, Leslie Creek's population is one of the few remaining live tributaries of this system in the United States, and much of the Mexican portion is unsurveyed.
+
+### Context
+> This Arizona Game and Fish Department planning document (prepared July 1972, amended November 1976) evaluates a proposed multi-use reservoir on Leslie Creek in Cochise County, southeastern Arizona. The project was intended to meet demand for water-based recreation in southern Arizona. Hydrologic...
+> -- *[[EnvironmentalAssessmentPropose_12210]]*
+
+### Mentioned In
+- [[EnvironmentalAssessmentPropose_12210]]
 
 ## Yaqui Shiner
 <!-- fm: auto_enriched: true -->
@@ -1953,6 +1993,15 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This U.S. Fish and Wildlife Service biological opinion, issued under [[Section 7 Consultation]] of the [[Endangered Species Act]], evaluates eight proposed prescribed burns on the [[San Bernardino National Wildlife Refuge]] (SBNWR) and [[Leslie Canyon National Wildlife Refuge]] (LCNWR) in Cochise...
 > -- *[[BiologicalOpinionOnEightPropos_17899]]*
 
+> This 1983 handbook from the USDA Forest Service, Southwestern Region, profiles endangered and threatened fish and wildlife of Arizona and New Mexico forests and rangelands. It has two editions, one for each state, that share most of their text. The handbook is an identification and awareness guide,...
+> -- *[[EndangeredAndThreatenedFishAnd_11507]]*
+
+> This Arizona Game and Fish Department planning document (prepared July 1972, amended November 1976) evaluates a proposed multi-use reservoir on Leslie Creek in Cochise County, southeastern Arizona. The project was intended to meet demand for water-based recreation in southern Arizona. Hydrologic...
+> -- *[[EnvironmentalAssessmentPropose_12210]]*
+
+> This U.S. Fish and Wildlife Service recovery plan, prepared by Kevin S. Cobble and dated December 1994, addresses four listed fishes of the [[Rio Yaqui Basin]] of southeastern Arizona, New Mexico and northwestern Mexico. Two are listed as endangered: [[Yaqui Chub]] and [[Yaqui Topminnow]]. Two are...
+> -- *[[FishesOfTheRioYaquiRecoveryPla_15978]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -2019,6 +2068,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
 - [[ManuscriptOfGeohydrologyAndOcc_19326]]
 - [[BiologicalOpinionOnEightPropos_17899]]
+- [[EndangeredAndThreatenedFishAnd_11507]]
+- [[EnvironmentalAssessmentPropose_12210]]
+- [[FishesOfTheRioYaquiRecoveryPla_15978]]
 
 ## Yaqui Watershed
 
@@ -2157,8 +2209,12 @@ The Yavapai-Prescott Indian Community proposed to divert 500 acre-feet of water 
 > This biological assessment evaluates potential impacts to the threatened [[Spikedace]] (*Meda fulgida*) from the [[Central Arizona Project]] (CAP) Water Exchange Project, specifically water diversions from the upper [[Verde River]] system. The [[Bureau of Reclamation]] conducted this assessment in...
 > -- *[[BiologicalAssessmentForTheSpik_11476]]*
 
+> This U.S. Fish and Wildlife Service [[Biological Opinion]] (May 1990) addresses the proposed [[Central Arizona Project]] (CAP) Water Exchange on the upper [[Verde River]], Yavapai County, Arizona. The threatened [[Spikedace]] (*[[Meda Fulgida]]*) is the species of concern. The request was submitted...
+> -- *[[BiologicalOpinionCentralArizon_11830]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentForTheSpik_11476]]
+- [[BiologicalOpinionCentralArizon_11830]]
 
 ## Yazoo River
 <!-- fm: auto_enriched: true -->
@@ -2950,6 +3006,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This job completion report documents a three-year basic fishery survey (1953–1956, Federal Aid Projects F-3-R and F-9-R) of the [[Canadian River]] and [[Cimarron River]] drainages in northeastern [[New Mexico]]. The survey aimed to describe fishery environments and convert the findings into...
 > -- *[[FisheriesSurveyOfTheCanadianAn_20807]]*
 
+> This Minnesota Division of Game and Fish investigational report (Report No. 279, dated October 9, 1964, by R. E. Schumacher) presents preliminary 1963 test-netting results from six large lakes stocked with [[Rainbow Trout]] to create a [[Two-Story Fishery]]: a cold-water lower stratum for trout...
+> -- *[[PreliminaryResultsFromExperime_11284]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -3075,6 +3134,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[FishForMoreFisherman_15265]]
 - [[WisconsinGameFish_20790]]
 - [[FisheriesSurveyOfTheCanadianAn_20807]]
+- [[PreliminaryResultsFromExperime_11284]]
 
 ## Yellow Pike Perch
 
@@ -3107,10 +3167,14 @@ Stizostedion vitreum, the yellow pike perch, a freshwater percid fish of New Yor
 > This Conservation Commission of West Virginia booklet, prepared by the Division of Education under Fish Division Chief Harry Van Meter, is an identification guide for anglers and school classes. It illustrates 50 prominent freshwater fish species, grouped by family and accompanied by brief...
 > -- *[[ProminentFishesOfWestVirginia_13090]]*
 
+> This 1948 angler's guide, produced by the [[Division of Fish Management]] of the [[Conservation Commission of West Virginia]] and written by fishery biologist E. A. Seaman, explains the state's freshwater fish resources, how they are managed, and where anglers can fish. It argues that fishing...
+> -- *[[FishFishManagementAndFishingIn_11334]]*
+
 ### Mentioned In
 - [[FilletWeightsAndLossOnFilletin_12433]]
 - [[FishPopulationAndCatchDataFrom_1948]]
 - [[ProminentFishesOfWestVirginia_13090]]
+- [[FishFishManagementAndFishingIn_11334]]
 
 ## Yellow Pine
 <!-- fm: auto_enriched: true -->
@@ -3235,8 +3299,12 @@ A songbird that showed up at Quitobaquito for less than one week during the stud
 > This Technical Report (No. 13) from the [[Cooperative National Park Resources Studies Unit]] at the University of Arizona, published December 1983, examines how birds use the two management areas of [[Quitobaquito Springs]], a desert oasis within [[Organ Pipe Cactus National Monument]]. Breeding...
 > -- *[[AvianUseOfQuitobaquitoSpringsO_19805]]*
 
+> This technical report, by Peter L. Warren and L. Susan Anderson (January 1987, [[Quitobaquito Science Series]] No. 3), documents vegetation change around the spring complex at [[Quitobaquito Spring]], [[Organ Pipe Cactus National Monument]], after domestic livestock were removed from the monument...
+> -- *[[VegetationRecoveryFollowingLiv_14904]]*
+
 ### Mentioned In
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
+- [[VegetationRecoveryFollowingLiv_14904]]
 
 ## yellow-finned cutthroat trout
 
@@ -3420,6 +3488,9 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 > This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
 > -- *[[YellowstoneFishAndFishing_11404]]*
 
+> This 1998 petition, filed by the [[Southwest Center for Biological Diversity]] and four other conservation groups (Petition #37), asks the [[U.S. Fish and Wildlife Service]] to list the [[Rio Grande Cutthroat Trout]] as endangered under the [[Endangered Species Act]] and to designate [[Critical...
+> -- *[[PetitionToListTheRioGrandeCutt_11809]]*
+
 ### Mentioned In
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[ObservationsOnTheLongnoseSucke_1954]]
@@ -3433,6 +3504,7 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 - [[WildTroutAndPlantedTroutBalanc_21079]]
 - [[AnEvaluationOfTroutPlantingInL_17592]]
 - [[YellowstoneFishAndFishing_11404]]
+- [[PetitionToListTheRioGrandeCutt_11809]]
 
 ## Yellowstone Drainage
 <!-- fm: auto_enriched: true -->
@@ -3531,6 +3603,9 @@ The nonprofit that published this 1970 booklet on Yellowstone fishes and fishing
 > This 1970 booklet by F. Phillip Sharpe, published by the [[Yellowstone Library and Museum Association]] with the [[National Park Service]], describes the fishes of [[Yellowstone National Park]], their ecological relationships, and the history of fishery management. It identifies 11 native species...
 > -- *[[YellowstoneFishAndFishing_11404]]*
 
+> This Fish and Wildlife Service report (Special Scientific Report: Fisheries No. 126, April 1954) measures fishing pressure, catch, and angler spending on the [[Madison River]] in southwestern Montana. Field work covered the regular fishing season (May through November) in summers 1950–52, with a...
+> -- *[[CreelCensusAndExpenditureStudy_13267]]*
+
 ### Mentioned In
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
@@ -3538,6 +3613,7 @@ The nonprofit that published this 1970 booklet on Yellowstone fishes and fishing
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[WildTroutManagementDoesItWorkI_19622]]
 - [[YellowstoneFishAndFishing_11404]]
+- [[CreelCensusAndExpenditureStudy_13267]]
 
 ## Yellowstone River
 <!-- fm: auto_enriched: true -->
@@ -3960,6 +4036,18 @@ Ponds in the San Pedro Riparian National Conservation Area created by former gra
 ### Mentioned In
 - [[FyAnnualProjectReportCsfYoyBac_1993]]
 
+## Younger Alluvial Fill
+
+### Summary
+Shallower gravel, sand, and silt deposits in wash valleys cut into the older fill, typically 2 to 50 feet thick. Its water table lies 20 to 45 feet below land surface and is not artesian.
+
+### Context
+> This 1947 U.S. Geological Survey water-supply report, prepared by [[Leonard C. Halpenny]] and [[Robert L. Cushman]] with a water-quality section by J. D. Hem, examines the ground-water resources of the [[Cactus Flat-Artesia Area]] in the lower (northern) end of the [[San Simon Basin]], Graham...
+> -- *[[GroundwaterResourcesAndProblem_20985]]*
+
+### Mentioned In
+- [[GroundwaterResourcesAndProblem_20985]]
+
 ## Younger Valley Fill
 
 ### Summary
@@ -4346,6 +4434,12 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This 1990 final report from the [[Governor's Riparian Habitat Task Force]] was submitted to Governor Rose Mofford of Arizona under [[Executive Order 89-16]], "Streams and Riparian Resources." The Task Force was charged with developing a definition, classification system, inventory, list of key...
 > -- *[[FinalReportAndRecommendationsO_17455]]*
 
+> This 1983 handbook from the USDA Forest Service, Southwestern Region, profiles endangered and threatened fish and wildlife of Arizona and New Mexico forests and rangelands. It has two editions, one for each state, that share most of their text. The handbook is an identification and awareness guide,...
+> -- *[[EndangeredAndThreatenedFishAnd_11507]]*
+
+> This 1997 Request for Proposals (RFP) package from the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP) Steering Committee solicits two separate consultant contracts to support development of a multi-species conservation plan for the Lower Colorado River. RFP-1 seeks [[Program...
+> -- *[[RequestForProposalsRfpProgramF_18343]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -4381,6 +4475,8 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[LowerColoradoRiverBiologicalAs_13908]]
 - [[CienegaDeSantaClaraARemnantWet_20932]]
 - [[FinalReportAndRecommendationsO_17455]]
+- [[EndangeredAndThreatenedFishAnd_11507]]
+- [[RequestForProposalsRfpProgramF_18343]]
 
 ## Yuma Clapper Rail Recovery Plan
 
@@ -4597,10 +4693,14 @@ The Yuma Desalting Plant is a facility authorized under the Colorado River Salin
 > This study characterizes the vegetation of the [[Cienega de Santa Clara]], the largest remaining wetland in the [[Rio Colorado Delta]] (Sonora, Mexico), and documents how an eight-month interruption of canal inflow affected it. The wetland, sustained by agricultural drainage from the...
 > -- *[[CienegaDeSantaClaraARemnantWet_20932]]*
 
+> This USDA Forest Service General Technical Report (RM-66, November 1979) by [[Alden R. Hibbert]] estimates how much surface water could be added to the [[Colorado River Basin]] by managing vegetation and snow to reduce [[Evapotranspiration]]. The report is a summary of a longer companion paper...
+> -- *[[ManagingVegetationToIncreaseFl_20382]]*
+
 ### Mentioned In
 - [[TransmittalRegardingReasonable_19809]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[CienegaDeSantaClaraARemnantWet_20932]]
+- [[ManagingVegetationToIncreaseFl_20382]]
 
 ## Yuma District
 
@@ -4638,9 +4738,13 @@ The Yuma Division is one of two routing options through which water can be coope
 > This 1969 Bureau of Reclamation document describes the comprehensive Operation and Maintenance (O&M) Program for the [[Lower Colorado River]] below [[Davis Dam]], implemented under the Colorado River Front Work and Levee System Act of 1927. The program addresses channel instability, sediment...
 > -- *[[LowerColoradoRiverMaps_12161]]*
 
+> This October 1969 booklet from the [[Bureau Of Reclamation]] (Region 3) presents facility maps and program status for the Colorado River Operation and Maintenance (O&M) Program on the lower [[Colorado River]]. The program is authorized under the [[Colorado River Front Work And Levee System Act]] of...
+> -- *[[LowerColoradoRiverMaps_11471]]*
+
 ### Mentioned In
 - [[TransmittalRegardingReasonable_19809]]
 - [[LowerColoradoRiverMaps_12161]]
+- [[LowerColoradoRiverMaps_11471]]
 
 ## Yuma Division Plans
 

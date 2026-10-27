@@ -200,6 +200,9 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This 1995 report by Herbert R. Ludwig Jr. and Jay A. Leitch (North Dakota Water Resources Research Institute, North Dakota State University) catalogs the ways living aquatic organisms can move between adjacent watersheds. The work was motivated by uncertainty over how isolated the [[Hudson Bay...
 > -- *[[PathwaysForAquaticBiotaTransfe_16237]]*
 
+> This Illinois Natural History Survey bulletin (Laird and Page, 1996, Vol. 35, Art. 1) catalogs the non-native fishes established or occasionally found in Illinois streams and lakes. Of the 22 species treated, 13 were established by 1996 (six by 1979, seven more since) and nine are periodically...
+> -- *[[NonnativeFishesInhabitingTheSt_12682]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -210,6 +213,7 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[ChangingDirectionsOfTheNationa_11656]]
 - [[PathwaysForAquaticBiotaTransfe_16237]]
+- [[NonnativeFishesInhabitingTheSt_12682]]
 
 ## Zebra-tailed Lizard
 
@@ -349,6 +353,18 @@ A 1957 study on the South Fork Chehalis River that found 173 organisms per squar
 
 ### Mentioned In
 - [[TheInfluencesOfInorganicSedime_17590]]
+
+## Zig Zag Spring
+
+### Summary
+A spring site in Arizona that was recommended as extirpated before 1994. Only longfin dace and green sunfish were found there, with no topminnows.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) technical report evaluates [[Gila Topminnow]] reintroduction sites in Arizona during the 1994-95 field season. Many reintroduced populations have failed, yet sites that are not formally declared "extirpated" still trigger [[Section 7 Consultation]]...
+> -- *[[GilaTopminnowExtirpationSitesI_19666]]*
+
+### Mentioned In
+- [[GilaTopminnowExtirpationSitesI_19666]]
 
 ## Zill's Cichlid
 

@@ -186,6 +186,9 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This U.S. Fish and Wildlife Service (FWS) memorandum transmits the minutes of the February 21, 1989 meeting of the [[Recovery Implementation Committee]], which oversees the [[Recovery Implementation Program]] for four endangered or rare fishes of the [[Colorado River Basin]]: [[Colorado...
 > -- *[[MinutesfebruaryRecoveryImpleme_21005]]*
 
+> This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
+> -- *[[JulyManagementGroupMeetingSumm_21031]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -212,6 +215,7 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[ManagementGroupMeeting_21008]]
 - [[MinutesfebruaryRecoveryImpleme_21004]]
 - [[MinutesfebruaryRecoveryImpleme_21005]]
+- [[JulyManagementGroupMeetingSumm_21031]]
 
 ## 15-Mile Reach Gage
 
@@ -414,6 +418,18 @@ A widely used phenoxy herbicide that was the main chemical in this program, appl
 ### Mentioned In
 - [[NoxiousVegetationControl_16243]]
 - [[SelectionOfRepresentativeSmall_12163]]
+
+## 2-Deoxyglucose Labelling
+
+### Summary
+A neural tracing and activity-mapping technique. The proposal plans to use it in Objective 4 to map the neural circuits involved in magnetic orientation, modeled on Singer et al. (1981).
+
+### Context
+> This March 1983 proposal from the [[University of Alaska]] requests **$32,723** from the [[Alaska Sea Grant College Program]] for a one-year study (proposed start January 1, 1984) of whether mature [[Pacific Salmon]] use the [[Geomagnetic Field]] to navigate from mid-ocean back to their natal...
+> -- *[[NeurologicalBaisOfSalmonMigrat_16109]]*
+
+### Mentioned In
+- [[NeurologicalBaisOfSalmonMigrat_16109]]
 
 ## 2-Methylquinoline
 <!-- fm: auto_enriched: true -->

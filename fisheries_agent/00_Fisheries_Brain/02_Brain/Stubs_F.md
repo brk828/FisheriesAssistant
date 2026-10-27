@@ -561,9 +561,13 @@ A fish survey dataset that the source names as one of the sources for selecting 
 > This brief summary by [[Tonto National Forest]] biologist Lisa Bizios, dated January 7, 1993, reports August 1992 fish surveys at [[Spring Creek]] and [[Rock Creek]]. It was prepared to support initial evaluation of a proposal by the [[Arizona Game And Fish Department]] to stock [[Brown Trout]] in...
 > -- *[[BriefSummaryOfSpringCreekSurve_17656]]*
 
+> This memorandum from the [[Bureau of Land Management]] (BLM) Tucson Resource Area Office to the [[U.S. Fish and Wildlife Service]] (Region 2) reports on fish collecting under [[Endangered Species Permit]] PTR-676811 in 1993. Three activities were conducted. The largest was the [[Fall Fish Count]]...
+> -- *[[AnnualReportToUsFishAndWildlif_18988]]*
+
 ### Mentioned In
 - [[ConceptualOutlineEcosystemCons_18705]]
 - [[BriefSummaryOfSpringCreekSurve_17656]]
+- [[AnnualReportToUsFishAndWildlif_18988]]
 
 ## Fall Line
 <!-- fm: auto_enriched: true -->
@@ -999,8 +1003,12 @@ Small impounded freshwater ponds built on farms, usually by damming a natural ho
 > This 1949 extension circular from the [[Alabama Agricultural Experiment Station]] (Alabama Polytechnic Institute, Auburn), written by assistant fish culturist J. M. Lawrence, is a practical construction guide for [[Farm Fish Ponds]] in Alabama. It covers site selection, watershed sizing, subsoil...
 > -- *[[ConstructionOfFarmFishPonds_20201]]*
 
+> This 1948 angler's guide, produced by the [[Division of Fish Management]] of the [[Conservation Commission of West Virginia]] and written by fishery biologist E. A. Seaman, explains the state's freshwater fish resources, how they are managed, and where anglers can fish. It argues that fishing...
+> -- *[[FishFishManagementAndFishingIn_11334]]*
+
 ### Mentioned In
 - [[ConstructionOfFarmFishPonds_20201]]
+- [[FishFishManagementAndFishingIn_11334]]
 
 ## Farm Foreclosure Program
 
@@ -1157,6 +1165,18 @@ The Farm Ponds Laboratory at Auburn University in Auburn, Alabama, is where the 
 
 ### Mentioned In
 - [[StockingOfFarmersPondImperialN_1995_01_20]]
+
+## Farmington River
+
+### Summary
+A tributary of the Connecticut River in Connecticut and one of the study rivers. The report found its dissolved oxygen mostly 70-94% saturation, and its plankton low in summer low-water counts but high in spring floods.
+
+### Context
+> This 1925 report from the [[State Board Of Fisheries And Game]] presents a multi-year investigation of [[Alosa Sapidissima]] (American shad) in the [[Connecticut River]] and its tributaries. Catches had collapsed from tens of thousands per year to record lows (13,350 in 1923). The investigation...
+> -- *[[AReportOfInvestigationsConcern_16518]]*
+
+### Mentioned In
+- [[AReportOfInvestigationsConcern_16518]]
 
 ## Faroe Islands
 
@@ -1605,6 +1625,9 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This Fish and Wildlife Service report (FWS/OBS-77/65, October 1977), prepared by Paul B. Holden of BIO/WEST, Inc., under the [[Biological Services Program]] and the Federal Interagency Energy/Environment Research and Development Program, examines the habitat use and movements of four rare fishes in...
 > -- *[[HabitatRequirementsOfJuvenileC_20460]]*
 
+> This Arizona Game and Fish Department (AGFD) technical report evaluates [[Gila Topminnow]] reintroduction sites in Arizona during the 1994-95 field season. Many reintroduced populations have failed, yet sites that are not formally declared "extirpated" still trigger [[Section 7 Consultation]]...
+> -- *[[GilaTopminnowExtirpationSitesI_19666]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -1816,6 +1839,7 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[FisheriesSurveyOfTheSanJuanRiv_20164]]
 - [[AStudyOfTheHabitatUseAndMoveme_20458]]
 - [[HabitatRequirementsOfJuvenileC_20460]]
+- [[GilaTopminnowExtirpationSitesI_19666]]
 
 ## Fathead Minnow Selenium Exposure
 
@@ -2101,9 +2125,17 @@ The Federal Advisory Committee Act governs federal advisory committees and their
 > This 1994 booklet describes the private, non-profit institution created by Congress in 1863 to advise the federal government on science and technology. The institution now comprises four organizations: the [[National Academy of Sciences]] (NAS), the [[National Academy of Engineering]] (NAE), the...
 > -- *[[AUniqueNationalResource_19493]]*
 
+> This report, prepared by [[Gail Bingham]] of RESOLVE, Inc. for the Western Water Policy Review Advisory Commission (October 1997), assesses how [[Alternative Dispute Resolution]] (ADR) has been applied to water resources conflicts in the western United States. It defines ADR as procedures that...
+> -- *[[SeekingSolutionsAlternativeDis_12941]]*
+
+> This note summarizes the Volume I Overview of the June 1995 report of the [[Interagency Ecosystem Management Task Force]], circulated as a series of six email parts. The report defines the [[Ecosystem Approach]] as a goal-driven method for sustaining or restoring natural systems, built on a...
+> -- *[[TheEcosystemApproachHealthyEco_20912]]*
+
 ### Mentioned In
 - [[MinutesCuiuiRecoveryTeamMeetin_13867]]
 - [[AUniqueNationalResource_19493]]
+- [[SeekingSolutionsAlternativeDis_12941]]
+- [[TheEcosystemApproachHealthyEco_20912]]
 
 ## Federal Aid
 <!-- fm: auto_enriched: true -->
@@ -2229,6 +2261,18 @@ This federal funding program supported the study. The source states that the wor
 ### Mentioned In
 - [[PositionPaperConservingFederal_1994_10_25]]
 
+## Federal Aid in Wildlife Restoration Act
+
+### Summary
+A U.S. federal law that funds state wildlife and fish restoration work. According to this report, the 1966-1967 job completion report (Project F-14-R-1) was produced under it, with federal aid coordinators credited on the document.
+
+### Context
+> This Arizona Game and Fish Department job completion report (Federal Aid Project F-14-R-1, March 1, 1966 to February 28, 1967, prepared by Andrew J. Kemmerer) covers two work segments. Segment 1 investigates factors limiting [[Black Crappie]] population growth in [[Roosevelt Lake]], where crappie...
+> -- *[[FisheriesResearchInArizona_17933]]*
+
+### Mentioned In
+- [[FisheriesResearchInArizona_17933]]
+
 ## Federal Aid Project F-22-R
 
 ### Summary
@@ -2280,6 +2324,18 @@ A federal grant program that funds state fish restoration and investigation work
 ### Mentioned In
 - [[FederalAidToFishRestorationLak_16598]]
 - [[DelawareLakeAndPondSurvey_20644]]
+
+## Federal Aid to the States
+
+### Summary
+Federal Aid funds administered for state fish and wildlife agencies. The report says the survey was intended to give state agencies figures for planning, and that the International Association of Game, Fish, and Conservation Commissioners recommended funding the national survey from Federal Aid administrative funds.
+
+### Context
+> This U.S. Fish and Wildlife Service report (Circular 44, published October 1956) presents the first nationwide economic survey of sport fishing and hunting, covering calendar year 1955. Conducted by [[Crossley S-D Surveys]] under contract, the personal-interview survey projected results from a...
+> -- *[[AReportOnTheFirstNationwideEco_13262]]*
+
+### Mentioned In
+- [[AReportOnTheFirstNationwideEco_13262]]
 
 ## Federal Columbia River Power System
 
@@ -2346,11 +2402,15 @@ The Federal Communications Commission is the U.S. agency that assigned the radio
 > This conceptual management plan, prepared by Bob D. Burdick for the [[Recovery Implementation Program]] (June 1994), proposes restoring floodplain connectivity at two bottomland sites in the [[Escalante State Wildlife Area]] on the [[Gunnison River]], downstream of Delta, Colorado. The plan argues...
 > -- *[[ConceptualManagementPlanForHab_13899]]*
 
+> This June 1997 report by [[Donald Wilhite]] of the [[National Drought Mitigation Center]] (NDMC), University of Nebraska, was prepared for the [[Western Water Policy Review Advisory Commission]]. It reviews drought and drought management in the Western United States and recommends how the Federal...
+> -- *[[ImprovingDroughtManagementInTh_11975]]*
+
 ### Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[ReviewOfProposedCounterpartReg_11907]]
 - [[BiologicalOpinionForRepairAndo_11904]]
 - [[ConceptualManagementPlanForHab_13899]]
+- [[ImprovingDroughtManagementInTh_11975]]
 
 ## Federal Endangered Species Act Listings
 <!-- fm: auto_enriched: true -->
@@ -2508,12 +2568,20 @@ The Federal Land Policy and Management Act (FLPMA) of October 21, 1976 (43 U.S.C
 > This Federal Register compilation (December 1995) contains four unrelated federal notices. Three concern land management in the western United States: a Draft [[Environmental Impact Statement]] for expanding the [[Lone Tree Mine]] in Nevada, public workshops on the Northern and Eastern [[Colorado...
 > -- *[[DraftPolicyForConservingSpecie_11730]]*
 
+> This Bureau of Land Management (BLM) draft Environmental Statement (1979) evaluates the proposed legislative designation of the [[Aravaipa Canyon Primitive Area]] (4,044 acres) and adjacent public lands (2,543 acres) as wilderness. The combined 6,587-acre "study area" lies in Pinal and Graham...
+> -- *[[AravaipaCanyonWildernessDraftE_11539]]*
+
+> This Bureau of Land Management (BLM) booklet summarizes the California Desert Conservation Area (CDCA) Plan, the long-range land-management plan required by Section 601 of the [[Federal Land Policy and Management Act]] (FLPMA) of 1976. The Plan covers a 25-million-acre CDCA, of which the BLM...
+> -- *[[TheCaliforniaDesertConservatio_11541]]*
+
 ### Mentioned In
 - [[SpecialStatusSpeciesManagement_11467]]
 - [[RangelandReformDraftEnvironmen_11710]]
 - [[NepaCompliancereintroductionOf_17954]]
 - [[BiologicalOpinionOnTheMimbresR_16802]]
 - [[DraftPolicyForConservingSpecie_11730]]
+- [[AravaipaCanyonWildernessDraftE_11539]]
+- [[TheCaliforniaDesertConservatio_11541]]
 
 ## Federal Listing
 
@@ -2548,8 +2616,12 @@ The Federal Power Commission was a federal agency whose licensing authority over
 > This document is a comprehensive bibliography compiled by Eleanor J. Boyles of the [[Department of Resource Development]] and [[M.S.U. Library]] at [[Michigan State University]]. The bibliography assembles references on water rights law, water resource management, and related legal issues, drawing...
 > -- *[[WaterRightsBibliography_17761]]*
 
+> This report, prepared for [[Consolidated Edison Company]] and the [[Hudson River Policy Committee]], evaluates whether a proposed [[Pumped Storage Hydroelectric Plant]] at Cornwall, New York would harm fish in the [[Hudson River Estuary]]. The [[Hudson River Technical Committee]] compiled three...
+> -- *[[HudsonRiverFisheriesInvestigat_14489]]*
+
 ### Mentioned In
 - [[WaterRightsBibliography_17761]]
+- [[HudsonRiverFisheriesInvestigat_14489]]
 
 ## Federal Project
 <!-- fm: auto_enriched: true -->
@@ -3982,6 +4054,18 @@ Fire ants are stinging ants in the genus *Solenopsis*. This source lists them am
 - [[LivestockGrazingIsAMajorCauseO_1995_05_09]]
 - [[ForestFraudAndForestHealthUsFo_18957]]
 
+## Fire Suppression Policy
+
+### Summary
+The long-standing practice of putting out wildfires rather than letting them burn, which the source says critics blame for the severe intensity of the 1994 Rattlesnake Fire in the Chiricahuas. The source notes that suppression remained the rule in the upper Chiricahuas in 1995, even though a federal draft policy then recognized fire as a critical natural process.
+
+### Context
+> This 1995 grant application to the [[Arizona Water Protection Fund]] (AWPF) requests funding for a two-year project to quantify and monitor the effects of gabion-based erosion control on the West Turkey Creek (WTC) watershed in Cochise County, Arizona. The applicants, owners of [[El Coronado...
+> -- *[[WestTurkeyCreekWatershedRestor_18328]]*
+
+### Mentioned In
+- [[WestTurkeyCreekWatershedRestor_18328]]
+
 ## Firebox Creek
 <!-- fm: auto_enriched: true -->
 
@@ -4372,6 +4456,9 @@ The Fish and Wildlife Coordination Act is a federal statute that requires federa
 > This U.S. Senate Committee on Commerce report, ordered printed August 17, 1966, accompanies H.R. 9424, a bill to conserve, protect, restore, and propagate native fish and wildlife (including migratory birds) threatened with extinction, and to consolidate the Secretary of the Interior's authority...
 > -- *[[ConservationOfEndangeredSpecie_19348]]*
 
+> This U.S. Fish and Wildlife Service report, prepared under the [[Fish and Wildlife Coordination Act]] for the [[Bureau of Reclamation]], assesses 100-year fish and wildlife impacts of four new or modified alternatives for the [[Upper Gila Water Supply Study]] in Grant County, New Mexico. The study...
+> -- *[[FinalFishAndWildlifeCoordinati_11614]]*
+
 ### Mentioned In
 - [[ACaseStudyOfDecisionMakingInTh_17701]]
 - [[AssessmentOfEffectsOfAlteredSt_1975_05_09]]
@@ -4396,6 +4483,7 @@ The Fish and Wildlife Coordination Act is a federal statute that requires federa
 - [[CentralArizonaProjectVerdeAndE_11603]]
 - [[EstuarineProgramsInterimReport_11526]]
 - [[ConservationOfEndangeredSpecie_19348]]
+- [[FinalFishAndWildlifeCoordinati_11614]]
 
 ## Fish and Wildlife Foundation
 
@@ -4436,6 +4524,18 @@ The Fish and Wildlife Foundation is an organization being utilized as a funding 
 
 ### Mentioned In
 - [[AssessmentOfEffectsOfAlteredSt_1975_05_09]]
+
+## Fish and Wildlife Restoration
+
+### Summary
+A program supported by excise taxes on fishing tackle and on arms and ammunition, which the report says brings in about $20 million a year for state cooperative conservation programs.
+
+### Context
+> This U.S. Fish and Wildlife Service report (Circular 44, published October 1956) presents the first nationwide economic survey of sport fishing and hunting, covering calendar year 1955. Conducted by [[Crossley S-D Surveys]] under contract, the personal-interview survey projected results from a...
+> -- *[[AReportOnTheFirstNationwideEco_13262]]*
+
+### Mentioned In
+- [[AReportOnTheFirstNationwideEco_13262]]
 
 ## Fish And Wildlife Restoration Act
 <!-- fm: auto_enriched: true -->
@@ -4823,6 +4923,12 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > These are draft minutes of the February 21, 1989 meeting of the [[Implementation Committee]] that oversees the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The Program is a 15-year, consensus-based effort to recover four fish species while allowing...
 > -- *[[MinutesfebruaryRecoveryImpleme_21004]]*
 
+> This U.S. Fish and Wildlife Service report (Circular 44, published October 1956) presents the first nationwide economic survey of sport fishing and hunting, covering calendar year 1955. Conducted by [[Crossley S-D Surveys]] under contract, the personal-interview survey projected results from a...
+> -- *[[AReportOnTheFirstNationwideEco_13262]]*
+
+> This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
+> -- *[[JulyManagementGroupMeetingSumm_21031]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -4962,6 +5068,20 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[InTheEyeOfTheBeholderOurImageO_11713]]
 - [[ConservationMeasuresForGlenCan_14782]]
 - [[MinutesfebruaryRecoveryImpleme_21004]]
+- [[AReportOnTheFirstNationwideEco_13262]]
+- [[JulyManagementGroupMeetingSumm_21031]]
+
+## Fish and Wildlife Service Overhead Charge
+
+### Summary
+The Fish and Wildlife Service charges a 17.65 percent overhead on Bureau of Reclamation transfer funds. Overhead amounts were $50,601 in 1989 and $118,256 in 1990. A draft letter to Secretary Lujan requested a complete waiver, estimating overhead could exceed $1 million over the 15-year program.
+
+### Context
+> This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
+> -- *[[JulyManagementGroupMeetingSumm_21031]]*
+
+### Mentioned In
+- [[JulyManagementGroupMeetingSumm_21031]]
 
 ## Fish and Wildlife Service Region
 
@@ -5544,9 +5664,13 @@ Fish Disease Control Centers are specialized facilities within the U.S. Fish and
 > This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
 > -- *[[ReportOfTheNationalFishHatcher_20170]]*
 
+> This report, dated December 30, 1994, was produced by the National Fish Hatchery Review Panel for the [[U.S. Fish And Wildlife Service]] (Service). The Panel was funded by the National Fish and Wildlife Foundation, contracted through The Conservation Fund, and co-chaired by Dr. Robert Putz and Dr....
+> -- *[[ReportOfTheNationalFishHatcher_18795]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20170]]
+- [[ReportOfTheNationalFishHatcher_18795]]
 
 ## Fish Disease Control Lab
 <!-- fm: auto_enriched: true -->
@@ -5702,6 +5826,18 @@ A fish-handling device that lifts fish out of an intake area in a vertical conve
 - [[EffectivenessOfRotenoneInPondR_1953]]
 - [[ProgressReportAndMeetingAnnoun_1991_08_01]]
 
+## Fish Eradication Program
+
+### Summary
+A 1962 program that removed most native fishes from the reaches above and below Flaming Gorge Dam, carried out around the time the dam closed in November 1962. The source cites it as part of the history of native fish loss in the upper Colorado River Basin. It is named here as a major factor in the decline of endemic species, alongside habitat alteration by high dams and introduced fishes.
+
+### Context
+> This 1973 Utah State University doctoral dissertation by Paul Bernard Holden documents the status of the fish fauna of the [[Upper Colorado River Basin]]. Sampling ran from 1967 to 1972. The study found that introduced species outnumbered native species 19 to 10, and that four endemic large-river...
+> -- *[[DistributionAbundanceAndLifeHi_20456]]*
+
+### Mentioned In
+- [[DistributionAbundanceAndLifeHi_20456]]
+
 ## Fish Exercise Physiology
 <!-- fm: auto_enriched: true -->
 
@@ -5807,6 +5943,18 @@ In this source, fish growth is measured as the change in weight and length of tr
 
 ### Mentioned In
 - [[RnaDnaRatiosAsIndicatorsOfRece_1970]]
+
+## Fish Growth Rates
+
+### Summary
+Fish growth rates describe how quickly fish gain length or weight with age, often measured from annual rings on scales. This source found that growth in most species exceeded rates reported for north-central waters and downstream Mississippi sections, with exceptions such as carp in Clear Lake, Iowa. It also noted that channel catfish and sauger grew faster in the lower river, so species must be considered alongside river section.
+
+### Context
+> This Fish and Wildlife Service report (Circular 212, March 1965) by Lyle M. Christenson and Lloyd L. Smith quantifies the fish populations of three backwater areas on the upper [[Mississippi River]]: [[Miller Lake]], Area A and Area B. Populations were sampled by rotenone poisoning of blocked-off...
+> -- *[[CharacteristicsOfFishPopulatio_16146]]*
+
+### Mentioned In
+- [[CharacteristicsOfFishPopulatio_16146]]
 
 ## Fish Growth Studies
 <!-- fm: auto_enriched: true -->
@@ -6282,8 +6430,12 @@ Fish Lake is a Utah water body used as a benchmark for comparing rainbow trout g
 > This third annual progress report documents the fisheries and limnological investigation of [[Lake Powell]] from February 1965 to January 1966, during the reservoir's early filling phase. The study, financed under Section 8 of the Colorado River Storage Act, was conducted cooperatively by the Utah...
 > -- *[[GlenCanyonReservoirPostimpound_14587]]*
 
+> This Utah state fish key, compiled by [[Arthur E. Dammann]] and [[Arden R. Gaufin]] at the University of Utah, provides a family-level and genus/species-level [[Dichotomous Key]] for the fishes of Utah. It lists **53 species**, of which **31 are native** and **22 are introduced**. The text also...
+> -- *[[TheFishesOfUtah_18742]]*
+
 ### Mentioned In
 - [[GlenCanyonReservoirPostimpound_14587]]
+- [[TheFishesOfUtah_18742]]
 
 ## Fish Lake Valley
 
@@ -6480,6 +6632,18 @@ The second barrier is planned about 800 feet upstream of the first, creating a F
 ### Mentioned In
 - [[LetterToDavidWegnerOnAsunnhpRe_1991_06_19]]
 
+## Fish Monitoring
+
+### Summary
+Fish monitoring is the repeated sampling of fish populations over time to track their status and changes. In this source, the Arizona Game & Fish Department planned to use the June and July 1998 survey results to set up a continuing monitoring schedule for Aravaipa Creek. The memo presents this as the long-term purpose of the sampling work.
+
+### Context
+> This document is an Arizona Game & Fish Department memorandum dated June 19, 1998, with an attached letter and field data sheets. It concerns fish sampling in [[Aravaipa Creek]] after a concern about declining native fish presence and the invasion of [[Red Shiner]] (*Cyprinella lutrensis*). The...
+> -- *[[AravaipaCreekSamplingmonitorin_17688]]*
+
+### Mentioned In
+- [[AravaipaCreekSamplingmonitorin_17688]]
+
 ## Fish Morphology
 <!-- fm: auto_enriched: true -->
 
@@ -6595,6 +6759,9 @@ A work group that met on September 1, 1992, in Grand Junction, Colorado, and pro
 > These are draft minutes of the February 21, 1989 meeting of the [[Implementation Committee]] that oversees the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The Program is a 15-year, consensus-based effort to recover four fish species while allowing...
 > -- *[[MinutesfebruaryRecoveryImpleme_21004]]*
 
+> This Bureau of Reclamation progress report presents preliminary 1988 results of fish monitoring in the [[Central Arizona Project]] (CAP) canal system. The work was led by [[Bureau Of Reclamation]] with the Arizona Game and Fish Department, Fish and Wildlife Service, and Arizona State University....
+> -- *[[CentralArizonaProjectCanalSyst_15464]]*
+
 ### Mentioned In
 - [[OwnersToDemolishDamThatBlocksF_14938]]
 - [[SampleInterviewRecordOnHatcher_1994_05_13]]
@@ -6606,6 +6773,7 @@ A work group that met on September 1, 1992, in Grand Junction, Colorado, and pro
 - [[RecoveryProgramOrganizationMis_11666]]
 - [[FiscalYearWorkPlan_11960]]
 - [[MinutesfebruaryRecoveryImpleme_21004]]
+- [[CentralArizonaProjectCanalSyst_15464]]
 
 ## Fish Passage Barriers
 <!-- fm: auto_enriched: true -->
@@ -8248,6 +8416,18 @@ These are the stages a fishery passes through, following Kesteven (1973): under-
 ### Mentioned In
 - [[StockAssessmentWhy_17822]]
 
+## Fishery Investigations
+
+### Summary
+A research program of the Wyoming fish and game agency under which this 1967 completion report was produced, as Job No. 1B within the Flaming Gorge Unit's post-impoundment studies of the Green River and Fontenelle Reservoir. The report describes it as the source of Progress Report No. 4.
+
+### Context
+> This completion report, a 1967 addendum to Progress Report No. 4 (Job No. 1B, [[Fishery Investigations]], [[Flaming Gorge Unit]]), covers physical, chemical, and biological sampling of [[Fontenelle Reservoir]] and the [[Green River]] from July 1965 to June 1967. The work was financed under Section...
+> -- *[[FisherySurveyOfFontenelleReser_17634]]*
+
+### Mentioned In
+- [[FisherySurveyOfFontenelleReser_17634]]
+
 ## Fishery Investigations Region V
 <!-- fm: auto_enriched: true -->
 
@@ -8387,6 +8567,18 @@ A regional faunal work by Hubbs and Lagler cited as a source for the supplement'
 ### Mentioned In
 - [[SupplementToHinksTheFishesOfMa_17920]]
 
+## Fishes of the Rio Yaqui Recovery Plan
+
+### Summary
+A federal recovery plan for native fishes of the Rio Yaqui basin, which the source says was helped produced by Wendell Minckley and which identifies West Turkey Creek as a key recovery locale for the Yaqui chub and longfin dace.
+
+### Context
+> This 1995 grant application to the [[Arizona Water Protection Fund]] (AWPF) requests funding for a two-year project to quantify and monitor the effects of gabion-based erosion control on the West Turkey Creek (WTC) watershed in Cochise County, Arizona. The applicants, owners of [[El Coronado...
+> -- *[[WestTurkeyCreekWatershedRestor_18328]]*
+
+### Mentioned In
+- [[WestTurkeyCreekWatershedRestor_18328]]
+
 ## Fishes of the Upper Colorado River Basin
 
 ### Summary
@@ -8500,6 +8692,18 @@ Fishing regulations are legal rules governing harvest, such as minimum size limi
 ### Mentioned In
 - [[GeneticMarkerIdentificationInL_1986]]
 
+## Fishlake National Forest
+
+### Summary
+A national forest in Utah. The paper cites Pelican Point there as an example where pre-use site preparation is emphasized.
+
+### Context
+> This 1962 Research Paper from the [[Intermountain Forest And Range Experiment Station]], written by S. Blair Hutchison, describes the recreation situation on the national forests of the [[Northern Region]] and [[Intermountain Region]]. It argues that rapidly growing recreation use is creating...
+> -- *[[RecreationOpportunitiesAndProb_14544]]*
+
+### Mentioned In
+- [[RecreationOpportunitiesAndProb_14544]]
+
 ## Fishtrap Dam
 
 ### Summary
@@ -8564,9 +8768,13 @@ Fishways are structures that let fish pass upstream around dams. None were maint
 > This 1955 management report by fishery biologist James S. Fletcher, published by the [[Atlantic Salmon Commission]] of Maine, evaluates why the [[Atlantic Salmon]] run in the [[Machias River]] collapsed and what must be done to restore it. Studies began in June 1949 and covered dams, fishways,...
 > -- *[[MachiasRiverSalmonRestoration_16466]]*
 
+> This 1925 report from the [[State Board Of Fisheries And Game]] presents a multi-year investigation of [[Alosa Sapidissima]] (American shad) in the [[Connecticut River]] and its tributaries. Catches had collapsed from tens of thousands per year to record lows (13,350 in 1923). The investigation...
+> -- *[[AReportOfInvestigationsConcern_16518]]*
+
 ### Mentioned In
 - [[ACursorySurveyOfTheBlueRiverSy_17374]]
 - [[MachiasRiverSalmonRestoration_16466]]
+- [[AReportOfInvestigationsConcern_16518]]
 
 ## Fission Product Spectrum
 <!-- fm: auto_enriched: true -->
@@ -9304,6 +9512,12 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > This compiled document, authored by Mark J. Rosenfeld (Department of Biology, University of Utah), reports three linked studies on the endangered chubs of the genus *Gila* in the [[Colorado River Basin]]. The first uses [[Allozyme Electrophoresis]] to build a biochemical genetic database for the...
 > -- *[[BiochemicalGeneticsOfTheColora_21073]]*
 
+> This U.S. Fish and Wildlife Service recovery plan, prepared by the [[Colorado River Fishes Recovery Team]] (15 members from federal and state agencies, 1975–1978), sets out the goal of restoring and maintaining a minimum of five self-sustaining populations of the [[Humpback Chub]] (*Gila cypha*) in...
+> -- *[[HumpbackChubGilaCypha_13294]]*
+
+> This 1973 Utah State University doctoral dissertation by Paul Bernard Holden documents the status of the fish fauna of the [[Upper Colorado River Basin]]. Sampling ran from 1967 to 1972. The study found that introduced species outnumbered native species 19 to 10, and that four endemic large-river...
+> -- *[[DistributionAbundanceAndLifeHi_20456]]*
+
 ### Mentioned In
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
 - [[AgingOfColoradoSquawfishrazorb_1989_05_01]]
@@ -9439,6 +9653,8 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[AStudyOfTheHabitatUseAndMoveme_20458]]
 - [[HabitatRequirementsOfJuvenileC_20460]]
 - [[BiochemicalGeneticsOfTheColora_21073]]
+- [[HumpbackChubGilaCypha_13294]]
+- [[DistributionAbundanceAndLifeHi_20456]]
 
 ## Flaming Gorge Flow Investigations
 
@@ -9566,6 +9782,12 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 > This U.S. Fish and Wildlife Service (FWS) document is the draft final rule, with accompanying summary and background, to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]] of 1973, without designating [[Critical Habitat]]. The species...
 > -- *[[RazorbackSuckerDraftFinalRule_20671]]*
 
+> This completion report, a 1967 addendum to Progress Report No. 4 (Job No. 1B, [[Fishery Investigations]], [[Flaming Gorge Unit]]), covers physical, chemical, and biological sampling of [[Fontenelle Reservoir]] and the [[Green River]] from July 1965 to June 1967. The work was financed under Section...
+> -- *[[FisherySurveyOfFontenelleReser_17634]]*
+
+> This report, dated December 30, 1994, was produced by the National Fish Hatchery Review Panel for the [[U.S. Fish And Wildlife Service]] (Service). The Panel was funded by the National Fish and Wildlife Foundation, contracted through The Conservation Fund, and co-chaired by Dr. Robert Putz and Dr....
+> -- *[[ReportOfTheNationalFishHatcher_18795]]*
+
 ### Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[MeasuresToImproveSportFishingA_1962]]
@@ -9594,6 +9816,8 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[MinutesfebruaryRecoveryImpleme_20999]]
 - [[MinutesaugustRecoveryImplement_21016]]
 - [[RazorbackSuckerDraftFinalRule_20671]]
+- [[FisherySurveyOfFontenelleReser_17634]]
+- [[ReportOfTheNationalFishHatcher_18795]]
 
 ## Flaming Gorge Studies Program
 
@@ -9614,8 +9838,12 @@ The Flaming Gorge Studies Program was a research initiative conducted from 1986-
 > - **Scale of treatment**: ~450 miles of the Green River and tributaries treated with 19,000 gallons of 5% rotenone solution between September 4–7, 1962 (Pinedale, WY to a site 7 miles above the dam). - **Detoxification protocol**: Potassium permanganate released at Browns Park from 6:10 a.m. Sept...
 > -- *[[MeasuresToImproveSportFishingA_1962]]*
 
+> This completion report, a 1967 addendum to Progress Report No. 4 (Job No. 1B, [[Fishery Investigations]], [[Flaming Gorge Unit]]), covers physical, chemical, and biological sampling of [[Fontenelle Reservoir]] and the [[Green River]] from July 1965 to June 1967. The work was financed under Section...
+> -- *[[FisherySurveyOfFontenelleReser_17634]]*
+
 ### Mentioned In
 - [[MeasuresToImproveSportFishingA_1962]]
+- [[FisherySurveyOfFontenelleReser_17634]]
 
 ## Flammeo
 
@@ -10044,6 +10272,21 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > This study describes the movements of the endangered [[Humpback Chub]] (*Gila cypha*) in the mainstem [[Colorado River]] in [[Grand Canyon]], Arizona, from October 1990 through November 1993, and evaluates how [[Glen Canyon Dam]] operations influence those movements. Adults showed strong spatial...
 > -- *[[MovementOfHumpbackChubInTheCol_21130]]*
 
+> These guidelines, prepared by J. Holt Williamson and Richard S. Wydoski for the U.S. Fish and Wildlife Service (Denver, May 25, 1994), provide a conceptual framework for [[Genetics Management]] of four endangered endemic fishes of the [[Upper Colorado River Basin]]: [[Razorback Sucker]],...
+> -- *[[GeneticsManagementGuidelines_11717]]*
+
+> The Woundfin Recovery Plan, prepared by the Woundfin Recovery Team and dated April 15, 1979, sets out a management strategy for [[Woundfin]] (*Plagopterus argentissimus*), a cyprinid minnow listed as endangered since 1967. The Virgin River in Utah, Arizona and Nevada is the only stream where the...
+> -- *[[WoundfinPlagopterusArgentissim_13296]]*
+
+> This report, prepared for the [[Bureau of Land Management]] by W. L. Minckley (Arizona State University) in March 1987, documents the fish fauna of the upper [[San Pedro River]] basin, traces its decline, and evaluates how stream flow, water quality, and upstream mining affect native fishes. It...
+> -- *[[FishesAndAquaticHabitatsOfTheU_13735]]*
+
+> This 1997 Request for Proposals (RFP) package from the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP) Steering Committee solicits two separate consultant contracts to support development of a multi-species conservation plan for the Lower Colorado River. RFP-1 seeks [[Program...
+> -- *[[RequestForProposalsRfpProgramF_18343]]*
+
+> This 1973 Utah State University doctoral dissertation by Paul Bernard Holden documents the status of the fish fauna of the [[Upper Colorado River Basin]]. Sampling ran from 1967 to 1972. The study found that introduced species outnumbered native species 19 to 10, and that four endemic large-river...
+> -- *[[DistributionAbundanceAndLifeHi_20456]]*
+
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -10273,6 +10516,11 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[AStudyOfTheHabitatUseAndMoveme_20458]]
 - [[HabitatRequirementsOfJuvenileC_20460]]
 - [[MovementOfHumpbackChubInTheCol_21130]]
+- [[GeneticsManagementGuidelines_11717]]
+- [[WoundfinPlagopterusArgentissim_13296]]
+- [[FishesAndAquaticHabitatsOfTheU_13735]]
+- [[RequestForProposalsRfpProgramF_18343]]
+- [[DistributionAbundanceAndLifeHi_20456]]
 
 ## Flash Creek
 <!-- fm: auto_enriched: true -->
@@ -10841,6 +11089,18 @@ The flathead catfish (Pylodictis olivaris) is a large, predatory ictalurid catfi
 ### Mentioned In
 - [[FishResourcesOfDhofarKhawrsCoa_18793]]
 
+## Flathead National Forest
+
+### Summary
+A national forest in northwestern Montana. The paper cites Holland Lake Campground there as an example of site deterioration from heavy use.
+
+### Context
+> This 1962 Research Paper from the [[Intermountain Forest And Range Experiment Station]], written by S. Blair Hutchison, describes the recreation situation on the national forests of the [[Northern Region]] and [[Intermountain Region]]. It argues that rapidly growing recreation use is creating...
+> -- *[[RecreationOpportunitiesAndProb_14544]]*
+
+### Mentioned In
+- [[RecreationOpportunitiesAndProb_14544]]
+
 ## Flavobacteria
 
 ### Summary
@@ -11014,6 +11274,9 @@ Flint Creek is a freshwater stream in Ontario County, New York, from which the n
 > This 1930s Bureau of Mines report, prepared with the [[Kansas State Board of Health]], examines how [[Petroleum Wastes]] from oil-producing leases damage soils, vegetation, [[Aquatic Life]], livestock, and waterfowl, and how such wastes can be reduced and disposed of properly. The authors argue...
 > -- *[[SoilsAndWaterResourcesOfKansas_19835]]*
 
+> This Kansas Agricultural Experiment Station bulletin (Bulletin 488, by Otto W. [[Tiemeier]]) reports roughly a decade of studies (1953 to 1963) on stock ponds in the [[Flint Hills]] region of Kansas. The work covered water chemistry, soils, turbidity, thermal and oxygen stratification, stocking and...
+> -- *[[KansasFarmPonds_13344]]*
+
 ### Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[NewDistributionalRecordsForThr_1959]]
@@ -11021,6 +11284,7 @@ Flint Creek is a freshwater stream in Ontario County, New York, from which the n
 - [[MolluscaFromGreenwoodCountyKan_20276]]
 - [[PreliminarySurveyOfTheFishFaun_15760]]
 - [[SoilsAndWaterResourcesOfKansas_19835]]
+- [[KansasFarmPonds_13344]]
 
 ## Flint Hills Ecoregion
 <!-- fm: auto_enriched: true -->
@@ -11144,6 +11408,18 @@ A flood plain is low land alongside a river that is periodically inundated when 
 ### Mentioned In
 - [[RecoveryProgramFromTheEndanger_18333]]
 
+## Flood Plain Management
+
+### Summary
+The practice of using land-use controls, flood proofing, and similar measures to guide development on flood-prone land and prevent greater losses. This report exists to support such planning on the Virgin River and Fort Pierce Wash near St. George, rather than to propose engineering flood control.
+
+### Context
+> This 1973 report, prepared by the [[U.S. Army Corps of Engineers]] Los Angeles District for the [[Washington County]] Commission, maps flood hazards along the [[Virgin River]] and its major tributary, [[Fort Pierce Wash]], near [[St. George]], Utah. It documents historical floods, describes channel...
+> -- *[[FloodPlainInformationVirginRiv_11450]]*
+
+### Mentioned In
+- [[FloodPlainInformationVirginRiv_11450]]
+
 ## Flood Pulse
 
 ### Summary
@@ -11228,6 +11504,18 @@ The Flooded Bottom Lands Restoration Program is a recovery initiative for endang
 ### Mentioned In
 - [[MeetingToDiscussProgramGoalsSt_19639]]
 
+## Flooded Bottomland Habitat Restoration Program
+
+### Summary
+A Bureau of Reclamation program that inventoried flooded bottomland sites along the Colorado and Gunnison Rivers for habitat restoration. This report screens seven of its 30 inventory sites for contaminants, mainly selenium and salinity, before restoration work proceeds.
+
+### Context
+> This November 1994 report from the [[Bureau of Reclamation]] Grand Junction Projects Office presents Level I contaminant screening results for seven of 30 inventory sites in the [[Flooded Bottomland Habitat Restoration Program]] along the [[Colorado River]] and [[Gunnison River]]. Another group of...
+> -- *[[SiteScreeningResultsForSevenSi_20474]]*
+
+### Mentioned In
+- [[SiteScreeningResultsForSevenSi_20474]]
+
 ## Flooded Bottomland Restoration
 
 ### Summary
@@ -11265,6 +11553,18 @@ Flooded bottomlands are shallow, periodically inundated areas along river margin
 ### Mentioned In
 - [[CivilActionNoFColoradoWildlife_20991]]
 - [[SectionConsultationSufficientP_13192]]
+
+## Flooding
+
+### Summary
+Flooding refers to scouring floods in steep, narrow drainages that wash out topminnow populations. The source documents floods in 1989, 1993, and other years, affecting sites such as Buehman Canyon, Seven Springs, and Humbug Creek.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) technical report evaluates [[Gila Topminnow]] reintroduction sites in Arizona during the 1994-95 field season. Many reintroduced populations have failed, yet sites that are not formally declared "extirpated" still trigger [[Section 7 Consultation]]...
+> -- *[[GilaTopminnowExtirpationSitesI_19666]]*
+
+### Mentioned In
+- [[GilaTopminnowExtirpationSitesI_19666]]
 
 ## Floodplain
 
@@ -11425,6 +11725,18 @@ Floodplain wetlands are low-lying areas beside rivers that fill during high flow
 
 ### Mentioned In
 - [[OriginAndEvolutionOfTheFishesO_1962_12_10]]
+
+## Florence Canal
+
+### Summary
+The Florence Canal is an irrigation canal whose dam lies about 15 miles above the Gila River Indian Reservation. According to the source, it diverted most of the river's water during the growing season, reducing flow to the reservation. Later upstream diversions also reduced the canal's own supply.
+
+### Context
+> This 1900 U.S. Geological Survey Water-Supply Paper, written by [[Joseph Barlow Lippincott]] and verified by James D. Schuyler, assesses how to store Gila River water to restore irrigation supply to the [[Gila River Indian Reservation]]. The authors judged that at least 40,000 acre-feet must be...
+> -- *[[StorageOfWaterOnGilaRiverArizo_20348]]*
+
+### Mentioned In
+- [[StorageOfWaterOnGilaRiverArizo_20348]]
 
 ## Florence Creek
 
@@ -12109,6 +12421,18 @@ Flukes are small, semitransparent worms about one twenty-fifth to one fourth of 
 ### Mentioned In
 - [[ParasitesOfFreshwaterFishes_18671]]
 
+## Flume Creek
+
+### Summary
+A stream below Fontenelle Dam where limited evidence suggested a possible upstream trout spawning run. The source mentions it only in connection with that tentative observation.
+
+### Context
+> This completion report, a 1967 addendum to Progress Report No. 4 (Job No. 1B, [[Fishery Investigations]], [[Flaming Gorge Unit]]), covers physical, chemical, and biological sampling of [[Fontenelle Reservoir]] and the [[Green River]] from July 1965 to June 1967. The work was financed under Section...
+> -- *[[FisherySurveyOfFontenelleReser_17634]]*
+
+### Mentioned In
+- [[FisherySurveyOfFontenelleReser_17634]]
+
 ## Flume Creek Hatchery
 
 ### Summary
@@ -12316,6 +12640,30 @@ Folsom Reservoir is a California water body that was not chemically treated prio
 ### Mentioned In
 - [[RoughFishControl_20167]]
 
+## Fondation Sansouire
+
+### Summary
+A French foundation created in 1976 under French law that took over the Station and about 1,500 ha of estate in 1978. The source names it as the body that held the Station's land.
+
+### Context
+> This strategy document, prepared by the [[Station Biologique de la Tour du Valat]] (Tour du Valat), sets out the mission, research agenda, partnerships, training, awareness and internal structure of the Station for 1992–1996. The mission, redefined by the Board in February 1991, is "to halt and...
+> -- *[[StrategyAndProgrammePlanning_18289]]*
+
+### Mentioned In
+- [[StrategyAndProgrammePlanning_18289]]
+
+## Fondation Tour du Valat
+
+### Summary
+A Swiss foundation created in 1974 that provides core funding for the Station. It promotes research on wetland communities in the Camargue and around the Mediterranean.
+
+### Context
+> This strategy document, prepared by the [[Station Biologique de la Tour du Valat]] (Tour du Valat), sets out the mission, research agenda, partnerships, training, awareness and internal structure of the Station for 1992–1996. The mission, redefined by the Board in February 1991, is "to halt and...
+> -- *[[StrategyAndProgrammePlanning_18289]]*
+
+### Mentioned In
+- [[StrategyAndProgrammePlanning_18289]]
+
 ## Fonscochlea
 
 ### Summary
@@ -12439,12 +12787,16 @@ A Fontelicella snail from the Socorro area of New Mexico, listed in the source a
 > This Wyoming Game and Fish Department administrative report (February 1987; authors Kevin Johnson and Melvin Oberholtzer) describes a 1986 survey for [[Colorado Squawfish]] (*Ptychocheilus lucius*), a federally listed endangered species, in the [[Green River]] and [[Little Snake River]] drainages....
 > -- *[[InvestigationIntoPossibleOccur_19789]]*
 
+> This completion report, a 1967 addendum to Progress Report No. 4 (Job No. 1B, [[Fishery Investigations]], [[Flaming Gorge Unit]]), covers physical, chemical, and biological sampling of [[Fontenelle Reservoir]] and the [[Green River]] from July 1965 to June 1967. The work was financed under Section...
+> -- *[[FisherySurveyOfFontenelleReser_17634]]*
+
 ### Mentioned In
 - [[SomeEffectsOfRotenoneTreatment_1969]]
 - [[HabitatUseAndStreamflowNeedsOf_11609]]
 - [[HabitatUseAndStreamflowNeedsOf_11573]]
 - [[WhatAreTheFisheriesBenefitsFro_18797]]
 - [[InvestigationIntoPossibleOccur_19789]]
+- [[FisherySurveyOfFontenelleReser_17634]]
 
 ## Fontenelle Reservoir
 <!-- fm: auto_enriched: true -->
@@ -12462,11 +12814,15 @@ A Fontelicella snail from the Socorro area of New Mexico, listed in the source a
 > This joint Utah–Wyoming report documents the planning, execution and post-treatment analysis of a 1962 chemical rehabilitation of roughly 450 miles of the [[Green River]] and its tributaries above [[Flaming Gorge Dam]]. The project aimed to remove non-desirable fish, chiefly [[Carp]], suckers and...
 > -- *[[ThePlanningOperationAndAnalysi_17632]]*
 
+> This completion report, a 1967 addendum to Progress Report No. 4 (Job No. 1B, [[Fishery Investigations]], [[Flaming Gorge Unit]]), covers physical, chemical, and biological sampling of [[Fontenelle Reservoir]] and the [[Green River]] from July 1965 to June 1967. The work was financed under Section...
+> -- *[[FisherySurveyOfFontenelleReser_17634]]*
+
 ### Mentioned In
 - [[MemoOnDesertFishesCouncilRevie_1994_05_11]]
 - [[SummarynovemberAndFebruaryMana_21001]]
 - [[MissionAccomplishedGoodFishing_14409]]
 - [[ThePlanningOperationAndAnalysi_17632]]
+- [[FisherySurveyOfFontenelleReser_17634]]
 
 ## Fontenelle Tailwater
 
@@ -12946,9 +13302,13 @@ The land management plan for the Apache-Sitgreaves National Forest that guides a
 > This document package from the [[Coronado National Forest]] (Sierra Vista Ranger District) comprises a cover letter dated 04/23/92, a project proposal dated March 9, 1992, a draft public comment letter, and a mailing list dated 03/12/92. Together they describe a proposed fish renovation of the...
 > -- *[[BogHoleRenovationProjectPropos_12750]]*
 
+> This note summarizes the Volume I Overview of the June 1995 report of the [[Interagency Ecosystem Management Task Force]], circulated as a series of six email parts. The report defines the [[Ecosystem Approach]] as a goal-driven method for sustaining or restoring natural systems, built on a...
+> -- *[[TheEcosystemApproachHealthyEco_20912]]*
+
 ### Mentioned In
 - [[PigeonCreekLakeProject_20727]]
 - [[BogHoleRenovationProjectPropos_12750]]
+- [[TheEcosystemApproachHealthyEco_20912]]
 
 ## Forest River
 
@@ -13032,6 +13392,12 @@ Forest Road 281 is the main gravel road along the upper Blue River in Greenlee C
 > This Defenders of Wildlife report (May 1985) assesses how the Reagan administration and Congress implemented the [[Endangered Species Act]] (ESA) during 1984. It is the first annual report in a series that follows a ten-year analysis published in 1984. It covers three areas: budget and funding,...
 > -- *[[ImplementationOfTheUsEndangere_21133]]*
 
+> This 1962 Research Paper from the [[Intermountain Forest And Range Experiment Station]], written by S. Blair Hutchison, describes the recreation situation on the national forests of the [[Northern Region]] and [[Intermountain Region]]. It argues that rapidly growing recreation use is creating...
+> -- *[[RecreationOpportunitiesAndProb_14544]]*
+
+> On September 17, 1993, the [[Greater Gila Biodiversity Project]], the [[Southwest Center for Biological Diversity]], and the [[Biodiversity Legal Foundation]], together with individuals [[David Hogan]] and [[Peter Galvin]], petitioned the [[U.S. Fish and Wildlife Service]] (USFWS) to uplist the...
+> -- *[[PetitionsToReclassifyTheLoachm_20447]]*
+
 ### Mentioned In
 - [[TheStrategyAndDesignOfTheEffec_1997_11_13]]
 - [[ViewsOfAFishBiologistFromAFede_15069]]
@@ -13047,6 +13413,8 @@ Forest Road 281 is the main gravel road along the upper Blue River in Greenlee C
 - [[DefiningTheCurrentResponsibili_14602]]
 - [[JulyManagementGroupMeetingSumm_21014]]
 - [[ImplementationOfTheUsEndangere_21133]]
+- [[RecreationOpportunitiesAndProb_14544]]
+- [[PetitionsToReclassifyTheLoachm_20447]]
 
 ## Forest Service Moratorium
 
@@ -13480,12 +13848,16 @@ Fort Gibson Lake is a 19,100 surface acre reservoir in Oklahoma that was one of 
 > This 1961 report by Thomas L. Linton, issued by the [[Oklahoma Fishery Research Laboratory]] (Report No. 81), documents a pre-impoundment survey of the reaches of the [[Arkansas River]] and [[Cimarron River]] that would be inundated by the proposed [[Keystone Reservoir]] in northeastern Oklahoma....
 > -- *[[AStudyOfFishesOfTheArkansasAnd_20347]]*
 
+> This 1958 Oklahoma State University master's thesis by William Ray Heard examines the taxonomic confusion among the small-mouthed [[Buffalofish]] forms, [[Smallmouth Buffalo]] (*Ictiobus bubalus*) and [[Black Buffalo]] (*Ictiobus niger*), in Oklahoma reservoirs. Using controlled breeding attempts,...
+> -- *[[StudiesInTheGenusIctiobusBuffa_20751]]*
+
 ### Mentioned In
 - [[UnexploitedPotentialsOfOurFres_1958]]
 - [[FisheryInvestigationsOnFortGib_14674]]
 - [[GrowthOfFreshwaterDrumInOklaho_19938]]
 - [[ASummaryOfFisheriesInvestigati_19934]]
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
+- [[StudiesInTheGenusIctiobusBuffa_20751]]
 
 ## Fort Harmony Tryonia
 
@@ -13737,8 +14109,12 @@ Fort Pierce Wash is a tributary or wash in the Virgin River system that has been
 > This document comprises meeting minutes, agendas, and population monitoring data from the [[Virgin River]] Fish Recovery Team spanning September 1992 through April 1993. The Recovery Team coordinates multi-agency efforts to recover three federally listed native cyprinids: [[Woundfin]] (*Plagopterus...
 > -- *[[VirginRiverFishRecoveryTeamSpr_20244]]*
 
+> This 1973 report, prepared by the [[U.S. Army Corps of Engineers]] Los Angeles District for the [[Washington County]] Commission, maps flood hazards along the [[Virgin River]] and its major tributary, [[Fort Pierce Wash]], near [[St. George]], Utah. It documents historical floods, describes channel...
+> -- *[[FloodPlainInformationVirginRiv_11450]]*
+
 ### Mentioned In
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
+- [[FloodPlainInformationVirginRiv_11450]]
 
 ## Fort Randall Dam
 
@@ -14082,6 +14458,9 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 > This technical report, prepared by W.L. Bouchard & Associates for [[Arizona Public Service Company]] (APS), supports the relicensing of the [[Childs and Irving Hydroelectric Project]] (FERC Project No. 2069-003) on [[Fossil Creek]], a tributary of the [[Verde River]]. The core question is how...
 > -- *[[FossilCreekHydrologyAndTravert_20796]]*
 
+> This U.S. Geological Survey Water-Supply Paper (1619-H, 1963) by J. H. Feth and J. D. Hem reports a reconnaissance of the ground-water system and springs of the [[Mogollon Rim]] region in central Arizona, the source of much of the water in the Gila, Salt, and Verde Rivers. The study, carried out...
+> -- *[[ReconaissanceOfHeadwaterSpring_16363]]*
+
 ### Mentioned In
 - [[AttemptedReEstablish_1969_03_06]]
 - [[DesertFishesRecoveryTeamAction_11691]]
@@ -14103,6 +14482,7 @@ Fossil Creek, located in Arizona, is a significant aquatic ecosystem that has be
 - [[FossilCreakFlumeaPioneerMonume_16579]]
 - [[NoticeOfAvailabilityOfDraftEnv_16326]]
 - [[FossilCreekHydrologyAndTravert_20796]]
+- [[ReconaissanceOfHeadwaterSpring_16363]]
 
 ## Fossil Creek Flume
 
@@ -14597,9 +14977,13 @@ Francisco Abarca is the AGFD Native Fish Biologist to whom Tom Deecken was to fo
 > These minutes record the November 7-8, 1990 meeting of the [[Desert Fishes Recovery Team]] in Phoenix, Arizona, transmitted by Team Coordinator Sally Stefferud on March 15, 1991. The meeting centered on two issues. The first was whether [[Red Shiner]] posed a threat to native fishes in [[Aravaipa...
 > -- *[[MinutesOfTheNovemberRecoveryTe_14788]]*
 
+> This Arizona Game and Fish Department (AGFD) technical report evaluates [[Gila Topminnow]] reintroduction sites in Arizona during the 1994-95 field season. Many reintroduced populations have failed, yet sites that are not formally declared "extirpated" still trigger [[Section 7 Consultation]]...
+> -- *[[GilaTopminnowExtirpationSitesI_19666]]*
+
 ### Mentioned In
 - [[SonoranChubReintroductionToSyc_14342]]
 - [[MinutesOfTheNovemberRecoveryTe_14788]]
+- [[GilaTopminnowExtirpationSitesI_19666]]
 
 ## Frank A. Stefanich
 <!-- fm: auto_enriched: true -->
@@ -14874,9 +15258,13 @@ The Put-in-Bay, Ohio field laboratory that issued this 1950 revision of Trautman
 > This 1933 monograph, Contribution Number 5 from the [[Franz Theodore Stone Laboratory]] of The Ohio State University, by [[Robert A. Moore]] (Western Reserve University), reports the gross and microscopic structure of the kidneys of ninety-one species of freshwater fishes collected in the summer of...
 > -- *[[MorphologyOfTheKidneysOfOhioFi_16580]]*
 
+> This 1931 contribution from the [[Franz Theodore Stone Laboratory]] (Ohio State University, Contribution No. 4) by John W. Price quantifies gill surface area across the full life history of the [[Small-Mouthed Black Bass]] (*Micropterus dolomieu*). Using 127 preserved specimens from [[Lake Erie]],...
+> -- *[[GrowthAndGillDevelopmentInTheS_18680]]*
+
 ### Mentioned In
 - [[TheInvasionPresentStatusAndLif_1949_12_01]]
 - [[MorphologyOfTheKidneysOfOhioFi_16580]]
+- [[GrowthAndGillDevelopmentInTheS_18680]]
 
 ## Fraser Dam
 <!-- fm: auto_enriched: true -->
@@ -15016,8 +15404,12 @@ The freckled madtom is a small North American catfish in the genus Noturus. In t
 > This note summarizes a year-round study of the fish assemblage of the [[Fall River]] and [[Verdigris River]] in Wilson and Montgomery Counties, southeastern Kansas, conducted from March 1954 to February 1955 as part of a larger survey of the rivers' physical, chemical, and biological...
 > -- *[[AnEcologicalStudyOfTheFishesOf_18698]]*
 
+> This reprinted 1951 paper by Reeve M. Bailey, first issued in *Iowa Fish and Fishing*, provides a revised check-list of the native and established fishes of [[Iowa]] together with dichotomous keys for identification. The check-list comprises 25 families, 61 genera, 133 species and 137 total kinds...
+> -- *[[ACheckListOfTheFishesOfIowaWit_17232]]*
+
 ### Mentioned In
 - [[AnEcologicalStudyOfTheFishesOf_18698]]
+- [[ACheckListOfTheFishesOfIowaWit_17232]]
 
 ## Fred E. Partridge
 
@@ -15180,8 +15572,12 @@ Dissolved CO₂ not bound in carbonate or bicarbonate, computed in this study. I
 > This U.S. Geological Survey Professional Paper by Keith V. Slack describes the environmental setting, water chemistry and travertine formation of [[Birch Creek]], a small spring-fed stream in the [[White Mountains]] of eastern California. The study was carried out in spring 1961 and summer 1962 to...
 > -- *[[PhysicalAndChemicalDescription_19022]]*
 
+> This Kansas Agricultural Experiment Station bulletin (Bulletin 488, by Otto W. [[Tiemeier]]) reports roughly a decade of studies (1953 to 1963) on stock ponds in the [[Flint Hills]] region of Kansas. The work covered water chemistry, soils, turbidity, thermal and oxygen stratification, stocking and...
+> -- *[[KansasFarmPonds_13344]]*
+
 ### Mentioned In
 - [[PhysicalAndChemicalDescription_19022]]
+- [[KansasFarmPonds_13344]]
 
 ## Free-Water Oxygen Method
 
@@ -15688,6 +16084,9 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 > This preliminary report from the Illinois Natural History Survey and Illinois Department of Conservation (Biological Notes No. 30, 1952) documents a creel census of the sport fishery at [[Lake Chautauqua]], a reflooded drainage district on the [[Illinois River]] floodplain near Havana. Recorded...
 > -- *[[SportFishingAtLakeChautauquaNe_14738]]*
 
+> This Texas Game and Fish Commission report (Inland Fisheries IF Report Series No. 2, February 1957) by [[Leo D. Lewis]] and [[Walter W. Dalquest]] documents a two-year survey (June 1953 to May 1955) of the Big Wichita River, its tributaries, springs and three impoundments: [[Lake Kemp]], [[Lake...
+> -- *[[AFisheriesSurveyOfTheBigWichit_20303]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -15737,6 +16136,7 @@ The freshwater drum (Aplodinotus grunniens) is a benthic-feeding cypriniform fis
 - [[SomePanFishesOfNewYork_16764]]
 - [[AverageGrowthRatesAndLengthwei_19941]]
 - [[SportFishingAtLakeChautauquaNe_14738]]
+- [[AFisheriesSurveyOfTheBigWichit_20303]]
 
 ## Freshwater Drum Life History
 <!-- fm: auto_enriched: true -->
@@ -16057,9 +16457,13 @@ Freshwater fisheries management encompasses the science-based practices and poli
 > This document is a sworn expert declaration by Dr. Wendell L. Minckley, a veteran ichthyologist and zoology professor at Arizona State University, submitted in support of litigation against the U.S. Bureau of Land Management's Safford District. The declaration argues that chronic livestock overgr...
 > -- *[[DeclarationOfWLMinckleyOnGrazi_15842]]*
 
+> This is a preliminary annotated-free bibliography compiled by Duncan McClusky on May 1, 1989, listing published and unpublished literature on [[Freshwater Fishes]] of [[Arizona]]. The author describes the list as a starting point: after a visit with [[C. O. Minckley]] of [[Arizona State...
+> -- *[[PreliminaryBibliographyOnFishI_12265]]*
+
 ### Mentioned In
 - [[DeclarationOfWLMinckleyOnGrazi_15842]]
 - [[EarthwormsForBait_13272]]
+- [[PreliminaryBibliographyOnFishI_12265]]
 
 ## Freshwater Fishes Of Canada
 <!-- fm: auto_enriched: true -->
@@ -16805,6 +17209,18 @@ The Froude criterion is a hydraulic modeling rule that sets the scale of a physi
 ### Mentioned In
 - [[FinalReportOfHydraulicModelStu_21109]]
 
+## Froude Number
+
+### Summary
+A dimensionless ratio that separates flow regimes: Fr below 1 is subcritical (tranquil), Fr above 1 is supercritical, and Fr equal to 1 is unstable critical flow that rarely persists in natural channels. The report notes supercritical flow can uplift canal linings and displace concrete structures, as in the 1979 Verde River flood.
+
+### Context
+> This USDA Forest Service General Technical Report by [[Burchard H. Heede]] (Rocky Mountain Forest and Range Experiment Station, 1980) gives land managers a conceptual overview of [[Stream Dynamics]]. It explains how flow, [[Sediment Transport]] and channel form interact, how streams reach and lose...
+> -- *[[StreamDynamicsAnOverviewForLan_16592]]*
+
+### Mentioned In
+- [[StreamDynamicsAnOverviewForLan_16592]]
+
 ## Froude's Law
 
 ### Summary
@@ -16826,8 +17242,12 @@ F. E. J. Fry, who in 1971 stated that a fish's physiological state reflects its 
 > This review, by [[Richard S. Wydoski]] and [[Gary A. Wedemeyer]], examines the difficulties of using physiological, mainly [[Blood Chemistry]], data to monitor wild fish populations. The authors argue that fish constantly adjust [[Osmoregulation]] and metabolism to environmental change, that...
 > -- *[[ProblemsInThePhysiologicalMoni_20869]]*
 
+> David G. Frey (Indiana University, published in *Investigations of Indiana Lakes and Streams*, Vol. IV, No. 7, October 1955) examines why the [[Cisco]] (*Coregonus artedii*) persists in some northern Indiana lakes and has disappeared from others. The cisco is documented in 41 lakes of northern...
+> -- *[[DistributionalEcologyOfTheCisc_18837]]*
+
 ### Mentioned In
 - [[ProblemsInThePhysiologicalMoni_20869]]
+- [[DistributionalEcologyOfTheCisc_18837]]
 
 ## Fry 1947 Final Preferred Temperature Method
 <!-- fm: auto_enriched: true -->
@@ -17229,6 +17649,18 @@ Fulton, 1923 is a earlier author whose classification placed Trichodina, Cycloch
 
 ### Mentioned In
 - [[TrichodinaRenicolaMuellerACili_15477]]
+
+## Fumemorte
+
+### Summary
+A site in the Camargue where the Station tests a predator–prey hypothesis by rebuilding the pikeperch population through stocking, with monthly sampling every three years.
+
+### Context
+> This strategy document, prepared by the [[Station Biologique de la Tour du Valat]] (Tour du Valat), sets out the mission, research agenda, partnerships, training, awareness and internal structure of the Station for 1992–1996. The mission, redefined by the Board in February 1991, is "to halt and...
+> -- *[[StrategyAndProgrammePlanning_18289]]*
+
+### Mentioned In
+- [[StrategyAndProgrammePlanning_18289]]
 
 ## Functional Diploidization
 <!-- fm: auto_enriched: true -->
@@ -18069,6 +18501,18 @@ FWS Technology Centers are research and development facilities within the Fish a
 
 ### Mentioned In
 - [[DraftRecommendationsNationalFi_19586]]
+
+## FY-91 Work Plan
+
+### Summary
+The draft FY-91 Work Plan, dated June 28, 1990, is the Recovery Program's proposed set of projects and budget for fiscal year 1991, totaling about $2.56 million. The Technical and Management groups drafted it for Implementation Committee approval scheduled for August 22, 1990. The stated goal was to have all activities contracted and funded by the end of the first quarter of FY-91.
+
+### Context
+> This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
+> -- *[[JulyManagementGroupMeetingSumm_21031]]*
+
+### Mentioned In
+- [[JulyManagementGroupMeetingSumm_21031]]
 
 ## Fyke Net
 <!-- fm: auto_enriched: true -->

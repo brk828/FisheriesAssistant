@@ -1147,6 +1147,13 @@
   "type": "Journal Article",
   "year": "1958"
  },
+ "11284": {
+  "authors": "R. E. Schumacher",
+  "publication": "279:Minnesota Dept. of Conservation Division of Game and Fish Section of Research and Planning",
+  "title": "Preliminary results from experimental introduction of rainbow trout as an additional game fish in large Minnesota lakes",
+  "type": "Report",
+  "year": "1964"
+ },
  "11289": {
   "authors": "F. J. Schwartz",
   "publication": "The Progressive Fish-Culturist 22(2): 87-89.",
@@ -1314,6 +1321,13 @@
   "title": "Fish Culture - for fun, for profit",
   "type": "Journal Article",
   "year": ""
+ },
+ "11334": {
+  "authors": "E. A. Seaman",
+  "publication": "Division of Fish Management Conservation Commission of West Virginia.",
+  "title": "Fish, fish management, and fishing in West Virginia",
+  "type": "Book",
+  "year": "1948"
  },
  "11335": {
   "authors": "J. Seals",
@@ -1819,6 +1833,20 @@
   "type": "Report",
   "year": "1996"
  },
+ "11450": {
+  "authors": "US Army Corps of Engineers",
+  "publication": "",
+  "title": "Flood plain information: Virgin River and Fort Pierce Wash, vicinity of St. George, Washington County, Utah",
+  "type": "Report",
+  "year": "1973"
+ },
+ "11452": {
+  "authors": "US Army Corps of Engineers",
+  "publication": "US Army Corps of Engineers,",
+  "title": "Water Resources Development in New Mexico",
+  "type": "Report",
+  "year": "1979"
+ },
  "11456": {
   "authors": "US Bureau of Indian Affairs and White Mountain Apache Tribe",
   "publication": "",
@@ -1902,6 +1930,13 @@
   "title": "San Pedro Riparian National Conservation Area: Monitoring plan",
   "type": "Report",
   "year": "1989"
+ },
+ "11471": {
+  "authors": "US Bureau of Reclamation",
+  "publication": "Colorado River Front Work and Levee System/ Arizona-California-Nevada",
+  "title": "Lower Colorado River maps",
+  "type": "Report",
+  "year": "1969"
  },
  "11472": {
   "authors": "US Bureau of Reclamation",
@@ -2085,6 +2120,13 @@
   "type": "Report",
   "year": "1999"
  },
+ "11507": {
+  "authors": "US Department of Agriculture Forest Service",
+  "publication": ".",
+  "title": "Endangered and threatened fish and wildlife of New Mexico forests and rangelands",
+  "type": "Book",
+  "year": "1983"
+ },
  "11508": {
   "authors": "US Department of Agriculture Forest Service",
   "publication": "Albuquerque:Apache National Forest USDA Forest Service Southwestern Region,",
@@ -2133,6 +2175,13 @@
   "title": "Denver Wildlife Research Center",
   "type": "Report",
   "year": "1968"
+ },
+ "11517": {
+  "authors": "US National Park Service",
+  "publication": ".",
+  "title": "Grand Canyon National Park, Arizona",
+  "type": "Book",
+  "year": "1937"
  },
  "11518": {
   "authors": "US National Park Service",
@@ -2232,11 +2281,25 @@
   "type": "Report",
   "year": "1977"
  },
+ "11539": {
+  "authors": "US Bureau of Land Management",
+  "publication": "US Bureau of Land Management",
+  "title": "Aravaipa Canyon wilderness draft environmental statement",
+  "type": "Report",
+  "year": "1979"
+ },
  "11540": {
   "authors": "US Fish and Wildlife Service",
   "publication": "Federal register 45(80): 27710-27713.",
   "title": "Bonytail chub; Determination as an endangered Species",
   "type": "Government Document",
+  "year": "1980"
+ },
+ "11541": {
+  "authors": "US Bureau of Land Management",
+  "publication": ".",
+  "title": "The California Desert Conservation Area Plan, 1980",
+  "type": "Book",
   "year": "1980"
  },
  "11542": {
@@ -2672,6 +2735,13 @@
   "title": "References with new information for updating Colorado squawfish recovery plan 1980- present",
   "type": "Report",
   "year": "1987"
+ },
+ "11614": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "1-51.",
+  "title": "Final Fish and Wildlife Coordination Act report: Upper Gila water supply study, Grant County, New Mexico",
+  "type": "Journal Article",
+  "year": "1988"
  },
  "11615": {
   "authors": "US Fish and Wildlife Service",
@@ -3275,6 +3345,13 @@
   "type": "Manuscript",
   "year": "1994"
  },
+ "11717": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "Recovery implementation program for endangered fish species in the upper Colorado River Basin",
+  "title": "Genetics management guidelines",
+  "type": "Report",
+  "year": "1994"
+ },
  "11718": {
   "authors": "US Fish and Wildlife Service",
   "publication": "Federal Register 59(240): 64794-64809.",
@@ -3744,6 +3821,13 @@
   "type": "Personal Communication",
   "year": "1997"
  },
+ "11809": {
+  "authors": "Southwest Center for Biological Diversity",
+  "publication": "Endangered Species Petition 37",
+  "title": "Petition to list the Rio Grande cutthroat trout (Oncorhynchus clarki virginalis) as an endangered species under the US Endangered Species Act",
+  "type": "Report",
+  "year": "1998"
+ },
  "11810": {
   "authors": "E. Soto-Galera, E. Díaz-Pardo, E. López-López and J. Lyons",
   "publication": "Aquatic Ecosystem Health and Management 1(3-4): 267-276.",
@@ -3861,6 +3945,13 @@
   "publication": "",
   "title": "Intra-service section 7 consultation-proposed introduction of Colorado squawfish into the Colorado River mainstream between Headgate Rock Dam and Imperial Dam, Arizona and California, as a nonessential experimental population",
   "type": "Personal Communication",
+  "year": "1990"
+ },
+ "11830": {
+  "authors": "M. J. Spear",
+  "publication": "2-21-86-F-087:US Fish and Wildlife Service",
+  "title": "Biological opinion, Central Arizona Project, Water Exchange Project, upper Verde River, Arizona,",
+  "type": "Report",
   "year": "1990"
  },
  "11831": {
@@ -4353,6 +4444,13 @@
   "type": "Personal Communication",
   "year": "1987"
  },
+ "11911": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "US Fish and Wildlife Service,",
+  "title": "Endangered and threatened species recovery planning guidelines",
+  "type": "Report",
+  "year": "1981"
+ },
  "11913": {
   "authors": "S. Spiller",
   "publication": "",
@@ -4598,6 +4696,13 @@
   "type": "Personal Communication",
   "year": "1993"
  },
+ "11958": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "",
+  "title": "Authorization to use US Fish and Wildlife Service Endangered Species blanket Permit PRT-676811",
+  "type": "Personal Communication",
+  "year": "1993"
+ },
  "11959": {
   "authors": "S. Spiller",
   "publication": "",
@@ -4661,6 +4766,13 @@
   "type": "Report",
   "year": ""
  },
+ "11975": {
+  "authors": "D. Wilhite",
+  "publication": "Report to the Western Water Policy Review Advisory Commission",
+  "title": "Improving drought management in the West: The role of mitigation and preparedness",
+  "type": "Report",
+  "year": "1997"
+ },
  "11985": {
   "authors": "W. A. Willford",
   "publication": "Investigations in Fish Control:US Fish and Wildlife Service",
@@ -4702,6 +4814,13 @@
   "title": "The recolonization mechanisms of stream benthos",
   "type": "Journal Article",
   "year": "1976"
+ },
+ "11995": {
+  "authors": "H. J. Williams",
+  "publication": "Colorado Game and Fish Department",
+  "title": "The operation of Taylor Reservoir and its effect on Gunnison River fishing",
+  "type": "Report",
+  "year": "1950"
  },
  "11996": {
   "authors": "J. D. Williams",
@@ -5354,6 +5473,13 @@
   "type": "Personal Communication",
   "year": "1989"
  },
+ "12210": {
+  "authors": "D. D. Wigal",
+  "publication": "(pages 1-53):Arizona Game and Fish Department",
+  "title": "Environmental assessment proposed Leslie Canyon Lake planning and evaluation branch",
+  "type": "Report",
+  "year": "1972"
+ },
  "12212": {
   "authors": "E. H. Wiecking",
   "publication": "Inter-agency committee on water resources sucommittee on evaluation standards",
@@ -5582,6 +5708,13 @@
   "authors": "D. McClusky",
   "publication": "",
   "title": "Draft-Bibliography on fishes in Arizona",
+  "type": "Report",
+  "year": "1989"
+ },
+ "12265": {
+  "authors": "D. McClusky",
+  "publication": "",
+  "title": "Preliminary bibliography on fish in Arizona",
   "type": "Report",
   "year": "1989"
  },
@@ -6537,6 +6670,13 @@
   "type": "Journal Article",
   "year": "1969"
  },
+ "12556": {
+  "authors": "F. P. Kipple",
+  "publication": "Geological Survey Professional Paper:US Geological Survey",
+  "title": "The hydrologic history of the San Carlos Reservoir, Arizona,1929-71, with particular reference to evapotranspiration and sedimentation",
+  "type": "Report",
+  "year": "1977"
+ },
  "12557": {
   "authors": "J. B. Kirkwood",
   "publication": "Fisheries Bulletin 21: 1-15.",
@@ -7054,6 +7194,13 @@
   "title": "Michigan fish predators",
   "type": "Report",
   "year": "1954"
+ },
+ "12682": {
+  "authors": "C. A. Laird and L. M. Page",
+  "publication": "Illinois Natural History Survey Bulletin 35(1): 1-51.",
+  "title": "Non-native fishes inhabiting the streams and lakes of Illinois",
+  "type": "Journal Article",
+  "year": "1996"
  },
  "12685": {
   "authors": "B. Lamb and H. Meshorer",
@@ -7615,6 +7762,13 @@
   "type": "Report",
   "year": "1966"
  },
+ "12815": {
+  "authors": "Minnesota Department of Conservation",
+  "publication": "Bureau of information Minnesota Department of Conservation",
+  "title": "Minnesota fish lakes and streams",
+  "type": "Report",
+  "year": ""
+ },
  "12817": {
   "authors": "Massachusetts Division of Fisheries and Game",
   "publication": "Fisheries Report Boston:Department of conservation division of fisheries an dgame",
@@ -8098,6 +8252,13 @@
   "type": "Journal Article",
   "year": "1961"
  },
+ "12941": {
+  "authors": "G. Bingham",
+  "publication": "Report to the Western Water Policy Review Advisory Commission",
+  "title": "Seeking Solutions: Alternative dispute resolution and western water issues",
+  "type": "Report",
+  "year": "1997"
+ },
  "12944": {
   "authors": "R. O. Brinkhurst",
   "publication": "Water & Sewage Works: 1-8.",
@@ -8496,6 +8657,13 @@
   "title": "The impact of squawfish on salmonid populations: A review",
   "type": "Journal Article",
   "year": "1981"
+ },
+ "13026": {
+  "authors": "J. L. Turner and D. W. Kelly",
+  "publication": "California Fish and Game Fish Bulletin 136: 1-168.",
+  "title": "Ecological studies of the Sacramento-San Joaquin delta, Part II. Fishes of the region",
+  "type": "Journal Article",
+  "year": "1966"
  },
  "13029": {
   "authors": "R. M. Turner, L. H. Applegate, P. Bergthold, S. Gallizioli and S. C. Martin",
@@ -9169,6 +9337,13 @@
   "type": "Web Page",
   "year": "1999"
  },
+ "13209": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "Draft Environmental Assessment",
+  "title": "Designation of critical habitat for the woundfin (Plagopterus argentissimus) and Virgin River Chub (Gila Seminuda) within the Virgin River Basin",
+  "type": "Report",
+  "year": "1999"
+ },
  "13210": {
   "authors": "US Fish and Wildlife Service",
   "publication": "Recovery Implementation Program for Endangered Fish Species in the Upper Colorado River Basin:US Fish and Wildlife Service Region 6",
@@ -9393,6 +9568,13 @@
   "type": "Generic",
   "year": "1969"
  },
+ "13262": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "National survey of Fishing and Hunting 1955",
+  "title": "A report on the first nationwide economic survey of sport fishing and hunting in the United States, during the calendar year",
+  "type": "Report",
+  "year": "1955"
+ },
  "13263": {
   "authors": "US Department of Commerce",
   "publication": "Technical Paper No. 31",
@@ -9420,6 +9602,13 @@
   "title": "The Florida red tide",
   "type": "Report",
   "year": "1967"
+ },
+ "13267": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "Special Scientific Report--Fisheries No. 126 No. 126",
+  "title": "Creel census and expenditure study, Madison River, Mont., 1950-52",
+  "type": "Report",
+  "year": "1954"
  },
  "13268": {
   "authors": "US Fish and Wildlife Service",
@@ -9554,6 +9743,13 @@
   "type": "Report",
   "year": "1978"
  },
+ "13291": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "Recovery plan",
+  "title": "Colorado Squawfish, Ptychocheilus lucius",
+  "type": "Report",
+  "year": "1978"
+ },
  "13292": {
   "authors": "US Fish and Wildlife Service",
   "publication": "Draft recovery plan",
@@ -9568,11 +9764,25 @@
   "type": "Report",
   "year": "1979"
  },
+ "13294": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "Recovery plan",
+  "title": "Humpback chub, Gila cypha",
+  "type": "Report",
+  "year": "1979"
+ },
  "13295": {
   "authors": "US Fish and Wildlife Service",
   "publication": ".",
   "title": "Wanted for the future/ These native fishes of the Colorado River",
   "type": "Generic",
+  "year": "1979"
+ },
+ "13296": {
+  "authors": "US Fish and Wildlife Service",
+  "publication": "Recovery Plan",
+  "title": "Woundfin, Plagopterus argentissimus",
+  "type": "Report",
   "year": "1979"
  },
  "13297": {
@@ -9826,6 +10036,13 @@
   "title": "The construction and management of Kansas ponds",
   "type": "Journal Article",
   "year": "1954"
+ },
+ "13344": {
+  "authors": "O. W. Tiemeier",
+  "publication": "Kansas Bulletin 488: 1-64.",
+  "title": "Kansas farm ponds",
+  "type": "Journal Article",
+  "year": "1966"
  },
  "13345": {
   "authors": "O. W. Tiemeier and J. B. Elder",
@@ -10134,6 +10351,13 @@
   "title": "Minutes of meeting of fishery biologists re: Fossil Creek (Childs/Irving)",
   "type": "Personal Communication",
   "year": "2000"
+ },
+ "13439": {
+  "authors": "P. T. Tueller",
+  "publication": "",
+  "title": "Application of eros data to arid regions",
+  "type": "Report",
+  "year": "1972"
  },
  "13441": {
   "authors": "S. S. Taba, J. R. Murphy and H. H. Frost",
@@ -11394,6 +11618,13 @@
   "title": "Progress and lack of same, next meeting plans and dates, and miscellanea",
   "type": "Personal Communication",
   "year": "1986"
+ },
+ "13735": {
+  "authors": "W. L. Minckley",
+  "publication": "Final Report Puchase order YA-558-CT7-001:Arizona State University Department of Zoology,",
+  "title": "Fishes and aquatic habitats of the upper San Pedro River system, Arizona and Sonora",
+  "type": "Report",
+  "year": "1987"
  },
  "13736": {
   "authors": "W. L. Minckley",
@@ -13859,6 +14090,13 @@
   "type": "Newspaper Article",
   "year": "1995"
  },
+ "14352": {
+  "authors": "F. P. Ide",
+  "publication": "University of Toronto Studies Biological Series 50: 1-76.",
+  "title": "The effect of temperature on the distribution of the mayfly fauna of a stream",
+  "type": "Journal Article",
+  "year": "1935"
+ },
  "14355": {
   "authors": "J. Illies",
   "publication": "Int. Revue ges. Hydrobiol. 46(2): 205-213.",
@@ -14314,6 +14552,13 @@
   "type": "Journal Article",
   "year": "1949"
  },
+ "14489": {
+  "authors": "Hudson River Policy Committee",
+  "publication": "Consolidated Edison Company",
+  "title": "Hudson River Fisheries Investigation 1965-1968",
+  "type": "Report",
+  "year": "1968"
+ },
  "14490": {
   "authors": "S. Hueftle",
   "publication": "Glen Canyon Environmental Studies Transition Monitoring Program Proposal",
@@ -14475,6 +14720,13 @@
   "type": "Report",
   "year": "1987"
  },
+ "14525": {
+  "authors": "E. H. Huntington",
+  "publication": "Project Completion Report Federal Aid Project F-1-R:New Mexico Department of Game and Fish",
+  "title": "Fisheries survey of the Gila and Mimbres Rivers drainages 1952-1955",
+  "type": "Report",
+  "year": "1955"
+ },
  "14527": {
   "authors": "E. H. Huntington",
   "publication": "Job Completion Report Federal Aid Project F-13-D:New Mexico Department of Game and Fish",
@@ -14551,6 +14803,13 @@
   "title": "The cream in the gooseberry fool",
   "type": "Journal Article",
   "year": "1963"
+ },
+ "14544": {
+  "authors": "S. B. Hutchison",
+  "publication": "Research Paper:Intermountain Forest and Range Experiment Station; US Forest Service",
+  "title": "Recreation opportunities and problems in the national forests of the northern and intermountain regions as they relate to the development of a research program",
+  "type": "Report",
+  "year": "1962"
  },
  "14545": {
   "authors": "P. Hyde",
@@ -15427,6 +15686,13 @@
   "type": "Journal Article",
   "year": "1952"
  },
+ "14739": {
+  "authors": "W. Starrett and P. Barnickol",
+  "publication": "Bulletin of the Illinois Natural History Survey 26(4): 325-366.",
+  "title": "Efficiency and selectivity of commercial fishing devices used on the Mississippi River",
+  "type": "Journal Article",
+  "year": "1955"
+ },
  "14740": {
   "authors": "D. Stauffer and etal",
   "publication": "Proceedings of the Biological Society of Washington 95(1): 27-47.",
@@ -15580,6 +15846,13 @@
   "title": "Review of Childs & Irving biological report--razorback sucker, October 1998, transmittal of additional biological information on the razorback sucker by the Arizona Public Service Company and further comments",
   "type": "Personal Communication",
   "year": "1998"
+ },
+ "14768": {
+  "authors": "J. A. Stefferud and D. Pollock",
+  "publication": "US Fish and Wildlife Service",
+  "title": "Monitoring of Cottonwood artesian cienega improvement project",
+  "type": "Report",
+  "year": "1994"
  },
  "14770": {
   "authors": "S. Stefferud",
@@ -16280,6 +16553,13 @@
   "title": "Endangered, threatened, and rare plants and animals of Kentucky",
   "type": "Journal Article",
   "year": "1986"
+ },
+ "14904": {
+  "authors": "P. L. Warren and L. S. Anderson",
+  "publication": "Technical Report 20:Cooperative National Park Ressources Studies Unit, University of Arizona",
+  "title": "Vegetation recovery following livestock removal near Quitobaquito Spring, Organ Pipe Cactus National Monument",
+  "type": "Report",
+  "year": "1987"
  },
  "14905": {
   "authors": "M. J. Warren and K. R. Richards",
@@ -17912,6 +18192,13 @@
   "type": "Journal Article",
   "year": "1963"
  },
+ "15342": {
+  "authors": "R. R. Miller",
+  "publication": "",
+  "title": "Preliminary list of rare, restricted, and/or threatened North American freshwater fishes",
+  "type": "Report",
+  "year": "1963"
+ },
  "15346": {
   "authors": "R. Miller",
   "publication": "",
@@ -18304,6 +18591,13 @@
   "type": "Journal Article",
   "year": "1985"
  },
+ "15464": {
+  "authors": "G. Mueller",
+  "publication": "US Bureau of Reclamation",
+  "title": "Central Arizona Project canal system fisheries investigations 1988 progress report",
+  "type": "Report",
+  "year": "1988"
+ },
  "15466": {
   "authors": "G. Mueller",
   "publication": "US Bureau of Reclamation",
@@ -18364,6 +18658,13 @@
   "authors": "J. F. Mueller",
   "publication": "Roosevelt Wildlife Annals 3(2): 139-148.",
   "title": "Trichodina renicola (Mueller, 1931), a ciliate parasite of the urinary tract of Esox niger",
+  "type": "Journal Article",
+  "year": "1932"
+ },
+ "15478": {
+  "authors": "J. F. Mueller and H. J. Van Cleave",
+  "publication": "Roosevelt Wildlife Annals 3(2): 79-137.",
+  "title": "Part II. Descriptions of new species and some general taxonomic considerations, especially concerning the trematode family Heterophyidae",
   "type": "Journal Article",
   "year": "1932"
  },
@@ -20061,6 +20362,13 @@
   "type": "Personal Communication",
   "year": "1997"
  },
+ "15898": {
+  "authors": "H. C. Claassen",
+  "publication": "Geological Survey professional paper ; 712-F",
+  "title": "Sources and mechanisms of recharge for ground water in the west-central Amargosa Desert, Nevada — a geochemical interpretation.",
+  "type": "Report",
+  "year": "1985"
+ },
  "15900": {
   "authors": "M. D. Clady",
   "publication": "Papers of the Michigan Academy of Science, Arts, and Letters 52: 85-99.",
@@ -20368,6 +20676,13 @@
   "title": "DRAFT: Recovery plan for the endangered and threatened fishes of the Rio Yaqui",
   "type": "Report",
   "year": "1993"
+ },
+ "15978": {
+  "authors": "K. S. Cobble",
+  "publication": "US Fish and Wildlife Service",
+  "title": "Fishes of the Rio Yaqui Recovery Plan",
+  "type": "Report",
+  "year": "1995"
  },
  "15979": {
   "authors": "K. Cobble",
@@ -20845,6 +21160,13 @@
   "type": "Personal Communication",
   "year": "1988"
  },
+ "16109": {
+  "authors": "M. Cheek, D. Stone, T. Nishiyama and H. Behrisch",
+  "publication": "32723",
+  "title": "Neurological bais of salmon migration, a hypothesis",
+  "type": "Generic",
+  "year": "1984"
+ },
  "16110": {
   "authors": "R. P. Cheek",
   "publication": "US Fish and Wildlife Service Fishery Leaflet Washington DC:Bureau of Commercial Fisheries, US Fish and Wildlife Service, US Department of the Interior",
@@ -20887,6 +21209,13 @@
   "type": "Report",
   "year": "1961"
  },
+ "16131": {
+  "authors": "W. F. Childers",
+  "publication": "Illinois Natural History Survey Bulletin 29(3): 159-214.",
+  "title": "Hybridization of four species of Sunfishes (Centrarchidae)",
+  "type": "Journal Article",
+  "year": "1967"
+ },
  "16134": {
   "authors": "M. Childs and R. W. Clarkson",
   "publication": "Transactions of the American Fisheries Society 125: 940-947.",
@@ -20921,6 +21250,13 @@
   "title": "Comprehensive land use and policy plan",
   "type": "Personal Communication",
   "year": "1992"
+ },
+ "16146": {
+  "authors": "L. M. Christenson and L. L. Smith",
+  "publication": "212:US Department of the Interior",
+  "title": "Characteristics of fish populations in Upper Mississippi River backwater areas",
+  "type": "Report",
+  "year": "1965"
  },
  "16148": {
   "authors": "k. Christensen",
@@ -21152,6 +21488,13 @@
   "title": "A study of the tooth patch on the spotted black bass (Micropterus punctulatus)",
   "type": "Report",
   "year": "1959"
+ },
+ "16202": {
+  "authors": "D. Losse",
+  "publication": "",
+  "title": "Faculty mentoring award committee meeting",
+  "type": "Personal Communication",
+  "year": "1996"
  },
  "16204": {
   "authors": "O. Loucks",
@@ -21391,6 +21734,13 @@
   "type": "Report",
   "year": "1967"
  },
+ "16292": {
+  "authors": "G. L. Lytle",
+  "publication": "",
+  "title": "Cyprinid fishes of the subgenus cyprinella of notropis from southeast Texas, USA and northeast Mexico",
+  "type": "Report",
+  "year": "1972"
+ },
  "16296": {
   "authors": "D. Fackler",
   "publication": "",
@@ -21593,6 +21943,13 @@
   "title": "Leaf-print analyses: an ecologically friendly methodology for plant identification.",
   "type": "Journal Article",
   "year": "1997"
+ },
+ "16363": {
+  "authors": "J. H. Feth and J. D. Hem",
+  "publication": "Geological Survey Water-Supply Paper",
+  "title": "Reconaissance of headwater springs in the Gila River Drainage Basin, Arizona",
+  "type": "Report",
+  "year": "1963"
  },
  "16366": {
   "authors": "M. L. Fidalgo",
@@ -22147,6 +22504,13 @@
   "type": "Personal Communication",
   "year": "1999"
  },
+ "16518": {
+  "authors": "P. H. Mitchell, N. A. Borodin, R. L. Barney and E. Linton",
+  "publication": "Hartford:State Board of Fisheries and Game of Connecticut",
+  "title": "A report of investigations concerning shad in the rivers of Connecticut",
+  "type": "Report",
+  "year": "1925"
+ },
  "16520": {
   "authors": "US Fish and Wildlife Service",
   "publication": "Federal Register 59(125): 33724-33725.",
@@ -22385,6 +22749,13 @@
   "type": "Journal Article",
   "year": "1957"
  },
+ "16587": {
+  "authors": "B. H. Heede",
+  "publication": "Station Paper:US Department of Agriculture",
+  "title": "A study of early gully-control structures in the Colorado Front Range",
+  "type": "Report",
+  "year": "1960"
+ },
  "16588": {
   "authors": "B. H. Heede",
   "publication": "Hydrology and Water Resources in Arizona and the Southwest, Proceedings of the 1975 Meetings of the Arizona Section, American Water Resources Association and the Hydrology Section, Arizona Academy of Science 5: 43-46.",
@@ -22412,6 +22783,13 @@
   "title": "Equilibrium condition and sediment transport in an ephemeral mountain stream",
   "type": "Journal Article",
   "year": "1976"
+ },
+ "16592": {
+  "authors": "B. H. Heede",
+  "publication": "General Technical Report RM-72:US Department of Agriculture",
+  "title": "Stream dynamics: an overview for land managers",
+  "type": "Report",
+  "year": "1980"
  },
  "16595": {
   "authors": "R. Hess",
@@ -23568,6 +23946,13 @@
   "type": "Journal Article",
   "year": "1961"
  },
+ "16947": {
+  "authors": "W. Geiling",
+  "publication": "",
+  "title": "The digestive system in fishes",
+  "type": "Report",
+  "year": ""
+ },
  "16948": {
   "authors": "W. T. Geiling",
   "publication": "",
@@ -23644,6 +24029,13 @@
   "title": "The odonata of Cape Cod, Massachusetts",
   "type": "Journal Article",
   "year": "1954"
+ },
+ "16985": {
+  "authors": "Gila Trout Recovery Team",
+  "publication": "",
+  "title": "Recovery plan for Gila trout, Salmo gilae Miller 1950",
+  "type": "Report",
+  "year": "1978"
  },
  "16990": {
   "authors": "C. R. Gilbert",
@@ -24156,6 +24548,13 @@
   "type": "Magazine Article",
   "year": "1957"
  },
+ "17122": {
+  "authors": "M. E. Coleman, C. Buchanan and H. Burge",
+  "publication": "USFWS",
+  "title": "Spawning runs from Pyramid Lake in 1986 and studies of Cui-ui life history",
+  "type": "Report",
+  "year": "1987"
+ },
  "17123": {
   "authors": "S. Coleman and W. Minckley",
   "publication": ".",
@@ -24328,6 +24727,13 @@
   "authors": "C. F. R. Team",
   "publication": "",
   "title": "Colorado squawfish revised recovery plan",
+  "type": "Report",
+  "year": "1978"
+ },
+ "17171": {
+  "authors": "c. R. F. R. Team",
+  "publication": "",
+  "title": "Technical review draft: Colorado squawfish (Ptychocheilus lucius)",
   "type": "Report",
   "year": "1978"
  },
@@ -24604,6 +25010,13 @@
   "type": "Journal Article",
   "year": "1947"
  },
+ "17232": {
+  "authors": "R. M. Bailey",
+  "publication": "Iowa Fish and Fishing Des Moines, Iowa:Iowa State Conservation Commission",
+  "title": "A check list of the fishes of Iowa with keys for identification",
+  "type": "Report",
+  "year": "1951"
+ },
  "17233": {
   "authors": "R. M. Bailey",
   "publication": "American Fisheries Society 19(1951): 324-326.",
@@ -24687,6 +25100,13 @@
   "title": "Gila topminnow introduction Tonto National Forest--Biological Opinion",
   "type": "Report",
   "year": "1990"
+ },
+ "17280": {
+  "authors": "L. Baker, J. J. Elser and W. L. Minckley",
+  "publication": "",
+  "title": "Proposal to the National Science Foundation",
+  "type": "Report",
+  "year": "1995"
  },
  "17284": {
   "authors": "J. Baker and L. Paulson",
@@ -25122,6 +25542,13 @@
   "type": "Report",
   "year": "1977"
  },
+ "17437": {
+  "authors": "E. J. Carpenter and W. S. Bransford",
+  "publication": "Advance Sheets--Field Operations of the Bureau of Soils, 1921:US Department of Agriculture Bureau of Soils",
+  "title": "Soil survey of the San Simon area Arizona",
+  "type": "Report",
+  "year": "1924"
+ },
  "17438": {
   "authors": "J. Carpenter and E. Maughan",
   "publication": "Arizona Cooperative Fish and Wildlife Research Unit.",
@@ -25409,6 +25836,13 @@
   "type": "Journal Article",
   "year": "1874"
  },
+ "17580": {
+  "authors": "E. D. Cope",
+  "publication": "No.17 ed. Washington, D. C.: The Smithsonian Institution.",
+  "title": "Zoological Position of Texas",
+  "type": "Book",
+  "year": "1880"
+ },
  "17581": {
   "authors": "E. D. Cope",
   "publication": "Proceedings of the Academy of Natural Sciences of Philadelphia 35: 134-167.",
@@ -25598,6 +26032,13 @@
   "type": "Report",
   "year": "1963"
  },
+ "17634": {
+  "authors": "N. A. Binns",
+  "publication": "Green River and Flaming Gorge Reservoir post impoundment investigations",
+  "title": "Fishery survey of Fontenelle Reservoir and the Green River Downstream to Flaming Gorge Reservoir",
+  "type": "Report",
+  "year": "1967"
+ },
  "17636": {
   "authors": "Biodiversity",
   "publication": "Biota Team Assessment:Arizona Game and Fish Department",
@@ -25716,6 +26157,20 @@
   "title": "Changing fish populations as an index to pollution and soil erosion",
   "type": "Journal Article",
   "year": "1949"
+ },
+ "17687": {
+  "authors": "H. B. Blasius",
+  "publication": "Arizona State University",
+  "title": "Biogeography of freshwater fishes of Northwestern Mexico",
+  "type": "Report",
+  "year": "1996"
+ },
+ "17688": {
+  "authors": "H. B. Blasius",
+  "publication": "",
+  "title": "Aravaipa Creek sampling/monitoring",
+  "type": "Personal Communication",
+  "year": "1998"
  },
  "17689": {
   "authors": "H. B. Blasius",
@@ -26396,6 +26851,13 @@
   "type": "Report",
   "year": "1991"
  },
+ "17933": {
+  "authors": "A. J. Kemmerer",
+  "publication": "F-14-R-1:Arizona Game and Fish Department",
+  "title": "Fisheries research in Arizona",
+  "type": "Report",
+  "year": "1967"
+ },
  "17935": {
   "authors": "R. J. J. Kemp and C. Hubbs",
   "publication": "The Texas Journal of Science 6(1): 113-114.",
@@ -26899,6 +27361,13 @@
   "title": "The feeding ecology of Gerreidae (Teleostei) in the Kosi system, with special reference to their seasonal diet",
   "type": "Journal Article",
   "year": "1984"
+ },
+ "18130": {
+  "authors": "Grand Canyon Monitoring and Research Center",
+  "publication": "In: Proceedings of the Colorado River Ecosystem Science Symposium, 16-17 February 1999 1999.",
+  "title": "Glen Canyon Dam adaptive management program",
+  "type": "Conference Paper",
+  "year": "1999"
  },
  "18133": {
   "authors": "R. J. Behnke",
@@ -27516,6 +27985,13 @@
   "type": "Personal Communication",
   "year": "1992"
  },
+ "18289": {
+  "authors": "Anonymous",
+  "publication": "Station Biologique de la Tour du Valat",
+  "title": "Strategy and programme planning 1992-1996",
+  "type": "Report",
+  "year": ""
+ },
  "18291": {
   "authors": "Anonymous",
   "publication": "",
@@ -27740,6 +28216,13 @@
   "type": "Generic",
   "year": "1995"
  },
+ "18328": {
+  "authors": "Anonymous",
+  "publication": "Project Proposal",
+  "title": "West Turkey Creek Watershed Restoration and Enhancement",
+  "type": "Report",
+  "year": "1995"
+ },
  "18330": {
   "authors": "Anonymous",
   "publication": "America Outdoors Newsletter Summer '96: 4.",
@@ -27822,6 +28305,13 @@
   "publication": "In: Proceedings of the Lower Colorado River multi-species conservation program, 15 February 1997 1997. Las Vegas, Nevada. Place.",
   "title": "Request for proposals--presubmittal workshop",
   "type": "Conference Proceedings",
+  "year": "1997"
+ },
+ "18343": {
+  "authors": "Anonymous",
+  "publication": "Lower Colorado River multi-species conservation \\plan",
+  "title": "Request for proposals RFP-1: program facilitation services, RFP-2: conservation plan development services",
+  "type": "Report",
   "year": "1997"
  },
  "18344": {
@@ -28846,6 +29336,13 @@
   "type": "Personal Communication",
   "year": "1991"
  },
+ "18596": {
+  "authors": "E. P. Pister",
+  "publication": "1992 Annual Symposium:Desert Fishes Council",
+  "title": "Program with abstracts",
+  "type": "Report",
+  "year": "1992"
+ },
  "18597": {
   "authors": "E. P. Pister and e. al",
   "publication": "U. S. D. o. Agriculture and U. S. B. o. L. Management: FS No. 92-SMU-015.",
@@ -29021,6 +29518,13 @@
   "type": "Personal Communication",
   "year": "1995"
  },
+ "18649": {
+  "authors": "E. N. Poulson and F. O. Youngs",
+  "publication": "Series 1933, No. 15:USDA Bureau of Chemistry and Soils in cooperation with the University of Arizona",
+  "title": "Soil survey of the Upper Gila Valley Area, Arizona",
+  "type": "Report",
+  "year": "1938"
+ },
  "18653": {
   "authors": "T. G. Powell",
   "publication": "Special Report:Colorado Division of Wildlife Fisheries Research Section",
@@ -29125,6 +29629,13 @@
   "title": "Completion report, Yampa-white physical habitat study",
   "type": "Report",
   "year": "1982"
+ },
+ "18680": {
+  "authors": "J. W. Price",
+  "publication": "The Franz Theodore Stone Laboratory:The Ohio State University",
+  "title": "Growth and gill development in the small-mouthed black bass, Micropterus dolomieu, Lacepede",
+  "type": "Report",
+  "year": "1931"
  },
  "18682": {
   "authors": "T. Pringle",
@@ -29231,6 +29742,13 @@
   "type": "Personal Communication",
   "year": "1990"
  },
+ "18715": {
+  "authors": "T. H. Provan",
+  "publication": "",
+  "title": "Comments summary on rainbow smelt into Lake Powell proposal",
+  "type": "Personal Communication",
+  "year": "1991"
+ },
  "18716": {
   "authors": "T. H. Provan",
   "publication": "Limited introductions of hybrid striped bass and tiger musky into Mill Meadow Reservoir and Forsyth Reservoir, Utah",
@@ -29291,6 +29809,13 @@
   "authors": "D. Flores",
   "publication": "",
   "title": "The environmental history of De Vaca's wonderous journey",
+  "type": "Report",
+  "year": ""
+ },
+ "18742": {
+  "authors": "S. Flowers",
+  "publication": "University of Utah",
+  "title": "The fishes of Utah",
   "type": "Report",
   "year": ""
  },
@@ -29511,6 +30036,13 @@
   "type": "Journal Article",
   "year": "1995"
  },
+ "18795": {
+  "authors": "Anonymous",
+  "publication": "National Fish and Wildlife Foundation",
+  "title": "Report of the National Fish Hatchery Review Panel",
+  "type": "Report",
+  "year": "1994"
+ },
  "18797": {
   "authors": "M. Fowden",
   "publication": ".",
@@ -29643,6 +30175,13 @@
   "title": "Extension of the range of Corbicula fluminea within the Ohio Drainage",
   "type": "Journal Article",
   "year": "1962"
+ },
+ "18837": {
+  "authors": "D. G. Frey",
+  "publication": "Investigations into Indiana Lakes and Streams 4(7): 177-228.",
+  "title": "Distributional ecology of the Cisco (Coregonus artedii) in Indiana",
+  "type": "Journal Article",
+  "year": "1955"
  },
  "18840": {
   "authors": "R. Friedman",
@@ -30099,6 +30638,13 @@
   "type": "Personal Communication",
   "year": "1992"
  },
+ "18988": {
+  "authors": "J. R. Simms",
+  "publication": "",
+  "title": "Annual report to US Fish and Wildlife Service endangered species permit/subpermit",
+  "type": "Report",
+  "year": "1993"
+ },
  "18989": {
   "authors": "J. R. Simms",
   "publication": "",
@@ -30147,6 +30693,13 @@
   "title": "Water quality requirements for Elmid beetles with larval and adult keys to the eastern genera",
   "type": "Report",
   "year": "1964"
+ },
+ "19004": {
+  "authors": "J. A. Sinn",
+  "publication": "Studies on the Ecology of the Brook Trout in the Rocky Mountain Region University of Wyoming Wyoming Game and Fish Commission",
+  "title": "A study of the brook trout in Libby Lake, Medicine Bow National Forest, in southeastern Wyoming",
+  "type": "Report",
+  "year": "1961"
  },
  "19005": {
   "authors": "M. E. Sisk",
@@ -32647,6 +33200,13 @@
   "type": "Personal Communication",
   "year": "1992"
  },
+ "19666": {
+  "authors": "D. A. Weedman and K. L. Young",
+  "publication": "Technical Report Phoenix, Arizona:Nongame and endangered wildlife program",
+  "title": "Gila topminnow extirpation sites in Arizona: 1994-95 field season results",
+  "type": "Report",
+  "year": "1995"
+ },
  "19667": {
   "authors": "D. A. Weedman, A. L. Girmendonk and K. L. Young",
   "publication": "Technical Report 91.",
@@ -33410,6 +33970,13 @@
   "type": "Report",
   "year": "1938"
  },
+ "19836": {
+  "authors": "R. N. Jones, O. E. Maughan, H. W. Robison and R. J. Miller",
+  "publication": "Endangered Species Report:U.S. Fish and Wildlife Service",
+  "title": "The leopard darter, Percina pantherina: status of populations in Glover Creek, McCurtain County, Oklahoma and Cossatot River, Arkansas",
+  "type": "Report",
+  "year": "1983"
+ },
  "19837": {
   "authors": "T. Jones and D. B. Thompson",
   "publication": ".",
@@ -33515,6 +34082,13 @@
   "type": "Journal Article",
   "year": "1906"
  },
+ "19858": {
+  "authors": "H. E. Jordan and C. C. Speidel",
+  "publication": "Journal of Morphology and Physiology 51(2): 319-371.",
+  "title": "Blood formation in the african lungfish, under normal conditions and under conditions of prolonged estivation and recovery",
+  "type": "Journal Article",
+  "year": "1931"
+ },
  "19859": {
   "authors": "D. Jordan and R. Lloyd",
   "publication": "International Journal of Air and Water Pollution 8: 405-409.",
@@ -33556,6 +34130,13 @@
   "title": "A checklist of Texas fresh-water fishes",
   "type": "Report",
   "year": "1953"
+ },
+ "19872": {
+  "authors": "P. Holden and P. Abate",
+  "publication": "BIO/WEST, Inc.",
+  "title": "Fisheries survey of the lower Virgin River, Beaver Dam Wash, Arizona to Lake Mead, Nevada",
+  "type": "Report",
+  "year": "1999"
  },
  "19875": {
   "authors": "J. Holsinger",
@@ -34053,6 +34634,13 @@
   "title": "Establishing a Colorado River Conservation fund in connection with reauthorization of the CRSP",
   "type": "Personal Communication",
   "year": "1989"
+ },
+ "20112": {
+  "authors": "K. Mello and P. R. Turner",
+  "publication": "Endangered Fish Species Report:US Fish and Wildlife Service",
+  "title": "Population status and distribution of Gila trout in New Mexico",
+  "type": "Report",
+  "year": "1980"
  },
  "20119": {
   "authors": "F. S. Mobarak",
@@ -34684,6 +35272,13 @@
   "type": "Journal Article",
   "year": "1966"
  },
+ "20303": {
+  "authors": "L. D. Lewis and W. W. Dalquest",
+  "publication": "IF Report Series:Texas Game and Fish Commission",
+  "title": "A fisheries survey of the Big Wichita River System and its impoundments",
+  "type": "Report",
+  "year": "1957"
+ },
  "20304": {
   "authors": "M. Lewis",
   "publication": "",
@@ -34817,6 +35412,13 @@
   "type": "Report",
   "year": "1961"
  },
+ "20348": {
+  "authors": "J. B. Lippincott",
+  "publication": "United States Geological Survey",
+  "title": "Storage of water on Gila River, Arizona",
+  "type": "Report",
+  "year": "1900"
+ },
  "20349": {
   "authors": "B. Lippman",
   "publication": ".",
@@ -34880,6 +35482,13 @@
   "type": "Report",
   "year": "1995"
  },
+ "20369": {
+  "authors": "Hest and Tafiri",
+  "publication": "Current Research on Nile Perch:Zoologisch Laboratorium, University of Leiden",
+  "title": "The increase of the Nile perch in Lake Victoria: summary of the status of the Nile Perch Fishery",
+  "type": "Report",
+  "year": "1989"
+ },
  "20370": {
   "authors": "F. E. Hester",
   "publication": "Southeastern Association of Game and Fish commissioners Thirteenth Annual Conference: 325-331.",
@@ -34921,6 +35530,13 @@
   "title": "The faunal archaeology of the Tubac Presidio",
   "type": "Report",
   "year": "1975"
+ },
+ "20382": {
+  "authors": "A. R. Hibbert",
+  "publication": "General Technical Report",
+  "title": "Managing vegetation to increase flow in the Colorado River Basin",
+  "type": "Report",
+  "year": "1979"
  },
  "20385": {
   "authors": "T. J. Hickman",
@@ -35076,6 +35692,13 @@
   "type": "Manuscript",
   "year": ""
  },
+ "20447": {
+  "authors": "D. Hogan and P. Galvin",
+  "publication": "Greater Gila Biodiversity Project Endangered Species Series",
+  "title": "Petitions to reclassify the loachminnow (Tiaroga cobitis) and spikedace (Meda fulgida) from threatened to endangered",
+  "type": "Report",
+  "year": "1993"
+ },
  "20449": {
   "authors": "D. Hogan",
   "publication": "",
@@ -35110,6 +35733,13 @@
   "title": "Saving the squawfish",
   "type": "Newspaper Article",
   "year": "1989"
+ },
+ "20456": {
+  "authors": "P. Holden",
+  "publication": ". Logan, Utah: Utah State University.",
+  "title": "Distribution, abundance and life history of the fishes of the upper Colorado River Basin",
+  "type": "Thesis",
+  "year": "1973"
  },
  "20458": {
   "authors": "P. Holden",
@@ -35159,6 +35789,13 @@
   "title": "A case of albinism in the tadpole madtom, Noturus gyrinus",
   "type": "Journal Article",
   "year": "1972"
+ },
+ "20474": {
+  "authors": "K. Holley and K. Weston",
+  "publication": "Flooded Bottomland Habitat Restoration Program:Bureau of Reclamation",
+  "title": "Site screening results for seven sites along the Colorado and Gunnison Rivers, Colorado",
+  "type": "Report",
+  "year": "1994"
  },
  "20478": {
   "authors": "E. H. Hollis",
@@ -35433,6 +36070,13 @@
   "type": "Report",
   "year": "1994"
  },
+ "20566": {
+  "authors": "J. Schmidtt",
+  "publication": "In: Proceedings of the The Ecology and Conservation of the Willow Flycatcher, 2000. Place.",
+  "title": "Conference program and abstracts",
+  "type": "Conference Proceedings",
+  "year": "2000"
+ },
  "20567": {
   "authors": "M. Schmidt",
   "publication": ".",
@@ -35488,6 +36132,13 @@
   "title": "Seasonal changes in harvest and fishing effort on a section of the Des Moines River, Iowa",
   "type": "Conference Paper",
   "year": "1958"
+ },
+ "20583": {
+  "authors": "A. A. Schoenherr",
+  "publication": "Desert Ecology 1986: A research symposium:Southern California Academy of Sciences Southern California Desert Studies Consortium",
+  "title": "A review of the life history and status of the desert pupfish Cyprinodon macularius",
+  "type": "Report",
+  "year": "1986"
  },
  "20586": {
   "authors": "R. Schoettger and A. Julin",
@@ -35993,6 +36644,13 @@
   "type": "Journal Article",
   "year": "1972"
  },
+ "20751": {
+  "authors": "W. R. Heard",
+  "publication": ". Stillwater, OK: Oklahoma State University.",
+  "title": "Studies in the genus Ictiobus (Buffalofishes)",
+  "type": "Thesis",
+  "year": "1958"
+ },
  "20752": {
   "authors": "J. Hebert",
   "publication": "",
@@ -36413,6 +37071,13 @@
   "type": "Report",
   "year": "1955"
  },
+ "20874": {
+  "authors": "J. W. Yahnke",
+  "publication": "Technical Report:U.S.D.I. Bureau of Reclamation",
+  "title": "Water quality of the proposed Norden Reservoir, Nebraska, and its implications for fishery management",
+  "type": "Report",
+  "year": "1981"
+ },
  "20875": {
   "authors": "A. Yair",
   "publication": "In: Proceedings of the Proceedings of the 5th Guelph Symposium on Geomorphology, 1978. Norwich, UK, (R. Davidson-Arnott and W. Nickling eds). Place Published: Geo Abstracts Ltd., 209-131.",
@@ -36574,6 +37239,13 @@
   "type": "Generic",
   "year": "1994"
  },
+ "20912": {
+  "authors": "S. Young",
+  "publication": ".",
+  "title": "The ecosystem approach: healthy ecosystems and sustainable economies volume I overview report of the interagency ecosystem management task force June 1995",
+  "type": "Manuscript",
+  "year": "1995"
+ },
  "20921": {
   "authors": "G. M. Yuncevich",
   "publication": "",
@@ -36637,6 +37309,13 @@
   "type": "Report",
   "year": "1952"
  },
+ "20970": {
+  "authors": "G. E. Hall and R. Jenkins",
+  "publication": "Oklahoma Fisheries Research Laboratory Report",
+  "title": "Continued fisheries investigations of Tenkiller Reservoir, Oklahoma, during its first year of impoundment, 1953",
+  "type": "Report",
+  "year": "1953"
+ },
  "20977": {
   "authors": "E. M. Hallenbeck",
   "publication": "",
@@ -36678,6 +37357,13 @@
   "title": "Ground-water resources of the Duncan Basin, Arizona",
   "type": "Report",
   "year": "1946"
+ },
+ "20985": {
+  "authors": "L. C. Halpenny, R. L. Cushman and J. D. Hem",
+  "publication": "United States Department of the Interior Geology Survey:U.S.D.I.",
+  "title": "Ground-water resources and problems of the Cactus Flat-Artesia area, San Simon Basin, Arizona",
+  "type": "Report",
+  "year": "1947"
  },
  "20990": {
   "authors": "J. Hamill",
@@ -36957,6 +37643,13 @@
   "publication": "",
   "title": "Colorado River recovery implementation committee meeting",
   "type": "Personal Communication",
+  "year": "1990"
+ },
+ "21031": {
+  "authors": "J. Hamill",
+  "publication": "",
+  "title": "July 11, 1990, management group meeting summary",
+  "type": "Report",
   "year": "1990"
  },
  "21033": {

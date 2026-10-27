@@ -490,6 +490,30 @@ Jackson Lake (JL) is one of the four predator-treatment sites in the study, with
 ### Mentioned In
 - [[StationProfileOfTheFortMorganF_1993_12_30]]
 
+## Jackson Turbidimeter
+
+### Summary
+An instrument for measuring water turbidity, or cloudiness caused by suspended particles. The 1950 study used it in September to measure turbidity along the Gunnison River.
+
+### Context
+> This 1950 fisheries report, published by the [[Colorado Game and Fish Department]] (Fisheries Management Division) and written by Harvey J. Williams, examines whether the operation of [[Taylor Dam]] affected trout fishing on the [[Gunnison River]] between Gunnison and Sapinero. The study ran from...
+> -- *[[TheOperationOfTaylorReservoirA_11995]]*
+
+### Mentioned In
+- [[TheOperationOfTaylorReservoirA_11995]]
+
+## Jacob Boll
+
+### Summary
+A correspondent whose field collections and local reports helped form the basis of Cope's study of Texas fauna. The source credits him as one of the sources for the work, notably in connection with the newly described Texas fishes such as Amiurus bolli.
+
+### Context
+> This 1880 monograph by [[Edward D. Cope]] examines where Texas belongs in the zoogeographic scheme of North and Central America. Cope argues that the state's vertebrate fauna, including mammals, birds, reptiles, amphibians and fishes, places it within the [[Nearctic Realm]]. The fauna is a mixture...
+> -- *[[ZoologicalPositionOfTexas_17580]]*
+
+### Mentioned In
+- [[ZoologicalPositionOfTexas_17580]]
+
 ## Jacob Corwin Blumer
 
 ### Summary
@@ -697,6 +721,18 @@ The James Bay Hydroelectric Project is a major hydroelectric development in Queb
 
 ### Mentioned In
 - [[TheNationsTenMostEndangeredRiv_17976]]
+
+## James Brooks
+
+### Summary
+James Brooks is named in the report as one of the monitors whose surveys of the topminnow sites are considered thorough unless otherwise noted. His monitoring is used as a basis for the report's population-status assessments.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) technical report evaluates [[Gila Topminnow]] reintroduction sites in Arizona during the 1994-95 field season. Many reintroduced populations have failed, yet sites that are not formally declared "extirpated" still trigger [[Section 7 Consultation]]...
+> -- *[[GilaTopminnowExtirpationSitesI_19666]]*
+
+### Mentioned In
+- [[GilaTopminnowExtirpationSitesI_19666]]
 
 ## James Deacon
 <!-- fm: auto_enriched: true -->
@@ -1395,9 +1431,13 @@ A Pacific Institute staff member who wrote the article on the Mexicali binationa
 > This June 1971 resource report assesses wildlife habitat conditions in the proposed [[Gila River]]-[[San Francisco River]] study area in Arizona. The perennial river flow creates critical riparian and aquatic communities in an otherwise arid landscape, supporting diverse wildlife including 68 bird...
 > -- *[[GilasanFranciscoRiversResource_18256]]*
 
+> This U.S. Fish and Wildlife Service report, prepared under the [[Fish and Wildlife Coordination Act]] for the [[Bureau of Reclamation]], assesses 100-year fish and wildlife impacts of four new or modified alternatives for the [[Upper Gila Water Supply Study]] in Grant County, New Mexico. The study...
+> -- *[[FinalFishAndWildlifeCoordinati_11614]]*
+
 ### Mentioned In
 - [[FindingOfNoSignificantImpactAr_11493]]
 - [[GilasanFranciscoRiversResource_18256]]
+- [[FinalFishAndWildlifeCoordinati_11614]]
 
 ## Jaw Tag
 
@@ -1599,8 +1639,12 @@ Jemez Canyon Dam is a water storage facility in the Rio Grande basin with a capa
 > This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
 > -- *[[DraftEnvironmentalAssessmentDe_13207]]*
 
+> This biennial State pamphlet, issued by the [[Albuquerque District]] of the [[U.S. Army Corps of Engineers]] and dated 14 January 1980, describes the Corps' water resources development program in New Mexico. It supersedes the January 1977 issue. The program covers flood control, sedimentation...
+> -- *[[WaterResourcesDevelopmentInNew_11452]]*
+
 ### Mentioned In
 - [[DraftEnvironmentalAssessmentDe_13207]]
+- [[WaterResourcesDevelopmentInNew_11452]]
 
 ## Jemez River
 
@@ -1793,6 +1837,18 @@ Jerome State Historic Park is a protected historic site located within the Verde
 
 ### Mentioned In
 - [[VerdeValleyReportsAndSurveysFr_12879]]
+
+## Jerry L. Turner
+
+### Summary
+Jerry L. Turner is one of the compilers of Fish Bulletin 136, published by the California Department of Fish and Game in 1966, along with D. W. Kelly (the executive summary spells it Kelley). The bulletin reports on the fishes of the Sacramento-San Joaquin Delta, sampled monthly from September 1963 to August 1964.
+
+### Context
+> Fish Bulletin 136 (California Department of Fish and Game, 1966), compiled by [[Jerry L. Turner]] and D. W. Kelley, is the second volume of the [[Delta Fish and Wildlife Protection Study]]. It reports twelve papers on the distribution, relative abundance, food and spawning habits of fishes in the...
+> -- *[[EcologicalStudiesOfTheSacramen_13026]]*
+
+### Mentioned In
+- [[EcologicalStudiesOfTheSacramen_13026]]
 
 ## Jerry Landye
 <!-- fm: auto_enriched: true -->
@@ -2410,12 +2466,16 @@ John Hamill was involved in recovery planning for endangered Colorado River fish
 > This Fall 1996 newsletter from the [[Recovery Program]] for Endangered Fishes of the Upper Colorado River Basin reports on efforts to recover four endangered fishes: [[Colorado Squawfish]], [[Razorback Sucker]], [[Humpback Chub]], and [[Bonytail]]. The lead story covers the $1 million [[Redlands...
 > -- *[[RecoveryProgramFromTheEndanger_18333]]*
 
+> This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
+> -- *[[JulyManagementGroupMeetingSumm_21031]]*
+
 ### Mentioned In
 - [[TripReportForUpperColoradoRive_12974]]
 - [[ColoradoRiverRecoveryImplement_17881]]
 - [[ColoradoSquawfishRecoveryPlan_20997]]
 - [[RecoveryProgramForTheEndangere_11682]]
 - [[RecoveryProgramFromTheEndanger_18333]]
+- [[JulyManagementGroupMeetingSumm_21031]]
 
 ## John Hunter
 
@@ -2912,6 +2972,18 @@ Johnson and Minckley 1972 is referenced in this study but the specific findings 
 ### Mentioned In
 - [[VerticalDistributionOfFishesRe_18202]]
 
+## Johnson Boy's Slough
+
+### Summary
+A Gunnison River oxbow near Delta, Colorado (RM 53.6–54.2), with marsh and riparian habitat fed by irrigation return flows. The report summarizes earlier selenium values from the nearby Gunnison River and Escalante area, with no on-site contaminant sampling done.
+
+### Context
+> This November 1994 report from the [[Bureau of Reclamation]] Grand Junction Projects Office presents Level I contaminant screening results for seven of 30 inventory sites in the [[Flooded Bottomland Habitat Restoration Program]] along the [[Colorado River]] and [[Gunnison River]]. Another group of...
+> -- *[[SiteScreeningResultsForSevenSi_20474]]*
+
+### Mentioned In
+- [[SiteScreeningResultsForSevenSi_20474]]
+
 ## Johnson Creek
 
 ### Summary
@@ -3041,6 +3113,18 @@ Johnstown Hatchery is one of six New York State fish hatchery facilities that pa
 
 ### Mentioned In
 - [[PelletedDryFoodAsATotalDietFor_20344]]
+
+## Joint Fact-Finding
+
+### Summary
+Joint fact-finding is a process in which parties with differing views jointly gather and assess technical information. The report lists it as an ADR variant and recommends Congress fund joint fact-finding in environmental statute reauthorizations, given scientific uncertainty in water disputes.
+
+### Context
+> This report, prepared by [[Gail Bingham]] of RESOLVE, Inc. for the Western Water Policy Review Advisory Commission (October 1997), assesses how [[Alternative Dispute Resolution]] (ADR) has been applied to water resources conflicts in the western United States. It defines ADR as procedures that...
+> -- *[[SeekingSolutionsAlternativeDis_12941]]*
+
+### Mentioned In
+- [[SeekingSolutionsAlternativeDis_12941]]
 
 ## Joint Global Ocean Flux Study
 <!-- fm: auto_enriched: true -->
@@ -3292,8 +3376,12 @@ David Starr Jordan was one of the two authors of this 1906 taxonomic review of J
 > This 1906 taxonomic review by [[Jordan]] and [[Snyder]] documents two species of killifishes (family [[Poeciliidae]]) from Japan: [[Fundulichthys virescens]] and [[Oryzias latipes]]. Both are small fishes inhabiting rice swamps, pools, and ditches in southern Japan, likely feeding on mosquitoes....
 > -- *[[AReviewOfThePoeciliidaeOrKillf_19855]]*
 
+> David G. Frey (Indiana University, published in *Investigations of Indiana Lakes and Streams*, Vol. IV, No. 7, October 1955) examines why the [[Cisco]] (*Coregonus artedii*) persists in some northern Indiana lakes and has disappeared from others. The cisco is documented in 41 lakes of northern...
+> -- *[[DistributionalEcologyOfTheCisc_18837]]*
+
 ### Mentioned In
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
+- [[DistributionalEcologyOfTheCisc_18837]]
 
 ## Jordan 1878
 <!-- fm: auto_enriched: true -->
@@ -3595,6 +3683,18 @@ The Jornada del Muerto is a geographic region in south-central New Mexico throug
 ### Mentioned In
 - [[MeetingOnLowerColoradoRiverCol_1994_11_02]]
 
+## Joseph Barlow Lippincott
+
+### Summary
+Joseph Barlow Lippincott was a U.S. Geological Survey hydrographer and co-author of this 1900 water-supply paper, which was verified by James D. Schuyler. The paper assesses how to store Gila River water to restore irrigation for the Gila River Indian Reservation. He is credited with the storage and cost analysis presented in the source.
+
+### Context
+> This 1900 U.S. Geological Survey Water-Supply Paper, written by [[Joseph Barlow Lippincott]] and verified by James D. Schuyler, assesses how to store Gila River water to restore irrigation supply to the [[Gila River Indian Reservation]]. The authors judged that at least 40,000 acre-feet must be...
+> -- *[[StorageOfWaterOnGilaRiverArizo_20348]]*
+
+### Mentioned In
+- [[StorageOfWaterOnGilaRiverArizo_20348]]
+
 ## Joseph Et Al. 1977
 <!-- fm: auto_enriched: true -->
 
@@ -3704,6 +3804,18 @@ A spring in Calhoun County (Station 6), about 24 miles from Blue Eye Spring, whe
 - [[RecentGilaTopminnowRecordsFrom_11903]]
 - [[IntraofficeMemoFishSurveys_13821]]
 - [[GilaTopminnowSitesInArizonaPro_19671]]
+
+## Joshua Tree
+
+### Summary
+The Joshua tree is a large, branching desert plant of the Mojave region, often called a yucca tree. This source notes that the Plan covers notable Joshua tree stands, including those in Pipes Canyon, and lists Joshua tree communities among the Desert habitats the Plan addresses.
+
+### Context
+> This Bureau of Land Management (BLM) booklet summarizes the California Desert Conservation Area (CDCA) Plan, the long-range land-management plan required by Section 601 of the [[Federal Land Policy and Management Act]] (FLPMA) of 1976. The Plan covers a 25-million-acre CDCA, of which the BLM...
+> -- *[[TheCaliforniaDesertConservatio_11541]]*
+
+### Mentioned In
+- [[TheCaliforniaDesertConservatio_11541]]
 
 ## Josiah Austin
 
@@ -4107,6 +4219,9 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 > This manuscript, circulated with a 1987 cover letter from [[G. Gary Scoppettone]] of the [[U.S. Fish and Wildlife Service]] to [[James E. Deacon]], refines the age and growth of the endangered [[Cui-Ui]] (*Chasmistes cujus*), an endemic catostomid of [[Pyramid Lake]], Nevada. Using opercular bones...
 > -- *[[ManuscriptlongevityAndGrowthOf_11310]]*
 
+> This 1963 survey, prepared at the [[University of Michigan Museum of Zoology]] and attributed to [[Robert Rush Miller]], reviews the status of rare and threatened native fishes state by state across the United States. For each species it gives known range, number of recorded individuals or...
+> -- *[[PreliminaryListOfRareRestricte_15342]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
@@ -4120,6 +4235,7 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 - [[OccurrencesOfTheLostRiverSucke_17577]]
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[ManuscriptlongevityAndGrowthOf_11310]]
+- [[PreliminaryListOfRareRestricte_15342]]
 
 ## June Sucker Recovery Implementation Program
 
@@ -4156,6 +4272,18 @@ Juniper is a coniferous tree or shrub genus common in southwestern woodlands. Th
 
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
+
+## Juniper and Pinyon Woodland
+
+### Summary
+Juniper and pinyon woodland is a dry-climate vegetation community of conifers. In this source it dominates the higher elevations of the Amargosa Desert study area. Its vegetation density matters because dense highland vegetation produces more negative δ¹³C values in recharging water through soil-zone CO₂.
+
+### Context
+> This U.S. Geological Survey Professional Paper (712-F), prepared with the [[U.S. Department of Energy]], uses geochemical, isotopic and hydraulic data to identify where ground water in the west-central [[Amargosa Desert]] came from and how it was recharged. The author concludes that most recharge...
+> -- *[[SourcesAndMechanismsOfRecharge_15898]]*
+
+### Mentioned In
+- [[SourcesAndMechanismsOfRecharge_15898]]
 
 ## Juniper Canyon
 
@@ -4292,8 +4420,12 @@ Juniper-Cross Mountain Water Rights are water rights tied to Yampa River instrea
 > This U.S. Fish and Wildlife Service (FWS) memorandum transmits the minutes of the February 21, 1989 meeting of the [[Recovery Implementation Committee]], which oversees the [[Recovery Implementation Program]] for four endangered or rare fishes of the [[Colorado River Basin]]: [[Colorado...
 > -- *[[MinutesfebruaryRecoveryImpleme_21005]]*
 
+> This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
+> -- *[[JulyManagementGroupMeetingSumm_21031]]*
+
 ### Mentioned In
 - [[MinutesfebruaryRecoveryImpleme_21005]]
+- [[JulyManagementGroupMeetingSumm_21031]]
 
 ## Juniperus
 

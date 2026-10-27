@@ -2011,6 +2011,9 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This report presents an intensive electrofishing inventory of the fish community of [[Jordan Creek]], a warm-water tributary of the [[Salt Fork Vermilion River]] in [[Vermilion County]], Illinois. The census ran from July 25 to September 5, 1950, across a 4-mile study section divided into eight...
 > -- *[[AnInventoryOfTheFishesOfJordan_20182]]*
 
+> This 1955 Illinois Natural History Survey bulletin (Volume 26, Article 4), by William C. Starrett and Paul G. Barnickol, statistically evaluates the efficiency and selectivity of commercial fishing gear used on the [[Mississippi River]] between Caruthersville, Missouri, and Dubuque, Iowa. Data came...
+> -- *[[EfficiencyAndSelectivityOfComm_14739]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -2026,6 +2029,7 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[OverfishingInASmallArtificialL_18158]]
 - [[TheBassbluegillCombinationInAS_18160]]
 - [[AnInventoryOfTheFishesOfJordan_20182]]
+- [[EfficiencyAndSelectivityOfComm_14739]]
 
 ## Illinois Natural History Survey Resurvey (1950-1971)
 
@@ -2094,6 +2098,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This preliminary report from the Illinois Natural History Survey and Illinois Department of Conservation (Biological Notes No. 30, 1952) documents a creel census of the sport fishery at [[Lake Chautauqua]], a reflooded drainage district on the [[Illinois River]] floodplain near Havana. Recorded...
 > -- *[[SportFishingAtLakeChautauquaNe_14738]]*
 
+> This Oklahoma Fisheries Research Laboratory report (Report No. 33, December 1953) documents the first post-impoundment fish survey of [[Tenkiller Reservoir]] in northeastern Oklahoma. It compares 1953 collections with pre-impoundment work on the [[Illinois River]] (1952) to track early changes in...
+> -- *[[ContinuedFisheriesInvestigatio_20970]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -2113,6 +2120,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 - [[TheBantamSunfishLepomisSymmetr_14043]]
 - [[SportFishingAtLakeChautauquaNe_14738]]
+- [[ContinuedFisheriesInvestigatio_20970]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -2147,8 +2155,12 @@ An Illinois state agency that studies water resources. In this source, it conduc
 > This preliminary report from the Illinois Natural History Survey and Illinois Department of Conservation (Biological Notes No. 30, 1952) documents a creel census of the sport fishery at [[Lake Chautauqua]], a reflooded drainage district on the [[Illinois River]] floodplain near Havana. Recorded...
 > -- *[[SportFishingAtLakeChautauquaNe_14738]]*
 
+> This 1967 Illinois Natural History Survey bulletin by William F. Childers examines hybridization among four sympatric sunfishes of the tribe [[Lepomini]]: [[Red-ear Sunfish]], [[Bluegill]], [[Green Sunfish]], and [[Warmouth]]. Using laboratory stripping experiments, pond isolation experiments, and...
+> -- *[[HybridizationOfFourSpeciesOfSu_16131]]*
+
 ### Mentioned In
 - [[SportFishingAtLakeChautauquaNe_14738]]
+- [[HybridizationOfFourSpeciesOfSu_16131]]
 
 ## Illinois-Missouri Waters
 <!-- fm: auto_enriched: true -->
@@ -2295,6 +2307,18 @@ Impact Studies are one of the three research components proposed in the master p
 ### Mentioned In
 - [[TheSheddingOfGillRakerFilament_1975]]
 
+## Imperial Clay
+
+### Summary
+Imperial clay is an old valley-filling soil series in the San Simon area, with a clay texture as its name indicates. The source reports milo yields of 60 to 75 bushels per acre on it. Cotton was first grown on Imperial clay in 1920 and yielded one-half to three-fourths bale per acre, and land on this soil ranked among the highest in value.
+
+### Context
+> This 1921 [[Soil Survey]] by the [[Bureau Of Soils]], U.S. Department of Agriculture, in cooperation with the University of Arizona Department of Irrigation, maps the agricultural soils of the [[San Simon Valley]] in northeastern [[Cochise County]], Arizona. The surveyed area covers about 448...
+> -- *[[SoilSurveyOfTheSanSimonAreaAri_17437]]*
+
+### Mentioned In
+- [[SoilSurveyOfTheSanSimonAreaAri_17437]]
+
 ## Imperial County
 
 ### Summary
@@ -2414,6 +2438,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This review by [[Clarence A. Carlson]] and [[Robert T. Muth]] (Colorado State University) treats the [[Colorado River]] as a single ecosystem. The authors argue that in less than a century the river has been transformed from a free-flowing, highly variable system into a chain of regulated, man-made...
 > -- *[[TheColoradoRiverLifelineOfTheA_17416]]*
 
+> This October 1969 booklet from the [[Bureau Of Reclamation]] (Region 3) presents facility maps and program status for the Colorado River Operation and Maintenance (O&M) Program on the lower [[Colorado River]]. The program is authorized under the [[Colorado River Front Work And Levee System Act]] of...
+> -- *[[LowerColoradoRiverMaps_11471]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -2443,6 +2470,7 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[AGeneralizedMasterPlanOfEnviro_16071]]
 - [[AGeneralizedMasterPlanOfEnviro_18588]]
 - [[TheColoradoRiverLifelineOfTheA_17416]]
+- [[LowerColoradoRiverMaps_11471]]
 
 ## Imperial Dam Impoundment
 <!-- fm: auto_enriched: true -->
@@ -2476,6 +2504,9 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This 1969 Bureau of Reclamation document describes the comprehensive Operation and Maintenance (O&M) Program for the [[Lower Colorado River]] below [[Davis Dam]], implemented under the Colorado River Front Work and Levee System Act of 1927. The program addresses channel instability, sediment...
 > -- *[[LowerColoradoRiverMaps_12161]]*
 
+> This October 1969 booklet from the [[Bureau Of Reclamation]] (Region 3) presents facility maps and program status for the Colorado River Operation and Maintenance (O&M) Program on the lower [[Colorado River]]. The program is authorized under the [[Colorado River Front Work And Levee System Act]] of...
+> -- *[[LowerColoradoRiverMaps_11471]]*
+
 ### Mentioned In
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
 - [[ContinuedResearchOfTheLowerCol_1996_09_04]]
@@ -2483,6 +2514,7 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[DraftmanagementPlanForTheRazor_11427]]
 - [[DraftEnvironmentalAssessmentLo_11489]]
 - [[LowerColoradoRiverMaps_12161]]
+- [[LowerColoradoRiverMaps_11471]]
 
 ## Imperial East Mesa
 
@@ -2679,10 +2711,14 @@ The Imperial Valley is an agricultural region in California that was developed t
 > This document comprises meeting minutes and correspondence from the [[Colorado River Fishes Recovery Team]] spanning 1977 to 1987. The Team, composed of representatives from state and federal agencies (including [[U.S. Fish and Wildlife Service]], [[Bureau of Land Management]], [[Bureau of...
 > -- *[[MinutesOfVariousTeamMeetingsFr_14694]]*
 
+> This Bureau of Land Management (BLM) booklet summarizes the California Desert Conservation Area (CDCA) Plan, the long-range land-management plan required by Section 601 of the [[Federal Land Policy and Management Act]] (FLPMA) of 1976. The Plan covers a 25-million-acre CDCA, of which the BLM...
+> -- *[[TheCaliforniaDesertConservatio_11541]]*
+
 ### Mentioned In
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
 - [[MinutesOfVariousTeamMeetingsFr_14694]]
+- [[TheCaliforniaDesertConservatio_11541]]
 
 ## Imperial Valley Warmwater Hatchery
 
@@ -2794,9 +2830,13 @@ This is the section of a U.S. Fish and Wildlife Service recovery plan that the s
 > This document is a February 3, 1987 letter from the [[Fish and Wildlife Service]] (FWS) Colorado/Platte River Endangered Species Recovery Coordinator to Dr. W. L. Minckley of Arizona State University. It requests literature review for the planned 1987 updates of three [[Recovery Plan]]s for the...
 > -- *[[RecoveryPlanscoloradoSquawfish_20994]]*
 
+> This 1981 policy document from the [[U.S. Fish and Wildlife Service]] (FWS) sets out the procedures for preparing, reviewing, funding, and implementing recovery plans for species listed under the [[Endangered Species Act]] of 1973, as amended. It covers fish, wildlife, and plants. The guidelines...
+> -- *[[EndangeredAndThreatenedSpecies_11911]]*
+
 ### Mentioned In
 - [[AppendixIRecoveryPlanFormat_13274]]
 - [[RecoveryPlanscoloradoSquawfish_20994]]
+- [[EndangeredAndThreatenedSpecies_11911]]
 
 ## Implementing Agreement
 <!-- fm: auto_enriched: true -->
@@ -3514,9 +3554,13 @@ Indian Spring is one of approximately seven spring systems within 1 km of School
 > This status report documents field surveys of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) populations in Arizona from May 1990 to August 1991. Both species are federally listed as endangered, having declined severely from historically...
 > -- *[[AnUpdateStatusReportOfTheSonor_13824]]*
 
+> This Arizona Game and Fish Department (AGFD) technical report evaluates [[Gila Topminnow]] reintroduction sites in Arizona during the 1994-95 field season. Many reintroduced populations have failed, yet sites that are not formally declared "extirpated" still trigger [[Section 7 Consultation]]...
+> -- *[[GilaTopminnowExtirpationSitesI_19666]]*
+
 ### Mentioned In
 - [[WarmSpringsPupfish_13288]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
+- [[GilaTopminnowExtirpationSitesI_19666]]
 
 ## Indian Tribe
 <!-- fm: auto_enriched: true -->
@@ -3852,6 +3896,15 @@ Infectious pancreatic necrosis is an acute viral disease of fish. The paper note
 ### Mentioned In
 - [[AnAcuteViralDiseaseOfChannelCa_16376]]
 
+## Infiltration Curves
+
+### Context
+> This Rocky Mountain Forest and Range Experiment Station report by [[Burchard H. Heede]] evaluates check dams and related structures installed in the 1930s to control gullies on the [[Pike and San Isabel National Forests]], 20 to 25 years after construction. The study covers four gully systems in...
+> -- *[[AStudyOfEarlyGullycontrolStruc_16587]]*
+
+### Mentioned In
+- [[AStudyOfEarlyGullycontrolStruc_16587]]
+
 ## Infiltration Gallery
 
 ### Summary
@@ -4102,9 +4155,13 @@ A whitefish recorded in New Hampshire that the guide separates from the Round Wh
 > 1. **Two new state records**: [[Taillight Shiner]] (*Notropis maculatus*) and [[Inland Silverside]] (*Menidia beryllina*) are formally added to the Illinois fish fauna, raising the state total to 202 species (with the anomalous Atlantic salmon record also factored in). 2. **Taillight Shiner conse...
 > -- *[[NewDistributionalRecordsOfIlli_1988]]*
 
+> This Illinois Natural History Survey bulletin (Laird and Page, 1996, Vol. 35, Art. 1) catalogs the non-native fishes established or occasionally found in Illinois streams and lakes. Of the 22 species treated, 13 were established by 1996 (six by 1979, seven more since) and nine are periodically...
+> -- *[[NonnativeFishesInhabitingTheSt_12682]]*
+
 ### Mentioned In
 - [[AResponseToTheProposalToIntrod_1987]]
 - [[NewDistributionalRecordsOfIlli_1988]]
+- [[NonnativeFishesInhabitingTheSt_12682]]
 
 ## Inland Silversides
 
@@ -4343,6 +4400,18 @@ The University of North Dakota unit that published this study in its Contributio
 - [[UseOfGlassMinnowTrapsInTroutSt_20888]]
 - [[ALookAtALake_15686]]
 
+## Institute of Arctic Biology
+
+### Summary
+A research unit of the University of Alaska that houses co-investigator H. Behrisch, a zoochemist who studies temperature and enzyme regulation. The note places him in this institute.
+
+### Context
+> This March 1983 proposal from the [[University of Alaska]] requests **$32,723** from the [[Alaska Sea Grant College Program]] for a one-year study (proposed start January 1, 1984) of whether mature [[Pacific Salmon]] use the [[Geomagnetic Field]] to navigate from mid-ocean back to their natal...
+> -- *[[NeurologicalBaisOfSalmonMigrat_16109]]*
+
+### Mentioned In
+- [[NeurologicalBaisOfSalmonMigrat_16109]]
+
 ## Institute Of Ecology
 <!-- fm: auto_enriched: true -->
 
@@ -4356,6 +4425,18 @@ The University of North Dakota unit that published this study in its Contributio
 ### Mentioned In
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 
+## Institute of Electrical and Electronics Engineers
+
+### Summary
+A professional association of electrical and electronics engineers. In the source, Balanis's IEEE Fellow status (1986) is cited as an honor, and letters mention an IEEE outstanding journal paper award won by his students.
+
+### Context
+> This packet, assembled by the [[Graduate College]] at [[Arizona State University]] (ASU) in mid-1996, supports the selection of the 1996 Faculty Mentoring Award (also styled Outstanding Graduate Mentor Award). A memo from [[Deborah N. Losse]], Associate Dean, dated July 17, 1996, scheduled a...
+> -- *[[FacultyMentoringAwardCommittee_16202]]*
+
+### Mentioned In
+- [[FacultyMentoringAwardCommittee_16202]]
+
 ## Institute of Marine Science
 
 ### Summary
@@ -4365,8 +4446,12 @@ The Institute of Marine Science at the University of Texas, Port Aransas, was th
 > This 1960 research paper by William N. McFarland from the [[Institute of Marine Science]], [[University of Texas]], Port Aransas, provides comprehensive experimental evidence for the use of chemical anesthetics in fisheries operations. The study demonstrates that properly induced anesthesia...
 > -- *[[TheUseOfAnestheticsForTheHandl_12317]]*
 
+> This March 1983 proposal from the [[University of Alaska]] requests **$32,723** from the [[Alaska Sea Grant College Program]] for a one-year study (proposed start January 1, 1984) of whether mature [[Pacific Salmon]] use the [[Geomagnetic Field]] to navigate from mid-ocean back to their natal...
+> -- *[[NeurologicalBaisOfSalmonMigrat_16109]]*
+
 ### Mentioned In
 - [[TheUseOfAnestheticsForTheHandl_12317]]
+- [[NeurologicalBaisOfSalmonMigrat_16109]]
 
 ## Institute Of Marine Science, University Of Miami
 <!-- fm: auto_enriched: true -->
@@ -4644,6 +4729,9 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This document combines two U.S. Fish and Wildlife Service products. The first is a 1984 working paper by Patrick C. Nelson that explains how [[Suitability Index Curves]] (SI curves) are built, used, and documented in the [[Instream Flow Incremental Methodology]] (IFIM). The second is a November...
 > -- *[[SuitabilityIndexSiCurvesForUse_19636]]*
 
+> This U.S. Fish and Wildlife Service [[Biological Opinion]] (May 1990) addresses the proposed [[Central Arizona Project]] (CAP) Water Exchange on the upper [[Verde River]], Yavapai County, Arizona. The threatened [[Spikedace]] (*[[Meda Fulgida]]*) is the species of concern. The request was submitted...
+> -- *[[BiologicalOpinionCentralArizon_11830]]*
+
 ### Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -4661,6 +4749,7 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[ManagementGroupMeeting_21018]]
 - [[ColoradoRiverEndangeredFishRec_21021]]
 - [[SuitabilityIndexSiCurvesForUse_19636]]
+- [[BiologicalOpinionCentralArizon_11830]]
 
 ## Instream Flow Incremental Methodology (Ifim)
 <!-- fm: auto_enriched: true -->
@@ -4979,6 +5068,18 @@ The ESA Section 7 process requiring federal agencies to consult with the Service
 ### Mentioned In
 - [[NoticeOfPolicyForConservingSpe_11740]]
 
+## Interagency Ecosystem Management Task Force
+
+### Summary
+A federal interagency group established in August 1993 to develop a proactive, ecosystem-based approach to sustainability. Its June 1995 report, of which this source is the Volume I overview, outlines the ecosystem approach, eight implementation barriers, and recommendations for addressing them.
+
+### Context
+> This note summarizes the Volume I Overview of the June 1995 report of the [[Interagency Ecosystem Management Task Force]], circulated as a series of six email parts. The report defines the [[Ecosystem Approach]] as a goal-driven method for sustaining or restoring natural systems, built on a...
+> -- *[[TheEcosystemApproachHealthyEco_20912]]*
+
+### Mentioned In
+- [[TheEcosystemApproachHealthyEco_20912]]
+
 ## Interagency Recovery Program
 <!-- fm: auto_enriched: true -->
 
@@ -5124,6 +5225,30 @@ Interdisciplinary collaboration is the approach of pairing fisheries managers wi
 ### Mentioned In
 - [[UseOfHatcheryFishInEnhancement_14332]]
 
+## Interdisciplinary Operational System
+
+### Summary
+The workflow proposed in this 1972 report for combining remote sensing with interdisciplinary science. It runs from assigning a coordinator and preliminary imagery review through acquisition, coordinated ground data collection, cost estimates, analysis, and feedback into a ground-truth archive.
+
+### Context
+> This August 1972 progress report, prepared by the [[University of Nevada System]] for the U.S. Geological Survey's [[EROS Program]], evaluates how [[Earth Resources Technology Satellite]] (ERTS) data and small-scale aircraft multiband photography could support land, water and resource management in...
+> -- *[[ApplicationOfErosDataToAridReg_13439]]*
+
+### Mentioned In
+- [[ApplicationOfErosDataToAridReg_13439]]
+
+## Interdisciplinary Review Panel
+
+### Summary
+A panel that the report's operational system is built around, which approves project cost and time estimates before work proceeds. The source describes its role in the workflow but gives no further detail on its membership.
+
+### Context
+> This August 1972 progress report, prepared by the [[University of Nevada System]] for the U.S. Geological Survey's [[EROS Program]], evaluates how [[Earth Resources Technology Satellite]] (ERTS) data and small-scale aircraft multiband photography could support land, water and resource management in...
+> -- *[[ApplicationOfErosDataToAridReg_13439]]*
+
+### Mentioned In
+- [[ApplicationOfErosDataToAridReg_13439]]
+
 ## Interdisciplinary Team
 
 ### Summary
@@ -5163,6 +5288,18 @@ Interface theory treats transition zones as places where structural or functiona
 
 ### Mentioned In
 - [[InUnexpectedPlacesCluesToAncie_14832]]
+
+## Interim Conservation Measures
+
+### Summary
+Interim Conservation Measures (ICMs) are short-term actions taken while the full conservation plan is developed. According to the source, ICMs targeted the Razorback Sucker and Bonytail Chub for implementation in 1995-96, with additional ICMs to be identified annually, and their costs were counted within the $4.5 million development budget.
+
+### Context
+> This 1997 Request for Proposals (RFP) package from the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP) Steering Committee solicits two separate consultant contracts to support development of a multi-species conservation plan for the Lower Colorado River. RFP-1 seeks [[Program...
+> -- *[[RequestForProposalsRfpProgramF_18343]]*
+
+### Mentioned In
+- [[RequestForProposalsRfpProgramF_18343]]
 
 ## Interim Flow Criteria
 
@@ -5342,6 +5479,18 @@ Stewart L. Udall, a former U.S. Interior Secretary, wrote the foreword to Battle
 ### Mentioned In
 - [[TheImportanceOfTheAcanthocepha_1963]]
 
+## Intermediate Regional Flood
+
+### Summary
+A design flood with an average recurrence of about once in 100 years, though it may happen more than once in a year. This report models it for the Virgin River and Fort Pierce Wash, giving peak flows such as 46,000 cfs for the Virgin River at Bloomington and 24,000 cfs for Fort Pierce Wash at its confluence.
+
+### Context
+> This 1973 report, prepared by the [[U.S. Army Corps of Engineers]] Los Angeles District for the [[Washington County]] Commission, maps flood hazards along the [[Virgin River]] and its major tributary, [[Fort Pierce Wash]], near [[St. George]], Utah. It documents historical floods, describes channel...
+> -- *[[FloodPlainInformationVirginRiv_11450]]*
+
+### Mentioned In
+- [[FloodPlainInformationVirginRiv_11450]]
+
 ## Intermittent Headwater Streams
 <!-- fm: auto_enriched: true -->
 
@@ -5383,6 +5532,30 @@ Intermittent streams, especially on the plains, can be dammed to form ponds for 
 ### Mentioned In
 - [[FishCultureForFunForProfit_11333]]
 
+## Intermountain Forest And Range Experiment Station
+
+### Summary
+A U.S. Forest Service research station that issued this 1962 Research Paper. The author, S. Blair Hutchison, is chief of its Division of Forest Economics Research and leads its recreation research.
+
+### Context
+> This 1962 Research Paper from the [[Intermountain Forest And Range Experiment Station]], written by S. Blair Hutchison, describes the recreation situation on the national forests of the [[Northern Region]] and [[Intermountain Region]]. It argues that rapidly growing recreation use is creating...
+> -- *[[RecreationOpportunitiesAndProb_14544]]*
+
+### Mentioned In
+- [[RecreationOpportunitiesAndProb_14544]]
+
+## Intermountain Region
+
+### Summary
+One of the two Forest Service regions covered by the paper, including national forests in Wyoming, Utah, and Nevada. The paper describes its recreation use and management problems.
+
+### Context
+> This 1962 Research Paper from the [[Intermountain Forest And Range Experiment Station]], written by S. Blair Hutchison, describes the recreation situation on the national forests of the [[Northern Region]] and [[Intermountain Region]]. It argues that rapidly growing recreation use is creating...
+> -- *[[RecreationOpportunitiesAndProb_14544]]*
+
+### Mentioned In
+- [[RecreationOpportunitiesAndProb_14544]]
+
 ## International Aquaculture Research
 <!-- fm: auto_enriched: true -->
 
@@ -5414,6 +5587,18 @@ The International Association of Fish and Wildlife Agencies (IAFWA) is a coaliti
 - [[LetterToJerryConleyOnStateFede_1994_08_09]]
 - [[MemorandumOfUnderstandingOnCon_1994]]
 - [[ParticipationOfStateAgenciesIn_21205]]
+
+## International Association of Game, Fish, and Conservation Commissioners
+
+### Summary
+An association of state fish and game commissions. In September 1954 it recommended a national economic survey of sport fishing and hunting, to be funded from Federal Aid administrative funds.
+
+### Context
+> This U.S. Fish and Wildlife Service report (Circular 44, published October 1956) presents the first nationwide economic survey of sport fishing and hunting, covering calendar year 1955. Conducted by [[Crossley S-D Surveys]] under contract, the personal-interview survey projected results from a...
+> -- *[[AReportOnTheFirstNationwideEco_13262]]*
+
+### Mentioned In
+- [[AReportOnTheFirstNationwideEco_13262]]
 
 ## International Biological Program
 
@@ -5467,6 +5652,9 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 > This Arizona Department of Health Services report compiles water quality data for the Upper [[San Pedro River]] for 1973–1979. It covers the 1973 intensive survey, the 1977 University of Arizona monitoring, and the Arizona Game and Fish Department and BWQC spill investigations. Its main focus is...
 > -- *[[SanPedroRiverBasinWaterQuality_15721]]*
 
+> This October 1969 booklet from the [[Bureau Of Reclamation]] (Region 3) presents facility maps and program status for the Colorado River Operation and Maintenance (O&M) Program on the lower [[Colorado River]]. The program is authorized under the [[Colorado River Front Work And Levee System Act]] of...
+> -- *[[LowerColoradoRiverMaps_11471]]*
+
 ### Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
 - [[NoticeOfIntentToFileCitizenSui_1995_05_24]]
@@ -5478,6 +5666,7 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 - [[LowerColoradoRiverMaps_12161]]
 - [[ThePotentialEconomicConsequenc_15754]]
 - [[SanPedroRiverBasinWaterQuality_15721]]
+- [[LowerColoradoRiverMaps_11471]]
 
 ## International Code of Botanical Nomenclature
 
@@ -5773,6 +5962,18 @@ A professional international association focused on water resources. The newslet
 ### Mentioned In
 - [[PacificInstituteReport_18370]]
 
+## International Waterfowl and Wetlands Research Bureau
+
+### Summary
+An international organisation (IWRB) that convened the 1991 Grado meeting and is a partner the Station works through rather than lobbying governments directly. The source also names it as coordinator of proposed flamingo censuses.
+
+### Context
+> This strategy document, prepared by the [[Station Biologique de la Tour du Valat]] (Tour du Valat), sets out the mission, research agenda, partnerships, training, awareness and internal structure of the Station for 1992–1996. The mission, redefined by the Board in February 1991, is "to halt and...
+> -- *[[StrategyAndProgrammePlanning_18289]]*
+
+### Mentioned In
+- [[StrategyAndProgrammePlanning_18289]]
+
 ## International Whaling Commission
 <!-- fm: auto_enriched: true -->
 
@@ -5848,6 +6049,18 @@ Interspecific competition in fish and aquatic ecology refers to the interaction 
 ### Mentioned In
 - [[MeristicsAndMorphometricsOfGol_1993]]
 
+## Interstate 15
+
+### Summary
+A major U.S. interstate highway that crosses the study area near St. George, Utah. The report lists it as one of four roads crossing the flood plain and notes it is the only one of the six bridges in the study reaches not expected to suffer damage in the design floods.
+
+### Context
+> This 1973 report, prepared by the [[U.S. Army Corps of Engineers]] Los Angeles District for the [[Washington County]] Commission, maps flood hazards along the [[Virgin River]] and its major tributary, [[Fort Pierce Wash]], near [[St. George]], Utah. It documents historical floods, describes channel...
+> -- *[[FloodPlainInformationVirginRiv_11450]]*
+
+### Mentioned In
+- [[FloodPlainInformationVirginRiv_11450]]
+
 ## Interstate 17
 <!-- fm: auto_enriched: true -->
 
@@ -5903,6 +6116,18 @@ Interstate Highway 15 is a major transportation corridor that passes through the
 
 ### Mentioned In
 - [[SomeUsesOfProbabilityPaperInTh_16044]]
+
+## Intestinal Granulocytopoietic Organ
+
+### Summary
+This is a region of the lungfish intestine, the spiral-valve area, that produces granulocytes. The authors identify it as the source of coarse-granule eosinophils, special eosinophils and basophils.
+
+### Context
+> This 1931 study by H. E. Jordan and C. C. Speidel (University of Virginia, Laboratory of Histology and Embryology) describes blood cell formation (hemocytopoiesis) in the [[African Lungfish]], *Protopterus ethiopicus*, under normal conditions and after prolonged dry [[Estivation]] followed by...
+> -- *[[BloodFormationInTheAfricanLung_19858]]*
+
+### Mentioned In
+- [[BloodFormationInTheAfricanLung_19858]]
 
 ## Intestine
 <!-- fm: auto_enriched: true -->
@@ -6022,6 +6247,18 @@ Introduced fishes are non-native fish species that have been deliberately or acc
 
 ### Mentioned In
 - [[OriginAndDispersalOfTheAlewife_1957]]
+
+## Introduced Nonnative Fishes
+
+### Summary
+Fish species that were deliberately or accidentally moved by people into waters outside their native range. According to this source, 42 of the 55 fish species in the upper Colorado River basin are introduced, and the plan lists interactions with them as one factor contributing to the Colorado squawfish's decline.
+
+### Context
+> This technical review draft, prepared by the [[Colorado River Fishes Recovery Team]] for the [[U.S. Fish and Wildlife Service]] (Region 6), is a recovery plan for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest cyprinid in North America and the top native carnivore of the...
+> -- *[[TechnicalReviewDraftColoradoSq_17171]]*
+
+### Mentioned In
+- [[TechnicalReviewDraftColoradoSq_17171]]
 
 ## Introduced Species
 <!-- fm: auto_enriched: true -->
@@ -6593,10 +6830,14 @@ Iotichthys phlegethontis is the scientific name for the Least Chub, a desert fis
 > This 1968 economic study examined the processing and marketing potential of commercial fishery products from [[Montana]] reservoirs, focusing on [[Carp]], [[Buffalofish]], [[Sucker]], and [[Goldeye]]. The research found that Montana's commercial fisheries face significant challenges including...
 > -- *[[AnEconomicStudyOfTheProcessing_15621]]*
 
+> This reprinted 1951 paper by Reeve M. Bailey, first issued in *Iowa Fish and Fishing*, provides a revised check-list of the native and established fishes of [[Iowa]] together with dichotomous keys for identification. The check-list comprises 25 families, 61 genera, 133 species and 137 total kinds...
+> -- *[[ACheckListOfTheFishesOfIowaWit_17232]]*
+
 ### Mentioned In
 - [[AnOccurrenceOfBranchiuraSowerb_16007]]
 - [[EquilibriumBetweenUptakeAndEli_11390]]
 - [[AnEconomicStudyOfTheProcessing_15621]]
+- [[ACheckListOfTheFishesOfIowaWit_17232]]
 
 ## Iowa Cooperative Fisheries Research Unit
 <!-- fm: auto_enriched: true -->
@@ -6804,9 +7045,17 @@ Iron Creek is a headwater stream in the Gila River system that was one of five s
 > This genetic study examined 11 stream populations of presumed [[Gila Trout]] (*Oncorhynchus gilae*) using horizontal starch gel electrophoresis of 48 protein-coding loci to address two critical conservation issues: (1) detection of hybridization with [[Rainbow Trout]] (*O. mykiss*) and (2)...
 > -- *[[GeneticIssuesInTheConservation_20219]]*
 
+> This recovery plan, prepared June 20, 1978 by the Gila Trout Recovery Team and approved by the [[U.S. Fish And Wildlife Service]], sets out how to improve the status of the [[Gila Trout]] (*Salmo gilae*) until it can be delisted from endangered status. The species is endemic to the Mogollon Plateau...
+> -- *[[RecoveryPlanForGilaTroutSalmoG_16985]]*
+
+> This U.S. Fish and Wildlife Service Endangered Species Report (No. 6, 1980) by Kim Mello and Paul R. Turner documents stream surveys of [[Gila Trout]] (*Salmo gilae*) conducted from 1974 to 1976 on seven streams in the [[Gila National Forest]], New Mexico. The surveys estimated population sizes,...
+> -- *[[PopulationStatusAndDistributio_20112]]*
+
 ### Mentioned In
 - [[AddendumToTheMarchEnvironmenta_11496]]
 - [[GeneticIssuesInTheConservation_20219]]
+- [[RecoveryPlanForGilaTroutSalmoG_16985]]
+- [[PopulationStatusAndDistributio_20112]]
 
 ## Iron Gate
 

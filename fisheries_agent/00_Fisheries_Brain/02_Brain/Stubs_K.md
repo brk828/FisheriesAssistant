@@ -28,6 +28,30 @@ K. E. F. Watt was an ecologist whose work on ecosystem dynamics Miller cites in 
 ### Mentioned In
 - [[PersonalLetterToMinkRegardingM_1972_08_01]]
 
+## Kabekona Creek
+
+### Summary
+A tributary stream of Kabekona Lake in Hubbard County, Minnesota, with a brook trout population. Rainbow fry stocked there in 1961, 1962 and 1963 were monitored, and returning upstream-migrating adult rainbows were counted in 1964, which the author read as evidence of imprinting and homing.
+
+### Context
+> This Minnesota Division of Game and Fish investigational report (Report No. 279, dated October 9, 1964, by R. E. Schumacher) presents preliminary 1963 test-netting results from six large lakes stocked with [[Rainbow Trout]] to create a [[Two-Story Fishery]]: a cold-water lower stratum for trout...
+> -- *[[PreliminaryResultsFromExperime_11284]]*
+
+### Mentioned In
+- [[PreliminaryResultsFromExperime_11284]]
+
+## Kabekona Lake
+
+### Summary
+A remote 2,252-acre Hubbard County, Minnesota lake with a brook trout tributary, Kabekona Creek. Rainbow catch was only 0.1 per gillnet set, but 17 upstream-migrating rainbows were counted in the creek in April–May 1964, suggesting natural spawning and encouraging self-sustaining potential.
+
+### Context
+> This Minnesota Division of Game and Fish investigational report (Report No. 279, dated October 9, 1964, by R. E. Schumacher) presents preliminary 1963 test-netting results from six large lakes stocked with [[Rainbow Trout]] to create a [[Two-Story Fishery]]: a cold-water lower stratum for trout...
+> -- *[[PreliminaryResultsFromExperime_11284]]*
+
+### Mentioned In
+- [[PreliminaryResultsFromExperime_11284]]
+
 ## Kabul River
 
 ### Summary
@@ -39,6 +63,18 @@ The Kabul River is a 350 km freshwater river in Afghanistan that rises at Sar Ch
 
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+
+## Kachemak Bay
+
+### Summary
+A bay in Alaska where the proposal plans to trap sockeye smolts as part of the study of the fresh-to-salt-water transition. It is one of the sampling sites listed under Objective 3.
+
+### Context
+> This March 1983 proposal from the [[University of Alaska]] requests **$32,723** from the [[Alaska Sea Grant College Program]] for a one-year study (proposed start January 1, 1984) of whether mature [[Pacific Salmon]] use the [[Geomagnetic Field]] to navigate from mid-ocean back to their natal...
+> -- *[[NeurologicalBaisOfSalmonMigrat_16109]]*
+
+### Mentioned In
+- [[NeurologicalBaisOfSalmonMigrat_16109]]
 
 ## Kaeding and Zimmerman
 
@@ -78,6 +114,18 @@ The Kahili Award is given annually by the Hawaiʻi Visitors Bureau in 13 categor
 ### Mentioned In
 - [[EcotourismTheNewWaveOfTravel_12560]]
 
+## Kaibab Forest
+
+### Summary
+The forested Kaibab plateau that lies between the canyon's rims. The source says the road to the North Rim passes through it.
+
+### Context
+> This 1937 National Park Service visitor guide covers [[Grand Canyon National Park]] in Arizona, which was established as a national park by act of Congress in 1919 and covers 1,009.08 square miles. The booklet combines a visitor's rules summary, a historical timeline of exploration, a geological...
+> -- *[[GrandCanyonNationalParkArizona_11517]]*
+
+### Mentioned In
+- [[GrandCanyonNationalParkArizona_11517]]
+
 ## Kaibab Lake
 <!-- fm: auto_enriched: true -->
 
@@ -91,6 +139,18 @@ The Kahili Award is given annually by the Hawaiʻi Visitors Bureau in 13 categor
 ### Mentioned In
 - [[NotesOnTheRecommendationToDecl_1962]]
 - [[FisheryInvestigationsInRegionI_12196]]
+
+## Kaibab Limestone
+
+### Summary
+The Kaibab Limestone is a Permian limestone formation. This source identifies it as a recharge medium, where rain and snowmelt infiltrate through its jointed, channeled rock, and it is one of the Paleozoic units that make up the rim's geology.
+
+### Context
+> This U.S. Geological Survey Water-Supply Paper (1619-H, 1963) by J. H. Feth and J. D. Hem reports a reconnaissance of the ground-water system and springs of the [[Mogollon Rim]] region in central Arizona, the source of much of the water in the Gila, Salt, and Verde Rivers. The study, carried out...
+> -- *[[ReconaissanceOfHeadwaterSpring_16363]]*
+
+### Mentioned In
+- [[ReconaissanceOfHeadwaterSpring_16363]]
 
 ## Kaibab National Forest
 
@@ -126,8 +186,36 @@ A squirrel form closely related to Abert's squirrel, listed alongside it in the 
 > This document is USDA Forest Service General Technical Report RM-16 (September 1975) by [[David R. Patton]] and [[Peter F. Ffolliott]]. It is an annotated-by-subject bibliography of 390 references on wildlife and habitat management in Arizona and New Mexico, covering publications from 1913 to early...
 > -- *[[SelectedBibliographyOfWildlife_18466]]*
 
+> This 1937 National Park Service visitor guide covers [[Grand Canyon National Park]] in Arizona, which was established as a national park by act of Congress in 1919 and covers 1,009.08 square miles. The booklet combines a visitor's rules summary, a historical timeline of exploration, a geological...
+> -- *[[GrandCanyonNationalParkArizona_11517]]*
+
 ### Mentioned In
 - [[SelectedBibliographyOfWildlife_18466]]
+- [[GrandCanyonNationalParkArizona_11517]]
+
+## Kaibab Suspension Bridge
+
+### Summary
+A bridge across the Colorado River in Grand Canyon, about 440 feet long, that carries the Kaibab Trail. The source describes it as part of the cross-canyon route.
+
+### Context
+> This 1937 National Park Service visitor guide covers [[Grand Canyon National Park]] in Arizona, which was established as a national park by act of Congress in 1919 and covers 1,009.08 square miles. The booklet combines a visitor's rules summary, a historical timeline of exploration, a geological...
+> -- *[[GrandCanyonNationalParkArizona_11517]]*
+
+### Mentioned In
+- [[GrandCanyonNationalParkArizona_11517]]
+
+## Kaibab Trail
+
+### Summary
+The only cross-canyon trail in the park, running 20.6 miles from the South Rim to the North Rim. The source says it crosses the Colorado River on the Kaibab Suspension Bridge and involves a strenuous climb of about 4,600 feet from the South Rim and 5,850 feet from the North Rim.
+
+### Context
+> This 1937 National Park Service visitor guide covers [[Grand Canyon National Park]] in Arizona, which was established as a national park by act of Congress in 1919 and covers 1,009.08 square miles. The booklet combines a visitor's rules summary, a historical timeline of exploration, a geological...
+> -- *[[GrandCanyonNationalParkArizona_11517]]*
+
+### Mentioned In
+- [[GrandCanyonNationalParkArizona_11517]]
 
 ## Kaiser Pumping Plant
 
@@ -893,6 +981,18 @@ The Karluk Weir is a counting weir on the Karluk River, about 23 miles upstream 
 ### Mentioned In
 - [[TheToxicityOfNineTherapeuticAn_12150]]
 
+## Karro Clay Loam
+
+### Summary
+Karro clay loam is one of the old valley-filling soil series mapped in the San Simon area, with a clay loam texture as its name indicates. The source lists it among these series without giving specific properties, yields, or management details.
+
+### Context
+> This 1921 [[Soil Survey]] by the [[Bureau Of Soils]], U.S. Department of Agriculture, in cooperation with the University of Arizona Department of Irrigation, maps the agricultural soils of the [[San Simon Valley]] in northeastern [[Cochise County]], Arizona. The surveyed area covers about 448...
+> -- *[[SoilSurveyOfTheSanSimonAreaAri_17437]]*
+
+### Mentioned In
+- [[SoilSurveyOfTheSanSimonAreaAri_17437]]
+
 ## Karst Aquifer
 <!-- fm: auto_enriched: true -->
 
@@ -1070,8 +1170,12 @@ Kathy Holley is a Bureau of Reclamation biologist profiled in the newsletter. Sh
 > This 1997 newsletter from the [[Upper Colorado River Recovery Program]] reports on habitat acquisition, wetland restoration, hatchery operations, stocking, water-rights agreements, and local partnerships. The program aims to re-establish self-sustaining populations of four endangered fishes:...
 > -- *[[RecoveryProgramForTheEndangere_11682]]*
 
+> This November 1994 report from the [[Bureau of Reclamation]] Grand Junction Projects Office presents Level I contaminant screening results for seven of 30 inventory sites in the [[Flooded Bottomland Habitat Restoration Program]] along the [[Colorado River]] and [[Gunnison River]]. Another group of...
+> -- *[[SiteScreeningResultsForSevenSi_20474]]*
+
 ### Mentioned In
 - [[RecoveryProgramForTheEndangere_11682]]
+- [[SiteScreeningResultsForSevenSi_20474]]
 
 ## Kats Petranka And Sih 1988
 <!-- fm: auto_enriched: true -->
@@ -1136,6 +1240,18 @@ Kawazu is a researcher mentioned in this 1967 literature review on water polluti
 
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+
+## Kayak
+
+### Summary
+A small, narrow boat propelled with a double-bladed paddle. The creel checker in this 1950 study used a kayak to float the Gunnison River over two afternoons per trip.
+
+### Context
+> This 1950 fisheries report, published by the [[Colorado Game and Fish Department]] (Fisheries Management Division) and written by Harvey J. Williams, examines whether the operation of [[Taylor Dam]] affected trout fishing on the [[Gunnison River]] between Gunnison and Sapinero. The study ran from...
+> -- *[[TheOperationOfTaylorReservoirA_11995]]*
+
+### Mentioned In
+- [[TheOperationOfTaylorReservoirA_11995]]
 
 ## Kayak Kauaʻi Outfitters
 
@@ -1407,6 +1523,18 @@ Kemp's Ridley Sea Turtle (Lepidochelys kempii) is a marine turtle species found 
 - [[PartEndangeredAndThreatenedWil_11597]]
 - [[EndangeredSpeciesActAmendments_13217]]
 
+## Ken Weston
+
+### Summary
+The Project Geologist who co-authored this November 1994 Bureau of Reclamation screening report with Kathy Holley. He helped prepare the site geology and contaminant screening documentation.
+
+### Context
+> This November 1994 report from the [[Bureau of Reclamation]] Grand Junction Projects Office presents Level I contaminant screening results for seven of 30 inventory sites in the [[Flooded Bottomland Habitat Restoration Program]] along the [[Colorado River]] and [[Gunnison River]]. Another group of...
+> -- *[[SiteScreeningResultsForSevenSi_20474]]*
+
+### Mentioned In
+- [[SiteScreeningResultsForSevenSi_20474]]
+
 ## Kendall
 
 ### Summary
@@ -1540,6 +1668,18 @@ Kennedy was a researcher who collaborated with Mihursky on temperature effects i
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Kennedy's Metabolic Rate Theory
+
+### Summary
+A theory linking the metabolic rate of organisms to their distribution across environmental conditions, including temperature. Ide cites it as consistent with his mayfly findings, supporting the view that distribution reflects evolved differences in metabolic rate and thermal tolerance rather than food competition.
+
+### Context
+> This 1935 monograph by F. P. Ide (University of Toronto, published as *Publications of the Ontario Fisheries Research Laboratory No. 50*) examines how water temperature structures the distribution of mayfly nymphs along two trout streams of the [[Nottawasaga River]] system in central Ontario. Ten...
+> -- *[[TheEffectOfTemperatureOnTheDis_14352]]*
+
+### Mentioned In
+- [[TheEffectOfTemperatureOnTheDis_14352]]
+
 ## Kenneth B. Armitage
 
 ### Summary
@@ -1561,8 +1701,12 @@ Iowa fisheries biologist who edited and convened the 1957 symposium on evaluatin
 > This document is the proceedings of a 1957 symposium, held at Iowa State College (Ames, Iowa) and convened by [[Kenneth D. Carlander]], on evaluating fish populations in warm water streams. The symposium treated any method giving population estimates, relative abundance, trends or condition as...
 > -- *[[SymposiumOnEvaluationOfFishPop_14380]]*
 
+> This reprinted 1951 paper by Reeve M. Bailey, first issued in *Iowa Fish and Fishing*, provides a revised check-list of the native and established fishes of [[Iowa]] together with dichotomous keys for identification. The check-list comprises 25 families, 61 genera, 133 species and 137 total kinds...
+> -- *[[ACheckListOfTheFishesOfIowaWit_17232]]*
+
 ### Mentioned In
 - [[SymposiumOnEvaluationOfFishPop_14380]]
+- [[ACheckListOfTheFishesOfIowaWit_17232]]
 
 ## Kenneth D. Woodburn
 
@@ -1649,6 +1793,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This document is the fiscal year (FY) 1990 work plan and budget for the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin (Recovery Program). It was issued by the [[Fish and Wildlife Service]] (Region 6, Denver) on August 30, 1989, and approved the...
 > -- *[[DraftfiscalYearWorkPlan_11611]]*
 
+> This document is a set of program records from the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin. It contains the final summary of the July 11, 1990 [[Management Group]] meeting, the draft [[FY-91 Work Plan]] (dated June 28, 1990), several...
+> -- *[[JulyManagementGroupMeetingSumm_21031]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1669,6 +1816,7 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[JulyDraftManagmentGroupMetingS_21013]]
 - [[ColoradoRiverEndangeredFishRec_21021]]
 - [[DraftfiscalYearWorkPlan_11611]]
+- [[JulyManagementGroupMeetingSumm_21031]]
 
 ## Kennith Foster
 
@@ -4043,6 +4191,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This California Department of Fish and Game progress report evaluates a six-year management experiment in which [[Kokanee Salmon]] (*Oncorhynchus nerka*) were introduced into the [[Twin Lakes]] of Mono County in 1958. The primary goal was a dependable local source of eggs from a late-spawning...
 > -- *[[AProgressReportOfTheTwinLakesB_18601]]*
 
+> This Minnesota Division of Game and Fish investigational report (Report No. 279, dated October 9, 1964, by R. E. Schumacher) presents preliminary 1963 test-netting results from six large lakes stocked with [[Rainbow Trout]] to create a [[Two-Story Fishery]]: a cold-water lower stratum for trout...
+> -- *[[PreliminaryResultsFromExperime_11284]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -4076,6 +4227,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[TheUseOfIncubationChannelsForT_20297]]
 - [[ResultsOfFisheriesInvestigatio_16398]]
 - [[AProgressReportOfTheTwinLakesB_18601]]
+- [[PreliminaryResultsFromExperime_11284]]
 
 ## Kolkwitz
 

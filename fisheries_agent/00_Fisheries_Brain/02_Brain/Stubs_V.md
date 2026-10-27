@@ -1824,6 +1824,18 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > The spikedace (*Meda fulgida*) is a threatened minnow that has been extirpated from most of its historic range in the [[Gila River Basin]]. It now survives only in the upper Gila River in New Mexico, and in [[Aravaipa Creek]], [[Eagle Creek]], and the upper [[Verde River]] in Arizona. All known...
 > -- *[[SpikedaceMedaFulgidaRecoveryPl_19448]]*
 
+> This U.S. Fish and Wildlife Service [[Biological Opinion]] (May 1990) addresses the proposed [[Central Arizona Project]] (CAP) Water Exchange on the upper [[Verde River]], Yavapai County, Arizona. The threatened [[Spikedace]] (*[[Meda Fulgida]]*) is the species of concern. The request was submitted...
+> -- *[[BiologicalOpinionCentralArizon_11830]]*
+
+> This U.S. Geological Survey Water-Supply Paper (1619-H, 1963) by J. H. Feth and J. D. Hem reports a reconnaissance of the ground-water system and springs of the [[Mogollon Rim]] region in central Arizona, the source of much of the water in the Gila, Salt, and Verde Rivers. The study, carried out...
+> -- *[[ReconaissanceOfHeadwaterSpring_16363]]*
+
+> This USDA Forest Service General Technical Report by [[Burchard H. Heede]] (Rocky Mountain Forest and Range Experiment Station, 1980) gives land managers a conceptual overview of [[Stream Dynamics]]. It explains how flow, [[Sediment Transport]] and channel form interact, how streams reach and lose...
+> -- *[[StreamDynamicsAnOverviewForLan_16592]]*
+
+> On September 17, 1993, the [[Greater Gila Biodiversity Project]], the [[Southwest Center for Biological Diversity]], and the [[Biodiversity Legal Foundation]], together with individuals [[David Hogan]] and [[Peter Galvin]], petitioned the [[U.S. Fish and Wildlife Service]] (USFWS) to uplist the...
+> -- *[[PetitionsToReclassifyTheLoachm_20447]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -1999,6 +2011,10 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[WaterResourcesOfTheSycamoreCre_13331]]
 - [[FieldNotesverdeRiverBelowBartl_17698]]
 - [[SpikedaceMedaFulgidaRecoveryPl_19448]]
+- [[BiologicalOpinionCentralArizon_11830]]
+- [[ReconaissanceOfHeadwaterSpring_16363]]
+- [[StreamDynamicsAnOverviewForLan_16592]]
+- [[PetitionsToReclassifyTheLoachm_20447]]
 
 ## Verde River Aquatic Ecology
 
@@ -2185,6 +2201,18 @@ A county in east central Illinois, USA, where Jordan Creek and its study section
 
 ### Mentioned In
 - [[AnInventoryOfTheFishesOfJordan_20182]]
+
+## Vermilion Flycatcher
+
+### Summary
+A small flycatcher that breeds in the marsh and mesquite woodland of the Quitobaquito springs. The report lists it among the breeding birds these habitats support.
+
+### Context
+> This technical report, by Peter L. Warren and L. Susan Anderson (January 1987, [[Quitobaquito Science Series]] No. 3), documents vegetation change around the spring complex at [[Quitobaquito Spring]], [[Organ Pipe Cactus National Monument]], after domestic livestock were removed from the monument...
+> -- *[[VegetationRecoveryFollowingLiv_14904]]*
+
+### Mentioned In
+- [[VegetationRecoveryFollowingLiv_14904]]
 
 ## Vermilion Rockfish
 <!-- fm: auto_enriched: true -->
@@ -3283,6 +3311,18 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This document is a 1988 file of correspondence and two draft manuscripts by [[Mark J. Rosenfeld]] on the taxonomy of endangered [[Colorado River Gila]] chubs (*Gila* spp., Cyprinidae) of the [[Upper Colorado River Basin]]. The manuscripts apply [[Morphometrics]] (photographic measurements analyzed...
 > -- *[[MorphometryOfFishesInTheGenusG_21074]]*
 
+> This 1973 report, prepared by the [[U.S. Army Corps of Engineers]] Los Angeles District for the [[Washington County]] Commission, maps flood hazards along the [[Virgin River]] and its major tributary, [[Fort Pierce Wash]], near [[St. George]], Utah. It documents historical floods, describes channel...
+> -- *[[FloodPlainInformationVirginRiv_11450]]*
+
+> This is a preliminary annotated-free bibliography compiled by Duncan McClusky on May 1, 1989, listing published and unpublished literature on [[Freshwater Fishes]] of [[Arizona]]. The author describes the list as a starting point: after a visit with [[C. O. Minckley]] of [[Arizona State...
+> -- *[[PreliminaryBibliographyOnFishI_12265]]*
+
+> This **draft** [[Environmental Assessment]] (U.S. Fish and Wildlife Service, Utah Field Office, dated August 9, 1999) evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*),...
+> -- *[[DesignationOfCriticalHabitatFo_13209]]*
+
+> This technical report, prepared by [[BIO/WEST Inc]] for the [[Southern Nevada Water Authority]] in March 1999, documents five years of seine-based fish surveys (July 1993 to December 1997) in the lower [[Virgin River]]. The study was started as a cooperative effort with the [[Nevada Division Of...
+> -- *[[FisheriesSurveyOfTheLowerVirgi_19872]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3406,6 +3446,10 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[AddendumToHydrologyAndInteract_12989]]
 - [[FishCommunityReorganizationInA_15861]]
 - [[MorphometryOfFishesInTheGenusG_21074]]
+- [[FloodPlainInformationVirginRiv_11450]]
+- [[PreliminaryBibliographyOnFishI_12265]]
+- [[DesignationOfCriticalHabitatFo_13209]]
+- [[FisheriesSurveyOfTheLowerVirgi_19872]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -3588,6 +3632,15 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This draft environmental assessment (EA), prepared by the [[U.S. Fish And Wildlife Service]] (Service) in August 1996, evaluates a project to eradicate the nonnative [[Red Shiner]] from the Virgin River in Utah. The red shiner competes with and may prey on native fishes, including the federally...
 > -- *[[EnvironmentalAssessmentForReds_16521]]*
 
+> This document is a set of U.S. Fish and Wildlife Service (USFWS) permitting records that authorize [[Arizona State University]] researchers to take, hold, propagate and study federally listed species. The core item is a subpermit letter from the Regional Director, dated 1992 and valid through...
+> -- *[[AuthorizationToUseUsFishAndWil_11958]]*
+
+> This **draft** [[Environmental Assessment]] (U.S. Fish and Wildlife Service, Utah Field Office, dated August 9, 1999) evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*),...
+> -- *[[DesignationOfCriticalHabitatFo_13209]]*
+
+> This technical report, prepared by [[BIO/WEST Inc]] for the [[Southern Nevada Water Authority]] in March 1999, documents five years of seine-based fish surveys (July 1993 to December 1997) in the lower [[Virgin River]]. The study was started as a cooperative effort with the [[Nevada Division Of...
+> -- *[[FisheriesSurveyOfTheLowerVirgi_19872]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -3657,6 +3710,9 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[AVisionForTheVirginConservatio_15060]]
 - [[FishCommunityReorganizationInA_15861]]
 - [[EnvironmentalAssessmentForReds_16521]]
+- [[AuthorizationToUseUsFishAndWil_11958]]
+- [[DesignationOfCriticalHabitatFo_13209]]
+- [[FisheriesSurveyOfTheLowerVirgi_19872]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -3737,12 +3793,16 @@ A structural basin in the lower Virgin River area whose faults control the direc
 > This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
 > -- *[[EndangeredSpeciesPermitRenewal_20638]]*
 
+> This **draft** [[Environmental Assessment]] (U.S. Fish and Wildlife Service, Utah Field Office, dated August 9, 1999) evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*),...
+> -- *[[DesignationOfCriticalHabitatFo_13209]]*
+
 ### Mentioned In
 - [[VirginRiverMeetingOf_11186]]
 - [[VirginRiverWoundfinPlanForBroo_16685]]
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[VirginSpinedaceConservationAgr_20262]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
+- [[DesignationOfCriticalHabitatFo_13209]]
 
 ## Virgin River Fishes Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -4104,6 +4164,9 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This draft environmental assessment (EA), prepared by the [[U.S. Fish And Wildlife Service]] (Service) in August 1996, evaluates a project to eradicate the nonnative [[Red Shiner]] from the Virgin River in Utah. The red shiner competes with and may prey on native fishes, including the federally...
 > -- *[[EnvironmentalAssessmentForReds_16521]]*
 
+> The Woundfin Recovery Plan, prepared by the Woundfin Recovery Team and dated April 15, 1979, sets out a management strategy for [[Woundfin]] (*Plagopterus argentissimus*), a cyprinid minnow listed as endangered since 1967. The Virgin River in Utah, Arizona and Nevada is the only stream where the...
+> -- *[[WoundfinPlagopterusArgentissim_13296]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -4152,6 +4215,7 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[StatusOfTheVirginSpinedaceLepi_13652]]
 - [[FishCommunityReorganizationInA_15861]]
 - [[EnvironmentalAssessmentForReds_16521]]
+- [[WoundfinPlagopterusArgentissim_13296]]
 
 ## Virgin Spinedace Conservation Agreement
 
@@ -4168,10 +4232,14 @@ The Virgin Spinedace Conservation Agreement (VSCA) is a cooperative conservation
 > This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
 > -- *[[VirginSpinedaceConservationAgr_20262]]*
 
+> This **draft** [[Environmental Assessment]] (U.S. Fish and Wildlife Service, Utah Field Office, dated August 9, 1999) evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*),...
+> -- *[[DesignationOfCriticalHabitatFo_13209]]*
+
 ### Mentioned In
 - [[VirginSpinedaceConservationAgr_20260]]
 - [[VirginSpinedaceConservationAgr_20261]]
 - [[VirginSpinedaceConservationAgr_20262]]
+- [[DesignationOfCriticalHabitatFo_13209]]
 
 ## Virgin Spinedace Conservation Agreement Strategy
 <!-- fm: auto_enriched: true -->
@@ -4680,6 +4748,18 @@ The basaltic upland landform of the study area, known as the Mesa de la Avanzada
 ### Mentioned In
 - [[AquaticResourceSurveyOfTheUnli_17285]]
 
+## Vollenweider Loading Model
+
+### Summary
+A phosphorus loading framework used to define trophic boundaries, as modified by Vollenweider and Dillon (1974) and Rast and Lee (1978). This report uses its thresholds to classify Norden as eutrophic, with a dangerous loading of 1.05 g P/m²-yr.
+
+### Context
+> This Bureau of Reclamation technical report (REC-ERC-81-8, May 1981, by James W. Yahnke) assesses the water quality of the proposed [[Norden Reservoir]] on the [[Niobrara River]] in north-central Nebraska. It was prepared after the EPA and the Nebraska Department of Environmental Control questioned...
+> -- *[[WaterQualityOfTheProposedNorde_20874]]*
+
+### Mentioned In
+- [[WaterQualityOfTheProposedNorde_20874]]
+
 ## Vollenweider Model
 
 ### Summary
@@ -5025,8 +5105,12 @@ An earlier study that the authors build on. It found that most Arizona topminnow
 > This study tests whether genetic diversity affects fitness in [[Poeciliopsis Occidentalis]], an endangered viviparous fish of the Gila River drainage and adjacent Sonora, Mexico. Three wild-derived laboratory stocks, differing in mean heterozygosity, were compared for survival, growth, fecundity,...
 > -- *[[HeterozygosityAndFitnessDiffer_18732]]*
 
+> This is a preliminary annotated-free bibliography compiled by Duncan McClusky on May 1, 1989, listing published and unpublished literature on [[Freshwater Fishes]] of [[Arizona]]. The author describes the list as a starting point: after a visit with [[C. O. Minckley]] of [[Arizona State...
+> -- *[[PreliminaryBibliographyOnFishI_12265]]*
+
 ### Mentioned In
 - [[HeterozygosityAndFitnessDiffer_18732]]
+- [[PreliminaryBibliographyOnFishI_12265]]
 
 ## Vrijenhoek Et Al. 1985
 <!-- fm: auto_enriched: true -->
