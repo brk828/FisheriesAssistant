@@ -112,6 +112,18 @@ O'Shaughnessy and Hewitt were researchers who reported that nitrification begins
 ### Mentioned In
 - [[SomeObservationsOnDenitrificat_12181]]
 
+## O. C. Farrington
+
+### Summary
+O. C. Farrington was a geologist cited for a suggestion about river history. The source says that, following his idea, western Mexican rivers may have captured headwaters of eastern drainages, which would explain some fish distribution patterns.
+
+### Context
+> This Field Columbian Museum zoological publication (Zoology Vol. V, Introduction and systematic catalogue) provides a descriptive list, identification keys and distribution analysis of the freshwater fishes of Mexico north of the Isthmus of Tehuantepec. The work is based largely on two field...
+> -- *[[TheFreshwaterFishesOfMexicoNor_12373]]*
+
+### Mentioned In
+- [[TheFreshwaterFishesOfMexicoNor_12373]]
+
 ## O. Eugene Maughan
 
 ### Summary
@@ -241,6 +253,9 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > This Arizona Game and Fish Department supplement evaluates the [[Catchable Trout Program]] in the [[Salt River]] below [[Stewart Mountain Dam]] during 1974 and 1975. About 30,000 [[Rainbow Trout]] were stocked and 100 percent were tagged with [[Flag Tags]] to estimate harvest, angler usage and...
 > -- *[[EvaluationOfTheAndCatchableTro_15816]]*
 
+> This 1994 petition, filed by David Hogan, the [[Greater Gila Biodiversity Project]], the Southwest Center for Biological Diversity and the Biodiversity Legal Foundation, asks the [[U.S. Fish And Wildlife Service]] (USFWS) to designate [[Critical Habitat]] for the [[Gila Trout]] under the...
+> -- *[[PetitionToDesignateCriticalHab_20448]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -259,6 +274,7 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[ABiologicalSurveyOfStreamsAndL_19340]]
 - [[EvaluationOfTheAndCatchableTro_15816]]
+- [[PetitionToDesignateCriticalHab_20448]]
 
 ## Oak Creek Canyon
 
@@ -283,6 +299,18 @@ A site on Oak Creek in Arizona sampled by the Fall Fish Count (FC3610). The repo
 
 ### Mentioned In
 - [[FallFishCountSummary_20903]]
+
+## Oak Grove Canyon
+
+### Summary
+A canyon in the Redrock drainage that the report recommends evaluating for riparian condition against Forest Plan standards. The author also recommends transplanting Gila topminnow there, since it could support them in years of normal or above-average surface water.
+
+### Context
+> This 1996 report by fisheries biologist Jerome A. Stefferud repeats a 1989 photo-point survey of [[Redrock Canyon]], Santa Cruz County, Arizona, to document changes in aquatic habitat after cattle exclusion. The canyon supports the only natural population of the endangered [[Gila Topminnow]] on...
+> -- *[[RedrockCanyonAquaticHabitatSur_14763]]*
+
+### Mentioned In
+- [[RedrockCanyonAquaticHabitatSur_14763]]
 
 ## Oak Mere
 <!-- fm: auto_enriched: true -->
@@ -660,6 +688,18 @@ The oceanic skipjack (Katsuwonus pelamis) is a pelagic tuna that lives far from 
 ### Mentioned In
 - [[FishRemainsFromCenturyRanchSit_18766]]
 - [[FishRemainsFromTheCenturyRanch_18756]]
+
+## Ocellated Turkey
+
+### Summary
+The Ocellated Turkey (Agriocharis ocellata) is a turkey of Central American lowland forests, here tied to the Petén. The source notes that hunters asked for a ban on hunting it and that the Department was asked to consider this.
+
+### Context
+> This U.S. Fish and Wildlife Service Special Scientific Report (Wildlife No. 5, June 1950) summarises a joint survey of Guatemala's wildlife and fisheries carried out in March–May 1946 and March–June 1947 under an intergovernmental agreement with the Guatemalan Ministry of Agriculture. The report's...
+> -- *[[AFishAndWildlifeSurveyOfGuatem_20529]]*
+
+### Mentioned In
+- [[AFishAndWildlifeSurveyOfGuatem_20529]]
 
 ## Ocelot
 <!-- fm: auto_enriched: true -->
@@ -1190,6 +1230,30 @@ Oedogonium is a filamentous green alga that grew richly in the ORNL settling bas
 ### Mentioned In
 - [[EcologicalValueOfFloodedBottom_20860]]
 
+## Off-Channel Pools
+
+### Summary
+Off-channel pools are side pools built away from the main river or creek channel, intended as habitat for native fish. The plan lists building them as an action common to all alternatives, and it names large pools as a limiting factor for razorback sucker in Bonita Creek. The planned number is about 5 to 10 in Alternatives Two, Three, Four and the Preferred, and 2 in Alternative One.
+
+### Context
+> This August 1993 draft plan from the Bureau of Land Management (BLM) Safford District sets out a 15-year management plan for the Gila Box Riparian National Conservation Area (NCA). Congress designated the NCA in the Arizona Desert Wilderness Act of 1990 (Public Law 101-628) to conserve, protect and...
+> -- *[[DraftGilaBoxRiparianNationalCo_11469]]*
+
+### Mentioned In
+- [[DraftGilaBoxRiparianNationalCo_11469]]
+
+## Off-Highway Vehicles
+
+### Summary
+Off-highway vehicles are motorized vehicles driven off paved roads, often on trails and open land. This source only lists the term as a related concept and does not describe any OHV findings, actions or impacts for the Gila Box NCA.
+
+### Context
+> This August 1993 draft plan from the Bureau of Land Management (BLM) Safford District sets out a 15-year management plan for the Gila Box Riparian National Conservation Area (NCA). Congress designated the NCA in the Arizona Desert Wilderness Act of 1990 (Public Law 101-628) to conserve, protect and...
+> -- *[[DraftGilaBoxRiparianNationalCo_11469]]*
+
+### Mentioned In
+- [[DraftGilaBoxRiparianNationalCo_11469]]
+
 ## Office Cove
 
 ### Summary
@@ -1261,6 +1325,18 @@ The Office of Naval Research is a U.S. Navy research organization that provided 
 
 ### Mentioned In
 - [[UltravioletSterilizationOfAqua_16687]]
+
+## Office of Saline Water
+
+### Summary
+A Federal office that works on converting salty water into usable water. The booklet says it built a demonstration plant at Roswell that converts brackish well water, producing one million gallons per day. It also reports that the cost of converted water fell from about $4-$5 to $1-$1.25 per thousand gallons over 1952-61.
+
+### Context
+> This 1964 booklet from the U.S. Department of the Interior is a state-wide survey of New Mexico's natural resources: land, water, fish and wildlife, minerals, forests, Indian resources, geology, and recreation. Its aquatic content centers on freshwater sport fisheries, the scarcity and management...
+> -- *[[NaturalResourcesOfNewMexico_11513]]*
+
+### Mentioned In
+- [[NaturalResourcesOfNewMexico_11513]]
 
 ## Office Of Surface Mining
 <!-- fm: auto_enriched: true -->
@@ -1339,6 +1415,18 @@ An intake design in which the inlet is set apart from the pump well by a closed 
 
 ### Mentioned In
 - [[FishProtectiveDevicesACompilat_11796]]
+
+## Ogallala Aquifer
+
+### Summary
+The Ogallala Aquifer is a large underground water source on the High Plains. In this guide, it is noted as feeding springs in the Republican River basin, where fourteen native species were recorded (Cancalosi 1980).
+
+### Context
+> This 1985 field guide, written by John Woodling for the [[Colorado Division of Wildlife]], describes about 50 of the roughly 80 fish species found in Colorado. These are the minnows, suckers, darters and other species seldom sought by anglers, often labelled "trash" or "forage" fish. The guide...
+> -- *[[ColoradosLittleFishAGuideToThe_20824]]*
+
+### Mentioned In
+- [[ColoradosLittleFishAGuideToThe_20824]]
 
 ## Ogallala Formation
 
@@ -1652,9 +1740,13 @@ The Ohio River Basin is the area from which the Asiatic clam spread into Tenness
 > This 1956 handbook, prepared by the [[Aquatic-Life Advisory Committee]] for the [[Ohio River Valley Water Sanitation Commission]], provides a uniform field protocol for the initial investigation of fish-kills in natural waters. It is explicitly a practical outline for emergency response, not a...
 > -- *[[ProceduresForInvestigationOfFi_21178]]*
 
+> This ORSANCO reference report, dated September 1, 1961, uses the 1959 steel strike as a natural experiment. Upper Ohio Valley steel mills stopped for 16 weeks (July 15 to November 7, 1959), and river sampling at 12 stations ran from July 21 to December 10, 1959. The study compares stream chemistry,...
+> -- *[[RiverqualityConditionsDuringAW_15943]]*
+
 ### Mentioned In
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[ProceduresForInvestigationOfFi_21178]]
+- [[RiverqualityConditionsDuringAW_15943]]
 
 ## Ohio Shad
 
@@ -2736,10 +2828,14 @@ A state of low nutrient supply and low biological productivity in a water body. 
 > This Bureau of Reclamation report (REC-ERC-85-6, January 1985, by S. G. Campbell and J. F. LaBounty) presents preoperation chlorophyll *a* data from [[Twin Lakes]], Colorado, for 1977–81. Data were collected before the [[Mt. Elbert Pumped-Storage Powerplant]] began operating in September 1981, so...
 > -- *[[ChlorophyllAConcentrationAndDi_17366]]*
 
+> This Bureau of Reclamation Engineering and Science Monograph (No. 43, May 1993) reports 15 years of cooperative limnology and fishery studies (1971–86) on [[Twin Lakes]], a pair of dimictic, oligotrophic, glacially formed montane lakes in central Colorado. The studies assessed the effects of the...
+> -- *[[AquaticEcologyStudiesOfTwinLak_11484]]*
+
 ### Mentioned In
 - [[TheAgeAndGrowthOfCentrarchidFi_13538]]
 - [[TroutCatchAndAnglerUseAtLakeTa_12122]]
 - [[ChlorophyllAConcentrationAndDi_17366]]
+- [[AquaticEcologyStudiesOfTwinLak_11484]]
 
 ## Oligotrophic Loughs
 <!-- fm: auto_enriched: true -->
@@ -2794,6 +2890,18 @@ Oliva spicata is a gastropod species present in the Puerto Peñasco area. This s
 
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+
+## Olivaceous Cormorant
+
+### Summary
+A waterbird whose northernmost breeding colony in its range was at Elephant Butte Lake. The source says it first bred there in 1972, with a 1975 maximum of seven nests that fledged five young.
+
+### Context
+> This handbook, issued by the [[New Mexico Department Of Game And Fish]] in 1979 and written by John P. Hubbard, Marshall C. Conway, Howard Campbell, Gregory Schmitt and Michael D. Hatch, documents the 93 animal species listed as endangered in New Mexico under the [[Wildlife Conservation Act]]...
+> -- *[[HandbookOfSpeciesEndangeredInN_19959]]*
+
+### Mentioned In
+- [[HandbookOfSpeciesEndangeredInN_19959]]
 
 ## Olivarian Brook
 <!-- fm: auto_enriched: true -->
@@ -3133,6 +3241,9 @@ Oncorhynchus is a genus of anadromous and semelparous fish in the salmon family 
 > This paleontological taxonomy paper by G. R. Smith and R. R. Miller describes the fish fossils from the Miocene [[Clarkia Lake Beds]] in northern Idaho. The assemblage contains three species (possibly four) from three families: a large trout tentatively assigned to the Eurasian genus [[Hucho]], a...
 > -- *[[TaxonomyOfFishesFromMioceneCla_21156]]*
 
+> This 1980 University of Michigan doctoral dissertation by Michael Leonard Smith examines the evolutionary and ecological history of the freshwater fish fauna of the [[Rio Lerma Basin]] in the western [[Mesa Central]] of Mexico. The work combines fossil fish collections from Late Miocene to Late...
+> -- *[[TheEvolutionaryAndEcologicalHi_21181]]*
+
 ### Mentioned In
 - [[Bureaucratic Mischief Recognizing Endangered Species and Subspecies]]
 - [[KitzhaberCallsForBreachingFour_13544]]
@@ -3145,6 +3256,7 @@ Oncorhynchus is a genus of anadromous and semelparous fish in the salmon family 
 - [[TentativeSummaryOfCollectingAc_13171]]
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[TaxonomyOfFishesFromMioceneCla_21156]]
+- [[TheEvolutionaryAndEcologicalHi_21181]]
 
 ## Oncorhynchus apache
 
@@ -3768,6 +3880,18 @@ The Fryingpan-Arkansas Project Operating Principles (House Document 130) are gov
 ### Mentioned In
 - [[RuediReservoirReleasescolorado_12300]]
 
+## Operation Of Glen Canyon Dam
+
+### Summary
+The Glen Canyon Dam is the subject of this draft environmental impact statement, which covers its operation. Dam closure in 1963 substantially altered the Colorado River's flows, sediment load, and water chemistry through Grand Canyon. The appendices propose a long-term monitoring program to track the ecological and economic responses to those operations.
+
+### Context
+> This draft Environmental Impact Statement (EIS) appendix volume supports the [[Operation Of Glen Canyon Dam]] and covers five technical areas: long-term monitoring and research (Appendix A), hydrology (Appendix B), water quality (Appendix C), sediment (Appendix D), and hydropower (within the...
+> -- *[[OperationOfGlenCanyonDamdraftE_11491]]*
+
+### Mentioned In
+- [[OperationOfGlenCanyonDamdraftE_11491]]
+
 ## Operation Outdoors
 
 ### Summary
@@ -4343,6 +4467,18 @@ Orange County is a county in southern California where Pumpkinseed were reported
 - [[TheStatusOfThePumpkinseedLepom_12862]]
 - [[FishRemainsFromArchaeologicalS_18761]]
 
+## Orange Roughy
+
+### Summary
+A long-lived, slow-growing deep-sea fish that is vulnerable to overfishing. The circular includes a special box on this species, which is part of its broader concern about long-lived, slow-growing resources.
+
+### Context
+> This FAO Fisheries Circular (No. 710, Revision 8, Part 1, Rome, 1992, 114 p.) reviews the state of the world's marine fish stocks, based mainly on [[FAO Yearbook Statistics]] through 1990. It covers world catch trends, sixteen regional reviews by FAO statistical area, special sections on...
+> -- *[[ReviewOfTheStateOfWorldFishery_16311]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16311]]
+
 ## Orange-Mouth Corvina
 
 ### Context
@@ -4449,6 +4585,9 @@ Orangemouth Corvina is a marine fish species that has been documented in the con
 > This document is a 1958 revision of the official check list of California's freshwater and anadromous fishes, prepared by Leo Shapovalov, William A. Dill, and Almo J. Cordone of the [[California Department Of Fish And Game]] Inland Fisheries Branch. It replaces the 1950 edition because nine years...
 > -- *[[ARevisedCheckListOfTheFreshwat_11401]]*
 
+> Fish Bulletin No. 113 (California Department of Fish and Game, 1961), edited by [[Boyd W Walker]], reports the results of the UCLA Salton Sea Research Project (1954–1957) on the ecology of the Salton Sea and its prospects for a sportfishery. Before 1950 the Sea held only four fish species, two of...
+> -- *[[TheEcologyOfTheSaltonSeaCalifo_14433]]*
+
 ### Mentioned In
 - [[ComputerizedDataBaseForExoticF_1991]]
 - [[EvaluationOfProposedIntroducti_12261]]
@@ -4460,6 +4599,7 @@ Orangemouth Corvina is a marine fish species that has been documented in the con
 - [[ADistributionSurveyOfDesertPup_20197]]
 - [[CaliforniaTroutSalmonAndWarmwa_20548]]
 - [[ARevisedCheckListOfTheFreshwat_11401]]
+- [[TheEcologyOfTheSaltonSeaCalifo_14433]]
 
 ## Orangespotted Sunfish
 <!-- fm: auto_enriched: true -->
@@ -5309,8 +5449,13 @@ Oreonectes anophthalmus is a loach species from the family Cobitidae. This sourc
 ## Orestias
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
+> -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
+
 ### Mentioned In
 - [[ArtificialHybridizationOfCreni_14299]]
+- [[OsteologyAndPhylogenyOfOviparo_11369]]
 
 ## Orestiidae
 
@@ -6084,8 +6229,12 @@ Oryzias is a new genus established by Jordan and Snyder in 1906 to accommodate t
 > This 1906 taxonomic review by [[Jordan]] and [[Snyder]] documents two species of killifishes (family [[Poeciliidae]]) from Japan: [[Fundulichthys virescens]] and [[Oryzias latipes]]. Both are small fishes inhabiting rice swamps, pools, and ditches in southern Japan, likely feeding on mosquitoes....
 > -- *[[AReviewOfThePoeciliidaeOrKillf_19855]]*
 
+> This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
+> -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
+
 ### Mentioned In
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
+- [[OsteologyAndPhylogenyOfOviparo_11369]]
 
 ## Oryzias Latipes
 <!-- fm: auto_enriched: true -->
@@ -6731,8 +6880,12 @@ The study of skeletal structure, which is the main tool this source uses to clas
 > This 1960 University of Michigan doctoral dissertation by [[Teruya Uyeno]] uses comparative [[Osteology]] to resolve the classification of North American minnows in the genera [[Gila]], [[Richardsonius]] and [[Ptychocheilus]]. These genera had a chaotic systematic history, with many species shifted...
 > -- *[[OsteologyAndPhylogenyOfTheAmer_13238]]*
 
+> This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
+> -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
+
 ### Mentioned In
 - [[OsteologyAndPhylogenyOfTheAmer_13238]]
+- [[OsteologyAndPhylogenyOfOviparo_11369]]
 
 ## Osteostraci
 
@@ -7419,9 +7572,13 @@ The Ouray Endangered Fish Culture Experiment Station (OES) is a U.S. Fish and Wi
 > This FY 1994 summary report documents the annual accomplishments of the Recovery Implementation Program for Endangered Fish Species in the [[Upper Colorado River Basin]]. The program addresses recovery of four federally listed endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus...
 > -- *[[RecoveryImplementationProgramF_11712]]*
 
+> This plan, prepared by [[Richard S Wydoski]] for the [[Recovery Implementation Program]] (RIP) in the Upper Colorado River Basin, is a reference guide for the captive propagation of the four [[Endangered Colorado River Fishes]]: [[Razorback Sucker]], [[Bonytail]], [[Humpback Chub]], and [[Colorado...
+> -- *[[CoordinatedHatcheryFacilityPla_11714]]*
+
 ### Mentioned In
 - [[AddendumToGeneticsManagementCo_1993]]
 - [[RecoveryImplementationProgramF_11712]]
+- [[CoordinatedHatcheryFacilityPla_11714]]
 
 ## Ouray Endangered Fish Hatchery
 
@@ -7601,6 +7758,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
 > -- *[[CollectedNotesminutesreportsno_17172]]*
 
+> This U.S. Fish and Wildlife Service programmatic environmental assessment (November 1987) analyzes the environmental consequences of [[Department of the Interior]] participation in a Federal/State/private [[Recovery Implementation Program]] for three endangered fishes ([[Colorado Squawfish]],...
+> -- *[[FinalEnvironmentalAssessment_11629]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -7630,6 +7790,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[HabitatRequirementsOfJuvenileC_20460]]
 - [[JulyManagementGroupMeetingSumm_21031]]
 - [[CollectedNotesminutesreportsno_17172]]
+- [[FinalEnvironmentalAssessment_11629]]
 
 ## Ouray Reach
 
@@ -7831,12 +7992,16 @@ A fishway in which water passes from pool to pool mainly over notched weirs or c
 > This 1945 Illinois Natural History Survey bulletin by [[George W. Bennett]] documents the only case of [[Overfishing]] ever observed by Survey aquatic biologists in Illinois. The study covers [[Onized Lake]], a 2-acre artificial pond near [[Alton Illinois]] that was intensively angled by members of...
 > -- *[[OverfishingInASmallArtificialL_18158]]*
 
+> This FAO Fisheries Circular (No. 710, Revision 8, Part 1, Rome, 1992, 114 p.) reviews the state of the world's marine fish stocks, based mainly on [[FAO Yearbook Statistics]] through 1990. It covers world catch trends, sixteen regional reviews by FAO statistical area, special sections on...
+> -- *[[ReviewOfTheStateOfWorldFishery_16311]]*
+
 ### Mentioned In
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
 - [[TheControlOfPopulationDensityT_1959]]
 - [[Sturgeons_12753]]
 - [[TheAmericanShad_16110]]
 - [[OverfishingInASmallArtificialL_18158]]
+- [[ReviewOfTheStateOfWorldFishery_16311]]
 
 ## Overflow Wetlands Wildlife Habitat Area
 <!-- fm: auto_enriched: true -->
@@ -8947,6 +9112,18 @@ A Land Resource Area in northeastern Oklahoma, shown in the report's preface map
 ### Mentioned In
 - [[OzarkaANewSubgenusOfEtheostoma_12006]]
 
+## Ozark National Scenic Riverways
+
+### Summary
+A National Park Service unit in Missouri protecting the Current River and Jacks Fork. The source reports rising canoe traffic, with 12,600 canoes counted on the Upper Current River in 1971 and 36,100 in the most recent season. Managers used restraints to preserve the status quo rather than set a formal carrying capacity.
+
+### Context
+> These proceedings from the National Park Service Southwest Region Superintendent's Conference (Fort Worth, April 29–30, 1976; coordinator Roland H. Wauer) bring together case studies on how recreational use affects river corridors, beaches and backcountry in NPS units. The focus is [[Carrying...
+> -- *[[ProceedingsOfTheRdResourcesMan_19640]]*
+
+### Mentioned In
+- [[ProceedingsOfTheRdResourcesMan_19640]]
+
 ## Ozark Plateau
 <!-- fm: auto_enriched: true -->
 
@@ -8964,6 +9141,18 @@ An upland region in the central United States. The source notes that fishes and 
 
 ### Mentioned In
 - [[RecentAdjustmentsInAnimalRange_20846]]
+
+## Ozark Province
+
+### Summary
+The Ozark Province is a physiographic region in the southeast of the Kansas area, one of three provinces that meet in Kansas along with the glaciated northeast and the fluviatile and eolian west and southwest. The source places Kansas in a transition zone that includes this province.
+
+### Context
+> State Geological Survey of Kansas Bulletin 99 (1952), by John C. Frye and A. Byron Leonard, is a synthesis of the non-marine Pleistocene deposits underlying much of Kansas. The report reviews the geologic processes that formed these deposits (glaciation, stream sedimentation, wind deposition,...
+> -- *[[PleistoceneGeologyOfKansas_18863]]*
+
+### Mentioned In
+- [[PleistoceneGeologyOfKansas_18863]]
 
 ## Ozark Region
 <!-- fm: auto_enriched: true -->
@@ -9006,6 +9195,18 @@ An upland region in the central United States. The source notes that fishes and 
 
 ### Mentioned In
 - [[SmallFishCommunityStructureInO_1982]]
+
+## Ozark Uplift
+
+### Summary
+The Ozark Uplift is a region in southern Illinois whose streams host several species not found widely elsewhere in the state. Leuctra claasseni is confined to Ozarkian streams, and Allocapnia forbesi and A. pygmaea are associated with this area.
+
+### Context
+> This 1935 bulletin of the [[Illinois Natural History Survey]] by [[Theodore H. Frison]] is a comprehensive survey of the aquatic insect order [[Plecoptera]] (stoneflies) in Illinois. Based on collecting and rearing from 1926 onward, the study records 36 stonefly species for the state, plus at least...
+> -- *[[TheStonefliesOrPlecopteraOfIll_18843]]*
+
+### Mentioned In
+- [[TheStonefliesOrPlecopteraOfIll_18843]]
 
 ## Ozark Violet
 

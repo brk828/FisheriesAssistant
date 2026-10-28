@@ -426,6 +426,9 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 > This Pennsylvania extension-style guide explains how aquatic plants (flowering plants and algae) shape freshwater ecosystems, why they are sometimes desirable and sometimes a nuisance, and how managers can control them. It covers the three growth forms of flowering plants ([[Submergent Plants]],...
 > -- *[[AquaticPlantsManagementAndCont_17108]]*
 
+> This U.S. Department of Agriculture handbook, prepared by R. S. Dunham of the Agricultural Research Service in cooperation with the Bureau of Yards and Docks, Department of the Navy (issued March 1965), is a practical manual for chemical control of weeds on noncropland. It reviews more than 1,000...
+> -- *[[HerbicideManualForNoncroplandW_19157]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
@@ -434,6 +437,7 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 - [[YourOwnFishpond_17944]]
 - [[ListOfReferencesOnControlOfAqu_19263]]
 - [[AquaticPlantsManagementAndCont_17108]]
+- [[HerbicideManualForNoncroplandW_19157]]
 
 ## 2,4-D and 2,4,5-T Herbicides
 

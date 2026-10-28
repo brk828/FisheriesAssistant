@@ -320,6 +320,18 @@ A trichodactylid crab identified in this paper from three specimens collected at
 ### Mentioned In
 - [[FirstApproachToTheLimnologyOfA_1990]]
 
+## Valencia
+
+### Summary
+A monotypic genus, with the single species *V. hispanica*, forming Group IV (valencids) in the study. The source treats it as a distinct lineage in the classification, and it is noted as occurring in Spain.
+
+### Context
+> This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
+> -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
+
+### Mentioned In
+- [[OsteologyAndPhylogenyOfOviparo_11369]]
+
 ## Valencia Et Al 1993
 <!-- fm: auto_enriched: true -->
 
@@ -504,6 +516,18 @@ A lowland Central Valley fish that the source lists among species considered una
 ### Mentioned In
 - [[TheNativeFishFaunaOfYosemiteNa_14482]]
 
+## Valley-Fill Aquifer
+
+### Summary
+An aquifer formed by unconsolidated sediments filling the valleys, listed among the study's hydrogeologic units. The source note gives no specific hydraulic values for it, and it is referenced mainly as part of the regional framework.
+
+### Context
+> This U.S. Geological Survey Professional Paper (712-C, 1975, by Isaac J. Winograd and William Thordarson) was prepared for the [[U.S. Atomic Energy Commission]]. It characterizes how ground water moves beneath the [[Nevada Test Site]] and the surrounding south-central [[Great Basin]], to assess the...
+> -- *[[HydrogeologicAndHydrochemicalF_12114]]*
+
+### Mentioned In
+- [[HydrogeologicAndHydrochemicalF_12114]]
+
 ## Valley-Floor Trough
 <!-- fm: auto_enriched: true -->
 
@@ -666,6 +690,18 @@ A Van Dorn Bottle is a water sampling device used to collect water samples at sp
 
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
+
+## Van Horn
+
+### Summary
+Van Horn is a town in West Texas. The source lists a Van Horn topographic sheet, and its marginal notes mark numerous sinkholes in Andrews and Martin counties, Texas.
+
+### Context
+> This document is a map index and atlas reference compiled by [[José García]] of Ciudad Chihuahua, covering the [[Chihuahuan Desert]] region of northern Mexico and the southwestern United States. It contains no fish, invertebrate, plankton, or water-chemistry data. Its content is cartographic: a...
+> -- *[[MapsOfTheChihuahuanDesertRegio_16912]]*
+
+### Mentioned In
+- [[MapsOfTheChihuahuanDesertRegio_16912]]
 
 ## Van Horne
 
@@ -1114,6 +1150,18 @@ Vasco Tanner collected the leopard frogs from Berry Springs in 1950 that are hel
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
 - [[MeetingNextWeek_19735]]
+
+## Vaseys Paradise
+
+### Summary
+A location in Grand Canyon on the Colorado River, listed among the study sites for this source. The provided text does not give further details about its monitoring or findings.
+
+### Context
+> This April 1997 volume collects abstracts and executive summaries from a symposium on the 1996 [[Beach Habitat-Building Flow]] (also called the experimental flood, test flow, or spike flow) released from [[Glen Canyon Dam]]. The flow was a seven-day release of about 1,274 m³/s (45,000 cfs), with...
+> -- *[[GlenCanyonDamBeachhabitatBuild_18131]]*
+
+### Mentioned In
+- [[GlenCanyonDamBeachhabitatBuild_18131]]
 
 ## Vasquez Formation
 
@@ -1568,6 +1616,30 @@ Verde is a Mexican river system inhabited by Gila with 8,9-9,8 fin ray counts, 6
 ### Mentioned In
 - [[DraftsAndNotesOnTheCyprinidFis_15336]]
 
+## Verde Basin
+
+### Summary
+The Verde Basin is a structural basin in central Arizona. The source interprets it as a graben, a down-dropped block bounded by faults, and links evaporite deposits there to the sodium and sulfate in Verde River water.
+
+### Context
+> This 1954 U.S. Geological Survey open-file report (SY-339, Tucson, Arizona) presents a reconnaissance of springs in the [[Mogollon Rim]] region of central Arizona, the source area for much of the water in the [[Gila River]], [[Salt River]], and [[Verde River]]. The region had not previously been...
+> -- *[[PreliminaryReportOfInvestigati_16361]]*
+
+### Mentioned In
+- [[PreliminaryReportOfInvestigati_16361]]
+
+## Verde Fault
+
+### Summary
+The Verde Fault is a fault in the Verde Valley that has displaced alluvial fans by up to 450 m since the Miocene (Wolfe, 1981, pers. comm.). The source suggests its movement may have shifted environmental boundaries during deposition of the Verde Formation.
+
+### Context
+> This Northern Arizona University M.S. thesis by Jason Harris Donchin (1983) examines the [[Verde Formation]], a late Miocene to early Pliocene sequence of carbonate, clastic and basaltic rocks deposited near the eastern margin of the Verde depositional basin in central Arizona. Six measured...
+> -- *[[StratigraphyAndSedimentaryEnvi_19062]]*
+
+### Mentioned In
+- [[StratigraphyAndSedimentaryEnvi_19062]]
+
 ## Verde Formation
 
 ### Summary
@@ -1586,11 +1658,19 @@ The Verde Formation is a Miocene-Pliocene geological formation associated with a
 > This review synthesizes the Tertiary (Paleocene to Pliocene) sedimentary units of Arizona, cataloguing 41 numbered stratigraphic units by age and location. It links basin formation to three major tectonic events, the [[Laramide Orogeny]], the [[Mid-Tertiary Orogeny]], and the [[Basin and Range...
 > -- *[[LocationOfTertiaryBasinsAndorS_19593]]*
 
+> This 1954 U.S. Geological Survey open-file report (SY-339, Tucson, Arizona) presents a reconnaissance of springs in the [[Mogollon Rim]] region of central Arizona, the source area for much of the water in the [[Gila River]], [[Salt River]], and [[Verde River]]. The region had not previously been...
+> -- *[[PreliminaryReportOfInvestigati_16361]]*
+
+> This Northern Arizona University M.S. thesis by Jason Harris Donchin (1983) examines the [[Verde Formation]], a late Miocene to early Pliocene sequence of carbonate, clastic and basaltic rocks deposited near the eastern margin of the Verde depositional basin in central Arizona. Six measured...
+> -- *[[StratigraphyAndSedimentaryEnvi_19062]]*
+
 ### Mentioned In
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[FinalReportToMontezumaMonument_16015]]
 - [[CentralArizonaProjectWaterAssi_13197]]
 - [[LocationOfTertiaryBasinsAndorS_19593]]
+- [[PreliminaryReportOfInvestigati_16361]]
+- [[StratigraphyAndSedimentaryEnvi_19062]]
 
 ## Verde Paddlethon
 <!-- fm: auto_enriched: true -->
@@ -1984,6 +2064,12 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This document is the transmittal package and river data summaries for the Arizona component of the [[Nationwide Rivers Inventory]], issued by the [[National Park Service]] Western Region in April 1982 (list dated January 1982). It covers 14 Arizona rivers or river segments that were judged to be...
 > -- *[[TheNationwideRiversInventoryAr_19590]]*
 
+> This 1954 U.S. Geological Survey open-file report (SY-339, Tucson, Arizona) presents a reconnaissance of springs in the [[Mogollon Rim]] region of central Arizona, the source area for much of the water in the [[Gila River]], [[Salt River]], and [[Verde River]]. The region had not previously been...
+> -- *[[PreliminaryReportOfInvestigati_16361]]*
+
+> This Bureau of Reclamation literature review (REC-ERC-84-7, June 1984) assesses whether three nonnative fishes, [[Striped Bass]], [[White Bass]] and [[Blue Tilapia]], could be transferred from the [[Colorado River]] into central Arizona during operation of the [[Central Arizona Project]] (CAP),...
+> -- *[[PotentialForIntroductionOfThre_19188]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -2167,6 +2253,8 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[EvaluationOfTheRazorbackSucker_16671]]
 - [[SpikedaceMedaFulgidaAndLoachMi_17036]]
 - [[TheNationwideRiversInventoryAr_19590]]
+- [[PreliminaryReportOfInvestigati_16361]]
+- [[PotentialForIntroductionOfThre_19188]]
 
 ## Verde River Aquatic Ecology
 
@@ -2209,10 +2297,14 @@ The Verde River drainage supports several introduced bass species, with Smallmou
 > This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
 > -- *[[MorphologicalVariationInGilaPi_12778]]*
 
+> This Northern Arizona University M.S. thesis by Jason Harris Donchin (1983) examines the [[Verde Formation]], a late Miocene to early Pliocene sequence of carbonate, clastic and basaltic rocks deposited near the eastern margin of the Verde depositional basin in central Arizona. Six measured...
+> -- *[[StratigraphyAndSedimentaryEnvi_19062]]*
+
 ### Mentioned In
 - [[SectionConsultationAmendingThe_1998_04_28]]
 - [[VerdeValleyReportsAndSurveysFr_12879]]
 - [[MorphologicalVariationInGilaPi_12778]]
+- [[StratigraphyAndSedimentaryEnvi_19062]]
 
 ## Verdi Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -3074,6 +3166,18 @@ A vinyl plastic subcutaneous tag is a small tag inserted beneath the belly skin 
 ### Mentioned In
 - [[RecognitionAndReturnOfTroutTag_14111]]
 
+## Violet-Crowned Hummingbird
+
+### Summary
+A Mexican hummingbird that is known in New Mexico from only a few records or pairs in Guadalupe Canyon. The source lists it among the Mexican species of very limited state occurrence.
+
+### Context
+> This handbook, issued by the [[New Mexico Department Of Game And Fish]] in 1979 and written by John P. Hubbard, Marshall C. Conway, Howard Campbell, Gregory Schmitt and Michael D. Hatch, documents the 93 animal species listed as endangered in New Mexico under the [[Wildlife Conservation Act]]...
+> -- *[[HandbookOfSpeciesEndangeredInN_19959]]*
+
+### Mentioned In
+- [[HandbookOfSpeciesEndangeredInN_19959]]
+
 ## Viperidae
 
 ### Summary
@@ -3509,6 +3613,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This systematic revision by [[Robert Hershler]] and [[J. Jerry Landye]] describes the hydrobiid snail (springsnail) fauna of Arizona. The authors report 14 species: 12 [[Pyrgulopsis]] and 2 [[Tryonia]]. Thirteen are described as new, and one, *Pyrgulopsis deserta* (Pilsbry), is previously known....
 > -- *[[ArizonaHydrobiidaeProsobranchi_20352]]*
 
+> This 1998 hydrologic study, prepared by [[Psomas and Associates]] for the [[Washington County Water Conservancy District]] (WCWCD), evaluates how the construction and operation of the [[Quail Creek Pipeline]] (completed 1985) changed flows in the [[Virgin River]] near Hurricane, Utah. Using...
+> -- *[[VirginRiverReturnFlowStudy_18717]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3642,6 +3749,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[RecoveryPlanForWoundfinPlagopt_20845]]
 - [[EndangeredAndThreatenedSpecies_11633]]
 - [[ArizonaHydrobiidaeProsobranchi_20352]]
+- [[VirginRiverReturnFlowStudy_18717]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -3848,6 +3956,9 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
 > -- *[[EndangeredAndThreatenedSpecies_11633]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) Environmental Assessment (EA), prepared under the [[National Environmental Policy Act]] (NEPA) and dated June 2001, evaluates federal agency participation in the proposed Virgin River Resource Management and Recovery Program (VRRMRP). The program aims to...
+> -- *[[EnvironmentalAssessmentForFede_11771]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -3925,6 +4036,7 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[DesignationOfCriticalHabitatFo_20640]]
 - [[AddendumToEnvironmentalReportO_20828]]
 - [[EndangeredAndThreatenedSpecies_11633]]
+- [[EnvironmentalAssessmentForFede_11771]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -4059,6 +4171,18 @@ A structural basin in the lower Virgin River area whose faults control the direc
 - [[ViolationOfQuailCreekReservoir_1982_12_07]]
 - [[FisheriesSurveyOfTheVirginRive_16379]]
 - [[DraftAnEvaluationOfChangesInNa_17641]]
+
+## Virgin River Gage
+
+### Summary
+USGS gaging station 09406000 on the Virgin River, described as the key long-term flow record for the basin. The note reports annual discharge from 69,000 acre-feet (1977 and 1990) to 337,000 acre-feet (1922), and a record peak of 22,800 cfs on December 6, 1966.
+
+### Context
+> This U.S. Fish and Wildlife Service (USFWS) Environmental Assessment (EA), prepared under the [[National Environmental Policy Act]] (NEPA) and dated June 2001, evaluates federal agency participation in the proposed Virgin River Resource Management and Recovery Program (VRRMRP). The program aims to...
+> -- *[[EnvironmentalAssessmentForFede_11771]]*
+
+### Mentioned In
+- [[EnvironmentalAssessmentForFede_11771]]
 
 ## Virgin River Gorge
 
@@ -4429,6 +4553,9 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
 > -- *[[DesignationOfCriticalHabitatFo_20640]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) Environmental Assessment (EA), prepared under the [[National Environmental Policy Act]] (NEPA) and dated June 2001, evaluates federal agency participation in the proposed Virgin River Resource Management and Recovery Program (VRRMRP). The program aims to...
+> -- *[[EnvironmentalAssessmentForFede_11771]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -4481,6 +4608,7 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[DraftAnEvaluationOfChangesInNa_17641]]
 - [[AnEvaluationOfChangesInNativeF_20471]]
 - [[DesignationOfCriticalHabitatFo_20640]]
+- [[EnvironmentalAssessmentForFede_11771]]
 
 ## Virgin Spinedace Conservation Agreement
 
@@ -4902,6 +5030,18 @@ A canyon at about 7,500 ft where Marsh camped from July 2, 1936. Green Rattlesna
 
 ### Mentioned In
 - [[GeneticDivergenceAnd_1972]]
+
+## Vladykov
+
+### Summary
+Vladykov (1963) is the taxonomic authority this monograph follows in placing the cutthroat and rainbow trouts in the subgenus Parasalmo. The source relies on this classification as its starting framework.
+
+### Context
+> This monograph by [[Robert J. Behnke]] (1979, published by the Rocky Mountain Region of the USDA Forest Service in 1980) reviews the native trouts of the subgenus *Parasalmo* in western North America. It covers identification, taxonomy, distribution, status and management value. The work argues...
+> -- *[[MonographOfTheNativeTroutsOfTh_18137]]*
+
+### Mentioned In
+- [[MonographOfTheNativeTroutsOfTh_18137]]
 
 ## Vladykov 1956 Brook Trout Fecundity
 <!-- fm: auto_enriched: true -->

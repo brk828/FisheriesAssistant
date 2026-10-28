@@ -1231,6 +1231,9 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
 > -- *[[EndangeredAndThreatenedSpecies_11633]]*
 
+> This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
+> -- *[[SanBernardinoNationalWildlifeR_13326]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -1315,6 +1318,7 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
 - [[EndangeredAndThreatenedSpecies_11630]]
 - [[EndangeredAndThreatenedSpecies_11633]]
+- [[SanBernardinoNationalWildlifeR_13326]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1512,6 +1516,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This Arizona Game and Fish Department technical report summarizes seven years (1988-1994) of volunteer-collected fish survey data from the [[Fall Fish Count]] (FFC) program, which has accumulated records from more than 140 sample sites. The report tests whether the data can reveal abundance trends...
 > -- *[[FallFishCountSummary_20903]]*
 
+> This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
+> -- *[[SanBernardinoNationalWildlifeR_13326]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1625,6 +1632,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[EndangeredAndThreatenedSpecies_11630]]
 - [[EndangeredAndThreatenedSpecies_11633]]
 - [[FallFishCountSummary_20903]]
+- [[SanBernardinoNationalWildlifeR_13326]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1648,12 +1656,16 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This Environmental Assessment evaluates three management alternatives for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in southeastern Arizona for the period 1995-2015. The refuges were established to conserve threatened and endangered fish and...
 > -- *[[SanBernardinoAndLeslieCanyonNa_11694]]*
 
+> This draft Comprehensive Management Plan (1995–2015), prepared by the [[U.S. Fish and Wildlife Service]] Region 2, sets 20-year direction for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona. Both refuges are core habitats for...
+> -- *[[SanBernardinoAndLeslieCanyonNa_11676]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyOnDesertFi_1993_02_25]]
 - [[RestorationProposalForSanBerna_13383]]
 - [[DesertFishesRecoveryTeamMeetin_13708]]
 - [[DesertFishesRecoveryTeamMeetin_13916]]
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
+- [[SanBernardinoAndLeslieCanyonNa_11676]]
 
 ## Yaqui Fishes Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -1959,6 +1971,9 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > This 1998 assessment, sponsored by [[The Wildlands Project]] and authored by Gary Paul Nabhan and Andrew R. Holdsworth, characterizes the biodiversity of the [[Sonoran Desert]] bioregion and evaluates threats and the adequacy of current protection. It compiles surveys of 54 field scientists who...
 > -- *[[StateOfTheDesertDiomeUniquenes_19471]]*
 
+> This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
+> -- *[[SanBernardinoNationalWildlifeR_13326]]*
+
 ### Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -1984,6 +1999,7 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[DraftYaquiFishesRecoveryPlan_12834]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
 - [[StateOfTheDesertDiomeUniquenes_19471]]
+- [[SanBernardinoNationalWildlifeR_13326]]
 
 ## Yaqui topminnow
 <!-- fm: auto_enriched: true -->
@@ -2127,6 +2143,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
 > -- *[[EndangeredAndThreatenedSpecies_11633]]*
 
+> This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
+> -- *[[SanBernardinoNationalWildlifeR_13326]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -2199,6 +2218,7 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[HabitatUseByFishesOfTheSanBern_19343]]
 - [[EndangeredAndThreatenedSpecies_11630]]
 - [[EndangeredAndThreatenedSpecies_11633]]
+- [[SanBernardinoNationalWildlifeR_13326]]
 
 ## Yaqui Watershed
 
@@ -2392,6 +2412,18 @@ The group of fish hatched in the same year, whose strength determines later catc
 
 ### Mentioned In
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
+
+## Year-Class Survival
+
+### Summary
+Year-class survival refers to how many fish from a given hatching year survive to later life stages, which is a key measure of population health. In this report, the authors compared fall young-of-the-year from 1985 and 1986 and found fall catch rates differed (2.0 vs. 6.0) but the following July rates were nearly equal (0.23 and 0.29). They concluded that fall young-of-the-year monitoring may not reliably indicate year-class strength, and they recommended a late-March seining survey to assess overwinter survival of squawfish young.
+
+### Context
+> This Annual Summary Report, prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] (BOR) under Contract No. 6-CS-40-03980 (dated January 12, 1988), describes the 1987 fish survey of the Cataract Canyon region of the upper Colorado River basin. The study sought to locate spawning sites of...
+> -- *[[AnnualSummaryReportFisheriesBi_13606]]*
+
+### Mentioned In
+- [[AnnualSummaryReportFisheriesBi_13606]]
 
 ## Year-Round Fishing
 
@@ -3188,6 +3220,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This EPA Environmental Research Laboratory-Duluth report (EPA-600/3-80-009, January 1980; M. J. Ross and D. B. Siniff, University of Minnesota) uses radio telemetry to study how fish respond to the heated discharge of a coal-fired power plant on the upper [[Mississippi River]] at Cohasset,...
 > -- *[[SpatialDistributionAndTemperat_21087]]*
 
+> This December 1984 Bureau of Reclamation report (REC-ERC-83-6), prepared jointly by the [[Bureau of Reclamation]], the [[U.S. Fish and Wildlife Service]] and the [[Washington Department of Game]], evaluates how irrigated farming and irrigation project operation affect fish and wildlife in the...
+> -- *[[ColumbiaBasinWildlifeirrigatio_18791]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -3323,6 +3358,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[SymposiumOnSamplingProblemsInC_17398]]
 - [[PreimpoundmentStudyOfTheFlamin_17734]]
 - [[SpatialDistributionAndTemperat_21087]]
+- [[ColumbiaBasinWildlifeirrigatio_18791]]
 
 ## Yellow Pike Perch
 
@@ -3579,8 +3615,12 @@ Yellowfin cutthroat trout (Salmo clarki macdonaldi) is a cutthroat subspecies kn
 > This 1976 [[Bureau Of Land Management]] (BLM) Technical Note, prepared by James E. Johnson of the Colorado State Office, reviews the status of endangered, threatened and state-listed fishes in Colorado. It covers four cutthroat trout subspecies (*Salmo clarki*) and four warm-water species of the...
 > -- *[[StatusOfEndangeredAndThreatene_19769]]*
 
+> This Colorado Division of Wildlife report (Division Report No. 12, June 1985, by William J. Wiltzius) is a historical account of private, federal and state fish culture and the stocking of fishes in Colorado from 1872 to 1978. It was written to document the introduction and stocking of exotic...
+> -- *[[FishCultureAndStockingInColora_12110]]*
+
 ### Mentioned In
 - [[StatusOfEndangeredAndThreatene_19769]]
+- [[FishCultureAndStockingInColora_12110]]
 
 ## Yellowfin Goby
 <!-- fm: auto_enriched: true -->
@@ -3699,6 +3739,9 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 > This 1998 petition, filed by the [[Southwest Center for Biological Diversity]] and four other conservation groups (Petition #37), asks the [[U.S. Fish and Wildlife Service]] to list the [[Rio Grande Cutthroat Trout]] as endangered under the [[Endangered Species Act]] and to designate [[Critical...
 > -- *[[PetitionToListTheRioGrandeCutt_11809]]*
 
+> This monograph by [[Robert J. Behnke]] (1979, published by the Rocky Mountain Region of the USDA Forest Service in 1980) reviews the native trouts of the subgenus *Parasalmo* in western North America. It covers identification, taxonomy, distribution, status and management value. The work argues...
+> -- *[[MonographOfTheNativeTroutsOfTh_18137]]*
+
 ### Mentioned In
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[ObservationsOnTheLongnoseSucke_1954]]
@@ -3713,6 +3756,7 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 - [[AnEvaluationOfTroutPlantingInL_17592]]
 - [[YellowstoneFishAndFishing_11404]]
 - [[PetitionToListTheRioGrandeCutt_11809]]
+- [[MonographOfTheNativeTroutsOfTh_18137]]
 
 ## Yellowstone Drainage
 <!-- fm: auto_enriched: true -->
@@ -4424,6 +4468,30 @@ Yucca Elata (recorded by Blumer as Y. radicosa) is a yucca species that was a ch
 ### Mentioned In
 - [[ABotanistInArizonaTerritoryJac_13225]]
 
+## Yucca Flat
+
+### Summary
+A valley within the Nevada Test Site. The authors report that Yucca Flat is semiperched and drains downward into the carbonate aquifer, and that intrabasin movement there is controlled by the tuff aquitard.
+
+### Context
+> This U.S. Geological Survey Professional Paper (712-C, 1975, by Isaac J. Winograd and William Thordarson) was prepared for the [[U.S. Atomic Energy Commission]]. It characterizes how ground water moves beneath the [[Nevada Test Site]] and the surrounding south-central [[Great Basin]], to assess the...
+> -- *[[HydrogeologicAndHydrochemicalF_12114]]*
+
+### Mentioned In
+- [[HydrogeologicAndHydrochemicalF_12114]]
+
+## Yucca Night Lizard
+
+### Summary
+The yucca night lizard (Xantusia vigilis) is a small nocturnal lizard, here identified as the species the author calls Yucca Night Lizard. The source places it in Joshua tree and juniper woodland, where it occurs near its upper elevational limit. It is part of the desert-derived fauna the study describes.
+
+### Context
+> This 1976 monograph by Allan A. Schoenherr (University of Southern California), published as a Special Publication of the [[Southwestern Herpetologists Society]], documents the amphibians and reptiles of the [[San Gabriel Mountains]] and relates their distribution to nine [[Plant Communities]]....
+> -- *[[TheHerpetofaunaOfTheSanGabriel_20580]]*
+
+### Mentioned In
+- [[TheHerpetofaunaOfTheSanGabriel_20580]]
+
 ## Yucca Shrub-grassland
 
 ### Summary
@@ -5105,3 +5173,15 @@ Yuma, Arizona is a location on the lower Colorado River where summer water tempe
 ### Mentioned In
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
+
+## Yuriria elliana
+
+### Summary
+A fossil species of the genus Yuriria, a Mexican cyprinid group, named in this dissertation from Pleistocene lake deposits in the Lerma basin. The source associates it with the western mountain biogeographic track.
+
+### Context
+> This 1980 University of Michigan doctoral dissertation by Michael Leonard Smith examines the evolutionary and ecological history of the freshwater fish fauna of the [[Rio Lerma Basin]] in the western [[Mesa Central]] of Mexico. The work combines fossil fish collections from Late Miocene to Late...
+> -- *[[TheEvolutionaryAndEcologicalHi_21181]]*
+
+### Mentioned In
+- [[TheEvolutionaryAndEcologicalHi_21181]]

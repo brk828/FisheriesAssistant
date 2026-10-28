@@ -173,8 +173,12 @@ The Kaibab Limestone is a Permian limestone formation. This source identifies it
 > This U.S. Geological Survey Water-Supply Paper (1619-H, 1963) by J. H. Feth and J. D. Hem reports a reconnaissance of the ground-water system and springs of the [[Mogollon Rim]] region in central Arizona, the source of much of the water in the Gila, Salt, and Verde Rivers. The study, carried out...
 > -- *[[ReconaissanceOfHeadwaterSpring_16363]]*
 
+> This 1954 U.S. Geological Survey open-file report (SY-339, Tucson, Arizona) presents a reconnaissance of springs in the [[Mogollon Rim]] region of central Arizona, the source area for much of the water in the [[Gila River]], [[Salt River]], and [[Verde River]]. The region had not previously been...
+> -- *[[PreliminaryReportOfInvestigati_16361]]*
+
 ### Mentioned In
 - [[ReconaissanceOfHeadwaterSpring_16363]]
+- [[PreliminaryReportOfInvestigati_16361]]
 
 ## Kaibab National Forest
 
@@ -421,6 +425,12 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > This package is a 1993–1994 consultation record for the operation of [[Glen Canyon Dam]] on the Colorado River. It includes a Reclamation transmittal memo for a technical review meeting (March 2, 1994, Las Vegas), a June 11, 1993 summary of a flow-scenario review, and the U.S. Fish and Wildlife...
 > -- *[[InformationForTheGlenCanyonDam_19732]]*
 
+> This draft Environmental Impact Statement (EIS) appendix volume supports the [[Operation Of Glen Canyon Dam]] and covers five technical areas: long-term monitoring and research (Appendix A), hydrology (Appendix B), water quality (Appendix C), sediment (Appendix D), and hydropower (within the...
+> -- *[[OperationOfGlenCanyonDamdraftE_11491]]*
+
+> This April 1997 volume collects abstracts and executive summaries from a symposium on the 1996 [[Beach Habitat-Building Flow]] (also called the experimental flood, test flow, or spike flow) released from [[Glen Canyon Dam]]. The flow was a seven-day release of about 1,274 m³/s (45,000 cfs), with...
+> -- *[[GlenCanyonDamBeachhabitatBuild_18131]]*
+
 ### Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -436,6 +446,8 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[MeetingNextWeek_19735]]
 - [[EstablishmentOfTheGrandCanyonM_16920]]
 - [[InformationForTheGlenCanyonDam_19732]]
+- [[OperationOfGlenCanyonDamdraftE_11491]]
+- [[GlenCanyonDamBeachhabitatBuild_18131]]
 
 ## Kanab Creek
 <!-- fm: auto_enriched: true -->
@@ -629,9 +641,13 @@ A river in the Illinois-Mississippi drainage that flows through northern Indiana
 > This Illinois Natural History Survey bulletin (Volume 21, Article 4; dated March 1938 on the cover) by [[Herbert H. Ross]] formally describes a large set of new caddisfly species, mostly from [[Illinois Natural History Survey]] collections, supplemented by material from other institutions across...
 > -- *[[DescriptionsOfNearcticCaddisFl_21082]]*
 
+> This 1953 Illinois Natural History Survey bulletin (Volume 26, Article 1) by B. D. Burks is a taxonomic monograph and practical guide to the mayflies of Illinois. It covers the biology of the order, its value as [[Fish Food]], habitat associations of Illinois species, life history and emergence...
+> -- *[[TheMayfliesOrEphemeropteraOfIl_14035]]*
+
 ### Mentioned In
 - [[UtilizationAndSurvivalOfTroutI_16857]]
 - [[DescriptionsOfNearcticCaddisFl_21082]]
+- [[TheMayfliesOrEphemeropteraOfIl_14035]]
 
 ## Kankakee-Iroquois River System
 
@@ -742,6 +758,18 @@ The Kansas Forestry Fish and Game Commission was the state agency responsible fo
 ### Mentioned In
 - [[LifeHistoryOfTheGermanCarpCypr_1967_03_15]]
 
+## Kansas Geological Survey
+
+### Summary
+The State Geological Survey of Kansas is the state agency that published this 1952 report as Bulletin 99, prepared as background for geologists, soil scientists, engineers and industrial users of Kansas Pleistocene materials. It is the institutional source of the stratigraphic synthesis described in the note.
+
+### Context
+> State Geological Survey of Kansas Bulletin 99 (1952), by John C. Frye and A. Byron Leonard, is a synthesis of the non-marine Pleistocene deposits underlying much of Kansas. The report reviews the geologic processes that formed these deposits (glaciation, stream sedimentation, wind deposition,...
+> -- *[[PleistoceneGeologyOfKansas_18863]]*
+
+### Mentioned In
+- [[PleistoceneGeologyOfKansas_18863]]
+
 ## Kansas Ichthyofauna
 <!-- fm: auto_enriched: true -->
 
@@ -833,6 +861,18 @@ Kansas State University was one of four research stations intensively studying c
 ### Mentioned In
 - [[NutritionInCommercialCatfishcu_16217]]
 - [[FishCollectionRecordsAndFieldN_15305]]
+
+## Kansas Till
+
+### Summary
+Kansas Till is glacial till from the Kansan glaciation, which left deposits in northeastern Kansas and exceeds 300 feet thick in places. It is part of the Kansan Stage, the most extensive Pleistocene stage recognized in the state.
+
+### Context
+> State Geological Survey of Kansas Bulletin 99 (1952), by John C. Frye and A. Byron Leonard, is a synthesis of the non-marine Pleistocene deposits underlying much of Kansas. The report reviews the geologic processes that formed these deposits (glaciation, stream sedimentation, wind deposition,...
+> -- *[[PleistoceneGeologyOfKansas_18863]]*
+
+### Mentioned In
+- [[PleistoceneGeologyOfKansas_18863]]
 
 ## Kansas University Museum
 
@@ -1071,9 +1111,13 @@ Karro clay loam is one of the old valley-filling soil series mapped in the San S
 > This short 1969 methods paper reports an attempt to determine the chromosome number of the [[Desert Pupfish]] (*Cyprinodon macularius*), a small desert fish whose range has shrunk to a few isolated springs and ponds. The author did not attempt to interpret the number or construct a [[Karyotype]]....
 > -- *[[ChromosomeStudyOnTheDesertPupf_15677]]*
 
+> This report, by [[Eric J. Loudenslager]] and [[Graham A. E. Gall]] (Department of Animal Science, University of California, Davis), uses [[Gel Electrophoresis]] of enzymes to assess the genetic structure, hybridization and taxonomy of [[Cutthroat Trout]] (*Salmo clarki*) and related western...
+> -- *[[CutthroatTroutABiochemicalgene_16205]]*
+
 ### Mentioned In
 - [[TechniqueForPreparingChromosom_1971_08_01]]
 - [[ChromosomeStudyOnTheDesertPupf_15677]]
+- [[CutthroatTroutABiochemicalgene_16205]]
 
 ## Karyotype Analysis
 <!-- fm: auto_enriched: true -->
@@ -1688,6 +1732,12 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 > This 1977 report (FWS/OBS-77/62; Part 2 of a three-part study) evaluates the status, life history, and habitat requirements of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It was prepared by Ecology Consultants, Inc. (Timothy W. Joseph and James A. Sinning) with...
 > -- *[[AnEvaluationOfTheStatusLifeHis_13289]]*
 
+> This U.S. Fish and Wildlife Service programmatic environmental assessment (November 1987) analyzes the environmental consequences of [[Department of the Interior]] participation in a Federal/State/private [[Recovery Implementation Program]] for three endangered fishes ([[Colorado Squawfish]],...
+> -- *[[FinalEnvironmentalAssessment_11629]]*
+
+> This 1977 report (FWS/OBS-77/62), prepared by Ecology Consultants, Inc. for the U.S. Fish and Wildlife Service and the U.S. Environmental Protection Agency, evaluates the status, [[Life History]], and [[Habitat Requirements]] of the threatened and endangered fishes of the upper [[Colorado River]]...
+> -- *[[AnEvaluationOfTheStatusLifeHis_19861]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[PharyngealTeethInTheEndangered_1988]]
@@ -1698,6 +1748,8 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 - [[EndangeredAndThreatenedFishesO_18138]]
 - [[CaptureLocationsOfRareFishInTh_19862]]
 - [[AnEvaluationOfTheStatusLifeHis_13289]]
+- [[FinalEnvironmentalAssessment_11629]]
+- [[AnEvaluationOfTheStatusLifeHis_19861]]
 
 ## Kendrick Project
 
@@ -3135,6 +3187,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This California Department of Fish and Game bulletin (Fish Bulletin No. 114, 1961) by Richard J. Hallock, William F. Van Woert, and Leo Shapovalov reports a study begun in 1952 to test whether releasing marked, yearling [[Hatchery-Reared Steelhead]] into the [[Sacramento River]] increases adult...
 > -- *[[AnEvaluationOfStockingHatchery_20980]]*
 
+> This is Fish Bulletin 157 (California Department of Fish and Game, 1972), a comprehensive field identification guide by [[Daniel J. Miller]] and [[Robert N. Lea]] covering all shallow marine fishes recorded in [[California Coastal Waters]]. It describes 554 species across 144 families, supplies...
+> -- *[[GuideToTheCoastalMarineFishesO_15272]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -3157,6 +3212,7 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[EstimatingAbsoluteAgeCompositi_12493]]
 - [[StudiesOnFishPreservationAtThe_12509]]
 - [[AnEvaluationOfStockingHatchery_20980]]
+- [[GuideToTheCoastalMarineFishesO_15272]]
 
 ## King Snake
 
@@ -4447,6 +4503,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This 1960 Wyoming Game and Fish Commission technical report (Fisheries Technical Report No. 9, by [[Clifford E. Bosley]]) assesses the fish, water chemistry, and habitat of the lower [[Green River]] before the [[Flaming Gorge Reservoir]] was impounded behind [[Ashley Dam]]. Surveys found game fish...
 > -- *[[PreimpoundmentStudyOfTheFlamin_17734]]*
 
+> This final report, prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] (Contract No. 6-CS-40-03980), synthesizes four years (1985–1988) of the "Cataract Canyon Studies." The study sampled the lower 50 miles of the [[Green River]] and [[Colorado River]], the 16-mile whitewater reach of...
+> -- *[[FinalReporttheEndangeredFishOf_13607]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -4485,6 +4544,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[GlenCanyonReservoirPostimpound_14592]]
 - [[RecreationalUsePatternsAtFlami_20379]]
 - [[PreimpoundmentStudyOfTheFlamin_17734]]
+- [[FinalReporttheEndangeredFishOf_13607]]
 
 ## Kolkwitz
 
@@ -4767,6 +4827,18 @@ Koski (1974) is an author cited in the source who proposed that anthropogenic en
 
 ### Mentioned In
 - [[DropletsFromTheSadoMarineBiolo_19899]]
+
+## Kosswigichthys
+
+### Summary
+An aphanid fish from Group II that, unlike most of its relatives, has unicuspid teeth. The source places it with *Aphanius* and *Anatolichthys* based on its osteology, which agrees with hybridisation and cytological evidence from Aksiray (1952) and Oztan (1954). The species *Kosswigichthys asquamatus* is included in the study.
+
+### Context
+> This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
+> -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
+
+### Mentioned In
+- [[OsteologyAndPhylogenyOfOviparo_11369]]
 
 ## Koster 1948
 <!-- fm: auto_enriched: true -->
@@ -5090,6 +5162,18 @@ Kuhlia rupestris is a fish species found in the Kosi System. One individual was 
 
 ### Mentioned In
 - [[AReportOnTheLakesOfTheTippecan_11316]]
+
+## Kulczynski Similarity Index
+
+### Summary
+The Kulczynski Similarity Index is a measure of similarity between two samples, used here to quantify dietary overlap among fish species. The source names it as a method for assessing how similar the diets of different fishes are. The source does not report specific index values in the portion provided.
+
+### Context
+> This contract report, prepared by Steven W. Carothers and C. O. Minckley of the Museum of Northern Arizona for the Water and Power Resources Service (dated February 4, 1981), provides baseline data on the aquatic resources of the [[Colorado River]] and selected tributaries between Lee Ferry and...
+> -- *[[ASurveyOfTheAquaticFloraAndFau_17435]]*
+
+### Mentioned In
+- [[ASurveyOfTheAquaticFloraAndFau_17435]]
 
 ## Kundaeli
 

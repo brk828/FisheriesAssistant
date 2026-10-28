@@ -772,6 +772,18 @@ James Brooks is named in the report as one of the monitors whose surveys of the 
 ### Mentioned In
 - [[MemorandumOnGlenCanyonEnvironm_1991_08_27]]
 
+## James E Deacon
+
+### Summary
+Compiler and lead author of this 1968 annual progress report on ecological studies of desert spring and marsh systems in Death Valley National Monument. The report is organized around his multi-year program at Saratoga Springs and related sites.
+
+### Context
+> This annual progress report, compiled by [[James E Deacon]] with contributions from [[James F LaBounty]], [[Carol J James]] and others, documents a multi-year ecological program on isolated desert spring and marsh systems in [[Death Valley National Monument]]. The core study site is [[Saratoga...
+> -- *[[EcologicalStudiesOfAquaticHabi_13996]]*
+
+### Mentioned In
+- [[EcologicalStudiesOfAquaticHabi_13996]]
+
 ## James E Johnson
 
 ### Summary
@@ -903,6 +915,18 @@ James Elser is one of the experts listed under the Keywords chapter's Fish entry
 - [[WhereToFindWaterExpertiseAtSta_13522]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
 
+## James F LaBounty
+
+### Summary
+Contributor to the Deacon report who is analyzing the taxonomy and ecology of Cyprinodon salinus from Salt Creek and Pupfish Marsh, with a thesis due September 1968. The report lists him among the contributors to the program.
+
+### Context
+> This annual progress report, compiled by [[James E Deacon]] with contributions from [[James F LaBounty]], [[Carol J James]] and others, documents a multi-year ecological program on isolated desert spring and marsh systems in [[Death Valley National Monument]]. The core study site is [[Saratoga...
+> -- *[[EcologicalStudiesOfAquaticHabi_13996]]*
+
+### Mentioned In
+- [[EcologicalStudiesOfAquaticHabi_13996]]
+
 ## James F. Collins
 <!-- fm: auto_enriched: true -->
 
@@ -961,6 +985,18 @@ Sartoris is co-author, with James F. LaBounty, of one of the three studies in th
 ### Mentioned In
 - [[StudiesOfTheBenthicEnvironment_12642]]
 
+## James M. Broadwell
+
+### Summary
+James M. Broadwell reared trout near the South Platte River from 1870. In 1872 he hatched 10,000 eggs from Boscobel, Wisconsin, which the source calls probably the first Eastern Brook Trout introduction to Colorado.
+
+### Context
+> This Colorado Division of Wildlife report (Division Report No. 12, June 1985, by William J. Wiltzius) is a historical account of private, federal and state fish culture and the stocking of fishes in Colorado from 1872 to 1978. It was written to document the introduction and stocking of exotic...
+> -- *[[FishCultureAndStockingInColora_12110]]*
+
+### Mentioned In
+- [[FishCultureAndStockingInColora_12110]]
+
 ## James M. Quigley
 
 ### Summary
@@ -1012,6 +1048,18 @@ The James River is a major Atlantic Slope drainage system in Virginia that serve
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[EstimatingTheProbabilityThatHi_1998]]
+
+## James River Basin
+
+### Summary
+The James River basin is a Missouri River drainage covering about 21,000 square miles, of which about 8,400 are in North Dakota. The source divides it into four segments that differ in flow and fish community, and reports 41 species collected there in 1974 and 1975 against 60 previously reported. It is the main basin where the authors expected Garrison Diversion flows to improve winter survival of fishes.
+
+### Context
+> This 1981 monograph by [[John B. Owen]], [[Dean S. Elsen]] and [[Gordon W. Russell]] (University of North Dakota, Fisheries Research Unit) documents the present and historical distribution of freshwater fishes in the basins associated with the proposed [[Garrison Diversion Unit]] (GDU). The study...
+> -- *[[DistributionOfFishesInNorthAnd_18362]]*
+
+### Mentioned In
+- [[DistributionOfFishesInNorthAnd_18362]]
 
 ## James Stevenson
 
@@ -1262,6 +1310,18 @@ A high-seas fishery operating since 1952 in the North Pacific and Bering Sea tha
 
 ### Mentioned In
 - [[SynopsisOfBiologicalDataOfTheC_17287]]
+
+## Japanese Pearl Culture
+
+### Summary
+Japanese pearl culture is the cultured pearl industry that used mussel shell pieces as nuclei. According to this source, from about 1962 Japanese pearl culturists sought large, thick shells from Illinois waters after Tennessee River supplies declined, driving a sharp rise in mussel-fishing licenses.
+
+### Context
+> This Illinois Natural History Survey bulletin (Volume 30, Article 5, February 1971) by [[William C. Starrett]] surveys the freshwater mussel (Unionacea) fauna of the entire [[Illinois River]], a heavily polluted, sluggish stream. The 1966 field survey collected 4,247 live mussels from 429...
+> -- *[[ASurveyOfTheMusselsUnionaceaOf_14737]]*
+
+### Mentioned In
+- [[ASurveyOfTheMusselsUnionaceaOf_14737]]
 
 ## Japanese Pilchard
 
@@ -1714,6 +1774,18 @@ Jemez Canyon Dam is a water storage facility in the Rio Grande basin with a capa
 - [[DraftEnvironmentalAssessmentDe_13207]]
 - [[WaterResourcesDevelopmentInNew_11452]]
 
+## Jemez Mountains Salamander
+
+### Summary
+A salamander endemic to the Jemez Mountains. The source says it occurs at only a few localities above about 8,000 feet.
+
+### Context
+> This handbook, issued by the [[New Mexico Department Of Game And Fish]] in 1979 and written by John P. Hubbard, Marshall C. Conway, Howard Campbell, Gregory Schmitt and Michael D. Hatch, documents the 93 animal species listed as endangered in New Mexico under the [[Wildlife Conservation Act]]...
+> -- *[[HandbookOfSpeciesEndangeredInN_19959]]*
+
+### Mentioned In
+- [[HandbookOfSpeciesEndangeredInN_19959]]
+
 ## Jemez River
 
 ### Summary
@@ -1881,6 +1953,18 @@ Cited as a 1965 study that maintained *Schistosoma mansoni* cercariae in vitro f
 
 ### Mentioned In
 - [[DevelopmentAndComparativeMorph_13429]]
+
+## Jerome
+
+### Summary
+Jerome is a copper-mining district in central Arizona that the source names as one of the region's main mining areas. The report lists local copper mining among the principal industries of the Mogollon Rim region, alongside ranching and lumbering.
+
+### Context
+> This 1954 U.S. Geological Survey open-file report (SY-339, Tucson, Arizona) presents a reconnaissance of springs in the [[Mogollon Rim]] region of central Arizona, the source area for much of the water in the [[Gila River]], [[Salt River]], and [[Verde River]]. The region had not previously been...
+> -- *[[PreliminaryReportOfInvestigati_16361]]*
+
+### Mentioned In
+- [[PreliminaryReportOfInvestigati_16361]]
 
 ## Jerome A. Stefferud
 
@@ -2241,8 +2325,12 @@ A gravel pit about 5 km west of Jocotepec, Jalisco, Mexico, where the fossil fis
 > This paleontological study describes a seven-species fish fauna in six families from late Pliocene-early Pleistocene deposits at the [[Jocotepec Quarry]], a gravel pit about 5 km west of Jocotepec, Jalisco, in the [[Lake Chapala Basin]] of the [[Mesa Central]], Mexico. Six species still live in the...
 > -- *[[ClimaticAndBiogeographicSignif_21184]]*
 
+> This 1980 University of Michigan doctoral dissertation by Michael Leonard Smith examines the evolutionary and ecological history of the freshwater fish fauna of the [[Rio Lerma Basin]] in the western [[Mesa Central]] of Mexico. The work combines fossil fish collections from Late Miocene to Late...
+> -- *[[TheEvolutionaryAndEcologicalHi_21181]]*
+
 ### Mentioned In
 - [[ClimaticAndBiogeographicSignif_21184]]
+- [[TheEvolutionaryAndEcologicalHi_21181]]
 
 ## Joe English Brook
 
@@ -2378,6 +2466,18 @@ John A. Maciolek was a staff member on the 1950s brook trout study of Bunny Lake
 
 ### Mentioned In
 - [[StationProfileO_19523]]
+
+## John B. Owen
+
+### Summary
+John B. Owen is one of the three authors of this 1981 monograph on fish distribution in the Garrison Diversion Unit basins of North and South Dakota, working with Dean S. Elsen and Gordon W. Russell at the University of North Dakota. He contributed to a baseline reference on present and historical fish distribution and interbasin transfer risk.
+
+### Context
+> This 1981 monograph by [[John B. Owen]], [[Dean S. Elsen]] and [[Gordon W. Russell]] (University of North Dakota, Fisheries Research Unit) documents the present and historical distribution of freshwater fishes in the basins associated with the proposed [[Garrison Diversion Unit]] (GDU). The study...
+> -- *[[DistributionOfFishesInNorthAnd_18362]]*
+
+### Mentioned In
+- [[DistributionOfFishesInNorthAnd_18362]]
 
 ## John Breukelman
 
@@ -2688,6 +2788,18 @@ John L. Funk is a first author of the study and wrote the sections on larger fis
 ### Mentioned In
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
 
+## John Law
+
+### Summary
+John Law is listed among the historic Colorado figures profiled in the report. The note does not provide details of his activities.
+
+### Context
+> This Colorado Division of Wildlife report (Division Report No. 12, June 1985, by William J. Wiltzius) is a historical account of private, federal and state fish culture and the stocking of fishes in Colorado from 1872 to 1978. It was written to document the introduction and stocking of exotic...
+> -- *[[FishCultureAndStockingInColora_12110]]*
+
+### Mentioned In
+- [[FishCultureAndStockingInColora_12110]]
+
 ## John Lawrence Butler
 
 ### Summary
@@ -2774,12 +2886,16 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 > This Wildlife Unit Technical Series publication, prepared by [[William Silvey]], [[John N. Rinne]] and [[Roger Sorenson]] for the Southwestern Region, provides a computer-compatible digital index of all naturally occurring perennial waters in Arizona. It was written as a working tool for fisheries...
 > -- *[[IndexToTheNaturalDrainageSyste_18981]]*
 
+> This USDA Forest Service General Technical Report draft, by [[John N. Rinne]] (Rocky Mountain Forest and Range Experiment Station) and [[W. L. Minckley]] (U.S. Fish and Wildlife Service and Arizona State University), presents an illustrated portfolio of the native fishes of the [[Sonoran Desert]]...
+> -- *[[DraftfishesInAridLandsaPortfol_15015]]*
+
 ### Mentioned In
 - [[PhysicalHabitatEvaluationOfSma_14995]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
 - [[StatusOfTheGilaTopminnowAndIts_15888]]
 - [[ConservationEngineer_12615]]
 - [[IndexToTheNaturalDrainageSyste_18981]]
+- [[DraftfishesInAridLandsaPortfol_15015]]
 
 ## John Norman Rinne
 
@@ -2968,10 +3084,14 @@ John Wesley Powell led the first expedition to run the entire Colorado River, ro
 > This review by [[Clarence A. Carlson]] and [[Robert T. Muth]] (Colorado State University) treats the [[Colorado River]] as a single ecosystem. The authors argue that in less than a century the river has been transformed from a free-flowing, highly variable system into a chain of regulated, man-made...
 > -- *[[TheColoradoRiverLifelineOfTheA_17416]]*
 
+> This final report, prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] (Contract No. 6-CS-40-03980), synthesizes four years (1985–1988) of the "Cataract Canyon Studies." The study sampled the lower 50 miles of the [[Green River]] and [[Colorado River]], the 16-mile whitewater reach of...
+> -- *[[FinalReporttheEndangeredFishOf_13607]]*
+
 ### Mentioned In
 - [[TheColoradoRiverRailroadSurvey_16614]]
 - [[UsBureauOfReclamationsOngoingI_18968]]
 - [[TheColoradoRiverLifelineOfTheA_17416]]
+- [[FinalReporttheEndangeredFishOf_13607]]
 
 ## John Wesley Powell Centennial
 
@@ -3234,9 +3354,13 @@ A historical museum connected to the refuge area; the source says the historic S
 > This August 1982 report by Lyle M. Stone and James E. Ayres of [[Archaeological Research Services]] (Tempe, Arizona) describes and evaluates the archaeological resources of a 131.24-acre parcel of the [[San Bernardino Grant]] owned by the [[Johnson Historical Museum]] of the Southwest, Inc. The...
 > -- *[[ADescriptionAndEvaluationOfArc_14586]]*
 
+> This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
+> -- *[[SanBernardinoNationalWildlifeR_13326]]*
+
 ### Mentioned In
 - [[DraftSanBernardinoNationalWild_11500]]
 - [[ADescriptionAndEvaluationOfArc_14586]]
+- [[SanBernardinoNationalWildlifeR_13326]]
 
 ## Johnson Historical Museum of the Southwest
 
@@ -3567,9 +3691,25 @@ David Starr Jordan was one of the two authors of this 1906 taxonomic review of J
 > David G. Frey (Indiana University, published in *Investigations of Indiana Lakes and Streams*, Vol. IV, No. 7, October 1955) examines why the [[Cisco]] (*Coregonus artedii*) persists in some northern Indiana lakes and has disappeared from others. The cisco is documented in 41 lakes of northern...
 > -- *[[DistributionalEcologyOfTheCisc_18837]]*
 
+> This Bureau of Reclamation Engineering and Science Monograph (No. 43, May 1993) reports 15 years of cooperative limnology and fishery studies (1971–86) on [[Twin Lakes]], a pair of dimictic, oligotrophic, glacially formed montane lakes in central Colorado. The studies assessed the effects of the...
+> -- *[[AquaticEcologyStudiesOfTwinLak_11484]]*
+
 ### Mentioned In
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
 - [[DistributionalEcologyOfTheCisc_18837]]
+- [[AquaticEcologyStudiesOfTwinLak_11484]]
+
+## Jordan & Evermann
+
+### Summary
+Jordan and Evermann published the fish classification (Bulletin 47 of the U.S. National Museum) that the author follows for taxonomic sequence. The source cites their work as the framework for ordering the catalogue.
+
+### Context
+> This Field Columbian Museum zoological publication (Zoology Vol. V, Introduction and systematic catalogue) provides a descriptive list, identification keys and distribution analysis of the freshwater fishes of Mexico north of the Isthmus of Tehuantepec. The work is based largely on two field...
+> -- *[[TheFreshwaterFishesOfMexicoNor_12373]]*
+
+### Mentioned In
+- [[TheFreshwaterFishesOfMexicoNor_12373]]
 
 ## Jordan 1878
 <!-- fm: auto_enriched: true -->
@@ -3808,8 +3948,13 @@ The Jordan Valley is the river system and rift valley in which tilapias of Israe
 ## Jordanella
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
+> -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
+
 ### Mentioned In
 - [[CyprinodonAndRelatedGeneraStud_15366]]
+- [[OsteologyAndPhylogenyOfOviparo_11369]]
 
 ## Jordanella Floridae
 <!-- fm: auto_enriched: true -->
@@ -3918,9 +4063,13 @@ Joseph E. Ward was a graduate student who testified at the hearing. He argued th
 > - **Study site**: Backwater eddies at the Green–Duchesne confluence, identified as critical **nursery habitat** for juvenile [[Colorado Pikeminnow]] and other native [[Colorado River Fishes|Colorado River endemic fishes]]. - **Habitat dynamics**: Backwaters become increasingly isolated from main ...
 > -- *[[ControlOfNonnativeFishAtTheCon_1993_12_10]]*
 
+> These proceedings (a 1981 American Fisheries Society symposium, co-sponsored by the [[Western Division American Fisheries Society]], [[U.S. Fish and Wildlife Service]] Region VI and the [[U.S. Bureau of Reclamation]]) assemble papers on the rare native fishes of the [[Upper Colorado River Basin]]....
+> -- *[[FishesOfTheUpperColoradoRiverS_17415]]*
+
 ### Mentioned In
 - [[AHolocenePaleoclimaticAndEnvir_1994]]
 - [[ControlOfNonnativeFishAtTheCon_1993_12_10]]
+- [[FishesOfTheUpperColoradoRiverS_17415]]
 
 ## Joseph F. Fitzpatrick Jr.
 
@@ -4048,6 +4197,18 @@ A private individual who, with Valer Austin, founded and privately funded the Fu
 
 ### Mentioned In
 - [[RestorationOfCienegaDeSanBerna_17600]]
+
+## José García
+
+### Summary
+Compiler of this map index, identified in the source as being of Ciudad Chihuahua. He assembled the locator map, sheet index, and reduced topographic sheets covering the Chihuahuan Desert region.
+
+### Context
+> This document is a map index and atlas reference compiled by [[José García]] of Ciudad Chihuahua, covering the [[Chihuahuan Desert]] region of northern Mexico and the southwestern United States. It contains no fish, invertebrate, plankton, or water-chemistry data. Its content is cartographic: a...
+> -- *[[MapsOfTheChihuahuanDesertRegio_16912]]*
+
+### Mentioned In
+- [[MapsOfTheChihuahuanDesertRegio_16912]]
 
 ## José Álvarez Del Villar
 <!-- fm: auto_enriched: true -->
@@ -4196,8 +4357,12 @@ Juday's 1906 zooplankton collections from Twin Lakes recorded 6 rotifer, 5 copep
 > This Bureau of Reclamation report (REC-ERC-76-12, October 1976) compiles three studies of [[Twin Lakes]], a pair of connected glacial lakes in Lake County, Colorado. The work was a baseline before the [[Mt. Elbert Pumped-Storage Powerplant]] began operating, so that future short-term and long-term...
 > -- *[[StudiesOfTheBenthicEnvironment_12642]]*
 
+> This Bureau of Reclamation Engineering and Science Monograph (No. 43, May 1993) reports 15 years of cooperative limnology and fishery studies (1971–86) on [[Twin Lakes]], a pair of dimictic, oligotrophic, glacially formed montane lakes in central Colorado. The studies assessed the effects of the...
+> -- *[[AquaticEcologyStudiesOfTwinLak_11484]]*
+
 ### Mentioned In
 - [[StudiesOfTheBenthicEnvironment_12642]]
+- [[AquaticEcologyStudiesOfTwinLak_11484]]
 
 ## Juday 1926
 <!-- fm: auto_enriched: true -->

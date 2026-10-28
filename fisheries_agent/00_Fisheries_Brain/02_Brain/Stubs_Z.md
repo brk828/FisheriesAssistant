@@ -1163,6 +1163,18 @@ The Zuni River is a tributary of the Little Colorado River in the southwestern U
 - [[DistributionStatusAndNotesOnTh_18709]]
 - [[ReportOfTheSecretaryOfWar_17487]]
 
+## Zuni Tribe
+
+### Summary
+The Zuni Tribe is a Native American tribe that raised significant concerns in the planning process about religious use of the area and about archaeological sites there. The source reports these concerns as part of the cultural context for the proposed development.
+
+### Context
+> This U.S. Forest Service Draft Environmental Impact Statement (DEIS, October 1986) evaluates land-allocation options for a 3,500-acre high-elevation area at the summit of [[Mt. Graham]] in the [[Pinaleno Mountains]], Coronado National Forest. [[Steward Observatory]] (University of Arizona) proposed...
+> -- *[[DraftEnvironmentalImpactStatem_11497]]*
+
+### Mentioned In
+- [[DraftEnvironmentalImpactStatem_11497]]
+
 ## Zwartkops River
 
 ### Summary

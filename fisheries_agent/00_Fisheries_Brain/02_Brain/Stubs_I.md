@@ -693,8 +693,12 @@ Ichthyoplankton are the fish eggs and larvae drifting in the water column. This 
 > This Fish and Wildlife Service Topical Brief (FWS/OBS-76/20.7, June 1978) reviews how sampling error affects [[Ichthyoplankton]] data (fish eggs and larvae) used in [[Power Plant Entrainment]] impact assessments. It catalogs the seven general categories of sampling gear in use, identifies abiotic...
 > -- *[[FactorsAffectingAccuracyOfIcht_17749]]*
 
+> This Bureau of Reclamation final report (1986–1989, by Gordon Mueller, Regional Limnologist, Division of Environment, Boulder City, Nevada) documents the fishery that developed in the main canal of the [[Central Arizona Project]] (CAP) after Colorado River water was pumped from [[Lake Havasu]]....
+> -- *[[FisheriesInvestigationsCentral_11619]]*
+
 ### Mentioned In
 - [[FactorsAffectingAccuracyOfIcht_17749]]
+- [[FisheriesInvestigationsCentral_11619]]
 
 ## Ichthyoplankton Sampling
 <!-- fm: auto_enriched: true -->
@@ -1134,6 +1138,9 @@ Ictalurus melas, commonly known as the black bullhead, is a freshwater catfish s
 > This report, issued by the [[Oklahoma Fishery Research Laboratory]] and supported by the [[Oklahoma Wildlife Conservation Department]] and the [[University of Oklahoma Biological Survey]], summarizes the age, growth, and population characteristics of [[Black Bullhead Catfish]] (*[[Ictalurus...
 > -- *[[GrowthOfBlackBullheadCatfishIn_19942]]*
 
+> This 1966 survey by James Johnson and Murray Itzkowits, with input from W. L. Minckley, documents the fish fauna of [[Burro Creek]], a tributary of the [[Bill Williams River]] in western Arizona. The Bill Williams drainage was poorly studied compared with the [[Gila River]] and [[Little Colorado...
+> -- *[[FishesOfBurroCreek_19763]]*
+
 ### Mentioned In
 - [[ChecklistOfParasitesFromCatfis_1959]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
@@ -1148,6 +1155,7 @@ Ictalurus melas, commonly known as the black bullhead, is a freshwater catfish s
 - [[RecoveryPlanForUnarmoredThrees_20518]]
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[GrowthOfBlackBullheadCatfishIn_19942]]
+- [[FishesOfBurroCreek_19763]]
 
 ## Ictalurus mexicanus
 
@@ -1339,6 +1347,18 @@ Ictalurus punctatus, commonly known as channel catfish, is a large-river general
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[CageCultureOfChannelCatfish_20574]]
 - [[AKeyToTheFishesOfNewMexico_12401]]
+
+## Ictalurus spodius
+
+### Summary
+A large extinct catfish described as new from Pleistocene Jalisco deposits, estimated at nearly one meter standard length by extrapolation. The source distinguishes it from the living Ictalurus dugesi mainly by dentations on the pectoral spine.
+
+### Context
+> This 1980 University of Michigan doctoral dissertation by Michael Leonard Smith examines the evolutionary and ecological history of the freshwater fish fauna of the [[Rio Lerma Basin]] in the western [[Mesa Central]] of Mexico. The work combines fossil fish collections from Late Miocene to Late...
+> -- *[[TheEvolutionaryAndEcologicalHi_21181]]*
+
+### Mentioned In
+- [[TheEvolutionaryAndEcologicalHi_21181]]
 
 ## Icthyobodo Sp
 <!-- fm: auto_enriched: true -->
@@ -2112,6 +2132,15 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This Illinois Natural History Survey bulletin (Volume 21, Article 4; dated March 1938 on the cover) by [[Herbert H. Ross]] formally describes a large set of new caddisfly species, mostly from [[Illinois Natural History Survey]] collections, supplemented by material from other institutions across...
 > -- *[[DescriptionsOfNearcticCaddisFl_21082]]*
 
+> This 1953 Illinois Natural History Survey bulletin (Volume 26, Article 1) by B. D. Burks is a taxonomic monograph and practical guide to the mayflies of Illinois. It covers the biology of the order, its value as [[Fish Food]], habitat associations of Illinois species, life history and emergence...
+> -- *[[TheMayfliesOrEphemeropteraOfIl_14035]]*
+
+> This 1935 bulletin of the [[Illinois Natural History Survey]] by [[Theodore H. Frison]] is a comprehensive survey of the aquatic insect order [[Plecoptera]] (stoneflies) in Illinois. Based on collecting and rearing from 1926 onward, the study records 36 stonefly species for the state, plus at least...
+> -- *[[TheStonefliesOrPlecopteraOfIll_18843]]*
+
+> This 1942 Illinois Natural History Survey bulletin by T. H. Frison is a taxonomic revision of North American stoneflies (order Plecoptera), with emphasis on the Illinois fauna. It is not a study of fish. The paper revises the family-level classification, provides a revised key to families and an...
+> -- *[[StudiesOfNorthAmericanPlecopte_18844]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -2130,6 +2159,9 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[EfficiencyAndSelectivityOfComm_14739]]
 - [[CommercialAndSportFishesOfTheM_15601]]
 - [[DescriptionsOfNearcticCaddisFl_21082]]
+- [[TheMayfliesOrEphemeropteraOfIl_14035]]
+- [[TheStonefliesOrPlecopteraOfIll_18843]]
+- [[StudiesOfNorthAmericanPlecopte_18844]]
 
 ## Illinois Natural History Survey Resurvey (1950-1971)
 
@@ -2204,6 +2236,9 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 > This paper, the third report of the [[University of Oklahoma Fish Survey]], presents the fishes collected during summer 1927 by a field party from the Museum of Zoology of the University of Oklahoma, led by A. I. Ortenburger, with [[Carl L. Hubbs]] as co-author. The party seined streams in...
 > -- *[[FishesCollectedInOklahomaAndAr_14452]]*
 
+> This Illinois Natural History Survey bulletin (Volume 30, Article 5, February 1971) by [[William C. Starrett]] surveys the freshwater mussel (Unionacea) fauna of the entire [[Illinois River]], a heavily polluted, sluggish stream. The 1966 field survey collected 4,247 live mussels from 429...
+> -- *[[ASurveyOfTheMusselsUnionaceaOf_14737]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -2225,6 +2260,7 @@ The Illinois River is a freshwater system in Oklahoma that has served as a signi
 - [[SportFishingAtLakeChautauquaNe_14738]]
 - [[ContinuedFisheriesInvestigatio_20970]]
 - [[FishesCollectedInOklahomaAndAr_14452]]
+- [[ASurveyOfTheMusselsUnionaceaOf_14737]]
 
 ## Illinois River Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -3868,6 +3904,18 @@ A major irrigation canal in the Rajasthan region of India. The newsletter report
 ### Mentioned In
 - [[PacificInstituteReport_18370]]
 
+## Individual Transferable Quota
+
+### Summary
+A fisheries management system that allocates shares of a total catch limit to individual fishers or vessels, which can be traded. The source does not discuss this system in the portion provided; it only states that open-access regimes are incompatible with sustainable development.
+
+### Context
+> This FAO Fisheries Circular (No. 710, Revision 8, Part 1, Rome, 1992, 114 p.) reviews the state of the world's marine fish stocks, based mainly on [[FAO Yearbook Statistics]] through 1990. It covers world catch trends, sixteen regional reviews by FAO statistical area, special sections on...
+> -- *[[ReviewOfTheStateOfWorldFishery_16311]]*
+
+### Mentioned In
+- [[ReviewOfTheStateOfWorldFishery_16311]]
+
 ## Indo-Australian Archipelago
 
 ### Summary
@@ -4074,8 +4122,24 @@ Infiltrometer studies measure how quickly water infiltrates soil under controlle
 > This USDA Forest Service General Technical Report (RM-13, June 1975) by [[Ernest C. Frank]], [[Harry E. Brown]], and [[J. R. Thompson]] reports 11 years (1957–67) of precipitation, [[Snowmelt Runoff]], [[Suspended Sediment]], and [[Trapped Sediment]] measurements from three small mountain-grassland...
 > -- *[[HydrologyOfBlackMesaWatersheds_18816]]*
 
+> This Technical Completion Report (WRRI, January 1983) by [[Richard A. Cole]] and co-authors presents models and first-approximation coefficients for predicting how grazing animals mobilize dung and soil nutrients from western watersheds into downstream waters, particularly the hypolimnia of small...
+> -- *[[ModelingImpactsOnSmallReservoi_17114]]*
+
 ### Mentioned In
 - [[HydrologyOfBlackMesaWatersheds_18816]]
+- [[ModelingImpactsOnSmallReservoi_17114]]
+
+## Inflow Design Flood
+
+### Summary
+The largest flood a reservoir spillway and dam are designed to pass safely. This report uses the 1981 IDF study for New Waddell Dam (recommended peak of 493,400 ft³/s and a 7.3-day volume of 688,500 acre-feet) as the source of peak flows for the Tule Creek barrier analysis.
+
+### Context
+> This 1989 progress report by Curtis Lathan of the [[Bureau Of Reclamation]] (Arizona Projects Office) evaluates four candidate sites for a fish barrier on [[Tule Creek]]. The barrier would stop non-native reservoir fish from moving upstream during storm events and endangering the introduced...
+> -- *[[TuleCreekFishBarrierProgressRe_20194]]*
+
+### Mentioned In
+- [[TuleCreekFishBarrierProgressRe_20194]]
 
 ## Inflow-Outflow Method
 
@@ -4910,6 +4974,9 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This document is a project package issued by [[BIO/WEST Inc]] on December 12, 1986, to participants in a contract from the [[U.S. Fish and Wildlife Service]] (FWS). The contract aims to produce habitat suitability index (SI) curves for [[Colorado Squawfish]], [[Humpback Chub]] and [[Razorback...
 > -- *[[DevelopmentOfHabitatSuitabilit_13604]]*
 
+> This draft report, prepared by [[BIO/WEST]] for the [[U.S. Fish and Wildlife Service]] (Region 6, Office of Endangered Species), documents the [[SI Curve Development Project]] (Contract No. 14-16-0006-86-055). The project aims to produce the best possible [[Suitability Index Curves]] for depth,...
+> -- *[[TaskCDraftReportSummaryDocumen_13605]]*
+
 ### Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -4930,6 +4997,7 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[BiologicalOpinionCentralArizon_11830]]
 - [[InstreamFlowIncrementalMethodo_11622]]
 - [[DevelopmentOfHabitatSuitabilit_13604]]
+- [[TaskCDraftReportSummaryDocumen_13605]]
 
 ## Instream Flow Incremental Methodology (Ifim)
 <!-- fm: auto_enriched: true -->
@@ -5585,6 +5653,9 @@ Interim Flow Criteria are the operating rules for Glen Canyon Dam releases that 
 > This package is a 1993–1994 consultation record for the operation of [[Glen Canyon Dam]] on the Colorado River. It includes a Reclamation transmittal memo for a technical review meeting (March 2, 1994, Las Vegas), a June 11, 1993 summary of a flow-scenario review, and the U.S. Fish and Wildlife...
 > -- *[[InformationForTheGlenCanyonDam_19732]]*
 
+> This April 1997 volume collects abstracts and executive summaries from a symposium on the 1996 [[Beach Habitat-Building Flow]] (also called the experimental flood, test flow, or spike flow) released from [[Glen Canyon Dam]]. The flow was a seven-day release of about 1,274 m³/s (45,000 cfs), with...
+> -- *[[GlenCanyonDamBeachhabitatBuild_18131]]*
+
 ### Mentioned In
 - [[DecemberCritsMeetingSynthesisA_1994_01_04]]
 - [[IntegrationAndEvaluationOfGlen_13851]]
@@ -5597,6 +5668,7 @@ Interim Flow Criteria are the operating rules for Glen Canyon Dam releases that 
 - [[EffectsOfInterimFlowsFromGlenC_13633]]
 - [[MovementOfHumpbackChubInTheCol_21130]]
 - [[InformationForTheGlenCanyonDam_19732]]
+- [[GlenCanyonDamBeachhabitatBuild_18131]]
 
 ## Interim Management Policy
 
@@ -6209,10 +6281,14 @@ An international conservation organization whose lists of threatened species are
 > This technical draft recovery action plan, prepared for the [[U.S. Fish and Wildlife Service]] Region 2 (June 1990) by Paul C. Marsh and Donald W. Sada, addresses the [[Desert Pupfish]] (*Cyprinodon macularius*). The species is represented by two subspecies: the [[Colorado River Pupfish]] (*C. m....
 > -- *[[DesertPupfishCyprinodonMacular_17044]]*
 
+> This document is a December 1986 action report from the [[Leiden University]] Research-Group Ecological Morphology, with appended press cuttings and correspondence. It documents the collapse of the [[Haplochromine Cichlids]] species flock of [[Lake Victoria]] after the introduction of the [[Nile...
+> -- *[[SummaryOfTheFlocksCurrentStatu_16293]]*
+
 ### Mentioned In
 - [[ComancheSpringsPupfishCyprinod_13298]]
 - [[InterestInConservationInLatinA_15353]]
 - [[DesertPupfishCyprinodonMacular_17044]]
+- [[SummaryOfTheFlocksCurrentStatu_16293]]
 
 ## International Union for Conservation of Nature and Natural Resources
 
@@ -6382,6 +6458,18 @@ The amounts of Colorado River water that basin states are entitled to use under 
 
 ### Mentioned In
 - [[LetterToJohnHamillProposalForE_12209]]
+
+## Interstate Compacts
+
+### Summary
+Agreements among the Colorado River Basin states that divide the river's water among them. The recovery program must proceed without disrupting these compacts, along with state water rights and court decrees allocating Colorado River water.
+
+### Context
+> This U.S. Fish and Wildlife Service programmatic environmental assessment (November 1987) analyzes the environmental consequences of [[Department of the Interior]] participation in a Federal/State/private [[Recovery Implementation Program]] for three endangered fishes ([[Colorado Squawfish]],...
+> -- *[[FinalEnvironmentalAssessment_11629]]*
+
+### Mentioned In
+- [[FinalEnvironmentalAssessment_11629]]
 
 ## Interstate Highway 15
 
@@ -6673,8 +6761,12 @@ The approach area in the laboratory where test fish were released as they arrive
 > Key definitions established by the policy relevant to fish conservation: - **Controlled Environment**: A human-manipulated setting (hatchery, aquarium, refugium) designed to prevent unplanned escape/entry of organisms or reproductive material. - **Controlled Propagation**: Intentional mating, gam...
 > -- *[[DraftPolicyRegardingControlled_1996_02_07]]*
 
+> This report, by [[Eric J. Loudenslager]] and [[Graham A. E. Gall]] (Department of Animal Science, University of California, Davis), uses [[Gel Electrophoresis]] of enzymes to assess the genetic structure, hybridization and taxonomy of [[Cutthroat Trout]] (*Salmo clarki*) and related western...
+> -- *[[CutthroatTroutABiochemicalgene_16205]]*
+
 ### Mentioned In
 - [[DraftPolicyRegardingControlled_1996_02_07]]
+- [[CutthroatTroutABiochemicalgene_16205]]
 
 ## Introgressive Hybridization
 <!-- fm: auto_enriched: true -->
@@ -7563,6 +7655,18 @@ Man-made agricultural drainage channels that carry irrigation runoff to the Salt
 ### Mentioned In
 - [[ADistributionSurveyOfDesertPup_20197]]
 
+## Irrigation Management Services
+
+### Summary
+Irrigation Management Services is a Bureau of Reclamation program that provides irrigation management assistance to districts. The report says it served 96,000 acres in 11 irrigation districts during the 1972 season.
+
+### Context
+> This is a 1974 progress report from the [[Bureau of Reclamation]] (U.S. Department of the Interior) summarizing its Congressionally funded water resources research. The report covers the Bureau's seven regional offices and the Engineering and Research Center in Denver. Work is grouped under five...
+> -- *[[ReclamationResearchInTheSevent_11535]]*
+
+### Mentioned In
+- [[ReclamationResearchInTheSevent_11535]]
+
 ## Irrigation Pumping
 
 ### Summary
@@ -8182,6 +8286,18 @@ Isopach maps contour equal-thickness lines for a stratigraphic unit, showing whe
 ### Mentioned In
 - [[LateDevonianTectonismInSouthea_11282]]
 
+## Isoperla
+
+### Summary
+Isoperla is a stonefly genus in which some adults feed, along with Leuctra and Nemoura. The source includes several Isoperla species, such as I. minuta and I. mohri, in its habitat discussion.
+
+### Context
+> This 1935 bulletin of the [[Illinois Natural History Survey]] by [[Theodore H. Frison]] is a comprehensive survey of the aquatic insect order [[Plecoptera]] (stoneflies) in Illinois. Based on collecting and rearing from 1926 onward, the study records 36 stonefly species for the state, plus at least...
+> -- *[[TheStonefliesOrPlecopteraOfIll_18843]]*
+
+### Mentioned In
+- [[TheStonefliesOrPlecopteraOfIll_18843]]
+
 ## Isoperla decepta
 
 ### Summary
@@ -8191,8 +8307,12 @@ Isoperla decepta is a stonefly species in Caldwell Hollow that likely survives a
 > This dissertation investigates the ecology and physiological mechanisms enabling macroinvertebrates to survive in a small south-central Indiana stream ([[Caldwell Hollow]]) that becomes completely dry each summer. The stream fauna is dominated by two aquatic peracarid crustaceans, [[Lirceus...
 > -- *[[TheEcologyOfInvertebratesInAnI_15957]]*
 
+> This 1935 bulletin of the [[Illinois Natural History Survey]] by [[Theodore H. Frison]] is a comprehensive survey of the aquatic insect order [[Plecoptera]] (stoneflies) in Illinois. Based on collecting and rearing from 1926 onward, the study records 36 stonefly species for the state, plus at least...
+> -- *[[TheStonefliesOrPlecopteraOfIll_18843]]*
+
 ### Mentioned In
 - [[TheEcologyOfInvertebratesInAnI_15957]]
+- [[TheStonefliesOrPlecopteraOfIll_18843]]
 
 ## Isoperla Decolorata
 <!-- fm: auto_enriched: true -->
@@ -8209,6 +8329,30 @@ Isoperla decepta is a stonefly species in Caldwell Hollow that likely survives a
 
 ### Mentioned In
 - [[TheHatchingAndGrowthOfTheNymph_1962]]
+
+## Isoperla minuta
+
+### Summary
+Isoperla minuta is a stonefly that is abundant only in small, muddy, organic-rich streams. Its distribution in Illinois is tied to these specific stream conditions.
+
+### Context
+> This 1935 bulletin of the [[Illinois Natural History Survey]] by [[Theodore H. Frison]] is a comprehensive survey of the aquatic insect order [[Plecoptera]] (stoneflies) in Illinois. Based on collecting and rearing from 1926 onward, the study records 36 stonefly species for the state, plus at least...
+> -- *[[TheStonefliesOrPlecopteraOfIll_18843]]*
+
+### Mentioned In
+- [[TheStonefliesOrPlecopteraOfIll_18843]]
+
+## Isoperla mohri
+
+### Summary
+Isoperla mohri is a stonefly that occurs in small streams with sandy bottoms. Frison notes that bottom type, not just stream size, affects where it lives.
+
+### Context
+> This 1935 bulletin of the [[Illinois Natural History Survey]] by [[Theodore H. Frison]] is a comprehensive survey of the aquatic insect order [[Plecoptera]] (stoneflies) in Illinois. Based on collecting and rearing from 1926 onward, the study records 36 stonefly species for the state, plus at least...
+> -- *[[TheStonefliesOrPlecopteraOfIll_18843]]*
+
+### Mentioned In
+- [[TheStonefliesOrPlecopteraOfIll_18843]]
 
 ## Isoperla Pinta
 <!-- fm: auto_enriched: true -->
@@ -8328,6 +8472,18 @@ Israel Cook Russell was the geologist whose work on the Quaternary history of th
 
 ### Mentioned In
 - [[TheFishesOfTheLahontanSystemOf_21251]]
+
+## Israel Russell
+
+### Summary
+Israel Russell was an early geologist who studied Great Basin pluvial lakes, including Lake Lahontan. The bulletin reviews his earlier mapping and interpretations as part of the historical background.
+
+### Context
+> This Nevada Bureau of Mines and Geology bulletin (1979) maps late Quaternary pluvial lakes across more than 81 closed basins and uses their size to estimate the climate that sustained them. The authors recognize 53 pluvial lakes of [[Lahontan Age]] (Wisconsinan) and probable shoreline evidence for...
+> -- *[[PluvialLakesAndEstimatedPluvia_15268]]*
+
+### Mentioned In
+- [[PluvialLakesAndEstimatedPluvia_15268]]
 
 ## Israeli Carp
 <!-- fm: auto_enriched: true -->

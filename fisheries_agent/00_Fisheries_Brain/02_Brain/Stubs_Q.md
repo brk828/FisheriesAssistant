@@ -247,6 +247,18 @@ Quail Creek Diversion is a water diversion structure on the Virgin River in Utah
 - [[VirginSpinedaceConservationAgr_20261]]
 - [[VirginSpinedaceConservationAgr_20262]]
 
+## Quail Creek Pipeline
+
+### Summary
+A water-delivery pipeline completed in 1985 that now carries all LaVerkin Bench and Hurricane Bench canal water, replacing the old open canals and their diversion structures. The study concludes that its installation caused the increase in Virgin River flow, because it delivers water without the seepage losses of the canals.
+
+### Context
+> This 1998 hydrologic study, prepared by [[Psomas and Associates]] for the [[Washington County Water Conservancy District]] (WCWCD), evaluates how the construction and operation of the [[Quail Creek Pipeline]] (completed 1985) changed flows in the [[Virgin River]] near Hurricane, Utah. Using...
+> -- *[[VirginRiverReturnFlowStudy_18717]]*
+
+### Mentioned In
+- [[VirginRiverReturnFlowStudy_18717]]
+
 ## Quail Creek Project
 <!-- fm: auto_enriched: true -->
 
@@ -394,6 +406,18 @@ Quail Springs Dam is one of the potential dam sites on the San Francisco River c
 
 ### Mentioned In
 - [[UpperGilaRiverInvestigationsNe_11521]]
+
+## Quail Trapping
+
+### Summary
+Quail trapping refers to the methods that the survey identified as driving quail declines in Guatemala. These included figure-four traps, snares called alzapié and nets called redes, and the report recommends banning game-bird trapping and commercial sale year-round.
+
+### Context
+> This U.S. Fish and Wildlife Service Special Scientific Report (Wildlife No. 5, June 1950) summarises a joint survey of Guatemala's wildlife and fisheries carried out in March–May 1946 and March–June 1947 under an intergovernmental agreement with the Guatemalan Ministry of Agriculture. The report's...
+> -- *[[AFishAndWildlifeSurveyOfGuatem_20529]]*
+
+### Mentioned In
+- [[AFishAndWildlifeSurveyOfGuatem_20529]]
 
 ## Quaking Aspen
 
@@ -632,6 +656,18 @@ Quebec is a Canadian province supporting 103 freshwater fish species according t
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[DistantRecapturesOfShadAlosaSa_13176]]
 
+## Quebec Provincial Museum
+
+### Summary
+A museum that lent specimens to Ricker for this stonefly revision. The source lists it among the collections consulted.
+
+### Context
+> William E. Ricker's monograph *Systematic Studies in Plecoptera* (Indiana University Publications, Science Series No. 18) revises North American stoneflies in three parts: the genus [[Nemoura]] (Part I), the family [[Perlodidae]] (Part II), and miscellaneous revisions (Part III). It builds on...
+> -- *[[SystematicStudiesInPlecoptera_16861]]*
+
+### Mentioned In
+- [[SystematicStudiesInPlecoptera_16861]]
+
 ## Queen Charlotte Islands
 
 ### Summary
@@ -694,11 +730,15 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 > This 1947 U.S. Geological Survey water-supply report, prepared by [[Leonard C. Halpenny]] and [[Robert L. Cushman]] with a water-quality section by J. D. Hem, examines the ground-water resources of the [[Cactus Flat-Artesia Area]] in the lower (northern) end of the [[San Simon Basin]], Graham...
 > -- *[[GroundwaterResourcesAndProblem_20985]]*
 
+> This final report (Heritage Grant #193007, December 1995) from the [[Tonto National Forest]] documents Phase I of a project to prepare [[Arnett Creek]], a [[Queen Creek]] tributary in south-central Arizona, for native fish re-establishment. Phase I had three components: design of a fish barrier to...
+> -- *[[FinalReportForTheArnettCreekNa_17657]]*
+
 ### Mentioned In
 - [[AProposalToReestablishDesertSu_20730]]
 - [[EnvironmentalAssessmentarnettC_11509]]
 - [[StorageOfWaterOnGilaRiverArizo_20348]]
 - [[GroundwaterResourcesAndProblem_20985]]
+- [[FinalReportForTheArnettCreekNa_17657]]
 
 ## Queenfish
 <!-- fm: auto_enriched: true -->
