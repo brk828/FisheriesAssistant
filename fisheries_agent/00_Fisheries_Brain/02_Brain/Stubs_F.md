@@ -4174,6 +4174,18 @@ Fingerling salmon are young, juvenile salmon migrating seaward. In this source, 
 ### Mentioned In
 - [[EvaluationOfFallPlantingOfFing_1966]]
 
+## Fingerling Trout Growth
+
+### Summary
+In this thesis, fingerling rainbow trout growth served as one of the productivity indicators for the study impoundments. The author reports growth of roughly 0.2 to 0.9 inches per month, with about 0.6 inches per month recorded at Lynx Creek and at Parker Canyon Lake, and these rates were used alongside chemistry to judge how productive each lake was.
+
+### Context
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
+### Mentioned In
+- [[RelationOfTheChemistryOfInflow_17932]]
+
 ## Fingernail Clam
 
 ### Summary
@@ -8460,6 +8472,18 @@ Fisheries - USA is a U.S. Fish and Wildlife Service policy that guides the agenc
 - [[FishAndFishEggDistributionRepo_13434]]
 - [[CommentsOnDraftImplementationP_15420]]
 
+## Fisheries and Wildlife Research
+
+### Summary
+The 1982 annual research summary of the U.S. Fish and Wildlife Service Research Divisions, covering October 1, 1981 to September 30, 1982. It is a compilation of many programs on fish, birds, mammals, and endangered species, not a single study. The report also notes staffing and budget figures and the network of 12 major facilities and 50 Cooperative Research Units.
+
+### Context
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
+### Mentioned In
+- [[FisheriesAndWildlifeResearch_13305]]
+
 ## Fisheries Biologist
 <!-- fm: auto_enriched: true -->
 
@@ -12602,6 +12626,18 @@ Floodplain wetlands are low-lying areas beside rivers that fill during high flow
 ### Mentioned In
 - [[FishAndWildlifeManagementOnWat_1959]]
 
+## Flora And Fauna Guarantee Act
+
+### Summary
+Victorian legislation from 1988 for conserving threatened native flora and fauna. The manual lists it among the policy instruments relevant to wetland conservation in Victoria.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
+
 ## Flora Of Coahuila
 <!-- fm: auto_enriched: true -->
 
@@ -16276,6 +16312,18 @@ Co-collector on the 1901 Mexican fish expedition documented in this source. The 
 ### Mentioned In
 - [[AContributionToTheIcthyologyOf_12369]]
 
+## Frank H. Olmsted
+
+### Summary
+Frank H. Olmsted was the engineer who prepared the 1919 report on Gila River flood control in Graham County, Arizona, submitted under the Indian Appropriation Act of 1916. The report recommends bank protection in the valley reach and a large upper-watershed program of check dams, reforestation and grazing control. The source spells the name "Olmstead" on its citation line, but the report text uses "Olmsted."
+
+### Context
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
+### Mentioned In
+- [[GilaRiverFloodControl_11346]]
+
 ## Frank Hooper
 
 ### Summary
@@ -16395,6 +16443,18 @@ One of five Adirondack counties in New York participating in the trout restorati
 
 ### Mentioned In
 - [[TroutRestorationInTheAdirondac_20206]]
+
+## Franklin K. Lane
+
+### Summary
+Franklin K. Lane was U.S. Secretary of the Interior, to whom the engineering report on Gila River flood control was transmitted. The 1919 Senate document is a letter from the Secretary that forwards the study.
+
+### Context
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
+### Mentioned In
+- [[GilaRiverFloodControl_11346]]
 
 ## Franklin Mountains
 

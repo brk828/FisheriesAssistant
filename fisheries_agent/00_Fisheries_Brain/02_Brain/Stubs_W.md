@@ -8830,6 +8830,18 @@ The Wet-Bottom Drainage is an upper drainage area near Deadman Creek where the m
 ### Mentioned In
 - [[DeadmanCreekSurveyApril_20350]]
 
+## Wetland Definition
+
+### Summary
+Victoria's adapted version of the Ramsar wetland definition, used for state wetland management. According to the manual, it excludes marine beaches, stream sections, impoundments under one hectare and irrigated freehold farmland, and includes swamps, billabongs and floodplain depressions.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
+
 ## Wetland Ecology
 <!-- fm: auto_enriched: true -->
 
@@ -8849,6 +8861,18 @@ The Wet-Bottom Drainage is an upper drainage area near Deadman Creek where the m
 
 ### Mentioned In
 - [[ASystemForClassifyingCultivate_13010]]
+
+## Wetland Field Survey Form
+
+### Summary
+A standardised form used to record field data on wetlands so that surveys are consistent. The manual notes that field data are standardised through this form before being stored in the Regional Wetland Database.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
 
 ## Wetland Habitat
 <!-- fm: auto_enriched: true -->
@@ -8926,6 +8950,18 @@ Wetland Management refers to the active control and manipulation of wetland syst
 ### Mentioned In
 - [[LetterToSecretaryBabbittReques_1993_10_08]]
 - [[WhereToFindWaterExpertiseAtSta_13522]]
+
+## Wetlands Conservation Program
+
+### Summary
+A program that ran from 1988 to 1992 as part of Victoria's wetland policy framework. The manual cites it as one of the instruments that have supported wetland conservation in the state.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
 
 ## Wetlands Management Program
 <!-- fm: auto_enriched: true -->
@@ -13165,8 +13201,12 @@ Early monitoring by the U.S. Fish and Wildlife Service of wildlife habitat on CR
 > The review assesses each book's suitability as a practical reference for field biologists, particularly those in [[Wildlife Management]] and [[Fisheries Research]], who must apply statistical methods without extensive mathematical training.
 > -- *[[BookReviewsStatisticalMethodsF_20731]]*
 
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[BookReviewsStatisticalMethodsF_20731]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Wildlife Management Institute
 

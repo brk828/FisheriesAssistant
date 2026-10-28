@@ -9892,8 +9892,12 @@ The Hohokam Culture dominated the prehistoric ceramic period (A.D. 300-1450) in 
 > Archaeological survey conducted by the [[NPS Western Archaeological and Conservation Center]] at [[Organ Pipe Cactus National Monument]] (ORPI) between 1989 and 1993 documented 12,000 years of continuous human occupation. The survey covered 8,000 acres (2% of the monument) and recorded 199...
 > -- *[[BetweenTheDesertAndTheSeaArche_13223]]*
 
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
 ### Mentioned In
 - [[BetweenTheDesertAndTheSeaArche_13223]]
+- [[GilaRiverFloodControl_11346]]
 
 ## Hohokam Indians
 
@@ -16132,6 +16136,9 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This U.S. Fish and Wildlife Service Resource Publication (No. 135, 1980), compiled by Richard S. Wydoski, Kim Gilbert, Karl Seethaler, Charles W. McAda, and Joy A. Wydoski at the [[Utah Cooperative Fishery Research Unit]], is an annotated bibliography of 1,109 published and readily available...
 > -- *[[AnnotatedBibliographyForAquati_20870]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -16879,6 +16886,19 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
 - [[ColoradosLittleFishAGuideToThe_20824]]
 - [[AnnotatedBibliographyForAquati_20870]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
+
+## Humpback Chub Propagation
+
+### Summary
+A proposed captive-rearing effort for endangered humpback chub that the ACT considered at the Bubbling Ponds/Page Springs facility. The source gives a $10,000 setup estimate, notes problems such as effluent entering Oak Creek and inability to separate sexes, and recommends at least 100 males and 100 females to maintain genetic characteristics.
+
+### Context
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Humpback Chub Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -18096,6 +18116,18 @@ The Hybrid Computer Model is a water resources simulation tool applied to the Up
 
 ### Mentioned In
 - [[ReclamationResearchInTheSevent_11535]]
+
+## Hybrid Grass Carp
+
+### Summary
+A cross between grass carp and bighead carp used as a biological tool to control aquatic plants. The source reports that the hybrids were all triploid and likely sterile, and that they ate plant material (over 99% of fecal pellets). Survival and growth data from pond and field tests are also given, along with electrofishing effects.
+
+### Context
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
+### Mentioned In
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Hybrid Index
 <!-- fm: auto_enriched: true -->

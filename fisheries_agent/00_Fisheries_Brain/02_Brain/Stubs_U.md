@@ -2071,6 +2071,9 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This Bureau of Sport Fisheries and Wildlife Research Report (No. 70, published 1967) compiles papers from the Third National Trout Hepatoma Research Conference, held in Portland, Oregon, on March 18–19, 1965. The conference reviewed the status of research on liver tumors (hepatoma) in...
 > -- *[[TroutHepatomaResearchConferenc_20987]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -2713,6 +2716,7 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[ColumbiaBasinWildlifeirrigatio_18791]]
 - [[PetitionToDesignateCriticalHab_20448]]
 - [[TroutHepatomaResearchConferenc_20987]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->

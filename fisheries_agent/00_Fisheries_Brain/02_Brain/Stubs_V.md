@@ -2961,6 +2961,18 @@ Victoria Falls appears to represent a significant barrier in the Zambesi River s
 ### Mentioned In
 - [[ANoteOnEelsAnguillaSpp_18852]]
 
+## Victorian Minimum Data Set
+
+### Summary
+The core set of attributes recorded for each wetland in Victoria's inventory. It covers identity and location, land status and area, and ecological attributes such as system, biophysical region, morphology, origin, water regime, conductivity and pH.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
+
 ## Victory Lake
 
 ### Summary
@@ -4858,6 +4870,18 @@ A survey method in which observers count frogs by sight. This report validated V
 
 ### Mentioned In
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
+
+## Visual Resource Value
+
+### Summary
+A landscape assessment methodology proposed in Chapter 3 of the manual for rating the visual value of wetlands. Wetlands are compared only within the same landscape character type, wetland setting and classification type, and a high rating requires significant positive variables in landform, vegetation and waterform.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
 
 ## Visual Survey
 

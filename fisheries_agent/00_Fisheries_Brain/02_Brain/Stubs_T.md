@@ -6700,9 +6700,13 @@ A German entomologist who gave the first description of the larval and adult mor
 > This doctoral dissertation by Richard Cunningham Harrel (Oklahoma State University, Zoology, July 1966) tests whether [[Stream Order]] classification, following [[Horton Stream Order System]] and [[Strahler Modification]], can predict the morphometry, [[Physico-Chemical Conditions]] and biological...
 > -- *[[StreamOrderAndCommunityStructu_20656]]*
 
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[StudiesOfNeotropicalCaddisFlie_16467]]
 - [[StreamOrderAndCommunityStructu_20656]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Thienemann 1912
 <!-- fm: auto_enriched: true -->
@@ -7702,6 +7706,9 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This Bureau of Reclamation literature review (REC-ERC-84-7, June 1984) assesses whether three nonnative fishes, [[Striped Bass]], [[White Bass]] and [[Blue Tilapia]], could be transferred from the [[Colorado River]] into central Arizona during operation of the [[Central Arizona Project]] (CAP),...
 > -- *[[PotentialForIntroductionOfThre_19188]]*
 
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -7877,6 +7884,7 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[FisheriesInvestigationsCentral_11619]]
 - [[TheEcologyOfTheSaltonSeaCalifo_14433]]
 - [[PotentialForIntroductionOfThre_19188]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Threadfin Shad Introduction
 <!-- fm: auto_enriched: true -->
@@ -11605,6 +11613,9 @@ Toxaphene is a chlorinated camphene-based insecticide that was employed as a pis
 > This U.S. Fish and Wildlife Service report (Investigations in Fish Control No. 35, January 1970) by Richard A. Schoettger, a fishery biologist with the [[Bureau of Sport Fisheries and Wildlife]], evaluates [[Thiodan]] (the trade name of [[Endosulfan]]), a chlorinated organochlorine insecticide, as...
 > -- *[[ToxicologyOfTiodanInSeveralFis_20589]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[ControlOfCarpCyprinusCarpioLin_14811]]
 - [[TheEffectsOfCombinationsOfInse_1966]]
@@ -11618,6 +11629,7 @@ Toxaphene is a chlorinated camphene-based insecticide that was employed as a pis
 - [[EffectsOfToxapheneUponPlankton_19616]]
 - [[FishCultureForFunForProfit_11333]]
 - [[ToxicologyOfTiodanInSeveralFis_20589]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Toxic Layer
 

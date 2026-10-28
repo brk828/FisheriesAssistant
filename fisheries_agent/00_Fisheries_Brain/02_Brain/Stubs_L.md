@@ -9804,6 +9804,9 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 > This Bureau of Reclamation Engineering and Science Monograph (No. 43, May 1993) reports 15 years of cooperative limnology and fishery studies (1971–86) on [[Twin Lakes]], a pair of dimictic, oligotrophic, glacially formed montane lakes in central Colorado. The studies assessed the effects of the...
 > -- *[[AquaticEcologyStudiesOfTwinLak_11484]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -9920,6 +9923,7 @@ Lake Trout (*Salvelinus namaycush*) is a coldwater salmonid species native to de
 - [[LandlockedSalmonAndBrookTroutO_17720]]
 - [[PropagationAndDistributionOfFo_20212]]
 - [[AquaticEcologyStudiesOfTwinLak_11484]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Lake Trout Decline
 <!-- fm: auto_enriched: true -->
@@ -12927,6 +12931,9 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This USDA Forest Service General Technical Report draft, by [[John N. Rinne]] (Rocky Mountain Forest and Range Experiment Station) and [[W. L. Minckley]] (U.S. Fish and Wildlife Service and Arizona State University), presents an illustrated portfolio of the native fishes of the [[Sonoran Desert]]...
 > -- *[[DraftfishesInAridLandsaPortfol_15015]]*
 
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[AComparisonOfProductionOfAlbin_18664]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -13586,6 +13593,7 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[TheMayfliesOrEphemeropteraOfIl_14035]]
 - [[RedrockCanyonAquaticHabitatSur_14763]]
 - [[DraftfishesInAridLandsaPortfol_15015]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Largemouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -23514,6 +23522,9 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This 1966 survey by James Johnson and Murray Itzkowits, with input from W. L. Minckley, documents the fish fauna of [[Burro Creek]], a tributary of the [[Bill Williams River]] in western Arizona. The Bill Williams drainage was poorly studied compared with the [[Gila River]] and [[Little Colorado...
 > -- *[[FishesOfBurroCreek_19763]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -23815,6 +23826,7 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[GlenCanyonDamBeachhabitatBuild_18131]]
 - [[GlenCanyonEnvironmentalStudies_19692]]
 - [[FishesOfBurroCreek_19763]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Little Colorado River (Lcr)
 <!-- fm: auto_enriched: true -->
@@ -23914,6 +23926,18 @@ The Little Colorado River Spinedace is a small cyprinid fish endemic to the Litt
 - [[PartialChecklistOfFishesOfTheL_18573]]
 - [[UsFishAndWildlifeServiceEndang_20265]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
+
+## Little Colorado River Springs
+
+### Summary
+Groundwater springs in the Little Colorado River gorge that sustain the river's baseflow. Loughlin (1983) reported 56 springs between river miles 3.7 and 20.9, with a combined discharge of 211 cfs, mostly at 66 to 77 °F.
+
+### Context
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Little Colorado River Sucker
 <!-- fm: auto_enriched: true -->

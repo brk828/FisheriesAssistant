@@ -1117,6 +1117,18 @@ The East Fork is a tributary of the Gila River in New Mexico that historically s
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
 
+## East Fork of the Gila River
+
+### Summary
+The East Fork of the Gila River is a tributary draining about 1,137.6 square miles, with a recorded peak of 16,800 cubic feet per second during the period studied. The report considers it a comparatively minor flood contributor relative to the San Francisco and Blue rivers.
+
+### Context
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
+### Mentioned In
+- [[GilaRiverFloodControl_11346]]
+
 ## East Fork of the White River
 
 ### Summary
@@ -8363,6 +8375,9 @@ An endangered species, in the context of fish science and conservation biology, 
 > This document is a set of 1986 correspondence and a U.S. Embassy telegram describing how U.S. scientists must obtain [[Mexican Scientific Research Permits]] before conducting fieldwork in Mexico. It covers the U.S. Fish and Wildlife Service's procedural guidance, a June 1986 meeting between the...
 > -- *[[MexicanPermits_20832]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[BullfrogPredation_1985_11_27]]
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
@@ -8387,6 +8402,7 @@ An endangered species, in the context of fish science and conservation biology, 
 - [[WildlifeConservationActAmendme_1995]]
 - [[GeneralGeneticGuidelinesForReg_18841]]
 - [[MexicanPermits_20832]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Endangered Species (Federal List)
 <!-- fm: auto_enriched: true -->
@@ -11817,6 +11833,18 @@ The Arizona Game and Fish Department checklist used to review a proposed project
 ### Mentioned In
 - [[ReviewOfBiologicalAssessmentHo_1991_04_30]]
 
+## Environmental Contaminant Evaluation
+
+### Summary
+A program within the U.S. Fish and Wildlife Service research divisions that measured contaminants in fish, eggs, and predators, and studied their effects. In this 1982 report it covers PCBs, dioxins, DDT, toxaphene, selenium, mercury, and trace metals across many regions. It is run from the Columbia National Fisheries Research Laboratory.
+
+### Context
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
+### Mentioned In
+- [[FisheriesAndWildlifeResearch_13305]]
+
 ## Environmental Control
 
 ### Summary
@@ -12095,6 +12123,9 @@ The Environmental Protection Agency (EPA) serves as a critical federal regulator
 > This 1997 report, prepared by John M. Volkman for the [[Western Water Policy Review Advisory Commission]], examines how water development in the [[Columbia River Basin]] has contributed to the decline of [[Columbia River Salmon]] and how federal and state water programs are responding. The author,...
 > -- *[[ARiverInCommonTheColumbiaRiver_13184]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[DuesDonationsAndTheGreatestSym_1980_11_12]]
 - [[InterimFlowsForGlenCanyonDam_1991_03_06]]
@@ -12111,6 +12142,7 @@ The Environmental Protection Agency (EPA) serves as a critical federal regulator
 - [[QuantificationOfTraceElementsI_19491]]
 - [[SacramentosanJoaquinRiverBasin_12264]]
 - [[ARiverInCommonTheColumbiaRiver_13184]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Environmental Research Laboratory
 

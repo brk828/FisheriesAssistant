@@ -4557,6 +4557,17 @@
   "status": "done",
   "timestamp": "2026-10-16T19:20:10+00:00"
  },
+ "29b75f90ae8fe73ab31575e24019715e830a132dfc1eee1c96f267851e27f188": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13305.pdf",
+  "method": "ocr",
+  "note": "FisheriesAndWildlifeResearch_13305.md",
+  "source_id": "X-29b75f90",
+  "status": "done",
+  "timestamp": "2026-10-28T15:32:33+00:00",
+  "via": "anthropic-batch"
+ },
  "29c2db387ba708e4aa82a65702db5934bd7c8303fd487e82392f7a217e8ce1c8": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -8059,6 +8070,17 @@
   "source_id": "X-493c9c5b",
   "status": "done",
   "timestamp": "2026-10-21T00:24:18+00:00"
+ },
+ "4953c9b7a77ce2ec35b016ec3b374277ce4c1f420f611cd1a810a38a326c8c5e": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19693.pdf",
+  "method": "ocr",
+  "note": "GlenCanyonEnvironmentalStudies_19693.md",
+  "source_id": "X-4953c9b7",
+  "status": "done",
+  "timestamp": "2026-10-28T15:32:32+00:00",
+  "via": "anthropic-batch"
  },
  "496c78a8ef464ec0f0e4f5013427c765ba6e7851d4bd56613d6590d009ff1fc1": {
   "citation_source": "minckley-sheet",
@@ -18034,6 +18056,17 @@
   "status": "done",
   "timestamp": "2026-10-17T06:09:03+00:00"
  },
+ "a272888d8006aead2d7dd3ce168c44bc0f79c21f4b8329dc2e035dd88784feae": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "17932.pdf",
+  "method": "ocr",
+  "note": "RelationOfTheChemistryOfInflow_17932.md",
+  "source_id": "X-a272888d",
+  "status": "done",
+  "timestamp": "2026-10-28T15:32:31+00:00",
+  "via": "anthropic-batch"
+ },
  "a277b3bf3c948dc896ccdbde510030f99b214cbed49e070912967c69ea792165": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -24612,6 +24645,17 @@
   "status": "done",
   "timestamp": "2026-10-28T13:33:34+00:00"
  },
+ "dddbb94f43d5d6d8bc5c3fe6a96bf31c3dcda855a3dba14479292e877fd45a84": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19591.pdf",
+  "method": "ocr",
+  "note": "ManualOfWetlandsManagement_19591.md",
+  "source_id": "X-dddbb94f",
+  "status": "done",
+  "timestamp": "2026-10-28T15:32:33+00:00",
+  "via": "anthropic-batch"
+ },
  "dde3a1d2080b62851fb603a484f49ff6356724e5c54220074387f7c6f6d011b3": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -27613,6 +27657,17 @@
   "source_id": "X-f68af9f7",
   "status": "done",
   "timestamp": "2026-10-28T02:27:57+00:00"
+ },
+ "f6a2c305ff6b594314b4402a64af6b52a6c90054c1f0f58026bbb83b8a59c676": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11346.pdf",
+  "method": "ocr",
+  "note": "GilaRiverFloodControl_11346.md",
+  "source_id": "X-f6a2c305",
+  "status": "done",
+  "timestamp": "2026-10-28T15:32:32+00:00",
+  "via": "anthropic-batch"
  },
  "f6a530b7737609b5aa93b73a295bc4825ccadd49f614d976067bed03b5bb8eed": {
   "citation_source": "minckley-sheet",

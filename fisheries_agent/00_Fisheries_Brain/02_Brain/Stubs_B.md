@@ -11043,6 +11043,9 @@ Bioaccumulation in aquatic systems refers to the process by which toxicants and 
 > Related concepts: [[DDT]], [[Endrin]], [[Dieldrin]], [[Organophosphate Pesticides]], [[Chlorinated Hydrocarbon Pesticides]], [[Bioaccumulation]], [[Estuarine Ecosystem]], [[Eastern Oyster]], [[Spot (Fish)]], [[Sheepshead Minnow]].
 > -- *[[EffectsOfPesticidesOnFishAndWi_14331]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[AccumulationAndEliminationOfDi_1977]]
 - [[ConsiderationsForAcceptableCon_15438]]
@@ -11054,6 +11057,7 @@ Bioaccumulation in aquatic systems refers to the process by which toxicants and 
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[RadioactiveMaterialsInAquaticA_13967]]
 - [[SizeRelatedFactorsAssociatedWi_13891]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Bioassay
 <!-- fm: auto_enriched: true -->
@@ -12378,6 +12382,18 @@ Biotodoma cupido (Cupido Cichlid) is a South American cichlid from soft, warm, a
 
 ### Mentioned In
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
+
+## Biowest Permit
+
+### Summary
+The research permit under which Bio/West conducted fish work in the Little Colorado River. The source reports it was approved, with a possible increase from 60 to 75 fish reviewed in summer 1991, while the Biological Opinion was still pending.
+
+### Context
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Biowest, Inc
 <!-- fm: auto_enriched: true -->
@@ -14030,6 +14046,9 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This draft [[Environmental Assessment]], prepared by the [[U.S. Fish and Wildlife Service]] (Ecological Services, Grand Junction, Colorado; dated April 30, 1996), evaluates procedures that would guide future stocking of nonnative fishes in the [[Upper Colorado River Basin]]. The stated goal is to...
 > -- *[[DraftEnvironmentalAssessmentFo_19335]]*
 
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -14195,6 +14214,7 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[FreshWaterFisheriesSurvey_20643]]
 - [[GlenCanyonReservoirPostimpound_14588]]
 - [[DraftEnvironmentalAssessmentFo_19335]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Black Creek Project
 <!-- fm: auto_enriched: true -->
@@ -17408,6 +17428,9 @@ The Blue River is a tributary of the Gila River located in Greenlee County, Ariz
 > This final report, prepared by [[Arizona State University]] for the [[Arizona Game and Fish Department]] (with the [[New Mexico Department of Game and Fish]] and the [[U.S. Fish and Wildlife Service]]), investigates whether the introduced [[Red Shiner]] contributes to the decline of two federally...
 > -- *[[SpikedaceMedaFulgidaAndLoachMi_17036]]*
 
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
 ### Mentioned In
 - [[ConcurrenceWithEffectsDetermin_1997_05_02]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -17461,6 +17484,7 @@ The Blue River is a tributary of the Gila River located in Greenlee County, Ariz
 - [[PetitionsToReclassifyTheLoachm_20447]]
 - [[CompletionReportToUnitedStates_18978]]
 - [[SpikedaceMedaFulgidaAndLoachMi_17036]]
+- [[GilaRiverFloodControl_11346]]
 
 ## Blue River (Arizona)
 <!-- fm: auto_enriched: true -->
@@ -17655,6 +17679,9 @@ Blue Springs refers to a significant spring-influenced site located at river mil
 > This compilation of 1991 documents from the [[Glen Canyon Environmental Studies]] (GCES) program covers four types of material: an information-request memo, a meeting-agreement letter, an Arizona Game and Fish Department (AGFD) trip report on native fishes in the [[Little Colorado River]] (LCR) and...
 > -- *[[InformationRequestForAdditiona_20880]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[BlueSpringsMiLittleColoradoRiv_1971]]
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
@@ -17666,6 +17693,7 @@ Blue Springs refers to a significant spring-influenced site located at river mil
 - [[TheEndangeredHumpbackChubGilaC_12469]]
 - [[GlenCanyonEnvironmentalStudies_19717]]
 - [[InformationRequestForAdditiona_20880]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Blue Sucker
 <!-- fm: auto_enriched: true -->
@@ -22883,6 +22911,9 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This U.S. Fish and Wildlife Service Resource Publication (No. 135, 1980), compiled by Richard S. Wydoski, Kim Gilbert, Karl Seethaler, Charles W. McAda, and Joy A. Wydoski at the [[Utah Cooperative Fishery Research Unit]], is an annotated bibliography of 1,109 published and readily available...
 > -- *[[AnnotatedBibliographyForAquati_20870]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -23387,6 +23418,7 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[GlenCanyonEnvironmentalStudies_19692]]
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
 - [[AnnotatedBibliographyForAquati_20870]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Bonytail Chub Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -29499,6 +29531,18 @@ A shallow, sandy Virginia stream sampled in April 1922. The source reports that 
 
 ### Mentioned In
 - [[RecordsOfFishesForTheSouthernS_18800]]
+
+## Brush Mattress
+
+### Summary
+A brush mattress is a bank-protection method that uses woven or bundled brush laid over the bank. The report rejected it because it requires brush that would have to be obtained from distant sources, making it impractical for the Gila project.
+
+### Context
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
+### Mentioned In
+- [[GilaRiverFloodControl_11346]]
 
 ## Brush Mouse
 

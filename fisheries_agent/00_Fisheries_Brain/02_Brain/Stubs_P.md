@@ -6791,11 +6791,15 @@ Patuxent Wildlife Research Center is a U.S. Fish and Wildlife Service research f
 > This U.S. government report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (apparently late 1960s), argues that species are now disappearing faster than they evolve, largely because of human actions. It reviews historic extinctions in North America, describes endangered animals and their...
 > -- *[[TheRightToExist_11512]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[WildlifeStudiesPatuxentWildlif_14328]]
 - [[EffectsOfPesticidesOnFishAndWi_12842]]
 - [[TheEffectsOfPesticidesOnFishAn_11524]]
 - [[TheRightToExist_11512]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Patzcuaro
 <!-- fm: auto_enriched: true -->
@@ -21443,9 +21447,13 @@ Industrial chlorinated compounds (PCBs) that persist in the environment and buil
 > This Pesticides Monitoring Journal issue (Vol. 3, No. 3, December 1969) contains two papers. The main paper reports the first year-and-a-half of the [[National Pesticide Monitoring Program]] fish survey, in which whole-fish composites from 50 U.S. stations were analyzed for 11 [[Organochlorine...
 > -- *[[OrganochlorineInsecticideResid_16625]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[ResiduesOfOrganochlorineInsect_18815]]
 - [[OrganochlorineInsecticideResid_16625]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Polyculture
 <!-- fm: auto_enriched: true -->
@@ -23129,6 +23137,9 @@ Population Viability Analysis (PVA) is a quantitative modeling approach used to 
 > This preliminary draft handbook (dated September 15, 1994; running headers read 1996) is internal guidance from the [[Fish and Wildlife Service]] (FWS) to its Regional and Field Offices on developing [[Habitat Conservation Plan]]s (HCPs) and processing [[Incidental Take Permit]] applications under...
 > -- *[[PreliminaryDraftHandbookForHab_11711]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[DraftMeetingSummaryPopulationV_1991_03_07]]
 - [[InvitationLetterAndAgendaForPo_1991_01_16]]
@@ -23145,6 +23156,7 @@ Population Viability Analysis (PVA) is a quantitative modeling approach used to 
 - [[NovemberManagementCommitteeMee_21033]]
 - [[DraftInterimHandbookForHabitat_11641]]
 - [[PreliminaryDraftHandbookForHab_11711]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Populus
 

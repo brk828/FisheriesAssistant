@@ -1530,6 +1530,9 @@ A separate BLM resource management plan whose completion the source says was the
 > This U.S. Geological Survey Water-Supply Paper (No. 1104, 1950), written by John D. Hem and prepared in cooperation with the Defense Plant Corporation, reports the chemical character of surface and ground waters across the [[Gila River]] Basin above [[Coolidge Dam]]. The study area covers 12,890...
 > -- *[[QualityOfWaterOfTheGilaRiverBa_16620]]*
 
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyOnFisheryRes_1994_05_27]]
 - [[MorphologicalVariationInGilaPi_12778]]
@@ -1537,6 +1540,7 @@ A separate BLM resource management plan whose completion the source says was the
 - [[SomeNotesOnTheLateCenozoicDrai_17545]]
 - [[UseOfWaterByBottomlandVegetati_16931]]
 - [[QualityOfWaterOfTheGilaRiverBa_16620]]
+- [[GilaRiverFloodControl_11346]]
 
 ## Safford Water System
 
@@ -6957,6 +6961,9 @@ San Carlos Reservoir is an impounded lentic (lake-like) water body on the Gila R
 > This U.S. Geological Survey Water-Supply Paper (No. 1104, 1950), written by John D. Hem and prepared in cooperation with the Defense Plant Corporation, reports the chemical character of surface and ground waters across the [[Gila River]] Basin above [[Coolidge Dam]]. The study area covers 12,890...
 > -- *[[QualityOfWaterOfTheGilaRiverBa_16620]]*
 
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
 ### Mentioned In
 - [[ModificationOfCoolidgeDamAFeat_11478]]
 - [[RadiotaggingRazorbackSuckersGi_1989_06_12]]
@@ -6982,6 +6989,7 @@ San Carlos Reservoir is an impounded lentic (lake-like) water body on the Gila R
 - [[StorageOfWaterOnGilaRiverArizo_20348]]
 - [[InstreamFlowIncrementalMethodo_11622]]
 - [[QualityOfWaterOfTheGilaRiverBa_16620]]
+- [[GilaRiverFloodControl_11346]]
 
 ## San Carlos River
 
@@ -7600,6 +7608,9 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > This U.S. Geological Survey Water-Supply Paper (No. 1104, 1950), written by John D. Hem and prepared in cooperation with the Defense Plant Corporation, reports the chemical character of surface and ground waters across the [[Gila River]] Basin above [[Coolidge Dam]]. The study area covers 12,890...
 > -- *[[QualityOfWaterOfTheGilaRiverBa_16620]]*
 
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -7665,6 +7676,7 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[TheNationwideRiversInventoryAr_19590]]
 - [[DraftGilaBoxRiparianNationalCo_11469]]
 - [[QualityOfWaterOfTheGilaRiverBa_16620]]
+- [[GilaRiverFloodControl_11346]]
 
 ## San Francisco Striped Bass Club
 
@@ -10240,6 +10252,9 @@ The San Simon Flowing-Well Area is the region where artesian wells flow naturall
 > This 1921 [[Soil Survey]] by the [[Bureau Of Soils]], U.S. Department of Agriculture, in cooperation with the University of Arizona Department of Irrigation, maps the agricultural soils of the [[San Simon Valley]] in northeastern [[Cochise County]], Arizona. The surveyed area covers about 448...
 > -- *[[SoilSurveyOfTheSanSimonAreaAri_17437]]*
 
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
 ### Mentioned In
 - [[GeologicRelationsOfTheGilaCong_11466]]
 - [[GroundWaterInSanSimonValleyAri_11299]]
@@ -10248,6 +10263,7 @@ The San Simon Flowing-Well Area is the region where artesian wells flow naturall
 - [[GeologyAndWaterResourcesOfTheG_11300]]
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[SoilSurveyOfTheSanSimonAreaAri_17437]]
+- [[GilaRiverFloodControl_11346]]
 
 ## San Solomon Spring
 <!-- fm: auto_enriched: true -->
@@ -18559,12 +18575,16 @@ A trace element that can build up in soils and water in arid western landscapes 
 > This document is the February 1995 compilation of the [[San Juan River Basin Recovery Implementation Program]] (RIP), comprising the Program Document, the [[Cooperative Agreement]] (executed 1992), the [[Long Range Implementation Plan]] (LRP, February 1995), and a [[Side By Side Analysis]]...
 > -- *[[SanJuanRiverBasinRecoveryImple_18326]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[LevelOneSurveySheetsForFiveOfT_14821]]
 - [[RecoveryProgramFromTheEndanger_18333]]
 - [[MissouriRiverupperColoradoRive_20366]]
 - [[SiteScreeningResultsForSevenSi_20474]]
 - [[SanJuanRiverBasinRecoveryImple_18326]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Selenium Contamination
 
@@ -21968,6 +21988,18 @@ Alteration of river banks and channels, mainly a Lower Basin concern according t
 
 ### Mentioned In
 - [[ColoradoWildlifeFederationEtAl_19327]]
+
+## Shoreline Development Factor
+
+### Summary
+The shoreline development factor is a shape index comparing a lake's shoreline length to that of a circle of equal area, so higher values mean a more irregular shoreline. Kemmerer used it as one of the morphometric variables, taken from maps, for each impoundment. He found it did not explain productivity on its own, though it added some predictive value when combined with inflow chemistry; Blue Ridge Reservoir, with a value of 8.4, is the example given.
+
+### Context
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
+### Mentioned In
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Shoreline Habitat
 <!-- fm: auto_enriched: true -->
@@ -25378,6 +25410,18 @@ Sinocyclocheilus anophthalmus is a cave-dwelling cyprinid fish found in China. T
 
 ### Mentioned In
 - [[TheStatusOfTheEndangeredFreshw_18932]]
+
+## Sipapu Spring
+
+### Summary
+One of the Little Colorado River gorge springs, noted in this source for reaching about 80 °F, warmer than most other springs in the gorge.
+
+### Context
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Siphateles
 <!-- fm: auto_enriched: true -->
@@ -47533,6 +47577,9 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This Bureau of Reclamation literature review (REC-ERC-84-7, June 1984) assesses whether three nonnative fishes, [[Striped Bass]], [[White Bass]] and [[Blue Tilapia]], could be transferred from the [[Colorado River]] into central Arizona during operation of the [[Central Arizona Project]] (CAP),...
 > -- *[[PotentialForIntroductionOfThre_19188]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -47783,6 +47830,7 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[StateByStateSummaries_11528]]
 - [[FisheriesInvestigationsCentral_11619]]
 - [[PotentialForIntroductionOfThre_19188]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Striped Bass Aquaculture
 <!-- fm: auto_enriched: true -->

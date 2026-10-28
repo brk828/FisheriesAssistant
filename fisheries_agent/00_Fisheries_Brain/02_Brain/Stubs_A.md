@@ -1140,6 +1140,18 @@ Acid Phosphatase is an enzyme examined at 2 genetic loci in this electrophoretic
 ### Mentioned In
 - [[TheChemicalCompositionOfSomeWe_1957_05_08]]
 
+## Acidic Precipitation
+
+### Summary
+Acid deposition that lowers the pH of lakes and streams, especially in the Northeast. In this report, surveys of 226 headwater lakes and streams found many with pH below 6, and historically sampled lakes showed declining mean pH. Acidification was linked to higher metal loads, stress in fish, and reduced survival of Atlantic salmon eggs and fry.
+
+### Context
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
+### Mentioned In
+- [[FisheriesAndWildlifeResearch_13305]]
+
 ## Acidic Water
 
 ### Summary
@@ -15948,6 +15960,9 @@ The aquatic Coahuilan box turtle is an endemic turtle of the Cuatro Cienegas bas
 > This 1992 document packet, issued under the [[Glen Canyon Environmental Studies]] (GCES) program, collects four items: a program update memo from [[Dave Wegner]] to the [[Aquatic Coordination Team]] (ACT), a [[U.S. Fish and Wildlife Service]] (USFWS) report justifying its intensive study sites in...
 > -- *[[GlenCanyonEnvironmentalStudies_19717]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[AquaticCoordinationTeamMeeting_1991_10_28]]
 - [[LetterToDavidWegnerRegardingAs_1991_02_21]]
@@ -15955,6 +15970,7 @@ The aquatic Coahuilan box turtle is an endemic turtle of the Cuatro Cienegas bas
 - [[AquaticCoordinationTeamMeeting_19709]]
 - [[GlenCanyonEnvironmentalStudies_19703]]
 - [[GlenCanyonEnvironmentalStudies_19717]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Aquatic Diptera
 <!-- fm: auto_enriched: true -->
@@ -19121,6 +19137,9 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 > This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
 > -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
 
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
@@ -19188,6 +19207,7 @@ Arizona represents a critical geographic region within USFWS Region 2 for freshw
 - [[VertebrateChecklistForArizonaA_18465]]
 - [[PreliminaryBibliographyOnFishI_12265]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Arizona Academy of Science
 
@@ -21009,6 +21029,9 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > The Arizona Department of Environmental Quality (ADEQ) report, prepared by Lin Lawson (June 1995), documents a monthly intensive survey of water quality, fish and macroinvertebrates in the upper [[Santa Cruz River]] from November 1992 to October 1993. The study was a cooperative effort between ADEQ...
 > -- *[[UpperSantaCruzRiverIntensiveSu_20208]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -21445,6 +21468,7 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[GlenCanyonEnvironmentalStudies_19692]]
 - [[TuleCreekFishBarrierProgressRe_20194]]
 - [[UpperSantaCruzRiverIntensiveSu_20208]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Arizona Game And Fish Department Hatcheries
 
@@ -22737,6 +22761,9 @@ Arizona State University is a major research institution that has played a signi
 > This compilation (August 1990) is the Native and Endangered Species section of the [[Glen Canyon Environmental Studies]] (GCES) Phase II Integrated Research Plan, together with several technical and budget proposals that support it. The work examines how [[Glen Canyon Dam]] operations affect the...
 > -- *[[GlenCanyonEnvironmentalStudies_19692]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -23047,6 +23074,7 @@ Arizona State University is a major research institution that has played a signi
 - [[EcologicalAnalysisOfAravaipaCr_13680]]
 - [[FinalReportForTheArnettCreekNa_17657]]
 - [[GlenCanyonEnvironmentalStudies_19692]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Arizona State University (Asu)
 <!-- fm: auto_enriched: true -->

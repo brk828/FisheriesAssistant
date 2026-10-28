@@ -9610,6 +9610,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This 1952 U.S. Geological Survey open-file report, prepared with the [[Underground Water Commission of Arizona]] and the [[Arizona State Land Department]], summarizes ground-water conditions in fifteen areas of the [[Gila River Basin]] plus several adjacent basins. Ground water is held mainly in...
 > -- *[[GroundWaterInTheGilaRiverBasin_20986]]*
 
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -9992,6 +9995,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[FishesOfBurroCreek_19763]]
 - [[PetitionToDesignateCriticalHab_20448]]
 - [[GroundWaterInTheGilaRiverBasin_20986]]
+- [[GilaRiverFloodControl_11346]]
 
 ## Gila River Above Yuma, Arizona
 <!-- fm: auto_enriched: true -->
@@ -10640,6 +10644,18 @@ The Gila River System encompasses rivers in Arizona and New Mexico and is part o
 - [[RainbowSmeltProposallakePowell_21115]]
 - [[DraftbibliographyOnFishesInAri_12263]]
 - [[HabitatUseAndPreferenceOfGilaT_18784]]
+
+## Gila River Watershed
+
+### Summary
+The Gila River watershed above San Carlos drains about 12,020 square miles in Arizona and western New Mexico. According to the report, its high mountain headwaters supply most of the silt carried by flood flows, and the author argues that the watershed's condition now controls flood peaks. The report recommends a coordinated system-wide management approach across the basin.
+
+### Context
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
+### Mentioned In
+- [[GilaRiverFloodControl_11346]]
 
 ## Gila River Watershed Habitat Study
 <!-- fm: auto_enriched: true -->
@@ -15342,6 +15358,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This U.S. Fish and Wildlife Service Resource Publication (No. 135, 1980), compiled by Richard S. Wydoski, Kim Gilbert, Karl Seethaler, Charles W. McAda, and Joy A. Wydoski at the [[Utah Cooperative Fishery Research Unit]], is an annotated bibliography of 1,109 published and readily available...
 > -- *[[AnnotatedBibliographyForAquati_20870]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -15666,6 +15685,7 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[ColoradoRiverEndangeredFishesC_19333]]
 - [[GlenCanyonEnvironmentalStudies_19692]]
 - [[AnnotatedBibliographyForAquati_20870]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Glen Canyon Dam Adaptive Management Program
 <!-- fm: auto_enriched: true -->
@@ -16069,6 +16089,9 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This compilation (August 1990) is the Native and Endangered Species section of the [[Glen Canyon Environmental Studies]] (GCES) Phase II Integrated Research Plan, together with several technical and budget proposals that support it. The work examines how [[Glen Canyon Dam]] operations affect the...
 > -- *[[GlenCanyonEnvironmentalStudies_19692]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -16217,6 +16240,7 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[GrandCanyonFisheriesIntegrated_13021]]
 - [[GlenCanyonDamBeachhabitatBuild_18131]]
 - [[GlenCanyonEnvironmentalStudies_19692]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Glen Canyon Environmental Studies (Gces)
 <!-- fm: auto_enriched: true -->
@@ -23456,6 +23480,18 @@ The Great Lakes Crayfish, Orconectes propinquus, is a crayfish species that this
 - [[StatusOfSeaLampreyProblem_15264]]
 - [[ExecutiveSummary_18726]]
 
+## Great Lakes Fishery Laboratory
+
+### Summary
+A U.S. Fish and Wildlife Service fishery research facility that assessed Great Lakes fish stocks. In this report its work includes cisco and lake trout assessments, bloater stock recovery in Lakes Huron and Michigan, and the first evidence of natural lake trout reproduction in Lake Huron from hatchery-reared fish.
+
+### Context
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
+### Mentioned In
+- [[FisheriesAndWildlifeResearch_13305]]
+
 ## Great Lakes Fishery Restoration
 <!-- fm: auto_enriched: true -->
 
@@ -26128,6 +26164,9 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > This U.S. Fish and Wildlife Service programmatic environmental assessment (November 1987) analyzes the environmental consequences of [[Department of the Interior]] participation in a Federal/State/private [[Recovery Implementation Program]] for three endangered fishes ([[Colorado Squawfish]],...
 > -- *[[FinalEnvironmentalAssessment_11629]]*
 
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -26471,6 +26510,7 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[DraftEnvironmentalAssessmentFo_19335]]
 - [[BiologicalAndChemicalStudyOfAl_20351]]
 - [[FinalEnvironmentalAssessment_11629]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Green Sunfish Group
 <!-- fm: auto_enriched: true -->
@@ -27269,9 +27309,14 @@ Gross photosynthesis is the total oxygen production by the pond's plant communit
 ## Gross Primary Productivity
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[PrimaryProductivityAndFishHarv_12277]]
 - [[PrimaryProductivityFishHarvest_1959_11_19]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Grossman and Freeman 1987
 

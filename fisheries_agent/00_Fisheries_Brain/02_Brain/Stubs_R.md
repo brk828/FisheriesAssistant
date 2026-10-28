@@ -48,6 +48,18 @@ A reservoir in Georgia that the authors use for comparison. It showed severe fir
 ### Mentioned In
 - [[AlcoholDehydrogenaseVariabilit_1977]]
 
+## R. H. Forbes
+
+### Summary
+R. H. Forbes was a University of Arizona investigator cited in the report as the source for describing the Gila River as the muddiest river in the world. His work is referenced as background on the river's heavy sediment load.
+
+### Context
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
+### Mentioned In
+- [[GilaRiverFloodControl_11346]]
+
 ## R. Hershler
 <!-- fm: auto_enriched: true -->
 
@@ -2457,6 +2469,9 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This Bureau of Sport Fisheries and Wildlife Research Report (No. 70, published 1967) compiles papers from the Third National Trout Hepatoma Research Conference, held in Portland, Oregon, on March 18–19, 1965. The conference reviewed the status of research on liver tumors (hepatoma) in...
 > -- *[[TroutHepatomaResearchConferenc_20987]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -3089,6 +3104,7 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[ColumbiaBasinWildlifeirrigatio_18791]]
 - [[PetitionToDesignateCriticalHab_20448]]
 - [[TroutHepatomaResearchConferenc_20987]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Rainbow Trout Association
 <!-- fm: auto_enriched: true -->
@@ -3428,10 +3444,14 @@ The rate at which dam releases change river discharge over time, measured in ft�
 > This strategy document, prepared by the [[Station Biologique de la Tour du Valat]] (Tour du Valat), sets out the mission, research agenda, partnerships, training, awareness and internal structure of the Station for 1992–1996. The mission, redefined by the Board in February 1991, is "to halt and...
 > -- *[[StrategyAndProgrammePlanning_18289]]*
 
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
 ### Mentioned In
 - [[TheConservationOfBiodiversityI_16739]]
 - [[DraftSanBernardinoNationalWild_11500]]
 - [[StrategyAndProgrammePlanning_18289]]
+- [[ManualOfWetlandsManagement_19591]]
 
 ## Ramsar Site
 <!-- fm: auto_enriched: true -->
@@ -6046,6 +6066,9 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This Colorado Division of Wildlife Technical Publication (No. 38, June 1990), written by Darrel E. Snyder and Robert T. Muth of the [[Larval Fish Laboratory]] at Colorado State University, provides illustrated descriptions, identification keys, and diagnostic criteria for the larval and...
 > -- *[[DescriptionsAndIdentificationO_21241]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -7125,6 +7148,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[ColoradosLittleFishAGuideToThe_20824]]
 - [[AnnotatedBibliographyForAquati_20870]]
 - [[DescriptionsAndIdentificationO_21241]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -12701,6 +12725,30 @@ Regional Park Moabi is a confined backwater study site in Lake Havasu featuring 
 
 ### Mentioned In
 - [[DistributionAndPoststockingSur_2016]]
+
+## Regional Wetland Database
+
+### Summary
+A database where standardised wetland field survey data are stored in Victoria. The manual describes it as the store for data collected using the Wetland Field Survey Form.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
+
+## Register Of The National Estate
+
+### Summary
+An Australian heritage register of places with natural, cultural or historic significance. The manual lists it among the policy instruments that apply to Victorian wetlands.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
 
 ## Regression Analysis
 <!-- fm: auto_enriched: true -->
@@ -23529,6 +23577,18 @@ A Columbia River dam where adult salmon arrival timing was monitored. The source
 
 ### Mentioned In
 - [[FishpassageResearchReviewOfPro_13394]]
+
+## Rock Levee
+
+### Summary
+A rock levee is an earthen or stone embankment built along a river to confine flow. In this report, rock levees were evaluated as a bank-protection option and rejected because they were estimated at about $20 per running foot, roughly $7,397,000 in total, far above the proposed pile-and-cable design.
+
+### Context
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
+### Mentioned In
+- [[GilaRiverFloodControl_11346]]
 
 ## Rock Pocket Mouse
 

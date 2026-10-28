@@ -13106,6 +13106,9 @@ The Central States Pond Management Work Group is an organization that supported 
 > This California Department of Fish and Game special publication (Inland Fisheries Endangered Species Program, Special Publication 80-2, May 1980) by Terry J. Mills and Kathy A. Mamika concludes that the [[Thicktail Chub]] (*Gila crassicauda*), once one of the most abundant fishes of the [[Central...
 > -- *[[TheThicktailChubGilaCrassicaud_18493]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[StationProfileOfTheCaliforniaN_19503]]
 - [[PropagationOfBaitMinnowsInCali_18150]]
@@ -13114,6 +13117,7 @@ The Central States Pond Management Work Group is an organization that supported 
 - [[TheSystematicsAndDistributionO_14952]]
 - [[MortalityRatesAndMovementInThe_12248]]
 - [[TheThicktailChubGilaCrassicaud_18493]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Central Valley Chinook Salmon
 
@@ -15878,6 +15882,9 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This 1977 report (FWS/OBS-77/62), prepared by Ecology Consultants, Inc. for the U.S. Fish and Wildlife Service and the U.S. Environmental Protection Agency, evaluates the status, [[Life History]], and [[Habitat Requirements]] of the threatened and endangered fishes of the upper [[Colorado River]]...
 > -- *[[AnEvaluationOfTheStatusLifeHis_19861]]*
 
+> This 1965 University of Arizona Master of Science thesis by Andrew Joseph Kemmerer, prepared in the [[Wildlife Management]] program and supervised by William J. McConnell, tests whether the chemistry of water flowing *into* small fishing impoundments predicts their biological productivity. Inflow...
+> -- *[[RelationOfTheChemistryOfInflow_17932]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -16447,6 +16454,7 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[ASurveyOfTheAquaticFloraAndFau_17435]]
 - [[EffectsOfRotenoneTreatmentOnTh_17635]]
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
+- [[RelationOfTheChemistryOfInflow_17932]]
 
 ## Channel Catfish Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -39499,6 +39507,9 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This U.S. Fish and Wildlife Service Resource Publication (No. 135, 1980), compiled by Richard S. Wydoski, Kim Gilbert, Karl Seethaler, Charles W. McAda, and Joy A. Wydoski at the [[Utah Cooperative Fishery Research Unit]], is an annotated bibliography of 1,109 published and readily available...
 > -- *[[AnnotatedBibliographyForAquati_20870]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -40053,6 +40064,7 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
 - [[ColoradosLittleFishAGuideToThe_20824]]
 - [[AnnotatedBibliographyForAquati_20870]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Colorado Squawfish Habitat Use
 
@@ -40682,6 +40694,18 @@ A town in the Pleasant River drainage of Washington County, Maine, and the site 
 
 ### Mentioned In
 - [[ThePleasantRiverFishManagement_20718]]
+
+## Columbia National Fisheries Research Laboratory
+
+### Summary
+A U.S. Fish and Wildlife Service research laboratory that hosted the Environmental Contaminant Evaluation program in fiscal year 1982. The report lists it as the facility for that work, which covers contaminant residues and toxicity testing in fish.
+
+### Context
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
+### Mentioned In
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Columbia Province
 <!-- fm: auto_enriched: true -->
@@ -48099,6 +48123,18 @@ Correlative rights give landowners a proprietary right to groundwater limited to
 
 ### Mentioned In
 - [[ÉtudeDuDéterminismeDeLaRéparti_1972_08_16]]
+
+## Corrick Classification
+
+### Summary
+A wetland classification system developed by the Arthur Rylah Institute and used as the basis for Victoria's wetland inventory. The manual says the inventory covers an estimated 18,000 wetlands over one hectare.
+
+### Context
+> This manual, Wetlands Conservation Report Series No. 4 (July 1996), was prepared by the National Parks Service of the Victorian Department of Natural Resources and Environment, assisted by the Australian Nature Conservation Agency. It provides background and practical procedures for managing...
+> -- *[[ManualOfWetlandsManagement_19591]]*
+
+### Mentioned In
+- [[ManualOfWetlandsManagement_19591]]
 
 ## Corry Station
 

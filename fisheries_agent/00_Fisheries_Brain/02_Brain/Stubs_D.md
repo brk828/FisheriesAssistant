@@ -3290,6 +3290,18 @@ A model of acculturation in which mestizaje, or intermarriage and blending betwe
 ### Mentioned In
 - [[MemorandumOnSpinedaceMeetingIn_1993_02_26]]
 
+## Dean Deflector
+
+### Summary
+A Dean deflector is a flow-deflecting bank structure tested on the Gila. The report notes that 26 units were installed at $331 each, but more than half of those on the Graham County front had been lost downstream, so the design was not recommended.
+
+### Context
+> This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
+> -- *[[GilaRiverFloodControl_11346]]*
+
+### Mentioned In
+- [[GilaRiverFloodControl_11346]]
+
 ## Dean Hendrickson
 <!-- fm: auto_enriched: true -->
 
@@ -5424,10 +5436,14 @@ The Denver Wildlife Research Center was a U.S. Fish and Wildlife Service facilit
 > This 1968 Bureau of Sport Fisheries and Wildlife publication (Resource Publication 46) describes the work of the [[Denver Wildlife Research Center]], one of 24 federal wildlife research centers. The document is a program overview rather than a research paper. It covers control of nuisance birds and...
 > -- *[[DenverWildlifeResearchCenter_11516]]*
 
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
 ### Mentioned In
 - [[WildlifeStudiesDenverWildlifeR_14329]]
 - [[TheEffectsOfPesticidesOnFishAn_11524]]
 - [[DenverWildlifeResearchCenter_11516]]
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Denver, Colorado Canyon and Pacific Railroad
 
@@ -10368,6 +10384,9 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This 1975 field survey by James E. Sublette of [[Eastern New Mexico University]] documents the freshwater fish fauna of the [[Pecos River]], [[Canadian River]] and [[Arkansas River]] drainages in New Mexico. It was commissioned by the [[New Mexico Department of Game and Fish]] during a period of...
 > -- *[[ASurveyOfTheFishesOfThePecosCa_14663]]*
 
+> This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
+> -- *[[GlenCanyonEnvironmentalStudies_19693]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -10653,6 +10672,7 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[SanBernardinoAndLeslieCanyonNa_11676]]
 - [[DraftnativeFishesAndNaturalAqu_13704]]
 - [[ASurveyOfTheFishesOfThePecosCa_14663]]
+- [[GlenCanyonEnvironmentalStudies_19693]]
 
 ## Dexter National Fish Hatchery & Technology Center
 <!-- fm: auto_enriched: true -->
@@ -12908,6 +12928,18 @@ Dioon is a genus of cycads in the family Zamiaceae. According to this Mexican en
 
 ### Mentioned In
 - [[DraftOfMexicosNewEndangeredSpe_11644]]
+
+## Dioxins and Dibenzofurans
+
+### Summary
+A group of chlorinated organic compounds that persist in the environment and accumulate in fish. The source reports dioxins and furans in fish from the Tittabawassee and Saginaw rivers (Michigan) and the Niagara River (New York), with some Great Lakes fish exceeding the FDA advisory limit of 25 ng/kg for 2,3,7,8-TCDD. Concentrations ranged from a few ng/kg to a few µg/kg.
+
+### Context
+> This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
+> -- *[[FisheriesAndWildlifeResearch_13305]]*
+
+### Mentioned In
+- [[FisheriesAndWildlifeResearch_13305]]
 
 ## Dip Method
 
