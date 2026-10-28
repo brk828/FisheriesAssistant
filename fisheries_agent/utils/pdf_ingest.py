@@ -46,12 +46,13 @@ from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 
-from utils import brain_citations, brain_index
+from utils import brain_citations, brain_index, llm_provider
 from utils.stub_store import StubStore, StubStoreError
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 BRAIN_DIR = BASE_DIR / "00_Fisheries_Brain"
 PDF_DIR = BRAIN_DIR / "pdfs_to_process"
+BATCH_PDF_DIR = PDF_DIR / "_batch"  # staged by utils.batch_ingest; a subfolder, so the watcher never sees these
 CACHE_DIR = PDF_DIR / "_extracted"
 SOURCES_DIR = BRAIN_DIR / "01_Sources"
 META_DIR = BASE_DIR / "brain_meta"
@@ -240,7 +241,7 @@ def existing_note_for_minckley_id(mid: str, catalog: list) -> str:
 
 def _discard(path: Path, digest: str) -> None:
     """Removes a finished PDF and its extraction cache; only ever touches files inside pdfs_to_process."""
-    if path.parent.resolve() == PDF_DIR.resolve():
+    if path.parent.resolve() in (PDF_DIR.resolve(), BATCH_PDF_DIR.resolve()):
         path.unlink(missing_ok=True)
         (CACHE_DIR / f"{digest[:16]}.json").unlink(missing_ok=True)
 
@@ -522,11 +523,10 @@ def _client():
         load_dotenv(BASE_DIR / ".env")
     except ImportError:
         pass
-    key = os.getenv("OPENROUTER_API_KEY")
-    if not key:
-        raise SystemExit("OPENROUTER_API_KEY is not set (see .env.template).")
-    from openai import OpenAI
-    return OpenAI(base_url="https://openrouter.ai/api/v1", api_key=key)
+    try:
+        return llm_provider.make_client()  # OpenRouter or Anthropic, per `python -m utils.llm_provider`
+    except RuntimeError as e:
+        raise SystemExit(str(e))
 
 
 class _OutputTruncatedError(RuntimeError):
@@ -545,6 +545,7 @@ def _new_usage_record(path: Path, source_id: str, model: str) -> dict:
         "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "file": path.name,
         "source_id": source_id,
+        "provider": llm_provider.current(),
         "model": model,
         "fallback_model": "",
         "pages": None,
@@ -606,6 +607,8 @@ def _chat(client, model: str, system: str, user: str, max_tokens: int, tries: in
                 input_tokens = getattr(u, "prompt_tokens", 0) or 0
                 output_tokens = getattr(u, "completion_tokens", 0) or 0
                 cost = getattr(u, "cost", None)
+                if cost is None and llm_provider.provider_of(client) == "anthropic":
+                    cost = llm_provider.list_price_cost(model, input_tokens, output_tokens)  # Anthropic returns no cost field
                 USAGE["in"] += input_tokens
                 USAGE["out"] += output_tokens
                 if cost is None:
@@ -632,6 +635,8 @@ def _chat(client, model: str, system: str, user: str, max_tokens: int, tries: in
             return choice.message.content or ""
         except _OutputTruncatedError:
             raise
+        except ValueError:  # model not available on the selected account; retrying will not help
+            raise
         except Exception as e:  # network / rate limit: back off and retry
             if ACTIVE_DOCUMENT_USAGE is not None:
                 ACTIVE_DOCUMENT_USAGE["cost_exact"] = False
@@ -647,8 +652,9 @@ def _strip_fence(text: str) -> str:
     return (m.group(1) if m else text).strip()
 
 
-def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, doc_type: str = "", secondary_type: str = "", partial_path: Path = None) -> str:
-    """doc_type selects one of the three digests; empty keeps the original single layout (Minckley notes)."""
+def note_request(text: str, limit: int = MAX_NOTE_CHARS, doc_type: str = "", secondary_type: str = "") -> tuple:
+    """(system, user, required headers, max_tokens) for one note; shared by synthesize_note and the batch runner.
+    doc_type selects one of the three digests; empty keeps the original single layout (Minckley notes)."""
     # The document goes inside tags with an instruction after it. Sent bare, a proposal or scanned report can look like
     # text to continue, and the model echoes the document tail instead of writing the note.
     body = (
@@ -666,6 +672,24 @@ def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, 
         body = body.rsplit("Now write the note:", 1)[0] + "Now write the digest: start with the --- YAML frontmatter and include every required section."
         if secondary_type:
             body += f" The paper also has a substantial {secondary_type} component: mention it in the last section as keyword stubs, not as extra sections."
+    return system, body, headers, budget
+
+
+def parse_note(response: str, headers: tuple) -> tuple:
+    """(note, complete): the cleaned reply and whether it has the frontmatter and every required section."""
+    note = _strip_fence(response)
+    note = re.sub(r"\A.*?^(?=---\s*$)", "", note, count=1, flags=re.S | re.M)  # drop chatty preamble before the frontmatter
+    return note, note.startswith("---") and all(h in note for h in headers)
+
+
+def incomplete_note_error(last: str) -> RuntimeError:
+    start = re.sub(r"\s+", " ", last)[:80]
+    return RuntimeError(f"model did not return a complete note (missing frontmatter or required sections); reply began: {start!r}")
+
+
+def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, doc_type: str = "", secondary_type: str = "", partial_path: Path = None) -> str:
+    """doc_type selects one of the three digests; empty keeps the original single layout (Minckley notes)."""
+    system, body, headers, budget = note_request(text, limit, doc_type, secondary_type)
     last = ""
     fallback = fallback_model(model)
     for attempt in range(2):
@@ -685,15 +709,13 @@ def synthesize_note(client, model: str, text: str, limit: int = MAX_NOTE_CHARS, 
                     ACTIVE_DOCUMENT_USAGE["fallback_model"] = fallback
                 continue
             raise
-        note = _strip_fence(response)
-        note = re.sub(r"\A.*?^(?=---\s*$)", "", note, count=1, flags=re.S | re.M)  # drop chatty preamble before the frontmatter
-        if note.startswith("---") and all(h in note for h in headers):
+        note, complete = parse_note(response, headers)
+        if complete:
             return note
         last = note
         if attempt == 0:
             _mark_retry()
-    start = re.sub(r"\s+", " ", last)[:80]
-    raise RuntimeError(f"model did not return a complete note (missing frontmatter or required sections); reply began: {start!r}")
+    raise incomplete_note_error(last)
 
 
 # --------------------------------------------------------------------- note
@@ -776,25 +798,40 @@ def update_stubs(stem: str, note: str, store: StubStore = None) -> tuple:
     return updated, created
 
 
+def stub_requests(note: str, names: list) -> list:
+    """[(concept names, user prompt, max_tokens)] for the summaries of new stubs (system prompt STUB_SYSTEM)."""
+    out = []
+    for i in range(0, len(names), STUB_BATCH):
+        batch = names[i:i + STUB_BATCH]
+        user = f"SOURCE NOTE:\n{note[:STUB_SOURCE_CHARS]}\n\nCONCEPTS:\n" + "\n".join(f"- {n}" for n in batch)
+        out.append((batch, user, STUB_TOKENS_PER_NAME * len(batch) + STUB_TOKENS_BASE))
+    return out
+
+
+def apply_stub_summaries(reply: str, names: list, store: StubStore) -> int:
+    """Writes the summaries in one JSON reply into stubs that have none; returns how many were written (no flush)."""
+    m = re.search(r"\{.*\}", reply or "", re.S)
+    try:
+        data = json.loads(m.group(0)) if m else {}
+    except json.JSONDecodeError:
+        return 0
+    written = 0
+    for name in names:
+        text = re.sub(r"\s+", " ", str(data.get(name) or "")).strip().lstrip("#").strip()
+        stub = store.get(name)
+        if text and stub is not None and not stub.summary:
+            stub.summary = text
+            store.save(stub)
+            written += 1
+    return written
+
+
 def summarize_new_stubs(client, model: str, note: str, names: list, store: StubStore = None) -> int:
     """One LLM call per batch of new concept names; writes a `### Summary` into each stub. Returns how many were written."""
     store = StubStore() if store is None else store
     written = 0
-    for i in range(0, len(names), STUB_BATCH):
-        batch = names[i:i + STUB_BATCH]
-        user = f"SOURCE NOTE:\n{note[:STUB_SOURCE_CHARS]}\n\nCONCEPTS:\n" + "\n".join(f"- {n}" for n in batch)
-        m = re.search(r"\{.*\}", _chat(client, model, STUB_SYSTEM, user, max_tokens=STUB_TOKENS_PER_NAME * len(batch) + STUB_TOKENS_BASE), re.S)
-        try:
-            data = json.loads(m.group(0)) if m else {}
-        except json.JSONDecodeError:
-            continue
-        for name in batch:
-            text = re.sub(r"\s+", " ", str(data.get(name) or "")).strip().lstrip("#").strip()
-            stub = store.get(name)
-            if text and stub is not None and not stub.summary:
-                stub.summary = text
-                store.save(stub)
-                written += 1
+    for batch, user, budget in stub_requests(note, names):
+        written += apply_stub_summaries(_chat(client, model, STUB_SYSTEM, user, max_tokens=budget), batch, store)
     store.flush()
     return written
 
@@ -1118,7 +1155,8 @@ class PdfWatcher:
                 print(f"   - {p.name}: {kind}{long_note}")
             in_tok, out_tok = estimate_tokens(sizes)
             print(f"   Model: {model}. {_cost_text(model, in_tok, out_tok)}")
-            print("   Adding sends each document's text to OpenRouter (note, citation, concept summaries).")
+            print(f"   {llm_provider.status_line()}. Switch with `provider anthropic` / `provider openrouter`.")
+            print(f"   Adding sends each document's text to {llm_provider.label()} (note, citation, concept summaries).")
             retry = " / [r]etry the failed ones too" if failed else ""
             question = f"   Add them to the brain now? [y]es{' (new files only)' if failed else ''}{retry} / [n]o (ask again only for new files) / [l]ater"
             wait = add_prompt_timeout()
@@ -1179,11 +1217,37 @@ def cmd_extract(args) -> int:
     return 0
 
 
+def write_note(p: Path, ex: dict, cite: dict, mid: str, sid: str, note: str, kind: dict, catalog: list) -> tuple:
+    """Sets the frontmatter, writes the note to 01_Sources and links its concept stubs.
+    Returns (stem, title, final note, stubs updated, names of stubs created). Updates cite["title"]."""
+    title = cite.get("title") or note_title(note) or p.stem
+    cite["title"] = title
+    stem = note_stem(title, cite.get("year", ""), sid)
+    if mid:  # re-processing a document already in the vault replaces its note
+        stem = next((c[0] for c in catalog if c[1] == mid), stem)
+    note = set_frontmatter(note, {
+        "title": title,
+        "source_id": sid,
+        "minckley_id": mid,
+        "doc_type": kind["doc_type"],
+        "source_citation": format_citation(cite),
+        "doi": cite.get("doi", ""),
+        "source_file": p.name,
+        "text_extraction": ex["method"],
+    })
+    SOURCES_DIR.mkdir(parents=True, exist_ok=True)
+    (SOURCES_DIR / f"{stem}.md").write_text(note, encoding="utf-8")
+    upd, created = update_stubs(stem, note)
+    return stem, title, note, upd, created
+
+
 def cmd_process(args) -> int:
     global ACTIVE_DOCUMENT_USAGE, LAST_RUN_WRITTEN
     LAST_RUN_WRITTEN = 0
     USAGE.update({"in": 0, "out": 0, "cost": 0.0, "cost_exact": True, "requests": 0, "retries": 0})
     ACTIVE_DOCUMENT_USAGE = None
+    if getattr(args, "provider", ""):
+        llm_provider.use_for_this_run(args.provider)
     try:
         StubStore().require_consolidated()
     except StubStoreError as e:
@@ -1271,7 +1335,7 @@ def cmd_process(args) -> int:
         return 1
 
     in_tok, out_tok = estimate_tokens([min(len(ex["text"]), limits[d]) for _, d, ex, _ in prepared])
-    print(f"\nModel: {model}\n{_cost_text(model, in_tok, out_tok)}")
+    print(f"\nModel: {model} via {llm_provider.label()}\n{_cost_text(model, in_tok, out_tok)}")
     print("This sends the full text of each document (and its first page for citation reading) to OpenRouter.")
     if not args.yes and input("Proceed? [y/N] ").strip().lower() not in ("y", "yes"):
         for p, d, ex, _ in prepared:
@@ -1288,7 +1352,7 @@ def cmd_process(args) -> int:
             record["result"] = "failed_client_initialization"
             record["error"] = str(e)[:500]
             _finish_usage_record(record)
-        print(f"Failed to initialize OpenRouter client: {e}")
+        print(f"Failed to initialize the {llm_provider.label()} client: {e}")
         return 1
     citations = _load_json(EXTERNAL_CITATIONS_PATH)
     done = 0
@@ -1309,24 +1373,7 @@ def cmd_process(args) -> int:
                 print(f"   digest: {kind['doc_type']}" + (f" (also {kind['secondary_type']})" if kind["secondary_type"] else ""))
             note = synthesize_note(client, model, ex["text"], limits[d], kind["doc_type"], kind["secondary_type"],
                                    partial_path=CACHE_DIR / f"{d[:16]}_truncated.md")
-            title = cite.get("title") or note_title(note) or p.stem
-            cite["title"] = title
-            stem = note_stem(title, cite.get("year", ""), sid)
-            if mid:  # re-processing a document already in the vault replaces its note
-                stem = next((c[0] for c in catalog if c[1] == mid), stem)
-            note = set_frontmatter(note, {
-                "title": title,
-                "source_id": sid,
-                "minckley_id": mid,
-                "doc_type": kind["doc_type"],
-                "source_citation": format_citation(cite),
-                "doi": cite.get("doi", ""),
-                "source_file": p.name,
-                "text_extraction": ex["method"],
-            })
-            SOURCES_DIR.mkdir(parents=True, exist_ok=True)
-            (SOURCES_DIR / f"{stem}.md").write_text(note, encoding="utf-8")
-            upd, created = update_stubs(stem, note)
+            stem, title, note, upd, created = write_note(p, ex, cite, mid, sid, note, kind, catalog)
             new = len(created)
             summarized = summarize_new_stubs(client, model, note, created) if created else 0
             if mid:
@@ -1360,7 +1407,9 @@ def cmd_process(args) -> int:
         for stem, title in missing:
             print(f"   WARNING: '{title[:60]}' ({stem}) is not in the search index; check the note.")
     if USAGE["requests"]:
-        cost_text = f"exact OpenRouter cost ${USAGE['cost']:.6f}" if USAGE["cost_exact"] else f"partial OpenRouter cost ${USAGE['cost']:.6f}; one or more requests lack returned cost metadata (see generation IDs in the usage log)"
+        acct = llm_provider.label()
+        kind = "list-price" if llm_provider.current() == "anthropic" else "exact"
+        cost_text = f"{kind} {acct} cost ${USAGE['cost']:.6f}" if USAGE["cost_exact"] else f"partial {acct} cost ${USAGE['cost']:.6f}; one or more requests lack returned cost metadata (see generation IDs in the usage log)"
         print(f"\nActual usage: {USAGE['in']:,} input + {USAGE['out']:,} output tokens across {USAGE['requests']} request attempts, {USAGE['retries']} retries; {cost_text}.")
     print(f"\n{done}/{len(prepared)} notes written to {SOURCES_DIR}. Citations that came from the filename or an LLM read are worth a glance in {EXTERNAL_CITATIONS_PATH.name}.")
     return 0 if done == len(prepared) else 1
@@ -1405,6 +1454,7 @@ def main(argv: list = None) -> int:
             sp.add_argument("--type", choices=DIGEST_TYPES, default="", help="force the digest type for non-Minckley PDFs (default: classified by the model)")
             sp.add_argument("--keep", action="store_true", help="do not delete PDFs after processing")
             sp.add_argument("--model", default="")
+            sp.add_argument("--provider", default="", help="LLM account for this run only: openrouter or anthropic (default: saved choice, see utils.llm_provider)")
     args = ap.parse_args(argv)
     return {"status": cmd_status, "stubs": cmd_stubs, "extract": cmd_extract, "process": cmd_process}[args.cmd](args)
 

@@ -71,13 +71,12 @@ def collect_profile() -> str:
 
 
 def make_llm():
-    """Returns llm(prompt) -> str using OpenRouter, or None when no key is configured."""
+    """Returns llm(prompt) -> str using the selected account (utils.llm_provider), or None when its key is not configured."""
     load_dotenv(HERE / ".env")
-    key = os.getenv("OPENROUTER_API_KEY")
-    if not key or key.startswith("your_"):
+    from utils import llm_provider
+    if not llm_provider.has_key():
         return None
-    from openai import OpenAI
-    client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=key)
+    client = llm_provider.make_client()
     model = os.getenv("OPENROUTER_MODEL", "anthropic/claude-sonnet-4.5")
 
     def llm(prompt: str) -> str:

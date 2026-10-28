@@ -455,16 +455,16 @@ def llm_titles(assume_yes: bool = False, limit: int = 0, model: str = "") -> Non
     cost = f"about ${dollars:.2f}" if dollars is not None else "price unavailable (check openrouter.ai/models)"
     print(f"{len(todo)} sources need a title. Model: {model}")
     print(f"Estimated usage: ~{in_t:,} input + ~{out_t:,} output tokens in {-(-len(todo) // TITLE_BATCH)} requests; {cost}.")
-    print(f"This sends the first ~{SNIPPET_CHARS} characters of each source's summary to OpenRouter.")
+    from utils import llm_provider
+    print(f"This sends the first ~{SNIPPET_CHARS} characters of each source's summary to {llm_provider.label()}.")
     if not assume_yes and input("Proceed? [y/N] ").strip().lower() not in ("y", "yes"):
         print("Cancelled; nothing was sent.")
         return
-    key = os.getenv("OPENROUTER_API_KEY")
-    if not key:
-        print("OPENROUTER_API_KEY is not set (see .env.template).")
+    try:
+        client = llm_provider.make_client()
+    except RuntimeError as e:
+        print(e)
         return
-    from openai import OpenAI
-    client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=key)
     done = failed = 0
     for i in range(0, len(todo), TITLE_BATCH):
         batch = todo[i:i + TITLE_BATCH]

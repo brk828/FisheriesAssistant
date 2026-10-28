@@ -12,7 +12,7 @@ R_TEMPLATES = BASE_DIR / "r_templates"
 RUNS_DIR = BASE_DIR / "runs"
 MAX_OUTPUT_CHARS = 8000
 DEFAULT_TIMEOUT = 900
-_KEY_PATTERN = re.compile(r"sk-or-[A-Za-z0-9_\-]+")
+_KEY_PATTERN = re.compile(r"sk-(or|ant)-[A-Za-z0-9_\-]+")  # OpenRouter and Anthropic keys
 
 
 def redact(text: str) -> str:
@@ -46,7 +46,7 @@ def new_run_dir(label: str) -> Path:
 def run_command(cmd: list, cwd=None, timeout: int = DEFAULT_TIMEOUT, log_dir=None) -> tuple:
     """Runs cmd without a shell. Returns (ok, redacted_and_truncated_output)."""
     # Child programs (R, user scripts) must not inherit the API key loaded from .env.
-    child_env = {k: v for k, v in os.environ.items() if not k.upper().startswith("OPENROUTER_")}
+    child_env = {k: v for k, v in os.environ.items() if not k.upper().startswith("OPENROUTER_") and k.upper() != "ANTHROPIC_API_KEY"}
     try:
         result = subprocess.run(
             cmd, cwd=cwd, capture_output=True, text=True, encoding="utf-8", errors="replace",
@@ -66,7 +66,7 @@ def run_command(cmd: list, cwd=None, timeout: int = DEFAULT_TIMEOUT, log_dir=Non
 
 def run_shell(command: str, cwd, timeout: int = 300) -> tuple:
     """Runs a user-approved command line through bash (or the platform shell). Returns (ok, redacted_and_truncated_output)."""
-    child_env = {k: v for k, v in os.environ.items() if not k.upper().startswith("OPENROUTER_")}
+    child_env = {k: v for k, v in os.environ.items() if not k.upper().startswith("OPENROUTER_") and k.upper() != "ANTHROPIC_API_KEY"}
     bash = shutil.which("bash")
     try:
         if bash:

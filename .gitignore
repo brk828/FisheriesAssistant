@@ -15,6 +15,9 @@ multivariate_plot.png
 fisheries_agent/00_Fisheries_Brain/pdfs_to_process/*
 !fisheries_agent/00_Fisheries_Brain/pdfs_to_process/.gitkeep
 
+# Full extracted text of Minckley documents: local reference only, many are copyrighted (never commit or publish)
+fisheries_agent/00_Fisheries_Brain/full_text/
+
 __pycache__/
 *.pyc
 .venv/

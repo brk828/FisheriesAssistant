@@ -14,7 +14,7 @@ def _git(root: Path, *args: str) -> tuple:
     git = shutil.which("git")
     if not git:
         return False, "git was not found on PATH."
-    env = {k: v for k, v in os.environ.items() if not k.upper().startswith("OPENROUTER_")}
+    env = {k: v for k, v in os.environ.items() if not k.upper().startswith("OPENROUTER_") and k.upper() != "ANTHROPIC_API_KEY"}
     env["GIT_TERMINAL_PROMPT"] = "0"
     try:
         r = subprocess.run(

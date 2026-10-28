@@ -17,7 +17,7 @@ from pathlib import Path
 
 from pypdf import PdfWriter
 
-from utils import pdf_ingest
+from utils import llm_provider, pdf_ingest
 from utils.pdf_ingest import BRAIN_DIR, MANIFEST_PATH, META_DIR, PDF_DIR, _load_json, _save_json
 
 TODO_CSV = BRAIN_DIR / "unprocessed_public_domain_mids.csv"
@@ -37,9 +37,9 @@ def _read(path: Path) -> list:
         return list(csv.DictReader(f))
 
 
-def _append_done(rows: list) -> None:
-    new = not DONE_CSV.is_file() or DONE_CSV.stat().st_size == 0
-    with open(DONE_CSV, "a", newline="", encoding="utf-8") as f:
+def _append_done(rows: list, done_csv: Path = DONE_CSV) -> None:
+    new = not done_csv.is_file() or done_csv.stat().st_size == 0
+    with open(done_csv, "a", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         if new:
             w.writerow(FIELDS)
@@ -61,13 +61,18 @@ def _mids_with_notes() -> set:
     return out
 
 
-def candidates(source: Path, state: dict) -> tuple:
+def candidates(source: Path, state: dict, todo_csv: Path = TODO_CSV, done_csv: Path = DONE_CSV) -> tuple:
     """([{mid, names, paths, size}] smallest first, [mids whose PDF is not in the source folder]).
     Rows sharing a MID (e.g. '19192 (1).pdf', '19192 (2).pdf') form one item and are merged when staged."""
-    done = {r["mid"] for r in _read(DONE_CSV)} | _mids_with_notes()
+    done = {r["mid"] for r in _read(done_csv)} | _mids_with_notes()
     excluded = set(state.get("excluded", {}))
+    try:  # MIDs an unfinished Anthropic batch run (utils.batch_ingest) owns
+        from utils import batch_ingest
+        excluded |= batch_ingest.active_mids()
+    except Exception:
+        pass
     groups = {}
-    for r in _read(TODO_CSV):
+    for r in _read(todo_csv):
         groups.setdefault(r["mid"], []).append(r["source_filename"])
     on_disk = {p.name.lower(): p for p in source.iterdir() if p.suffix.lower() == ".pdf"}
     items, missing = [], []
@@ -103,13 +108,14 @@ def show_estimate(batch: list) -> None:
         print(f"  {it['mid']}: {pages} pages{scan}, {it['size'] / 1024:,.0f} KB{merged}{flag}")
     in_tok, out_tok = pdf_ingest.estimate_tokens(sizes)
     print(f"Total {total_pages} pages. Model: {model}. {pdf_ingest._cost_text(model, in_tok, out_tok)} (scanned pages are a rough guess)")
+    print(f"{llm_provider.status_line()} (the agent window bills this account; switch with `provider anthropic|openrouter`).")
     if long_docs:
         print(f"Too long for the default cap ({pdf_ingest.MAX_NOTE_CHARS:,} chars): {', '.join(long_docs)}. You choose cap/full/skip in the ingest prompt.")
 
 
-def stage(item: dict) -> None:
-    PDF_DIR.mkdir(parents=True, exist_ok=True)
-    dest = PDF_DIR / f"{item['mid']}.pdf"
+def stage(item: dict, dest_dir: Path = PDF_DIR) -> None:
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest = dest_dir / f"{item['mid']}.pdf"
     tmp = dest.with_suffix(".tmp")  # not *.pdf, so the watcher ignores it until complete; copyfile gives a fresh mtime
     if len(item["paths"]) == 1:
         shutil.copyfile(item["paths"][0], tmp)
@@ -201,7 +207,14 @@ def main(argv: list = None) -> int:
     import argparse
     ap = argparse.ArgumentParser(prog="minckley_batch")
     ap.add_argument("--size", type=int, default=0, help=f"documents per batch, 1-{MAX_BATCH_SIZE} (default {BATCH_SIZE}; asked interactively if omitted)")
+    ap.add_argument("--provider", default="", help="save the LLM account the agent window uses: openrouter or anthropic")
     args = ap.parse_args(argv)
+    if args.provider:
+        try:
+            llm_provider.set_provider(args.provider)
+        except ValueError as e:
+            print(e)
+            return 2
     size = _clamp(args.size) if args.size else None
     try:
         from dotenv import load_dotenv

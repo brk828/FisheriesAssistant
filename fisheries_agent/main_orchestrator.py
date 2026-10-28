@@ -8,6 +8,7 @@ from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
 
+from utils import llm_provider
 from utils import brain_index, docx_io, gitsync, icm_data, icm_integration, icm_seed, pdf_ingest, pipeline, project_memory, skill_library, web_evidence, data_summary
 from utils.runner import find_rscript, new_run_dir, run_command, run_r_template, run_shell, truncate
 from utils.safety import (
@@ -39,16 +40,24 @@ def pick_model(user_prompt: str) -> str:
 _client = None
 
 def get_client():
-    """Creates the OpenRouter client on first use so a missing key gives a clear error."""
+    """Client for the selected account (OpenRouter or Anthropic; see utils/llm_provider.py), created on first use
+    and recreated when the choice changes, so a `provider` switch in either window applies to the next request."""
     global _client
-    if _client is None:
-        api_key = os.getenv("OPENROUTER_API_KEY")
-        if not api_key or api_key.startswith("your_"):
-            raise RuntimeError(
-                f"OPENROUTER_API_KEY is not set. Add it to {ENV_PATH} (see .env.template)."
-            )
-        _client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=api_key)
+    wanted = llm_provider.current()
+    if _client is None or _client.provider != wanted:
+        _client = llm_provider.make_client(wanted)
     return _client
+
+def provider_command(arg: str) -> None:
+    """`provider` shows the account; `provider anthropic|openrouter` switches it for chat and PDF ingest."""
+    if arg:
+        try:
+            llm_provider.set_provider(arg)
+        except ValueError as e:
+            print(f"❌ {e}")
+            return
+        print("✅ Saved; used for chat and the next PDF ingest (also by other windows).")
+    print(f"🔑 {llm_provider.status_line()}")
 
 def load_manifest():
     """Loads the scientist's specific RProject infrastructure map."""
@@ -960,7 +969,7 @@ AGENT_GUIDE = load_agent_guide()
 def ask_orchestrator(user_prompt: str, manifest: dict):
     manifest_context = compact_manifest(manifest)
     model = pick_model(user_prompt)
-    print(f"🧭 Model: {model}")
+    print(f"🧭 Model: {model} via {llm_provider.label()}")
 
     system_prompt = f"""You are the Master Fisheries Orchestrator Agent.
 You run locally on this machine and manage a suite of specialized analysis tools and an Obsidian vault context window.
@@ -1015,6 +1024,7 @@ HELP_TEXT = """Commands at this prompt:
   help      show this list
   clear     reset conversation memory
   ingest    review PDFs waiting in 00_Fisheries_Brain/pdfs_to_process (checked every minute)
+  provider  show which API account is used; `provider anthropic` or `provider openrouter` switches it
   exit      quit
 
 Maintenance (run in a separate terminal from this folder):
@@ -1034,6 +1044,7 @@ if __name__ == "__main__":
     print("-----------------------------------------------------------------")
     print(HELP_TEXT)
     print("-----------------------------------------------------------------")
+    print(f"🔑 {llm_provider.status_line()}")
 
     # Checks pdfs_to_process/ once a minute; PDFs are only added after the user confirms the cost estimate.
     pdf_watcher = pdf_ingest.PdfWatcher(interval=60)
@@ -1044,6 +1055,10 @@ if __name__ == "__main__":
             cmd = input("\n🐟 Master Command: ")
             if cmd.lower() == 'exit':
                 break
+            words = cmd.strip().split()
+            if words and words[0].lower() in ('provider', '/provider') and len(words) <= 2:
+                provider_command(words[1] if len(words) == 2 else "")
+                continue
             if cmd.strip().lower() in ('ingest', '/ingest') or pdf_watcher.pending():
                 pdf_watcher.offer(manual=cmd.strip().lower() in ('ingest', '/ingest'))
                 if cmd.strip().lower() in ('ingest', '/ingest', ''):
@@ -1063,5 +1078,7 @@ if __name__ == "__main__":
             break
         except RuntimeError as e:
             print(f"❌ {e}")
+        except ValueError as e:  # e.g. a non-Anthropic model while the Anthropic account is selected
+            print(f"❌ {e}")
         except OpenAIError as e:
-            print(f"❌ OpenRouter request failed: {e}\n   If the model was not found, set OPENROUTER_MODEL in .env (see openrouter.ai/models).")
+            print(f"❌ {llm_provider.label()} request failed: {e}\n   If the model was not found, set OPENROUTER_MODEL in .env (anthropic/... models work on both accounts).\n   Out of credits? Type `provider anthropic` or `provider openrouter` to switch.")

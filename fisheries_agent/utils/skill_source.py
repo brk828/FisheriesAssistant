@@ -192,12 +192,11 @@ def estimate(prompt: str) -> dict:
 
 def call_llm(prompt: str) -> tuple:
     from dotenv import load_dotenv
-    from openai import OpenAI
+    from utils import llm_provider
     load_dotenv(HERE / ".env")
-    key = os.getenv("OPENROUTER_API_KEY")
-    if not key or key.startswith("your_"):
+    if not llm_provider.has_key():
         return None, None
-    client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=key)
+    client = llm_provider.make_client()
     model = os.getenv("OPENROUTER_MODEL", "anthropic/claude-sonnet-4.5")
     r = client.chat.completions.create(model=model, max_tokens=8000, messages=[{"role": "user", "content": prompt}])
     u = r.usage
@@ -280,7 +279,7 @@ def main(argv=None) -> int:
     for n, (found, prompt) in plan.items():
         draft, usage = call_llm(prompt)
         if draft is None:
-            print("No OPENROUTER_API_KEY configured. Nothing was sent or written.")
+            print("No API key configured for the selected account (python -m utils.llm_provider). Nothing was sent or written.")
             return 1
         status = write_skill(n, specs[n], draft, [s for s in specs[n]["sources"] if s in refs], refs)
         if usage:
