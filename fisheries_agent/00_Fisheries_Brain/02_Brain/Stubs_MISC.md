@@ -207,6 +207,9 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This U.S. Fish and Wildlife Service report (Colorado River Fishery Project, April 1991; authors Douglas B. Osmundson and Lynn R. Kaeding) gives year-round flow recommendations for the [[15-Mile Reach]] of the [[Upper Colorado River]] for October through June. It addresses the endangered [[Colorado...
 > -- *[[RecommendationsForFlowsInTheMi_18351]]*
 
+> This January 1990 draft annual report, circulated by the [[U.S. Fish and Wildlife Service]] (Colorado River Recovery Implementation Program), reviews fiscal year 1989 work on endangered fishes of the [[Upper Colorado River Basin]]. It compiles accomplishment highlights, a summary of changes and...
+> -- *[[FiscalYearDraftAnnualReportRec_21032]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -236,6 +239,7 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[JulyManagementGroupMeetingSumm_21031]]
 - [[StudiesOfColoradoSquawfishAndR_18346]]
 - [[RecommendationsForFlowsInTheMi_18351]]
+- [[FiscalYearDraftAnnualReportRec_21032]]
 
 ## 15-Mile Reach Gage
 
@@ -430,6 +434,18 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 - [[YourOwnFishpond_17944]]
 - [[ListOfReferencesOnControlOfAqu_19263]]
 - [[AquaticPlantsManagementAndCont_17108]]
+
+## 2,4-D and 2,4,5-T Herbicides
+
+### Summary
+Synthetic herbicides tested for mesquite control. The source found their results erratic, mostly causing defoliation rather than killing plants, and does not recommend them for arid Arizona ranges.
+
+### Context
+> This 1952 USDA Forest Service circular by [[Kenneth W. Parker]] and S. Clark Martin examines the invasion of grasslands by [[Velvet Mesquite]] (*Prosopis juliflora* var. *velutina*) across southern Arizona and the wider Southwest. Mesquite now covers about 9 million acres in southeastern Arizona...
+> -- *[[TheMesquiteProblemOnSouthernAr_18437]]*
+
+### Mentioned In
+- [[TheMesquiteProblemOnSouthernAr_18437]]
 
 ## 2,4-D Herbicide
 

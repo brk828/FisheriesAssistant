@@ -207,6 +207,18 @@ A standard type of vertical-slot or pool-and-weir fish ladder design used to hel
 ### Mentioned In
 - [[EvaluationOfSpawningRunsAtTheM_17121]]
 
+## Ice-Out
+
+### Summary
+Ice-out is the seasonal breakup and clearing of ice cover from a river, which in this study ends the winter period. The authors identify March ice-out as the most critical period, so they recommend avoiding any flow reduction until ice-out is complete.
+
+### Context
+> This final report by Edmund J. Wick and John A. Hawkins (Colorado State University, Larval Fish Laboratory, February 1989) documents two winters of radiotelemetry on adult [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the upper [[Yampa River]], Colorado. The work was commissioned under Section...
+> -- *[[ColoradoSquawfishWinterHabitat_12220]]*
+
+### Mentioned In
+- [[ColoradoSquawfishWinterHabitat_12220]]
+
 ## Iceberg Canyon
 
 ### Summary
@@ -655,6 +667,22 @@ Ichthyophthirius multifiliis, commonly known as "ich," is a parasitic ciliate pr
 - [[TheGrassCarp_11260]]
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[CultureOfSomeCommonFishParasit_15681]]
+
+## Ichthyophthirius Multifilis
+
+### Summary
+A freshwater fish parasite, commonly called 'Ich', that the source identifies as the major threat to fingerling producers. The report says it remains hard to control, and that malachite green has worked in some areas.
+
+### Context
+> This 1970 report from the [[Bureau Of Sport Fisheries And Wildlife]] (Resource Publication 83) reviews the state of warmwater fish farming in the American South, focusing on [[Channel Catfish]] and baitfishes. It presents the industry as a fast-growing agricultural enterprise, with about 68,000...
+> -- *[[TheStatusOfWarmwaterFishFarmin_11529]]*
+
+> This Fish and Wildlife Service Research Report (revised edition, 1946, by H. S. Davis) is a practical manual for [[Trout Hatchery Management]]. It covers the rearing of fingerling trout in troughs, [[Raceway]]s and [[Circular Pool]]s, the nutrition and feeding of hatchery trout, brood stock...
+> -- *[[CareAndDiseasesOfTrout_13966]]*
+
+### Mentioned In
+- [[TheStatusOfWarmwaterFishFarmin_11529]]
+- [[CareAndDiseasesOfTrout_13966]]
 
 ## Ichthyoplankton
 
@@ -1762,6 +1790,18 @@ Idus idus, commonly known as ide, is a fish species used in thermal adaptation s
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## IFG4 Hydraulic Simulation
+
+### Summary
+IFG4 is the hydraulic simulation model used in this study to link stream discharge to habitat conditions for the target fish. The authors ran it over 5 to 40 ft³/s, though its assumption of no streambed movement was violated by the sand and gravel substrates, so two of six transects were dropped.
+
+### Context
+> This 1983 report by Paul R. Turner and Robert J. Tafanelli (New Mexico State University), submitted to the [[U.S. Fish and Wildlife Service]], evaluates the instream flow needs of native fishes in [[Aravaipa Creek]], Arizona, using the [[Incremental Methodology]] and its [[IFG4 Hydraulic...
+> -- *[[EvaluationOfTheInstreamFlowReq_13437]]*
+
+### Mentioned In
+- [[EvaluationOfTheInstreamFlowReq_13437]]
+
 ## IFIM
 
 ### Summary
@@ -2003,6 +2043,18 @@ The Illinois Fish Code is the state fisheries law of Illinois. According to this
 ### Mentioned In
 - [[TheRoleOfNaturalHistoryCollect_11379]]
 
+## Illinois Fishes
+
+### Summary
+Forbes and Richardson's work on the fishes of Illinois, which the source describes as producing the first extensive county collections in Champaign County. It is one of the two long-running research efforts the 1963 bulletin builds on. The source cites it as the basis for the 1899-era survey data.
+
+### Context
+> This Illinois Natural History Survey bulletin (March 1963, Vol. 28, Art. 2) by R. Weldon Larimore and Philip W. Smith compares three fish surveys of [[Champaign County]], Illinois, made in 1899 ([[Forbes and Richardson Survey]]), 1928 ([[Thompson and Hunt Survey]]), and 1959 ([[Larimore and Smith...
+> -- *[[TheFishesOfChampaignCountyIlli_12724]]*
+
+### Mentioned In
+- [[TheFishesOfChampaignCountyIlli_12724]]
+
 ## Illinois Natural History Survey
 
 ### Summary
@@ -2054,6 +2106,12 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This 1955 Illinois Natural History Survey bulletin (Volume 26, Article 4), by William C. Starrett and Paul G. Barnickol, statistically evaluates the efficiency and selectivity of commercial fishing gear used on the [[Mississippi River]] between Caruthersville, Missouri, and Dubuque, Iowa. Data came...
 > -- *[[EfficiencyAndSelectivityOfComm_14739]]*
 
+> This 1951 bulletin from the [[Illinois Natural History Survey]] reports a 1944 and 1946 test-net survey of the commercial and sport fishes of the [[Mississippi River]] over 689 river miles, sampled at 31 stations. The authors, [[Paul G. Barnickol]] and [[William C. Starrett]], combine survey data...
+> -- *[[CommercialAndSportFishesOfTheM_15601]]*
+
+> This Illinois Natural History Survey bulletin (Volume 21, Article 4; dated March 1938 on the cover) by [[Herbert H. Ross]] formally describes a large set of new caddisfly species, mostly from [[Illinois Natural History Survey]] collections, supplemented by material from other institutions across...
+> -- *[[DescriptionsOfNearcticCaddisFl_21082]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -2070,6 +2128,8 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[TheBassbluegillCombinationInAS_18160]]
 - [[AnInventoryOfTheFishesOfJordan_20182]]
 - [[EfficiencyAndSelectivityOfComm_14739]]
+- [[CommercialAndSportFishesOfTheM_15601]]
+- [[DescriptionsOfNearcticCaddisFl_21082]]
 
 ## Illinois Natural History Survey Resurvey (1950-1971)
 
@@ -2997,6 +3057,18 @@ Imprinting in fishes refers to the learning process by which young fish form las
 ### Mentioned In
 - [[RioMagdalenaBasinFishSurveyTra_1986_11_24]]
 
+## IMViC Classification
+
+### Summary
+A biochemical scheme that groups coliforms using indole, methyl red, Voges-Proskauer and citrate reactions, introduced by Parr. The report judges it superior to any single test but not definitive, because some reactions vary in artificial environments.
+
+### Context
+> This Federal Water Pollution Control Administration report (Publication WP-20-3, November 1966), authored by E. E. Geldreich of the [[Cincinnati Water Research Laboratory]], compiles previously published research on the sanitary significance of [[Fecal Coliform]] bacteria. The work argues that the...
+> -- *[[SanitarySignificanceOfFecalCol_16953]]*
+
+### Mentioned In
+- [[SanitarySignificanceOfFecalCol_16953]]
+
 ## In Situ Assay
 <!-- fm: auto_enriched: true -->
 
@@ -3018,6 +3090,18 @@ An in-stream flow water right is a legal entitlement to keep water flowing in a 
 
 ### Mentioned In
 - [[TechnicalMemorandumToAddressAs_11247]]
+
+## In-Migration
+
+### Summary
+The movement of people into the Sonoran bioregion, which the report ranks as the second most important threat among 33 scientists surveyed. The region's population nearly doubled between 1970 and 1990, and the report links this growth to urbanization and resource pressure.
+
+### Context
+> This 1998 assessment, sponsored by [[The Wildlands Project]] and authored by Gary Paul Nabhan and Andrew R. Holdsworth, characterizes the biodiversity of the [[Sonoran Desert]] bioregion and evaluates threats and the adequacy of current protection. It compiles surveys of 54 field scientists who...
+> -- *[[StateOfTheDesertDiomeUniquenes_19471]]*
+
+### Mentioned In
+- [[StateOfTheDesertDiomeUniquenes_19471]]
 
 ## In-Stream Flow Methodology
 <!-- fm: auto_enriched: true -->
@@ -3221,8 +3305,12 @@ A habitat assessment framework that combines hydraulic simulation of a stream re
 > This technical paper, by David L. Wegner of the [[U.S. Fish And Wildlife Service]] Instream Flow and Aquatic Systems Group in Fort Collins, Colorado, develops an aquatic mitigation plan for the [[Uinta River]] in Utah. The [[Central Utah Project]], including the proposed [[Uinta Dam And...
 > -- *[[TheDevelopmentOfAnAquaticMitig_19674]]*
 
+> This 1983 report by Paul R. Turner and Robert J. Tafanelli (New Mexico State University), submitted to the [[U.S. Fish and Wildlife Service]], evaluates the instream flow needs of native fishes in [[Aravaipa Creek]], Arizona, using the [[Incremental Methodology]] and its [[IFG4 Hydraulic...
+> -- *[[EvaluationOfTheInstreamFlowReq_13437]]*
+
 ### Mentioned In
 - [[TheDevelopmentOfAnAquaticMitig_19674]]
+- [[EvaluationOfTheInstreamFlowReq_13437]]
 
 ## Incremental Stream Flow Methodology
 
@@ -3647,10 +3735,14 @@ Indiana is one of four U.S. states that, as of early 1957, was planning to imple
 > This progress report covers research conducted under NSF Research Grant G-19449 (continuation of NSF-G13261) from January 1, 1962, documenting cytotaxonomic investigations of the [[Characeae]] (stoneworts) at the [[University of Louisville]]. Principal Investigator [[Arland Hotchkiss]] and team...
 > -- *[[ACytotaxonomicStudyOfTheCharac_19927]]*
 
+> This 1968 draft by Joseph S. Nelson and Shelby D. Gerking (Department of Zoology, Indiana University, Bloomington; Indiana Aquatic Research Unit, Project 342-303-815) is an annotated dichotomous key for identifying the fishes present in, or recorded from, [[Indiana]]. It combines recent...
+> -- *[[AnnotatedKeyToTheFishesOfIndia_19632]]*
+
 ### Mentioned In
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 - [[ACytotaxonomicStudyOfTheCharac_19927]]
+- [[AnnotatedKeyToTheFishesOfIndia_19632]]
 
 ## Indiana Bat
 <!-- fm: auto_enriched: true -->
@@ -3662,9 +3754,13 @@ Indiana is one of four U.S. states that, as of early 1957, was planning to imple
 > This document is a regulatory compilation from Title 50 of the Code of Federal Regulations (CFR), specifically Part 17, which establishes the official lists of endangered and threatened wildlife and plants under the [[Endangered Species Act]]. Published as a special reprint current to the date...
 > -- *[[PartEndangeredAndThreatenedWil_11572]]*
 
+> *River Renewal* is a May 1996 report by [[American Rivers]] that describes how the [[Federal Energy Regulatory Commission]] (FERC) relicensing process can be used to reduce the ecological and recreational damage caused by hydropower dams. It explains the relicensing procedure, the legal role of...
+> -- *[[RiverRenewalRestoringRiversThr_19592]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[PartEndangeredAndThreatenedWil_11572]]
+- [[RiverRenewalRestoringRiversThr_19592]]
 
 ## Indiana Fish Growth
 
@@ -4157,6 +4253,18 @@ The Inland Fisheries Informational Leaflets are reference materials published by
 
 ### Mentioned In
 - [[AGrowthStudyAndBloodProteinAna_15288]]
+
+## Inland Fishery Enhancements Database
+
+### Summary
+The Inland Fishery Enhancements Database (IFED) is an Access-based database the authors built to store the classified ASFA results. The source recommends extending it to Europe and North America through abstract-level classification.
+
+### Context
+> This FAO Fisheries Circular (No. 945, 1999, 89 pp.) characterizes inland fishery enhancements worldwide. It is based on an automated search of the [[Aquatic Sciences and Fisheries Abstracts]] (ASFA) for 1978–1997, cross-checked against the [[FAO Database on Introductions of Aquatic Species]] (DIAS)...
+> -- *[[GlobalCharacterizationOfInland_16308]]*
+
+### Mentioned In
+- [[GlobalCharacterizationOfInland_16308]]
 
 ## Inland Lakes Whitefish
 
@@ -4685,6 +4793,9 @@ Instream debris refers to accumulated woody material and piles of debris in the 
 > This document is a compiled record from the U.S. Fish and Wildlife Service (Service), Region 6, concerning the [[Colorado River Recovery Implementation Program]] for four endangered fishes of the Upper Colorado River Basin (UCRB). It includes the minutes of the February 23, 1988 Implementation...
 > -- *[[MinutesfebruaryRecoveryImpleme_20999]]*
 
+> This draft wilderness management plan, issued by the [[Bureau Of Land Management]] Safford District, sets out objectives, policies and actions for the 6,699-acre [[Aravaipa Canyon Wilderness]] in southeastern Arizona for the 10-year period through 1997. The plan is organized around four wilderness...
+> -- *[[DraftwildernessManagementPlanA_11565]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
@@ -4698,6 +4809,7 @@ Instream debris refers to accumulated woody material and piles of debris in the 
 - [[AprilManagementGroupMeetingSum_21010]]
 - [[RecoveryProgramOrganizationMis_11666]]
 - [[MinutesfebruaryRecoveryImpleme_20999]]
+- [[DraftwildernessManagementPlanA_11565]]
 
 ## Instream Flow Ad Hoc Group
 
@@ -4795,6 +4907,9 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 > This 1988 U.S. Fish and Wildlife Service report, prepared for the [[Bureau of Reclamation]], applies the [[Instream Flow Incremental Methodology]] (IFG4a/PHABSIM family) to the upper Gila River in New Mexico. It evaluates the aquatic impacts of proposed Direct Pumping/Offstream Storage alternatives...
 > -- *[[InstreamFlowIncrementalMethodo_11622]]*
 
+> This document is a project package issued by [[BIO/WEST Inc]] on December 12, 1986, to participants in a contract from the [[U.S. Fish and Wildlife Service]] (FWS). The contract aims to produce habitat suitability index (SI) curves for [[Colorado Squawfish]], [[Humpback Chub]] and [[Razorback...
+> -- *[[DevelopmentOfHabitatSuitabilit_13604]]*
+
 ### Mentioned In
 - [[AnInstreamFlowPhilosophyForRec_13064]]
 - [[InstreamFlowsToAssistTheRecove_1993_04_30]]
@@ -4814,6 +4929,7 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 - [[SuitabilityIndexSiCurvesForUse_19636]]
 - [[BiologicalOpinionCentralArizon_11830]]
 - [[InstreamFlowIncrementalMethodo_11622]]
+- [[DevelopmentOfHabitatSuitabilit_13604]]
 
 ## Instream Flow Incremental Methodology (Ifim)
 <!-- fm: auto_enriched: true -->
@@ -4859,6 +4975,22 @@ The Instream Flow Incremental Methodology (IFIM) is a quantitative approach used
 
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
+
+## Instream Flow Protection
+
+### Summary
+Instream flow protection is one of the six recovery elements in the RIPRAP, and the source treats flow regime as a key habitat parameter. Actions include a 581 cfs instream flow right filed by the Colorado Water Conservation Board for the Fifteen-Mile Reach, water provided from Ruedi Reservoir since 1990, and Utah's policy of conditioning water right approvals on predetermined streamflow levels. Instream flow adjudication was later added to the program.
+
+### Context
+> This U.S. Fish and Wildlife Service (FWS) memorandum and attached document transmit the revised [[Recovery Action Plan]] (RIPRAP) for the four endangered fishes of the Upper [[Colorado River]] Basin, together with the [[Section 7 Agreement]] it supports. The Recovery Program aims to recover...
+> -- *[[SectionConsultationSufficientP_11751]]*
+
+> This document is a 1996 Fish and Wildlife Service memorandum distributing a revised [[Section 7 Consultation]] agreement and the [[Recovery Implementation Program]] Recovery Action Plan ([[RIPRAP]]). Together they govern recovery of four endangered [[Colorado River Fishes]]: [[Colorado Squawfish]],...
+> -- *[[SectionConsultationSufficientP_11961]]*
+
+### Mentioned In
+- [[SectionConsultationSufficientP_11751]]
+- [[SectionConsultationSufficientP_11961]]
 
 ## Instream Flow Recommendations
 <!-- fm: auto_enriched: true -->
@@ -4907,8 +5039,12 @@ Water rights held to keep water flowing in a river channel for fish and other aq
 > This document is a compilation of 1989 materials from the [[Recovery Implementation Program]] for [[Colorado River Endangered Fishes]] in the Upper Colorado River Basin. It contains a cover letter, a draft proposal to evaluate [[Little Snake River]] water rights, a [[Section 7 Consultation]]...
 > -- *[[LetterToJohnHamillProposalForE_12209]]*
 
+> This Bureau of Land Management (BLM) document, issued January 1998 by the [[Safford Field Office]], contains the final 15-year management plan, [[Environmental Assessment]] (EA No. AZ-040-08-03), and Finding of No Significant Impact/Decision Record for the [[Gila Box Riparian National Conservation...
+> -- *[[GilaBoxManagementPlanEnvironme_11470]]*
+
 ### Mentioned In
 - [[LetterToJohnHamillProposalForE_12209]]
+- [[GilaBoxManagementPlanEnvironme_11470]]
 
 ## Instream Flows
 
@@ -5140,6 +5276,18 @@ The ESA Section 7 process requiring federal agencies to consult with the Service
 ### Mentioned In
 - [[NoticeOfPolicyForConservingSpe_11740]]
 
+## Interagency Ecological Program
+
+### Summary
+The Interagency Ecological Program (IEP) is a long-running science program in the Bay-Delta that has operated for about 30 years. The report notes it had a 1996 budget of $12 million and 60 program elements, and that no study has yet covered the whole ecosystem.
+
+### Context
+> This 1997 report, prepared by Sue McClurg of the Water Education Foundation for the [[Western Water Policy Review Advisory Commission]], examines water management in the Sacramento-San Joaquin River Basin of California as one of six Western river basins studied. It focuses on five federally...
+> -- *[[SacramentosanJoaquinRiverBasin_12264]]*
+
+### Mentioned In
+- [[SacramentosanJoaquinRiverBasin_12264]]
+
 ## Interagency Ecosystem Management Task Force
 
 ### Summary
@@ -5229,6 +5377,9 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 > This U.S. Fish and Wildlife Service final report (Wydoski and Wick, 1998), prepared for the [[Upper Colorado River Basin Recovery Program]], reviews the ecological value of [[Floodplain Habitats]] for recovering the [[Razorback Sucker]] (*Xyrauchen texanus*) and anticipates how endangered, native...
 > -- *[[EcologicalValueOfFloodplainHab_20871]]*
 
+> This draft [[Environmental Assessment]], prepared by the [[U.S. Fish and Wildlife Service]] (Ecological Services, Grand Junction, Colorado; dated April 30, 1996), evaluates procedures that would guide future stocking of nonnative fishes in the [[Upper Colorado River Basin]]. The stated goal is to...
+> -- *[[DraftEnvironmentalAssessmentFo_19335]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -5246,6 +5397,7 @@ An Interagency Standardized Monitoring Program is a collaborative framework esta
 - [[FiscalYearWorkPlan_11960]]
 - [[GeneticsManagementPlanRecovery_20861]]
 - [[EcologicalValueOfFloodplainHab_20871]]
+- [[DraftEnvironmentalAssessmentFo_19335]]
 
 ## Interagency Standardized Monitoring Program (Ismp)
 <!-- fm: auto_enriched: true -->
@@ -5430,6 +5582,9 @@ Interim Flow Criteria are the operating rules for Glen Canyon Dam releases that 
 > This study describes the movements of the endangered [[Humpback Chub]] (*Gila cypha*) in the mainstem [[Colorado River]] in [[Grand Canyon]], Arizona, from October 1990 through November 1993, and evaluates how [[Glen Canyon Dam]] operations influence those movements. Adults showed strong spatial...
 > -- *[[MovementOfHumpbackChubInTheCol_21130]]*
 
+> This package is a 1993–1994 consultation record for the operation of [[Glen Canyon Dam]] on the Colorado River. It includes a Reclamation transmittal memo for a technical review meeting (March 2, 1994, Las Vegas), a June 11, 1993 summary of a flow-scenario review, and the U.S. Fish and Wildlife...
+> -- *[[InformationForTheGlenCanyonDam_19732]]*
+
 ### Mentioned In
 - [[DecemberCritsMeetingSynthesisA_1994_01_04]]
 - [[IntegrationAndEvaluationOfGlen_13851]]
@@ -5441,6 +5596,19 @@ Interim Flow Criteria are the operating rules for Glen Canyon Dam releases that 
 - [[MeetingNextWeek_19735]]
 - [[EffectsOfInterimFlowsFromGlenC_13633]]
 - [[MovementOfHumpbackChubInTheCol_21130]]
+- [[InformationForTheGlenCanyonDam_19732]]
+
+## Interim Management Policy
+
+### Summary
+A Bureau of Land Management policy for managing lands with wilderness characteristics until Congress makes a decision on them. In this source, it is one of the measures used to protect wilderness values in the Gila Box area, alongside a Wilderness Protection Stipulation.
+
+### Context
+> This draft Environmental Assessment (EA), prepared by the [[Bureau of Land Management]] (BLM) Safford District Office, evaluates a proposal to offer staged geothermal steam leases across the Gila Box Assessment Area in Graham and Greenlee Counties, Arizona. The proposed action (Alternative A)...
+> -- *[[DraftEnvironmentalAssessmentGi_11514]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentGi_11514]]
 
 ## Interim Operating Criteria
 
@@ -5453,6 +5621,30 @@ Interim Operating Criteria are temporary operational guidelines for Glen Canyon 
 
 ### Mentioned In
 - [[BureauOfReclamationAnnouncesDe_20789]]
+
+## Interim Operations
+
+### Summary
+Interim Operations were put into effect in August and November 1991 to protect downstream resources at Glen Canyon Dam while the final decision on long-term operations was still pending. The source names them as a stopgap measure that preceded the preferred Modified Low Fluctuating Flow alternative.
+
+### Context
+> This Bureau of Reclamation summary covers the Final Environmental Impact Statement (EIS) on the operation of [[Glen Canyon Dam]], which analyzes nine alternative operating regimes for the dam on the [[Colorado River]] through [[Glen Canyon]] and [[Grand Canyon]]. The EIS was commissioned in 1989 to...
+> -- *[[OperationOfGlenCanyonDamFinalE_11725]]*
+
+### Mentioned In
+- [[OperationOfGlenCanyonDamFinalE_11725]]
+
+## Interim Stocking Procedures
+
+### Summary
+Temporary rules adopted in October 1994 to guide nonnative fish stocking in the Upper Colorado River Basin. They expired in December 1995, though the states voluntarily kept following them. Under them, Colorado submitted eight floodplain lake management plans, none of which was approved because all lay within the 40-year floodplain.
+
+### Context
+> This draft [[Environmental Assessment]], prepared by the [[U.S. Fish and Wildlife Service]] (Ecological Services, Grand Junction, Colorado; dated April 30, 1996), evaluates procedures that would guide future stocking of nonnative fishes in the [[Upper Colorado River Basin]]. The stated goal is to...
+> -- *[[DraftEnvironmentalAssessmentFo_19335]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentFo_19335]]
 
 ## Interior Chaparral
 
@@ -5500,10 +5692,14 @@ The interior least tern is a federally listed endangered bird species that is on
 > This draft Environmental Assessment evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (Hybognathus amarus) pursuant to section 4 of the Endangered Species Act. The document responds to a February 22, 1999 court order (Forest Guardians and Defenders of...
 > -- *[[DraftEnvironmentalAssessmentDe_13207]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[DraftEnvironmentalAssessmentDe_13207]]
+- [[EndangeredAndThreatenedSpecies_11630]]
 
 ## Interior Low Plateaus
 <!-- fm: auto_enriched: true -->
@@ -6446,6 +6642,18 @@ Introduced species impacts refer to the ecological effects of non-native species
 ### Mentioned In
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
 
+## Introductions
+
+### Summary
+Introductions are the deliberate movement of fish species into water bodies where they did not naturally occur, and are one of the main enhancement techniques. The source finds them common, especially in Africa, Latin America and North America, with predation by introduced species a frequently studied impact.
+
+### Context
+> This FAO Fisheries Circular (No. 945, 1999, 89 pp.) characterizes inland fishery enhancements worldwide. It is based on an automated search of the [[Aquatic Sciences and Fisheries Abstracts]] (ASFA) for 1978–1997, cross-checked against the [[FAO Database on Introductions of Aquatic Species]] (DIAS)...
+> -- *[[GlobalCharacterizationOfInland_16308]]*
+
+### Mentioned In
+- [[GlobalCharacterizationOfInland_16308]]
+
 ## Introductory Pool
 
 ### Summary
@@ -6954,6 +7162,18 @@ Iotichthys phlegethontis is the scientific name for the Least Chub, a desert fis
 - [[EquilibriumBetweenUptakeAndEli_11390]]
 - [[AnEconomicStudyOfTheProcessing_15621]]
 - [[ACheckListOfTheFishesOfIowaWit_17232]]
+
+## Iowa Conservation Commission
+
+### Summary
+The Iowa Conservation Commission was the state agency whose biologists were interested in creel work after Charles Di Costanzo's three summers of creel sampling on Clear Lake. Its staff were among the Iowa fisheries personnel who took part in the symposium.
+
+### Context
+> This document is the proceedings of a symposium on [[Creel Census]] methods held at Iowa State College, organized by Dr. Kenneth D. Carlander. Papers and discussion from fisheries agencies in the Midwest, Rocky Mountain region, Canada, and Tennessee address how to estimate angler harvest, fishing...
+> -- *[[SymposiumOnSamplingProblemsInC_17398]]*
+
+### Mentioned In
+- [[SymposiumOnSamplingProblemsInC_17398]]
 
 ## Iowa Cooperative Fisheries Research Unit
 <!-- fm: auto_enriched: true -->
@@ -8096,6 +8316,18 @@ The gradual rise of land after the weight of glacial ice is removed, which tilts
 
 ### Mentioned In
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
+
+## Israel Cook Russell
+
+### Summary
+Israel Cook Russell was the geologist whose work on the Quaternary history of the Lahontan basin is used by Snyder. His reconstruction showed that Lake Lahontan had no outlet and went through high stands and desiccation, which Snyder links to the present-day fish distribution.
+
+### Context
+> John Otterbein Snyder's Bureau of Fisheries bulletin (1915–16) is a systematic and ecological survey of the freshwater fishes of the [[Lahontan System]], an endorheic basin of about 40,700 square miles in Nevada and northeastern California. The paper recognizes 15 native species, describes four new...
+> -- *[[TheFishesOfTheLahontanSystemOf_21251]]*
+
+### Mentioned In
+- [[TheFishesOfTheLahontanSystemOf_21251]]
 
 ## Israeli Carp
 <!-- fm: auto_enriched: true -->

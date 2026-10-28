@@ -22,6 +22,18 @@ K. E. F. Watt was an ecologist whose work on ecosystem dynamics Miller cites in 
 ### Mentioned In
 - [[TemperaturUndTagesperiodikDerO_1963]]
 
+## K. P. Creek
+
+### Summary
+K. P. Creek is one of the nine improved streams evaluated in Job R-5. The source reports that its log dams were judged non-functional and that no trout were observed in the stream after improvement.
+
+### Context
+> This pair of Arizona Game and Fish Department completion reports (Project F-7-R-8, Work Plans for 1965, by Louis H. Carufel) evaluates two linked programs. Job R-4 is a predevelopment survey of nine proposed lake sites, gathered to estimate the fish production of planned impoundments and to rank...
+> -- *[[WatershedFisheriesSurveyPredev_16040]]*
+
+### Mentioned In
+- [[WatershedFisheriesSurveyPredev_16040]]
+
 ## K. Radway Allen
 <!-- fm: auto_enriched: true -->
 
@@ -75,6 +87,18 @@ A bay in Alaska where the proposal plans to trap sockeye smolts as part of the s
 
 ### Mentioned In
 - [[NeurologicalBaisOfSalmonMigrat_16109]]
+
+## Kaeding and Osmundson Thermal Unit Method
+
+### Summary
+The method used in this study to calculate thermal units from water temperature records, expressed as annual thermal units (ATU). The report relies on ATU values to identify where adult Colorado pikeminnow can feed year-round, with use declining sharply below about 40 ATU.
+
+### Context
+> This U.S. Fish and Wildlife Service final report (March 1999, Recovery Implementation Program Project No. 48, author Douglas B. Osmundson) examines how forage fish availability and water temperature shape the distribution and carrying capacity of adult [[Colorado Pikeminnow]] in the upper...
+> -- *[[LongitudinalVariationInFishCom_11768]]*
+
+### Mentioned In
+- [[LongitudinalVariationInFishCom_11768]]
 
 ## Kaeding and Zimmerman
 
@@ -394,6 +418,9 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > The document is a set of U.S. Department of the Interior memoranda and peer review records concerning the [[Grand Canyon Monitoring and Research Center]] (GCMRC). The Center was created under the [[Grand Canyon Protection Act]] of 1992 to run long-term monitoring and research on how [[Glen Canyon...
 > -- *[[EstablishmentOfTheGrandCanyonM_16920]]*
 
+> This package is a 1993–1994 consultation record for the operation of [[Glen Canyon Dam]] on the Colorado River. It includes a Reclamation transmittal memo for a technical review meeting (March 2, 1994, Las Vegas), a June 11, 1993 summary of a flow-scenario review, and the U.S. Fish and Wildlife...
+> -- *[[InformationForTheGlenCanyonDam_19732]]*
+
 ### Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -408,6 +435,7 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[ReDesertPupfishAndGilaTopminno_16904]]
 - [[MeetingNextWeek_19735]]
 - [[EstablishmentOfTheGrandCanyonM_16920]]
+- [[InformationForTheGlenCanyonDam_19732]]
 
 ## Kanab Creek
 <!-- fm: auto_enriched: true -->
@@ -598,8 +626,12 @@ A river in the Illinois-Mississippi drainage that flows through northern Indiana
 > Ricker, Mosbaugh and Lung report on tagging experiments in 1943 and 1944 with hatchery-reared, catchable-size [[Rainbow Trout]] and a few [[Brown Trout]] planted in northern Indiana streams. Voluntary tag returns from rainbows ranged from 0 to 42 percent in the year of planting. Second-year...
 > -- *[[UtilizationAndSurvivalOfTroutI_16857]]*
 
+> This Illinois Natural History Survey bulletin (Volume 21, Article 4; dated March 1938 on the cover) by [[Herbert H. Ross]] formally describes a large set of new caddisfly species, mostly from [[Illinois Natural History Survey]] collections, supplemented by material from other institutions across...
+> -- *[[DescriptionsOfNearcticCaddisFl_21082]]*
+
 ### Mentioned In
 - [[UtilizationAndSurvivalOfTroutI_16857]]
+- [[DescriptionsOfNearcticCaddisFl_21082]]
 
 ## Kankakee-Iroquois River System
 
@@ -661,11 +693,15 @@ A member of the San Manuel Formation described in the source. The source states 
 > This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
 > -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
 
+> This monograph-style study by Austin B. Williams revises the freshwater crayfish fauna of the mountainous Ozark Plateaus and Ouachita Provinces of [[Missouri]], [[Arkansas]], [[Oklahoma]] and southeastern [[Kansas]]. The region holds 31 known species and subspecies in three genera of the subfamily...
+> -- *[[SpeciationAndDistributionOfThe_12069]]*
+
 ### Mentioned In
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[WhatHaveICaught_12929]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
+- [[SpeciationAndDistributionOfThe_12069]]
 
 ## Kansas Forestry Fish and Game Commission
 
@@ -1268,8 +1304,13 @@ Kayak Kauaʻi Outfitters is a Hanalei, Kauaʻi business founded 11 years before 
 ## Kayler Spring
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is a transmittal letter and a set of field data sheets from a statewide survey of [[Gila Topminnow]] and [[Desert Pupfish]] in Arizona, conducted in June and July 1994 under the Arizona [[Arizona Game and Fish Department]] (AGFD) native fish program. [[David Weedman]], Native Fish...
+> -- *[[FieldDataSheetsForTopminnowpup_19665]]*
+
 ### Mentioned In
 - [[RequestForTheCommissionToAppro_1997_07_14]]
+- [[FieldDataSheetsForTopminnowpup_19665]]
 
 ## Keast And Webb 1966
 <!-- fm: auto_enriched: true -->
@@ -1473,6 +1514,18 @@ Kelp beds are nearshore underwater forests of large brown algae along the Pacifi
 ### Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
 
+## Kelvin Gaging Station
+
+### Summary
+A USGS stream gage on the Gila River at Kelvin (station 09474000) that records river discharge. The source reports average discharge of about 463–465 cfs over 54–59 years, and a period-of-record maximum of about 132,000 cfs on Jan. 20, 1916. Flows here are affected by regulation at San Carlos Reservoir upstream.
+
+### Context
+> This document is a compiled series of U.S. Geological Survey (USGS) surface-water station records from the Gila River Basin in Arizona, Water Years 1904–1978 for the principal station. It covers the San Pedro River at [[Charleston Gaging Station]] (Station 09471000), the San Pedro River near...
+> -- *[[SanPedroWaterDischargeDataTake_13218]]*
+
+### Mentioned In
+- [[SanPedroWaterDischargeDataTake_13218]]
+
 ## Kemmerer et al. 1923
 
 ### Summary
@@ -1646,6 +1699,18 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 - [[CaptureLocationsOfRareFishInTh_19862]]
 - [[AnEvaluationOfTheStatusLifeHis_13289]]
 
+## Kendrick Project
+
+### Summary
+An irrigation project served by Alcova Reservoir, which delivers water to it through the Casper Canal. The source identifies Alcova's role as irrigation supply for this project.
+
+### Context
+> This Bureau of Reclamation technical report (REC-ERC-81-10, July 1981) presents the baseline limnological characterization of four reservoirs in series on the [[North Platte River]] in Wyoming: [[Seminoe Reservoir]], [[Kortes Reservoir]], [[Pathfinder Reservoir]], and [[Alcova Reservoir]]. Surveys...
+> -- *[[LimnologyOfTheUpperNorthPlatte_20516]]*
+
+### Mentioned In
+- [[LimnologyOfTheUpperNorthPlatte_20516]]
+
 ## Kenilworth Aquatic Gardens
 
 ### Summary
@@ -1780,6 +1845,18 @@ Kenneth V. Rosenberg is a co-author of Birds Of The Lower Colorado River Valley 
 ### Mentioned In
 - [[FaunaFarewellLegacyOfEnvironme_12623]]
 
+## Kenneth W. Parker
+
+### Summary
+Co-author, with S. Clark Martin, of the 1952 USDA Forest Service circular on the mesquite problem on southern Arizona ranges. The source credits him as one of the two authors of the study of mesquite invasion, grass suppression, and control methods.
+
+### Context
+> This 1952 USDA Forest Service circular by [[Kenneth W. Parker]] and S. Clark Martin examines the invasion of grasslands by [[Velvet Mesquite]] (*Prosopis juliflora* var. *velutina*) across southern Arizona and the wider Southwest. Mesquite now covers about 9 million acres in southeastern Arizona...
+> -- *[[TheMesquiteProblemOnSouthernAr_18437]]*
+
+### Mentioned In
+- [[TheMesquiteProblemOnSouthernAr_18437]]
+
 ## Kenney Reservoir
 <!-- fm: auto_enriched: true -->
 
@@ -1850,6 +1927,9 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 > This compilation gathers recovery-planning records for the endangered [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]], plus the [[Razorback Sucker]]. It includes meeting minutes (March 1981, April 1987), a 1984 [[Sensitive Areas]] report, agency correspondence, a bonytail handling...
 > -- *[[CollectedNotesminutesreportsno_17172]]*
 
+> This January 1990 draft annual report, circulated by the [[U.S. Fish and Wildlife Service]] (Colorado River Recovery Implementation Program), reviews fiscal year 1989 work on endangered fishes of the [[Upper Colorado River Basin]]. It compiles accomplishment highlights, a summary of changes and...
+> -- *[[FiscalYearDraftAnnualReportRec_21032]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DraftReviewRip_18167]]
@@ -1873,6 +1953,7 @@ Kenney Reservoir is a water impoundment in the Upper Colorado River Basin that s
 - [[JulyManagementGroupMeetingSumm_21031]]
 - [[ColoradoSquawfishRevisedRecove_11602]]
 - [[CollectedNotesminutesreportsno_17172]]
+- [[FiscalYearDraftAnnualReportRec_21032]]
 
 ## Kennith Foster
 
@@ -2071,6 +2152,9 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 > This 1955 fisheries bulletin reports growth rates of [[White Crappie]] (*Pomoxis annularis*) in the [[Tennessee River]] tailwaters below [[Kentucky Dam]], Kentucky. Scale samples from 237 specimens collected May-December 1952 revealed average growth of 3.4 inches in year one, reaching 11.9 inches...
 > -- *[[GrowthRatesOfTheWhiteCrappiePo_16032]]*
 
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
 ### Mentioned In
 - [[CatastrophicFishMortalitiesOnK_1965_11_16]]
 - [[GrowthRatesOfTheWhiteCrappiePo_16028]]
@@ -2081,6 +2165,7 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 - [[GrowthOfBlueCatfishIctalurusFu_17924]]
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
 - [[GrowthRatesOfTheWhiteCrappiePo_16032]]
+- [[FurtherStudiesOnTheIntroducedA_19003]]
 
 ## Kentucky Nature Preserves Commission
 <!-- fm: auto_enriched: true -->
@@ -2157,8 +2242,12 @@ A city in Iowa on the Upper Mississippi River and the main fieldwork site for th
 > This study examines the biology of [[Hexagenia Bilineata]] and its congener [[Hexagenia Limbata]], large mayflies whose mass emergences along the [[Upper Mississippi River]] create nuisances, navigation hazards and possible allergies in river cities. Fieldwork in 1957 and 1958 centered on...
 > -- *[[BiologyOfALargeMayflyHexagenia_18832]]*
 
+> This 1951 bulletin from the [[Illinois Natural History Survey]] reports a 1944 and 1946 test-net survey of the commercial and sport fishes of the [[Mississippi River]] over 689 river miles, sampled at 31 stations. The authors, [[Paul G. Barnickol]] and [[William C. Starrett]], combine survey data...
+> -- *[[CommercialAndSportFishesOfTheM_15601]]*
+
 ### Mentioned In
 - [[BiologyOfALargeMayflyHexagenia_18832]]
+- [[CommercialAndSportFishesOfTheM_15601]]
 
 ## Keokuk Iowa
 
@@ -3982,10 +4071,14 @@ Knoll Lake is a 55-acre lake located in upper Leonard Canyon on the Coconino Nat
 > This Arizona Game and Fish Department completion report (Project F-7-R-9, Work Plan 8, Job R-4, 1 January to 31 December 1966), authored by Louis H. Carufel, is the third and final year of predevelopment surveys on nine proposed or completed lakes and eighteen to nineteen streams. The study sought...
 > -- *[[WatershedFisheriesSurveyPredev_16041]]*
 
+> This pair of Arizona Game and Fish Department completion reports (Project F-7-R-8, Work Plans for 1965, by Louis H. Carufel) evaluates two linked programs. Job R-4 is a predevelopment survey of nine proposed lake sites, gathered to estimate the fish production of planned impoundments and to rank...
+> -- *[[WatershedFisheriesSurveyPredev_16040]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOfFederalAids_11920]]
 - [[DistributionAbundanceAndHabita_12811]]
 - [[WatershedFisheriesSurveyPredev_16041]]
+- [[WatershedFisheriesSurveyPredev_16040]]
 
 ## Knolls Atomic Power Laboratory
 
@@ -4008,8 +4101,12 @@ Knowlton Cactus is an endangered cactus that depends on halicitid bee pollinator
 > This U.S. Fish and Wildlife Service biological opinion evaluates the Animal and Plant Health Inspection Service (APHIS) 1987 rangeland grasshopper and Mormon cricket cooperative management program across 17 western states. The consultation addresses potential impacts of three insecticides—carbaryl,...
 > -- *[[UsFishAndWildlifeServiceBiolog_11560]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
 ### Mentioned In
 - [[UsFishAndWildlifeServiceBiolog_11560]]
+- [[EndangeredAndThreatenedSpecies_11630]]
 
 ## Knutson Bay
 
@@ -4135,6 +4232,18 @@ Kofoid is cited as a historical source describing a prolonged winter freeze in 1
 
 ### Mentioned In
 - [[SomeObservationsOnTheOxygenReq_13582]]
+
+## Kohler and Stanley Protocol
+
+### Summary
+This is a 1984 assessment protocol for evaluating fishery enhancement impacts. The source lists it among the checklists and protocols available for environmental assessment.
+
+### Context
+> This FAO Fisheries Circular (No. 945, 1999, 89 pp.) characterizes inland fishery enhancements worldwide. It is based on an automated search of the [[Aquatic Sciences and Fisheries Abstracts]] (ASFA) for 1978–1997, cross-checked against the [[FAO Database on Introductions of Aquatic Species]] (DIAS)...
+> -- *[[GlobalCharacterizationOfInland_16308]]*
+
+### Mentioned In
+- [[GlobalCharacterizationOfInland_16308]]
 
 ## Kokanee
 <!-- fm: auto_enriched: true -->
@@ -4335,6 +4444,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This U.S. Bureau of Sport Fisheries and Wildlife publication (Resource Publication 70, January 1969) by John G. Hewston and the late Donald R. Franklin, produced through the [[Utah Cooperative Fishery Unit]] at Utah State University, documents how recreational use developed on [[Flaming Gorge...
 > -- *[[RecreationalUsePatternsAtFlami_20379]]*
 
+> This 1960 Wyoming Game and Fish Commission technical report (Fisheries Technical Report No. 9, by [[Clifford E. Bosley]]) assesses the fish, water chemistry, and habitat of the lower [[Green River]] before the [[Flaming Gorge Reservoir]] was impounded behind [[Ashley Dam]]. Surveys found game fish...
+> -- *[[PreimpoundmentStudyOfTheFlamin_17734]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -4372,6 +4484,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[GlenCanyonReservoirPostimpound_13231]]
 - [[GlenCanyonReservoirPostimpound_14592]]
 - [[RecreationalUsePatternsAtFlami_20379]]
+- [[PreimpoundmentStudyOfTheFlamin_17734]]
 
 ## Kolkwitz
 
@@ -4589,8 +4702,12 @@ Kortes Reservoir is a small reservoir confined to a narrow, steep canyon on the 
 > This Bureau of Reclamation report (GR-79-1, July 1978) presents the 1977 limnological survey of the four uppermost reservoirs of the [[North Platte River]] system: [[Seminoe Reservoir]], [[Kortes Reservoir]], [[Pathfinder Reservoir]] and [[Alcova Reservoir]]. Sampling occurred in June and late...
 > -- *[[LimnologyOfTheUpperNorthPlatte_12647]]*
 
+> This Bureau of Reclamation technical report (REC-ERC-81-10, July 1981) presents the baseline limnological characterization of four reservoirs in series on the [[North Platte River]] in Wyoming: [[Seminoe Reservoir]], [[Kortes Reservoir]], [[Pathfinder Reservoir]], and [[Alcova Reservoir]]. Surveys...
+> -- *[[LimnologyOfTheUpperNorthPlatte_20516]]*
+
 ### Mentioned In
 - [[LimnologyOfTheUpperNorthPlatte_12647]]
+- [[LimnologyOfTheUpperNorthPlatte_20516]]
 
 ## Kortowskie Lake
 <!-- fm: auto_enriched: true -->
@@ -5031,6 +5148,18 @@ The Kuro Shiwo is a warm ocean current that enters the Sea of Japan through Chos
 ### Mentioned In
 - [[TheHydrographicAndFaunalIndepe_19989]]
 
+## Kuroda
+
+### Summary
+Kuroda (1938) is cited in this report as evidence that shell outline and colour are unreliable characters for distinguishing Corbicula species, since shell form varies with environment, age and transplantation.
+
+### Context
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
+### Mentioned In
+- [[FurtherStudiesOnTheIntroducedA_19003]]
+
 ## Kurshiu Lagoon
 
 ### Summary
@@ -5112,6 +5241,18 @@ A keyword-in-context index, which lists significant title words with the surroun
 
 ### Mentioned In
 - [[APreliminaryBibliographyWithKw_16163]]
+
+## Kyoto Declaration
+
+### Summary
+The Kyoto Declaration is a 1995 statement that the source cites as emphasizing know-how transfer, community management and the integration of technical, socio-economic and cultural factors in fishery enhancement.
+
+### Context
+> This FAO Fisheries Circular (No. 945, 1999, 89 pp.) characterizes inland fishery enhancements worldwide. It is based on an automated search of the [[Aquatic Sciences and Fisheries Abstracts]] (ASFA) for 1978–1997, cross-checked against the [[FAO Database on Introductions of Aquatic Species]] (DIAS)...
+> -- *[[GlobalCharacterizationOfInland_16308]]*
+
+### Mentioned In
+- [[GlobalCharacterizationOfInland_16308]]
 
 ## Kyowa A-400
 

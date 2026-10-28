@@ -62,6 +62,18 @@ A directional receiving antenna design listed among the receiver antenna options
 ### Mentioned In
 - [[ToxicFreshWaterAlgae_14366]]
 
+## Yak Tunnel
+
+### Summary
+A mine drainage tunnel in the Leadville area that continues to discharge metals into the watershed. The report describes its water as acidic, in contrast to the neutral to slightly alkaline water from other sources.
+
+### Context
+> This 1975 Bureau of Reclamation report assesses heavy metal contamination of the upper [[Arkansas River]] in Colorado, using monthly water, sediment, benthic invertebrate and fish sampling at 11 stations from April through November 1974. Three main impact zones were identified: the [[Leadville...
+> -- *[[AssessmentOfHeavyMetalPollutio_12639]]*
+
+### Mentioned In
+- [[AssessmentOfHeavyMetalPollutio_12639]]
+
 ## Yakama Nation
 <!-- fm: auto_enriched: true -->
 
@@ -219,6 +231,9 @@ Yampa Canyon refers to a river canyon section within the Yampa River system that
 > This final report (April 1987) from the U.S. Fish and Wildlife Service (FWS) Vernal Field Station summarizes field work on the endangered fishes of the upper [[Colorado River]] Basin, mainly in the [[Green River]] and its tributaries. The work was a continuation of the 1979-1981 Colorado River...
 > -- *[[DraftcoloradoRiverFishMonitori_13045]]*
 
+> This final report by Edmund J. Wick and John A. Hawkins (Colorado State University, Larval Fish Laboratory, February 1989) documents two winters of radiotelemetry on adult [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the upper [[Yampa River]], Colorado. The work was commissioned under Section...
+> -- *[[ColoradoSquawfishWinterHabitat_12220]]*
+
 ### Mentioned In
 - [[DistributionHabitatUseAndGrowt_1991]]
 - [[GilaTaxonomy_14730]]
@@ -239,6 +254,7 @@ Yampa Canyon refers to a river canyon section within the Yampa River system that
 - [[GilaTaxonomyWorkshop_20867]]
 - [[SecondAnnualReport_18486]]
 - [[DraftcoloradoRiverFishMonitori_13045]]
+- [[ColoradoSquawfishWinterHabitat_12220]]
 
 ## Yampa River
 <!-- fm: auto_enriched: true -->
@@ -682,6 +698,30 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This report, prepared by [[Harold K. Hagen]] and [[Joseph E. Banks]] of [[Colorado State University]] for the [[National Park Service]] (contract No. 14-10-0232-686, June 1963), documents the ecology and limnology of the Green River in [[Dinosaur National Monument]]. Its main focus was the rare...
 > -- *[[AnEcologicalAndLimnologicalStu_20953]]*
 
+> This U.S. Fish and Wildlife Service final report (March 1999, Recovery Implementation Program Project No. 48, author Douglas B. Osmundson) examines how forage fish availability and water temperature shape the distribution and carrying capacity of adult [[Colorado Pikeminnow]] in the upper...
+> -- *[[LongitudinalVariationInFishCom_11768]]*
+
+> This document is a 1996 Fish and Wildlife Service memorandum distributing a revised [[Section 7 Consultation]] agreement and the [[Recovery Implementation Program]] Recovery Action Plan ([[RIPRAP]]). Together they govern recovery of four endangered [[Colorado River Fishes]]: [[Colorado Squawfish]],...
+> -- *[[SectionConsultationSufficientP_11961]]*
+
+> This final report by Edmund J. Wick and John A. Hawkins (Colorado State University, Larval Fish Laboratory, February 1989) documents two winters of radiotelemetry on adult [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the upper [[Yampa River]], Colorado. The work was commissioned under Section...
+> -- *[[ColoradoSquawfishWinterHabitat_12220]]*
+
+> This 1964 Colorado State University Master of Science thesis by [[Joe L. Banks]] examines how stream-flow, water temperature, turbidity, [[Bottom Types]], food availability and an accidental rotenone pollution event shaped the distribution of the fish fauna of the [[Green River]] and [[Yampa...
+> -- *[[FishSpeciesDistributionInDinos_17316]]*
+
+> This 1990 status review, prepared by Kevin R. Bestgen of the [[Larval Fish Laboratory]] at Colorado State University for the [[U.S. Bureau of Reclamation]], compiles historic and present information on the [[Razorback Sucker]], an endemic catostomid of the [[Colorado River Basin]]. The species was...
+> -- *[[StatusReviewOfTheRazorbackSuck_18211]]*
+
+> This 1981 final report by BIO/WEST, Inc. (Logan, Utah), prepared for the Water and Power Resources Service and the U.S. Fish and Wildlife Service, documents three years (1978–1980) of benthic macroinvertebrate and fish monitoring below [[Flaming Gorge Dam]] after warmer penstock inlet modifications...
+> -- *[[DocumentationOfChangesInTheMac_20465]]*
+
+> This June 1986 Special Report from the [[Colorado Division of Wildlife]] is an annotated bibliography of the fishes of Colorado, compiled by Charles M. Haynes and Karen Hamilton. It is meant as a foundation for understanding the state's fish fauna, past and present, and as a springboard to the...
+> -- *[[AnAnnotatedBibliographyOfTheFi_20733]]*
+
+> This January 1990 draft annual report, circulated by the [[U.S. Fish and Wildlife Service]] (Colorado River Recovery Implementation Program), reviews fiscal year 1989 work on endangered fishes of the [[Upper Colorado River Basin]]. It compiles accomplishment highlights, a summary of changes and...
+> -- *[[FiscalYearDraftAnnualReportRec_21032]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -877,6 +917,14 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[RecommendationsForFlowsInTheMi_18351]]
 - [[YampaRiverFishesStudy_18482]]
 - [[AnEcologicalAndLimnologicalStu_20953]]
+- [[LongitudinalVariationInFishCom_11768]]
+- [[SectionConsultationSufficientP_11961]]
+- [[ColoradoSquawfishWinterHabitat_12220]]
+- [[FishSpeciesDistributionInDinos_17316]]
+- [[StatusReviewOfTheRazorbackSuck_18211]]
+- [[DocumentationOfChangesInTheMac_20465]]
+- [[AnAnnotatedBibliographyOfTheFi_20733]]
+- [[FiscalYearDraftAnnualReportRec_21032]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1177,6 +1225,12 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
 > -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -1259,6 +1313,8 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[FishesOfTheRioYaquiRecoveryPla_15978]]
 - [[DraftYaquiFishesRecoveryPlan_12834]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
+- [[EndangeredAndThreatenedSpecies_11630]]
+- [[EndangeredAndThreatenedSpecies_11633]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1447,6 +1503,15 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This Master's thesis from the [[University of Arizona]] (1995) quantifies microhabitat use by three endangered or threatened Rio Yaqui fishes, the [[Yaqui Chub]], [[Yaqui Topminnow]], and [[Beautiful Shiner]], on the [[San Bernardino National Wildlife Refuge]] (SBNWR). Field work used snorkel...
 > -- *[[HabitatUseByFishesOfTheSanBern_19343]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
+> This Arizona Game and Fish Department technical report summarizes seven years (1988-1994) of volunteer-collected fish survey data from the [[Fall Fish Count]] (FFC) program, which has accumulated records from more than 140 sample sites. The report tests whether the data can reveal abundance trends...
+> -- *[[FallFishCountSummary_20903]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1557,6 +1622,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[DraftYaquiFishesRecoveryPlan_12834]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
 - [[HabitatUseByFishesOfTheSanBern_19343]]
+- [[EndangeredAndThreatenedSpecies_11630]]
+- [[EndangeredAndThreatenedSpecies_11633]]
+- [[FallFishCountSummary_20903]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1888,6 +1956,9 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
 > -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
 
+> This 1998 assessment, sponsored by [[The Wildlands Project]] and authored by Gary Paul Nabhan and Andrew R. Holdsworth, characterizes the biodiversity of the [[Sonoran Desert]] bioregion and evaluates threats and the adequacy of current protection. It compiles surveys of 54 field scientists who...
+> -- *[[StateOfTheDesertDiomeUniquenes_19471]]*
+
 ### Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -1912,6 +1983,7 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[DraftRioYaquiFishesRecoveryPla_13748]]
 - [[DraftYaquiFishesRecoveryPlan_12834]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
+- [[StateOfTheDesertDiomeUniquenes_19471]]
 
 ## Yaqui topminnow
 <!-- fm: auto_enriched: true -->
@@ -2049,6 +2121,12 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This Master's thesis from the [[University of Arizona]] (1995) quantifies microhabitat use by three endangered or threatened Rio Yaqui fishes, the [[Yaqui Chub]], [[Yaqui Topminnow]], and [[Beautiful Shiner]], on the [[San Bernardino National Wildlife Refuge]] (SBNWR). Field work used snorkel...
 > -- *[[HabitatUseByFishesOfTheSanBern_19343]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -2119,6 +2197,8 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[EnvironmentalAssessmentPropose_12210]]
 - [[FishesOfTheRioYaquiRecoveryPla_15978]]
 - [[HabitatUseByFishesOfTheSanBern_19343]]
+- [[EndangeredAndThreatenedSpecies_11630]]
+- [[EndangeredAndThreatenedSpecies_11633]]
 
 ## Yaqui Watershed
 
@@ -2276,6 +2356,18 @@ The Yavapai-Prescott Indian Community proposed to divert 500 acre-feet of water 
 ### Mentioned In
 - [[ReproductiveBehaviorOfTheBigmo_14068]]
 
+## Year Class
+
+### Summary
+The group of fish hatched in the same year, whose strength determines later catches. The source finds the 1926 year class exceptionally strong and identifies probable strong classes in 1936, 1942 and 1944, and it stresses that failure of two successive year classes could collapse the fishery.
+
+### Context
+> This Fishery Bulletin (No. 70, Fish and Wildlife Service, Volume 52, 1952) by Frank W. Jobes examines the [[American Yellow Perch]] (*Perca flavescens*) of [[Lake Erie]]. It combines a 1885–1947 commercial production record with a critical test of [[Scale Method]] age determination, body-scale...
+> -- *[[AgeGrowthAndProductionOfYellow_19742]]*
+
+### Mentioned In
+- [[AgeGrowthAndProductionOfYellow_19742]]
+
 ## Year-Class Analysis Via Scale Aging
 <!-- fm: auto_enriched: true -->
 
@@ -2422,6 +2514,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This preliminary report from the Illinois Natural History Survey and Illinois Department of Conservation (Biological Notes No. 30, 1952) documents a creel census of the sport fishery at [[Lake Chautauqua]], a reflooded drainage district on the [[Illinois River]] floodplain near Havana. Recorded...
 > -- *[[SportFishingAtLakeChautauquaNe_14738]]*
 
+> This Illinois Natural History Survey bulletin (March 1963, Vol. 28, Art. 2) by R. Weldon Larimore and Philip W. Smith compares three fish surveys of [[Champaign County]], Illinois, made in 1899 ([[Forbes and Richardson Survey]]), 1928 ([[Thompson and Hunt Survey]]), and 1959 ([[Larimore and Smith...
+> -- *[[TheFishesOfChampaignCountyIlli_12724]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -2460,6 +2555,7 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[OverfishingInASmallArtificialL_18158]]
 - [[PartialChecklistOfFishesOfTheL_18573]]
 - [[SportFishingAtLakeChautauquaNe_14738]]
+- [[TheFishesOfChampaignCountyIlli_12724]]
 
 ## Yellow Belly Sunfish
 
@@ -3080,6 +3176,18 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 1, 1952) reports a 1950 summer survey of nine warm-water impoundments in Delaware. Crews combined fish sampling, a creel census of anglers, age determination from scales, bottom fauna and plankton sampling,...
 > -- *[[FreshWaterFisheriesSurvey_20643]]*
 
+> This Colorado Game and Fish Department report, written by Fish Technician Rex I. Taliaferro and published in 1955, synthesizes warm-water fishery research on [[Jumbo Reservoir]] from 1949 through 1953. The study covered food habits and growth of major game and rough fish, a physical, chemical and...
+> -- *[[WarmWaterFishResearchOnJumboRe_13449]]*
+
+> This document is the proceedings of a symposium on [[Creel Census]] methods held at Iowa State College, organized by Dr. Kenneth D. Carlander. Papers and discussion from fisheries agencies in the Midwest, Rocky Mountain region, Canada, and Tennessee address how to estimate angler harvest, fishing...
+> -- *[[SymposiumOnSamplingProblemsInC_17398]]*
+
+> This 1960 Wyoming Game and Fish Commission technical report (Fisheries Technical Report No. 9, by [[Clifford E. Bosley]]) assesses the fish, water chemistry, and habitat of the lower [[Green River]] before the [[Flaming Gorge Reservoir]] was impounded behind [[Ashley Dam]]. Surveys found game fish...
+> -- *[[PreimpoundmentStudyOfTheFlamin_17734]]*
+
+> This EPA Environmental Research Laboratory-Duluth report (EPA-600/3-80-009, January 1980; M. J. Ross and D. B. Siniff, University of Minnesota) uses radio telemetry to study how fish respond to the heated discharge of a coal-fired power plant on the upper [[Mississippi River]] at Cohasset,...
+> -- *[[SpatialDistributionAndTemperat_21087]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -3211,6 +3319,10 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[LandlockedSalmonAndBrookTroutO_17720]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
 - [[FreshWaterFisheriesSurvey_20643]]
+- [[WarmWaterFishResearchOnJumboRe_13449]]
+- [[SymposiumOnSamplingProblemsInC_17398]]
+- [[PreimpoundmentStudyOfTheFlamin_17734]]
+- [[SpatialDistributionAndTemperat_21087]]
 
 ## Yellow Pike Perch
 
@@ -3246,11 +3358,15 @@ Stizostedion vitreum, the yellow pike perch, a freshwater percid fish of New Yor
 > This 1948 angler's guide, produced by the [[Division of Fish Management]] of the [[Conservation Commission of West Virginia]] and written by fishery biologist E. A. Seaman, explains the state's freshwater fish resources, how they are managed, and where anglers can fish. It argues that fishing...
 > -- *[[FishFishManagementAndFishingIn_11334]]*
 
+> This 1951 bulletin from the [[Illinois Natural History Survey]] reports a 1944 and 1946 test-net survey of the commercial and sport fishes of the [[Mississippi River]] over 689 river miles, sampled at 31 stations. The authors, [[Paul G. Barnickol]] and [[William C. Starrett]], combine survey data...
+> -- *[[CommercialAndSportFishesOfTheM_15601]]*
+
 ### Mentioned In
 - [[FilletWeightsAndLossOnFilletin_12433]]
 - [[FishPopulationAndCatchDataFrom_1948]]
 - [[ProminentFishesOfWestVirginia_13090]]
 - [[FishFishManagementAndFishingIn_11334]]
+- [[CommercialAndSportFishesOfTheM_15601]]
 
 ## Yellow Pine
 <!-- fm: auto_enriched: true -->
@@ -3521,6 +3637,18 @@ Yellowfin tuna (*Thunnus albacares*) is a pelagic fish species belonging to the 
 - [[EcologicalFactorsInvolvedInThe_1957]]
 - [[StomachContentsAndOrganWeights_12449]]
 - [[ThunnusSouthPiscesProposedVali_17128]]
+
+## Yellowmouth Rockfish
+
+### Summary
+Yellowmouth rockfish is a rockfish (Scorpaenidae) species whose ages can be read from otolith surfaces reliably only to roughly 25 to 30 years. The manual's maximum-age table includes rockfish species in this longevity range.
+
+### Context
+> This Canadian Special Publication (Fisheries and Aquatic Sciences 60, 1982) is a laboratory manual by [[Doris E. Chilton]] and [[Richard J. Beamish]] of the Pacific Biological Station, Nanaimo, B.C. It describes methods and equipment for estimating the ages of groundfish species off Canada's west...
+> -- *[[AgeDeterminationMethodsForFish_16137]]*
+
+### Mentioned In
+- [[AgeDeterminationMethodsForFish_16137]]
 
 ## Yellowstone Cutthroat
 
@@ -3813,10 +3941,14 @@ A commercially important flounder species managed under ICNAF quotas of 13,000 m
 > This California Department of Fish and Game bulletin (Fish Bulletin 126, by Julius B. Phillips) reports life-history data for ten commercially important [[Rockfish]] species of the genus *Sebastodes*. It covers annual growth, size and age at maturity, weight-length relationships, spawning season,...
 > -- *[[LifeHistoryStudiesOnTenSpecies_11172]]*
 
+> This Canadian Special Publication (Fisheries and Aquatic Sciences 60, 1982) is a laboratory manual by [[Doris E. Chilton]] and [[Richard J. Beamish]] of the Pacific Biological Station, Nanaimo, B.C. It describes methods and equipment for estimating the ages of groundfish species off Canada's west...
+> -- *[[AgeDeterminationMethodsForFish_16137]]*
+
 ### Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
 - [[SeasonalChangesInSpatialDistri_17423]]
 - [[LifeHistoryStudiesOnTenSpecies_11172]]
+- [[AgeDeterminationMethodsForFish_16137]]
 
 ## Yellowtail Snapper
 <!-- fm: auto_enriched: true -->
@@ -3906,6 +4038,18 @@ Yermo is a location in San Bernardino County, California where United Energy Cor
 
 ### Mentioned In
 - [[LeeSFerryTroutPathologicalEval_12696]]
+
+## Yewleaf Willow
+
+### Summary
+Yewleaf willow (Salix taxifolia) is a willow species for which the survey documented a range extension in the preserve. It is one of the plant records the report highlights as new or extended distribution data.
+
+### Context
+> This final 1980 report covers the vegetation and flora component of a long-term biological survey of the [[George Whittell Wildlife Preserve]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife Trust and began on 15 May 1979. Its objectives were to map...
+> -- *[[ProgressReportForTheBiological_19814]]*
+
+### Mentioned In
+- [[ProgressReportForTheBiological_19814]]
 
 ## Yield
 
@@ -4280,6 +4424,18 @@ Yucca Elata (recorded by Blumer as Y. radicosa) is a yucca species that was a ch
 ### Mentioned In
 - [[ABotanistInArizonaTerritoryJac_13225]]
 
+## Yucca Shrub-grassland
+
+### Summary
+This is a vegetation association on level mesas north of Table Mountain. It suffered the heaviest livestock damage in the survey and had the lowest species diversity of all sampled associations. Grasses were far more abundant on adjacent hillsides than on these mesas, and the Yucca Shrub-grassland plot had the lowest diversity of the 15 study plots.
+
+### Context
+> This final 1980 report covers the vegetation and flora component of a long-term biological survey of the [[George Whittell Wildlife Preserve]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife Trust and began on 15 May 1979. Its objectives were to map...
+> -- *[[ProgressReportForTheBiological_19814]]*
+
+### Mentioned In
+- [[ProgressReportForTheBiological_19814]]
+
 ## Yukon River
 <!-- fm: auto_enriched: true -->
 
@@ -4287,8 +4443,12 @@ Yucca Elata (recorded by Blumer as Y. radicosa) is a yucca species that was a ch
 > - **Hudson Bay drainage**: richest northern fauna — 9 families, 22 genera, 45 species, reflecting strong influence from the Great Lakes/Mississippi faunal source. - **Arctic Ocean drainage** (Peace-[[Mackenzie River]] system, via Great Slave, Great Bear, and Athabasca lakes): intermediate diversi...
 > -- *[[FreshwaterFishesOfTheEasternAr_18569]]*
 
+> This FAO Species Synopsis (Circular 315, Bureau of Commercial Fisheries, 1970) by Richard G. Bakkala compiles existing literature on the [[Chum Salmon]], *Oncorhynchus keta*, the most widely distributed Pacific salmon. The review covers nomenclature and morphology, distribution, [[Life History]]...
+> -- *[[SynopsisOfBiologicalDataOfTheC_17287]]*
+
 ### Mentioned In
 - [[FreshwaterFishesOfTheEasternAr_18569]]
+- [[SynopsisOfBiologicalDataOfTheC_17287]]
 
 ## Yukon Territory
 
@@ -4520,6 +4680,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This 1997 Request for Proposals (RFP) package from the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP) Steering Committee solicits two separate consultant contracts to support development of a multi-species conservation plan for the Lower Colorado River. RFP-1 seeks [[Program...
 > -- *[[RequestForProposalsRfpProgramF_18343]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -4557,6 +4720,7 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[FinalReportAndRecommendationsO_17455]]
 - [[EndangeredAndThreatenedFishAnd_11507]]
 - [[RequestForProposalsRfpProgramF_18343]]
+- [[EndangeredAndThreatenedSpecies_11633]]
 
 ## Yuma Clapper Rail Recovery Plan
 
@@ -4776,11 +4940,15 @@ The Yuma Desalting Plant is a facility authorized under the Colorado River Salin
 > This USDA Forest Service General Technical Report (RM-66, November 1979) by [[Alden R. Hibbert]] estimates how much surface water could be added to the [[Colorado River Basin]] by managing vegetation and snow to reduce [[Evapotranspiration]]. The report is a summary of a longer companion paper...
 > -- *[[ManagingVegetationToIncreaseFl_20382]]*
 
+> J. William McDonald, an attorney with the U.S. Department of the Interior, prepared this paper (first edition May 1997; second edition July 1997) for the [[Western Water Policy Review Advisory Commission]]. It asks whether the Commission should address the grievance of upper basin states that...
+> -- *[[TheUpperBasinsPoliticalConundr_12302]]*
+
 ### Mentioned In
 - [[TransmittalRegardingReasonable_19809]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[CienegaDeSantaClaraARemnantWet_20932]]
 - [[ManagingVegetationToIncreaseFl_20382]]
+- [[TheUpperBasinsPoliticalConundr_12302]]
 
 ## Yuma District
 

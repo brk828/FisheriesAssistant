@@ -143,6 +143,18 @@ Author of a paper on the Rare Fishes Propagation and Genetics Management Plan in
 ### Mentioned In
 - [[IrishSalmonDiseaseAnInterimRep_13819]]
 
+## J. Jerry Landye
+
+### Summary
+J. Jerry Landye is a co-author of this systematic revision of Arizona hydrobiid snails, working with Robert Hershler. The source credits him with the study of the springsnail fauna of Arizona, which describes 14 species of Pyrgulopsis and Tryonia.
+
+### Context
+> This systematic revision by [[Robert Hershler]] and [[J. Jerry Landye]] describes the hydrobiid snail (springsnail) fauna of Arizona. The authors report 14 species: 12 [[Pyrgulopsis]] and 2 [[Tryonia]]. Thirteen are described as new, and one, *Pyrgulopsis deserta* (Pilsbry), is previously known....
+> -- *[[ArizonaHydrobiidaeProsobranchi_20352]]*
+
+### Mentioned In
+- [[ArizonaHydrobiidaeProsobranchi_20352]]
+
 ## J. M. Braga
 <!-- fm: auto_enriched: true -->
 
@@ -949,6 +961,18 @@ Sartoris is co-author, with James F. LaBounty, of one of the three studies in th
 ### Mentioned In
 - [[StudiesOfTheBenthicEnvironment_12642]]
 
+## James M. Quigley
+
+### Summary
+James M. Quigley gave the keynote on the role of the aquatic biologist at the 1962 Third Seminar on Biological Problems in Water Pollution. He argued that biologists must translate their findings into terms that enforcement officials, judges and courts can use, and he stressed that extremes rather than averages define whether water suits aquatic life.
+
+### Context
+> This is the transactions volume of the Third Seminar on Biological Problems in Water Pollution, held in 1962 and published in 1965 by the [[Robert A. Taft Sanitary Engineering Center]] as Public Health Service Publication No. 999-WP-25. The seminar, planned by [[Clarence M. Tarzwell]], focused on...
+> -- *[[FactorsThatAffectTheToleranceO_16170]]*
+
+### Mentioned In
+- [[FactorsThatAffectTheToleranceO_16170]]
+
 ## James P Henley
 
 ### Summary
@@ -1227,6 +1251,18 @@ Japanese Jack Mackerel is a pelagic fish species found in the Northwest Pacific.
 ### Mentioned In
 - [[AdditionOfMisgurnusAnguillicau_1969]]
 
+## Japanese Mothership Fishery
+
+### Summary
+A high-seas fishery operating since 1952 in the North Pacific and Bering Sea that takes chum salmon with drift gill nets. The source reports catches of 10.5–18.5 million fish in 1955–60 before Soviet quotas reduced them.
+
+### Context
+> This FAO Species Synopsis (Circular 315, Bureau of Commercial Fisheries, 1970) by Richard G. Bakkala compiles existing literature on the [[Chum Salmon]], *Oncorhynchus keta*, the most widely distributed Pacific salmon. The review covers nomenclature and morphology, distribution, [[Life History]]...
+> -- *[[SynopsisOfBiologicalDataOfTheC_17287]]*
+
+### Mentioned In
+- [[SynopsisOfBiologicalDataOfTheC_17287]]
+
 ## Japanese Pilchard
 
 ### Summary
@@ -1474,6 +1510,18 @@ A round, bird-band style monel tag, 3.5 mm wide and 8 mm in diameter, placed ove
 ### Mentioned In
 - [[LargemouthBassTagging_12531]]
 - [[TheDevelopmentOfAVinylPlasticS_14114]]
+
+## Jay Gould Lake
+
+### Summary
+Jay Gould Lake is a body of water connected to the shallow receiving bay below the Clay Boswell Station discharge on the Mississippi River near Cohasset, Minnesota. In this study, some tracked perch dispersed into the lake, with 8% of dispersing perch moving into it during the autumn-to-spring tracking period.
+
+### Context
+> This EPA Environmental Research Laboratory-Duluth report (EPA-600/3-80-009, January 1980; M. J. Ross and D. B. Siniff, University of Minnesota) uses radio telemetry to study how fish respond to the heated discharge of a coal-fired power plant on the upper [[Mississippi River]] at Cohasset,...
+> -- *[[SpatialDistributionAndTemperat_21087]]*
+
+### Mentioned In
+- [[SpatialDistributionAndTemperat_21087]]
 
 ## Jay R. Stauffer
 <!-- fm: auto_enriched: true -->
@@ -2162,6 +2210,18 @@ Job 09 is an AGFD workplan for monitoring Sonoran topminnow and desert pupfish, 
 ### Mentioned In
 - [[ReDesertPupfishAndGilaTopminno_16904]]
 
+## Job Completion Report
+
+### Summary
+A standardized end-of-project report required under the Federal Aid in Fisheries Restoration Act that documents the work done and findings of a fisheries project. This source is one such report, Federal Aid Project F-7-R-12, Job D-3, issued by the Texas Parks and Wildlife Department in 1965.
+
+### Context
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14936]]
+
 ## Jobling 1981
 <!-- fm: auto_enriched: true -->
 
@@ -2207,6 +2267,18 @@ Joe Foss Brook is a spring-fed tributary entering the Kennebec about half a mile
 
 ### Mentioned In
 - [[PreliminaryStudyOfKennebecRive_17719]]
+
+## Joe L. Banks
+
+### Summary
+Joe L. Banks is the author of this 1964 Colorado State University Master of Science thesis on fish distribution in Dinosaur National Monument. The thesis studied fish of the Green and Yampa rivers during 1961 and 1962 under the Colorado River Storage Project.
+
+### Context
+> This 1964 Colorado State University Master of Science thesis by [[Joe L. Banks]] examines how stream-flow, water temperature, turbidity, [[Bottom Types]], food availability and an accidental rotenone pollution event shaped the distribution of the fish fauna of the [[Green River]] and [[Yampa...
+> -- *[[FishSpeciesDistributionInDinos_17316]]*
+
+### Mentioned In
+- [[FishSpeciesDistributionInDinos_17316]]
 
 ## Joe N. Fries
 <!-- fm: auto_enriched: true -->
@@ -2591,6 +2663,18 @@ John Hunter is a scientist at the National Marine Fisheries Service in Hawaii wh
 ### Mentioned In
 - [[LimnologicalInvestigationsInAr_1963]]
 
+## John L. Funk
+
+### Summary
+John L. Funk is a first author of the study and wrote the sections on larger fishes and on management and utilization. His creel data show that suckers, smallmouth bass, and rock bass dominated the upper Black River catch.
+
+### Context
+> The Black River Studies is a seven-part 1953 monograph by [[Missouri Conservation Commission]] and [[University of Missouri]] Wildlife Research Unit biologists. It combines a pre-impoundment survey of a Missouri Ozark stream (Black River, 1947) with post-impoundment monitoring of the same reach...
+> -- *[[TheBlackRiverStudies_18895]]*
+
+### Mentioned In
+- [[TheBlackRiverStudies_18895]]
+
 ## John L. Leconte
 <!-- fm: auto_enriched: true -->
 
@@ -2652,9 +2736,13 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 > This 1950s-era educational pamphlet, written by William L. Reavley and published by the [[Colorado Game and Fish Department]] (Educational Pamphlet Number Three, Colorado Conservation Magazine), explains the problems that affect fishing in Colorado and describes the principal game and rough fish of...
 > -- *[[TheFishOfColorado_16785]]*
 
+> This report assesses the status of fishes in the [[Arkansas River]] and the streams south of its mainstream in southwestern Kansas, including the [[Cimarron River]]. Fieldwork on 16–23 July 1983 visited 35 sites; 23 had water and 12 were dry. Combined with historical collections (1853 to present),...
+> -- *[[AssessmentOfDewateringImpactsO_18043]]*
+
 ### Mentioned In
 - [[CreelCensusReport_11332]]
 - [[TheFishOfColorado_16785]]
+- [[AssessmentOfDewateringImpactsO_18043]]
 
 ## John Millican
 <!-- fm: auto_enriched: true -->
@@ -3942,8 +4030,12 @@ The Joshua tree is a large, branching desert plant of the Mojave region, often c
 > This Bureau of Land Management (BLM) booklet summarizes the California Desert Conservation Area (CDCA) Plan, the long-range land-management plan required by Section 601 of the [[Federal Land Policy and Management Act]] (FLPMA) of 1976. The Plan covers a 25-million-acre CDCA, of which the BLM...
 > -- *[[TheCaliforniaDesertConservatio_11541]]*
 
+> This Nevada State Museum Anthropological Paper (No. 13, Part 3, October 1967) by Peter J. Mehringer, Jr., reports a fossil and modern pollen study of the [[Tule Springs Site]] in the [[Las Vegas Valley]], southern Nevada. The arid sediments yielded pollen only sparsely, but the work reconstructs a...
+> -- *[[PartPollenAnalysisOfTheTuleSpr_20096]]*
+
 ### Mentioned In
 - [[TheCaliforniaDesertConservatio_11541]]
+- [[PartPollenAnalysisOfTheTuleSpr_20096]]
 
 ## Josiah Austin
 
@@ -4257,8 +4349,12 @@ Jumbo Reservoir is a warm water fishery located in Sedgwick County, Colorado, th
 > This annual creel census report documents Colorado's 1955 statewide fishing activity, catch statistics, and stocking programs for both trout and warm water fisheries. Department personnel checked 72,489 trout fishermen and 17,781 warm water fishermen during 1955, representing an all-time high for...
 > -- *[[CreelCensusReport_11332]]*
 
+> This Colorado Game and Fish Department report, written by Fish Technician Rex I. Taliaferro and published in 1955, synthesizes warm-water fishery research on [[Jumbo Reservoir]] from 1949 through 1953. The study covered food habits and growth of major game and rough fish, a physical, chemical and...
+> -- *[[WarmWaterFishResearchOnJumboRe_13449]]*
+
 ### Mentioned In
 - [[CreelCensusReport_11332]]
+- [[WarmWaterFishResearchOnJumboRe_13449]]
 
 ## Jump Up Canyon
 
@@ -4350,6 +4446,9 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 > This 1963 survey, prepared at the [[University of Michigan Museum of Zoology]] and attributed to [[Robert Rush Miller]], reviews the status of rare and threatened native fishes state by state across the United States. For each species it gives known range, number of recorded individuals or...
 > -- *[[PreliminaryListOfRareRestricte_15342]]*
 
+> This Utah Division of Wildlife Resources publication (Publication No. 88-8, Snyder and Muth, Larval Fish Laboratory, Colorado State University, July 1988) documents the morphological development and diagnostic characters of the larvae and early juveniles of three catostomids in [[Utah Lake]] and...
+> -- *[[DescriptionAndIdentificationOf_21243]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
 - [[SubpermitAuthorizationForWound_1989_06_06]]
@@ -4364,6 +4463,7 @@ The June Sucker is an endangered catostomid fish endemic to the Virgin River in 
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[ManuscriptlongevityAndGrowthOf_11310]]
 - [[PreliminaryListOfRareRestricte_15342]]
+- [[DescriptionAndIdentificationOf_21243]]
 
 ## June Sucker Recovery Implementation Program
 
@@ -4398,8 +4498,12 @@ Juniper is a coniferous tree or shrub genus common in southwestern woodlands. Th
 > These lecture notes from Biology 300 (Natural History of Arizona) taught by W. L. Minckley provide a comprehensive introduction to natural history, ecology, and the biological diversity of Arizona. The course defines natural history as the observational and experimental study of living organisms at...
 > -- *[[LectureNotesFromBiologyClass_13784]]*
 
+> This Nevada State Museum Anthropological Paper (No. 13, Part 3, October 1967) by Peter J. Mehringer, Jr., reports a fossil and modern pollen study of the [[Tule Springs Site]] in the [[Las Vegas Valley]], southern Nevada. The arid sediments yielded pollen only sparsely, but the work reconstructs a...
+> -- *[[PartPollenAnalysisOfTheTuleSpr_20096]]*
+
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
+- [[PartPollenAnalysisOfTheTuleSpr_20096]]
 
 ## Juniper and Pinyon Woodland
 

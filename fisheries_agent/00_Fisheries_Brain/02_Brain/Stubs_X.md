@@ -16,6 +16,18 @@ An analytical method that identifies minerals by how they scatter X-rays. Pine u
 ### Mentioned In
 - [[DevonianStratigraphyAndPaleoge_11148]]
 
+## X-Ray Fluorescence Spectroscopy
+
+### Summary
+X-ray fluorescence spectroscopy is an analytical technique that identifies and measures elements by the X-rays they emit when excited. In this study it was used for some elements in sediment samples, alongside atomic absorption analysis of digested sediments.
+
+### Context
+> This Bureau of Reclamation-funded study, conducted by the University of Southern Colorado, documents how the formation of [[Pueblo Reservoir]] changed the inorganic chemistry of the [[Arkansas River]] in Colorado. Water was sampled from the river before impoundment (1972–1974) and from the...
+> -- *[[EffectsOfImpoundmentOnWaterAnd_21257]]*
+
+### Mentioned In
+- [[EffectsOfImpoundmentOnWaterAnd_21257]]
+
 ## X-Ray Radiography
 
 ### Summary

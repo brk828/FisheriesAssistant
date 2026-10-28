@@ -272,6 +272,18 @@ Oak Creek Canyon is a location in Yavapai County, Arizona overlooking Coconino N
 ### Mentioned In
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 
+## Oak Creek, Red Rock State Park
+
+### Summary
+A site on Oak Creek in Arizona sampled by the Fall Fish Count (FC3610). The report notes a reported 1991 sewage spill and chlorine treatment upstream, combined with high flows, may have affected fish there. No natives were collected in 1994, while nonnative smallmouth bass and green sunfish catch rates rose over time.
+
+### Context
+> This Arizona Game and Fish Department technical report summarizes seven years (1988-1994) of volunteer-collected fish survey data from the [[Fall Fish Count]] (FFC) program, which has accumulated records from more than 140 sample sites. The report tests whether the data can reveal abundance trends...
+> -- *[[FallFishCountSummary_20903]]*
+
+### Mentioned In
+- [[FallFishCountSummary_20903]]
+
 ## Oak Mere
 <!-- fm: auto_enriched: true -->
 
@@ -851,6 +863,18 @@ A 17,300-acre area associated with Alamo Dam that the Army Corps of Engineers, t
 ### Mentioned In
 - [[NotesOnOdonataFromTheVicinityO_14838]]
 
+## Octomitus Salmonis
+
+### Summary
+An intestinal flagellate parasite of trout. It causes chronic wasting, known as "pinheads," and sometimes acute epidemics among fingerlings with losses of 50 to 75 percent. The source identifies overcrowding, poor oxygen, and unsuitable food as key triggers, and calomel or carbarsone in food as treatments.
+
+### Context
+> This Fish and Wildlife Service Research Report (revised edition, 1946, by H. S. Davis) is a practical manual for [[Trout Hatchery Management]]. It covers the rearing of fingerling trout in troughs, [[Raceway]]s and [[Circular Pool]]s, the nutrition and feeding of hatchery trout, brood stock...
+> -- *[[CareAndDiseasesOfTrout_13966]]*
+
+### Mentioned In
+- [[CareAndDiseasesOfTrout_13966]]
+
 ## Ocyurus chrysurus
 
 ### Context
@@ -1292,6 +1316,18 @@ The U.S. Department of the Interior agency that funded this study (OWRT Project 
 ### Mentioned In
 - [[WaterQualityAndNutrientDynamic_16421]]
 
+## Office of Water Resources
+
+### Summary
+A funding body for the Standing Committee's guideline series. The source says the series was implemented mainly by statutory river management authorities.
+
+### Context
+> This 1990 guideline, published for the [[Standing Committee on Rivers and Catchments]] by the Department of Conservation & Environment (Victoria), provides a basic introduction to river morphology and ecology and describes the environmental effects of common river management works. It is intended...
+> -- *[[EnvironmentalGuidelinesForRive_12818]]*
+
+### Mentioned In
+- [[EnvironmentalGuidelinesForRive_12818]]
+
 ## Offshore Intake
 
 ### Summary
@@ -1461,6 +1497,18 @@ A change in Ohio's stream fish fauna from 1750 to 1950, summarized by Trautman (
 ### Mentioned In
 - [[TheInfluencesOfInorganicSedime_17590]]
 
+## Ohio Fisheries
+
+### Summary
+The fisheries of the State of Ohio, which supplied more than half of the Lake Erie perch catch throughout the record. Its share of the United States catch rose from 77.8% in 1885–99 to 93.1% in recent years. Ohio's 1929 change in minimum size and its 1934 record catch of about 13 million pounds are discussed in the source.
+
+### Context
+> This Fishery Bulletin (No. 70, Fish and Wildlife Service, Volume 52, 1952) by Frank W. Jobes examines the [[American Yellow Perch]] (*Perca flavescens*) of [[Lake Erie]]. It combines a 1885–1947 commercial production record with a critical test of [[Scale Method]] age determination, body-scale...
+> -- *[[AgeGrowthAndProductionOfYellow_19742]]*
+
+### Mentioned In
+- [[AgeGrowthAndProductionOfYellow_19742]]
+
 ## Ohio Lamprey
 
 ### Summary
@@ -1540,6 +1588,9 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This literature review, prepared by Eric W. Flohrschutz for Dr. W. L. Minckley, compiles available information on the family [[Hiodontidae]], which contains two North American freshwater species: the [[Mooneye]] (*Hiodon tergisus*) and the [[Goldeye]] (*Hiodon alosoides*). The review covers...
 > -- *[[ASummaryOfAvailableInformation_18737]]*
 
+> This 1968 draft by Joseph S. Nelson and Shelby D. Gerking (Department of Zoology, Indiana University, Bloomington; Indiana Aquatic Research Unit, Project 342-303-815) is an annotated dichotomous key for identifying the fishes present in, or recorded from, [[Indiana]]. It combines recent...
+> -- *[[AnnotatedKeyToTheFishesOfIndia_19632]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -1568,6 +1619,19 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[TheLifeHistoryOfTheSpottailDar_18381]]
 - [[FishesOfTheLowerGreenRiverDrai_16821]]
 - [[ASummaryOfAvailableInformation_18737]]
+- [[AnnotatedKeyToTheFishesOfIndia_19632]]
+
+## Ohio River Basin
+
+### Summary
+The Ohio River Basin is the area from which the Asiatic clam spread into Tennessee, reaching Cincinnati and other sites, and it is where the report places all specimens in a single species, Corbicula manillensis.
+
+### Context
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
+### Mentioned In
+- [[FurtherStudiesOnTheIntroducedA_19003]]
 
 ## Ohio River Drainage
 <!-- fm: auto_enriched: true -->
@@ -1934,6 +1998,9 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 > This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
 > -- *[[RareAndEndangeredVertebratesAn_11494]]*
 
+> This monograph-style study by Austin B. Williams revises the freshwater crayfish fauna of the mountainous Ozark Plateaus and Ouachita Provinces of [[Missouri]], [[Arkansas]], [[Oklahoma]] and southeastern [[Kansas]]. The region holds 31 known species and subspecies in three genera of the subfamily...
+> -- *[[SpeciationAndDistributionOfThe_12069]]*
+
 ### Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[RegionEndangeredSpeciesActIntr_11825]]
@@ -1943,6 +2010,7 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
 - [[FishesOfOklahoma_16566]]
 - [[RareAndEndangeredVertebratesAn_11494]]
+- [[SpeciationAndDistributionOfThe_12069]]
 
 ## Oklahoma Biological Survey
 
@@ -2176,6 +2244,9 @@ Oklahoma State University was the institution where this research on fish bioass
 > This 1963 doctoral dissertation by Richard James Graham (Department of Zoology, [[Oklahoma State University]]) tests whether [[Oil Refinery Effluent]] harms fish when exposed for extended periods, a question that standard short-term tests cannot answer. Using [[Fathead Minnow]] as the test...
 > -- *[[LongtermToxicityBioassayOfOilR_19191]]*
 
+> This 1977 Bureau of Reclamation technical report (REC-ERC-77-6), prepared by the Oklahoma Water Resources Research Institute at Oklahoma State University, evaluates the [[Garton Pump]], a low-energy, large-diameter axial-flow device that pumps surface water downward to destratify and reaerate...
+> -- *[[PhysicochemicalAndBiologicalCo_16925]]*
+
 ### Mentioned In
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[EvaluationAndRelativeResistanc_19097]]
@@ -2184,6 +2255,7 @@ Oklahoma State University was the institution where this research on fish bioass
 - [[AGeneticAnalysisOfAHybridSwarm_17485]]
 - [[AComparativeStudyOfTheWeberian_19005]]
 - [[LongtermToxicityBioassayOfOilR_19191]]
+- [[PhysicochemicalAndBiologicalCo_16925]]
 
 ## Oklahoma Wildlife Conservation Department
 
@@ -2577,6 +2649,9 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 > This Alabama Department of Conservation Fisheries Report (Number 2, March 1955), by fisheries biologists [[A. D. Hooper]] and [[J. M. Hester]], assesses the damage to streams in North Alabama caused by agricultural insecticides applied to cotton during the 1950 [[Boll Weevil]] infestation. Heavy...
 > -- *[[AStudyOfThirtysixStreamsThatWe_19907]]*
 
+> This Bureau of Reclamation technical report (REC-ERC-81-10, July 1981) presents the baseline limnological characterization of four reservoirs in series on the [[North Platte River]] in Wyoming: [[Seminoe Reservoir]], [[Kortes Reservoir]], [[Pathfinder Reservoir]], and [[Alcova Reservoir]]. Surveys...
+> -- *[[LimnologyOfTheUpperNorthPlatte_20516]]*
+
 ### Mentioned In
 - [[OnAnInterestingPhilippineSpeci_1970_05_27]]
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
@@ -2586,6 +2661,7 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 - [[DistributionAndAbundanceOfBent_13853]]
 - [[LimnologicalReconnaissanceOfSe_12640]]
 - [[AStudyOfThirtysixStreamsThatWe_19907]]
+- [[LimnologyOfTheUpperNorthPlatte_20516]]
 
 ## Oligocottus Maculosus
 <!-- fm: auto_enriched: true -->
@@ -4085,8 +4161,12 @@ Opsanus tau is the scientific name for the oyster toadfish, a marine fish specie
 > This taxonomic paper describes two new species of parasitic crustaceans in the genus [[Argulus]] from the eastern United States. [[Argulus meehani]] was collected from [[Florida Gar]] ([[Lepisosteus platyrhynchus]]) in [[Everglades National Park]], Florida, while [[Argulus chesapeakensis]] was...
 > -- *[[TwoNewArgulidsCopepodaBranchur_18010]]*
 
+> This 1949 Fish and Wildlife Service Special Scientific Report, by Walter A. Chipman and Paul S. Galtsoff, was prepared at the request of the US Navy Bureau of Ships. It tests whether crude oil and other oils, anchored on the bottom by [[Carbonized Sand]], remain toxic to marine organisms....
+> -- *[[EffectsOfOilMixedWithCarbonize_16141]]*
+
 ### Mentioned In
 - [[TwoNewArgulidsCopepodaBranchur_18010]]
+- [[EffectsOfOilMixedWithCarbonize_16141]]
 
 ## Opthof and Leydesdorff
 
@@ -4139,6 +4219,18 @@ The optical method is the second particle-sizing technique used in the study. It
 - [[FoodHabitsOfLakeTrou_17691]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[TrophicEcologyOfTheCichlidMorp_21141]]
+
+## Optimality Models
+
+### Summary
+Models that assume animals position themselves to maximize a benefit such as net energy gain. In this study, the author tested whether observed fish velocity use matched the velocity predicted to maximize net energy gain. Dace and trout held positions near their energetic optima, and the author concluded capture success could approximate that optimum.
+
+### Context
+> This 1989 University of Georgia doctoral dissertation by Jennifer Hill, directed by Gary D. Grossman, examines how stream fishes in Coweeta Creek, North Carolina use microhabitat. It combines four components: a [[Subcutaneous Marking Technique]] for individually identifying fish, a [[Home Range...
+> -- *[[TheEnergeticSignificanceOfMicr_20396]]*
+
+### Mentioned In
+- [[TheEnergeticSignificanceOfMicr_20396]]
 
 ## Optimum Growth Temperature
 
@@ -4406,6 +4498,9 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 > This 1965 Louisiana State University M.S. thesis by [[Dudley Clay Carver]] examines eight centrarchid (sunfish family) species on [[Delta National Wildlife Refuge]], a Gulf of Mexico estuarine delta system in Plaquemines Parish, Louisiana. Fieldwork ran from August 1963 to January 1965. The study...
 > -- *[[EcologicalFactorsAffectingDist_16042]]*
 
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[DistributionHabitatAndAbundanc_1959]]
@@ -4420,6 +4515,7 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 - [[SomeEcologicalStudiesOfNotropi_18546]]
 - [[AverageGrowthRatesAndLengthwei_19941]]
 - [[EcologicalFactorsAffectingDist_16042]]
+- [[FisheriesInvestigationsAndSurv_14936]]
 
 ## Orangethroat Darter
 <!-- fm: auto_enriched: true -->
@@ -4617,12 +4713,16 @@ Orchonectes is a genus of exotic crayfish that has been introduced to Valle de C
 > This 1970 taxonomic paper by [[Horton H. Hobbs Jr.]] describes two new crayfish species of the genus [[Cambarus]] (Decapoda, Astacidae): [[Cambarus Bouchardi]] from Tennessee and [[Cambarus Cymatilis]] from Georgia. The author argues that [[Cambarus Bouchardi]] is a primitive species linking the...
 > -- *[[NewCrayfishesOfTheGenusCambaru_20415]]*
 
+> This monograph-style study by Austin B. Williams revises the freshwater crayfish fauna of the mountainous Ozark Plateaus and Ouachita Provinces of [[Missouri]], [[Arkansas]], [[Oklahoma]] and southeastern [[Kansas]]. The region holds 31 known species and subspecies in three genera of the subfamily...
+> -- *[[SpeciationAndDistributionOfThe_12069]]*
+
 ### Mentioned In
 - [[ANewFaxonellaFromNortheastLoui_1968_12_30]]
 - [[ZurTagesperiodikVonNiphargusAq_15503]]
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
 - [[ANewCrayfishOfTheGenusFallicam_20420]]
 - [[NewCrayfishesOfTheGenusCambaru_20415]]
+- [[SpeciationAndDistributionOfThe_12069]]
 
 ## Orconectes Australis
 <!-- fm: auto_enriched: true -->
@@ -5315,6 +5415,9 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > This technical report, by Peter L. Warren and L. Susan Anderson (January 1987, [[Quitobaquito Science Series]] No. 3), documents vegetation change around the spring complex at [[Quitobaquito Spring]], [[Organ Pipe Cactus National Monument]], after domestic livestock were removed from the monument...
 > -- *[[VegetationRecoveryFollowingLiv_14904]]*
 
+> This final 1980 report covers the vegetation and flora component of a long-term biological survey of the [[George Whittell Wildlife Preserve]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife Trust and began on 15 May 1979. Its objectives were to map...
+> -- *[[ProgressReportForTheBiological_19814]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionRemovalOfIntr_1990_05_30]]
@@ -5348,6 +5451,7 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[StatusOfCyprinodonMaculariusEr_15416]]
 - [[ABehavioralAndEcologicalStudyO_17972]]
 - [[VegetationRecoveryFollowingLiv_14904]]
+- [[ProgressReportForTheBiological_19814]]
 
 ## Organ Pipe National Monument
 
@@ -7009,8 +7113,12 @@ Otoliths are calcified structures in the inner ear of fishes, used to estimate a
 > This 1993 study proposal by Christopher R. Reimus sets out a morphometric plan to test whether shape changes in the [[Razorback Sucker]] (*Xyrauchen texanus*) are simply the consequence of changes in size. The work uses [[Static Allometry]] (differences among same-stage individuals of different...
 > -- *[[StaticAndOntogenicAllometryInT_16811]]*
 
+> This Canadian Special Publication (Fisheries and Aquatic Sciences 60, 1982) is a laboratory manual by [[Doris E. Chilton]] and [[Richard J. Beamish]] of the Pacific Biological Station, Nanaimo, B.C. It describes methods and equipment for estimating the ages of groundfish species off Canada's west...
+> -- *[[AgeDeterminationMethodsForFish_16137]]*
+
 ### Mentioned In
 - [[StaticAndOntogenicAllometryInT_16811]]
+- [[AgeDeterminationMethodsForFish_16137]]
 
 ## Otsego Whitefish
 
@@ -7773,6 +7881,18 @@ Overgrazing is livestock grazing at levels that degrade vegetation and soils. Th
 
 ### Mentioned In
 - [[SurfaceRunoffAndErosionInTheLo_1961]]
+
+## Overstocking
+
+### Summary
+Overstocking means stocking beyond a water body's carrying capacity, which reduces growth and increases mortality. The source cites a Thai village fisheries study that found about 50% of village fisheries were overstocked.
+
+### Context
+> This FAO Fisheries Circular (No. 945, 1999, 89 pp.) characterizes inland fishery enhancements worldwide. It is based on an automated search of the [[Aquatic Sciences and Fisheries Abstracts]] (ASFA) for 1978–1997, cross-checked against the [[FAO Database on Introductions of Aquatic Species]] (DIAS)...
+> -- *[[GlobalCharacterizationOfInland_16308]]*
+
+### Mentioned In
+- [[GlobalCharacterizationOfInland_16308]]
 
 ## Overton
 <!-- fm: auto_enriched: true -->
@@ -8543,8 +8663,12 @@ A profile of dissolved oxygen plotted against distance along a river or estuary,
 > This work established a foundational antibiogram for *C. columnaris* and provided critical groundwork for subsequent *in vivo* efficacy trials in fish disease management, particularly informing the continued clinical use of **[[Oxytetracycline]]** and exploration of **[[Formalin]]**-based treatme...
 > -- *[[DrugSensitivityOfChondrococcus_1969]]*
 
+> This Canadian Special Publication (Fisheries and Aquatic Sciences 60, 1982) is a laboratory manual by [[Doris E. Chilton]] and [[Richard J. Beamish]] of the Pacific Biological Station, Nanaimo, B.C. It describes methods and equipment for estimating the ages of groundfish species off Canada's west...
+> -- *[[AgeDeterminationMethodsForFish_16137]]*
+
 ### Mentioned In
 - [[DrugSensitivityOfChondrococcus_1969]]
+- [[AgeDeterminationMethodsForFish_16137]]
 
 ## Oxytetracycline Marking
 
@@ -8848,9 +8972,13 @@ An upland region in the central United States. The source notes that fishes and 
 > This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
 > -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
 
+> This Illinois Natural History Survey bulletin (Volume 21, Article 4; dated March 1938 on the cover) by [[Herbert H. Ross]] formally describes a large set of new caddisfly species, mostly from [[Illinois Natural History Survey]] collections, supplemented by material from other institutions across...
+> -- *[[DescriptionsOfNearcticCaddisFl_21082]]*
+
 ### Mentioned In
 - [[AlcoholDehydrogenaseVariabilit_1977]]
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
+- [[DescriptionsOfNearcticCaddisFl_21082]]
 
 ## Ozark Stream Ecosystems
 <!-- fm: auto_enriched: true -->

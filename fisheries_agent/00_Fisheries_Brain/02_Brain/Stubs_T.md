@@ -72,6 +72,18 @@ T. E. Dowling was a Professor and co-investigator on this 1990 Arizona State Uni
 ### Mentioned In
 - [[AsuCostProposalForGilaTaxonomy_18173]]
 
+## T. Hardy
+
+### Summary
+A participant named in this source who presents the analysis methods at Workshop #1 of the habitat suitability index curve project.
+
+### Context
+> This document is a project package issued by [[BIO/WEST Inc]] on December 12, 1986, to participants in a contract from the [[U.S. Fish and Wildlife Service]] (FWS). The contract aims to produce habitat suitability index (SI) curves for [[Colorado Squawfish]], [[Humpback Chub]] and [[Razorback...
+> -- *[[DevelopmentOfHabitatSuitabilit_13604]]*
+
+### Mentioned In
+- [[DevelopmentOfHabitatSuitabilit_13604]]
+
 ## T. J. Trelease
 <!-- fm: auto_enriched: true -->
 
@@ -429,6 +441,18 @@ The table in the source listing annual maximum water elevations for Norris Reser
 
 ### Mentioned In
 - [[RelationOfChemicalStructureToF_14435]]
+
+## Tack
+
+### Summary
+Tack refers to a 1941 study of the crayfish Orconectes immunis, one of the few crayfish species in the region with sustained life-history work. The source cites it as a key source of life-history information.
+
+### Context
+> This monograph-style study by Austin B. Williams revises the freshwater crayfish fauna of the mountainous Ozark Plateaus and Ouachita Provinces of [[Missouri]], [[Arkansas]], [[Oklahoma]] and southeastern [[Kansas]]. The region holds 31 known species and subspecies in three genera of the subfamily...
+> -- *[[SpeciationAndDistributionOfThe_12069]]*
+
+### Mentioned In
+- [[SpeciationAndDistributionOfThe_12069]]
 
 ## Tacoma Narrows
 <!-- fm: auto_enriched: true -->
@@ -1161,6 +1185,9 @@ The Tallapoosa River in Alabama was one of the collection sites for adult thread
 > This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Technical Report 111, by [[Richard A. Winstead]], June 1997) documents the methods and accuracy of the [[Statewide Riparian Inventory and Mapping]] (SRIM) project for riparian vegetation along perennial...
 > -- *[[StatewideRiparianInventoryAndM_20779]]*
 
+> This 1998 assessment, sponsored by [[The Wildlands Project]] and authored by Gary Paul Nabhan and Andrew R. Holdsworth, characterizes the biodiversity of the [[Sonoran Desert]] bioregion and evaluates threats and the adequacy of current protection. It compiles surveys of 54 field scientists who...
+> -- *[[StateOfTheDesertDiomeUniquenes_19471]]*
+
 ### Mentioned In
 - [[ReconnaissanceSurveyAndInvento_1993]]
 - [[VirginRiverOperationOctober_1988_10_04]]
@@ -1184,6 +1211,7 @@ The Tallapoosa River in Alabama was one of the collection sites for adult thread
 - [[AReviewOfTheLifeHistoryAndStat_20583]]
 - [[RecommendationsForFlowsInTheMi_18351]]
 - [[StatewideRiparianInventoryAndM_20779]]
+- [[StateOfTheDesertDiomeUniquenes_19471]]
 
 ## Tamarix
 <!-- fm: auto_enriched: true -->
@@ -1243,8 +1271,12 @@ Tamarix gallica (tamarisk) is a woody plant species that was present along the s
 > - **Primary habitat**: Perennial reach of [[Cocio Wash]] downstream of mine seepage inputs, supporting a "normal biological community." - **Riparian vegetation**: dense stands of [[Tamarix Pentandra]] (tamarisk/saltcedar), *Salix* sp. (willows), and *Typha angustifolia* (cattails). - **Co-occurri...
 > -- *[[APhysicoChemicalAndBiologicalA_1974_05_30]]*
 
+> This final 1980 report covers the vegetation and flora component of a long-term biological survey of the [[George Whittell Wildlife Preserve]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife Trust and began on 15 May 1979. Its objectives were to map...
+> -- *[[ProgressReportForTheBiological_19814]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
+- [[ProgressReportForTheBiological_19814]]
 
 ## Tamarix ramosissima
 
@@ -2089,8 +2121,12 @@ Taylor (1966) is the earlier author who placed Tryonia in the subfamily Littorid
 > This systematic paper by [[Jeff Hershler]] and [[Fred G. Thompson]] (Smithsonian Institution and Florida State Museum) examines the anatomy of small freshwater snails of the family [[Hydrobiidae]] from western North America. The authors focus on two predominant southwestern genera, [[Tryonia]] and...
 > -- *[[WesternAmericanHydrobiidaeGast_16713]]*
 
+> This 1973 Washington State University M.A. thesis in anthropology by James Jerry Landye uses a Late Quaternary nonmarine mollusk assemblage from the former [[Lake Bretz]] (Lower Grand Coulee, Washington) to reconstruct past aquatic environments and to assess the resources available to [[Early Man]]...
+> -- *[[EnvironmentalSignificanceOfLat_12693]]*
+
 ### Mentioned In
 - [[WesternAmericanHydrobiidaeGast_16713]]
+- [[EnvironmentalSignificanceOfLat_12693]]
 
 ## Taylor 1966
 <!-- fm: auto_enriched: true -->
@@ -2177,6 +2213,15 @@ Taylor Draw Dam is a water management structure relevant to Colorado River fish 
 > These are draft minutes of the February 21, 1989 meeting of the [[Implementation Committee]] that oversees the [[Recovery Implementation Program]] for endangered fishes in the Upper Colorado River Basin. The Program is a 15-year, consensus-based effort to recover four fish species while allowing...
 > -- *[[MinutesfebruaryRecoveryImpleme_21004]]*
 
+> This U.S. Fish and Wildlife Service (FWS) memorandum and attached document transmit the revised [[Recovery Action Plan]] (RIPRAP) for the four endangered fishes of the Upper [[Colorado River]] Basin, together with the [[Section 7 Agreement]] it supports. The Recovery Program aims to recover...
+> -- *[[SectionConsultationSufficientP_11751]]*
+
+> This document is a 1996 Fish and Wildlife Service memorandum distributing a revised [[Section 7 Consultation]] agreement and the [[Recovery Implementation Program]] Recovery Action Plan ([[RIPRAP]]). Together they govern recovery of four endangered [[Colorado River Fishes]]: [[Colorado Squawfish]],...
+> -- *[[SectionConsultationSufficientP_11961]]*
+
+> This document is a project package issued by [[BIO/WEST Inc]] on December 12, 1986, to participants in a contract from the [[U.S. Fish and Wildlife Service]] (FWS). The contract aims to produce habitat suitability index (SI) curves for [[Colorado Squawfish]], [[Humpback Chub]] and [[Razorback...
+> -- *[[DevelopmentOfHabitatSuitabilit_13604]]*
+
 ### Mentioned In
 - [[AssessmentOfColoradoSquawfishI_14385]]
 - [[DesertFishesRecoveryTeamMeetin_11195]]
@@ -2189,6 +2234,9 @@ Taylor Draw Dam is a water management structure relevant to Colorado River fish 
 - [[MinutesfebruaryRecoveryImpleme_20999]]
 - [[ManagementGroupMeeting_21008]]
 - [[MinutesfebruaryRecoveryImpleme_21004]]
+- [[SectionConsultationSufficientP_11751]]
+- [[SectionConsultationSufficientP_11961]]
+- [[DevelopmentOfHabitatSuitabilit_13604]]
 
 ## Taylor Draw Reservoir
 <!-- fm: auto_enriched: true -->
@@ -2228,8 +2276,12 @@ The Taylor Grazing Act of 1934 is one of the federal authorities under which the
 > This document is the executive summary of the Rangeland Reform '94 Draft Environmental Impact Statement (EIS), prepared by the [[Bureau of Land Management]] (BLM) and [[Forest Service]] to evaluate proposed changes to federal rangeland management programs across 270 million acres in the western...
 > -- *[[RangelandReformDraftEnvironmen_11710]]*
 
+> This 1991 strategy plan from the [[Bureau of Land Management]] (BLM) Special Status Fishes Team sets out a 10-year program (fiscal years 1991–2000) to maintain, protect, and enhance rare fishes and their habitats on public lands in eleven western states. BLM manages 155,000 miles of fishable...
+> -- *[[SpecialStatusFishesHabitatMana_11698]]*
+
 ### Mentioned In
 - [[RangelandReformDraftEnvironmen_11710]]
+- [[SpecialStatusFishesHabitatMana_11698]]
 
 ## Taylor Park Reservoir
 
@@ -3180,6 +3232,9 @@ A lake in Yosemite at 8,141 ft. The source says the Sacramento sucker is not nat
 > This Cooperative Research Project report (University of Wyoming and Wyoming Game and Fish Commission, October 1961, Jack A. Sinn) examines the [[Brook Trout]] population of [[Libby Lake]], a 25.5 acre subalpine lake in the [[Snowy Range]] of the [[Medicine Bow National Forest]]. It was the first...
 > -- *[[AStudyOfTheBrookTroutInLibbyLa_19004]]*
 
+> This job completion report, prepared for the New Mexico Department of Game and Fish under Federal Aid Project F-22-R-2 (Work Plan 4, Job B-1), is a **progress report** on a multi-season study of [[Alamogordo Reservoir]], one of New Mexico's largest and most fluctuating artificial impoundments. Data...
+> -- *[[BiologicalAndChemicalStudyOfAl_20351]]*
+
 ### Mentioned In
 - [[SomeEffectsOfRotenoneTreatment_1969]]
 - [[PopulationDynamicsOfHerbivorou_13410]]
@@ -3188,6 +3243,7 @@ A lake in Yosemite at 8,141 ft. The source says the Sacramento sucker is not nat
 - [[LimnologicalEffectsOfIntroduci_17912]]
 - [[FisherySurveyOfFontenelleReser_17634]]
 - [[AStudyOfTheBrookTroutInLibbyLa_19004]]
+- [[BiologicalAndChemicalStudyOfAl_20351]]
 
 ## Tendipes
 
@@ -3443,6 +3499,9 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 > This 1984 study by [[Thomas E. Shepard]] and [[Brooks M. Burr]] redescribes the [[Ashy Darter]] (*Etheostoma cinereum*), a large, poorly known endemic of the [[Cumberland River]] and [[Tennessee River]] drainages. The species was historically recorded from 15 tributary systems but has been...
 > -- *[[SystematicsStatusAndLifeHistor_18898]]*
 
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
 ### Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
@@ -3468,6 +3527,7 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 - [[WaterQualityRequirementsForElm_19002]]
 - [[TheLifeHistoryOfTheStripetailD_18382]]
 - [[SystematicsStatusAndLifeHistor_18898]]
+- [[FurtherStudiesOnTheIntroducedA_19003]]
 
 ## Tennessee River Drainage
 <!-- fm: auto_enriched: true -->
@@ -3519,8 +3579,12 @@ A Tennessee state body within the Tennessee Department of Public Health that pub
 > This 1964 technical report by [[Ralph M. Sinclair]] of the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health) assesses the water quality tolerances of the [[Riffle Beetles]] family [[Elmidae]]. It challenges the long-held view that elmids are a strict "clean-water"...
 > -- *[[WaterQualityRequirementsForElm_19002]]*
 
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
 ### Mentioned In
 - [[WaterQualityRequirementsForElm_19002]]
+- [[FurtherStudiesOnTheIntroducedA_19003]]
 
 ## Tennessee Valley
 <!-- fm: auto_enriched: true -->
@@ -3569,6 +3633,9 @@ The Tennessee Valley Authority (TVA) is a major federal agency responsible for m
 > This report summarizes a three-year (June 1950 – July 1, 1953) cooperative survey by the [[Tennessee Valley Authority]] for the [[Atomic Energy Commission]] on the physical and biological effects of radioactive effluents from the [[Oak Ridge National Laboratory]] on [[White Oak Creek]] and [[White...
 > -- *[[ASummaryOfFindingsOfTheEcologi_12440]]*
 
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -3582,6 +3649,7 @@ The Tennessee Valley Authority (TVA) is a major federal agency responsible for m
 - [[TheInfluenceOfCertainEnvironme_20701]]
 - [[WaterQualityRequirementsForElm_19002]]
 - [[ASummaryOfFindingsOfTheEcologi_12440]]
+- [[FurtherStudiesOnTheIntroducedA_19003]]
 
 ## Tennessee Valley Authority (Tva)
 <!-- fm: auto_enriched: true -->
@@ -4710,6 +4778,18 @@ The Texas Softshell is an introduced turtle species documented at the reservoir 
 ### Mentioned In
 - [[HerpetofaunaOfTheOrmeButtesCha_18586]]
 
+## Texas Technological College
+
+### Summary
+A college in Texas (now Texas Tech University) whose bacteriologist advised the study team to abandon the planned bacterial study of Buffalo Springs Lake. The source names it only in that advisory role.
+
+### Context
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14936]]
+
 ## Texas Troglobitic Water Slater
 
 ### Context
@@ -5390,6 +5470,9 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 > This is a 1997 workshop packet from [[The Nature Conservancy]] (TNC) for a two-day Experts Conservation Workshop, held April 8–9, 1997, in Albuquerque, New Mexico. Its goal is to produce a list of mapped conservation sites in the [[Arizona-New Mexico Mountains Ecoregion]] that, if managed for...
 > -- *[[ArizonanewMexicoMountainsEcore_19594]]*
 
+> This U.S. Fish and Wildlife Service recovery plan, prepared by Donald W. Sada for the Eastern Mohave Desert Fishes Recovery Team, addresses 12 federally listed species of [[Ash Meadows]] in Nevada and California, as well as the candidate species that share their habitat. Ash Meadows is described as...
+> -- *[[RecoveryPlanForTheEndangeredAn_20488]]*
+
 ### Mentioned In
 - [[AssignmentsMadeAtFebruaryMeeti_1992_02_19]]
 - [[AttemptedReEstablish_1969_03_06]]
@@ -5490,6 +5573,7 @@ The Nature Conservancy, as referenced in desert fish conservation literature, is
 - [[PreliminaryFeasibilityStudyFor_16952]]
 - [[HabitatUseByFishesOfTheSanBern_19343]]
 - [[ArizonanewMexicoMountainsEcore_19594]]
+- [[RecoveryPlanForTheEndangeredAn_20488]]
 
 ## The Nature Conservancy Hassayampa Preserve
 
@@ -5591,6 +5675,18 @@ The University of Texas is an academic institution in Texas. This source was pro
 
 ### Mentioned In
 - [[GrassCarp_18266]]
+
+## The Wildlands Project
+
+### Summary
+A conservation organization that sponsored this 1998 assessment of the Sonoran Desert bioregion, which was authored by Gary Paul Nabhan and Andrew R. Holdsworth. The note describes the project as the sponsor of the report, not as a source of findings.
+
+### Context
+> This 1998 assessment, sponsored by [[The Wildlands Project]] and authored by Gary Paul Nabhan and Andrew R. Holdsworth, characterizes the biodiversity of the [[Sonoran Desert]] bioregion and evaluates threats and the adequacy of current protection. It compiles surveys of 54 field scientists who...
+> -- *[[StateOfTheDesertDiomeUniquenes_19471]]*
+
+### Mentioned In
+- [[StateOfTheDesertDiomeUniquenes_19471]]
 
 ## Theba Pisana
 
@@ -5822,6 +5918,18 @@ The thermal barrier is the 60–70 °F water temperature band in which rainbow t
 ### Mentioned In
 - [[DistributionOfWhiteCatfishIcta_16950]]
 
+## Thermal Discharge
+
+### Summary
+A thermal discharge is heated effluent released into a natural water body, here from the once-through cooling system of the Clay Boswell Station coal-fired power plant. The source reports the discharge raised water temperature about 7.2°C above ambient in open-water seasons and about 15°C under winter design conditions, along with elevated copper and sulfate levels.
+
+### Context
+> This EPA Environmental Research Laboratory-Duluth report (EPA-600/3-80-009, January 1980; M. J. Ross and D. B. Siniff, University of Minnesota) uses radio telemetry to study how fish respond to the heated discharge of a coal-fired power plant on the upper [[Mississippi River]] at Cohasset,...
+> -- *[[SpatialDistributionAndTemperat_21087]]*
+
+### Mentioned In
+- [[SpatialDistributionAndTemperat_21087]]
+
 ## Thermal Ecology
 
 ### Summary
@@ -5975,6 +6083,18 @@ The temperature range that fish select when given a choice in a gradient. The re
 ### Mentioned In
 - [[TheExperimentalStudyOfBehaviou_18861]]
 
+## Thermal Preferendum
+
+### Summary
+Thermal preferendum is the temperature a fish species selects or prefers when given a choice in a temperature gradient. In this report, laboratory preference values for yellow perch in the same season (12 to 16°C, Barans and Tubb 1973) were much higher than the winter temperatures perch actually selected in the field (mean 5.4°C), which the authors took as a sign that lab data should be applied to natural systems cautiously.
+
+### Context
+> This EPA Environmental Research Laboratory-Duluth report (EPA-600/3-80-009, January 1980; M. J. Ross and D. B. Siniff, University of Minnesota) uses radio telemetry to study how fish respond to the heated discharge of a coal-fired power plant on the upper [[Mississippi River]] at Cohasset,...
+> -- *[[SpatialDistributionAndTemperat_21087]]*
+
+### Mentioned In
+- [[SpatialDistributionAndTemperat_21087]]
+
 ## Thermal Refugia
 <!-- fm: auto_enriched: true -->
 
@@ -6064,6 +6184,12 @@ Thermal stratification is the formation of distinct horizontal layers of water w
 > This Cooperative Research Project report (University of Wyoming and Wyoming Game and Fish Commission, October 1961, Jack A. Sinn) examines the [[Brook Trout]] population of [[Libby Lake]], a 25.5 acre subalpine lake in the [[Snowy Range]] of the [[Medicine Bow National Forest]]. It was the first...
 > -- *[[AStudyOfTheBrookTroutInLibbyLa_19004]]*
 
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
+> This 1977 Bureau of Reclamation technical report (REC-ERC-77-6), prepared by the Oklahoma Water Resources Research Institute at Oklahoma State University, evaluates the [[Garton Pump]], a low-energy, large-diameter axial-flow device that pumps surface water downward to destratify and reaerate...
+> -- *[[PhysicochemicalAndBiologicalCo_16925]]*
+
 ### Mentioned In
 - [[Eutrophication_1967_05_06]]
 - [[HotSpringsAndFishLife_15318]]
@@ -6076,6 +6202,8 @@ Thermal stratification is the formation of distinct horizontal layers of water w
 - [[BasicSurveyOfLakeMohave_14411]]
 - [[LimnologicalEffectsOfIntroduci_17912]]
 - [[AStudyOfTheBrookTroutInLibbyLa_19004]]
+- [[FisheriesInvestigationsAndSurv_14936]]
+- [[PhysicochemicalAndBiologicalCo_16925]]
 
 ## Thermal Stratification In Lakes
 <!-- fm: auto_enriched: true -->
@@ -6188,6 +6316,9 @@ A thermocline is a distinct layer in a stratified water body where temperature c
 > Fish Bulletin 122 (California Department of Fish and Game, 1963), by Parke H. Young, is a long-term study of the [[Kelp Bass]] (*Paralabrax clathratus*) as a target of the southern California [[Sportboat Fishery]]. It combines 1947-1958 sport-catch logs, dockside verification, tagging (5,817 bass...
 > -- *[[TheKelpBassParalabraxClathratu_20910]]*
 
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
 ### Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[DissolvedOxygenAndTemperatureP_1953]]
@@ -6212,6 +6343,7 @@ A thermocline is a distinct layer in a stratified water body where temperature c
 - [[GlenCanyonReservoirPostimpound_13231]]
 - [[GlenCanyonReservoirPostimpound_14592]]
 - [[TheKelpBassParalabraxClathratu_20910]]
+- [[FisheriesInvestigationsAndSurv_14936]]
 
 ## Thermocline Dynamics
 <!-- fm: auto_enriched: true -->
@@ -6765,6 +6897,18 @@ Thomas Hill Reservoir is a 4,500-acre shallow cooling reservoir (mean depth <12 
 ### Mentioned In
 - [[PossibilitiesForBeneficialUseO_17360]]
 
+## Thomas Jefferson
+
+### Summary
+Cited in the source as one of the historical observers whose accounts describe the Mississippi River as a muddy, sand-barred river with abundant fish, frequent floods, and extensive levees.
+
+### Context
+> This 1951 bulletin from the [[Illinois Natural History Survey]] reports a 1944 and 1946 test-net survey of the commercial and sport fishes of the [[Mississippi River]] over 689 river miles, sampled at 31 stations. The authors, [[Paul G. Barnickol]] and [[William C. Starrett]], combine survey data...
+> -- *[[CommercialAndSportFishesOfTheM_15601]]*
+
+### Mentioned In
+- [[CommercialAndSportFishesOfTheM_15601]]
+
 ## Thomas K. Chamberlain
 <!-- fm: auto_enriched: true -->
 
@@ -6777,6 +6921,18 @@ Thomas Hill Reservoir is a 4,500-acre shallow cooling reservoir (mean depth <12 
 
 ### Mentioned In
 - [[ForeignIntroductionsOfNorthAme_15556]]
+
+## Thomas Nuttall
+
+### Summary
+Thomas Nuttall was a naturalist whose 1835 expedition collected specimens from the region. The source includes his collections in its review of early work on nonmarine mollusks in the Pacific Northwest. It does not give details of his findings.
+
+### Context
+> This 1973 Washington State University M.A. thesis in anthropology by James Jerry Landye uses a Late Quaternary nonmarine mollusk assemblage from the former [[Lake Bretz]] (Lower Grand Coulee, Washington) to reconstruct past aquatic environments and to assess the resources available to [[Early Man]]...
+> -- *[[EnvironmentalSignificanceOfLat_12693]]*
+
+### Mentioned In
+- [[EnvironmentalSignificanceOfLat_12693]]
 
 ## Thomas Park
 <!-- fm: auto_enriched: true -->
@@ -6892,6 +7048,18 @@ Authors of a 1930 study cited as an early examination of Illinois stream fisheri
 ### Mentioned In
 - [[DistributionOfTheFishesOfBoone_14736]]
 - [[ToleranceOfHeadwaterVsMainstre_15191]]
+
+## Thompson and Hunt Survey
+
+### Summary
+The second county fish survey, made in 1928 with 126 stations and about 74 species recorded. It used standardized seining and quantitative sampling, and the 1959 authors modeled their methods on it. Thompson and Hunt estimated the 1928 standing crop at about 150 pounds per acre.
+
+### Context
+> This Illinois Natural History Survey bulletin (March 1963, Vol. 28, Art. 2) by R. Weldon Larimore and Philip W. Smith compares three fish surveys of [[Champaign County]], Illinois, made in 1899 ([[Forbes and Richardson Survey]]), 1928 ([[Thompson and Hunt Survey]]), and 1959 ([[Larimore and Smith...
+> -- *[[TheFishesOfChampaignCountyIlli_12724]]*
+
+### Mentioned In
+- [[TheFishesOfChampaignCountyIlli_12724]]
 
 ## Thompson And Hutson 1951
 <!-- fm: auto_enriched: true -->
@@ -7313,6 +7481,18 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > This study reports the life history, population dynamics and ecological role of [[Gizzard Shad]] (*Dorosoma cepedianum*) in [[Elephant Butte Lake]], a mainstream reservoir on the [[Rio Grande]] in south-central New Mexico. The analysis draws on 7,477 fish collected between June 1, 1964, and...
 > -- *[[LifeHistoryAndEcologyOfTheGizz_19739]]*
 
+> This U.S. [[Bureau of Reclamation]] draft environmental assessment (EA) and plan, dated January 1999, evaluates modifying the intakes of [[Glen Canyon Dam]] so that the release temperature of the Colorado River can be managed. Cold releases (about 8–10°C) from the dam's deep power intakes are...
+> -- *[[GlenCanyonDamModificationsToCo_11454]]*
+
+> Fish Bulletin 133 (California Department of Fish and Game, 1966), compiled by D. W. Kelley, is Part I of a series of studies on the [[Sacramento-San Joaquin Estuary]]. It was produced under the Delta Fish and Wildlife Protection Study, organized in 1961 to assess how future water development would...
+> -- *[[EcologicalStudiesOfTheSacramen_17921]]*
+
+> This 1968 draft by Joseph S. Nelson and Shelby D. Gerking (Department of Zoology, Indiana University, Bloomington; Indiana Aquatic Research Unit, Project 342-303-815) is an annotated dichotomous key for identifying the fishes present in, or recorded from, [[Indiana]]. It combines recent...
+> -- *[[AnnotatedKeyToTheFishesOfIndia_19632]]*
+
+> This job completion report, prepared for the New Mexico Department of Game and Fish under Federal Aid Project F-22-R-2 (Work Plan 4, Job B-1), is a **progress report** on a multi-season study of [[Alamogordo Reservoir]], one of New Mexico's largest and most fluctuating artificial impoundments. Data...
+> -- *[[BiologicalAndChemicalStudyOfAl_20351]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -7481,6 +7661,10 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[AssessmentOfAForageFishIntrodu_17854]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
 - [[LifeHistoryAndEcologyOfTheGizz_19739]]
+- [[GlenCanyonDamModificationsToCo_11454]]
+- [[EcologicalStudiesOfTheSacramen_17921]]
+- [[AnnotatedKeyToTheFishesOfIndia_19632]]
+- [[BiologicalAndChemicalStudyOfAl_20351]]
 
 ## Threadfin Shad Introduction
 <!-- fm: auto_enriched: true -->
@@ -8988,6 +9172,9 @@ Tilapia aurea, commonly known as the blue tilapia, is a cichlid species native t
 > This review by [[Salvador Contreras-Balderas]] examines how the fish fauna of the [[Chihuahuan Desert]] arose and why it is disappearing. The region holds 107 native species, mostly of northern origin, distributed across interior drainages that once belonged to the former Rio Bravo system. The...
 > -- *[[SpeciationAspectsAndManmadeCom_17519]]*
 
+> This document is an archival bundle of letters, specimen invoices, loan notices, handwritten notes and a diagnostic character sheet. It concerns the taxonomy and distribution of *Cyprinodon* pupfishes, especially the Chihuahuan populations in the [[Guzman Basin]] and surrounding drainages. Most of...
+> -- *[[VariousCyprinodonInformationHa_15304]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[EvaluationOfThePotentialOfTila_15172]]
@@ -8997,6 +9184,7 @@ Tilapia aurea, commonly known as the blue tilapia, is a cichlid species native t
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[CichlidaeOfTheGenusTilapiaInIs_16408]]
 - [[SpeciationAspectsAndManmadeCom_17519]]
+- [[VariousCyprinodonInformationHa_15304]]
 
 ## Tilapia Ecology
 <!-- fm: auto_enriched: true -->
@@ -9329,6 +9517,18 @@ Timothy Modde is the author of this manuscript, affiliated with the Colorado Riv
 
 ### Mentioned In
 - [[OccurrenceOfSubadultRazorbackS_16531]]
+
+## Timothy R. O'Connell Jr.
+
+### Summary
+Timothy R. O'Connell Jr. is a co-author who led the benthic macroinvertebrate work with Robert S. Campbell. That work compared standing crop and production in the river and in Clearwater Lake.
+
+### Context
+> The Black River Studies is a seven-part 1953 monograph by [[Missouri Conservation Commission]] and [[University of Missouri]] Wildlife Research Unit biologists. It combines a pre-impoundment survey of a Missouri Ozark stream (Black River, 1947) with post-impoundment monitoring of the same reach...
+> -- *[[TheBlackRiverStudies_18895]]*
+
+### Mentioned In
+- [[TheBlackRiverStudies_18895]]
 
 ## Timpoweap Canyon
 <!-- fm: auto_enriched: true -->
@@ -10014,6 +10214,18 @@ The Tombstone Gage is USGS station 09471550, on the San Pedro River near Tombsto
 ### Mentioned In
 - [[SanPedroWaterDischargeData_13219]]
 
+## Tombstone Gaging Station
+
+### Summary
+A USGS stream gage on the San Pedro River near Tombstone (station 09471550) that records river discharge. The source reports a period-of-record maximum of 18,500 cfs on July 20, 1974, and an average of about 40–41 cfs over the 1970s.
+
+### Context
+> This document is a compiled series of U.S. Geological Survey (USGS) surface-water station records from the Gila River Basin in Arizona, Water Years 1904–1978 for the principal station. It covers the San Pedro River at [[Charleston Gaging Station]] (Station 09471000), the San Pedro River near...
+> -- *[[SanPedroWaterDischargeDataTake_13218]]*
+
+### Mentioned In
+- [[SanPedroWaterDischargeDataTake_13218]]
+
 ## Tombstone Hills
 <!-- fm: auto_enriched: true -->
 
@@ -10198,6 +10410,12 @@ A proposed reservoir with 840,000 acre-feet capacity at 190 ft, discussed in the
 > This 1935 U.S. Bureau of Fisheries report by M. J. Madsen surveys the streams and reservoir lakes of the [[Tonto National Forest]] in Arizona. Its purpose is to collect physical, chemical, and biological data so that fish species, size, and numbers can be matched to each water body before stocking....
 > -- *[[ABiologicalSurveyOfStreamsAndL_19339]]*
 
+> This pair of Arizona Game and Fish Department completion reports (Project F-7-R-8, Work Plans for 1965, by Louis H. Carufel) evaluates two linked programs. Job R-4 is a predevelopment survey of nine proposed lake sites, gathered to estimate the fish production of planned impoundments and to rank...
+> -- *[[WatershedFisheriesSurveyPredev_16040]]*
+
+> This document is the transmittal package and river data summaries for the Arizona component of the [[Nationwide Rivers Inventory]], issued by the [[National Park Service]] Western Region in April 1982 (list dated January 1982). It covers 14 Arizona rivers or river segments that were judged to be...
+> -- *[[TheNationwideRiversInventoryAr_19590]]*
+
 ### Mentioned In
 - [[FactorsInfluencingFishDistribu_15011]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -10210,6 +10428,8 @@ A proposed reservoir with 840,000 acre-feet capacity at 190 ft, discussed in the
 - [[NativeArizonaFishesPartLivebea_18575]]
 - [[SurveysForLoachMinnowInBigBoni_20266]]
 - [[ABiologicalSurveyOfStreamsAndL_19339]]
+- [[WatershedFisheriesSurveyPredev_16040]]
+- [[TheNationwideRiversInventoryAr_19590]]
 
 ## Tonto Creek State Hatchery
 <!-- fm: auto_enriched: true -->
@@ -11123,6 +11343,18 @@ Toxaphene is a chlorinated camphene-based insecticide that was employed as a pis
 - [[FishCultureForFunForProfit_11333]]
 - [[ToxicologyOfTiodanInSeveralFis_20589]]
 
+## Toxic Layer
+
+### Summary
+A seasonal, spreading layer of poor-quality water in Buffalo Springs Lake that held hydrogen sulfide, ammonia and low dissolved oxygen. The report identifies it as the main cause of fish mortality in 1964, typically sitting near 18 feet deep and following temperature breaks of 3°F or more.
+
+### Context
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14936]]
+
 ## Toxic Substances
 
 ### Summary
@@ -11389,9 +11621,13 @@ A water-diversion facility, part of the Central Valley Project, on Old River in 
 > This California Department of Fish and Game report (Fish Bulletin 151, 1970, by Richard J. Hallock, Robert F. Elwell and Donald H. Fry, Jr.) examines why [[San Joaquin River]] salmon runs collapsed after 1961 while [[Sacramento River]] runs did not. The authors attribute the collapse to an annually...
 > -- *[[MigrationsOfAdultKingSalmonOnc_20982]]*
 
+> Fish Bulletin 133 (California Department of Fish and Game, 1966), compiled by D. W. Kelley, is Part I of a series of studies on the [[Sacramento-San Joaquin Estuary]]. It was produced under the Delta Fish and Wildlife Protection Study, organized in 1961 to assess how future water development would...
+> -- *[[EcologicalStudiesOfTheSacramen_17921]]*
+
 ### Mentioned In
 - [[DistributionOfStripedBassFryIn_17336]]
 - [[MigrationsOfAdultKingSalmonOnc_20982]]
+- [[EcologicalStudiesOfTheSacramen_17921]]
 
 ## Tracy, California
 <!-- fm: auto_enriched: true -->
@@ -11703,6 +11939,9 @@ Trammel nets are passive fishing gear consisting of multiple layers of netting w
 > This annual report from [[BIO/WEST Inc]] for the [[Southern Nevada Water Authority]] (SNWA) and the [[Nevada Division of Wildlife]] (NDOW) covers the first year (October 1996 to June 1997) of a multi-year study of the [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mead]]. Unlike other lower...
 > -- *[[RazorbackSuckerStudiesOnLakeMe_20464]]*
 
+> This draft Data Collection Plan (June 15, 1995), prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] Upper Colorado River Region, documents the field, handling, telemetry, habitat, drift, hydrology, water-quality and data-management methods used in a study of the endangered [[Humpback...
+> -- *[[LifeHistoryAndEcologyOfTheHump_17640]]*
+
 ### Mentioned In
 - [[LakeMohaveSampling_1987_10_01]]
 - [[ImperialPondsConservationAreaA_2020]]
@@ -11716,6 +11955,7 @@ Trammel nets are passive fishing gear consisting of multiple layers of netting w
 - [[GrowthAndSurvivalOfColoradoSqu_18352]]
 - [[RazorbackSuckerStudiesOnLakeMe_19873]]
 - [[RazorbackSuckerStudiesOnLakeMe_20464]]
+- [[LifeHistoryAndEcologyOfTheHump_17640]]
 
 ## Trans-Alaska Pipeline
 
@@ -11919,9 +12159,13 @@ A trap net is a passive fishing gear that guides fish into an enclosed pocket, h
 > This student report estimates the [[Age Determination|age]] and growth history of [[Walleye]] (*Stizostedion vitreum*) in [[Apache Lake]], Arizona, using the [[Scale Method]]. Twenty fish were sampled in March 1976. Scale-derived back-calculations show that females grew faster than males in every...
 > -- *[[AgeAndGrowthOfTheApacheLakeWal_18185]]*
 
+> This Fishery Bulletin (No. 70, Fish and Wildlife Service, Volume 52, 1952) by Frank W. Jobes examines the [[American Yellow Perch]] (*Perca flavescens*) of [[Lake Erie]]. It combines a 1885–1947 commercial production record with a critical test of [[Scale Method]] age determination, body-scale...
+> -- *[[AgeGrowthAndProductionOfYellow_19742]]*
+
 ### Mentioned In
 - [[TheArtificialPropagationOfWall_20615]]
 - [[AgeAndGrowthOfTheApacheLakeWal_18185]]
+- [[AgeGrowthAndProductionOfYellow_19742]]
 
 ## Trap Resistance
 <!-- fm: auto_enriched: true -->
@@ -11993,6 +12237,18 @@ A floating log or cable barrier placed in the river to keep debris from damaging
 ### Mentioned In
 - [[RedlandsDamFeasibilityStudyGun_11453]]
 
+## Trashrack Structure
+
+### Summary
+A screening structure at the intake of Glen Canyon Dam that keeps debris out of the water intakes. According to the source, the preferred Proposal 2A reuses this existing structure by removing its top and adding a gate at the penstock intake to control release temperature.
+
+### Context
+> This U.S. [[Bureau of Reclamation]] draft environmental assessment (EA) and plan, dated January 1999, evaluates modifying the intakes of [[Glen Canyon Dam]] so that the release temperature of the Colorado River can be managed. Cold releases (about 8–10°C) from the dam's deep power intakes are...
+> -- *[[GlenCanyonDamModificationsToCo_11454]]*
+
+### Mentioned In
+- [[GlenCanyonDamModificationsToCo_11454]]
+
 ## Trautman 1942
 <!-- fm: auto_enriched: true -->
 
@@ -12019,6 +12275,18 @@ A floating log or cable barrier placed in the river to keep debris from damaging
 
 ### Mentioned In
 - [[AspectsOfTheReproductiveBiolog_1986]]
+
+## Travel Cost Method
+
+### Summary
+An economic valuation approach used in this study to estimate the value anglers place on urban fishing, based on the costs they incur to reach the lakes. The report used it together with the willingness-to-pay approach to assess consumer benefits.
+
+### Context
+> This 1980 Arizona Game and Fish Department Research Branch report (Federal Aid in Sportfish Restoration Project F-14-R, authors Gary Edwards and Gene Okamoto) evaluates a one-year [[Put-and-Take Fishing]] program on two small urban lakes, [[Chaparral Lake]] (Scottsdale) and [[Lakeside Lake]]...
+> -- *[[FishingInTheCityAnAnalysisOfPr_16252]]*
+
+### Mentioned In
+- [[FishingInTheCityAnAnalysisOfPr_16252]]
 
 ## Traveling Screen
 
@@ -12257,6 +12525,18 @@ Tree hole mosquitoes are species that breed in water-filled cavities in standing
 ### Mentioned In
 - [[TheMosquitoesOfIllinoisDiptera_21083]]
 
+## Tree-of-heaven
+
+### Summary
+Tree-of-heaven (Ailanthus altissima) is a non-native tree. The report notes it was spreading along old-field margins on the east end of the preserve, which makes it a non-native species of concern in the survey.
+
+### Context
+> This final 1980 report covers the vegetation and flora component of a long-term biological survey of the [[George Whittell Wildlife Preserve]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife Trust and began on 15 May 1979. Its objectives were to map...
+> -- *[[ProgressReportForTheBiological_19814]]*
+
+### Mentioned In
+- [[ProgressReportForTheBiological_19814]]
+
 ## Tree-Ring Reconstruction
 
 ### Summary
@@ -12370,6 +12650,18 @@ Tri-sodium phosphate is a chemical solution used at 3 per cent to store whiting 
 
 ### Mentioned In
 - [[GrowthAndFeedingHabitsOfTheWhi_20544]]
+
+## Tri-State Minnow Committee
+
+### Summary
+The Tri-State Minnow Committee was formed at the second annual Tri-State Fishery Conference in 1946 to address the bait minnow supply. Its members included agency biologists from Wisconsin, Minnesota, Michigan and the U.S. Fish and Wildlife Service, and it assembled this bulletin. Its stated aim was to help bait dealers raise their own minnows rather than depend on free-lance seining.
+
+### Context
+> This 1948 U.S. Fish and Wildlife Service circular, prepared by J. R. Dobie, O. L. Meehean, and G. N. Washburn for the Tri-State Fishery Conference, is a practical guide to raising minnows and other bait species in ponds as a commercial venture. It was motivated by a shortage of wild bait minnows,...
+> -- *[[PropagationOfMinnowsAndOtherBa_19046]]*
+
+### Mentioned In
+- [[PropagationOfMinnowsAndOtherBa_19046]]
 
 ## Triaenophorus
 
@@ -12488,11 +12780,15 @@ Tributaries are smaller streams that flow into the main river; in this note, tri
 > This 1993 Arizona Game and Fish Department special report documents two years of radiotelemetry monitoring of hatchery-raised, adult-sized [[Razorback Sucker]] and [[Colorado Squawfish]] released into the upper [[Verde River]], a tributary of the [[Gila River Basin]]. Twenty-four razorbacks and 15...
 > -- *[[MovementsAndHabitatUtilization_15939]]*
 
+> This final report by Edmund J. Wick and John A. Hawkins (Colorado State University, Larval Fish Laboratory, February 1989) documents two winters of radiotelemetry on adult [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the upper [[Yampa River]], Colorado. The work was commissioned under Section...
+> -- *[[ColoradoSquawfishWinterHabitat_12220]]*
+
 ### Mentioned In
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
 - [[UseOfMSInAnesthetizingAndTrans_11291]]
 - [[TheDevelopmentOfAVinylPlasticS_14114]]
 - [[MovementsAndHabitatUtilization_15939]]
+- [[ColoradoSquawfishWinterHabitat_12220]]
 
 ## Tricarboxylic Acid Cycle
 <!-- fm: auto_enriched: true -->
@@ -12568,6 +12864,9 @@ Trichodina is a ciliate protozoan parasite that infests the gills of fish, rangi
 > This paper by [[Justus F. Mueller]], a field naturalist at the [[Roosevelt Wild Life Station]], formally describes a peritrichous ciliate that lives inside the urinary system of the [[Chain Pickerel]] (*Esox niger*) in [[Oneida Lake]], New York. The organism was first published as *Cyclochaeta...
 > -- *[[TrichodinaRenicolaMuellerACili_15477]]*
 
+> This Fish and Wildlife Service Research Report (revised edition, 1946, by H. S. Davis) is a practical manual for [[Trout Hatchery Management]]. It covers the rearing of fingerling trout in troughs, [[Raceway]]s and [[Circular Pool]]s, the nutrition and feeding of hatchery trout, brood stock...
+> -- *[[CareAndDiseasesOfTrout_13966]]*
+
 ### Mentioned In
 - [[AKeyToTheCommonParasiticProtoz_1966_03_01]]
 - [[CatastrophicFishMortalitiesOnK_1965_11_16]]
@@ -12575,6 +12874,7 @@ Trichodina is a ciliate protozoan parasite that infests the gills of fish, rangi
 - [[TheChemicalControlOfSomeDiseas_15950]]
 - [[SomeEffectsOfSupplementalFeedi_20572]]
 - [[TrichodinaRenicolaMuellerACili_15477]]
+- [[CareAndDiseasesOfTrout_13966]]
 
 ## Trichodinella
 <!-- fm: auto_enriched: true -->
@@ -13815,6 +14115,9 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > This 1926 monograph by Norman Hamilton Stewart, published in the [[Bulletin of the Bureau of Fisheries]] (Vol. XLII, Document 1007), examines the life history of the [[White Sucker]] (*[[Catostomus Commersonii]]*) in the Ithaca, New York region. It covers spawning and egg development, larval and...
 > -- *[[DevelopmentGrowthAndFoodHabits_14323]]*
 
+> This second-edition bulletin, produced by the [[Wyoming Game And Fish Commission]] under Federal Aid in Wildlife Restoration Projects W-31-D and W-30-R, argues that the [[American Beaver]] is one of Wyoming's most valuable watershed conservators. Its dams store water, stabilize stream flow, and...
+> -- *[[BeaverManagementAndEcologyInWy_19201]]*
+
 ### Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
 - [[ASummaryOfBigLakeWinterKillStu_18789]]
@@ -13876,6 +14179,7 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[StatewideSurveyOfAndArizonaAng_18682]]
 - [[FishCultureInPennsylvania_11272]]
 - [[DevelopmentGrowthAndFoodHabits_14323]]
+- [[BeaverManagementAndEcologyInWy_19201]]
 
 ## Trout and Salmon
 
@@ -14002,11 +14306,15 @@ A trout fishery is a managed aquatic system, typically in tailwater areas below 
 > This document is a Bureau of Reclamation implementation guide for Phase II of the [[Glen Canyon Environmental Studies]] (GCES). The program assesses how the operation of [[Glen Canyon Dam]] affects downstream natural and recreational resources in the [[Grand Canyon]]. Phase II focuses on two...
 > -- *[[GlenCanyonEnvironmentalStudies_15606]]*
 
+> This Bureau of Reclamation summary covers the Final Environmental Impact Statement (EIS) on the operation of [[Glen Canyon Dam]], which analyzes nine alternative operating regimes for the dam on the [[Colorado River]] through [[Glen Canyon]] and [[Grand Canyon]]. The EIS was commissioned in 1989 to...
+> -- *[[OperationOfGlenCanyonDamFinalE_11725]]*
+
 ### Mentioned In
 - [[InfluenceOfAKentuckyFloodContr_15125]]
 - [[LeesFerryTrophyTroutFishery_18301]]
 - [[LetterConcerningStripedBassThr_1990_06_03]]
 - [[GlenCanyonEnvironmentalStudies_15606]]
+- [[OperationOfGlenCanyonDamFinalE_11725]]
 
 ## Trout Fishery Management
 <!-- fm: auto_enriched: true -->
@@ -14041,6 +14349,18 @@ Trout food habits are the diet composition of trout in the study ponds. The thes
 
 ### Mentioned In
 - [[SomeEffectsOfMechanicalEvapora_20305]]
+
+## Trout Hatchery Management
+
+### Summary
+The practical management of trout rearing in hatcheries, covering fingerling care, ponds and raceways, feeding, brood stock improvement, and disease control. In this 1946 U.S. Fish and Wildlife Service report, H. S. Davis argues that most hatchery losses can be prevented through control of crowding, oxygen and temperature, diet, sanitation, and early diagnosis.
+
+### Context
+> This Fish and Wildlife Service Research Report (revised edition, 1946, by H. S. Davis) is a practical manual for [[Trout Hatchery Management]]. It covers the rearing of fingerling trout in troughs, [[Raceway]]s and [[Circular Pool]]s, the nutrition and feeding of hatchery trout, brood stock...
+> -- *[[CareAndDiseasesOfTrout_13966]]*
+
+### Mentioned In
+- [[CareAndDiseasesOfTrout_13966]]
 
 ## Trout Hatchery Operations
 
@@ -14160,6 +14480,9 @@ Trout stocking is the deliberate introduction of hatchery-reared trout into natu
 > This 1955 New Jersey Division of Fish and Game report (Miscellaneous Report #15, by Roland F. Smith and Richard W. Gross) evaluates whether a [[Fifteen-Inch Minimum Size Limit]] on [[Chain Pickerel]] (*[[Esox Niger]]*) achieved its goals in New Jersey lakes. The regulation took effect in May 1951....
 > -- *[[AnEvaluationOfTheFifteeninchMi_21203]]*
 
+> This Colorado Game and Fish Department report, written by Fish Technician Rex I. Taliaferro and published in 1955, synthesizes warm-water fishery research on [[Jumbo Reservoir]] from 1949 through 1953. The study covered food habits and growth of major game and rough fish, a physical, chemical and...
+> -- *[[WarmWaterFishResearchOnJumboRe_13449]]*
+
 ### Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[TroutPlanting_14377]]
@@ -14169,6 +14492,7 @@ Trout stocking is the deliberate introduction of hatchery-reared trout into natu
 - [[WhatAreTheFisheriesBenefitsFro_18797]]
 - [[ProblemsOfTroutManagement_20744]]
 - [[AnEvaluationOfTheFifteeninchMi_21203]]
+- [[WarmWaterFishResearchOnJumboRe_13449]]
 
 ## Trout Stream
 <!-- fm: auto_enriched: true -->
@@ -14489,6 +14813,9 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 > This review by [[Peter J. Mehringer Jr.]] (Washington State University), published in the [[Desert Research Institute]] symposium volume edited by [[Don D. Fowler]] (1977), synthesizes evidence for the magnitude and chronology of late Quaternary environmental change in the [[Great Basin]]. The...
 > -- *[[GreatBasinLateQuaternaryEnviro_20097]]*
 
+> John Otterbein Snyder's Bureau of Fisheries bulletin (1915–16) is a systematic and ecological survey of the freshwater fishes of the [[Lahontan System]], an endorheic basin of about 40,700 square miles in Nevada and northeastern California. The paper recognizes 15 native species, describes four new...
+> -- *[[TheFishesOfTheLahontanSystemOf_21251]]*
+
 ### Mentioned In
 - [[ASummaryOfTheCuiUiSpawningRun_1994]]
 - [[CommentsOnDraftMarbleBluffFish_1994_02_17]]
@@ -14542,6 +14869,7 @@ The Truckee River is a critical spawning tributary for the endangered cui-ui (*C
 - [[ApplicationOfErosDataToAridReg_13439]]
 - [[EvaluationOfSpawningRunsAtTheM_17121]]
 - [[GreatBasinLateQuaternaryEnviro_20097]]
+- [[TheFishesOfTheLahontanSystemOf_21251]]
 
 ## Truckee River Basin
 <!-- fm: auto_enriched: true -->
@@ -14748,6 +15076,9 @@ Tryonia is a related genus of hydrobiid snails that has been the subject of prev
 > This Smithsonian Scholarly Studies Program proposal requests **$25,966** over two years (Year 1: $14,640; Year 2: $11,326) to study the evolution and biogeography of [[Tryonia]], a genus of small freshwater snails ("[[Springsnails]]") in the family [[Hydrobiidae]]. The project is led by Robert...
 > -- *[[EvolutionOfTheNorthAmericanSpr_20359]]*
 
+> This systematic revision by [[Robert Hershler]] and [[J. Jerry Landye]] describes the hydrobiid snail (springsnail) fauna of Arizona. The authors report 14 species: 12 [[Pyrgulopsis]] and 2 [[Tryonia]]. Thirteen are described as new, and one, *Pyrgulopsis deserta* (Pilsbry), is previously known....
+> -- *[[ArizonaHydrobiidaeProsobranchi_20352]]*
+
 ### Mentioned In
 - [[PhylogenyOfPyrgulopsisSpringsn_16724]]
 - [[FreshwaterMollusksFromNewMexic_13497]]
@@ -14756,6 +15087,7 @@ Tryonia is a related genus of hydrobiid snails that has been the subject of prev
 - [[BiogeographyInTheDeathValleyRe_20354]]
 - [[PhylogenyOfPyrgulopsisSpringsn_20361]]
 - [[EvolutionOfTheNorthAmericanSpr_20359]]
+- [[ArizonaHydrobiidaeProsobranchi_20352]]
 
 ## Tryonia alamosae
 
@@ -15050,6 +15382,18 @@ Tubificidae are a family of small, aquatic oligochaete worms (segmented worms) c
 - [[HydrobiologicalAndIchthyologic_12963]]
 - [[TheDistributionOfTheMidgeChiro_20216]]
 
+## Tubularia Crocea
+
+### Summary
+Tubularia crocea is a pink-colored hydroid, a colonial relative of jellyfish that grows on pilings. In this study it was the most sensitive test species, with nearly all hydranths dying within 24 hours at oil-to-sea-water ratios of 1:20 and 1:40. Oil-sand mixtures in running water also caused toxic effects within 48 hours, while oil kept away from the organisms and diluted caused no observed harm.
+
+### Context
+> This 1949 Fish and Wildlife Service Special Scientific Report, by Walter A. Chipman and Paul S. Galtsoff, was prepared at the request of the US Navy Bureau of Ships. It tests whether crude oil and other oils, anchored on the bottom by [[Carbonized Sand]], remain toxic to marine organisms....
+> -- *[[EffectsOfOilMixedWithCarbonize_16141]]*
+
+### Mentioned In
+- [[EffectsOfOilMixedWithCarbonize_16141]]
+
 ## Tuckasegee Darter
 
 ### Summary
@@ -15125,6 +15469,9 @@ Tucson is a major city in central Arizona served by the Central Arizona Project 
 > This 1854 report by [[John G. Parke]], Lieutenant of the Corps of Topographical Engineers, documents a survey for a railroad route to the Pacific between the [[Rio Grande]] (near [[Dona Ana]]) and the [[Gila River]] (at the Pimas villages). The survey was authorized under War Department...
 > -- *[[ReportOfExplorationsForThatPor_18430]]*
 
+> This draft master plan, prepared by the [[U.S. Fish and Wildlife Service]] (Region 2, Albuquerque, November 1986), sets out management for the [[Buenos Aires National Wildlife Refuge]] in the Altar Valley of southeastern Arizona. The refuge, established August 11, 1985, covers about 112,000 acres...
+> -- *[[DraftMasterPlanForBuenosAiresN_13322]]*
+
 ### Mentioned In
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
 - [[EndangeredCactusOffersNbsOppor_13220]]
@@ -15133,6 +15480,7 @@ Tucson is a major city in central Arizona served by the Central Arizona Project 
 - [[DraftOfForwardForBookBattleAga_13788]]
 - [[WealthFromWastedWaters_15218]]
 - [[ReportOfExplorationsForThatPor_18430]]
+- [[DraftMasterPlanForBuenosAiresN_13322]]
 
 ## Tucson Active Management Area
 
@@ -15275,6 +15623,18 @@ Tufa is a spring-deposited carbonate rock. The authors identify it by fossilized
 
 ### Mentioned In
 - [[PaleohydrologyOfTheSouthernGre_12116]]
+
+## Tufa Deposits
+
+### Summary
+Tufa deposits are calcium carbonate formations that line parts of the Lahontan basin, including Pyramid Lake. According to this source, they record changes in lake chemistry over time, as a result of the basin's past lake levels.
+
+### Context
+> John Otterbein Snyder's Bureau of Fisheries bulletin (1915–16) is a systematic and ecological survey of the freshwater fishes of the [[Lahontan System]], an endorheic basin of about 40,700 square miles in Nevada and northeastern California. The paper recognizes 15 native species, describes four new...
+> -- *[[TheFishesOfTheLahontanSystemOf_21251]]*
+
+### Mentioned In
+- [[TheFishesOfTheLahontanSystemOf_21251]]
 
 ## Tufa Stone Tank
 <!-- fm: auto_enriched: true -->
@@ -15776,6 +16136,18 @@ A fossil site in the Las Vegas Valley that yielded pollen and plant remains used
 - [[SomeNotesOnTheLateQuaternaryBi_20095]]
 - [[PollenAnalysisOfTheFullglacial_17070]]
 
+## Tule Springs Site
+
+### Summary
+An archaeological and paleoenvironmental locality in the Las Vegas Valley of southern Nevada, where alluvium, a playa lake deposit and spring mounds were sampled for fossil pollen. Mehringer's study reconstructs vegetation history from the site's sediments over Wisconsin and Recent time.
+
+### Context
+> This Nevada State Museum Anthropological Paper (No. 13, Part 3, October 1967) by Peter J. Mehringer, Jr., reports a fossil and modern pollen study of the [[Tule Springs Site]] in the [[Las Vegas Valley]], southern Nevada. The arid sediments yielded pollen only sparsely, but the work reconstructs a...
+> -- *[[PartPollenAnalysisOfTheTuleSpr_20096]]*
+
+### Mentioned In
+- [[PartPollenAnalysisOfTheTuleSpr_20096]]
+
 ## Tullibee
 <!-- fm: auto_enriched: true -->
 
@@ -15825,8 +16197,12 @@ Tully Dam is a U.S. Corps of Engineers flood control reservoir downstream of Law
 > - **Habitat context**: The [[Santa Cruz River]] and its major tributaries exhibit a mosaic of hydrological regimes relevant to species persistence: - Perennial (year-round) flow reaches, including effluent-dependent segments. - Intermittent reaches with seasonal flow (as opposed to storm-driven f...
 > -- *[[EndangeredSpeciesActSectionCon_1994_12_06]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesActSectionCon_1994_12_06]]
+- [[EndangeredAndThreatenedSpecies_11630]]
 
 ## Tumblehole
 
@@ -16664,6 +17040,18 @@ TVA v. Hill is the U.S. Supreme Court case in which the Court applied the Endang
 - [[SectionConsultationsrecoveryIm_17857]]
 - [[SolicitorsOpinionReColoradoRiv_21006]]
 
+## Twedt and Holden 1980
+
+### Summary
+An earlier curve-development study reviewed in this source, covering the San Juan River in New Mexico and Utah. It used 156 adult Colorado squawfish with depth, velocity and substrate data, and split adult curves into pre-runoff, runoff and post-runoff periods.
+
+### Context
+> This document is a project package issued by [[BIO/WEST Inc]] on December 12, 1986, to participants in a contract from the [[U.S. Fish and Wildlife Service]] (FWS). The contract aims to produce habitat suitability index (SI) curves for [[Colorado Squawfish]], [[Humpback Chub]] and [[Razorback...
+> -- *[[DevelopmentOfHabitatSuitabilit_13604]]*
+
+### Mentioned In
+- [[DevelopmentOfHabitatSuitabilit_13604]]
+
 ## Tweed River Purification Board
 
 ### Summary
@@ -16785,6 +17173,9 @@ Twin Lakes is a pair of connected montane glacial lakes in Colorado at 2,802 met
 > This Bureau of Reclamation report (REC-ERC-76-14, December 1976), based on a Colorado State University master's thesis by Ronald E. Gregg, studies the freshwater opossum shrimp [[Mysis Relicta]] in [[Twin Lakes]], Colorado. Mysis is the main food base supporting the lake trout fishery, so the study...
 > -- *[[EcologyOfMysisRelictaInTwinLak_19275]]*
 
+> This Bureau of Reclamation report (REC-ERC-77-13, September 1977) documents the preoperation physical and chemical limnology of [[Twin Lakes]], a connected pair of glacially dammed montane lakes in central Colorado. The study forms the baseline for assessing the effects of the [[Mt. Elbert...
+> -- *[[HistoricalPhysicalAndChemicalL_11538]]*
+
 ### Mentioned In
 - [[HydroacousticSurveysOfFishAbun_13336]]
 - [[PrimaryProductivityCAtTwinLake_12652]]
@@ -16805,6 +17196,7 @@ Twin Lakes is a pair of connected montane glacial lakes in Colorado at 2,802 met
 - [[StudiesOfTheBenthicEnvironment_12642]]
 - [[AProgressReportOfTheTwinLakesB_18601]]
 - [[EcologyOfMysisRelictaInTwinLak_19275]]
+- [[HistoricalPhysicalAndChemicalL_11538]]
 
 ## Twin Lakes Ecological Study
 
@@ -16827,8 +17219,12 @@ The Twin Lakes Tunnel is an infrastructure feature that augments water flows int
 > This report presents results from C¹⁴ primary productivity studies conducted at [[Twin Lakes]], [[Colorado]], from 1973-81, prior to operation of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study characterizes baseline primary production rates in these high-mountain lakes (2802 m elevation)...
 > -- *[[PrimaryProductivityCAtTwinLake_12652]]*
 
+> This Bureau of Reclamation report (REC-ERC-77-13, September 1977) documents the preoperation physical and chemical limnology of [[Twin Lakes]], a connected pair of glacially dammed montane lakes in central Colorado. The study forms the baseline for assessing the effects of the [[Mt. Elbert...
+> -- *[[HistoricalPhysicalAndChemicalL_11538]]*
+
 ### Mentioned In
 - [[PrimaryProductivityCAtTwinLake_12652]]
+- [[HistoricalPhysicalAndChemicalL_11538]]
 
 ## Twin Lakes, Colorado
 
@@ -17286,6 +17682,9 @@ The type specimen of Rana onca is USNM #25331, a single adult female collected b
 > This New Mexico Department of Game and Fish Project Completion Report (Federal Aid Project F-1-R, July 1955) summarizes a 1952–1955 survey of the [[Gila River]] and [[Mimbres River]] drainages. The survey inventoried fish resources, assessed relative abundance and size structure, and developed...
 > -- *[[FisheriesSurveyOfTheGilaAndMim_14525]]*
 
+> This Nevada State Museum Anthropological Paper (No. 13, Part 3, October 1967) by Peter J. Mehringer, Jr., reports a fossil and modern pollen study of the [[Tule Springs Site]] in the [[Las Vegas Valley]], southern Nevada. The arid sediments yielded pollen only sparsely, but the work reconstructs a...
+> -- *[[PartPollenAnalysisOfTheTuleSpr_20096]]*
+
 ### Mentioned In
 - [[InvestigationOfTheUnlinedCoach_17022]]
 - [[EndangeredSpeciesInformationSy_14003]]
@@ -17298,6 +17697,7 @@ The type specimen of Rana onca is USNM #25331, a single adult female collected b
 - [[MurraySpringsAMidpostglacialPo_20098]]
 - [[LimnologicalEffectsOfYellowPin_11331]]
 - [[FisheriesSurveyOfTheGilaAndMim_14525]]
+- [[PartPollenAnalysisOfTheTuleSpr_20096]]
 
 ## Typha (Cattail)
 <!-- fm: auto_enriched: true -->

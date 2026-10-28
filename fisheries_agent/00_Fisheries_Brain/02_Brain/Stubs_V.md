@@ -4,6 +4,18 @@ letter: V
 ---
 # Concept Stubs: V
 
+## V-8 Ranch Lakes
+
+### Summary
+A chain of lakes upstream of Buffalo Springs Lake that feeds it. The source notes that runoff from Leuter's Feed Lots on these lakes reached the lake.
+
+### Context
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
+### Mentioned In
+- [[FisheriesInvestigationsAndSurv_14936]]
+
 ## V-Notch Weir
 
 ### Summary
@@ -220,6 +232,18 @@ Valdez, Holden and Hardy, of BIO/WEST, Inc., are the authors of this 1990 paper 
 ### Mentioned In
 - [[HabitatSuitabilityIndexCurvesF_13643]]
 
+## Valdez et al. 1982
+
+### Summary
+An earlier study reviewed in this source, done for the Colorado River Fishery Project on the upper Colorado River. It derived suitability criteria from young-of-the-year, juvenile and adult squawfish, juvenile and adult humpback chub, and adult razorback suckers.
+
+### Context
+> This document is a project package issued by [[BIO/WEST Inc]] on December 12, 1986, to participants in a contract from the [[U.S. Fish and Wildlife Service]] (FWS). The contract aims to produce habitat suitability index (SI) curves for [[Colorado Squawfish]], [[Humpback Chub]] and [[Razorback...
+> -- *[[DevelopmentOfHabitatSuitabilit_13604]]*
+
+### Mentioned In
+- [[DevelopmentOfHabitatSuitabilit_13604]]
+
 ## Valdez Et Al. 1990
 <!-- fm: auto_enriched: true -->
 
@@ -353,6 +377,18 @@ Valencia Toothcarp (Valencia hispanica) is an endangered endemic species from th
 
 ### Mentioned In
 - [[IntermittencyDisturbanceAndSta_1992]]
+
+## Validation Methods
+
+### Summary
+Validation methods are the procedures used to confirm that annual growth marks correctly give fish ages, such as mark-recapture studies with oxytetracycline injection. The authors stress that ages must be validated for every age-class, species, and often stock, calling failure to validate one of the most serious mistakes in fisheries biology.
+
+### Context
+> This Canadian Special Publication (Fisheries and Aquatic Sciences 60, 1982) is a laboratory manual by [[Doris E. Chilton]] and [[Richard J. Beamish]] of the Pacific Biological Station, Nanaimo, B.C. It describes methods and equipment for estimating the ages of groundfish species off Canada's west...
+> -- *[[AgeDeterminationMethodsForFish_16137]]*
+
+### Mentioned In
+- [[AgeDeterminationMethodsForFish_16137]]
 
 ## Valle de Cuatrociénegas
 
@@ -543,6 +579,18 @@ Vallisneria americana, commonly known as wild celery, is an aquatic plant that g
 
 ### Mentioned In
 - [[KeyToMajorFamiliesOfNorthAmeri_1968]]
+
+## Van Benthem Jutting
+
+### Summary
+Van Benthem Jutting is cited by the authors, with Habe, as considering the introduced form not to be true Corbicula fluminea, which the report uses in its taxonomic discussion.
+
+### Context
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
+### Mentioned In
+- [[FurtherStudiesOnTheIntroducedA_19003]]
 
 ## Van Cleave And Mueller 1934
 <!-- fm: auto_enriched: true -->
@@ -1136,6 +1184,18 @@ The Vegas Wash Arm is a section of Lake Mead where the Project Vela Uniform test
 ### Mentioned In
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 
+## Vegetation
+
+### Summary
+Vegetation is one of the nine components the assessment studied, covering the plant community of the pinyon-juniper stand. The source describes a climax, old-age woodland with 43 plant taxa, a canopy of about 65% Utah juniper and 35% pinyon pine, low ground cover, and predicted shifts toward snakeweed and cliffrose after treatment.
+
+### Context
+> This 1981 Arizona State University Department of Zoology environmental assessment, prepared by the Wildlife Management 412 class, evaluates how four land-use alternatives would affect a 32 ha pinyon-juniper woodland about 4.5 km southwest of [[Ash Fork]], Yavapai County. The alternatives were (1)...
+> -- *[[EffectsOfWoodcuttingOnAPinyonJ_13690]]*
+
+### Mentioned In
+- [[EffectsOfWoodcuttingOnAPinyonJ_13690]]
+
 ## Vegetation Classification Panel
 
 ### Summary
@@ -1187,6 +1247,18 @@ The Vegetation Management Study, conducted by the Bureau of Reclamation in 1990,
 
 ### Mentioned In
 - [[TechniqueForPreparingChromosom_1971_08_01]]
+
+## Veliger Larvae
+
+### Summary
+Veligers are the free-living larvae of the Asiatic clam, about 160–220 µm, short-term planktotrophic and non-swimming, released in large numbers. The report found they were killed at 50 ppm chlorine and were sensitive to 2 ppm, and they were not reared to the benthic stage in culture.
+
+### Context
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
+### Mentioned In
+- [[FurtherStudiesOnTheIntroducedA_19003]]
 
 ## Veliidae
 <!-- fm: auto_enriched: true -->
@@ -1291,10 +1363,14 @@ Velvet Mesquite (Prosopis velutina) is a predominant tree species in the Sonoran
 > This USDA Forest Service Research Paper (RM-149, July 1975) by Dwight R. Cable and S. Clark Martin reports a 10-year study (1957–1966) of vegetation on four cattle pastures at the upper edge of the semidesert grass-shrub type on the [[Santa Rita Experimental Range]], near Tucson, Arizona. The study...
 > -- *[[VegetationResponsesToGrazingRa_17319]]*
 
+> This 1952 USDA Forest Service circular by [[Kenneth W. Parker]] and S. Clark Martin examines the invasion of grasslands by [[Velvet Mesquite]] (*Prosopis juliflora* var. *velutina*) across southern Arizona and the wider Southwest. Mesquite now covers about 9 million acres in southeastern Arizona...
+> -- *[[TheMesquiteProblemOnSouthernAr_18437]]*
+
 ### Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[RemoteSensingMappingOfArizonaI_14412]]
 - [[VegetationResponsesToGrazingRa_17319]]
+- [[TheMesquiteProblemOnSouthernAr_18437]]
 
 ## Vemco V13-1L
 
@@ -1307,6 +1383,18 @@ Vemco V13-1L transmitters are acoustic telemetry tags weighing 6 grams in water 
 
 ### Mentioned In
 - [[PikeEsoxLuciusLOnTheEdgeConsis_2016]]
+
+## Venard Lake
+
+### Summary
+Venard Lake is a 3.2-acre artificial impoundment one mile south of Bloomington, McLean County, Illinois. The bulletin describes it as stocked only with warmouths and largemouth bass, and it was drained in 1946 and restocked in April 1947. Warmouths there matured at age 1, produced more eggs per female than Park Pond fish of similar length, and were largely free of parasites apart from leeches in 1948.
+
+### Context
+> This Illinois Natural History Survey bulletin (Volume 27, Article 1, August 1957) by R. Weldon Larimore presents a multi-year ecological life history of the [[Warmouth]] (*Chaenobryttus gulosus*), studied intensively in two central Illinois habitats: [[Venard Lake]], a 3.2-acre artificial...
+> -- *[[EcologicalLifeHistoryOfTheWarm_20187]]*
+
+### Mentioned In
+- [[EcologicalLifeHistoryOfTheWarm_20187]]
 
 ## Vendace
 
@@ -1412,6 +1500,18 @@ Ventrifossa macronemus is a deep-sea macrourid fish species endemic to the Phili
 
 ### Mentioned In
 - [[RnaDnaRatiosAsIndicatorsOfRece_1970]]
+
+## Venus Mercenaria
+
+### Summary
+Venus mercenaria is the hard-shell clam, also called the quahog, an edible bivalve. It was the most resistant species tested: in 12 days of exposure, none of the ten clams per bowl died or showed visible weakening, and siphon activity did not differ from controls. The authors suggest the oil concentrations used were too dilute to produce measurable effects.
+
+### Context
+> This 1949 Fish and Wildlife Service Special Scientific Report, by Walter A. Chipman and Paul S. Galtsoff, was prepared at the request of the US Navy Bureau of Ships. It tests whether crude oil and other oils, anchored on the bottom by [[Carbonized Sand]], remain toxic to marine organisms....
+> -- *[[EffectsOfOilMixedWithCarbonize_16141]]*
+
+### Mentioned In
+- [[EffectsOfOilMixedWithCarbonize_16141]]
 
 ## Venus Roach
 <!-- fm: auto_enriched: true -->
@@ -1875,6 +1975,15 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This document is the verbatim transcript of a [[Public Hearing]] held by the [[Fish and Wildlife Service]] (U.S. Department of the Interior) on October 7, 1985, at Western New Mexico University in Silver City, New Mexico. The hearing addressed proposals to list the [[Spikedace]] (*Meda fulgida*)...
 > -- *[[PublicHearingTranscriptPropose_13316]]*
 
+> This draft report by Dean A. Hendrickson (Arizona Game and Fish Department) evaluates the reintroduction of two federally endangered fishes, the [[Razorback Sucker]] and the [[Colorado Squawfish]], into the [[Salt River]] and [[Verde River]] of central Arizona. More than 10 million...
+> -- *[[EvaluationOfTheRazorbackSucker_16671]]*
+
+> This final report, prepared by [[Arizona State University]] for the [[Arizona Game and Fish Department]] (with the [[New Mexico Department of Game and Fish]] and the [[U.S. Fish and Wildlife Service]]), investigates whether the introduced [[Red Shiner]] contributes to the decline of two federally...
+> -- *[[SpikedaceMedaFulgidaAndLoachMi_17036]]*
+
+> This document is the transmittal package and river data summaries for the Arizona component of the [[Nationwide Rivers Inventory]], issued by the [[National Park Service]] Western Region in April 1982 (list dated January 1982). It covers 14 Arizona rivers or river segments that were judged to be...
+> -- *[[TheNationwideRiversInventoryAr_19590]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -2055,6 +2164,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[StreamDynamicsAnOverviewForLan_16592]]
 - [[PetitionsToReclassifyTheLoachm_20447]]
 - [[PublicHearingTranscriptPropose_13316]]
+- [[EvaluationOfTheRazorbackSucker_16671]]
+- [[SpikedaceMedaFulgidaAndLoachMi_17036]]
+- [[TheNationwideRiversInventoryAr_19590]]
 
 ## Verde River Aquatic Ecology
 
@@ -2633,8 +2745,12 @@ Vibrio is a bacterial infection that affected tilapia in the Salton Sea and play
 > On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
 > -- *[[WorkshopProceedings_18372]]*
 
+> This Federal Water Pollution Control Administration report (Publication WP-20-3, November 1966), authored by E. E. Geldreich of the [[Cincinnati Water Research Laboratory]], compiles previously published research on the sanitary significance of [[Fecal Coliform]] bacteria. The work argues that the...
+> -- *[[SanitarySignificanceOfFecalCol_16953]]*
+
 ### Mentioned In
 - [[WorkshopProceedings_18372]]
+- [[SanitarySignificanceOfFecalCol_16953]]
 
 ## Vicariance
 
@@ -3387,6 +3503,12 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This is the completed 1983 revision (dated March 1, 1985) of the Recovery Plan for the endangered woundfin, *Plagopterus argentissimus*, prepared by the U.S. Fish and Wildlife Service (FWS) with a [[Woundfin Recovery Team]] of state, federal, and consultant biologists. It supersedes the original...
 > -- *[[RecoveryPlanForWoundfinPlagopt_20845]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
+> This systematic revision by [[Robert Hershler]] and [[J. Jerry Landye]] describes the hydrobiid snail (springsnail) fauna of Arizona. The authors report 14 species: 12 [[Pyrgulopsis]] and 2 [[Tryonia]]. Thirteen are described as new, and one, *Pyrgulopsis deserta* (Pilsbry), is previously known....
+> -- *[[ArizonaHydrobiidaeProsobranchi_20352]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3518,6 +3640,8 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[DesignationOfCriticalHabitatFo_20640]]
 - [[AddendumToEnvironmentalReportO_20828]]
 - [[RecoveryPlanForWoundfinPlagopt_20845]]
+- [[EndangeredAndThreatenedSpecies_11633]]
+- [[ArizonaHydrobiidaeProsobranchi_20352]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -3721,6 +3845,9 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This 1993 addendum, prepared by Woodward-Clyde Consultants, Dames & Moore and the [[Las Vegas Valley Water District]], updates the 1992 environmental report for a proposed diversion of [[Virgin River]] water at [[Halfway Wash]]. Design changes since the original report, including a new water right...
 > -- *[[AddendumToEnvironmentalReportO_20828]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -3797,6 +3924,7 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[AnEvaluationOfChangesInNativeF_20471]]
 - [[DesignationOfCriticalHabitatFo_20640]]
 - [[AddendumToEnvironmentalReportO_20828]]
+- [[EndangeredAndThreatenedSpecies_11633]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -4602,6 +4730,18 @@ A survey method in which observers count frogs by sight. This report validated V
 
 ### Mentioned In
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
+
+## Visual Survey
+
+### Summary
+Visual survey is one of the sampling methods listed on the 1994 Arizona field data sheets for topminnow and pupfish monitoring. It appears as a recorded gear and effort type, and the source gives no detailed findings specific to it.
+
+### Context
+> This document is a transmittal letter and a set of field data sheets from a statewide survey of [[Gila Topminnow]] and [[Desert Pupfish]] in Arizona, conducted in June and July 1994 under the Arizona [[Arizona Game and Fish Department]] (AGFD) native fish program. [[David Weedman]], Native Fish...
+> -- *[[FieldDataSheetsForTopminnowpup_19665]]*
+
+### Mentioned In
+- [[FieldDataSheetsForTopminnowpup_19665]]
 
 ## Vital Rates
 

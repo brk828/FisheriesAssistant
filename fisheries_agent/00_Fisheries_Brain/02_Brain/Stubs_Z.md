@@ -203,6 +203,9 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This Illinois Natural History Survey bulletin (Laird and Page, 1996, Vol. 35, Art. 1) catalogs the non-native fishes established or occasionally found in Illinois streams and lakes. Of the 22 species treated, 13 were established by 1996 (six by 1979, seven more since) and nine are periodically...
 > -- *[[NonnativeFishesInhabitingTheSt_12682]]*
 
+> This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
+> -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -214,6 +217,7 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[ChangingDirectionsOfTheNationa_11656]]
 - [[PathwaysForAquaticBiotaTransfe_16237]]
 - [[NonnativeFishesInhabitingTheSt_12682]]
+- [[FurtherStudiesOnTheIntroducedA_19003]]
 
 ## Zebra-tailed Lizard
 
@@ -902,6 +906,12 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This 1950s Georgia Game and Fish Commission handbook, written by Fred J. Dickson, Chief of Fish Management, is a practical guide to building, stocking, fertilizing, fishing, and renovating private farm ponds in Georgia. It focuses on [[Largemouth Bass]] and [[Bluegill]] as the core species, and...
 > -- *[[GeorgiaFishPondManagement_12850]]*
 
+> This 1977 Bureau of Reclamation technical report (REC-ERC-77-6), prepared by the Oklahoma Water Resources Research Institute at Oklahoma State University, evaluates the [[Garton Pump]], a low-energy, large-diameter axial-flow device that pumps surface water downward to destratify and reaerate...
+> -- *[[PhysicochemicalAndBiologicalCo_16925]]*
+
+> This Bureau of Reclamation technical report (REC-ERC-81-10, July 1981) presents the baseline limnological characterization of four reservoirs in series on the [[North Platte River]] in Wyoming: [[Seminoe Reservoir]], [[Kortes Reservoir]], [[Pathfinder Reservoir]], and [[Alcova Reservoir]]. Surveys...
+> -- *[[LimnologyOfTheUpperNorthPlatte_20516]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -931,6 +941,8 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[AnnualReportForCooperativeFish_11527]]
 - [[BearLakeItsFishAndFishing_12272]]
 - [[GeorgiaFishPondManagement_12850]]
+- [[PhysicochemicalAndBiologicalCo_16925]]
+- [[LimnologyOfTheUpperNorthPlatte_20516]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->

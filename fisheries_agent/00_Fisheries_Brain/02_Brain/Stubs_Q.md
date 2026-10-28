@@ -559,6 +559,18 @@ The Quaternary is the most recent geologic period, spanning roughly the last 2.6
 ### Mentioned In
 - [[SomeNotesOnTheLateCenozoicDrai_17545]]
 
+## Quaternary Lake Lahontan
+
+### Summary
+Lake Lahontan was a large Pleistocene-era lake in the Great Basin that had no outlet and reached a maximum depth of about 880 feet. According to this source, it went through at least two high stands separated by desiccation, and its history is used to explain the isolation and distribution of Lahontan fishes. Its lacustrine marls exceed 150 feet in thickness.
+
+### Context
+> John Otterbein Snyder's Bureau of Fisheries bulletin (1915–16) is a systematic and ecological survey of the freshwater fishes of the [[Lahontan System]], an endorheic basin of about 40,700 square miles in Nevada and northeastern California. The paper recognizes 15 native species, describes four new...
+> -- *[[TheFishesOfTheLahontanSystemOf_21251]]*
+
+### Mentioned In
+- [[TheFishesOfTheLahontanSystemOf_21251]]
+
 ## Quaternary Paleoclimatology
 <!-- fm: auto_enriched: true -->
 

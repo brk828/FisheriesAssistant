@@ -729,6 +729,18 @@ Galloway (1965) controversially suggested that the last glacial period experienc
 ### Mentioned In
 - [[TheMonoBasin_15632]]
 
+## Galloway Report
+
+### Summary
+The Galloway Report addresses floodplain management and is cited in the study as central to future planning for flood management in the basin. The source note does not give its detailed findings.
+
+### Context
+> This 1997 report, prepared by Sue McClurg of the Water Education Foundation for the [[Western Water Policy Review Advisory Commission]], examines water management in the Sacramento-San Joaquin River Basin of California as one of six Western river basins studied. It focuses on five federally...
+> -- *[[SacramentosanJoaquinRiverBasin_12264]]*
+
+### Mentioned In
+- [[SacramentosanJoaquinRiverBasin_12264]]
+
 ## Galvanotaxis
 <!-- fm: auto_enriched: true -->
 
@@ -812,6 +824,9 @@ Gambel's oak is a species of oak native to the southwestern United States. In th
 > This U.S. Fish and Wildlife Service report, prepared under the [[Fish and Wildlife Coordination Act]] for the [[Bureau of Reclamation]], assesses 100-year fish and wildlife impacts of four new or modified alternatives for the [[Upper Gila Water Supply Study]] in Grant County, New Mexico. The study...
 > -- *[[FinalFishAndWildlifeCoordinati_11614]]*
 
+> This draft master plan, prepared by the [[U.S. Fish and Wildlife Service]] (Region 2, Albuquerque, November 1986), sets out management for the [[Buenos Aires National Wildlife Refuge]] in the Altar Valley of southeastern Arizona. The refuge, established August 11, 1985, covers about 112,000 acres...
+> -- *[[DraftMasterPlanForBuenosAiresN_13322]]*
+
 ### Mentioned In
 - [[GilaAndSaltRiverClearingAndCha_1967_03_31]]
 - [[PapagoParkMilitaryReservationB_13351]]
@@ -822,6 +837,7 @@ Gambel's oak is a species of oak native to the southwestern United States. In th
 - [[SelectedBibliographyOfWildlife_18466]]
 - [[ReportOfTheSecretaryOfWar_17487]]
 - [[FinalFishAndWildlifeCoordinati_11614]]
+- [[DraftMasterPlanForBuenosAiresN_13322]]
 
 ## Gambia River
 <!-- fm: auto_enriched: true -->
@@ -1853,6 +1869,9 @@ Game fish are fish species of recreational or commercial importance that are act
 > This 1951 survey by Kenneth Ellison Groves, published by the Walla Walla College Department of Biological Sciences, documents the fish fauna of [[Moses Lake]] in the Columbia Basin of eastern Washington. Field work ran from March to August 1950. The study traces the history of [[Common Carp]] in...
 > -- *[[FishesOfMosesLakeWashington_17804]]*
 
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[DifferentialResponseToHandling_1986]]
@@ -1865,6 +1884,7 @@ Game fish are fish species of recreational or commercial importance that are act
 - [[GameFishesOfArizona_15484]]
 - [[PropagationOfBaitAndForageFish_19381]]
 - [[FishesOfMosesLakeWashington_17804]]
+- [[FisheriesInvestigationsAndSurv_14936]]
 
 ## Game Fish And Endangered Fish Interactions
 
@@ -2292,6 +2312,12 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 > This Bureau of Reclamation summary covers the Draft Environmental Impact Statement (EIS) on the operation of [[Glen Canyon Dam]], part of the [[Colorado River Storage Project]] in northern Arizona. The EIS reevaluates how the dam releases water so as to reduce downstream impacts on environmental,...
 > -- *[[OperationOfGlenCanyonDam_11487]]*
 
+> This U.S. [[Bureau of Reclamation]] draft environmental assessment (EA) and plan, dated January 1999, evaluates modifying the intakes of [[Glen Canyon Dam]] so that the release temperature of the Colorado River can be managed. Cold releases (about 8–10°C) from the dam's deep power intakes are...
+> -- *[[GlenCanyonDamModificationsToCo_11454]]*
+
+> This 1981 final report by BIO/WEST, Inc. (Logan, Utah), prepared for the Water and Power Resources Service and the U.S. Fish and Wildlife Service, documents three years (1978–1980) of benthic macroinvertebrate and fish monitoring below [[Flaming Gorge Dam]] after warmer penstock inlet modifications...
+> -- *[[DocumentationOfChangesInTheMac_20465]]*
+
 ### Mentioned In
 - [[EffectsOfThermalConstancyAndSe_1976]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -2311,6 +2337,8 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 - [[ReviewOfGcesResearchProposalsA_18453]]
 - [[InformationRequestForAdditiona_20880]]
 - [[OperationOfGlenCanyonDam_11487]]
+- [[GlenCanyonDamModificationsToCo_11454]]
+- [[DocumentationOfChangesInTheMac_20465]]
 
 ## Gammarus Lacustris Limnaeus
 <!-- fm: auto_enriched: true -->
@@ -3079,6 +3107,18 @@ Gartner (1986) is an author cited in the source who proposed that anthropogenic 
 ### Mentioned In
 - [[DropletsFromTheSadoMarineBiolo_19899]]
 
+## Garton Pump
+
+### Summary
+A low-energy, large-diameter axial-flow pump designed by Garton and Quintero in 1971 to push surface water downward and thereby destratify and reaerate reservoirs. This source evaluates its use in Ham's Lake (1.07 m and 1.83 m versions) and in a 5 m propeller version at Lake of the Arbuckles.
+
+### Context
+> This 1977 Bureau of Reclamation technical report (REC-ERC-77-6), prepared by the Oklahoma Water Resources Research Institute at Oklahoma State University, evaluates the [[Garton Pump]], a low-energy, large-diameter axial-flow device that pumps surface water downward to destratify and reaerate...
+> -- *[[PhysicochemicalAndBiologicalCo_16925]]*
+
+### Mentioned In
+- [[PhysicochemicalAndBiologicalCo_16925]]
+
 ## Gary A. Wedemeyer
 
 ### Summary
@@ -3495,8 +3535,12 @@ Gates of Lodore is a sampling station on the Green River in Dinosaur National Mo
 > This report, prepared by [[Harold K. Hagen]] and [[Joseph E. Banks]] of [[Colorado State University]] for the [[National Park Service]] (contract No. 14-10-0232-686, June 1963), documents the ecology and limnology of the Green River in [[Dinosaur National Monument]]. Its main focus was the rare...
 > -- *[[AnEcologicalAndLimnologicalStu_20953]]*
 
+> This 1964 Colorado State University Master of Science thesis by [[Joe L. Banks]] examines how stream-flow, water temperature, turbidity, [[Bottom Types]], food availability and an accidental rotenone pollution event shaped the distribution of the fish fauna of the [[Green River]] and [[Yampa...
+> -- *[[FishSpeciesDistributionInDinos_17316]]*
+
 ### Mentioned In
 - [[AnEcologicalAndLimnologicalStu_20953]]
+- [[FishSpeciesDistributionInDinos_17316]]
 
 ## Gateway National Recreation Area
 
@@ -3521,6 +3565,18 @@ This is a method for estimating water loss from vegetation, cited by the guide a
 
 ### Mentioned In
 - [[GuideForSurveyingPhreatophyteV_19926]]
+
+## GATT Negotiations
+
+### Summary
+International trade negotiations that Heimlich and Kula cite as a possible driver of lower grain prices. Their analysis compares cattle and grain returns on CRP land, and trade liberalization is one possible factor in that comparison.
+
+### Context
+> This USDA Forest Service General Technical Report (RM-203, May 1991) collects papers from a 1991 Society for Range Management symposium held in Washington, DC. It was organized by the [[Great Plains Agricultural Council]] and the [[Society for Range Management]] task forces on the [[Conservation...
+> -- *[[TheConservationReserveyesterda_19864]]*
+
+### Mentioned In
+- [[TheConservationReserveyesterda_19864]]
 
 ## Gatun Lake
 
@@ -3567,6 +3623,18 @@ Gaufin, Harris, and Walter (1956) showed that five samples capture over 80 perce
 
 ### Mentioned In
 - [[TheInfluencesOfInorganicSedime_17590]]
+
+## Gauley River
+
+### Summary
+A West Virginia river that is one of the nine settlement case studies in the report. The source describes a settlement providing scheduled fall whitewater releases, with the regional whitewater industry estimated at $33 million annually.
+
+### Context
+> *River Renewal* is a May 1996 report by [[American Rivers]] that describes how the [[Federal Energy Regulatory Commission]] (FERC) relicensing process can be used to reduce the ecological and recreational damage caused by hydropower dams. It explains the relicensing procedure, the legal role of...
+> -- *[[RiverRenewalRestoringRiversThr_19592]]*
+
+### Mentioned In
+- [[RiverRenewalRestoringRiversThr_19592]]
 
 ## Gause'S Axiom
 <!-- fm: auto_enriched: true -->
@@ -4134,6 +4202,18 @@ A genetic bottleneck in fish populations occurs when a sudden reduction in popul
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[RedShinerEradicationFromTheVir_18545]]
 
+## Genetic Changes
+
+### Summary
+Genetic changes from stocking and introductions include hybridization, introgression and outbreeding depression. The source notes translocations of native-like stocks can be more damaging than introductions of alien genera, and recommends locally adapted or sterile stock.
+
+### Context
+> This FAO Fisheries Circular (No. 945, 1999, 89 pp.) characterizes inland fishery enhancements worldwide. It is based on an automated search of the [[Aquatic Sciences and Fisheries Abstracts]] (ASFA) for 1978–1997, cross-checked against the [[FAO Database on Introductions of Aquatic Species]] (DIAS)...
+> -- *[[GlobalCharacterizationOfInland_16308]]*
+
+### Mentioned In
+- [[GlobalCharacterizationOfInland_16308]]
+
 ## Genetic Conservation
 <!-- fm: auto_enriched: true -->
 
@@ -4471,8 +4551,16 @@ Genetics management is the set of practices used to keep the genetic integrity a
 > These guidelines, prepared by J. Holt Williamson and Richard S. Wydoski for the U.S. Fish and Wildlife Service (Denver, May 25, 1994), provide a conceptual framework for [[Genetics Management]] of four endangered endemic fishes of the [[Upper Colorado River Basin]]: [[Razorback Sucker]],...
 > -- *[[GeneticsManagementGuidelines_11717]]*
 
+> This U.S. Fish and Wildlife Service (FWS) memorandum and attached document transmit the revised [[Recovery Action Plan]] (RIPRAP) for the four endangered fishes of the Upper [[Colorado River]] Basin, together with the [[Section 7 Agreement]] it supports. The Recovery Program aims to recover...
+> -- *[[SectionConsultationSufficientP_11751]]*
+
+> This document is a 1996 Fish and Wildlife Service memorandum distributing a revised [[Section 7 Consultation]] agreement and the [[Recovery Implementation Program]] Recovery Action Plan ([[RIPRAP]]). Together they govern recovery of four endangered [[Colorado River Fishes]]: [[Colorado Squawfish]],...
+> -- *[[SectionConsultationSufficientP_11961]]*
+
 ### Mentioned In
 - [[GeneticsManagementGuidelines_11717]]
+- [[SectionConsultationSufficientP_11751]]
+- [[SectionConsultationSufficientP_11961]]
 
 ## Genetics Management Coordinated Hatchery Facility Report
 <!-- fm: auto_enriched: true -->
@@ -4539,6 +4627,18 @@ Genetics management is the set of practices used to keep the genetic integrity a
 
 ### Mentioned In
 - [[GeochronographicMappingAUseful_11615]]
+
+## Geochronology Laboratories
+
+### Summary
+The University of Arizona laboratory that supported this study and dated its sediments by radiocarbon. The paper is listed as a contribution from this laboratory.
+
+### Context
+> This Nevada State Museum Anthropological Paper (No. 13, Part 3, October 1967) by Peter J. Mehringer, Jr., reports a fossil and modern pollen study of the [[Tule Springs Site]] in the [[Las Vegas Valley]], southern Nevada. The arid sediments yielded pollen only sparsely, but the work reconstructs a...
+> -- *[[PartPollenAnalysisOfTheTuleSpr_20096]]*
+
+### Mentioned In
+- [[PartPollenAnalysisOfTheTuleSpr_20096]]
 
 ## Geocythere
 
@@ -4607,6 +4707,9 @@ Geoffrey Platts wrote Trek! Man Alone in the Arizona Wild (Carefree Communicatio
 > This 1995 grant application to the [[Arizona Water Protection Fund]] (AWPF) requests funding for a two-year project to quantify and monitor the effects of gabion-based erosion control on the West Turkey Creek (WTC) watershed in Cochise County, Arizona. The applicants, owners of [[El Coronado...
 > -- *[[WestTurkeyCreekWatershedRestor_18328]]*
 
+> This draft Data Collection Plan (June 15, 1995), prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] Upper Colorado River Region, documents the field, handling, telemetry, habitat, drift, hydrology, water-quality and data-management methods used in a study of the endangered [[Humpback...
+> -- *[[LifeHistoryAndEcologyOfTheHump_17640]]*
+
 ### Mentioned In
 - [[LetterRequestingUtahFishAndMol_1997_10_27]]
 - [[AProposedDemonstrationModelToI_17636]]
@@ -4614,6 +4717,7 @@ Geoffrey Platts wrote Trek! Man Alone in the Arizona Wild (Carefree Communicatio
 - [[GlenCanyonEnvironmentalStudies_19717]]
 - [[JuneEnvironmentalAndEconomicSt_19684]]
 - [[WestTurkeyCreekWatershedRestor_18328]]
+- [[LifeHistoryAndEcologyOfTheHump_17640]]
 
 ## Geographic Information System Mapping
 
@@ -5030,10 +5134,14 @@ George N. Greene was a researcher at Auburn University who conducted experimenta
 > This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
 > -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
 
+> This document is an archival bundle of letters, specimen invoices, loan notices, handwritten notes and a diagnostic character sheet. It concerns the taxonomy and distribution of *Cyprinodon* pupfishes, especially the Chihuahuan populations in the [[Guzman Basin]] and surrounding drainages. Most of...
+> -- *[[VariousCyprinodonInformationHa_15304]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
 - [[ForeignIntroductionsOfNorthAme_15556]]
 - [[ACheckListOfTheFreshwaterAndAn_11395]]
+- [[VariousCyprinodonInformationHa_15304]]
 
 ## George Stoneman
 
@@ -5141,11 +5249,15 @@ The George Whittell Wildlife Preserve is a protected area owned by Defenders of 
 > This final 1980 progress report, edited by Terry B. Johnson, presents four parts of a biological survey of the [[George Whittell Wildlife Preserve]] (26,104 acres) and the wider [[Aravaipa Creek Watershed]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife...
 > -- *[[ProgressReportForTheBiological_19815]]*
 
+> This final 1980 report covers the vegetation and flora component of a long-term biological survey of the [[George Whittell Wildlife Preserve]] in Graham and Pinal counties, Arizona. The survey was funded by the Defenders of Wildlife Trust and began on 15 May 1979. Its objectives were to map...
+> -- *[[ProgressReportForTheBiological_19814]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11554]]
 - [[ReportOnTheSurveyOfTheMammalsO_11840]]
 - [[FinalReportForTheBiologicalSur_19813]]
 - [[ProgressReportForTheBiological_19815]]
+- [[ProgressReportForTheBiological_19814]]
 
 ## George's Bank
 
@@ -5302,6 +5414,30 @@ Geothermal energy exploration refers to drilling for underground heat sources, a
 
 ### Mentioned In
 - [[GilaBoraxobiusANewSpeciesOfCyp_12031]]
+
+## Geothermal Resource Operational Orders
+
+### Summary
+Federal operating rules governing geothermal resource activities on leases. The source lists GRO Orders 1 to 4 (issued 1975) and later GRO Orders 6 and 7 (pipelines and production metering, Federal Register, December 7, 1976) as governing operations in the Gila Box proposal.
+
+### Context
+> This draft Environmental Assessment (EA), prepared by the [[Bureau of Land Management]] (BLM) Safford District Office, evaluates a proposal to offer staged geothermal steam leases across the Gila Box Assessment Area in Graham and Greenlee Counties, Arizona. The proposed action (Alternative A)...
+> -- *[[DraftEnvironmentalAssessmentGi_11514]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentGi_11514]]
+
+## Geothermal Steam Act of 1970
+
+### Summary
+A federal law authorizing the Secretary of the Interior to lease geothermal steam and associated resources on administered lands. The source cites it as the legal basis for the proposed Gila Box geothermal leasing, with the stated purpose of reducing dependence on imported oil.
+
+### Context
+> This draft Environmental Assessment (EA), prepared by the [[Bureau of Land Management]] (BLM) Safford District Office, evaluates a proposal to offer staged geothermal steam leases across the Gila Box Assessment Area in Graham and Greenlee Counties, Arizona. The proposed action (Alternative A)...
+> -- *[[DraftEnvironmentalAssessmentGi_11514]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentGi_11514]]
 
 ## Geothermal Surveys Inc.
 
@@ -6608,6 +6744,18 @@ Gila boraxobius, the Borax Lake Chub, is a dwarf cyprinid fish described in this
 - [[TheGilaBoxAWildernessCanyonOnT_13093]]
 - [[GilaBoxNcaFishCountSummaryOfFi_18985]]
 
+## Gila Box Advisory Committee
+
+### Summary
+A seven-member committee appointed under the Arizona Desert Wilderness Act of 1990 to advise on planning for the Gila Box area. It met 19 times between October 1991 and November 1992 during the planning process.
+
+### Context
+> This Bureau of Land Management (BLM) document, issued January 1998 by the [[Safford Field Office]], contains the final 15-year management plan, [[Environmental Assessment]] (EA No. AZ-040-08-03), and Finding of No Significant Impact/Decision Record for the [[Gila Box Riparian National Conservation...
+> -- *[[GilaBoxManagementPlanEnvironme_11470]]*
+
+### Mentioned In
+- [[GilaBoxManagementPlanEnvironme_11470]]
+
 ## Gila Box Coordinated Resource Management Plan
 
 ### Summary
@@ -6670,6 +6818,9 @@ The Gila Box Riparian National Conservation Area is a 20,000-acre protected ripa
 > This Technical Report by the [[Arizona Game and Fish Department]] (Region V Fisheries Program, Technical Report 98-5-1) documents a 1998 creel survey of anglers on the Upper Gila River and three area lakes in Graham County, Arizona. The survey was motivated by a 1997 department proposal to remove...
 > -- *[[UpperGilaRiverAnglerSurvey_18636]]*
 
+> This Bureau of Land Management (BLM) document, issued January 1998 by the [[Safford Field Office]], contains the final 15-year management plan, [[Environmental Assessment]] (EA No. AZ-040-08-03), and Finding of No Significant Impact/Decision Record for the [[Gila Box Riparian National Conservation...
+> -- *[[GilaBoxManagementPlanEnvironme_11470]]*
+
 ### Mentioned In
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
 - [[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]
@@ -6679,6 +6830,7 @@ The Gila Box Riparian National Conservation Area is a 20,000-acre protected ripa
 - [[ThinkingTitleIsALetterReviewin_12039]]
 - [[NativeFishConservationgilaBoxR_20834]]
 - [[UpperGilaRiverAnglerSurvey_18636]]
+- [[GilaBoxManagementPlanEnvironme_11470]]
 
 ## Gila Canal
 
@@ -6913,6 +7065,9 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 > This June 2000 planning document, prepared for the [[Sonoran Desert Conservation Plan]] by Philip C. Rosen of the University of Arizona, argues that the native aquatic vertebrates of [[Pima County]] have been largely displaced by introduced species. Non-native fishes, [[Bullfrog]]s, and...
 > -- *[[AquaticVertebrateConservationI_21072]]*
 
+> This Arizona Game and Fish Department technical report summarizes seven years (1988-1994) of volunteer-collected fish survey data from the [[Fall Fish Count]] (FFC) program, which has accumulated records from more than 140 sample sites. The report tests whether the data can reveal abundance trends...
+> -- *[[FallFishCountSummary_20903]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AfaPolicyMemorandumOnHybrids_1984_02_10]]
@@ -7073,6 +7228,7 @@ The Gila Chub (*Gila intermedia*) is a small cyprinid endemic to Arizona that se
 - [[ArizonanewMexicoMountainsEcore_19594]]
 - [[StatusReviewOfGilaChubGilaInte_19669]]
 - [[AquaticVertebrateConservationI_21072]]
+- [[FallFishCountSummary_20903]]
 
 ## Gila Chub Complex
 
@@ -7789,6 +7945,18 @@ Gila is a genus of freshwater minnows in the family Cyprinidae. In this 1977 rep
 ### Mentioned In
 - [[LowerColoradoRiverEndangeredFi_12878]]
 
+## Gila Gravity Main Canal
+
+### Summary
+A 33.3 km earthen irrigation canal in Yuma County, Arizona, completed in 1943 with a surface area of about 50 ha and a mean current near 0.5 m/s. This study stocked 30,576 catchable channel catfish there across 14 plants, and found that wild channel catfish catch and harvest rates fell significantly after stocking, with a mean cost of $3.82 per fish harvested.
+
+### Context
+> This final report from the [[Arizona Game And Fish Department]] (AGFD), prepared for the [[Bureau Of Reclamation]] (Lower Colorado Region), evaluates whether supplemental plants of tagged, catchable-size [[Channel Catfish]] (*Ictalurus punctatus*) improve angler catch rates, harvest, and wild fish...
+> -- *[[EffectsOfStockingCatchablesize_15934]]*
+
+### Mentioned In
+- [[EffectsOfStockingCatchablesize_15934]]
+
 ## Gila Group
 
 ### Summary
@@ -8007,6 +8175,9 @@ An Area of Critical Environmental Concern on the Gila River in New Mexico coveri
 > This 1989 nomination, prepared by the [[Bureau Of Land Management]] Safford District Office and the City of Safford for the [[Arizona Department Of Environmental Quality]], proposes a 15-mile segment of [[Bonita Creek]] for designation as a Unique Water under Arizona Administrative Code R18-11-303....
 > -- *[[UniqueWatersNominationBonitaCr_19141]]*
 
+> This draft master plan, prepared by the [[U.S. Fish and Wildlife Service]] (Region 2, Albuquerque, November 1986), sets out management for the [[Buenos Aires National Wildlife Refuge]] in the Altar Valley of southeastern Arizona. The refuge, established August 11, 1985, covers about 112,000 acres...
+> -- *[[DraftMasterPlanForBuenosAiresN_13322]]*
+
 ### Mentioned In
 - [[PetitionForNewRuleOnCaptivePro_1994_07_08]]
 - [[SeriesOfInterofficeMemosJulyAr_17328]]
@@ -8018,6 +8189,7 @@ An Area of Critical Environmental Concern on the Gila River in New Mexico coveri
 - [[FinalFishAndWildlifeCoordinati_11614]]
 - [[EnvironmentalAssessmentPropose_12210]]
 - [[UniqueWatersNominationBonitaCr_19141]]
+- [[DraftMasterPlanForBuenosAiresN_13322]]
 
 ## Gila Mountain Sucker
 <!-- fm: auto_enriched: true -->
@@ -9145,6 +9317,30 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This document is a 1973 research proposal from [[Arizona State University]] to the [[National Science Foundation]] (RANN program). It requests about $354,983 over 2.5 years, starting April 1974, to quantify trace contaminants released by two copper smelters at Hayden, Arizona, and the drainage from...
 > -- *[[QuantificationOfTraceElementsI_19491]]*
 
+> This paper by [[Shafiqullah]] and co-authors reviews 174 K-Ar age determinations from 154 localities in southwestern Arizona and adjacent areas, and uses them to reconstruct the region's geologic history from the Precambrian to the Pliocene. Many rock units previously dated only by lithologic...
+> -- *[[KarGeochronologyAndGeologicHis_11381]]*
+
+> This Bureau of Land Management (BLM) document, issued January 1998 by the [[Safford Field Office]], contains the final 15-year management plan, [[Environmental Assessment]] (EA No. AZ-040-08-03), and Finding of No Significant Impact/Decision Record for the [[Gila Box Riparian National Conservation...
+> -- *[[GilaBoxManagementPlanEnvironme_11470]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
+> This final report, prepared by [[Arizona State University]] for the [[Arizona Game and Fish Department]] (with the [[New Mexico Department of Game and Fish]] and the [[U.S. Fish and Wildlife Service]]), investigates whether the introduced [[Red Shiner]] contributes to the decline of two federally...
+> -- *[[SpikedaceMedaFulgidaAndLoachMi_17036]]*
+
+> This 1986 final report from the [[New Mexico Department of Game and Fish]] (Propst, Bestgen, and Painter) documents the status of the [[Spikedace]], a minnow endemic to the Gila Basin of New Mexico and Arizona. Surveys from December 1982 through September 1985 found the species has been extirpated...
+> -- *[[DistributionStatusBiologyAndCo_18706]]*
+
+> This document is the transmittal package and river data summaries for the Arizona component of the [[Nationwide Rivers Inventory]], issued by the [[National Park Service]] Western Region in April 1982 (list dated January 1982). It covers 14 Arizona rivers or river segments that were judged to be...
+> -- *[[TheNationwideRiversInventoryAr_19590]]*
+
+> This systematic revision by [[Robert Hershler]] and [[J. Jerry Landye]] describes the hydrobiid snail (springsnail) fauna of Arizona. The authors report 14 species: 12 [[Pyrgulopsis]] and 2 [[Tryonia]]. Thirteen are described as new, and one, *Pyrgulopsis deserta* (Pilsbry), is previously known....
+> -- *[[ArizonaHydrobiidaeProsobranchi_20352]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -9512,6 +9708,14 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[TheRiverirrigatingWatersOfAriz_18776]]
 - [[UniqueWatersNominationBonitaCr_19141]]
 - [[QuantificationOfTraceElementsI_19491]]
+- [[KarGeochronologyAndGeologicHis_11381]]
+- [[GilaBoxManagementPlanEnvironme_11470]]
+- [[EndangeredAndThreatenedSpecies_11630]]
+- [[EndangeredAndThreatenedSpecies_11633]]
+- [[SpikedaceMedaFulgidaAndLoachMi_17036]]
+- [[DistributionStatusBiologyAndCo_18706]]
+- [[TheNationwideRiversInventoryAr_19590]]
+- [[ArizonaHydrobiidaeProsobranchi_20352]]
 
 ## Gila River Above Yuma, Arizona
 <!-- fm: auto_enriched: true -->
@@ -9710,6 +9914,9 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This document is the verbatim transcript of a [[Public Hearing]] held by the [[Fish and Wildlife Service]] (U.S. Department of the Interior) on October 7, 1985, at Western New Mexico University in Silver City, New Mexico. The hearing addressed proposals to list the [[Spikedace]] (*Meda fulgida*)...
 > -- *[[PublicHearingTranscriptPropose_13316]]*
 
+> This final report, prepared by [[Arizona State University]] for the [[Arizona Game and Fish Department]] (with the [[New Mexico Department of Game and Fish]] and the [[U.S. Fish and Wildlife Service]]), investigates whether the introduced [[Red Shiner]] contributes to the decline of two federally...
+> -- *[[SpikedaceMedaFulgidaAndLoachMi_17036]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -9889,6 +10096,7 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[ColoradoSquawfishPtychocheilus_13291]]
 - [[FishesAndAquaticHabitatsOfTheU_13735]]
 - [[PublicHearingTranscriptPropose_13316]]
+- [[SpikedaceMedaFulgidaAndLoachMi_17036]]
 
 ## Gila River Basin Endemic Fishes
 <!-- fm: auto_enriched: true -->
@@ -10021,6 +10229,18 @@ The Gila River Forest Reserve was an early federal forest reserve in the Southwe
 
 ### Mentioned In
 - [[ForestFraudAndForestHealthUsFo_18957]]
+
+## Gila River Ichthyofauna
+
+### Summary
+This refers to the native fish assemblage of the Gila River system, which Aravaipa Creek was selected to represent because it still supported an essentially unmodified version of it. The source's native species list for Aravaipa Creek, including spikedace, loach minnow and the suckers, reflects this fauna.
+
+### Context
+> This 1983 report by Paul R. Turner and Robert J. Tafanelli (New Mexico State University), submitted to the [[U.S. Fish and Wildlife Service]], evaluates the instream flow needs of native fishes in [[Aravaipa Creek]], Arizona, using the [[Incremental Methodology]] and its [[IFG4 Hydraulic...
+> -- *[[EvaluationOfTheInstreamFlowReq_13437]]*
+
+### Mentioned In
+- [[EvaluationOfTheInstreamFlowReq_13437]]
 
 ## Gila River Indian Community
 <!-- fm: auto_enriched: true -->
@@ -10841,6 +11061,9 @@ Gila Taxonomy refers to the systematic classification and genetic characterizati
 > This document is the fiscal year (FY) 1990 work plan and budget for the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin (Recovery Program). It was issued by the [[Fish and Wildlife Service]] (Region 6, Denver) on August 30, 1989, and approved the...
 > -- *[[DraftfiscalYearWorkPlan_11611]]*
 
+> This January 1990 draft annual report, circulated by the [[U.S. Fish and Wildlife Service]] (Colorado River Recovery Implementation Program), reviews fiscal year 1989 work on endangered fishes of the [[Upper Colorado River Basin]]. It compiles accomplishment highlights, a summary of changes and...
+> -- *[[FiscalYearDraftAnnualReportRec_21032]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1991_04_20]]
 - [[MemorandumOnAquaticCoordinatio_1991_03_29]]
@@ -10851,6 +11074,7 @@ Gila Taxonomy refers to the systematic classification and genetic characterizati
 - [[ColoradoRiverManagementGroupMe_21025]]
 - [[FiscalYearWorkPlan_11627]]
 - [[DraftfiscalYearWorkPlan_11611]]
+- [[FiscalYearDraftAnnualReportRec_21032]]
 
 ## Gila Taxonomy Group
 <!-- fm: auto_enriched: true -->
@@ -10944,6 +11168,18 @@ A study of the Gila chubs (the Gila complex, including bonytail, humpback and ro
 ### Mentioned In
 - [[FiscalYearWorkPlan_11724]]
 - [[JulyManagementGroupMeetingSumm_21031]]
+
+## Gila Tenia
+
+### Summary
+Gila tenia is a freshwater minnow of the family Cyprinidae that was abundant in the Provo River, a tributary of Utah Lake. The report notes it was used as bait on hooks for capturing Coregonus williamsonii and was a major food item for Utah Lake trout. The species was also among the fishes collected in the Gila-type streams of Arizona and New Mexico.
+
+### Context
+> This taxonomic report, prepared by [[Edward Drinker Cope]] (fish descriptions) and [[Henry Yarrow]] (comparisons, synonymy, bibliography, and field lists), covers the [[Field Survey Collection]] of freshwater fishes gathered in Nevada, Utah, California, Colorado, New Mexico, and Arizona during...
+> -- *[[ReportUponTheCollectionsOfFish_17579]]*
+
+### Mentioned In
+- [[ReportUponTheCollectionsOfFish_17579]]
 
 ## Gila Thermal Snail
 
@@ -11436,6 +11672,18 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > This June 2000 planning document, prepared for the [[Sonoran Desert Conservation Plan]] by Philip C. Rosen of the University of Arizona, argues that the native aquatic vertebrates of [[Pima County]] have been largely displaced by introduced species. Non-native fishes, [[Bullfrog]]s, and...
 > -- *[[AquaticVertebrateConservationI_21072]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
+> This draft master plan, prepared by the [[U.S. Fish and Wildlife Service]] (Region 2, Albuquerque, November 1986), sets out management for the [[Buenos Aires National Wildlife Refuge]] in the Altar Valley of southeastern Arizona. The refuge, established August 11, 1985, covers about 112,000 acres...
+> -- *[[DraftMasterPlanForBuenosAiresN_13322]]*
+
+> This document is a transmittal letter and a set of field data sheets from a statewide survey of [[Gila Topminnow]] and [[Desert Pupfish]] in Arizona, conducted in June and July 1994 under the Arizona [[Arizona Game and Fish Department]] (AGFD) native fish program. [[David Weedman]], Native Fish...
+> -- *[[FieldDataSheetsForTopminnowpup_19665]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -11765,6 +12013,10 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[StatusReviewOfGilaChubGilaInte_19669]]
 - [[InbreedingDepression_20767]]
 - [[AquaticVertebrateConservationI_21072]]
+- [[EndangeredAndThreatenedSpecies_11630]]
+- [[EndangeredAndThreatenedSpecies_11633]]
+- [[DraftMasterPlanForBuenosAiresN_13322]]
+- [[FieldDataSheetsForTopminnowpup_19665]]
 
 ## Gila Topminnow Decline
 <!-- fm: auto_enriched: true -->
@@ -12006,6 +12258,15 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 > This document is a 1985 technical review draft of a [[Recovery Plan]] for the [[Chihuahua Chub]] (*Gila nigrescens*). It was prepared by the [[New Mexico Department of Game and Fish]] in cooperation with the [[U.S. Fish and Wildlife Service]], based on a management plan by Michael D. Hatch and John...
 > -- *[[TechnicalReviewDraftOfTheRecov_20712]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Albuquerque Office, lists the plants and animals federally designated as endangered or threatened in Arizona and New Mexico. It covers 56 listed taxa and 6 proposed species. Of the listed taxa, 18 are fishes, the largest group,...
+> -- *[[EndangeredAndThreatenedSpecies_11630]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
+> -- *[[EndangeredAndThreatenedSpecies_11633]]*
+
+> This document is the transmittal package and river data summaries for the Arizona component of the [[Nationwide Rivers Inventory]], issued by the [[National Park Service]] Western Region in April 1982 (list dated January 1982). It covers 14 Arizona rivers or river segments that were judged to be...
+> -- *[[TheNationwideRiversInventoryAr_19590]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -12118,6 +12379,9 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
 - [[ArizonanewMexicoMountainsEcore_19594]]
 - [[TechnicalReviewDraftOfTheRecov_20712]]
+- [[EndangeredAndThreatenedSpecies_11630]]
+- [[EndangeredAndThreatenedSpecies_11633]]
+- [[TheNationwideRiversInventoryAr_19590]]
 
 ## Gila Trout Chihuahua Chub Recovery Team
 <!-- fm: auto_enriched: true -->
@@ -12554,6 +12818,18 @@ Gill damage is injury to a fish's gill surfaces, which this source identifies as
 ### Mentioned In
 - [[EffectOfAcidsAndAlkaliesOnSurv_17329]]
 
+## Gill Disease
+
+### Summary
+A disease of fish gills that the source names only in passing. In the 1933 trough experiment, a Gill Disease outbreak ended the lot of 3,000 rainbow fingerlings. The source gives no further detail on its cause or treatment.
+
+### Context
+> This Fish and Wildlife Service Research Report (revised edition, 1946, by H. S. Davis) is a practical manual for [[Trout Hatchery Management]]. It covers the rearing of fingerling trout in troughs, [[Raceway]]s and [[Circular Pool]]s, the nutrition and feeding of hatchery trout, brood stock...
+> -- *[[CareAndDiseasesOfTrout_13966]]*
+
+### Mentioned In
+- [[CareAndDiseasesOfTrout_13966]]
+
 ## Gill Epithelium
 
 ### Summary
@@ -12645,6 +12921,9 @@ Gill lamellae are the thin, plate-like filaments of a fish's gills where gas exc
 > Fish Bulletin 136 (California Department of Fish and Game, 1966), compiled by [[Jerry L. Turner]] and D. W. Kelley, is the second volume of the [[Delta Fish and Wildlife Protection Study]]. It reports twelve papers on the distribution, relative abundance, food and spawning habits of fishes in the...
 > -- *[[EcologicalStudiesOfTheSacramen_13026]]*
 
+> This Fishery Bulletin (No. 70, Fish and Wildlife Service, Volume 52, 1952) by Frank W. Jobes examines the [[American Yellow Perch]] (*Perca flavescens*) of [[Lake Erie]]. It combines a 1885–1947 commercial production record with a critical test of [[Scale Method]] age determination, body-scale...
+> -- *[[AgeGrowthAndProductionOfYellow_19742]]*
+
 ### Mentioned In
 - [[SelectivityAndEffectivenessOfC_12188]]
 - [[SummerFoodHabitsOfYellowBassAn_1962]]
@@ -12658,6 +12937,7 @@ Gill lamellae are the thin, plate-like filaments of a fish's gills where gas exc
 - [[AgeAndGrowthOfTheApacheLakeWal_18185]]
 - [[SurvivalAndSpawningOfGillnetma_19634]]
 - [[EcologicalStudiesOfTheSacramen_13026]]
+- [[AgeGrowthAndProductionOfYellow_19742]]
 
 ## Gill Net Sampling
 
@@ -12788,6 +13068,15 @@ Gill net selectivity refers to the differential capture efficiency of gill nets 
 > This 1957 bulletin, produced jointly by the [[Utah State Department of Fish and Game]], the [[Idaho Department of Fish and Game]] and the Wildlife Management Department of Utah State Agricultural College, reports a multi-year study of [[Bear Lake]], a large, deep, naturally alkaline lake straddling...
 > -- *[[BearLakeItsFishAndFishing_12272]]*
 
+> This Colorado Game and Fish Department report, written by Fish Technician Rex I. Taliaferro and published in 1955, synthesizes warm-water fishery research on [[Jumbo Reservoir]] from 1949 through 1953. The study covered food habits and growth of major game and rough fish, a physical, chemical and...
+> -- *[[WarmWaterFishResearchOnJumboRe_13449]]*
+
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
+> This draft Data Collection Plan (June 15, 1995), prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] Upper Colorado River Region, documents the field, handling, telemetry, habitat, drift, hydrology, water-quality and data-management methods used in a study of the endangered [[Humpback...
+> -- *[[LifeHistoryAndEcologyOfTheHump_17640]]*
+
 ### Mentioned In
 - [[FailureOfSomeYellowBassToFormA_1958_12_15]]
 - [[SummaryOfNorthernPikeSuppressi_2022]]
@@ -12807,6 +13096,9 @@ Gill net selectivity refers to the differential capture efficiency of gill nets 
 - [[CentralArizonaProjectCanalSyst_15464]]
 - [[ContinuedFisheriesInvestigatio_20970]]
 - [[BearLakeItsFishAndFishing_12272]]
+- [[WarmWaterFishResearchOnJumboRe_13449]]
+- [[FisheriesInvestigationsAndSurv_14936]]
+- [[LifeHistoryAndEcologyOfTheHump_17640]]
 
 ## Gill Pathology
 
@@ -13509,6 +13801,15 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 1, 1952) reports a 1950 summer survey of nine warm-water impoundments in Delaware. Crews combined fish sampling, a creel census of anglers, age determination from scales, bottom fauna and plankton sampling,...
 > -- *[[FreshWaterFisheriesSurvey_20643]]*
 
+> This 1977 Bureau of Reclamation technical report (REC-ERC-77-6), prepared by the Oklahoma Water Resources Research Institute at Oklahoma State University, evaluates the [[Garton Pump]], a low-energy, large-diameter axial-flow device that pumps surface water downward to destratify and reaerate...
+> -- *[[PhysicochemicalAndBiologicalCo_16925]]*
+
+> The Black River Studies is a seven-part 1953 monograph by [[Missouri Conservation Commission]] and [[University of Missouri]] Wildlife Research Unit biologists. It combines a pre-impoundment survey of a Missouri Ozark stream (Black River, 1947) with post-impoundment monitoring of the same reach...
+> -- *[[TheBlackRiverStudies_18895]]*
+
+> This monographic report, based on eight years of investigations (June 1964 to March 1972) by [[Douglas B. Jester]] and graduate assistants at New Mexico State University, examines the [[Carp]] (*Cyprinus carpio*) in [[Elephant Butte Lake]], a large, warm, morphometrically oligotrophic [[Rio...
+> -- *[[LifeHistoryEcologyAndManagemen_19738]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AReportOnCommercialFishingStud_1955]]
@@ -13605,6 +13906,9 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[ContinuedFisheriesInvestigatio_20970]]
 - [[LifeHistoryAndEcologyOfTheGizz_19739]]
 - [[FreshWaterFisheriesSurvey_20643]]
+- [[PhysicochemicalAndBiologicalCo_16925]]
+- [[TheBlackRiverStudies_18895]]
+- [[LifeHistoryEcologyAndManagemen_19738]]
 
 ## Gizzard Shad Management
 
@@ -13715,6 +14019,18 @@ Cloudy, silt-laden water carried by glacier-fed rivers and streams. The source n
 
 ### Mentioned In
 - [[EnvironmentAndCultureInRetrosp_11357]]
+
+## Glacier Peak Ash
+
+### Summary
+Glacier Peak Ash is a volcanic ash layer found within the Lake Bretz deposits, and it is used to date them. The source uses it to place the deposits at about 12,000 years old. The author also exploited the ash's floating behavior to help separate it from the shell samples during processing.
+
+### Context
+> This 1973 Washington State University M.A. thesis in anthropology by James Jerry Landye uses a Late Quaternary nonmarine mollusk assemblage from the former [[Lake Bretz]] (Lower Grand Coulee, Washington) to reconstruct past aquatic environments and to assess the resources available to [[Early Man]]...
+> -- *[[EnvironmentalSignificanceOfLat_12693]]*
+
+### Mentioned In
+- [[EnvironmentalSignificanceOfLat_12693]]
 
 ## Glady Lou Lytle
 
@@ -13928,6 +14244,9 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 > This December 1989 newsletter from the [[Glen Canyon Environmental Studies]] (GCES) program reports on a four-day steady 5,000 cubic feet per second (cfs) flow release from [[Glen Canyon Dam]], conducted October 6-9, 1989, within a broader October 4-17 study period. Over 40 researchers examined...
 > -- *[[GlenCanyonEnvironmentalStudies_19682]]*
 
+> This Bureau of Reclamation summary covers the Final Environmental Impact Statement (EIS) on the operation of [[Glen Canyon Dam]], which analyzes nine alternative operating regimes for the dam on the [[Colorado River]] through [[Glen Canyon]] and [[Grand Canyon]]. The EIS was commissioned in 1989 to...
+> -- *[[OperationOfGlenCanyonDamFinalE_11725]]*
+
 ### Mentioned In
 - [[CoordinationOfTheAquaticStudie_1990]]
 - [[FishHandlingAssessmentOnGrandC_1991_09_05]]
@@ -13961,6 +14280,7 @@ Glen Canyon refers to a critical reach of the Colorado River ecosystem in Arizon
 - [[LatePleistoceneAndRecentErosio_17546]]
 - [[TheColoradoRiverRailroadSurvey_16614]]
 - [[GlenCanyonEnvironmentalStudies_19682]]
+- [[OperationOfGlenCanyonDamFinalE_11725]]
 
 ## Glen Canyon Adaptive Management Program
 <!-- fm: auto_enriched: true -->
@@ -14594,6 +14914,21 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This BIO/WEST, Inc. interim report (June 23, 1995), prepared by [[Ronald J. Ryel]] and [[Richard A. Valdez]] for the Bureau of Reclamation and the [[Glen Canyon Environmental Studies]] (GCES) program, describes the development of a quantitative population model for the endangered [[Humpback Chub]]...
 > -- *[[DevelopmentOfAPopulationModelF_21129]]*
 
+> This U.S. [[Bureau of Reclamation]] draft environmental assessment (EA) and plan, dated January 1999, evaluates modifying the intakes of [[Glen Canyon Dam]] so that the release temperature of the Colorado River can be managed. Cold releases (about 8–10°C) from the dam's deep power intakes are...
+> -- *[[GlenCanyonDamModificationsToCo_11454]]*
+
+> This Bureau of Reclamation summary covers the Final Environmental Impact Statement (EIS) on the operation of [[Glen Canyon Dam]], which analyzes nine alternative operating regimes for the dam on the [[Colorado River]] through [[Glen Canyon]] and [[Grand Canyon]]. The EIS was commissioned in 1989 to...
+> -- *[[OperationOfGlenCanyonDamFinalE_11725]]*
+
+> This draft Data Collection Plan (June 15, 1995), prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] Upper Colorado River Region, documents the field, handling, telemetry, habitat, drift, hydrology, water-quality and data-management methods used in a study of the endangered [[Humpback...
+> -- *[[LifeHistoryAndEcologyOfTheHump_17640]]*
+
+> This document is the transmittal package and river data summaries for the Arizona component of the [[Nationwide Rivers Inventory]], issued by the [[National Park Service]] Western Region in April 1982 (list dated January 1982). It covers 14 Arizona rivers or river segments that were judged to be...
+> -- *[[TheNationwideRiversInventoryAr_19590]]*
+
+> This package is a 1993–1994 consultation record for the operation of [[Glen Canyon Dam]] on the Colorado River. It includes a Reclamation transmittal memo for a technical review meeting (March 2, 1994, Las Vegas), a June 11, 1993 summary of a flow-scenario review, and the U.S. Fish and Wildlife...
+> -- *[[InformationForTheGlenCanyonDam_19732]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -14902,6 +15237,11 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[ReviewOfTheDraftFederalLongter_19497]]
 - [[RazorbackSuckerStudiesOnLakeMe_20464]]
 - [[DevelopmentOfAPopulationModelF_21129]]
+- [[GlenCanyonDamModificationsToCo_11454]]
+- [[OperationOfGlenCanyonDamFinalE_11725]]
+- [[LifeHistoryAndEcologyOfTheHump_17640]]
+- [[TheNationwideRiversInventoryAr_19590]]
+- [[InformationForTheGlenCanyonDam_19732]]
 
 ## Glen Canyon Dam Adaptive Management Program
 <!-- fm: auto_enriched: true -->
@@ -15281,6 +15621,15 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This BIO/WEST, Inc. interim report (June 23, 1995), prepared by [[Ronald J. Ryel]] and [[Richard A. Valdez]] for the Bureau of Reclamation and the [[Glen Canyon Environmental Studies]] (GCES) program, describes the development of a quantitative population model for the endangered [[Humpback Chub]]...
 > -- *[[DevelopmentOfAPopulationModelF_21129]]*
 
+> This Bureau of Reclamation summary covers the Final Environmental Impact Statement (EIS) on the operation of [[Glen Canyon Dam]], which analyzes nine alternative operating regimes for the dam on the [[Colorado River]] through [[Glen Canyon]] and [[Grand Canyon]]. The EIS was commissioned in 1989 to...
+> -- *[[OperationOfGlenCanyonDamFinalE_11725]]*
+
+> This draft Data Collection Plan (June 15, 1995), prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] Upper Colorado River Region, documents the field, handling, telemetry, habitat, drift, hydrology, water-quality and data-management methods used in a study of the endangered [[Humpback...
+> -- *[[LifeHistoryAndEcologyOfTheHump_17640]]*
+
+> This package is a 1993–1994 consultation record for the operation of [[Glen Canyon Dam]] on the Colorado River. It includes a Reclamation transmittal memo for a technical review meeting (March 2, 1994, Las Vegas), a June 11, 1993 summary of a flow-scenario review, and the U.S. Fish and Wildlife...
+> -- *[[InformationForTheGlenCanyonDam_19732]]*
+
 ### Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -15421,6 +15770,9 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[EffectsOfInterimFlowsFromGlenC_17639]]
 - [[ReviewOfTheDraftFederalLongter_19497]]
 - [[DevelopmentOfAPopulationModelF_21129]]
+- [[OperationOfGlenCanyonDamFinalE_11725]]
+- [[LifeHistoryAndEcologyOfTheHump_17640]]
+- [[InformationForTheGlenCanyonDam_19732]]
 
 ## Glen Canyon Environmental Studies (Gces)
 <!-- fm: auto_enriched: true -->
@@ -15628,8 +15980,12 @@ A reservoir in Wyoming used as an analog for Norden. Its nearly identical phosph
 > This Bureau of Reclamation technical report (REC-ERC-81-8, May 1981, by James W. Yahnke) assesses the water quality of the proposed [[Norden Reservoir]] on the [[Niobrara River]] in north-central Nebraska. It was prepared after the EPA and the Nebraska Department of Environmental Control questioned...
 > -- *[[WaterQualityOfTheProposedNorde_20874]]*
 
+> This joint report from the Wyoming Game and Fish Department and the Utah State Department of Fish and Game describes the planning, field operation, and evaluation of a 1962 rotenone treatment of about 445 miles of the [[Green River]] and its tributaries above [[Flaming Gorge Dam]]. The stated...
+> -- *[[ThePlanningOperationAndAnalysi_18252]]*
+
 ### Mentioned In
 - [[WaterQualityOfTheProposedNorde_20874]]
+- [[ThePlanningOperationAndAnalysi_18252]]
 
 ## Glenn France
 
@@ -15972,8 +16328,12 @@ Glycollic acid is a small organic compound that phytoplankton release during pho
 > This is a class-use bibliography compiled by [[Robert J. Beyers]], Director of the [[Savannah River Ecology Laboratory]], in October 1967. It lists published and unpublished literature on measuring the primary productivity of aquatic ecosystems. Entries are coded with Roman numerals (I–VII) for...
 > -- *[[PartialBibliographyOfInterestT_18238]]*
 
+> This is the transactions volume of the Third Seminar on Biological Problems in Water Pollution, held in 1962 and published in 1965 by the [[Robert A. Taft Sanitary Engineering Center]] as Public Health Service Publication No. 999-WP-25. The seminar, planned by [[Clarence M. Tarzwell]], focused on...
+> -- *[[FactorsThatAffectTheToleranceO_16170]]*
+
 ### Mentioned In
 - [[PartialBibliographyOfInterestT_18238]]
+- [[FactorsThatAffectTheToleranceO_16170]]
 
 ## Glyptocephalus stelleri
 
@@ -16691,6 +17051,12 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > This Delaware Board of Game and Fish Commissioners publication (Fisheries Publication No. 1, 1952) reports a 1950 summer survey of nine warm-water impoundments in Delaware. Crews combined fish sampling, a creel census of anglers, age determination from scales, bottom fauna and plankton sampling,...
 > -- *[[FreshWaterFisheriesSurvey_20643]]*
 
+> This 1970 report from the [[Bureau Of Sport Fisheries And Wildlife]] (Resource Publication 83) reviews the state of warmwater fish farming in the American South, focusing on [[Channel Catfish]] and baitfishes. It presents the industry as a fast-growing agricultural enterprise, with about 68,000...
+> -- *[[TheStatusOfWarmwaterFishFarmin_11529]]*
+
+> This 1948 U.S. Fish and Wildlife Service circular, prepared by J. R. Dobie, O. L. Meehean, and G. N. Washburn for the Tri-State Fishery Conference, is a practical guide to raising minnows and other bait species in ponds as a commercial venture. It was motivated by a shortage of wild bait minnows,...
+> -- *[[PropagationOfMinnowsAndOtherBa_19046]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AgeAndGrowthOfFourSpeciesOfWar_1958]]
@@ -16785,6 +17151,8 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[StatusOfCyprinodonMaculariusEr_15416]]
 - [[PondFishAndFishingInIllinois_16199]]
 - [[FreshWaterFisheriesSurvey_20643]]
+- [[TheStatusOfWarmwaterFishFarmin_11529]]
+- [[PropagationOfMinnowsAndOtherBa_19046]]
 
 ## Golden Shiner Group
 <!-- fm: auto_enriched: true -->
@@ -17146,6 +17514,12 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > This Arizona Game and Fish Department (AGFD) technical report evaluates [[Gila Topminnow]] reintroduction sites in Arizona during the 1994-95 field season. Many reintroduced populations have failed, yet sites that are not formally declared "extirpated" still trigger [[Section 7 Consultation]]...
 > -- *[[GilaTopminnowExtirpationSitesI_19666]]*
 
+> This 1970 report from the [[Bureau Of Sport Fisheries And Wildlife]] (Resource Publication 83) reviews the state of warmwater fish farming in the American South, focusing on [[Channel Catfish]] and baitfishes. It presents the industry as a fast-growing agricultural enterprise, with about 68,000...
+> -- *[[TheStatusOfWarmwaterFishFarmin_11529]]*
+
+> This Illinois Natural History Survey bulletin (March 1963, Vol. 28, Art. 2) by R. Weldon Larimore and Philip W. Smith compares three fish surveys of [[Champaign County]], Illinois, made in 1899 ([[Forbes and Richardson Survey]]), 1928 ([[Thompson and Hunt Survey]]), and 1959 ([[Larimore and Smith...
+> -- *[[TheFishesOfChampaignCountyIlli_12724]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[APreliminaryListOfMontanaFishe_13003]]
@@ -17232,6 +17606,8 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[NonnativeFishesInhabitingTheSt_12682]]
 - [[TheFishesOfUtah_18742]]
 - [[GilaTopminnowExtirpationSitesI_19666]]
+- [[TheStatusOfWarmwaterFishFarmin_11529]]
+- [[TheFishesOfChampaignCountyIlli_12724]]
 
 ## Goldfish Cytogenetics
 
@@ -18315,6 +18691,18 @@ Govenia utriculata is an orchid species found in the Sierra Madre range southwes
 ### Mentioned In
 - [[LeafprintAnalysesAnEcologicall_16349]]
 
+## Government Bridge Study Area
+
+### Summary
+The Government Bridge Study Area is a Yampa River reach at RMI 95-100 used in the squawfish winter study. It is dominated by man-made rock jetties and a large backwater at RMI 95.7 formed by 1984 floods, along with long slow runs and a deep eddy-pool at RMI 99.
+
+### Context
+> This final report by Edmund J. Wick and John A. Hawkins (Colorado State University, Larval Fish Laboratory, February 1989) documents two winters of radiotelemetry on adult [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the upper [[Yampa River]], Colorado. The work was commissioned under Section...
+> -- *[[ColoradoSquawfishWinterHabitat_12220]]*
+
+### Mentioned In
+- [[ColoradoSquawfishWinterHabitat_12220]]
+
 ## Government Highline Canal
 
 ### Summary
@@ -18332,6 +18720,18 @@ The Government Highline Canal is one of three major diversions on the Colorado R
 
 ### Mentioned In
 - [[HighlightsOfTheRazorbackSucker_1994_10_22]]
+
+## Government Performance and Results Act
+
+### Summary
+The GPRA is the federal law that requires agencies to set strategic goals and report on performance. This U.S. Fish and Wildlife Service plan was developed under it, with goals, performance measures and annual performance plans linked to the strategic goals.
+
+### Context
+> This GPRA-mandated Strategic Plan for the [[U.S. Fish and Wildlife Service]] covers September 30, 1997 to September 30, 2002. It sets out the agency mission, four mission goals, twenty strategic goals, and associated performance measures. The plan is organized around conserving fish and wildlife...
+> -- *[[StrategicPlanSeptemberSeptembe_13193]]*
+
+### Mentioned In
+- [[StrategicPlanSeptemberSeptembe_13193]]
 
 ## Government Spring
 
@@ -18422,6 +18822,30 @@ Gowd-e Zereh is a salt flat in the Sistan basin. This source reports it receives
 
 ### Mentioned In
 - [[OriginOfBroodStockAndAllozymeV_1989]]
+
+## GR64VAN
+
+### Summary
+A 1964 datafile covering the Green and Yampa rivers, with 780 records. It lists 240 Colorado squawfish and 38 razorback suckers and no humpback chub captured.
+
+### Context
+> This document is a project package issued by [[BIO/WEST Inc]] on December 12, 1986, to participants in a contract from the [[U.S. Fish and Wildlife Service]] (FWS). The contract aims to produce habitat suitability index (SI) curves for [[Colorado Squawfish]], [[Humpback Chub]] and [[Razorback...
+> -- *[[DevelopmentOfHabitatSuitabilit_13604]]*
+
+### Mentioned In
+- [[DevelopmentOfHabitatSuitabilit_13604]]
+
+## GR79I
+
+### Summary
+A 1979 datafile for the Green River with 1,260 records. It includes 233 young-of-the-year and 39 juvenile Colorado squawfish and one adult razorback sucker.
+
+### Context
+> This document is a project package issued by [[BIO/WEST Inc]] on December 12, 1986, to participants in a contract from the [[U.S. Fish and Wildlife Service]] (FWS). The contract aims to produce habitat suitability index (SI) curves for [[Colorado Squawfish]], [[Humpback Chub]] and [[Razorback...
+> -- *[[DevelopmentOfHabitatSuitabilit_13604]]*
+
+### Mentioned In
+- [[DevelopmentOfHabitatSuitabilit_13604]]
 
 ## Gracilis Section
 
@@ -19069,6 +19493,15 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > This is a preliminary annotated-free bibliography compiled by Duncan McClusky on May 1, 1989, listing published and unpublished literature on [[Freshwater Fishes]] of [[Arizona]]. The author describes the list as a starting point: after a visit with [[C. O. Minckley]] of [[Arizona State...
 > -- *[[PreliminaryBibliographyOnFishI_12265]]*
 
+> This U.S. [[Bureau of Reclamation]] draft environmental assessment (EA) and plan, dated January 1999, evaluates modifying the intakes of [[Glen Canyon Dam]] so that the release temperature of the Colorado River can be managed. Cold releases (about 8–10°C) from the dam's deep power intakes are...
+> -- *[[GlenCanyonDamModificationsToCo_11454]]*
+
+> This Bureau of Reclamation summary covers the Final Environmental Impact Statement (EIS) on the operation of [[Glen Canyon Dam]], which analyzes nine alternative operating regimes for the dam on the [[Colorado River]] through [[Glen Canyon]] and [[Grand Canyon]]. The EIS was commissioned in 1989 to...
+> -- *[[OperationOfGlenCanyonDamFinalE_11725]]*
+
+> This draft Data Collection Plan (June 15, 1995), prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] Upper Colorado River Region, documents the field, handling, telemetry, habitat, drift, hydrology, water-quality and data-management methods used in a study of the endangered [[Humpback...
+> -- *[[LifeHistoryAndEcologyOfTheHump_17640]]*
+
 ### Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -19286,6 +19719,9 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[MinutesfebruaryRecoveryImpleme_21005]]
 - [[MovementOfHumpbackChubInTheCol_21130]]
 - [[PreliminaryBibliographyOnFishI_12265]]
+- [[GlenCanyonDamModificationsToCo_11454]]
+- [[OperationOfGlenCanyonDamFinalE_11725]]
+- [[LifeHistoryAndEcologyOfTheHump_17640]]
 
 ## Grand Canyon Beaches
 
@@ -19423,6 +19859,9 @@ The Grand Canyon Ecosystem, in the context of fisheries science, refers to the i
 > This is a volume of abstracts from a symposium held February 16-17, 1999, at Grand Canyon National Park and organized by the [[Grand Canyon Monitoring and Research Center]] (GCMRC). It covers the [[Glen Canyon Dam]] Adaptive Management Program, which oversees the Colorado River ecosystem from the...
 > -- *[[GlenCanyonDamAdaptiveManagemen_18130]]*
 
+> This U.S. [[Bureau of Reclamation]] draft environmental assessment (EA) and plan, dated January 1999, evaluates modifying the intakes of [[Glen Canyon Dam]] so that the release temperature of the Colorado River can be managed. Cold releases (about 8–10°C) from the dam's deep power intakes are...
+> -- *[[GlenCanyonDamModificationsToCo_11454]]*
+
 ### Mentioned In
 - [[NrcWstbGcmrcCommitteeStrategic_1998_07_30]]
 - [[GlenCanyonDamTemperatureContro_17019]]
@@ -19432,6 +19871,7 @@ The Grand Canyon Ecosystem, in the context of fisheries science, refers to the i
 - [[IntegrationAndEvaluationOfGlen_18447]]
 - [[EstablishmentOfTheGrandCanyonM_16920]]
 - [[GlenCanyonDamAdaptiveManagemen_18130]]
+- [[GlenCanyonDamModificationsToCo_11454]]
 
 ## Grand Canyon National Game Preserve
 
@@ -19581,6 +20021,9 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > This National Research Council (NRC) report reviews the Bureau of Reclamation's Draft Federal Long-Term Monitoring Plan for the Colorado River between [[Glen Canyon Dam]] and [[Lake Mead]], a reach of roughly 255 miles through Grand Canyon. The review was prepared by the Committee to Review the...
 > -- *[[ReviewOfTheDraftFederalLongter_19497]]*
 
+> This draft Data Collection Plan (June 15, 1995), prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] Upper Colorado River Region, documents the field, handling, telemetry, habitat, drift, hydrology, water-quality and data-management methods used in a study of the endangered [[Humpback...
+> -- *[[LifeHistoryAndEcologyOfTheHump_17640]]*
+
 ### Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -19647,6 +20090,7 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[RiverResourceMonitoringProject_17434]]
 - [[GrandCanyonNationalParkArizona_11517]]
 - [[ReviewOfTheDraftFederalLongter_19497]]
+- [[LifeHistoryAndEcologyOfTheHump_17640]]
 
 ## Grand Canyon Native Fish Monitoring
 <!-- fm: auto_enriched: true -->
@@ -19709,6 +20153,12 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 > This National Research Council (NRC) report reviews the Bureau of Reclamation's Draft Federal Long-Term Monitoring Plan for the Colorado River between [[Glen Canyon Dam]] and [[Lake Mead]], a reach of roughly 255 miles through Grand Canyon. The review was prepared by the Committee to Review the...
 > -- *[[ReviewOfTheDraftFederalLongter_19497]]*
 
+> This Bureau of Reclamation summary covers the Final Environmental Impact Statement (EIS) on the operation of [[Glen Canyon Dam]], which analyzes nine alternative operating regimes for the dam on the [[Colorado River]] through [[Glen Canyon]] and [[Grand Canyon]]. The EIS was commissioned in 1989 to...
+> -- *[[OperationOfGlenCanyonDamFinalE_11725]]*
+
+> J. William McDonald, an attorney with the U.S. Department of the Interior, prepared this paper (first edition May 1997; second edition July 1997) for the [[Western Water Policy Review Advisory Commission]]. It asks whether the Commission should address the grievance of upper basin states that...
+> -- *[[TheUpperBasinsPoliticalConundr_12302]]*
+
 ### Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AgendaForFebruaryMeetingPlanni_1993_12_28]]
@@ -19727,6 +20177,8 @@ The Grand Canyon Protection Act is a federal mandate that requires ecosystem-bas
 - [[GlenCanyonDamAdaptiveManagemen_18130]]
 - [[OperationOfGlenCanyonDam_11487]]
 - [[ReviewOfTheDraftFederalLongter_19497]]
+- [[OperationOfGlenCanyonDamFinalE_11725]]
+- [[TheUpperBasinsPoliticalConundr_12302]]
 
 ## Grand Canyon Protection Act of 1992
 
@@ -19883,6 +20335,9 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 > This document comprises a 1989 research proposal by [[Thomas E. Dowling]] and [[W. L. Minckley]] to assess genetic diversity of [[Razorback Sucker]] (*Xyrauchen texanus*) populations using restriction endonuclease analysis of mitochondrial DNA (mtDNA), submitted to the [[U.S. Bureau of...
 > -- *[[GeneticDiversityOfRazorbackSuc_19113]]*
 
+> This 1990 status review, prepared by Kevin R. Bestgen of the [[Larval Fish Laboratory]] at Colorado State University for the [[U.S. Bureau of Reclamation]], compiles historic and present information on the [[Razorback Sucker]], an endemic catostomid of the [[Colorado River Basin]]. The species was...
+> -- *[[StatusReviewOfTheRazorbackSuck_18211]]*
+
 ### Mentioned In
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
 - [[AnnualReportOnRazorbackSuckerM_1992_11_24]]
@@ -19897,6 +20352,7 @@ Grand Junction is a geographic sampling location on the Colorado River mainstem 
 - [[TripReportForUpperColoradoRive_12974]]
 - [[AnnualReportRecoveryProgramFor_11678]]
 - [[GeneticDiversityOfRazorbackSuc_19113]]
+- [[StatusReviewOfTheRazorbackSuck_18211]]
 
 ## Grand Junction Field Office
 <!-- fm: auto_enriched: true -->
@@ -20440,6 +20896,18 @@ Granite Gorge is the section of Grand Canyon where the river transitions from Ma
 ### Mentioned In
 - [[LifeHistoryAndEcologyOfTheHump_1995_06_30]]
 
+## Granite Point
+
+### Summary
+Granite Point is an archaeological site, designated 45WT41, cited in the source as an Early Man site in the region. The source includes it among sites in adjacent regions used for context. It is not described in further detail.
+
+### Context
+> This 1973 Washington State University M.A. thesis in anthropology by James Jerry Landye uses a Late Quaternary nonmarine mollusk assemblage from the former [[Lake Bretz]] (Lower Grand Coulee, Washington) to reconstruct past aquatic environments and to assess the resources available to [[Early Man]]...
+> -- *[[EnvironmentalSignificanceOfLat_12693]]*
+
+### Mentioned In
+- [[EnvironmentalSignificanceOfLat_12693]]
+
 ## Granite Rapid
 
 ### Summary
@@ -20749,6 +21217,9 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 > This January 1969 document by W. L. Minckley, Department of Zoology, Arizona State University, Tempe, is a dichotomous identification key to the bony fish families of inland North America, with a species-level section for [[Arizona]]. It works through about 40 numbered couplets to reach a family,...
 > -- *[[KeyToFamiliesOfBonyFishesInInl_18571]]*
 
+> This Colorado State University project report, prepared for the [[Recovery Program for the Endangered Fishes of the Upper Colorado River Basin]], assesses public awareness of, beliefs about, attitudes toward, and support for recovering four endangered fish: the [[Colorado Squawfish]], [[Razorback...
+> -- *[[KnowledgeBeliefsAndAttitudesTo_13111]]*
+
 ### Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -20794,6 +21265,7 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 - [[NonnativeFishesInhabitingTheSt_12682]]
 - [[TheApplicationOfScienceToInlan_20224]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
+- [[KnowledgeBeliefsAndAttitudesTo_13111]]
 
 ## Grass Carp As Biological Control
 <!-- fm: auto_enriched: true -->
@@ -21037,10 +21509,14 @@ Flooded gravel-pit ponds beside the Colorado River in the Grand Valley. Accordin
 > This 1989 final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fishery Project evaluates how the endangered [[Colorado Squawfish]] and [[Razorback Sucker]] use the 14.2-mile [[15-Mile Reach]] of the [[Colorado River]] in the [[Grand Valley]], Colorado. The study ran from May 1986...
 > -- *[[StudiesOfColoradoSquawfishAndR_18346]]*
 
+> This 1987 Utah State University M.S. thesis by Douglas B. Osmundson examines how introduced [[Largemouth Bass]] (*Micropterus salmoides*) predation affects survival and growth of hatchery-reared [[Colorado Squawfish]] (*Ptychocheilus lucius*) stocked into five flooded [[Gravel-Pit Ponds]] adjacent...
+> -- *[[GrowthAndSurvivalOfColoradoSqu_18345]]*
+
 ### Mentioned In
 - [[AReportOnTheStudiesOfTheEndang_17862]]
 - [[ColoradoSquawfishAndRazorbackS_18350]]
 - [[StudiesOfColoradoSquawfishAndR_18346]]
+- [[GrowthAndSurvivalOfColoradoSqu_18345]]
 
 ## Gravity Fault
 
@@ -21680,6 +22156,12 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 > This review by [[Peter J. Mehringer Jr.]] (Washington State University), published in the [[Desert Research Institute]] symposium volume edited by [[Don D. Fowler]] (1977), synthesizes evidence for the magnitude and chronology of late Quaternary environmental change in the [[Great Basin]]. The...
 > -- *[[GreatBasinLateQuaternaryEnviro_20097]]*
 
+> This 1991 strategy plan from the [[Bureau of Land Management]] (BLM) Special Status Fishes Team sets out a 10-year program (fiscal years 1991–2000) to maintain, protect, and enhance rare fishes and their habitats on public lands in eleven western states. BLM manages 155,000 miles of fishable...
+> -- *[[SpecialStatusFishesHabitatMana_11698]]*
+
+> This taxonomic report, prepared by [[Edward Drinker Cope]] (fish descriptions) and [[Henry Yarrow]] (comparisons, synonymy, bibliography, and field lists), covers the [[Field Survey Collection]] of freshwater fishes gathered in Nevada, Utah, California, Colorado, New Mexico, and Arizona during...
+> -- *[[ReportUponTheCollectionsOfFish_17579]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -21708,6 +22190,8 @@ The Great Basin is a vast endorheic (internally draining) desert region of the A
 - [[TheCaliforniaDesertConservatio_11541]]
 - [[PaleohydrologyOfTheSouthernGre_12116]]
 - [[GreatBasinLateQuaternaryEnviro_20097]]
+- [[SpecialStatusFishesHabitatMana_11698]]
+- [[ReportUponTheCollectionsOfFish_17579]]
 
 ## Great Basin Complex
 
@@ -22475,6 +22959,18 @@ The Great Lakes Research Station at Baie du Doré, near Kincardine, Ontario, on 
 - [[ReviewOfBattleAgainstExtinctio_16278]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
 - [[TheNativeFishFaunaOfMajorDrain_20711]]
+
+## Great Plains Agricultural Council
+
+### Summary
+A co-organizer, with the Society for Range Management's task force, of the 1991 Washington, DC symposium that produced this proceedings on the Conservation Reserve Program. The source names it only as a sponsoring body and does not describe its other activities.
+
+### Context
+> This USDA Forest Service General Technical Report (RM-203, May 1991) collects papers from a 1991 Society for Range Management symposium held in Washington, DC. It was organized by the [[Great Plains Agricultural Council]] and the [[Society for Range Management]] task forces on the [[Conservation...
+> -- *[[TheConservationReserveyesterda_19864]]*
+
+### Mentioned In
+- [[TheConservationReserveyesterda_19864]]
 
 ## Great Plains Fauna
 
@@ -23620,6 +24116,33 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > This 1977 U.S. Fish and Wildlife Service report, prepared by Paul B. Holden of [[BIO/WEST Inc]] under the Federal Interagency Energy/Environmental Research and Development Program, examines the habitat use and movements of rare fishes in the [[Green River]] between Jensen and Green River, Utah,...
 > -- *[[HabitatRequirementsOfJuvenileC_19387]]*
 
+> This U.S. Fish and Wildlife Service final report (March 1999, Recovery Implementation Program Project No. 48, author Douglas B. Osmundson) examines how forage fish availability and water temperature shape the distribution and carrying capacity of adult [[Colorado Pikeminnow]] in the upper...
+> -- *[[LongitudinalVariationInFishCom_11768]]*
+
+> This document is a 1996 Fish and Wildlife Service memorandum distributing a revised [[Section 7 Consultation]] agreement and the [[Recovery Implementation Program]] Recovery Action Plan ([[RIPRAP]]). Together they govern recovery of four endangered [[Colorado River Fishes]]: [[Colorado Squawfish]],...
+> -- *[[SectionConsultationSufficientP_11961]]*
+
+> This 1964 Colorado State University Master of Science thesis by [[Joe L. Banks]] examines how stream-flow, water temperature, turbidity, [[Bottom Types]], food availability and an accidental rotenone pollution event shaped the distribution of the fish fauna of the [[Green River]] and [[Yampa...
+> -- *[[FishSpeciesDistributionInDinos_17316]]*
+
+> This 1960 Wyoming Game and Fish Commission technical report (Fisheries Technical Report No. 9, by [[Clifford E. Bosley]]) assesses the fish, water chemistry, and habitat of the lower [[Green River]] before the [[Flaming Gorge Reservoir]] was impounded behind [[Ashley Dam]]. Surveys found game fish...
+> -- *[[PreimpoundmentStudyOfTheFlamin_17734]]*
+
+> This 1990 status review, prepared by Kevin R. Bestgen of the [[Larval Fish Laboratory]] at Colorado State University for the [[U.S. Bureau of Reclamation]], compiles historic and present information on the [[Razorback Sucker]], an endemic catostomid of the [[Colorado River Basin]]. The species was...
+> -- *[[StatusReviewOfTheRazorbackSuck_18211]]*
+
+> This joint report from the Wyoming Game and Fish Department and the Utah State Department of Fish and Game describes the planning, field operation, and evaluation of a 1962 rotenone treatment of about 445 miles of the [[Green River]] and its tributaries above [[Flaming Gorge Dam]]. The stated...
+> -- *[[ThePlanningOperationAndAnalysi_18252]]*
+
+> This June 1986 Special Report from the [[Colorado Division of Wildlife]] is an annotated bibliography of the fishes of Colorado, compiled by Charles M. Haynes and Karen Hamilton. It is meant as a foundation for understanding the state's fish fauna, past and present, and as a springboard to the...
+> -- *[[AnAnnotatedBibliographyOfTheFi_20733]]*
+
+> This January 1990 draft annual report, circulated by the [[U.S. Fish and Wildlife Service]] (Colorado River Recovery Implementation Program), reviews fiscal year 1989 work on endangered fishes of the [[Upper Colorado River Basin]]. It compiles accomplishment highlights, a summary of changes and...
+> -- *[[FiscalYearDraftAnnualReportRec_21032]]*
+
+> This 1990 status review, prepared by Kevin R. Bestgen of the [[Larval Fish Laboratory]] at Colorado State University for the [[Bureau of Reclamation]] (Upper Colorado Regional Office), compiles historic and present information on the [[Razorback Sucker]], an endemic catostomid of the [[Colorado...
+> -- *[[StatusReviewOfRazorbackSuckerI_21034]]*
+
 ### Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -23878,6 +24401,15 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[CollectedNotesminutesreportsno_17172]]
 - [[YampaRiverFishesStudy_18482]]
 - [[HabitatRequirementsOfJuvenileC_19387]]
+- [[LongitudinalVariationInFishCom_11768]]
+- [[SectionConsultationSufficientP_11961]]
+- [[FishSpeciesDistributionInDinos_17316]]
+- [[PreimpoundmentStudyOfTheFlamin_17734]]
+- [[StatusReviewOfTheRazorbackSuck_18211]]
+- [[ThePlanningOperationAndAnalysi_18252]]
+- [[AnAnnotatedBibliographyOfTheFi_20733]]
+- [[FiscalYearDraftAnnualReportRec_21032]]
+- [[StatusReviewOfRazorbackSuckerI_21034]]
 
 ## Green River (Colorado River Basin)
 <!-- fm: auto_enriched: true -->
@@ -24887,6 +25419,24 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > This June 2000 planning document, prepared for the [[Sonoran Desert Conservation Plan]] by Philip C. Rosen of the University of Arizona, argues that the native aquatic vertebrates of [[Pima County]] have been largely displaced by introduced species. Non-native fishes, [[Bullfrog]]s, and...
 > -- *[[AquaticVertebrateConservationI_21072]]*
 
+> This progress report from the Utah Division of Fish and Game, with contributions from the Arizona Game and Fish Department, covers the fifth year of post-impoundment fishery study on [[Lake Powell]] (Glen Canyon Reservoir) on the [[Colorado River]], for the biological year February 1967 to January...
+> -- *[[GlenCanyonReservoirPostimpound_14588]]*
+
+> This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
+> -- *[[FisheriesInvestigationsAndSurv_14936]]*
+
+> This 1990 status review, prepared by Kevin R. Bestgen of the [[Larval Fish Laboratory]] at Colorado State University for the [[U.S. Bureau of Reclamation]], compiles historic and present information on the [[Razorback Sucker]], an endemic catostomid of the [[Colorado River Basin]]. The species was...
+> -- *[[StatusReviewOfTheRazorbackSuck_18211]]*
+
+> The Black River Studies is a seven-part 1953 monograph by [[Missouri Conservation Commission]] and [[University of Missouri]] Wildlife Research Unit biologists. It combines a pre-impoundment survey of a Missouri Ozark stream (Black River, 1947) with post-impoundment monitoring of the same reach...
+> -- *[[TheBlackRiverStudies_18895]]*
+
+> This draft [[Environmental Assessment]], prepared by the [[U.S. Fish and Wildlife Service]] (Ecological Services, Grand Junction, Colorado; dated April 30, 1996), evaluates procedures that would guide future stocking of nonnative fishes in the [[Upper Colorado River Basin]]. The stated goal is to...
+> -- *[[DraftEnvironmentalAssessmentFo_19335]]*
+
+> This job completion report, prepared for the New Mexico Department of Game and Fish under Federal Aid Project F-22-R-2 (Work Plan 4, Job B-1), is a **progress report** on a multi-season study of [[Alamogordo Reservoir]], one of New Mexico's largest and most fluctuating artificial impoundments. Data...
+> -- *[[BiologicalAndChemicalStudyOfAl_20351]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
 - [[AFishPopulationStudyOfThirdSis_1942]]
@@ -25223,6 +25773,12 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[StatusReviewOfGilaChubGilaInte_19669]]
 - [[FreshWaterFisheriesSurvey_20643]]
 - [[AquaticVertebrateConservationI_21072]]
+- [[GlenCanyonReservoirPostimpound_14588]]
+- [[FisheriesInvestigationsAndSurv_14936]]
+- [[StatusReviewOfTheRazorbackSuck_18211]]
+- [[TheBlackRiverStudies_18895]]
+- [[DraftEnvironmentalAssessmentFo_19335]]
+- [[BiologicalAndChemicalStudyOfAl_20351]]
 
 ## Green Sunfish Group
 <!-- fm: auto_enriched: true -->
@@ -25349,6 +25905,9 @@ The Greenback Cutthroat Trout is a native North American salmonid species that a
 > This 1998 petition, filed by the [[Southwest Center for Biological Diversity]] and four other conservation groups (Petition #37), asks the [[U.S. Fish and Wildlife Service]] to list the [[Rio Grande Cutthroat Trout]] as endangered under the [[Endangered Species Act]] and to designate [[Critical...
 > -- *[[PetitionToListTheRioGrandeCutt_11809]]*
 
+> This June 1986 Special Report from the [[Colorado Division of Wildlife]] is an annotated bibliography of the fishes of Colorado, compiled by Charles M. Haynes and Karen Hamilton. It is meant as a foundation for understanding the state's fish fauna, past and present, and as a springboard to the...
+> -- *[[AnAnnotatedBibliographyOfTheFi_20733]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[CurrentRoleOfTroutCultureInMan_13158]]
@@ -25365,6 +25924,7 @@ The Greenback Cutthroat Trout is a native North American salmonid species that a
 - [[EndangeredAndThreatenedWildlif_18279]]
 - [[StatusOfEndangeredAndThreatene_19769]]
 - [[PetitionToListTheRioGrandeCutt_11809]]
+- [[AnAnnotatedBibliographyOfTheFi_20733]]
 
 ## Greenbank
 
@@ -25560,9 +26120,14 @@ A cited work that criticized the intrafamilial classification systems of Regan (
 ## Greenwood Et Al. 1966
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1968 draft by Joseph S. Nelson and Shelby D. Gerking (Department of Zoology, Indiana University, Bloomington; Indiana Aquatic Research Unit, Project 342-303-815) is an annotated dichotomous key for identifying the fishes present in, or recorded from, [[Indiana]]. It combines recent...
+> -- *[[AnnotatedKeyToTheFishesOfIndia_19632]]*
+
 ### Mentioned In
 - [[FishesOfTheWorldAKeyToFamilies_1975]]
 - [[TheDevelopmentalRateOfTheGreen_14262]]
+- [[AnnotatedKeyToTheFishesOfIndia_19632]]
 
 ## Greenwood Et Al. Classification
 <!-- fm: auto_enriched: true -->
@@ -25984,6 +26549,18 @@ Gross photosynthesis is the total oxygen production by the pond's plant communit
 - [[PrimaryProductivityAndFishHarv_12277]]
 - [[PrimaryProductivityFishHarvest_1959_11_19]]
 
+## Grossman and Freeman 1987
+
+### Summary
+A prior study cited by the author for the view that rainbow trout and rosyside dace are potential competitors because they use similar microhabitats, with current velocity being a key niche dimension. This dissertation builds on that competition framing when testing velocity selection.
+
+### Context
+> This 1989 University of Georgia doctoral dissertation by Jennifer Hill, directed by Gary D. Grossman, examines how stream fishes in Coweeta Creek, North Carolina use microhabitat. It combines four components: a [[Subcutaneous Marking Technique]] for individually identifying fish, a [[Home Range...
+> -- *[[TheEnergeticSignificanceOfMicr_20396]]*
+
+### Mentioned In
+- [[TheEnergeticSignificanceOfMicr_20396]]
+
 ## Ground Snake
 
 ### Summary
@@ -26254,6 +26831,18 @@ Groundwater mining refers to extracting groundwater faster than it is naturally 
 ### Mentioned In
 - [[EvolutionOfWaterCompositionInT_16819]]
 
+## Groundwater Overdraft
+
+### Summary
+Pumping of groundwater faster than it is replenished, which the report identifies as a major threat in the region. It notes that in 18% of 56 basins groundwater fell by more than 1 meter per year, and that Arizona pumping peaked in 1974 before declining.
+
+### Context
+> This 1998 assessment, sponsored by [[The Wildlands Project]] and authored by Gary Paul Nabhan and Andrew R. Holdsworth, characterizes the biodiversity of the [[Sonoran Desert]] bioregion and evaluates threats and the adequacy of current protection. It compiles surveys of 54 field scientists who...
+> -- *[[StateOfTheDesertDiomeUniquenes_19471]]*
+
+### Mentioned In
+- [[StateOfTheDesertDiomeUniquenes_19471]]
+
 ## Groundwater Pumping
 
 ### Summary
@@ -26406,8 +26995,12 @@ Growth compensation is a pattern in which fish that grow slowly in one period te
 > This 1933 study by [[Leonard P. Schultz]] (University of Washington Publications in Biology, Vol. 2, No. 3) examines the age, growth, sexual maturity and life history of baysmelt (*Atherinops*) collected between Coos Bay, Oregon, and San Diego Bay, California. Age was estimated primarily from...
 > -- *[[TheAgeAndGrowthOfAtherinopsAff_20623]]*
 
+> This Fishery Bulletin (No. 70, Fish and Wildlife Service, Volume 52, 1952) by Frank W. Jobes examines the [[American Yellow Perch]] (*Perca flavescens*) of [[Lake Erie]]. It combines a 1885–1947 commercial production record with a critical test of [[Scale Method]] age determination, body-scale...
+> -- *[[AgeGrowthAndProductionOfYellow_19742]]*
+
 ### Mentioned In
 - [[TheAgeAndGrowthOfAtherinopsAff_20623]]
+- [[AgeGrowthAndProductionOfYellow_19742]]
 
 ## Growth Curve
 <!-- fm: auto_enriched: true -->
@@ -26507,6 +27100,18 @@ The controlled feeding experiment in this source, in which four lots of 70 trout
 
 ### Mentioned In
 - [[APreliminaryNoteOnAMultipleApp_1958]]
+
+## Groynes
+
+### Summary
+Structures projecting from the bank into the channel to deflect flow and influence where sediment is deposited. The source includes them as a works type and cites the Avon River groynes as a case study.
+
+### Context
+> This 1990 guideline, published for the [[Standing Committee on Rivers and Catchments]] by the Department of Conservation & Environment (Victoria), provides a basic introduction to river morphology and ecology and describes the environmental effects of common river management works. It is intended...
+> -- *[[EnvironmentalGuidelinesForRive_12818]]*
+
+### Mentioned In
+- [[EnvironmentalGuidelinesForRive_12818]]
 
 ## Grubb and Kennedy
 
@@ -27219,6 +27824,15 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This 1932 geographic study by Fred B. Kniffen (University of California Publications in Geography, vol. 5) describes the natural landscape of the [[Colorado Delta]], an alluvial surface built by the [[Colorado River]] where it enters the upper [[Gulf of California]]. The document is primarily about...
 > -- *[[LowerCaliforniaStudiesIvTheNat_12572]]*
 
+> This paper by [[Shafiqullah]] and co-authors reviews 174 K-Ar age determinations from 154 localities in southwestern Arizona and adjacent areas, and uses them to reconstruct the region's geologic history from the Precambrian to the Pliocene. Many rock units previously dated only by lithologic...
+> -- *[[KarGeochronologyAndGeologicHis_11381]]*
+
+> This document is an archival bundle of letters, specimen invoices, loan notices, handwritten notes and a diagnostic character sheet. It concerns the taxonomy and distribution of *Cyprinodon* pupfishes, especially the Chihuahuan populations in the [[Guzman Basin]] and surrounding drainages. Most of...
+> -- *[[VariousCyprinodonInformationHa_15304]]*
+
+> This 1998 assessment, sponsored by [[The Wildlands Project]] and authored by Gary Paul Nabhan and Andrew R. Holdsworth, characterizes the biodiversity of the [[Sonoran Desert]] bioregion and evaluates threats and the adequacy of current protection. It compiles surveys of 54 field scientists who...
+> -- *[[StateOfTheDesertDiomeUniquenes_19471]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AllosebastesNewSubgenusForSeba_1951_11_19]]
@@ -27281,6 +27895,9 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[DraftRioYaquiFishesRecoveryPla_13748]]
 - [[GrandCanyonNationalParkArizona_11517]]
 - [[LowerCaliforniaStudiesIvTheNat_12572]]
+- [[KarGeochronologyAndGeologicHis_11381]]
+- [[VariousCyprinodonInformationHa_15304]]
+- [[StateOfTheDesertDiomeUniquenes_19471]]
 
 ## Gulf Of California Harbor Porpoise
 
@@ -27706,6 +28323,18 @@ Co-author with Carl L. Hubbs of the 1964 chapter 'Oceanography and Marine Life a
 ### Mentioned In
 - [[ExpandedBibliographyOfArticleE_14464]]
 
+## Gunnery Range Batholith
+
+### Summary
+The Gunnery Range Batholith is a Laramide-age granite body covering nearly 15,000 km² in the study region. The source reports biotite ages of 53.1 and 52.5 Ma from its western part, and muscovite from Adobe Blanco gives 53.2 Ma. The Cabeza Prieta Volcanics later filled canyons cut into this granite.
+
+### Context
+> This paper by [[Shafiqullah]] and co-authors reviews 174 K-Ar age determinations from 154 localities in southwestern Arizona and adjacent areas, and uses them to reconstruct the region's geologic history from the Precambrian to the Pliocene. Many rock units previously dated only by lithologic...
+> -- *[[KarGeochronologyAndGeologicHis_11381]]*
+
+### Mentioned In
+- [[KarGeochronologyAndGeologicHis_11381]]
+
 ## Gunning And Lewis 1956
 <!-- fm: auto_enriched: true -->
 
@@ -27950,6 +28579,12 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 > This [[Genetics Management Plan]], prepared by the U.S. Fish and Wildlife Service (Region 6, Denver) in August 1994 under the [[Recovery Implementation Program]], covers four [[Endangered Species Act]]-listed fishes of the [[Upper Colorado River Basin]]. The plan (1) justifies the identification of...
 > -- *[[GeneticsManagementPlanRecovery_20861]]*
 
+> This U.S. Fish and Wildlife Service final report (March 1999, Recovery Implementation Program Project No. 48, author Douglas B. Osmundson) examines how forage fish availability and water temperature shape the distribution and carrying capacity of adult [[Colorado Pikeminnow]] in the upper...
+> -- *[[LongitudinalVariationInFishCom_11768]]*
+
+> This document is a 1996 Fish and Wildlife Service memorandum distributing a revised [[Section 7 Consultation]] agreement and the [[Recovery Implementation Program]] Recovery Action Plan ([[RIPRAP]]). Together they govern recovery of four endangered [[Colorado River Fishes]]: [[Colorado Squawfish]],...
+> -- *[[SectionConsultationSufficientP_11961]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[DeterminationThatTheBonytailCh_1980_04_23]]
@@ -28033,6 +28668,8 @@ The Gunnison River is a major tributary of the Colorado River system that plays 
 - [[StudiesOfColoradoSquawfishAndR_18346]]
 - [[RecommendationsForFlowsInTheMi_18351]]
 - [[GeneticsManagementPlanRecovery_20861]]
+- [[LongitudinalVariationInFishCom_11768]]
+- [[SectionConsultationSufficientP_11961]]
 
 ## Gunnison River Basin
 <!-- fm: auto_enriched: true -->
@@ -28393,6 +29030,9 @@ The Guzman Basin is a geographic region in the Rio Yaqui watershed system that s
 > This document is a 1985 technical review draft of a [[Recovery Plan]] for the [[Chihuahua Chub]] (*Gila nigrescens*). It was prepared by the [[New Mexico Department of Game and Fish]] in cooperation with the [[U.S. Fish and Wildlife Service]], based on a management plan by Michael D. Hatch and John...
 > -- *[[TechnicalReviewDraftOfTheRecov_20712]]*
 
+> This document is an archival bundle of letters, specimen invoices, loan notices, handwritten notes and a diagnostic character sheet. It concerns the taxonomy and distribution of *Cyprinodon* pupfishes, especially the Chihuahuan populations in the [[Guzman Basin]] and surrounding drainages. Most of...
+> -- *[[VariousCyprinodonInformationHa_15304]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[DistributionAndStatusOfTheChih_1990_04_11]]
@@ -28404,6 +29044,7 @@ The Guzman Basin is a geographic region in the Rio Yaqui watershed system that s
 - [[SystematicsAndVariationOfANewC_21189]]
 - [[DistributionAndStatusOfChihuah_18712]]
 - [[TechnicalReviewDraftOfTheRecov_20712]]
+- [[VariousCyprinodonInformationHa_15304]]
 
 ## Guzman Beautiful Shiner
 <!-- fm: auto_enriched: true -->
@@ -28792,10 +29433,14 @@ Gyrinophilus subterraneus, the Tennessee cave salamander, is an obligately cave-
 > This 1932 New York State Conservation Department bulletin, by [[O. R. Kingsbury]] and [[G. C. Embody]] of the [[Cornell University]] Laboratory of Fish Culture, describes a device that treats hatchery fish diseases by adding a constant, metered flow of chemical reagent to the water supply of a...
 > -- *[[ThePreventionAndControlOfHatch_12545]]*
 
+> This Fish and Wildlife Service Research Report (revised edition, 1946, by H. S. Davis) is a practical manual for [[Trout Hatchery Management]]. It covers the rearing of fingerling trout in troughs, [[Raceway]]s and [[Circular Pool]]s, the nutrition and feeding of hatchery trout, brood stock...
+> -- *[[CareAndDiseasesOfTrout_13966]]*
+
 ### Mentioned In
 - [[FiveNewSpeciesOfGyrodactylusTr_12149]]
 - [[LoachMinnowStudyPlanForBiologi_1996_05_17]]
 - [[ThePreventionAndControlOfHatch_12545]]
+- [[CareAndDiseasesOfTrout_13966]]
 
 ## Gyrodactylus Baeacanthus
 <!-- fm: auto_enriched: true -->
