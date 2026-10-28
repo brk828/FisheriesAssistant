@@ -664,6 +664,9 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This report, prepared by Diana Papoulias of [[Arizona State University]] for the U.S. Fish and Wildlife Service, Office of Endangered Species, describes three laboratory experiments testing whether food availability controls mortality and growth in larval [[Razorback Sucker]] (*[[Xyrauchen...
 > -- *[[TheEffectOfFoodAvailabilityOnG_18413]]*
 
+> This 1975 letter from [[James E. Deacon]], Professor of Biology at the [[University Of Nevada Las Vegas]], replies to [[Clark Hubbs]] of the University of Texas. It supports Hubbs' proposal for a coordinated refugium program for rare Nevada fishes. The letter lists refugia already in development or...
+> -- *[[ReRefugiumIdeaAndSpeciesWhichS_13998]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -736,6 +739,7 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[NotesOnACollectionOfFishesMade_21252]]
 - [[EarlyDevelopmentAdultSexualDim_17842]]
 - [[TheEffectOfFoodAvailabilityOnG_18413]]
+- [[ReRefugiumIdeaAndSpeciesWhichS_13998]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->

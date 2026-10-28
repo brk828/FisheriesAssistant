@@ -429,6 +429,9 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 > This U.S. Department of Agriculture handbook, prepared by R. S. Dunham of the Agricultural Research Service in cooperation with the Bureau of Yards and Docks, Department of the Navy (issued March 1965), is a practical manual for chemical control of weeds on noncropland. It reviews more than 1,000...
 > -- *[[HerbicideManualForNoncroplandW_19157]]*
 
+> This preliminary report by Theophilus D. Inslee (U.S. Fish and Wildlife Service, Fish Culture Development Center, Tishomingo, Oklahoma) evaluates whether repeated chemical treatments can control parasitic fungal infestations, chiefly [[Saprolegnia Parasitica]], in pond-reared [[Largemouth Bass]]...
+> -- *[[APreliminaryReportOnTheControl_14372]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
@@ -438,6 +441,7 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 - [[ListOfReferencesOnControlOfAqu_19263]]
 - [[AquaticPlantsManagementAndCont_17108]]
 - [[HerbicideManualForNoncroplandW_19157]]
+- [[APreliminaryReportOnTheControl_14372]]
 
 ## 2,4-D and 2,4,5-T Herbicides
 
@@ -562,6 +566,18 @@ A section of the U.S. Code requiring that federal contracts generally be awarded
 ### Mentioned In
 - [[ConservationOfEndangeredSpecie_19348]]
 
+## 43 CFR Part 12
+
+### Summary
+43 CFR Part 12 is a section of the Code of Federal Regulations that governs administrative requirements for federal grants. The memo cites it as limiting the Service to imposing only requirements found in codified regulations on grantees, which is why the Federal Aid Manual was rewritten to match the CFR.
+
+### Context
+> This U.S. Fish and Wildlife Service (FWS) memorandum transmits background material from an Assistant Regional Director's presentation on the [[Federal Aid Program]] at Matagorda Island. It explains how the program is funded, who holds a stake in it, how the Service's role differs from that of the...
+> -- *[[FederalAidPresentationAtMatago_16453]]*
+
+### Mentioned In
+- [[FederalAidPresentationAtMatago_16453]]
+
 ## 5-Year Flaming Gorge Flow Investigations Program
 <!-- fm: auto_enriched: true -->
 
@@ -571,6 +587,30 @@ A section of the U.S. Code requiring that federal contracts generally be awarded
 
 ### Mentioned In
 - [[AnalysisOfPastCollectionsFromT_1993]]
+
+## 50 CFR 10.12
+
+### Summary
+A section of the Code of Federal Regulations (Title 50, Part 10, general provisions for Fish and Wildlife Service regulations). This source cites it only as the basis on which the fee may be waived or reduced for public institutions. The letter does not quote its text.
+
+### Context
+> This is an administrative letter from the [[U.S. Fish and Wildlife Service]] (Division of Endangered Species/Permits, Ecological Services, Region 2) to Dr. James P. Collins, Chair of the Department of Zoology at [[Arizona State University]]. It acknowledges receipt of an application for an...
+> -- *[[ResponseToRecentApplicationFor_20652]]*
+
+### Mentioned In
+- [[ResponseToRecentApplicationFor_20652]]
+
+## 50 CFR 13.11
+
+### Summary
+A section of the Code of Federal Regulations (Title 50, Part 13, the general permit procedures for U.S. Fish and Wildlife Service permits). In this letter, the Service cites subsection (c)(3) to explain why the $25.00 application fee was returned: no fee is charged to federal, state, or local government agencies, or to individuals or institutions under contract to them, for the proposed activities.
+
+### Context
+> This is an administrative letter from the [[U.S. Fish and Wildlife Service]] (Division of Endangered Species/Permits, Ecological Services, Region 2) to Dr. James P. Collins, Chair of the Department of Zoology at [[Arizona State University]]. It acknowledges receipt of an application for an...
+> -- *[[ResponseToRecentApplicationFor_20652]]*
+
+### Mentioned In
+- [[ResponseToRecentApplicationFor_20652]]
 
 ## 50 Cfr Part 424
 <!-- fm: auto_enriched: true -->
@@ -603,3 +643,15 @@ A section of the U.S. Code requiring that federal contracts generally be awarded
 
 ### Mentioned In
 - [[SummaryOfEndangeredFishResearc_13612]]
+
+## 60-Mile Site
+
+### Summary
+A target study site (river mile 60.0–60.1) in Grand Canyon, immediately above the Little Colorado River inflow. It was selected because two or more radiotagged adult Humpback Chub occupied it during the first year.
+
+### Context
+> This methods protocol, authored by R.A. Valdez and W.J. Masslich, sets out a standard procedure for measuring the [[Microhabitat]] used by adult [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] of [[Grand Canyon]]. The work is framed around two objectives: characterizing habitat complexes...
+> -- *[[ProtocolForQuantifyingAdultHum_13651]]*
+
+### Mentioned In
+- [[ProtocolForQuantifyingAdultHum_13651]]

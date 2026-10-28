@@ -62,9 +62,13 @@ The Qu'Appelle River is a river system in southern Saskatchewan, Canada, that in
 > This 1969 manual, written by Paul S. Mugford and published by the [[Massachusetts Division of Fisheries and Game]] (Publication No. 4064), is a field identification guide to the freshwater fishes of Massachusetts. It illustrates more than seventy species, provides dichotomous keys to families and...
 > -- *[[IllustratedManualOfMassachuset_15557]]*
 
+> This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
+> -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
+
 ### Mentioned In
 - [[WhyTheMassachusettsDivisionOfF_15491]]
 - [[IllustratedManualOfMassachuset_15557]]
+- [[ABibliographyOfSomeAgeAndGrowt_18720]]
 
 ## Quaboag River
 <!-- fm: auto_enriched: true -->
@@ -241,11 +245,19 @@ Quail Creek Diversion is a water diversion structure on the Virgin River in Utah
 > This draft annual assessment reports progress in fiscal year 1997 (FY1997) under the [[Virgin Spinedace Conservation Agreement]] (VSCA) for the [[Virgin Spinedace]], a small cyprinid of the [[Virgin River Basin]]. The agreement has two objectives: reducing or eliminating significant threats, and...
 > -- *[[VirginSpinedaceConservationAgr_20262]]*
 
+> This document is a faxed cover sheet and three draft minutes from meetings of the [[Virgin Spinedace]] Conservation Coordinating Team, transmitted by the [[Sierra Club Legal Defense Fund]] on February 9, 1995. The meetings (July 7, September 30, and August 31, 1994) brought together state, federal,...
+> -- *[[MinutesOfThreeDifferentVirginS_20094]]*
+
+> This advocacy letter, dated November 17, 1997 and sent by the Southwest Resource Council to the U.S. Fish and Wildlife Service (FWS), argues that the Washington County Water Conservancy District (WCWCD) has continuously violated the 86 cubic feet per second (cfs) instream flow bypass required by...
+> -- *[[InRegardsToTheWashingtonCounty_16270]]*
+
 ### Mentioned In
 - [[DraftConservationAgreementVirg_18320]]
 - [[VirginSpinedaceConservationAgr_20260]]
 - [[VirginSpinedaceConservationAgr_20261]]
 - [[VirginSpinedaceConservationAgr_20262]]
+- [[MinutesOfThreeDifferentVirginS_20094]]
+- [[InRegardsToTheWashingtonCounty_16270]]
 
 ## Quail Creek Pipeline
 
@@ -320,6 +332,15 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 > This draft report by [[BIO/WEST]] re-analyzes the [[Virgin River Database]], a centralized record of fish monitoring at multiple stations since 1976, to explain declines in native fishes. The primary focus is [[Woundfin]], a federally endangered minnow, with secondary attention to [[Virgin River...
 > -- *[[AnEvaluationOfChangesInNativeF_20471]]*
 
+> This advocacy letter, dated November 17, 1997 and sent by the Southwest Resource Council to the U.S. Fish and Wildlife Service (FWS), argues that the Washington County Water Conservancy District (WCWCD) has continuously violated the 86 cubic feet per second (cfs) instream flow bypass required by...
+> -- *[[InRegardsToTheWashingtonCounty_16270]]*
+
+> This study tests whether the [[Virgin River]] fish assemblage, a southwestern desert stream community, is structured mainly by biotic interactions or by abiotic disturbance. It draws on autumn seine data from five mainstream stations collected from 1977 to 1989. The period included a chemical...
+> -- *[[PersistenceAndStabilityOfTheVi_20636]]*
+
+> This 1994 [[Fish and Wildlife Service]] proposed rule would list the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a small minnow endemic to the [[Virgin River]] drainage, as a **threatened** species under the [[Endangered Species Act]]. The Service estimates that about 40 percent of...
+> -- *[[EndangeredAndThreatenedWildlif_11706]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -339,6 +360,9 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[CollectedNotesminutesreportsno_17172]]
 - [[DraftAnEvaluationOfChangesInNa_17641]]
 - [[AnEvaluationOfChangesInNativeF_20471]]
+- [[InRegardsToTheWashingtonCounty_16270]]
+- [[PersistenceAndStabilityOfTheVi_20636]]
+- [[EndangeredAndThreatenedWildlif_11706]]
 
 ## Quail Creek Reservoir Project
 <!-- fm: auto_enriched: true -->
@@ -478,6 +502,18 @@ Quantitative Ecology (Bio 526) was a graduate-level field class proposed for the
 
 ### Mentioned In
 - [[DraftEvaluationOfPotentialsFor_15827]]
+
+## Quantitative Genetic Variation
+
+### Summary
+This component studies traits that vary continuously, by rearing fish from eggs collected at several locations under identical laboratory conditions. This design would separate genetic differences from environmental effects. The author suggests such traits may reveal more differences than single-locus markers, because additive genetic variation is thought to arise faster (Lande 1987).
+
+### Context
+> This unpublished, preliminary research statement by [[Jason B. Dunham]] proposes a framework for evaluating a [[Hierarchical Recovery Model]] for the endangered [[Desert Pupfish]] (*Cyprinodon macularius*). The species once ranged across much of the American Southwest and northwest Mexico, but...
+> -- *[[StateOfProposedResearchEvaluat_19159]]*
+
+### Mentioned In
+- [[StateOfProposedResearchEvaluat_19159]]
 
 ## Quantum Evolution
 <!-- fm: auto_enriched: true -->
@@ -668,6 +704,18 @@ A museum that lent specimens to Ricker for this stonefly revision. The source li
 ### Mentioned In
 - [[SystematicStudiesInPlecoptera_16861]]
 
+## Quechan Indian Tribe
+
+### Summary
+The Quechan Indian Tribe is one of the five tribes named as stakeholders consulted for Provision 13(b) in this 1998 Reclamation document. The source lists them among the participants in the stakeholder process on Lower Colorado River flexibility for fish and wildlife, and does not record a specific position or finding about them.
+
+### Context
+> This draft letter and accompanying account from the [[Bureau of Reclamation]] Lower Colorado Regional Office (dated September 1, 1998) responds to Provision 13(b) of the Reasonable and Prudent Alternative (RPA) in the [[Fish and Wildlife Service]] (FWS) Biological Opinion of April 30, 1997 on Lower...
+> -- *[[ReviewOfDraftProvisionBOfTheRe_11455]]*
+
+### Mentioned In
+- [[ReviewOfDraftProvisionBOfTheRe_11455]]
+
 ## Queen Charlotte Islands
 
 ### Summary
@@ -733,12 +781,16 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 > This final report (Heritage Grant #193007, December 1995) from the [[Tonto National Forest]] documents Phase I of a project to prepare [[Arnett Creek]], a [[Queen Creek]] tributary in south-central Arizona, for native fish re-establishment. Phase I had three components: design of a fish barrier to...
 > -- *[[FinalReportForTheArnettCreekNa_17657]]*
 
+> This 1993 scoping letter and proposal from the [[Tonto National Forest]] (USDA Forest Service) describes management options for the Picketpost Mountain/Arnett Creek Analysis Area, south of Superior in Pinal County, Arizona. The central fish-related proposal is to reestablish a native fish community...
+> -- *[[PicketpostMountainarnettCreekA_15280]]*
+
 ### Mentioned In
 - [[AProposalToReestablishDesertSu_20730]]
 - [[EnvironmentalAssessmentarnettC_11509]]
 - [[StorageOfWaterOnGilaRiverArizo_20348]]
 - [[GroundwaterResourcesAndProblem_20985]]
 - [[FinalReportForTheArnettCreekNa_17657]]
+- [[PicketpostMountainarnettCreekA_15280]]
 
 ## Queenfish
 <!-- fm: auto_enriched: true -->
@@ -910,9 +962,13 @@ The Quien Sabe Prescribed Burn is a planned prescribed fire in the Cave Creek ra
 > - **Total FY1992 output:** 83,428,710 eggs; 208,896,734 fish (individuals); 6,510,962 lbs biomass distributed system-wide. - **High-volume walleye production:** [[Gavins Point]] station alone distributed **21,928,348 Walleye** (fry-stage, low aggregate weight), reflecting large-scale fry stocking...
 > -- *[[FishDistributionNumbersAndWeig_1992]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) Fisheries report, dated 03/30/94, tabulates [[Fish Distribution]] for fiscal year 1992 by hatchery station, species, [[Program Code]], and [[Agency Code]]. For each station it gives egg numbers, fish numbers and weight, and the percentage each program...
+> -- *[[FishDistributionPercentByProgr_19583]]*
+
 ### Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[FishDistributionPercentByProgr_1994_03_30]]
+- [[FishDistributionPercentByProgr_19583]]
 
 ## Quillback
 <!-- fm: auto_enriched: true -->
@@ -1170,6 +1226,18 @@ The Quitobaquito Ecosystem is a fragile desert water-dependent ecosystem at Orga
 ### Mentioned In
 - [[BetweenTheDesertAndTheSeaArche_13223]]
 
+## Quitobaquito Habitat Project
+
+### Summary
+A habitat restoration project at Quitobaquito Springs, begun in November 1989 with U.S. Fish and Wildlife Service consultation and finished in December 1989. It built an open concrete-lined stream channel of about 700 feet from the springs to the pond, with an underground pipeline backup, designed to hold slow and fast water, pools, overhangs and islands. Its goals were to improve pupfish habitat and reduce pond-level drops.
+
+### Context
+> This National Park Service report summarizes monitoring of the endangered [[Desert Pupfish]] (*Cyprinodon macularius eremus*) at Quitobaquito Springs and Pond, within [[Organ Pipe Cactus National Monument]] on the [[U.S.-Mexico Border]]. It covers the post-construction period from the 1989...
+> -- *[[SummaryOfMonitoringActivitiesO_13229]]*
+
+### Mentioned In
+- [[SummaryOfMonitoringActivitiesO_13229]]
+
 ## Quitobaquito Pond
 <!-- fm: auto_enriched: true -->
 
@@ -1180,6 +1248,18 @@ The Quitobaquito Ecosystem is a fragile desert water-dependent ecosystem at Orga
 ### Mentioned In
 - [[NonNativeFishSurveyOfTheQuitob_11721]]
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
+
+## Quitobaquito Pool
+
+### Summary
+Quitobaquito Pool is the spring-fed pool at Organ Pipe Cactus National Monument that is the natural home of the pupfish population studied here. The source reports that its water quality remained excellent for pupfish and that its spring flow was about 30 to 31.5 gal/min in 1977 and 1978. The spring-head, once used by pupfish, had become choked with reeds and was no longer occupied.
+
+### Context
+> This final report, submitted by [[Boyd E. Kynard]] to the [[National Park Service]] in August 1979, closes a three-phase study (1975–78) of the [[Quitobaquito Pupfish]] at [[Organ Pipe Cactus National Monument]], Arizona. It covers water quality, population size and spawning success, pesticide...
+> -- *[[StudyOfQuitobaquitoPupfishpres_12500]]*
+
+### Mentioned In
+- [[StudyOfQuitobaquitoPupfishpres_12500]]
 
 ## Quitobaquito Pupfish
 <!-- fm: auto_enriched: true -->
@@ -1233,6 +1313,9 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > This technical draft recovery action plan, prepared for the [[U.S. Fish and Wildlife Service]] Region 2 (June 1990) by Paul C. Marsh and Donald W. Sada, addresses the [[Desert Pupfish]] (*Cyprinodon macularius*). The species is represented by two subspecies: the [[Colorado River Pupfish]] (*C. m....
 > -- *[[DesertPupfishCyprinodonMacular_17044]]*
 
+> This final report, submitted by [[Boyd E. Kynard]] to the [[National Park Service]] in August 1979, closes a three-phase study (1975–78) of the [[Quitobaquito Pupfish]] at [[Organ Pipe Cactus National Monument]], Arizona. It covers water quality, population size and spawning success, pesticide...
+> -- *[[StudyOfQuitobaquitoPupfishpres_12500]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1270,6 +1353,7 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[AReviewOfSelectedEndangeredFis_19784]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
 - [[DesertPupfishCyprinodonMacular_17044]]
+- [[StudyOfQuitobaquitoPupfishpres_12500]]
 
 ## Quitobaquito Pupfish Subspecies
 <!-- fm: auto_enriched: true -->
@@ -1430,6 +1514,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This University of Arizona doctoral dissertation (Thomas J. Cox, 1966, Department of Zoology) describes the ecology and behavior of the Quitobaquito form of the [[Desert Pupfish]] (*Cyprinodon macularius*), based on fieldwork during 1964 and 1965 at [[Quitobaquito Springs]] in [[Organ Pipe Cactus...
 > -- *[[ABehavioralAndEcologicalStudyO_17972]]*
 
+> This final report, submitted to the [[National Park Service]] under Purchase Order PX-8100-6-0215 by Boyd E. Kynard (University of Arizona, dated April 15, 1981), examines the [[Desert Pupfish]] (*Cyprinodon macularius*) of [[Quitobaquito Springs]] in [[Organ Pipe Cactus National Monument]]....
+> -- *[[StudyOfQuitobaquitoPupfishsyst_12501]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -1457,6 +1544,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
 - [[PopulationDeclineOfSonoranMudT_21070]]
 - [[ABehavioralAndEcologicalStudyO_17972]]
+- [[StudyOfQuitobaquitoPupfishsyst_12501]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

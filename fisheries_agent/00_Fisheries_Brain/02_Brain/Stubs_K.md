@@ -112,9 +112,13 @@ Kaeding and Zimmerman (1982, 1983) are Arizona Game and Fish Department studies 
 > This report documents the fourth year of monitoring the [[Humpback Chub]] (*Gila cypha*) population in the lower [[Little Colorado River]] (LCR), Grand Canyon, Arizona. It was prepared by C.O. Minckley of the [[Northern Arizona University]] Biology Department for the [[Arizona Game and Fish...
 > -- *[[FinalReportOnResearchConducted_18508]]*
 
+> This document is a set of working materials from the U.S. Fish and Wildlife Service (FWS) Arizona Fishery Resources Office, part of the [[Grand Canyon Environmental Studies]] (GCES) program. It contains three linked items: a draft outline for evaluating sampling gears and methods for a [[Long-Term...
+> -- *[[DraftProposalToEvaluateMethods_11086]]*
+
 ### Mentioned In
 - [[TheEndangeredHumpbackChubGilaC_12469]]
 - [[FinalReportOnResearchConducted_18508]]
+- [[DraftProposalToEvaluateMethods_11086]]
 
 ## Kaeding And Zimmerman 1983
 <!-- fm: auto_enriched: true -->
@@ -377,10 +381,14 @@ A peninsula in the Russian Far East that lies within the North Pacific range of 
 > This 1955 booklet, issued under the authority of the Minister of Northern Affairs and National Resources and written in the voice of [[Gregory Clark]], is a tourist and angling guide to the principal game fishes of Canada. It describes the sporting value, size records, range, seasons and tackle for...
 > -- *[[GameFishInCanada_15912]]*
 
+> This conference paper by [[Charles W. Caillouet Jr.]] (University of Southwestern Louisiana), presented at the 95th Annual Meeting of the [[American Fisheries Society]] in 1965 and drawn from his 1964 doctoral dissertation at Iowa State University, examines why blood [[Lactic Acid]] data from...
+> -- *[[NatureOfVariabilityInBloodLact_17323]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[GameFishInCanada_15912]]
+- [[NatureOfVariabilityInBloodLact_17323]]
 
 ## Kanab Ambersnail
 <!-- fm: auto_enriched: true -->
@@ -523,6 +531,12 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This Phase I feasibility evaluation, prepared by [[BIO/WEST, Inc.]] (Ronald J. Ryel and Richard A. Valdez, March 8, 1993), assesses whether a population model should be developed for the endangered [[Humpback Chub]] (*Gila cypha*) in Grand Canyon. The authors conclude that a modelling effort would...
 > -- *[[DevelopmentOfAPopulationModelF_21128]]*
 
+> This internal U.S. Fish and Wildlife Service (USFWS) memorandum, dated 22 February 1994 and written by GCES Project Coordinator Owen Gorman, transmits a revised draft proposal to continue Service field studies under the [[Glen Canyon Environmental Studies]] (GCES) Phase II program for the [[Bureau...
+> -- *[[RevisedDraftProposalForFurther_11071]]*
+
+> This document is a set of working materials from the U.S. Fish and Wildlife Service (FWS) Arizona Fishery Resources Office, part of the [[Grand Canyon Environmental Studies]] (GCES) program. It contains three linked items: a draft outline for evaluating sampling gears and methods for a [[Long-Term...
+> -- *[[DraftProposalToEvaluateMethods_11086]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -550,6 +564,8 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[DistributionAbundanceAndCompos_18356]]
 - [[DistributionStatusAndNotesOnTh_18709]]
 - [[DevelopmentOfAPopulationModelF_21128]]
+- [[RevisedDraftProposalForFurther_11071]]
+- [[DraftProposalToEvaluateMethods_11086]]
 
 ## Kanab Creek-Virgin River Basin
 <!-- fm: auto_enriched: true -->
@@ -1223,6 +1239,18 @@ Katherine Landing is a location on Lake Mohave used as a reference point for des
 ### Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 
+## Kathleen Marquardt
+
+### Summary
+Kathleen Marquardt chairs Putting People First, a Washington watchdog group that filed the lawsuit against the Department of the Interior over the Argali bighorn sheep ESA listing. The source presents her as a leader of the group challenging the listing.
+
+### Context
+> This is a trade newspaper bundle (*Livestock Weekly*, early 1993), not a research paper. Its lead story reports a lawsuit by [[Putting People First]] (PPF) and the Paris-based [[Fondation Internationale Pour La Sauvegarde De Gibier]] against the [[Department Of The Interior]] over the [[Endangered...
+> -- *[[TwoGroupsSueInteriorDeptToStop_18294]]*
+
+### Mentioned In
+- [[TwoGroupsSueInteriorDeptToStop_18294]]
+
 ## Kathroperla Perdita
 <!-- fm: auto_enriched: true -->
 
@@ -1767,6 +1795,18 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 - [[FinalEnvironmentalAssessment_11629]]
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
 
+## Kendall's W Concordance
+
+### Summary
+A non-parametric statistic that measures agreement among rankings, here applied to the ranked relative abundance of fish species across years. In this source, significant concordance at all five stations was used as the test of stability and led the authors to reject random or non-equilibrium control of community structure.
+
+### Context
+> This study tests whether the [[Virgin River]] fish assemblage, a southwestern desert stream community, is structured mainly by biotic interactions or by abiotic disturbance. It draws on autumn seine data from five mainstream stations collected from 1977 to 1989. The period included a chemical...
+> -- *[[PersistenceAndStabilityOfTheVi_20636]]*
+
+### Mentioned In
+- [[PersistenceAndStabilityOfTheVi_20636]]
+
 ## Kendrick Project
 
 ### Summary
@@ -1834,8 +1874,12 @@ Kennedy was a researcher who collaborated with Mihursky on temperature effects i
 > This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
 > -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
 
+> This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
+> -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
+
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+- [[ABibliographyOfSomeAgeAndGrowt_18720]]
 
 ## Kennedy and Sprules 1967
 
@@ -1848,6 +1892,18 @@ A study cited as the main source of biological data on the Goldeye in Canada, co
 
 ### Mentioned In
 - [[ASummaryOfAvailableInformation_18737]]
+
+## Kennedy Meadows
+
+### Summary
+A meadow area on the Kern River system where brown trout were planted from 1940 onward, including 21,000 fingerlings in 1962. It was one of two hypotheses for how browns reached the South Fork.
+
+### Context
+> This 1976 project report from the [[California Department Of Fish And Game]] (DFG) and the [[Inyo National Forest]] Service describes the eradication of invasive [[Brown Trout]] from the upper [[South Fork Kern River]] on the [[Kern Plateau]]. The goal was to restore a pure [[Golden Trout]] stream...
+> -- *[[BrownTroutControlProgramSouthF_15553]]*
+
+### Mentioned In
+- [[BrownTroutControlProgramSouthF_15553]]
 
 ## Kennedy's Metabolic Rate Theory
 
@@ -2456,6 +2512,18 @@ Kern County Parks and Recreation is a local agency that supported the Isabella R
 ### Mentioned In
 - [[EstimatedAnglerUseAndHarvestIs_20724]]
 
+## Kern Plateau
+
+### Summary
+A high plateau in the Inyo National Forest area of California with rolling hills, flat terrain, meandering streams and large meadows. The South Fork Kern River and the golden trout restoration site lie on it.
+
+### Context
+> This 1976 project report from the [[California Department Of Fish And Game]] (DFG) and the [[Inyo National Forest]] Service describes the eradication of invasive [[Brown Trout]] from the upper [[South Fork Kern River]] on the [[Kern Plateau]]. The goal was to restore a pure [[Golden Trout]] stream...
+> -- *[[BrownTroutControlProgramSouthF_15553]]*
+
+### Mentioned In
+- [[BrownTroutControlProgramSouthF_15553]]
+
 ## Kern River
 <!-- fm: auto_enriched: true -->
 
@@ -2680,6 +2748,18 @@ Kevin Fitzsimmons is one of the experts listed under the Keywords chapter's Fish
 ### Mentioned In
 - [[WhereToFindWaterExpertiseAtSta_13522]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
+
+## Kevlar Cable
+
+### Summary
+A 1,000-foot cable stretched between the shorelines to anchor each transect. The boat holds position at midstream along it, and shore observers can quickly release it if oncoming traffic approaches. It costs about $1,000.
+
+### Context
+> This methods protocol, authored by R.A. Valdez and W.J. Masslich, sets out a standard procedure for measuring the [[Microhabitat]] used by adult [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] of [[Grand Canyon]]. The work is framed around two objectives: characterizing habitat complexes...
+> -- *[[ProtocolForQuantifyingAdultHum_13651]]*
+
+### Mentioned In
+- [[ProtocolForQuantifyingAdultHum_13651]]
 
 ## Kewaunee Power Plant
 
@@ -2991,8 +3071,16 @@ A plover that bred at Quitobaquito when Hensley surveyed the site in 1954 but wa
 > This Technical Report (No. 13) from the [[Cooperative National Park Resources Studies Unit]] at the University of Arizona, published December 1983, examines how birds use the two management areas of [[Quitobaquito Springs]], a desert oasis within [[Organ Pipe Cactus National Monument]]. Breeding...
 > -- *[[AvianUseOfQuitobaquitoSpringsO_19805]]*
 
+> This field report documents bird observations made on the [[Upper Gila River]] in Arizona on 22 and 23 June 1971. Fieldwork started on the [[San Francisco River]] below the Phelps Dodge plant at [[Morenci]] and continued downstream through the canyon, passing the night of 22 June at the confluence...
+> -- *[[BirdObservationsOnUpperGilaRiv_11534]]*
+
+> This report, written by [[Witmer Stone]] with field notes by [[Samuel N. Rhoads]], documents a February 1905 collection of 258 bird specimens and 117 mammal specimens from the [[Colorado Delta]] in northwestern Lower California. The expedition was made for the [[Academy of Natural Sciences of...
+> -- *[[OnACollectionOfBirdsAndMamalsF_14597]]*
+
 ### Mentioned In
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
+- [[BirdObservationsOnUpperGilaRiv_11534]]
+- [[OnACollectionOfBirdsAndMamalsF_14597]]
 
 ## Killen's Pond
 
@@ -3028,6 +3116,18 @@ Killifish are small cyprinodontid fishes (family Cyprinodontidae/Fundulidae) kno
 - [[TheEffectOfThermalAcclimationO_15619]]
 - [[TimeCoOrdinatedPrefeedingActiv_13978]]
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
+
+## Killifishes
+
+### Summary
+Killifishes (family Cyprinodontidae) are small, often brightly colored freshwater fishes. In this source they are the central focus, since five of the nine species treated are threatened or have very restricted ranges, including the Devils Hole, Salt Creek, and Amargosa pupfishes.
+
+### Context
+> This 1967 field survey, published in the [[California-Nevada Section Transactions]] (1969), assessed the current status of the native fishes of the [[Death Valley System]], a formerly interconnected Pleistocene drainage in eastern California and southwestern Nevada. Of nine species in three...
+> -- *[[ConservationOfFishesOfTheDeath_15351]]*
+
+### Mentioned In
+- [[ConservationOfFishesOfTheDeath_15351]]
 
 ## Kimmel and Groeger
 
@@ -3547,8 +3647,12 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 > - The **Lower Basin Recovery Implementation Scientific Workgroup** comprises a small group of academic ichthyologists (e.g., [[James E. Deacon]], [[Paul Marsh]], [[William Matthews]], [[W.L. Minckley]], [[Dave Propst]]) and agency biologists (e.g., [[Owen T. Gorman]], [[C.O. Minckley]], [[Gordon ...
 > -- *[[RosterLowerBasinRecoveryImplem_21095]]*
 
+> This one-page letter, dated February 11, 1993, is an administrative request rather than research. [[Duane L Shroufe]], Director of the [[Arizona Game And Fish Department]], asks [[John G Rogers]], Regional Director of [[Fish And Wildlife Service]] Region 2, to replace the Department's...
+> -- *[[DepartmentRepresentativeChange_18929]]*
+
 ### Mentioned In
 - [[RosterLowerBasinRecoveryImplem_21095]]
+- [[DepartmentRepresentativeChange_18929]]
 
 ## Kirkland Creek
 
@@ -4522,6 +4626,9 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This final report, prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] (Contract No. 6-CS-40-03980), synthesizes four years (1985–1988) of the "Cataract Canyon Studies." The study sampled the lower 50 miles of the [[Green River]] and [[Colorado River]], the 16-mile whitewater reach of...
 > -- *[[FinalReporttheEndangeredFishOf_13607]]*
 
+> This public information document describes the history, decline, and planned restoration of the [[Strawberry Reservoir]] trout fishery in [[Strawberry Valley]], Utah. Nongame fish, mainly [[Chubs]] and [[Suckers]], came to dominate the reservoir and its tributaries and displaced [[Cutthroat...
+> -- *[[TheReturnOfStrawberryOneOfUtah_13233]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -4561,6 +4668,7 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[RecreationalUsePatternsAtFlami_20379]]
 - [[PreimpoundmentStudyOfTheFlamin_17734]]
 - [[FinalReporttheEndangeredFishOf_13607]]
+- [[TheReturnOfStrawberryOneOfUtah_13233]]
 
 ## Kolkwitz
 
@@ -4640,6 +4748,18 @@ A German physicist who co-invented the proposed electric sea-fishing system with
 
 ### Mentioned In
 - [[CatecholAminesAndSocialRelatio_1968]]
+
+## Koo
+
+### Summary
+Koo (1955) is cited for the use of scales to study red salmon (sockeye) in Bristol Bay, Alaska. It is one of the anadromous-fish studies in the bibliography.
+
+### Context
+> This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
+> -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
+
+### Mentioned In
+- [[ABibliographyOfSomeAgeAndGrowt_18720]]
 
 ## Kooskia National Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -4855,6 +4975,18 @@ An aphanid fish from Group II that, unlike most of its relatives, has unicuspid 
 
 ### Mentioned In
 - [[OsteologyAndPhylogenyOfOviparo_11369]]
+
+## Koster (1957)
+
+### Summary
+Koster's 1957 work is cited by Miller as documenting the introduction of the White Sucker into the upper Rio Grande (p. 44). Miller relies on it to dispute a native origin for that population.
+
+### Context
+> This document is a June 1, 1981 letter from [[Robert R. Miller]], Curator of Fishes at the University of Michigan Museum of Zoology, to [[Wendell L. Minckley]] at Arizona State University. It is attached to a May 23, 1981 list of Mexican fish photographs requested for the planned *Fishes of...
+> -- *[[ExpandedListOfDesiderataForBwp_15365]]*
+
+### Mentioned In
+- [[ExpandedListOfDesiderataForBwp_15365]]
 
 ## Koster 1948
 <!-- fm: auto_enriched: true -->
@@ -5341,6 +5473,18 @@ A keyword-in-context index, which lists significant title words with the surroun
 
 ### Mentioned In
 - [[APreliminaryBibliographyWithKw_16163]]
+
+## Kynard 1979
+
+### Summary
+Kynard (1979) is a prior study cited in this report that recorded higher pupfish density in 1975 than in winter 1976–77. The source defers detailed management recommendations on refugia, pesticide monitoring, and population monitoring to this earlier work.
+
+### Context
+> This final report, submitted to the [[National Park Service]] under Purchase Order PX-8100-6-0215 by Boyd E. Kynard (University of Arizona, dated April 15, 1981), examines the [[Desert Pupfish]] (*Cyprinodon macularius*) of [[Quitobaquito Springs]] in [[Organ Pipe Cactus National Monument]]....
+> -- *[[StudyOfQuitobaquitoPupfishsyst_12501]]*
+
+### Mentioned In
+- [[StudyOfQuitobaquitoPupfishsyst_12501]]
 
 ## Kyoto Declaration
 

@@ -4,6 +4,18 @@ letter: Y
 ---
 # Concept Stubs: Y
 
+## Yacare Caiman
+
+### Summary
+The yacare caiman (Caiman yacare) is a crocodilian of South America. This notice reports that live yacare are largely distinguishable from the common and brown caimans, and the yacare is the focus of a possible similarity-of-appearance listing for two subspecies of Caiman crocodilus. The Service was requesting status, distribution, and biology data for wild and ranched yacare.
+
+### Context
+> This Federal Register compilation (October 29, 1990) contains three U.S. Fish and Wildlife Service actions under the [[Endangered Species Act]]. It contains no fish-focused research. The first is a proposed-rule request for information on [[Nile Crocodile]] and [[Yacare Caiman]] populations, tied...
+> -- *[[EndangeredAndThreatenedWildlif_14779]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedWildlif_14779]]
+
 ## Yadkin River
 
 ### Summary
@@ -13,8 +25,12 @@ The Yadkin River is a major waterway in north-central North Carolina supporting 
 > This 1987 survey assessed ictalurid (catfish family) populations in the [[Yadkin River]] and [[South Yadkin River]] above and below [[Idols Dam]] and [[Cooleemee Dam]] to determine whether [[Flathead Catfish]] (*Pylodictis olivaris*) should be stocked upstream of these barriers. Using...
 > -- *[[SurveyOfIctaluridPopulationsIn_15266]]*
 
+> This conference paper by Matthew E. Thomas of the [[Georgia Department Of Natural Resources]] reports a standardized stream monitoring program run on the [[Altamaha River]] from 1987 to 1992 (electrofishing data analysed for 1988 to 1992). The study tracked the invasion of [[Flathead Catfish]]...
+> -- *[[MonitoringTheEffectsOfIntroduc_13577]]*
+
 ### Mentioned In
 - [[SurveyOfIctaluridPopulationsIn_15266]]
+- [[MonitoringTheEffectsOfIntroduc_13577]]
 
 ## Yadkin River Trail Association
 
@@ -1011,8 +1027,12 @@ The Yampa River Projects Alternatives Feasibility Study is an examination of res
 > This review by Xie Ping and Chen Yiyu (Institute of Hydrobiology, Chinese Academy of Sciences) synthesizes multi-decadal evidence of biodiversity decline in the shallow lake ecosystems of the middle and lower [[Yangtze River]] basin, China. Freshwater resources — though only ~0.4% of global water...
 > -- *[[BiodiversityProblemsInLakeEcos_11149]]*
 
+> This U.S. Geological Survey report, prepared by Leo G. Nico and James D. Williams in October 1996 for the Risk Assessment and Management (RAM) Committee under the Aquatic Nuisance Species Task Force, tests the RAM "Generic Nonindigenous Aquatic Organism Risk Analysis Review Process" using the...
+> -- *[[RiskAssessmentOnBlackCarpPisce_10847]]*
+
 ### Mentioned In
 - [[BiodiversityProblemsInLakeEcos_11149]]
+- [[RiskAssessmentOnBlackCarpPisce_10847]]
 
 ## Yank's Spring
 
@@ -1041,6 +1061,18 @@ Yankee Fork is a tributary in the Salmon River drainage where spring-run Chinook
 ### Mentioned In
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
+
+## Yankton
+
+### Summary
+A city in southeastern South Dakota, on the Missouri River, where the Gavins Point National Fish Hatchery is located. The source gives Yankton as the hatchery's address and the project leader's rural route location. The note does not describe the city beyond its role as the facility's location.
+
+### Context
+> This is a partly illegible 1994 station profile for the [[Gavins Point National Fish Hatchery]], a [[U.S. Fish and Wildlife Service]] (USFWS) fisheries facility near [[Yankton]], [[South Dakota]]. The hatchery was established in 1956. Its stated mission is to produce and distribute fish for...
+> -- *[[StationProfileGavinsPointNfh_19556]]*
+
+### Mentioned In
+- [[StationProfileGavinsPointNfh_19556]]
 
 ## Yaqui
 
@@ -1234,6 +1266,27 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
 > -- *[[SanBernardinoNationalWildlifeR_13326]]*
 
+> This January 20, 1989 internal list assigns lead responsibility for 22 Arizona fish taxa that were federally listed, proposed, or under review as candidates. For each taxon it gives the conservation status, the lead Region (R2 or R6), and the responsible contact office or person. The document is an...
+> -- *[[ArizonaEndangeredSpeciesLeadRe_11604]]*
+
+> This U.S. Fish and Wildlife Service memorandum (April 1998) transmits an issue paper on the [[Bonytail Chub]] (BTC) recovery program in the lower [[Colorado River]] Basin. Decisions were reached at a March 13, 1998, meeting at [[Willow Beach National Fish Hatchery]] (WBNFH), following a January 27,...
+> -- *[[BonytailChubRecoveryProgramIss_13204]]*
+
+> This 1988 draft policy from the [[U.S. Fish and Wildlife Service]] (FWS) sets rules for assigning a **lead Region** to manage endangered and threatened species whose range or management scope crosses regional boundaries. The lead Region coordinates candidate assessment, listing, recovery planning,...
+> -- *[[DraftassignmentOfLeadRegionsFo_11605]]*
+
+> This document comprises a 1997 cover letter, a draft proposal, a phased work plan, a cost outline, and a refuge memorandum from the [[San Bernardino National Wildlife Refuge]] (Douglas, Arizona). It proposes eradicating the nonindigenous [[Asian Tapeworm]] (*Bothriocephalus acheilognathi*) and...
+> -- *[[DraftProposalNonindigenousAsia_15984]]*
+
+> This document is a transmittal letter and attached Section 6 submittal form from the [[Arizona Game And Fish Department]] (AGFD) to the [[U.S. Fish And Wildlife Service]] (USFWS). It lists proposed FY 1988-89 projects for [[Species Recovery]] of threatened, endangered, candidate and other sensitive...
+> -- *[[ProposedProjectsForFundingFisc_19818]]*
+
+> This U.S. Fish and Wildlife Service final rule, effective October 1, 1984, lists three freshwater fishes of the [[Rio Yaqui Basin]] under the [[Endangered Species Act]]. The [[Yaqui Chub]] (*Gila purpurea*) is determined to be endangered. The [[Beautiful Shiner]] (*Notropis formosus*) and the...
+> -- *[[EndangeredAndThreatenedWildlif_11549]]*
+
+> This Arizona State University (ASU) Animal Care and Use Committee (ACUC) form covers a renewal and revision (previous protocol No. 86072R) of the ongoing research program **Systematic, Ecologic, Genetic, and Behavioral Ichthyology**, led by [[W. L. Minckley]] with co-investigators M. Douglas, T....
+> -- *[[SystematicEcologicalGeneticAnd_13779]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -1319,6 +1372,13 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[EndangeredAndThreatenedSpecies_11630]]
 - [[EndangeredAndThreatenedSpecies_11633]]
 - [[SanBernardinoNationalWildlifeR_13326]]
+- [[ArizonaEndangeredSpeciesLeadRe_11604]]
+- [[BonytailChubRecoveryProgramIss_13204]]
+- [[DraftassignmentOfLeadRegionsFo_11605]]
+- [[DraftProposalNonindigenousAsia_15984]]
+- [[ProposedProjectsForFundingFisc_19818]]
+- [[EndangeredAndThreatenedWildlif_11549]]
+- [[SystematicEcologicalGeneticAnd_13779]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1519,6 +1579,30 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
 > -- *[[SanBernardinoNationalWildlifeR_13326]]*
 
+> This is an administrative letter from the [[U.S. Fish and Wildlife Service]] (Division of Endangered Species/Permits, Ecological Services, Region 2) to Dr. James P. Collins, Chair of the Department of Zoology at [[Arizona State University]]. It acknowledges receipt of an application for an...
+> -- *[[ResponseToRecentApplicationFor_20652]]*
+
+> This January 20, 1989 internal list assigns lead responsibility for 22 Arizona fish taxa that were federally listed, proposed, or under review as candidates. For each taxon it gives the conservation status, the lead Region (R2 or R6), and the responsible contact office or person. The document is an...
+> -- *[[ArizonaEndangeredSpeciesLeadRe_11604]]*
+
+> This two-page memorandum from the [[San Bernardino National Wildlife Refuge]] Refuge Manager to the Technical Services Division of the [[Fish And Wildlife Service]] (Region 2) does two things. It requests renewal of endangered species subpermit PRT-676811 under unchanged conditions, and it reports...
+> -- *[[EndangeredSpeciesSubpermitRene_15976]]*
+
+> This 1988 draft policy from the [[U.S. Fish and Wildlife Service]] (FWS) sets rules for assigning a **lead Region** to manage endangered and threatened species whose range or management scope crosses regional boundaries. The lead Region coordinates candidate assessment, listing, recovery planning,...
+> -- *[[DraftassignmentOfLeadRegionsFo_11605]]*
+
+> This document comprises a 1997 cover letter, a draft proposal, a phased work plan, a cost outline, and a refuge memorandum from the [[San Bernardino National Wildlife Refuge]] (Douglas, Arizona). It proposes eradicating the nonindigenous [[Asian Tapeworm]] (*Bothriocephalus acheilognathi*) and...
+> -- *[[DraftProposalNonindigenousAsia_15984]]*
+
+> This document is a dichotomous identification key and glossary for the fishes of [[Arizona Fish Fauna|Arizona]], written by Charles H. Lowe Jr. of the Department of Zoology, University of Arizona. It is a revision and extension of the earlier mimeographed keys by Miller (1949) and Lowe (1955). The...
+> -- *[[TheFishesOfArizonaNativeAndInt_16219]]*
+
+> This document is a transmittal letter and attached Section 6 submittal form from the [[Arizona Game And Fish Department]] (AGFD) to the [[U.S. Fish And Wildlife Service]] (USFWS). It lists proposed FY 1988-89 projects for [[Species Recovery]] of threatened, endangered, candidate and other sensitive...
+> -- *[[ProposedProjectsForFundingFisc_19818]]*
+
+> This U.S. Fish and Wildlife Service final rule, effective October 1, 1984, lists three freshwater fishes of the [[Rio Yaqui Basin]] under the [[Endangered Species Act]]. The [[Yaqui Chub]] (*Gila purpurea*) is determined to be endangered. The [[Beautiful Shiner]] (*Notropis formosus*) and the...
+> -- *[[EndangeredAndThreatenedWildlif_11549]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1633,6 +1717,14 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[EndangeredAndThreatenedSpecies_11633]]
 - [[FallFishCountSummary_20903]]
 - [[SanBernardinoNationalWildlifeR_13326]]
+- [[ResponseToRecentApplicationFor_20652]]
+- [[ArizonaEndangeredSpeciesLeadRe_11604]]
+- [[EndangeredSpeciesSubpermitRene_15976]]
+- [[DraftassignmentOfLeadRegionsFo_11605]]
+- [[DraftProposalNonindigenousAsia_15984]]
+- [[TheFishesOfArizonaNativeAndInt_16219]]
+- [[ProposedProjectsForFundingFisc_19818]]
+- [[EndangeredAndThreatenedWildlif_11549]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1659,6 +1751,12 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This draft Comprehensive Management Plan (1995–2015), prepared by the [[U.S. Fish and Wildlife Service]] Region 2, sets 20-year direction for the [[San Bernardino National Wildlife Refuge]] and [[Leslie Canyon National Wildlife Refuge]] in Cochise County, Arizona. Both refuges are core habitats for...
 > -- *[[SanBernardinoAndLeslieCanyonNa_11676]]*
 
+> This is a 25 February 1993 letter from C.O. Minckley, Fishery Biologist with the [[Fish And Wildlife Service]] at Parker, Arizona, to Dr. W.L. Minckley, Chairman of the [[Desert Fishes Recovery Team]] at [[Arizona State University]]. The letter offers the author's views on how the team should...
+> -- *[[DfrtPolicy_18511]]*
+
+> This internal memorandum from the Refuge Manager of the [[San Bernardino National Wildlife Refuge]] (dated December 17, 1996) proposes changing Phase I of the [[Asian Tapeworm Eradication Project]] at North Pond from earthen ponds to an artificial stream-type habitat. The design uses concrete...
+> -- *[[NorthPondProject_15981]]*
+
 ### Mentioned In
 - [[LetterToDrWLMinckleyOnDesertFi_1993_02_25]]
 - [[RestorationProposalForSanBerna_13383]]
@@ -1666,6 +1764,8 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[DesertFishesRecoveryTeamMeetin_13916]]
 - [[SanBernardinoAndLeslieCanyonNa_11694]]
 - [[SanBernardinoAndLeslieCanyonNa_11676]]
+- [[DfrtPolicy_18511]]
+- [[NorthPondProject_15981]]
 
 ## Yaqui Fishes Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -1713,6 +1813,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This Biological Assessment, prepared by Gary L. Helbing of the Douglas Ranger District Wildlife Staff (dated December 9, 1998), evaluates a proposal by the [[Coronado National Forest]] to manage the West Turkey Creek watershed as a native fishery. The project would remove all nonnative fishes using...
 > -- *[[BiologicalAssessmentAndEvaluat_16615]]*
 
+> This undated-day memorandum, dated December 12, 1989, is a follow-up circular sent to members of the [[Desert Pupfish]] recovery team ("DFRT"). It lists work assignments that arose from a recovery team meeting. The main decisions were that the [[Gila Topminnow]] should not be downlisted at this...
+> -- *[[DesertFishesRecoveryTeamWorkAs_14774]]*
+
 ### Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1992_12_07]]
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
@@ -1725,6 +1828,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[DraftSanBernardinoNationalWild_11500]]
 - [[GallinasCreekSampling_18700]]
 - [[BiologicalAssessmentAndEvaluat_16615]]
+- [[DesertFishesRecoveryTeamWorkAs_14774]]
 
 ## Yaqui Form Of Longfin Dace
 <!-- fm: auto_enriched: true -->
@@ -1974,6 +2078,9 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
 > -- *[[SanBernardinoNationalWildlifeR_13326]]*
 
+> This document comprises a 1997 cover letter, a draft proposal, a phased work plan, a cost outline, and a refuge memorandum from the [[San Bernardino National Wildlife Refuge]] (Douglas, Arizona). It proposes eradicating the nonindigenous [[Asian Tapeworm]] (*Bothriocephalus acheilognathi*) and...
+> -- *[[DraftProposalNonindigenousAsia_15984]]*
+
 ### Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -2000,6 +2107,7 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
 - [[StateOfTheDesertDiomeUniquenes_19471]]
 - [[SanBernardinoNationalWildlifeR_13326]]
+- [[DraftProposalNonindigenousAsia_15984]]
 
 ## Yaqui topminnow
 <!-- fm: auto_enriched: true -->
@@ -2146,6 +2254,21 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This U.S. Fish and Wildlife Service (FWS) master plan sets a 10-year framework for the [[San Bernardino National Wildlife Refuge]] (NWR), a 2,308.9-acre refuge in the extreme southeastern corner of Arizona. The refuge was purchased in 1982 mainly to protect the Rio Yaqui fishes, which had lost most...
 > -- *[[SanBernardinoNationalWildlifeR_13326]]*
 
+> This January 20, 1989 internal list assigns lead responsibility for 22 Arizona fish taxa that were federally listed, proposed, or under review as candidates. For each taxon it gives the conservation status, the lead Region (R2 or R6), and the responsible contact office or person. The document is an...
+> -- *[[ArizonaEndangeredSpeciesLeadRe_11604]]*
+
+> This two-page memorandum from the [[San Bernardino National Wildlife Refuge]] Refuge Manager to the Technical Services Division of the [[Fish And Wildlife Service]] (Region 2) does two things. It requests renewal of endangered species subpermit PRT-676811 under unchanged conditions, and it reports...
+> -- *[[EndangeredSpeciesSubpermitRene_15976]]*
+
+> This document comprises a 1997 cover letter, a draft proposal, a phased work plan, a cost outline, and a refuge memorandum from the [[San Bernardino National Wildlife Refuge]] (Douglas, Arizona). It proposes eradicating the nonindigenous [[Asian Tapeworm]] (*Bothriocephalus acheilognathi*) and...
+> -- *[[DraftProposalNonindigenousAsia_15984]]*
+
+> This undated-day memorandum, dated December 12, 1989, is a follow-up circular sent to members of the [[Desert Pupfish]] recovery team ("DFRT"). It lists work assignments that arose from a recovery team meeting. The main decisions were that the [[Gila Topminnow]] should not be downlisted at this...
+> -- *[[DesertFishesRecoveryTeamWorkAs_14774]]*
+
+> This U.S. Fish and Wildlife Service final rule, effective October 1, 1984, lists three freshwater fishes of the [[Rio Yaqui Basin]] under the [[Endangered Species Act]]. The [[Yaqui Chub]] (*Gila purpurea*) is determined to be endangered. The [[Beautiful Shiner]] (*Notropis formosus*) and the...
+> -- *[[EndangeredAndThreatenedWildlif_11549]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -2219,6 +2342,11 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[EndangeredAndThreatenedSpecies_11630]]
 - [[EndangeredAndThreatenedSpecies_11633]]
 - [[SanBernardinoNationalWildlifeR_13326]]
+- [[ArizonaEndangeredSpeciesLeadRe_11604]]
+- [[EndangeredSpeciesSubpermitRene_15976]]
+- [[DraftProposalNonindigenousAsia_15984]]
+- [[DesertFishesRecoveryTeamWorkAs_14774]]
+- [[EndangeredAndThreatenedWildlif_11549]]
 
 ## Yaqui Watershed
 
@@ -2388,6 +2516,18 @@ The group of fish hatched in the same year, whose strength determines later catc
 ### Mentioned In
 - [[AgeGrowthAndProductionOfYellow_19742]]
 
+## Year-Class
+
+### Summary
+A group of fish that hatched or was reared in the same year and is tracked together as a cohort. In this source, the 1992 year-class of hatchery-reared juvenile Razorback Suckers numbered 153 fish at large in Lake Mohave.
+
+### Context
+> This field memorandum reports recapture data for hatchery-reared juvenile [[Razorback Sucker]]s released into [[Lake Mohave]] on the [[Colorado River]]. The 1992 year-class was reared at [[Yuma Cove]], partly moved to [[Davis Cove]], and released after [[PIT Tagging]]. Five tagged fish were...
+> -- *[[RecaptureDataForJuvenileRazorb_15472]]*
+
+### Mentioned In
+- [[RecaptureDataForJuvenileRazorb_15472]]
+
 ## Year-Class Analysis Via Scale Aging
 <!-- fm: auto_enriched: true -->
 
@@ -2549,6 +2689,15 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This Illinois Natural History Survey bulletin (March 1963, Vol. 28, Art. 2) by R. Weldon Larimore and Philip W. Smith compares three fish surveys of [[Champaign County]], Illinois, made in 1899 ([[Forbes and Richardson Survey]]), 1928 ([[Thompson and Hunt Survey]]), and 1959 ([[Larimore and Smith...
 > -- *[[TheFishesOfChampaignCountyIlli_12724]]*
 
+> This memorandum from the [[Center for Environmental Studies]] at [[Arizona State University]] reports autumn 1992 fish sampling at the ASU Karsten Golf Course (ASUGC) lakes in Tempe, Arizona. The survey assessed the status of three native fishes stocked in 1988 after propagation at the [[Dexter...
+> -- *[[FishSamplingAtAsuKarstenGolfCo_19457]]*
+
+> Arizona State University personnel surveyed fish in the three ponds of the [[ASU Research Park]], Tempe, on 10–11 April 1997 using seven entanglement nets. The catch totaled 67 fish representing 10 species, all previously recorded at the park. [[Largemouth Bass]] and [[Bluegill]] dominated the...
+> -- *[[TripReportForTheAprilSurveyOfT_17204]]*
+
+> Arizona State University personnel sampled the two lakes (North Lake and South Lake) of the [[Arizona State University Karsten Golf Course]] in Tempe, Arizona, in late September 1989. The survey assessed the status of three imperiled native fishes stocked in 1988: [[Bonytail]], [[Colorado...
+> -- *[[FishSamplingAtAsuKarstenGolfCo_19437]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -2588,6 +2737,9 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[PartialChecklistOfFishesOfTheL_18573]]
 - [[SportFishingAtLakeChautauquaNe_14738]]
 - [[TheFishesOfChampaignCountyIlli_12724]]
+- [[FishSamplingAtAsuKarstenGolfCo_19457]]
+- [[TripReportForTheAprilSurveyOfT_17204]]
+- [[FishSamplingAtAsuKarstenGolfCo_19437]]
 
 ## Yellow Belly Sunfish
 
@@ -2764,6 +2916,21 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This Bureau of Reclamation memorandum (June 1995, Phoenix Area Office) transmits an addendum to the March 1994 [[Biological Assessment]] on whether nonnative fishes carried by the [[Central Arizona Project]] (CAP) aqueduct could invade the [[Santa Cruz River]] Basin. The 1994 assessment found "no...
 > -- *[[AddendumToTheBiologicalAssessm_20609]]*
 
+> This memorandum from the [[Center for Environmental Studies]] at [[Arizona State University]] reports autumn 1992 fish sampling at the ASU Karsten Golf Course (ASUGC) lakes in Tempe, Arizona. The survey assessed the status of three native fishes stocked in 1988 after propagation at the [[Dexter...
+> -- *[[FishSamplingAtAsuKarstenGolfCo_19457]]*
+
+> This 1995 memorandum from the [[Arizona Game and Fish Department]] transmits fish survey results from two Arizona stations on the [[Virgin River]], sampled on April 26, 1995, and hoop-net collections retrieved on May 27, 1995. Sampling occurred during high flows of roughly 500 to 600 cfs, which the...
+> -- *[[VirginRiverMonitoringArizonaSu_18233]]*
+
+> Arizona State University personnel sampled the two lakes (North Lake and South Lake) of the [[Arizona State University Karsten Golf Course]] in Tempe, Arizona, in late September 1989. The survey assessed the status of three imperiled native fishes stocked in 1988: [[Bonytail]], [[Colorado...
+> -- *[[FishSamplingAtAsuKarstenGolfCo_19437]]*
+
+> This memorandum from the [[Arizona Game And Fish Department]] Nongame Native Fish Program summarizes a seine-based survey of [[Aravaipa Creek]] in Arizona, conducted 23–24 October 1993 to assess [[Red Shiner]] (*Cyprinella lutrensis*) distribution. Eleven reaches plus a headwater section were...
+> -- *[[AravaipaCreekRedShinerSurveySu_18224]]*
+
+> This interagency memorandum, dated 16 July 1991, transmits fish and habitat sampling data from [[Aravaipa Creek]] in Graham and Pinal counties, Arizona. Sampling took place on 12–14 July 1991 at six reaches: three upstream and three downstream of the [[Aravaipa Canyon Wilderness Area]]. The memo...
+> -- *[[ReMonitoringDataAravaipaCreekJ_13797]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -2872,6 +3039,11 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[QuarterlyProgressReportInvesti_18564]]
 - [[KeyToFamiliesOfBonyFishesInInl_18571]]
 - [[AddendumToTheBiologicalAssessm_20609]]
+- [[FishSamplingAtAsuKarstenGolfCo_19457]]
+- [[VirginRiverMonitoringArizonaSu_18233]]
+- [[FishSamplingAtAsuKarstenGolfCo_19437]]
+- [[AravaipaCreekRedShinerSurveySu_18224]]
+- [[ReMonitoringDataAravaipaCreekJ_13797]]
 
 ## Yellow Creek
 
@@ -3223,6 +3395,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This December 1984 Bureau of Reclamation report (REC-ERC-83-6), prepared jointly by the [[Bureau of Reclamation]], the [[U.S. Fish and Wildlife Service]] and the [[Washington Department of Game]], evaluates how irrigated farming and irrigation project operation affect fish and wildlife in the...
 > -- *[[ColumbiaBasinWildlifeirrigatio_18791]]*
 
+> This 1993 station profile from the [[U.S. Fish and Wildlife Service]] (FWS) Fisheries program describes the [[Valley City National Fish Hatchery]] in Valley City, North Dakota, and its substation at [[Baldhill Dam]]. The hatchery's primary mission is to produce cool- and warm-water fish for...
+> -- *[[StationProfileValleyCitybaldhi_19516]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -3359,6 +3534,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[PreimpoundmentStudyOfTheFlamin_17734]]
 - [[SpatialDistributionAndTemperat_21087]]
 - [[ColumbiaBasinWildlifeirrigatio_18791]]
+- [[StationProfileValleyCitybaldhi_19516]]
 
 ## Yellow Pike Perch
 
@@ -3421,6 +3597,18 @@ Stizostedion vitreum, the yellow pike perch, a freshwater percid fish of New Yor
 - [[AnnualReportArizonaCooperative_1967]]
 - [[LectureNotesFromBiologyClass_13784]]
 
+## Yellow River
+
+### Summary
+The Yellow River is a major river in northern China, part of the native range of black carp. The source lists its basin among the major Pacific drainages of eastern Asia where the species occurs.
+
+### Context
+> This U.S. Geological Survey report, prepared by Leo G. Nico and James D. Williams in October 1996 for the Risk Assessment and Management (RAM) Committee under the Aquatic Nuisance Species Task Force, tests the RAM "Generic Nonindigenous Aquatic Organism Risk Analysis Review Process" using the...
+> -- *[[RiskAssessmentOnBlackCarpPisce_10847]]*
+
+### Mentioned In
+- [[RiskAssessmentOnBlackCarpPisce_10847]]
+
 ## Yellow River Basin
 
 ### Summary
@@ -3444,6 +3632,18 @@ The Yellow Sea is a body of water between China and Korea in the Northwest Pacif
 
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16310]]
+
+## Yellow Springs Instrument
+
+### Summary
+The Yellow Springs Instrument Model 57 is a temperature and oxygen meter. The study used it for field monitoring of water conditions at the pupfish sites.
+
+### Context
+> This final report, submitted by [[Boyd E. Kynard]] to the [[National Park Service]] in August 1979, closes a three-phase study (1975–78) of the [[Quitobaquito Pupfish]] at [[Organ Pipe Cactus National Monument]], Arizona. It covers water quality, population size and spawning success, pesticide...
+> -- *[[StudyOfQuitobaquitoPupfishpres_12500]]*
+
+### Mentioned In
+- [[StudyOfQuitobaquitoPupfishpres_12500]]
 
 ## Yellow Walleye
 
@@ -3509,6 +3709,12 @@ Yellow-bellied Marmot (Marmota flaviventris) is one of over 40 mammal species do
 > This 1989 nomination, prepared by the [[Bureau Of Land Management]] Safford District Office and the City of Safford for the [[Arizona Department Of Environmental Quality]], proposes a 15-mile segment of [[Bonita Creek]] for designation as a Unique Water under Arizona Administrative Code R18-11-303....
 > -- *[[UniqueWatersNominationBonitaCr_19141]]*
 
+> This document is a transmittal letter and attached Section 6 submittal form from the [[Arizona Game And Fish Department]] (AGFD) to the [[U.S. Fish And Wildlife Service]] (USFWS). It lists proposed FY 1988-89 projects for [[Species Recovery]] of threatened, endangered, candidate and other sensitive...
+> -- *[[ProposedProjectsForFundingFisc_19818]]*
+
+> This April 1989 nomination, prepared by the [[Bureau Of Land Management]] Safford District Office and the City of Safford and submitted to the [[Arizona Department Of Environmental Quality]], seeks Unique Waters designation for a 15-mile perennial segment of [[Bonita Creek]]. The segment is...
+> -- *[[UniqueWatersNominationBonitaCr_11620]]*
+
 ### Mentioned In
 - [[NotesFromMayMeetingLowerColora_1997_05_28]]
 - [[ChangesInRiparianVegetationAnd_14524]]
@@ -3521,6 +3727,8 @@ Yellow-bellied Marmot (Marmota flaviventris) is one of over 40 mammal species do
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 - [[FinalReportAndRecommendationsO_17455]]
 - [[UniqueWatersNominationBonitaCr_19141]]
+- [[ProposedProjectsForFundingFisc_19818]]
+- [[UniqueWatersNominationBonitaCr_11620]]
 
 ## Yellow-Breasted Chat
 
@@ -3673,10 +3881,14 @@ Yellowfin tuna (*Thunnus albacares*) is a pelagic fish species belonging to the 
 > - *Thunnus alalunga* (Bonnaterre, 1788) — [[Albacore]] - *Thunnus albacares* (Bonnaterre, 1788) — [[Yellowfin Tuna]] - *Thunnus atlanticus* (Lesson, 1830) — [[Blackfin Tuna]] - *Thunnus obesus* (Lowe, 1839) — [[Bigeye Tuna]] - *Thunnus thynnus* (Linnaeus, 1758) — [[Atlantic Bluefin Tuna]] (type s...
 > -- *[[ThunnusSouthPiscesProposedVali_17128]]*
 
+> This conference paper by [[Charles W. Caillouet Jr.]] (University of Southwestern Louisiana), presented at the 95th Annual Meeting of the [[American Fisheries Society]] in 1965 and drawn from his 1964 doctoral dissertation at Iowa State University, examines why blood [[Lactic Acid]] data from...
+> -- *[[NatureOfVariabilityInBloodLact_17323]]*
+
 ### Mentioned In
 - [[EcologicalFactorsInvolvedInThe_1957]]
 - [[StomachContentsAndOrganWeights_12449]]
 - [[ThunnusSouthPiscesProposedVali_17128]]
+- [[NatureOfVariabilityInBloodLact_17323]]
 
 ## Yellowmouth Rockfish
 
@@ -3820,6 +4032,18 @@ A 109-foot waterfall about 12 miles downstream of Yellowstone Lake. The source i
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[NativeRockyMountainTroutAndSto_17773]]
 - [[YellowstoneFishAndFishing_11404]]
+
+## Yellowstone Lake Cutthroat Trout
+
+### Summary
+A cutthroat trout subspecies native to Yellowstone Lake and the source of most western introductions. The source says it differs from Rio Grande trout in adipose fin marking, gillraker development and basibranchial teeth, so comparisons with it are needed to test the purity of Rio Grande stock.
+
+### Context
+> This 1967 report by Robert Behnke of the [[Colorado Cooperative Fishery Unit]] reviews the status, taxonomy and distribution of the native cutthroat trout of the [[Rio Grande Basin]] (*Salmo clarkii virginalis*). Although the trout is listed as endangered by the Bureau of Sport Fisheries and...
+> -- *[[RareAndEndangeredSpeciesTheRio_18135]]*
+
+### Mentioned In
+- [[RareAndEndangeredSpeciesTheRio_18135]]
 
 ## Yellowstone Library and Museum Association
 
@@ -4292,6 +4516,18 @@ Ponds in the San Pedro Riparian National Conservation Area created by former gra
 ### Mentioned In
 - [[SanPedroHabitatManagementPlan_17353]]
 
+## Young Fish Distribution
+
+### Summary
+The distribution of young fish in the river, assessed in the memo by seining during study trips. Assigned to Minckley for writing, it is one of the biological groups in the measurement scheme, but the memo gives no species-level detail.
+
+### Context
+> This planning memo, issued by Duncan Patten of the [[Arizona State University]] Center for Environmental Studies on March 24, 1994, transmits the outputs of a planning workshop for a controlled high-flow release from [[Glen Canyon Dam]] into the [[Grand Canyon]] reach of the [[Colorado River]]. The...
+> -- *[[MaterialsAndNextPhase_18457]]*
+
+### Mentioned In
+- [[MaterialsAndNextPhase_18457]]
+
 ## Young Trout
 <!-- fm: auto_enriched: true -->
 
@@ -4751,6 +4987,15 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This U.S. Fish and Wildlife Service (USFWS) summary, compiled by the Phoenix Ecological Services Field Office in Summer 1991, catalogs the plants and animals of Arizona that are federally listed or proposed as threatened or endangered under the [[Endangered Species Act]] (1973). It covers roughly...
 > -- *[[EndangeredAndThreatenedSpecies_11633]]*
 
+> This record is a 1995 interagency package from the [[Bureau of Land Management]] (BLM) Palm Springs office. It proposes reconfiguring ten abandoned fish-rearing ponds at the [[Dos Palmas Preserve]] into [[Desert Pupfish]] propagation and experimental habitat. The package includes a cover letter...
+> -- *[[ReDosPalmasPreserveAndAttachme_11723]]*
+
+> This is an administrative memorandum from the [[Arizona Game and Fish Department]] Habitat Branch (Larry Riley), dated May 28, 1997, with enclosed notes from the May 20, 1997 meeting of the [[Biological Subcommittee]] of the [[Lower Colorado River Multi-Species Conservation Program]] (LCRMSCP). The...
+> -- *[[NotesFromMayMeeting_14977]]*
+
+> This document is a transmittal letter and attached Section 6 submittal form from the [[Arizona Game And Fish Department]] (AGFD) to the [[U.S. Fish And Wildlife Service]] (USFWS). It lists proposed FY 1988-89 projects for [[Species Recovery]] of threatened, endangered, candidate and other sensitive...
+> -- *[[ProposedProjectsForFundingFisc_19818]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -4789,6 +5034,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[EndangeredAndThreatenedFishAnd_11507]]
 - [[RequestForProposalsRfpProgramF_18343]]
 - [[EndangeredAndThreatenedSpecies_11633]]
+- [[ReDosPalmasPreserveAndAttachme_11723]]
+- [[NotesFromMayMeeting_14977]]
+- [[ProposedProjectsForFundingFisc_19818]]
 
 ## Yuma Clapper Rail Recovery Plan
 
@@ -4890,6 +5138,9 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > This 1992 annual report from the [[Native Fish Work Group]] (NFWG) documents an effort to rebuild the endangered [[Razorback Sucker]] population in [[Lake Mohave]], Arizona-Nevada. The adult population, estimated at about 60,000 fish, is old (40+ years) and has shown no detectable recruitment to...
 > -- *[[NativeFishWorkGroupAnnualRepor_13921]]*
 
+> This field memorandum reports recapture data for hatchery-reared juvenile [[Razorback Sucker]]s released into [[Lake Mohave]] on the [[Colorado River]]. The 1992 year-class was reared at [[Yuma Cove]], partly moved to [[Davis Cove]], and released after [[PIT Tagging]]. Five tagged fish were...
+> -- *[[RecaptureDataForJuvenileRazorb_15472]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -4928,6 +5179,7 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[RequestForReviewOfTheDraftLake_15022]]
 - [[AccomplishmentsOfTheNativeFish_20978]]
 - [[NativeFishWorkGroupAnnualRepor_13921]]
+- [[RecaptureDataForJuvenileRazorb_15472]]
 
 ## Yuma Cove Backwater
 
@@ -5086,6 +5338,18 @@ The Yuma Dunes are an extremely arid sand dune habitat located south and east of
 ### Mentioned In
 - [[FringetoedLizardstheSnowshoeHa_13222]]
 
+## Yuma Gaging Station
+
+### Summary
+The Yuma gaging station was a U.S. Geological Survey stream gage on the lower Colorado River near Yuma, Arizona, used to record river discharge and stage. The source reports that the Colorado at Yuma had a total run-off from January to July 1905 1.6 times that of 1903, and that it peaked at about 102,700 second-feet in the November 1905 flood. It also notes that lowland flooding on the lower Colorado begins when the Yuma gage reaches about 24.5 feet.
+
+### Context
+> This U.S. Geological Survey Water-Supply and Irrigation Paper, compiled under [[Edward Charles Murphy]] and others and published in 1906, documents the destructive floods of 1905 in the United States. Its main focus is the [[Colorado River Basin]] and the [[Gila River Basin]] of the arid Southwest....
+> -- *[[DestructiveFloodsInTheUnitedSt_15522]]*
+
+### Mentioned In
+- [[DestructiveFloodsInTheUnitedSt_15522]]
+
 ## Yuma Gauging Station
 
 ### Summary
@@ -5149,10 +5413,14 @@ Yuma, Arizona is a location on the lower Colorado River where summer water tempe
 > This technical paper presents comprehensive climatological normals for temperature, precipitation, and heating degree days across the [[United States]], including [[Alaska]], [[Hawaii]], [[Puerto Rico]], and Pacific territories. Published by the [[U.S. Weather Bureau]] in November 1956, the...
 > -- *[[MonthlyNormalTemperaturesPreci_13263]]*
 
+> This report, written by [[Witmer Stone]] with field notes by [[Samuel N. Rhoads]], documents a February 1905 collection of 258 bird specimens and 117 mammal specimens from the [[Colorado Delta]] in northwestern Lower California. The expedition was made for the [[Academy of Natural Sciences of...
+> -- *[[OnACollectionOfBirdsAndMamalsF_14597]]*
+
 ### Mentioned In
 - [[IntraserviceSectionConsultatio_20152]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[MonthlyNormalTemperaturesPreci_13263]]
+- [[OnACollectionOfBirdsAndMamalsF_14597]]
 
 ## Yuriria
 <!-- fm: auto_enriched: true -->

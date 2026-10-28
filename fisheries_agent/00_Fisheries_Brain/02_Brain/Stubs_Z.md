@@ -25,8 +25,12 @@ letter: Z
 > - Disjunct fish distributions in [[Chihuahua]], [[Durango]], and [[Zacatecas]] are confirmed as **genuine biogeographic patterns**, not artifacts of incomplete sampling. - **Progressive Tertiary subdivision of hydrographic basins** — driven by uplift of the Sierra Madre Occidental and associated ...
 > -- *[[ProbableOriginOfSomeDisjunctFi_15303]]*
 
+> This 1968 taxonomic paper describes [[Algansea Monticola]], a new species of small cyprinid fish from the headwaters of the Río Juchipila and Río Colotlán in [[Zacatecas]] and [[Jalisco]], Mexico. The authors, Clyde D. Barbour and Salvador Contreras, collected 630 specimens in eight series during...
+> -- *[[AlganseaMonticolaANewCyprinidF_15574]]*
+
 ### Mentioned In
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
+- [[AlganseaMonticolaANewCyprinidF_15574]]
 
 ## Zaire River
 <!-- fm: auto_enriched: true -->
@@ -105,6 +109,18 @@ Zander (Stizostedion lucioperca) is a European fish species closely related to t
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[WaterForBirdsFishPeople_18182]]
 - [[WaterForBirdsFishAndPeople_18183]]
+
+## Zane Grey Chapter
+
+### Summary
+The Zane Grey Chapter of Trout Unlimited, a local conservation group, initiated this correspondence on November 20, 1996. It asked the U.S. Fish and Wildlife Service for formal, regular meetings to plan a Gila trout reintroduction in Arizona, and proposed a standing committee starting in January 1997.
+
+### Context
+> This document is a set of three letters from late 1996 and early 1997 concerning a proposal to reintroduce [[Gila Trout]] (*Oncorhynchus gilae*) into Arizona waters. The [[Zane Grey Chapter]] of [[Trout Unlimited]] initiated the request to the [[U.S. Fish And Wildlife Service]] (USFWS) Arizona...
+> -- *[[CommunicationBetweenTheZaneGre_13254]]*
+
+### Mentioned In
+- [[CommunicationBetweenTheZaneGre_13254]]
 
 ## Zannichellia
 
@@ -315,6 +331,18 @@ Zenaida macroura is the mourning dove, a game bird species. This source lists it
 
 ### Mentioned In
 - [[FirstRecordOfAnAdultOreoAllocy_1983]]
+
+## Zero Datum
+
+### Summary
+A tidal reference level used as the boundary between Zone III and Zone IV at Puerto Peñasco. The source states it equals +3.9 ft on the local tide gauge, and Zone IV extends from it down to about -4 ft.
+
+### Context
+> This preliminary study proposes a four-zone scheme of rocky intertidal zonation at [[Puerto Peñasco]], based on surveys of four locations at [[Norse Beach]] and the beach in front of the [[Desalting Plant]]. The zones (I to IV, from the top of the beach down) follow [[Ricketts Zonation Scheme]]...
+> -- *[[TheRockyIntertidalZonesAtPuert_11178]]*
+
+### Mentioned In
+- [[TheRockyIntertidalZonesAtPuert_11178]]
 
 ## Zhilenko
 
@@ -916,6 +944,9 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This Bureau of Reclamation technical report (REC-ERC-81-10, July 1981) presents the baseline limnological characterization of four reservoirs in series on the [[North Platte River]] in Wyoming: [[Seminoe Reservoir]], [[Kortes Reservoir]], [[Pathfinder Reservoir]], and [[Alcova Reservoir]]. Surveys...
 > -- *[[LimnologyOfTheUpperNorthPlatte_20516]]*
 
+> This second interim report, prepared by Diana Fapoulias of [[Arizona State University]] for the [[U.S. Fish and Wildlife Service]] Office of Endangered Species (Albuquerque, NM), documents an 8-week pond experiment on larval [[Razorback Sucker]] reared at [[Dexter National Fish Hatchery]]. Twelve...
+> -- *[[SecondInterimReportOnStudiesOf_18415]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -947,6 +978,7 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[GeorgiaFishPondManagement_12850]]
 - [[PhysicochemicalAndBiologicalCo_16925]]
 - [[LimnologyOfTheUpperNorthPlatte_20516]]
+- [[SecondInterimReportOnStudiesOf_18415]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->
@@ -1013,6 +1045,18 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 
 ### Mentioned In
 - [[CalanoidCopepodsFromSomeOldAri_16013]]
+
+## Zoospores
+
+### Summary
+Zoospores are motile, flagellated spores that many parasitic fungi, including Saprolegnia, use to spread from host to host. In this report the author treats them as the main transmission route for fungal infection and proposes removing viable zoospores around stocking time to protect fish during recovery from handling injuries.
+
+### Context
+> This preliminary report by Theophilus D. Inslee (U.S. Fish and Wildlife Service, Fish Culture Development Center, Tishomingo, Oklahoma) evaluates whether repeated chemical treatments can control parasitic fungal infestations, chiefly [[Saprolegnia Parasitica]], in pond-reared [[Largemouth Bass]]...
+> -- *[[APreliminaryReportOnTheControl_14372]]*
+
+### Mentioned In
+- [[APreliminaryReportOnTheControl_14372]]
 
 ## Zorach
 
@@ -1246,6 +1290,18 @@ Zygonectes is an American killifish genus from which both Oryzias and Fundulicht
 
 ### Mentioned In
 - [[LactateDehydrogenaseLdhIsozyme_1978]]
+
+## Zzyzx Resort
+
+### Summary
+Zzyzx Resort is a property in the Mojave area containing a spring-fed lake (Lake Tuendae) that supports an abundant population of Mohave chub. The source notes legal disputes over the resort, including an eviction effort and a damages claim, which put the chub and Amargosa pupfish at risk.
+
+### Context
+> This 1967 field survey, published in the [[California-Nevada Section Transactions]] (1969), assessed the current status of the native fishes of the [[Death Valley System]], a formerly interconnected Pleistocene drainage in eastern California and southwestern Nevada. Of nine species in three...
+> -- *[[ConservationOfFishesOfTheDeath_15351]]*
+
+### Mentioned In
+- [[ConservationOfFishesOfTheDeath_15351]]
 
 ## Zzyzx Springs
 <!-- fm: auto_enriched: true -->

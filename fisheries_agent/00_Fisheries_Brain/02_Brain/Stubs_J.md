@@ -4,6 +4,18 @@ letter: J
 ---
 # Concept Stubs: J
 
+## J. A. G. Rehn
+
+### Summary
+Entomologist and ornithology contributor who confirmed some identifications for this collection. The report notes his role in verifying specimens.
+
+### Context
+> This report, written by [[Witmer Stone]] with field notes by [[Samuel N. Rhoads]], documents a February 1905 collection of 258 bird specimens and 117 mammal specimens from the [[Colorado Delta]] in northwestern Lower California. The expedition was made for the [[Academy of Natural Sciences of...
+> -- *[[OnACollectionOfBirdsAndMamalsF_14597]]*
+
+### Mentioned In
+- [[OnACollectionOfBirdsAndMamalsF_14597]]
+
 ## J. B. Kimsey
 
 ### Summary
@@ -379,6 +391,18 @@ A biologist whose elmid data from pre-impoundment studies of the Watts Bar Reser
 ### Mentioned In
 - [[WaterQualityRequirementsForElm_19002]]
 
+## Jack S. Williams
+
+### Summary
+A named member of the Cultural Resource Technical Committee for the San Pedro River project. The note lists him only as a committee member and provides no further detail.
+
+### Context
+> This first issue of the [[San Pedro River]] newsletter, issued by the [[Bureau Of Land Management]] (BLM) [[Safford District Office]], reports on the agency's management of recently acquired riparian lands. It announces draft [[Interim Management Guidelines]] released on April 3, 1986, and the...
+> -- *[[SanPedroRiverNewsletter_11461]]*
+
+### Mentioned In
+- [[SanPedroRiverNewsletter_11461]]
+
 ## Jack Salmon
 
 ### Summary
@@ -697,11 +721,15 @@ A release station on Clear Lake, about seven miles southeast of The Narrows, use
 > This draft plan from the [[Fish and Wildlife Service]] (FWS) assesses the fish and wildlife consequences of the [[North American Free Trade Agreement]] (NAFTA) along the U.S.-Mexico border and in Mexico. It argues that trade-driven growth will raise pressure on habitats, endangered species,...
 > -- *[[DraftimplementationOfTheNorthA_11640]]*
 
+> This document is a transmittal letter and attached Section 6 submittal form from the [[Arizona Game And Fish Department]] (AGFD) to the [[U.S. Fish And Wildlife Service]] (USFWS). It lists proposed FY 1988-89 projects for [[Species Recovery]] of threatened, endangered, candidate and other sensitive...
+> -- *[[ProposedProjectsForFundingFisc_19818]]*
+
 ### Mentioned In
 - [[UmbrellacorridorDesignSpeciesP_1999_07_07]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
 - [[ReassignmentOfEndangeredSpecie_11826]]
 - [[DraftimplementationOfTheNorthA_11640]]
+- [[ProposedProjectsForFundingFisc_19818]]
 
 ## Jalisco
 <!-- fm: auto_enriched: true -->
@@ -710,9 +738,13 @@ A release station on Clear Lake, about seven miles southeast of The Narrows, use
 > This document describes a comprehensive climatological database for Mexico developed by Dr. Arthur Douglas (Creighton University). The dataset comprises monthly temperature and precipitation records from 280 precipitation stations and 92 temperature stations across 18 climatological divisions in...
 > -- *[[DouglasMexicanTemperaturePreci_12378]]*
 
+> This 1968 taxonomic paper describes [[Algansea Monticola]], a new species of small cyprinid fish from the headwaters of the Río Juchipila and Río Colotlán in [[Zacatecas]] and [[Jalisco]], Mexico. The authors, Clyde D. Barbour and Salvador Contreras, collected 630 specimens in eight series during...
+> -- *[[AlganseaMonticolaANewCyprinidF_15574]]*
+
 ### Mentioned In
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
 - [[DouglasMexicanTemperaturePreci_12378]]
+- [[AlganseaMonticolaANewCyprinidF_15574]]
 
 ## James A. St. Amant
 
@@ -867,6 +899,9 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 > This 1981 technical research proposal, submitted to the Water and Power Resources Service (Lower Colorado River Region) by [[Larry J. Paulson]], [[James E. Deacon]] and John R. Baker of the [[Lake Mead Limnological Research Center]] and the University of Nevada, Las Vegas, argues that the...
 > -- *[[TheBiologyOfBonytailChubsAndRa_11244]]*
 
+> This 1975 letter from [[James E. Deacon]], Professor of Biology at the [[University Of Nevada Las Vegas]], replies to [[Clark Hubbs]] of the University of Texas. It supports Hubbs' proposal for a coordinated refugium program for rare Nevada fishes. The letter lists refugia already in development or...
+> -- *[[ReRefugiumIdeaAndSpeciesWhichS_13998]]*
+
 ### Mentioned In
 - [[CommentsOnTheVirginRiverHabita_1995_02_14]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -882,6 +917,7 @@ James E. Deacon is an ichthyologist and conservation biologist who has been inst
 - [[ResearchProposalOutlineEffects_11729]]
 - [[ManuscriptlongevityAndGrowthOf_11310]]
 - [[TheBiologyOfBonytailChubsAndRa_11244]]
+- [[ReRefugiumIdeaAndSpeciesWhichS_13998]]
 
 ## James E. Johnson
 
@@ -1496,6 +1532,18 @@ The Jarvis Decisions are a series of Arizona Supreme Court rulings on groundwate
 ### Mentioned In
 - [[ArizonaGroundwaterLawHistorica_16464]]
 
+## Jason B. Dunham
+
+### Summary
+Jason B. Dunham is the author of this unpublished, preliminary 1990 research statement on evaluating recovery models for the desert pupfish. The document proposes a framework for studying genetic and recovery questions for the species. It contains no literature citations.
+
+### Context
+> This unpublished, preliminary research statement by [[Jason B. Dunham]] proposes a framework for evaluating a [[Hierarchical Recovery Model]] for the endangered [[Desert Pupfish]] (*Cyprinodon macularius*). The species once ranged across much of the American Southwest and northwest Mexico, but...
+> -- *[[StateOfProposedResearchEvaluat_19159]]*
+
+### Mentioned In
+- [[StateOfProposedResearchEvaluat_19159]]
+
 ## Jason Dunham
 <!-- fm: auto_enriched: true -->
 
@@ -1591,9 +1639,13 @@ A round, bird-band style monel tag, 3.5 mm wide and 8 mm in diameter, placed ove
 > This 1957 paper by Robert L. Butler of the [[California Department Of Fish And Game]] describes the development of a [[Subcutaneous Vinyl Tag]] for [[Rainbow Trout]] (*Salmo gairdneri*) in the state's [[Catchable Trout Stocking]] program. The work was part of the [[Dingell-Johnson Project]] to...
 > -- *[[TheDevelopmentOfAVinylPlasticS_14114]]*
 
+> This New Hampshire Fish and Game Department progress report, prepared by Arthur E. Newell under the [[Dingell-Johnson Project]] (F-5-R-4), evaluates trout management in the [[Swift River]] watershed during the 1955 season. It combines a [[Creel Census]], tagged-fish return studies of [[Hatchery...
+> -- *[[TroutStreamManagementInvestiga_10827]]*
+
 ### Mentioned In
 - [[LargemouthBassTagging_12531]]
 - [[TheDevelopmentOfAVinylPlasticS_14114]]
+- [[TroutStreamManagementInvestiga_10827]]
 
 ## Jay Gould Lake
 
@@ -2026,6 +2078,18 @@ Jerome State Historic Park is a protected historic site located within the Verde
 ### Mentioned In
 - [[VerdeValleyReportsAndSurveysFr_12879]]
 
+## Jerry Burton
+
+### Summary
+Jerry Burton was a U.S. Fish and Wildlife Service staff member who, according to this 1989 roster, served as coordinator for the Gila Trout and Desert Fishes recovery teams and as a member of the Colorado River Fishes team. He is one of the people noted for working across multiple fish recovery efforts in Arizona at that time.
+
+### Context
+> This one-page roster, dated January 20, 1989, lists five existing fish [[Recovery Team]]s operating in Arizona. It names each team's U.S. [[Fish and Wildlife Service]] (FWS) coordinator, team leader, members, and consultants. The document contains no population data, habitat measurements, or...
+> -- *[[ExistingFishRecoveryTeamsInAri_11607]]*
+
+### Mentioned In
+- [[ExistingFishRecoveryTeamsInAri_11607]]
+
 ## Jerry L. Turner
 
 ### Summary
@@ -2219,6 +2283,18 @@ Jim Heinrich of the Nevada Department of Fish and Game posed six stakeholder que
 ### Mentioned In
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 
+## Jim LaBounty
+
+### Summary
+Jim LaBounty is named in this letter as a contact for the refugium program, listed with the Bureau of Reclamation in Denver. The source does not describe his work or any findings. He is cited only as a potential collaborator.
+
+### Context
+> This 1975 letter from [[James E. Deacon]], Professor of Biology at the [[University Of Nevada Las Vegas]], replies to [[Clark Hubbs]] of the University of Texas. It supports Hubbs' proposal for a coordinated refugium program for rare Nevada fishes. The letter lists refugia already in development or...
+> -- *[[ReRefugiumIdeaAndSpeciesWhichS_13998]]*
+
+### Mentioned In
+- [[ReRefugiumIdeaAndSpeciesWhichS_13998]]
+
 ## Jim Novy
 <!-- fm: auto_enriched: true -->
 
@@ -2271,6 +2347,18 @@ Region VI Fish Specialist with the Arizona Game and Fish Department in Mesa, Ari
 ### Mentioned In
 - [[AFreshwaterMolluskSurveyOfNort_15956]]
 - [[LifeHistoryStudiesOfTheAlabama_20199]]
+
+## Jim Yoakum
+
+### Summary
+Jim Yoakum is named in this letter as a possible contact for the Nevada refugium effort, listed with the Bureau of Land Management in Reno. The source gives no details of his specific work or findings. He is mentioned only as a potential collaborator.
+
+### Context
+> This 1975 letter from [[James E. Deacon]], Professor of Biology at the [[University Of Nevada Las Vegas]], replies to [[Clark Hubbs]] of the University of Texas. It supports Hubbs' proposal for a coordinated refugium program for rare Nevada fishes. The letter lists refugia already in development or...
+> -- *[[ReRefugiumIdeaAndSpeciesWhichS_13998]]*
+
+### Mentioned In
+- [[ReRefugiumIdeaAndSpeciesWhichS_13998]]
 
 ## Jimmie Thompson
 
@@ -2329,6 +2417,18 @@ A standardized end-of-project report required under the Federal Aid in Fisheries
 
 ### Mentioned In
 - [[FisheriesInvestigationsAndSurv_14936]]
+
+## Jobes
+
+### Summary
+Jobes and Hile (1941) are cited for a study of yellow perch in Saginaw Bay, Lake Huron. The source lists it among yellow perch growth and age studies.
+
+### Context
+> This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
+> -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
+
+### Mentioned In
+- [[ABibliographyOfSomeAgeAndGrowt_18720]]
 
 ## Jobling 1981
 <!-- fm: auto_enriched: true -->
@@ -2429,6 +2529,18 @@ Joe L. Banks is the author of this 1964 Colorado State University Master of Scie
 ### Mentioned In
 - [[AnOutlineForTheStudyOfEstuarin_1954_10_31]]
 
+## Joeris
+
+### Summary
+Joeris (1957) is cited for a study of yellow perch in Green Bay. The source lists it among yellow perch growth and age studies.
+
+### Context
+> This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
+> -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
+
+### Mentioned In
+- [[ABibliographyOfSomeAgeAndGrowt_18720]]
+
 ## Joeris 1952 Streamer Tag Technique
 <!-- fm: auto_enriched: true -->
 
@@ -2446,6 +2558,18 @@ Joe L. Banks is the author of this 1964 Colorado State University Master of Scie
 
 ### Mentioned In
 - [[SmallFishCommunityStructureInO_1982]]
+
+## Johannella
+
+### Summary
+A monotypic genus of stenasellid isopods from North Africa, placed in Stenasellinae. The source cites it as one of the constituent genera of that subfamily.
+
+### Context
+> Cole and Minckley describe [[Mexistenasellus]] coahuila, a new genus and species of [[Stenasellinae]] isopod, from thermal waters of the [[Cuatro Ciénegas Basin]] in [[Coahuila]], Mexico. It is the first member of this Eurasian-African subfamily recorded from the Western Hemisphere. The authors...
+> -- *[[OccurrenceOfTheAsellidSubfamil_17094]]*
+
+### Mentioned In
+- [[OccurrenceOfTheAsellidSubfamil_17094]]
 
 ## Johannes And Larkin 1961
 <!-- fm: auto_enriched: true -->
@@ -2667,6 +2791,18 @@ John F. Dequine was the Chief Fisheries Biologist for the Florida Game and Fresh
 ### Mentioned In
 - [[FloridasControlledSeiningProgr_12821]]
 
+## John G Rogers
+
+### Summary
+John G. Rogers was the Regional Director of Region 2 of the Fish and Wildlife Service, based in Albuquerque, New Mexico. In this source he is the addressee of the 1993 letter asking him to accept a change in the Department's representative on the Desert Fishes Recovery Team.
+
+### Context
+> This one-page letter, dated February 11, 1993, is an administrative request rather than research. [[Duane L Shroufe]], Director of the [[Arizona Game And Fish Department]], asks [[John G Rogers]], Regional Director of [[Fish And Wildlife Service]] Region 2, to replace the Department's...
+> -- *[[DepartmentRepresentativeChange_18929]]*
+
+### Mentioned In
+- [[DepartmentRepresentativeChange_18929]]
+
 ## John G. Parke
 
 ### Summary
@@ -2708,8 +2844,12 @@ John G. Weise assisted William T. Barry with the field work on Montezuma Well, w
 > This 1853 taxonomic paper by [[Spencer F. Baird]] and [[Charles Girard]] presents original descriptions of numerous new freshwater and brackish-water fish species collected during two U.S. government surveys: the [[U.S.-Mexican Boundary Survey]] (led by Lt. Col. James D. Graham, with specimens ga...
 > -- *[[DescriptionsOfNewSpeciesOfFish_17274]]*
 
+> This 1854 paper by [[Spencer Baird]] and [[Charles Girard]] (Second Part, Percoid and related groups) describes approximately 19 numbered new species of freshwater fishes collected in Texas, New Mexico and Sonora. Specimens were gathered by [[John H. Clark]] and [[Van Vliet|Captain Stewart Van...
+> -- *[[DescriptionsOfNewSpeciesOfFish_17273]]*
+
 ### Mentioned In
 - [[DescriptionsOfNewSpeciesOfFish_17274]]
+- [[DescriptionsOfNewSpeciesOfFish_17273]]
 
 ## John H. Slaughter
 <!-- fm: auto_enriched: true -->
@@ -2780,6 +2920,18 @@ John Hunter is a scientist at the National Marine Fisheries Service in Hawaii wh
 
 ### Mentioned In
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
+
+## John Kirkpatrick
+
+### Summary
+Acting Regional Forester for the US Forest Service, named in the source as a regional co-chair of the Southwest Strategy alongside Nancy Kaufman. His role is administrative and coordinating, as described in the document.
+
+### Context
+> This document is a policy package rather than research. It contains a November 12, 1997 memorandum from the Secretaries of the Interior and Agriculture and the Deputy Under Secretary of Defense, and a December 16, 1997 briefing paper. Together they direct federal agencies to build a collaborative...
+> -- *[[InteragencySouthwestStrategyFo_17186]]*
+
+### Mentioned In
+- [[InteragencySouthwestStrategyFo_17186]]
 
 ## John Klock
 <!-- fm: auto_enriched: true -->
@@ -2880,6 +3032,18 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 - [[TheFishOfColorado_16785]]
 - [[AssessmentOfDewateringImpactsO_18043]]
 
+## John Matthew Jones
+
+### Summary
+The author of *The Naturalist in Bermuda* (1859), the main earlier source on Bermudian fishes. Goode cites Jones for some species he did not personally observe.
+
+### Context
+> This Smithsonian publication (1876), the fifth in a series illustrating the [[National Museum]] natural history collections, is an annotated catalogue of the fishes of the Bermudas prepared by G. Brown Goode, Assistant Curator of the United States National Museum. It is based chiefly on specimens...
+> -- *[[CatalogueOfTheFishesOfTheBermu_11019]]*
+
+### Mentioned In
+- [[CatalogueOfTheFishesOfTheBermu_11019]]
+
 ## John Millican
 <!-- fm: auto_enriched: true -->
 
@@ -2913,6 +3077,9 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 > This USDA Forest Service General Technical Report draft, by [[John N. Rinne]] (Rocky Mountain Forest and Range Experiment Station) and [[W. L. Minckley]] (U.S. Fish and Wildlife Service and Arizona State University), presents an illustrated portfolio of the native fishes of the [[Sonoran Desert]]...
 > -- *[[DraftfishesInAridLandsaPortfol_15015]]*
 
+> This USDA Forest Service General Technical Report (RM-206, 1991) combines photographs by [[John N. Rinne]] with a text by [[W. L. Minckley]] to document the native freshwater fishes of the arid American Southwest and northwestern Mexico. It describes the region's aquatic systems, the fishes they...
+> -- *[[NativeFishesOfAridLandsADwindl_13794]]*
+
 ### Mentioned In
 - [[PhysicalHabitatEvaluationOfSma_14995]]
 - [[TaxonomicHistoryAndStatusOfThe_1995_12_01]]
@@ -2920,6 +3087,7 @@ John Martin Reservoir is a warm water fishery in Colorado that received experime
 - [[ConservationEngineer_12615]]
 - [[IndexToTheNaturalDrainageSyste_18981]]
 - [[DraftfishesInAridLandsaPortfol_15015]]
+- [[NativeFishesOfAridLandsADwindl_13794]]
 
 ## John Norman Rinne
 
@@ -2982,6 +3150,18 @@ John P. Wise was a fishery research biologist and the author of this 1958 review
 
 ### Mentioned In
 - [[CodAndHydrographyaReview_20791]]
+
+## John R. Bartlett
+
+### Summary
+John R. Bartlett was the boundary commissioner whose 1854 narrative Taylor used to relocate mollusk type localities precisely. The source credits his account with describing a stream near Janos, Chihuahua in August 1852 where abundant unionid mussels were collected.
+
+### Context
+> This document is a mixed set of items centred on historical freshwater records from the US-Mexico border region. It contains a 1993 letter from [[Robert R. Miller]] questioning a trout record from northern Chihuahua, the contents page of a 1967 issue of [[The Veliger]], and the main text of a paper...
+> -- *[[TheNaturalRangeOfSalmoNowOncho_15385]]*
+
+### Mentioned In
+- [[TheNaturalRangeOfSalmoNowOncho_15385]]
 
 ## John R. Calaprice
 
@@ -3199,8 +3379,12 @@ Johnson is a researcher who studied pesticide persistence in aquatic environment
 > This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
 > -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
 
+> This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
+> -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
+
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+- [[ABibliographyOfSomeAgeAndGrowt_18720]]
 
 ## Johnson (1945)
 <!-- fm: auto_enriched: true -->
@@ -3349,10 +3533,14 @@ Johnson Creek is not mentioned in this source.
 > This recovery plan addresses two endangered cyprinid species endemic to the [[Virgin River]] system: the [[Woundfin]] (*Plagopterus argentissimus*) and the [[Virgin River Chub]] (*Gila seminuda*). The woundfin was listed as endangered on October 13, 1970, and the Virgin River chub on August 24,...
 > -- *[[VirginRiverFishesRecoveryPlan_13186]]*
 
+> This document is a faxed cover sheet and three draft minutes from meetings of the [[Virgin Spinedace]] Conservation Coordinating Team, transmitted by the [[Sierra Club Legal Defense Fund]] on February 9, 1995. The meetings (July 7, September 30, and August 31, 1994) brought together state, federal,...
+> -- *[[MinutesOfThreeDifferentVirginS_20094]]*
+
 ### Mentioned In
 - [[RequestForRenewalOfEndangeredS_1992_11_27]]
 - [[VirginRiverFishRecoveryTeamSpr_20244]]
 - [[VirginRiverFishesRecoveryPlan_13186]]
+- [[MinutesOfThreeDifferentVirginS_20094]]
 
 ## Johnson Et Al 1970
 
@@ -3552,10 +3740,14 @@ The Jolly-Seber model is a standard mark-recapture method for estimating surviva
 > This is a general review by [[Wallace Craig]] (University of Maine), published in the *Psychological Bulletin* (Vol. 17, No. 6, June 1920). It summarizes recent literature on [[Tropisms]], taxes, [[Instinctive Behavior]], reflexes, locomotion, migration, rhythms, defense, immobility, fear,...
 > -- *[[GeneralReviewsAndSummariesTrop_17993]]*
 
+> This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
+> -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
+
 ### Mentioned In
 - [[PollutionAndFisheriesAProgress_1966_06_22]]
 - [[TheNutrientCompositionDynamics_12515]]
 - [[GeneralReviewsAndSummariesTrop_17993]]
+- [[ABibliographyOfSomeAgeAndGrowt_18720]]
 
 ## Jones 1938
 <!-- fm: auto_enriched: true -->
@@ -4511,6 +4703,18 @@ Julian M. Humphries is the lead author of this 1982 taxonomic study on Ictalurus
 - [[AmericanRiversScientificAndTec_15167]]
 - [[WhereToFindWaterExpertiseAtSta_13522]]
 
+## Juliette Dam
+
+### Summary
+Juliette Dam is a dam on the Ocmulgee River in Georgia. The source reports that the redbreast sunfish decline is also documented below this dam (Evans 1991), where flathead catfish are present.
+
+### Context
+> This conference paper by Matthew E. Thomas of the [[Georgia Department Of Natural Resources]] reports a standardized stream monitoring program run on the [[Altamaha River]] from 1987 to 1992 (electrofishing data analysed for 1988 to 1992). The study tracked the invasion of [[Flathead Catfish]]...
+> -- *[[MonitoringTheEffectsOfIntroduc_13577]]*
+
+### Mentioned In
+- [[MonitoringTheEffectsOfIntroduc_13577]]
+
 ## Julimes
 <!-- fm: auto_enriched: true -->
 
@@ -4528,6 +4732,18 @@ Julius B. Phillips is a co-author of this California Department of Fish and Game
 
 ### Mentioned In
 - [[DistributionAndAbundanceOfYoun_11170]]
+
+## July 2 Policy on Recovery Teams
+
+### Summary
+This is a Fish and Wildlife Service policy on recovery teams, dated July 2, that the Desert Fishes Recovery Team discussed at its September 1994 meeting. The FWS Washington Office would not issue guidance, leaving each Region to write its own, and Region 2 expected draft guidance soon. Members questioned the policy's definition of 'peer' and its reliance on 'primary and original' data, and MacMullen asked for assurance that the team would not be disbanded.
+
+### Context
+> These draft minutes record the September 9, 1994 meeting of the [[Desert Fishes Recovery Team]] (DFRT), led by Team Leader W.L. Minckley, at the Arizona Game and Fish Department in Phoenix. The meeting reviewed the status of action items from earlier 1993 and 1994 meetings and covered several...
+> -- *[[MinutesDesertFishesRecoveryTea_18305]]*
+
+### Mentioned In
+- [[MinutesDesertFishesRecoveryTea_18305]]
 
 ## Jumbo Reservoir
 
@@ -4572,6 +4788,18 @@ Juncus (rushes) are obligate wetland species that occur in wet fluvial marshes i
 ### Mentioned In
 - [[TransitionMonitoringForRiparia_17903]]
 - [[NotesFromFieldWorkInTheCuatroc_12737]]
+
+## Juncus Saximontanus
+
+### Summary
+Juncus saximontanus is a rush that grows in moist and wet soils such as seeps and cienegas. The source lists it among the common taxa recorded across the surveyed sites.
+
+### Context
+> This herbarium record documents aquatic and semi-aquatic plants collected at [[Native Fish Surveys|native fish and amphibian]] sites in southern Arizona between 6 and 13 June 1980. The collection was led by Winckley, Hendrickson, and colleagues and was made by the [[University of Arizona...
+> -- *[[AquaticAndSemiaquaticPlantsCol_13527]]*
+
+### Mentioned In
+- [[AquaticAndSemiaquaticPlantsCol_13527]]
 
 ## June Lake
 
