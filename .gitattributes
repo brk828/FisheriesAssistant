@@ -1,2 +1,8 @@
+# Line endings: the repo stores LF; checkouts are LF everywhere except Windows batch files.
+# Committed here (not left to each machine's core.autocrlf) so Windows, codespaces and other tools agree.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
 # Consolidated concept stubs are append-only lists; keep both sides on a merge between machines.
 fisheries_agent/00_Fisheries_Brain/02_Brain/Stubs_*.md merge=union
