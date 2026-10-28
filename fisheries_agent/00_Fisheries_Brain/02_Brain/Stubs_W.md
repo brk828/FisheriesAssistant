@@ -235,6 +235,9 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 > This USDA Forest Service General Technical Report draft, by [[John N. Rinne]] (Rocky Mountain Forest and Range Experiment Station) and [[W. L. Minckley]] (U.S. Fish and Wildlife Service and Arizona State University), presents an illustrated portfolio of the native fishes of the [[Sonoran Desert]]...
 > -- *[[DraftfishesInAridLandsaPortfol_15015]]*
 
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
 ### Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[BehindTheScenesBeingThereNatio_1995_05_17]]
@@ -305,6 +308,7 @@ W. L. Minckley was a prominent ichthyologist and conservation biologist who cond
 - [[MorphometryOfFishesInTheGenusG_21074]]
 - [[VariousCyprinodonInformationHa_15304]]
 - [[DraftfishesInAridLandsaPortfol_15015]]
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## W. Linn Montgomery
 
@@ -5220,6 +5224,18 @@ USGS Water-Supply Paper 1313 is a numbered federal publication series, and this 
 ### Mentioned In
 - [[AssessmentOfTheImpactOfDomesti_12350]]
 - [[ANewSpeciesOfTheGenusGilaFromN_17333]]
+
+## Watercress Darter
+
+### Summary
+A small endemic Alabama fish known from a single small spring in Bessemer, with probably fewer than 800 individuals. The report classes it as endangered and as one of six Alabama endemic fishes still surviving.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Waterdog
 <!-- fm: auto_enriched: true -->
@@ -11816,6 +11832,18 @@ The White-throated Woodrat (Neotoma albigula) is a rodent that builds conspicuou
 ### Mentioned In
 - [[ReportOnTheSurveyOfTheMammalsO_11840]]
 
+## White-Water Boating
+
+### Summary
+White-water boating is the commercial and private river recreation on the Colorado River through Glen and Grand Canyons, valued in the study as a major resource. The report finds that flood flows above 31,500 cfs raise the risk of boats flipping and lead many passengers to walk around rapids such as Crystal Rapid. Recreation value depends strongly on flow level and stability, with steady flows around 33,000 cfs valued far above 10,000 cfs.
+
+### Context
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19675]]
+
 ## White-Winged Dove
 <!-- fm: auto_enriched: true -->
 
@@ -13637,8 +13665,12 @@ William F. Childers is one of the two co-authors of this 1961 Illinois Natural H
 > - **Three-tiered data structure**: - **Level I** — Historic museum voucher specimen records (native and non-native fishes). - **Level II** — Peer-reviewed literature records, cross-referenced with Level I vouchers. - **Level III** — Field notes, agency reports, and gray literature; used only afte...
 > -- *[[DistributionAndSpeciesViabilit_1998_08_25]]*
 
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
 ### Mentioned In
 - [[DistributionAndSpeciesViabilit_1998_08_25]]
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## William F. Scheuermann Jr.
 

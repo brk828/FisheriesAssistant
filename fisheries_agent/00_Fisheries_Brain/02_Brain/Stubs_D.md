@@ -7691,6 +7691,9 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > This USDA Forest Service General Technical Report draft, by [[John N. Rinne]] (Rocky Mountain Forest and Range Experiment Station) and [[W. L. Minckley]] (U.S. Fish and Wildlife Service and Arizona State University), presents an illustrated portfolio of the native fishes of the [[Sonoran Desert]]...
 > -- *[[DraftfishesInAridLandsaPortfol_15015]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -7994,6 +7997,7 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[BackgroundInformationOnTheCent_11690]]
 - [[TheEcologyOfTheSaltonSeaCalifo_14433]]
 - [[DraftfishesInAridLandsaPortfol_15015]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Desert Pupfish Conservation
 <!-- fm: auto_enriched: true -->

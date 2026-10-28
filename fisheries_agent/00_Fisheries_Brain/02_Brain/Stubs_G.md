@@ -2397,6 +2397,9 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 > This April 1997 volume collects abstracts and executive summaries from a symposium on the 1996 [[Beach Habitat-Building Flow]] (also called the experimental flood, test flow, or spike flow) released from [[Glen Canyon Dam]]. The flow was a seven-day release of about 1,274 m³/s (45,000 cfs), with...
 > -- *[[GlenCanyonDamBeachhabitatBuild_18131]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[EffectsOfThermalConstancyAndSe_1976]]
 - [[FlowModificationsToTheGlenCany_18321]]
@@ -2419,6 +2422,7 @@ Gammarus lacustris is a freshwater amphipod crustacean that serves as a critical
 - [[GlenCanyonDamModificationsToCo_11454]]
 - [[DocumentationOfChangesInTheMac_20465]]
 - [[GlenCanyonDamBeachhabitatBuild_18131]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Gammarus Lacustris Limnaeus
 <!-- fm: auto_enriched: true -->
@@ -3030,6 +3034,18 @@ Garra rossica is a cyprinid fish species with the widest distribution in Afghani
 
 ### Mentioned In
 - [[PublicationsOfFKrupp_1988]]
+
+## Garrett M. Odell
+
+### Summary
+A mathematical modeller at the University of Washington and external collaborator on the project. With Fagan, he built a mass-balanced differential-equation eco-evolutionary model of consumer-resource stoichiometry.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Garrison Dam
 <!-- fm: auto_enriched: true -->
@@ -4885,6 +4901,9 @@ Geoffrey Platts wrote Trek! Man Alone in the Arizona Wild (Carefree Communicatio
 > This draft report from [[BIO/WEST]] (Logan, UT, June 23, 1995) for the [[Glen Canyon Environmental Studies]] (GCES) program proposes a prototype **Grand Canyon Fisheries Integrated (GCFIN) Database** and a [[Geographic Information System]] (GIS) interface for native and endangered fish data....
 > -- *[[GrandCanyonFisheriesIntegrated_13021]]*
 
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[LetterRequestingUtahFishAndMol_1997_10_27]]
 - [[AProposedDemonstrationModelToI_17636]]
@@ -4894,6 +4913,7 @@ Geoffrey Platts wrote Trek! Man Alone in the Arizona Wild (Carefree Communicatio
 - [[WestTurkeyCreekWatershedRestor_18328]]
 - [[LifeHistoryAndEcologyOfTheHump_17640]]
 - [[GrandCanyonFisheriesIntegrated_13021]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Geographic Information System Mapping
 
@@ -10203,6 +10223,9 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 > This 1952 U.S. Geological Survey open-file report, prepared with the [[Underground Water Commission of Arizona]] and the [[Arizona State Land Department]], summarizes ground-water conditions in fifteen areas of the [[Gila River Basin]] plus several adjacent basins. Ground water is held mainly in...
 > -- *[[GroundWaterInTheGilaRiverBasin_20986]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -10385,6 +10408,7 @@ The Gila River Basin is a critical arid-region watershed in the southwestern Uni
 - [[SpikedaceMedaFulgidaAndLoachMi_17036]]
 - [[BackgroundInformationOnTheCent_11690]]
 - [[GroundWaterInTheGilaRiverBasin_20986]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Gila River Basin Endemic Fishes
 <!-- fm: auto_enriched: true -->
@@ -12019,6 +12043,9 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 > The Arizona Department of Environmental Quality (ADEQ) report, prepared by Lin Lawson (June 1995), documents a monthly intensive survey of water quality, fish and macroinvertebrates in the upper [[Santa Cruz River]] from November 1992 to October 1993. The study was a cooperative effort between ADEQ...
 > -- *[[UpperSantaCruzRiverIntensiveSu_20208]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -12357,6 +12384,7 @@ The Gila Topminnow (*Poeciliopsis occidentalis*) is a small, federally endangere
 - [[FinalReportForTheArnettCreekNa_17657]]
 - [[HandbookOfSpeciesEndangeredInN_19959]]
 - [[UpperSantaCruzRiverIntensiveSu_20208]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Gila Topminnow Decline
 <!-- fm: auto_enriched: true -->
@@ -15361,6 +15389,15 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -15686,6 +15723,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[GlenCanyonEnvironmentalStudies_19692]]
 - [[AnnotatedBibliographyForAquati_20870]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Glen Canyon Dam Adaptive Management Program
 <!-- fm: auto_enriched: true -->
@@ -16092,6 +16132,9 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
 ### Mentioned In
 - [[AProposalForConversionOfTheNau_1993_04_12]]
 - [[AProposalToMonitorTheEffectsOf_11482]]
@@ -16241,6 +16284,7 @@ The Glen Canyon Environmental Studies (GCES) was a comprehensive, multi-agency r
 - [[GlenCanyonDamBeachhabitatBuild_18131]]
 - [[GlenCanyonEnvironmentalStudies_19692]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
 
 ## Glen Canyon Environmental Studies (Gces)
 <!-- fm: auto_enriched: true -->
@@ -18956,9 +19000,13 @@ Gopher Tortoise (eastern population) is a reptile that was included as a candida
 > This Federal Register notice (Vol. 59, No. 219, November 15, 1994, Proposed Rules, pp. 58982–59028) from the [[U.S. Fish and Wildlife Service]] (Service), Department of the Interior, presents an updated compilation of vertebrate and invertebrate animal taxa native to the United States under review...
 > -- *[[EndangeredAndThreatenedWildlif_11654]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11596]]
 - [[EndangeredAndThreatenedWildlif_11654]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Gopherus agassizii
 
@@ -20625,6 +20673,9 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 > These proceedings from the National Park Service Southwest Region Superintendent's Conference (Fort Worth, April 29–30, 1976; coordinator Roland H. Wauer) bring together case studies on how recreational use affects river corridors, beaches and backcountry in NPS units. The focus is [[Carrying...
 > -- *[[ProceedingsOfTheRdResourcesMan_19640]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[AdditionalStudiesOnTheLittleCo_18500]]
 - [[AgeAndGrowthRateOfTheFlannelmo_13215]]
@@ -20695,6 +20746,7 @@ Grand Canyon National Park encompasses a critical stretch of the Colorado River 
 - [[GlenCanyonEnvironmentalStudies_11546]]
 - [[ASurveyOfTheAquaticFloraAndFau_17435]]
 - [[ProceedingsOfTheRdResourcesMan_19640]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Grand Canyon Native Fish Monitoring
 <!-- fm: auto_enriched: true -->
@@ -27599,6 +27651,18 @@ The management of groundwater supplies, including how aquifers are pumped and su
 
 ### Mentioned In
 - [[PacificInstituteReport_18370]]
+
+## Groundwater Management Act
+
+### Summary
+A 1980 Arizona law, referenced here, that requires groundwater overdraft in the state's active management areas to be brought into balance. The source notes that the Central Arizona Project was intended to help meet this goal, with a target year of 2025.
+
+### Context
+> This document is a report prepared by the [[Central Arizona Water Conservation District]] (CAWCD) responding to the April 1994 final [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (the Service). The opinion concluded that continued delivery of [[Central Arizona Project]]...
+> -- *[[UsFishAndWildlifeServiceFinalB_16068]]*
+
+### Mentioned In
+- [[UsFishAndWildlifeServiceFinalB_16068]]
 
 ## Groundwater Mining
 

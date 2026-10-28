@@ -1254,6 +1254,12 @@ The Tallapoosa River in Alabama was one of the collection sites for adult thread
 > This final report, prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] (Contract No. 6-CS-40-03980), synthesizes four years (1985–1988) of the "Cataract Canyon Studies." The study sampled the lower 50 miles of the [[Green River]] and [[Colorado River]], the 16-mile whitewater reach of...
 > -- *[[FinalReporttheEndangeredFishOf_13607]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[ReconnaissanceSurveyAndInvento_1993]]
 - [[VirginRiverOperationOctober_1988_10_04]]
@@ -1280,6 +1286,8 @@ The Tallapoosa River in Alabama was one of the collection sites for adult thread
 - [[StateOfTheDesertDiomeUniquenes_19471]]
 - [[SouthernArizonaRiparianHabitat_12654]]
 - [[FinalReporttheEndangeredFishOf_13607]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Tamarix
 <!-- fm: auto_enriched: true -->
@@ -3801,8 +3809,12 @@ Tennessee Valley Authority v. Hill is a 1978 U.S. Supreme Court case (437 U.S. 1
 > * **Habitat:** Walleye were collected from riverine and tributary systems, specifically the [[Luxapallila River]], Yellow Creek, the [[Buttahatchie River]], and Sipsey Creek, all tributaries within the upper Tombigbee River drainage in Lowndes and Monroe County, Mississippi. * **Spawning Behavior...
 > -- *[[EvidenceForAGeneticallyUniqueW_15534]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[EvidenceForAGeneticallyUniqueW_15534]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Tensaw River
 <!-- fm: auto_enriched: true -->
@@ -7027,6 +7039,9 @@ Thomas Creek is a tributary that joins the Blue River in Greenlee County, Arizon
 > This document is a research proposal submitted by [[Arizona State University]] (Department of Zoology and Center for Environmental Studies) to the [[U.S. Fish and Wildlife Service]], Region II, for a five-year study of fish community recovery in the [[Virgin River]]. The study follows an accidental...
 > -- *[[FishCommunityReorganizationInA_15861]]*
 
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesSubpermitAuth_1993_01_15]]
 - [[GeneticDiversityOfRazorbackSuc_18428]]
@@ -7034,6 +7049,7 @@ Thomas Creek is a tributary that joins the Blue River in Greenlee County, Arizon
 - [[ProposalRoutingApprovalFormFor_13793]]
 - [[BiochemicalGeneticsOfTroutHybr_19103]]
 - [[FishCommunityReorganizationInA_15861]]
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Thomas E. Shepard
 
@@ -14695,8 +14711,12 @@ The guide's trout section recommends small hooks (sizes 14 to 18) and light lead
 > This 1950s-era Arizona Game & Fish Department pamphlet, written by Ernest E. Mulch and William C. Gamble, is a popular angling guide to eight [[Game Fish]] species found in the state's streams and lakes. It combines species descriptions (fin counts, scale counts, spawning and growth information)...
 > -- *[[GameFishesOfArizona_15484]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
 ### Mentioned In
 - [[GameFishesOfArizona_15484]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
 
 ## Trout Food Habits
 

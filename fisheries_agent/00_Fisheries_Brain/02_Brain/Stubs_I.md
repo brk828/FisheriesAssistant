@@ -3843,8 +3843,12 @@ A cave-dwelling bat listed as Endangered in the report. Oklahoma is at the edge 
 > This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
 > -- *[[RareAndEndangeredVertebratesAn_11494]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[RareAndEndangeredVertebratesAn_11494]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Indiana University
 <!-- fm: auto_enriched: true -->
@@ -8827,9 +8831,13 @@ The ivory-billed woodpecker is a large woodpecker of North American forests. Hap
 > This U.S. government report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (apparently late 1960s), argues that species are now disappearing faster than they evolve, largely because of human actions. It reviews historic extinctions in North America, describes endangered animals and their...
 > -- *[[TheRightToExist_11512]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[ResourceManagementAndHumanEcol_20627]]
 - [[TheRightToExist_11512]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Ivy Log Creek
 <!-- fm: auto_enriched: true -->

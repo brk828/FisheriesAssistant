@@ -2074,6 +2074,12 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+> This document is a report prepared by the [[Central Arizona Water Conservation District]] (CAWCD) responding to the April 1994 final [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (the Service). The opinion concluded that continued delivery of [[Central Arizona Project]]...
+> -- *[[UsFishAndWildlifeServiceFinalB_16068]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -2717,6 +2723,8 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[PetitionToDesignateCriticalHab_20448]]
 - [[TroutHepatomaResearchConferenc_20987]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
+- [[UsFishAndWildlifeServiceFinalB_16068]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->
@@ -3212,6 +3220,9 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 > This ORSANCO reference report, dated September 1, 1961, uses the 1959 steel strike as a natural experiment. Upper Ohio Valley steel mills stopped for 16 weeks (July 15 to November 7, 1959), and river sampling at 12 stations ran from July 21 to December 10, 1959. The study compares stream chemistry,...
 > -- *[[RiverqualityConditionsDuringAW_15943]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
 ### Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -3256,6 +3267,7 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 - [[LifeHistoryAndEcologyOfTheHump_17640]]
 - [[ProgressReportForTheBiological_19814]]
 - [[RiverqualityConditionsDuringAW_15943]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
 
 ## U.S. Highway 1
 
@@ -5428,6 +5440,9 @@ The University of Arizona served as an institutional partner in federally-author
 > This draft report from [[BIO/WEST]] (Logan, UT, June 23, 1995) for the [[Glen Canyon Environmental Studies]] (GCES) program proposes a prototype **Grand Canyon Fisheries Integrated (GCFIN) Database** and a [[Geographic Information System]] (GIS) interface for native and endangered fish data....
 > -- *[[GrandCanyonFisheriesIntegrated_13021]]*
 
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -5473,6 +5488,7 @@ The University of Arizona served as an institutional partner in federally-author
 - [[StatewideRiparianInventoryAndM_20779]]
 - [[SanBernardinoAndLeslieCanyonNa_11676]]
 - [[GrandCanyonFisheriesIntegrated_13021]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## University of Arizona Agricultural Experiment Station
 
@@ -7843,9 +7859,13 @@ The Upper Gila River is a critical reach of the Gila River system in the southwe
 > This January 1963 Bureau of Reclamation memorandum report, prepared by the Region 3 office in [[Boulder City, Nevada]], gives a preliminary reconnaissance of the water resource potential of the [[Upper Gila River Basin]] in New Mexico. It excludes the Upper San Simon Valley. The study inventories...
 > -- *[[UpperGilaRiverInvestigationsNe_11521]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[PhysicochemistryOfTheUpperGila_16741]]
 - [[UpperGilaRiverInvestigationsNe_11521]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Upper Gila Valley
 
@@ -9494,6 +9514,18 @@ The USFWS Region VI Recovery Implementation Program is an upper-basin recovery e
 - [[ChangeInScheduleForExperimenta_19736]]
 - [[DraftColoradoRiverTrophicStudi_14828]]
 - [[VirginRiverReturnFlowStudy_18717]]
+
+## USGS Digital Line Graph
+
+### Summary
+A digital map database of hydrography, meaning stream and water features, produced by the US Geological Survey. In this project it formed the base map for perennial stream mapping, but its streams had never been coded as perennial, so it was refined with input from state reviewers.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
+### Mentioned In
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## USGS Gage
 

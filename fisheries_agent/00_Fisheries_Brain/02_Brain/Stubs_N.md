@@ -804,6 +804,18 @@ NASA is the U.S. National Aeronautics and Space Administration. After the Space 
 - [[AUniqueNationalResource_19493]]
 - [[SouthernArizonaRiparianHabitat_12654]]
 
+## NASA Astrobiology Institute
+
+### Summary
+A NASA-sponsored research consortium that the proposal seeks to expand biologist participation in. The source describes this Arizona State University project as a contribution to NAI's astrobiology research goals, using Cuatro Cienegas springs as analogues for early Earth and possible Martian habitats.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
+
 ## Nash Canyon
 
 ### Summary
@@ -1540,6 +1552,9 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 > This USDA Forest Service General Technical Report (RM-73, June 1980) by [[David E. Brown]], [[Charles H. Lowe]], and [[Charles P. Pase]] presents a hierarchical, digitized classification of natural ecosystems. It is built on biotic and climatic criteria rather than land use. The system uses a...
 > -- *[[ADigitizedSystematicClassifica_13012]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[BoardOfCountyCommissionersOfTh_11767]]
 - [[CommentsOnTheIntentionalIntrod_1993_10_20]]
@@ -1600,6 +1615,7 @@ The National Environmental Policy Act (NEPA) is a foundational U.S. federal stat
 - [[GlenCanyonEnvironmentalStudies_11546]]
 - [[EnvironmentalAssessmentForFede_11771]]
 - [[ADigitizedSystematicClassifica_13012]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## National Environmental Protection Act
 <!-- fm: auto_enriched: true -->
@@ -2734,6 +2750,9 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > These proceedings compile papers from the Chiricahua Mountains Research Symposium, held 16–17 March 1992 at Pine Canyon United Methodist Camp, Cochise County, Arizona, and published in December 1992 by the Southwest Parks and Monuments Association. The volume is a multidisciplinary survey of the...
 > -- *[[ChiricahuaMountainsResearchSym_15626]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -2867,6 +2886,7 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[GlenCanyonEnvironmentalStudies_11546]]
 - [[EcologicalStudiesOfAquaticHabi_13996]]
 - [[ChiricahuaMountainsResearchSym_15626]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
 
 ## National Park Service Resource Management
 <!-- fm: auto_enriched: true -->
@@ -7681,8 +7701,12 @@ The riparian zone between the Colorado River and the higher terraces, dominated 
 > This Final Report (February 1998), prepared by Duncan T. Patten for the [[Bureau of Reclamation]] and the [[Grand Canyon Monitoring and Research Center]] under Cooperative Agreement 1425-96-FC-81-05003, evaluates research funded by [[Glen Canyon Environmental Studies]] (GCES) Phases I and II. It...
 > -- *[[IntegrationAndEvaluationOfGlen_18447]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[IntegrationAndEvaluationOfGlen_18447]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## New Jersey
 
@@ -17720,6 +17744,18 @@ Nymphophilus is an endemic snail genus of the Cuatro Ciénegas Basin, represente
 
 ### Mentioned In
 - [[TrophicEcologyOfTheCichlidMorp_21141]]
+
+## Nymphophilus minckleyi
+
+### Summary
+A species named in the Mexican collecting permit associated with this proposal, listed among the aquatic taxa that may be collected from CCB pools. The source gives no further findings about it.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Nyong River
 <!-- fm: auto_enriched: true -->

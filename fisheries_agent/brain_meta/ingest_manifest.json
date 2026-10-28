@@ -3785,6 +3785,17 @@
   "status": "done",
   "timestamp": "2026-10-25T21:38:32+00:00"
  },
+ "23992f2e92fb745adb7a58ee2167f8bb3ff4f340e6d04e7b732a22fb9df3c426": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "19675.pdf",
+  "method": "ocr",
+  "note": "GlenCanyonEnvironmentalStudies_19675.md",
+  "source_id": "X-23992f2e",
+  "status": "done",
+  "timestamp": "2026-10-28T16:07:02+00:00",
+  "via": "anthropic-batch"
+ },
  "239cb09f096f39bcb8c0b5932a1e8803c4bb6903da6dd1eb592f065bcfeb10ae": {
   "citation_source": "minckley-sheet",
   "file": "14674.pdf",
@@ -4091,6 +4102,17 @@
   "source_id": "X-25e53441",
   "status": "done",
   "timestamp": "2026-10-21T05:50:39+00:00"
+ },
+ "25f47c973272e968dea0e226ebb8cf3d8dfcd6fce508c90eacd24c67326c59b0": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "17923.pdf",
+  "method": "ocr",
+  "note": "RareAndEndangeredVertebratesOf_17923.md",
+  "source_id": "X-25f47c97",
+  "status": "done",
+  "timestamp": "2026-10-28T16:07:02+00:00",
+  "via": "anthropic-batch"
  },
  "2605c7865c23e818764da16a4fc2328844b873212e98ce5c8b5f9c1084346319": {
   "citation_source": "minckley-sheet",
@@ -6471,6 +6493,17 @@
   "status": "done",
   "timestamp": "2026-10-27T00:34:46+00:00"
  },
+ "3bb570cd4819bc2f191df2d1540b60067f94dfce7604a5457c95f405b29e1659": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "13661.pdf",
+  "method": "ocr",
+  "note": "ArizonaRiparianInventoryAndMap_13661.md",
+  "source_id": "X-3bb570cd",
+  "status": "done",
+  "timestamp": "2026-10-28T16:07:05+00:00",
+  "via": "anthropic-batch"
+ },
  "3bcbd849744549379b062be423a3e23bdc6bdbf06e538649a2225e1ac518eac6": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -6540,6 +6573,17 @@
   "source_id": "X-3c16d99f",
   "status": "done",
   "timestamp": "2026-10-24T02:29:53+00:00"
+ },
+ "3c70fe1d62fe2c907e1e8e1e20061381e7d3d7a3319443fbdcd2cab2a74ad672": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15073.pdf",
+  "method": "ocr",
+  "note": "FinalFeasibilityAssessmentForA_15073.md",
+  "source_id": "X-3c70fe1d",
+  "status": "done",
+  "timestamp": "2026-10-28T16:07:05+00:00",
+  "via": "anthropic-batch"
  },
  "3cbc6d45dd4eb9771d8a90c0973c98752f739a2e08b3039391c29019246742d2": {
   "citation_source": "minckley-sheet",
@@ -11359,6 +11403,17 @@
   "source_id": "X-66627ee2",
   "status": "done",
   "timestamp": "2026-10-20T01:05:11+00:00"
+ },
+ "6668f8736bee09ea9cb83cd5adfac679507bcedc1389ff032826aee67e6fed76": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16309.pdf",
+  "method": "ocr",
+  "note": "EvolutionInMicrobebasedEcosyst_16309.md",
+  "source_id": "X-6668f873",
+  "status": "done",
+  "timestamp": "2026-10-28T16:07:04+00:00",
+  "via": "anthropic-batch"
  },
  "669de74828a3d6987de887eb51c730e5a98c3f1e8b82a21e834652acd674d2e7": {
   "citation_source": "minckley-sheet",
@@ -17700,6 +17755,17 @@
   "status": "done",
   "timestamp": "2026-10-26T15:24:33+00:00"
  },
+ "9f934d23487385d48b233ca291e63df4217f1141c1664a28116ea851d437f11e": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "11485.pdf",
+  "method": "ocr",
+  "note": "OperationOfGlenCanyonDamdrafte_11485.md",
+  "source_id": "X-9f934d23",
+  "status": "done",
+  "timestamp": "2026-10-28T16:07:03+00:00",
+  "via": "anthropic-batch"
+ },
  "9f9c365333c10e675b27398ca113315ce02c86b8bdb8abae1e5ec242b31435c6": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -20762,6 +20828,17 @@
   "source_id": "X-b94b46a2",
   "status": "done",
   "timestamp": "2026-10-28T13:36:49+00:00"
+ },
+ "b958294411f21d6355b671840980a91bd57b4dbc39fca3ab37c5e2a2601daf9b": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "16068.pdf",
+  "method": "ocr",
+  "note": "UsFishAndWildlifeServiceFinalB_16068.md",
+  "source_id": "X-b9582944",
+  "status": "done",
+  "timestamp": "2026-10-28T16:07:06+00:00",
+  "via": "anthropic-batch"
  },
  "b95bd0be7793acffa12d49f0babb4ef7d87559c62b0d40c90bac7aeaa6d2629c": {
   "citation_source": "minckley-sheet",
@@ -23838,6 +23915,17 @@
   "source_id": "X-d5e1a2ff",
   "status": "done",
   "timestamp": "2026-10-14T19:29:02+00:00"
+ },
+ "d5e224f41fc551605d40870972a04961ba4c1b14009f5b24a5e3fea32e0e2c42": {
+  "citation_source": "minckley-sheet",
+  "doc_type": "",
+  "file": "15863.pdf",
+  "method": "ocr",
+  "note": "ResourceInventoryForTheGilaRiv_15863.md",
+  "source_id": "X-d5e224f4",
+  "status": "done",
+  "timestamp": "2026-10-28T16:07:06+00:00",
+  "via": "anthropic-batch"
  },
  "d60923cd0eaebf4672df2c3e22732d950bb234cace24c56dfca726f6875e0837": {
   "citation_source": "minckley-sheet",

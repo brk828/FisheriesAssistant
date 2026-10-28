@@ -682,6 +682,9 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 > This interagency inventory (1973–1974) documents the biological resources of the lower [[Gila River]] valley in southwestern New Mexico, from the Gila Wilderness boundary to the Arizona state line, a reach of about 67 river miles. The study prioritized the [[Riparian Vegetation]] that makes the...
 > -- *[[LowerGilaRiverBiologicalInvent_18262]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[ChangesInRiparianVegetationAnd_14524]]
@@ -690,6 +693,7 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 - [[TheGilaRiverValleyInSouthweste_20942]]
 - [[ProgressReportForTheBiological_19815]]
 - [[LowerGilaRiverBiologicalInvent_18262]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Zonitoides Arboreus
 <!-- fm: auto_enriched: true -->

@@ -2829,6 +2829,18 @@ Paleolimnology is the study of ancient lake environments and their historical co
 ### Mentioned In
 - [[ExoticTerranesOfWesternCalifor_1982_05_20]]
 
+## Paleomonetes
+
+### Summary
+A shrimp genus (Paleomonetes sp.) named in the Mexican collecting permit, indicating it is among the grazer taxa of interest in CCB pools. The source provides no other findings about it.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
+
 ## Paleontological Resources
 
 ### Summary
@@ -5328,6 +5340,9 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 > This U.S. Geological Survey professional paper (Turner and Karpiscak, 1980) compares historical photographs taken between 1872 and 1963 with matched photographs taken in 1972–1976 along the [[Colorado River]] from [[Glen Canyon Dam]] to [[Lake Mead]]. The authors document a marked increase in...
 > -- *[[RecentVegetationChangesAlongTh_13024]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[CommentsOnDraftColoradoRiverEn_1993_12_28]]
 - [[DoiAnnouncesRecommendationsFor_18330]]
@@ -5379,6 +5394,7 @@ The Paria River is a tributary of the Colorado River in Arizona that serves as a
 - [[TheNationwideRiversInventoryAr_19590]]
 - [[OperationOfGlenCanyonDamdraftE_11491]]
 - [[RecentVegetationChangesAlongTh_13024]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Pariette Draw
 
@@ -10194,6 +10210,12 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This handbook, issued by the [[New Mexico Department Of Game And Fish]] in 1979 and written by John P. Hubbard, Marshall C. Conway, Howard Campbell, Gregory Schmitt and Michael D. Hatch, documents the 93 animal species listed as endangered in New Mexico under the [[Wildlife Conservation Act]]...
 > -- *[[HandbookOfSpeciesEndangeredInN_19959]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -10256,6 +10278,8 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[OperationOfGlenCanyonDamdraftE_11491]]
 - [[FinalEnvironmentalAssessment_11629]]
 - [[HandbookOfSpeciesEndangeredInN_19959]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Perennial Grasses
 
@@ -10288,6 +10312,18 @@ Grasses that live for multiple years and regrow from basal buds and root systems
 
 ### Mentioned In
 - [[VitaOfDavidEBrown_13009]]
+
+## Perennial Streams
+
+### Summary
+Streams that flow continuously throughout the year, as opposed to intermittent or ephemeral streams that flow only seasonally or after storms. This project mapped riparian vegetation only along perennial waters, adopting a minimum segment length of one-half mile, and reported 4,628.95 miles inventoried in Arizona.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
+### Mentioned In
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Perennibranchiate Morphology
 
@@ -30277,8 +30313,12 @@ Cottus pygmaeus, a small spring-restricted sculpin. In this survey it was taken 
 > This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
 > -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[FishesOfSpringsAndSpringfedCre_19006]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Pygmy Smelt
 <!-- fm: auto_enriched: true -->

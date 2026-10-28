@@ -431,6 +431,9 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 > This April 1997 volume collects abstracts and executive summaries from a symposium on the 1996 [[Beach Habitat-Building Flow]] (also called the experimental flood, test flow, or spike flow) released from [[Glen Canyon Dam]]. The flow was a seven-day release of about 1,274 m³/s (45,000 cfs), with...
 > -- *[[GlenCanyonDamBeachhabitatBuild_18131]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[CommentsOnTheThirdDraftOfTheLo_1993_04_30]]
 - [[DraftBiologicalOpinionSummaryE_1993_05_17]]
@@ -448,6 +451,7 @@ The Kanab Ambersnail is an endangered freshwater mollusk endemic to the Colorado
 - [[InformationForTheGlenCanyonDam_19732]]
 - [[OperationOfGlenCanyonDamdraftE_11491]]
 - [[GlenCanyonDamBeachhabitatBuild_18131]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Kanab Creek
 <!-- fm: auto_enriched: true -->
@@ -1355,6 +1359,18 @@ Kayak Kauaʻi Outfitters is a Hanalei, Kauaʻi business founded 11 years before 
 ### Mentioned In
 - [[RequestForTheCommissionToAppro_1997_07_14]]
 - [[FieldDataSheetsForTopminnowpup_19665]]
+
+## Kearny Expedition
+
+### Summary
+The 1846 military expedition led by Stephen Watts Kearny through the region. Members' historical accounts describe clear, fish-rich streams lined with cottonwoods and willows, and include Emory's record of trout-like fish later identified as the Colorado River Chub.
+
+### Context
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
+### Mentioned In
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Keast And Webb 1966
 <!-- fm: auto_enriched: true -->

@@ -1785,6 +1785,18 @@ Ohio Valley is a reference region used for comparative context regarding species
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 
+## Ohmart and Anderson Wildlife Value Index
+
+### Summary
+A wildlife value index developed by Anderson and Ohmart that scores riparian habitat from about +3 (highest) to about -3, based on vegetation community, structure, altitude and location. The source says it was built for forest and scrub habitats below 3,500 feet, excludes aquatic fauna and wetlands, and needs field testing at higher elevations.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
+### Mentioned In
+- [[ArizonaRiparianInventoryAndMap_13661]]
+
 ## Oil and Gas Development
 
 ### Summary
@@ -2589,8 +2601,12 @@ A riparian zone along the Colorado River in Grand Canyon that the source describ
 > This Final Report (February 1998), prepared by Duncan T. Patten for the [[Bureau of Reclamation]] and the [[Grand Canyon Monitoring and Research Center]] under Cooperative Agreement 1425-96-FC-81-05003, evaluates research funded by [[Glen Canyon Environmental Studies]] (GCES) Phases I and II. It...
 > -- *[[IntegrationAndEvaluationOfGlen_18447]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[IntegrationAndEvaluationOfGlen_18447]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Old River
 

@@ -330,6 +330,18 @@ Jack C. Schmidt is a researcher from Utah State University who was scheduled to 
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 
+## Jack D. Farmer
+
+### Summary
+A geologist at Arizona State University who is the Institutional Principal Investigator on this proposal. His role covers micromorphometry and taphonomy of stromatolites, linking mat processes to fossil preservation.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
+
 ## Jack E Williams
 
 ### Context
@@ -972,6 +984,18 @@ James J. Cooper of the Bioresources Center, Desert Research Institute, is the au
 
 ### Mentioned In
 - [[DistributionalEcologyOfNativeA_17570]]
+
+## James J. Elser
+
+### Summary
+An ASU biologist and limnologist who serves as Lead Investigator on this proposal, responsible for environmental monitoring and stoichiometry work. He also holds a related NSF stoichiometry grant with Fagan and Odell, according to the source.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## James J. Sartoris
 

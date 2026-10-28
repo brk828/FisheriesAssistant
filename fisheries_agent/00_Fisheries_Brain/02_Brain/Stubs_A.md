@@ -1863,6 +1863,9 @@ Adaptive management in fish science and aquatic ecology is an iterative decision
 > This U.S. [[Bureau of Reclamation]] draft environmental assessment (EA) and plan, dated January 1999, evaluates modifying the intakes of [[Glen Canyon Dam]] so that the release temperature of the Colorado River can be managed. Cold releases (about 8–10°C) from the dam's deep power intakes are...
 > -- *[[GlenCanyonDamModificationsToCo_11454]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1993_09_14]]
 - [[PerspectivesOnRiverRestoration_15751]]
@@ -1881,6 +1884,7 @@ Adaptive management in fish science and aquatic ecology is an iterative decision
 - [[OperationOfGlenCanyonDam_11487]]
 - [[EcologicalValueOfFloodplainHab_20871]]
 - [[GlenCanyonDamModificationsToCo_11454]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Adaptive Management (Walters & Hilborn 1978)
 <!-- fm: auto_enriched: true -->
@@ -9644,6 +9648,9 @@ I appreciate the detailed context provided, but I must note that the American Pe
 > This 1983 handbook from the USDA Forest Service, Southwestern Region, profiles endangered and threatened fish and wildlife of Arizona and New Mexico forests and rangelands. It has two editions, one for each state, that share most of their text. The handbook is an identification and awareness guide,...
 > -- *[[EndangeredAndThreatenedFishAnd_11507]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
 - [[ConcurrenceLetterOnErosionCont_1996_08_27]]
@@ -9659,6 +9666,7 @@ I appreciate the detailed context provided, but I must note that the American Pe
 - [[BiologicalOpinionSummaryBlueRi_11745]]
 - [[LowerColoradoRiverBiologicalAs_13908]]
 - [[EndangeredAndThreatenedFishAnd_11507]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## American Petroleum Institute
 
@@ -19677,6 +19685,9 @@ The Arizona Department of Agriculture is a state agency participating in the mul
 > The [[Greater Gila Biodiversity Project]] and [[Southwest Center for Biological Diversity]] formally petitioned the [[US Fish and Wildlife Service]] on September 17, 1993, to reclassify two southwestern fish species—the [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda fulgida*)—from...
 > -- *[[FishAndWildlifeServiceFailsToA_16901]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
 ### Mentioned In
 - [[LetterToJohnRogersRegardingBon_1993_07_01]]
 - [[PublicCommentSoughtForSabinoCa_1999_02_25]]
@@ -19684,6 +19695,7 @@ The Arizona Department of Agriculture is a state agency participating in the mul
 - [[LongtermLimnologicalAndWaterQu_17092]]
 - [[SummaryOfEndangeredFishResearc_13612]]
 - [[FishAndWildlifeServiceFailsToA_16901]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
 
 ## Arizona Department of Health Services
 
@@ -19789,6 +19801,9 @@ The Arizona Department of Health Services Laboratory was the facility that recei
 > This document is a September 3, 1994 public comment letter from the [[Southwest Center for Biological Diversity]] (SWCBD) to the U.S. Army Garrison at [[Fort Huachuca]], Arizona. It responds to the Federal Register notice of May 19, 1994 announcing a [[Programmatic Draft Environmental Impact...
 > -- *[[CommentsOnTheProgrammaticDraft_18969]]*
 
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[LowerColoradoRiverMultispecies_11766]]
@@ -19803,6 +19818,7 @@ The Arizona Department of Health Services Laboratory was the facility that recei
 - [[ArizonaGroundwaterQuality_19602]]
 - [[DraftEnvironmentalImpactStatem_11699]]
 - [[CommentsOnTheProgrammaticDraft_18969]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Arizona Desert Wilderness Act Of 1990
 <!-- fm: auto_enriched: true -->
@@ -21032,6 +21048,9 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -21469,6 +21488,7 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[TuleCreekFishBarrierProgressRe_20194]]
 - [[UpperSantaCruzRiverIntensiveSu_20208]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Arizona Game And Fish Department Hatcheries
 
@@ -22764,6 +22784,9 @@ Arizona State University is a major research institution that has played a signi
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -23075,6 +23098,7 @@ Arizona State University is a major research institution that has played a signi
 - [[FinalReportForTheArnettCreekNa_17657]]
 - [[GlenCanyonEnvironmentalStudies_19692]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Arizona State University (Asu)
 <!-- fm: auto_enriched: true -->
@@ -28346,6 +28370,9 @@ The Atlantic sturgeon (Acipenser oxyrhynchus) is a large, long-lived anadromous 
 > This 1969 manual, written by Paul S. Mugford and published by the [[Massachusetts Division of Fisheries and Game]] (Publication No. 4064), is a field identification guide to the freshwater fishes of Massachusetts. It illustrates more than seventy species, provides dichotomous keys to families and...
 > -- *[[IllustratedManualOfMassachuset_15557]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[EstimatingTheProbabilityThatHi_1998]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -28358,6 +28385,7 @@ The Atlantic sturgeon (Acipenser oxyrhynchus) is a large, long-lived anadromous 
 - [[EndangeredSpeciesProgramFishes_14645]]
 - [[EcologicalFactorsAffectingAnad_13973]]
 - [[IllustratedManualOfMassachuset_15557]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Atlantic Threadfin
 <!-- fm: auto_enriched: true -->

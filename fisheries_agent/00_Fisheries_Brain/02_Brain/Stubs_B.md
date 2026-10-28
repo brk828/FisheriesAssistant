@@ -268,6 +268,18 @@ Stands of Baccharis glutinosa, a shrub listed among the plants associated with t
 ### Mentioned In
 - [[TheGilaRiverValleyInSouthweste_20942]]
 
+## Bachman's Warbler
+
+### Summary
+A bird listed in the report as last reported in Alabama in 1959. The source treats its disappearance from the state as a notable loss among the rare birds of the region.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
+
 ## Bacillariophyceae
 <!-- fm: auto_enriched: true -->
 
@@ -2264,6 +2276,15 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 > This handbook, issued by the [[New Mexico Department Of Game And Fish]] in 1979 and written by John P. Hubbard, Marshall C. Conway, Howard Campbell, Gregory Schmitt and Michael D. Hatch, documents the 93 animal species listed as endangered in New Mexico under the [[Wildlife Conservation Act]]...
 > -- *[[HandbookOfSpeciesEndangeredInN_19959]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[BiologicalOpinionOnTheProposed_13196]]
@@ -2372,6 +2393,9 @@ The Bald Eagle (*Haliaeetus leucocephalus*) in aquatic ecology contexts refers t
 - [[FinalEnvironmentalAssessment_11629]]
 - [[BackgroundInformationOnTheCent_11690]]
 - [[HandbookOfSpeciesEndangeredInN_19959]]
+- [[RareAndEndangeredVertebratesOf_17923]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Bald Eagle Recovery - Tonto National Forest
 <!-- fm: auto_enriched: true -->
@@ -4860,6 +4884,18 @@ Bassler Ponds are central Oklahoma farm ponds used for field work in this study.
 ### Mentioned In
 - [[InteractionOfEffectsByEnvironm_14113]]
 
+## Bat Cave
+
+### Summary
+A maternity roost in the Gila River Complex area used by a large colony of Mexican free-tailed bats. The source reports the colony declined from about 25 million bats in 1964 to about 600,000 in 1970, probably from pesticide residues.
+
+### Context
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
+### Mentioned In
+- [[ResourceInventoryForTheGilaRiv_15863]]
+
 ## Bat Cave (New Mexico)
 <!-- fm: auto_enriched: true -->
 
@@ -6406,6 +6442,9 @@ Beauty Lake was a 44-acre lake in Quebec with maximum depth of 42 feet where 5 p
 > This 1994 petition, filed by David Hogan, the [[Greater Gila Biodiversity Project]], the Southwest Center for Biological Diversity and the Biodiversity Legal Foundation, asks the [[U.S. Fish And Wildlife Service]] (USFWS) to designate [[Critical Habitat]] for the [[Gila Trout]] under the...
 > -- *[[PetitionToDesignateCriticalHab_20448]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[GilaTroutHabitatDeclineAndCons_1994_05_02]]
 - [[FishAndWildlifeResourcesAndOpe_20151]]
@@ -6420,6 +6459,7 @@ Beauty Lake was a 44-acre lake in Quebec with maximum depth of 42 feet where 5 p
 - [[ExperiencesInTheGrandCanyon_12612]]
 - [[RecentVegetationChangesAlongTh_13024]]
 - [[PetitionToDesignateCriticalHab_20448]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Beaver Creek
 <!-- fm: auto_enriched: true -->
@@ -11809,6 +11849,12 @@ A Biological Opinion is a formal regulatory assessment issued by the U.S. Fish a
 > This 1996 report by fisheries biologist Jerome A. Stefferud repeats a 1989 photo-point survey of [[Redrock Canyon]], Santa Cruz County, Arizona, to document changes in aquatic habitat after cattle exclusion. The canyon supports the only natural population of the endangered [[Gila Topminnow]] on...
 > -- *[[RedrockCanyonAquaticHabitatSur_14763]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
+> This document is a report prepared by the [[Central Arizona Water Conservation District]] (CAWCD) responding to the April 1994 final [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (the Service). The opinion concluded that continued delivery of [[Central Arizona Project]]...
+> -- *[[UsFishAndWildlifeServiceFinalB_16068]]*
+
 ### Mentioned In
 - [[CityOfPhoenixCommentsOnTheFina_1997_07_25]]
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
@@ -11849,6 +11895,8 @@ A Biological Opinion is a formal regulatory assessment issued by the U.S. Fish a
 - [[ConservationMeasuresForGlenCan_14782]]
 - [[BiologicalOpinionCentralArizon_11830]]
 - [[RedrockCanyonAquaticHabitatSur_14763]]
+- [[FinalFeasibilityAssessmentForA_15073]]
+- [[UsFishAndWildlifeServiceFinalB_16068]]
 
 ## Biological Opinion (Endangered Species Act)
 <!-- fm: auto_enriched: true -->
@@ -14548,6 +14596,9 @@ Black Gum (Nyssa sylvatica) is a tree species that forms part of the forested ha
 > This 1989 nomination, prepared by the [[Bureau Of Land Management]] Safford District Office and the City of Safford for the [[Arizona Department Of Environmental Quality]], proposes a 15-mile segment of [[Bonita Creek]] for designation as a Unique Water under Arizona Administrative Code R18-11-303....
 > -- *[[UniqueWatersNominationBonitaCr_19141]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -14558,6 +14609,7 @@ Black Gum (Nyssa sylvatica) is a tree species that forms part of the forested ha
 - [[HistoryOfFishAndFishingInTheUp_17391]]
 - [[WaterQualityStudyBurroCreekWat_16740]]
 - [[UniqueWatersNominationBonitaCr_19141]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Black Hawk Lake
 
@@ -21060,6 +21112,9 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 > This U.S. Geological Survey Water-Supply Paper (No. 1104, 1950), written by John D. Hem and prepared in cooperation with the Defense Plant Corporation, reports the chemical character of surface and ground waters across the [[Gila River]] Basin above [[Coolidge Dam]]. The study area covers 12,890...
 > -- *[[QualityOfWaterOfTheGilaRiverBa_16620]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[AnnualEndangeredSpeciesSubperm_1992_12_04]]
 - [[BlmGilaBoxAdvisoryCommitteeMee_1991_12_24]]
@@ -21091,6 +21146,7 @@ Bonita Creek is a 15-mile tributary within the Gila Box Riparian National Conser
 - [[GilaBoxManagementPlanEnvironme_11470]]
 - [[DraftGilaBoxRiparianNationalCo_11469]]
 - [[QualityOfWaterOfTheGilaRiverBa_16620]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Bonito
 
@@ -22914,6 +22970,9 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -23419,6 +23478,7 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
 - [[AnnotatedBibliographyForAquati_20870]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Bonytail Chub Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -28227,6 +28287,18 @@ Brown County is the location in Indiana where Caldwell Hollow stream is situated
 ### Mentioned In
 - [[UseOfMSInAnesthetizingAndTrans_11291]]
 
+## Brown Lowe and Pase Classification System
+
+### Summary
+A hierarchical system from 1979 that organizes biotic communities from realm and formation down to series and association levels, and is open-ended and computer-compatible. The project adopted it to classify riparian vegetation types in Arizona.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
+### Mentioned In
+- [[ArizonaRiparianInventoryAndMap_13661]]
+
 ## Brown Madtom
 <!-- fm: auto_enriched: true -->
 
@@ -28274,6 +28346,9 @@ Brown County is the location in Indiana where Caldwell Hollow stream is situated
 > This 1983 handbook from the USDA Forest Service, Southwestern Region, profiles endangered and threatened fish and wildlife of Arizona and New Mexico forests and rangelands. It has two editions, one for each state, that share most of their text. The handbook is an identification and awareness guide,...
 > -- *[[EndangeredAndThreatenedFishAnd_11507]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ReCommentsOnFinalBiologicalAnd_12761]]
@@ -28287,6 +28362,7 @@ Brown County is the location in Indiana where Caldwell Hollow stream is situated
 - [[LowerColoradoRiverBiologicalAs_13908]]
 - [[EstuarineProgramsInterimReport_11526]]
 - [[EndangeredAndThreatenedFishAnd_11507]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Brown Shrimp
 <!-- fm: auto_enriched: true -->
@@ -31015,6 +31091,9 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 > This June 2000 planning document, prepared for the [[Sonoran Desert Conservation Plan]] by Philip C. Rosen of the University of Arizona, argues that the native aquatic vertebrates of [[Pima County]] have been largely displaced by introduced species. Non-native fishes, [[Bullfrog]]s, and...
 > -- *[[AquaticVertebrateConservationI_21072]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
@@ -31051,6 +31130,7 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 - [[FishesOfTheRioYaquiRecoveryPla_15978]]
 - [[SanPedroRiparianNationalConser_18829]]
 - [[AquaticVertebrateConservationI_21072]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Bullfrog Bay
 
@@ -32162,6 +32242,9 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 > This monograph by [[Robert J. Behnke]] (1979, published by the Rocky Mountain Region of the USDA Forest Service in 1980) reviews the native trouts of the subgenus *Parasalmo* in western North America. It covers identification, taxonomy, distribution, status and management value. The work argues...
 > -- *[[MonographOfTheNativeTroutsOfTh_18137]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -32347,6 +32430,7 @@ The Bureau of Land Management (BLM) is a federal agency within the U.S. Departme
 - [[MuleshoeEcosystemManagementPla_11727]]
 - [[EcologicalAnalysisOfAravaipaCr_13680]]
 - [[MonographOfTheNativeTroutsOfTh_18137]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Bureau of Land Management - San Pedro River
 <!-- fm: auto_enriched: true -->
@@ -33247,6 +33331,15 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This 1989 progress report by Curtis Lathan of the [[Bureau Of Reclamation]] (Arizona Projects Office) evaluates four candidate sites for a fish barrier on [[Tule Creek]]. The barrier would stop non-native reservoir fish from moving upstream during storm events and endangering the introduced...
 > -- *[[TuleCreekFishBarrierProgressRe_20194]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+> This document is a report prepared by the [[Central Arizona Water Conservation District]] (CAWCD) responding to the April 1994 final [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (the Service). The opinion concluded that continued delivery of [[Central Arizona Project]]...
+> -- *[[UsFishAndWildlifeServiceFinalB_16068]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -33582,6 +33675,9 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[ColumbiaBasinWildlifeirrigatio_18791]]
 - [[GlenCanyonEnvironmentalStudies_19692]]
 - [[TuleCreekFishBarrierProgressRe_20194]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
+- [[UsFishAndWildlifeServiceFinalB_16068]]
 
 ## Bureau Of Reclamation (Br-Gces)
 <!-- fm: auto_enriched: true -->

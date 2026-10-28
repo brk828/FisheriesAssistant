@@ -380,6 +380,18 @@ Valencia Toothcarp (Valencia hispanica) is an endangered endemic species from th
 ### Mentioned In
 - [[StationProfileOfTheFortMorganF_1993_12_30]]
 
+## Valeria Souza
+
+### Summary
+A researcher at UNAM (Universidad Nacional Autonoma de Mexico) and external collaborator on microbial population genetics. She contributes to the genetic-exchange work across CCB springs.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
+
 ## Valett 1991
 <!-- fm: auto_enriched: true -->
 
@@ -2070,6 +2082,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This Bureau of Reclamation literature review (REC-ERC-84-7, June 1984) assesses whether three nonnative fishes, [[Striped Bass]], [[White Bass]] and [[Blue Tilapia]], could be transferred from the [[Colorado River]] into central Arizona during operation of the [[Central Arizona Project]] (CAP),...
 > -- *[[PotentialForIntroductionOfThre_19188]]*
 
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -2255,6 +2270,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[TheNationwideRiversInventoryAr_19590]]
 - [[PreliminaryReportOfInvestigati_16361]]
 - [[PotentialForIntroductionOfThre_19188]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Verde River Aquatic Ecology
 

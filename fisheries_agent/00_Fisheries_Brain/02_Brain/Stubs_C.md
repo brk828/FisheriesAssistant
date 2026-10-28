@@ -933,10 +933,14 @@ Cahaba Bass (Micropterus cahabae) is one of several species within the Redeye Ba
 > This paper describes *Noturus munitus* (Frecklebelly Madtom), a new species of madtom catfish from the [[Pearl River]] system in Louisiana and Mississippi, with additional specimens from the [[Cahaba River]] in Alabama and the [[Tombigbee River]] in Mississippi. The species is assigned to the...
 > -- *[[NoturusMunitusANewSpeciesOfMad_15059]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[RecordsOfThreeCyprinidFishesFr_11996]]
 - [[StoringWaterForUseInIrrigation_1954]]
 - [[NoturusMunitusANewSpeciesOfMad_15059]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Cahokia Site
 
@@ -3982,6 +3986,18 @@ Campeche Bank is part of the distribution range for Myripristis jacobus in the W
 
 ### Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
+
+## Camping Beaches
+
+### Summary
+Camping beaches are sand deposits in recirculation zones along the Colorado River that serve as the main campsites in the canyon. According to the report, their sand supply now depends mainly on tributaries below the dam such as the Paria and Little Colorado Rivers and Kanab Creek. Floods reduce beach area, and losing many beaches would substantially cut white-water recreation benefits.
+
+### Context
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19675]]
 
 ## Campo Carretero
 
@@ -7485,6 +7501,18 @@ Named as one of the contributors to this progress report on Death Valley aquatic
 
 ### Mentioned In
 - [[EndangeredPupfishOfDevilsHoleG_11403]]
+
+## Carol M. Tang
+
+### Summary
+An ASU co-investigator in paleoecology named on the proposal. The source lists her as contributing to the paleobiological comparison of modern spring systems with ancient records.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Carol Shanks
 <!-- fm: auto_enriched: true -->
@@ -12696,6 +12724,12 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This 1989 progress report by Curtis Lathan of the [[Bureau Of Reclamation]] (Arizona Projects Office) evaluates four candidate sites for a fish barrier on [[Tule Creek]]. The barrier would stop non-native reservoir fish from moving upstream during storm events and endangering the introduced...
 > -- *[[TuleCreekFishBarrierProgressRe_20194]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
+> This document is a report prepared by the [[Central Arizona Water Conservation District]] (CAWCD) responding to the April 1994 final [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (the Service). The opinion concluded that continued delivery of [[Central Arizona Project]]...
+> -- *[[UsFishAndWildlifeServiceFinalB_16068]]*
+
 ### Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -12786,6 +12820,8 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[BackgroundInformationOnTheCent_11690]]
 - [[PotentialForIntroductionOfThre_19188]]
 - [[TuleCreekFishBarrierProgressRe_20194]]
+- [[FinalFeasibilityAssessmentForA_15073]]
+- [[UsFishAndWildlifeServiceFinalB_16068]]
 
 ## Central Arizona Project Canal
 
@@ -12851,6 +12887,9 @@ The Central Arizona Project Canal (CAP Canal) is a major water conveyance system
 > This 1987 progress report from the [[Bureau of Reclamation]] presents preliminary findings of fishery investigations in the [[Central Arizona Project]] (CAP) canal system, which conveys Colorado River water from [[Lake Havasu]] toward central Arizona. Sampling in 1987 used standardized gill...
 > -- *[[FisheryInvestigationsProgressR_11561]]*
 
+> This document is a report prepared by the [[Central Arizona Water Conservation District]] (CAWCD) responding to the April 1994 final [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (the Service). The opinion concluded that continued delivery of [[Central Arizona Project]]...
+> -- *[[UsFishAndWildlifeServiceFinalB_16068]]*
+
 ### Mentioned In
 - [[CompilationOfCommentsOnBigRive_11763]]
 - [[TinyNativeFishMakeBigSplash_1995_06_06]]
@@ -12859,6 +12898,7 @@ The Central Arizona Project Canal (CAP Canal) is a major water conveyance system
 - [[LetterToCentralArizonaWaterCon_17898]]
 - [[IllegalFindingOfNoSignificantI_18971]]
 - [[FisheryInvestigationsProgressR_11561]]
+- [[UsFishAndWildlifeServiceFinalB_16068]]
 
 ## Central Arizona Water Control Study
 
@@ -19881,6 +19921,9 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 > This source is a National Geographic magazine feature layout (October 1995 issue, 14 pages) by photographer and author George Grall. Its photo captions describe the [[Cuatro Cienegas Basin]], a spring-fed desert wetland in the [[Chihuahuan Desert]] that the captions describe as one of only five...
 > -- *[[CuatroCienegasLifeAboundsInMex_19192]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[ButterfliesFromCoahuilaMexico_1968]]
@@ -19923,6 +19966,7 @@ The Chihuahuan Desert is a major arid ecoregion in northern Mexico and the south
 - [[EndangeredAndThreatenedSpecies_11630]]
 - [[MapsOfTheChihuahuanDesertRegio_16912]]
 - [[CuatroCienegasLifeAboundsInMex_19192]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Chihuahuan Desert (Mexico)
 <!-- fm: auto_enriched: true -->
@@ -25214,6 +25258,12 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 > This compiled project document, submitted by W. L. Minckley of [[Arizona State University]] to the [[Bureau of Land Management]] under Contract No. YA-512-CT6-98, reports the first year (August 1976 through early June 1977) of an ecological study of [[Aravaipa Creek]], a perennial desert stream in...
 > -- *[[EcologicalAnalysisOfAravaipaCr_13680]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ColoradoRiverAquaticBiologists_1997_11_19]]
@@ -25253,6 +25303,8 @@ Cladophora is a filamentous green alga that grows prolifically in the tailwaters
 - [[EvaluationOfTheInstreamFlowReq_13437]]
 - [[EvaluationOfTheRazorbackSucker_16671]]
 - [[EcologicalAnalysisOfAravaipaCr_13680]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Cladophora Glomerata
 <!-- fm: auto_enriched: true -->
@@ -26132,6 +26184,9 @@ The Clean Water Act, particularly Section 404, is a federal statute that regulat
 > This biennial State pamphlet, issued by the [[Albuquerque District]] of the [[U.S. Army Corps of Engineers]] and dated 14 January 1980, describes the Corps' water resources development program in New Mexico. It supersedes the January 1977 issue. The program covers flood control, sedimentation...
 > -- *[[WaterResourcesDevelopmentInNew_11452]]*
 
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[DesertFishesCouncilLetterToSec_1990_06_06]]
 - [[FaxogramRegardingAravaipaCreek_1990_12_19]]
@@ -26153,6 +26208,7 @@ The Clean Water Act, particularly Section 404, is a federal statute that regulat
 - [[VerdeRiverAdvancedIdentificati_11366]]
 - [[FinalReportAndRecommendationsO_17455]]
 - [[WaterResourcesDevelopmentInNew_11452]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Clean Water Act Section 404
 <!-- fm: auto_enriched: true -->
@@ -30133,8 +30189,12 @@ The largest spring in Calhoun County, with a minimum daily discharge of 32 milli
 > This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
 > -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[FishesOfSpringsAndSpringfedCre_19006]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Coldwater Stream Fish
 <!-- fm: auto_enriched: true -->
@@ -33399,6 +33459,12 @@ The Colorado River is a major southwestern North American river system that serv
 > This 1977 report (FWS/OBS-77/62), prepared by Ecology Consultants, Inc. for the U.S. Fish and Wildlife Service and the U.S. Environmental Protection Agency, evaluates the status, [[Life History]], and [[Habitat Requirements]] of the threatened and endangered fishes of the upper [[Colorado River]]...
 > -- *[[AnEvaluationOfTheStatusLifeHis_19861]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -34231,6 +34297,8 @@ The Colorado River is a major southwestern North American river system that serv
 - [[PotentialForIntroductionOfThre_19188]]
 - [[FishesOfBurroCreek_19763]]
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Colorado River (Texas)
 <!-- fm: auto_enriched: true -->
@@ -35664,6 +35732,9 @@ The Colorado River Basin States are the seven U.S. states (Arizona, California, 
 > This contract report, prepared by Steven W. Carothers and C. O. Minckley of the Museum of Northern Arizona for the Water and Power Resources Service (dated February 4, 1981), provides baseline data on the aquatic resources of the [[Colorado River]] and selected tributaries between Lee Ferry and...
 > -- *[[ASurveyOfTheAquaticFloraAndFau_17435]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[LimnologicalStudyOfGlenCanyonT_1965_06_30]]
 - [[NativeArizonaFishesPartIiiChub_12635]]
@@ -35671,6 +35742,7 @@ The Colorado River Basin States are the seven U.S. states (Arizona, California, 
 - [[FishesOfHuntersHoleYumaCountyA_15885]]
 - [[ConservationEngineer_12615]]
 - [[ASurveyOfTheAquaticFloraAndFau_17435]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Colorado River Commission
 
@@ -38029,6 +38101,12 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 > This 1977 report (FWS/OBS-77/62), prepared by Ecology Consultants, Inc. for the U.S. Fish and Wildlife Service and the U.S. Environmental Protection Agency, evaluates the status, [[Life History]], and [[Habitat Requirements]] of the threatened and endangered fishes of the upper [[Colorado River]]...
 > -- *[[AnEvaluationOfTheStatusLifeHis_19861]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[EstablishingAColoradoRiverCons_20111]]
 - [[StationProfileHotchkissNationa_19549]]
@@ -38062,6 +38140,8 @@ The Colorado River Storage Project (CRSP) is a major federal water development i
 - [[FishesOfTheUpperColoradoRiverS_17415]]
 - [[EffectsOfRotenoneTreatmentOnTh_17635]]
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Colorado River Storage Project Act
 <!-- fm: auto_enriched: true -->
@@ -39510,6 +39590,9 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -40065,6 +40148,7 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[ColoradosLittleFishAGuideToThe_20824]]
 - [[AnnotatedBibliographyForAquati_20870]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Colorado Squawfish Habitat Use
 
@@ -42734,6 +42818,18 @@ The source sets out the naming rules the authors used for common names, aiming t
 
 ### Mentioned In
 - [[ReportOfTheCommitteeOnNamesOfF_17233]]
+
+## Common Native Fish
+
+### Summary
+Common native fish are the non-endangered native species of the Colorado River below Glen Canyon Dam, including bluehead sucker, flannelmouth sucker, and speckled dace, which the study targeted as a key resource. The report finds that steady flows create more backwaters that benefit these fish, while fluctuating flows reduce backwater numbers and longevity. A 5,000 cfs June–August scenario was judged to benefit backwaters but seriously harm white-water boating.
+
+### Context
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+### Mentioned In
+- [[GlenCanyonEnvironmentalStudies_19675]]
 
 ## Common Pintail
 
@@ -49107,6 +49203,18 @@ This is a riparian vegetation association found along perennial streams in the p
 ### Mentioned In
 - [[ProgressReportForTheBiological_19814]]
 
+## Cottonwood-Willow Communities
+
+### Summary
+Riparian plant communities dominated by cottonwood and willow trees, found mainly in mid-reaches and on lower floodplains of Arizona rivers. The source notes they support key nesting bird species and were among the leading vegetation categories by mapped acreage.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
+### Mentioned In
+- [[ArizonaRiparianInventoryAndMap_13661]]
+
 ## Cottonwood-Willow Community
 
 ### Summary
@@ -52510,9 +52618,13 @@ A small darter fish listed as Rare-1 in the report, and noted as a clear-water s
 > Philip W. Smith (Illinois Natural History Survey) classifies the streams of Illinois into 33 stream systems, each rated excellent, good, fair, poor, or variable based on the fish species present. The state's fauna is recorded as 193 species, of which 180 are native and 13 are naturalized. Comparing...
 > -- *[[IllinoisStreamsAClassification_21196]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[RareAndEndangeredVertebratesAn_11494]]
 - [[IllinoisStreamsAClassification_21196]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Crystal Lake
 <!-- fm: auto_enriched: true -->
@@ -52943,6 +53055,9 @@ The Cuatro Ciénegas Basin is a unique hydrogeological system in Mexico characte
 > This source is a National Geographic magazine feature layout (October 1995 issue, 14 pages) by photographer and author George Grall. Its photo captions describe the [[Cuatro Cienegas Basin]], a spring-fed desert wetland in the [[Chihuahuan Desert]] that the captions describe as one of only five...
 > -- *[[CuatroCienegasLifeAboundsInMex_19192]]*
 
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
 ### Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
 - [[CochliopinaMilleriCuatroCiéneg_19811]]
@@ -52959,6 +53074,7 @@ The Cuatro Ciénegas Basin is a unique hydrogeological system in Mexico characte
 - [[EvolutionOfWaterCompositionInT_16819]]
 - [[BibliographyPalynologyZoogeogr_20165]]
 - [[CuatroCienegasLifeAboundsInMex_19192]]
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Cuatro Cienegas Endemic Fishes
 <!-- fm: auto_enriched: true -->
@@ -56795,6 +56911,9 @@ Cyprinodon atrorus, commonly known as the Blackfin Pupfish, is a small cyprinodo
 > This report, a multi-part ecological study from the Bolsón de Cuatro Ciénegas in central Coahuila, México, examines two endemic pupfishes, [[Cyprinodon Bifasciatus]] and [[Cyprinodon Atrorus]]. It describes their habitats, diets, behavior, population structure, reproduction and hybridization, with...
 > -- *[[CuatroCienegasPupfishes_18253]]*
 
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
 ### Mentioned In
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[LetterToDrWLMinckleyRequesting_1994_07_11]]
@@ -56805,6 +56924,7 @@ Cyprinodon atrorus, commonly known as the Blackfin Pupfish, is a small cyprinodo
 - [[ProgramaDeAccionEmergenteParaE_19472]]
 - [[MarshsCollections_19384]]
 - [[CuatroCienegasPupfishes_18253]]
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Cyprinodon Beltrani
 <!-- fm: auto_enriched: true -->

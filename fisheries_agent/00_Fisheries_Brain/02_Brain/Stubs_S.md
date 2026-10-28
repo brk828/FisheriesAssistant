@@ -1533,6 +1533,9 @@ A separate BLM resource management plan whose completion the source says was the
 > This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
 > -- *[[GilaRiverFloodControl_11346]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyOnFisheryRes_1994_05_27]]
 - [[MorphologicalVariationInGilaPi_12778]]
@@ -1541,6 +1544,7 @@ A separate BLM resource management plan whose completion the source says was the
 - [[UseOfWaterByBottomlandVegetati_16931]]
 - [[QualityOfWaterOfTheGilaRiverBa_16620]]
 - [[GilaRiverFloodControl_11346]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Safford Water System
 
@@ -7611,6 +7615,9 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 > This 1919 U.S. Senate document transmits a report by engineer [[Frank H. Olmsted]] to Secretary of the Interior [[Franklin K. Lane]], produced under the Indian Appropriation Act of May 18, 1916. The report sought a practical design to stop the [[Gila River]] from eroding banks and overflowing in...
 > -- *[[GilaRiverFloodControl_11346]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[CriticalHabitatProposedForLoac_1999_12_12]]
@@ -7677,6 +7684,7 @@ The San Francisco River, flowing through both Arizona and New Mexico as a tribut
 - [[DraftGilaBoxRiparianNationalCo_11469]]
 - [[QualityOfWaterOfTheGilaRiverBa_16620]]
 - [[GilaRiverFloodControl_11346]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## San Francisco Striped Bass Club
 
@@ -9709,6 +9717,9 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 > This September 1996 draft from the [[Bureau Of Land Management]] (BLM) Arizona State Office and Tucson Field Office presents the **Muleshoe Ecosystem Management Plan (EMP)** and its accompanying Environmental Assessment (EA-AZ-046-96-001). The plan covers about 57,500 acres in the [[Galiuro...
 > -- *[[MuleshoeEcosystemManagementPla_11727]]*
 
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[AravaipaCreekRedShinerSurveySu_1995_12_06]]
@@ -9864,6 +9875,7 @@ The San Pedro River is a critical riparian ecosystem in southeastern Arizona tha
 - [[AquaticVertebrateConservationI_21072]]
 - [[ResultsOfTheAravaipaCreekFishM_18232]]
 - [[MuleshoeEcosystemManagementPla_11727]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## San Pedro River Basin
 <!-- fm: auto_enriched: true -->
@@ -18537,12 +18549,16 @@ A reservoir outlet design that lets operators choose the depth, and so the tempe
 > This draft Environmental Impact Statement (EIS) appendix volume supports the [[Operation Of Glen Canyon Dam]] and covers five technical areas: long-term monitoring and research (Appendix A), hydrology (Appendix B), water quality (Appendix C), sediment (Appendix D), and hydropower (within the...
 > -- *[[OperationOfGlenCanyonDamdraftE_11491]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[LiteratureReviewOfTheThermalRe_20221]]
 - [[OperationOfGlenCanyonDam_11487]]
 - [[InformationForTheGlenCanyonDam_19732]]
 - [[DocumentationOfChangesInTheMac_20465]]
 - [[OperationOfGlenCanyonDamdraftE_11491]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Selenaspis
 <!-- fm: auto_enriched: true -->
@@ -22593,6 +22609,9 @@ The Shovelnose Sturgeon (*Scaphirhynchus platorynchus*) is a small sturgeon spec
 > This report, prepared by the [[Missouri River Basin Studies]] of the [[U.S. Fish and Wildlife Service]] (Billings, Montana, January 9, 1952), describes a one-year creel census and economic evaluation of a 40-mile reach of the lower [[Republican River]] along the Nebraska–Kansas state line. The...
 > -- *[[AOneyearCreelCensusAndEvaluati_13265]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -22615,6 +22634,7 @@ The Shovelnose Sturgeon (*Scaphirhynchus platorynchus*) is a small sturgeon spec
 - [[KnowYourOklahomaFishes_14870]]
 - [[RareAndEndangeredVertebratesAn_11494]]
 - [[AOneyearCreelCensusAndEvaluati_13265]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Show Low
 <!-- fm: auto_enriched: true -->
@@ -31430,6 +31450,9 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 > This USDA Forest Service General Technical Report draft, by [[John N. Rinne]] (Rocky Mountain Forest and Range Experiment Station) and [[W. L. Minckley]] (U.S. Fish and Wildlife Service and Arizona State University), presents an illustrated portfolio of the native fishes of the [[Sonoran Desert]]...
 > -- *[[DraftfishesInAridLandsaPortfol_15015]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[AlterationsToTheWaterDeliveryS_1992_09_30]]
 - [[CorrespondenceRegardingDesertF_12709]]
@@ -31507,6 +31530,7 @@ The Sonoran Desert, as it relates to fish science and conservation, refers to an
 - [[StateOfTheDesertDiomeUniquenes_19471]]
 - [[ProgressReportForTheBiological_19814]]
 - [[DraftfishesInAridLandsaPortfol_15015]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Sonoran Desert (Mexico)
 <!-- fm: auto_enriched: true -->
@@ -38164,6 +38188,9 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 > This handbook, issued by the [[New Mexico Department Of Game And Fish]] in 1979 and written by John P. Hubbard, Marshall C. Conway, Howard Campbell, Gregory Schmitt and Michael D. Hatch, documents the 93 animal species listed as endangered in New Mexico under the [[Wildlife Conservation Act]]...
 > -- *[[HandbookOfSpeciesEndangeredInN_19959]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AcquiredLandsExoticFishRemoval_1987]]
@@ -38457,6 +38484,7 @@ Spikedace (Meda fulgida) is a small endemic cyprinid fish native to the southwes
 - [[BackgroundInformationOnTheCent_11690]]
 - [[DraftnativeFishesAndNaturalAqu_13704]]
 - [[HandbookOfSpeciesEndangeredInN_19959]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Spikedace And Loach Minnow Study
 <!-- fm: auto_enriched: true -->
@@ -38650,6 +38678,18 @@ Spiny Naiad (Najas marina) is a submerged aquatic plant that grows profusely in 
 - [[IntroductionOfPalaemonetesPalu_20723]]
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[FisheryInvestigationsProgressR_11561]]
+
+## Spiny Softshell Turtle
+
+### Summary
+A freshwater turtle species that the source lists as introduced into the Gila River within the study area. It is one of the two common turtles recorded or expected in the herpetofauna inventory.
+
+### Context
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
+### Mentioned In
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Spiny Softshell Turtles
 
@@ -42949,6 +42989,18 @@ Statistical significance is a judgment that an observed difference is unlikely t
 
 ### Mentioned In
 - [[RazorbackDatabuenosAiresNwrJun_19434]]
+
+## Status Undetermined
+
+### Summary
+This category, used by the 1972 Alabama symposium, applies to species that may be rare or endangered but lack enough information to classify. It flags them for research. Examples given for fishes include lake sturgeon, Alabama shad, flame chub and blue sucker.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Stauffer Chemical Company
 
@@ -48124,10 +48176,14 @@ Strobilops labyrinthica parietalis is a minute terrestrial snail in the family S
 > This 1990 doctoral dissertation by Barbara Madden Winsborough (University of Texas at Austin) describes the ecology of modern freshwater [[Stromatolites]] and related microbial deposits forming in the spring-fed desert [[Cuatro Ciénegas Basin]], Coahuila, Mexico. The study distinguishes four...
 > -- *[[SomeEcologicalAspectsOfModernF_20777]]*
 
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
 ### Mentioned In
 - [[AlonzoRiosContreras_20775]]
 - [[CuatroCienegasLifeAboundsInMex_19192]]
 - [[SomeEcologicalAspectsOfModernF_20777]]
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Strombus gigas
 

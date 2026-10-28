@@ -3266,6 +3266,18 @@ Ferocactus is a genus of barrel cacti. This source lists it among the extensivel
 ### Mentioned In
 - [[DraftOfMexicosNewEndangeredSpe_11644]]
 
+## Ferran Garcia-Pichel
+
+### Summary
+An ASU co-investigator in geomicrobiology named on the proposal. His expertise supports the study of microbial mats in the Cuatro Cienegas springs.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
+
 ## Ferric Hydroxide
 
 ### Summary
@@ -11959,6 +11971,18 @@ A national forest in northwestern Montana. The paper cites Holland Lake Campgrou
 ### Mentioned In
 - [[RecreationOpportunitiesAndProb_14544]]
 
+## Flattened Musk Turtle
+
+### Summary
+A turtle endemic to the Warrior River system in Alabama, as stated in the report. It is one of the reptiles the symposium identified as restricted in range and of conservation concern.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
+
 ## Flavobacteria
 
 ### Summary
@@ -13029,6 +13053,18 @@ Florida Panthers are an endangered species in the Everglades with fewer than 50 
 
 ### Mentioned In
 - [[TheNationsTenMostEndangeredRiv_17976]]
+
+## Florida Pine Snake
+
+### Summary
+A snake that the report says relies on gopher tortoise burrows. Its dependence on those burrows makes it vulnerable to the loss of tortoises and the gassing of burrows at rattlesnake rodeos.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Florida Red Tide
 

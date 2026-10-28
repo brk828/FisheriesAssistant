@@ -2472,6 +2472,12 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -3105,6 +3111,8 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[PetitionToDesignateCriticalHab_20448]]
 - [[TroutHepatomaResearchConferenc_20987]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Rainbow Trout Association
 <!-- fm: auto_enriched: true -->
@@ -4167,6 +4175,18 @@ A collective term for four native Colorado River fishes (Colorado squawfish, hum
 
 ### Mentioned In
 - [[DraftAppendixCMemorandumOfUnde_14134]]
+
+## Rare Species
+
+### Summary
+In this report, Rare species are divided into two categories. Rare-1 species are not presently threatened with extinction but occur in such small numbers that they could become endangered if their environment worsens. Rare-2 species may be abundant where they occur but are known from few localities or a restricted habitat within Alabama.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Rare-Earth Elements
 
@@ -6069,6 +6089,12 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -7149,6 +7175,8 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[AnnotatedBibliographyForAquati_20870]]
 - [[DescriptionsAndIdentificationO_21241]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -7471,6 +7499,9 @@ A Reasonable and Prudent Alternative (RPA) is a mitigation measure or operationa
 > This package is a 1993–1994 consultation record for the operation of [[Glen Canyon Dam]] on the Colorado River. It includes a Reclamation transmittal memo for a technical review meeting (March 2, 1994, Las Vegas), a June 11, 1993 summary of a flow-scenario review, and the U.S. Fish and Wildlife...
 > -- *[[InformationForTheGlenCanyonDam_19732]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
 - [[NotesOfTechnicalReviewMeetingF_1994_03_04]]
@@ -7480,6 +7511,7 @@ A Reasonable and Prudent Alternative (RPA) is a mitigation measure or operationa
 - [[SectionConsultationSufficientP_13210]]
 - [[UsBureauOfReclamationsOngoingI_18968]]
 - [[InformationForTheGlenCanyonDam_19732]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Reasonable and Prudent Alternative 10
 
@@ -7999,6 +8031,9 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 > This plan, prepared by [[Richard S Wydoski]] for the [[Recovery Implementation Program]] (RIP) in the Upper Colorado River Basin, is a reference guide for the captive propagation of the four [[Endangered Colorado River Fishes]]: [[Razorback Sucker]], [[Bonytail]], [[Humpback Chub]], and [[Colorado...
 > -- *[[CoordinatedHatcheryFacilityPla_11714]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -8070,6 +8105,7 @@ A Recovery Implementation Program (RIP) is a structured, multi-stakeholder admin
 - [[StatusReviewOfRazorbackSuckerI_21034]]
 - [[FinalEnvironmentalAssessment_11629]]
 - [[CoordinatedHatcheryFacilityPla_11714]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Recovery Implementation Program for Endangered Fish Species
 
@@ -8957,6 +8993,18 @@ Red Hills Roach is a native California fish species recommended for endangered s
 
 ### Mentioned In
 - [[ConservationOfNativeFreshwater_15444]]
+
+## Red Hills Salamander
+
+### Summary
+An Alabama salamander undiscovered until 1959 and endemic to the state. The report notes it is the only living member of its genus, which makes it especially significant for conservation.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Red Hind
 <!-- fm: auto_enriched: true -->
@@ -10429,12 +10477,16 @@ Red Wash Launch (approximately RMI 298.5-298.0) contains backwater habitats iden
 > This document is an internal, pre-decisional package from the [[U.S. Fish and Wildlife Service]] (FWS) on how the [[Endangered Species Act]] (ESA) should treat hybrids. It contains a draft National Policy Issuance, a draft Federal Register notice, a November 1990 working group report, and a series...
 > -- *[[ReviewOfDraftPolicyProtectionO_11697]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[MinimallyInvasiveTissueSamplin_15426]]
 - [[StatusOfTheHybridOffspringOfTw_15617]]
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[PartEndangeredAndThreatenedWil_11572]]
 - [[ReviewOfDraftPolicyProtectionO_11697]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Red Worm
 <!-- fm: auto_enriched: true -->
@@ -10519,11 +10571,15 @@ Red-bellied sunfish (Lepomis auritus), also called "long-eared sunfish," is a su
 > This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
 > -- *[[RareAndEndangeredVertebratesAn_11494]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[StateExpendituresOnFederallyLi_1993]]
 - [[ReassignmentOfEndangeredSpecie_11826]]
 - [[ImplementationOfTheUsEndangere_21133]]
 - [[RareAndEndangeredVertebratesAn_11494]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Red-Ear Sunfish
 <!-- fm: auto_enriched: true -->
@@ -13453,6 +13509,18 @@ Requiem Sharks (family Carcharhinidae) are cartilaginous fishes inhabiting the G
 
 ### Mentioned In
 - [[AClassificationOfTheFishesOfTh_14438]]
+
+## Reregulated Flow Alternative
+
+### Summary
+This alternative was dropped from detailed study in the draft EIS. The source groups it with the Run-of-the-River and Historic Pattern alternatives, citing sediment-augmentation needs, compact and treaty conflicts, or significant Glen Canyon reach impacts. The source does not explain its operating details.
+
+### Context
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+### Mentioned In
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Reregulation
 
@@ -20235,12 +20303,16 @@ A riparian ecosystem is the dynamic interface between aquatic and terrestrial en
 > This draft wilderness management plan, issued by the [[Bureau Of Land Management]] Safford District, sets out objectives, policies and actions for the 6,699-acre [[Aravaipa Canyon Wilderness]] in southeastern Arizona for the 10-year period through 1997. The plan is organized around four wilderness...
 > -- *[[DraftwildernessManagementPlanA_11565]]*
 
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
 ### Mentioned In
 - [[DoiAnnouncesRecommendationsFor_18330]]
 - [[ImprovingRiparianVegetationFor_10201]]
 - [[MemoOnInformationExchangeAndPr_1993_09_15]]
 - [[BlmReleasesDraftSanPedroRiverM_11464]]
 - [[DraftwildernessManagementPlanA_11565]]
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Riparian Ecosystem Conservation
 <!-- fm: auto_enriched: true -->
@@ -20351,6 +20423,9 @@ Riparian habitat refers to the vegetated zone adjacent to streams and rivers tha
 > This U.S. Fish and Wildlife Service Biological Report (No. 85(7.24), September 1989) is a reference profile of the ecology of [[Stream Habitat]] and [[Riparian Habitat]] across the [[Great Basin]], a largely closed interior drainage covering most of Nevada and western Utah and parts of California,...
 > -- *[[TheEcologyOfStreamAndRiparianH_16511]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[ConstructionAndOperatingEf_19150]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -20364,6 +20439,7 @@ Riparian habitat refers to the vegetated zone adjacent to streams and rivers tha
 - [[TheSouthernBaldEagleInArizona_13287]]
 - [[EnvironmentalGuidelinesForRive_12818]]
 - [[TheEcologyOfStreamAndRiparianH_16511]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Riparian Habitat Classification
 <!-- fm: auto_enriched: true -->
@@ -20582,6 +20658,9 @@ Riparian Systems in the arid Southwest are critical corridors that support dispr
 > This 1985 report by W. L. Minckley (Arizona State University), prepared for the [[U.S. Fish and Wildlife Service]] Region II, reviews the population and habitat status of native freshwater fishes in the arid American Southwest west of the [[Continental Divide]]. It concludes that natural aquatic...
 > -- *[[DraftnativeFishesAndNaturalAqu_13704]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
 ### Mentioned In
 - [[MemoOnInformationExchangeAndPr_1993_09_15]]
 - [[PigeonCreekLakeProject_20727]]
@@ -20592,6 +20671,7 @@ Riparian Systems in the arid Southwest are critical corridors that support dispr
 - [[EnvironmentalAssessmentPropose_12210]]
 - [[OperationOfGlenCanyonDam_11487]]
 - [[DraftnativeFishesAndNaturalAqu_13704]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
 
 ## Riparian Vegetation And Salt Cedar Encroachment
 <!-- fm: auto_enriched: true -->
@@ -27795,6 +27875,18 @@ A wildlife information storage and retrieval system used by the U.S. Forest Serv
 - [[VertebrateChecklistForArizonaA_18465]]
 - [[IndexToTheNaturalDrainageSyste_18981]]
 - [[ADigitizedSystematicClassifica_13012]]
+
+## Run-of-the-River Alternative
+
+### Summary
+This alternative was dropped from detailed study in the draft EIS. The source groups it with the Historic Pattern and Reregulated Flow alternatives, citing sediment-augmentation needs, compact and treaty conflicts, or significant impacts on the Glen Canyon reach as reasons. The source does not describe its operating details.
+
+### Context
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+### Mentioned In
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Runaway Sexual Selection
 

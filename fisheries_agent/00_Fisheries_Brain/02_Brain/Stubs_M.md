@@ -5787,6 +5787,18 @@ A phylogenetic method that builds trees by choosing the arrangement requiring th
 - [[PhylogeneticDivergenceInLeathe_19747]]
 - [[PhylogeneticRelationshipsWithi_20353]]
 
+## Maximum Powerplant Capacity Alternative
+
+### Summary
+This is one of the two unrestricted fluctuating-flow options evaluated in the draft EIS, alongside the No Action baseline. It would let Glen Canyon Dam operate with unrestricted daily fluctuations, which the source contrasts with the restricted and steady-flow alternatives. The source gives no further detail on its specific flow levels.
+
+### Context
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+### Mentioned In
+- [[OperationOfGlenCanyonDamdrafte_11485]]
+
 ## Maximum Sustainable Yield
 
 ### Summary
@@ -9746,6 +9758,9 @@ A mesquite-dominated woodland community that forms riparian vegetation along des
 > This 1975 University of Arizona bulletin (Lacey, Ogden and Foster) inventories and assesses riparian vegetation along four southeastern Arizona drainages using high- and medium-altitude aerial photography, with a test of satellite-based automated mapping. It was produced under a [[NASA]] remote...
 > -- *[[SouthernArizonaRiparianHabitat_12654]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[AquaticInventoryOfTheUpperBill_12504]]
 - [[TheVertebratesOfSanBernardinoR_12717]]
@@ -9753,6 +9768,19 @@ A mesquite-dominated woodland community that forms riparian vegetation along des
 - [[SanBernardinoAquaticHabitatMan_19783]]
 - [[ManagementOfTheSanBernardinoNa_13328]]
 - [[SouthernArizonaRiparianHabitat_12654]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
+
+## Mesquite Bosques
+
+### Summary
+Floodplain woodlands dominated by mesquite trees, found on broad lower floodplains such as the San Pedro and lower Verde rivers. The source says they support high avian diversity, and mesquite was one of the leading mapped categories, though upland mesquite was a common source of misclassification.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
+### Mentioned In
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Mesquite Crown Cover
 
@@ -10651,6 +10679,18 @@ The Mexican Duck is a species that has experienced hybridization threats from in
 - [[LowerGilaRiverBiologicalInvent_18262]]
 - [[EnvironmentalAssessmentPropose_12210]]
 
+## Mexican Free-tailed Bat
+
+### Summary
+A bat species with a large maternity colony at the Bat Cave in the study area. The source documents a sharp population decline there between 1964 and 1970, which it attributes probably to pesticide residues.
+
+### Context
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
+### Mentioned In
+- [[ResourceInventoryForTheGilaRiv_15863]]
+
 ## Mexican Freshwater Fish Taxonomy
 <!-- fm: auto_enriched: true -->
 
@@ -11314,9 +11354,13 @@ A genus of hydrobiid snails from northern Mexico that was considered the closest
 > This M.S. thesis in zoology (University of Maine at Orono, May 1982, by David C. Smith) examines the feeding ecology of the endemic [[Cichlasoma]] morphs of the [[Cuatro Ciénegas Basin]], Coahuila, Mexico. Field observations and gut analyses were conducted over three consecutive summers. The two...
 > -- *[[TrophicEcologyOfTheCichlidMorp_21141]]*
 
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
 ### Mentioned In
 - [[PhylogeneticRelationshipsWithi_20353]]
 - [[TrophicEcologyOfTheCichlidMorp_21141]]
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Mexistenasellus
 
@@ -11353,6 +11397,18 @@ Mexithauma is an endemic freshwater snail genus of the Cuatro Ciénegas Basin, r
 
 ### Mentioned In
 - [[TrophicEcologyOfTheCichlidMorp_21141]]
+
+## Mexithauma mutilineatum
+
+### Summary
+A species named in the Mexican collecting permit associated with this proposal, listed among the aquatic taxa authorised for limited collection in the Cuatro Cienegas Basin. The source gives no further findings about it.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Mexiweckelia
 <!-- fm: auto_enriched: true -->
@@ -11987,6 +12043,18 @@ The presence of unwanted bacteria, molds, or other microorganisms on fish, equip
 
 ### Mentioned In
 - [[ImportedOrganicMatterAndSecond_14569]]
+
+## Microbial Mats
+
+### Summary
+Layered communities of microorganisms, such as cyanobacteria, microalgae and heterotrophic bacteria, that form on surfaces in aquatic environments. In this source, the mats in CCB thermal springs build stromatolites, and the team will study their chemical microsensor profiles and preservation to inform fossil and Martian biosignature interpretation.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Microbial Succession
 <!-- fm: auto_enriched: true -->
@@ -16009,6 +16077,18 @@ Mississippi is one of two U.S. states where the new ostracod species described i
 - [[ANewCrayfishOfTheSpiculiferGro_16434]]
 - [[ANewCrayfishOfTheGenusProcamba_20417]]
 
+## Mississippi Alligator
+
+### Summary
+A reptile described in the report as improving in numbers but absent from much of its former range in Alabama. The report lists it among the reptiles whose status has been of concern.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
+
 ## Mississippi Basin
 <!-- fm: auto_enriched: true -->
 
@@ -17791,11 +17871,15 @@ The MLFF is the preferred alternative in the Draft Environmental Impact Statemen
 > This package is a 1993–1994 consultation record for the operation of [[Glen Canyon Dam]] on the Colorado River. It includes a Reclamation transmittal memo for a technical review meeting (March 2, 1994, Las Vegas), a June 11, 1993 summary of a flow-scenario review, and the U.S. Fish and Wildlife...
 > -- *[[InformationForTheGlenCanyonDam_19732]]*
 
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
 ### Mentioned In
 - [[DraftBiologicalOpinionOperatio_11642]]
 - [[OperationOfGlenCanyonDam_11487]]
 - [[OperationOfGlenCanyonDamFinalE_11725]]
 - [[InformationForTheGlenCanyonDam_19732]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Modified Low Fluctuating Flows
 
@@ -25510,6 +25594,18 @@ Multiple Level Withdrawal (MLW) is a dam operation method that draws water from 
 
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
+
+## Multiple Resolution Aerial Videography
+
+### Summary
+Aerial video imagery captured at several scales, used in this project alongside Landsat satellite data to help map riparian vegetation along perennial streams. The source names it as one of the two main remote-sensing inputs for the statewide vegetation inventory.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
+### Mentioned In
+- [[ArizonaRiparianInventoryAndMap_13661]]
 
 ## Multiple Stressor Toxicology
 <!-- fm: auto_enriched: true -->

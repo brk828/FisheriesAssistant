@@ -8459,6 +8459,18 @@ Hierarchical analysis examines a system at nested spatial scales, from broad to 
 ### Mentioned In
 - [[CritiqueOfHumpbackChubResearch_20317]]
 
+## Hierarchical Designation System
+
+### Summary
+A proposed four-step framework for ranking riparian areas in Arizona by functional condition (categories A to E) and by wildlife, recreation and aesthetic values, then prioritizing them by the number of high values. The report presents it as a draft with open questions about how priorities should be set.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) report, submitted in response to the 1992 Waters - Riparian Protection Program (ARS 45-101), documents the first phase of a statewide inventory of riparian vegetation. The work combined [[Landsat Thematic Mapper]] satellite imagery with [[Multiple...
+> -- *[[ArizonaRiparianInventoryAndMap_13661]]*
+
+### Mentioned In
+- [[ArizonaRiparianInventoryAndMap_13661]]
+
 ## High Altitude SCUBA Diving
 
 ### Summary
@@ -9249,6 +9261,18 @@ The hispid cotton rat (Sigmodon hispidus) is a rodent that inhabits riparian and
 
 ### Mentioned In
 - [[LetterOnHistologicalSlidePrepa_17660]]
+
+## Historic Pattern Alternative
+
+### Summary
+This alternative was eliminated from detailed analysis in the draft EIS. The source lists it with the Run-of-the-River and Reregulated Flow alternatives, which were dropped mainly for sediment-augmentation needs, compact and treaty conflicts, or significant Glen Canyon reach impacts. The source does not describe its specific operating pattern.
+
+### Context
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+### Mentioned In
+- [[OperationOfGlenCanyonDamdrafte_11485]]
 
 ## Historic Preservation of Federal Fisheries Infrastructure
 <!-- fm: auto_enriched: true -->
@@ -11914,6 +11938,18 @@ Horicon Marsh is a large, shallow freshwater wetland in Dodge County, Wisconsin,
 
 ### Mentioned In
 - [[HoriconMarshWildlifeAreaItsPas_13402]]
+
+## Horizontal Gene Transfer
+
+### Summary
+The movement of genetic material between organisms other than by parent-to-offspring inheritance. The source lists lateral gene transfer as one of three processes, with genetic drift and gene flow, that the team will quantify in microbes and consumers across contrasting springs.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Horizontal Traveling Screen
 
@@ -16139,6 +16175,15 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 > This compilation gathers management records from the [[Glen Canyon Environmental Studies]] (GCES) [[Aquatic Coordination Team]] (ACT), 1990–1991, plus supporting technical material. It covers meeting minutes, follow-up memoranda, a [[Population Viability Analysis]] (PVA) workshop summary, a...
 > -- *[[GlenCanyonEnvironmentalStudies_19693]]*
 
+> This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
+> -- *[[GlenCanyonEnvironmentalStudies_19675]]*
+
+> This draft environmental impact statement (EIS), prepared by the [[Bureau of Reclamation]] as lead agency with eleven cooperating agencies and tribes, evaluates the downstream effects of operating [[Glen Canyon Dam]] on the Colorado River corridor from [[Lake Powell]] through [[Grand Canyon...
+> -- *[[OperationOfGlenCanyonDamdrafte_11485]]*
+
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -16887,6 +16932,9 @@ The Humpback Chub (*Gila cypha*) is a small, endemic cyprinid fish native to the
 - [[ColoradosLittleFishAGuideToThe_20824]]
 - [[AnnotatedBibliographyForAquati_20870]]
 - [[GlenCanyonEnvironmentalStudies_19693]]
+- [[GlenCanyonEnvironmentalStudies_19675]]
+- [[OperationOfGlenCanyonDamdrafte_11485]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Humpback Chub Propagation
 

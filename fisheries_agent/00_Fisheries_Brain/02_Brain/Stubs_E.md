@@ -394,6 +394,9 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > This 1994 petition, filed by David Hogan, the [[Greater Gila Biodiversity Project]], the Southwest Center for Biological Diversity and the Biodiversity Legal Foundation, asks the [[U.S. Fish And Wildlife Service]] (USFWS) to designate [[Critical Habitat]] for the [[Gila Trout]] under the...
 > -- *[[PetitionToDesignateCriticalHab_20448]]*
 
+> This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
+> -- *[[ResourceInventoryForTheGilaRiv_15863]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -460,6 +463,7 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[DraftGilaBoxRiparianNationalCo_11469]]
 - [[QualityOfWaterOfTheGilaRiverBa_16620]]
 - [[PetitionToDesignateCriticalHab_20448]]
+- [[ResourceInventoryForTheGilaRiv_15863]]
 
 ## Eagle Creek Pump Station
 
@@ -1744,6 +1748,18 @@ The Eastern Indian Ocean is one of the 17 marine FAO statistical areas covered i
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16310]]
 
+## Eastern Indigo Snake
+
+### Summary
+A snake that the report says relies on gopher tortoise burrows. Like other burrow-dwelling reptiles, it is threatened by forest clearing and persecution of tortoise colonies.
+
+### Context
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
+### Mentioned In
+- [[RareAndEndangeredVertebratesOf_17923]]
+
 ## Eastern Mosquitofish
 
 ### Summary
@@ -2385,6 +2401,18 @@ FWS field offices that, under this memo, take over day-to-day lead responsibilit
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 - [[TheLimnologyOfDesertSprings_13994]]
 - [[VegetationPanelsScopeOfWork_16204]]
+
+## Ecological Stoichiometry
+
+### Summary
+The study of how the balance of elements such as carbon, nitrogen and phosphorus constrains organisms and food webs. In this source, the authors hypothesise that stoichiometric limits on herbivory shaped the timing of metazoan appearance and stromatolite decline, and they plan to test chemical constraints on stability in CCB springs.
+
+### Context
+> This Arizona State University (ASU) proposal, submitted to the NASA Space Life Sciences program under an Additional Research Letter dated 2-11-00, requests roughly $749,685 in total cost over 07/01/00 to 06/30/03 to expand biologist participation in the [[NASA Astrobiology Institute]] (NAI). The...
+> -- *[[EvolutionInMicrobebasedEcosyst_16309]]*
+
+### Mentioned In
+- [[EvolutionInMicrobebasedEcosyst_16309]]
 
 ## Ecological Studies Of The Sacramento-San Joaquin Estuary
 <!-- fm: auto_enriched: true -->
@@ -8378,6 +8406,9 @@ An endangered species, in the context of fish science and conservation biology, 
 > This is the 1982 annual research summary of the U.S. Fish and Wildlife Service (FWS) Research Divisions, covering fiscal year 1982 (October 1, 1981 to September 30, 1982). The volume is a compilation of many programs rather than a single study. Its fish-related content centers on [[Environmental...
 > -- *[[FisheriesAndWildlifeResearch_13305]]*
 
+> This June 1972 publication from the Alabama Department of Conservation and Natural Resources, Division of Game and Fish, reports the results of the first Symposium on Rare and Endangered Vertebrates of Alabama. Expert panels in four vertebrate classes (mammals, birds, amphibians and reptiles, and...
+> -- *[[RareAndEndangeredVertebratesOf_17923]]*
+
 ### Mentioned In
 - [[BullfrogPredation_1985_11_27]]
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
@@ -8403,6 +8434,7 @@ An endangered species, in the context of fish science and conservation biology, 
 - [[GeneralGeneticGuidelinesForReg_18841]]
 - [[MexicanPermits_20832]]
 - [[FisheriesAndWildlifeResearch_13305]]
+- [[RareAndEndangeredVertebratesOf_17923]]
 
 ## Endangered Species (Federal List)
 <!-- fm: auto_enriched: true -->
@@ -9480,6 +9512,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This 1994 petition, filed by David Hogan, the [[Greater Gila Biodiversity Project]], the Southwest Center for Biological Diversity and the Biodiversity Legal Foundation, asks the [[U.S. Fish And Wildlife Service]] (USFWS) to designate [[Critical Habitat]] for the [[Gila Trout]] under the...
 > -- *[[PetitionToDesignateCriticalHab_20448]]*
 
+> This document is a set of appendices to a December 1994 feasibility assessment for a multi-species management program on the Lower Colorado River, prepared by SWCA, Inc. for the Six-Agency Committee. It contains three groups of material: (A) the text of the Endangered Species Act of 1973 as...
+> -- *[[FinalFeasibilityAssessmentForA_15073]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -10117,6 +10152,7 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[ColoradoRiverEndangeredFishesC_19333]]
 - [[HandbookOfSpeciesEndangeredInN_19959]]
 - [[PetitionToDesignateCriticalHab_20448]]
+- [[FinalFeasibilityAssessmentForA_15073]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
