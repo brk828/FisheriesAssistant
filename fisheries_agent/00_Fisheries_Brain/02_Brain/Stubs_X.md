@@ -4,6 +4,30 @@ letter: X
 ---
 # Concept Stubs: X
 
+## X-Irradiation
+
+### Summary
+Exposure to X-rays, which the authors cite as a more drastic way of altering vertebrate life span than the mild temperature changes they used. Teleost fish were preferred because their life span can be shifted by small environmental changes.
+
+### Context
+> This 1965 study by [[Roy L. Walford]] and Robert K. Liu evaluates [[Cynolebias Adloffi]], a large [[Annual Fish]] from South America, as a short-lived vertebrate model for [[Gerontology]]. The authors describe husbandry methods, laboratory life span, disease patterns, and growth at two rearing...
+> -- *[[HusbandryLifeSpanAndGrowthRate_14431]]*
+
+### Mentioned In
+- [[HusbandryLifeSpanAndGrowthRate_14431]]
+
+## X-Radiation Effects
+
+### Summary
+The subject of the second, incomplete paper in this document, a mouse study. It outlines how a measured dose of x-rays may alter alkaline phosphatase activity in the mouse intestinal tract, but the excerpt gives no results or dose values.
+
+### Context
+> This Transactions of the Kansas Academy of Science paper (1953) by J. Bohlke of [[Stanford University]] describes a new, completely finless and scaleless ophichthid eel, *Caecula (Sphagebranchus) gymnocelus*. The holotype and one paratype were dredged during the 1952 [[Sefton-Stanford Expedition]]...
+> -- *[[DescriptionOfANewFinlessOphich_17714]]*
+
+### Mentioned In
+- [[DescriptionOfANewFinlessOphich_17714]]
+
 ## X-Ray Diffraction
 
 ### Summary
@@ -13,8 +37,12 @@ An analytical method that identifies minerals by how they scatter X-rays. Pine u
 > This 1968 University of Arizona doctoral dissertation by Gordon Leroy Pine is a petrographic and stratigraphic study of [[Devonian Strata]] in east-central and southeastern Arizona. Twenty-four localities were examined, and the work identifies a topographic high near Bylas that divides the study...
 > -- *[[DevonianStratigraphyAndPaleoge_11148]]*
 
+> This is a reflective essay by [[James Watson]], adapted from a talk given on March 2, 1993, at [[Cold Spring Harbor Laboratory]]. The talk honored the 40th anniversary of the [[Watson-Crick Model|Watson/Crick discovery of the DNA double helix]]. It is a career-advice piece, published in the...
+> -- *[[SucceedingInScienceSomeRulesOf_14939]]*
+
 ### Mentioned In
 - [[DevonianStratigraphyAndPaleoge_11148]]
+- [[SucceedingInScienceSomeRulesOf_14939]]
 
 ## X-Ray Fluorescence Spectroscopy
 
@@ -27,6 +55,30 @@ X-ray fluorescence spectroscopy is an analytical technique that identifies and m
 
 ### Mentioned In
 - [[EffectsOfImpoundmentOnWaterAnd_21257]]
+
+## X-Ray Irradiation
+
+### Summary
+X-ray irradiation is exposure to high-energy electromagnetic radiation, which penetrates whole organisms. In this study, Welander exposed trout eggs to 200 kvp X-rays at graded doses of roughly 25 to 2570 r, timed by developmental stage. The aim was to find the embryonic periods most sensitive to that damage.
+
+### Context
+> Welander (Applied Fisheries Laboratory, University of Washington) reports a preliminary study of how [[X-Ray Irradiation]] affects six developmental stages of [[Rainbow Trout]] embryos, from the one-cell stage to the pre-hatching eyed stage. Eggs were exposed to graded doses (roughly 25 to 2570 r)...
+> -- *[[SomeEffectsOfXirradiationOfDif_12144]]*
+
+### Mentioned In
+- [[SomeEffectsOfXirradiationOfDif_12144]]
+
+## X-Ray Laser
+
+### Summary
+An X-ray laser produces coherent light at very short X-ray wavelengths. This source reports a neon-like yttrium X-ray laser at 155 Å, driven by the Nova laser, where measured gain was lower than calculated values and varied spatially across the target.
+
+### Context
+> This Science (1996) paper by [[Thomas C Johnson]] and colleagues uses [[Seismic Reflection Profiling]] and [[Piston Coring]] to test whether the more than 300 endemic [[Haplochromine Cichlids]] of [[Lake Victoria]] could have survived in refugia during a late Pleistocene arid period. The authors...
+> -- *[[LatePleistoceneDesiccationOfLa_19823]]*
+
+### Mentioned In
+- [[LatePleistoceneDesiccationOfLa_19823]]
 
 ## X-Ray Radiography
 
@@ -86,6 +138,54 @@ Xanthine Dehydrogenase is an enzyme examined at 1 genetic locus that showed one 
 ### Mentioned In
 - [[GeneticVariationAndSpeciationI_12625]]
 
+## Xantho-Erythrophore
+
+### Summary
+A pigment cell combining yellow and red pigments. According to the source, its yellow component is lutein and zeaxanthin and its red component is erythropterin; the sex-linked Rt gene is a xantho-erythrophore gene.
+
+### Context
+> This 1950 article by [[Myron Gordon]], reprinted from *Endeavour*, argues that fish are valuable models for cancer research, especially for pigment-cell tumours ([[Melanoma]]s). Using crosses between [[Platyfish]] (*Platypoecilus maculatus*) and [[Swordtail]] (*Xiphophorus hellerii*), Gordon shows...
+> -- *[[HeredityOfPigmentedTumoursInFi_11039]]*
+
+### Mentioned In
+- [[HeredityOfPigmentedTumoursInFi_11039]]
+
+## Xanthophore
+
+### Summary
+A pigment cell containing yellow pigment. It is one of the chromatophore types Gordon names in his classification of fish pigment cells.
+
+### Context
+> This 1950 article by [[Myron Gordon]], reprinted from *Endeavour*, argues that fish are valuable models for cancer research, especially for pigment-cell tumours ([[Melanoma]]s). Using crosses between [[Platyfish]] (*Platypoecilus maculatus*) and [[Swordtail]] (*Xiphophorus hellerii*), Gordon shows...
+> -- *[[HeredityOfPigmentedTumoursInFi_11039]]*
+
+### Mentioned In
+- [[HeredityOfPigmentedTumoursInFi_11039]]
+
+## Xanthophyll
+
+### Summary
+Xanthophyll is a yellow carotenoid pigment found in plants. The source notes that some submersed weeds with high xanthophyll content had been reported to color poultry yolks, but it does not present new xanthophyll measurements.
+
+### Context
+> This 1968 *Economic Botany* paper, by [[Boyd]] of [[Auburn University]], is a preliminary study assessing whether freshwater aquatic plants, usually regarded as nuisance [[Aquatic Weeds]], could serve as a food source. The work measured the chemical composition of dried plants as potential...
+> -- *[[FreshwaterPlantsAPotentialSour_17757]]*
+
+### Mentioned In
+- [[FreshwaterPlantsAPotentialSour_17757]]
+
+## Xanthopterin
+
+### Summary
+A pteridine compound that earlier researchers proposed as an anti-anemia factor for trout. Simmons and Norris (1941) reported that injections raised red cell counts in anemic salmon fingerlings, but the source notes that later Cortland Hatchery work did not confirm this.
+
+### Context
+> This study tests whether a [[Dry Pelleted Diet]] causes [[Nutritional Anemia]] in [[Brook Trout]] and [[Rainbow Trout]], two salmonids raised in hatcheries. Earlier work had shown that trout fed purified or synthetic diets became anemic, and that [[Raw Beef Liver]], fly maggots and some extracts...
+> -- *[[RelationOfADryPelletedRationTo_19204]]*
+
+### Mentioned In
+- [[RelationOfADryPelletedRationTo_19204]]
+
 ## Xenacanthida
 <!-- fm: auto_enriched: true -->
 
@@ -109,8 +209,12 @@ Xanthine Dehydrogenase is an enzyme examined at 1 genetic locus that showed one 
 > 1. **Preopercle serration is not a valid generic/subgeneric character** — it is developmentally and geographically variable and occurs in the type species of [[Hadropterus]] itself, invalidating the genus *Serraria* Gilbert, 1884, as based on this trait. 2. **Gill-membrane union** is a useful but...
 > -- *[[StatusAndSynonymyOfTheAmerican_1954_06_01]]*
 
+> This 1972 study in the *Canadian Journal of Zoology* describes how male [[Gambusia]] use the [[Gonopodium]] (the modified anal fin used to transfer sperm) and the [[Pectoral Fin]] during [[Copulation]]. Using super 8-mm film and hollowed-out [[Artificial Female Models]] that recorded gonopodial...
+> -- *[[TheFunctionOfGonopodialPartsAn_11236]]*
+
 ### Mentioned In
 - [[StatusAndSynonymyOfTheAmerican_1954_06_01]]
+- [[TheFunctionOfGonopodialPartsAn_11236]]
 
 ## Xenodexia Ctenolepis
 <!-- fm: auto_enriched: true -->
@@ -184,9 +288,13 @@ Xenopus laevis is the African clawed frog, an exotic amphibian species. This sou
 > This study by Lyons (1997) examined 35 preserved specimens of ***[[Xenotaenia resolanae]]***, a poorly-known livebearing fish endemic to the [[Purificación Basin]] and [[Marabasco Basin]] on the Pacific slope of west-central México, to correct errors in the original 1946 description (Turner) and ...
 > -- *[[MorphologicalVariationWithinXe_16286]]*
 
+> This study applies an indirect multivariate gradient analysis to fish assemblages in rivers and streams of western Jalisco, Mexico. It compares the influence of large-scale zoogeographic factors with local habitat features on species composition and on ecological guild composition. Data come from...
+> -- *[[PatronesTaxonmicosYEcolgicosEn_16289]]*
+
 ### Mentioned In
 - [[ArtificialKeyToTheAdultGoodeid_19652]]
 - [[MorphologicalVariationWithinXe_16286]]
+- [[PatronesTaxonmicosYEcolgicosEn_16289]]
 
 ## Xenotis Megalotis Megalotis
 <!-- fm: auto_enriched: true -->
@@ -207,8 +315,48 @@ Xenotoca is a goodeid genus for which pregnant females have been examined for ov
 > This research proposal by Clyde D. Barbour (University of Utah) requests two years of funding from the National Science Foundation to conduct systematic and evolutionary studies of fishes endemic to the [[Mesa Central]] of Mexico. The project focuses on the family [[Goodeidae]] (viviparous...
 > -- *[[ProposalForSupportOfResearchOn_15568]]*
 
+> This paper, by John Michael Fitzsimons of the [[Louisiana State University]] Museum of Zoology, tests whether premating behavioral barriers keep three freshwater goodeid species of the genus [[Xenotoca]] apart where they live together. Laboratory crosses produced fertile hybrids from all...
+> -- *[[EthologicalIsolatingMechanisms_16436]]*
+
 ### Mentioned In
 - [[ProposalForSupportOfResearchOn_15568]]
+- [[EthologicalIsolatingMechanisms_16436]]
+
+## Xenotoca Eiseni
+
+### Summary
+Xenotoca eiseni (Rutter) is a goodeid with a disjunct distribution in Nayarit and Jalisco, including the Rio Compostela and parts of the Grande de Santiago and Tamazula basins. In this study it co-occurs with X. melanosoma at several localities, and its courtship displays differ markedly between sympatric and allopatric populations, which the author interprets as reinforcement of premating isolation.
+
+### Context
+> This paper, by John Michael Fitzsimons of the [[Louisiana State University]] Museum of Zoology, tests whether premating behavioral barriers keep three freshwater goodeid species of the genus [[Xenotoca]] apart where they live together. Laboratory crosses produced fertile hybrids from all...
+> -- *[[EthologicalIsolatingMechanisms_16436]]*
+
+### Mentioned In
+- [[EthologicalIsolatingMechanisms_16436]]
+
+## Xenotoca Melanosoma
+
+### Summary
+Xenotoca melanosoma Fitzsimons is a goodeid known only from Jalisco, with its type locality in the Rio Tamazula and range extending toward Lago de Chapala. The source reports that it co-occurs with X. eiseni and that Rio Tamazula males show reduced tilting and a unique Dart display, supporting the study's argument for behavioral isolation.
+
+### Context
+> This paper, by John Michael Fitzsimons of the [[Louisiana State University]] Museum of Zoology, tests whether premating behavioral barriers keep three freshwater goodeid species of the genus [[Xenotoca]] apart where they live together. Laboratory crosses produced fertile hybrids from all...
+> -- *[[EthologicalIsolatingMechanisms_16436]]*
+
+### Mentioned In
+- [[EthologicalIsolatingMechanisms_16436]]
+
+## Xenotoca Variata
+
+### Summary
+Xenotoca variata (Bean) is the type species of the genus and is possibly the most widely distributed goodeid, found in lentic and lotic habitats across several Mesa Central basins. In this study it was never collected sympatrically with the other two Xenotoca species, and it had seven courtship displays, with no detected variation between the two populations studied.
+
+### Context
+> This paper, by John Michael Fitzsimons of the [[Louisiana State University]] Museum of Zoology, tests whether premating behavioral barriers keep three freshwater goodeid species of the genus [[Xenotoca]] apart where they live together. Laboratory crosses produced fertile hybrids from all...
+> -- *[[EthologicalIsolatingMechanisms_16436]]*
+
+### Mentioned In
+- [[EthologicalIsolatingMechanisms_16436]]
 
 ## Xerces Society
 
@@ -260,6 +408,18 @@ Xeroriparian Mixed Scrub is a riparian habitat type associated with ephemeral wa
 ### Mentioned In
 - [[BiologicalEvaluationOfTheAppro_15074]]
 
+## Xerothermic
+
+### Summary
+A hot, dry interval, dated by the paper to about 8,000 to 4,000 years ago, during which desert and chaparral taxa moved coastward and Diegan sage invaded the Channel Islands. Axelrod considers it a major period of expansion for coastal sage.
+
+### Context
+> This paper by Daniel I. Axelrod (Department of Botany, University of California, Davis) reconstructs the age and origin of [[Coastal Sage Scrub]], a shrub vegetation type of Alta and Baja California. The author argues that coastal sage is a new, pioneer-type vegetation that spread widely only after...
+> -- *[[TheOriginOfCoastalSageVegetati_10594]]*
+
+### Mentioned In
+- [[TheOriginOfCoastalSageVegetati_10594]]
+
 ## Xerothermic Interval
 
 ### Summary
@@ -289,6 +449,18 @@ Xilitla is a locality in San Luis Potosi, Mexico, near which all three known cav
 
 ### Mentioned In
 - [[XilitloniscusANewGenusForTheMe_17752]]
+
+## Xinjiang Region
+
+### Summary
+An arid, inland region in northwestern China with a continental climate, mountains, deserts and major waters such as the Ili and Tarim systems and Bosten Lake. The source notes its fish fauna includes species like Diptychus maculatus and the Carassius carassius account.
+
+### Context
+> This third volume of *The Freshwater Fishes of China in Coloured Illustration* is a photographic and descriptive field guide to 142 freshwater fish species in 17 families, focused mainly on northern China. Coverage includes the cold-water fauna of the [[Northeast China]] region, the arid northwest...
+> -- *[[TheFreshwaterFishesOfChinaInCo_18290]]*
+
+### Mentioned In
+- [[TheFreshwaterFishesOfChinaInCo_18290]]
 
 ## Xiphactinus Audax
 <!-- fm: auto_enriched: true -->
@@ -351,6 +523,60 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 > This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
 > -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
 
+> This reprinted symposium paper by [[Carl L. Hubbs]] (Scripps Institution of Oceanography) examines why fishes that can interbreed in aquaria so rarely hybridize in nature. Speciation is framed as a fluctuating conflict between forces that unify the gene pool (chiefly interbreeding) and forces that...
+> -- *[[IsolatingMechanismsInTheSpecia_14161]]*
+
+> This taxonomic paper, written in German with an English abstract, describes **[[Xiphophorus Andersi]]**, a new poeciliid species from the [[Rio Atoyac]] in [[Vera Cruz]], Mexico. The species is distinguished by a large head, a moderately slender body, a large dark spot at the base of the anal fin,...
+> -- *[[EineNeueXiphorphorusartAusVera_20175]]*
+
+> This study tests whether [[Electrophoretic Genotyping]] can be run on [[Non-Lethal Genetic Sampling|low-risk tissues]] (blood, fins, and scale epithelium) of [[Largemouth Bass]] (*[[Micropterus Salmoides]]*) instead of invasive liver biopsy or necropsy. The authors used [[Starch Gel...
+> -- *[[GeneticMarkerIdentificationInL_17427]]*
+
+> This 1983 taxonomic paper by Manfred K. Meyer (Staatliches Museum für Tierkunde Dresden, Zoologische Abhandlungen, Bd. 38, Nr. 18) documents three natural hybrid populations of [[Xiphophorus]] (Poeciliidae) from northern Mexico. It also revises two previously described taxa, *X. kosszanderi* and...
+> -- *[[XiphorphorushybridenAusNordmex_20176]]*
+
+> This taxonomic paper formally describes *[[Priapella Olmecae]]* sp. n., a new freshwater poeciliid from the Los Tuxtlas region of [[Veracruz]], México. The type locality is [[Rio de la Palma]]. Morphological comparison based on [[Gonopodium]] structure, fin-ray and [[Gill Rakers]] counts, and body...
+> -- *[[PriapellaOlmecaeSpNANewSpecies_20173]]*
+
+> This 1952 taxonomic revision by Donn Eric Rosen, published in *Zoologica* (New York Zoological Society), re-examines the poeciliid subfamily [[Alfarinae]]. It compares the Central American genera [[Alfaro]] and [[Furcipenis]], which were long kept separate, and concludes that they should be merged....
+> -- *[[ARevisionOfTheFishesOfTheSubfa_21040]]*
+
+> This 1983 faunistic paper by [[Dean A. Hendrickson]] (Arizona State University) reports previously unpublished freshwater fish distribution records from Pacific drainages of Mexico, based on collections made in July 1980 and January 1981. The records are drawn from 30 numbered localities, with...
+> -- *[[DistributionRecordsOfNativeAnd_16636]]*
+
+> This review by [[Pamela A. Mac Intyre]] from the [[New York Aquarium]] Genetics Laboratory describes atypical thyroid growths in two poeciliid fishes, *Girardinus falcatus* and *Xiphophorus variatus variatus*, and reviews all known thyroid tumors in teleosts. Thyroid hyperplasia in these fishes was...
+> -- *[[TumorsOfTheThyroidGlandInTeleo_19308]]*
+
+> This 1954 paper by [[Theodor Ricardo Marcus]] and [[Myron Gordon]], published in *Zoologica* (New York Zoological Society, Vol. 39, Part 3), reports the first successful transplantation and growth of a melanoma in fishes. Tumor fragments from [[Sc Melanoma]] in [[Xiphophorus]] hybrids were...
+> -- *[[TransplantationOfTheScMelanoma_19372]]*
+
+> This 1972 study in the *Canadian Journal of Zoology* describes how male [[Gambusia]] use the [[Gonopodium]] (the modified anal fin used to transfer sperm) and the [[Pectoral Fin]] during [[Copulation]]. Using super 8-mm film and hollowed-out [[Artificial Female Models]] that recorded gonopodial...
+> -- *[[TheFunctionOfGonopodialPartsAn_11236]]*
+
+> This 1971 study by [[Kallman]] and [[Schreibman]] examines the origin of new, stable macromelanophore pigment patterns in the platyfish *Xiphophorus maculatus*. Pigment patterns in this species are controlled by sex-linked [[Macromelanophore]] genes that interact with autosomal and sex-linked...
+> -- *[[TheOriginAndPossibleGeneticCon_17877]]*
+
+> This genetics study by [[Claus Dieter Zander]] examines how pigment-pattern genes of [[Xiphophorus]] livebearers change their expression when moved into other species or subspecies through hybridization. Zander crossed nine recognized Xiphophorus taxa, producing nearly all 72 possible hybrid...
+> -- *[[UberDieEntstehungUndVeranderun_20927]]*
+
+> This 1967 study by Claus Dieter Zander, published in the *Mitteilungen aus dem Hamburger Zoologischen Museum und Institut*, reports ecological observations from a 1964 Mexican collecting expedition and comparative morphological work on the livebearing genus [[Xiphophorus]] (swordtails and platies)....
+> -- *[[OkologischeUndMorpholodischeBe_20926]]*
+
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
+> This 1933 morphological study by C. L. Turner, published in the *Journal of Morphology*, examines reproduction in the [[Goodeidae]], a family of cyprinodont fishes confined to the [[Mexican Plateau]] and adjacent streams. All members are viviparous. Fertilization is internal, the eggs contain very...
+> -- *[[ViviparitySuperimposedUponOvov_13418]]*
+
+> This 1953 monograph by [[Donn Eric Rosen]] and [[Myron Gordon]] (New York Aquarium, New York Zoological Society) examines the functional anatomy of the male intromittent organ, the [[Gonopodium]], in [[Poeciliidae]] (live-bearing fishes). It combines histology, vascular and nerve mapping, muscle...
+> -- *[[FunctionalAnatomyAndEvolutionO_21039]]*
+
+> This chapter, a review by [[Myron Gordon]] from a 1957 academic volume on fishes, surveys the physiological processes in fishes for which genetic influences are known, though often incompletely understood. Its central focus is the poeciliid fishes of the genus [[Xiphophorus]] (platyfish and...
+> -- *[[PhysiologicalGeneticsOfFishes_11043]]*
+
+> This 1960 revision by Donn Eric Rosen, published in the [[Bulletin of the Florida State Museum]], reappraises the live-bearing genus [[Xiphophorus]] (platyfishes and swordtails) by combining comparative morphology, distribution, ecology, genetics, cytology, embryology, endocrinology and ethology....
+> -- *[[MiddleamericanPoeciliidFishesO_21043]]*
+
 ### Mentioned In
 - [[FigXiphophorusMontezuma_19851]]
 - [[GeneticMarkerIdentificationInL_1986]]
@@ -360,6 +586,36 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 - [[ExperimentalBreedingOfTheAmazo_14310]]
 - [[AnEcologicalOverviewOfPoecilii_20086]]
 - [[DraftOfMexicosNewEndangeredSpe_11644]]
+- [[IsolatingMechanismsInTheSpecia_14161]]
+- [[EineNeueXiphorphorusartAusVera_20175]]
+- [[GeneticMarkerIdentificationInL_17427]]
+- [[XiphorphorushybridenAusNordmex_20176]]
+- [[PriapellaOlmecaeSpNANewSpecies_20173]]
+- [[ARevisionOfTheFishesOfTheSubfa_21040]]
+- [[DistributionRecordsOfNativeAnd_16636]]
+- [[TumorsOfTheThyroidGlandInTeleo_19308]]
+- [[TransplantationOfTheScMelanoma_19372]]
+- [[TheFunctionOfGonopodialPartsAn_11236]]
+- [[TheOriginAndPossibleGeneticCon_17877]]
+- [[UberDieEntstehungUndVeranderun_20927]]
+- [[OkologischeUndMorpholodischeBe_20926]]
+- [[GeneAndChromosomeHomologyInFis_17873]]
+- [[ViviparitySuperimposedUponOvov_13418]]
+- [[FunctionalAnatomyAndEvolutionO_21039]]
+- [[PhysiologicalGeneticsOfFishes_11043]]
+- [[MiddleamericanPoeciliidFishesO_21043]]
+
+## Xiphophorus Andersi
+
+### Summary
+Xiphophorus andersi is a small poeciliid (livebearing) fish described as a new species in this 1980 paper. The authors report it from the Rio Atoyac near Finca St. Anita in Vera Cruz, Mexico, and know it only from that type locality. It is diagnosed by a large head, a large dark spot at the base of the anal fin, a short sword on adult males, and an ungrowned claw-less ray 5a on the gonopodium.
+
+### Context
+> This taxonomic paper, written in German with an English abstract, describes **[[Xiphophorus Andersi]]**, a new poeciliid species from the [[Rio Atoyac]] in [[Vera Cruz]], Mexico. The species is distinguished by a large head, a moderately slender body, a large dark spot at the base of the anal fin,...
+> -- *[[EineNeueXiphorphorusartAusVera_20175]]*
+
+### Mentioned In
+- [[EineNeueXiphorphorusartAusVera_20175]]
 
 ## Xiphophorus Clemenciae
 <!-- fm: auto_enriched: true -->
@@ -368,8 +624,12 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 > | Species | Family (inferred) | Year | |---|---|---| | [[Algansea Barbata]] | Cyprinidae | 1964 | | [[Algansea Paratincella]] | Cyprinidae | 1963 | | [[Anoptichthys Antrobius]] | Characidae | 1946 | | [[Anoptichthys Hubbsi]] | Characidae | 1947 | | [[Archomenidia Bolivari]] | Atherinidae | 1950 |...
 > -- *[[JoseAlvarezDelVillar_13131]]*
 
+> This document is the official Mexican standard NOM-059-ECOL-1994, published in the Diario Oficial de la Federación on 16 May 1994 by the [[Secretaría de Desarrollo Social]] through the [[Instituto Nacional de Ecología]]. It determines the terrestrial and aquatic flora and fauna species and...
+> -- *[[DiarioOficialDeLaFederacionOrg_18944]]*
+
 ### Mentioned In
 - [[JoseAlvarezDelVillar_13131]]
+- [[DiarioOficialDeLaFederacionOrg_18944]]
 
 ## Xiphophorus Couchianus
 <!-- fm: auto_enriched: true -->
@@ -384,10 +644,30 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 > This 1967 doctoral dissertation by Jeanette H. Lysne at [[Arizona State University]] presents histocompatibility studies of [[Xiphophorus gordoni]] (northern platyfish) from three isolated lagunas in the [[Cuatro Ciénegas Basin]] of Coahuila, México. Using dorsal fin transplantation techniques, the...
 > -- *[[HistocompatibilityStudiesOfThe_16290]]*
 
+> This report describes the first attempt in Mexico at ecological management of a spring ecosystem, carried out at the [[Ojo de Agua de Apodaca]] in [[Nuevo León]] between 1988 and 1989. The project was a joint effort of the [[Monterrey Water And Drainage Services]] (water utility), the municipal...
+> -- *[[ProteccionEcologicaDeLasFuente_17289]]*
+
+> This 1967 checklist, published by the Universidad de Nuevo León's Instituto de Investigaciones Científicas, compiles the fish species recorded in the state of [[Nuevo Leon]]. It is intended as a baseline for fisheries management and for ongoing distribution studies of Mexican fishes. The author...
+> -- *[[ListaDePecesDelEstadoDeNuevoLe_17512]]*
+
+> This 1983 taxonomic paper by Manfred K. Meyer (Staatliches Museum für Tierkunde Dresden, Zoologische Abhandlungen, Bd. 38, Nr. 18) documents three natural hybrid populations of [[Xiphophorus]] (Poeciliidae) from northern Mexico. It also revises two previously described taxa, *X. kosszanderi* and...
+> -- *[[XiphorphorushybridenAusNordmex_20176]]*
+
+> This paper by [[Salvador Contreras-Balderas]] (Facultad de Ciencias Biológicas, Universidad de Nuevo León) reviews the endemic freshwater fishes of Mexico's arid north. It covers three biotic provinces: the [[Sonoran Province]], the [[Chihuahua-Potosinan Province]] and the [[Tamaulipan Province]]....
+> -- *[[PerspectivasDeLaIctiofaunaEnLa_17513]]*
+
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
 - [[HistocompatibilityStudiesOfThe_16290]]
+- [[ProteccionEcologicaDeLasFuente_17289]]
+- [[ListaDePecesDelEstadoDeNuevoLe_17512]]
+- [[XiphorphorushybridenAusNordmex_20176]]
+- [[PerspectivasDeLaIctiofaunaEnLa_17513]]
+- [[GeneAndChromosomeHomologyInFis_17873]]
 
 ## Xiphophorus Gordoni
 <!-- fm: auto_enriched: true -->
@@ -411,12 +691,16 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > This 1967 doctoral dissertation by Jeanette H. Lysne at [[Arizona State University]] presents histocompatibility studies of [[Xiphophorus gordoni]] (northern platyfish) from three isolated lagunas in the [[Cuatro Ciénegas Basin]] of Coahuila, México. Using dorsal fin transplantation techniques, the...
 > -- *[[HistocompatibilityStudiesOfThe_16290]]*
 
+> This short review by Salvador Contreras Balderas, of the Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León, presents the endemic biota of the [[Cuatro Ciénegas Valley]] in north-central Mexico and an annotated checklist of its endemic species. About 70 local species have been...
+> -- *[[BiotaEndemicaDeCuatroCienegasC_17518]]*
+
 ### Mentioned In
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[PartialBibliographyOnNaturalHi_13786]]
 - [[PreliminaryLimnologicInformati_1968_12_31]]
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[HistocompatibilityStudiesOfThe_16290]]
+- [[BiotaEndemicaDeCuatroCienegasC_17518]]
 
 ## Xiphophorus Helleri
 <!-- fm: auto_enriched: true -->
@@ -437,8 +721,48 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > 8. **[[Xiphophorus Helleri]] × [[Platypoecilus Variatus]] crosses** (following up on Rust 1941) confirm that the polygenic sex-determination system of *helleri* is epistatic over the monofactorial system of *variatus*: both sexes appear in all genotype/color classes (Xx and xY) in F1. However, un...
 > -- *[[BeiträgeZurGenetischenAnalyseX_1959]]*
 
+> This review, by [[Myron Gordon]] of the Genetics Laboratory of the New York Zoological Society, argues that hereditary factors play a real and important role in fish diseases and skeletal abnormalities. Most of the evidence comes from long-term breeding experiments on [[Xiphophorus Helleri]]...
+> -- *[[TheGeneticsOfFishDiseases_11040]]*
+
+> This is a 1959 theoretical essay by [[Curt Kosswig]] (Zoologisches Staatsinstitut und Museum, Hamburg), written from a colloquium presentation on phylogenetic trends. It argues that the genetic basis of evolutionary change can be explained by ordinary mutation, polygenic inheritance and...
+> -- *[[PhylogenetischeTrendsGenetisch_12389]]*
+
+> This 1941 experimental study by [[C. L. Turner]] (Department of Zoology, [[Northwestern University]]) examines how the anal fin of [[Gambusia]] develops, regenerates, and is reshaped into a [[Gonopodium]] under the influence of genetic factors and a testicular [[Androgenic Hormone]]. Over 100...
+> -- *[[RegenerationOfTheGonopodiumOfG_13422]]*
+
+> This review by [[Curt Kosswig]], published in the *Abhandlungen und Verhandlungen des Naturwissenschaftlichen Vereins in Hamburg* (N.F. Bd. X, 1965), summarizes four decades of genetic research on fishes, mainly live-bearing toothcarps (Poeciliidae, Xiphophorini) and cyprinodonts. It argues that...
+> -- *[[JahreGenestischeUntersuchungen_12397]]*
+
+> This taxonomic paper formally describes *[[Priapella Olmecae]]* sp. n., a new freshwater poeciliid from the Los Tuxtlas region of [[Veracruz]], México. The type locality is [[Rio de la Palma]]. Morphological comparison based on [[Gonopodium]] structure, fin-ray and [[Gill Rakers]] counts, and body...
+> -- *[[PriapellaOlmecaeSpNANewSpecies_20173]]*
+
+> This 1983 faunistic paper by [[Dean A. Hendrickson]] (Arizona State University) reports previously unpublished freshwater fish distribution records from Pacific drainages of Mexico, based on collections made in July 1980 and January 1981. The records are drawn from 30 numbered localities, with...
+> -- *[[DistributionRecordsOfNativeAnd_16636]]*
+
+> This 1970 morphological study by [[Jakob Parzefall]] (Zoologisches Institut, Hamburg) compares a cave-dwelling population of [[Mollienesia Sphenops]] with its surface ancestor, [[Mollienesia Velifera]], and [[Xiphophorus Helleri]]. The work examines three traits thought to support life in darkness:...
+> -- *[[MorphologicalStudiesOnACaverni_18443]]*
+
+> This 1963 paper by [[Curt Kosswig]] uses cross-breeding experiments to examine the genetic basis of two opposing evolutionary processes. The first is **degenerative evolution**, the loss of eyes and body pigment in cave-dwelling fish, studied in the [[Cavernicolous Fish]] *Anoptichthys* and its...
+> -- *[[GenetischeAnalyseKonstructiver_12391]]*
+
+> This 1967 study by Claus Dieter Zander, published in the *Mitteilungen aus dem Hamburger Zoologischen Museum und Institut*, reports ecological observations from a 1964 Mexican collecting expedition and comparative morphological work on the livebearing genus [[Xiphophorus]] (swordtails and platies)....
+> -- *[[OkologischeUndMorpholodischeBe_20926]]*
+
+> This 1953 monograph by [[Donn Eric Rosen]] and [[Myron Gordon]] (New York Aquarium, New York Zoological Society) examines the functional anatomy of the male intromittent organ, the [[Gonopodium]], in [[Poeciliidae]] (live-bearing fishes). It combines histology, vascular and nerve mapping, muscle...
+> -- *[[FunctionalAnatomyAndEvolutionO_21039]]*
+
 ### Mentioned In
 - [[BeiträgeZurGenetischenAnalyseX_1959]]
+- [[TheGeneticsOfFishDiseases_11040]]
+- [[PhylogenetischeTrendsGenetisch_12389]]
+- [[RegenerationOfTheGonopodiumOfG_13422]]
+- [[JahreGenestischeUntersuchungen_12397]]
+- [[PriapellaOlmecaeSpNANewSpecies_20173]]
+- [[DistributionRecordsOfNativeAnd_16636]]
+- [[MorphologicalStudiesOnACaverni_18443]]
+- [[GenetischeAnalyseKonstructiver_12391]]
+- [[OkologischeUndMorpholodischeBe_20926]]
+- [[FunctionalAnatomyAndEvolutionO_21039]]
 
 ## Xiphophorus Hellerii
 <!-- fm: auto_enriched: true -->
@@ -450,8 +774,28 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > - **Genetic laws of transplantation apply to fish**, with a general one-to-one relationship between H-genes and transplantation antigens, though exceptions occur at weak histoincompatibility barriers. - **Gene dosage effect confirmed:** F₁ hybrid grafts survive significantly longer than parental ...
 > -- *[[GeneticsOfTissueTransplantatio_17874]]*
 
+> This reprinted symposium paper by [[Carl L. Hubbs]] (Scripps Institution of Oceanography) examines why fishes that can interbreed in aquaria so rarely hybridize in nature. Speciation is framed as a fluctuating conflict between forces that unify the gene pool (chiefly interbreeding) and forces that...
+> -- *[[IsolatingMechanismsInTheSpecia_14161]]*
+
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
+- [[IsolatingMechanismsInTheSpecia_14161]]
+- [[GeneAndChromosomeHomologyInFis_17873]]
+
+## Xiphophorus Hybridization
+
+### Summary
+Hybridization between introduced swordtail and platyfish species (Xiphophorus helleri, X. maculatus, X. variatus) and the endemic X. couchianus. At La Peñita near Monterrey, the source describes massive hybridization that threatened one of the endangered endemic's three surviving populations, a clear example of gene swamping.
+
+### Context
+> This book chapter by Salvador Contreras-B. and Marco A. Escalante-C. reviews the introduction, distribution, status and known impacts of nonnative fishes in Mexico. The authors compile **55 exotic fishes**: **26 of foreign origin** and **29 transplants** (fishes moved within Mexico or from a...
+> -- *[[DistributionAndKnownImpactsOfE_17531]]*
+
+### Mentioned In
+- [[DistributionAndKnownImpactsOfE_17531]]
 
 ## Xiphophorus Maculatus
 <!-- fm: auto_enriched: true -->
@@ -463,8 +807,60 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > - **Habitat contexts:** Freshwater poeciliids ([[Xiphophorus maculatus]], [[Xiphophorus couchianus]], [[Poecilia reticulata]], [[Gambusia affinis]]) from Mexican and southern US natural populations; the self-fertilizing hermaphroditic [[Rivulus marmoratus]] from mangrove/coastal habitats; the med...
 > -- *[[GeneticsOfTissueTransplantatio_17874]]*
 
+> This conference paper, presented at the IX International Congress of Genetics (1954) by [[Gordon Myron]] of the Genetics Laboratory of the New York Zoological Society, reviews two opposing genetic mechanisms of sex determination found within the single species [[Xiphophorus Maculatus]] (platyfish)....
+> -- *[[TwoOpposingSexdeterminingMecha_11042]]*
+
+> This review, by [[Myron Gordon]] of the Genetics Laboratory of the New York Zoological Society, argues that hereditary factors play a real and important role in fish diseases and skeletal abnormalities. Most of the evidence comes from long-term breeding experiments on [[Xiphophorus Helleri]]...
+> -- *[[TheGeneticsOfFishDiseases_11040]]*
+
+> This reprinted symposium paper by [[Carl L. Hubbs]] (Scripps Institution of Oceanography) examines why fishes that can interbreed in aquaria so rarely hybridize in nature. Speciation is framed as a fluctuating conflict between forces that unify the gene pool (chiefly interbreeding) and forces that...
+> -- *[[IsolatingMechanismsInTheSpecia_14161]]*
+
+> This 1959 study by Rosen and Kallman, published in the *Quarterly Journal of the Florida Academy of Sciences*, examines why some [[Poeciliidae]] (live-bearing New World cyprinodontiforms) lack part of the skeletal support for their male intromittent organ. Males use a modified anal fin, the...
+> -- *[[DevelopmentAndEvolutionOfSkele_21041]]*
+
+> This review by [[Pamela A. Mac Intyre]] from the [[New York Aquarium]] Genetics Laboratory describes atypical thyroid growths in two poeciliid fishes, *Girardinus falcatus* and *Xiphophorus variatus variatus*, and reviews all known thyroid tumors in teleosts. Thyroid hyperplasia in these fishes was...
+> -- *[[TumorsOfTheThyroidGlandInTeleo_19308]]*
+
+> This 1971 genetic study by Kallman, published in the [[New York Zoological Society]] journal *Zoologica*, examines how four melanophore (pigment) patterns are inherited in the Montezuma swordtail, *Xiphophorus montezumae cortezi*, a freshwater fish endemic to parts of the [[Rio Panuco]] system in...
+> -- *[[InheritanceOfMelanophorePatter_17872]]*
+
+> This source is a scanned excerpt from the journal *Animal Behaviour* (1968, vol. 16). Its main part is N. R. Liley's experimental study of how [[Gonadectomy]] and [[Hypophysectomy]] affect the sexual behaviour of female [[Guppy]] (*[[Poecilia Reticulata]]*). The study asks whether the gonads and...
+> -- *[[TheEndocrineControlOfReproduct_20329]]*
+
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
+> This 1953 monograph by [[Donn Eric Rosen]] and [[Myron Gordon]] (New York Aquarium, New York Zoological Society) examines the functional anatomy of the male intromittent organ, the [[Gonopodium]], in [[Poeciliidae]] (live-bearing fishes). It combines histology, vascular and nerve mapping, muscle...
+> -- *[[FunctionalAnatomyAndEvolutionO_21039]]*
+
+> This 1960 revision by Donn Eric Rosen, published in the [[Bulletin of the Florida State Museum]], reappraises the live-bearing genus [[Xiphophorus]] (platyfishes and swordtails) by combining comparative morphology, distribution, ecology, genetics, cytology, embryology, endocrinology and ethology....
+> -- *[[MiddleamericanPoeciliidFishesO_21043]]*
+
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
+- [[TwoOpposingSexdeterminingMecha_11042]]
+- [[TheGeneticsOfFishDiseases_11040]]
+- [[IsolatingMechanismsInTheSpecia_14161]]
+- [[DevelopmentAndEvolutionOfSkele_21041]]
+- [[TumorsOfTheThyroidGlandInTeleo_19308]]
+- [[InheritanceOfMelanophorePatter_17872]]
+- [[TheEndocrineControlOfReproduct_20329]]
+- [[GeneAndChromosomeHomologyInFis_17873]]
+- [[FunctionalAnatomyAndEvolutionO_21039]]
+- [[MiddleamericanPoeciliidFishesO_21043]]
+
+## Xiphophorus Milleri
+
+### Summary
+Xiphophorus milleri is a small poeciliid fish in the genus Xiphophorus, studied here from Lake Catemaco, Veracruz. The source reports that its spotted ventral pattern (Sv) is strictly paternally inherited, consistent with an XX-XY system and Sv on the Y chromosome. It has three tail-spot patterns (bar, point, single spot) forming a dominant autosomal allelic series, and its sex chromosomes are homologous with those of X. maculatus and X. variatus.
+
+### Context
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
+### Mentioned In
+- [[GeneAndChromosomeHomologyInFis_17873]]
 
 ## Xiphophorus Montezumae
 <!-- fm: auto_enriched: true -->
@@ -479,8 +875,36 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > 3. **Interspecific gonosome homology and functional replacement**: In crosses between *[[Xiphophorus Montezumae]]* (subspecies *cortezi*) and *[[Platypoecilus Xiphidium]]*, both parent species show monofactorial 1:1 sex ratios, and reciprocal F1, backcross (F1R), and F2 generations (>1000 fish to...
 > -- *[[BeiträgeZurGenetischenAnalyseX_1959]]*
 
+> This 1967 study by Claus Dieter Zander, published in the *Mitteilungen aus dem Hamburger Zoologischen Museum und Institut*, reports ecological observations from a 1964 Mexican collecting expedition and comparative morphological work on the livebearing genus [[Xiphophorus]] (swordtails and platies)....
+> -- *[[OkologischeUndMorpholodischeBe_20926]]*
+
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
 ### Mentioned In
 - [[BeiträgeZurGenetischenAnalyseX_1959]]
+- [[OkologischeUndMorpholodischeBe_20926]]
+- [[GeneAndChromosomeHomologyInFis_17873]]
+
+## Xiphophorus Pygmaeus
+
+### Summary
+A small livebearer in the swordtail group (family Poeciliidae). In this source, it is one of the species compared for sword form, showing a different sword type from the other species studied, and it is considered in the author's discussion of whether the male sword is a late acquisition.
+
+### Context
+> This 1963 paper by [[Curt Kosswig]] uses cross-breeding experiments to examine the genetic basis of two opposing evolutionary processes. The first is **degenerative evolution**, the loss of eyes and body pigment in cave-dwelling fish, studied in the [[Cavernicolous Fish]] *Anoptichthys* and its...
+> -- *[[GenetischeAnalyseKonstructiver_12391]]*
+
+> This 1967 study by Claus Dieter Zander, published in the *Mitteilungen aus dem Hamburger Zoologischen Museum und Institut*, reports ecological observations from a 1964 Mexican collecting expedition and comparative morphological work on the livebearing genus [[Xiphophorus]] (swordtails and platies)....
+> -- *[[OkologischeUndMorpholodischeBe_20926]]*
+
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
+### Mentioned In
+- [[GenetischeAnalyseKonstructiver_12391]]
+- [[OkologischeUndMorpholodischeBe_20926]]
+- [[GeneAndChromosomeHomologyInFis_17873]]
 
 ## Xiphophorus Variatus
 <!-- fm: auto_enriched: true -->
@@ -489,8 +913,72 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > - **Habitat types:** - *Rio Guayalejo* (main channel pools near highway crossings): slow current, mud-gravel bottom, abundant aquatic vegetation. - *Canals near Ciudad Mante*: clear water, relatively slow currents, mud banks with sand-gravel centers, depths of 2–4 ft, widths of 1–15 ft (mostly ~4...
 > -- *[[NotesOnThePoecilidFishesPoecil_15874]]*
 
+> This taxonomic paper, written in German with an English abstract, describes **[[Xiphophorus Andersi]]**, a new poeciliid species from the [[Rio Atoyac]] in [[Vera Cruz]], Mexico. The species is distinguished by a large head, a moderately slender body, a large dark spot at the base of the anal fin,...
+> -- *[[EineNeueXiphorphorusartAusVera_20175]]*
+
+> This 1983 taxonomic paper by Manfred K. Meyer (Staatliches Museum für Tierkunde Dresden, Zoologische Abhandlungen, Bd. 38, Nr. 18) documents three natural hybrid populations of [[Xiphophorus]] (Poeciliidae) from northern Mexico. It also revises two previously described taxa, *X. kosszanderi* and...
+> -- *[[XiphorphorushybridenAusNordmex_20176]]*
+
+> This 1962 faunal and zoogeographic paper, by [[Reeve M. Darnell]] of Marquette University, reports fishes from the [[Rio Tamesi]] tributary system and the [[Laguna de Chairel]] near Tampico, Mexico. Based on 11,043 specimens from 66 collections (1950–53), plus literature records, the author...
+> -- *[[FishesOfTheRioTamesiAndRelated_13945]]*
+
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
 ### Mentioned In
 - [[NotesOnThePoecilidFishesPoecil_15874]]
+- [[EineNeueXiphorphorusartAusVera_20175]]
+- [[XiphorphorushybridenAusNordmex_20176]]
+- [[FishesOfTheRioTamesiAndRelated_13945]]
+- [[GeneAndChromosomeHomologyInFis_17873]]
+
+## Xiphophorus Xiphidium
+
+### Summary
+Xiphophorus xiphidium is a small poeciliid fish of northeastern Mexico. In this source it is one of the parent species of the X. variatus × X. xiphidium hybrid population from El Limón and Río Purificación in Tamaulipas. Before this study the two species were considered geographically isolated, and they began interbreeding in the wild once that isolation was removed.
+
+### Context
+> This 1983 taxonomic paper by Manfred K. Meyer (Staatliches Museum für Tierkunde Dresden, Zoologische Abhandlungen, Bd. 38, Nr. 18) documents three natural hybrid populations of [[Xiphophorus]] (Poeciliidae) from northern Mexico. It also revises two previously described taxa, *X. kosszanderi* and...
+> -- *[[XiphorphorushybridenAusNordmex_20176]]*
+
+### Mentioned In
+- [[XiphorphorushybridenAusNordmex_20176]]
+
+## Xitle Volcano
+
+### Summary
+Xitle is a young volcano in the Chichinautzin Range and the most recent activity in that field. The source cites it as a potential threat to the Basin of Mexico area, but does not identify it as the source of any tephra layer in the study.
+
+### Context
+> This paper geochemically characterizes tephra (volcanic ash and pumice) layers preserved in lake sediments of the [[Chalco Sub-Basin]] and [[Texcoco Sub-Basin]], in the southern [[Basin of Mexico]]. The authors use glass-shard electron microprobe analysis, petrography and [[Radiocarbon Dating]] to...
+> -- *[[GeochemicalCharacterizationOfL_17814]]*
+
+### Mentioned In
+- [[GeochemicalCharacterizationOfL_17814]]
+
+## Xochimilco
+
+### Summary
+A historic lake in the Valley of Mexico, now largely a drained and polluted wetland, used here as one of four case-study lakes. The source reports that it historically held 6 native species, that drainage and pollution drove the loss of two Evarra species, and that it scored 15 out of 100 on the preliminary IBI, indicating extreme degradation.
+
+### Context
+> This study proposes a preliminary fish-based [[Index of Biotic Integrity]] (IBI) for the lakes of central Mexico, a region whose lakes are of high cultural, economic and biological value but are degrading at an accelerating rate. The index was built from historical fish data for 19 lakes and tested...
+> -- *[[DevelopmentOfAPreliminaryIndex_16288]]*
+
+### Mentioned In
+- [[DevelopmentOfAPreliminaryIndex_16288]]
+
+## Xochimilco Sub-Basin
+
+### Summary
+The Xochimilco Sub-Basin is a lake sub-basin of the Basin of Mexico, located south of the Texcoco sub-basin and separated from Chalco by the Santa Catarina Range. The source mentions it only as part of the Quaternary lake system and does not report tephra data from it.
+
+### Context
+> This paper geochemically characterizes tephra (volcanic ash and pumice) layers preserved in lake sediments of the [[Chalco Sub-Basin]] and [[Texcoco Sub-Basin]], in the southern [[Basin of Mexico]]. The authors use glass-shard electron microprobe analysis, petrography and [[Radiocarbon Dating]] to...
+> -- *[[GeochemicalCharacterizationOfL_17814]]*
+
+### Mentioned In
+- [[GeochemicalCharacterizationOfL_17814]]
 
 ## XSA
 
@@ -523,12 +1011,16 @@ Xyrauchen is a genus of suckers in the family Catostomidae, most notably represe
 > - Description of new species **[[Catostomus Gila]]** Kirsch, based on morphometric distinctions from *C. ardens* (body compression, fin proportions, caudal peduncle shape). - Erection of new genus **[[Xyrauchen]]** Eigenmann & Kirsch to house *Xyrauchen cypho* (originally *Catostomus cypho* Locki...
 > -- *[[NotesOnACollectionOfFishesObta_1889]]*
 
+> This paper, presented in the San Bernardino County Museum Association Special Publication 93-1 for the 1993 Desert Research Symposium, reports the first documented fossil records of the genus [[Xyrauchen]] (razorback sucker) in the [[Anza-Borrego Desert State Park]] region of southern California....
+> -- *[[RazorbackSuckerXyrauchenFossil_14836]]*
+
 ### Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[ErrataForBibliographyOfTheFami_1991]]
 - [[NotesOnACollectionOfFishesObta_1889]]
 - [[ObservationsOnTheDistributionO_1961]]
 - [[ReRazorbackSuckerFossilFromCal_1997_05_23]]
+- [[RazorbackSuckerXyrauchenFossil_14836]]
 
 ## Xyrauchen cypha
 
@@ -667,6 +1159,12 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This 1975 letter from [[James E. Deacon]], Professor of Biology at the [[University Of Nevada Las Vegas]], replies to [[Clark Hubbs]] of the University of Texas. It supports Hubbs' proposal for a coordinated refugium program for rare Nevada fishes. The letter lists refugia already in development or...
 > -- *[[ReRefugiumIdeaAndSpeciesWhichS_13998]]*
 
+> This paper, presented in the San Bernardino County Museum Association Special Publication 93-1 for the 1993 Desert Research Symposium, reports the first documented fossil records of the genus [[Xyrauchen]] (razorback sucker) in the [[Anza-Borrego Desert State Park]] region of southern California....
+> -- *[[RazorbackSuckerXyrauchenFossil_14836]]*
+
+> This Associated Press article from Kingman, Arizona, reports that the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) is in serious decline across the American Southwest. Conservationists working to restore the species are reluctant to have it federally listed as endangered, because they fear...
+> -- *[[ItsAnUphillBattleForRazorbackS_18272]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -740,12 +1238,26 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[EarlyDevelopmentAdultSexualDim_17842]]
 - [[TheEffectOfFoodAvailabilityOnG_18413]]
 - [[ReRefugiumIdeaAndSpeciesWhichS_13998]]
+- [[RazorbackSuckerXyrauchenFossil_14836]]
+- [[ItsAnUphillBattleForRazorbackS_18272]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[CaptureDispositionAndStatusOfA_1975_05_01]]
+
+## Xystreurys Liolepis
+
+### Summary
+Xystreurys liolepis is a flatfish in which reversal of sides was found in this study, with 9 sinistral and 18 dextral individuals. It is cited as one of several Pacific species showing some reversal of normal laterality.
+
+### Context
+> This monograph by [[Carl L. Hubbs]] and Laura C. Hubbs examines left-right differences in paired and median structures of fishes. Its main focus is the flatfishes (order Heterosomata), the most asymmetric vertebrates, but it also surveys essentially symmetrical fishes such as [[Leptocottus...
+> -- *[[BilateralAsymmetryAndBilateral_14309]]*
+
+### Mentioned In
+- [[BilateralAsymmetryAndBilateral_14309]]
 
 ## Xystrosus
 

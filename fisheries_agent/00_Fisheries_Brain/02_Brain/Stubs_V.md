@@ -50,6 +50,30 @@ Cited (1952) as the source that places Kennicott's whitefish in the Mackenzie an
 ### Mentioned In
 - [[CommentsOnTheClassificationAnd_1980]]
 
+## V. E. Shelford
+
+### Summary
+V. E. Shelford was an American ecologist who served as first president of the Ecological Society of America, organized in 1915. The source credits him, with Allee, with a 1913 paper on fish reactions to dissolved gases, an early work in his response-ecology series.
+
+### Context
+> This occasional paper by [[Richard Brewer]] (Department of Biology, [[Western Michigan University]]) is the first part of a chronological survey of the development of [[Ecology]] from antiquity to 1919. It was published on November 22, 1960, as Number 1 of the *Occasional Papers of the [[C. C....
+> -- *[[ABriefHistoryOfEcologyPartIPre_12931]]*
+
+### Mentioned In
+- [[ABriefHistoryOfEcologyPartIPre_12931]]
+
+## V. Gravenor
+
+### Summary
+V. Gravenor is one of the editors of *Quaternary Glaciations in the Northern Hemisphere*, along with D. Q. Bowen and G. M. Richmond. The source notes that the surname is uncertain due to OCR quality.
+
+### Context
+> This *Science* book-review section (vol. 236, 19 June 1987) contains three items: a review of a limnology book on Australia's inland waters by [[Sally MacIntyre]], a review of *Quaternary Glaciations in the Northern Hemisphere* by [[H. E. Wright]], and a "Books Received" list. The document has no...
+> -- *[[NorthernGlacialChronology_20847]]*
+
+### Mentioned In
+- [[NorthernGlacialChronology_20847]]
+
 ## V. Legendre
 
 ### Summary
@@ -74,6 +98,54 @@ V9 coded acoustic tags are acoustic transmitters operating at 69 kHz frequency t
 ### Mentioned In
 - [[ChasingNorthernPikeUnderIceLon_2021]]
 
+## Vaal Barrage
+
+### Summary
+An impoundment on the Vaal River acting as a silt trap. Downstream, fauna were more stable and resembled the Stable Depositing Zone.
+
+### Context
+> This journal article by F. M. Chutter, from the [[Limnological Research Group]] at the National Institute for Water Research (Grahamstown, South Africa), examines how [[Silt and Sand]] alter the invertebrate fauna of streams and rivers. Most earlier work dealt with complete smothering of habitats....
+> -- *[[TheEffectsOfSiltAndSandOnTheIn_16158]]*
+
+### Mentioned In
+- [[TheEffectsOfSiltAndSandOnTheIn_16158]]
+
+## Vaal Dam
+
+### Summary
+A large impoundment in South Africa on the Vaal River system. In this study it is part of the catchment examined, and it acts as a silt trap that lets water downstream carry less sediment.
+
+### Context
+> This journal article by F. M. Chutter, from the [[Limnological Research Group]] at the National Institute for Water Research (Grahamstown, South Africa), examines how [[Silt and Sand]] alter the invertebrate fauna of streams and rivers. Most earlier work dealt with complete smothering of habitats....
+> -- *[[TheEffectsOfSiltAndSandOnTheIn_16158]]*
+
+### Mentioned In
+- [[TheEffectsOfSiltAndSandOnTheIn_16158]]
+
+## Vaal Hartz Diversion Weir
+
+### Summary
+An impoundment on the Vaal River acting as a silt trap. Downstream from it, Neurocaenis was most common at the station with the most silt and sand.
+
+### Context
+> This journal article by F. M. Chutter, from the [[Limnological Research Group]] at the National Institute for Water Research (Grahamstown, South Africa), examines how [[Silt and Sand]] alter the invertebrate fauna of streams and rivers. Most earlier work dealt with complete smothering of habitats....
+> -- *[[TheEffectsOfSiltAndSandOnTheIn_16158]]*
+
+### Mentioned In
+- [[TheEffectsOfSiltAndSandOnTheIn_16158]]
+
+## Vaal River
+
+### Summary
+A major river system in South Africa that drains into the Vaal Dam. Chutter's field study sampled its catchment and zones to test how silt and sand affect invertebrate fauna.
+
+### Context
+> This journal article by F. M. Chutter, from the [[Limnological Research Group]] at the National Institute for Water Research (Grahamstown, South Africa), examines how [[Silt and Sand]] alter the invertebrate fauna of streams and rivers. Most earlier work dealt with complete smothering of habitats....
+> -- *[[TheEffectsOfSiltAndSandOnTheIn_16158]]*
+
+### Mentioned In
+- [[TheEffectsOfSiltAndSandOnTheIn_16158]]
+
 ## Vaca Hills
 
 ### Summary
@@ -86,6 +158,118 @@ A area of volcanic rocks about 50 km south of Picacho Peak, used as a regional c
 ### Mentioned In
 - [[RadiometricAndChemicalDataForT_17317]]
 
+## Vadim Vladykov
+
+### Summary
+Vadim Vladykov was a fisheries scientist who worked on Caspian Sea fisheries in Iran and supervised the author's graduate study of those specimens. The species name vladykovi honours him.
+
+### Context
+> This paper by [[Brian W. Coad]] describes *Aphanius vladykovi*, a new species of [[Tooth-Carp]] (Cyprinodontidae) from the upper reaches of the [[Karun River]] basin in the [[Zagros Mountains]] of Iran. The species is separated from its closest relative, [[Aphanius sophiae]], by a higher count of...
+> -- *[[AphaniusVladykoviANewSpeciesOf_15969]]*
+
+### Mentioned In
+- [[AphaniusVladykoviANewSpeciesOf_15969]]
+
+## Vaejovis
+
+### Summary
+A large and diverse genus of scorpions in the family Vaejovidae. According to the source, it was once much larger, and some species formerly grouped with it were transferred to Serradigitus; the authors also argue that some Vaejovis species independently evolved a Serradigitus-type terminal denticle.
+
+### Context
+> Williams and Berke (1986) in the *[[Pan-Pacific Entomologist]]* revise and resurrect the scorpion genus *[[Serradigitus]]* Stahnke, 1974, which had been placed in synonymy with *[[Vaejovis]]* in 1980. They redefine the genus with diagnostic characters, transfer a set of *Vaejovis* species into it,...
+> -- *[[ANewSpeciesOfSerradigitusFromC_12067]]*
+
+> This monograph by Stanley C. Williams (Occasional Papers of the [[California Academy of Sciences]], No. 135, 1980) revises the scorpion fauna of the [[Baja California Peninsula]] and its associated islands. The fauna comprises 61 species, 12 subspecies, 11 genera and 4 families, based on roughly...
+> -- *[[ScorpionsOfBajaCaliforniaMexic_12060]]*
+
+### Mentioned In
+- [[ANewSpeciesOfSerradigitusFromC_12067]]
+- [[ScorpionsOfBajaCaliforniaMexic_12060]]
+
+## Vaejovis Chamelaensis
+
+### Summary
+A small scorpion species from the family Vaejovidae, described as new by Williams (1986) from the Estacion de Biologia Chamela in Jalisco, Mexico. Mature males reach at most 14.5 mm total length, and it is distinguished by its golden-yellow body, black carapace markings, five-subrow primary denticles, and a distinct subaculear tooth. It is known only from the type locality.
+
+### Context
+> This taxonomic paper, published in the *Pan-Pacific Entomologist* (vol. 62, no. 4, 1986, pp. 355–358) by Stanley C. Williams, describes and names [[Vaejovis Chamelaensis]], a new scorpion species from the [[Estacion de Biologia Chamela]] in [[Jalisco]], Mexico. The species is placed in the...
+> -- *[[ANewSpeciesOfVaejovisFromJalis_12061]]*
+
+### Mentioned In
+- [[ANewSpeciesOfVaejovisFromJalis_12061]]
+
+## Vaejovis gertschi
+
+### Summary
+A scorpion that forms single-species communities in extreme environments. The source reports surfacing at about 4 °C and feeding gains of 9.6–16.5% of body weight, with return to pre-feeding weight in about 13 days.
+
+### Context
+> This 1987 review by S.C. Williams of [[San Francisco State University]] summarizes recent research on the biology of scorpions (order Scorpiones), covering systematics, life history, reproduction, feeding, habitat use, activity cycles and predation. The document describes scorpions as an ancient...
+> -- *[[ScorpionBionomics_12063]]*
+
+### Mentioned In
+- [[ScorpionBionomics_12063]]
+
+## Vaejovis Increpidus Increpidus
+
+### Summary
+A subspecies of Vaejovis increpidus recorded in smaller numbers during the 1985 survey at the Chamela station. It was one of the species found together with the newly described Vaejovis chamelaensis.
+
+### Context
+> This taxonomic paper, published in the *Pan-Pacific Entomologist* (vol. 62, no. 4, 1986, pp. 355–358) by Stanley C. Williams, describes and names [[Vaejovis Chamelaensis]], a new scorpion species from the [[Estacion de Biologia Chamela]] in [[Jalisco]], Mexico. The species is placed in the...
+> -- *[[ANewSpeciesOfVaejovisFromJalis_12061]]*
+
+### Mentioned In
+- [[ANewSpeciesOfVaejovisFromJalis_12061]]
+
+## Vaejovis Minutis
+
+### Summary
+A small Vaejovis species that the source names as the only possible rival to V. chamelaensis for the title of smallest member of the genus. Its adults occasionally reach about 14 mm, which is close to the size of the new species.
+
+### Context
+> This taxonomic paper, published in the *Pan-Pacific Entomologist* (vol. 62, no. 4, 1986, pp. 355–358) by Stanley C. Williams, describes and names [[Vaejovis Chamelaensis]], a new scorpion species from the [[Estacion de Biologia Chamela]] in [[Jalisco]], Mexico. The species is placed in the...
+> -- *[[ANewSpeciesOfVaejovisFromJalis_12061]]*
+
+### Mentioned In
+- [[ANewSpeciesOfVaejovisFromJalis_12061]]
+
+## Vaejovis Puritanus
+
+### Summary
+A Vaejovis species that the source considers a close relative of V. chamelaensis, because both share a five-subrow denticle pattern on the fixed finger. The new species differs from it in its much smaller body size, in having five rather than six subrows on the movable finger, and in possessing the subaculear tooth.
+
+### Context
+> This taxonomic paper, published in the *Pan-Pacific Entomologist* (vol. 62, no. 4, 1986, pp. 355–358) by Stanley C. Williams, describes and names [[Vaejovis Chamelaensis]], a new scorpion species from the [[Estacion de Biologia Chamela]] in [[Jalisco]], Mexico. The species is placed in the...
+> -- *[[ANewSpeciesOfVaejovisFromJalis_12061]]*
+
+### Mentioned In
+- [[ANewSpeciesOfVaejovisFromJalis_12061]]
+
+## Vaejovis Subcristatus Occidentalis
+
+### Summary
+A subspecies of Vaejovis subcristatus recorded in smaller numbers during Williams's 1985 survey at Chamela. It occurred sympatrically with Vaejovis chamelaensis, which was initially mistaken for juveniles of this and other species because of its small adult size.
+
+### Context
+> This taxonomic paper, published in the *Pan-Pacific Entomologist* (vol. 62, no. 4, 1986, pp. 355–358) by Stanley C. Williams, describes and names [[Vaejovis Chamelaensis]], a new scorpion species from the [[Estacion de Biologia Chamela]] in [[Jalisco]], Mexico. The species is placed in the...
+> -- *[[ANewSpeciesOfVaejovisFromJalis_12061]]*
+
+### Mentioned In
+- [[ANewSpeciesOfVaejovisFromJalis_12061]]
+
+## Vaejovis Viscainensis
+
+### Summary
+A Vaejovis species that the source identifies as related to V. chamelaensis through the shared five-subrow fixed-finger denticle pattern. The new species differs from it by its smaller size, five rather than six movable-finger subrows, and the presence of the subaculear tooth.
+
+### Context
+> This taxonomic paper, published in the *Pan-Pacific Entomologist* (vol. 62, no. 4, 1986, pp. 355–358) by Stanley C. Williams, describes and names [[Vaejovis Chamelaensis]], a new scorpion species from the [[Estacion de Biologia Chamela]] in [[Jalisco]], Mexico. The species is placed in the...
+> -- *[[ANewSpeciesOfVaejovisFromJalis_12061]]*
+
+### Mentioned In
+- [[ANewSpeciesOfVaejovisFromJalis_12061]]
+
 ## Vagal Lobe
 
 ### Summary
@@ -95,8 +279,28 @@ The vagal lobe is a part of the fish brain associated with taste and gustatory i
 > This document is a fragment of the *New York Fish and Game Journal* (Vol. 7, No. 1, January 1960) and contains three parts: a partial literature-cited list on waterfowl, a study of feeding and flavor perception in aquarium [[Common Carp]] by [[Howard A. Loeb]], and the opening of a study by...
 > -- *[[ReactionsOfAquariumToFoodAndFl_16185]]*
 
+> This doctoral dissertation (Oklahoma State University, 1966, by Billy Joe Davis) compares brain morphology, cutaneous and internal taste bud distribution, and habitat preferences across 21 nominal species of the North American cyprinid genus [[Hybopsis]]. Using 394 specimens, the study uses brain...
+> -- *[[BrainPatternsInFishesOfTheGenu_13962]]*
+
 ### Mentioned In
 - [[ReactionsOfAquariumToFoodAndFl_16185]]
+- [[BrainPatternsInFishesOfTheGenu_13962]]
+
+## Vagus Nerve
+
+### Summary
+The vagus nerve (cranial nerve X) supplies lateral-line neuromasts in fishes. In the Rio Grande perch, a long lateralis branch of the vagus runs in the horizontal septum and supplies the trunk neuromasts, with short twigs in the caudal peduncle.
+
+### Context
+> This study describes the cephalic and trunk lateral-line system of the [[Rio Grande Perch]], *Cichlasoma cyanoguttatum*, the only member of the [[Cichlidae]] known to occur naturally in the continental United States. Branson (1961) combines external morphology, osteology, histology, and...
+> -- *[[TheLaterallineSystemInTheRioGr_12897]]*
+
+> This 1957 morphological study by H. R. Srinivasachar describes the fully formed [[Chondrocranium]] (embryonic cartilaginous skull) of two catfishes of the family [[Bagridae]]: [[Mystus Vittatus]] (20 mm stage) and [[Rita]] sp. (12 mm stage). It is the second part of a series, following a study of...
+> -- *[[DevelopmentOfTheSkullOfCatfish_14691]]*
+
+### Mentioned In
+- [[TheLaterallineSystemInTheRioGr_12897]]
+- [[DevelopmentOfTheSkullOfCatfish_14691]]
 
 ## Vail Lake
 
@@ -119,8 +323,12 @@ A researcher whose 1897 work is cited among the earlier surveys of Panama's fres
 > This classic zoogeographic paper by [[Carl H. Eigenmann]] (Indiana University Studies, Contribution No. 175) analyses the freshwater fishes of eastern and southern Panama, the region east of the 80° W meridian that includes the [[Chagres River]] and [[Panama Canal]] basin, the [[Chepo River]]...
 > -- *[[TheFreshwaterFishesOfPanamaEas_15803]]*
 
+> This 1986 study by [[Rainbroth Walter]] (Rainboth), [[Donald Buth]] and [[Gerard Joswiak]] characterizes the karyotype and allozyme (isozyme) profile of the freshwater cypriniform fish [[Gyrinocheilus Aymonieri]], a member of the family [[Gyrinocheilidae]]. The authors confirm a diploid chromosome...
+> -- *[[ElectrophoreticAndKaryological_16729]]*
+
 ### Mentioned In
 - [[TheFreshwaterFishesOfPanamaEas_15803]]
+- [[ElectrophoreticAndKaryological_16729]]
 
 ## Vaillantia
 <!-- fm: auto_enriched: true -->
@@ -135,8 +343,12 @@ A researcher whose 1897 work is cited among the earlier surveys of Panama's fres
 > Not directly addressed — the source is a taxonomic/nomenclatural commentary rather than an ecological study. Taxa mentioned span deep-sea fishes (e.g., *[[Bathylagus]]*, *[[Conocara]]*, Nettastomidae eels, *[[Metopomycter]]*), reef and shore fishes (Gobiidae genera *[[Kelloggella]]*, *[[Vaimosa]]...
 > -- *[[CommentsOnTheProposedRejection_14473]]*
 
+> This 1977 taxonomic paper by H. M. Kok and S. J. M. Blaber, published in *Zoologica Africana*, describes [[Mugilogobius Pongolensis]] sp. n., a freshwater goby from the [[Pongolo Floodplain]] in northern Zululand. It is the first record of the genus [[Mugilogobius]] from southern and eastern...
+> -- *[[ANewFreshwaterGobyTeleosteiGob_12611]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
+- [[ANewFreshwaterGobyTeleosteiGob_12611]]
 
 ## Vairimorpha
 
@@ -161,6 +373,30 @@ Val Verde County is a county in Texas, USA, that was home to Goodenough Spring, 
 
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11567]]
+
+## Valders Glaciation
+
+### Summary
+The last major glacial advance of the Wisconsin glaciation in North America, roughly 11,000 to 14,000 years ago. In this source, an undated pollen spectrum (G5) is placed with this glaciation by inference.
+
+### Context
+> Sears and Roosma reconstruct a climatic sequence for roughly the last 15,000 years from pollen preserved in floor sediments of two granite caves, [[Guano Cave]] and [[Fishbone Cave]], in Pershing County, Nevada. The caves were cut by [[Pluvial Lake Lahontan]] and were occupied by people and animals...
+> -- *[[AClimaticSequenceFromTwoNevada_11349]]*
+
+### Mentioned In
+- [[AClimaticSequenceFromTwoNevada_11349]]
+
+## Valders Readvance
+
+### Summary
+A late-glacial advance of the ice sheet. The source uses Valders-age pollen diagrams to infer boreal forest in southern New England and mixed hardwoods and conifers in the southern Appalachians, and tundra in northern New England.
+
+### Context
+> This scanned journal article, attributed to [[Paul S. Martin]] and titled in its running heads "Pleistocene Ecology and Biogeography," reviews palynological, fossil, and radiocarbon evidence for late Pleistocene vegetation and fauna in North America, Mexico, Central and South America, and the West...
+> -- *[[PleistoceneEcologyAndBiogeogra_17064]]*
+
+### Mentioned In
+- [[PleistoceneEcologyAndBiogeogra_17064]]
 
 ## Valdez 1990
 
@@ -205,6 +441,18 @@ Valdez and Nilson (1982) produced earlier habitat curves for the Colorado River 
 
 ### Mentioned In
 - [[HabitatSuitabilityIndexCurvesF_13643]]
+
+## Valdez and Ryel
+
+### Summary
+Valdez and Ryel (1995) are cited in the source as proposing that the grouped distribution of humpback chub aggregations results from a unique combination of temperature, physical habitat parameters, and life-history requirements. The source notes that their data from the Upper Colorado River Basin, Grand Canyon mainstem, and Little Colorado River had not yet been integrated.
+
+### Context
+> This progress report by [[Vicky J. Meretsky]] (U.S. Fish and Wildlife Service) and [[Theodore S. Melis]] (U.S. Geological Survey) describes efforts to integrate physical and biological research on the Lower Colorado River below [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. It traces the...
+> -- *[[IntegrationOfGrandCanyonPhysic_20124]]*
+
+### Mentioned In
+- [[IntegrationOfGrandCanyonPhysic_20124]]
 
 ## Valdez And Ryel 1997
 <!-- fm: auto_enriched: true -->
@@ -274,6 +522,30 @@ An earlier study reviewed in this source, done for the Colorado River Fishery Pr
 ### Mentioned In
 - [[VariousProposalsForStudiesOfEn_1993_12_17]]
 
+## Valdina Farms Sinkhole
+
+### Summary
+Valdina Farms Sinkhole is a Texas sinkhole in which Eurycea troglodytes was recorded. It is one of the sites listed in the checklist.
+
+### Context
+> This Texas Water Resources Center special report (WRC 69-6, August 1969), by [[James R. Reddell]] and [[Robert W. Mitchell]] of Texas Tech University, is a guide to the biology of the state's subterranean waters. It has two parts. Part I is a species checklist of every aquatic animal taken from...
+> -- *[[AChecklistAndAnnotatedBibliogr_16788]]*
+
+### Mentioned In
+- [[AChecklistAndAnnotatedBibliogr_16788]]
+
+## Valdivia
+
+### Summary
+Valdivia is a city in southern Chile. The source reports that the 1960 earthquake destroyed or seriously damaged 60 percent of its buildings, and that earthquakes partly destroyed the city in 1575, 1737, 1837, and 1907.
+
+### Context
+> This article examines why [[Southern Beech]] trees (genus [[Nothofagus]]) are common as very large adults and as seedlings but rare at intermediate sizes in mature forests of the Chilean [[Lake District]]. The author's research, carried out over about a decade, argues that the beeches depend on...
+> -- *[[TreesOfTheTremblingEarth_13114]]*
+
+### Mentioned In
+- [[TreesOfTheTremblingEarth_13114]]
+
 ## Valdivia devillei
 
 ### Summary
@@ -341,8 +613,12 @@ A monotypic genus, with the single species *V. hispanica*, forming Group IV (val
 > This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
 > -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
 
+> This MedWet publication (number 7, Tour du Valat, 1996) by [[Peter Maitland]] and [[Alain Crivelli]] reviews the biology, diversity, threats and conservation options for freshwater fish of the north Mediterranean region. It argues that freshwater fish are among the most threatened vertebrates, that...
+> -- *[[ConservationOfFreshwaterFish_19360]]*
+
 ### Mentioned In
 - [[OsteologyAndPhylogenyOfOviparo_11369]]
+- [[ConservationOfFreshwaterFish_19360]]
 
 ## Valencia Et Al 1993
 <!-- fm: auto_enriched: true -->
@@ -372,6 +648,18 @@ Valencia Toothcarp (Valencia hispanica) is an endangered endemic species from th
 ### Mentioned In
 - [[TheInteractionBetweenTheIntrod_14981]]
 
+## Valenciennes
+
+### Summary
+Valenciennes was a French zoologist who co-authored, with Cuvier, a 22-volume fish work with 650 coloured plates. Whitley cites this as one of the 19th-century foundations for the taxonomy of fishes, including Australian species.
+
+### Context
+> This is the 1964 Presidential Address to the [[Linnean Society of New South Wales]] by G. P. Whitley, a long-serving ichthyologist at the [[Australian Museum]]. It surveys about three and a half centuries of documented knowledge of Australian fishes, from Aboriginal rock art and early European...
+> -- *[[PresidentialAddressASurveyOfAu_12231]]*
+
+### Mentioned In
+- [[PresidentialAddressASurveyOfAu_12231]]
+
 ## Valenciidae
 <!-- fm: auto_enriched: true -->
 
@@ -382,6 +670,30 @@ Valencia Toothcarp (Valencia hispanica) is an endangered endemic species from th
 ### Mentioned In
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 
+## Valentine (1961)
+
+### Summary
+A study of molluscan assemblages from the Timms Point silt that inferred the deposit formed at about 25 to 100 fathoms in waters cooler than today. Fitch cites this depth estimate and finds that his fish evidence agrees with it.
+
+### Context
+> This 1968 study by [[John E. Fitch]], published in the [[Los Angeles County Museum of Natural History]] *Contributions in Science* (No. 146), identifies fish remains recovered from the [[Timms Point Silt]] exposed near San Pedro, California. Over 1,000 pounds of fossiliferous matrix yielded 2,601...
+> -- *[[OtolithsAndOtherFishRemainsFro_16432]]*
+
+### Mentioned In
+- [[OtolithsAndOtherFishRemainsFro_16432]]
+
+## Valentine 1961
+
+### Summary
+A source the paper cites for the depositional setting: a quiet-water embayment about 10 to 12 fathoms deep, with fine-grained silty sand.
+
+### Context
+> This Los Angeles County Museum of Natural History contribution (No. 119, December 31, 1966) by [[John E. Fitch]] reports a resampling of the [[Playa del Rey Pleistocene Deposit]]. A 200-pound field sample of washed fossiliferous screenings was examined under a binocular microscope at six...
+> -- *[[AdditionalFishRemainsMostlyOto_16430]]*
+
+### Mentioned In
+- [[AdditionalFishRemainsMostlyOto_16430]]
+
 ## Valentine Fao
 <!-- fm: auto_enriched: true -->
 
@@ -391,6 +703,18 @@ Valencia Toothcarp (Valencia hispanica) is an endangered endemic species from th
 
 ### Mentioned In
 - [[StationProfileOfTheFortMorganF_1993_12_30]]
+
+## Valentyn
+
+### Summary
+A early observer who, in 1726, recorded goldfish in the Governor's house at the Cape. The source cites him as noting the first recorded alien aquatic animal in the region.
+
+### Context
+> This 1985 report, compiled by M N Bruton and S V Merron of the [[J L B Smith Institute of Ichthyology]] for the [[Committee for Nature Conservation Research]] under the [[National Programme for Ecosystem Research]], provides a general introduction, a checklist and an annotated bibliography of alien...
+> -- *[[AlienAndTranslocatedAquaticAni_13858]]*
+
+### Mentioned In
+- [[AlienAndTranslocatedAquaticAni_13858]]
 
 ## Valeria Souza
 
@@ -426,6 +750,18 @@ Validation methods are the procedures used to confirm that annual growth marks c
 ### Mentioned In
 - [[AgeDeterminationMethodsForFish_16137]]
 
+## Valisneria Spiralis
+
+### Summary
+A submerged aquatic plant (eelgrass-type macrophyte) that was the commonest macrophyte in Lake Merrimajeel and at times covered most of the swamp. The study links a large Valisneria development in early 1979 to increases in several Brachionus species and to chydorid peaks matching weed-bed growth.
+
+### Context
+> This study followed the zooplankton of [[Lake Merrimajeel]], a shallow, impermanent swamp in the [[Murray-Darling Basin]] of western New South Wales, from February 1977 to January 1980. Sampling covered a total drawdown (complete drying) and subsequent refilling. Despite erratic changes in water...
+> -- *[[PlanktonCommunityCyclingAndRec_18018]]*
+
+### Mentioned In
+- [[PlanktonCommunityCyclingAndRec_18018]]
+
 ## Valle de Cuatrociénegas
 
 ### Summary
@@ -438,6 +774,42 @@ Valle de Cuatrociénegas is an arid valley in central Coahuila, México, charact
 ### Mentioned In
 - [[ProgramaDeAccionEmergenteParaE_19472]]
 
+## Valle De Victoria
+
+### Summary
+The valley that the authors describe as having once been flooded by a former lake, of which the Laguna de Victoria is considered a remnant. The source gives no further detail about the valley itself.
+
+### Context
+> This 1965 taxonomic description, published in *Ciencia* (Mexico) by A. Solórzano and Y. López of the [[Instituto Nacional De Investigaciones Biologico Pesqueras]], introduces [[Chirostoma Riojai]] as a new species of [[Atherinidae]] (silversides). The fish was collected in 1963 from the [[Laguna De...
+> -- *[[NuevaEspecieDeChirostomaCaptur_11785]]*
+
+### Mentioned In
+- [[NuevaEspecieDeChirostomaCaptur_11785]]
+
+## Valle Oceánico del Este
+
+### Summary
+The Valle Oceánico del Este is a submarine valley in the eastern part of the Mar de Solís, floored by muds according to the source. The author contrasts it with the Seno Oceánico de Samborombón, separated from it by the Banco Inglés and Banco Rouen.
+
+### Context
+> This Spanish-language monograph, the first part of a series by [[Fernando de Buen]] on the [[Mar de Solís]] and its fish fauna, treats the [[Río de la Plata]] as a declining intracontinental sea. It reconstructs the basin's geological history from the Cenozoic onward, describes its present...
+> -- *[[ElMarDeSolisYSuFaunaDePeces_12744]]*
+
+### Mentioned In
+- [[ElMarDeSolisYSuFaunaDePeces_12744]]
+
+## Valle San Marcos
+
+### Summary
+A valley in central Coahuila where the San Marcos fault is exposed. The source says it holds nearly 3,000 m of fault-proximal Jurassic and Cretaceous detritus and gives the type area for the San Marcos Formation, about 1,000 m thick there.
+
+### Context
+> McKee, Jones, and Long (Department of Geological Sciences, University of Texas at Austin, with Jones also affiliated with the University of Wisconsin-Oshkosh) use stratigraphy, petrology, geochemistry, and Rb-Sr geochronology to reconstruct the history of the [[San Marcos Fault]] in central...
+> -- *[[StratigraphyAndProvenanceOfStr_12325]]*
+
+### Mentioned In
+- [[StratigraphyAndProvenanceOfStr_12325]]
+
 ## Valley and Ridge Province
 
 ### Summary
@@ -447,8 +819,16 @@ A physiographic region of northeastern Alabama where most of Calhoun County lies
 > This Southeastern Fishes Council survey documents the fish fauna of springs and spring-fed creeks in [[Calhoun County]], Alabama. Sampling at 83 stations (May 1986 to February 1987, plus earlier collections from the [[Fort McClellan Military Reservation]]) yielded 45 species and 2 hybrids in 24...
 > -- *[[FishesOfSpringsAndSpringfedCre_19006]]*
 
+> This 1980 survey of the [[New River]] drainage, published in the Chicago Academy of Sciences *Natural History Miscellanea* (No. 208), documents the crayfish (Decapoda) and freshwater mussels/clams (Mollusca: Pelecypoda) of the lower New River gorge in Virginia and West Virginia. Fieldwork in summer...
+> -- *[[TheCrayfishDecapodaAstacidaeAn_19376]]*
+
+> This 1995 study (Bulletin Alabama Museum of Natural History 18:43-69) by [[Gerald R. Dinkins]] and [[Peggy W. Shute]] documents the life histories of two rare madtom catfishes, the federally endangered [[Smoky Madtom]] (*Noturus baileyi*) and the federally threatened [[Yellowfin Madtom]] (*N....
+> -- *[[LifeHistoriesOfNoturusBaileyiA_12867]]*
+
 ### Mentioned In
 - [[FishesOfSpringsAndSpringfedCre_19006]]
+- [[TheCrayfishDecapodaAstacidaeAn_19376]]
+- [[LifeHistoriesOfNoturusBaileyiA_12867]]
 
 ## Valley City Baldhill
 
@@ -502,9 +882,37 @@ Valley Creek is a spring-run Chinook salmon spawning stream in the Salmon River 
 > This annual progress report documents chinook salmon spawning ground surveys conducted in the [[Salmon River]] drainage, Idaho, from August 1, 1966 to September 30, 1966 (reported in 1967-1968). The survey recorded 7,546 chinook salmon redds across the drainage, representing a 4.6% increase from...
 > -- *[[SalmonSpawningGroundSurveysSal_17594]]*
 
+> Boschung, Mayden and Tomelleri (1992) describe [[Etheostoma Chermocki]], the **[[Vermilion Darter]]**, a new snubnose darter in the subgenus [[Ulocentra]]/[[Nanostoma]]. The species is known only from a short reach of Turkey Creek, a tributary of [[Locust Fork]] in the [[Black Warrior River]]...
+> -- *[[EtheostomaChermockiANewSpecies_17733]]*
+
 ### Mentioned In
 - [[SalmonAndSteelheadInvestigatio_12147]]
 - [[SalmonSpawningGroundSurveysSal_17594]]
+- [[EtheostomaChermockiANewSpecies_17733]]
+
+## Valley Elderberry Longhorn Beetle
+
+### Summary
+The valley elderberry longhorn beetle is a threatened beetle whose larvae depend on elderberry shrubs, found in California's Central Valley. The report cites Section 7 enforcement that protected this beetle along the Sacramento River as a success story from 1984.
+
+### Context
+> This 1985 report by [[Defenders of Wildlife]] reviews federal performance under the [[Endangered Species Act]] (ESA) during 1984. It is the first annual follow-up to the organization's ten-year analysis, and it covers budgets, species listing and recovery, and the roles of the [[U.S. Fish and...
+> -- *[[ImplementationOfTheUsEndangere_14601]]*
+
+### Mentioned In
+- [[ImplementationOfTheUsEndangere_14601]]
+
+## Valley Flat
+
+### Summary
+The valley flat is the main flat surface on the valley bottom, which may be active or inactive. In this study it is one of the five bank-full definitions evaluated, and it is especially important to engineers because overbank flows there can damage crops, bridges, roads, and buildings.
+
+### Context
+> This study by [[Garnett P. Williams]] (U.S. Geological Survey, Denver) examines how bank-full discharge is defined, measured, estimated from channel geometry, and related to flow recurrence frequency in natural river channels. Of eleven published definitions of "bank-full," the study evaluates...
+> -- *[[BankfullDischargeOfRivers_11993]]*
+
+### Mentioned In
+- [[BankfullDischargeOfRivers_11993]]
 
 ## Valley Marshes
 
@@ -527,8 +935,16 @@ The Valley of Mexico is a high-elevation basin in central Mexico that is part of
 > Chernoff and Miller (1981, *Proceedings of the Biological Society of Washington* 94(1): 18–36) revise the taxonomy of the [[Aztec Shiner]], *Notropis sallei* (Günther), a cyprinid fish of the Mesa Central of Mexico. The species has a long and confused naming history, having been placed in no fewer...
 > -- *[[SystematicsAndVariationOfTheAz_16114]]*
 
+> This review by [[Robert R. Miller]], James D. Williams, and Jack E. Williams documents the extinction of 3 genera, 27 species and 13 subspecies (40 taxa in total) of North American freshwater fishes during the past 100 years. The paper's stated purpose is to provide a comprehensive list of recently...
+> -- *[[ExtinctionsOfNorthAmericanFish_15379]]*
+
+> This monograph, published by the Secretaría de Marina (Dirección General de Pesca e Industrias Conexas) and the Comisión para el Fomento de la Piscicultura Rural (1957) and authored by J. Álvarez del Villar and Leopoldo Navarro G., provides the first comprehensive treatment of all fish species of...
+> -- *[[LosPecesDelValleDeMexico_13132]]*
+
 ### Mentioned In
 - [[SystematicsAndVariationOfTheAz_16114]]
+- [[ExtinctionsOfNorthAmericanFish_15379]]
+- [[LosPecesDelValleDeMexico_13132]]
 
 ## Valley of the Ajo
 
@@ -553,6 +969,18 @@ A lowland Central Valley fish that the source lists among species considered una
 
 ### Mentioned In
 - [[TheNativeFishFaunaOfYosemiteNa_14482]]
+
+## Valley Pupfish
+
+### Summary
+A desert pupfish, Cyprinodon nevadensis amargosae, that persists in marshy habitat along the Amargosa River below Shoshone, California. The source lists it among the Death Valley region pupfishes that remain, while several other forms are endangered or extinct.
+
+### Context
+> This article by [[James E. Deacon]], a biologist at the [[University Of Nevada Las Vegas]], reviews the status of the desert pupfishes of the [[Death Valley]] region. Several populations are extinct or threatened, mainly because of groundwater pumping and drainage of marshes in [[Ash Meadows]],...
+> -- *[[DevilsHolePupfishVictimOfEnvir_14025]]*
+
+### Mentioned In
+- [[DevilsHolePupfishVictimOfEnvir_14025]]
 
 ## Valley-Fill Aquifer
 
@@ -581,8 +1009,16 @@ Vallisneria is not discussed or mentioned in this source note about metalimnetic
 > This comprehensive limnological study examines the phenomenon of metalimnetic oxygen maxima in 54 lakes worldwide, documenting 98 separate instances where oxygen concentrations exceeded 12.7 mg/L (the saturation value at 4°C). The research establishes a classification system for plus-heterograde...
 > -- *[[FurtherStudiesOnTheMetalimneti_15723]]*
 
+> This 1966 study by John C. Mertz and George W. Barlow, published in the *Zeitschrift für Tierpsychologie*, describes the reproductive behavior of the [[Florida Flagfish]] ([[Jordanella floridae]], family [[Cyprinodontidae]]) and quantifies its [[Parental Fanning]]. The authors describe territorial,...
+> -- *[[OnTheReproductiveBehaviorOfJor_20139]]*
+
+> This 1969 report by Ball, Kevern and Linton, published in the *Publications of the Museum, Michigan State University, Biological Series* (Vol. 4, No. 4, pp. 105–160), is the second in a series on the ecology of the [[Red Cedar River]], a warm-water stream in south-central Michigan. It quantifies...
+> -- *[[TheRedCedarRiverReportIiBioeco_17304]]*
+
 ### Mentioned In
 - [[FurtherStudiesOnTheMetalimneti_15723]]
+- [[OnTheReproductiveBehaviorOfJor_20139]]
+- [[TheRedCedarRiverReportIiBioeco_17304]]
 
 ## Vallisneria americana
 
@@ -596,9 +1032,17 @@ Vallisneria americana, commonly known as wild celery, is an aquatic plant that g
 > This 1956-era report by the Florida Game and Fresh Water Fish Commission, compiled under Chief of Fisheries [[Don Luethy]], assesses the fishery of [[Lake George]] and the adjoining [[St. Johns River]] (Volusia Bar to Buffalo Bluff). It combines multiple sampling methods (haul seine, otter trawl,...
 > -- *[[SurveyFindingsOnTheLakeGeorgeA_16244]]*
 
+> This paper by [[Frank F. Hooper]] (Institute for Fisheries Research, Michigan Department of Conservation) reports the physical, chemical and biological features of [[Weber Lake]], a small, 31-acre seepage lake in southwestern [[Cheboygan County]], Michigan. Surveys in 1950, 1951 and 1952 found two...
+> -- *[[LimnologicalFeaturesOfWebersLa_19908]]*
+
+> This 1980 study by [[Allen Keast]] (Queen's University) examines how a species-rich community of juvenile lake fishes in a [[Macrophyte Weedbed]] in [[Lake Opinicon]], Ontario, partitions food while growing rapidly. Food was not limiting: prey abundance peaked alongside plant growth in mid-July....
+> -- *[[DevelopmentOfDietarySpecializa_17906]]*
+
 ### Mentioned In
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[SurveyFindingsOnTheLakeGeorgeA_16244]]
+- [[LimnologicalFeaturesOfWebersLa_19908]]
+- [[DevelopmentOfDietarySpecializa_17906]]
 
 ## Vallonia
 <!-- fm: auto_enriched: true -->
@@ -609,6 +1053,66 @@ Vallisneria americana, commonly known as wild celery, is an aquatic plant that g
 
 ### Mentioned In
 - [[SonorellaGrahamensisAndSonorel_11184]]
+
+## Vallonia Parvula
+
+### Summary
+A small terrestrial snail that was the most numerous terrestrial species in the survey, averaging up to 19 per square foot at Station G. It was one of three species that together made up 60–80% of the molluscan population across most of the Reservation.
+
+### Context
+> This 1952 [[Kansas University Science Bulletin]] paper by A. Byron Leonard and C. Raymond Goble is the first in a planned series cataloguing the invertebrate and vertebrate fauna of the [[University of Kansas Natural History Reservation]]. The authors surveyed the land snails and freshwater...
+> -- *[[MolluscaOfTheUniversityOfKansa_20277]]*
+
+### Mentioned In
+- [[MolluscaOfTheUniversityOfKansa_20277]]
+
+## Vallées Stream
+
+### Summary
+A Belgian stream classed as a Type 1 algal-dominated tufa, without vascular plants. The source says it is built mainly by Lyngbya calcarea.
+
+### Context
+> This survey by Symoens, Duvigneaud and Vanden Berghen (Bulletin de la Société Royale de Botanique de Belgique, 1951) reviews the calcareous tufas (travertines) of Belgium and the plants that build them. Tufa forms when [[Biogenic Decalcification]] occurs: photosynthesis strips dissolved calcium...
+> -- *[[ApercuSurLaVegetationDesTufsCa_15139]]*
+
+### Mentioned In
+- [[ApercuSurLaVegetationDesTufsCa_15139]]
+
+## Valovirta
+
+### Summary
+A researcher cited by Macan who showed that mud fauna changes with distance from a lake's inflow. The source uses this to support the idea that fauna varies across a lake.
+
+### Context
+> Macan and Maudsley surveyed the fauna living on stony substrata in the shallow littoral of [[Windermere]] and then extended the work to other English lakes in the [[Lake District]]. The study identified two distinct biocoenoses on the stony bottom of Windermere: a "non-insect community" dominated...
+> -- *[[FaunaOfTheStonySubstratumInLak_19304]]*
+
+### Mentioned In
+- [[FaunaOfTheStonySubstratumInLak_19304]]
+
+## Valvata
+
+### Summary
+Valvata is a genus of small freshwater snails with a flat, coiled shell. In this source, the authors describe Valvata nevadensis from Mopung Hills, diagnosed by 5 to 9 rounded spiral cords, and note that Valvata idahoensis is a renamed species previously misassigned as V. multicarinata.
+
+### Context
+> This paleontological study by D. W. Taylor and G. R. Smith, published in the [[Museum of Paleontology]] at the University of Michigan (1981), describes two fossil freshwater assemblages from northeastern California and northwestern Nevada. The [[Honey Lake]] fauna (seven molluscs, five fishes)...
+> -- *[[PlioceneMolluscsAndFishesFromN_13499]]*
+
+### Mentioned In
+- [[PlioceneMolluscsAndFishesFromN_13499]]
+
+## Valvata Beltrani
+
+### Summary
+A small freshwater snail (Valvatidae) from the endemic spring fauna of Nuevo León. The source reports it from collections made after the initial 1984 surveys, and notes that several of these snails were known only from shells, with Charco Azul as one of the type localities for valvatid snails.
+
+### Context
+> Surveys of the arid southwestern [[Nuevo Leon]] highlands documented the extinction of several recently described and undescribed endemic pupfishes, crayfishes and snails from isolated springs. Four spring populations of [[Cyprinodon Longidorsalis]], [[Cyprinodon Inmemoriam]], [[Cyprinodon...
+> -- *[[ExtinctionOfMostSandiaAndPotas_17530]]*
+
+### Mentioned In
+- [[ExtinctionOfMostSandiaAndPotas_17530]]
 
 ## Valvata Helicoidea
 <!-- fm: auto_enriched: true -->
@@ -626,6 +1130,18 @@ Vallisneria americana, commonly known as wild celery, is an aquatic plant that g
 ### Mentioned In
 - [[TheLargeRiverAsAHabitatReferen_14556]]
 
+## Valvata Tricarinata
+
+### Summary
+Valvata tricarinata is a small freshwater snail. In this study it was one of the main snail species eaten by carp, and it was consumed mainly in summer and mostly by carp from lakes with better-than-average conditions.
+
+### Context
+> This 1953 study by Tom Moen, published in the [[Iowa Academy of Science]] proceedings, examines the diet of [[Cyprinus Carpio]] (Common Carp) in northwest Iowa lakes. The author analyzed the entire digestive tract of 687 carp (407 with food) collected from 14 lakes and one pond during 1946–1949....
+> -- *[[FoodHabitsOfTheCarpInNorthwest_16539]]*
+
+### Mentioned In
+- [[FoodHabitsOfTheCarpInNorthwest_16539]]
+
 ## Valvata Utahensis
 <!-- fm: auto_enriched: true -->
 
@@ -642,6 +1158,42 @@ Vallisneria americana, commonly known as wild celery, is an aquatic plant that g
 ### Mentioned In
 - [[KeyToMajorFamiliesOfNorthAmeri_1968]]
 
+## Valvifer
+
+### Summary
+The valvifer is a basal segment of the female insect ovipositor, built from appendages of abdominal segments 8 and 9. Terms such as valvifer are applied across Thysanura, Odonata, and Hymenoptera. Michener keeps the term because its homology with walking-leg parts is uncertain, and he prefers it as a noncommittal name.
+
+### Context
+> This paper, by [[Charles D. Michener]] of the University of Kansas, was published in the Proceedings of the Tenth International Congress of Entomology (1956, vol. 1, pp. 583–588). It argues that taxonomists should adopt a uniform, morphologically meaningful terminology for insect structures...
+> -- *[[MorphologicallyMeaningfulVsDes_15263]]*
+
+### Mentioned In
+- [[MorphologicallyMeaningfulVsDes_15263]]
+
+## Valvula
+
+### Summary
+The valvula is a part of the female insect ovipositor, built from abdominal appendages and used across several orders. The paper notes that its name is applied broadly even though its origin is debated. Michener retains the term because its homology with walking-leg parts is not certain.
+
+### Context
+> This paper, by [[Charles D. Michener]] of the University of Kansas, was published in the Proceedings of the Tenth International Congress of Entomology (1956, vol. 1, pp. 583–588). It argues that taxonomists should adopt a uniform, morphologically meaningful terminology for insect structures...
+> -- *[[MorphologicallyMeaningfulVsDes_15263]]*
+
+### Mentioned In
+- [[MorphologicallyMeaningfulVsDes_15263]]
+
+## Valvula Cerebelli
+
+### Summary
+The valvula cerebelli is a region of the cerebellum in the fish brain. The source reports that turbid-water fishes, which feed largely by taste, have enlarged valvula cerebelli along with enlarged facial lobes.
+
+### Context
+> This doctoral dissertation (Oklahoma State University, 1966, by Billy Joe Davis) compares brain morphology, cutaneous and internal taste bud distribution, and habitat preferences across 21 nominal species of the North American cyprinid genus [[Hybopsis]]. Using 394 specimens, the study uses brain...
+> -- *[[BrainPatternsInFishesOfTheGenu_13962]]*
+
+### Mentioned In
+- [[BrainPatternsInFishesOfTheGenu_13962]]
+
 ## Van Benthem Jutting
 
 ### Summary
@@ -654,6 +1206,18 @@ Van Benthem Jutting is cited by the authors, with Habe, as considering the intro
 ### Mentioned In
 - [[FurtherStudiesOnTheIntroducedA_19003]]
 
+## van Bergeijk and Harris
+
+### Summary
+Van Bergeijk and Harris are researchers whose work the source cites in support of the lateral line as the sensory system most likely to help fish orient to one another. The source presents this as the leading candidate among the sensory cues it reviews.
+
+### Context
+> This reprinted 1962 *Scientific American* article by [[Evelyn Shaw]] examines how fishes form schools, a social organization defined by parallel orientation, near-constant spacing, and synchronized movement. Shaw's laboratory work on [[Menidia]] silversides (whitebait) shows that schooling develops...
+> -- *[[TheSchoolingOfFishes_11405]]*
+
+### Mentioned In
+- [[TheSchoolingOfFishes_11405]]
+
 ## Van Cleave And Mueller 1934
 <!-- fm: auto_enriched: true -->
 
@@ -663,6 +1227,18 @@ Van Benthem Jutting is cited by the authors, with Habe, as considering the intro
 
 ### Mentioned In
 - [[VariabilityOfInfectionOfBlackS_1959]]
+
+## Van Dam
+
+### Summary
+An earlier investigator of branchial pressure whose work used cannulae placed behind the opercular valves. Saunders cites this as part of the prior methodology that he sought to improve upon.
+
+### Context
+> This 1961 study by Richard L. Saunders, published in the [[Canadian Journal of Zoology]], examines how teleost fishes move water over their gills. The author developed a [[Cannulation Technique]] that measures hydrostatic pressure in the oral and opercular cavities without interfering with normal...
+> -- *[[TheIrrigationOfTheGillsInFishe_20530]]*
+
+### Mentioned In
+- [[TheIrrigationOfTheGillsInFishe_20530]]
 
 ## Van Dam 1938
 <!-- fm: auto_enriched: true -->
@@ -704,8 +1280,12 @@ Van Benthem Jutting is cited by the authors, with Habe, as considering the intro
 > - **Unioninae (pre-impoundment assemblage):** Heavy-shelled forms adapted to firm sand and gravel substrates; well-suited to lotic (flowing water) conditions. Includes commercially valuable species such as the "pigtoe" (*Pleurobema cordatum*) and "niggerhead" (*Fusconaia ebenus*). - **Lampsilinae...
 > -- *[[TheImpactOfImpoundmentOnTheMus_15633]]*
 
+> This 1962 study by [[Van Der Schalie]] and [[Getz]] examines the regional and local distribution, life history, and laboratory culture of *Pomatiopsis cincinnatiensis*, an amphibious, operculate prosobranch snail that lives on river banks in the upper Mississippi drainage and lower Great Lakes...
+> -- *[[DistributionAndNaturalistHisto_13079]]*
+
 ### Mentioned In
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
+- [[DistributionAndNaturalistHisto_13079]]
 
 ## Van Dorn Bottle
 
@@ -753,6 +1333,18 @@ A researcher whose 1983 and 1986 work the source follows in defining habitat qua
 ### Mentioned In
 - [[SummerHabitatUseBySonoraChubIn_17438]]
 
+## Van Name 1936
+
+### Summary
+A source cited for the occurrence of freshwater Lironeca in South America.
+
+### Context
+> This taxonomic paper by [[Geoffrey Fryer]] describes *Lironeca tanganyikae* sp. nov., a parasitic [[Isopoda]] (family [[Cymothoidae]]) found in the mouth of the endemic [[Lake Tanganyika]] cichlid [[Simochromis Diagramma]]. Until this record, the only parasitic isopod known from African freshwaters...
+> -- *[[ANewIsopodOfTheGenusLironecaPa_18874]]*
+
+### Mentioned In
+- [[ANewIsopodOfTheGenusLironecaPa_18874]]
+
 ## Van Oosten
 
 ### Summary
@@ -771,11 +1363,35 @@ Van Oosten is a researcher who described methods for age determination in fishes
 > This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
 > -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
 
+> This 1951 study by William F. Sigler of the [[Utah State Agricultural College]] examines the life history of the [[Brown Trout]] (*Salmo trutta fario*) in the [[Logan River]], a cold, steep, high-velocity stream in [[Cache County]], [[Utah]]. Of 1,053 brown trout examined, 286 were retained for age...
+> -- *[[AgeAndGrowthOfTheBrownTroutSal_18947]]*
+
+> This 1943 paper by [[Louis A Krumholz]], published by the [[Institute For Fisheries Research]] (Michigan Department of Conservation), tests a [[Fin Clipping]] [[Mark-Recapture]] method for estimating fish populations. The method, adapted from [[David H Thompson]]'s black crappie study, was checked...
+> -- *[[ACheckOnTheFinclippingMethodFo_12432]]*
+
+> This 1951 study, reprinted from the *Journal of the Tennessee Academy of Science*, tested the widely held view that nearly all large, old [[Largemouth Black Bass]] are female. It examined scales from 287 bass, 186 from [[Lake Auburn]] (drained in 1949) and 101 from [[Silver Lake]] (poisoned with...
+> -- *[[AgeAndGrowthDifferentiationBet_18376]]*
+
 ### Mentioned In
 - [[ANoteOnTheAccuracyOfTheScaleMe_18667]]
 - [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
 - [[SomeConservationProblemsOfTheG_18489]]
 - [[ABibliographyOfSomeAgeAndGrowt_18720]]
+- [[AgeAndGrowthOfTheBrownTroutSal_18947]]
+- [[ACheckOnTheFinclippingMethodFo_12432]]
+- [[AgeAndGrowthDifferentiationBet_18376]]
+
+## Van Oosten (1928)
+
+### Summary
+A fisheries researcher whose critique of scale-reading methods the author followed when aging the darters. The paper relies on his approach to scale analysis for its age and growth work.
+
+### Context
+> This 1962 study by James R. Karr examined age, growth, and food habits of three darter species from the [[Des Moines River]] and [[Bluff Creek]] in [[Boone County]], Iowa. Samples comprised 61 [[Johnny Darter]], 25 [[Slenderhead Darter]], and 18 [[Blacksided Darter]]. Blacksided darters grew...
+> -- *[[AgeGrowthAndFoodHabitsOfJohnny_17889]]*
+
+### Mentioned In
+- [[AgeGrowthAndFoodHabitsOfJohnny_17889]]
 
 ## Van Oosten 1929
 
@@ -788,6 +1404,18 @@ A cited study of lake herring (cisco) that found no clear correlation between ai
 
 ### Mentioned In
 - [[TheInfluenceOfCertainEnvironme_20701]]
+
+## Van Oosten 1930
+
+### Summary
+A 1930 study by J. Van Oosten on the life history of lake herring in Lake Huron, based on scale analysis. This source cites it for the three assumptions behind scale aging: constant scale number, proportional scale and body growth, and annual annulus formation at a consistent time.
+
+### Context
+> Sigler and Low (1949–1950, *Proceedings of the Utah Academy of Sciences, Arts and Letters*) report a 16-day pack trip (August 19 to September 3, 1947) through the primitive area of the high [[Uinta Mountains]] in northeastern Utah. The study sampled trout from 13 alpine lakes, aged 104 fish from 4...
+> -- *[[AgeCompositionAndGrowthOfFishA_18949]]*
+
+### Mentioned In
+- [[AgeCompositionAndGrowthOfFishA_18949]]
 
 ## Van Oosten 1938
 <!-- fm: auto_enriched: true -->
@@ -815,11 +1443,35 @@ A cited study of lake herring (cisco) that found no clear correlation between ai
 ### Mentioned In
 - [[AgeAndGrowthOfLargemouthBassIn_1964]]
 
+## Van Oosten and Deason 1937
+
+### Summary
+A cited earlier study that identified forage fishes as prey for lake trout. The source uses it in its review of predator diets that include forage species.
+
+### Context
+> This 1963 study by [[Bernard Griswold]] (Iowa State University) examines the forage fish community of [[Clear Lake]], a shallow eutrophic lake in north-central Iowa. Forage species were sampled by night seining in summer 1961. [[Spottail Shiner]] (*Notropis hudsonius*) dominated the forage catch,...
+> -- *[[FoodAndGrowthOfSpottailShiners_17798]]*
+
+### Mentioned In
+- [[FoodAndGrowthOfSpottailShiners_17798]]
+
 ## Van Oosten Scale Method
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
+
+## Van R. Potter
+
+### Summary
+Van R. Potter is cited for a framework that the author uses to distinguish evolutionary, physiological and behavioral adaptation in fish. The source says these three kinds of adaptation underpin the value of wild fish.
+
+### Context
+> This 1992 *Trout* magazine feature, the first part of a series, argues by [[Ray J. White]] that [[Wild Fish]] matter for biological, management and economic reasons, and that [[Hatchery Management]] and stocking have repeatedly failed to deliver long-term fish abundance while damaging wild...
+> -- *[[WhyWildFishMatterABiologistsVi_12195]]*
+
+### Mentioned In
+- [[WhyWildFishMatterABiologistsVi_12195]]
 
 ## Van Slyke Blood Gas Apparatus
 
@@ -833,6 +1485,30 @@ A laboratory apparatus used to measure gases in trout blood, applied in this rep
 ### Mentioned In
 - [[TheNutritionOfTroutCortlandHat_11164]]
 
+## Van Slyke Method
+
+### Summary
+A classical manometric gas-analysis technique for measuring dissolved CO2 and related gases in water. In this paper, Dr. K. G. Wood's Van Slyke determinations on a duplicate sample were used to check the titration curve.
+
+### Context
+> This methods paper by Beyers, Larimer, Odum, Parker and Armstrong (The University of Texas, Institute of Marine Science, 1963) describes a [[Tonometer Burette]] apparatus and titration procedure for converting measured pH changes in natural waters into changes in total dissolved carbon dioxide....
+> -- *[[DirectionsForTheDeterminationO_18239]]*
+
+### Mentioned In
+- [[DirectionsForTheDeterminationO_18239]]
+
+## Van Valen
+
+### Summary
+Van Valen (1972) is cited for the general rule that small species are more numerous than large ones. The source suggests this rule may partly explain the hollow-curve range size distribution, since body length distribution resembles it.
+
+### Context
+> This study by [[Bernard Hugueny]] (1990, *Acta Ecologica* 11(3): 351–375) examines why freshwater fishes of the [[Nilo-Sudanian Region]] differ in geographic range size. Range size is defined as the number of rivers in which a species occurs, using presence/absence data from 20 river catchments and...
+> -- *[[GeographicRangeOfWestAfricanFr_14505]]*
+
+### Mentioned In
+- [[GeographicRangeOfWestAfricanFr_14505]]
+
 ## Van Vliet
 
 ### Summary
@@ -845,11 +1521,44 @@ Captain Stewart Van Vliet, a collector whose specimens from the United States-Me
 ### Mentioned In
 - [[DescriptionsOfNewSpeciesOfFish_17273]]
 
+## Van Wijhe Staining
+
+### Summary
+Van Wijhe staining is a method for staining cartilage in developing specimens. The author used a modified version so that cartilage could be compared directly with wax models.
+
+### Context
+> This 1957 morphological study by H. R. Srinivasachar describes the fully formed [[Chondrocranium]] (embryonic cartilaginous skull) of two catfishes of the family [[Bagridae]]: [[Mystus Vittatus]] (20 mm stage) and [[Rita]] sp. (12 mm stage). It is the second part of a series, following a study of...
+> -- *[[DevelopmentOfTheSkullOfCatfish_14691]]*
+
+### Mentioned In
+- [[DevelopmentOfTheSkullOfCatfish_14691]]
+
+## Van't Hoff Law
+
+### Summary
+The Van't Hoff law, expressed through the Q10 approach, predicts how metabolic rate changes with temperature. The authors discussed it in relation to their results and noted that thoroughly acclimated fish show smaller metabolic increases with temperature than the Q10 approach predicts.
+
+### Context
+> Moss and Scott (1961) measured the critical dissolved-oxygen (DO) levels and standard metabolic rates of [[Bluegill]], [[Largemouth Bass]], and [[Channel Catfish]] at 25 °C, 30 °C, and 35 °C in the laboratory. Two designs were used: [[Shock Tests]], in which DO was dropped abruptly, and...
+> -- *[[DissolvedoxygenRequirementsOfT_15434]]*
+
+### Mentioned In
+- [[DissolvedoxygenRequirementsOfT_15434]]
+
 ## Van'T Hoff Rule
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1966 study by E. T. Garside (University of Toronto), published in the *Journal of the Fisheries Research Board of Canada*, examines how [[Water Temperature]] and [[Dissolved Oxygen]] jointly affect the embryonic development and [[Hatching Time]] of [[Brook Trout]] and [[Rainbow Trout]]....
+> -- *[[EffectsOfOxygenInRelationToTem_16923]]*
+
+> This book chapter by Gordon Gunter (Gulf Coast Research Laboratory, 1957) reviews temperature as "the most important single factor governing the occurrence and behavior of life" in marine systems. It links [[Temperature Physiology]] at the cellular level to whole-organism performance, reproduction,...
+> -- *[[ChapterTemperature_17830]]*
+
 ### Mentioned In
 - [[TemperaturUndTagesperiodikDerO_1963]]
+- [[EffectsOfOxygenInRelationToTem_16923]]
+- [[ChapterTemperature_17830]]
 
 ## Vanadium
 
@@ -875,6 +1584,18 @@ A large island off the west coast of British Columbia, Canada. Lingcod were tagg
 ### Mentioned In
 - [[AReviewOfTheLingcodOphiodonElo_11171]]
 
+## Vancouver Island Drainage
+
+### Summary
+The river and lake drainages of Vancouver Island, British Columbia. Kokanee from Hustan, Bonanza and Quinsam lakes were sampled here, and Hustan and Bonanza kokanee differed significantly in gillraker counts.
+
+### Context
+> This 1968 study by Joseph S. Nelson (University of British Columbia, published in the *Journal of the Fisheries Research Board of Canada*, 25(2): 415–420) compares gillraker counts among freshwater [[Kokanee]] populations and their anadromous progenitor, the [[Sockeye Salmon]]. Gillrakers were...
+> -- *[[VariationInGillrakerNumberInNo_19630]]*
+
+### Mentioned In
+- [[VariationInGillrakerNumberInNo_19630]]
+
 ## Vancouveran Faunal Zone
 <!-- fm: auto_enriched: true -->
 
@@ -888,11 +1609,52 @@ A large island off the west coast of British Columbia, Canada. Lingcod were tagg
 ### Mentioned In
 - [[NotesOnOdonataFromTheVicinityO_14838]]
 
+## Vancouveran Province
+
+### Summary
+One of the eight biotic provinces recognized in the monograph. It is the poorest in scorpion species, with 6 recorded.
+
+### Context
+> This monograph by Stanley C. Williams (Occasional Papers of the [[California Academy of Sciences]], No. 135, 1980) revises the scorpion fauna of the [[Baja California Peninsula]] and its associated islands. The fauna comprises 61 species, 12 subspecies, 11 genera and 4 families, based on roughly...
+> -- *[[ScorpionsOfBajaCaliforniaMexic_12060]]*
+
+### Mentioned In
+- [[ScorpionsOfBajaCaliforniaMexic_12060]]
+
 ## Vandel
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1968 monograph supplement by [[Guy Magniez]] in *Annales de Spéléologie* re-examines the hypogean isopod [[Stenasellus Virei]], first described by [[Dollfus]] in 1897 from a single damaged specimen. Drawing on 77 known localities, the author recognises the species as polytypic and diagnoses...
+> -- *[[LespecePolytypiqueStenasellusV_19345]]*
+
 ### Mentioned In
 - [[ÉtudeDUneCollectionDLsopodesTe_13127]]
+- [[LespecePolytypiqueStenasellusV_19345]]
+
+## Vandel 1965
+
+### Summary
+A cited authority on cave animals, referenced for the rarity of new constructive traits in true cave animals. The source also notes that Vandel views troglobionts as ancient relict lineages rather than rapidly transformed surface forms.
+
+### Context
+> This German-language essay by [[Curt Kosswig]] (received 26 May 1967) asks how quickly evolutionary change can produce troglobiont (cave-adapted) forms. It uses the Mexican cave characin, [[Astyanax Mexicanus]] (cave form historically named [[Anoptichthys Jordani]]), as the test case. Kosswig...
+> -- *[[UberDasTempoEvolutorischerProz_12398]]*
+
+### Mentioned In
+- [[UberDasTempoEvolutorischerProz_12398]]
+
+## Vandel, 1926
+
+### Summary
+Vandel (1926) is cited as a source on the regional distribution of Echinogammarus berilloni and Gammarus pulex in France. The source mentions this work only in passing and does not report its particular results.
+
+### Context
+> This 1969 taxonomic note from the [[Zoological Museum Amsterdam]] (Bulletin Vol. 1 No. 11) by S. Pinkster describes a new freshwater amphipod, *Echinogammarus aquilifer* nov. sp., from the western Pyrenees. Based on topotypical material, the author provides a detailed redescription of...
+> -- *[[ANewEchinogammarusOfTheBerillo_11099]]*
+
+### Mentioned In
+- [[ANewEchinogammarusOfTheBerillo_11099]]
 
 ## Vandenavyle 1973
 <!-- fm: auto_enriched: true -->
@@ -925,8 +1687,24 @@ Vanderbilt Reef is a study site in Lynn Canal featuring a sunken vessel at 13-28
 > This study documents seasonal behavioral patterns in mixed aggregations of [[Yellowtail Rockfish]] (*Sebastes flavidus*) and [[Dusky Rockfish]] (*S. ciliatus*) observed by divers in [[Lynn Canal]], southeastern [[Alaska]] from 1965-75. The rockfishes exhibited dramatic seasonal shifts in spatial...
 > -- *[[SeasonalChangesInSpatialDistri_17423]]*
 
+> This study tested whether adult [[Yellowtail Rockfish]] (*Sebastes flavidus*) in southeastern Alaska show a home site and homing ability. Fish were tagged at a shipwreck at [[Lena Point]] in [[Favorite Channel]], displaced to 11 release sites up to 35.0 km away, and recovered mainly by hook and...
+> -- *[[EvidenceForAHomeSiteAndHomingO_17421]]*
+
 ### Mentioned In
 - [[SeasonalChangesInSpatialDistri_17423]]
+- [[EvidenceForAHomeSiteAndHomingO_17421]]
+
+## Vane-Wright Et Al.
+
+### Summary
+A scheme for weighting species by taxonomic distinctness, giving each species an index that falls as the number of nodes between its twig tip and the root of the classification increases. May uses it to estimate that the two tuatara species represent a small share of reptile distinctness, probably nearer 0.3% than 7%.
+
+### Context
+> This issue excerpt from [[Nature]] (Vol. 347, 13 September 1990) contains three unrelated pieces. Michael J. Drake questions whether the Moon was derived substantially from the Earth, arguing that the [[Giant-Impact Theory]] does not yet explain all chemical and isotopic evidence. Robert M. May's...
+> -- *[[TaxonomyAsDestiny_15221]]*
+
+### Mentioned In
+- [[TaxonomyAsDestiny_15221]]
 
 ## Vanicek
 
@@ -955,8 +1733,12 @@ Vanicek (1967) is a survey cited in the source that found Gila cypha very rare b
 > - **Dam-driven faunal turnover:** Flaming Gorge Dam altered flow/temperature regimes sufficiently to convert the upper 65 miles of the Green River from a native-fish-dominated warm-water system to a trout-dominated coldwater fishery, with the most severe replacement occurring in the first 26 mile...
 > -- *[[AnnualReportOfTheUtahCooperati_1967]]*
 
+> This 1987 study by [[Paul C Marsh]] examined the digestive tract contents of 34 preserved adult [[Razorback Sucker]] (*Xyrauchen texanus*) collected from [[Lake Mohave]], Arizona–Nevada. Contents were dominated by planktonic crustaceans, diatoms, filamentous algae, and detritus. The author...
+> -- *[[DigestiveTractContentsOfAdultR_19395]]*
+
 ### Mentioned In
 - [[AnnualReportOfTheUtahCooperati_1967]]
+- [[DigestiveTractContentsOfAdultR_19395]]
 
 ## Vanicek and Kramer
 
@@ -1058,6 +1840,21 @@ The vaquita (*Phocoena sinus*) is a critically endangered porpoise endemic to th
 > On April 30, 1998, the [[Pacific Institute]] and [[Defenders of Wildlife]] hosted a binational workshop in San Luis Rio Colorado, Sonora, Mexico, attended by approximately 80 stakeholders from both the United States and Mexico. The workshop addressed critical environmental and water management...
 > -- *[[WorkshopProceedings_18372]]*
 
+> This paper reports the first survey specifically designed to estimate [[Vaquita]] (*Phocoena sinus*) abundance across its full range. A [[Line-Transect Survey]] was run by three vessels in summer 1997 as a joint cruise of the [[Instituto Nacional de la Pesca]] and the [[NOAA National Marine...
+> -- *[[ANewAbundanceEstimateForVaquit_21035]]*
+
+> This legal-policy comment argues that the [[Totoaba]] (*Cynoscion macdonaldi*), an endangered sciaenid of the upper [[Gulf of California]], is declining because of overfishing and loss of its estuarine spawning habitat in the [[Colorado River Delta]]. Diversions by upstream dams have removed nearly...
+> -- *[[AFishOutOfWaterAProposalForInt_12099]]*
+
+> This document is the official Mexican standard NOM-059-ECOL-1994, published in the Diario Oficial de la Federación on 16 May 1994 and issued by the Secretaría de Desarrollo Social through the [[Instituto Nacional de Ecología]]. It determines which wild terrestrial and aquatic species and subspecies...
+> -- *[[NormaOficialMexicanaQueDetermi_11400]]*
+
+> This investigative report, written by [[Vicki Monks]] for [[Defenders of Wildlife]] and published in the July/August 1992 issue of *Defenders*, documents an illegal fishery for the endangered [[Totoaba]] in the northern [[Gulf of California]]. Undercover field work in Baja California and Sonora...
+> -- *[[BajasPeriledPorpoiseTheUsTaste_16548]]*
+
+> This 1997 final report, prepared by [[Sonoran Institute]] researchers for [[Defenders of Wildlife]] and the [[National Park Service]] US/Mexico Affairs Office, assesses the ecological condition of the [[Lower Colorado River]] from Parker Dam to the [[Colorado River Delta]] and evaluates past...
+> -- *[[OpportunitiesForEcologicalImpr_12940]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
@@ -1071,6 +1868,11 @@ The vaquita (*Phocoena sinus*) is a critically endangered porpoise endemic to th
 - [[NoticeOfIntentToFileTwoLawsuit_18970]]
 - [[BuildingSuccessfulPartnerships_13226]]
 - [[WorkshopProceedings_18372]]
+- [[ANewAbundanceEstimateForVaquit_21035]]
+- [[AFishOutOfWaterAProposalForInt_12099]]
+- [[NormaOficialMexicanaQueDetermi_11400]]
+- [[BajasPeriledPorpoiseTheUsTaste_16548]]
+- [[OpportunitiesForEcologicalImpr_12940]]
 
 ## Vaquito
 <!-- fm: auto_enriched: true -->
@@ -1128,6 +1930,18 @@ A transect-based bird density method (Emlen 1971) used in the survey, with strip
 ### Mentioned In
 - [[ProgressReportForTheBiological_19815]]
 
+## Variance Analysis
+
+### Summary
+A statistical approach that partitions the variation in data among sources such as species, mesh size, month, and net position. Here it was applied to log-transformed catches, since the variance exceeded the mean. It showed significant mesh effects for both species and a significant month × net × mesh interaction for charr.
+
+### Context
+> This study by [[J. F. Craig]] and [[J. M. Fletcher]] of the [[Freshwater Biological Association]] examines how catches of [[Arctic Charr]] and [[European Perch]] in [[Multi-Mesh Gill Nets]] vary with setting position, month and mesh size. Nets were fished monthly at [[Rawlinson's Nab]] in the south...
+> -- *[[TheVariabilityInTheCatchesOfCh_17988]]*
+
+### Mentioned In
+- [[TheVariabilityInTheCatchesOfCh_17988]]
+
 ## Variation Threshold
 
 ### Summary
@@ -1175,6 +1989,30 @@ This source conducts extensive variational analysis using meristic characters in
 ### Mentioned In
 - [[NaturalProductivityOfFishAndCr_1940]]
 
+## Variegated Darter
+
+### Summary
+The Variegated Darter (*Poecilichthys variatus*) is a darter of the family Percidae that lives in riffles of clean rivers. In this 1950 study it made up about 26% of darters taken and was aged at two years to mature and spawn, with spawning earliest of the three species. Males reached a maximum of 76 mm standard length and females 74 mm.
+
+### Context
+> This 1950 study by [[Lachner]], [[Westlake]] and [[Handwerk]] describes the life history of three darters of the Percidae in French Creek, part of the Allegheny River system (Ohio River basin), western Pennsylvania: the [[Eastern Banded Darter]] (*Poecilichthys zonalis zonalis*), the [[Variegated...
+> -- *[[StudiesOnTheBiologyOfSomePerci_12663]]*
+
+### Mentioned In
+- [[StudiesOnTheBiologyOfSomePerci_12663]]
+
+## Variegated Minnow
+
+### Summary
+A small killifish-group fish, up to about 3 inches long, that the source says occurs throughout Chesapeake Bay, its tributaries, isolated potholes or pools, and coastal bays. Males defend small territories and show iridescent peacock-blue coloration during spawning, and the species is mainly vegetarian, feeding on the bottom or on vegetation. It has little economic value.
+
+### Context
+> This educational article, part of the Education Series No. 80 reprinted from the *Maryland Conservationist* (Vol. XLIV No. 3:2-5), was written by [[Frank J. Schwartz]], Curator of Fishes at the [[Natural Resources Institute]], [[Chesapeake Biological Laboratory]], University of Maryland. It...
+> -- *[[BullMinnows_11285]]*
+
+### Mentioned In
+- [[BullMinnows_11285]]
+
 ## Variegatus Complex
 
 ### Summary
@@ -1186,6 +2024,54 @@ A species-complex of Cyprinodon pupfishes that, according to this study, courts 
 
 ### Mentioned In
 - [[TheComparativeBehaviorOfAllopa_16159]]
+
+## Varilla mexicana
+
+### Summary
+Varilla mexicana is a Compositae shrub or herb of the gypsum flats. The source lists it among the gypsophile species characteristic of the basin's gypsum soils.
+
+### Context
+> This is the third installment of a floristic survey of the vascular plants of the [[Cuatro Ciénegas Basin]] and surrounding ranges in [[Coahuila]], Mexico, by [[Donald J. Pinkava]] of the Department of Botany and Microbiology, Arizona State University. It annotates the families from Cactaceae...
+> -- *[[VegetationAndFloraOfTheBolsonO_11096]]*
+
+### Mentioned In
+- [[VegetationAndFloraOfTheBolsonO_11096]]
+
+## Varimax Rotation
+
+### Summary
+Varimax rotation is an orthogonal rotation method applied to principal components to make loadings easier to interpret, with each variable tending to load strongly on one component. In this study, the authors rotated only components with eigenvalues above 1 and found that varimax and oblique rotations gave the same interpretations.
+
+### Context
+> This study by [[James D. Felley]] and [[Loren G. Hill]] (University of Oklahoma) uses multivariate analysis to describe the habitat preferences of ten cyprinid species in the Oklahoma drainage of the [[Illinois River]]. Fish were collected at 15 localities in spring, summer, autumn and winter of...
+> -- *[[MultivariateAssessmentOfEnviro_16331]]*
+
+### Mentioned In
+- [[MultivariateAssessmentOfEnviro_16331]]
+
+## Varve Chronology
+
+### Summary
+Varve chronology is the method of dating lake sediments by counting annual layers (varves), which pair a lighter and darker lamina formed each year. In this source it provides the high-resolution time framework for the Elk Lake record, which was built on varve counts and tied to a reference year of AD 1927.
+
+### Context
+> This paleoclimate synthesis by Dean, Ahlbrandt, Anderson and Bradbury (*The Holocene* 6, 1996) reviews evidence for increased aridity and wind-driven dune activity across the Great Plains and Rocky Mountain region during the mid-Holocene (c. 8000 to 4000 yr BP). The central record is a continuously...
+> -- *[[RegionalAridityInNorthAmericaD_12739]]*
+
+### Mentioned In
+- [[RegionalAridityInNorthAmericaD_12739]]
+
+## Varved Sediments
+
+### Summary
+Layered lake-bottom deposits in which each year forms a pair of bands, one from winter clay and one from summer organic matter. The source reports these in Tom Wallace Lake's profundal zone, with summer bands about 0.5 cm and winter bands about 0.25 cm thick, providing an annual record since the lake formed in 1946-47.
+
+### Context
+> This 1954 limnological paper by Gerald A. Cole (University of Louisville) establishes a physical and chemical baseline for [[Tom Wallace Lake]], a small artificial impoundment about ten miles south of Louisville in [[Jefferson County]], in the [[Kentucky Knobs]] physiographic province. The study...
+> -- *[[StudiesOnAKentuckyKnobsLakeISo_16008]]*
+
+### Mentioned In
+- [[StudiesOnAKentuckyKnobsLakeISo_16008]]
 
 ## Vasco Tanner
 
@@ -1252,9 +2138,13 @@ A mid-Tertiary conglomerate unit studied at Charlie Canyon, Texas Canyon, and Va
 > This study tests the age of the remnant [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona-Nevada, and compares several bony structures for age estimation. Of seven structures examined, only sectioned [[Sectioned Otoliths]] (sagittae) gave reliable ages for large...
 > -- *[[AgeDeterminationForImperiledRa_12256]]*
 
+> This laboratory study tests whether [[Feeding Periodicity]] and [[Starvation]] affect the formation of [[Daily Growth Increments]] in the [[Otoliths]] of juvenile [[Steelhead Trout]] (*Salmo gairdneri*) and [[Starry Flounder]] (*Platichthys stellatus*). Fish were reared for 64–76 days under feeding...
+> -- *[[FeedingPeriodicityAndTheProduc_17346]]*
+
 ### Mentioned In
 - [[VateriteAsTheCrystallineStruct_12254]]
 - [[AgeDeterminationForImperiledRa_12256]]
+- [[FeedingPeriodicityAndTheProduc_17346]]
 
 ## Vaucheria
 
@@ -1265,8 +2155,28 @@ Vaucheria is a filamentous alga found in seepage streams that demonstrated signi
 > This 1956 study by J.B. Lackey documented the microscopic aquatic biota of the [[Clinch River]] system and adjacent waters in the [[Oak Ridge]] area, focusing on the relationship between suspended microorganisms and radioactivity from [[Oak Ridge National Laboratory]] (ORNL) operations. The survey...
 > -- *[[TheSuspendedMicrobiotaOfTheCli_12669]]*
 
+> This study by [[Ruperth Prins]] compares the ecology and life histories of two freshwater crayfishes, [[Orconectes Rusticus Rusticus]] and [[Cambarus Tenebrosus]], in [[Doe Run]], a torrent spring stream in Meade County, Kentucky. Fieldwork ran from September 1962 through September 1964 at four...
+> -- *[[ComparativeEcologyOfTheCrayfis_18689]]*
+
+> This 1965 final report from the University of Louisville, prepared under [[U.S. Atomic Energy Commission]] Contract No. AT-(40-1)-2595, documents the accumulation of [[Gross Beta Radioactivity]] from [[Fallout]] by the biota of [[Doe Run]], a spring-fed limestone stream in [[Meade County]],...
+> -- *[[ARadioecologicalStudyOfTheBiot_12454]]*
+
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
+- [[ComparativeEcologyOfTheCrayfis_18689]]
+- [[ARadioecologicalStudyOfTheBiot_12454]]
+
+## Vaucheria Germinata
+
+### Summary
+Vaucheria germinata is a filamentous alga (Xanthophyta) that grows in freshwater. In this study, Batrachospermum grew epiphytically on it during autumn 1960-61, which the source lists among the alga's epiphytic hosts.
+
+### Context
+> This 1963 study by W. L. Minckley and Donald R. Tindall examines the ecology of a [[Batrachospermum]] red alga (Rhodophyta) in [[Doe Run]], a spring-fed stream in [[Meade County]], Kentucky. Observations ran from February 1959 to August 1962. The alga's sexual thalli appear in autumn, grow...
+> -- *[[EcologyOfBatrachospermSpRhodop_15870]]*
+
+### Mentioned In
+- [[EcologyOfBatrachospermSpRhodop_15870]]
 
 ## Vauchomia
 <!-- fm: auto_enriched: true -->
@@ -1290,6 +2200,30 @@ Vaughn, Montana was the site of a mosquitofish stocking experiment where 200 adu
 ### Mentioned In
 - [[LittleFishDoesBigThings_16549]]
 
+## Vavilov 1922
+
+### Summary
+Russian geneticist whose law of homologous series in variation the source invokes. The author cites parallel pelvic reduction in Pungitius and Culaea as support for this law.
+
+### Context
+> This Contributions in Science monograph (No. 257, Natural History Museum of Los Angeles County, May 22, 1974) by [[Michael A. Bell]] compares pelvic girdle variation in a Recent population of [[Threespine Stickleback]] from [[Paxton Lake]], [[Texada Island]], British Columbia, with a fossil...
+> -- *[[ReductionAndLossOfThePelvicGir_18145]]*
+
+### Mentioned In
+- [[ReductionAndLossOfThePelvicGir_18145]]
+
+## Vectorization
+
+### Summary
+Vectorization is the conversion of raster cell or line data into vector form, such as lines and polygons with defined coordinates. The essay says automated scanning requires a deliberate vectorization scheme and data structure designed in advance. In the DWRIS87 workflow, vectorization of an 800-polygon map took about 9 to 20 minutes.
+
+### Context
+> This essay by David A. Plakeman, a resource specialist with the [[Forest Service]] [[Pacific Southwest Region]], argues that the [[Geographic Information System]] (GIS) industry has stayed with costly [[Manual Digitizer]] data entry for too long. Plakeman states that data entry accounts for about...
+> -- *[[SomeThoughtsAboutGisDataentry_17685]]*
+
+### Mentioned In
+- [[SomeThoughtsAboutGisDataentry_17685]]
+
 ## Vegas Wash Arm
 
 ### Summary
@@ -1301,6 +2235,18 @@ The Vegas Wash Arm is a section of Lake Mead where the Project Vela Uniform test
 
 ### Mentioned In
 - [[ProjectVelaUniformLakeMeadTest_20812]]
+
+## Vegetacion De Mexico
+
+### Summary
+A book by J. Rzedowski on the vegetation of Mexico, from which this excerpt is taken. The excerpt provides the physical background (landforms, geology, hydrography) that frames the country's vegetation, and includes a coastal marine vegetation section by Laura Huerta M.
+
+### Context
+> This excerpt from [[Vegetacion De Mexico]] (J. Rzedowski, Escuela Nacional de Ciencias Biologicas, IPN; coastal marine vegetation section by Laura Huerta M.) provides the physical framework for the country's vegetation. It covers the national territory's shape and coastline, the main mountain...
+> -- *[[BasesFisiograficas_21132]]*
+
+### Mentioned In
+- [[BasesFisiograficas_21132]]
 
 ## Vegetation
 
@@ -1338,6 +2284,30 @@ The Vegetation Management Study, conducted by the Bureau of Reclamation in 1990,
 ### Mentioned In
 - [[TheHydrologyOfTheBillWilliamsR_20683]]
 
+## Vegetation Map
+
+### Summary
+A digital map classifying land cover into polygons, used as a base layer for predicting species presence. The Oregon GAP vegetation map in this study contained over 12,000 polygons.
+
+### Context
+> This study uses [[Monte Carlo Simulation]] to test how errors of omission and commission in the [[Gap Analysis Project]] database for Oregon alter the spatial distribution of [[Species Richness]]. Two error types were simulated at rates of 5 and 20 percent: random errors, assumed independent of...
+> -- *[[SpatialErrorAnalysisOfSpeciesR_12738]]*
+
+### Mentioned In
+- [[SpatialErrorAnalysisOfSpeciesR_12738]]
+
+## Vegetation Recovery
+
+### Summary
+Vegetation recovery is the natural return of plant cover to a disturbed area over time. The source lists it as one of three influences examined for their effect on runoff and sediment, alongside mechanical stabilization and deliberate cover changes.
+
+### Context
+> This USDA Forest Service record (Station Paper 66, 1961, by Lowell R. Rich, [[Rocky Mountain Forest And Range Experiment Station]]) describes a watershed study of [[Surface Runoff]] and [[Soil Erosion]] in the [[Lower Chaparral Zone]] of [[Arizona]]. The work compared storm runoff and [[Sediment...
+> -- *[[SurfaceRunoffAndErosionInTheLo_16833]]*
+
+### Mentioned In
+- [[SurfaceRunoffAndErosionInTheLo_16833]]
+
 ## Vegetation Removal
 <!-- fm: auto_enriched: true -->
 
@@ -1348,11 +2318,416 @@ The Vegetation Management Study, conducted by the Bureau of Reclamation in 1990,
 ### Mentioned In
 - [[AFisheriesEvaluationOfCommerci_1965_05_26]]
 
+## Vehicle Assembly Building Impoundment
+
+### Summary
+The Vehicle Assembly Building Impoundment (VABI) is one of the four study sites near the Kennedy Space Center. It had a mean salinity of 17.6 ‰, a mean mature male SL of 23.9 mm, a large molly population, and low predation pressure. Males there ranged from 16 to 40 mm SL and no Type III males were found.
+
+### Context
+> This study examines size and morphological variation in mature male [[Sailfin Molly]] (*Poecilia latipinna*) from four [[Poeciliidae|Poeciliid]] populations in east-central Florida, sampled monthly from 1973 to 1982. Males did not fall into discrete classes. Instead they formed a continuous size...
+> -- *[[SizeAndMorphologicalVariationI_21226]]*
+
+### Mentioned In
+- [[SizeAndMorphologicalVariationI_21226]]
+
 ## Vejovidae
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This paper, reprinted from the *Pan-Pacific Entomologist* (Vol. 46, No. 3, July 1970, pp. 181–183), by [[Stanley C. Williams]] of San Francisco State College, formally describes *Vejovis pseudopumilis* as a new species of scorpion in the family [[Vejovidae]]. The species was collected during a 1968...
+> -- *[[ANewSpeciesOfScorpionBelonging_12056]]*
+
+> This paper by [[Stanley C. Williams]] redescribes the scorpion [[Vejovis Bilineatus]] (order Scorpionida, family [[Vejovidae]]), a species first described by [[Richard Irvine Pocock]] in 1898 from "San Diego, Texas." Its identity had been uncertain for decades, and [[Hoffmann]] (1931) had only...
+> -- *[[ARediscriptionOfTheScorpionVej_12057]]*
+
+> This 1969 paper, by [[Stanley C. Williams]] of San Francisco State College, formally describes *Syntropis longiunguis*, a new scorpion species from the sand dunes of Baja California Sur, Mexico. The genus was previously known only from its type specimen, *[[Syntropis Macrura]]*, described by...
+> -- *[[ANewSpeciesOfSyntropisFromBaja_12051]]*
+
+> This taxonomic paper, published in the [[Pan-Pacific Entomologist]] (Vol. 44, No. 4, October 1968) by [[Stanley C Williams]] of San Francisco State College, describes two new scorpion species in the family [[Vejovidae]]. The species are [[Vejovis Utahensis]], a burrowing form from sandy dune...
+> -- *[[TwoNewScorpionsFromWesternNort_12048]]*
+
+> Williams (1970), published in the *[[Pan-Pacific Entomologist]]* (Vol. 46, No. 1, pp. 1–11), reports a one-week survey of the scorpion fauna of [[Death Valley]], California, carried out in April 1968. The study examined several hundred specimens and described three previously undescribed species of...
+> -- *[[ThreeNewSpeciesOfVejovisFromDe_12058]]*
+
+> This study by [[Stanley C Williams]] describes the birth and early post-birth behaviour of 14 North American scorpion species from seven genera and four families ([[Buthidae]], [[Chactidae]], [[Diplocentridae]], [[Vejovidae]]). Observations were made over roughly five years in western North...
+> -- *[[BirthActivitiesOfSomeNorthAmer_12050]]*
+
 ### Mentioned In
 - [[RedescriptionOfHadrurusPinteri_12054]]
+- [[ANewSpeciesOfScorpionBelonging_12056]]
+- [[ARediscriptionOfTheScorpionVej_12057]]
+- [[ANewSpeciesOfSyntropisFromBaja_12051]]
+- [[TwoNewScorpionsFromWesternNort_12048]]
+- [[ThreeNewSpeciesOfVejovisFromDe_12058]]
+- [[BirthActivitiesOfSomeNorthAmer_12050]]
+
+## Vejovis
+
+### Summary
+Vejovis is a genus of scorpions in the family Vejovidae. In this source, the new species is placed in the pumilis group of this genus.
+
+### Context
+> This paper, reprinted from the *Pan-Pacific Entomologist* (Vol. 46, No. 3, July 1970, pp. 181–183), by [[Stanley C. Williams]] of San Francisco State College, formally describes *Vejovis pseudopumilis* as a new species of scorpion in the family [[Vejovidae]]. The species was collected during a 1968...
+> -- *[[ANewSpeciesOfScorpionBelonging_12056]]*
+
+> Williams (1970), published in the *[[Pan-Pacific Entomologist]]* (Vol. 46, No. 1, pp. 1–11), reports a one-week survey of the scorpion fauna of [[Death Valley]], California, carried out in April 1968. The study examined several hundred specimens and described three previously undescribed species of...
+> -- *[[ThreeNewSpeciesOfVejovisFromDe_12058]]*
+
+> This 1970 taxonomic paper by [[Stanley C. Williams]] in the *Proceedings of the California Academy of Sciences* describes seven new species and subspecies of scorpions in the genus [[Vejovis]], all belonging to the [[Vejovis Eusthenura Group]]. The taxa are *Vejovis waeringi*, *V. coloradensis*,...
+> -- *[[NewScorpionsBelongingToTheEust_12055]]*
+
+> This 1968 taxonomic paper by [[Stanley C. Williams]], published in the *Occasional Papers of the [[California Academy of Sciences]]* (No. 68), describes five new scorpion species of the genus [[Vejovis]] from the [[Cuatro Cienegas Basin]] in Coahuila, Mexico. The descriptions rest on 227 specimens...
+> -- *[[ScorpionsFromNorthernMexicoFiv_12047]]*
+
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ANewSpeciesOfScorpionBelonging_12056]]
+- [[ThreeNewSpeciesOfVejovisFromDe_12058]]
+- [[NewScorpionsBelongingToTheEust_12055]]
+- [[ScorpionsFromNorthernMexicoFiv_12047]]
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Aquilonalis
+
+### Summary
+Vejovis aquilonalis is a scorpion species in the genus Vejovis and family Vejovidae. In this source it is named only as one of the closest relatives of V. utahensis, and no further details about it are given.
+
+### Context
+> This taxonomic paper, published in the [[Pan-Pacific Entomologist]] (Vol. 44, No. 4, October 1968) by [[Stanley C Williams]] of San Francisco State College, describes two new scorpion species in the family [[Vejovidae]]. The species are [[Vejovis Utahensis]], a burrowing form from sandy dune...
+> -- *[[TwoNewScorpionsFromWesternNort_12048]]*
+
+### Mentioned In
+- [[TwoNewScorpionsFromWesternNort_12048]]
+
+## Vejovis Auratus
+
+### Summary
+Vejovis auratus is a scorpion species in the genus Vejovis and family Vejovidae. In this source it is named only as one of the closest relatives of V. utahensis, and no further details about it are given.
+
+### Context
+> This taxonomic paper, published in the [[Pan-Pacific Entomologist]] (Vol. 44, No. 4, October 1968) by [[Stanley C Williams]] of San Francisco State College, describes two new scorpion species in the family [[Vejovidae]]. The species are [[Vejovis Utahensis]], a burrowing form from sandy dune...
+> -- *[[TwoNewScorpionsFromWesternNort_12048]]*
+
+### Mentioned In
+- [[TwoNewScorpionsFromWesternNort_12048]]
+
+## Vejovis Baergi
+
+### Summary
+Vejovis baergi is a pale yellow scorpion in the Vejovidae family, described as new in this paper from the Puerto Peñasco area. The source reports 30 specimens (17 males, 13 females), mainly collected in sand lot and pitfall traps. It is mainly a burrowing species, with adults seen on the surface only at night, and is placed in the Paruroctonus subgenus.
+
+### Context
+> This 1967 taxonomic survey by [[Williams and Hadley]] documents the scorpion fauna of the [[Puerto Peñasco]] area on the [[Gulf of California]] coast of Sonora, Mexico. The authors recorded five species in two families, described one new species, [[Vejovis Baergi]], and provided a regional...
+> -- *[[ScorpionsOfThePuertoPeascoArea_12046]]*
+
+### Mentioned In
+- [[ScorpionsOfThePuertoPeascoArea_12046]]
+
+## Vejovis Bantai
+
+### Summary
+Vejovis bantai is a scorpion species in the genus Vejovis, cited by Williams as the closest relative of V. shulovi. The new species differs from it in pectinal tooth counts, middle lamellae number, reddish hair counts on inferior median keels, and pedipalp hand width.
+
+### Context
+> Williams (1970), published in the *[[Pan-Pacific Entomologist]]* (Vol. 46, No. 1, pp. 1–11), reports a one-week survey of the scorpion fauna of [[Death Valley]], California, carried out in April 1968. The study examined several hundred specimens and described three previously undescribed species of...
+> -- *[[ThreeNewSpeciesOfVejovisFromDe_12058]]*
+
+### Mentioned In
+- [[ThreeNewSpeciesOfVejovisFromDe_12058]]
+
+## Vejovis Bilineatus
+
+### Summary
+Vejovis bilineatus is a small scorpion in the family Vejovidae, first described by Pocock in 1898 from San Diego, Texas. This source redescribes it, providing a fuller diagnosis based on the female holotype, and supports its identity with specimens from Aguascalientes, Mexico.
+
+### Context
+> This paper by [[Stanley C. Williams]] redescribes the scorpion [[Vejovis Bilineatus]] (order Scorpionida, family [[Vejovidae]]), a species first described by [[Richard Irvine Pocock]] in 1898 from "San Diego, Texas." Its identity had been uncertain for decades, and [[Hoffmann]] (1931) had only...
+> -- *[[ARediscriptionOfTheScorpionVej_12057]]*
+
+### Mentioned In
+- [[ARediscriptionOfTheScorpionVej_12057]]
+
+## Vejovis Bruneus
+
+### Summary
+Vejovis bruneus is a medium-sized, light brown scorpion related to V. punctipalpus and V. insularis. The source notes that juveniles were scarce in samples of this species.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Confusus
+
+### Summary
+A scorpion of the family Vejovidae found at the Phoenix South Mountain site. With 445 specimens it was the most abundant species captured in Williams's pitfall traps, and it responded to trap cover types much like H. arizonensis, with uncovered traps catching strikingly fewer.
+
+### Context
+> This 1968 methods paper by [[Stanley C Williams]] evaluates [[Pitfall Trapping]] as a tool for sampling scorpion populations in the Sonoran Desert near [[Phoenix South Mountain]], Arizona. Over the study, 100 unbaited traps captured 607 scorpions of four species in the family Vejovidae. Covered...
+> -- *[[MethodsOfSamplingScorpionPopul_12052]]*
+
+> This 1967 taxonomic survey by [[Williams and Hadley]] documents the scorpion fauna of the [[Puerto Peñasco]] area on the [[Gulf of California]] coast of Sonora, Mexico. The authors recorded five species in two families, described one new species, [[Vejovis Baergi]], and provided a regional...
+> -- *[[ScorpionsOfThePuertoPeascoArea_12046]]*
+
+> This study examines how four habitat types on Phoenix South Mountain, Arizona, shape the abundance, distribution and community structure of desert scorpions. Using standardized [[Pitfall Trapping]] over 104 consecutive weeks (1964–1966), the author recorded 645 scorpions from eight species in three...
+> -- *[[CoexistenceOfDesertScorpionsBy_12049]]*
+
+### Mentioned In
+- [[MethodsOfSamplingScorpionPopul_12052]]
+- [[ScorpionsOfThePuertoPeascoArea_12046]]
+- [[CoexistenceOfDesertScorpionsBy_12049]]
+
+## Vejovis Diazi
+
+### Summary
+Vejovis diazi is a medium-sized scorpion with a reddish telson and pedipalp fingers in adults, and it is related to V. eusthenura. The source reports a large sample of 1394 additional specimens, and females predominated in samples.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Eusthenura Group
+
+### Summary
+A group of Vejovis scorpions in western North America, most diverse in the Baja California Peninsula and southern California/Arizona deserts. The source describes its members as mostly pale yellow sandy-habitat burrowers, defined by features such as long metasomal segment V, elongate pedipalp fingers, and coarsely crenulate metasomal keels. The paper adds seven new taxa to this group.
+
+### Context
+> This 1970 taxonomic paper by [[Stanley C. Williams]] in the *Proceedings of the California Academy of Sciences* describes seven new species and subspecies of scorpions in the genus [[Vejovis]], all belonging to the [[Vejovis Eusthenura Group]]. The taxa are *Vejovis waeringi*, *V. coloradensis*,...
+> -- *[[NewScorpionsBelongingToTheEust_12055]]*
+
+### Mentioned In
+- [[NewScorpionsBelongingToTheEust_12055]]
+
+## Vejovis Gertschi
+
+### Summary
+Vejovis gertschi is a small, dark scorpion in the family Vejovidae, described as new in this paper and named after Willis J. Gertsch. It occurs in coastal chaparral in San Diego County, California, where it was common and found under rocks, surface debris, and in a wood rat nest. The source describes its brownish-yellow base color, elongate pedipalp chela, and smooth chelicerae.
+
+### Context
+> This taxonomic paper, published in the [[Pan-Pacific Entomologist]] (Vol. 44, No. 4, October 1968) by [[Stanley C Williams]] of San Francisco State College, describes two new scorpion species in the family [[Vejovidae]]. The species are [[Vejovis Utahensis]], a burrowing form from sandy dune...
+> -- *[[TwoNewScorpionsFromWesternNort_12048]]*
+
+### Mentioned In
+- [[TwoNewScorpionsFromWesternNort_12048]]
+
+## Vejovis Grandis
+
+### Summary
+Vejovis grandis is one of the largest Vejovis described here, with a male holotype total length of 64.9 mm. The source places it in the subgenus Paruroctonus and notes that populations were dark on dark soils and light on light soils. Juveniles were scarce in samples.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Gravicaudus
+
+### Summary
+Vejovis gravicaudus is a medium-to-large scorpion with a robust metasoma and is related to V. spinigerus. The source gives a male-related total length of 59.7 mm among the larger species, and notes juveniles were scarce in samples.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Harbisoni
+
+### Summary
+Vejovis harbisoni is a large species in the wupatkiensis group, described as having longer pedipalp fingers and fewer pectine teeth than V. wupatkiensis. It is one of the eleven new Vejovis species described from the Baja California Peninsula.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Hoffmanni
+
+### Summary
+Vejovis hoffmanni is a medium-sized, pale golden yellow scorpion related to V. schwenkmeyeri. The source notes it was lighter near the San Angel sand dunes and darker at San Ignacio.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Insularis
+
+### Summary
+Vejovis insularis is a bright yellow scorpion with a reduced vesicle and an elongate aculeus. The source reports it only from Isla Partida and Isla Espiritu Santo in the Gulf of California, where rocky volcanic hillsides meet open fine soils.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Mesaensis
+
+### Summary
+A scorpion of the Sonoran and Colorado deserts. The source describes it as the closest ecological and morphological counterpart of S. longiunguis, both occupying dune habitats in separate desert regions and showing similar behaviour and adaptations.
+
+### Context
+> This 1969 paper, by [[Stanley C. Williams]] of San Francisco State College, formally describes *Syntropis longiunguis*, a new scorpion species from the sand dunes of Baja California Sur, Mexico. The genus was previously known only from its type specimen, *[[Syntropis Macrura]]*, described by...
+> -- *[[ANewSpeciesOfSyntropisFromBaja_12051]]*
+
+> This taxonomic paper, published in the [[Pan-Pacific Entomologist]] (Vol. 44, No. 4, October 1968) by [[Stanley C Williams]] of San Francisco State College, describes two new scorpion species in the family [[Vejovidae]]. The species are [[Vejovis Utahensis]], a burrowing form from sandy dune...
+> -- *[[TwoNewScorpionsFromWesternNort_12048]]*
+
+> This 1967 taxonomic survey by [[Williams and Hadley]] documents the scorpion fauna of the [[Puerto Peñasco]] area on the [[Gulf of California]] coast of Sonora, Mexico. The authors recorded five species in two families, described one new species, [[Vejovis Baergi]], and provided a regional...
+> -- *[[ScorpionsOfThePuertoPeascoArea_12046]]*
+
+### Mentioned In
+- [[ANewSpeciesOfSyntropisFromBaja_12051]]
+- [[TwoNewScorpionsFromWesternNort_12048]]
+- [[ScorpionsOfThePuertoPeascoArea_12046]]
+
+## Vejovis Minckleyi
+
+### Summary
+A scorpion of talus and cliff habitats in Coahuila, Mexico. The source notes that its ecology and behaviour resemble those of S. macrura rather than S. longiunguis, which is a point of comparison in the paper's discussion of habitat convergence.
+
+### Context
+> This 1969 paper, by [[Stanley C. Williams]] of San Francisco State College, formally describes *Syntropis longiunguis*, a new scorpion species from the sand dunes of Baja California Sur, Mexico. The genus was previously known only from its type specimen, *[[Syntropis Macrura]]*, described by...
+> -- *[[ANewSpeciesOfSyntropisFromBaja_12051]]*
+
+### Mentioned In
+- [[ANewSpeciesOfSyntropisFromBaja_12051]]
+
+## Vejovis Minutis
+
+### Summary
+Vejovis minutis is one of the smallest Vejovis, with a male holotype total length of 14.7 mm. The source reports it only from relatively dense vegetation on low, poorly drained terrain near La Paz.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Pumilis
+
+### Summary
+Vejovis pumilis is a very small scorpion from the pumilis group, described from the 1968 Baja California expedition. The source says it appears endemic to the Magdalena Plain and is the closest known relative of V. pseudopumilis, which differs from it in pectine size, vesicle proportions, telson colour and pedipalp finger shape.
+
+### Context
+> This paper, reprinted from the *Pan-Pacific Entomologist* (Vol. 46, No. 3, July 1970, pp. 181–183), by [[Stanley C. Williams]] of San Francisco State College, formally describes *Vejovis pseudopumilis* as a new species of scorpion in the family [[Vejovidae]]. The species was collected during a 1968...
+> -- *[[ANewSpeciesOfScorpionBelonging_12056]]*
+
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ANewSpeciesOfScorpionBelonging_12056]]
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Schwenkmeyeri
+
+### Summary
+Vejovis schwenkmeyeri is a medium-sized, pale yellow scorpion lacking distinctive markings. The source relates it to V. confusus and to V. hoffmanni.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Spinigerus
+
+### Summary
+A vejovid scorpion species that was one of the three abundant species analysed in this Phoenix South Mountain study. It dominated all the rocky habitats (northern exposure, canyon bottom and southern exposure), and its numbers rose significantly on the southern exposure between 1965 and 1966.
+
+### Context
+> This study examines how four habitat types on Phoenix South Mountain, Arizona, shape the abundance, distribution and community structure of desert scorpions. Using standardized [[Pitfall Trapping]] over 104 consecutive weeks (1964–1966), the author recorded 645 scorpions from eight species in three...
+> -- *[[CoexistenceOfDesertScorpionsBy_12049]]*
+
+> This study by [[Stanley C Williams]] describes the birth and early post-birth behaviour of 14 North American scorpion species from seven genera and four families ([[Buthidae]], [[Chactidae]], [[Diplocentridae]], [[Vejovidae]]). Observations were made over roughly five years in western North...
+> -- *[[BirthActivitiesOfSomeNorthAmer_12050]]*
+
+### Mentioned In
+- [[CoexistenceOfDesertScorpionsBy_12049]]
+- [[BirthActivitiesOfSomeNorthAmer_12050]]
+
+## Vejovis Utahensis
+
+### Summary
+Vejovis utahensis is a scorpion species in the family Vejovidae, described as new in this paper. It is a uniformly straw-yellow burrowing scorpion of fine, packed sandy dune soils near Bluff, San Juan County, Utah, where it was the only scorpion found across the sampled localities. The source gives its holotype and paratype series and separates it from related species by pedipalp, pectine, and keel characters.
+
+### Context
+> This taxonomic paper, published in the [[Pan-Pacific Entomologist]] (Vol. 44, No. 4, October 1968) by [[Stanley C Williams]] of San Francisco State College, describes two new scorpion species in the family [[Vejovidae]]. The species are [[Vejovis Utahensis]], a burrowing form from sandy dune...
+> -- *[[TwoNewScorpionsFromWesternNort_12048]]*
+
+### Mentioned In
+- [[TwoNewScorpionsFromWesternNort_12048]]
+
+## Vejovis Vittatus
+
+### Summary
+Vejovis vittatus is a yellow scorpion with two pairs of dorsal mesosomal stripes and is closely related to V. punctatus. The source notes its island populations differ slightly from mainland populations, and males predominated in samples.
+
+### Context
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Vejovis Vorhiesi
+
+### Summary
+Vejovis vorhiesi is a North American vejovid scorpion from a high-altitude population. The source reports on a colony of 50 mature females collected at Portal, Arizona, in mid-July, which all gave birth within a two-week span, and notes it likely produces one litter per year in a narrow period.
+
+### Context
+> This study by [[Stanley C Williams]] describes the birth and early post-birth behaviour of 14 North American scorpion species from seven genera and four families ([[Buthidae]], [[Chactidae]], [[Diplocentridae]], [[Vejovidae]]). Observations were made over roughly five years in western North...
+> -- *[[BirthActivitiesOfSomeNorthAmer_12050]]*
+
+### Mentioned In
+- [[BirthActivitiesOfSomeNorthAmer_12050]]
+
+## Vejovis Wupatkiensis
+
+### Summary
+Vejovis wupatkiensis is a scorpion species in the genus Vejovis and family Vejovidae. This source says that V. gertschi is closely related to it, but gives no further details about it.
+
+### Context
+> This taxonomic paper, published in the [[Pan-Pacific Entomologist]] (Vol. 44, No. 4, October 1968) by [[Stanley C Williams]] of San Francisco State College, describes two new scorpion species in the family [[Vejovidae]]. The species are [[Vejovis Utahensis]], a burrowing form from sandy dune...
+> -- *[[TwoNewScorpionsFromWesternNort_12048]]*
+
+> Williams (1970), published in the *[[Pan-Pacific Entomologist]]* (Vol. 46, No. 1, pp. 1–11), reports a one-week survey of the scorpion fauna of [[Death Valley]], California, carried out in April 1968. The study examined several hundred specimens and described three previously undescribed species of...
+> -- *[[ThreeNewSpeciesOfVejovisFromDe_12058]]*
+
+### Mentioned In
+- [[TwoNewScorpionsFromWesternNort_12048]]
+- [[ThreeNewSpeciesOfVejovisFromDe_12058]]
+
+## Vejovoidus
+
+### Summary
+An endemic scorpion genus of Baja California, one of the four endemic genera identified by Williams. It includes *V. longiunguis*.
+
+### Context
+> This monograph by Stanley C. Williams (Occasional Papers of the [[California Academy of Sciences]], No. 135, 1980) revises the scorpion fauna of the [[Baja California Peninsula]] and its associated islands. The fauna comprises 61 species, 12 subspecies, 11 genera and 4 families, based on roughly...
+> -- *[[ScorpionsOfBajaCaliforniaMexic_12060]]*
+
+### Mentioned In
+- [[ScorpionsOfBajaCaliforniaMexic_12060]]
 
 ## Vela-Uniform Program
 <!-- fm: auto_enriched: true -->
@@ -1360,11 +2735,35 @@ The Vegetation Management Study, conducted by the Bureau of Reclamation in 1990,
 ### Mentioned In
 - [[SpecialFisheriesReportOnProjec_1961_11_16]]
 
+## Velar Tentacles
+
+### Summary
+Velar tentacles are small fleshy projections around the mouth opening of lampreys, used as a taxonomic character. The source reports only three in E. hubbsi (one median and one lateral on each side), compared with 5–18 in other species, and notes that E. tridentatus had 9–15 in the specimens examined.
+
+### Context
+> Vladykov and Kott describe *[[Entosphenus Hubbsi]]*, a new nonparasitic [[Lamprey]] species of the family [[Petromyzontidae]], from the [[Friant-Kern Canal]] east of Delano, Kern County, California. The description rests on eleven newly transformed adults and one [[Ammocoete]] (larval stage). The...
+> -- *[[ANewNonparasiticSpeciesOfLampr_13180]]*
+
+### Mentioned In
+- [[ANewNonparasiticSpeciesOfLampr_13180]]
+
 ## Velban
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TechniqueForPreparingChromosom_1971_08_01]]
+
+## Veliger
+
+### Summary
+The Veliger is a malacological journal. The source lists it as one of the leading serials for 1950–1969, with 24 titles.
+
+### Context
+> This document is the front matter and bibliography of Memoir 4 of the [[San Diego Society Of Natural History]] (1970), compiled by [[Dwight W Taylor]]. It is the first installment of a planned review of the freshwater and brackish-water Mollusca of western North America, covering both Pleistocene...
+> -- *[[WestAmericanFreshwaterMollusca_13492]]*
+
+### Mentioned In
+- [[WestAmericanFreshwaterMollusca_13492]]
 
 ## Veliger Larvae
 
@@ -1488,11 +2887,23 @@ Velvet Mesquite (Prosopis velutina) is a predominant tree species in the Sonoran
 > This 1952 USDA Forest Service circular by [[Kenneth W. Parker]] and S. Clark Martin examines the invasion of grasslands by [[Velvet Mesquite]] (*Prosopis juliflora* var. *velutina*) across southern Arizona and the wider Southwest. Mesquite now covers about 9 million acres in southeastern Arizona...
 > -- *[[TheMesquiteProblemOnSouthernAr_18437]]*
 
+> This 1997 study in *Wetlands* examines how large floods reshape riverine marsh and riparian vegetation along the free-flowing [[Hassayampa River]] in central Arizona. Riverine marsh expanded fivefold, from 2% to 9% of the floodplain-channel area, after the severe [[1993 Flood]]. Floodwaters eroded...
+> -- *[[MarshDevelopmentAfterLargeFloo_14636]]*
+
+> This study documents the repeated formation and destruction of a [[Mesquite Bosque]] (a woodland of [[Honey Mesquite]] and [[Velvet Mesquite]]) on a terrace of the [[Gila River]] in eastern Arizona. The terrace originated behind a coarse [[Alluvial Fan]] (a boulder cone) deposited by flash floods...
+> -- *[[FormationAndDestructionOfAGila_13697]]*
+
+> This historical review by [[W. L. Minckley]] (Arizona State University) and [[John N. Rinne]] (USDA Forest Service) argues that [[Large Woody Debris]] was once a significant, though sporadic, component of [[Sonoran Desert]] streams, contrary to the common view that large particulate organic debris...
+> -- *[[LargeWoodyDebrisInHotdesertStr_15894]]*
+
 ### Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[RemoteSensingMappingOfArizonaI_14412]]
 - [[VegetationResponsesToGrazingRa_17319]]
 - [[TheMesquiteProblemOnSouthernAr_18437]]
+- [[MarshDevelopmentAfterLargeFloo_14636]]
+- [[FormationAndDestructionOfAGila_13697]]
+- [[LargeWoodyDebrisInHotdesertStr_15894]]
 
 ## Vemco V13-1L
 
@@ -1527,8 +2938,28 @@ The Vendace (Coregonus albula) is a threatened fish species that was formerly fo
 > This comprehensive review by [[Peter S. Maitland]] examines the global status of fish conservation, covering approximately 30,000 described fish species worldwide. Despite fish representing three in every five vertebrate species, they have historically received minimal conservation attention...
 > -- *[[TheConservationOfFishPastAndPr_19359]]*
 
+> This document is EIFAC Occasional Paper No. 18 (FAO, Rome, 1987), a annotated bibliography compiled by E. Dahm of the Bundesforschungsanstalt für Fischerei, Hamburg. It collects roughly 50 publications on the [[Selectivity]] of inland water fishing gear authored by European scientists, many...
+> -- *[[BibliographyOfExistingLiteratu_13926]]*
+
+> This review by [[Peter S. Maitland]] proposes national criteria for selecting freshwater fish sites in the British Isles for notification as [[National Nature Reserves]] or [[Sites of Special Scientific Interest]]. The author argues that many important fish sites remain unprotected because clear...
+> -- *[[CriteriaForTheSelectionOfImpor_19358]]*
+
 ### Mentioned In
 - [[TheConservationOfFishPastAndPr_19359]]
+- [[BibliographyOfExistingLiteratu_13926]]
+- [[CriteriaForTheSelectionOfImpor_19358]]
+
+## Venezillo Tanneri
+
+### Summary
+A terrestrial isopod first described from a female as Cubaris by Mulaik and Mulaik (1942). This paper describes its male allotype, notes its grayish-brown colour and key morphology, and records it from three sites, mostly caves such as Diablo Cave in Texas.
+
+### Context
+> This 1965 reprint from the *Texas Journal of Science* by [[George A. Schultz]] of the [[Duke Marine Laboratory]] identifies isopods collected from caves and mines in Texas and northern Mexico. Specimens were sent by [[James Reddell]] of the [[Texas Speleological Survey]]. The collections comprise 8...
+> -- *[[TerrestrialIsopodsFromCavesAnd_20618]]*
+
+### Mentioned In
+- [[TerrestrialIsopodsFromCavesAnd_20618]]
 
 ## Venezuela
 <!-- fm: auto_enriched: true -->
@@ -1548,6 +2979,18 @@ The Vendace (Coregonus albula) is a threatened fish species that was formerly fo
 - [[SicydiumMontanumANewSpeciesOfG_19968]]
 - [[FaoSpeciesIdentificationSheets_20826]]
 
+## Venom Apparatus
+
+### Summary
+The stinging structure of ictalurid catfish, made up of dorsal and pectoral spines and their integumentary sheaths, plus an axillary gland in some species. Venom-producing glandular cells sit in the sheath and resemble the large mucus glands of the skin. The author says anatomy of this apparatus does not adequately explain the interspecific differences in sting toxicity.
+
+### Context
+> This 1967 study by William S. Birkhead (University of Texas, Austin) compares the toxicity of venom extracts from the stings and caudal fins of six [[Ictalurid Catfish]] species from two genera, [[Ictalurus]] and [[Schilbeodes]]. Extracts were injected into [[Gambusia Affinis]] in a laboratory...
+> -- *[[TheComparativeToxicityOfStings_17645]]*
+
+### Mentioned In
+- [[TheComparativeToxicityOfStings_17645]]
+
 ## Venomous Fishes
 
 ### Summary
@@ -1559,6 +3002,30 @@ Fish with venom that is dangerous to people, including toadfishes (Opsanus, Thal
 
 ### Mentioned In
 - [[InjuriousWildlifeProposedImpor_11536]]
+
+## Ventral Nerve Cord
+
+### Summary
+The ventral nerve cord is the chain of ganglia running along the underside of an insect's body that controls the body segments. In this source, Illies uses the number and position of its abdominal ganglia as a character for testing relationships within Plecoptera. The ganglion chain is shown to concentrate toward the thorax, with the count varying from 5 to 8 across the order.
+
+### Context
+> This paper, presented by Prof. Dr. Joachim Illies at the 9th Wanderversammlung Deutscher Entomologen (Berlin, 6–8 June 1961, published 1962), uses the number and position of abdominal ganglia in the [[Ventral Nerve Cord]] to test phylogenetic relationships within the order [[Plecoptera]]...
+> -- *[[BerichtUverDieWanderversammlun_20486]]*
+
+### Mentioned In
+- [[BerichtUverDieWanderversammlun_20486]]
+
+## Ventral Pigmentation
+
+### Summary
+Ventral pigment pattern, such as a midventral stripe or scattered breast melanophores, is one of the four diagnostic characters. The pattern is consistent within a species but can change with development, and pigment intensity varies greatly between wild-caught and laboratory-reared larvae.
+
+### Context
+> This state-of-the-art review compiles the known morphological characters of cyprinid larvae in eastern North America. Larval morphology is documented for 62 species in 22 genera, out of 179 species in 25 genera recorded in the study area. The authors group species by four diagnostic characters:...
+> -- *[[StateOfTheArtOfIdentificationF_18889]]*
+
+### Mentioned In
+- [[StateOfTheArtOfIdentificationF_18889]]
 
 ## Ventridens Demissus
 <!-- fm: auto_enriched: true -->
@@ -1608,6 +3075,18 @@ Ventrifossa macronemus is a deep-sea macrourid fish species endemic to the Phili
 ### Mentioned In
 - [[TheHydrographicAndFaunalIndepe_19989]]
 
+## Ventura Basin
+
+### Summary
+A sedimentary basin in southern California, west of the San Andreas fault, containing fluvial-deltaic deposits that Howard (1996) examines as part of the record of an ancestral Colorado River. The source uses its rock sequences to test whether a Colorado paleoriver once reached the Los Angeles region.
+
+### Context
+> This 1996 *Geology* paper by Jeffrey L. Howard (Department of Geology, Wayne State University) reconstructs the early history of the [[Colorado River]] using fluvial-deltaic rock records from the [[Los Angeles Basin]], the [[Ventura Basin]], and the [[Salton Trough]]. The author proposes that a...
+> -- *[[PaleoceneToHolocenePaleodeltas_19948]]*
+
+### Mentioned In
+- [[PaleoceneToHolocenePaleodeltas_19948]]
+
 ## Ventura Marsh
 <!-- fm: auto_enriched: true -->
 
@@ -1621,9 +3100,33 @@ Ventrifossa macronemus is a deep-sea macrourid fish species endemic to the Phili
 > 1. **Growth Rates**: Comparable to other regions overall, though [[Ventura Marsh]] pike grew significantly faster in their second year of life than [[Clear Lake]] pike (F = 23.84, p<0.05). 2. **Sexual Dimorphism in Growth**: Female pike grew significantly faster than males during the second year ...
 > -- *[[NorthernPikeEsoxLuciusLPopulat_1957_08_15]]*
 
+> This short 1955 study tested whether [[Northern Pike]] (*Esox lucius*) stocked in [[Clear Lake]], Iowa, were recaptured mainly near their stocking sites. In fall 1953, 2,630 individually tagged young-of-the-year pike were released at eight locations. Anglers returned 780 tagged fish in the summer...
+> -- *[[DispersalOfStockedNorthernPike_17396]]*
+
+> This 1957 paper by [[Kenneth D. Carlander]] (Iowa State College, reprinted in the *Transactions of the American Fisheries Society*) argues that deliberately disturbing the [[Predator-Prey Balance]] in freshwater game fish populations can improve angler success and can serve as a practical...
+> -- *[[DisturbanceOfThePredatorpreyBa_17401]]*
+
+> This 1955 study by [[John L. Forney]] (Iowa State College, Department of Zoology and Entomology) examines the life history of the [[Black Bullhead]] (*Ameiurus melas*) in [[Clear Lake]], a shallow eutrophic glacial lake of 3,643 acres in north-central Iowa. Data came mainly from a 1951 field...
+> -- *[[LifeHistoryOfTheBlackBullheadA_18777]]*
+
 ### Mentioned In
 - [[GrowthOfBluegillLepomisMacroch_1957_08_15]]
 - [[NorthernPikeEsoxLuciusLPopulat_1957_08_15]]
+- [[DispersalOfStockedNorthernPike_17396]]
+- [[DisturbanceOfThePredatorpreyBa_17401]]
+- [[LifeHistoryOfTheBlackBullheadA_18777]]
+
+## Venturan Sage
+
+### Summary
+A southern coastal division of coastal sage scrub. It is about 61% similar to Diegan sage and shares roughly half its species with each of the other divisions, reflecting its central position.
+
+### Context
+> This paper by Daniel I. Axelrod (Department of Botany, University of California, Davis) reconstructs the age and origin of [[Coastal Sage Scrub]], a shrub vegetation type of Alta and Baja California. The author argues that coastal sage is a new, pioneer-type vegetation that spread widely only after...
+> -- *[[TheOriginOfCoastalSageVegetati_10594]]*
+
+### Mentioned In
+- [[TheOriginOfCoastalSageVegetati_10594]]
 
 ## Venugopalan 1967
 <!-- fm: auto_enriched: true -->
@@ -1662,6 +3165,18 @@ Venus mercenaria is the hard-shell clam, also called the quahog, an edible bival
 - [[TheEmbryonicAndEarlyLarvalStag_20681]]
 - [[TheLifeHistoryOfTheTuiChubSiph_12529]]
 
+## Vera Cruz
+
+### Summary
+Vera Cruz is a Mexican state on the Gulf of Mexico coast. In this source it is the state where the new species Xiphophorus andersi was collected, at the Rio Atoyac near Chico.
+
+### Context
+> This taxonomic paper, written in German with an English abstract, describes **[[Xiphophorus Andersi]]**, a new poeciliid species from the [[Rio Atoyac]] in [[Vera Cruz]], Mexico. The species is distinguished by a large head, a moderately slender body, a large dark spot at the base of the anal fin,...
+> -- *[[EineNeueXiphorphorusartAusVera_20175]]*
+
+### Mentioned In
+- [[EineNeueXiphorphorusartAusVera_20175]]
+
 ## Vera G. Collins
 
 ### Summary
@@ -1671,8 +3186,12 @@ Vera G. Collins was a senior scientist at the Freshwater Biological Association 
 > This two-part paper by [[Vera G. Collins]], a senior scientist at the Freshwater Biological Association, reviews how freshwater bacteria have been studied and then reports a new method for counting them. The author argues that bacteriology of freshwater has been dominated by water-quality testing,...
 > -- *[[TheDistributionAndEcologyOfBac_17161]]*
 
+> This 1957 methods paper by [[Vera G. Collins]] and [[Charlotte Kipling]], from the [[Freshwater Biological Association]], describes a direct microscopic method for counting total bacteria in lake water without cultivation. Samples are stained with [[Gentian Violet]] in a [[Glycerol]]-water base,...
+> -- *[[TheEnumerationOfWaterborneBact_17163]]*
+
 ### Mentioned In
 - [[TheDistributionAndEcologyOfBac_17161]]
+- [[TheEnumerationOfWaterborneBact_17163]]
 
 ## Veracruz
 
@@ -1686,9 +3205,41 @@ Veracruz is a Mexican state included in the geographic extent of this climatolog
 > This 1969 taxonomic paper by C. E. Dawson of the [[Gulf Coast Research Laboratory]] (Ocean Springs, Mississippi), published in the *Proceedings of the Biological Society of Washington* (vol. 82, pp. 355-372), describes [[Citharichthys Abbotti]] as a new species of [[Bothidae|bothid flatfish]] from...
 > -- *[[CitharichthysAbbottiANewFlatfi_13988]]*
 
+> This taxonomic paper formally describes *[[Priapella Olmecae]]* sp. n., a new freshwater poeciliid from the Los Tuxtlas region of [[Veracruz]], México. The type locality is [[Rio de la Palma]]. Morphological comparison based on [[Gonopodium]] structure, fin-ray and [[Gill Rakers]] counts, and body...
+> -- *[[PriapellaOlmecaeSpNANewSpecies_20173]]*
+
+> This study assesses the probable ecological impact of the exotic freshwater snail [[Thiara (Melanoides) Tuberculata]] (Gastropoda: [[Thiaridae]]) in Mexico. The species was introduced around the 1960s, probably through the [[Aquarium Trade]], and has since spread to springs, streams, rivers and...
+> -- *[[ThiaraMelanoidesTuberculataMul_17510]]*
+
+> This 1995 taxonomic paper by [[Contreras-Arquieta]], [[Guajardo-Martínez]] and [[Contreras-Balderas]] redescribes the exotic freshwater prosobranch snail *Thiara (Melanoides) tuberculata* in Mexico and maps its national distribution. The species is thought to have reached Mexico around the 1960s,...
+> -- *[[RedescripcionDeCaracolExogenoT_17509]]*
+
+> This paper presents an updated checklist of the marine and coastal fishes of [[Veracruz]], Mexico, on the southwestern [[Gulf of Mexico]]. It combines literature records with the results of 22 collecting trips that yielded 1,989 specimens. The checklist lists 290 species in 171 genera and 71...
+> -- *[[PecesCosterosYMarinosDelEstado_16230]]*
+
+> This study tests whether the X sex chromosome is absent from the [[Belize River]] and [[Sibun River]] populations of the [[Southern Platyfish]] (*Xiphophorus maculatus*), as earlier, limited work suggested. Breeding tests on wild-caught fish from three collecting stations found that the W and Y...
+> -- *[[SexDeterminationAndTheRestrict_17871]]*
+
 ### Mentioned In
 - [[DouglasMexicanTemperaturePreci_12378]]
 - [[CitharichthysAbbottiANewFlatfi_13988]]
+- [[PriapellaOlmecaeSpNANewSpecies_20173]]
+- [[ThiaraMelanoidesTuberculataMul_17510]]
+- [[RedescripcionDeCaracolExogenoT_17509]]
+- [[PecesCosterosYMarinosDelEstado_16230]]
+- [[SexDeterminationAndTheRestrict_17871]]
+
+## Veracruz Karst
+
+### Summary
+One of the four karst study regions, covering Tlilapan near Orizaba and Córdoba, where mean annual rainfall is above 80 inches. The note lists Cueva de Ojo de Agua Grande here, with an abundant isopod fauna including Typhlotricholigioides aquaticus.
+
+### Context
+> This introductory note from the [[Accademia Nazionale Dei Lincei]] reports the first Italian biospeleological expedition to Mexico (10 October to 9 December 1969), led by Valerio Sbordoni and Roberto Argano. The mission aimed to compare cave fauna of tropical and temperate karst by sampling caves...
+> -- *[[IntroductionCaveStudiedDuringT_20537]]*
+
+### Mentioned In
+- [[IntroductionCaveStudiedDuringT_20537]]
 
 ## Verde
 
@@ -1750,6 +3301,9 @@ The Verde Formation is a Miocene-Pliocene geological formation associated with a
 > This Northern Arizona University M.S. thesis by Jason Harris Donchin (1983) examines the [[Verde Formation]], a late Miocene to early Pliocene sequence of carbonate, clastic and basaltic rocks deposited near the eastern margin of the Verde depositional basin in central Arizona. Six measured...
 > -- *[[StratigraphyAndSedimentaryEnvi_19062]]*
 
+> This study tracks single water masses flowing from [[Montezuma Well]], a [[Limnocrene]] in central Arizona, down a 1.57 km [[Irrigation Canal]] over roughly one hour. Sampling took place at noon, dusk and dawn in June 1968 and October 1968. The authors report that dissolved solutes and...
+> -- *[[DynamicsOfAnArizonaTravertineF_17110]]*
+
 ### Mentioned In
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[FinalReportToMontezumaMonument_16015]]
@@ -1757,6 +3311,7 @@ The Verde Formation is a Miocene-Pliocene geological formation associated with a
 - [[LocationOfTertiaryBasinsAndorS_19593]]
 - [[PreliminaryReportOfInvestigati_16361]]
 - [[StratigraphyAndSedimentaryEnvi_19062]]
+- [[DynamicsOfAnArizonaTravertineF_17110]]
 
 ## Verde Paddlethon
 <!-- fm: auto_enriched: true -->
@@ -2171,6 +3726,51 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This 1991 research proposal outlines a three-year study of radio-telemetered and otherwise marked subadult [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Verde River]] drainage of Arizona. The work aims to generate the basic ecological data (movements, habitat selection, food habits, age and...
 > -- *[[MovementsAndHabitatUseOfSubadu_15923]]*
 
+> This study by Marsh and Fisher (1987, *Journal of Arid Environments*) estimates whole-system and component oxygen metabolism in the [[Arizona Canal]], a 12-km, concrete-lined irrigation canal near [[Phoenix Metropolitan Area]], Arizona. The canal was measured on four dates in 1983 using diel...
+> -- *[[MetabolismOfAnAridRegionCanalE_17029]]*
+
+> This study examines how benthic macroinvertebrates in [[Sycamore Creek]], an intermittent [[Sonoran Desert]] stream in Arizona, cope with drying and rewetting. The authors tested two mechanisms of persistence: resistance (tolerance or avoidance during drying and water loss) and resilience (recovery...
+> -- *[[InvertebrateResistanceAndResil_14715]]*
+
+> This 1990 study by [[H. Maurice Valett]], [[Stuart G. Fisher]], and [[Emily H. Stanley]] (Arizona State University, *Journal of the North American Benthological Society* 9(3):201-215) describes the physical and chemical conditions of the [[Hyporheic Zone]] in three sandy runs of [[Sycamore Creek]],...
+> -- *[[PhysicalAndChemicalCharacteris_13667]]*
+
+> This paper reconstructs streamflow for three central Arizona gauges, [[Verde River]] at Tangle Creek (VERDTANG), [[Tonto Creek]] at Gun Creek (TONTGUN), and [[Salt River]] at Roosevelt (SALTROOS), from 1580 to the start of the historical gauge records. The method is a three-way interpolation model...
+> -- *[[ReconstructingStreamflowTimeSe_20899]]*
+
+> This Associated Press article from Kingman, Arizona, reports that the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) is in serious decline across the American Southwest. Conservationists working to restore the species are reluctant to have it federally listed as endangered, because they fear...
+> -- *[[ItsAnUphillBattleForRazorbackS_18272]]*
+
+> A historic 1999 agreement between [[Arizona Public Service]] (APS) and an environmental partnership led by [[American Rivers]] will close and decommission the Childs-Irving hydropower plants on [[Fossil Creek]], which have diverted over 95% of the creek's flow since 1908. Under the agreement, full...
+> -- *[[FossilCreekMilesOfStreamRestor_20558]]*
+
+> This newspaper feature by Steve Daniels (Western Arizona Bureau) reports on the decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a large native fish of the [[Colorado River Basin]] that was once common in Arizona and southern California but has been reduced to a few surviving adults,...
+> -- *[[UglyRazorbackSuckersFaceOblivi_13541]]*
+
+> This 1975 newspaper outdoors column reports on recent sport-fishing conditions and wildlife incidents in Arizona and the Gulf of California. The main fishing items are a growing smallmouth bass fishery at [[Apache Lake]], a late spring [[Striped Bass]] migration on the [[Colorado River]] at [[Lake...
+> -- *[[SmallmouthBassThriveAtApache_12192]]*
+
+> This 1992 study from the [[Arizona State University]] Department of Zoology examines the limnology of [[Pools]] in [[Sycamore Creek]], a low desert stream in Arizona, and compares how pools and [[Riffles]] resist and recover from a flood-deposited silt event. The work covers June through October...
+> -- *[[PoolsInDesertStreamsLimnologyA_20810]]*
+
+> This geomorphic study, produced under the [[Arid Lands Project]] at the [[University of Arizona]], examines how the modern drainage of southeastern Arizona developed, with a focus on the [[Safford Valley]] in Graham County. The writer asks how the [[Gila River]] came to cross the [[Mescal...
+> -- *[[OriginOfTheDrainageOfSoutheast_20114]]*
+
+> This 1978 study by [[Stuart G. Fisher]] and [[W. L. Minckley]] (Arizona State University) documents changes in water chemistry and discharge during a single flash flood on [[Sycamore Creek]], a desert tributary of the [[Verde River]] in central Arizona. Suspended particulates rose from 0.3 g/l to a...
+> -- *[[ChemicalCharacteristicsOfADese_16427]]*
+
+> This study by [[Lawrence J. Gray]] (Arizona State University) describes the aquatic insect fauna of [[Sycamore Creek]], a lowland [[Sonoran Desert]] stream in central Arizona, sampled from July 1977 to 1979. The fauna comprised 99 aquatic insect taxa within 104 macroinvertebrate taxa. Life...
+> -- *[[SpeciesCompositionAndLifeHisto_19209]]*
+
+> This 1981 paper in the *Water Resources Bulletin* by Lawrence P. Smith and Charles W. Stockton uses [[Tree-Ring Reconstruction]] to extend annual and seasonal runoff records of the [[Salt River]] and [[Verde River]] in central Arizona back to A.D. 1580. The study tests whether the gaged record...
+> -- *[[ReconstructedStreamFlowForTheS_21180]]*
+
+> This study by [[Campbell]] and [[Green]] examines the composition, distribution, and community structure of stream-channel vegetation along [[Sycamore Creek]], a 42-mile, semiarid stream in central [[Arizona]] that drains the [[Mazatzal Mountains]] and joins the [[Verde River]]. Using 402 randomly...
+> -- *[[PerpetualSuccessionOfStreamcha_17347]]*
+
+> This review by [[John N. Rinne]] of the [[Rocky Mountain Research Station]] examines the relationships between [[Livestock Grazing]] and fishes in the western and southwestern United States. The author finds that the direct effects of grazing on vegetation are well documented, but the indirect...
+> -- *[[FishAndGrazingRelationshipsThe_15009]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -2361,6 +3961,21 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[DestructiveFloodsInTheUnitedSt_15522]]
 - [[UpdateForDesertFishesRecoveryT_14796]]
 - [[MovementsAndHabitatUseOfSubadu_15923]]
+- [[MetabolismOfAnAridRegionCanalE_17029]]
+- [[InvertebrateResistanceAndResil_14715]]
+- [[PhysicalAndChemicalCharacteris_13667]]
+- [[ReconstructingStreamflowTimeSe_20899]]
+- [[ItsAnUphillBattleForRazorbackS_18272]]
+- [[FossilCreekMilesOfStreamRestor_20558]]
+- [[UglyRazorbackSuckersFaceOblivi_13541]]
+- [[SmallmouthBassThriveAtApache_12192]]
+- [[PoolsInDesertStreamsLimnologyA_20810]]
+- [[OriginOfTheDrainageOfSoutheast_20114]]
+- [[ChemicalCharacteristicsOfADese_16427]]
+- [[SpeciesCompositionAndLifeHisto_19209]]
+- [[ReconstructedStreamFlowForTheS_21180]]
+- [[PerpetualSuccessionOfStreamcha_17347]]
+- [[FishAndGrazingRelationshipsThe_15009]]
 
 ## Verde River Aquatic Ecology
 
@@ -2494,6 +4109,18 @@ Verhoeven was a researcher who demonstrated a two-stage reduction process in den
 ### Mentioned In
 - [[SomeObservationsOnDenitrificat_12181]]
 
+## Verhulst Logistic Equation
+
+### Summary
+The logistic equation is the classic model of population growth that levels off at a carrying capacity, first formulated by Verhulst. Ricker's paper draws on this density-limited growth idea as part of the background for his stock-recruitment analysis. This note does not develop the equation itself.
+
+### Context
+> Ricker (1954) synthesizes the theory of how population size is regulated by density-dependent mortality, and how the resulting stock-recruitment (reproduction) curves shape abundance over time. Plotting filial egg production against parental egg production typically gives a domed curve crossing the...
+> -- *[[StockAndRecruitment_16864]]*
+
+### Mentioned In
+- [[StockAndRecruitment_16864]]
+
 ## Verkhoyansky Mountains
 <!-- fm: auto_enriched: true -->
 
@@ -2544,6 +4171,18 @@ A stream system rated fair, with 80 species. It is one of the systems showing mo
 ### Mentioned In
 - [[IllinoisStreamsAClassification_21196]]
 
+## Vermilion Cliffs
+
+### Summary
+A sandstone cliff system in northern Arizona, near Lees Ferry and the Paria Plateau, chosen by the U.S. Fish and Wildlife Service as the release site for California condors. The source notes its advantages, including safe roosting and nesting sites, favorable winds, nearby water sources, and few power lines nearby.
+
+### Context
+> This Canyon Journal feature (a magazine essay by several contributors, not a research paper) describes the planned reintroduction of [[California Condor]] to the [[Vermilion Cliffs]] of northern Arizona. It traces the species' deep history in North America, its decline under human pressure, and its...
+> -- *[[UpInTheSky_16123]]*
+
+### Mentioned In
+- [[UpInTheSky_16123]]
+
 ## Vermilion County
 
 ### Summary
@@ -2556,6 +4195,18 @@ A county in east central Illinois, USA, where Jordan Creek and its study section
 ### Mentioned In
 - [[AnInventoryOfTheFishesOfJordan_20182]]
 
+## Vermilion Darter
+
+### Summary
+The Vermilion Darter is the common name given to Etheostoma chermocki in this source. The name refers to the vermilion-coloured ventro-lateral flanks and belly of breeding males. The authors recommend ENDANGERED status because its range is very small and degraded.
+
+### Context
+> Boschung, Mayden and Tomelleri (1992) describe [[Etheostoma Chermocki]], the **[[Vermilion Darter]]**, a new snubnose darter in the subgenus [[Ulocentra]]/[[Nanostoma]]. The species is known only from a short reach of Turkey Creek, a tributary of [[Locust Fork]] in the [[Black Warrior River]]...
+> -- *[[EtheostomaChermockiANewSpecies_17733]]*
+
+### Mentioned In
+- [[EtheostomaChermockiANewSpecies_17733]]
+
 ## Vermilion Flycatcher
 
 ### Summary
@@ -2567,6 +4218,18 @@ A small flycatcher that breeds in the marsh and mesquite woodland of the Quitoba
 
 ### Mentioned In
 - [[VegetationRecoveryFollowingLiv_14904]]
+
+## Vermilion River
+
+### Summary
+A tributary of the Wabash River in east-central Illinois, rising in Champaign County. This source studies its fish fauna, comparing pre-1901 collections with 1956–1966 collections and finding losses tied mainly to habitat alteration, silt, and dams. Dredging was especially intense in its headwaters, and sewage from Danville sludged the river below that city.
+
+### Context
+> This study compares fish collections made before 1901 with collections made from 1956 to 1966 in the [[Vermilion River]] and [[Embarras River]] basins of east-central Illinois, both tributaries of the [[Wabash River]]. One species is extirpated and 20 are decimated. The author attributes the losses...
+> -- *[[AnAssessmentOfChangesInTheFish_21194]]*
+
+### Mentioned In
+- [[AnAssessmentOfChangesInTheFish_21194]]
 
 ## Vermilion Rockfish
 <!-- fm: auto_enriched: true -->
@@ -2670,6 +4333,18 @@ Vernal Pools are ephemeral standing waters within the Sacramento-San Joaquin Pro
 ### Mentioned In
 - [[AConservationorientedClassific_15455]]
 
+## Vernal Utah
+
+### Summary
+A city in northeastern Utah. The source identifies John Hamill, a wildlife biologist based in Vernal, as the official quoted on the squawfish find.
+
+### Context
+> A news report from the *Denver Post* (by Mary George) describes the first recorded [[Colorado Squawfish]] in Wyoming since 1962. A 27-inch adult was caught and released on August 20 from the [[Little Snake River]] just west of [[Baggs Wyoming]], close to the Colorado border. The [[Wyoming Game And...
+> -- *[[ColoradoSquawfishFoundInWyomin_14446]]*
+
+### Mentioned In
+- [[ColoradoSquawfishFoundInWyomin_14446]]
+
 ## Vernal, Utah
 <!-- fm: auto_enriched: true -->
 
@@ -2679,6 +4354,18 @@ Vernal Pools are ephemeral standing waters within the Sacramento-San Joaquin Pro
 
 ### Mentioned In
 - [[StationProfileJonesHoleNationa_19544]]
+
+## Verneaux Classification
+
+### Summary
+Verneaux's classification is a French system for zoning rivers from source to mouth using biological communities. The authors adopted its sampling spacing of 5, 10, 20, 30 and 40 km from the source, then 20 km intervals downstream.
+
+### Context
+> This 1984 paper in [[Freshwater Biology]] presents a national classification of unpolluted running-water sites in [[Great Britain]] based on macro-invertebrate species lists. Sampling covered 268 sites on forty-one river systems plus nine additional tributaries, sampled qualitatively in spring,...
+> -- *[[APreliminaryClassificationOfRu_20850]]*
+
+### Mentioned In
+- [[APreliminaryClassificationOfRu_20850]]
 
 ## Vernon
 
@@ -2699,8 +4386,12 @@ Vernon is a location in British Columbia where the holotype male and multiple pa
 > 1. **Crawford/Rainbow Lake sockeye** became fully landlocked after fry plantings in the 1920s ceased normal seaward migration, producing a self-reproducing freshwater "residual" population — demonstrating that stringent physical barriers to anadromy can rapidly produce alternate life-history type...
 > -- *[[AdditionalObservationsConcerni_16872]]*
 
+> This 1968 study by Joseph S. Nelson (University of British Columbia, published in the *Journal of the Fisheries Research Board of Canada*, 25(2): 415–420) compares gillraker counts among freshwater [[Kokanee]] populations and their anadromous progenitor, the [[Sockeye Salmon]]. Gillrakers were...
+> -- *[[VariationInGillrakerNumberInNo_19630]]*
+
 ### Mentioned In
 - [[AdditionalObservationsConcerni_16872]]
+- [[VariationInGillrakerNumberInNo_19630]]
 
 ## Vernon 1960
 <!-- fm: auto_enriched: true -->
@@ -2724,6 +4415,42 @@ Vernon County, Wisconsin was the location of stream trials testing antimycin's e
 ### Mentioned In
 - [[AntimycinaNewFisheryTool_20243]]
 
+## Vernon E. Brock
+
+### Summary
+Vernon E. Brock is a researcher from the University of Hawaii who, with Robert H. Riffenburgh, showed that a school cannot be decimated once it exceeds a certain size. The source cites this work as evidence for a predator-confusion benefit of schooling.
+
+### Context
+> This reprinted 1962 *Scientific American* article by [[Evelyn Shaw]] examines how fishes form schools, a social organization defined by parallel orientation, near-constant spacing, and synchronized movement. Shaw's laboratory work on [[Menidia]] silversides (whitebait) shows that schooling develops...
+> -- *[[TheSchoolingOfFishes_11405]]*
+
+### Mentioned In
+- [[TheSchoolingOfFishes_11405]]
+
+## Vernon Hooper Dam
+
+### Summary
+The Vernon Hooper Dam cushion basin at Shongweni, KwaZulu-Natal, South Africa, is one of the two source localities for snails in this study. Its water had about 490 ppm total dissolved solids, mainly from high sodium, chloride and bicarbonate. Snails from here died at high rates when transferred directly to standard laboratory water.
+
+### Context
+> This short paper by J. Heeg (Department of Zoology, University of Natal, Pietermaritzburg) examines how abrupt changes in [[Total Dissolved Solids]] (TDS) affect the aquatic pulmonate snail [[Bulinus Africanus]]. Snails from the [[Vernon Hooper Dam]] at Shongweni (native water 490 ppm TDS) suffered...
+> -- *[[ANoteOnTheEffectsOfDrasticChan_16594]]*
+
+### Mentioned In
+- [[ANoteOnTheEffectsOfDrasticChan_16594]]
+
+## Vernon Orlando Bailey
+
+### Summary
+A mammalogist and naturalist with the Biological Survey, known for field work on mammals in the western United States. The guide names him as one of the principal contributors, with reports in the Arizona holdings and a photograph on the Death Valley Expedition.
+
+### Context
+> This is a finding aid (Guide Number 4) to the field reports of the [[United States Fish and Wildlife Service]] and its predecessor, the [[Bureau of Biological Survey]]. The collection is Record Unit 7176, measures 17.2 linear meters, and is held by the [[Smithsonian Archives]] at the [[Smithsonian...
+> -- *[[GuideToTheFieldReportsOfTheUni_17973]]*
+
+### Mentioned In
+- [[GuideToTheFieldReportsOfTheUni_17973]]
+
 ## Vernon W. Cole
 
 ### Summary
@@ -2733,14 +4460,42 @@ Research Associate at the Cooperative Fisheries Research Laboratory, Southern Il
 > This 1957 article, reprinted from *Industrial Wastes* and written by [[Vernon W. Cole]], describes how [[Acid Mine Drainage]] from bituminous coal mines damaged [[Lake Alma]] in southeastern Ohio. Acid inflow caused a decline and loss of several fish species, including [[Gizzard Shad]], [[Carp]],...
 > -- *[[LimeTreatmentOfLakeReducesAcid_17119]]*
 
+> This 1958 *[[Turtox News]]* article by [[Vernon W. Cole]] and [[William M. Lewis]] of the Cooperative Fisheries Management Research Laboratory at [[Southern Illinois University]], [[Carbondale]], reviews methods for removing residual chlorine from municipal tap water before it is used in aquaria....
+> -- *[[TheRemovalOfResidualChlorineFr_17120]]*
+
 ### Mentioned In
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
+- [[TheRemovalOfResidualChlorineFr_17120]]
 
 ## Vero Beach
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[ContinuedRangeExpansionInFlori_1978]]
+
+## Veronica
+
+### Summary
+Veronica is a genus of small herbaceous aquatic and bank plants (speedwells). In this source, sparse Veronica grew near the banks of Section B of Hunt Creek before stream improvement.
+
+### Context
+> This study evaluates whether current deflectors (wing-type stream-improvement structures) increase the number, depth, and yield of pools for [[Brook Trout]] in a 1,605-foot section (Section B) of [[Hunt Creek]], Michigan. Data were gathered over eight years: three before and five after installation...
+> -- *[[TheEffectsOfDeflectorsInASecti_18909]]*
+
+### Mentioned In
+- [[TheEffectsOfDeflectorsInASecti_18909]]
+
+## Vertebral Annuli
+
+### Summary
+Annual growth bands counted on fish vertebral centra to estimate age. In this study, dark, translucent annuli alternate with broader opaque summer bands, and vertebra-based ages agreed closely with length-frequency modes.
+
+### Context
+> This study examines the life history of the [[Utah Sculpin]] (*[[Cottus Bairdi Semiscaber]]*) in the [[Logan River]], Utah, based on 801 specimens collected from 1949 to March 1951. The work aimed to clarify the sculpin's relationship to [[Game Fish]] and to supplement existing knowledge of the...
+> -- *[[LifeHistoryOfTheUtahSculpinCot_20928]]*
+
+### Mentioned In
+- [[LifeHistoryOfTheUtahSculpinCot_20928]]
 
 ## Vertebral Apophysis
 <!-- fm: auto_enriched: true -->
@@ -2757,8 +4512,24 @@ Vertebral centra are the central body parts of the backbone vertebrae. The study
 > This study tests the age of the remnant [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mohave]], Arizona-Nevada, and compares several bony structures for age estimation. Of seven structures examined, only sectioned [[Sectioned Otoliths]] (sagittae) gave reliable ages for large...
 > -- *[[AgeDeterminationForImperiledRa_12256]]*
 
+> This 1955 study by [[John L. Forney]] (Iowa State College, Department of Zoology and Entomology) examines the life history of the [[Black Bullhead]] (*Ameiurus melas*) in [[Clear Lake]], a shallow eutrophic glacial lake of 3,643 acres in north-central Iowa. Data came mainly from a 1951 field...
+> -- *[[LifeHistoryOfTheBlackBullheadA_18777]]*
+
 ### Mentioned In
 - [[AgeDeterminationForImperiledRa_12256]]
+- [[LifeHistoryOfTheBlackBullheadA_18777]]
+
+## Vertebral Count
+
+### Summary
+A meristic character, the number of vertebrae including the urostyle, recorded for each fish. Here it showed a significant difference between Keith Arm (mean 59.5) and McTavish Arm (mean 58.7) ciscoes.
+
+### Context
+> This study by W. A. Kennedy of the [[Central Fisheries Research Station]] presents morphometric measurements and meristic counts for three coregonine species from [[Great Bear Lake]]: [[Lake Whitefish]] (*Coregonus clupeaformis*, n = 78), [[Cisco]] (*Leucichthys artedi*, n = 77) and [[Round...
+> -- *[[TheMorphometryOfTheCoregonineF_17950]]*
+
+### Mentioned In
+- [[TheMorphometryOfTheCoregonineF_17950]]
 
 ## Vertebral Fusion
 <!-- fm: auto_enriched: true -->
@@ -2784,6 +4555,30 @@ Vertebrate endocrinology is the study of hormone-producing glands and their func
 ### Mentioned In
 - [[ElectronMicroscopeObservations_19900]]
 
+## Vertebrate Functional Response
+
+### Summary
+In this source, the vertebrate functional response is the S-shaped Type 3 curve that results when learning and prey inhibition are added to the invertebrate model. Holling presents it as a contrast to the Type 2 response produced for invertebrate predators.
+
+### Context
+> This Memoir of the Entomological Society of Canada (No. 48, 1966) by C. S. [[Holling]] extends a [[Components Analysis]] of predation by adding [[Hunger]] as a component affecting the [[Functional Response]] of predators to prey density. The work uses the praying mantid *Hierodula crassa* preying...
+> -- *[[TheFunctionalResponseOfInverte_20475]]*
+
+### Mentioned In
+- [[TheFunctionalResponseOfInverte_20475]]
+
+## Vertebrate Physiology
+
+### Summary
+The study of how the body systems of vertebrate animals function. This source argues that pupfishes could contribute to this field, citing research value in kidney function and temperature tolerance, and urges shifting focus from what pupfishes can do for humans to what humans can do for them.
+
+### Context
+> This essay, written by retired [[California Department of Fish and Game]] district fishery biologist Edwin Philip "Phil" Pister, recounts his career managing fisheries and desert aquatic habitats in eastern California and reflects on the conservation of endangered [[Desert Pupfish]] species. The...
+> -- *[[SpeciesInABucket_18598]]*
+
+### Mentioned In
+- [[SpeciesInABucket_18598]]
+
 ## Vertebrate Population Segment
 <!-- fm: auto_enriched: true -->
 
@@ -2795,6 +4590,18 @@ Vertebrate endocrinology is the study of hormone-producing glands and their func
 
 ### Mentioned In
 - [[PolicyRegardingTheRecognitionO_1996_02_07]]
+
+## Vertical Accretion
+
+### Summary
+Deposition of sediment upward onto a flood plain during overbank flooding, building up its height. The source reports that flood-plain alluvium accreted 2 to 5 m on the Little Colorado between 1952 and 1978, but that this process was limited once the flood plain reached a critical height.
+
+### Context
+> This U.S. Geological Survey study by Richard Hereford examines how climate-driven discharge changes shaped the channel and flood plain of the [[Little Colorado River]] in northern Arizona during the twentieth century. The paper is a geomorphology and sedimentology study, not a fish or...
+> -- *[[ClimateAndEphemeralstreamProce_16708]]*
+
+### Mentioned In
+- [[ClimateAndEphemeralstreamProce_16708]]
 
 ## Vertical Attenuation Coefficient
 <!-- fm: auto_enriched: true -->
@@ -2813,14 +4620,30 @@ Vertebrate endocrinology is the study of hormone-producing glands and their func
 > - **Study system:** [[Sycamore Creek]], a Sonoran Desert stream northeast of Phoenix, Arizona, flowing ~55 km to its confluence with the [[Verde River]]. Watershed area = 505 km², elevation range 2164–427 m. - **Substrate:** Boulder-dominated steep riffles and fine gravel/coarse sand (phi = -1) i...
 > -- *[[HyporheicSurfaceWaterExchangeI_13668]]*
 
+> This study by H. Maurice Valett (Arizona State University, published in *Hydrobiologia* 259, 1993) examines how water exchange between the [[Hyporheic Zone]] (the saturated sediments beneath and beside a stream channel) and the surface stream changes over a 24-hour cycle in [[Sycamore Creek]],...
+> -- *[[SurfacehyporheicInteractionsIn_13669]]*
+
 ### Mentioned In
 - [[HyporheicSurfaceWaterExchangeI_13668]]
+- [[SurfacehyporheicInteractionsIn_13669]]
 
 ## Vertical Migration
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
+
+## Vertical Movement
+
+### Summary
+Vertical movement is recolonization from deeper substrate layers into the streambed surface. In this study most organisms were found in the upper 10 cm, so vertical contributions were small in summer but reached about 10% of individuals after winter floods.
+
+### Context
+> This study examines how stream macroinvertebrates recolonize [[Sycamore Creek]], a lowland [[Sonoran Desert]] stream, after floods. The authors tested the hypothesis that most taxa recolonize through aerial pathways. Using colonization trays, mark-recapture of adult beetles, diel drift and...
+> -- *[[PostfloodRecolonizationPathway_19210]]*
+
+### Mentioned In
+- [[PostfloodRecolonizationPathway_19210]]
 
 ## Vertical Raceways
 
@@ -2833,6 +4656,18 @@ Vertical raceways, also called silos, are cylindrical rearing tanks in which wat
 
 ### Mentioned In
 - [[VerticalRacewaysForProductionO_16561]]
+
+## Vertical Screen
+
+### Summary
+A stationary screen used in raceways that the source describes as clogging with leaves, sticks, and other debris. This clogging causes unnatural water-level fluctuations in the raceway. The simplified rotary screen was developed in part to replace these units.
+
+### Context
+> This 1957 engineering paper by Marvin J. Whalls, David S. Shetter, and James E. Vondette, published in the *Transactions of the American Fisheries Society* (Vol. 86, 1956), describes two low-cost devices from the Michigan Department of Conservation. The first is a self-cleaning, gearless, vane-type...
+> -- *[[ASimplifiedRotaryFishScreenAnd_12180]]*
+
+### Mentioned In
+- [[ASimplifiedRotaryFishScreenAnd_12180]]
 
 ## Vertical Slot Fishway
 
@@ -2874,6 +4709,82 @@ Vertigo is a genus of minute terrestrial snails. Though not found during this su
 ### Mentioned In
 - [[MolluscaFromGreenwoodCountyKan_20276]]
 
+## Vertigo Milium
+
+### Summary
+Vertigo milium is a small land snail that lives near springs and permanent water, even in arid Oklahoma counties. It can survive near-desiccation for months by aestivation, according to the source.
+
+### Context
+> This taxonomic revision covers the terrestrial (land) snails of Oklahoma in four families: [[Pupillidae]], [[Carychiidae]], [[Strobilopsidae]] and [[Oligyridae]]. It is the terrestrial companion to a paper on the state's freshwater snails. The author reports that Oklahoma has a large land snail...
+> -- *[[TheRecentGastropodaOfOklahomaI_12894]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaI_12894]]
+
+## Vertigo Ovata
+
+### Summary
+Vertigo ovata is a small land snail found near ponds, marshes and streams, and in crevices of porous Ozark soils that hold moisture. The source says it prefers slightly basic to neutral pH and can serve as an intermediate host for rabbit trematodes of the genus Hasstilesia.
+
+### Context
+> This taxonomic revision covers the terrestrial (land) snails of Oklahoma in four families: [[Pupillidae]], [[Carychiidae]], [[Strobilopsidae]] and [[Oligyridae]]. It is the terrestrial companion to a paper on the state's freshwater snails. The author reports that Oklahoma has a large land snail...
+> -- *[[TheRecentGastropodaOfOklahomaI_12894]]*
+
+> This 1952 [[Kansas University Science Bulletin]] paper by A. Byron Leonard and C. Raymond Goble is the first in a planned series cataloguing the invertebrate and vertebrate fauna of the [[University of Kansas Natural History Reservation]]. The authors surveyed the land snails and freshwater...
+> -- *[[MolluscaOfTheUniversityOfKansa_20277]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaI_12894]]
+- [[MolluscaOfTheUniversityOfKansa_20277]]
+
+## Vertigo Rugosula
+
+### Summary
+Vertigo rugosula is a small pupillid land snail recorded from Oklahoma and listed among its Vertigo species. The source names it in the Pupillidae treatment but gives no further details about its distribution or ecology.
+
+### Context
+> This taxonomic revision covers the terrestrial (land) snails of Oklahoma in four families: [[Pupillidae]], [[Carychiidae]], [[Strobilopsidae]] and [[Oligyridae]]. It is the terrestrial companion to a paper on the state's freshwater snails. The author reports that Oklahoma has a large land snail...
+> -- *[[TheRecentGastropodaOfOklahomaI_12894]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaI_12894]]
+
+## Vertigo Tridentata
+
+### Summary
+Vertigo tridentata is a land snail restricted in Oklahoma to the eastern part of the state. It was found only in Mississippian-Pennsylvanian outcrop areas, and the author suspects it is a calciphile.
+
+### Context
+> This taxonomic revision covers the terrestrial (land) snails of Oklahoma in four families: [[Pupillidae]], [[Carychiidae]], [[Strobilopsidae]] and [[Oligyridae]]. It is the terrestrial companion to a paper on the state's freshwater snails. The author reports that Oklahoma has a large land snail...
+> -- *[[TheRecentGastropodaOfOklahomaI_12894]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaI_12894]]
+
+## Vertigo Ventricosa
+
+### Summary
+Vertigo ventricosa is a rare land snail in Oklahoma and absent from Kansas, suggesting a relictual distribution. The author had not seen a living specimen, and some Oklahoma records are fossils or misidentifications.
+
+### Context
+> This taxonomic revision covers the terrestrial (land) snails of Oklahoma in four families: [[Pupillidae]], [[Carychiidae]], [[Strobilopsidae]] and [[Oligyridae]]. It is the terrestrial companion to a paper on the state's freshwater snails. The author reports that Oklahoma has a large land snail...
+> -- *[[TheRecentGastropodaOfOklahomaI_12894]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaI_12894]]
+
+## Vertisol
+
+### Summary
+A vertisol is a clay-rich soil that swells when wet and cracks when dry. In this source, a vertisol horizon at the base of the lake sediments was identified from magnetic susceptibility, water content, vertical rootlets and prismatic cracking, and it marks a dry-basin surface.
+
+### Context
+> This Science (1996) paper by [[Thomas C Johnson]] and colleagues uses [[Seismic Reflection Profiling]] and [[Piston Coring]] to test whether the more than 300 endemic [[Haplochromine Cichlids]] of [[Lake Victoria]] could have survived in refugia during a late Pleistocene arid period. The authors...
+> -- *[[LatePleistoceneDesiccationOfLa_19823]]*
+
+### Mentioned In
+- [[LatePleistoceneDesiccationOfLa_19823]]
+
 ## Vertisol Soils
 
 ### Context
@@ -2882,6 +4793,18 @@ Vertigo is a genus of minute terrestrial snails. Though not found during this su
 
 ### Mentioned In
 - [[BiologicalOpinionOnTheProposed_11939]]
+
+## Verwoerd Dam
+
+### Summary
+Hendrik Verwoerd Dam, in the Orange River drainage, where the Orange-Fish Tunnel intake is located at Oviston. The source notes that about 90% of suspended sediment settles in Lake Verwoerd, and that Labeo umbratus apparently disappeared from it by June 1975, probably as a sampling artefact.
+
+### Context
+> This paper presents a primer on colonisation theory and applies it to invasive fishes in the [[Great Fish River]], South Africa. It aims to (a) characterise successful invader species in aquatic systems and (b) identify habitat properties that make a system susceptible to invasion. The authors also...
+> -- *[[ColonisationTheoryAndInvasiveB_20200]]*
+
+### Mentioned In
+- [[ColonisationTheoryAndInvasiveB_20200]]
 
 ## Vespertilionidae
 <!-- fm: auto_enriched: true -->
@@ -2954,6 +4877,18 @@ Vette Swale is a site where the greatest variety of fishes was taken at 9 ppm ox
 ### Mentioned In
 - [[SomeObservationsOnTheOxygenReq_13582]]
 
+## Vezio Cottarelli
+
+### Summary
+Italian zoologist at the Istituto di Zoologia, Università di Roma, and co-author of this 1969 methods paper. The source notes that new Parastenocaris and Psammopsyllus species from Lazio and Campania coasts were described in cited papers by Cottarelli.
+
+### Context
+> This 1969 methodological paper, presented at the XV Congress of the Società Italiana di Biogeografia by [[Augusto Vigna Taglianti]], [[Vezio Cottarelli]] and [[Roberto Argano]] of the Istituto di Zoologia, Università di Roma, reviews and refines techniques for sampling groundwater fauna. The...
+> -- *[[MessaAPuntoDiMetodichePerLaRac_13447]]*
+
+### Mentioned In
+- [[MessaAPuntoDiMetodichePerLaRac_13447]]
+
 ## Vibrio
 
 ### Summary
@@ -2969,6 +4904,18 @@ Vibrio is a bacterial infection that affected tilapia in the Salton Sea and play
 ### Mentioned In
 - [[WorkshopProceedings_18372]]
 - [[SanitarySignificanceOfFecalCol_16953]]
+
+## Vibrio salmonicida
+
+### Summary
+Vibrio salmonicida is a bacterium that causes cold-water vibriosis in salmonid fish. In this study, fish were infected by intraperitoneal injection rather than immersion because the bacterium does not infect through fresh water, and high-stress fish showed significantly higher mortality from it.
+
+### Context
+> This study tested whether [[Atlantic Salmon]] lines selected for high or low post-confinement [[Cortisol]] stress response differ in resistance to three bacterial pathogens of farmed salmon. Fish from the second generation of the selection lines, reared at [[AKVAFORSK]] in Sunndalsøra, were...
+> -- *[[DiseaseResistanceInAtlanticSal_16364]]*
+
+### Mentioned In
+- [[DiseaseResistanceInAtlanticSal_16364]]
 
 ## Vicariance
 
@@ -3001,12 +4948,20 @@ Vicariance biogeography in fish science refers to the process by which geographi
 > This Smithsonian Scholarly Studies Program proposal requests **$25,966** over two years (Year 1: $14,640; Year 2: $11,326) to study the evolution and biogeography of [[Tryonia]], a genus of small freshwater snails ("[[Springsnails]]") in the family [[Hydrobiidae]]. The project is led by Robert...
 > -- *[[EvolutionOfTheNorthAmericanSpr_20359]]*
 
+> This chapter by [[W. L. Minckley]], [[Dean A. Hendrickson]] and [[Carl E. Bond]] reviews the zoogeography of freshwater fishes across western North America, from the [[Continental Divide]] to the Pacific and from the [[Columbia River Basin]] south to the Rio Grande de Santiago Basin in Mexico. The...
+> -- *[[GeographyOfWesternNorthAmerica_15412]]*
+
+> This review analyzes the zoogeography of the subterranean amphipod fauna of North America, which includes Mexico, Central America and the West Indies. The author reports 169 species in 28 genera and 10 families or family groups, most of them [[Stygobiont]]s (obligate aquatic subterranean species)....
+> -- *[[ZoogeographicPatternsOfNorthAm_19887]]*
+
 ### Mentioned In
 - [[DifferentiationInFishesOfTheAm_12774]]
 - [[FishesOfTheDesert_1940]]
 - [[PhylogenyAndBiodiversityConser_12967]]
 - [[PhylogenyOfPyrgulopsisSpringsn_20361]]
 - [[EvolutionOfTheNorthAmericanSpr_20359]]
+- [[GeographyOfWesternNorthAmerica_15412]]
+- [[ZoogeographicPatternsOfNorthAm_19887]]
 
 ## Vicariant Speciation
 <!-- fm: auto_enriched: true -->
@@ -3030,6 +4985,42 @@ Al Gore was Vice President of the United States in 1994. The source lists him as
 ### Mentioned In
 - [[FailureOfTheNationalScienceFou_18967]]
 
+## Vice-County Recording
+
+### Summary
+A system of recording geographic units used in British biological distribution work. The source notes that converting Harris's dot-map records into these units was complicated.
+
+### Context
+> This Freshwater Biological Association publication, authored by [[T. T. Macan]] (1961), is a dichotomous key to the nymphs (larvae) of the British mayflies, order Ephemeroptera. It extends earlier family- and genus-level keys by [[D. E. Kimmins]] to species level. Keys and descriptions exist for 45...
+> -- *[[AKeyToTheNymphsOfTheBritishSpe_19290]]*
+
+### Mentioned In
+- [[AKeyToTheNymphsOfTheBritishSpe_19290]]
+
+## Vice-County System
+
+### Summary
+The British system of recording units for dividing the country into counties for mapping distributions. Hynes bases his species distribution maps on it and asks collectors to send specimens from unmapped vice-counties.
+
+### Context
+> This document is a taxonomic key to the adults and nymphs of the British [[Stoneflies]] (order [[Plecoptera]]), written by H. B. N. Hynes and published by the [[Freshwater Biological Association]] as Scientific Publication No. 17 (1958). It is a revised and enlarged successor to the 1940 key. It...
+> -- *[[AKeyToTheAdultsAndNymphsOfTheB_14564]]*
+
+### Mentioned In
+- [[AKeyToTheAdultsAndNymphsOfTheB_14564]]
+
+## Vicente Gálvez
+
+### Summary
+Mining engineer who wrote this 1941 field report for the Instituto Geológico de México. He led the 1920 geological reconnaissance of the southern tip of the Baja California Peninsula, from La Paz to Cabo San Lucas, and proposed the work plan for it.
+
+### Context
+> This field report, written in Spanish by mining engineer [[Vicente Gálvez]] for the [[Instituto Geológico Nacional]] (Anales del Instituto Geológico de México), describes a 1920 geological reconnaissance of the southern tip of the [[Baja California]] Peninsula, from [[La Paz]] to [[Cabo San...
+> -- *[[AlgunasExploracionesEnElDistri_16900]]*
+
+### Mentioned In
+- [[AlgunasExploracionesEnElDistri_16900]]
+
 ## Vicia Faba
 
 ### Context
@@ -3048,6 +5039,30 @@ Al Gore was Vice President of the United States in 1994. The source lists him as
 
 ### Mentioned In
 - [[ProblemsWithGrayLiteratureInFi_1990]]
+
+## Vicki Monks
+
+### Summary
+Vicki Monks is the author of this 1992 investigative report, written for Defenders of Wildlife and published in its July/August 1992 issue. The report documents the illegal totoaba fishery in the northern Gulf of California and its threat to the vaquita.
+
+### Context
+> This investigative report, written by [[Vicki Monks]] for [[Defenders of Wildlife]] and published in the July/August 1992 issue of *Defenders*, documents an illegal fishery for the endangered [[Totoaba]] in the northern [[Gulf of California]]. Undercover field work in Baja California and Sonora...
+> -- *[[BajasPeriledPorpoiseTheUsTaste_16548]]*
+
+### Mentioned In
+- [[BajasPeriledPorpoiseTheUsTaste_16548]]
+
+## Vicky J. Meretsky
+
+### Summary
+Vicky J. Meretsky is a researcher with the U.S. Fish and Wildlife Service and co-author of this progress report. The source credits her, with Theodore S. Melis of the U.S. Geological Survey, for describing integration efforts on the Lower Colorado River below Glen Canyon Dam.
+
+### Context
+> This progress report by [[Vicky J. Meretsky]] (U.S. Fish and Wildlife Service) and [[Theodore S. Melis]] (U.S. Geological Survey) describes efforts to integrate physical and biological research on the Lower Colorado River below [[Glen Canyon Dam]] in [[Grand Canyon National Park]]. It traces the...
+> -- *[[IntegrationOfGrandCanyonPhysic_20124]]*
+
+### Mentioned In
+- [[IntegrationOfGrandCanyonPhysic_20124]]
 
 ## Victor Chemical Company
 
@@ -3071,9 +5086,53 @@ Victor Chemical Company was the party in a July 20, 1963 Tennessee fish kill aff
 > This 1960 Florida State Board of Conservation Marine Laboratory report (Professional Papers Series No. 1, by [[Victor G. Springer]] and [[Kenneth D. Woodburn]]) documents the fish fauna of the Tampa Bay area from roughly October 1957 to mid-1959. Monthly collections were made at shore and trawl...
 > -- *[[AnEcologicalStudyOfTheFishesOf_11938]]*
 
+> This taxonomic monograph by [[James F. McKinney]] and [[Victor G. Springer]] (Smithsonian Institution, National Museum of Natural History) describes four new species of the blenny genus [[Ecsenius]]: *E. isos* (New Hebrides), *E. melarchus* (Java Sea, Celebes, Borneo), *E. pictus* (Moluccas and...
+> -- *[[FourNewSpeciesOfTheFishGenusEc_12327]]*
+
+> This revision by [[Clark Hubbs]] and [[Victor G. Springer]] (The University of Texas, *Texas Journal of Science*, Vol. IX, No. 3, September 1957) reviews the [[Gambusia Nobilis]] species group, a set of mosquitofishes from the Pecos River drainage of New Mexico and western Texas and from the Rio...
+> -- *[[ARevisionOfTheGambusiaNobilisS_14242]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
 - [[AnEcologicalStudyOfTheFishesOf_11938]]
+- [[FourNewSpeciesOfTheFishGenusEc_12327]]
+- [[ARevisionOfTheGambusiaNobilisS_14242]]
+
+## Victor Hensen
+
+### Summary
+Victor Hensen (1887) introduced the term 'plankton' and developed quantitative sampling methods for it. The paper counts him among the key figures in the early quantitative study of marine organisms.
+
+### Context
+> This occasional paper by [[Richard Brewer]] (Department of Biology, [[Western Michigan University]]) is the first part of a chronological survey of the development of [[Ecology]] from antiquity to 1919. It was published on November 22, 1960, as Number 1 of the *Occasional Papers of the [[C. C....
+> -- *[[ABriefHistoryOfEcologyPartIPre_12931]]*
+
+### Mentioned In
+- [[ABriefHistoryOfEcologyPartIPre_12931]]
+
+## Victoria
+
+### Summary
+Victoria is a state in south-eastern Australia and the study area for this paper. The catchments span the Great Dividing Range and include varied geology, from granite and basalt to sedimentary and metamorphic rock, plus forests from wet to dry types.
+
+### Context
+> This study by Lacey and Grayson (1998, *Journal of Hydrology* 204, 231–250) examines what controls the [[Baseflow Index]] (baseflow divided by total streamflow) across 114 catchments in [[Victoria]], Australia, with areas from 0.05 to 192 km². The authors test whether 12 [[Geology-Vegetation...
+> -- *[[RelatingBaseflowToCatchmentPro_12655]]*
+
+### Mentioned In
+- [[RelatingBaseflowToCatchmentPro_12655]]
+
+## Victoria Beach
+
+### Summary
+A collecting locality on the Lake Winnipeg shore in Manitoba. The source reports Mooneye, Channel Catfish, Brown Bullhead, Log-Perch and young Brown Bullheads schooling in quiet bays here.
+
+### Context
+> This short faunal note reports fishes collected in the [[Lake Winnipeg]] region of Manitoba during field work for a research project at the [[Central Fisheries Research Station]], Winnipeg. The author, J. J. Keleher, notes that the most recent provincial checklist relied partly on disputed...
+> -- *[[NotesOnFishesCollectedFromLake_17918]]*
+
+### Mentioned In
+- [[NotesOnFishesCollectedFromLake_17918]]
 
 ## Victoria Falls
 
@@ -3087,6 +5146,18 @@ Victoria Falls appears to represent a significant barrier in the Zambesi River s
 ### Mentioned In
 - [[ANoteOnEelsAnguillaSpp_18852]]
 
+## Victoria Nile
+
+### Summary
+The Victoria Nile is a major river in East Africa that flows from Lake Victoria northward. In this paper it is the setting of Corbet's 1958 study, which the authors cite as prior work on African stream fauna.
+
+### Context
+> This 1962 study by [[H. B. N. Hynes]] and [[T. R. Williams]] examines how a single application of [[DDT]] affected the entire invertebrate community of the [[River Manafwa]], a rapid stream on the slopes of [[Mount Elgon]] in eastern Uganda. Samples were taken 29–31 days after dosing at eight...
+> -- *[[TheEffectOfDdtOnTheFaunaOfACen_14579]]*
+
+### Mentioned In
+- [[TheEffectOfDdtOnTheFaunaOfACen_14579]]
+
 ## Victorian Minimum Data Set
 
 ### Summary
@@ -3098,6 +5169,18 @@ The core set of attributes recorded for each wetland in Victoria's inventory. It
 
 ### Mentioned In
 - [[ManualOfWetlandsManagement_19591]]
+
+## Victorville
+
+### Summary
+A locality in the Mojave with scattered pre-Cenozoic outcrops used in the study. The earliest arc-related deformation there is dated to latest Permian to earliest Triassic, based on a monzonite pluton dated at 230 ± 10 million years.
+
+### Context
+> This document is a geological synthesis of the [[Mojave Desert]] region of southeastern California, not an ichthyological or aquatic ecology study. It contains no fish species, fish habitat data, or aquatic survey results, so the species and habitat fields are recorded as N/A. The authors,...
+> -- *[[MojaveDesertsAndEnvirons_13897]]*
+
+### Mentioned In
+- [[MojaveDesertsAndEnvirons_13897]]
 
 ## Victory Lake
 
@@ -3114,6 +5197,18 @@ Victory Lake was a 26-acre lake at Fort Benning, Georgia where antimycin A was u
 ### Mentioned In
 - [[AResumeOnFieldApplicationsOfAn_11531]]
 - [[AResumeOnFieldApplicationOfAnt_20263]]
+
+## Vidal and Wight 1975
+
+### Summary
+A fish survey cited as a historical source for the Lake Calumet area, with samples taken in 1952 and 1970. Greenfield and Rogner used these earlier collections as a point of comparison for changes in the fauna.
+
+### Context
+> This 1984 study in the *Transactions of the Illinois Academy of Sciences* (Greenfield and Rogner, Northern Illinois University) surveys the fishes of [[Lake Calumet]] and its adjacent wetlands in Chicago. Sampling ran from September 1981 through August 1982 using seines and electrofishing. The...
+> -- *[[AnAssessmentOfTheFishFaunaOfLa_19256]]*
+
+### Mentioned In
+- [[AnAssessmentOfTheFishFaunaOfLa_19256]]
 
 ## Video Image Analysis
 
@@ -3137,6 +5232,18 @@ A morphological method in which fish, live or preserved, are filmed and measured
 ### Mentioned In
 - [[LetterOnDispositionOfFrozenBon_1993_10_01]]
 
+## Vie et Milieu
+
+### Summary
+A French biological journal in which this paper was published, as tome XII, fasc. 4 (issued February 1962, though the work is dated 1961). The source note identifies it as the venue for the description of Hyale gulbenkiani.
+
+### Context
+> This 1961 taxonomic paper, published in February 1962 in [[Vie et Milieu]] (tome XII, fasc. 4), describes a new marine amphipod, *Hyale gulbenkiani* sp. n., by [[Amilcar Mateus]] and [[Emilia Mateus]]. The species was collected at the Plage de la Digue, [[Banyuls-sur-Mer]], France, during the...
+> -- *[[UneNouvelleEspceDhyaleAmphipod_15150]]*
+
+### Mentioned In
+- [[UneNouvelleEspceDhyaleAmphipod_15150]]
+
 ## Vijayan And Leatherland 1990
 <!-- fm: auto_enriched: true -->
 
@@ -3146,6 +5253,42 @@ A morphological method in which fish, live or preserved, are filmed and measured
 
 ### Mentioned In
 - [[StressInducedPathologiesInFish_16522 (scanned)]]
+
+## Vila Nova de Gaia
+
+### Summary
+Vila Nova de Gaia is a Portuguese town on the Douro. In this study, station CIII was located close to the water pumping station that serves the town.
+
+### Context
+> This 1990 study by [[Maria Leonor Fidalgo]], published by the [[Instituto de Zoologia Dr. Augusto Nobre]] at the [[Faculdade de Ciências do Porto]], examines the abundance of heterotrophic bacteria, total coliforms, fecal coliforms and fecal streptococci in the [[Crestuma/Lever Reservoir]] on the...
+> -- *[[AboutTheRelationshipBetweenSom_16365]]*
+
+### Mentioned In
+- [[AboutTheRelationshipBetweenSom_16365]]
+
+## Vila Real de Santo António
+
+### Summary
+A coastal town in southern Portugal near the mouth of the Guadiana River, on the Spanish border. This source identifies it as the type locality of Orchestia spinifera, where the holotype was collected on 26 November 1961.
+
+### Context
+> This 1962 taxonomic paper by [[Emília de Oliveira Mateus]], published from the [[Instituto de Zoologia Dr. Augusto Nobre]] at the Faculdade de Ciências do Porto, describes *Orchestia spinifera* sp. n., a new talitrid amphipod. The type material came from sands on the right bank of the [[Guadiana...
+> -- *[[UneNouvelleEspeceDorchestiaCru_15157]]*
+
+### Mentioned In
+- [[UneNouvelleEspeceDorchestiaCru_15157]]
+
+## Vilas County
+
+### Summary
+A county in northern Wisconsin, USA, where Escanaba Lake is located. The source places the lake there and names the county in its title, but gives no further county-level detail.
+
+### Context
+> This study estimates the [[Walleye]] (*Stizostedion v. vitreum*) population of [[Escanaba Lake]], a 291-acre lake in [[Vilas County]], Wisconsin, where no bag, size, or season limits applied from 1946 onward. Large catches from 1948 to 1950 prompted the [[Wisconsin Conservation Department]] to run...
+> -- *[[TheWalleyePopulationInEscanaba_18462]]*
+
+### Mentioned In
+- [[TheWalleyePopulationInEscanaba_18462]]
 
 ## Vilhelm Ege
 <!-- fm: auto_enriched: true -->
@@ -3169,6 +5312,30 @@ A morphological method in which fish, live or preserved, are filmed and measured
 
 ### Mentioned In
 - [[StomachContentsOfAdultStarryFl_15271]]
+
+## Villalobos 1943
+
+### Summary
+A detailed morphological study of an Atya scabra population in the Rio Necaxa, Vera Cruz, Mexico, and the main comparison for Darnell's work. Darnell reports Villalobos' much larger male-biased sample (100 males to 27 females) and larger Vera Cruz specimens, and notes Villalobos' view that breeding occurs through most of the year.
+
+### Context
+> This 1956 population study by Rezneat M. Darnell (Tulane University) examines a population of the poorly studied tropical freshwater shrimp [[Atya Scabra]] collected on 27 April 1950 from a boulder riffle of the Rio Sabinas, a headwater tributary of the [[Rio Tamesi]] drainage in southern...
+> -- *[[AnalysisOfAPopulationOfTheTrop_13942]]*
+
+### Mentioned In
+- [[AnalysisOfAPopulationOfTheTrop_13942]]
+
+## Villarrica Volcano
+
+### Summary
+Villarrica Volcano is an active volcano in the Chilean Lake District. The source notes it had nine notable eruptions in the past two centuries, and a mild 1972 eruption dropped nearly six tons of ash per acre at a site fifteen miles away.
+
+### Context
+> This article examines why [[Southern Beech]] trees (genus [[Nothofagus]]) are common as very large adults and as seedlings but rare at intermediate sizes in mature forests of the Chilean [[Lake District]]. The author's research, carried out over about a decade, argues that the beeches depend on...
+> -- *[[TreesOfTheTremblingEarth_13114]]*
+
+### Mentioned In
+- [[TreesOfTheTremblingEarth_13114]]
 
 ## Villavicencio
 
@@ -3201,6 +5368,50 @@ Villavicencio is mentioned as one of the collection localities visited during th
 
 ### Mentioned In
 - [[EtheostomaOkaloosaeF_1960]]
+
+## Villwock
+
+### Summary
+Earlier work by Villwock (1958) on this topic, cited as background. It is the same author whose 1963 testcross study is summarized here.
+
+### Context
+> This 1963 paper by [[Wolfgang Villwock]] (Zoologisches Staatsinstitut und Museum Hamburg) reports testcross experiments on the scalation ("Beschuppung") of Anatolian toothcarps. Reduced scalation occurs in several endemic Anatolian [[Cyprinodontidae]] populations, and the author asks whether...
+> -- *[[GenetischeAnalyseDesMerkmalsBe_13135]]*
+
+> This 1980 study by [[Heinz Grimm]] tests whether scale reduction in Anatolian killifish of the genus [[Aphanius]] is linked to physiological tolerance of sulphate-rich water. The author applies a hypothesis from [[Axelray and Villwock]] (1962), which proposed that scale reduction results from...
+> -- *[[InvestigationsOnTheProblemOfSc_17771]]*
+
+> This 1972 monograph by Ruth Franz and Wolfgang Villwock (University of Hamburg) reports the first ontogenetic and histological study of tooth development in [[Aphanius]]-like toothcarps (tribe Aphaniini, family [[Cyprinodontidae]]). Most Aphaniini bear tricuspid teeth in a single row on each jaw....
+> -- *[[BeitragZurKenntnisDerZahnentwi_18825]]*
+
+### Mentioned In
+- [[GenetischeAnalyseDesMerkmalsBe_13135]]
+- [[InvestigationsOnTheProblemOfSc_17771]]
+- [[BeitragZurKenntnisDerZahnentwi_18825]]
+
+## Villwock et al. 1983
+
+### Summary
+A earlier publication by Villwock and colleagues that describes Aphanius dispar. This source cites it alongside Krupp 1983 for the species' detailed description.
+
+### Context
+> This Journal of Oman Studies special report by [[Friedhelm Krupp]] documents the freshwater fishes of the [[Wadi Batha]] drainage in Oman. Three species occur there: [[Cyprinion Microphthalmum]], [[Garra Barreimiae]] and [[Aphanius Dispar]]. The study describes a new endemic subspecies, [[Garra...
+> -- *[[FreshwaterFishesOfTheWadiBatha_12462]]*
+
+### Mentioned In
+- [[FreshwaterFishesOfTheWadiBatha_12462]]
+
+## Vimba
+
+### Summary
+Vimba is a genus of cyprinid fishes related to bream. In this source, a 'savetta' resembling Vimba is among the 17 species surveyed in Lago Maggiore, and it was the exception to the high cyprinid infection intensity noted there.
+
+### Context
+> This 1973 study from the [[Istituto Italiano di Idrobiologia]] reports a widespread gill infection by a fungus attributed to the genus [[Branchiomyces]] (order [[Saprolegniales]]) across lakes in Northern and Central Italy and in Swiss lakes north of the Alps. Infection was found in 21 of 24...
+> -- *[[DiffusaInfezioneBranchialeDaFu_17774]]*
+
+### Mentioned In
+- [[DiffusaInfezioneBranchialeDaFu_17774]]
 
 ## Vinberg
 
@@ -3236,6 +5447,18 @@ Vinberg's 1960 work, *The Primary Production of Bodies of Water* (AEC-TR-5692), 
 ### Mentioned In
 - [[EvaluationOfPreIntroductionStr_16534]]
 
+## Vincent 1987
+
+### Summary
+Vincent 1987 is cited for a Montana study in which trout populations declined after stocking and rose in years without stocking. The source uses it as evidence that stocking can harm wild trout populations.
+
+### Context
+> This 1992 *Trout* magazine feature, the first part of a series, argues by [[Ray J. White]] that [[Wild Fish]] matter for biological, management and economic reasons, and that [[Hatchery Management]] and stocking have repeatedly failed to deliver long-term fish abundance while damaging wild...
+> -- *[[WhyWildFishMatterABiologistsVi_12195]]*
+
+### Mentioned In
+- [[WhyWildFishMatterABiologistsVi_12195]]
+
 ## Vincent Schultz
 
 ### Summary
@@ -3245,8 +5468,12 @@ Vincent Schultz co-compiled this 1965 bibliography with Klement for the US Atomi
 > This is the third supplement (February 1965) to a selected bibliography of terrestrial and freshwater radioecology, compiled by [[Alfred W. Klement Jr.]] and [[Vincent Schultz]] for the [[United States Atomic Energy Commission]] (AEC), Division of Biology and Medicine (report TID-3910, Suppl. 3)....
 > -- *[[TerrestrialAndFreshwaterRadioe_12564]]*
 
+> This is an annotated-style reference listing compiled by [[Vincent Schultz]], agricultural biometrician at the Agricultural Experiment Station, University of Maryland (Miscellaneous Publication No. 359, 1959). It catalogues literature on two harvest-estimation traditions: [[Game-Kill Survey]]s,...
+> -- *[[AContributionTowardABibliograp_11279]]*
+
 ### Mentioned In
 - [[TerrestrialAndFreshwaterRadioe_12564]]
+- [[AContributionTowardABibliograp_11279]]
 
 ## Vinnikov 1956
 <!-- fm: auto_enriched: true -->
@@ -3257,6 +5484,18 @@ Vincent Schultz co-compiled this 1965 bibliography with Klement for the US Atomi
 
 ### Mentioned In
 - [[ReductionInNumberOfMucousCells_15675]]
+
+## Vinogradov
+
+### Summary
+Vinogradov (1968) is cited for evidence that biomass decreases with depth in the ocean. The source uses this decline as part of the background for the assumption of slower deep-sea physiology.
+
+### Context
+> This 1980 study by [[Childress]] and colleagues compares growth, metabolism (energy use) and reproduction in 4 mesopelagic and 5 bathypelagic fishes captured by midwater trawl off Southern California. All mesopelagic species performed diurnal vertical migrations; no bathypelagic species did. The...
+> -- *[[PatternsOfGrowthEnergyUtilizat_16133]]*
+
+### Mentioned In
+- [[PatternsOfGrowthEnergyUtilizat_16133]]
 
 ## Vinson, Boyd And Ferguson 1963
 <!-- fm: auto_enriched: true -->
@@ -3361,8 +5600,48 @@ The Vir Reservoir is an impoundment on the Svratka River that demonstrated signi
 > This annual report summarizes research activities conducted during 1966 by multiple hydrobiological, ichthyological, fisheries, fish disease, and waterfowl research units affiliated with the [[Natural History Club]] in Brno, Czechoslovakia. The report covers work by university departments, Academy...
 > -- *[[HydrobiologicalAndIchthyologic_12963]]*
 
+> This study by [[Frantisek Kubicek]] (Zoological Institute, J. E. Purkyně University, Brno, 1967) describes the organic drift of invertebrates and other drifting organisms in the torrential (fast-flowing) reach of the [[Svratka River]], a Moravian river that runs between the [[Vir Reservoir]] and...
+> -- *[[DieOrganischeDriftDesSvratkafl_12468]]*
+
 ### Mentioned In
 - [[HydrobiologicalAndIchthyologic_12963]]
+- [[DieOrganischeDriftDesSvratkafl_12468]]
+
+## Vir River Valley Reservoir
+
+### Summary
+A deep valley reservoir on the Svratka River in the Czech Republic, built in 1947–1956 between Vir and Dalečín. It floods about 212 ha, averages 25 m deep (65 m at the wall), and serves water supply and energy production. This 1968 study examines how its operation changed the hydrobiological and fish conditions of the river below it.
+
+### Context
+> This 1968 monograph from the Academy of Sciences of the Czechoslovak Republic (Acta sc. nat. Brno, 2(1)) assesses how the construction and operation of the deep [[Vir River Valley Reservoir]] on the [[Svratka River]] altered the physical, chemical and biological conditions of the river, mainly in...
+> -- *[[InfluenceOfTheVirRiverValleyRe_11261]]*
+
+### Mentioned In
+- [[InfluenceOfTheVirRiverValleyRe_11261]]
+
+## Vir Valley Reservoir
+
+### Summary
+A river valley reservoir on the Svratka River in Czechoslovakia. The report says it was studied for its effects on trout stream biology, with work examining the river below the dam.
+
+### Context
+> This annual report, issued in Brno in April 1968 by the Hydrobiological and Ichthyological Section of the [[Natural History Club]] in Brno, summarises the 1967 research of several university and institute units in Czechoslovakia. The work covers stream and reservoir ecology, brown trout population...
+> -- *[[HydrobiologicalAndIchthyologic_12964]]*
+
+### Mentioned In
+- [[HydrobiologicalAndIchthyologic_12964]]
+
+## Viral Haemorrhagic Septicaemia
+
+### Summary
+A viral disease of fish that the authors cite as an example of a condition whose blood changes, in trout studies, can be used for diagnosis. It is mentioned only as background to show the diagnostic value of haematology; the present study did not detect it in Chirostoma.
+
+### Context
+> This study establishes baseline haematological parameters for the native freshwater silversides of the genus [[Chirostoma]] in [[Lake Pátzcuaro]], Michoacán, Mexico. Blood from 50 seine-caught fish (standard length 130–286 mm) was sampled by cardiac puncture and analysed for red cell, white cell...
+> -- *[[HematologiaDeAterinidosSeAguas_16727]]*
+
+### Mentioned In
+- [[HematologiaDeAterinidosSeAguas_16727]]
 
 ## Viral Hemorrhagic Septicemia
 
@@ -3379,6 +5658,18 @@ Viral hemorrhagic septicemia is an acute viral disease of fish. The paper notes 
 ### Mentioned In
 - [[AnAcuteViralDiseaseOfChannelCa_16376]]
 - [[InjuriousWildlifeProposedImpor_11536]]
+
+## Vircit S. Pratt
+
+### Summary
+Vircit S. Pratt is the author of this study on electrical shocker mortality in trout. The source describes him as affiliated with the Idaho Cooperative Wildlife Research Unit, and his experiments used hatchery raceways in Michigan in 1950. He concluded that both A.C. and D.C. shocker units are acceptable for stream fish population studies.
+
+### Context
+> This 1954 study by [[Vircit S. Pratt]] of the [[Idaho Cooperative Wildlife Research Unit]] measured mortality caused by [[Electrical Fish Shockers]] on three trout species. Experiments were run in hatchery raceways in Michigan in 1950 using 110-volt alternating current (A.C.) and 230-volt direct...
+> -- *[[FishMortalityCausedByElectrica_18673]]*
+
+### Mentioned In
+- [[FishMortalityCausedByElectrica_18673]]
 
 ## Virden Valley
 
@@ -3413,6 +5704,18 @@ Virgil Creek in New York was one of the stream collection sites for Characeae sp
 
 ### Mentioned In
 - [[TheBearingOfCytologicalAndCert_19928]]
+
+## Virgilio Biaggi Jr.
+
+### Summary
+Virgilio Biaggi Jr. was a biologist in the Department of Biology at the University of Puerto Rico, Mayagüez, and the author of this 1952 Turtox News article. He reports the first use of rotenone for scientific fish collection in Puerto Rico and describes the field methods, timing, and results.
+
+### Context
+> This 1952 article from the *Turtox News* (General Biological Supply House, Chicago) describes the first use of [[Rotenone]] for scientific fish collection in [[Puerto Rico]]. The author, Virgilio Biaggi Jr. of the [[University of Puerto Rico]] (Mayagüez), reports that the method was applied during...
+> -- *[[RotenoneUsedForTheFirstTimeFor_18240]]*
+
+### Mentioned In
+- [[RotenoneUsedForTheFirstTimeFor_18240]]
 
 ## Virgin Basin
 
@@ -3458,6 +5761,9 @@ The Virgin Chub is an endemic fish species found exclusively in the Virgin River
 > This program update from the U.S. Fish and Wildlife Service (FWS) Arizona Ecological Services office, addressed to the [[Desert Fishes Recovery Team]], reports on candidate and listed fishes, listing and critical habitat actions, [[Recovery Plan]] progress, recovery actions, [[Freedom of...
 > -- *[[UpdateForDesertFishesRecoveryT_14796]]*
 
+> This 1994 paper by Scott C. Gregory and James E. Deacon, published in the *American Water Resources Association* volume on effects of human-induced changes on hydrologic systems, uses 17 years of native fish data plus historical records to document declines in the distribution and abundance of the...
+> -- *[[HumanInducedChangesToNativeFis_19277]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
@@ -3469,6 +5775,7 @@ The Virgin Chub is an endemic fish species found exclusively in the Virgin River
 - [[PermitReportAndEndangeredSpeci_1993_11_28]]
 - [[ThAnnualMeetingOfTheSocietyFor_13524]]
 - [[UpdateForDesertFishesRecoveryT_14796]]
+- [[HumanInducedChangesToNativeFis_19277]]
 
 ## Virgin Falls
 
@@ -3801,6 +6108,21 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This Arizona State University (ASU) Animal Care and Use Committee (ACUC) form covers a renewal and revision (previous protocol No. 86072R) of the ongoing research program **Systematic, Ecologic, Genetic, and Behavioral Ichthyology**, led by [[W. L. Minckley]] with co-investigators M. Douglas, T....
 > -- *[[SystematicEcologicalGeneticAnd_13779]]*
 
+> This study by [[James E. Deacon]] and W. Glen Bradley (University of Nevada, Las Vegas) maps the fish fauna of the Moapa River, a spring-fed desert stream in southern Nevada, using collections from nine stations sampled between 1963 and 1968. The river hosts four common native species, a rare fifth...
+> -- *[[EcologicalDistributionOfFishes_14020]]*
+
+> This book chapter by [[W. L. Minckley]] and [[Gary K. Meffe]] examines why native fishes of the arid American Southwest persist alongside, or are displaced by, [[Nonnative Fishes]] in streams. The authors argue that native fauna evolved under violent, flash-flood hydrology, whereas many nonnative...
+> -- *[[DifferentialSelectionByFloodin_16485]]*
+
+> This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
+> -- *[[FleeAsDikeBurstsInSUtah_20836]]*
+
+> This paper, published in the *Journal of the Arizona Academy of Science* (1971, vol. 6, no. 3, pp. 183–188), presents a set of artificial dichotomous keys to the fishes of [[Arizona]]. Author W. L. Minckley of [[Arizona State University]] compiled the keys from classroom use, original collection...
+> -- *[[KeysToNativeAndIntroducedFishe_18582]]*
+
+> This 1994 paper by Scott C. Gregory and James E. Deacon, published in the *American Water Resources Association* volume on effects of human-induced changes on hydrologic systems, uses 17 years of native fish data plus historical records to document declines in the distribution and abundance of the...
+> -- *[[HumanInducedChangesToNativeFis_19277]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
@@ -3944,6 +6266,11 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[MiscellaneousRazorbackData_14086]]
 - [[EndangeredAndThreatenedWildlif_11706]]
 - [[SystematicEcologicalGeneticAnd_13779]]
+- [[EcologicalDistributionOfFishes_14020]]
+- [[DifferentialSelectionByFloodin_16485]]
+- [[FleeAsDikeBurstsInSUtah_20836]]
+- [[KeysToNativeAndIntroducedFishe_18582]]
+- [[HumanInducedChangesToNativeFis_19277]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->
@@ -4187,6 +6514,12 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 > This 1994 [[Fish and Wildlife Service]] proposed rule would list the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a small minnow endemic to the [[Virgin River]] drainage, as a **threatened** species under the [[Endangered Species Act]]. The Service estimates that about 40 percent of...
 > -- *[[EndangeredAndThreatenedWildlif_11706]]*
 
+> A newspaper report describes the decision by the [[U.S. Fish and Wildlife Service]] (USFWS) to destroy about 18,000 hatchery-produced fingerlings of the endangered [[Virgin River Chub]]. The fish were destroyed on Oct. 26, 1989, because USFWS staff judged them genetically deficient relative to the...
+> -- *[[DecisionToDestroyFishMayHaveBe_19651]]*
+
+> This draft concept, prepared by the [[Washington County Water Conservancy District]] (WCWCD) in March 1994 for discussion only, proposes a cooperative river management framework for the Virgin River in Washington County, Utah. Its goals are to acquire and set aside riparian, wetland and riverine...
+> -- *[[DraftConceptForAVirginRiverMan_14915]]*
+
 ### Mentioned In
 - [[BiologicalOpinionsAndConcurren_11655]]
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
@@ -4271,6 +6604,8 @@ The Virgin River Chub is a small, native cyprinid fish endemic to the Virgin Riv
 - [[InRegardsToTheWashingtonCounty_16270]]
 - [[TheFishesOfArizonaNativeAndInt_16219]]
 - [[EndangeredAndThreatenedWildlif_11706]]
+- [[DecisionToDestroyFishMayHaveBe_19651]]
+- [[DraftConceptForAVirginRiverMan_14915]]
 
 ## Virgin River Corridor Area of Critical Environmental Concern
 
@@ -4347,6 +6682,18 @@ The Virgin River Fish Recovery Team is a group concerned with recovering the riv
 ### Mentioned In
 - [[VirginRiverBasinIntegratedReso_19196]]
 
+## Virgin River Fishes
+
+### Summary
+The group of three native fishes of the Virgin River system treated in the report: the Virgin River chub, woundfin and Virgin River spinedace. The source notes they make up 50% of the native fish fauna of that river, and that the Virgin River chub has declined for unknown reasons, woundfin survives only below La Verkin Spring, and the spinedace declined after introduced redside shiners increased and largemouth bass moved upstream.
+
+### Context
+> This 1974 report, published in the *Proceedings of the Utah Academy of Sciences, Arts, and Letters* and prepared by the [[Utah Fishes Committee]] of the [[Bonneville Chapter]], catalogs the endangered, threatened and indeterminate-status fishes of Utah. It applies the definitions of the...
+> -- *[[ThreatenedFishesOfUtah_20470]]*
+
+### Mentioned In
+- [[ThreatenedFishesOfUtah_20470]]
+
 ## Virgin River Fishes Data Base
 <!-- fm: auto_enriched: true -->
 
@@ -4393,6 +6740,9 @@ The Virgin River Fish Recovery Team is a group concerned with recovering the riv
 > This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
 > -- *[[DesignationOfCriticalHabitatFo_20640]]*
 
+> This draft concept, prepared by the [[Washington County Water Conservancy District]] (WCWCD) in March 1994 for discussion only, proposes a cooperative river management framework for the Virgin River in Washington County, Utah. Its goals are to acquire and set aside riparian, wetland and riverine...
+> -- *[[DraftConceptForAVirginRiverMan_14915]]*
+
 ### Mentioned In
 - [[VirginRiverMeetingOf_11186]]
 - [[VirginRiverWoundfinPlanForBroo_16685]]
@@ -4401,6 +6751,7 @@ The Virgin River Fish Recovery Team is a group concerned with recovering the riv
 - [[EndangeredSpeciesPermitRenewal_20638]]
 - [[DesignationOfCriticalHabitatFo_13209]]
 - [[DesignationOfCriticalHabitatFo_20640]]
+- [[DraftConceptForAVirginRiverMan_14915]]
 
 ## Virgin River Fishes Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -4551,11 +6902,15 @@ The Virgin River Recovery Team is an interagency collaborative effort establishe
 > This November 1994 draft conservation strategy addresses the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a threatened cyprinid endemic to the [[Virgin River]] basin spanning southwestern Utah, northwestern Arizona, and southeastern Nevada. The species was recognized as threatened...
 > -- *[[DraftConservationStrategyVirgi_11659]]*
 
+> A newspaper report describes the decision by the [[U.S. Fish and Wildlife Service]] (USFWS) to destroy about 18,000 hatchery-produced fingerlings of the endangered [[Virgin River Chub]]. The fish were destroyed on Oct. 26, 1989, because USFWS staff judged them genetically deficient relative to the...
+> -- *[[DecisionToDestroyFishMayHaveBe_19651]]*
+
 ### Mentioned In
 - [[MemorandumOnFallMeetingAndSamp_1993_09_02]]
 - [[VirginRiverMonitoringNevadaSum_1995_05_31]]
 - [[VirginRiverRecoveryTeamSitesUt_1998]]
 - [[DraftConservationStrategyVirgi_11659]]
+- [[DecisionToDestroyFishMayHaveBe_19651]]
 
 ## Virgin River Resource Management And Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -4698,6 +7053,12 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 > This advocacy letter, dated November 17, 1997 and sent by the Southwest Resource Council to the U.S. Fish and Wildlife Service (FWS), argues that the Washington County Water Conservancy District (WCWCD) has continuously violated the 86 cubic feet per second (cfs) instream flow bypass required by...
 > -- *[[InRegardsToTheWashingtonCounty_16270]]*
 
+> This Element Stewardship Abstract, prepared for [[The Nature Conservancy]] land stewards and compiled by Stephen P. Vives (Georgia Southern University; Arizona Field Office responsibility), summarizes the biology, habitat, threats, legal status and management needs of the [[Spikedace]], a small...
+> -- *[[ElementStewardshipAbstractForM_13161]]*
+
+> This document is a portion of an annotated checklist of the fishes of Utah, authored by William F. Sigler (Department of Wildlife Resources, Utah State University) and Robert Rush Miller (Museum of Zoology, University of Michigan), published in 1963. It covers taxonomic notes for several groups,...
+> -- *[[FishesOfUtah_18950]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1995_05_24]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -4727,6 +7088,8 @@ The Virgin River Spinedace (*Lepidomeda mollispinis mollispinus*) is a subspecie
 - [[FisheriesSurveyOfTheVirginRive_16379]]
 - [[AddendumToEnvironmentalReportO_20828]]
 - [[InRegardsToTheWashingtonCounty_16270]]
+- [[ElementStewardshipAbstractForM_13161]]
+- [[FishesOfUtah_18950]]
 
 ## Virgin Roundtail Chub
 <!-- fm: auto_enriched: true -->
@@ -4868,6 +7231,12 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 > This program update from the U.S. Fish and Wildlife Service (FWS) Arizona Ecological Services office, addressed to the [[Desert Fishes Recovery Team]], reports on candidate and listed fishes, listing and critical habitat actions, [[Recovery Plan]] progress, recovery actions, [[Freedom of...
 > -- *[[UpdateForDesertFishesRecoveryT_14796]]*
 
+> This draft concept, prepared by the [[Washington County Water Conservancy District]] (WCWCD) in March 1994 for discussion only, proposes a cooperative river management framework for the Virgin River in Washington County, Utah. Its goals are to acquire and set aside riparian, wetland and riverine...
+> -- *[[DraftConceptForAVirginRiverMan_14915]]*
+
+> This 1994 paper by Scott C. Gregory and James E. Deacon, published in the *American Water Resources Association* volume on effects of human-induced changes on hydrologic systems, uses 17 years of native fish data plus historical records to document declines in the distribution and abundance of the...
+> -- *[[HumanInducedChangesToNativeFis_19277]]*
+
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
 - [[AttachedDraftListOfSpeciesAssi_14772]]
@@ -4927,6 +7296,8 @@ The Virgin Spinedace (*Lepidomeda mollispinax*) is a small native cyprinid fish 
 - [[PersistenceAndStabilityOfTheVi_20636]]
 - [[EndangeredAndThreatenedWildlif_11706]]
 - [[UpdateForDesertFishesRecoveryT_14796]]
+- [[DraftConceptForAVirginRiverMan_14915]]
+- [[HumanInducedChangesToNativeFis_19277]]
 
 ## Virgin Spinedace Conservation Agreement
 
@@ -4982,6 +7353,22 @@ A state with about 30,000 acres disturbed in nine southwestern counties. The rep
 ### Mentioned In
 - [[EffectsOfSurfaceMiningOnFishAn_17706]]
 
+## Virginia Coast Reserve
+
+### Summary
+The Virginia Coast Reserve is the Nature Conservancy's flagship project on the Virginia Eastern Shore, according to Watson's letter. It includes the Northampton Economic Forum and a planned Virginia Eastern Shore Sustainable Development Corporation.
+
+### Context
+> This 1994 *Nature Conservancy* magazine feature by [[Thomas E. Lovejoy]] argues that biological diversity underpins human health, agriculture, pollution control and basic science, yet human activity is driving extinction at rates roughly a thousand times the normal background rate. Lovejoy presents...
+> -- *[[PeopleAndBiodiversity_16215]]*
+
+> This January/February 1994 magazine column by [[John C. Sawhill]], President and Chief Executive Officer of [[The Nature Conservancy]], introduces a special issue on [[Biodiversity]]. Sawhill frames the term as a widely used but loosely defined buzzword and presents four expert essays on its...
+> -- *[[TheNatureConservancyAndBiodive_20535]]*
+
+### Mentioned In
+- [[PeopleAndBiodiversity_16215]]
+- [[TheNatureConservancyAndBiodive_20535]]
+
 ## Virginia Commission of Game and Inland Fisheries
 
 ### Summary
@@ -5010,6 +7397,30 @@ The Virginia state agency that managed game fish and inland fisheries and co-spo
 ### Mentioned In
 - [[TheRoleOfNaturalHistoryCollect_11379]]
 
+## Virginia M. Ullman
+
+### Summary
+Virginia M. Ullman is a Phoenix philanthropist and conservationist profiled in this source. She gave $500,000 to Arizona State University to establish the Ullman Professorship of Ecology, and she has been involved in Arabian oryx recovery and the proposed Phoenix Biopark.
+
+### Context
+> The article profiles [[Virginia M. Ullman]], a Phoenix philanthropist and conservationist who donated $500,000 to [[Arizona State University]] to establish the Ullman Professorship of Ecology in the Zoology Department. The piece traces her long involvement with the [[Arabian Oryx]] recovery effort...
+> -- *[[AsuBenefactorDreamsOfOmanArabi_12621]]*
+
+### Mentioned In
+- [[AsuBenefactorDreamsOfOmanArabi_12621]]
+
+## Virginia Pine
+
+### Summary
+A pine species (*Pinus virginiana*) that grows on the south-facing slopes of the lake's drainage basin. The source lists it as one of the main vegetation types there, alongside oaks.
+
+### Context
+> This 1954 limnological paper by Gerald A. Cole (University of Louisville) establishes a physical and chemical baseline for [[Tom Wallace Lake]], a small artificial impoundment about ten miles south of Louisville in [[Jefferson County]], in the [[Kentucky Knobs]] physiographic province. The study...
+> -- *[[StudiesOnAKentuckyKnobsLakeISo_16008]]*
+
+### Mentioned In
+- [[StudiesOnAKentuckyKnobsLakeISo_16008]]
+
 ## Virginia Polytechnic Institute
 
 ### Summary
@@ -5025,6 +7436,18 @@ Virginia Polytechnic Institute is the academic institution where Dr. Bruce J. Tu
 ### Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[PresenceOfAlienPupfishMayJeopa_13727]]
+
+## Virginia Polytechnic Institute And State University Fish Museum
+
+### Summary
+This is the fish collection where the specimens from the study were preserved and stored. The fish were fixed in formaldehyde and then kept in 40% isopropanol at this museum. It is the institutional repository for the voucher material described in the paper.
+
+### Context
+> This methods paper (Hocutt, Hambrick and Masnik, Virginia Polytechnic Institute and State University) reports a sampling technique for fishes in the large main channel of the [[New River]], Virginia and West Virginia. The method combined [[Rotenone]] applied within a [[Block Net]], with [[Potassium...
+> -- *[[RotenoneMethodsInALargeRiverSt_20435]]*
+
+### Mentioned In
+- [[RotenoneMethodsInALargeRiverSt_20435]]
 
 ## Virginia Rail
 
@@ -5066,12 +7489,28 @@ I appreciate your detailed question, but I must be candid: I cannot find reliabl
 > A memorandum from the [[Arizona Game and Fish Department]] (AGFD) reports a survey of [[Aravaipa Creek]] conducted July 6-8, 1998, jointly with [[The Nature Conservancy]] (TNC) and the [[Bureau of Land Management]] (BLM). The survey aimed to document the distribution and reproduction of the exotic...
 > -- *[[SummaryOfRedShinerSamplingOnJu_17690]]*
 
+> This 1965 *Arizona Highways* travel narrative describes a multi-day horseback trip through the middle section of [[Aravaipa Creek]] in [[Aravaipa Canyon]], a remote sandstone canyon in the [[Galiuro Mountains]] of southern Arizona. The author, a scenery photographer, and companion Ray Inglish...
+> -- *[[HiddenCanyonOfTheAravaipa_13070]]*
+
 ### Mentioned In
 - [[AravaipaCreekFishesOctober_1986_01_20]]
 - [[MicrochemicalAnalysisOfAravaip_11794]]
 - [[MicrochemicalAnalysisOfAravaip_1977_01_30]]
 - [[SurveyOfFishesOfAravaipaCreekG_20605]]
 - [[SummaryOfRedShinerSamplingOnJu_17690]]
+- [[HiddenCanyonOfTheAravaipa_13070]]
+
+## Virile Crayfish
+
+### Summary
+Orconectes virilis is a freshwater crayfish in the family Cambaridae. In this study it is abundant in West Lost Lake, with young-of-the-year staying near shore and adults spread through the lake, and it is the prey whose population the author examined in relation to brook trout predation.
+
+### Context
+> This 1967 study by Walter T. Momot, published in the *Transactions of the American Fisheries Society*, examines how [[Brook Trout]] (*Salvelinus fontinalis*) predation affects a population of [[Virile Crayfish]] (*Orconectes virilis*) in [[West Lost Lake]], a closed marl lake in Michigan's [[Pigeon...
+> -- *[[EffectsOfBrookTroutPredationOn_16546]]*
+
+### Mentioned In
+- [[EffectsOfBrookTroutPredationOn_16546]]
 
 ## Virology
 <!-- fm: auto_enriched: true -->
@@ -5092,8 +7531,24 @@ Virtual Population Analysis (VPA) is a method that reconstructs past fish popula
 > This document is FAO Fisheries Circular No. 746 (April 1982), edited by J.F. Caddy of the [[FAO Fisheries Department]]'s Marine Resources Service. It is an annotated, provisional catalogue of computer programmes used in [[Fish Stock Assessment]] that participating fisheries institutes are willing...
 > -- *[[ProvisionalWorldListOfComputer_17320]]*
 
+> This methodological paper by Yvonne M. M. Bishop (Inter-American Tropical Tuna Commission, La Jolla, California; published 1959 in the *Journal of the Fisheries Research Board of Canada*, vol. 16, no. 1) analyses the bias in individual estimates of the natural mortality coefficient (M) derived from...
+> -- *[[ErrorsInEstimatesOfMortalityOb_17651]]*
+
 ### Mentioned In
 - [[ProvisionalWorldListOfComputer_17320]]
+- [[ErrorsInEstimatesOfMortalityOb_17651]]
+
+## Visayan Islands
+
+### Summary
+The Visayan Islands of the central Philippines include Negros, Panay and Masbate, which lie on a shelf less than 160 feet deep and are separated from Cebu by a 320-foot strait. Deevey uses their 32 shared endemic bird subspecies and the absence of these from Cebu to estimate the amount of glacial sea-level lowering.
+
+### Context
+> This 1949 *Scientific American* article by [[Edward S. Deevey Jr.]] argues that the present distribution of animals and plants can reveal [[Pleistocene Epoch]] geography that geologists cannot always recover. Using examples from the British Isles, the Philippines, the Great Basin of the western...
+> -- *[[LivingRecordsOfTheIceAge_12757]]*
+
+### Mentioned In
+- [[LivingRecordsOfTheIceAge_12757]]
 
 ## Visayan Sea
 
@@ -5107,11 +7562,35 @@ The Visayan Sea is one of the associated inland waters included in the Sulu Sea 
 ### Mentioned In
 - [[TheHydrographicAndFaunalIndepe_19989]]
 
+## Viscaino Desert
+
+### Summary
+A desert region of the Baja California peninsula, Mexico. In this source it is the range of Vejovis viscainensis, which is considered endemic there and extends from Miller's Landing to San Angel near San Ignacio.
+
+### Context
+> This 1970 taxonomic paper by [[Stanley C. Williams]] in the *Proceedings of the California Academy of Sciences* describes seven new species and subspecies of scorpions in the genus [[Vejovis]], all belonging to the [[Vejovis Eusthenura Group]]. The taxa are *Vejovis waeringi*, *V. coloradensis*,...
+> -- *[[NewScorpionsBelongingToTheEust_12055]]*
+
+### Mentioned In
+- [[NewScorpionsBelongingToTheEust_12055]]
+
 ## Visceral Organ Weight Ratios
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[StomachContentsAndOrganWeights_12449]]
+
+## Viscous Dissipation
+
+### Summary
+Conversion of kinetic energy of flowing water into heat. Vugts showed it can be important in small streams; for constant mean velocity, a 50 m fall corresponds to a 0.1°C gain if energy is conserved.
+
+### Context
+> This is a theoretical micrometeorological study by J. T. F. Zimmerman (Institute of Earth Sciences, Free University, Amsterdam), published in *Archiv für Meteorologie, Geophysik und Bioklimatologie*, Series A, 1974. It develops an analytical model of the daily temperature cycle of natural streams,...
+> -- *[[OnTheDiurnalHeatBalanceAndTemp_20944]]*
+
+### Mentioned In
+- [[OnTheDiurnalHeatBalanceAndTemp_20944]]
 
 ## Vishnevetsky 1962
 <!-- fm: auto_enriched: true -->
@@ -5131,6 +7610,30 @@ Vishnu Quadrangle is a topographic map by Evans and Matthes that the expedition 
 ### Mentioned In
 - [[DiaryOfGrandCanyonSurvey_17643]]
 
+## Visible Implant Tags
+
+### Summary
+Visible implant tags are marks injected under a fish's skin so individuals can be recognized later. In 1994, 1223 upstream adult Lahontan cutthroat trout were tagged with them. Tags were recorded from 80% of returning 1994 spawners, and the authors suggest tag loss or observation error may explain the rest.
+
+### Context
+> This study monitored the spawning run of the only remaining secure native adfluvial population of [[Lahontan Cutthroat Trout]] in [[Summit Lake]], Nevada, using a fish trap on [[Mahogany Creek]], the lake's sole spawning tributary, during 1993 and 1994. Adult upstream runs were similar in size...
+> -- *[[LahontanCutthroatTroutSpawning_13141]]*
+
+### Mentioned In
+- [[LahontanCutthroatTroutSpawning_13141]]
+
+## Visible Light
+
+### Summary
+Visible light is the part of the solar spectrum from about 380 to 780 millimicrons. Westlake notes that it accounts for roughly half of the total solar energy. He stresses that light measured by human-eye photometric units is not suitable for ecological work.
+
+### Context
+> This 1965 review by D. F. Westlake of the [[Freshwater Biological Association]] (River Laboratory, Wareham, Dorset) summarizes agreed practice for measuring radiation under water in ecological studies. It addresses terminology, units, optical density, instrument design, and the optical errors that...
+> -- *[[SomeProblemsInTheMeasurementOf_12175]]*
+
+### Mentioned In
+- [[SomeProblemsInTheMeasurementOf_12175]]
+
 ## Visitor Use Plot
 
 ### Summary
@@ -5143,6 +7646,18 @@ The second study plot, covering 0.82 ha, with trails, picnic tables and interpre
 ### Mentioned In
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
 
+## Visual Attraction
+
+### Summary
+Visual attraction is the proposed cue by which fish are drawn to one another and held in school formation through sight. The source reports that movement matters more than color or species in initial attraction, that blinded fish cannot school, and that Parr proposed spacing reflects a balance of visual attraction and repulsion.
+
+### Context
+> This reprinted 1962 *Scientific American* article by [[Evelyn Shaw]] examines how fishes form schools, a social organization defined by parallel orientation, near-constant spacing, and synchronized movement. Shaw's laboratory work on [[Menidia]] silversides (whitebait) shows that schooling develops...
+> -- *[[TheSchoolingOfFishes_11405]]*
+
+### Mentioned In
+- [[TheSchoolingOfFishes_11405]]
+
 ## Visual Census Methodology
 <!-- fm: auto_enriched: true -->
 
@@ -5153,11 +7668,47 @@ The second study plot, covering 0.82 ha, with trails, picnic tables and interpre
 ### Mentioned In
 - [[DiurnalVariabilityInAFishAssem_1981]]
 
+## Visual Cliff
+
+### Summary
+The visual cliff is an apparatus that presents an apparent drop-off, used to test depth perception and surface preference in animals. In this source, a rotated visual-cliff model was used with near and far surfaces 12 and 24 inches away. Earlier work cited in the source found that many animals prefer to descend to an optically shallow surface.
+
+### Context
+> This document contains two 1968 *Animal Behaviour* papers. The first, the main study, shows that [[Avoidance Conditioning]] can control the rate of [[Electric Organ Discharge]] in [[Mormyridae|Mormyrid]] fish (*Gnathonemus*). The second, a truncated paper, asks whether early [[Visual Experience]]...
+> -- *[[AvoidanceConditioningOfTheRate_19368]]*
+
+### Mentioned In
+- [[AvoidanceConditioningOfTheRate_19368]]
+
 ## Visual Contrast Perception In Fish
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TheOptomotorReactionOfSchoolin_11406]]
+
+## Visual Discrimination
+
+### Summary
+Visual discrimination is the ability to tell apart two visual stimuli and respond differently to each. In Savage's Experiment 6, a go/no-go task, forebrain-lesioned goldfish stayed near chance at discriminating while their avoidance responses slowly increased, suggesting the forebrain governs which stimuli are avoided.
+
+### Context
+> The excerpt contains two 1969 papers from *Animal Behaviour*, vol. 17. The first and main paper, by G. E. Savage, reports eight experiments on the role of the [[Telencephalon]] (forebrain) in [[Avoidance Conditioning]] in [[Goldfish]]. Forebrain-ablated fish learned and retained shock-avoidance...
+> -- *[[TelencephalicLesionsAndAvoidan_20532]]*
+
+### Mentioned In
+- [[TelencephalicLesionsAndAvoidan_20532]]
+
+## Visual Discrimination Apparatus
+
+### Summary
+This is the automated setup used to present visual stimuli to the fish. Light circles were back-projected onto screens outside the tank, and the fish responded by nosing Plexiglas panels on levers inside it. Correct choices earned food, and errors triggered a 30-second projector shutdown.
+
+### Context
+> This 1969 study by R. F. Mark and Alan Maxwell tested whether the cichlid fish [[Oscar Fish]] (*Astronotus ocellatus*) could develop a concept of relative size. Eight fish were trained with automated [[Visual Discrimination Apparatus]] to choose the larger of two light circles. Only six of eight...
+> -- *[[CircleSizeDiscriminationAndTra_19375]]*
+
+### Mentioned In
+- [[CircleSizeDiscriminationAndTra_19375]]
 
 ## Visual Encounter Survey
 
@@ -5171,11 +7722,35 @@ A survey method in which observers count frogs by sight. This report validated V
 ### Mentioned In
 - [[RanidFrogConservationAndManage_11871]]
 
+## Visual Experience
+
+### Summary
+Visual experience refers to the light or dark rearing conditions an animal has before testing. In the rat paper, the authors ask whether early light-rearing over a near or far surface changes later preference for near or far surfaces. The source does not report results for this question, since the text ends before the findings.
+
+### Context
+> This document contains two 1968 *Animal Behaviour* papers. The first, the main study, shows that [[Avoidance Conditioning]] can control the rate of [[Electric Organ Discharge]] in [[Mormyridae|Mormyrid]] fish (*Gnathonemus*). The second, a truncated paper, asks whether early [[Visual Experience]]...
+> -- *[[AvoidanceConditioningOfTheRate_19368]]*
+
+### Mentioned In
+- [[AvoidanceConditioningOfTheRate_19368]]
+
 ## Visual Predation In Fish
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[InfluenceOfAppearanceOfPreyAnd_1973]]
+
+## Visual Reference Point
+
+### Summary
+A visible structural feature that gives a fish a point of reference within its environment. In this study a black bottom plate with no sides or darkness of its own still drew substantial use (899 sec at low velocity), showing the visual reference alone attracted fish.
+
+### Context
+> This study examined how juvenile [[Smallmouth Bass]] (*Micropterus dolomieui*) use artificial shelter in flowing water. Wild yearlings were tested individually in a [[Stream Aquarium]] at two [[Water Velocity]] levels (12 and 28 cm/sec). Fish were offered opaque and clear plexiglass [[Covert...
+> -- *[[ResponsesOfYearlingSmallmouthB_20956]]*
+
+### Mentioned In
+- [[ResponsesOfYearlingSmallmouthB_20956]]
 
 ## Visual Resource Value
 
@@ -5200,6 +7775,18 @@ Visual survey is one of the sampling methods listed on the 1994 Arizona field da
 
 ### Mentioned In
 - [[FieldDataSheetsForTopminnowpup_19665]]
+
+## Vital Effects
+
+### Summary
+Biological influences on the isotopic composition of carbonate that are not explained by temperature and water alone. The authors note these may differ among species or genera and need evaluation and possible calibration.
+
+### Context
+> This study tests whether the oxygen isotope composition (δ¹⁸O) of [[Aragonite]] in [[Fish Otoliths]] can serve as a [[Paleoclimate]] thermometer in freshwater lakes. Paired otolith and water samples from six large, deep, temperate lakes were analysed. The authors derived an empirical...
+> -- *[[ContinentalPaleothermometryAnd_18464]]*
+
+### Mentioned In
+- [[ContinentalPaleothermometryAnd_18464]]
 
 ## Vital Rates
 
@@ -5238,6 +7825,18 @@ Vitamin D is a vitamin that the body, or in fishes the skin, produces with the h
 - [[UltravioletSterilizationOfAqua_16687]]
 - [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 
+## Vitamin K
+
+### Summary
+Vitamin K is a fat-soluble vitamin needed for normal blood clotting. This source studies synthetic water-soluble forms of it, which supply menaquinone, and asks whether they can shorten clotting time and raise packed cell volume in lake trout.
+
+### Context
+> This study by [[H. A. Poston]] (1976), published in the *Journal of the Fisheries Research Board of Canada*, compared two water-soluble synthetic forms of [[Vitamin K]], [[Menadione Sodium Bisulfite]] (MSB) and [[Menadione Dimethylpyrimidinol Bisulfite]] (MPB), in the diet of fingerling [[Lake...
+> -- *[[RelativeEffectOfTwoDietaryWate_18642]]*
+
+### Mentioned In
+- [[RelativeEffectOfTwoDietaryWate_18642]]
+
 ## Vitamin Premix
 
 ### Summary
@@ -5261,6 +7860,18 @@ A commercial vitamin preparation added to ground beef liver at about 10 g per lb
 
 ### Mentioned In
 - [[TheEffectOfDietOnPostspawningM_13847]]
+
+## Vitellogenesis
+
+### Summary
+Vitellogenesis is the deposition of yolk in developing oocytes, which is what drives the large increase in egg size. The source mentions it only as the process that atretic follicles may fail to complete before ova are shed. Its role in this study is as context for why some follicles degenerate.
+
+### Context
+> This 1963 paper by [[Nancy E. Henderson]] (University of Toronto) tests whether [[Atresia]], the degeneration of developing ovarian follicles, substantially reduces the number of maturing ova in the [[Eastern Brook Trout]] (*[[Salvelinus Fontinalis]]*) during the [[Secondary Growth Phase]] of...
+> -- *[[ExtentOfAtresiaInMaturingOvari_16627]]*
+
+### Mentioned In
+- [[ExtentOfAtresiaInMaturingOvari_16627]]
 
 ## Vitreoscillaceae
 <!-- fm: auto_enriched: true -->
@@ -5292,6 +7903,30 @@ A commercial vitamin preparation added to ground beef liver at about 10 g per lb
 ### Mentioned In
 - [[ARemarkableSnailFaunaFromCoahu_1966]]
 
+## Vivian Park Creek
+
+### Summary
+A tributary that joins the Provo River below Deer Creek Reservoir in Provo Canyon. It drains limestone-rich terrain and contributes alkaline water. The source also names Vivian Park as a river sampling station, where the highest recorded flow (2,290 cubic feet per second, May 1948) occurred.
+
+### Context
+> This 1959 study by [[Arden R. Gaufin]] (Iowa State College Journal of Science, Vol. 33, No. 3) examines the stream-bottom invertebrates of the [[Provo River]], a typical mountain stream of the Intermountain region known for [[Trout Fishing]]. Fieldwork ran from September 1946 to May 1949. The aim...
+> -- *[[ProductionOfBottomFaunaInThePr_16934]]*
+
+### Mentioned In
+- [[ProductionOfBottomFaunaInThePr_16934]]
+
+## Vivier
+
+### Summary
+Vivier is a researcher cited in the discussion who studied an acid stream in the Vosges with five years of marking. He found a very constant density of about 1 trout per 1.30 m of stream, stunted growth, and sedentary populations.
+
+### Context
+> This preliminary survey by [[E. D. Le Cren]] describes populations of young and resident [[Salmo Trutta]] ([[Brown Trout]]) in small becks of northern England. The study focuses on [[Fry]] and [[Yearling]] trout, a life-history stage poorly documented in the literature at the time. Sampling used...
+> -- *[[PreliminaryObservationsOnPopul_20222]]*
+
+### Mentioned In
+- [[PreliminaryObservationsOnPopul_20222]]
+
 ## Viviparidae
 <!-- fm: auto_enriched: true -->
 
@@ -5319,8 +7954,20 @@ Viviparity is a reproductive mode in which embryos develop inside the mother's b
 > The [[Recovery Plan]] for the [[Big Bend Gambusia]] (*Gambusia gaigei* Hubbs, 1929) was prepared by the [[U.S. Fish and Wildlife Service]] (USFWS) with the [[Rio Grande Fishes Recovery Team]] and approved in 1984. The species is a small livebearing poeciliid known only from warm spring habitats in...
 > -- *[[BigBendGambusia_13310]]*
 
+> This is a 1959 theoretical essay by [[Curt Kosswig]] (Zoologisches Staatsinstitut und Museum, Hamburg), written from a colloquium presentation on phylogenetic trends. It argues that the genetic basis of evolutionary change can be explained by ordinary mutation, polygenic inheritance and...
+> -- *[[PhylogenetischeTrendsGenetisch_12389]]*
+
+> This paper, by John Michael Fitzsimons of the [[Louisiana State University]] Museum of Zoology, tests whether premating behavioral barriers keep three freshwater goodeid species of the genus [[Xenotoca]] apart where they live together. Laboratory crosses produced fertile hybrids from all...
+> -- *[[EthologicalIsolatingMechanisms_16436]]*
+
+> This taxonomic paper describes [[Poecilia Minima]], a new species of [[Poeciliinae]] livebearer from a stream (igarapé) in Ourém, in the [[Rio Guamá Basin]] of eastern Brazilian Amazonia, Pará State. The species is placed in the subgenus [[Lebistes]] and is hypothesized to be closely related to...
+> -- *[[PoeciliaLebistesMinimaANewSpec_12407]]*
+
 ### Mentioned In
 - [[BigBendGambusia_13310]]
+- [[PhylogenetischeTrendsGenetisch_12389]]
+- [[EthologicalIsolatingMechanisms_16436]]
+- [[PoeciliaLebistesMinimaANewSpec_12407]]
 
 ## Viviparity In Fishes
 <!-- fm: auto_enriched: true -->
@@ -5355,6 +8002,18 @@ Viviparity is a reproductive mode in which embryos develop inside the mother's b
 ### Mentioned In
 - [[NotesOnSomeGastropodsFromNorth_12895]]
 
+## Viviparus Viviparus
+
+### Summary
+Viviparus viviparus is a freshwater snail. The source lists it among five invasive species recently introduced from Central and Western Europe into the Levantine freshwater fauna.
+
+### Context
+> This source is a multi-part compilation from the Proceedings of the 1985 Mainz Symposium on the Fauna and Zoogeography of the Middle East (Beihefte zum TAVO A 28, 1987). It contains three elements: a reference list from [[Por]]'s work on Levantine zoogeography and [[Lessepsian Migration]]; a survey...
+> -- *[[ZoologicalSurveyOfSaudiArabia_14148]]*
+
+### Mentioned In
+- [[ZoologicalSurveyOfSaudiArabia_14148]]
+
 ## Vivoras Canyon
 
 ### Summary
@@ -5366,6 +8025,30 @@ A canyon at about 7,500 ft where Marsh camped from July 2, 1936. Green Rattlesna
 
 ### Mentioned In
 - [[BiologicalSurveyOfTheSantaRosa_19383]]
+
+## Vizcaino Desert
+
+### Summary
+One of the eight biotic provinces recognized by Williams for the Baja California peninsula. It is a desert region within the scorpion biogeographic framework.
+
+### Context
+> This monograph by Stanley C. Williams (Occasional Papers of the [[California Academy of Sciences]], No. 135, 1980) revises the scorpion fauna of the [[Baja California Peninsula]] and its associated islands. The fauna comprises 61 species, 12 subspecies, 11 genera and 4 families, based on roughly...
+> -- *[[ScorpionsOfBajaCaliforniaMexic_12060]]*
+
+### Mentioned In
+- [[ScorpionsOfBajaCaliforniaMexic_12060]]
+
+## Vizcaíno Desert
+
+### Summary
+The Vizcaíno Desert is a desert region of Baja California Sur, Mexico. In this source it is the area where V. pseudopumilis is proposed as an ecological counterpart of V. pumilis.
+
+### Context
+> This paper, reprinted from the *Pan-Pacific Entomologist* (Vol. 46, No. 3, July 1970, pp. 181–183), by [[Stanley C. Williams]] of San Francisco State College, formally describes *Vejovis pseudopumilis* as a new species of scorpion in the family [[Vejovidae]]. The species was collected during a 1968...
+> -- *[[ANewSpeciesOfScorpionBelonging_12056]]*
+
+### Mentioned In
+- [[ANewSpeciesOfScorpionBelonging_12056]]
 
 ## Vladimir Walters
 <!-- fm: auto_enriched: true -->
@@ -5382,8 +8065,28 @@ Vladykov (1963) is the taxonomic authority this monograph follows in placing the
 > This monograph by [[Robert J. Behnke]] (1979, published by the Rocky Mountain Region of the USDA Forest Service in 1980) reviews the native trouts of the subgenus *Parasalmo* in western North America. It covers identification, taxonomy, distribution, status and management value. The work argues...
 > -- *[[MonographOfTheNativeTroutsOfTh_18137]]*
 
+> This 1963 paper by [[Nancy E. Henderson]] (University of Toronto) tests whether [[Atresia]], the degeneration of developing ovarian follicles, substantially reduces the number of maturing ova in the [[Eastern Brook Trout]] (*[[Salvelinus Fontinalis]]*) during the [[Secondary Growth Phase]] of...
+> -- *[[ExtentOfAtresiaInMaturingOvari_16627]]*
+
+> This taxonomic paper by [[Vladykov And Follett]] (1967, *Journal of the Fisheries Research Board of Canada*) proposes simplified terminology for the teeth of [[Petromyzonidae]] (lampreys) and applies it in a dichotomous [[Holarctic Lampreys Key]] to all known Holarctic genera. The authors argue...
+> -- *[[TheTeethOfLampreysPetromyzonid_13179]]*
+
+> This 1961 study by David S. Shetter, from the Michigan Department of Conservation's [[Institute For Fisheries Research]], estimates how many wild [[Brook Trout]] (*Salvelinus fontinalis*) survive from egg deposition in winter to the first fall fingerling stage. Two methods were combined: controlled...
+> -- *[[SurvivalOfBrookTroutFromEggToF_18904]]*
+
+> Smith and Stearley (*Fisheries*, Vol. 14, No. 1, January–February 1989) argue that two taxonomic changes are required for North American trouts. First, the [[Rainbow Trout]] and the [[Kamchatka Trout]] are the same species, so the oldest available name, *mykiss*, replaces *Salmo gairdneri*. Second,...
+> -- *[[TheClassificationAndScientific_21167]]*
+
+> This 1956 study by [[Vladykov]] of the Quebec Department of Fisheries examines the fecundity, ovarian ripening cycle and egg-size relationships of wild [[Speckled Trout]] from the [[Laurentide Park]], Quebec. Over 1,000 female trout were examined macroscopically, and 747 received detailed...
+> -- *[[FecundityOfWildSpeckledTroutSa_13175]]*
+
 ### Mentioned In
 - [[MonographOfTheNativeTroutsOfTh_18137]]
+- [[ExtentOfAtresiaInMaturingOvari_16627]]
+- [[TheTeethOfLampreysPetromyzonid_13179]]
+- [[SurvivalOfBrookTroutFromEggToF_18904]]
+- [[TheClassificationAndScientific_21167]]
+- [[FecundityOfWildSpeckledTroutSa_13175]]
 
 ## Vladykov 1956 Brook Trout Fecundity
 <!-- fm: auto_enriched: true -->
@@ -5401,6 +8104,30 @@ Vladykov (1963) is the taxonomic authority this monograph follows in placing the
 ### Mentioned In
 - [[LetterToDADuffOnSalmoAndParasa_1988_03_09]]
 
+## Vladykov And Follett
+
+### Summary
+Vladykov and Follett (1967) are the authors of this paper, which proposes simplified terminology for lamprey teeth and applies it in a key to the Holarctic genera. They also appear in the reference list with earlier work on Lampetra ayresii (1958) and the new nonparasitic species Lampetra richardsoni (1965).
+
+### Context
+> This taxonomic paper by [[Vladykov And Follett]] (1967, *Journal of the Fisheries Research Board of Canada*) proposes simplified terminology for the teeth of [[Petromyzonidae]] (lampreys) and applies it in a dichotomous [[Holarctic Lampreys Key]] to all known Holarctic genera. The authors argue...
+> -- *[[TheTeethOfLampreysPetromyzonid_13179]]*
+
+### Mentioned In
+- [[TheTeethOfLampreysPetromyzonid_13179]]
+
+## Vladykov et al. 1975
+
+### Summary
+The 1975 study that described Lethenteron meridionale from Tennessee, Alabama and Georgia. It was reportedly distinguished from L. aepyptera mainly by dentition, a distinction Walsh and Burr did not support.
+
+### Context
+> This 1981 study by [[Walsh and Burr]] (Southern Illinois University at Carbondale), published in *Brimleyana* No. 6, maps the Kentucky distribution of the [[Least Brook Lamprey]], morphometrically compares over 220 adult specimens, and documents a neotenic population in Terrapin Creek. The authors...
+> -- *[[DistributionMorphologyAndLifeH_14853]]*
+
+### Mentioned In
+- [[DistributionMorphologyAndLifeH_14853]]
+
 ## VNIRO
 
 ### Summary
@@ -5412,6 +8139,30 @@ VNIRO is a Soviet fisheries research institute (with ATLANTNIRO) that contribute
 
 ### Mentioned In
 - [[ProvisionalWorldListOfComputer_17320]]
+
+## Vobla
+
+### Summary
+Vobla (Rutilus rutilus caspicus) is a Caspian cyprinid that enters the Volga delta twice a year. The source notes that its autumn fish, called 'deep-hole' fish, run upstream earlier than the spring fish.
+
+### Context
+> This translated paper (originally by [[L. S. Berg]], 1934; translated by W. E. Ricker, 1959) reviews **seasonal races** within anadromous fishes: intraspecific groups that differ in the time they enter fresh water and the time they spawn. Berg calls the early-entering, same-year-spawning group...
+> -- *[[VernalAndHiemalRacesAmongAnadr_18184]]*
+
+### Mentioned In
+- [[VernalAndHiemalRacesAmongAnadr_18184]]
+
+## Voces del Mar
+
+### Summary
+Voces del Mar is the newsletter of the Biosphere Reserve Alto Golfo de California y Delta del Río Colorado. This Spring 1998 issue (Vol. 2 No. 1) is devoted to the Gulf corvina, with articles on a shark and ray research program and a participatory project with artisanal fishers.
+
+### Context
+> This Spring 1998 issue of [[Voces del Mar]], the newsletter of the [[Biosphere Reserve Alto Golfo de California y Delta del Río Colorado]], focuses on the [[Gulf Corvina]] (*Curvina golfina*), a sciaenid whose fishery has recovered sharply after roughly three decades of scarcity. The lead article...
+> -- *[[LaCuvinaGolfinaVolviParaQuedar_13182]]*
+
+### Mentioned In
+- [[LaCuvinaGolfinaVolviParaQuedar_13182]]
 
 ## Volatilization
 
@@ -5437,6 +8188,54 @@ Volcan La Malinche is a volcano that forms the eastern boundary of the Puebla Pl
 ### Mentioned In
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
 
+## Volcanic Ash
+
+### Summary
+Volcanic ash is fine material from eruptions that blankets slopes in the region. The source finds that shrubs and trees grew densest and fastest on the most thoroughly weathered, finest-particled ash, while granite or rocky rubble sites had sparse cover.
+
+### Context
+> This article examines why [[Southern Beech]] trees (genus [[Nothofagus]]) are common as very large adults and as seedlings but rare at intermediate sizes in mature forests of the Chilean [[Lake District]]. The author's research, carried out over about a decade, argues that the beeches depend on...
+> -- *[[TreesOfTheTremblingEarth_13114]]*
+
+### Mentioned In
+- [[TreesOfTheTremblingEarth_13114]]
+
+## Volcanic Ash Stratigraphy
+
+### Summary
+A coarse, sandy, solidified volcanic ash layer overlies the Late Archaic horizon at El Tepalcate and continues across the eastern Basin of Mexico. The author treats this ash as a stratigraphic key that marks the end of the Late Archaic. Ash layers like this contain little or no pollen, which limited the palynological record at such levels.
+
+### Context
+> This 1962 *Bulletin of the Geological Society of America* paper by Paul B. Sears applies [[Pollen Analysis]] to shallow lacustrine sediments in the [[Basin of Mexico]] to test whether climate changed during known human occupation and whether such changes correlate with [[Cultural Horizons]]. Pollen...
+> -- *[[PalynologyInSouthernNorthAmeri_11356]]*
+
+### Mentioned In
+- [[PalynologyInSouthernNorthAmeri_11356]]
+
+## Volcanic Breccia
+
+### Summary
+Volcanic breccia is a rock made of angular volcanic fragments in a finer matrix, produced by Tertiary–Quaternary volcanic activity. In this source it forms most of the local banks and is the primary aquifer feeding the Gillard springs. The author describes it as weakly consolidated and poorly suited to compaction-based foundations, with risks of slumping and road-surface failure.
+
+### Context
+> This 1974 article in [[Geothermal Energy]] describes [[Gillard Hot Springs]], a set of warm seeps at the confluence of the [[Gila River]] and [[San Francisco River]] in southwest Greenlee County, Arizona. The author, [[Anthony Tellier]], presents the local geology, structure, and water chemistry as...
+> -- *[[ArizonagillardHotSprings_13521]]*
+
+### Mentioned In
+- [[ArizonagillardHotSprings_13521]]
+
+## Volcanic Province
+
+### Summary
+One of the eight biotic provinces in the monograph, with 25 scorpion species recorded. It contains many endemics, including species that favor volcanic cliffs and fractured rock.
+
+### Context
+> This monograph by Stanley C. Williams (Occasional Papers of the [[California Academy of Sciences]], No. 135, 1980) revises the scorpion fauna of the [[Baja California Peninsula]] and its associated islands. The fauna comprises 61 species, 12 subspecies, 11 genera and 4 families, based on roughly...
+> -- *[[ScorpionsOfBajaCaliforniaMexic_12060]]*
+
+### Mentioned In
+- [[ScorpionsOfBajaCaliforniaMexic_12060]]
+
 ## Volcanic Upland
 
 ### Summary
@@ -5448,6 +8247,30 @@ The basaltic upland landform of the study area, known as the Mesa de la Avanzada
 
 ### Mentioned In
 - [[TallGrassAndFlowingWaterAnOral_18812]]
+
+## Volcanism
+
+### Summary
+Volcanism refers to the eruption of magma at or near the Earth's surface. The source lists the genetic, spatial, and temporal relationship between volcanism and the Great Basin fault patterns as one of its unresolved questions. It does not present volcanic data itself.
+
+### Context
+> This document is a geology research article, not an aquatic or ichthyological study. It contains no fish, invertebrate, plankton, or water-chemistry data, so the biological frontmatter fields are recorded as N/A. Its subject is the pattern of late Cenozoic (post-Oligocene) faulting in the [[Great...
+> -- *[[LateCenozoicFaultPatternsAndSt_20851]]*
+
+### Mentioned In
+- [[LateCenozoicFaultPatternsAndSt_20851]]
+
+## Volcano Creek
+
+### Summary
+Volcano Creek is a waterbody named in the title of a Golden Trout print in this catalog. The source only uses the name as a print label and gives no information about its habitat or conditions.
+
+### Context
+> This document is a sales catalog and promotional brochure for scientific fish illustrations by [[Joseph R Tomelleri]], a Kansas City artist regarded by many ichthyologists as a leading scientific illustrator of fishes. It advertises signed, numbered prints of North American fishes (copyright 1991)...
+> -- *[[TheFishesOfNorthAmericaFineArt_13366]]*
+
+### Mentioned In
+- [[TheFishesOfNorthAmericaFineArt_13366]]
 
 ## Volcano Creek Golden Trout
 <!-- fm: auto_enriched: true -->
@@ -5465,6 +8288,30 @@ The basaltic upland landform of the study area, known as the Mesa de la Avanzada
 ### Mentioned In
 - [[FishSpeciesOfSpecialConcernOfC_15453]]
 - [[LetterToDADuffOnSalmoAndParasa_1988_03_09]]
+
+## Volcano Rabbit
+
+### Summary
+The zacatuche (*Romerolagus diazi*), an endemic and endangered lagomorph of central Mexico. The source reports that its habitat on Tlaloc and Pelado is being fragmented, and that no ecologically sound habitat evaluation had been made before this mapping.
+
+### Context
+> This ITC Journal paper (1992-3) by Alejandro Velazquez describes a detailed [[Landscape Ecology-Vegetation Map]] at 1:75,000 scale for the Tlaloc and Pelado volcanoes in central Mexico. The map was built to support a [[Habitat Suitability Survey]] for the endangered endemic [[Volcano Rabbit]]...
+> -- *[[LandscapeEcologyvegetationMapO_13120]]*
+
+### Mentioned In
+- [[LandscapeEcologyvegetationMapO_13120]]
+
+## Volcanoes
+
+### Summary
+Volcanoes are listed in the review as one of the natural sources of dissolved ions in inland waters, alongside the sea, land surfaces, air pollution, and organic debris. The source does not give quantitative detail about volcanic contributions.
+
+### Context
+> This review by [[Eville Gorham]] (Botany Department, University of Toronto; *Geological Society of America Bulletin*, v. 72, p. 795–840, June 1961) examines why the major ionic composition of inland waters varies so widely. It argues that the atmosphere is a more important source of dissolved ions...
+> -- *[[FactorsInfluencingSupplyOfMajo_11081]]*
+
+### Mentioned In
+- [[FactorsInfluencingSupplyOfMajo_11081]]
 
 ## Volga Delta
 <!-- fm: auto_enriched: true -->
@@ -5488,8 +8335,16 @@ The basaltic upland landform of the study area, known as the Mesa de la Avanzada
 > This document contains two papers from *The Sturgeon Quarterly* (Vol. 4, No. 3, July 1996). 1. **Status of two Amu Darya shovelnose sturgeons.** Salnikov, Birstein and Mayden assessed the [[Pseudoscaphirhynchus Kaufmanni]] and [[Pseudoscaphirhynchus Hermanni]] populations in the middle reaches of...
 > -- *[[TheContemporaryStatusOfTheTwoA_20499]]*
 
+> This 1970 laboratory study by D. G. Cross of the [[Salmon And Freshwater Fisheries Laboratory]] tested how well older [[Grass Carp]] (*[[Ctenopharyngodon Idella]]*) tolerate diluted [[Seawater]]. The question matters for risk assessment: if grass carp were introduced to British waterways for...
+> -- *[[TheToleranceOfGrassCarpCtenoph_18024]]*
+
+> This FAO Fisheries Technical Paper (No. 308, 1989, 97 pp.) by D.S. Pavlov reviews how the Soviet Union has tried to keep non-salmonid fish migrating past dams, reservoirs and water abstraction works. The focus is on [[Sturgeon]] (Acipenseridae), Clupeidae, Cyprinidae, Percidae and Siluridae in...
+> -- *[[StructuresAssistingTheMigratio_11231]]*
+
 ### Mentioned In
 - [[TheContemporaryStatusOfTheTwoA_20499]]
+- [[TheToleranceOfGrassCarpCtenoph_18024]]
+- [[StructuresAssistingTheMigratio_11231]]
 
 ## Volk 1907
 <!-- fm: auto_enriched: true -->
@@ -5561,6 +8416,54 @@ Volodin was an associate of Luk'yanenko who contributed to extensive observation
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Volta Lake Research Project
+
+### Summary
+The Akosombo, Ghana research program where the author served as Staff Ichthyologist and did most of the laboratory work on the specimens.
+
+### Context
+> This 1973 taxonomic paper by [[Paul V. Loiselle]] describes *Barbus (Enteromius) guildi* sp. nov., a small cyprinid from the headwaters of the [[Hedjo River]] in Ghana and Togo. The species was first set aside as possible hybrids between two sympatric congeners, [[Barbus Macrops]] and [[Barbus...
+> -- *[[DescriptionOfANewSpeciesOfBarb_16189]]*
+
+### Mentioned In
+- [[DescriptionOfANewSpeciesOfBarb_16189]]
+
+## Volta River Reservoir
+
+### Summary
+A large reservoir in Ghana. According to the report, Tilapia were studied during the final filling phase of this reservoir.
+
+### Context
+> This annual report, issued in Brno in April 1968 by the Hydrobiological and Ichthyological Section of the [[Natural History Club]] in Brno, summarises the 1967 research of several university and institute units in Czechoslovakia. The work covers stream and reservoir ecology, brown trout population...
+> -- *[[HydrobiologicalAndIchthyologic_12964]]*
+
+### Mentioned In
+- [[HydrobiologicalAndIchthyologic_12964]]
+
+## Volterra Model
+
+### Summary
+The Volterra model is a linear predator-prey model that Holling reviews among earlier approaches. He criticizes it for having too few components, depending on calculus, and making assumptions that were not tested.
+
+### Context
+> This Memoir of the Entomological Society of Canada (No. 48, 1966) by C. S. [[Holling]] extends a [[Components Analysis]] of predation by adding [[Hunger]] as a component affecting the [[Functional Response]] of predators to prey density. The work uses the praying mantid *Hierodula crassa* preying...
+> -- *[[TheFunctionalResponseOfInverte_20475]]*
+
+### Mentioned In
+- [[TheFunctionalResponseOfInverte_20475]]
+
+## Volume 2
+
+### Summary
+An earlier volume in the same multi-volume series on Chinese freshwater fishes, which the source says covers Yunnan's fauna in more depth. This volume supplements it with further Yunnan species.
+
+### Context
+> This third volume of *The Freshwater Fishes of China in Coloured Illustration* is a photographic and descriptive field guide to 142 freshwater fish species in 17 families, focused mainly on northern China. Coverage includes the cold-water fauna of the [[Northeast China]] region, the arid northwest...
+> -- *[[TheFreshwaterFishesOfChinaInCo_18290]]*
+
+### Mentioned In
+- [[TheFreshwaterFishesOfChinaInCo_18290]]
+
 ## Volume 44 (1914)
 <!-- fm: auto_enriched: true -->
 
@@ -5623,6 +8526,18 @@ The Volume-Density Method converts tank results into field estimates by accounti
 ### Mentioned In
 - [[UseOfWaterByBottomlandVegetati_16931]]
 
+## Volumetric Method
+
+### Summary
+A method for estimating fish fecundity by counting the large eggs in a subsample of an ovary and scaling that count to the whole ovary. In this study it was checked against total egg counts for one age I and one age II ovary, with an average error of 5.5%.
+
+### Context
+> This 1961 study by Royal D. Suttkus and Bangalore I. Sundararaj, Department of Zoology, [[Tulane University]], examines the reproductive biology of the [[Largescale Menhaden]] (*Brevoortia patronus*) in [[Louisiana Coast|Louisiana coastal waters]]. The authors analyzed 280 specimens collected...
+> -- *[[FecundityAndReproductionInTheL_15057]]*
+
+### Mentioned In
+- [[FecundityAndReproductionInTheL_15057]]
+
 ## Volumetric Piston-Type Sampler
 
 ### Summary
@@ -5663,6 +8578,18 @@ Volvox is a genus of phytoplankton (colonial green algae) that commonly blooms i
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[ASummaryOfFindingsOfTheEcologi_12440]]
 
+## Vomer
+
+### Summary
+A bone of the roof of the mouth. In suckers, a cartilaginous rod joins it to the posterior condyle of the maxillary, forming a movable joint that the source identifies as part of the protrusion mechanism.
+
+### Context
+> This document is a classic functional-anatomy paper on the protrusible mouth of the [[Catostomidae]] (suckers), a family of freshwater bottom-feeding fishes. Using dissection, histology and electrical stimulation, the author concludes that mouth protrusion is produced by the same muscle movements...
+> -- *[[TheProtractileApparatusOfTheMo_15775]]*
+
+### Mentioned In
+- [[TheProtractileApparatusOfTheMo_15775]]
+
 ## Vomerine Dentition
 
 ### Summary
@@ -5693,6 +8620,18 @@ The Von Bayer method is a technique developed in 1910 for measuring fish egg dia
 ### Mentioned In
 - [[SpawningAndHatchingOfTheColora_14375]]
 
+## Von Bertalanffy Growth Constant
+
+### Summary
+The von Bertalanffy growth constant (K) describes how quickly fish approach their asymptotic length in the von Bertalanffy growth curve. In this source, K was 0.22 for male Windermere pike and 0.24 for females, and it is one of the growth parameters used in the population model.
+
+### Context
+> This study estimates the annual food consumption, production and yield of [[Northern Pike]] in [[Lake Windermere]], England, using the [[Beverton-Holt Model]] and the experimentally derived [[Consumption Of Food]] values. It is the second of two parts of the work, with the companion paper on...
+> -- *[[ConsumptionOfFoodByTheResident_19791]]*
+
+### Mentioned In
+- [[ConsumptionOfFoodByTheResident_19791]]
+
 ## Von Bertalanffy Growth Curve
 
 ### Summary
@@ -5717,9 +8656,13 @@ The Von Bertalanffy Growth Equation is the specific mathematical formula l_t = L
 > This document is FAO Fisheries Circular No. 746 (April 1982), edited by J.F. Caddy of the [[FAO Fisheries Department]]'s Marine Resources Service. It is an annotated, provisional catalogue of computer programmes used in [[Fish Stock Assessment]] that participating fisheries institutes are willing...
 > -- *[[ProvisionalWorldListOfComputer_17320]]*
 
+> This laboratory study measured the food requirements of pike (*Esox lucius*) held in outdoor tanks under conditions designed to simulate the field. It is the first of two papers on the food consumption of the [[Lake Windermere]] pike population. The authors separated food intake into maintenance...
+> -- *[[ExperimentalDeterminationOfFoo_19792]]*
+
 ### Mentioned In
 - [[FittingAVonBertalanffyGrowthCu_13367]]
 - [[ProvisionalWorldListOfComputer_17320]]
+- [[ExperimentalDeterminationOfFoo_19792]]
 
 ## Von Bertalanffy Growth Function
 
@@ -5748,10 +8691,50 @@ The Von Bertalanffy Growth Model is a mathematical model describing fish growth 
 > This California Department of Fish and Game bulletin (Fish Bulletin 126, by Julius B. Phillips) reports life-history data for ten commercially important [[Rockfish]] species of the genus *Sebastodes*. It covers annual growth, size and age at maturity, weight-length relationships, spawning season,...
 > -- *[[LifeHistoryStudiesOnTenSpecies_11172]]*
 
+> This 1965 study by [[Flavio R. Lima]] (SUDENE fisheries research, Recife) examines the growth of the Pargo (*Lutjanus aya*), a commercially important snapper of northeastern Brazil. Using about 3,900 fish landed by [[Pargueiro Fishing Boats]] off the coast of Ceará between October 1962 and...
+> -- *[[CrescimentoDoPargoLutianusAyaB_12790]]*
+
+> This study by [[J. F. Craig]] and K. Smiley (Alberta Environmental Centre, Vegreville) reports a single-season (May–September 1983) survey of [[Walleye]] (*Stizostedion vitreum*) and [[Northern Pike]] (*Esox lucius*) in Ethel, Marie and Wolf Lakes in the Cold Lake region of [[Alberta]]. The work...
+> -- *[[WalleyeStizostedionVitreumAndN_17990]]*
+
+> This review by E. D. Le Cren (1965, *Mitteilungen Internationale Vereinigung für Theoretische und Angewandte Limnologie* 13) surveys the theoretical background of freshwater fish population ecology. It argues that fish differ from most other animals in their large size range, long generation times,...
+> -- *[[SomeFactorsRegulatingTheSizeOf_20228]]*
+
+> This review by J. F. Craig (Department of Fisheries and Oceans, Freshwater Institute, Winnipeg; published in the *Canadian Journal of Zoology*, 1985) synthesizes theories and empirical evidence on [[Senescence]] in fish. Aging is defined as the increase in mortality rate and decrease in fecundity...
+> -- *[[AgingInFish_17987]]*
+
 ### Mentioned In
 - [[SurvivalOfRazorbackSuckerInThe_2008]]
 - [[BayesianEstimationOfVonBertala_2025]]
 - [[LifeHistoryStudiesOnTenSpecies_11172]]
+- [[CrescimentoDoPargoLutianusAyaB_12790]]
+- [[WalleyeStizostedionVitreumAndN_17990]]
+- [[SomeFactorsRegulatingTheSizeOf_20228]]
+- [[AgingInFish_17987]]
+
+## Von Brand Starvation Studies
+
+### Summary
+Von Brand's 1948, 1950 and 1957 studies reported reduced oxygen uptake during starvation in several gastropods. Heeg cites this work as prior evidence for metabolic depression. The source confirms Von Brand's 1957 finding that protein is the main substrate used during starvation.
+
+### Context
+> This 1977 study by J. Heeg, published in *Malacologia*, examines how the freshwater snail [[Bulinus (Physopsis) Africanus]] (Planorbidae) responds physiologically to being out of water, comparing fed, starving-in-water and aestivating (out-of-water) individuals. Aestivating snails had a lower...
+> -- *[[OxygenConsumptionAndTheUseOfMe_16593]]*
+
+### Mentioned In
+- [[OxygenConsumptionAndTheUseOfMe_16593]]
+
+## Von Frisch 1941
+
+### Summary
+Von Frisch identified an alarm substance (Schreckstoff) in the skin of injured minnows, which is odoriferous and absent from intestine and liver. He also compared skin extracts from 41 freshwater species and found the alarm substance mainly in cyprinids.
+
+### Context
+> This 1954 review by [[Arthur D. Hasler]] (Department of Zoology, University of Wisconsin), published in the *Journal of the Fisheries Research Board of Canada*, synthesises research on how fishes perceive odours and use them in food-finding, social behaviour, predator avoidance and homing. It...
+> -- *[[OdourPerceptionAndOrientationI_20698]]*
+
+### Mentioned In
+- [[OdourPerceptionAndOrientationI_20698]]
 
 ## Von Ihering
 
@@ -5765,6 +8748,42 @@ Von Ihering was a previous researcher who noted the general similarity between f
 ### Mentioned In
 - [[ThePoeciliidFishesOfRioGrandeD_15799]]
 
+## Von Ledebur
+
+### Summary
+Von Ledebur (1928) is cited as having shown earlier that brown trout depend on swallowing air to initially fill their swim bladders. This study uses that finding as the starting question for its experiments on salmonids.
+
+### Context
+> This 1960 study by J. S. Tait, published in the *Canadian Journal of Zoology*, examines how young [[Salmonidae]] fish inflate their [[Swim Bladder]] for the first time. Four species were tested: [[Brown Trout]], [[Rainbow Trout]], [[Lake Trout]], and [[Lake Whitefish]]. Fish reared without access...
+> -- *[[TheFirstFillingOfTheSwimBladde_13448]]*
+
+### Mentioned In
+- [[TheFirstFillingOfTheSwimBladde_13448]]
+
+## Von Ormy
+
+### Summary
+A town about 14 miles southwest of San Antonio, Texas. The O. R. Mitchell Ranch well near here yielded specimens of both Texas blind catfishes and Prietella phreatophila-related material was compared with Von Ormy specimens.
+
+### Context
+> This chapter, by [[Clark Hubbs]] and reprinted from the [[Natural History of Texas Caves]] (edited by Ernest L. Lundelius), reviews the limited knowledge of fishes living in Texas caves. Of the nine fish species recorded by [[Reddell and Mitchell 1969]], two are troglobites, namely [[Trogloglanis...
+> -- *[[TexasCaveFishes_14195]]*
+
+### Mentioned In
+- [[TexasCaveFishes_14195]]
+
+## von Siebold
+
+### Summary
+Von Siebold (1863) described the European grayling's diet in terms similar to Heckel and Kner. He listed worms, snails, insect larvae, fish spawn, fry, minnows, and seasonal terrestrial insects. The source cites him alongside Heckel and Kner as a European comparison.
+
+### Context
+> This study analyzes the diet of [[Montana Grayling]] (*Thymallus montanus*) introduced into [[Ford Lake]], a small landlocked lake in northern Michigan, after stocking in fall 1936. The work was motivated by the probable extinction of the native [[Michigan Grayling]] (*Thymallus tricolor*) and the...
+> -- *[[FeedingHabitsOfTheMontanaGrayl_20280]]*
+
+### Mentioned In
+- [[FeedingHabitsOfTheMontanaGrayl_20280]]
+
 ## VORTEX
 
 ### Summary
@@ -5776,6 +8795,18 @@ VORTEX (Version 5.1) is a Monte Carlo stochastic simulation model used for popul
 
 ### Mentioned In
 - [[NationalFishHatcherySystemRevi_11668]]
+
+## Vorticifex
+
+### Summary
+Vorticifex is a genus of small freshwater snails. In this source, Vorticifex lasseni is described as a new species from Honey Lake, notable for being relatively large, exceeding 13 mm in length, with about 100 specimens found at Locality B.
+
+### Context
+> This paleontological study by D. W. Taylor and G. R. Smith, published in the [[Museum of Paleontology]] at the University of Michigan (1981), describes two fossil freshwater assemblages from northeastern California and northwestern Nevada. The [[Honey Lake]] fauna (seven molluscs, five fishes)...
+> -- *[[PlioceneMolluscsAndFishesFromN_13499]]*
+
+### Mentioned In
+- [[PlioceneMolluscsAndFishesFromN_13499]]
 
 ## Vorticifex Effusus
 <!-- fm: auto_enriched: true -->
@@ -5802,8 +8833,12 @@ A 31.5-acre Delaware pond with good bass and pickerel catches, with bass reachin
 > - **[[Ice Core Stratigraphy]]**: Glacial ice accumulates in discrete annual/seasonal layers, each trapping tiny bubbles of ancient atmospheric air, preserving a continuous chronological record. - Key drill sites referenced: - **[[Byrd Ice Core]]** and **[[Vostok Ice Core]]** (Antarctica) - **[[GR...
 > -- *[[IceCoreRecordsOfPastClimateCha_1995_09_06]]*
 
+> This technical comment exchange, published in [[Science]] in October 1989, debates whether the [[Devils Hole Calcite Vein]] (DH 2) oxygen-isotope record supports or contradicts the conventional [[Pleistocene Time Scale]]. [[Winograd Et Al.]] (1988) proposed that the DH 2 record, dated to 50–280 ka,...
+> -- *[[ResponseGreatBasinCalciteVeinA_19803]]*
+
 ### Mentioned In
 - [[IceCoreRecordsOfPastClimateCha_1995_09_06]]
+- [[ResponseGreatBasinCalciteVeinA_19803]]
 
 ## Voucher Specimen
 <!-- fm: auto_enriched: true -->
@@ -5898,6 +8933,18 @@ Vrijenhoek et al. 1985 established foundational methodologies for using molecula
 - [[IsolationAndCharacterizationOf_1998]]
 - [[LetterToMrMichaelSpearRegardin_1986_10_22]]
 
+## Vroenenbosch Stream
+
+### Summary
+A Belgian stream classed as a Type 1 algal-dominated tufa, without vascular plants. The source says it is built mainly by Lyngbya calcarea.
+
+### Context
+> This survey by Symoens, Duvigneaud and Vanden Berghen (Bulletin de la Société Royale de Botanique de Belgique, 1951) reviews the calcareous tufas (travertines) of Belgium and the plants that build them. Tufa forms when [[Biogenic Decalcification]] occurs: photosynthesis strips dissolved calcium...
+> -- *[[ApercuSurLaVegetationDesTufsCa_15139]]*
+
+### Mentioned In
+- [[ApercuSurLaVegetationDesTufsCa_15139]]
+
 ## Vuelta La Corvina Camp
 
 ### Summary
@@ -5910,8 +8957,32 @@ Vuelta La Corvina Camp was a field collection site about 60 miles south of Mexic
 ### Mentioned In
 - [[PalaemonetesPaludosusCollected_14699]]
 
+## Vugts
+
+### Summary
+Author cited for observations on small streams, showing that bottom heat flux and viscous dissipation can matter there. His data and conditions were used as a comparison for Zimmerman's model, whose predictions at 1.5 h and 3 h travel times agree well with his results.
+
+### Context
+> This is a theoretical micrometeorological study by J. T. F. Zimmerman (Institute of Earth Sciences, Free University, Amsterdam), published in *Archiv für Meteorologie, Geophysik und Bioklimatologie*, Series A, 1974. It develops an analytical model of the daily temperature cycle of natural streams,...
+> -- *[[OnTheDiurnalHeatBalanceAndTemp_20944]]*
+
+### Mentioned In
+- [[OnTheDiurnalHeatBalanceAndTemp_20944]]
+
 ## Vulpes Macrotis
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TheEcologyOfSmallMammalsAtSara_12881]]
+
+## Vuorinen
+
+### Summary
+Vuorinen is a co-author of a 1981 study cited in the source as showing a polyphyletic pattern in vendace. The source notes that the Yukon high raker form is probably polyphyletic, a pattern also reported for vendace by Vuorinen et al. (1981). The source does not provide further details of that study.
+
+### Context
+> This study by [[Bodaly]] and colleagues (Department of Fisheries and Oceans, Freshwater Institute, Winnipeg, with the University of Manitoba) uses starch gel [[Allozyme Electrophoresis]] of dehydrogenase enzymes to test the genetic relationships of sympatric populations of [[Lake Whitefish]]...
+> -- *[[EvolutionOfLakeWhitefishCorego_17708]]*
+
+### Mentioned In
+- [[EvolutionOfLakeWhitefishCorego_17708]]

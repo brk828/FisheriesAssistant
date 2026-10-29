@@ -4,6 +4,50 @@ letter: K
 ---
 # Concept Stubs: K
 
+## K-Ar Dating
+
+### Summary
+A radiometric dating method that measures the ratio of potassium-40 to argon-40 in minerals to estimate when a rock cooled or crystallized. This paper uses K-Ar ages from 22 samples analyzed at the University of Arizona to constrain the timing of volcanism and faulting.
+
+### Context
+> This preliminary field-guide paper (New Mexico Geological Society Guidebook, 29th Field Conference, 1978) describes the mid-Tertiary volcanic stratigraphy and structure of roughly 5,000 km² in [[Hidalgo County]]. The document contains no fish, invertebrate, plankton, water-chemistry or aquatic...
+> -- *[[CenozoicVolcanicGeologyOfTheBa_12816]]*
+
+> This paper reports 18 new [[K-Ar Dating|K-Ar dates]] on basalts from the southern [[Rio Grande Rift]] in south-central New Mexico. The authors use these dates, together with published data, to reconstruct two extensional regimes separated by a [[Middle Miocene Magma Gap]], and to test whether the...
+> -- *[[NewKarDatesFromBasaltsAndTheEv_11360]]*
+
+> This field-guide paper by [[Robert B. Scarborough]] and [[H. Wesley Peirce]] (Arizona Bureau of Geology and Mineral Technology, Tucson) describes the late Cenozoic sedimentary basins of Arizona and the tectonic event that created them. The authors argue that the modern valleys of southern Arizona...
+> -- *[[LateCenozoicBasinsOfArizona_20543]]*
+
+### Mentioned In
+- [[CenozoicVolcanicGeologyOfTheBa_12816]]
+- [[NewKarDatesFromBasaltsAndTheEv_11360]]
+- [[LateCenozoicBasinsOfArizona_20543]]
+
+## K-Selection
+
+### Summary
+A life-history strategy with slow development, late maturity, density-dependent mortality and dominance in stable environments. It is the counterpart of R-selection in the authors' Table IV, drawn from Pianka (1970).
+
+### Context
+> This paper presents a primer on colonisation theory and applies it to invasive fishes in the [[Great Fish River]], South Africa. It aims to (a) characterise successful invader species in aquatic systems and (b) identify habitat properties that make a system susceptible to invasion. The authors also...
+> -- *[[ColonisationTheoryAndInvasiveB_20200]]*
+
+### Mentioned In
+- [[ColonisationTheoryAndInvasiveB_20200]]
+
+## K. E. Banister
+
+### Summary
+K. E. Banister is the author of this chapter, 'The fishes of the Tigris and Euphrates Rivers' (1980), in the Dr. W. Junk monograph on Euphrates and Tigris Mesopotamian ecology. The source uses his review to describe the freshwater ichthyofauna as poorly known, taxonomically unstable, and low in endemicity.
+
+### Context
+> This chapter, by [[K. E. Banister]] in the Dr. W. Junk monograph *Euphrates and Tigris, Mesopotamian Ecology and Destiny* (Volume 38, edited by J. Illies and Julian Rzoska, 1980), reviews the freshwater ichthyofauna of the Tigris-Euphrates system. It finds that the fauna is poorly known,...
+> -- *[[TheFishesOfTheTigrisAndEuphrat_17312]]*
+
+### Mentioned In
+- [[TheFishesOfTheTigrisAndEuphrat_17312]]
+
 ## K. E. F. Watt
 
 ### Summary
@@ -22,6 +66,18 @@ K. E. F. Watt was an ecologist whose work on ecosystem dynamics Miller cites in 
 ### Mentioned In
 - [[TemperaturUndTagesperiodikDerO_1963]]
 
+## K. M. Downing
+
+### Summary
+K. M. Downing was a co-author of this 1957 study, carried out at the Water Pollution Research Laboratory in Stevenage, England. He also co-authored earlier work with Merkens (1955) on reduced oxygen and ammonia toxicity in rainbow trout.
+
+### Context
+> This 1957 study by [[J. C. Merkens]] and [[K. M. Downing]], published in the *Annals of Applied Biology* (Vol. 45, No. 3, pp. 521-527), examines how dissolved oxygen (DO) tension modifies the lethal effect of [[Un-Ionized Ammonia]] on four freshwater fish species: [[Rainbow Trout]], [[European...
+> -- *[[TheEffectOfTensionOfDissolvedO_20129]]*
+
+### Mentioned In
+- [[TheEffectOfTensionOfDissolvedO_20129]]
+
 ## K. P. Creek
 
 ### Summary
@@ -39,6 +95,30 @@ K. P. Creek is one of the nine improved streams evaluated in Job R-5. The source
 
 ### Mentioned In
 - [[PersonalLetterToMinkRegardingM_1972_08_01]]
+
+## Kabah
+
+### Summary
+Kabah is a Maya archaeological site in northern Yucatan. The source lists it among northern lowland sites that flourished during the AD 800–1000 drought period. It is cited in the discussion of population shifts toward the north.
+
+### Context
+> This document is an excerpt from a 1995 issue of *Nature*, not a fish study. Its central item is a research letter by [[Hodell]] and colleagues that uses a 4.9-m sediment core from [[Lake Chichancanab]], Yucatan, Mexico, to reconstruct Holocene climate. The authors find that the interval...
+> -- *[[PossibleRoleOfClimateInTheColl_20441]]*
+
+### Mentioned In
+- [[PossibleRoleOfClimateInTheColl_20441]]
+
+## Kabata 1979
+
+### Summary
+Kabata (1979) is a taxonomic reference whose species concepts the authors follow for Lernaeocera. Based on it, the authors accept three species: L. branchialis, L. lusci, and L. minuta.
+
+### Context
+> This paper by [[J. C. Eiras]] and [[P. J. T. Santos]] (Instituto de Zoologia «Dr. Augusto Nobre», Faculdade de Ciências do Porto, 1990) documents the morphological and morphometric variability of the parasitic copepod [[Lernaeocera Lusci]] infecting [[Trisopterus Luscus]] (bib) from the Atlantic...
+> -- *[[MorphologyAndMorphometryOfLern_15814]]*
+
+### Mentioned In
+- [[MorphologyAndMorphometryOfLern_15814]]
 
 ## Kabekona Creek
 
@@ -64,6 +144,18 @@ A remote 2,252-acre Hubbard County, Minnesota lake with a brook trout tributary,
 ### Mentioned In
 - [[PreliminaryResultsFromExperime_11284]]
 
+## Kabiashia Village
+
+### Summary
+A village used in this source as a reference point for the tufa seep's location, which lies about 6.1 km west of it.
+
+### Context
+> This short French-language note by J.-J. Symoens and F. Malaisse describes an actively forming [[Calcareous Tufa]] deposit at a seep on the eastern escarpment of the [[Kundelungu Plateau]] in the [[Democratic Republic of the Congo]]. The seep feeds the [[Luanza River]], a tributary of the [[Luizi...
+> -- *[[SurUneFormationDeTufCalcaireOb_15140]]*
+
+### Mentioned In
+- [[SurUneFormationDeTufCalcaireOb_15140]]
+
 ## Kabul River
 
 ### Summary
@@ -87,6 +179,18 @@ A bay in Alaska where the proposal plans to trap sockeye smolts as part of the s
 
 ### Mentioned In
 - [[NeurologicalBaisOfSalmonMigrat_16109]]
+
+## Kadam Virus
+
+### Summary
+Kadam virus is an arthropod-borne pathogen. The source reports its discovery in central Saudi Arabia through work with NAMRU-3 (Cairo), noting it was the first record outside Africa and the first in camels.
+
+### Context
+> This source is a multi-part compilation from the Proceedings of the 1985 Mainz Symposium on the Fauna and Zoogeography of the Middle East (Beihefte zum TAVO A 28, 1987). It contains three elements: a reference list from [[Por]]'s work on Levantine zoogeography and [[Lessepsian Migration]]; a survey...
+> -- *[[ZoologicalSurveyOfSaudiArabia_14148]]*
+
+### Mentioned In
+- [[ZoologicalSurveyOfSaudiArabia_14148]]
 
 ## Kaeding and Osmundson Thermal Unit Method
 
@@ -142,6 +246,18 @@ The Kahili Award is given annually by the Hawaiʻi Visitors Bureau in 13 categor
 ### Mentioned In
 - [[EcotourismTheNewWaveOfTravel_12560]]
 
+## Kaibab Deer
+
+### Summary
+The mule deer population of the Kaibab Plateau in northern Arizona, within Grand Canyon National Park. The guide lists surveys of its big game conditions and management among its holdings.
+
+### Context
+> This is a finding aid (Guide Number 4) to the field reports of the [[United States Fish and Wildlife Service]] and its predecessor, the [[Bureau of Biological Survey]]. The collection is Record Unit 7176, measures 17.2 linear meters, and is held by the [[Smithsonian Archives]] at the [[Smithsonian...
+> -- *[[GuideToTheFieldReportsOfTheUni_17973]]*
+
+### Mentioned In
+- [[GuideToTheFieldReportsOfTheUni_17973]]
+
 ## Kaibab Forest
 
 ### Summary
@@ -153,6 +269,18 @@ The forested Kaibab plateau that lies between the canyon's rims. The source says
 
 ### Mentioned In
 - [[GrandCanyonNationalParkArizona_11517]]
+
+## Kaibab Forest Products
+
+### Summary
+A timber company that harvested more than 650,000 trees from 14 timber sales in 1988-1990. The source reports it agreed to pay a $300,000 fine for unlawfully cutting about 1,200 unmarked trees in the Kaibab National Forest, with no criminal charges filed. The company also planned to close its Fredonia lumber mill, and it continues to operate a mill in southern Utah.
+
+### Context
+> This newspaper compilation from *The Arizona Republic* (December 1994) covers three linked conservation issues in Arizona. The U.S. [[Fish And Wildlife Service]] proposed listing the [[Cactus Ferruginous Pygmy Owl]] as endangered in Arizona and threatened in southern Texas, with 290 miles of desert...
+> -- *[[PygmyOwlProposedForEndangeredL_20916]]*
+
+### Mentioned In
+- [[PygmyOwlProposedForEndangeredL_20916]]
 
 ## Kaibab Lake
 <!-- fm: auto_enriched: true -->
@@ -193,8 +321,12 @@ The Kaibab National Forest is a national forest in northern Arizona. The source 
 > This Southwest Forest Alliance report, dated November 14, 1995 and authored by Torey Silloway and Kieran Suckling of the [[Southwest Center for Biological Diversity]], is a policy critique rather than a primary research study. It argues that a [[U.S. Forest Service]] report by M. Johnson (1995)...
 > -- *[[ForestFraudAndForestHealthUsFo_18957]]*
 
+> This newspaper compilation from *The Arizona Republic* (December 1994) covers three linked conservation issues in Arizona. The U.S. [[Fish And Wildlife Service]] proposed listing the [[Cactus Ferruginous Pygmy Owl]] as endangered in Arizona and threatened in southern Texas, with 290 miles of desert...
+> -- *[[PygmyOwlProposedForEndangeredL_20916]]*
+
 ### Mentioned In
 - [[ForestFraudAndForestHealthUsFo_18957]]
+- [[PygmyOwlProposedForEndangeredL_20916]]
 
 ## Kaibab Plateau
 <!-- fm: auto_enriched: true -->
@@ -206,8 +338,16 @@ The Kaibab National Forest is a national forest in northern Arizona. The source 
 > **Related concepts**: [[Cannibalism]] · [[Trophic Polymorphism]] · [[Phenotypic Plasticity]] · [[Disease Ecology]] · [[Ambystoma Tigrinum]] · [[Kaibab Plateau]] · [[Mogollon Plateau]] · [[Mass Mortality Events]] · [[Host-Specific Pathogens]]
 > -- *[[PathogensAsAFactorLimitingTheS_1991]]*
 
+> This is a finding aid (Guide Number 4) to the field reports of the [[United States Fish and Wildlife Service]] and its predecessor, the [[Bureau of Biological Survey]]. The collection is Record Unit 7176, measures 17.2 linear meters, and is held by the [[Smithsonian Archives]] at the [[Smithsonian...
+> -- *[[GuideToTheFieldReportsOfTheUni_17973]]*
+
+> This *Defenders* magazine essay (Nov/Dec 1992) by Curt Meine assesses how far conservation has absorbed the ideas of [[Aldo Leopold]], especially his [[Land Ethic]] and his regard for [[Biological Diversity]]. The essay traces Leopold's intellectual path from forestry and [[Game Management]] to a...
+> -- *[[KeeperOfTheCogs_20101]]*
+
 ### Mentioned In
 - [[PathogensAsAFactorLimitingTheS_1991]]
+- [[GuideToTheFieldReportsOfTheUni_17973]]
+- [[KeeperOfTheCogs_20101]]
 
 ## Kaibab Squirrel
 
@@ -249,6 +389,18 @@ The only cross-canyon trail in the park, running 20.6 miles from the South Rim t
 ### Mentioned In
 - [[GrandCanyonNationalParkArizona_11517]]
 
+## Kaiko Maru
+
+### Summary
+The Kaiko Maru No. 12 was one of the two medium-sized tuna longliners in the 1963 fleet studied off Recife. It was among the vessels whose catches and operations the authors analysed.
+
+### Context
+> This Portuguese-language fisheries analysis (Barros and Fonseca, published 1965 in the *Boletim do Estado da Pesca*) reports the 1963 catch data of tuna longliners based at [[Recife]], [[Pernambuco]], [[Brazil]]. It continues earlier work covering 1961–1962 and assesses the fishing grounds, species...
+> -- *[[AnaliseDasPesacariasDeAtunsEEs_12789]]*
+
+### Mentioned In
+- [[AnaliseDasPesacariasDeAtunsEEs_12789]]
+
 ## Kaiser Pumping Plant
 
 ### Summary
@@ -261,6 +413,18 @@ The Kaiser Pumping Plant is a groundwater pumping facility along Miami Wash wher
 ### Mentioned In
 - [[MiningActivitiesAndWaterQualit_21102]]
 
+## Kaituna River
+
+### Summary
+The river that is the single surface outlet of Lake Rotoiti in New Zealand. The source notes that Lake Rotoiti has been extended by headward erosion toward this outlet.
+
+### Context
+> This 1969 limnological paper by G. R. Fish (Fisheries Research Division, Marine Department, Rotorua) and M. A. Chapman (Zoology Department, University of Auckland) reports short synoptic surveys of [[Lake Rotorua]] and [[Lake Rotoiti]], New Zealand, carried out before a planned three-year...
+> -- *[[SynopticSurveysOfLakesRotoruaA_16406]]*
+
+### Mentioned In
+- [[SynopticSurveysOfLakesRotoruaA_16406]]
+
 ## Kajaki
 
 ### Summary
@@ -272,6 +436,30 @@ Kajaki is the site of a dam in Afghanistan that represents one of the environmen
 
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+
+## Kajansi Fish Farm
+
+### Summary
+A fish farm in Uganda from which Welcomme obtained juvenile tilapia specimens for the study, alongside fish collected during a habitat-preference study.
+
+### Context
+> This 1964 paper by R. L. Welcomme, of the East African Freshwater Fisheries Research Organization in Jinja, Uganda, provides diagnoses and a rule-of-thumb key for identifying juvenile [[Tilapia]] (family [[Cichlidae]]) in [[Lake Victoria]]. Recent introductions had placed several morphologically...
+> -- *[[DiagnosesAndKeyToTheJuvenilesO_12153]]*
+
+### Mentioned In
+- [[DiagnosesAndKeyToTheJuvenilesO_12153]]
+
+## Kalabina (1935)
+
+### Summary
+Kalabina (1935) is an earlier author cited in this source, who proposed that fish would be absent from waters with phenol above about 0.2 mg/l. The authors cite this view as one side of a disagreement over phenol tolerance, since other workers recorded salmonids at higher concentrations.
+
+### Context
+> This 1968 laboratory study by Mitrovic, Brown, Shurben and Berryman, published in *Water Research*, describes the pathology of [[Rainbow Trout]] (*Salmo gairdnerii*) exposed to [[Phenol]] at concentrations near the 48 hr median lethal concentration (LC50). Fish that died within hours showed gill...
+> -- *[[SomePathologicalEffectsOfSubac_16519]]*
+
+### Mentioned In
+- [[SomePathologicalEffectsOfSubac_16519]]
 
 ## Kalama River
 
@@ -297,6 +485,18 @@ The Kalamazoo River is a major river drainage system in Michigan to which two of
 ### Mentioned In
 - [[FishingInTwelveMichiganLakesUn_16148]]
 
+## Kalamink Creek
+
+### Summary
+Kalamink Creek is a tributary of the Red Cedar River that the authors placed in the sanitary- or septic-dominated category alongside Lake Lansing Drain. Its nutrient loads were therefore treated as independent of discharge.
+
+### Context
+> This 1968 report from the [[Michigan State University]] Museum (Biological Series, Vol. 4, No. 2) describes the chemistry and hydrology of the [[Red Cedar River]], a warm-water, highly buffered stream in south-central Michigan. It was written as the physical and chemical baseline for later papers...
+> -- *[[TheRedCedarRiverReportIChemist_17303]]*
+
+### Mentioned In
+- [[TheRedCedarRiverReportIChemist_17303]]
+
 ## Kalers Pond
 
 ### Summary
@@ -309,12 +509,92 @@ Kalers Pond is a 75-acre great pond in the drainage that supports a brown trout 
 ### Mentioned In
 - [[MedomakRiverDrainageFishManage_18810]]
 
+## Kalleberg
+
+### Summary
+Kalleberg is an author cited in this source for a 1958 finding on brown trout feeding territories. The note reports that he linked feeding territory size to bottom topography. The authors use this as context when discussing how habitat structure may affect trout feeding space.
+
+### Context
+> This 1962 study by [[Edwin L Cooper]], Joseph A. Boccardy and John K. Andersen examines why [[Brook Trout]] grow slowly in a small headwater stream, Mud Lick Run, a branch of Kinzua Creek in the [[Allegheny National Forest]] near Warren, Pennsylvania. The authors tested the common belief that...
+> -- *[[GrowthRateOfBrookTroutAtDiffer_17561]]*
+
+> This review by E. D. Le Cren (1965, *Mitteilungen Internationale Vereinigung für Theoretische und Angewandte Limnologie* 13) surveys the theoretical background of freshwater fish population ecology. It argues that fish differ from most other animals in their large size range, long generation times,...
+> -- *[[SomeFactorsRegulatingTheSizeOf_20228]]*
+
+### Mentioned In
+- [[GrowthRateOfBrookTroutAtDiffer_17561]]
+- [[SomeFactorsRegulatingTheSizeOf_20228]]
+
+## Kallman
+
+### Summary
+Coauthor of the 1959 study with D. E. Rosen. The authors' fin transplantation methods followed earlier work by Kallman and Gordon (1957, 1958), which the study used to graft fins in Xiphophorus and other species.
+
+### Context
+> This 1959 study by Rosen and Kallman, published in the *Quarterly Journal of the Florida Academy of Sciences*, examines why some [[Poeciliidae]] (live-bearing New World cyprinodontiforms) lack part of the skeletal support for their male intromittent organ. Males use a modified anal fin, the...
+> -- *[[DevelopmentAndEvolutionOfSkele_21041]]*
+
+> This 1971 study by [[Kallman]] and [[Schreibman]] examines the origin of new, stable macromelanophore pigment patterns in the platyfish *Xiphophorus maculatus*. Pigment patterns in this species are controlled by sex-linked [[Macromelanophore]] genes that interact with autosomal and sex-linked...
+> -- *[[TheOriginAndPossibleGeneticCon_17877]]*
+
+### Mentioned In
+- [[DevelopmentAndEvolutionOfSkele_21041]]
+- [[TheOriginAndPossibleGeneticCon_17877]]
+
+## Kallman & Atz
+
+### Summary
+Kallman and Atz are the authors of this 1966/1967 study on gene and chromosome homology in Xiphophorus fishes, published in Zoologica. Their work used laboratory-bred strains to analyze pigment pattern inheritance and test whether the relevant loci lie on homologous chromosomes. They concluded that the sex chromosomes of X. maculatus, X. variatus and X. milleri are homologous.
+
+### Context
+> This study by [[Kallman & Atz]] (1967) examines gene and chromosome homology among poeciliid fishes of the genus [[Xiphophorus]]. The authors review and describe macromelanophore (large pigment cell) and micromelanophore (tail-spot) patterns, analyze their inheritance through laboratory crosses,...
+> -- *[[GeneAndChromosomeHomologyInFis_17873]]*
+
+### Mentioned In
+- [[GeneAndChromosomeHomologyInFis_17873]]
+
+## Kallman 1965
+
+### Summary
+An earlier work cited by the source that sampled major drainages across the species' range. It showed that W and X chromosomes coexist across roughly 70 percent of the range. That finding contrasted with earlier claims that the X was confined to Mexican rivers.
+
+### Context
+> This study tests whether the X sex chromosome is absent from the [[Belize River]] and [[Sibun River]] populations of the [[Southern Platyfish]] (*Xiphophorus maculatus*), as earlier, limited work suggested. Breeding tests on wild-caught fish from three collecting stations found that the W and Y...
+> -- *[[SexDeterminationAndTheRestrict_17871]]*
+
+### Mentioned In
+- [[SexDeterminationAndTheRestrict_17871]]
+
+## Kallman and Atz 1967
+
+### Summary
+A study of related Xiphophorus species cited by the source. It is used for comparison, showing that the pigment genes lie on a sex-differential region that is comparable across these related species.
+
+### Context
+> This study tests whether the X sex chromosome is absent from the [[Belize River]] and [[Sibun River]] populations of the [[Southern Platyfish]] (*Xiphophorus maculatus*), as earlier, limited work suggested. Breeding tests on wild-caught fish from three collecting stations found that the W and Y...
+> -- *[[SexDeterminationAndTheRestrict_17871]]*
+
+### Mentioned In
+- [[SexDeterminationAndTheRestrict_17871]]
+
 ## Kaluga
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[ARecordOfAGreatSiberianSturgeo_1994]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
+
+## Kamakichi Kishinouye
+
+### Summary
+Kamakichi Kishinouye was a Japanese fisheries scientist whose 1923 work provides plates reproduced in this volume. The source cites him in the context of tuna and related fish anatomy.
+
+### Context
+> This Guelph Ichthyology Reviews volume (Number 4, February 1996) by [[Douglas Fudge]] and [[E. Don Stevens]] provides an annotated English translation of the 1835 paper by [[Johannes Müller]] and D.F. [[Eschricht]] on the visceral anatomy of the [[Atlantic Bluefin Tuna]] (*Thunnus thynnus*), the...
+> -- *[[TheVisceralRetiaMirabiliaOfTun_18887]]*
+
+### Mentioned In
+- [[TheVisceralRetiaMirabiliaOfTun_18887]]
 
 ## Kamchatka
 
@@ -327,6 +607,18 @@ A peninsula in the Russian Far East that lies within the North Pacific range of 
 
 ### Mentioned In
 - [[ARevisionOfTheOsmeridFishesOfT_19980]]
+
+## Kamchatka Trout
+
+### Summary
+A trout from the Kamchatka region of Russia that Smith and Stearley argue is the same species as the rainbow trout. Based on genetic, morphological, vertebral, and chromosomal evidence cited in the source, they recommend the oldest available name, Oncorhynchus mykiss, for both.
+
+### Context
+> Smith and Stearley (*Fisheries*, Vol. 14, No. 1, January–February 1989) argue that two taxonomic changes are required for North American trouts. First, the [[Rainbow Trout]] and the [[Kamchatka Trout]] are the same species, so the oldest available name, *mykiss*, replaces *Salmo gairdneri*. Second,...
+> -- *[[TheClassificationAndScientific_21167]]*
+
+### Mentioned In
+- [[TheClassificationAndScientific_21167]]
 
 ## Kamloop Trout
 <!-- fm: auto_enriched: true -->
@@ -384,11 +676,15 @@ A peninsula in the Russian Far East that lies within the North Pacific range of 
 > This conference paper by [[Charles W. Caillouet Jr.]] (University of Southwestern Louisiana), presented at the 95th Annual Meeting of the [[American Fisheries Society]] in 1965 and drawn from his 1964 doctoral dissertation at Iowa State University, examines why blood [[Lactic Acid]] data from...
 > -- *[[NatureOfVariabilityInBloodLact_17323]]*
 
+> This experimental study measured [[Blood Lactic Acid]] concentrations in mature [[Common Carp]] (*Cyprinus carpio*) before and for 16 hours after 15 minutes of [[Forced Exercise]], in two seasons: February-March 1961 (1°C) and July 1961 (24°C). In winter, mean blood lactic acid roughly doubled,...
+> -- *[[BloodLacticAcidConcentrationsO_17322]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[ReviewOfFreshwaterFishesOfEast_11318]]
 - [[GameFishInCanada_15912]]
 - [[NatureOfVariabilityInBloodLact_17323]]
+- [[BloodLacticAcidConcentrationsO_17322]]
 
 ## Kanab Ambersnail
 <!-- fm: auto_enriched: true -->
@@ -537,6 +833,9 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > This document is a set of working materials from the U.S. Fish and Wildlife Service (FWS) Arizona Fishery Resources Office, part of the [[Grand Canyon Environmental Studies]] (GCES) program. It contains three linked items: a draft outline for evaluating sampling gears and methods for a [[Long-Term...
 > -- *[[DraftProposalToEvaluateMethods_11086]]*
 
+> This document is a 1941 *Transactions, American Geophysical Union* symposium section titled "Dynamics of Erosion in a New Land." It contains two lead papers, by [[C. F. Stewart Sharpe]] (not reproduced in full here) and [[Reed W. Bailey]], followed by a discussion by several specialists. The...
+> -- *[[LandErosionnormalAndAccelerate_17225]]*
+
 ### Mentioned In
 - [[CommentsOnProposedCriticalHabi_1994_01_25]]
 - [[DrainageMapOfArizonaShowingPer_13007]]
@@ -566,6 +865,7 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 - [[DevelopmentOfAPopulationModelF_21128]]
 - [[RevisedDraftProposalForFurther_11071]]
 - [[DraftProposalToEvaluateMethods_11086]]
+- [[LandErosionnormalAndAccelerate_17225]]
 
 ## Kanab Creek-Virgin River Basin
 <!-- fm: auto_enriched: true -->
@@ -584,9 +884,29 @@ Kanab Creek is a tributary drainage system within the Colorado River Basin that 
 > - **Habitat Preference:** These species are generally adapted to clear, upland stream habitats. The lowland, "big river" habitats of the Missouri and Mississippi rivers appear to act as effective dispersal barriers between upland-adapted populations (e.g., separating Meramec and Osage river popul...
 > -- *[[AnElectrophoreticAnalysisOfThe_1984]]*
 
+> This taxonomic revision of the small, venomous catfishes called madtoms (genus [[Schilbeodes]]) corrects nomenclature for four eastern North American species and describes a new subspecies. The authors, [[Carl L. Hubbs]] and [[Edward C. Raney]], show that the name *insignis* properly belongs to the...
+> -- *[[SystematicNotesOnNorthAmerican_14455]]*
+
+> This 1980 survey of the [[New River]] drainage, published in the Chicago Academy of Sciences *Natural History Miscellanea* (No. 208), documents the crayfish (Decapoda) and freshwater mussels/clams (Mollusca: Pelecypoda) of the lower New River gorge in Virginia and West Virginia. Fieldwork in summer...
+> -- *[[TheCrayfishDecapodaAstacidaeAn_19376]]*
+
+> Hocutt and Hambrick (1973) describe a natural hybrid between the [[Piedmont Darter]] (*Percina crassa roanoka*) and the [[Sharpnose Darter]] (*Percina oxyrhyncha*) from the upper [[Kanawha River]] ([[New River]]) system in Virginia. The single hybrid specimen was collected in 1971 at Radford. Its...
+> -- *[[HybridizationBetweenTheDarters_20434]]*
+
+> This monograph reconstructs how freshwater fishes dispersed across the central Appalachians by linking geological evidence of drainage rearrangement with present-day fish distributions. The author argues that [[Stream Piracy]] and divide migration, combined with Pleistocene glacial ponding in the...
+> -- *[[DrainageEvolutionAndFishDisper_20427]]*
+
+> This chapter, by [[Robert E. Jenkins]], [[Ernest A. Lachner]] and [[Frank J. Schwartz]], is Part III (Vertebrates) of a 1970 symposium monograph on the distributional history of the southern Appalachian biota. It treats the native freshwater fish fauna of the central Appalachian drainages, covering...
+> -- *[[FishesOfTheCentralAppalachianD_13157]]*
+
 ### Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[AnElectrophoreticAnalysisOfThe_1984]]
+- [[SystematicNotesOnNorthAmerican_14455]]
+- [[TheCrayfishDecapodaAstacidaeAn_19376]]
+- [[HybridizationBetweenTheDarters_20434]]
+- [[DrainageEvolutionAndFishDisper_20427]]
+- [[FishesOfTheCentralAppalachianD_13157]]
 
 ## Kanawha River
 <!-- fm: auto_enriched: true -->
@@ -601,11 +921,47 @@ The Kanawha River is a major drainage system in the Ohio River watershed of West
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This taxonomic revision of the small, venomous catfishes called madtoms (genus [[Schilbeodes]]) corrects nomenclature for four eastern North American species and describes a new subspecies. The authors, [[Carl L. Hubbs]] and [[Edward C. Raney]], show that the name *insignis* properly belongs to the...
+> -- *[[SystematicNotesOnNorthAmerican_14455]]*
+
+> This methods paper (Hocutt, Hambrick and Masnik, Virginia Polytechnic Institute and State University) reports a sampling technique for fishes in the large main channel of the [[New River]], Virginia and West Virginia. The method combined [[Rotenone]] applied within a [[Block Net]], with [[Potassium...
+> -- *[[RotenoneMethodsInALargeRiverSt_20435]]*
+
+> Hocutt and Hambrick (1973) describe a natural hybrid between the [[Piedmont Darter]] (*Percina crassa roanoka*) and the [[Sharpnose Darter]] (*Percina oxyrhyncha*) from the upper [[Kanawha River]] ([[New River]]) system in Virginia. The single hybrid specimen was collected in 1971 at Radford. Its...
+> -- *[[HybridizationBetweenTheDarters_20434]]*
+
 ### Mentioned In
 - [[AChecklistOfTheFishesOfWestVir_1975]]
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[YoungFishDistributionInBackwat_1989]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[SystematicNotesOnNorthAmerican_14455]]
+- [[RotenoneMethodsInALargeRiverSt_20435]]
+- [[HybridizationBetweenTheDarters_20434]]
+
+## Kandler
+
+### Summary
+A researcher whose earlier work on plaice in the Kattegat is integrated into Bagenal's fecundity synthesis. The source uses his data as one of the earlier studies compiled across the species' range.
+
+### Context
+> This synthesis by T. B. Bagenal compiles roughly 30 years of work on the fecundity (number of ripening eggs prior to spawning) of the [[European Plaice]] across most of its geographical range. Fecundity is lowest in the Southern Bight of the [[North Sea]], rises in all directions from there, and is...
+> -- *[[TheEcologicalAndGeographicalAs_17195]]*
+
+### Mentioned In
+- [[TheEcologicalAndGeographicalAs_17195]]
+
+## Kandler & Pirwitz
+
+### Summary
+Earlier authors whose work on plaice in the Baltic is integrated into Bagenal's compilation. Their data help document the high-fecundity Baltic population that Bagenal treats as genetically distinct.
+
+### Context
+> This synthesis by T. B. Bagenal compiles roughly 30 years of work on the fecundity (number of ripening eggs prior to spawning) of the [[European Plaice]] across most of its geographical range. Fecundity is lowest in the Southern Bight of the [[North Sea]], rises in all directions from there, and is...
+> -- *[[TheEcologicalAndGeographicalAs_17195]]*
+
+### Mentioned In
+- [[TheEcologicalAndGeographicalAs_17195]]
 
 ## Kandler and Pirwitz
 
@@ -618,6 +974,18 @@ A 1957 method cited for estimating egg numbers volumetrically. The authors used 
 
 ### Mentioned In
 - [[EarlyDevelopmentAdultSexualDim_17842]]
+
+## Kane County
+
+### Summary
+Kane County is a county in northeastern Illinois that the Fox River flows through. The article describes it as one of the fastest-growing counties in the state, citing the US Census Bureau, with new subdivisions and strip malls replacing farmland.
+
+### Context
+> This 1999 USA TODAY news article by Traci Watson examines how suburban development ("sprawl") is threatening US rivers. Its main case study is the [[Fox River]] in northeastern Illinois, which flows through [[Kane County]] and [[McHenry County]], two of the fastest-growing counties in the state....
+> -- *[[EffectsOfSprawlFlowIntoRiverIn_17465]]*
+
+### Mentioned In
+- [[EffectsOfSprawlFlowIntoRiverIn_17465]]
 
 ## Kane Creek
 
@@ -635,6 +1003,18 @@ Kane Creek was a fishing location in Lake Powell that received 4.1% of angler tr
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 
+## Kane Springs Fault
+
+### Summary
+A fault in the Mojave region whose megascopic folds were tightened by sinistral (left-lateral) shear during the time of the Trans Mojave-Sierran Shear Zone activity. The source cites it as an example of second-order shearing that accompanied the main dextral deformation.
+
+### Context
+> This paper (Dokka, Ross & Lu, 1998) examines the [[Trans Mojave-Sierran Shear Zone]] (TMSSZ), a broad east-west dextral shear zone active between 21 and 18 Ma. The authors argue that the TMSSZ was the kinematic link between the [[Pacific-North American Plate Boundary]] and inland extensional...
+> -- *[[TheTransMojavesierranShearZone_19053]]*
+
+### Mentioned In
+- [[TheTransMojavesierranShearZone_19053]]
+
 ## Kangaroo Rat
 <!-- fm: auto_enriched: true -->
 
@@ -645,9 +1025,37 @@ Kane Creek was a fishing location in Lake Powell that received 4.1% of angler tr
 > This Federal Register notice (Vol. 59, No. 219, November 15, 1994, Proposed Rules, pp. 58982–59028) from the [[U.S. Fish and Wildlife Service]] (Service), Department of the Interior, presents an updated compilation of vertebrate and invertebrate animal taxa native to the United States under review...
 > -- *[[EndangeredAndThreatenedWildlif_11654]]*
 
+> This publication, a [[The Nature Conservancy]] newsletter feature and president's letter, argues that desert aquatic ecosystems (springs, playas, cienegas, and desert rivers) are among North America's most endangered ecosystem types. Desert fishes serve as indicators of ecosystem health: of 31...
+> -- *[[DesertWatersPastPresentAndFutu_16673]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesLawSubjectOfC_1998_12_31]]
 - [[EndangeredAndThreatenedWildlif_11654]]
+- [[DesertWatersPastPresentAndFutu_16673]]
+
+## Kangaroo Rats
+
+### Summary
+Nocturnal desert rodents of the genus Dipodomys that store seeds in underground caches. The study cites them, along with pocket mice, as seed-eating dispersers that move seeds only short distances, a limitation the authors invoke to explain the delayed spread of Cercidium microphyllum.
+
+### Context
+> This paleoecological study reconstructs about 22,000 years of vegetation change at [[Eagle Eye Mountain]], near the northern border of the [[Sonoran Desert]] in Arizona's [[Arizona Upland]] subdivision. Plant macrofossils from eleven radiocarbon-dated [[Packrat Middens]] (*Neotoma* sp.) were...
+> -- *[[AYearRecordOfVegetationChangeI_15259]]*
+
+### Mentioned In
+- [[AYearRecordOfVegetationChangeI_15259]]
+
+## Kankakee Marsh
+
+### Summary
+A large marshland region of northwestern Indiana drained by the Kankakee River. The source notes that near Ora the Tippecanoe enters this region, and that glacial floodwaters may have spread drainage toward the Kankakee system.
+
+### Context
+> This paper reports the physiographic results of four summers of fieldwork on the [[Tippecanoe River]], a large northern tributary of the upper [[Wabash River]] in Indiana. The study was undertaken to explain the migration routes and present distribution of freshwater snails (gastropods), which are...
+> -- *[[ThePhysiographyOfTheTippecanoe_20848]]*
+
+### Mentioned In
+- [[ThePhysiographyOfTheTippecanoe_20848]]
 
 ## Kankakee River
 
@@ -693,6 +1101,18 @@ A member of the San Manuel Formation described in the source. The source states 
 ### Mentioned In
 - [[CenozoicGeologyInTheMammothAre_16601]]
 
+## Kanopolis Dam
+
+### Summary
+A dam on the Smoky Hill River in central Kansas. Its outflow controlled station 7, producing flood-type conditions there. The source also links the Kanopolis Reservoir to fish found near stations 2, 3 and 6.
+
+### Context
+> This study documents the fish community of the Smoky Hill River in western and central Kansas, based on 62 electrofishing collections at eight stations from 29 May 1965 to 6 August 1966. The author recorded 13,959 specimens of 30 species (the text also cites 31 species for the same collections, a...
+> -- *[[FishesOfTheSmokyHillRiverKansa_14672]]*
+
+### Mentioned In
+- [[FishesOfTheSmokyHillRiverKansa_14672]]
+
 ## Kanopolis Reservoir
 <!-- fm: auto_enriched: true -->
 
@@ -700,15 +1120,44 @@ A member of the San Manuel Formation described in the source. The source states 
 > This 1956 report by [[Frank Schryer]], Fisheries Biologist, to the [[Kansas Forestry, Fish And Game Commission]] documents a spring spawn-taking program for [[Walleye]] at [[Fall River Reservoir]]. Kansas had no in-state source of walleye eggs, and out-of-state supplies were uncertain, so...
 > -- *[[TheArtificialPropagationOfWall_20615]]*
 
+> This study reports age and growth data for nine species of [[Game Fish]] collected from 1952 to 1956 in twelve of Kansas's more important lakes and reservoirs. Ages were determined by [[Scale Reading]], and average total lengths at the end of each growing season are tabulated for each lake. The...
+> -- *[[GrowthDataOnSportFishesInTwelv_18038]]*
+
+> This study documents the fish community of the Smoky Hill River in western and central Kansas, based on 62 electrofishing collections at eight stations from 29 May 1965 to 6 August 1966. The author recorded 13,959 specimens of 30 species (the text also cites 31 species for the same collections, a...
+> -- *[[FishesOfTheSmokyHillRiverKansa_14672]]*
+
 ### Mentioned In
 - [[StudiesOnKanopolisReservoirIn_1951]]
 - [[TheArtificialPropagationOfWall_20615]]
+- [[GrowthDataOnSportFishesInTwelv_18038]]
+- [[FishesOfTheSmokyHillRiverKansa_14672]]
+
+## Kansan Glaciation
+
+### Summary
+An early Pleistocene glacial episode in North America. In this source it serves as the time reference after which the Kansas River is thought to have shifted from a rubble-bottomed Flint Hills stream to a sandy, turbid Great Plains river, a change the authors link to crayfish distribution.
+
+### Context
+> This note reports new distributional records for two crayfishes, [[Orconectes Luteus]] and [[Orconectes Neglectus Neglectus]], from collections made in 1960 and 1961 in Missouri, Kansas, and Nebraska. The authors document O. luteus north of the Osage River system, where it had not previously been...
+> -- *[[NewDistributionalRecordsForTwo_20146]]*
+
+> This 1964 *Natural History* article by C. Lavett Smith argues that fossil fishes can serve as indicators of past climate. Because fishes have specific habitat requirements, an ichthyologist who can identify the fishes living in a region during a given geologic interval can infer the environmental...
+> -- *[[FishesAndClimatesFossilFishDis_21136]]*
+
+### Mentioned In
+- [[NewDistributionalRecordsForTwo_20146]]
+- [[FishesAndClimatesFossilFishDis_21136]]
 
 ## Kansan Province
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1959 paper by [[Branley A. Branson]] (Department of Zoology, Oklahoma State University) is the first part of a series on the recent land and freshwater snails of [[Oklahoma]]. It reviews the history of malacological work in the state, divides Oklahoma into biotic provinces and districts that...
+> -- *[[TheRecentGastropodaOfOklahomaP_12890]]*
+
 ### Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
+- [[TheRecentGastropodaOfOklahomaP_12890]]
 
 ## Kansas
 <!-- fm: auto_enriched: true -->
@@ -732,12 +1181,28 @@ A member of the San Manuel Formation described in the source. The source states 
 > This monograph-style study by Austin B. Williams revises the freshwater crayfish fauna of the mountainous Ozark Plateaus and Ouachita Provinces of [[Missouri]], [[Arkansas]], [[Oklahoma]] and southeastern [[Kansas]]. The region holds 31 known species and subspecies in three genera of the subfamily...
 > -- *[[SpeciationAndDistributionOfThe_12069]]*
 
+> This 1956 survey, published in the *Transactions of the Kansas Academy of Science*, documents the fish assemblage of [[El Dorado City Lake]], a 3,000 acre-foot impoundment in [[Butler County]], [[Kansas]]. Following a long decline in angling success, the lake was partly drained in 1954, its...
+> -- *[[FishesOfElDoradoCityLakeButler_19274]]*
+
 ### Mentioned In
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
 - [[WhatHaveICaught_12929]]
 - [[TheUseOfChannelCatfishAsSportF_18662]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
 - [[SpeciationAndDistributionOfThe_12069]]
+- [[FishesOfElDoradoCityLakeButler_19274]]
+
+## Kansas Farm Ponds
+
+### Summary
+Kansas farm ponds are the small earthen impoundments in Kansas used here as the setting for pond aquaculture. The source describes its experimental ponds as about 1/9 acre with 2 to 5 ft depths, filled from a reservoir fed by grassland runoff, and notes that Kansas reservoir catfish served as wild comparison fish.
+
+### Context
+> This University of Kansas Museum of Natural History monograph (Vol. 17, No. 4, pp. 191-256, published June 6, 1966, by [[Bill A. Simco]] and [[Frank B. Cross]]) reports roughly a decade of experiments, mostly 1960-1964, on the pond culture of [[Channel Catfish]]. The experiments were conducted in...
+> -- *[[FactorsAffectingGrowthAndProdu_18983]]*
+
+### Mentioned In
+- [[FactorsAffectingGrowthAndProdu_18983]]
 
 ## Kansas Forestry Fish and Game Commission
 
@@ -748,8 +1213,12 @@ The Kansas Forestry Fish and Game Commission was the state agency responsible fo
 > This report documents fisheries management activities in reclaimed coal strip-pit lakes across southeastern Kansas (Crawford, Cherokee, and Linn Counties) from approximately 1951 through spring 1956. The [[Kansas Forestry Fish and Game Commission]] conducted reconditioning and restocking programs...
 > -- *[[SummaryOfFishGrowthAndFishingS_14038]]*
 
+> This 1953 study by Charles C. Burner and Claude Leist, published in the *Transactions of the Kansas Academy of Science*, is the first phase of a research program on improving fish production in [[Strip-Mine Lake]]s of Southeastern Kansas. It describes the [[College Farm Strip-Mine Lake]] near...
+> -- *[[ALimnologicalStudyOfTheCollege_14036]]*
+
 ### Mentioned In
 - [[SummaryOfFishGrowthAndFishingS_14038]]
+- [[ALimnologicalStudyOfTheCollege_14036]]
 
 ## Kansas Forestry, Fish And Game Commission
 <!-- fm: auto_enriched: true -->
@@ -758,9 +1227,25 @@ The Kansas Forestry Fish and Game Commission was the state agency responsible fo
 > This 1956 report by [[Frank Schryer]], Fisheries Biologist, to the [[Kansas Forestry, Fish And Game Commission]] documents a spring spawn-taking program for [[Walleye]] at [[Fall River Reservoir]]. Kansas had no in-state source of walleye eggs, and out-of-state supplies were uncertain, so...
 > -- *[[TheArtificialPropagationOfWall_20615]]*
 
+> This preliminary hatchery study tested five formulated and commercial diets (A to E) on [[Channel Catfish]] (*[[Ictalurus punctatus]]*) fry from the swim-up stage to fingerling size, during July 22 to September 16, 1957. The work was run by the [[Kansas Forestry, Fish and Game Commission]] to...
+> -- *[[EffectsOfFiveDietsOnTheGrowthA_19207]]*
+
 ### Mentioned In
 - [[ReportOnProgressOfFishManageme_14039]]
 - [[TheArtificialPropagationOfWall_20615]]
+- [[EffectsOfFiveDietsOnTheGrowthA_19207]]
+
+## Kansas Forestry, Fish and Game Department
+
+### Summary
+The Kansas state agency that, with city officials, chose to remove all fish from El Dorado City Lake and restock it with desirable species. The source reports that it seined game fish and carried out the 1954 salvage.
+
+### Context
+> This 1956 survey, published in the *Transactions of the Kansas Academy of Science*, documents the fish assemblage of [[El Dorado City Lake]], a 3,000 acre-foot impoundment in [[Butler County]], [[Kansas]]. Following a long decline in angling success, the lake was partly drained in 1954, its...
+> -- *[[FishesOfElDoradoCityLakeButler_19274]]*
+
+### Mentioned In
+- [[FishesOfElDoradoCityLakeButler_19274]]
 
 ## Kansas Forestry, Fish, And Game Commission
 <!-- fm: auto_enriched: true -->
@@ -790,6 +1275,18 @@ The State Geological Survey of Kansas is the state agency that published this 19
 ### Mentioned In
 - [[PleistoceneGeologyOfKansas_18863]]
 
+## Kansas Highway 23 Station
+
+### Summary
+This is a streamflow gauging station on the Cimarron River, draining 8,536 square miles, in Kansas. The authors used it to show that Cimarron flows declined less than Arkansas flows, and it was also a site where Notropis girardi was numerous in 1964 and replaced by N. bairdi by 1979.
+
+### Context
+> This 1983 study by Cross, Gorman, and Haslouer, published in the *Transactions of the Kansas Academy of Science*, documents the spread of [[Notropis Bairdi]] (Red River Shiner) into the [[Cimarron River]] drainage of Kansas and Oklahoma. Over the same period, its cognate species [[Notropis...
+> -- *[[TheRedRiverShinerNotropisBaird_18041]]*
+
+### Mentioned In
+- [[TheRedRiverShinerNotropisBaird_18041]]
+
 ## Kansas Ichthyofauna
 <!-- fm: auto_enriched: true -->
 
@@ -818,6 +1315,21 @@ The Kansas River is a major fluvial system in northeastern Kansas that serves as
 > This 1956 student report by W. L. Minckley, submitted to Kansas State College, examines the ecology of the [[Topeka Shiner]] (*Notropis topeka* Gilbert) in [[Deep Creek]], a small tributary of the [[Kansas River]] in Riley County, Kansas. Fieldwork ran from September 1 to November 25, 1956 across...
 > -- *[[SomeEcologicalStudiesOfNotropi_18546]]*
 
+> This 1984 note in the *Transactions of the Kansas Academy of Science* by Frank B. Cross and Stephen G. Hasloufer reports that the [[Bullhead Minnow]] (*[[Pimephales Vigilax]]*) has become established in the [[Kansas River]] basin, part of the [[Missouri River Basin]], where it was previously...
+> -- *[[PimephalesVigilaxPiscesCyprini_18042]]*
+
+> This note reports new distributional records for two crayfishes, [[Orconectes Luteus]] and [[Orconectes Neglectus Neglectus]], from collections made in 1960 and 1961 in Missouri, Kansas, and Nebraska. The authors document O. luteus north of the Osage River system, where it had not previously been...
+> -- *[[NewDistributionalRecordsForTwo_20146]]*
+
+> This short faunal note reports new Kansas occurrences of four fish species whose state records were scarce or poorly documented: [[Notropis Illecebrosus]] (silverstripe shiner), [[Notropis Dorsalis]] (bigmouth shiner), [[Noturus Gyrinus]] (tadpole madtom), and [[Etheostoma Stigmaeum]] (speckled...
+> -- *[[NewRecordsOfFourFishesFromKans_18037]]*
+
+> This 1956 survey by W. L. Minckley (Kansas State College, Manhattan) documents the fish community of a 900-yard reach of [[Deep Creek]] around [[Pillsbury Crossing]], a tributary of the [[Kansas River]]. Sampling ran from February 21 to April 27, 1956, using nine gear types. Thirteen species and...
+> -- *[[AFishSurveyOfThePillsburyCross_18547]]*
+
+> This 1959 survey by W. L. Minckley, published by the [[University Of Kansas Museum Of Natural History]], documents the fish fauna and angling success of the [[Big Blue River]] Basin in northeastern Kansas. The work was done from March 30, 1957, to August 9, 1958, before the [[Tuttle Creek Dam]]...
+> -- *[[FishesOfTheBigBlueRiverBasinKa_18551]]*
+
 ### Mentioned In
 - [[FishesOfTheWakarusaRiverInKans_14015]]
 - [[NewLocalityRecordsForSomeKansa_1981]]
@@ -826,6 +1338,11 @@ The Kansas River is a major fluvial system in northeastern Kansas that serves as
 - [[WhatHaveICaught_12929]]
 - [[APreliminaryReportOnFishAndWil_15141]]
 - [[SomeEcologicalStudiesOfNotropi_18546]]
+- [[PimephalesVigilaxPiscesCyprini_18042]]
+- [[NewDistributionalRecordsForTwo_20146]]
+- [[NewRecordsOfFourFishesFromKans_18037]]
+- [[AFishSurveyOfThePillsburyCross_18547]]
+- [[FishesOfTheBigBlueRiverBasinKa_18551]]
 
 ## Kansas River Basin
 <!-- fm: auto_enriched: true -->
@@ -833,10 +1350,47 @@ The Kansas River is a major fluvial system in northeastern Kansas that serves as
 ### Summary
 The Kansas River Basin is a major inland freshwater drainage system in central North America that serves as an important geographic and ecological unit for studying fish communities, parasite distributions, and aquatic habitat conditions across Kansas and surrounding regions. As a defined watershed encompassing multiple tributary streams and the main stem Kansas River, the basin provides a coherent system for understanding fish species composition, ecological relationships, and environmental factors affecting aquatic organisms across interconnected water bodies. Research within the Kansas River Basin has documented patterns in fish distribution, abundance, and parasitic infections, making it a significant study area for regional ichthyological surveys and conservation assessments.
 
+### Context
+> This 1984 note in the *Transactions of the Kansas Academy of Science* by Frank B. Cross and Stephen G. Hasloufer reports that the [[Bullhead Minnow]] (*[[Pimephales Vigilax]]*) has become established in the [[Kansas River]] basin, part of the [[Missouri River Basin]], where it was previously...
+> -- *[[PimephalesVigilaxPiscesCyprini_18042]]*
+
+> This document combines two items from the *Transactions of the Kansas Academy of Science* (Vol. 63, No. 1, 1960). The first, by [[W L Minckley]] and [[Frank B Cross]], re-examines the taxonomic status of the [[Shorthead Redhorse]] ([[Moxostoma Aureolum]]) in the [[Kansas River Basin]]. The authors...
+> -- *[[TaxonomicStatusOfTheShortheadR_15867]]*
+
+> This monograph by [[Artie L. Metcalf]] (University of Kansas Publications, Museum of Natural History, Vol. 17, No. 8, pp. 23–189, published March 24, 1966) inventories the fishes of the [[Kansas River Basin]] and interprets their distributions in relation to the physiography, geology, and...
+> -- *[[FishesOfTheKansasRiverSystemIn_20145]]*
+
 ### Mentioned In
 - [[ChecklistOfParasitesFromCatfis_1959]]
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
+- [[PimephalesVigilaxPiscesCyprini_18042]]
+- [[TaxonomicStatusOfTheShortheadR_15867]]
+- [[FishesOfTheKansasRiverSystemIn_20145]]
+
+## Kansas River System
+
+### Summary
+A group of Kansas river basins that earlier fish surveys had documented. The source cites these surveys as predecessors to its own study of the Smoky Hill River. The note gives no specific findings for this system.
+
+### Context
+> This study documents the fish community of the Smoky Hill River in western and central Kansas, based on 62 electrofishing collections at eight stations from 29 May 1965 to 6 August 1966. The author recorded 13,959 specimens of 30 species (the text also cites 31 species for the same collections, a...
+> -- *[[FishesOfTheSmokyHillRiverKansa_14672]]*
+
+### Mentioned In
+- [[FishesOfTheSmokyHillRiverKansa_14672]]
+
+## Kansas River Valley
+
+### Summary
+The valley of the Kansas River, on whose north slope the Natural History Reservation lies. The source describes the Reservation's position on this slope but gives no further detail about the valley itself.
+
+### Context
+> This 1952 [[Kansas University Science Bulletin]] paper by A. Byron Leonard and C. Raymond Goble is the first in a planned series cataloguing the invertebrate and vertebrate fauna of the [[University of Kansas Natural History Reservation]]. The authors surveyed the land snails and freshwater...
+> -- *[[MolluscaOfTheUniversityOfKansa_20277]]*
+
+### Mentioned In
+- [[MolluscaOfTheUniversityOfKansa_20277]]
 
 ## Kansas State Board of Health
 
@@ -862,9 +1416,17 @@ Kansas State Teachers College at Pittsburg was an educational institution that s
 > This 1957 study from [[Kansas State Teachers College]] (Emporia) examines the seasonal abundance of [[Cladocera]] and [[Copepoda]] (collectively called entomostraca) and the physical-chemical conditions of the [[Fall River]] and [[Verdigris River]] in southeastern Kansas. Sampling ran from April...
 > -- *[[SeasonalVariationsAndAbundance_18697]]*
 
+> This annotated checklist, compiled by the [[Kansas State Teachers College]] Biology Department in Emporia, is the first complete inventory of the vertebrate fauna of Lyon County, Kansas. It covers fishes, amphibians, reptiles, birds, and mammals, using contemporary taxonomy and relative-abundance...
+> -- *[[AnAnnotatedCheckListOfTheVerte_15917]]*
+
+> This 1953 study by Charles C. Burner and Claude Leist, published in the *Transactions of the Kansas Academy of Science*, is the first phase of a research program on improving fish production in [[Strip-Mine Lake]]s of Southeastern Kansas. It describes the [[College Farm Strip-Mine Lake]] near...
+> -- *[[ALimnologicalStudyOfTheCollege_14036]]*
+
 ### Mentioned In
 - [[SummaryOfFishGrowthAndFishingS_14038]]
 - [[SeasonalVariationsAndAbundance_18697]]
+- [[AnAnnotatedCheckListOfTheVerte_15917]]
+- [[ALimnologicalStudyOfTheCollege_14036]]
 
 ## Kansas State University
 
@@ -878,9 +1440,17 @@ Kansas State University was one of four research stations intensively studying c
 > This document comprises historical field collection notes (Station M34-2 and M30-60) and correspondence dated March 28, 1989, from the [[University of Michigan Museum of Zoology]] Division of Fishes to Dr. W. L. Minckley at [[Arizona State University]]. The field notes document collection of...
 > -- *[[FishCollectionRecordsAndFieldN_15305]]*
 
+> This review by E. W. Shell (Auburn University Agricultural Experiment Station) summarizes North American research on the nutrition and feeding of warm-water fish, presented at the FAO World Symposium on Warm-Water Pond Fish Culture (Rome, 1966). The field is described as still in its infancy: the...
+> -- *[[FeedsAndFeedingOfWarmwaterFish_11419]]*
+
+> This Arizona State University (ASU) newsletter issue profiles [[W.L. Minckley]], an ASU zoologist and fish specialist who mentors graduate students through intensive field training. It reports his comments that only 30 of the 80 fish species in Arizona waters are native, nearly all of them on...
+> -- *[[ZoologistanglerHooksGraduateSt_12622]]*
+
 ### Mentioned In
 - [[NutritionInCommercialCatfishcu_16217]]
 - [[FishCollectionRecordsAndFieldN_15305]]
+- [[FeedsAndFeedingOfWarmwaterFish_11419]]
+- [[ZoologistanglerHooksGraduateSt_12622]]
 
 ## Kansas Till
 
@@ -905,6 +1475,18 @@ The Kansas University Museum is a natural history collection that houses preserv
 
 ### Mentioned In
 - [[ObservationsOnTheFoodHabitsOfD_20140]]
+
+## Kansas University Science Bulletin
+
+### Summary
+The University of Kansas Science Bulletin is the publication series in which this 1952 paper by Leonard and Goble appeared (vol. 34, no. 16). It is the first in a planned series cataloguing the fauna of the University of Kansas Natural History Reservation.
+
+### Context
+> This 1952 [[Kansas University Science Bulletin]] paper by A. Byron Leonard and C. Raymond Goble is the first in a planned series cataloguing the invertebrate and vertebrate fauna of the [[University of Kansas Natural History Reservation]]. The authors surveyed the land snails and freshwater...
+> -- *[[MolluscaOfTheUniversityOfKansa_20277]]*
+
+### Mentioned In
+- [[MolluscaOfTheUniversityOfKansa_20277]]
 
 ## Kansas Water Storage Law
 
@@ -985,6 +1567,66 @@ Kara Lamb is the contact listed in this newsletter for reservoir-release notices
 ### Mentioned In
 - [[TheContemporaryStatusOfTheTwoA_20499]]
 
+## Karaman
+
+### Summary
+A carcinologist who erected the subgenus Coxasellus to group P. coxalis and its close relatives, and the subgenus Arcasellus (1952). The source notes that P. beroni is not assigned to Arcasellus because its pleopod IV would require changing that subgenus's diagnosis.
+
+### Context
+> This 1968 paper by [[Jean-Paul Henry]] and [[Guy Magniez]] (*Annales de Spéléologie*, vol. 23, fasc. 2) describes *Proasellus beroni* n. sp., a blind (anophthalmic) and depigmented [[Water Slater]] (Crustacea, Isopoda). The species was collected in November 1967 during a biospeleological survey led...
+> -- *[[PremierAselleHypogeDeCorseProa_16682]]*
+
+### Mentioned In
+- [[PremierAselleHypogeDeCorseProa_16682]]
+
+## Karaman Subgenera
+
+### Summary
+Karaman proposed subgenera within Proasellus in 1952 and 1955. The authors of this paper consider these subgenera unsatisfactory for expressing the lineages within the genus.
+
+### Context
+> This paper by [[Jean-Paul Henry]] and [[Guy Magniez]] describes *Proasellus boui* n. sp., a very small, eyeless and unpigmented isopod of the genus [[Proasellus Genus]] (suborder [[Asellota]]). The species was collected from three irrigation wells in the [[Gardon River Valley]] near [[Alès]] (Gard,...
+> -- *[[UnNouvelAselleInterstitielDeFr_16683]]*
+
+### Mentioned In
+- [[UnNouvelAselleInterstitielDeFr_16683]]
+
+## Karaman, S.
+
+### Summary
+Karaman is the author who defined the genus Hadzia in 1932, describing two species in the same work. The source credits him with establishing the genus that Mateus later revises.
+
+### Context
+> This 1974 paper by [[Amilcar Mateus]], published as No. 128 of the *Publicações do Instituto de Zoologia "Dr. Augusto Nobre"* (Faculdade de Ciências do Porto), proposes a phylogeny for the amphipod genus [[Hadzia]] and its morphologically close genera. It also discusses the genus's geographic...
+> -- *[[SurLaPhylognieDuGenreHadziaCru_15154]]*
+
+### Mentioned In
+- [[SurLaPhylognieDuGenreHadziaCru_15154]]
+
+## Karaman-Chappuis Method
+
+### Summary
+A specialised technique for collecting groundwater and interstitial fauna, used in biospeleology to sample aquifers that are hard to reach directly. In this source it appears only in passing, as one of the specialised collecting methods that developed over the past thirty years. The source does not describe its procedure or report results obtained with it.
+
+### Context
+> This paper by Giuseppe Lucio Pesce (Istituto di Zoologia, Università dell'Aquila) reviews the history and current state of Italian interstitial and phreatic (groundwater) fauna research and reports results of freatobiological surveys in the Marche region carried out in 1978–1979. Seventy-three...
+> -- *[[RicercheFaunistecheInAcqueFrea_11249]]*
+
+### Mentioned In
+- [[RicercheFaunistecheInAcqueFrea_11249]]
+
+## Karaman-Chappuis Sounding Method
+
+### Summary
+A shore-based approach that digs a pit until water is reached, then collects and filters that water to sample interstitial fauna. The source says it is simple and works well on sandy beaches, but cannot reach the hyporheic zone beneath riverbeds and performs poorly on gravel. The authors modified it into a pump-driven probe system.
+
+### Context
+> This 1969 methodological paper, presented at the XV Congress of the Società Italiana di Biogeografia by [[Augusto Vigna Taglianti]], [[Vezio Cottarelli]] and [[Roberto Argano]] of the Istituto di Zoologia, Università di Roma, reviews and refines techniques for sampling groundwater fauna. The...
+> -- *[[MessaAPuntoDiMetodichePerLaRac_13447]]*
+
+### Mentioned In
+- [[MessaAPuntoDiMetodichePerLaRac_13447]]
+
 ## Karaman-Chappuis Technique
 
 ### Summary
@@ -997,6 +1639,42 @@ A sampling method for subsurface (hyporheic) fauna, used in this study to sample
 ### Mentioned In
 - [[OversummeringStategiesOfMacroi_17739]]
 
+## Karbe Method
+
+### Summary
+The Karbe method is a cytological preparation technique that this source adapted for fish testis squashes, alongside the Hsu and Pomerat method. The source uses it within its hypotonic-solution procedure for counting chromosomes. The note cites Karbe's 1963 Coregonus count as a related data point.
+
+### Context
+> This 1965 paper by [[Alfred Post]] (Zoologisches Staatsinstitut und Zoologisches Museum Hamburg) reports haploid chromosome counts for freshwater teleost fishes, using a hypotonic-solution squash method for testis tissue adapted from [[Hsu and Pomerat Method]] and [[Karbe Method]]. The author...
+> -- *[[VergleichendeUntersuchungenDer_18640]]*
+
+### Mentioned In
+- [[VergleichendeUntersuchungenDer_18640]]
+
+## Karber Method
+
+### Summary
+The Karber method is a statistical procedure for estimating a median effective or lethal dose from dose-response data. It is named after its developer and is commonly used in toxicology and radiobiology. This source lists it among its cross-links, and the text does not describe how it was applied.
+
+### Context
+> Welander (Applied Fisheries Laboratory, University of Washington) reports a preliminary study of how [[X-Ray Irradiation]] affects six developmental stages of [[Rainbow Trout]] embryos, from the one-cell stage to the pre-hatching eyed stage. Eggs were exposed to graded doses (roughly 25 to 2570 r)...
+> -- *[[SomeEffectsOfXirradiationOfDif_12144]]*
+
+### Mentioned In
+- [[SomeEffectsOfXirradiationOfDif_12144]]
+
+## Kareius Bicoloratus
+
+### Summary
+A flatfish species (the stone flounder) whose food conversion values are included among the literature comparisons in this study. The source does not give specific findings for it beyond being part of that comparative set.
+
+### Context
+> This study by J. A. Colman, published in the *Journal of the Marine Biological Association of the United Kingdom* (1970, vol. 50), measured the food conversion ratio of O-group [[Pleuronectes Platessa]] (European plaice) fed raw, chopped [[Mytilus Edulis]] (blue mussel). Experiments were run in...
+> -- *[[OnTheEfficiencyOfFoodConversio_17164]]*
+
+### Mentioned In
+- [[OnTheEfficiencyOfFoodConversio_17164]]
+
 ## Karel Liem
 <!-- fm: auto_enriched: true -->
 
@@ -1006,6 +1684,18 @@ A sampling method for subsurface (hyporheic) fauna, used in this study to sample
 
 ### Mentioned In
 - [[WhyAreThereSoManyCichlidSpecie_16893]]
+
+## Karen Budd-Falen
+
+### Summary
+A Cheyenne, Wyoming attorney who served as the attorney for the Coalition of Arizona and New Mexico Counties. She spoke at the 1995 Sierra Vista meeting, and the article reports her remarks on federal land and species policy only in general terms.
+
+### Context
+> This document is a 1995 newspaper article from the *Bisbee Daily Review* (Herald/Review), transmitted by fax on May 23, 1995. It reports a meeting of the [[Coalition of Arizona and New Mexico Counties]] in Sierra Vista, Arizona, where speakers criticized the federal [[Endangered Species Act]] (ESA)...
+> -- *[[TicksOverHumansPropertyRightsG_20367]]*
+
+### Mentioned In
+- [[TicksOverHumansPropertyRightsG_20367]]
 
 ## Kariya
 
@@ -1040,8 +1730,72 @@ Cited (1952) as the source of the method used to mount fish scales for ageing, i
 > This paper, published in the [[Stanford Ichthyological Bulletin]] (Vol. 4, No. 3, 1954) by [[Daniel M. Cohen]], describes the age and growth of two coregonine whitefishes near [[Point Barrow]], Alaska: [[Coregonus Nasus Kennicotti]] and [[Coregonus Sardinella]]. The author states these are the...
 > -- *[[AgeAndGrowthStudiesOnTwoSpecie_16001]]*
 
+> This 1976 tribute, reprinted from the [[Bulletin of the Southern California Academy of Sciences]] (Vol. 75, No. 2, pp. 57-59), dedicates the issue to [[Carl L. Hubbs]], described as the foremost figure in North American ichthyology in the middle half of the twentieth century. The piece reviews his...
+> -- *[[InHonorOfCarlLHubbs_19919]]*
+
 ### Mentioned In
 - [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
+- [[InHonorOfCarlLHubbs_19919]]
+
+## Karl Möbius
+
+### Summary
+Karl Möbius was a nineteenth-century German zoologist. The source credits him (1877) with proposing *biocoenosis* to describe interacting animal communities.
+
+### Context
+> This occasional paper by [[Richard Brewer]] (Department of Biology, [[Western Michigan University]]) is the first part of a chronological survey of the development of [[Ecology]] from antiquity to 1919. It was published on November 22, 1960, as Number 1 of the *Occasional Papers of the [[C. C....
+> -- *[[ABriefHistoryOfEcologyPartIPre_12931]]*
+
+### Mentioned In
+- [[ABriefHistoryOfEcologyPartIPre_12931]]
+
+## Karl Pearson
+
+### Summary
+Karl Pearson is the statistician credited in this source with the theoretical error analysis of mark-and-recapture population estimates, published in 1928. The paper cites his work as part of the historical development of marking methods.
+
+### Context
+> This 1953 paper by [[Walter R. Crowe]], published by the [[Institute For Fisheries Research]] of the Michigan Department of Conservation, estimates the fish populations of [[Big Bear Lake]], a small, landlocked lake in Otsego County, Michigan. Using [[Mark-And-Recapture]] sampling with [[Trap Net]]...
+> -- *[[AnAnalysisOfTheFishPopulationO_18079]]*
+
+### Mentioned In
+- [[AnAnalysisOfTheFishPopulationO_18079]]
+
+## Karl Semper
+
+### Summary
+Karl Semper (1881) is cited in this history for describing pyramids of biomass and numbers in animal communities. The paper credits him as an early quantitative thinker about energy and population structure in ecology.
+
+### Context
+> This occasional paper by [[Richard Brewer]] (Department of Biology, [[Western Michigan University]]) is the first part of a chronological survey of the development of [[Ecology]] from antiquity to 1919. It was published on November 22, 1960, as Number 1 of the *Occasional Papers of the [[C. C....
+> -- *[[ABriefHistoryOfEcologyPartIPre_12931]]*
+
+### Mentioned In
+- [[ABriefHistoryOfEcologyPartIPre_12931]]
+
+## Karl von Frisch
+
+### Summary
+Karl von Frisch is a researcher whose 1938 and 1941 work first described the fright reaction in European fish. The source cites his studies as earlier work that this 1963 study builds on.
+
+### Context
+> This 1963 study by [[Wolfgang Pfeiffer]] (Department of Zoology, University of British Columbia) documents the [[Fright Reaction]] in North American freshwater fish for the first time in detail. Skin extracts from five [[Cyprinidae]] species and two [[Catostomidae]] species were tested in more than...
+> -- *[[TheFrightReactionInNorthAmeric_11152]]*
+
+### Mentioned In
+- [[TheFrightReactionInNorthAmeric_11152]]
+
+## Karlin Mcgregor Method
+
+### Summary
+Karlin and McGregor's 'method of small parameters' for analyzing weak selection and migration. The review cites it as supporting the principle that two locally adapted alleles can coexist when migration is sufficiently restricted, with threshold collapse at higher migration.
+
+### Context
+> This document is a theoretical review by Joseph Felsenstein (Department of Genetics, University of Washington), published in the *Annual Review of Genetics* (1976, vol. 10, pp. 253–80). It covers how temporal variation in selection and spatial structure (migration, subdivision, clines) shape...
+> -- *[[TheTheoreticalPopulationGeneti_16332]]*
+
+### Mentioned In
+- [[TheTheoreticalPopulationGeneti_16332]]
 
 ## Karluk Lagoon
 
@@ -1054,6 +1808,30 @@ Karluk Lagoon is a shallow lagoon on Kodiak Island, Alaska, where this 1953 stud
 
 ### Mentioned In
 - [[SurvivalAndSpawningOfGillnetma_19634]]
+
+## Karluk Lake
+
+### Summary
+A lake on Kodiak Island, Alaska, that is one of the sockeye-producing systems studied in this paper. Ricker used Karluk scale data to back-calculate ocean growth, and Karluk stocks supplied the paper's maximum natural mortality estimate for the last two ocean years.
+
+### Context
+> W. E. Ricker (Fisheries Research Board of Canada, Nanaimo Station) compares the ocean growth and natural mortality of [[Sockeye Salmon]] during their final two years at sea. Growth rates are back-calculated from scale annuli for stocks at [[Cultus Lake]] and [[Karluk Lake]]. Instantaneous growth...
+> -- *[[ComparisonOfOceanGrowthAndMort_16877]]*
+
+### Mentioned In
+- [[ComparisonOfOceanGrowthAndMort_16877]]
+
+## Karluk River
+
+### Summary
+The Karluk River in Alaska is one of the pink salmon systems Ricker examines. He describes a broad-range reproduction curve for it, and notes that the 1924 escapement was over 4,000,000 and possibly reduced by fungus. The Karluk Lake sockeye stock is also discussed, with peak production at about 1 to 1.5 million spawners that has since declined.
+
+### Context
+> Ricker (1954) synthesizes the theory of how population size is regulated by density-dependent mortality, and how the resulting stock-recruitment (reproduction) curves shape abundance over time. Plotting filial egg production against parental egg production typically gives a domed curve crossing the...
+> -- *[[StockAndRecruitment_16864]]*
+
+### Mentioned In
+- [[StockAndRecruitment_16864]]
 
 ## Karluk Weir
 
@@ -1076,6 +1854,30 @@ The Karluk Weir is a counting weir on the Karluk River, about 23 miles upstream 
 
 ### Mentioned In
 - [[TheToxicityOfNineTherapeuticAn_12150]]
+
+## Karr and Dudley
+
+### Summary
+Karr and Dudley (1981) are the authors whose definition of biotic integrity the chapter adopts. They describe it as the ability to support and maintain a balanced, integrated, adaptive community of organisms with species composition, diversity, and functional organization comparable to the natural habitat of the region. The source uses this definition as the standard for judging integrity, including in invaded reaches.
+
+### Context
+> This book chapter examines how [[Index of Biotic Integrity]] (IBI) methods, developed mainly for eastern North American streams, can be applied to the low-diversity, highly endemic, and heavily invaded fish faunas of California. The authors identify five problems: low [[Species Richness]], high...
+> -- *[[ApplicationsOfIndicesOfBioticI_15448]]*
+
+### Mentioned In
+- [[ApplicationsOfIndicesOfBioticI_15448]]
+
+## Karr Index
+
+### Summary
+A fish-based index of biotic integrity used to rate water quality from fish community composition. Greenfield and Rogner applied it here, scoring the whole lake 48 ('Good'), and noted that Karr designed it for streams, so its rating boundaries may not transfer directly to lakes.
+
+### Context
+> This 1984 study in the *Transactions of the Illinois Academy of Sciences* (Greenfield and Rogner, Northern Illinois University) surveys the fishes of [[Lake Calumet]] and its adjacent wetlands in Chicago. Sampling ran from September 1981 through August 1982 using seines and electrofishing. The...
+> -- *[[AnAssessmentOfTheFishFaunaOfLa_19256]]*
+
+### Mentioned In
+- [[AnAssessmentOfTheFishFaunaOfLa_19256]]
 
 ## Karro Clay Loam
 
@@ -1101,6 +1903,18 @@ Karro clay loam is one of the old valley-filling soil series mapped in the San S
 ### Mentioned In
 - [[DevilsHoleObservationsAndInter_14957]]
 
+## Karst Groundwater
+
+### Summary
+Karst groundwater is water flowing through the porous and fissured limestone terrain of karst aquifers. The source identifies it as especially vulnerable to pollution because sinkholes act as direct conduits for contaminants reaching the aquifer.
+
+### Context
+> This review by J. R. [[Holsinger]] (1993, *Journal of Natural History*) synthesizes global diversity of subterranean gammaridean amphipods (stygobionts) compiled through 1991. The world fauna comprises about 740 species in 138 genera and 36 families or family groups. Twelve families hold roughly...
+> -- *[[BiodiversityOfSubterraneanAmph_19890]]*
+
+### Mentioned In
+- [[BiodiversityOfSubterraneanAmph_19890]]
+
 ## karst hydrology
 <!-- fm: auto_enriched: true -->
 
@@ -1111,15 +1925,76 @@ Karro clay loam is one of the old valley-filling soil series mapped in the San S
 > This Virginia Commission of Game and Inland Fisheries technical bulletin (April 1959), written by Robert D. Ross, reports a summer 1956 survey of game fish streams in the [[Shenandoah River]] and direct tributaries of the [[Potomac River]] above Goose Creek, Loudoun County. The survey combined...
 > -- *[[GameFishStreamsAndRecordsOfFis_21088]]*
 
+> This 1960–1961 limnological survey by [[Geiling]] and [[Krumholz]] (Department of Biology, University of Louisville) characterizes shallow [[Sinkhole Ponds]] in the karst landscape around [[Doe Run]], Meade County, Kentucky. The study had two aims: a limnological reconnaissance of an unstudied...
+> -- *[[ALimnologicalSurveyOfSinkholeP_16949]]*
+
 ### Mentioned In
 - [[Some Aspects of Evolution and Speciation in the Subterranean Amphipod Genus Stygonectes (Gammaridae)]]
 - [[GameFishStreamsAndRecordsOfFis_21088]]
+- [[ALimnologicalSurveyOfSinkholeP_16949]]
+
+## Karst Landscape
+
+### Summary
+A terrain of porous limestone that underlies much of the region. The article notes that once forest is cleared, soil fertility drops quickly, and that porous limestone could allow major leakage and flooding from a dam in Guatemala's Petén.
+
+### Context
+> This feature-length article describes the [[Usumacinta River]] as a large tropical river system on the Mexico-Guatemala border that drains the largest surviving rain forest in North America. The author's raft expedition documents three intertwined pressures: rapid settlement and [[Deforestation]]...
+> -- *[[TheUsumacintaRiverTroublesOnAW_11981]]*
+
+### Mentioned In
+- [[TheUsumacintaRiverTroublesOnAW_11981]]
+
+## Karst Processes
+
+### Summary
+Karst processes are the dissolution of soluble rock such as limestone by water, which creates caves, sinkholes and conduits. Riggs and colleagues argue that Devils Hole did not form this way, citing its planar form, lack of differential solution, and absence of subaerially deposited speleothems.
+
+### Context
+> This paper by Riggs, Carr, Kolesar and Hoffman (1994) argues that [[Devils Hole]], a deep, steeply dipping, fault-controlled fissure in Cambrian limestone and dolostone in southern Nevada, formed by [[Extensional Tectonism]] rather than [[Karst Processes]]. The authors base this on a continuous...
+> -- *[[TectonicSpeleogenesisOfDevilsH_14959]]*
+
+### Mentioned In
+- [[TectonicSpeleogenesisOfDevilsH_14959]]
 
 ## Karst Terrain
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This review by J. R. [[Holsinger]] (1993, *Journal of Natural History*) synthesizes global diversity of subterranean gammaridean amphipods (stygobionts) compiled through 1991. The world fauna comprises about 740 species in 138 genera and 36 families or family groups. Twelve families hold roughly...
+> -- *[[BiodiversityOfSubterraneanAmph_19890]]*
+
+> This review analyzes the zoogeography of the subterranean amphipod fauna of North America, which includes Mexico, Central America and the West Indies. The author reports 169 species in 28 genera and 10 families or family groups, most of them [[Stygobiont]]s (obligate aquatic subterranean species)....
+> -- *[[ZoogeographicPatternsOfNorthAm_19887]]*
+
 ### Mentioned In
 - [[GrantAgreementBetweenUSFishAnd_11765]]
+- [[BiodiversityOfSubterraneanAmph_19890]]
+- [[ZoogeographicPatternsOfNorthAm_19887]]
+
+## Karst Topography
+
+### Summary
+Karst topography is a landscape formed by the dissolution of soluble bedrock such as limestone, producing features like sinkholes, caves and underground drainage. In this source, the Doe Run Creek watershed has typical karst topography, and sinkhole cavern openings supply some of the oxygen to the spring-fed stream.
+
+### Context
+> This study re-examines the benthic macroinvertebrate assemblage of [[Doe Run Creek]], a spring-fed karst stream in Meade County, Kentucky, by repeating the 1960 sampling design of [[Wendell Minckley]] (1963). It compares 1960 and 1990 data, and also 1989 and 1990 data, to place the 30-year change...
+> -- *[[AComparisonOfTheMacroinvertebr_19799]]*
+
+### Mentioned In
+- [[AComparisonOfTheMacroinvertebr_19799]]
+
+## Karun River
+
+### Summary
+The Karun River is a river system in southwestern Iran, and this source places the type locality of Aphanius vladykovi in its upper basin. The author treats the upper Karun as one of the upland drainages isolating the species' populations.
+
+### Context
+> This paper by [[Brian W. Coad]] describes *Aphanius vladykovi*, a new species of [[Tooth-Carp]] (Cyprinodontidae) from the upper reaches of the [[Karun River]] basin in the [[Zagros Mountains]] of Iran. The species is separated from its closest relative, [[Aphanius sophiae]], by a higher count of...
+> -- *[[AphaniusVladykoviANewSpeciesOf_15969]]*
+
+### Mentioned In
+- [[AphaniusVladykoviANewSpeciesOf_15969]]
 
 ## Karyotype
 <!-- fm: auto_enriched: true -->
@@ -1134,10 +2009,14 @@ Karro clay loam is one of the old valley-filling soil series mapped in the San S
 > This report, by [[Eric J. Loudenslager]] and [[Graham A. E. Gall]] (Department of Animal Science, University of California, Davis), uses [[Gel Electrophoresis]] of enzymes to assess the genetic structure, hybridization and taxonomy of [[Cutthroat Trout]] (*Salmo clarki*) and related western...
 > -- *[[CutthroatTroutABiochemicalgene_16205]]*
 
+> This study describes artificial hybrids between the [[Amur Pike]] (*Esox reicherti*), the only member of the family [[Esocidae]] not naturally occurring in North America, and several North American esocids. The work was carried out in 1973 at the [[Union City Hatchery]] and the [[Benner Spring Fish...
+> -- *[[ArtificialHybridsBetweenAmurPi_18065]]*
+
 ### Mentioned In
 - [[TechniqueForPreparingChromosom_1971_08_01]]
 - [[ChromosomeStudyOnTheDesertPupf_15677]]
 - [[CutthroatTroutABiochemicalgene_16205]]
+- [[ArtificialHybridsBetweenAmurPi_18065]]
 
 ## Karyotype Analysis
 <!-- fm: auto_enriched: true -->
@@ -1146,9 +2025,29 @@ Karro clay loam is one of the old valley-filling soil series mapped in the San S
 > This compiled document, authored by Mark J. Rosenfeld (Department of Biology, University of Utah), reports three linked studies on the endangered chubs of the genus *Gila* in the [[Colorado River Basin]]. The first uses [[Allozyme Electrophoresis]] to build a biochemical genetic database for the...
 > -- *[[BiochemicalGeneticsOfTheColora_21073]]*
 
+> This short methods note by J. D. McPhail and R. L. Jones (College of Fisheries, University of Washington; *Journal of the Fisheries Research Board of Canada*, 1966) describes a rapid technique for obtaining countable metaphase chromosomes from teleost fishes. Earlier methods were effective but slow...
+> -- *[[ASimpleTechniqueForObtainingCh_12346]]*
+
+> This report, prepared by [[John N. Rinne]] of the Rocky Mountain Forest and Range Experiment Station for the U.S. Fish and Wildlife Service, Office of Endangered Species, assesses the genetic and morphological purity of the native [[Arizona Trout]] (*Salmo apache*) across streams in east-central...
+> -- *[[DistributionOfPurePopulationsO_15494]]*
+
 ### Mentioned In
 - [[MeristicsAndMorphometricsOfGol_1993]]
 - [[BiochemicalGeneticsOfTheColora_21073]]
+- [[ASimpleTechniqueForObtainingCh_12346]]
+- [[DistributionOfPurePopulationsO_15494]]
+
+## Karyotyping
+
+### Summary
+A method of examining the number, size and form of chromosomes in cells. The authors recommend it as one of the tests needed to confirm the taxonomic status of the hybrid population, along with electrophoresis and artificial cross-fertilization of the parent species.
+
+### Context
+> This study re-examines a cyprinid hybrid, *Nocomis micropogon* × *Rhinichthys cataractae*, first described as a species (*Rhinichthys bowersi*) in 1908 and later reinterpreted as a hybrid in 1940. The authors confirm its hybrid origin, map its distribution in the upper [[Monongahela River System]],...
+> -- *[[StatusAndDistributionOfTheHybr_14742]]*
+
+### Mentioned In
+- [[StatusAndDistributionOfTheHybr_14742]]
 
 ## Karzinkin 1935
 <!-- fm: auto_enriched: true -->
@@ -1204,6 +2103,30 @@ A stream system with the highest species count in the survey, at 104 species. Sm
 ### Mentioned In
 - [[IllinoisStreamsAClassification_21196]]
 
+## Kasompola Falls
+
+### Summary
+A waterfall on the Luanza River with a drop of about 120 m, according to the source. The tufa seep lies roughly 60 m below the falls on the river's right bank.
+
+### Context
+> This short French-language note by J.-J. Symoens and F. Malaisse describes an actively forming [[Calcareous Tufa]] deposit at a seep on the eastern escarpment of the [[Kundelungu Plateau]] in the [[Democratic Republic of the Congo]]. The seep feeds the [[Luanza River]], a tributary of the [[Luizi...
+> -- *[[SurUneFormationDeTufCalcaireOb_15140]]*
+
+### Mentioned In
+- [[SurUneFormationDeTufCalcaireOb_15140]]
+
+## Katcina
+
+### Summary
+Katcinas (kachinas) are ceremonial figures in Hopi religion; in this source, katcina impersonators distribute ceremonial corn, sometimes called "Kiitcina corn," which is treated as sacred. The source notes that most of this corn is poorly suited to seed because of cross-fertilization, so the system rarely serves as a practical seed-distribution mechanism.
+
+### Context
+> This is a compilation of three articles and notices from the *Museum Notes* of the [[Museum Of Northern Arizona]] (1937–1938). The main items are: (1) an ethnobotanical account of Hopi "embryonic agriculture," including semi-domestication of wild plants and seed transfer through ceremonial...
+> -- *[[SomeNotesOnTheOriginalConditio_17448]]*
+
+### Mentioned In
+- [[SomeNotesOnTheOriginalConditio_17448]]
+
 ## Katherine
 <!-- fm: auto_enriched: true -->
 
@@ -1238,6 +2161,18 @@ Katherine Landing is a location on Lake Mohave used as a reference point for des
 
 ### Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
+
+## Kathleen M. Downing
+
+### Summary
+Kathleen M. Downing is the first-listed author of this 1955 study, with J. C. Merkens, on how dissolved oxygen changes the lethal effect of un-ionized ammonia on rainbow trout. She also authored the 1954 paper on oxygen and potassium cyanide toxicity to trout, which the present study builds on. The source credits her with the experimental work described here.
+
+### Context
+> This 1955 study by [[Kathleen M. Downing]] and J. C. Merkens tested how [[Dissolved Oxygen]] concentration modifies the lethal effect of [[Un-Ionized Ammonia]] on juvenile [[Rainbow Trout]] (*Salmo gairdneri* Richardson). Fingerling trout were exposed in controlled laboratory streams at 19.8 °C and...
+> -- *[[TheInfluenceOfDissolvedoxygenC_19132]]*
+
+### Mentioned In
+- [[TheInfluenceOfDissolvedoxygenC_19132]]
 
 ## Kathleen Marquardt
 
@@ -1311,6 +2246,30 @@ Kathy Holley is a Bureau of Reclamation biologist profiled in the newsletter. Sh
 ### Mentioned In
 - [[ThreeProtozoanDiseasesOfTroutI_14425]]
 
+## Katz and Gaufin 1953
+
+### Summary
+Earlier work that the authors build on, showing that fish species number and population size increased as sewage was purified downstream. It provides the background for why downstream recovery of fish communities was expected in Lytle Creek.
+
+### Context
+> This study examines how partially treated domestic sewage from Wilmington, Ohio, affects the size and growth of [[Creek Chub]] (*Semotilus atromaculatus*) in [[Lytle Creek]]. The authors, working at the [[Robert A. Taft Sanitary Engineering Center]] of the U.S. Public Health Service, compared...
+> -- *[[TheLengthAndGrowthOfYearClassC_17894]]*
+
+### Mentioned In
+- [[TheLengthAndGrowthOfYearClassC_17894]]
+
+## Katz et al. 1959
+
+### Summary
+A earlier study that reported juvenile coho and chinook salmon swimming for 24 to 28 hours at 24 to 36 cm/sec in water near 3 ppm oxygen at 20 °C. Kutty notes that these authors did not determine critical oxygen levels, which the present study did.
+
+### Context
+> This 1968 *Canadian Journal of Zoology* paper by M. Narayanan Kutty tests how ambient dissolved oxygen limits the sustained swimming effort of [[Goldfish]] and [[Rainbow Trout]]. Fish were forced to swim against controlled currents in a [[Blazka Respirometer]] while oxygen was lowered until each...
+> -- *[[InfluenceOfAmbientOxygenOnTheS_12494]]*
+
+### Mentioned In
+- [[InfluenceOfAmbientOxygenOnTheS_12494]]
+
 ## Katz Pritchard And Warren 1959
 <!-- fm: auto_enriched: true -->
 
@@ -1328,6 +2287,34 @@ Kaupichthys is an eel genus that shares some features with Dysommina, including 
 
 ### Mentioned In
 - [[DysomminaRugosaAnApodalFishFro_17713]]
+
+## Kaw River
+
+### Summary
+The Kaw River is a turbid, low-running stream in Kansas, located near Linwood in Leavenworth County. The source collected both Hybopsis species by seine there on August 26, 1962. The author describes it as typical habitat for these minnows, though some H. aestivalis populations occupy clear water.
+
+### Context
+> This 1963 morphological study by [[Branley A. Branson]] describes the olfactory organ of two North American minnows, [[Hybopsis Gelida]] and [[Hybopsis Aestivalis]], collected by seine from the turbid [[Kaw River]] in Kansas. Using gross dissection, skeletal clearing, and serial histology, the...
+> -- *[[TheOlfactoryApparatusOfHybopsi_12902]]*
+
+### Mentioned In
+- [[TheOlfactoryApparatusOfHybopsi_12902]]
+
+## Kawartha Lakes
+
+### Summary
+The Kawartha Lakes are a group of lakes in south central Ontario, Canada, where this study was conducted. The source uses the region to locate both study sites, Nogies Creek and Stony Lake, which differ greatly in size and depth.
+
+### Context
+> This 1978 study by [[John D. Minor]] and [[E. J. Crossman]] used [[Radiotelemetry]] to test whether adult [[Muskellunge]] (*Esox masquinongy*) establish home ranges and which environmental factors shape their use of habitat. Sixteen adults were tracked from May 1975 to October 1976 in a small,...
+> -- *[[HomeRangeAndSeasonalMovementsO_16503]]*
+
+> This 1956 study by E. J. Crossman (University of Toronto), abstracted from a 1954 M.A. thesis, examines a [[Maskinonge]] population in the Nogies Creek Fish Sanctuary, Ontario, using trap-net capture, marking and recapture from 1951 to 1953. The study estimated the population at 769 to 1,122 fish...
+> -- *[[GrowthMortalityAndMovementsOfA_18047]]*
+
+### Mentioned In
+- [[HomeRangeAndSeasonalMovementsO_16503]]
+- [[GrowthMortalityAndMovementsOfA_18047]]
 
 ## Kawatana
 
@@ -1388,6 +2375,54 @@ Kayak Kauaʻi Outfitters is a Hanalei, Kauaʻi business founded 11 years before 
 - [[RequestForTheCommissionToAppro_1997_07_14]]
 - [[FieldDataSheetsForTopminnowpup_19665]]
 
+## Kazinga Channel
+
+### Summary
+The Kazinga Channel is a waterway in East Africa studied for light penetration and photosynthesis. Significant photosynthesis reached only about 2 m there, much shallower than in the open part of Lake Victoria.
+
+### Context
+> This 1967 review by [[J. W. G. Lund]] of the Freshwater Biological Association argues that understanding the ecology of [[Planktonic Algae]] is essential to understanding the ecology of a lake as a whole. It covers algal productivity and biomass estimates, the transfer of energy from primary to...
+> -- *[[PlanktonicAlgaeAndTheEcologyOf_16259]]*
+
+### Mentioned In
+- [[PlanktonicAlgaeAndTheEcologyOf_16259]]
+
+## Kealakekua Bay
+
+### Summary
+Kealakekua Bay is a bay on the Hawaiian island coast (12°28'N, 155°57'W) where Barlow carried out underwater field observations in July and August 1971. The site had shallow reefs with waves of 25 to 100 cm and visibility of about 10 to 30 m, and it is where Lavender tangs strongly excluded Manini from favoured habitats.
+
+### Context
+> This 1974 paper by [[George W. Barlow]], reprinted from the *Journal of Zoology*, examines why the reef-grazing [[Manini]] (*Acanthurus triostegus*) switches between solitary feeding and dense schooling. Field work at [[Kealakekua Bay]], Hawaii, in July and August 1971 indicates that schooling in...
+> -- *[[ExtraspecificImpositionOfSocia_15594]]*
+
+### Mentioned In
+- [[ExtraspecificImpositionOfSocia_15594]]
+
+## Kearney and Peebles
+
+### Summary
+Kearney and Peebles (1960) is a botanical reference work that the authors followed for plant nomenclature. The source uses it to standardize the scientific names of the plants it reports.
+
+### Context
+> This study by [[Campbell]] and [[Green]] examines the composition, distribution, and community structure of stream-channel vegetation along [[Sycamore Creek]], a 42-mile, semiarid stream in central [[Arizona]] that drains the [[Mazatzal Mountains]] and joins the [[Verde River]]. Using 402 randomly...
+> -- *[[PerpetualSuccessionOfStreamcha_17347]]*
+
+### Mentioned In
+- [[PerpetualSuccessionOfStreamcha_17347]]
+
+## Kearney and Peebles Arizona Flora
+
+### Summary
+A standard regional flora of Arizona by Kearney and Peebles, cited in the source's references list. It is one of about twenty floras and manuals the authors consulted for the key.
+
+### Context
+> This 1970 publication by Donald J. Pinkava and Elinor Lehto of the [[Arizona State University Herbarium]] is a semi-technical dichotomous key for identifying the woody plants commonly cultivated in the arid [[Salt River Valley]] of Central Arizona. Most of these plants are non-native cultivars from...
+> -- *[[AVegatativeKeyToTheCultivatedW_11147]]*
+
+### Mentioned In
+- [[AVegatativeKeyToTheCultivatedW_11147]]
+
 ## Kearny Expedition
 
 ### Summary
@@ -1416,8 +2451,24 @@ The 1846 military expedition led by Stephen Watts Kearny through the region. Mem
 > - **Trophic role**: Yellow Perch functions as an opportunistic, visually-feeding predator combining benthic probing (for cottids, chironomids, snails) with open-water interception of mysid shrimp near the lake bottom. - **Prey base**: - [[Cottus asper]] (prickly sculpin) — dominant by volume (62....
 > -- *[[TheFoodAndFeedingChronologyOfY_1979]]*
 
+> This study examined the 24-hour feeding chronology and diet composition of two darters, the [[Least Darter]] (*Etheostoma microperca*) and the [[Banded Darter]] (*E. zonale*), in the [[Iroquois River]] system, Illinois, during 9-10 September 1977. Both species were strictly diurnal feeders, with...
+> -- *[[FeedingChronologyAndDietCompos_17589]]*
+
 ### Mentioned In
 - [[TheFoodAndFeedingChronologyOfY_1979]]
+- [[FeedingChronologyAndDietCompos_17589]]
+
+## Keban Dam
+
+### Summary
+The Keban Dam is a dam in the Turkish headwaters of the basin, located where the Karasu and Murat Nehri meet to form the Euphrates. The source lists it among the hydrological modifications that have reshaped the basin.
+
+### Context
+> This Syllogeus monograph (No. 68, 1991) by [[Brian Coad]] of the Canadian Museum of Nature presents the first critical check-list covering the entire [[Tigris-Euphrates Basin]], the major drainage of southwest Asia. The author reports about 66 freshwater species in 12 native families. Earlier...
+> -- *[[FishesOfTheTigriseuphratesBasi_15971]]*
+
+### Mentioned In
+- [[FishesOfTheTigriseuphratesBasi_15971]]
 
 ## Keel Squamation
 <!-- fm: auto_enriched: true -->
@@ -1457,6 +2508,30 @@ Kehl Canyon is one of several tributary waterways that drain into the Blue Ridge
 ### Mentioned In
 - [[ThreatenedFishesOfTheWorldSand_1996]]
 
+## Keith Arm
+
+### Summary
+A part of Great Bear Lake where cisco samples were taken from Franklin Bay. Keith Arm ciscoes differed significantly from McTavish Arm ciscoes in several body measurements and in vertebral count.
+
+### Context
+> This study by W. A. Kennedy of the [[Central Fisheries Research Station]] presents morphometric measurements and meristic counts for three coregonine species from [[Great Bear Lake]]: [[Lake Whitefish]] (*Coregonus clupeaformis*, n = 78), [[Cisco]] (*Leucichthys artedi*, n = 77) and [[Round...
+> -- *[[TheMorphometryOfTheCoregonineF_17950]]*
+
+### Mentioned In
+- [[TheMorphometryOfTheCoregonineF_17950]]
+
+## Keith Nelson
+
+### Summary
+Keith Nelson is the author of this 1964 monograph in the University of California Publications in Zoology. The work combines aquarium behavior studies, field ecology, preserved-specimen morphology and taxonomic review of the glandulocaudine characins.
+
+### Context
+> This monograph by [[Keith Nelson]], published in the *University of California Publications in Zoology* (1964, vol. 75, no. 2, pp. 59–152), combines aquarium behavioral studies, field ecology, preserved-specimen morphology and taxonomic review of the [[Glandulocaudini]], a group of South American...
+> -- *[[BehaviorAndMorphologyInTheGlan_19633]]*
+
+### Mentioned In
+- [[BehaviorAndMorphologyInTheGlan_19633]]
+
 ## Keith V. Slack
 
 ### Summary
@@ -1466,8 +2541,24 @@ Keith V. Slack is the author of this 1964 U.S. Geological Survey study of how tr
 > This study by [[Keith V. Slack]] (U.S. Geological Survey Professional Paper 475-D, Article 161, 1964) examines how accumulated tree leaves in low-flow pools of the [[Cacapon River]], [[Morgan County]], West Virginia, change stream water chemistry, dissolved oxygen, and temperature. Decomposition of...
 > -- *[[EffectOfTreeLeavesOnWaterQuali_19021]]*
 
+> This 1968 study by [[Keith V. Slack]] and [[Herman R. Feltz]] (U.S. Geological Survey) examines how autumn leaf fall from [[Riparian Vegetation]] degrades the chemistry of a small, otherwise unpolluted stream, the [[North Fork Quantico Creek]]. Field measurements in 1963 were paired with...
+> -- *[[TreeLeafControlOnLowFlowWaterQ_19023]]*
+
 ### Mentioned In
 - [[EffectOfTreeLeavesOnWaterQuali_19021]]
+- [[TreeLeafControlOnLowFlowWaterQ_19023]]
+
+## Kelley and Silver
+
+### Summary
+Kelley and Silver (1952) are geologists cited for restricting the Fusselman name to Silurian rocks and separating the lower, Upper Ordovician-bearing part as the Cutter Formation. They also proposed the name "Percha formation" because of the unit's lithologic variation.
+
+### Context
+> This chapter, by [[Willard D. Pye]] of the University of Arizona, reviews the Silurian and Devonian rock record of southeastern Arizona and southwestern New Mexico, with comparisons to northern Sonora and central Arizona. It is a geological and stratigraphic document, not an ichthyological one: it...
+> -- *[[SilurianAndDevonianStratigraph_18729]]*
+
+### Mentioned In
+- [[SilurianAndDevonianStratigraph_18729]]
 
 ## Kellicotia
 
@@ -1557,6 +2648,18 @@ Kelp bass is a nearshore reef fish of the California coast that supports a recre
 - [[FishRemainsFromTheCenturyRanch_18756]]
 - [[TheKelpBassParalabraxClathratu_20910]]
 
+## Kelp Bed Resources
+
+### Summary
+Kelp beds are dense underwater forests of large brown algae along temperate coasts, which provide habitat and resources. The source notes that Hubbs co-edited a 1968 bulletin with Wheeler J. North on the utilization of kelp bed resources in southern California.
+
+### Context
+> This 1976 tribute, reprinted from the [[Bulletin of the Southern California Academy of Sciences]] (Vol. 75, No. 2, pp. 57-59), dedicates the issue to [[Carl L. Hubbs]], described as the foremost figure in North American ichthyology in the middle half of the twentieth century. The piece reviews his...
+> -- *[[InHonorOfCarlLHubbs_19919]]*
+
+### Mentioned In
+- [[InHonorOfCarlLHubbs_19919]]
+
 ## Kelp Beds
 
 ### Summary
@@ -1602,6 +2705,18 @@ Kelp beds are nearshore underwater forests of large brown algae along the Pacifi
 ### Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
 
+## Kelshaw Bonham
+
+### Summary
+Co-author of this 1951 paper with Carl L. Hubbs, who made the photographs and calculations for the study. The source credits him with the figures and computations supporting the species descriptions.
+
+### Context
+> This paper formally describes three previously unnamed shiners of the genus [[Notropis]] from eastern Texas: *Notropis oxyrhynchus* (Sharpnose Shiner), *N. brazosensis* (Brazos Shiner) and *N. potteri* (Chub Shiner). The authors, [[Carl L. Hubbs]] and [[Kelshaw Bonham]], state that the species had...
+> -- *[[NewCyprinidFishesOfTheGenusNot_14294]]*
+
+### Mentioned In
+- [[NewCyprinidFishesOfTheGenusNot_14294]]
+
 ## Kelvin Gaging Station
 
 ### Summary
@@ -1613,6 +2728,18 @@ A USGS stream gage on the Gila River at Kelvin (station 09474000) that records r
 
 ### Mentioned In
 - [[SanPedroWaterDischargeDataTake_13218]]
+
+## Kemmerer Bottle
+
+### Summary
+A Kemmerer bottle is a water sampler that is lowered to a chosen depth and closed to collect a water sample from that layer. In this study, a 2-liter Kemmerer bottle was used, along with a submersible pump, to sample the water column intensively around the halocline.
+
+### Context
+> This 1968 note by Robert B. Biggs and Carolyn D. Wetzel, from the [[Chesapeake Biological Laboratory]] (University of Maryland), reports that suspended particulate carbohydrate concentrates at the [[Halocline]] of [[Chesapeake Bay]]. Summer 1966 samples from a roughly 31 m water column near...
+> -- *[[ConcentrationOfParticulateCarb_18247]]*
+
+### Mentioned In
+- [[ConcentrationOfParticulateCarb_18247]]
 
 ## Kemmerer et al. 1923
 
@@ -1636,9 +2763,17 @@ An earlier limnological investigation of Bear Lake cited in the source's study h
 > This Oklahoma Department of Wildlife Conservation Job Completion Report (Project F-7-R-1, Oklahoma Walleye Investigations) documents eight months of [[Limnology]] monitoring on [[Tenkiller Ferry Reservoir]] (June 1960 to January 1961) and a companion survey of [[Walleye]] literature. The...
 > -- *[[ObservationsOnTheLimnologicalD_14675]]*
 
+> Charles D. Ziebell (Arizona Cooperative Fishery Unit, University of Arizona, Tucson) examines the fishery consequences of an unusually prolonged thermal and oxygen stratification regime in [[Pena Blanca Lake]], a small warm monomictic impoundment near Nogales, Arizona. Published in the *Journal of...
+> -- *[[FisheryImplicationsAssociatedW_20936]]*
+
+> This 1960 paper by Niles F. Stockinger and Horace A. Hays, published in the *Transactions of the Kansas Academy of Science* (Vol. 63, No. 1), reports the first study of plankton, benthos and fish in acid strip-mine water in southeastern Kansas. Three [[Strip-Mine Lakes]] with different pH levels...
+> -- *[[PlanktonBenthosAndFishInThreeS_14345]]*
+
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
 - [[ObservationsOnTheLimnologicalD_14675]]
+- [[FisheryImplicationsAssociatedW_20936]]
+- [[PlanktonBenthosAndFishInThreeS_14345]]
 
 ## Kemmerer Water Sampler
 
@@ -1652,9 +2787,17 @@ The water sampler used to collect the 4-liter plankton samples in this study. Sa
 > This 1964 final report (Part VI of the [[Studies On The Ecology Of The Brook Trout In The Rocky Mountain Region]] series, by Thomas R. Garofalo) examines the [[Brook Trout]] fisheries of [[Towner Lake]] and [[Little Brooklyn Lake]] in southeastern Wyoming during summer 1962. It was a joint product...
 > -- *[[AStudyOfThePopulationDynamicsA_16918]]*
 
+> This 1953 study by Charles C. Burner and Claude Leist, published in the *Transactions of the Kansas Academy of Science*, is the first phase of a research program on improving fish production in [[Strip-Mine Lake]]s of Southeastern Kansas. It describes the [[College Farm Strip-Mine Lake]] near...
+> -- *[[ALimnologicalStudyOfTheCollege_14036]]*
+
+> This 1967 study by William L. Hilsenhoff (Department of Entomology, University of Wisconsin, Madison) examines why [[Chironomus Plumosus]] populations fluctuate so strongly in [[Lake Winnebago]]. The midge is abundant enough to be a serious nuisance. Over about 3½ years, the author sampled four...
+> -- *[[EcologyAndPopulationDynamicsOf_20405]]*
+
 ### Mentioned In
 - [[SeasonalVariationsAndAbundance_18697]]
 - [[AStudyOfThePopulationDynamicsA_16918]]
+- [[ALimnologicalStudyOfTheCollege_14036]]
+- [[EcologyAndPopulationDynamicsOf_20405]]
 
 ## Kemp (1949)
 
@@ -1683,10 +2826,38 @@ Kemp's Ridley Sea Turtle (Lepidochelys kempii) is a marine turtle species found 
 > Public Law 100-478, enacted October 7, 1988 by the 100th Congress (102 STAT. 2306–2315), amends the [[Endangered Species Act]] of 1973 and authorizes appropriations for fiscal years 1988 through 1992. The law revises definitions, [[Recovery Plans]] requirements, monitoring of recovered species,...
 > -- *[[EndangeredSpeciesActAmendments_13217]]*
 
+> This 1992 *CQ* news article by Phillip A. Davis examines the pending reauthorization of the [[Endangered Species Act]] (PL 93-205). The author argues that reauthorization will depend heavily on election-year politics and the economic effects of the recession. Business coalitions seek greater weight...
+> -- *[[EconomyPoliticsThreatenSpecies_13976]]*
+
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_13327]]
 - [[PartEndangeredAndThreatenedWil_11597]]
 - [[EndangeredSpeciesActAmendments_13217]]
+- [[EconomyPoliticsThreatenSpecies_13976]]
+
+## Kempton Park East Reservoir
+
+### Summary
+A small standing storage reservoir (16.18 ha, maximum depth 7 m) in Middlesex, England, supplied by the River Thames and used as the main study site. Mundie recorded 57 chironomid species there, including the profundal Tanytarsus reservoir community, and found that anaerobic conditions did not develop strongly in 1951 due to slight stratification.
+
+### Context
+> This paper by J. H. [[Mundie]] (Imperial College, London; communicated by P. Freeman, received 5 September 1956, read 5 December 1956) reports a three-year survey (February 1950 to February 1953, with a 1954 extension) of the non-biting midges of storage reservoirs supplied by the River Thames in...
+> -- *[[TheEcologyOfChironomidaeInStor_15509]]*
+
+### Mentioned In
+- [[TheEcologyOfChironomidaeInStor_15509]]
+
+## Ken Sleight
+
+### Summary
+Ken Sleight is a Utah-based canyon guide profiled in a 'Canyon Pioneers' sidebar in this article. The source reports that he reluctantly supports limiting access to many canyons, reflecting the piece's theme of balancing recreation with protection.
+
+### Context
+> This 1988 *Outside* magazine feature by [[Jon Krakauer]] profiles photographer and guide [[Rick Fisher]] and his exploration of the canyons of the [[Mogollon Rim]] in north-central Arizona. Krakauer frames canyoneering as a hybrid of rock climbing, river running and backpacking, and argues that the...
+> -- *[[HiddenCanyonsOfTheMogollonRim_12409]]*
+
+### Mentioned In
+- [[HiddenCanyonsOfTheMogollonRim_12409]]
 
 ## Ken Weston
 
@@ -1699,6 +2870,18 @@ The Project Geologist who co-authored this November 1994 Bureau of Reclamation s
 
 ### Mentioned In
 - [[SiteScreeningResultsForSevenSi_20474]]
+
+## Ken Wiley
+
+### Summary
+Ken Wiley is the author of this 1990 article, written for The Nature Conservancy on protecting instream flows and aquatic species in the Western United States. The article argues that water rights acquisition is central to keeping Western rivers flowing for fish and wildlife.
+
+### Context
+> This article, written by [[Ken Wiley]] for a [[The Nature Conservancy]] publication, argues that the survival of many Western aquatic species and ecosystems depends on keeping water flowing in rivers and streams. Because most land in the West is already protected, the Conservancy's main tool is...
+> -- *[[UntyingTheWesternWaterKnot_11970]]*
+
+### Mentioned In
+- [[UntyingTheWesternWaterKnot_11970]]
 
 ## Kenai National Wildlife Refuge
 
@@ -1733,6 +2916,18 @@ Kendall (1935) is cited in the leaflet as one of its key references. It is the s
 
 ### Mentioned In
 - [[LetterToDADuffOnSalmoAndParasa_1988_03_09]]
+
+## Kendall Coefficient of Concordance
+
+### Summary
+A statistic measuring agreement among several rankings, used here for multiple comparisons of species rank orders across sites and years. It is one of the analytical tools the authors applied to the fish collection data.
+
+### Context
+> This paper (Ross, Matthews and Echelle, *The American Naturalist*, 1985) compares the temporal stability and persistence of fish assemblages in two streams of contrasting physical harshness: [[Brier Creek]], an intermittent prairie-margin stream in southern Oklahoma, and [[Piney Creek]], a...
+> -- *[[PersistenceOfStreamFishAssembl_21092]]*
+
+### Mentioned In
+- [[PersistenceOfStreamFishAssembl_21092]]
 
 ## Kendall Warm Springs
 <!-- fm: auto_enriched: true -->
@@ -1795,6 +2990,18 @@ The Kendall Warm Springs Dace is an endangered fish species endemic to the Virgi
 - [[FinalEnvironmentalAssessment_11629]]
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
 
+## Kendall's W
+
+### Summary
+A coefficient of concordance used in this study to measure how consistently the rankings of taxa by abundance stayed the same across sampling periods. The authors used it as a measure of assemblage stability; fish rankings were significant in all sections (W from 0.634 to 0.831), and invertebrate rankings were significant overall (W = 0.461) and within each season.
+
+### Context
+> This study by [[Gary K. Meffe]] and [[W. L. Minckley]] assesses the persistence and stability of two animal assemblages, fishes and benthic invertebrates, in [[Aravaipa Creek]], a flash-flood-prone Sonoran Desert stream in Arizona. Persistence (presence or absence of taxa, measured by a...
+> -- *[[PersistenceAndStabilityOfFishA_20076]]*
+
+### Mentioned In
+- [[PersistenceAndStabilityOfFishA_20076]]
+
 ## Kendall's W Concordance
 
 ### Summary
@@ -1831,6 +3038,18 @@ Kenilworth Aquatic Gardens is a restored marsh area on the Anacostia River in Wa
 ### Mentioned In
 - [[AmericanRiversProposalFundingR_17975]]
 
+## Kenk R
+
+### Summary
+Author cited for a 1978 study of the tricladid flatworms of the Ohrid basin. The source reports 26 tricladid species there, about 20 of them endemic, based on his work.
+
+### Context
+> This taxonomic study by [[Sket B]] reviews the rhynchobdellid leeches (Hirudinea, Rhynchobdellae) of the [[Ohrid Lake]] basin, an ancient lake in the southern Balkans. The lake itself is inhabited almost exclusively by three endemic taxa: *Cystobranchus pawlowskii*, *Glossiphonia complanata...
+> -- *[[RhynchobdellidLeechesHirudinea_19014]]*
+
+### Mentioned In
+- [[RhynchobdellidLeechesHirudinea_19014]]
+
 ## Kenkiidae
 
 ### Summary
@@ -1852,8 +3071,16 @@ The Kennebec River is a large river in Maine, and this report studies its reach 
 > This report documents a 1954–1955 study of the [[Rainbow Trout]] fishery in the [[Kennebec River]] between [[Wyman Dam]] and [[Solon Dam]], Maine, with attention to temperature, flow, spawning tributaries, age and growth, and the effects of hatchery stocking. Rainbow trout were introduced to the...
 > -- *[[PreliminaryStudyOfKennebecRive_17719]]*
 
+> This 1999 *New York Times* opinion column by [[James Conaway]] argues for removing obsolete dams to restore fish migration, using the [[Embrey Dam]] on the [[Rappahannock River]] in [[Fredericksburg]], Virginia, as its central case. The author holds that the dam blocks [[Anadromous Fish]] runs such...
+> -- *[[SettingOurRiversFree_17464]]*
+
+> This narrative essay, written in the style of [[John McPhee]], follows a canoe trip down the [[Kennebec River]] in Maine and the 1999 removal of [[Edwards Dam]] in [[Augusta Maine]]. The breaching of the dam on July 1, 1999 was the first time a major river dam was ordered out of existence by the...
+> -- *[[FarewellToTheNineteenthCentury_12345]]*
+
 ### Mentioned In
 - [[PreliminaryStudyOfKennebecRive_17719]]
+- [[SettingOurRiversFree_17464]]
+- [[FarewellToTheNineteenthCentury_12345]]
 
 ## Kennebunk, Maine
 <!-- fm: auto_enriched: true -->
@@ -1864,6 +3091,18 @@ The Kennebec River is a large river in Maine, and this report studies its reach 
 
 ### Mentioned In
 - [[FisherySurveyOfTheMousamRiver_12823]]
+
+## Kennecott
+
+### Summary
+A copper mining company with a long history in North American mining. The source cites it as an example of corporate restructuring and changing ownership in the industry, without detailing its finances.
+
+### Context
+> Don H. Sherwood, a Denver mining attorney, argues in a 1987 seminar paper that the mining industry has changed fundamentally since the late 1970s. Oil-company acquisitions, foreign ownership, hostile takeovers, spin-offs and bankruptcies have produced a "new model" mining company that he describes...
+> -- *[[MiningLeasesAndExplorationAgre_18899]]*
+
+### Mentioned In
+- [[MiningLeasesAndExplorationAgre_18899]]
 
 ## Kennedy
 
@@ -1877,9 +3116,37 @@ Kennedy was a researcher who collaborated with Mihursky on temperature effects i
 > This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
 > -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
 
+> This study examines the diet, vertical distribution, temperature preferences, oxygen tolerance, and daily activity of [[Lake Whitefish]] (*Coregonus clupeaformis*) in [[Lac La Ronge]], Saskatchewan. Stomach contents from gill-net catches were analyzed from 1948 to 1954. Diet differed between the...
+> -- *[[FoodAndDistributionOfLakeWhite_18730]]*
+
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 - [[ABibliographyOfSomeAgeAndGrowt_18720]]
+- [[FoodAndDistributionOfLakeWhite_18730]]
+
+## Kennedy 1949
+
+### Summary
+A separate companion study by the same author, cited in this note, that treated availability, distribution, growth, size at maturity, sex ratio and food habits of the Great Bear Lake coregonines. The present paper says those topics were handled there rather than here.
+
+### Context
+> This study by W. A. Kennedy of the [[Central Fisheries Research Station]] presents morphometric measurements and meristic counts for three coregonine species from [[Great Bear Lake]]: [[Lake Whitefish]] (*Coregonus clupeaformis*, n = 78), [[Cisco]] (*Leucichthys artedi*, n = 77) and [[Round...
+> -- *[[TheMorphometryOfTheCoregonineF_17950]]*
+
+### Mentioned In
+- [[TheMorphometryOfTheCoregonineF_17950]]
+
+## Kennedy and Garrison 1975
+
+### Summary
+A study cited by the source as an example of similar thin, laterally continuous phosphorites in ancient marine rocks, specifically the Cenomanian of southeastern England. The source uses it as a comparison for the Glenns Ferry phosphorite horizons.
+
+### Context
+> This study describes thin, laterally extensive freshwater lacustrine phosphorite horizons within the Pliocene [[Glenns Ferry Formation]] of southwestern Idaho. The phosphatic units are confined to coarse-grained nearshore and shoreface facies that crop out along about 50 km of the southwestern...
+> -- *[[SynsedimentaryLacustrinePhosph_15129]]*
+
+### Mentioned In
+- [[SynsedimentaryLacustrinePhosph_15129]]
 
 ## Kennedy and Sprules 1967
 
@@ -1905,6 +3172,18 @@ A meadow area on the Kern River system where brown trout were planted from 1940 
 ### Mentioned In
 - [[BrownTroutControlProgramSouthF_15553]]
 
+## Kennedy Space Center
+
+### Summary
+The Kennedy Space Center is a NASA facility on the east-central Florida coast near Cape Canaveral. Four study sites for this work were located near it, and they were sampled for sailfin molly populations from 1973 to 1982.
+
+### Context
+> This study examines size and morphological variation in mature male [[Sailfin Molly]] (*Poecilia latipinna*) from four [[Poeciliidae|Poeciliid]] populations in east-central Florida, sampled monthly from 1973 to 1982. Males did not fall into discrete classes. Instead they formed a continuous size...
+> -- *[[SizeAndMorphologicalVariationI_21226]]*
+
+### Mentioned In
+- [[SizeAndMorphologicalVariationI_21226]]
+
 ## Kennedy's Metabolic Rate Theory
 
 ### Summary
@@ -1916,6 +3195,18 @@ A theory linking the metabolic rate of organisms to their distribution across en
 
 ### Mentioned In
 - [[TheEffectOfTemperatureOnTheDis_14352]]
+
+## Kennet-Avon Canal
+
+### Summary
+The Kennet-Avon Canal near Reading is a freshwater canal in England. It was one of the sites where Macan collected nymphs of E. vulgata and E. danica for this study.
+
+### Context
+> This 1958 taxonomic paper by [[Thomas Macan]] (Freshwater Biological Association, Ambleside) compares the nymphs of the three British mayflies of the genus Ephemera recorded by [[Kimmins Key|Kimmins (1954)]]: [[Ephemera Vulgata]], [[Ephemera Danica]] and [[Ephemera Lineata]]. Macan tests the...
+> -- *[[AComparisonOfTheNymphsOfTheBri_19285]]*
+
+### Mentioned In
+- [[AComparisonOfTheNymphsOfTheBri_19285]]
 
 ## Kenneth B. Armitage
 
@@ -1929,6 +3220,22 @@ Kenneth B. Armitage is a co-author of this 1967 University of Kansas Science Bul
 ### Mentioned In
 - [[ExternalMorphologyOfAdultAndCo_17878]]
 
+## Kenneth D Carlander
+
+### Summary
+Kenneth D. Carlander was a fisheries biologist and co-author of this 1957 study of population balance in Iowa farm ponds. He worked with Robert B. Moorman at Iowa State College on the Iowa Cooperative Fisheries Research Unit project. The source credits him with the joint evaluation of pond management methods.
+
+### Context
+> This 1957 paper by [[Kenneth D Carlander]] and [[Robert B Moorman]] (Iowa State College) evaluates management attempts to correct unbalanced fish populations in farm ponds of Marion County, Iowa. The work was part of Project 37 of the [[Iowa Cooperative Fisheries Research Unit]]. The authors...
+> -- *[[SomeExperimentsInChangingPopul_17408]]*
+
+> This 1978 American Fisheries Society symposium paper by [[Kenneth D Carlander]], [[J Scott Campbell]], and [[Robert J Muncy]] estimates the freshwater area occupied by five [[Coolwater Fishes]]: [[Northern Pike]], [[Muskellunge]], [[Walleye]], [[Sauger]], and [[Yellow Perch]]. Data came from a...
+> -- *[[InventoryOfPercidAndEsocidHabi_17413]]*
+
+### Mentioned In
+- [[SomeExperimentsInChangingPopul_17408]]
+- [[InventoryOfPercidAndEsocidHabi_17413]]
+
 ## Kenneth D. Carlander
 
 ### Summary
@@ -1941,9 +3248,21 @@ Iowa fisheries biologist who edited and convened the 1957 symposium on evaluatin
 > This reprinted 1951 paper by Reeve M. Bailey, first issued in *Iowa Fish and Fishing*, provides a revised check-list of the native and established fishes of [[Iowa]] together with dichotomous keys for identification. The check-list comprises 25 families, 61 genera, 133 species and 137 total kinds...
 > -- *[[ACheckListOfTheFishesOfIowaWit_17232]]*
 
+> This paper by [[Kenneth D. Carlander]] reconstructs the fish population of Lake LaVerne, a small eutrophic campus lake in Ames, Iowa, from 1937 to 1977. The data come from fishery management class records and other irregularly collected information, gathered as teaching exercises rather than formal...
+> -- *[[HistoryOfTheFishPopulationOfLa_17404]]*
+
+> This 1957 paper by [[Kenneth D. Carlander]] (Iowa State College, reprinted in the *Transactions of the American Fisheries Society*) argues that deliberately disturbing the [[Predator-Prey Balance]] in freshwater game fish populations can improve angler success and can serve as a practical...
+> -- *[[DisturbanceOfThePredatorpreyBa_17401]]*
+
+> This study by [[Kenneth D. Carlander]] and [[Philip Michael Payne]] (Iowa State University) analyses 27 years (1948–74) of [[Walleye]] (*Stizostedion vitreum vitreum*) monitoring in [[Clear Lake]], a eutrophic [[Iowa]] lake. The authors test whether artificial [[Fry Stocking]] at varied rates...
+> -- *[[YearclassAbundancePopulationAn_17412]]*
+
 ### Mentioned In
 - [[SymposiumOnEvaluationOfFishPop_14380]]
 - [[ACheckListOfTheFishesOfIowaWit_17232]]
+- [[HistoryOfTheFishPopulationOfLa_17404]]
+- [[DisturbanceOfThePredatorpreyBa_17401]]
+- [[YearclassAbundancePopulationAn_17412]]
 
 ## Kenneth D. Woodburn
 
@@ -1956,6 +3275,18 @@ Co-author of this 1960 Florida State Board of Conservation Marine Laboratory rep
 
 ### Mentioned In
 - [[AnEcologicalStudyOfTheFishesOf_11938]]
+
+## Kenneth Dixon Carlander
+
+### Summary
+Kenneth Dixon Carlander is the author of this 1966 paper on how limnological features relate to fish growth in lakes. He argues that environmental factors act mainly on biomass growth and carrying capacity rather than directly on the average growth of individual fish. The paper was presented at the Verhandlungen of the International Association of Theoretical and Applied Limnology.
+
+### Context
+> This 1966 paper by [[Kenneth Dixon Carlander]], presented at the Verhandlungen of the Internationale Vereinigung für Theoretische und Angewandte Limnologie (Stuttgart, December 1966), argues that environmental factors rarely correlate directly with the average growth rate of fishes in lakes....
+> -- *[[RelationshipOfLimnologicalFeat_17411]]*
+
+### Mentioned In
+- [[RelationshipOfLimnologicalFeat_17411]]
 
 ## Kenneth V. Rosenberg
 
@@ -1980,6 +3311,30 @@ Co-author, with S. Clark Martin, of the 1952 USDA Forest Service circular on the
 
 ### Mentioned In
 - [[TheMesquiteProblemOnSouthernAr_18437]]
+
+## Kenneth Watt
+
+### Summary
+Kenneth Watt conducted flour beetle experiments that Solomon cites in the discussion on density-dependent regulation and sustainable yield. In those experiments the optimal monthly cropping fraction was about 90 per cent.
+
+### Context
+> This reprinted 1958 paper by E. D. Le Cren of the [[Freshwater Biological Association]] argues that British freshwater fish production is mainly a sport-fishing problem, not a food or commercial one. The author separates *production* (total growth of a fish population) from the *crop* actually...
+> -- *[[TheProductionOfFishInFreshWate_20223]]*
+
+### Mentioned In
+- [[TheProductionOfFishInFreshWate_20223]]
+
+## Kenney
+
+### Summary
+Kenney (1995) identified seven types of interstate institutional options for managing Colorado River water during drought. The source notes that he recommended forums and processes for resolving complex, divisive issues rather than offering substantive fixes.
+
+### Context
+> This introduction to a Water Resources Bulletin special issue (Vol. 31, No. 5, October 1995) by [[Robert A. Young]] presents the second phase of an interdisciplinary study of a potential [[Severe Sustained Drought]] (SSD) in the [[Colorado River]] Basin. The study asks three questions: what...
+> -- *[[CopingWithASevereSustainedDrou_20911]]*
+
+### Mentioned In
+- [[CopingWithASevereSustainedDrou_20911]]
 
 ## Kenney Reservoir
 <!-- fm: auto_enriched: true -->
@@ -2091,6 +3446,18 @@ Kennith Foster is one of the experts the source lists under constructed and arti
 ### Mentioned In
 - [[WhereToFindWaterExpertiseAtSta_13522]]
 
+## Kenny Mills
+
+### Summary
+Kenny Mills is a 58-year-old retired farmer who lives near the Rappahannock River in Fredericksburg, Virginia. According to the source, he lifts yellow and white perch over the Embrey Dam by bucket and carries shad and herring upriver by net during spawning season, and he recalls seeing a large sturgeon in 1954.
+
+### Context
+> This 1999 *New York Times* opinion column by [[James Conaway]] argues for removing obsolete dams to restore fish migration, using the [[Embrey Dam]] on the [[Rappahannock River]] in [[Fredericksburg]], Virginia, as its central case. The author holds that the dam blocks [[Anadromous Fish]] runs such...
+> -- *[[SettingOurRiversFree_17464]]*
+
+### Mentioned In
+- [[SettingOurRiversFree_17464]]
+
 ## Kenny Reservoir
 
 ### Summary
@@ -2102,6 +3469,18 @@ Kenny Reservoir is a location on the White River where Colorado Squawfish reintr
 
 ### Mentioned In
 - [[CaseStudyColoradoRiverSqauwfis_16101]]
+
+## Kensico Reservoir
+
+### Summary
+Kensico Reservoir is a water supply reservoir serving New York City, where landlocked alewives multiplied into a water department problem. Its intakes were screened with wire mesh that blocked adult alewives but let slender young pass through. The source reports that stocking the reservoir with rainbow and lake trout in 1935 was followed by a sharp decline in the alewife population.
+
+### Context
+> This 1950 historical review, reprinted from *The American Midland Naturalist*, compiles documented cases of fishes obstructing municipal water mains and household service pipes. Eels ([[American Eel]]) are the dominant offenders, with the most numerous recent cases in the Bronx, New York City....
+> -- *[[FishesInWaterPipesAccountsOfTh_17812]]*
+
+### Mentioned In
+- [[FishesInWaterPipesAccountsOfTh_17812]]
 
 ## Kent Conrad
 <!-- fm: auto_enriched: true -->
@@ -2133,6 +3512,18 @@ The Kent Decree of 1910 is a court decree that established water rights among us
 ### Mentioned In
 - [[MajorFactsInBrief_20500]]
 
+## Kent H. Redford
+
+### Summary
+Kent H. Redford is the author of a companion piece in the same 1994 Nature Conservancy issue. In it he describes how The Nature Conservancy is broadening its approach from individual species to genes, communities and ecosystems.
+
+### Context
+> This 1994 essay by [[Peter H. Raven]], published in *Nature Conservancy* magazine, defines [[Biodiversity]] as the total of all plants, animals, [[Fungi]] and microorganisms, their variation, and their interactions. It estimates that 8 to 10 million species exist, most of them unnamed, and argues...
+> -- *[[DefiningBiodiversity_16777]]*
+
+### Mentioned In
+- [[DefiningBiodiversity_16777]]
+
 ## Kent Miller
 
 ### Summary
@@ -2151,6 +3542,18 @@ Kent Miller led the Colorado River Fishes Recovery Team during its 1981 meeting,
 ### Mentioned In
 - [[ProposedHooverDamPowerplantMod_1991_06_27]]
 
+## Kentish Plover
+
+### Summary
+The Kentish plover is a small shorebird (Charadrius alexandrinus). In this source it is cited as an example of a long-term census: a Swedish island population was monitored for almost 30 years. The guide does not report specific findings about the species beyond this monitoring example.
+
+### Context
+> This is the User's Guide for NEMESIS Version 1.0, a shareware package of True BASIC simulation programs written by Michael Gilpin (1993) for teaching and for exploratory conservation biology. The guide introduces the [[Conservation Biology]] field as a decision science, explains the role of models...
+> -- *[[NemesisConservationBiologySimu_10954]]*
+
+### Mentioned In
+- [[NemesisConservationBiologySimu_10954]]
+
 ## Kentucky
 <!-- fm: auto_enriched: true -->
 
@@ -2161,10 +3564,18 @@ Kent Miller led the Colorado River Fishes Recovery Team during its 1981 meeting,
 > This 1968 special report from the [[Bureau Of Sport Fisheries And Wildlife]] assesses how [[Surface Mining]] for coal affects fish and wildlife across eight Appalachian States. It draws on field observations by a multi-agency [[Field Appraisal Team]] that toured mined areas in 1965–66. The report...
 > -- *[[EffectsOfSurfaceMiningOnFishAn_17706]]*
 
+> This 1959 review by [[Gerald A. Cole]] consolidates published records of crustaceans from [[Kentucky]], reports taxa not previously listed for the state, and flags unresolved taxonomic problems. More than 20 species had been described from Kentucky material, yet knowledge of the class within state...
+> -- *[[ASummaryOfOurKnowledgeOfKentuc_16011]]*
+
+> This study reports the frequent occurrence of the troglobitic isopod [[Asellus Stygius]] in surface (epigean) waters of Meade and Jefferson counties, [[Kentucky]]. The species was collected at 20 localities, most of them in [[Doe Run]]. There it persisted as a consistent but minor element of the...
+> -- *[[OccurrenceOfSubterraneanIsopod_18552]]*
+
 ### Mentioned In
 - [[ADistributionalAtlas_1986_10_01]]
 - [[WaterRightsBibliography_17761]]
 - [[EffectsOfSurfaceMiningOnFishAn_17706]]
+- [[ASummaryOfOurKnowledgeOfKentuc_16011]]
+- [[OccurrenceOfSubterraneanIsopod_18552]]
 
 ## Kentucky Academy Of Science
 <!-- fm: auto_enriched: true -->
@@ -2234,16 +3645,48 @@ The Kentucky Bass is a centrarchid (sunfish family) species that was studied as 
 > This reprinted 1955 proceedings paper by William W. Hassler (North Carolina State College) examines how natural environmental variables affect first-year growth of [[Sauger]] (*[[Stizostedion Canadense Canadense]]*) in [[Norris Reservoir]], [[Tennessee]], using an age and growth sample of 3,393...
 > -- *[[TheInfluenceOfCertainEnvironme_20701]]*
 
+> This study reassesses the distribution and habitat of the [[Cumberland Snubnose Darter]] (*[[Etheostoma Atripinne]]*) in Kentucky, using new field collections (June 1979 to September 1981) and museum and state collection records. The species' range is now defined as continuous from [[Fishing...
+> -- *[[DistributionAndHabitatOfEtheos_16305]]*
+
 ### Mentioned In
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[ResultsOfAnOpeningWeekCreelCen_17745]]
 - [[TheInfluenceOfCertainEnvironme_20701]]
+- [[DistributionAndHabitatOfEtheos_16305]]
 
 ## Kentucky Drainages
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[ADistributionalAtlas_1986_10_01]]
+
+## Kentucky Fish and Wildlife Resources Agency
+
+### Summary
+The state wildlife agency whose fish records and surveys were drawn on as a data source for this Kentucky checklist.
+
+### Context
+> This 1980 checklist compiles records of lampreys and fishes from Kentucky waters, drawn from museum specimens, personal collecting, state agency surveys and accepted literature. It documents **229 species** that occur or formerly occurred in the state, of which **10 or 11** were introduced by...
+> -- *[[ADistributionalChecklistOfTheF_14049]]*
+
+### Mentioned In
+- [[ADistributionalChecklistOfTheF_14049]]
+
+## Kentucky Knobs
+
+### Summary
+A physiographic province of hilly terrain in Kentucky. The source places Tom Wallace Lake in this region, where the surrounding wooded hills rise 150 to 250 ft above the lake and shelter it from wind.
+
+### Context
+> This 1954 limnological paper by Gerald A. Cole (University of Louisville) establishes a physical and chemical baseline for [[Tom Wallace Lake]], a small artificial impoundment about ten miles south of Louisville in [[Jefferson County]], in the [[Kentucky Knobs]] physiographic province. The study...
+> -- *[[StudiesOnAKentuckyKnobsLakeISo_16008]]*
+
+> This 1959 limnological study by Krumholz and Cole, published in *Limnology and Oceanography* (Vol. IV, No. 4), examines physical and chemical conditions in [[Tom Wallace Lake]], a small artificial impoundment in the Kentucky Knobs region. The lake was observed through three intermittent, complete...
+> -- *[[StudiesOnAKentuckyKnobsLakeIvS_12445]]*
+
+### Mentioned In
+- [[StudiesOnAKentuckyKnobsLakeISo_16008]]
+- [[StudiesOnAKentuckyKnobsLakeIvS_12445]]
 
 ## Kentucky Lake
 <!-- fm: auto_enriched: true -->
@@ -2279,6 +3722,12 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 > This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
 > -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
 
+> This document combines two studies by Ellis R. Carter of the Kentucky Division of Fisheries. The first examines whether fishes use [[Navigation Locks]] on the [[Kentucky River]] to move between pools. Ten of fourteen locks were sampled by poisoning, yielding 2,821 fish weighing 864.27 pounds that...
+> -- *[[AnEvaluationOfNineTypesOfComme_16030]]*
+
+> This 1953 fisheries study by John F. Hall, conducted for the Kentucky Department of Fish and Wildlife Resources, compared two fish-sampling approaches in [[Old Kingfisher Lake]], a 14-acre, shallow, clear impoundment in western Kentucky. The methods were multi-panel netting (gill, trammel, wing and...
+> -- *[[AComparativeStudyOfTwoFishsamp_20972]]*
+
 ### Mentioned In
 - [[CatastrophicFishMortalitiesOnK_1965_11_16]]
 - [[GrowthRatesOfTheWhiteCrappiePo_16028]]
@@ -2290,6 +3739,8 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
 - [[GrowthRatesOfTheWhiteCrappiePo_16032]]
 - [[FurtherStudiesOnTheIntroducedA_19003]]
+- [[AnEvaluationOfNineTypesOfComme_16030]]
+- [[AComparativeStudyOfTwoFishsamp_20972]]
 
 ## Kentucky Nature Preserves Commission
 <!-- fm: auto_enriched: true -->
@@ -2298,9 +3749,13 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 > This 1983 paper by [[Melvin L. Warren Jr.]] and [[Ronald R. Cicerello]], conducted under the [[Kentucky Nature Preserves Commission]], reports new drainage records, refined distributional data, and revised conservation status assessments for 13 Kentucky fish species. Ten species are documented fo...
 > -- *[[DrainageRecordsAndConservation_14901]]*
 
+> This study reassesses the distribution and habitat of the [[Cumberland Snubnose Darter]] (*[[Etheostoma Atripinne]]*) in Kentucky, using new field collections (June 1979 to September 1981) and museum and state collection records. The species' range is now defined as continuous from [[Fishing...
+> -- *[[DistributionAndHabitatOfEtheos_16305]]*
+
 ### Mentioned In
 - [[ADistributionalAtlas_1986_10_01]]
 - [[DrainageRecordsAndConservation_14901]]
+- [[DistributionAndHabitatOfEtheos_16305]]
 
 ## Kentucky Reservoir
 <!-- fm: auto_enriched: true -->
@@ -2309,8 +3764,12 @@ Kentucky Lake is a massive (~160,000-acre) Tennessee Valley Authority impoundmen
 > This 1962 study by John M. Bates documents the ecological transformation of the mussel fauna in **[[Kentucky Reservoir]]** on the **[[Tennessee River]]** following impoundment by the **[[Tennessee Valley Authority (TVA)]]**. Sampling conducted in October 1958 across ~16 river miles (mile 88–105) ...
 > -- *[[TheImpactOfImpoundmentOnTheMus_15633]]*
 
+> This 1955 report, reprinted from the *Journal of Forestry* (Vol. 53, No. 4), examines how flooding affects bottomland woody plants in the [[West Sandy Dewatering Project]], a malaria control diking project on the [[Kentucky Reservoir]] in [[Henry County Tennessee]]. The project was built to pump...
+> -- *[[EffectsOfFloodingOnWoodyPlants_20976]]*
+
 ### Mentioned In
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
+- [[EffectsOfFloodingOnWoodyPlants_20976]]
 
 ## Kentucky River
 <!-- fm: auto_enriched: true -->
@@ -2328,12 +3787,32 @@ The Kentucky River is a major freshwater drainage system in central Kentucky tha
 > This 1959 thesis by Judith A. Loring examines the reliability of the tooth patch on the tongue as a diagnostic character for identifying [[Micropterus punctulatus]] (spotted black bass). The study analyzed specimens from Kentucky and surrounding states, comparing tooth patch presence across...
 > -- *[[AStudyOfTheToothPatchOnTheSpot_16200]]*
 
+> This document combines two studies by Ellis R. Carter of the Kentucky Division of Fisheries. The first examines whether fishes use [[Navigation Locks]] on the [[Kentucky River]] to move between pools. Ten of fourteen locks were sampled by poisoning, yielding 2,821 fish weighing 864.27 pounds that...
+> -- *[[AnEvaluationOfNineTypesOfComme_16030]]*
+
+> This 1981 study by [[Walsh and Burr]] (Southern Illinois University at Carbondale), published in *Brimleyana* No. 6, maps the Kentucky distribution of the [[Least Brook Lamprey]], morphometrically compares over 220 adult specimens, and documents a neotenic population in Terrapin Creek. The authors...
+> -- *[[DistributionMorphologyAndLifeH_14853]]*
+
 ### Mentioned In
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[TheAgeAndGrowthOfTheWhiteBassR_13370]]
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
 - [[TheStatusOfLegalizedGiggingAnd_16026]]
 - [[AStudyOfTheToothPatchOnTheSpot_16200]]
+- [[AnEvaluationOfNineTypesOfComme_16030]]
+- [[DistributionMorphologyAndLifeH_14853]]
+
+## Kentucky Society of Natural History
+
+### Summary
+The Kentucky Society of Natural History published *The Kentucky Naturalist*, the journal issue summarized here (Vol. VI, No. 2, April 1952). The issue includes a research paper on Tom Wallace Lake, copepod and captive-bat articles, and society news.
+
+### Context
+> This issue of *The Kentucky Naturalist* (Vol. VI, No. 2, April 1952), published by the [[Kentucky Society of Natural History]], is a mixed-content journal with four main research or feature articles and several society news items. The principal scientific paper, by Donald Distler, examines why...
+> -- *[[TheKentuckyNaturalistSpringLak_16003]]*
+
+### Mentioned In
+- [[TheKentuckyNaturalistSpringLak_16003]]
 
 ## Kentucky Soil Regions
 
@@ -2346,6 +3825,18 @@ The six soil regions into which the study divided Kentucky: Jackson Purchase, We
 
 ### Mentioned In
 - [[ASurveyOfTheSuccessOfVariousSt_21207]]
+
+## Kentucky Spotted Bass
+
+### Summary
+Kentucky spotted bass (Micropterus pseudaplites) is a closely related black bass species in the sunfish family. In this source, Howland (1931) is cited as having reported crayfish and minnows from stream bottoms in work on this species, which provides one of the earlier diet references the authors compare against.
+
+### Context
+> This 1969 study by Philip W. Smith and Lawrence M. Pace, published in the [[Transactions of the American Fisheries Society]], examines the diet of [[Spotted Bass]] (*Micropterus punctulatus*) in tributaries of the middle [[Wabash River]]. The authors analyzed stomach and intestinal contents of 114...
+> -- *[[TheFoodOfSpottedBassInStreamsO_21197]]*
+
+### Mentioned In
+- [[TheFoodOfSpottedBassInStreamsO_21197]]
 
 ## Kenya
 <!-- fm: auto_enriched: true -->
@@ -2385,6 +3876,18 @@ A town on the Mississippi River where Coker (1929) collected Goldeye and Mooneye
 ### Mentioned In
 - [[ASummaryOfAvailableInformation_18737]]
 
+## Keokuk, Iowa
+
+### Summary
+A city on the Upper Mississippi River in southeastern Iowa where this study took place. The source reports that hydropsychid caddisflies there caused nuisance and health problems, swarming around city lights and entering buildings.
+
+### Context
+> This Iowa Agricultural and Home Economics Experiment Station Research Bulletin (No. 483, September 1960) by Calvin R. Fremling examines the biology of hydropsychid caddisflies that create nuisance and health problems in [[Keokuk, Iowa]] on the [[Upper Mississippi River]]. Three species,...
+> -- *[[BiologyAndPossibleControlOfNui_18831]]*
+
+### Mentioned In
+- [[BiologyAndPossibleControlOfNui_18831]]
+
 ## Kepner 1988
 
 ### Summary
@@ -2406,6 +3909,18 @@ Kepner 1988 is a baseline data source cited in the opinion that reported 5.51 mg
 
 ### Mentioned In
 - [[MiddleGilaRiverAquaticStudy_12505]]
+
+## Kerans and Karr
+
+### Summary
+Kerans and Karr (1994) are the authors of a naming convention that the W-IBI follows to distinguish watershed indices from standard site-level IBIs. The source cites their work only as the basis for this labeling, so it does not describe their findings further.
+
+### Context
+> This book chapter examines how [[Index of Biotic Integrity]] (IBI) methods, developed mainly for eastern North American streams, can be applied to the low-diversity, highly endemic, and heavily invaded fish faunas of California. The authors identify five problems: low [[Species Richness]], high...
+> -- *[[ApplicationsOfIndicesOfBioticI_15448]]*
+
+### Mentioned In
+- [[ApplicationsOfIndicesOfBioticI_15448]]
 
 ## Keratella
 
@@ -2431,6 +3946,9 @@ Keratella is a rotifer genus that was one of the dominant zooplankton organisms 
 > This report documents the 1979 pre-operational ecological baseline for [[Twin Lakes]], Colorado, prior to the 1981 commissioning of the [[Mt. Elbert Pumped-Storage Powerplant]]. The study encompasses comprehensive physical, chemical, and biological limnology of a two-lake mountain system at 2802 m...
 > -- *[[StudiesOfTheEffectsOfOperating_12648]]*
 
+> This 1960 paper by Niles F. Stockinger and Horace A. Hays, published in the *Transactions of the Kansas Academy of Science* (Vol. 63, No. 1), reports the first study of plankton, benthos and fish in acid strip-mine water in southeastern Kansas. Three [[Strip-Mine Lakes]] with different pH levels...
+> -- *[[PlanktonBenthosAndFishInThreeS_14345]]*
+
 ### Mentioned In
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 - [[MicronutrientsAndBiologicalPat_11436]]
@@ -2438,6 +3956,7 @@ Keratella is a rotifer genus that was one of the dominant zooplankton organisms 
 - [[PrimaryProductivityCAtTwinLake_12652]]
 - [[ReservoirFisheriesInvestigatio_14590]]
 - [[StudiesOfTheEffectsOfOperating_12648]]
+- [[PlanktonBenthosAndFishInThreeS_14345]]
 
 ## Keratella Cochlearis
 <!-- fm: auto_enriched: true -->
@@ -2449,10 +3968,46 @@ Keratella is a rotifer genus that was one of the dominant zooplankton organisms 
 > This Bureau of Reclamation technical report (REC-ERC-82-21, February 1983) by Davine M. Lieberman provides a taxonomic species list of the common plankton collected from [[Twin Lakes]] and the associated [[Mt. Elbert Forebay]] since 1974. The work supports a broader study of the effects of the...
 > -- *[[CommonPlanktonOfTwinLakesColor_20321]]*
 
+> This experimental study, published in *Hydrobiologia* (1981), tested how predation by the small cyprinodontiform fish [[Gambusia Affinis]] (western mosquitofish) reshapes freshwater plankton. Twelve manmade ponds at Riverside, California, were monitored for about 10 months (August 1967 to May 1968,...
+> -- *[[ImpactsOfMosquitofishGambusiaA_14526]]*
+
+> This 1965 reprint of a 1964 conference paper by [[Robert S. Campbell]] and colleagues at the University of Missouri describes four shallow [[Strip-Mine Lakes]] in [[Calloway County]], central [[Missouri]]. The lakes were formed by [[Coal Mining]] in the [[Bevier Formation]], and their water...
+> -- *[[RecoveryFromAcidPollutionInSha_17357]]*
+
+> This 1960–1961 limnological survey by [[Geiling]] and [[Krumholz]] (Department of Biology, University of Louisville) characterizes shallow [[Sinkhole Ponds]] in the karst landscape around [[Doe Run]], Meade County, Kentucky. The study had two aims: a limnological reconnaissance of an unstudied...
+> -- *[[ALimnologicalSurveyOfSinkholeP_16949]]*
+
 ### Mentioned In
 - [[FoodSupplyAndReproductionOfZoo_1962]]
 - [[ThAnnualMeetingOfTheSocietyFor_13524]]
 - [[CommonPlanktonOfTwinLakesColor_20321]]
+- [[ImpactsOfMosquitofishGambusiaA_14526]]
+- [[RecoveryFromAcidPollutionInSha_17357]]
+- [[ALimnologicalSurveyOfSinkholeP_16949]]
+
+## Keratella cochlearis cochlearis
+
+### Summary
+Keratella cochlearis cochlearis is a common planktonic rotifer and the most constant species in Alto Cavado. It reached a maximum density of 139,375 ind/m³ and dominated in November, April and August. The source identifies it as a principal species of the mixed period.
+
+### Context
+> This 1992 study by M. Conceição Guimarães, published by the [[Instituto de Zoologia Dr. Augusto Nobre]] (Faculdade de Ciências do Porto), examines the seasonal dynamics of planktonic Rotifera in [[Alto Cavado Reservoir]], northern Portugal. Monthly sampling from November 1988 to September 1989 at...
+> -- *[[PlanktonicRotiferCommunityStru_17820]]*
+
+### Mentioned In
+- [[PlanktonicRotiferCommunityStru_17820]]
+
+## Keratella cochlearis tecta
+
+### Summary
+Keratella cochlearis tecta is a planktonic rotifer, a subspecies of the K. cochlearis group. In Alto Cavado it was a stratified-period species, reaching a maximum of 34,200 ind/m³ in June. The source lists it among the taxa that increased during the stratified period.
+
+### Context
+> This 1992 study by M. Conceição Guimarães, published by the [[Instituto de Zoologia Dr. Augusto Nobre]] (Faculdade de Ciências do Porto), examines the seasonal dynamics of planktonic Rotifera in [[Alto Cavado Reservoir]], northern Portugal. Monthly sampling from November 1988 to September 1989 at...
+> -- *[[PlanktonicRotiferCommunityStru_17820]]*
+
+### Mentioned In
+- [[PlanktonicRotiferCommunityStru_17820]]
 
 ## Kermit E. Sneed
 
@@ -2485,8 +4040,12 @@ Kern County was the fifth-ranked black bass county in California in 1960, with 7
 > This administrative report from the [[California Department of Fish and Game]] describes the spatial movements of successful inland anglers throughout California during 1960, based on postal card survey data. The study analyzed angler travel patterns and regional catch contributions for four major...
 > -- *[[MovementsOfInlandAnglersWithin_11325]]*
 
+> This Water Resources Bulletin paper (Krannich, Keenan, Walker, and Hardesty, October 1995) reports household surveys in two water-dependent communities: the [[Grand Valley]] in western Colorado and [[Kern County]] in California's [[San Joaquin Valley]]. The study examines how residents perceive a...
+> -- *[[SocialImplicationsOfSevereSust_12420]]*
+
 ### Mentioned In
 - [[MovementsOfInlandAnglersWithin_11325]]
+- [[SocialImplicationsOfSevereSust_12420]]
 
 ## Kern County HCP
 
@@ -2546,6 +4105,12 @@ A high plateau in the Inyo National Forest area of California with rolling hills
 > This 1955 magazine reprint, from the April 1955 issue of *Sunset* (Lane Publishing Co.), was issued for the California Department of Fish and Game. It profiles the trout of the American West, covering five native trout and three introduced species, and gives a state-by-state report on trout...
 > -- *[[TheStoryOfWesternTrout_14677]]*
 
+> Schreck and Behnke (1971) revise the five endemic trout names described from the upper [[Kern River]] drainage of the southern [[Sierra Nevada]] into two subspecies of *Salmo aguabonita*: *S. a. aguabonita* ([[California Golden Trout]]) and *S. a. gilberti* ([[Kern River Trout]]). The authors argue...
+> -- *[[TroutsOfTheUpperKernRiverBasin_20602]]*
+
+> This document is a sales catalog and promotional brochure for scientific fish illustrations by [[Joseph R Tomelleri]], a Kansas City artist regarded by many ichthyologists as a leading scientific illustrator of fishes. It advertises signed, numbered prints of North American fishes (copyright 1991)...
+> -- *[[TheFishesOfNorthAmericaFineArt_13366]]*
+
 ### Mentioned In
 - [[SalmoRoseiNotAValidSpecies_12861]]
 - [[CaliforniaTroutSalmonAndWarmwa_14865]]
@@ -2554,6 +4119,8 @@ A high plateau in the Inyo National Forest area of California with rolling hills
 - [[EstimatedAnglerUseAndHarvestIs_20724]]
 - [[RecognitionAndReturnOfTroutTag_14111]]
 - [[TheStoryOfWesternTrout_14677]]
+- [[TroutsOfTheUpperKernRiverBasin_20602]]
+- [[TheFishesOfNorthAmericaFineArt_13366]]
 
 ## Kern River Hatchery
 
@@ -2593,6 +4160,30 @@ The Kern River Rainbow Trout is an endemic California salmonid historically rest
 - [[SalmoRoseiNotAValidSpecies_12861]]
 - [[ACheckListOfTheFreshwaterAndAn_11395]]
 
+## Kern River System
+
+### Summary
+The inland drainage system of the Kern River in California. The authors infer that E. hubbsi originated here, since the system was an inland drainage before the Friant-Kern Canal was built, and this species' restricted range is within the Kern River drainage.
+
+### Context
+> Vladykov and Kott describe *[[Entosphenus Hubbsi]]*, a new nonparasitic [[Lamprey]] species of the family [[Petromyzontidae]], from the [[Friant-Kern Canal]] east of Delano, Kern County, California. The description rests on eleven newly transformed adults and one [[Ammocoete]] (larval stage). The...
+> -- *[[ANewNonparasiticSpeciesOfLampr_13180]]*
+
+### Mentioned In
+- [[ANewNonparasiticSpeciesOfLampr_13180]]
+
+## Kern River Trout
+
+### Summary
+The Kern River Trout is Salmo aguabonita gilberti, a subspecies of golden trout found in the main Kern River and lower Little Kern River. Schreck and Behnke (1971) treat it as a valid subspecies, with S. whitei as its synonym, and note that similarity to undescribed red-banded trout suggests shared ancestry. Hybridization with stocked trout has altered most populations.
+
+### Context
+> Schreck and Behnke (1971) revise the five endemic trout names described from the upper [[Kern River]] drainage of the southern [[Sierra Nevada]] into two subspecies of *Salmo aguabonita*: *S. a. aguabonita* ([[California Golden Trout]]) and *S. a. gilberti* ([[Kern River Trout]]). The authors argue...
+> -- *[[TroutsOfTheUpperKernRiverBasin_20602]]*
+
+### Mentioned In
+- [[TroutsOfTheUpperKernRiverBasin_20602]]
+
 ## Kern River Trout Hatchery
 
 ### Summary
@@ -2617,11 +4208,32 @@ Kern River Valley is the adjacent valley where P. giulianii occurs in one stream
 ### Mentioned In
 - [[ANewPyrgulopsisFromSoutheaster_20362]]
 
+## Kerolite
+
+### Summary
+A magnesium-rich clay mineral of the talc-like type. The source reports it as interlayered with stevensite in the Mg smectite of the Amargosa Desert Pliocene deposits.
+
+### Context
+> This Geological Society of America Bulletin article (1986) by Hay, Pexton, Teague and Kyser examines the [[Amargosa Desert]] of Nevada-California, a spring-fed structural basin holding large Pliocene carbonate rocks and [[Magnesium Clays]] deposited in playas, marshland, ponds and flood plains....
+> -- *[[SpringrelatedCarbonateRocksMgC_20722]]*
+
+### Mentioned In
+- [[SpringrelatedCarbonateRocksMgC_20722]]
+
 ## Kerr Dam
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1963 study, published in the *Proceedings of the Montana Academy of Sciences*, reports the age and growth of four fish species in [[Flathead Lake]], Montana. Fieldwork ran from summer 1961 through spring 1962 and was conducted by the [[Montana Fish and Game Department]]. The original plan was...
+> -- *[[AgeAndGrowthOfFourSpeciesOfFis_16726]]*
+
+> This 1955 paper by George F. Weisel (Montana State University, Missoula), published in the *American Midland Naturalist*, reports three intergeneric minnow hybrids from the [[Columbia River Drainage]] of western Montana that had not been recorded before: - [[Mylocheilus Caurinum]] × [[Ptychocheilus...
+> -- *[[ThreeNewIntergenericHybridsOfC_12130]]*
+
 ### Mentioned In
 - [[CrestonNationalFishHatcherySta_1994_01_03]]
+- [[AgeAndGrowthOfFourSpeciesOfFis_16726]]
+- [[ThreeNewIntergenericHybridsOfC_12130]]
 
 ## Kerr Reservoir
 
@@ -2635,9 +4247,13 @@ Kerr Reservoir is a reservoir located on the North Carolina/Virginia border wher
 > This Master's thesis by Gary Bruce Edwards (Arizona State University, May 1974) documents the biology of [[Striped Bass]] (*Morone saxatilis*) introduced to the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]] from 1962–1969. A total of 93,000 fingerlings and yearlings were stocked...
 > -- *[[BiologyOfTheStripedBassMoroneS_15769]]*
 
+> This source contains two papers from the *North American Journal of Fisheries Management*. The main paper (pp. 540–546, 1984) presents evidence that [[Striped Bass]] reproduced inside [[Lake Powell]] (Utah-Arizona) without relying on turbulent river current to keep eggs suspended. Earlier spawning...
+> -- *[[EvidenceOfInreservoirSpawningO_17855]]*
+
 ### Mentioned In
 - [[DraftliteratureReviewOfTheStri_15768]]
 - [[BiologyOfTheStripedBassMoroneS_15769]]
+- [[EvidenceOfInreservoirSpawningO_17855]]
 
 ## Kerswill
 
@@ -2650,6 +4266,30 @@ Kerswill is a researcher who studied effects of forest pesticide spraying on sal
 
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+
+## Kessel
+
+### Summary
+Kessel (1960) is cited in this source as evidence that cell division plays no role in epiboly. The author relies on this to support the proposal that epiboly is driven by changes in cell adhesivity and movement rather than by proliferation.
+
+### Context
+> This 1963 study by J. P. [[Trinkaus]] examines whether [[Epiboly]], the most extensive morphogenetic movement in the teleost egg, is driven by the activity of blastoderm cells themselves. Dissociated cells from [[Fundulus Heteroclitus]] ([[Atlantic Killifish]]) blastulae and early gastrulae were...
+> -- *[[TheCellularBasisOfFundulusEpib_13400]]*
+
+### Mentioned In
+- [[TheCellularBasisOfFundulusEpib_13400]]
+
+## Kessler
+
+### Summary
+An earlier researcher (1913) cited as reporting the seasonal pattern of Canthocamptus staphylinus, being abundant in winter and scarce or absent in summer. Smyly refers to this work as background to his own study.
+
+### Context
+> This short paper by W. J. P. [[Smyly]] (Freshwater Biological Association) reports a roughly 19-month field and laboratory study of the life cycle of the freshwater harpacticoid copepod [[Canthocamptus Staphylinus]] in [[Scale Tarn]], a moorland pond near [[Windermere]]. The species shows one...
+> -- *[[ObservationsOnTheLifehistoryOf_21216]]*
+
+### Mentioned In
+- [[ObservationsOnTheLifehistoryOf_21216]]
 
 ## Kesterson Reservoir
 
@@ -2675,6 +4315,18 @@ A dam on the Sacramento River that, together with Shasta Dam, blocks anadromous 
 ### Mentioned In
 - [[AnEvaluationOfStockingHatchery_20980]]
 
+## Kettle Creek
+
+### Summary
+Kettle Creek is a Pennsylvania stream that drains a hilly part of the Allegheny Plateau. In this study it had low total alkalinity (10–15 ppm as CaCO₃), and its brown trout grew more slowly and were in poorer condition than those in Spruce Creek. Electrofishing was limited there by low conductivity and high water, and seasonal data were incomplete.
+
+### Context
+> This study compares the seasonal growth, length-weight relationship, and condition of wild [[Brown Trout]] (*Salmo trutta*) in three Pennsylvania streams during a single year-class study (1958–59). Growth in length and condition followed similar seasonal patterns in all three streams, with rapid...
+> -- *[[GrowthOfBrownTroutInSelectedPe_18236]]*
+
+### Mentioned In
+- [[GrowthOfBrownTroutInSelectedPe_18236]]
+
 ## Kettle Hole Pond Ecology
 <!-- fm: auto_enriched: true -->
 
@@ -2684,8 +4336,13 @@ A dam on the Sacramento River that, together with Shasta Dam, blocks anadromous 
 ## Kettle River
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This status assessment examines the Canadian population of the [[Speckled Dace]] (*Rhinichthys osculus*), a small cyprinid whose Canadian range is restricted to the [[Kettle River]] and [[Granby River]] in southern [[British Columbia]]. The authors, working at the [[British Columbia Provincial...
+> -- *[[StatusOfTheSpeckledDaceRhinich_11255]]*
+
 ### Mentioned In
 - [[LifeHistoryNotesRelevantToTheC_11254]]
+- [[StatusOfTheSpeckledDaceRhinich_11255]]
 
 ## Kettle Top Butte
 
@@ -2711,9 +4368,13 @@ Keuka Lake in New York was one of the freshwater collection sites for Characeae 
 > This is a research proposal submitted by Dr. Arland T. Hotchkiss, Associate Professor of Biology at the [[University of Louisville]], requesting continued NSF support for a three-year cytotaxonomic study of the [[Characeae]] (charophytes). The proposal seeks funding from September 1, 1961 to...
 > -- *[[ProposalForContinuedSupportOfN_19929]]*
 
+> This 1947 field study examined the [[Depth Distribution]], [[Feeding Ecology]], and [[Growth Rate]] of [[Lake Trout]] (*Salvelinus namaycush*) in two [[Algonquin Park]] lakes, [[Lake Louisa]] and [[Redrock Lake]], Ontario. The two populations differ sharply in diet. Redrock trout fed mainly on...
+> -- *[[AStudyOfTheLakeTroutSalvelinus_17062]]*
+
 ### Mentioned In
 - [[TheBearingOfCytologicalAndCert_19928]]
 - [[ProposalForContinuedSupportOfN_19929]]
+- [[AStudyOfTheLakeTroutSalvelinus_17062]]
 
 ## Keup
 
@@ -2726,6 +4387,18 @@ Keup was a co-author of a 1967 publication that this review identifies as "the m
 
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+
+## Keup et al. 1963
+
+### Summary
+Keup et al. (1963) is a study cited by Gunning and Suttkus that reported Corbicula range extension into the Ohio River and three year-classes there, suggesting an invasion around 1960. The authors compare its findings to their own Pearl River results.
+
+### Context
+> This short paper by [[Gerald E. Gunning]] and [[Royal D. Suttkus]] of [[Tulane University]] reports the occurrence of the introduced [[Asiatic Clam]] in the [[Pearl River]] system of Louisiana. Specimens first identified as [[Corbicula Fluminea]] were referred by a national museum specialist to...
+> -- *[[OccurenceAndDistributionOfAsia_17827]]*
+
+### Mentioned In
+- [[OccurenceAndDistributionOfAsia_17827]]
 
 ## Keuper Marl
 <!-- fm: auto_enriched: true -->
@@ -2850,8 +4523,12 @@ A dichotomous key in the handbook that helps readers sort New Hampshire fishes i
 > This 1947 handbook, published by the [[New Hampshire Fish And Game Commission]], is a field identification guide for anglers and laymen. It covers **62 known species and subspecies** of fresh-water fishes recorded in New Hampshire. The guide uses a dichotomous [[Key To Families]], family-by-family...
 > -- *[[ASportsmansGuideToTheFreshwate_17439]]*
 
+> This is a 1963 identification guide (Freshwater Biological Association Scientific Publication No. 22) by [[Brinkhurst]] for all truly aquatic oligochaete worms recorded from Britain. It provides a [[Key To Families]], then species keys for the [[Aeolosomatidae]], [[Naididae]] and [[Tubificidae]],...
+> -- *[[AGuideForTheIdentificationOfBr_12942]]*
+
 ### Mentioned In
 - [[ASportsmansGuideToTheFreshwate_17439]]
+- [[AGuideForTheIdentificationOfBr_12942]]
 
 ## Key to Species
 
@@ -2910,8 +4587,13 @@ A planned earth-fill dam with a concrete spillway, about one mile below the conf
 ## Keystone Predator
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This opinion piece by [[Robert J. Behnke]], published in *Trout* (Summer 1993), argues that fisheries and natural resource management need a [[Paradigm Shift]] from [[Population Genetics]] to [[Evolutionary Genetics]]. Behnke uses the [[Lahontan Cutthroat Trout]] (*Oncorhynchus clarki henshawi*) as...
+> -- *[[LahontanCutthroatTroutAMegafis_18155]]*
+
 ### Mentioned In
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[LahontanCutthroatTroutAMegafis_18155]]
 
 ## Keystone Reservoir
 
@@ -2922,8 +4604,16 @@ The proposed reservoir that would be formed by Keystone Dam on the Arkansas and 
 > This 1961 report by Thomas L. Linton, issued by the [[Oklahoma Fishery Research Laboratory]] (Report No. 81), documents a pre-impoundment survey of the reaches of the [[Arkansas River]] and [[Cimarron River]] that would be inundated by the proposed [[Keystone Reservoir]] in northeastern Oklahoma....
 > -- *[[AStudyOfFishesOfTheArkansasAnd_20347]]*
 
+> This Transactions of the American Fisheries Society paper (Matthews, Hill, Epps & Gelwick, 1989) uses six years of experimental gillnetting (April 1981 to October 1986) to describe seasonal habitat use by [[Striped Bass]] in an uplake study area of [[Lake Texoma]], a large, shallow reservoir on the...
+> -- *[[InfluenceOfWaterQualityAndSeas_15205]]*
+
+> This source contains two papers from the *North American Journal of Fisheries Management*. The main paper (pp. 540–546, 1984) presents evidence that [[Striped Bass]] reproduced inside [[Lake Powell]] (Utah-Arizona) without relying on turbulent river current to keep eggs suspended. Earlier spawning...
+> -- *[[EvidenceOfInreservoirSpawningO_17855]]*
+
 ### Mentioned In
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
+- [[InfluenceOfWaterQualityAndSeas_15205]]
+- [[EvidenceOfInreservoirSpawningO_17855]]
 
 ## Keystone Species
 <!-- fm: auto_enriched: true -->
@@ -2935,10 +4625,30 @@ The proposed reservoir that would be formed by Keystone Dam on the Arkansas and 
 > This January/February 1994 issue of the [[Fish and Wildlife Service]] *Endangered Species Technical Bulletin* is a multi-article newsletter rather than a single research study. It covers the status of plants, birds, mammals, reptiles, fishes, insects and marine mammals under the [[Endangered...
 > -- *[[InTheEyeOfTheBeholderOurImageO_11713]]*
 
+> This review essay by [[Daniel Simberloff]] (Florida State University, *Biological Conservation*, 1998) asks whether managing individual species is still a useful conservation tool as conservation shifts toward [[Ecosystem Management]] and landscape scales. The author examines three single-species...
+> -- *[[FlagshipsUmbrellasAndKeystones_18982]]*
+
+> This chapter by Nancy B. Grimm, from *Biotic Interactions and Global Change* (1993, edited by Peter M. Kareiva, Joel G. Kingsolver, and Raymond B. Huey), argues that streams are transport systems that also transform and integrate materials, and that their response to [[Climate Change]] will depend...
+> -- *[[ImplicationsOfClimateChangeFor_17781]]*
+
 ### Mentioned In
 - [[BiologicalInvasionsLessonsForE_16179]]
 - [[WhyLinkSpeciesAndEcosystemsAPe_1994]]
 - [[InTheEyeOfTheBeholderOurImageO_11713]]
+- [[FlagshipsUmbrellasAndKeystones_18982]]
+- [[ImplicationsOfClimateChangeFor_17781]]
+
+## Khabur River
+
+### Summary
+A river in northeast Syria that drains the Ra's al-Ain spring system and is described as the lifeline of this steppe area. Below the springs it meanders between narrow bands of reeds, tamarisks and willows, and it widens shortly before joining the Euphrates about 200 km southwest of Ra's al-Ain.
+
+### Context
+> This illustrated feature article, written by a fish researcher from the [[Senckenberg Museum]], describes the karst spring system at [[Ra's Al-Ain Karst Springs]] in northeast Syria and the [[Khabur River]] that drains it. The springs, fed by mountain catchments and rising through fractured Eocene...
+> -- *[[TheKarstSpringsOfRasAlain_12466]]*
+
+### Mentioned In
+- [[TheKarstSpringsOfRasAlain_12466]]
 
 ## Khanabad River
 
@@ -2951,6 +4661,30 @@ The Khanabad River is a waterbody in Afghanistan where the introduced goby Rhino
 
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+
+## Khatoon Sangoor
+
+### Summary
+Khatoon Sangoor is one of the three authors of this 1987 Bahrain reef fish study, affiliated with the University College of Bahrain. She co-authored the species checklist and zoogeographic comments.
+
+### Context
+> This 1987 study by [[Gregory Smith]], [[Mostafa Saleh]] and [[Khatoon Sangoor]] (University College of Bahrain) presents a checklist of 71 fish species from 25 families recorded on shallow reefs (4-15 m) northeast of Bahrain in the [[Arabian Gulf]]. Based on SCUBA observations and collections made...
+> -- *[[TheReefIchthyofaunaOfBahrainAr_21168]]*
+
+### Mentioned In
+- [[TheReefIchthyofaunaOfBahrainAr_21168]]
+
+## Khoo 1971
+
+### Summary
+Khoo (1971) is an earlier study whose homing definitions and methods the author follows. Khoo also reported no clear size differences in homing among fish of about 4–9 cm.
+
+### Context
+> This study by G. J. S. Craik (1981, *Canadian Journal of Zoology* 59: 598–604) tests whether homing performance in the intertidal sculpin [[Oligocottus Maculosus]] changes with age and body length. The author reciprocally transplanted fish between two groups of [[Tidepool]] pools at [[First...
+> -- *[[TheEffectsOfAgeAndLengthOnHomi_17985]]*
+
+### Mentioned In
+- [[TheEffectsOfAgeAndLengthOnHomi_17985]]
 
 ## Kiamichi River
 <!-- fm: auto_enriched: true -->
@@ -3026,11 +4760,71 @@ Kiawah Offshore is one of the high-salinity trawl stations used in the South Car
 ### Mentioned In
 - [[AnalysisOfEighteenYearTrawlCap_16271]]
 
+## Kick Sampling
+
+### Summary
+A benthic sampling method, following Hynes (1961), used to collect stonefly larvae monthly at Stations 1 and 2. The authors combined two nets of different mesh sizes and separated larvae from debris by flotation in calcium chloride solution.
+
+### Context
+> This study by [[Peter Harper]] and [[Etienne Magnin]] documents the life cycles of stoneflies (Plecoptera) in a small stream on the grounds of the [[Station de Biologie de l'Université de Montréal]] at Saint-Hippolyte, Quebec. Twenty-four species were collected from five sampling stations. Adult...
+> -- *[[CyclesVitauxDeQuelquesPlcoptre_20655]]*
+
+### Mentioned In
+- [[CyclesVitauxDeQuelquesPlcoptre_20655]]
+
+## Kick-Set Sampling
+
+### Summary
+A stream fish collection method in which a seine is held across the current while the substrate upstream is disturbed by kicking, driving fish into the net. In this study, riffles were sampled by kick-sets for about 30 minutes per site using a 4.6 m seine.
+
+### Context
+> This study by [[William J. Matthews]] compares three analytical approaches for partitioning spatial and temporal variation in riffle fish assemblages of the upper [[Roanoke River]] system, Virginia. Six sites were sampled by [[Kick-Set Sampling]] in five surveys between May and November 1978. The...
+> -- *[[SpatialAndTemporalVariationInF_15185]]*
+
+### Mentioned In
+- [[SpatialAndTemporalVariationInF_15185]]
+
 ## Kidney
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[LetterOnHistologicalSlidePrepa_17660]]
+
+## Kidney Dialysis Research
+
+### Summary
+Kidney dialysis research studies methods for filtering blood and regulating body fluids when kidneys fail. The source says the pupfish's tolerance of changing salinity provides information relevant to this research and to transplant work.
+
+### Context
+> This popular feature describes the [[Pupfish]] (*Cyprinodon* spp.) of [[Death Valley]], California, and nearby Nevada. The fish survive in desert springs and pools that remain from [[Lake Manly]], a Pleistocene lake that once covered the valley. The article focuses on the [[Devils Hole Pupfish]],...
+> -- *[[LivingFossilsOfDevilsHole_12343]]*
+
+### Mentioned In
+- [[LivingFossilsOfDevilsHole_12343]]
+
+## Kiefer
+
+### Summary
+Kiefer is one of the researchers the source names among those who contributed to Italian groundwater fauna research, mainly in the period of intensified study after 1950 and 1975. The note does not detail his specific findings.
+
+### Context
+> This 1985 synthesis by [[Giuseppe Lucio Pesce]] (Istituto di Scienze Ambientali, University of L'Aquila), published in *[[Stygologia]]* 1(2), reviews the stygobiont and eustygophile fauna of Italian groundwaters. It traces the history of stygobiological research from 1550 to the 1980s, lists the...
+> -- *[[TheGroundwaterFaunaOfItalyASyn_11223]]*
+
+### Mentioned In
+- [[TheGroundwaterFaunaOfItalyASyn_11223]]
+
+## Kieran Suckling
+
+### Summary
+Kieran Suckling is a conservationist quoted in the article, associated with the Southwest Center for Biodiversity in Silver City, New Mexico. He argued that the owls had been studied extensively, their nesting locations were known, and the lands to protect were clear, and he predicted the judge could impose a timetable if FWS failed to produce one.
+
+### Context
+> A federal court order in June required the [[U.S. Fish And Wildlife Service]] (FWS) to establish a timetable for designating [[Critical Habitat]] for the [[Mexican Spotted Owl]], a subspecies listed as threatened under the [[Endangered Species Act]]. Environmentalists argued that the protections...
+> -- *[[OwlsWinUsRulingOverLoggers_20915]]*
+
+### Mentioned In
+- [[OwlsWinUsRulingOverLoggers_20915]]
 
 ## Kijik Lake
 
@@ -3044,6 +4838,18 @@ Kijik Lake is one of the three lakes in the Kvichak system whose spawning stream
 ### Mentioned In
 - [[SpawningGroundCatalogOfTheKvic_12869]]
 
+## Kikkawa And Pearse
+
+### Summary
+A 1969 analysis of 121 Australian sites and 464 bird species using divisive information analysis. Peters found the method hard to follow and suspects it may lose information.
+
+### Context
+> James A. Peters (National Museum of Natural History, Smithsonian Institution) proposes a new method for analyzing [[Biogeography|biogeographic]] data. Instead of relying on a single [[Similarity Coefficient]] per locality, the method ranks all similarity coefficients for each locality in descending...
+> -- *[[ANewApproachInTheAnalysisOfBio_11188]]*
+
+### Mentioned In
+- [[ANewApproachInTheAnalysisOfBio_11188]]
+
 ## Kilby
 
 ### Summary
@@ -3055,6 +4861,30 @@ Author of an earlier Florida study (1955) cited by the authors. It covered a sin
 
 ### Mentioned In
 - [[AnEcologicalStudyOfTheFishesOf_11938]]
+
+## Kilby 1955
+
+### Summary
+A earlier study of fishes in Florida brackish marshes that the authors compare with their Texas catches. Of 54,687 fishes caught in Kilby's work, over 40,000 were cyprinodonts, and 81 percent of its Lucania parva catches were below 10 ‰. Kilby also reported that Cyprinodon variegatus buries itself in mud or plant debris as the tide falls.
+
+### Context
+> This Tulane Studies in Zoology paper (Vol. 4, No. 4, December 31, 1956) by [[Don G. Simpson]] and [[Gordon Gunter]] reports a field survey of the killifishes (family Cyprinodontidae, called Cyprinodontes in the text) inhabiting salt and brackish waters along the Texas coast. Sampling covered 60...
+> -- *[[NotesOnHabitatsSystematicChara_18999]]*
+
+### Mentioned In
+- [[NotesOnHabitatsSystematicChara_18999]]
+
+## Kilby et al. Florida Additions
+
+### Summary
+A 1959 paper of new Florida fish records cited in the series of statewide inventories this note extends. The source gives no further details about its contents.
+
+### Context
+> This faunal note by [[Suttkus and Yerger]] reports nine freshwater fish species added to the [[Florida Freshwater Fish Checklist]] from recent collections in western Florida. Six were collected for the first time in the state, two were resurrected from synonymy as valid species, and one had been...
+> -- *[[RecordsOfFreshwaterFishesInFlo_20885]]*
+
+### Mentioned In
+- [[RecordsOfFreshwaterFishesInFlo_20885]]
 
 ## Kill Creek
 <!-- fm: auto_enriched: true -->
@@ -3110,12 +4940,28 @@ Killifish are small cyprinodontid fishes (family Cyprinodontidae/Fundulidae) kno
 > This 1983 study by [[Theophilus D. Inslee]] of the [[U.S. Fish and Wildlife Service]] investigated persistent failures in establishing self-sustaining sport fish populations at [[Bitter Lake National Wildlife Refuge]] (NWR) in New Mexico. Despite decades of stocking warmwater species—primarily...
 > -- *[[AStudyOfTheFisheriesOnBitterLa_14374]]*
 
+> This 1973 study by McErlean, O'Connor, Mihursky and Gibson, published in *Estuarine and Coastal Marine Science*, analyzes four years of quarterly fish collections from the middle [[Patuxent Estuary]] in Maryland. Three gears were used ([[Haul Seine]], [[Beam Trawl]] and [[Otter Trawl]]) at 50...
+> -- *[[AbundanceDiversityAndSeasonalP_12311]]*
+
+> This 1911 paper by Will Scott, reprinted from the *Proceedings of the Indiana Academy of Science*, reports experiments on [[Scale Regeneration]] in the [[Killifish]] ([[Fundulus Heteroclitus]]). Scott removed about six rows of scales from one side of each fish and followed the development of the...
+> -- *[[TheRegeneratedScalesOfFundulus_11317]]*
+
+> This German-language article from the aquarium and terrarium magazine *Blätter für Aquarien- und Terrarienkunde* combines three items: (1) collecting records of salamander larvae and metamorphosing juveniles from Kentucky and Indiana; (2) a hobbyist's fish-collecting trip from [[New Orleans]] and...
+> -- *[[AufFischfangImGebieteDesMissis_14954]]*
+
+> This review by [[Myron Gordon]] (Genetics Laboratory, New York Zoological Society) synthesizes histological, genetic, embryological, transplantation, regeneration and tissue-culture evidence to argue that melanocytes in [[Platyfish-Swordtail Hybrid]] melanomas are pigment cells arrested in...
+> -- *[[TheMelanomaCellAsAnIncompletel_11045]]*
+
 ### Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[OsmoregulatoryRoleOfSerumGluco_1971]]
 - [[TheEffectOfThermalAcclimationO_15619]]
 - [[TimeCoOrdinatedPrefeedingActiv_13978]]
 - [[AStudyOfTheFisheriesOnBitterLa_14374]]
+- [[AbundanceDiversityAndSeasonalP_12311]]
+- [[TheRegeneratedScalesOfFundulus_11317]]
+- [[AufFischfangImGebieteDesMissis_14954]]
+- [[TheMelanomaCellAsAnIncompletel_11045]]
 
 ## Killifishes
 
@@ -3129,6 +4975,18 @@ Killifishes (family Cyprinodontidae) are small, often brightly colored freshwate
 ### Mentioned In
 - [[ConservationOfFishesOfTheDeath_15351]]
 
+## Kiln Diatomite
+
+### Summary
+The Kiln Diatomite is unit 1, the oldest exposed unit of the 111 Ranch Beds, found only in the southwestern part of the mapped area. It is the purest diatomite in the sequence, with diatom content that Mathias estimated in thin section, and its chert is no thicker than 2 feet.
+
+### Context
+> This paper by [[Philip Seff]], a research geologist with the Southwest Watershed Research Station, examines the chert deposits of the [[111 Ranch Beds]], a sequence of middle Pleistocene flood-plain, paludal, and lacustrine sediments in Graham County, Arizona. The author concludes that the chert is...
+> -- *[[PetrographyAndOriginOfTheRanch_11337]]*
+
+### Mentioned In
+- [[PetrographyAndOriginOfTheRanch_11337]]
+
 ## Kimmel and Groeger
 
 ### Summary
@@ -3140,6 +4998,30 @@ Authors of a 1986 publication that the report cites for the principle that fishe
 
 ### Mentioned In
 - [[LimnologyOfAPrairieReservoirAN_11701]]
+
+## Kimmins
+
+### Summary
+A British entomologist whose revisions of stonefly names are cited as one main source of nomenclatural change after 1940. Hynes lists his work alongside Aubert and Brinck.
+
+### Context
+> This document is a taxonomic key to the adults and nymphs of the British [[Stoneflies]] (order [[Plecoptera]]), written by H. B. N. Hynes and published by the [[Freshwater Biological Association]] as Scientific Publication No. 17 (1958). It is a revised and enlarged successor to the 1940 key. It...
+> -- *[[AKeyToTheAdultsAndNymphsOfTheB_14564]]*
+
+### Mentioned In
+- [[AKeyToTheAdultsAndNymphsOfTheB_14564]]
+
+## Kimmins Key
+
+### Summary
+Kimmins (1954) is the source that recorded the three British mayfly species of the genus Ephemera that Macan compared. Macan used this recording as the basis for his nymph study.
+
+### Context
+> This 1958 taxonomic paper by [[Thomas Macan]] (Freshwater Biological Association, Ambleside) compares the nymphs of the three British mayflies of the genus Ephemera recorded by [[Kimmins Key|Kimmins (1954)]]: [[Ephemera Vulgata]], [[Ephemera Danica]] and [[Ephemera Lineata]]. Macan tests the...
+> -- *[[AComparisonOfTheNymphsOfTheBri_19285]]*
+
+### Mentioned In
+- [[AComparisonOfTheNymphsOfTheBri_19285]]
 
 ## Kimsey
 
@@ -3211,6 +5093,30 @@ Kimsey 1954 is a published source with an earlier age estimate for the Eagle Lak
 ### Mentioned In
 - [[UseOfGeneticMarksToAssessStock_11327]]
 
+## Kindleia
+
+### Summary
+A genus of amiid fishes known from Cretaceous and Palaeocene material, including K. fragosa. The author argues it should be kept as a separate genus from Amia, based on features such as styliform teeth on the coronoids, dermopalatines, and vomers, and a shorter, more compact body form.
+
+### Context
+> This paper describes *Amia hesperia* sp. nov., a fossil amiid fish from Middle Eocene freshwater shales of the [[Allenby Formation]], [[Princeton Group]], in south-central [[British Columbia]]. The description rests on a single partially articulated skeleton (holotype UAVP 14758) and several...
+> -- *[[ANewSpeciesOfTheFishAmiaFromTh_12105]]*
+
+### Mentioned In
+- [[ANewSpeciesOfTheFishAmiaFromTh_12105]]
+
+## Kindschi Et Al 1979
+
+### Summary
+A earlier study cited as showing that light trapping suits field conditions in the region and as the source of seven design criteria for larval fish light traps. This source relies on it for the criteria that shaped the quatrefoil trap design.
+
+### Context
+> This document is a two-part methods paper describing new aquatic sampling gear. The first part presents the [[Quatrefoil Trap]], a plexiglas larval fish light trap built to seven design criteria and validated in a [[Stream Larval Fish Habitat Partitioning Study]] in Kentucky. The second part...
+> -- *[[ANewLarvalFishLightTrapTheQuat_18745]]*
+
+### Mentioned In
+- [[ANewLarvalFishLightTrapTheQuat_18745]]
+
 ## King 1962
 <!-- fm: auto_enriched: true -->
 
@@ -3220,6 +5126,30 @@ Kimsey 1954 is a published source with an earlier age estimate for the Eagle Lak
 
 ### Mentioned In
 - [[EvaluationOfPPDdtAsAReferenceT_14436]]
+
+## King and Wilson
+
+### Summary
+King and Wilson (1957) judged reservoirs and natural ponds unsuitable for tilapia culture because of poor control over reproduction, cannibalism and predation. The source cites their assessment as background for the tilapia cannibalism review that opens the article.
+
+### Context
+> This document contains two items from *Progressive Fish-Culturist* (45(2), April 1983). The main article, by [[Kurt D. Fausch]] and [[Ray J. White]], describes a sinuous, recirculating laboratory stream aquarium built at [[Michigan State University]] during 1976–81 to study juvenile stream...
+> -- *[[SinuousStreamAquariumToSimulat_16320]]*
+
+### Mentioned In
+- [[SinuousStreamAquariumToSimulat_16320]]
+
+## King Harbor
+
+### Summary
+An artificial enclosed harbor at Redondo Beach, California, used in the study as a comparison system rather than one of the 13 natural bays. It lies well above the area-species curve for the California bays, meaning it holds more species than its area would predict. The authors cite it as an example of an altered system with unusually high richness.
+
+### Context
+> Horn and Allen (1976) examined fish species richness and faunal composition in 13 California bays and estuaries and the adjacent [[California Continental Shelf]]. Species number correlated positively with surface area (log-log slope z = 0.21). In stepwise multiple regression, [[Mouth Width]] was...
+> -- *[[NumbersOfSpeciesAndFaunalResem_19921]]*
+
+### Mentioned In
+- [[NumbersOfSpeciesAndFaunalResem_19921]]
 
 ## King Island Resort
 
@@ -3232,6 +5162,18 @@ King Island Resort is a location in the Sacramento-San Joaquin Delta near where 
 
 ### Mentioned In
 - [[AnguillaRecordedFromCalifornia_19016]]
+
+## King Mackerel
+
+### Summary
+King mackerel (Scomberomorus cavalla) is a marine fish of the Gulf of Mexico and Atlantic coast. The source classes it as moderately subdivided, with eastern and western spawning groups, and reports intermediate allele frequencies in the northern Gulf of Mexico that indicate mixing between them.
+
+### Context
+> This review, by Fred Utter and Nils Ryman (*Fisheries*, Vol. 18, No. 8, August 1993), examines how genetic markers can estimate the composition of mixed fisheries, where biologically distinct groups of fish are harvested together. The authors argue that such analysis requires baseline genetic data...
+> -- *[[GeneticMarkersAndMixedStockFis_13232]]*
+
+### Mentioned In
+- [[GeneticMarkersAndMixedStockFis_13232]]
 
 ## King Salmon
 <!-- fm: auto_enriched: true -->
@@ -3354,6 +5296,18 @@ King Snakes (Lampropeltis spp.) were proposed for captive breeding permits with 
 ### Mentioned In
 - [[DraftAndRevisedVersionsOfPetit_11208]]
 
+## King Spring
+
+### Summary
+King Spring is a smaller, shallower spring in the Ash Meadows discharge area of southern Nevada, about 8 m by 1 m, with multiple small orifices in a tufa floor. In this study its snail shells (5.9 ± 0.2 percent modern ¹⁴C) contained more carbon-14 than the spring water (1.7 ± 0.4 percent), which the author attributes to marsh-derived inflow reaching the pool.
+
+### Context
+> This compiled JSTOR extract from *Science* (1984) contains three papers. The main aquatic study, by Alan C. Riggs (U.S. Geological Survey), reports carbon-14 (¹⁴C) contents as low as 3.3 ± 0.2 percent modern in shells of the exotic snail [[Melanoides Tuberculatus]] from artesian springs at [[Ash...
+> -- *[[MajorCarbonDeficiencyInModernS_14956]]*
+
+### Mentioned In
+- [[MajorCarbonDeficiencyInModernS_14956]]
+
 ## Kingfisher
 
 ### Summary
@@ -3439,8 +5393,12 @@ Kingston Springs is a town in Cheatham County, Tennessee, near the type-locality
 > 7. **Practical case study**: A sample of 67 one-year-old [[Kingswell Beck]] trout (true mean length 7.1 cm) would, if back-calculated by direct proportion from a future length of 25 cm, yield a false mean of 5.5 cm — an error of 1.6 cm (23%), with an even larger implied error in body weight (fish...
 > -- *[[TheUseOfTheScalesOfTheBrownTro_12553]]*
 
+> This preliminary survey by [[E. D. Le Cren]] describes populations of young and resident [[Salmo Trutta]] ([[Brown Trout]]) in small becks of northern England. The study focuses on [[Fry]] and [[Yearling]] trout, a life-history stage poorly documented in the literature at the time. Sampling used...
+> -- *[[PreliminaryObservationsOnPopul_20222]]*
+
 ### Mentioned In
 - [[TheUseOfTheScalesOfTheBrownTro_12553]]
+- [[PreliminaryObservationsOnPopul_20222]]
 
 ## Kinkaid Creek
 <!-- fm: auto_enriched: true -->
@@ -3451,6 +5409,34 @@ Kingston Springs is a town in Cheatham County, Tennessee, near the type-locality
 
 ### Mentioned In
 - [[FishesOfKinkaidCreekIllinois_14812]]
+
+## Kinne
+
+### Summary
+Kinne is one of the participants in the closing discussion of this 1963 symposium paper, with Kosswig, Numann, Remane and Wickler. The source does not record his specific comments in detail.
+
+### Context
+> This 1963 symposium paper by [[Curt Kosswig]] (Zoological State Institute and Zoological Museum Hamburg) argues that genetic experimentation, particularly crossing experiments combined with biostatistics and cytology, complements the historical, comparative approach of phenomenal phylogenetics in...
+> -- *[[EvolutionsphanomeneBeiKnochenf_12392]]*
+
+> This study by David E. Craigie (Department of Zoology, [[University Of Toronto]]) tested whether the mineral hardness of rearing water changes the thermal resistance of [[Rainbow Trout]] (*[[Salmo Gairdneri]]*) yearlings. Fish were reared from fertilization in [[Hard Water]] or [[Soft Water]], then...
+> -- *[[AnEffectOfWaterHardnessInTheTh_17994]]*
+
+### Mentioned In
+- [[EvolutionsphanomeneBeiKnochenf_12392]]
+- [[AnEffectOfWaterHardnessInTheTh_17994]]
+
+## Kinne (1960)
+
+### Summary
+Kinne (1960) is a laboratory study of the desert pupfish that this source uses for comparison. It found maximal growth at 30 °C, and the source reports his gross conversion efficiency as 1.3% at 30 °C and 0.8% at 35 °C. Naiman compares these figures with the Tecopa Bore population's higher production and feeding rates.
+
+### Context
+> This 1976 study by [[Robert J. Naiman]] (Arizona State University) quantifies energy flow through an herbivorous [[Amargosa Pupfish]] population living in the outflow of a thermal artesian well, [[Tecopa Bore]], in the Mohave Desert near Death Valley, California. Water emerges at 47.5 °C and cools...
+> -- *[[ProductivityOfAHerbivorousPupf_19480]]*
+
+### Mentioned In
+- [[ProductivityOfAHerbivorousPupf_19480]]
 
 ## Kinne 1952
 <!-- fm: auto_enriched: true -->
@@ -3476,6 +5462,18 @@ This is a study cited in the source showing that hypersalinity reduced the growt
 
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_20548]]
+
+## Kinneret Basin
+
+### Summary
+The Kinneret Basin is the catchment that drains into Lake Kinneret, including eastern and western sub-catchments, springs, and direct rain on the lake. The source divides it into four geological areas (basalts, Eocene Limestone, Turonian-Cenomanian karst, and eastern shore basalts) to estimate how much each contributes to lake inflow. The basin supplies about 282 MCM/yr of net inflow in the 1959–1974 balance.
+
+### Context
+> This section of a study on [[Lake Kinneret]] establishes the lake's generalized water balance for 1959–1974 and estimates how much each geological formation of the surrounding [[Kinneret Basin]] contributes to lake inflow. Average net inflow from the [[Jordan River]] (558 MCM/yr) almost equals...
+> -- *[[DTheWaterBalanceOfLakeKinneret_20132]]*
+
+### Mentioned In
+- [[DTheWaterBalanceOfLakeKinneret_20132]]
 
 ## Kinney 1964
 
@@ -3530,8 +5528,12 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 > *Kinosternon sonoriense* is the only native freshwater turtle occurring in the Chiricahua Mountains and ranges across northwestern Mexico and the southwestern USA (western New Mexico through central/southern Arizona). It is a member of the family [[Kinosternidae]] (mud and musk turtles). As with ...
 > -- *[[LifeHistoryAndEcologyOfTheSono_1997]]*
 
+> This study compares egg and hatchling lipid provisioning in four [[Kinosternidae|kinosternid]] turtles from the southeastern United States: [[Kinosternon Baurii]], [[Kinosternon Subrubrum]], [[Sternotherus Minor]], and [[Sternotherus Odoratus]]. The authors tested whether species with [[Delayed...
+> -- *[[EggComponentsAndHatchlingLipid_19475]]*
+
 ### Mentioned In
 - [[LifeHistoryAndEcologyOfTheSono_1997]]
+- [[EggComponentsAndHatchlingLipid_19475]]
 
 ## Kinosternon
 <!-- fm: auto_enriched: true -->
@@ -3558,9 +5560,13 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 > - **Habitat use:** ~90% of captures occurred in stock tanks (lentic, pond-like habitats), versus only 5% in stream pools and 5% on land — suggesting a strong preference for lentic habitats, possibly reflecting the species' evolutionary history in the now-desiccated pluvial [[Lake Cochise]] (which...
 > -- *[[LifeHistoryAndEcologyOfTheSono_16176]]*
 
+> This study compares egg and hatchling lipid provisioning in four [[Kinosternidae|kinosternid]] turtles from the southeastern United States: [[Kinosternon Baurii]], [[Kinosternon Subrubrum]], [[Sternotherus Minor]], and [[Sternotherus Odoratus]]. The authors tested whether species with [[Delayed...
+> -- *[[EggComponentsAndHatchlingLipid_19475]]*
+
 ### Mentioned In
 - [[LifeHistoryAndEcologyOfTheSono_16176]]
 - [[LifeHistoryAndEcologyOfTheSono_1997]]
+- [[EggComponentsAndHatchlingLipid_19475]]
 
 ## Kinosternon Flavescens
 <!-- fm: auto_enriched: true -->
@@ -3599,16 +5605,49 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 > This 1980 student research report examines unresolved distributional and taxonomic problems concerning [[Kinosternon flavescens]] (Yellow Mud Turtle) in the American Southwest following recent taxonomic revisions by Iverson (1976–1979) and Conant and Berry (1978). The author identifies three major...
 > -- *[[ZoogeographicalAnalysisAndRevi_15920]]*
 
+> This paper (Van Devender, Rea and Smith, 1985) describes a Late Pleistocene (Rancholabrean Land Mammal Age, Sangamon Interglacial) vertebrate fauna of 51 taxa from a sedimentary deposit at [[Rancho La Brisca]] in north-central [[Sonora]], Mexico. The fauna was preserved in a marshy [[Ciénega]]...
+> -- *[[TheSangamonInterglacialVertebr_13101]]*
+
 ### Mentioned In
 - [[A New Material for Marking Kordite Line and Various Animals]]
 - [[LifeHistoryAndEcologyOfTheSono_1997]]
 - [[ZoogeographicalAnalysisAndRevi_15920]]
+- [[TheSangamonInterglacialVertebr_13101]]
 
 ## Kinosternon Subrubrum
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This study compares egg and hatchling lipid provisioning in four [[Kinosternidae|kinosternid]] turtles from the southeastern United States: [[Kinosternon Baurii]], [[Kinosternon Subrubrum]], [[Sternotherus Minor]], and [[Sternotherus Odoratus]]. The authors tested whether species with [[Delayed...
+> -- *[[EggComponentsAndHatchlingLipid_19475]]*
+
 ### Mentioned In
 - [[LifeHistoryAndEcologyOfTheSono_1997]]
+- [[EggComponentsAndHatchlingLipid_19475]]
+
+## Kinship
+
+### Summary
+Kinship is the genetic relatedness between individuals. In this source it is central to the lion study, where the authors argue that relatedness among coalition males is needed to sustain cooperation in larger coalitions, where reproduction is strongly skewed.
+
+### Context
+> This document compiles three letters published in *Nature* in June 1991 (vol. 351, 13 June; vol. 354, 13 June). It contains no fish, aquatic, or marine data. The three studies are: 1. **Male cooperation in lions.** Analysis of [[Kinship]] and paternity in [[African Lion]] coalitions in the...
+> -- *[[MitochondrialDnaAnalysisImplyi_19641]]*
+
+### Mentioned In
+- [[MitochondrialDnaAnalysisImplyi_19641]]
+
+## Kinzelbach
+
+### Summary
+Kinzelbach is the author of the second part of this source, a paper on the faunal history of freshwater Crustacea and Mollusca in the northern Levant. He argues that the Orontes fauna is a mix of relict, Asian, Eurosiberian, and a few Afrotropical elements.
+
+### Context
+> This source is a multi-part compilation from the Proceedings of the 1985 Mainz Symposium on the Fauna and Zoogeography of the Middle East (Beihefte zum TAVO A 28, 1987). It contains three elements: a reference list from [[Por]]'s work on Levantine zoogeography and [[Lessepsian Migration]]; a survey...
+> -- *[[ZoologicalSurveyOfSaudiArabia_14148]]*
+
+### Mentioned In
+- [[ZoologicalSurveyOfSaudiArabia_14148]]
 
 ## Kinzua Dam
 <!-- fm: auto_enriched: true -->
@@ -3630,6 +5669,30 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 ### Mentioned In
 - [[VariationsInTheFecundityOfPike_1969]]
 
+## Kipp Solarimeter
+
+### Summary
+The Kipp solarimeter is a heat-based instrument for measuring absolute solar irradiance above the water surface. Westlake lists it, with the Epply pyrheliometer and Schenk pyranometer, as the best choice for absolute measurements in air. Underwater, simpler relative instruments are used instead.
+
+### Context
+> This 1965 review by D. F. Westlake of the [[Freshwater Biological Association]] (River Laboratory, Wareham, Dorset) summarizes agreed practice for measuring radiation under water in ecological studies. It addresses terminology, units, optical density, instrument design, and the optical errors that...
+> -- *[[SomeProblemsInTheMeasurementOf_12175]]*
+
+### Mentioned In
+- [[SomeProblemsInTheMeasurementOf_12175]]
+
+## Kirk Bryan
+
+### Summary
+A researcher cited in the reference lists of the papers, for his 1925 work on arroyo cutting. The source does not report further findings from him.
+
+### Context
+> This document is a 1941 *Transactions, American Geophysical Union* symposium section titled "Dynamics of Erosion in a New Land." It contains two lead papers, by [[C. F. Stewart Sharpe]] (not reproduced in full here) and [[Reed W. Bailey]], followed by a discussion by several specialists. The...
+> -- *[[LandErosionnormalAndAccelerate_17225]]*
+
+### Mentioned In
+- [[LandErosionnormalAndAccelerate_17225]]
+
 ## Kirk Strawn
 <!-- fm: auto_enriched: true -->
 
@@ -3637,8 +5700,12 @@ Kino Spring was a site where Gila Topminnow had been introduced as part of recov
 > This 1954 two-part paper from *The Aquarium Journal*, authored by [[Clark Hubbs]] and [[Kirk Strawn]] at the University of Texas, details laboratory-tested protocols for culturing live foods for aquarium fish, focusing primarily on [[Drosophila]] (fruit flies) and secondarily on [[Daphnia magna]]...
 > -- *[[CulturingFruitFliesDrosophilaA_14269]]*
 
+> This 1957 study by [[Clark Hubbs]] and [[Kirk Strawn]] (Department of Zoology, University of Texas, Austin) reports laboratory hybridization experiments among North American darters (subfamily Etheostomatinae). The authors artificially crossed darter species by stripping and mixing eggs and sperm,...
+> -- *[[SurvivalOfFHybridsBetweenFishe_14271]]*
+
 ### Mentioned In
 - [[CulturingFruitFliesDrosophilaA_14269]]
+- [[SurvivalOfFHybridsBetweenFishe_14271]]
 
 ## Kirk Young
 <!-- fm: auto_enriched: true -->
@@ -3666,6 +5733,22 @@ Kirkland Creek is a major tributary of the Bill Williams River with a drainage a
 ### Mentioned In
 - [[AquaticInventoryOfTheBillWilli_12503]]
 
+## Kirkpatrick
+
+### Summary
+Kirkpatrick (1983), together with Kirkpatrick & Harwood (1983), developed an approach that is conceptually similar to the one used in this paper. The main difference is that Kirkpatrick's method weighted species, whereas the Margules et al. analysis did not. Kirkpatrick & Harwood also applied a richest-first selection method to Tasmanian wetlands.
+
+### Context
+> This paper by [[Margules]], Nicholls and Pressey presents explicit numerical algorithms for selecting the smallest set of sites that represents the maximum number of species within a biological domain. The case study uses the 432 wetlands of the [[Macleay Valley Floodplain]] in coastal northern...
+> -- *[[SelectingNetworksOfReservesToM_19373]]*
+
+> This study by [[Bodaly]] and colleagues (Department of Fisheries and Oceans, Freshwater Institute, Winnipeg, with the University of Manitoba) uses starch gel [[Allozyme Electrophoresis]] of dehydrogenase enzymes to test the genetic relationships of sympatric populations of [[Lake Whitefish]]...
+> -- *[[EvolutionOfLakeWhitefishCorego_17708]]*
+
+### Mentioned In
+- [[SelectingNetworksOfReservesToM_19373]]
+- [[EvolutionOfLakeWhitefishCorego_17708]]
+
 ## Kirkwood
 
 ### Summary
@@ -3690,6 +5773,18 @@ A method for back-calculating a fish's earlier lengths from the size of its scal
 ### Mentioned In
 - [[ASurveyOfTheSuccessOfVariousSt_21207]]
 
+## Kirsch
+
+### Summary
+Kirsch (1892) is the author who first described Etheostoma obeyense, the Barcheek Darter, from 210 specimens collected in four Clinton County, Kentucky tributaries. Page and Braasch (1976) examined his type material and treated his species as the basis for comparison. Their study showed that Kirsch's concept included two distinct species.
+
+### Context
+> Page and Braasch (1976) revisit the barcheek darters of the subgenus [[Catonotus]] (family [[Percidae]]) in the Cumberland River drainage. The [[Barcheek Darter]], [[Etheostoma obeyense]] Kirsch 1892, had long been treated as a single species, but the authors show that it comprises two...
+> -- *[[SystematicStudiesOfDartersOfTh_18392]]*
+
+### Mentioned In
+- [[SystematicStudiesOfDartersOfTh_18392]]
+
 ## Kirsch 1893
 
 ### Summary
@@ -3702,6 +5797,42 @@ Kirsch 1893 is an early historical record cited in the source, in which the Ashy
 ### Mentioned In
 - [[SystematicsStatusAndLifeHistor_18898]]
 
+## Kirtland
+
+### Summary
+A 19th-century naturalist who produced a comprehensive regional treatment of Ohio fishes. The source credits his work with considerable ecological detail for its time.
+
+### Context
+> This chapter, by David C. Heins and William J. Matthews, reviews the history of [[Stream-Fish Ecology]] in North America and summarizes recent progress in [[Community Ecology]] and [[Evolutionary Ecology]] of stream fishes. It traces the field from early faunal surveys of the late 1700s and early...
+> -- *[[HistoricalPerspectivesOnTheStu_16610]]*
+
+### Mentioned In
+- [[HistoricalPerspectivesOnTheStu_16610]]
+
+## Kishinouye
+
+### Summary
+Kishinouye (1923) is a source whose plates are included in this volume. The source references his work in the context of visceral anatomy of tuna and related fishes.
+
+### Context
+> This Guelph Ichthyology Reviews volume (Number 4, February 1996) by [[Douglas Fudge]] and [[E. Don Stevens]] provides an annotated English translation of the 1835 paper by [[Johannes Müller]] and D.F. [[Eschricht]] on the visceral anatomy of the [[Atlantic Bluefin Tuna]] (*Thunnus thynnus*), the...
+> -- *[[TheVisceralRetiaMirabiliaOfTun_18887]]*
+
+### Mentioned In
+- [[TheVisceralRetiaMirabiliaOfTun_18887]]
+
+## Kissimmee
+
+### Summary
+A city in central Florida. The authors projected that the Walking Catfish would spread to Kissimmee and Osceola County within a year or two.
+
+### Context
+> This document contains two items. The main paper, by [[Walter R. Courtenay Jr]] and [[Woodard W. Miley II]], documents the spread of the introduced [[Walking Catfish]] ([[Clarias Batrachus]]) across southern [[Florida]] after escapes from an aquarium-fish farm in the mid-1960s. By 1974 the species...
+> -- *[[RangeExpansionAndEnvironmental_17623]]*
+
+### Mentioned In
+- [[RangeExpansionAndEnvironmental_17623]]
+
 ## Kister et al. (1966)
 
 ### Summary
@@ -3713,6 +5844,18 @@ Hydrologic Investigations Atlas HA-214, which provides the companion chemical da
 
 ### Mentioned In
 - [[GeohydrologyAndWaterUtilizatio_13828]]
+
+## Kistiakowsky Enzyme Theory of Odour
+
+### Summary
+Kistiakowsky's 1950 theory proposes that odorants act by interfering with enzyme-catalysed reactions in olfactory receptors. The review cites it as one explanation for both the high sensitivity of smell and its rapid adaptation.
+
+### Context
+> This 1954 review by [[Arthur D. Hasler]] (Department of Zoology, University of Wisconsin), published in the *Journal of the Fisheries Research Board of Canada*, synthesises research on how fishes perceive odours and use them in food-finding, social behaviour, predator avoidance and homing. It...
+> -- *[[OdourPerceptionAndOrientationI_20698]]*
+
+### Mentioned In
+- [[OdourPerceptionAndOrientationI_20698]]
 
 ## Kit Fox
 
@@ -3738,9 +5881,13 @@ Kiyi (Coregonus kiyi) is a deepwater cisco from the Salmonidae family that grows
 > This technical report by [[E. J. Crossman]] and [[Harry D. Van Meter]] (Great Lakes Fishery Commission Technical Report No. 36, June 1979) is an annotated checklist of the fishes of [[Lake Ontario]] and its watershed. It draws on published distribution records, [[Royal Ontario Museum]] collections,...
 > -- *[[AnnotatedListOfTheFishesOfTheL_18070]]*
 
+> Crowder (1980), published in *Environmental Biology of Fishes* (Vol. 5, No. 3, pp. 225–233), examines why several native fish species in [[Lake Michigan]] declined sharply during the increases of [[Rainbow Smelt]] (1930s) and [[Alewife]] (1950s–1960s). The paper proposes that predation by these two...
+> -- *[[AlewifeRainbowSmeltAndNativeFi_18073]]*
+
 ### Mentioned In
 - [[ReviewOfPotentialForageFishInt_19139]]
 - [[AnnotatedListOfTheFishesOfTheL_18070]]
+- [[AlewifeRainbowSmeltAndNativeFi_18073]]
 
 ## Kjeldahl Method
 <!-- fm: auto_enriched: true -->
@@ -3756,6 +5903,42 @@ Kiyi (Coregonus kiyi) is a deepwater cisco from the Salmonidae family that grows
 - [[EstimationOfBluegillLepomisMac_1974]]
 - [[ChemicalCharacteristicsOfNewYo_18778]]
 - [[TheProteinRequirementOfChannel_19477]]
+
+## Kjeldahl Nitrogen Analysis
+
+### Summary
+Kjeldahl nitrogen analysis is a standard laboratory method for measuring total nitrogen in a sample, which is then converted to crude protein. The author used it to determine the protein content of the dried plant material.
+
+### Context
+> This 1968 *Economic Botany* paper, by [[Boyd]] of [[Auburn University]], is a preliminary study assessing whether freshwater aquatic plants, usually regarded as nuisance [[Aquatic Weeds]], could serve as a food source. The work measured the chemical composition of dried plants as potential...
+> -- *[[FreshwaterPlantsAPotentialSour_17757]]*
+
+### Mentioned In
+- [[FreshwaterPlantsAPotentialSour_17757]]
+
+## Kjetil Hindar
+
+### Summary
+Kjetil Hindar is a Norwegian fisheries geneticist and co-author of this 1991 review on the genetic effects of cultured fish on wild salmonid populations. He worked with Nils Ryman and Fred Utter to compile empirical evidence from the literature on this topic.
+
+### Context
+> This review, by [[Kjetil Hindar]], [[Nils Ryman]] and [[Fred Utter]] (published in the *Canadian Journal of Fisheries and Aquatic Sciences*, 1991), assesses the genetic consequences of [[Aquaculture]] on natural fish populations, focusing on [[Salmonids]]. Driven by rapidly rising numbers of...
+> -- *[[GeneticEffectsOfCulturedFishOn_20407]]*
+
+### Mentioned In
+- [[GeneticEffectsOfCulturedFishOn_20407]]
+
+## Klallam Tribe
+
+### Summary
+A Native American tribe in the Elwha River area of Washington. The article quotes Beatrice (Aunty Bea) Charles of the tribe describing salmon as "our food," "our culture" and "our life," and mentions Pat Crain, fisheries manager for the Lower Elwha Klallam Tribe, reporting a collapse in pink salmon counts.
+
+### Context
+> This Smithsonian magazine feature, compiled with unrelated advertisements and short arts and science pieces, examines whether American dams should be removed to restore migratory fish. Its central case study is the [[Elwha River]] in Washington, where [[Elwha Dam]] and [[Glines Canyon Dam]] have...
+> -- *[[TheDamDilemmaSalmonReservoirsA_21212]]*
+
+### Mentioned In
+- [[TheDamDilemmaSalmonReservoirsA_21212]]
 
 ## Klamath
 
@@ -3829,6 +6012,18 @@ The Klamath Indians are an indigenous people who historically harvested and drie
 
 ### Mentioned In
 - [[OccurrencesOfTheLostRiverSucke_17577]]
+
+## Klamath Lake
+
+### Summary
+Klamath Lake is a lake in southern Oregon in the Klamath Basin. The source notes that modern faunas of Klamath Lake and Eagle Lake include several of the same species as the fossil Honey Lake fauna.
+
+### Context
+> This paleontological study by D. W. Taylor and G. R. Smith, published in the [[Museum of Paleontology]] at the University of Michigan (1981), describes two fossil freshwater assemblages from northeastern California and northwestern Nevada. The [[Honey Lake]] fauna (seven molluscs, five fishes)...
+> -- *[[PlioceneMolluscsAndFishesFromN_13499]]*
+
+### Mentioned In
+- [[PlioceneMolluscsAndFishesFromN_13499]]
 
 ## Klamath Lakes
 
@@ -3960,6 +6155,12 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This National Park Service appendix, dated January 1982, lists the rivers in the [[National Wild and Scenic Rivers System]] as of 1981 and the rivers designated for study under Section 5(a) of the [[Wild and Scenic Rivers Act]]. The document is an administrative inventory, not a research study. It...
 > -- *[[TheNationwideRiversInventoryAp_19589]]*
 
+> This book chapter by [[W. L. Minckley]] and [[Gary K. Meffe]] examines why native fishes of the arid American Southwest persist alongside, or are displaced by, [[Nonnative Fishes]] in streams. The authors argue that native fauna evolved under violent, flash-flood hydrology, whereas many nonnative...
+> -- *[[DifferentialSelectionByFloodin_16485]]*
+
+> Carl L. Hubbs formally describes *[[Lampetra Lethophaga]]* (Pit-Klamath Brook Lamprey) as a new species, the dwarfed, nonparasitic derivative of the parasitic [[Pacific Lamprey]] (*Lampetra tridentata*). The species is known only from the connected drainages of the Pit River (a Sacramento River...
+> -- *[[LampetraEntosphenusLethophagaN_14188]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[PreliminaryReportOnFishRemains_18753]]
@@ -3981,6 +6182,8 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[TheStoryOfWesternTrout_14677]]
 - [[StatusAndProposedManagementOfT_13934]]
 - [[TheNationwideRiversInventoryAp_19589]]
+- [[DifferentialSelectionByFloodin_16485]]
+- [[LampetraEntosphenusLethophagaN_14188]]
 
 ## Klamath River Basin
 
@@ -3991,8 +6194,12 @@ The Klamath River Basin is the drainage system where Lost River Sucker and Short
 > This 1965 report documents the first confirmed occurrences of [[Lost River Sucker]] (*Deltistes luxatus*) and [[Shortnose Sucker]] (*Chasmistes brevirostris*) in California waters, adding both species to the state's freshwater fish fauna. Previously known only from the [[Klamath Lakes]] drainage in...
 > -- *[[OccurrencesOfTheLostRiverSucke_17577]]*
 
+> This chapter by [[W. L. Minckley]], [[Dean A. Hendrickson]] and [[Carl E. Bond]] reviews the zoogeography of freshwater fishes across western North America, from the [[Continental Divide]] to the Pacific and from the [[Columbia River Basin]] south to the Rio Grande de Santiago Basin in Mexico. The...
+> -- *[[GeographyOfWesternNorthAmerica_15412]]*
+
 ### Mentioned In
 - [[OccurrencesOfTheLostRiverSucke_17577]]
+- [[GeographyOfWesternNorthAmerica_15412]]
 
 ## Klamath River Lamprey
 <!-- fm: auto_enriched: true -->
@@ -4123,6 +6330,18 @@ Klamathon Racks is one of the four counting stations in the study, located on th
 ### Mentioned In
 - [[SomeAustralianPlecopteranNymph_1964]]
 
+## Klauber
+
+### Summary
+Klauber (1946) defined the long-tailed group of Arizona elegans as subspecies in which males averaged tail lengths of 14.9% or more of total length. He used dorsal blotch number as the sole character separating philipi and expolita. Fleet and Dixon found that ventral counts did not separate these two forms, questioning that approach.
+
+### Context
+> This 1971 study by [[Fleet and Dixon]] (*Herpetologica* 27:295–302) examines geographic variation in the long-tailed group of the [[Glossy Snake]] (*Arizona elegans*). The authors analyze ventral scale counts, caudal scale counts, and dorsal body blotch counts across four north-south geographic...
+> -- *[[GeographicVariationWithinTheLo_16460]]*
+
+### Mentioned In
+- [[GeographicVariationWithinTheLo_16460]]
+
 ## Klaus D. Kallman
 <!-- fm: auto_enriched: true -->
 
@@ -4132,6 +6351,18 @@ Klamathon Racks is one of the four counting stations in the study, located on th
 
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
+
+## Klein and Alexander
+
+### Summary
+Klein and Alexander (1986) is a study cited by the author on bacterial inhibitors in aquatic systems. The author draws on it when proposing that inhibitors, along with zooplankton grazing and toxic substances, may drive variability in bacterial abundance in the reservoir.
+
+### Context
+> This 1990 study by [[Maria Leonor Fidalgo]], published by the [[Instituto de Zoologia Dr. Augusto Nobre]] at the [[Faculdade de Ciências do Porto]], examines the abundance of heterotrophic bacteria, total coliforms, fecal coliforms and fecal streptococci in the [[Crestuma/Lever Reservoir]] on the...
+> -- *[[AboutTheRelationshipBetweenSom_16365]]*
+
+### Mentioned In
+- [[AboutTheRelationshipBetweenSom_16365]]
 
 ## Klein Nomenclature
 <!-- fm: auto_enriched: true -->
@@ -4155,6 +6386,66 @@ Klamathon Racks is one of the four counting stations in the study, located on th
 ### Mentioned In
 - [[AccumulationAndEliminationOfDi_1977]]
 - [[VariationsInDdtConcentrationIn_13889]]
+
+## Klement and Wallen Bibliography
+
+### Summary
+This is a 1960 bibliography on the biological effects of fallout and radioactive wastes, which the authors refer readers to because they excluded that topic from their review. The source does not describe its contents beyond this reference.
+
+### Context
+> This 1961 review in the *Transactions of the American Fisheries Society* (Vol. 90, No. 1, pp. 49-57) by F. F. Hooper, H. A. Popoviak, and S. F. Snieszko surveys how [[Radioisotopes]] have been applied in [[Hydrobiology]] and [[Fish Culture]]. The authors were prepared by the Committee on...
+> -- *[[UseOfRadioisotopesInHydrobiolo_19911]]*
+
+### Mentioned In
+- [[UseOfRadioisotopesInHydrobiolo_19911]]
+
+## Klett-Summerson Colorimeter
+
+### Summary
+A colorimeter used to read the absorbency of ethanol pigment extracts, using a red filter at 640–700 mµ. The authors found its absorbance readings became non-linear with concentration above about 0.20.
+
+### Context
+> This 1960 methods paper by [[Alfred R. Grzenda]] and [[Morris L. Brehmer]] (Michigan State University) presents two techniques for collecting and estimating stream [[Periphyton]] production using artificial substrata. Periphyton was grown on 1.4 dm² [[Plexiglass Plates]] mounted on a horizontal...
+> -- *[[AQuantitativeMethodForTheColle_17810]]*
+
+### Mentioned In
+- [[AQuantitativeMethodForTheColle_17810]]
+
+## Klevevž Cave
+
+### Summary
+Klevevž Cave (Spodnja Klevevška jama) is a Slovene cave with three water streams at about 20-22°C, 15-18°C and about 12°C. Dissolved oxygen there reached 8.6-9.9 mg/l, with a maximum of 10.6 mg/l, higher than at most thermal springs. Snail and oligochaete populations were densest where food input was greatest, and Parabathynella sp. was abundant in the interstitial water beside the warm stream.
+
+### Context
+> Sket and Velkovrh (1981) surveyed the fauna of about 26 groups of thermal springs in Slovenia (NW Yugoslavia) with temperatures of 15-28°C. Among 19 troglobiontic taxa found, only [[Hadziella]] spp. (Gastropoda) and the isopod family [[Stenasellidae]] appear characteristic of thermal water. The...
+> -- *[[SubterraneanAnimalsInThermalWa_19013]]*
+
+### Mentioned In
+- [[SubterraneanAnimalsInThermalWa_19013]]
+
+## Klitgord and Schouten
+
+### Summary
+Authors of a 1986 study cited for the tectonic model linking Gulf of Mexico and Pacific spreading ridges through transform faults. McKee and colleagues use this framework to suggest the San Marcos fault was part of that transform system.
+
+### Context
+> McKee, Jones, and Long (Department of Geological Sciences, University of Texas at Austin, with Jones also affiliated with the University of Wisconsin-Oshkosh) use stratigraphy, petrology, geochemistry, and Rb-Sr geochronology to reconstruct the history of the [[San Marcos Fault]] in central...
+> -- *[[StratigraphyAndProvenanceOfStr_12325]]*
+
+### Mentioned In
+- [[StratigraphyAndProvenanceOfStr_12325]]
+
+## Klondike Mountain Formation
+
+### Summary
+An Eocene geological formation in Washington State. Amiid scales of similar age to those in British Columbia occur there, which the source cites in discussing the regional distribution of Eocene amiids.
+
+### Context
+> This paper describes *Amia hesperia* sp. nov., a fossil amiid fish from Middle Eocene freshwater shales of the [[Allenby Formation]], [[Princeton Group]], in south-central [[British Columbia]]. The description rests on a single partially articulated skeleton (holotype UAVP 14758) and several...
+> -- *[[ANewSpeciesOfTheFishAmiaFromTh_12105]]*
+
+### Mentioned In
+- [[ANewSpeciesOfTheFishAmiaFromTh_12105]]
 
 ## Klondyke
 <!-- fm: auto_enriched: true -->
@@ -4202,11 +6493,47 @@ The Klondyke Tailings are 220,000 tons of milled ore waste located within 50 fee
 ### Mentioned In
 - [[FieldTripNotes_12290]]
 
+## Kluyver & Tinbergen (1953)
+
+### Summary
+A long-term study of Great Tit, Blue Tit and Coal Tit populations in Holland. It found that these tits bred at higher densities in attractive mixed woods than in pinewoods, with smaller minimum territories in richer woods, and that surplus birds settled in pinewoods once the mixed woods were full.
+
+### Context
+> This paper, by V. C. Wynne-Edwards (published in *Isis*, 1959), proposes that animal populations are normally held at a safe density by **social conventions** rather than by direct competition for food. Food is the ultimate limiting resource, but animals compete for conventional substitutes such as...
+> -- *[[TheControlOfPopulationdensityT_13113]]*
+
+### Mentioned In
+- [[TheControlOfPopulationdensityT_13113]]
+
 ## Knapp
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[FirstRecordOfTheCypressMinnow_17935]]
+
+## Knapp 1953
+
+### Summary
+Knapp's 1953 publication is among the earlier Texas fish literature that Hubbs reviews and largely perpetuates older records from. Hubbs considers many of its distributional statements to contain misidentifications or incorrect localities, and he revises them using museum specimens and recent collections.
+
+### Context
+> Clark Hubbs (University of Texas, 1954, *Texas Journal of Science* 6(3)) re-evaluates published distributional records for Texas freshwater fishes. Much of the earlier literature, largely pre-1900 and perpetuated by [[Fowler 1945]], [[Baughman 1950]] and [[Knapp 1953]], contains misidentifications...
+> -- *[[CorrectedDistributionalRecords_14203]]*
+
+### Mentioned In
+- [[CorrectedDistributionalRecords_14203]]
+
+## Knechtel 1938
+
+### Summary
+An earlier U.S. Geological Survey report on the Safford Valley that Hollander draws on as prior work for the area's geology. The note cites it as background only and does not summarize its specific findings.
+
+### Context
+> This Department of Geology, University of Arizona paper by J. T. Hollander examines the stratigraphy, structure, and boundary conditions of the [[Safford Valley]] alluvium along the [[Gila River]] in Graham County, Arizona. The author argues that the water-bearing behavior of the [[Inner-Valley...
+> -- *[[GeologyAndAquiferCharacteristi_20473]]*
+
+### Mentioned In
+- [[GeologyAndAquiferCharacteristi_20473]]
 
 ## Knifefishes
 <!-- fm: auto_enriched: true -->
@@ -4226,11 +6553,35 @@ Knights Lake is a Wisconsin lake that recorded one of the highest oxygen concent
 ### Mentioned In
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 
+## Kninicky Reservoir
+
+### Summary
+A reservoir on the Svratka (Schwarza) River in Moravia, Czech Republic, which marks the downstream end of the study reach. The source notes that some reservoir-derived zooplankton such as Daphnia hyalina remained largely intact at least as far as this reservoir, more than 55 km from the Vir dam.
+
+### Context
+> This study by [[Frantisek Kubicek]] (Zoological Institute, J. E. Purkyně University, Brno, 1967) describes the organic drift of invertebrates and other drifting organisms in the torrential (fast-flowing) reach of the [[Svratka River]], a Moravian river that runs between the [[Vir Reservoir]] and...
+> -- *[[DieOrganischeDriftDesSvratkafl_12468]]*
+
+### Mentioned In
+- [[DieOrganischeDriftDesSvratkafl_12468]]
+
 ## Knob Creek
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[AnOccurrenceOfBranchiuraSowerb_16007]]
+
+## Knobs Region
+
+### Summary
+An Appalachian-foothill region the source describes as a dispersal avenue for Pseudotriton ruber, P. montanus, and Pseudacris brachyphona moving from Appalachian centers of abundance into the area. It is one of the three biogeographic corridors the authors propose for Meade County.
+
+### Context
+> This herpetological compilation by [[James E Craddock]] and [[W L Minckley]] (published 1964 in *The American Midland Naturalist*) records 57 amphibian and reptile species from [[Meade County]] and adjacent northern Kentucky counties. The material was gathered between February 1959 and January...
+> -- *[[AmphibiansAndReptilesFromMeade_17981]]*
+
+### Mentioned In
+- [[AmphibiansAndReptilesFromMeade_17981]]
 
 ## Knoll Lake
 
@@ -4283,6 +6634,30 @@ Knowlton Cactus is an endangered cactus that depends on halicitid bee pollinator
 ### Mentioned In
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[EndangeredAndThreatenedSpecies_11630]]
+
+## Knox Dolomite
+
+### Summary
+A dolomite (magnesium-rich carbonate rock) formation in Tennessee. The source reports it as a hard-water formation with an average total alkalinity of 140.0 p.p.m. and an average pH of 7.85, and it is one of the bedrock units producing alkaline streams.
+
+### Context
+> This 1944 paper, published in the *Transactions of the American Fisheries Society* (reprinted 1947), examines how the total alkalinity, carbonate alkalinity, and pH of unpolluted Tennessee streams relate to the [[Geological Formations]] forming their beds. Using 371 water analyses from an equal...
+> -- *[[GeochemicalInterpretationOfWat_18915]]*
+
+### Mentioned In
+- [[GeochemicalInterpretationOfWat_18915]]
+
+## Knudsen Hydrographical Tables
+
+### Summary
+Standard oceanographic tables relating chlorinity to salinity and total salt content. The author used them to convert silver nitrate titration results from seawater samples into total salt values.
+
+### Context
+> This study examines the ecology of South Benfleet Creek, a small, embanked tidal inlet on the north bank of the River Thames in Essex, with a focus on the distribution of two amphipod species, [[Corophium Volutator]] and [[Corophium Arenarium]]. Fieldwork ran from 1 to 29 August 1959, with...
+> -- *[[EcologicalStudiesInSouthBenfle_16945]]*
+
+### Mentioned In
+- [[EcologicalStudiesInSouthBenfle_16945]]
 
 ## Knutson Bay
 
@@ -4381,6 +6756,18 @@ Kodiak Island is part of the Gulf Region, which the source calls the Territory's
 ### Mentioned In
 - [[AlaskasFishAndWildlife_16830]]
 
+## Koehn and Rasmussen Method
+
+### Summary
+The starch-gel electrophoresis protocol the authors followed to analyze enzyme variation in liver and muscle tissue. The source refers to it along with the buffer and stain references listed in its Table 1.
+
+### Context
+> This study by Kornfield and Koehn (State University of New York, Stony Brook) uses starch-gel [[Isoenzyme Electrophoresis]] to compare [[Genetic Heterozygosity]] in three cichlids: the widespread [[Rio Grande Cichlid]] (*Cichlosoma cyanoguttatum*) from a variable river environment in Texas, and two...
+> -- *[[GeneticVariationAndEvolutionIn_12626]]*
+
+### Mentioned In
+- [[GeneticVariationAndEvolutionIn_12626]]
+
 ## Kofa National Wildlife Refuge
 
 ### Summary
@@ -4406,8 +6793,12 @@ Kofoid is cited as a historical source describing a prolonged winter freeze in 1
 > This 1925 bulletin by [[David H. Thompson]], published by the [[Illinois Natural History Survey]], examines how [[Dissolved Oxygen]] limits fish life in the [[Illinois River]]. The river froze over in December 1924 and thawed in early February 1925. During that period dissolved oxygen fell to very...
 > -- *[[SomeObservationsOnTheOxygenReq_13582]]*
 
+> This 1963 paper by [[L. A. Whitford]] and [[G. J. Schumacher]], published in *Hydrobiologia* (Vol. XXII), reports a four-year study (begun August 1957; main work 1958–1960, with plankton counts in 1960–1961) of algal communities in the streams and rivers of North Carolina. The state spans three...
+> -- *[[CommunitiesOfAlgaeInNorthCarol_12235]]*
+
 ### Mentioned In
 - [[SomeObservationsOnTheOxygenReq_13582]]
+- [[CommunitiesOfAlgaeInNorthCarol_12235]]
 
 ## Kohler and Stanley Protocol
 
@@ -4418,8 +6809,36 @@ This is a 1984 assessment protocol for evaluating fishery enhancement impacts. T
 > This FAO Fisheries Circular (No. 945, 1999, 89 pp.) characterizes inland fishery enhancements worldwide. It is based on an automated search of the [[Aquatic Sciences and Fisheries Abstracts]] (ASFA) for 1978–1997, cross-checked against the [[FAO Database on Introductions of Aquatic Species]] (DIAS)...
 > -- *[[GlobalCharacterizationOfInland_16308]]*
 
+> This 1991 study by [[Burkhead]] and Williams (U.S. Fish and Wildlife Service, National Fisheries Research Center, Gainesville) describes an artificially produced intergeneric hybrid between the native [[Golden Shiner]] (*Notemigonus crysoleucas*) and the exotic [[Rudd]] (*Scardinius...
+> -- *[[AnIntergenericHybridOfANativeM_14031]]*
+
 ### Mentioned In
 - [[GlobalCharacterizationOfInland_16308]]
+- [[AnIntergenericHybridOfANativeM_14031]]
+
+## Kohnoperla
+
+### Summary
+A genus of brachypterine stoneflies from Japan, described as new in this synopsis with the species K. yugawae. The authors regard it as the most primitive genus in the subfamily, with a femoral callus and no epiproct sleeve.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
+
+## Koi Colour Classification
+
+### Summary
+Japanese koi breeders recognise about 15 basic colour classes for nishikigoi, presented in Table 5 of the source. The classes reflect the colour selection that produced these ornamental carp. The source does not describe each class in detail.
+
+### Context
+> This issue of [[Guelph Ichthyology Reviews]] (No. 3, 1995) combines two essays: Eugene K. Balon's review of the wild origin, domestication and colour selection of the [[Common Carp]], and Richard C. Hoffmann's paper on environmental change and carp culture in medieval Europe. Editor David L.G....
+> -- *[[TheCommonCarpCyprinusCarpioIts_17307]]*
+
+### Mentioned In
+- [[TheCommonCarpCyprinusCarpioIts_17307]]
 
 ## Kokanee
 <!-- fm: auto_enriched: true -->
@@ -4494,6 +6913,45 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 > This 1969 manual, written by Paul S. Mugford and published by the [[Massachusetts Division of Fisheries and Game]] (Publication No. 4064), is a field identification guide to the freshwater fishes of Massachusetts. It illustrates more than seventy species, provides dichotomous keys to families and...
 > -- *[[IllustratedManualOfMassachuset_15557]]*
 
+> This 1938 paper by W. E. Ricker of the [[Pacific Biological Station]] describes three forms of [[Oncorhynchus Nerka]] in [[Cultus Lake]], British Columbia: the normal [[Anadromous Sockeye]] stock, a non-migratory "residual" group that is largely or perhaps wholly the progeny of anadromous fish, and...
+> -- *[[ResidualAndKokaneeSalmonInCult_16848]]*
+
+> This review, a draft by [[Peter B. Moyle]], [[Hiram W. Li]], and [[Bruce A. Barton]] (Oregon Cooperative Fishery Research Unit, Oregon State University), examines the "Frankenstein Effect," the broad-scale and often unforeseen harm caused by fish introductions made to solve local problems. It...
+> -- *[[TheFrankensteinEffectImpactOfI_15451]]*
+
+> This 1968 study by Joseph S. Nelson (University of British Columbia, published in the *Journal of the Fisheries Research Board of Canada*, 25(2): 415–420) compares gillraker counts among freshwater [[Kokanee]] populations and their anadromous progenitor, the [[Sockeye Salmon]]. Gillrakers were...
+> -- *[[VariationInGillrakerNumberInNo_19630]]*
+
+> This 1968 note by Joseph S. Nelson (University of British Columbia), published in the *Journal of the Fisheries Research Board of Canada*, assembles locality records for indigenous North American [[Kokanee]] populations and reviews the conflicting nomenclature applied to them. The distribution...
+> -- *[[DistributionAndNomenclatureOfN_19628]]*
+
+> This 1963 study, published in the *Proceedings of the Montana Academy of Sciences*, reports the age and growth of four fish species in [[Flathead Lake]], Montana. Fieldwork ran from summer 1961 through spring 1962 and was conducted by the [[Montana Fish and Game Department]]. The original plan was...
+> -- *[[AgeAndGrowthOfFourSpeciesOfFis_16726]]*
+
+> This 1994 study in the *North American Journal of Fisheries Management* uses population and bioenergetics simulations to evaluate how slot-length harvest limits affect the [[Lake Trout]] fishery in [[Flaming Gorge Reservoir]], Utah-Wyoming. Local managers had observed a 15% decline in the mean...
+> -- *[[SimulatedChangesInLakeTroutYie_16240]]*
+
+> This 1963 study by Howard E. Johnson, published in the *Proceedings of the Montana Academy of Sciences*, examines the [[Cutthroat Trout]] (*Salmo clarki*) in the upper [[Flathead River]] drainage of northwestern Montana, one of the few remaining cutthroat fisheries in the state. Field work ran...
+> -- *[[ObservationsOnTheLifeHistoryAn_19756]]*
+
+> This 1962 study by Clifford W. Hill, Jr., published in the *Proceedings of the Montana Academy of Sciences*, documents the life histories of two abundant native cyprinids, [[Peamouth]] and [[Northern Squawfish]], in the [[Big Blackfoot River]] drainage of western Montana. Field work was carried out...
+> -- *[[ObservationsOnTheLifeHistories_20395]]*
+
+> This document combines two Montana studies. The first, a utilization study of the [[Mountain Whitefish]], aimed to increase angler use of a common but underused game and food fish by documenting its distribution, capture methods, palatability and preparation. The second reports changes in [[Bottom...
+> -- *[[UtilizationOfTheMountainWhitef_16884]]*
+
+> Smith and Stearley (*Fisheries*, Vol. 14, No. 1, January–February 1989) argue that two taxonomic changes are required for North American trouts. First, the [[Rainbow Trout]] and the [[Kamchatka Trout]] are the same species, so the oldest available name, *mykiss*, replaces *Salmo gairdneri*. Second,...
+> -- *[[TheClassificationAndScientific_21167]]*
+
+> This study uses a [[Bioenergetics Model]] to quantify the consumption dynamics of [[Lake Trout]] (*Salvelinus namaycush*) in [[Flaming Gorge Reservoir]], Utah-Wyoming, and tests whether lake trout predation drove recent shifts in the forage fish community. Kokanee (*Oncorhynchus nerka*) constituted...
+> -- *[[LakeTroutConsumptionAndRecentC_20920]]*
+
+> This study evaluates lake management options for [[Sockeye Salmon]] (*Oncorhynchus nerka*), an endangered Snake River stock whose historical nursery lakes lie in the Sawtooth Valley of central Idaho. The authors combined [[Limnology]] sampling, in situ experimentation, and simulation modeling to...
+> -- *[[SimulatedGrowthAndProductionOf_16241]]*
+
+> This four-year field study (1953–1956) by [[Lindsey]], [[Northcote]] and [[Hartman]] tested whether [[Rainbow Trout]] in [[Loon Lake]] return to the stream of their own origin (inlet or outlet) to spawn. Trout were trapped and marked as young and adults in both streams. Homing at first spawning was...
+> -- *[[HomingOfRainbowTroutToInletAnd_20342]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AdditionalObservationsConcerni_16872]]
@@ -4519,6 +6977,31 @@ Kokanee (*Oncorhynchus nerka*) is the landlocked form of sockeye salmon, a fresh
 - [[PartialChecklistOfFishesOfTheL_18573]]
 - [[BasicSurveyOfLakeMohave_14411]]
 - [[IllustratedManualOfMassachuset_15557]]
+- [[ResidualAndKokaneeSalmonInCult_16848]]
+- [[TheFrankensteinEffectImpactOfI_15451]]
+- [[VariationInGillrakerNumberInNo_19630]]
+- [[DistributionAndNomenclatureOfN_19628]]
+- [[AgeAndGrowthOfFourSpeciesOfFis_16726]]
+- [[SimulatedChangesInLakeTroutYie_16240]]
+- [[ObservationsOnTheLifeHistoryAn_19756]]
+- [[ObservationsOnTheLifeHistories_20395]]
+- [[UtilizationOfTheMountainWhitef_16884]]
+- [[TheClassificationAndScientific_21167]]
+- [[LakeTroutConsumptionAndRecentC_20920]]
+- [[SimulatedGrowthAndProductionOf_16241]]
+- [[HomingOfRainbowTroutToInletAnd_20342]]
+
+## Kokanee Reduction
+
+### Summary
+A management measure examined in this study in which resident kokanee, the landlocked form of sockeye, are reduced in number to free up food and rearing capacity for introduced sockeye juveniles. The authors found a one-year 50% cut in age-0 kokanee had only a small effect on sockeye growth alone, but combined with fertilization it could support about 210,000 additional juvenile sockeye in Redfish Lake while keeping growth near 1992-1994 levels.
+
+### Context
+> This study evaluates lake management options for [[Sockeye Salmon]] (*Oncorhynchus nerka*), an endangered Snake River stock whose historical nursery lakes lie in the Sawtooth Valley of central Idaho. The authors combined [[Limnology]] sampling, in situ experimentation, and simulation modeling to...
+> -- *[[SimulatedGrowthAndProductionOf_16241]]*
+
+### Mentioned In
+- [[SimulatedGrowthAndProductionOf_16241]]
 
 ## Kokanee Salmon
 <!-- fm: auto_enriched: true -->
@@ -4629,6 +7112,15 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 > This public information document describes the history, decline, and planned restoration of the [[Strawberry Reservoir]] trout fishery in [[Strawberry Valley]], Utah. Nongame fish, mainly [[Chubs]] and [[Suckers]], came to dominate the reservoir and its tributaries and displaced [[Cutthroat...
 > -- *[[TheReturnOfStrawberryOneOfUtah_13233]]*
 
+> This 1960 note in the *Progressive Fish-Culturist* by Dwight A. Webster and William Flick (Cornell University) reports the results of experimental plantings of [[Kokanee Salmon]] fry in two small New York lakes. In [[Black Pond]], the aim was to test kokanee as a forage fish for [[Landlocked...
+> -- *[[ResultsOfPlantingKokaneeSalmon_19661]]*
+
+> This 1967 popular article by [[Frank J Schwartz]] of the [[University of Maryland]] [[Chesapeake Biological Laboratory]], published in the [[Maryland Conservationist]], surveys the trout and salmon of Maryland. It reports one native trout, three introduced trout, and one native salmon. Historical...
+> -- *[[MarylandsTroutAndSalmon_11292]]*
+
+> This limnological study, published in [[Northwest Science]] (1995), assesses whether five high-elevation lakes in the [[Sawtooth Valley]] of Idaho can support rearing of juvenile [[Snake River Sockeye Salmon]], an population listed as endangered under the [[Endangered Species Act]] in 1991....
+> -- *[[LimnologyOfSawtoothValleyLakes_13884]]*
+
 ### Mentioned In
 - [[ACreelCensusOfLakesInDistrict_1959_01_15]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -4669,6 +7161,21 @@ Kokanee salmon (*Oncorhynchus nerka*) are landlocked sockeye salmon that have be
 - [[PreimpoundmentStudyOfTheFlamin_17734]]
 - [[FinalReporttheEndangeredFishOf_13607]]
 - [[TheReturnOfStrawberryOneOfUtah_13233]]
+- [[ResultsOfPlantingKokaneeSalmon_19661]]
+- [[MarylandsTroutAndSalmon_11292]]
+- [[LimnologyOfSawtoothValleyLakes_13884]]
+
+## Kokopelle
+
+### Summary
+Kokopelle is a humpbacked flute-playing figure from Southwestern rock art. In this source it is used as an image representing the book's conclusion that accommodation to the environment is preferable to attempts at complete control of the river system.
+
+### Context
+> This is a 1985 monograph by geographer and fluvial geomorphologist William L. Graf, published by the [[Association of American Geographers]] as part of its Resource Publications in Geography series. It argues that the Colorado River Basin is an unstable, arid-region human-environmental system, and...
+> -- *[[TheColoradoRiverInstabilityAnd_19189]]*
+
+### Mentioned In
+- [[TheColoradoRiverInstabilityAnd_19189]]
 
 ## Kolkwitz
 
@@ -4682,11 +7189,35 @@ Kolkwitz was co-author of a classical 1908 work on the biological aspects of wat
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Kolkwitz and Marsson
+
+### Summary
+Kolkwitz and Marsson developed the saprobien system, the earliest biological method for assessing river pollution. It defined polysaprobic, mesosaprobic and oligosaprobic zones, each characterised by indicator organisms. The source presents their approach as the starting point of biological assessment of organic pollution.
+
+### Context
+> This review by [[E. J. C. Curtis]] and [[D. W. Harrington]] (Water Pollution Research Laboratory, WPRL) examines how organic effluents alter the biological community of rivers, the substances and conditions that drive that change, and methods for controlling it. Organic pollution lowers [[Dissolved...
+> -- *[[EffectsOfOrganicWastesOnRivers_18109]]*
+
+### Mentioned In
+- [[EffectsOfOrganicWastesOnRivers_18109]]
+
 ## Kolkwitz And Marsson Saprobic System
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
+
+## Kolmer's Fluid
+
+### Summary
+Kolmer's fluid is a fixative used in histology to preserve tissue for microscopic study. In this source, fish eyes were fixed in it after light or dark adaptation.
+
+### Context
+> This 1950 histological study by [[Geo. A. Moore]], [[Harold R. Pollock]] and [[Donna Lima]] at the [[Oklahoma Agricultural and Mechanical College]] describes the photoreceptors of the [[Silverjaw Minnow]] (*[[Ericymba Buccata]]*), a small Ohio stream fish. The authors report that the retina...
+> -- *[[TheVisualCellsOfEricymbaBuccat_16572]]*
+
+### Mentioned In
+- [[TheVisualCellsOfEricymbaBuccat_16572]]
 
 ## Kolmogorov-Smirnov Test
 
@@ -4706,12 +7237,36 @@ Kolkwitz was co-author of a classical 1908 work on the biological aspects of wat
 > This undated draft research proposal, written for the U.S. Fish and Wildlife Service and Bureau of Reclamation context, plans to quantify how [[Humpback Chub]] (*Gila cypha*) use habitat in the [[Little Colorado River]] (LCR) and in several tributaries of the [[Colorado River]] in the [[Grand...
 > -- *[[DraftProposalHabitatUseByHumpb_20264]]*
 
+> This Contributions in Science monograph (No. 257, Natural History Museum of Los Angeles County, May 22, 1974) by [[Michael A. Bell]] compares pelvic girdle variation in a Recent population of [[Threespine Stickleback]] from [[Paxton Lake]], [[Texada Island]], British Columbia, with a fossil...
+> -- *[[ReductionAndLossOfThePelvicGir_18145]]*
+
+> This study by [[William F. Fagan]] and [[Peter M. Kareiva]] (University of Washington) tests two statistical methods for correcting [[Sampling Effort]] bias in species lists compiled from museum and conservation databases. The test database is a set of about 11,994 [[Butterfly]] records from...
+> -- *[[UsingCompiledSpeciesListsToMak_16298]]*
+
+> This study by [[Hellmut Grimm]] (Zoological Institute and Zoological Museum, University of Hamburg, 1979) examines the egg size (yolk diameter) of seven populations of the egg-laying toothcarp [[Aphanius Anatoliae]] in south-western Anatolia. The species varies in scale cover and body shape among...
+> -- *[[UntersuchungenZurEvolutionUnte_17795]]*
+
 ### Mentioned In
 - [[IntegrationAndEvaluationOfGlen_13851]]
 - [[HabitatSuitabilityIndexCurvesF_13603]]
 - [[HabitatUseAndPreferenceOfGilaT_18784]]
 - [[MovementsAndHabitatUtilization_15939]]
 - [[DraftProposalHabitatUseByHumpb_20264]]
+- [[ReductionAndLossOfThePelvicGir_18145]]
+- [[UsingCompiledSpeciesListsToMak_16298]]
+- [[UntersuchungenZurEvolutionUnte_17795]]
+
+## Kolmogorov–Smirnov Test
+
+### Summary
+A statistical test for comparing two distributions. The authors used it to compare length-frequency distributions of the young fish across the sampling dates and species.
+
+### Context
+> This study compares first-summer growth in nine coexisting freshwater fish species in [[Lake Opinicon]], a 2200-ha eutrophic lake in Leeds County, Ontario, sampled in 1977. The species differ in adult size, age at first breeding, egg size, spawning date and spawning duration. Growth patterns were...
+> -- *[[GrowthInTheFirstSummerOfLifeAC_17908]]*
+
+### Mentioned In
+- [[GrowthInTheFirstSummerOfLifeAC_17908]]
 
 ## Kolmos et al. 2013
 
@@ -4746,8 +7301,29 @@ A German physicist who co-invented the proposed electric sea-fishing system with
 ## Konrad Lorenz
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This reprinted essay by [[Niko Tinbergen]] (December 1952) summarizes two decades of experimental work on the three-spined stickleback (*Gasterosteus aculeatus*) as a model for [[Innate Behavior]]. The author chose the fish for a University of Leiden animal behavior course because it was abundant,...
+> -- *[[TheCuriousBehaviorOfTheStickle_13352]]*
+
+> This 1971 taxonomic paper by [[Paul V. Loiselle]] and [[Roger L. Welcomme]] describes two new cyprinid species, *Barbus (Enteromius) sylvaticus* and *Barbus lorenzi*, from the [[Iguidi River]], a small permanent forest stream in extreme southeastern Dahomey (now Benin). Both were collected during a...
+> -- *[[TwoNewSpeciesOfBarbusPiscesCyp_16192]]*
+
 ### Mentioned In
 - [[CatecholAminesAndSocialRelatio_1968]]
+- [[TheCuriousBehaviorOfTheStickle_13352]]
+- [[TwoNewSpeciesOfBarbusPiscesCyp_16192]]
+
+## Konza Prairie
+
+### Summary
+A tallgrass prairie site in Kansas used in this source as a case for water budgeting. The source reports an annual input of 820 mm, with about 180 mm lost to groundwater, 450 mm to evapotranspiration and 190 mm to streamflow.
+
+### Context
+> This review, written by [[William J. Matthews]] (University of Oklahoma Biological Station), synthesizes the state of knowledge on North American [[Prairie Streams]] and argues that they are under-studied yet valuable systems for stream ecology. Prairie streams are shaped by unstable, often...
+> -- *[[NorthAmericanPrairieStreamsAsS_15184]]*
+
+### Mentioned In
+- [[NorthAmericanPrairieStreamsAsS_15184]]
 
 ## Koo
 
@@ -4760,6 +7336,18 @@ Koo (1955) is cited for the use of scales to study red salmon (sockeye) in Brist
 
 ### Mentioned In
 - [[ABibliographyOfSomeAgeAndGrowt_18720]]
+
+## Koopman Theory Of Search
+
+### Summary
+Koopman's theory of search is a mathematical framework from operations research for estimating the chances of finding a target during a search. In this source it appears only as the basis of Olson's (1964) model of prey-predator encounters, which Breder reviews. The paper does not apply the search equations to real fish data.
+
+### Context
+> This is a theoretical and synthetic review by C. M. Breder Jr. (1967), published in *Zoologica* (New York Zoological Society), on whether fish schools have survival value. Breder argues that fish groupings are not a single kind of structure and that no one formulation can explain them all. He...
+> -- *[[OnTheSurvivalValueOfFishSchool_12922]]*
+
+### Mentioned In
+- [[OnTheSurvivalValueOfFishSchool_12922]]
 
 ## Kooskia National Fish Hatchery
 <!-- fm: auto_enriched: true -->
@@ -4831,9 +7419,65 @@ Koo (1955) is cited for the use of scales to study red salmon (sockeye) in Brist
 > - **First California introduction**: 1941, 67,000 fingerlings (Idaho egg source) planted in [[Salt Springs Reservoir]], Amador County, North Fork Mokelumne River; successful, with egg-take achieved by 1943 from 3-year-old maturing fish. - **Early expansion (1944–1945)**: Stocked into [[Donner Lak...
 > -- *[[AReviewOfKokaneeInCalifornia_1963]]*
 
+> This 1957 study by E. H. Vernon, published in the *Journal of the Fisheries Research Board of Canada*, examines whether non-anadromous kokanee spawning in [[Kootenay Lake]] form a single homogeneous population or discrete races. Mature fish were sampled from seven tributary streams in 1951 and from...
+> -- *[[MorphometricComparisonOfThreeR_13124]]*
+
+> This 1968 study by Joseph S. Nelson (University of British Columbia, published in the *Journal of the Fisheries Research Board of Canada*, 25(2): 415–420) compares gillraker counts among freshwater [[Kokanee]] populations and their anadromous progenitor, the [[Sockeye Salmon]]. Gillrakers were...
+> -- *[[VariationInGillrakerNumberInNo_19630]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[UpperColoradoFishRecoveryPlanI_20990]]
+- [[MorphometricComparisonOfThreeR_13124]]
+- [[VariationInGillrakerNumberInNo_19630]]
+
+## Kootenay Region
+
+### Summary
+A region of interior British Columbia (and adjacent areas) from which the study sampled 30 bull trout specimens as one of the two allopatric reference groups. The source uses it as a collection site for the bull trout morphological sample.
+
+### Context
+> Haas and McPhail (1991) test whether North American [[Dolly Varden]] (*Salvelinus malma*) and [[Bull Trout]] (*Salvelinus confluentus*), long grouped within the Arctic char complex, are two distinct species. Using multivariate morphometric and meristic data from 1,580 museum and field specimens...
+> -- *[[SystematicsAndDistributionsOfD_20949]]*
+
+### Mentioned In
+- [[SystematicsAndDistributionsOfD_20949]]
+
+## Kootenay River
+
+### Summary
+The Kootenay River is a river whose natural falls isolate Kootenay Lake from anadromous salmon stocks. Its inflow to the South End of the lake is warmer and more mineral-rich, which the source links to local differences in the kokanee population.
+
+### Context
+> This 1957 study by E. H. Vernon, published in the *Journal of the Fisheries Research Board of Canada*, examines whether non-anadromous kokanee spawning in [[Kootenay Lake]] form a single homogeneous population or discrete races. Mature fish were sampled from seven tributary streams in 1951 and from...
+> -- *[[MorphometricComparisonOfThreeR_13124]]*
+
+### Mentioned In
+- [[MorphometricComparisonOfThreeR_13124]]
+
+## Kopec
+
+### Summary
+Kopec (1949) is cited as an early study of the early life history of the White River springfish. The paper lists it among the pre-existing research on the species.
+
+### Context
+> This study examines [[Crenichthys Baileyi]], a springfish endemic to a chain of isolated warm springs in the pluvial [[White River]] system of southeastern Nevada. Drying of the pluvial river and the species' obligate spring existence have isolated populations, and differing spring temperature and...
+> -- *[[TaxonomicStatusAndMorphologyOf_12034]]*
+
+### Mentioned In
+- [[TaxonomicStatusAndMorphologyOf_12034]]
+
+## Kopsch
+
+### Summary
+Kopsch was an embryologist whose 1898 and 1904 work on trout argued against concrescence. He showed that the axis forms from material in the germ region rather than from fusing germ-ring margins.
+
+### Context
+> This 1928 experimental embryology paper by [[Leigh Hoadley]] tests when the teleost blastoderm of *[[Fundulus Heteroclitus]]* becomes committed to forming specific embryonic parts. Using glass-needle puncture and cell removal (a [[Defect Experiments]] approach), Hoadley removed single or multiple...
+> -- *[[OnTheLocalizationOfDevelopment_20411]]*
+
+### Mentioned In
+- [[OnTheLocalizationOfDevelopment_20411]]
 
 ## Korean Flounder
 
@@ -4847,6 +7491,30 @@ The Korean flounder, Glyptocephalus stelleri, is a deep-water pleuronectid flatf
 ### Mentioned In
 - [[DropletsFromTheSadoMarineBiolo_19899]]
 
+## Kornfield
+
+### Summary
+Kornfield, working with Taylor in 1983, is cited in the source for describing the cichlid Cichlasoma minckleyi as a polymorphic species. The source lists this as one of the foundational entries on the basin's endemic fishes.
+
+### Context
+> This is a bibliography (Minckley, 1993, *Proceedings of the Desert Fishes Council*, Vol. XXV) of natural history literature for the [[Cuatro Ciénegas Basin]] and surrounding areas of Coahuila, Mexico. The compiler states that the list was prepared to support conservation of the basin and to...
+> -- *[[ABibliographyForNaturalHistory_13811]]*
+
+### Mentioned In
+- [[ABibliographyForNaturalHistory_13811]]
+
+## Kornfield And Taylor 1983
+
+### Summary
+Cited in the chapter, alongside Kornfield et al. (1982), as support for recognizing Cichlasoma minckleyi as a distinctly polymorphic species rather than separate species, as earlier workers had described the two morphs. The source does not detail its specific findings beyond this.
+
+### Context
+> This book chapter (Liem and Kaufman) examines [[Cichlasoma Minckleyi]], a freshwater cichlid whose two trophic morphs, the papilliform and the molariform, differ in pharyngeal jaw structure, head width, gut length and branchial musculature to an extent that exceeds that seen among many sympatric...
+> -- *[[IntraspecificMacroevolutionFun_20324]]*
+
+### Mentioned In
+- [[IntraspecificMacroevolutionFun_20324]]
+
 ## Kornfield Et Al 1982
 
 ### Summary
@@ -4856,8 +7524,12 @@ Kornfield et al. (1982) provided direct behavioural evidence that the morphs of 
 > This 1983 paper in the *Proceedings of the Biological Society of Washington* (96(2), pp. 253-269) by Irv Kornfield and Jeffrey N. Taylor describes [[Cichlasoma Minckleyi]], a new species of polymorphic cichlid endemic to the [[Cuatro Ciénegas Basin]] in Coahuila, Mexico. The species combines two...
 > -- *[[ANewSpeciesOfPolymorphicFishCi_12628]]*
 
+> This book chapter (Liem and Kaufman) examines [[Cichlasoma Minckleyi]], a freshwater cichlid whose two trophic morphs, the papilliform and the molariform, differ in pharyngeal jaw structure, head width, gut length and branchial musculature to an extent that exceeds that seen among many sympatric...
+> -- *[[IntraspecificMacroevolutionFun_20324]]*
+
 ### Mentioned In
 - [[ANewSpeciesOfPolymorphicFishCi_12628]]
+- [[IntraspecificMacroevolutionFun_20324]]
 
 ## Korsakova
 
@@ -4915,6 +7587,18 @@ Kortes Reservoir is a small reservoir confined to a narrow, steep canyon on the 
 ### Mentioned In
 - [[PotentialUseOfHydroelectricFac_11245]]
 
+## Koshinsky 1965
+
+### Summary
+An earlier work cited in the authors' review of research linking fish production in lakes to morphometry and water chemistry. The authors judged its relations insufficient to predict production in individual lakes with confidence.
+
+### Context
+> This 1968 study, published in the [[Journal of the Arizona Academy of Science]], examines what controls productivity in seven small fishing impoundments in eastern Arizona. The authors (Kemmerer, Glucksman, Stewart, and McConnell) of the [[Arizona Cooperative Fishery Unit]] measured gross primary...
+> -- *[[SomeProductivityRelationsInSev_17934]]*
+
+### Mentioned In
+- [[SomeProductivityRelationsInSev_17934]]
+
 ## Kosi Estuary
 <!-- fm: auto_enriched: true -->
 
@@ -4922,9 +7606,13 @@ Kortes Reservoir is a small reservoir confined to a narrow, steep canyon on the 
 > 1. **Distribution pattern (Table 1):** Across 16 system records spanning Mozambique to the Cape, *S. mossambicus* is "common" or "present" in all sampled closed estuaries and coastal lakes (e.g., [[Lake Poelela]], [[Lake Nhlange]], [[Mgobozeleni]], [[St. Lucia]], [[Sinkwazi]], [[Mpenjati]], [[Kle...
 > -- *[[TheDistributionOfTheFreshwater_1979]]*
 
+> This study documents scale-eating (lepidophagy) in [[Terapon Jarbua]], a marine teleost up to 25 cm long that is common in the estuaries of the tropical and subtropical Indian Ocean. Fish scales removed from living fish were the most important food item, and the authors state that this niche had...
+> -- *[[ScaleeatingHabitsOfTheMarineTe_12239]]*
+
 ### Mentioned In
 - [[TheDistributionOfTheFreshwater_1979]]
 - [[TheSheddingOfGillRakerFilament_1975]]
+- [[ScaleeatingHabitsOfTheMarineTe_12239]]
 
 ## Kosi Reed Channel
 <!-- fm: auto_enriched: true -->
@@ -4948,9 +7636,25 @@ The Kosi System is an estuarine system in northern Natal, South Africa (26°54'S
 > This paper by D.P. Cyrus and S.J.M. Blaber (University of Natal, Pietermaritzburg; published in *The Lammergeyer* 32, January 1984) describes the food, feeding periodicity and seasonal diet of five [[Gerres]] species of the family [[Gerreidae]] in the [[Kosi System]]. The authors characterise the...
 > -- *[[TheFeedingEcologyOfGerreidaeTe_18128]]*
 
+> This excerpt compiles three South African research notes from the 1983 *South African Journal of Zoology* and *Suid-Afrikaanse Tydskrif vir Dierkunde*. The first is a fragment (title and opening missing) on the diet of a mongoose, based on scat analysis. The second, by D.P. Cyrus and S.J.M. Blaber,...
+> -- *[[DietOfGerresFryInTheKosiSystem_18125]]*
+
+> This document combines two papers from the *South African Journal of Zoology* (1982, vol. 17). The first, by D.P. Cyrus and S.J.M. Blaber of the University of Natal, examines how five [[Gerres]] species from Natal estuaries capture benthic prey using a [[Protrusible Jaw Mechanism]]. The second, by...
+> -- *[[MouthpartStructureAndFunctionA_18124]]*
+
+> This study examines the occurrence, biology and feeding ecology of [[Carangidae]] (jacks and trevallies) in [[Natal Estuaries]], South Africa, based on a two-year survey of seven estuaries. Of 17 carangid species recorded in estuaries (from at least 40 species in Natal waters), six were...
+> -- *[[TheBiologyOfCarangidaeTeleoste_17665]]*
+
+> This 1983 study by [[D. P. Cyrus]] and [[S. J. M. Blaber]] (University of Natal) examines the diet, prey selection and resource partitioning of five *Gerres* species (Gerreidae) in the estuaries of Natal, South Africa, sampled from 1978 to 1980. The main study area was the [[Kosi System]], an...
+> -- *[[TheFoodAndFeedingEcologyOfGerr_18126]]*
+
 ### Mentioned In
 - [[PredationAndSourcesOfMortality_18127]]
 - [[TheFeedingEcologyOfGerreidaeTe_18128]]
+- [[DietOfGerresFryInTheKosiSystem_18125]]
+- [[MouthpartStructureAndFunctionA_18124]]
+- [[TheBiologyOfCarangidaeTeleoste_17665]]
+- [[TheFoodAndFeedingEcologyOfGerr_18126]]
 
 ## Koski
 
@@ -4964,6 +7668,70 @@ Koski (1974) is an author cited in the source who proposed that anthropogenic en
 ### Mentioned In
 - [[DropletsFromTheSadoMarineBiolo_19899]]
 
+## Kosswig
+
+### Summary
+Author (1953, 1956) cited as an earlier investigator of scale-reduction phenomena in Anatolian toothcarps. Villwock builds on his work in this paper.
+
+### Context
+> This 1963 paper by [[Wolfgang Villwock]] (Zoologisches Staatsinstitut und Museum Hamburg) reports testcross experiments on the scalation ("Beschuppung") of Anatolian toothcarps. Reduced scalation occurs in several endemic Anatolian [[Cyprinodontidae]] populations, and the author asks whether...
+> -- *[[GenetischeAnalyseDesMerkmalsBe_13135]]*
+
+> This 1963 symposium paper by [[Curt Kosswig]] (Zoological State Institute and Zoological Museum Hamburg) argues that genetic experimentation, particularly crossing experiments combined with biostatistics and cytology, complements the historical, comparative approach of phenomenal phylogenetics in...
+> -- *[[EvolutionsphanomeneBeiKnochenf_12392]]*
+
+> This 1979 study by H. Grimm (Zoologisches Institut und Zoologisches Museum, Universität Hamburg), published in [[Meeresforschung]] (Reports on Marine Research), compares egg size (measured as yolk volume) and fecundity across seven [[Aphanius]] species, with a focus on nine populations of...
+> -- *[[EigrobeUndEizahlInDerZahnkarpf_17796]]*
+
+> This book chapter by W. Villwock examines how small (micro-) populations of fish influence morphological differentiation and [[Speciation]]. It argues that small populations can produce striking local differences, but that microgeographic separation alone does not guarantee true speciation. The...
+> -- *[[OnMicropopulationsInFishAndThe_13138]]*
+
+> This study by [[Hellmut Grimm]] (Zoological Institute and Zoological Museum, University of Hamburg, 1979) examines the egg size (yolk diameter) of seven populations of the egg-laying toothcarp [[Aphanius Anatoliae]] in south-western Anatolia. The species varies in scale cover and body shape among...
+> -- *[[UntersuchungenZurEvolutionUnte_17795]]*
+
+> This 1980 study by [[Heinz Grimm]] tests whether scale reduction in Anatolian killifish of the genus [[Aphanius]] is linked to physiological tolerance of sulphate-rich water. The author applies a hypothesis from [[Axelray and Villwock]] (1962), which proposed that scale reduction results from...
+> -- *[[InvestigationsOnTheProblemOfSc_17771]]*
+
+> This 1965 study by Nicolaus Peters and Gabriele Peters (Zoologisches Staatsinstitut, Hamburg) describes the progressive degeneration of the eyes in [[Typhlogarra Widdowsoni]], a blind, depigmented cave cyprinid from limestone caves near Haditha, Iraq. Using histological sections of juvenile and...
+> -- *[[DieDegenerationDerAugenVonTyph_11193]]*
+
+> This German-language study by [[Horst Wilkens]] (1970), published in the *Zeitschrift für zoologische Systematik und Evolutionsforschung*, examines how melanophore number and melanin content are reduced in two cave populations of [[Astyanax Mexicanus]] (Characidae) relative to their...
+> -- *[[BeitrgeZurDegenerationDesMelan_11978]]*
+
+> This genetics study by [[Claus Dieter Zander]] examines how pigment-pattern genes of [[Xiphophorus]] livebearers change their expression when moved into other species or subspecies through hybridization. Zander crossed nine recognized Xiphophorus taxa, producing nearly all 72 possible hybrid...
+> -- *[[UberDieEntstehungUndVeranderun_20927]]*
+
+> This 1948 paper by [[Myron Gordon]], published in the Special Publications of the New York Academy of Sciences (Vol. IV, pp. 216-268), reports genetic experiments on melanoma formation in hybrids between the [[Mexican Platyfish]] (*Platypoecilus maculatus*) and the [[Swordtail]] (*Xiphophorus...
+> -- *[[EffectsOfFivePrimaryGenesOnThe_11038]]*
+
+> This German-language doctoral study by Horst Wilkens (Zoologisches Staatsinstitut und Museum Hamburg, published 1970) investigates eye degeneration in Mexican cave fishes of the [[Astyanax Mexicanus]] complex. Crosses between the sighted surface form and two blind, depigmented cave forms (Pachon...
+> -- *[[BeitrageZurDegenerationDesAuge_11977]]*
+
+### Mentioned In
+- [[GenetischeAnalyseDesMerkmalsBe_13135]]
+- [[EvolutionsphanomeneBeiKnochenf_12392]]
+- [[EigrobeUndEizahlInDerZahnkarpf_17796]]
+- [[OnMicropopulationsInFishAndThe_13138]]
+- [[UntersuchungenZurEvolutionUnte_17795]]
+- [[InvestigationsOnTheProblemOfSc_17771]]
+- [[DieDegenerationDerAugenVonTyph_11193]]
+- [[BeitrgeZurDegenerationDesMelan_11978]]
+- [[UberDieEntstehungUndVeranderun_20927]]
+- [[EffectsOfFivePrimaryGenesOnThe_11038]]
+- [[BeitrageZurDegenerationDesAuge_11977]]
+
+## Kosswig Hypothesis
+
+### Summary
+Kosswig's proposal that homogamy (assortative mating) divides each cichlid species into many small genetic units sharing mating genes, so that apparent species are sets of smaller real species. Villwock regards many aspects as highly probable but does not consider the hypothesis proven, since marked-individual studies are still lacking.
+
+### Context
+> This book chapter by W. Villwock examines how small (micro-) populations of fish influence morphological differentiation and [[Speciation]]. It argues that small populations can produce striking local differences, but that microgeographic separation alone does not guarantee true speciation. The...
+> -- *[[OnMicropopulationsInFishAndThe_13138]]*
+
+### Mentioned In
+- [[OnMicropopulationsInFishAndThe_13138]]
+
 ## Kosswigichthys
 
 ### Summary
@@ -4973,8 +7741,44 @@ An aphanid fish from Group II that, unlike most of its relatives, has unicuspid 
 > This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
 > -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
 
+> This 1963 paper by [[Curt Kosswig]] uses cross-breeding experiments to examine the genetic basis of two opposing evolutionary processes. The first is **degenerative evolution**, the loss of eyes and body pigment in cave-dwelling fish, studied in the [[Cavernicolous Fish]] *Anoptichthys* and its...
+> -- *[[GenetischeAnalyseKonstructiver_12391]]*
+
+> This 1972 monograph by Ruth Franz and Wolfgang Villwock (University of Hamburg) reports the first ontogenetic and histological study of tooth development in [[Aphanius]]-like toothcarps (tribe Aphaniini, family [[Cyprinodontidae]]). Most Aphaniini bear tricuspid teeth in a single row on each jaw....
+> -- *[[BeitragZurKenntnisDerZahnentwi_18825]]*
+
 ### Mentioned In
 - [[OsteologyAndPhylogenyOfOviparo_11369]]
+- [[GenetischeAnalyseKonstructiver_12391]]
+- [[BeitragZurKenntnisDerZahnentwi_18825]]
+
+## Kosswigichthys Asquamatus
+
+### Summary
+A strongly scale-reduced Anatolian toothcarp (Sözer 1942) used here as a constant testcross parent, assumed to be largely homozygous for reduced scalation. Crossing it with 25 Aphanius populations let Villwock attribute differences among hybrids to the other parent's genotype.
+
+### Context
+> This 1963 paper by [[Wolfgang Villwock]] (Zoologisches Staatsinstitut und Museum Hamburg) reports testcross experiments on the scalation ("Beschuppung") of Anatolian toothcarps. Reduced scalation occurs in several endemic Anatolian [[Cyprinodontidae]] populations, and the author asks whether...
+> -- *[[GenetischeAnalyseDesMerkmalsBe_13135]]*
+
+> This study by [[Hellmut Grimm]] (Zoological Institute and Zoological Museum, University of Hamburg, 1979) examines the egg size (yolk diameter) of seven populations of the egg-laying toothcarp [[Aphanius Anatoliae]] in south-western Anatolia. The species varies in scale cover and body shape among...
+> -- *[[UntersuchungenZurEvolutionUnte_17795]]*
+
+### Mentioned In
+- [[GenetischeAnalyseDesMerkmalsBe_13135]]
+- [[UntersuchungenZurEvolutionUnte_17795]]
+
+## Koster
+
+### Summary
+Cited as an earlier author (1937) who published work on sculpin food habits and spawning. This study builds on that prior work, extending it to a Utah population.
+
+### Context
+> This study examines the life history of the [[Utah Sculpin]] (*[[Cottus Bairdi Semiscaber]]*) in the [[Logan River]], Utah, based on 801 specimens collected from 1949 to March 1951. The work aimed to clarify the sculpin's relationship to [[Game Fish]] and to supplement existing knowledge of the...
+> -- *[[LifeHistoryOfTheUtahSculpinCot_20928]]*
+
+### Mentioned In
+- [[LifeHistoryOfTheUtahSculpinCot_20928]]
 
 ## Koster (1957)
 
@@ -5015,6 +7819,30 @@ Koster's 1957 work is cited by Miller as documenting the introduction of the Whi
 - [[LetterToBureauOfReclamationReg_1987_01_31]]
 - [[VertebrateChecklistForArizonaA_18465]]
 
+## Kottelat
+
+### Summary
+A fish taxonomist whose 1984 work provides the counting and measurement methods used in this paper. The source does not describe his own research findings.
+
+### Context
+> This taxonomic paper by [[Zhou Wei]] and [[Cui Gui-Hua]] (*Ichthyological Exploration of Freshwaters*, 1997) reviews [[Triplophysa]] loaches of the [[Yuanjiang River]] (upper [[Red River]]) basin in Yunnan and formally describes *Triplophysa laticeps* as a new species. Two species had previously...
+> -- *[[FishesOfTheGenusTriplophysaCyp_12406]]*
+
+### Mentioned In
+- [[FishesOfTheGenusTriplophysaCyp_12406]]
+
+## Kotzebue Sound
+
+### Summary
+Kotzebue Sound is a body of water on the Bering Sea margin of northwestern Alaska. Its shores have sea bluffs exposing Pleistocene and Recent sediments that this study describes. The source uses these bluffs to build a stratigraphic sequence of marine transgressions, glaciations, and warm periods.
+
+### Context
+> This 1965 study by [[David S. McCulloch]], [[Dwight W. Taylor]], and [[Meyer Rubin]] establishes a stratigraphic framework for Pleistocene and Recent sediments exposed in sea bluffs along the shores of [[Kotzebue Sound]], northwestern Alaska. Fossil non-marine mollusks from these deposits are...
+> -- *[[StratigraphyNonmarineMollusksA_12294]]*
+
+### Mentioned In
+- [[StratigraphyNonmarineMollusksA_12294]]
+
 ## Kowie River
 <!-- fm: auto_enriched: true -->
 
@@ -5046,8 +7874,52 @@ A stream in the upper Blue River drainage where Apache trout are known to occur,
 > A June–July 1998 fisheries survey by [[Arizona State University]] sampled about 50 named localities across the upper [[Blue River]] drainage in Arizona and New Mexico. The survey recorded 10 fish taxa: six native and four non-native. Native species were [[Apache Trout]], [[Longfin Dace]],...
 > -- *[[UpperBlueRiverAndTributariesFi_17219]]*
 
+> This study used 10 diagnostic [[Isozyme Electrophoresis|isozyme]] loci to measure hybridization between [[Apache Trout]] (*Oncorhynchus apache*), [[Rainbow Trout]] (*O. mykiss*) and [[Cutthroat Trout]] (*O. clarki*) across the species' historical range in Arizona. The authors analysed 645 fish from...
+> -- *[[IntrogressionAmongApacheCutthr_17429]]*
+
 ### Mentioned In
 - [[UpperBlueRiverAndTributariesFi_17219]]
+- [[IntrogressionAmongApacheCutthr_17429]]
+
+## KR Wash
+
+### Summary
+KR Wash is a 0.65 ha ephemeral desert wash and watershed near Kings Ranch in Pinal County, Arizona, at about 616 m elevation. It served as the study site for measuring rainfall, runoff and material budgets during three cloudburst storms in 1982. The source reports that it drains a bajada of the Superstition Mountains and is lower Sonoran desertscrub.
+
+### Context
+> This study by [[Fisher]] and [[Grimm]] quantifies hydrologic and material budgets for [[KR Wash]], a 0.65 ha [[Sonoran Desert]] watershed in central Arizona, during three cloudburst storms on 22, 23 and 24 August 1982. Nitrogen and phosphorus were abundant in precipitation, but 75–90 per cent of...
+> -- *[[HydrologicAndMaterialBudgetsFo_16423]]*
+
+### Mentioned In
+- [[HydrologicAndMaterialBudgetsFo_16423]]
+
+## Kraepelin
+
+### Summary
+Karl Kraepelin, the early twentieth-century arachnologist who described Syntropis macrura in 1900. That description was the only one for the genus before Williams named S. longiunguis.
+
+### Context
+> This 1969 paper, by [[Stanley C. Williams]] of San Francisco State College, formally describes *Syntropis longiunguis*, a new scorpion species from the sand dunes of Baja California Sur, Mexico. The genus was previously known only from its type specimen, *[[Syntropis Macrura]]*, described by...
+> -- *[[ANewSpeciesOfSyntropisFromBaja_12051]]*
+
+> Stahnke (1968), published in the Proceedings of the [[California Academy of Sciences]], describes diplocentrid scorpions from Baja California del Sur, Mexico, a group not previously reported from the peninsula. The paper describes one new species of [[Didymocentrus]] (*D. caboensis*), one new genus...
+> -- *[[SomeDiplocentridScorpionsFromB_14706]]*
+
+### Mentioned In
+- [[ANewSpeciesOfSyntropisFromBaja_12051]]
+- [[SomeDiplocentridScorpionsFromB_14706]]
+
+## Kraft Process
+
+### Summary
+A chemical pulping method for making paper pulp. The source states that the Waldorf mill used it to produce about 200 tons of baled cardboard pulp per day.
+
+### Context
+> This document combines two Montana studies. The first, a utilization study of the [[Mountain Whitefish]], aimed to increase angler use of a common but underused game and food fish by documenting its distribution, capture methods, palatability and preparation. The second reports changes in [[Bottom...
+> -- *[[UtilizationOfTheMountainWhitef_16884]]*
+
+### Mentioned In
+- [[UtilizationOfTheMountainWhitef_16884]]
 
 ## Kramer and Smith
 
@@ -5057,6 +7929,78 @@ A stream in the upper Blue River drainage where Apache trout are known to occur,
 
 ### Mentioned In
 - [[ObservationsOnTheFoodOfFingler_12249]]
+
+## Kramer Hills
+
+### Summary
+A area of the Mojave Desert whose rocks, according to the source, rotated about 80° counter-clockwise before 21 Ma and then about 45° clockwise between roughly 21 and 18 Ma. These rotations are used as evidence for the complex block rotations that accommodated shear in the Trans Mojave-Sierran Shear Zone.
+
+### Context
+> This paper (Dokka, Ross & Lu, 1998) examines the [[Trans Mojave-Sierran Shear Zone]] (TMSSZ), a broad east-west dextral shear zone active between 21 and 18 Ma. The authors argue that the TMSSZ was the kinematic link between the [[Pacific-North American Plate Boundary]] and inland extensional...
+> -- *[[TheTransMojavesierranShearZone_19053]]*
+
+### Mentioned In
+- [[TheTransMojavesierranShearZone_19053]]
+
+## Kramer Multiple Comparison Method
+
+### Summary
+The Kramer Multiple Comparison Method, applied here as the SNK procedure for unequal sample sizes, was used by Fleet and Dixon to compare means of scale and blotch counts among samples. Significance was set at P < .05. The method was the statistical tool for testing differences between geographic groups in the study.
+
+### Context
+> This 1971 study by [[Fleet and Dixon]] (*Herpetologica* 27:295–302) examines geographic variation in the long-tailed group of the [[Glossy Snake]] (*Arizona elegans*). The authors analyze ventral scale counts, caudal scale counts, and dorsal body blotch counts across four north-south geographic...
+> -- *[[GeographicVariationWithinTheLo_16460]]*
+
+### Mentioned In
+- [[GeographicVariationWithinTheLo_16460]]
+
+## Kramer Multiple Range Test
+
+### Summary
+This is a statistical multiple-comparison procedure used to determine which treatment means differ from one another after an analysis of variance. The author applied it to the blood lactic acid treatment means following the factorial analysis.
+
+### Context
+> This experimental study measured [[Blood Lactic Acid]] concentrations in mature [[Common Carp]] (*Cyprinus carpio*) before and for 16 hours after 15 minutes of [[Forced Exercise]], in two seasons: February-March 1961 (1°C) and July 1961 (24°C). In winter, mean blood lactic acid roughly doubled,...
+> -- *[[BloodLacticAcidConcentrationsO_17322]]*
+
+### Mentioned In
+- [[BloodLacticAcidConcentrationsO_17322]]
+
+## Krannich et al.
+
+### Summary
+Krannich et al. (1995) surveyed residents of the Grand Valley in western Colorado and the San Joaquin Valley in California about drought likelihood, financial vulnerability and acceptable responses. Their social survey is one of the study's social components described in the source.
+
+### Context
+> This introduction to a Water Resources Bulletin special issue (Vol. 31, No. 5, October 1995) by [[Robert A. Young]] presents the second phase of an interdisciplinary study of a potential [[Severe Sustained Drought]] (SSD) in the [[Colorado River]] Basin. The study asks three questions: what...
+> -- *[[CopingWithASevereSustainedDrou_20911]]*
+
+### Mentioned In
+- [[CopingWithASevereSustainedDrou_20911]]
+
+## Krantzkloof Nature Reserve
+
+### Summary
+Krantzkloof Nature Reserve in KwaZulu-Natal, South Africa, contains a pool on the Mpolweni River that supplied the comparison snail population. The site is about eight km from the Shongweni dam. Snails from here showed no mortality when moved directly into laboratory water, which the author attributes to their dilute native conditions.
+
+### Context
+> This short paper by J. Heeg (Department of Zoology, University of Natal, Pietermaritzburg) examines how abrupt changes in [[Total Dissolved Solids]] (TDS) affect the aquatic pulmonate snail [[Bulinus Africanus]]. Snails from the [[Vernon Hooper Dam]] at Shongweni (native water 490 ppm TDS) suffered...
+> -- *[[ANoteOnTheEffectsOfDrasticChan_16594]]*
+
+### Mentioned In
+- [[ANoteOnTheEffectsOfDrasticChan_16594]]
+
+## Kranz et al. 1979
+
+### Summary
+Kranz et al. (1979) is a previously published larval description of a Semotilus species that the source compares with Couesius plumbeus. They reported yolk absorption, first caudal ray formation, and pelvic bud formation at 9.6, 9.0 to 10.0, and 14 to 15 mm, all later than in C. plumbeus.
+
+### Context
+> This study describes the posthatching larval development of the [[Lake Chub]] (*Couesius plumbeus*), a freshwater cyprinid widely distributed across Canada and northern United States. Eggs collected from a New York stream were laboratory reared, and larvae were described mainly by external...
+> -- *[[LarvalStagesOfTheLakeChubCoues_18888]]*
+
+### Mentioned In
+- [[LarvalStagesOfTheLakeChubCoues_18888]]
 
 ## Kraus 1988
 
@@ -5092,6 +8036,42 @@ A trap used in this study to capture kokanee migrating downstream on the South F
 ### Mentioned In
 - [[FederalAidToFishRestorationLak_16598]]
 
+## Krebs (1978)
+
+### Summary
+A source cited for optimal foraging theory. The authors use it to interpret the Gerres pattern of nipping siphon tips from above the substrate as efficient foraging.
+
+### Context
+> This 1983 study by [[D. P. Cyrus]] and [[S. J. M. Blaber]] (University of Natal) examines the diet, prey selection and resource partitioning of five *Gerres* species (Gerreidae) in the estuaries of Natal, South Africa, sampled from 1978 to 1980. The main study area was the [[Kosi System]], an...
+> -- *[[TheFoodAndFeedingEcologyOfGerr_18126]]*
+
+### Mentioned In
+- [[TheFoodAndFeedingEcologyOfGerr_18126]]
+
+## Krecker 1939
+
+### Summary
+An earlier approach that expressed plant-associated fauna per 10 feet of stem length. The authors note this only applies to certain plants.
+
+### Context
+> This 1962 methodological paper by J. J. Harrop and R. E. Hatt (Department of Zoology, Southampton University), published in [[Hydrobiologia]], proposes a practical way to measure the surface area of aquatic plants so that the fauna living on them can be compared quantitatively. The authors argue...
+> -- *[[AMethodForDeterminingTheSurfac_20680]]*
+
+### Mentioned In
+- [[AMethodForDeterminingTheSurfac_20680]]
+
+## Krefft
+
+### Summary
+Gerard Krefft, a 19th-century zoologist and museum curator in Sydney. The source credits him with describing the Queensland Lungfish in 1870, a 'living fossil' milestone.
+
+### Context
+> This is the 1964 Presidential Address to the [[Linnean Society of New South Wales]] by G. P. Whitley, a long-serving ichthyologist at the [[Australian Museum]]. It surveys about three and a half centuries of documented knowledge of Australian fishes, from Aboriginal rock art and early European...
+> -- *[[PresidentialAddressASurveyOfAu_12231]]*
+
+### Mentioned In
+- [[PresidentialAddressASurveyOfAu_12231]]
+
 ## Krene
 <!-- fm: auto_enriched: true -->
 
@@ -5109,6 +8089,30 @@ Editors of a 1969 symposium proceedings on the biological aspects of thermal pol
 
 ### Mentioned In
 - [[AnAnnotatedBibliographyOfTheEf_18153]]
+
+## Krenon
+
+### Summary
+Krenon is the ecological zone of springs, and code 3 in the source's ecological key denotes it. It is one of the biotope categories used to describe where each isopod species lives.
+
+### Context
+> This excerpt comes from *Limnofauna Europaea*, a 1967 compendium of all multicellular animal species living in European inland waters, edited by [[Joachim Illies]] and published by Gustav Fischer Verlag. It reproduces the front matter (editorial board, title page) and the chapter on freshwater...
+> -- *[[Isopoda_14605]]*
+
+### Mentioned In
+- [[Isopoda_14605]]
+
+## Kreps and Verjbinskaya
+
+### Summary
+Cited among the earlier researchers whose phytopigment extraction methods form the tradition the authors drew on. The source does not give details of their findings.
+
+### Context
+> This 1960 methods paper by [[Alfred R. Grzenda]] and [[Morris L. Brehmer]] (Michigan State University) presents two techniques for collecting and estimating stream [[Periphyton]] production using artificial substrata. Periphyton was grown on 1.4 dm² [[Plexiglass Plates]] mounted on a horizontal...
+> -- *[[AQuantitativeMethodForTheColle_17810]]*
+
+### Mentioned In
+- [[AQuantitativeMethodForTheColle_17810]]
 
 ## Krieger
 
@@ -5134,6 +8138,42 @@ Krill are small planktonic crustaceans, and the Antarctic krill fishery is the s
 ### Mentioned In
 - [[StockAssessmentWhy_17822]]
 
+## Krinner 1935
+
+### Summary
+Krinner reported that minnow taste thresholds were far lower than human thresholds, about 512 times lower for sugar and 184 times lower for salt. Removing olfaction did not change these thresholds, which the review uses to separate taste from smell.
+
+### Context
+> This 1954 review by [[Arthur D. Hasler]] (Department of Zoology, University of Wisconsin), published in the *Journal of the Fisheries Research Board of Canada*, synthesises research on how fishes perceive odours and use them in food-finding, social behaviour, predator avoidance and homing. It...
+> -- *[[OdourPerceptionAndOrientationI_20698]]*
+
+### Mentioned In
+- [[OdourPerceptionAndOrientationI_20698]]
+
+## Kristina Logos
+
+### Summary
+The Kristina Logos was a Portuguese-crewed trawler seized in April 1994 outside Canada's fishing zone, an incident the source cites as an example of gunboat-style disputes over fishing grounds. The note uses the seizure to open its discussion of jobs and fishing conflict.
+
+### Context
+> This Worldwatch Paper (No. 120, July 1994, by [[Peter Weber]]) argues that world marine fisheries have reached or passed their biological and economic limits. Global marine catch peaked in 1989 (about 82 million tons) and has since stagnated. Overfishing is identified as the primary cause of...
+> -- *[[NetLossFishJobsAndTheMarineEnv_19658]]*
+
+### Mentioned In
+- [[NetLossFishJobsAndTheMarineEnv_19658]]
+
+## Krogh
+
+### Summary
+Krogh is cited as agreeing with the author's conclusion that Gammarus does not take up significant phosphorus through the body wall, gills or gut. The agreement supports the view that ingested particulate matter, rather than direct absorption, explains the observed uptake. The source gives no further details of Krogh's work.
+
+### Context
+> This 1957 laboratory study by [[Eugene Harris]] (Dalhousie University, published in the [[Canadian Journal of Zoology]]) measured the exchange of radioactive phosphorus (³²P) between water and three test systems: the brine shrimp [[Artemia]], the marine amphipod [[Gammarus Locusta]] (beach flea),...
+> -- *[[RadiophosphorusMetabolismInZoo_20668]]*
+
+### Mentioned In
+- [[RadiophosphorusMetabolismInZoo_20668]]
+
 ## Krogh 1914
 <!-- fm: auto_enriched: true -->
 
@@ -5143,6 +8183,54 @@ Krill are small planktonic crustaceans, and the Antarctic krill fishery is the s
 
 ### Mentioned In
 - [[RespirationOfFishesWithSpecial_1964]]
+
+## Krogh Constant
+
+### Summary
+The Krogh constant is the classical value of about 0.85 for the weight exponent in the relation between oxygen consumption and body weight in fish. In this source, the weight coefficients for the April–June, September–December and January–February equations were close to this value. The summer coefficient of 1.06 was higher and the authors offered a possible explanation involving spawning.
+
+### Context
+> This 1959 study by Donald E. Wohlschlag and Rogelio O. Juliano measured [[Oxygen Consumption]] in wild [[Lepomis Macrochirus]] (bluegill) in [[Felt Lake]], a small California reservoir, from March 1956 to February 1957. Using a field [[Respiration Chamber]], the authors fitted [[Multiple Regression...
+> -- *[[SeasonalChangesInBluegillMetab_20801]]*
+
+### Mentioned In
+- [[SeasonalChangesInBluegillMetab_20801]]
+
+## Krogh Formulation
+
+### Summary
+A model in which the speed of a biological process is a linear function of temperature. Gunter considers it the best ecological generalization among the models he reviews, though valid only within medial temperature ranges.
+
+### Context
+> This book chapter by Gordon Gunter (Gulf Coast Research Laboratory, 1957) reviews temperature as "the most important single factor governing the occurrence and behavior of life" in marine systems. It links [[Temperature Physiology]] at the cellular level to whole-organism performance, reproduction,...
+> -- *[[ChapterTemperature_17830]]*
+
+### Mentioned In
+- [[ChapterTemperature_17830]]
+
+## Kruger National Park
+
+### Summary
+Kruger National Park is a large protected area of roughly 20,000 km² in South Africa, traversed west to east by six major rivers. The source uses it as a case study showing that upstream abstraction, dams, salinity and pollution degrade the park's rivers despite its size, including the Sabie, Letaba, Luvuvhu and Olifants systems.
+
+### Context
+> This plenary lecture by [[Catherine M. Pringle]] (Verhandlungen Internationaler Verein Limnologie, Stuttgart, November 2000) argues that [[Riverine Connectivity]], the exchange of matter, energy and organisms across the riverine landscape, is central to the health of [[Remnant Natural Areas]]....
+> -- *[[ManagingRiverineConnectivityIn_18685]]*
+
+### Mentioned In
+- [[ManagingRiverineConnectivityIn_18685]]
+
+## Krull 1934
+
+### Summary
+Krull (1934) is a earlier study cited in the background of this paper. The authors use it as part of the literature showing that parasites can range from minor to population-damaging, such as causing stunting or death under heavy infection.
+
+### Context
+> This 1953 study by [[Thomas Ralph Rabideau]] and [[J. Teague Self]] (University of Oklahoma) examined whether parasitism by trematode "grubs" affects the condition of two [[Sunfish]] species, [[Green Sunfish]] (*Lepomis cyanellus*) and [[Dwarf Sunfish]] (*L. humilis*), in a wild population. The...
+> -- *[[AStudyOfTheEffectsOfBlackAndYe_16725]]*
+
+### Mentioned In
+- [[AStudyOfTheEffectsOfBlackAndYe_16725]]
 
 ## Krumholz
 
@@ -5159,10 +8247,14 @@ Krumholz is an author cited in the leaflet's reference list for a 1948 work on r
 > This 1961 Master of Science thesis by Morgan Emery Sisk, submitted to [[Oklahoma State University]], compares the bony elements of the [[Weberian Apparatus]] in three species of [[Dionda]] and six species of [[Notropis]], plus one hybrid combination. The author set out to test whether this small,...
 > -- *[[AComparativeStudyOfTheWeberian_19005]]*
 
+> This 1960–1961 limnological survey by [[Geiling]] and [[Krumholz]] (Department of Biology, University of Louisville) characterizes shallow [[Sinkhole Ponds]] in the karst landscape around [[Doe Run]], Meade County, Kentucky. The study had two aims: a limnological reconnaissance of an unstudied...
+> -- *[[ALimnologicalSurveyOfSinkholeP_16949]]*
+
 ### Mentioned In
 - [[TheUseOfRotenoneAsAFishPoison_13279]]
 - [[HybridizationBetweenThreeSpeci_16130]]
 - [[AComparativeStudyOfTheWeberian_19005]]
+- [[ALimnologicalSurveyOfSinkholeP_16949]]
 
 ## Krumholz 1946
 <!-- fm: auto_enriched: true -->
@@ -5183,6 +8275,18 @@ Krumholz is an author cited in the leaflet's reference list for a 1948 work on r
 
 ### Mentioned In
 - [[StandingCropsOfFishesInKentuck_13032]]
+
+## Krumholz 1963
+
+### Summary
+A comprehensive ecological study of this Gambusia population on Bimini, cited by Fink as the main ecological work on the group. The source mentions it only in the context of the ecology of G. p. puncticulata, without giving its findings.
+
+### Context
+> This 1971 taxonomic revision by William L. Fink, published in the *Publications of the Gulf Coast Research Laboratory Museum*, reassesses the [[Gambusia Puncticulata]] species group of [[Mosquitofish]]. Earlier workers treated its members as separate species. Fink argues they form one widespread,...
+> -- *[[ARevisionOfTheGambusiaPuncticu_16383]]*
+
+### Mentioned In
+- [[ARevisionOfTheGambusiaPuncticu_16383]]
 
 ## Krumholz 1967
 <!-- fm: auto_enriched: true -->
@@ -5206,6 +8310,34 @@ Krumholz is an author cited in the leaflet's reference list for a 1948 work on r
 ### Mentioned In
 - [[ChangesInTheFishPopulationInTh_12453]]
 
+## Krupp 1983
+
+### Summary
+A earlier publication by Krupp that describes Aphanius dispar in detail. This source refers to it for the species' full description.
+
+### Context
+> This Journal of Oman Studies special report by [[Friedhelm Krupp]] documents the freshwater fishes of the [[Wadi Batha]] drainage in Oman. Three species occur there: [[Cyprinion Microphthalmum]], [[Garra Barreimiae]] and [[Aphanius Dispar]]. The study describes a new endemic subspecies, [[Garra...
+> -- *[[FreshwaterFishesOfTheWadiBatha_12462]]*
+
+> This taxonomic paper by K. E. Banister describes two new cyprinid species of the genus [[Garra]] from the Arabian Peninsula. [[Garra Dunsirei]] is a microphthalmic, hypogean fish from an isolated sink hole in the [[Jabal Qara]] mountains of [[Dhofar]], Oman. [[Garra Lautior]] is a streamlined...
+> -- *[[TwoNewSpeciesOfGarraTeleosteic_17314]]*
+
+### Mentioned In
+- [[FreshwaterFishesOfTheWadiBatha_12462]]
+- [[TwoNewSpeciesOfGarraTeleosteic_17314]]
+
+## Kruskal-Wallis ANOVA
+
+### Summary
+A nonparametric rank-based test for differences among three or more groups. The authors used it to compare fish catch across the four thermal strata, followed by Dunn's multiple comparison test at α = 0.1, and found significant temperature partitioning for several species.
+
+### Context
+> This study used bottom trawling where the [[Thermocline]] met the lake bottom near Grand Haven, Michigan, to compare the thermal distribution of fishes in [[Lake Michigan]] between 1977 and 1979. Between the two surveys, the native [[Bloater]] (*Coregonus hoyi*) rose from less than 1% to about 42%...
+> -- *[[ThermalHabitatShiftsByFishesAt_18075]]*
+
+### Mentioned In
+- [[ThermalHabitatShiftsByFishesAt_18075]]
+
 ## Kruskal-Wallis Test
 
 ### Summary
@@ -5217,6 +8349,42 @@ The Kruskal-Wallis test is a nonparametric statistical test that does not assume
 
 ### Mentioned In
 - [[UpperGilaRiverAnglerSurvey_18636]]
+
+## Kryptopterus
+
+### Summary
+A genus of glass catfishes in the family Siluridae, included in Regan's concept of the family. The paper notes that the dorsal fin is absent in some Kryptopterus species, an example of a posteriorly shifted or lost dorsal fin in silurids.
+
+### Context
+> This 1991 paper in the [[Zoological Journal of the Linnean Society]] by Alan H. Bornbusch tests whether the Eurasian catfish family [[Siluridae]] is a natural (monophyletic) group. Using a phylogenetic analysis of derived character states, the author identifies five synapomorphies unique to the...
+> -- *[[MonophylyOfTheCatfishFamilySil_17726]]*
+
+### Mentioned In
+- [[MonophylyOfTheCatfishFamilySil_17726]]
+
+## Krzanowski
+
+### Summary
+A researcher who reported in 1965 on the effect of a reservoir on zooplankton drift in the Dunajec River. Kubicek says the influence of the Vir reservoir resembles what Krzanowski described for the Dunajec.
+
+### Context
+> This study by [[Frantisek Kubicek]] (Zoological Institute, J. E. Purkyně University, Brno, 1967) describes the organic drift of invertebrates and other drifting organisms in the torrential (fast-flowing) reach of the [[Svratka River]], a Moravian river that runs between the [[Vir Reservoir]] and...
+> -- *[[DieOrganischeDriftDesSvratkafl_12468]]*
+
+### Mentioned In
+- [[DieOrganischeDriftDesSvratkafl_12468]]
+
+## Kuban River
+
+### Summary
+A river in southern Russia flowing into the Sea of Azov. The source describes a mechanical fish-lift at Krasnodarskiy (about 1 million fish passed annually), a sluice fish-pass at Fedorovskiy, and artificial spawning grounds built on the river.
+
+### Context
+> This FAO Fisheries Technical Paper (No. 308, 1989, 97 pp.) by D.S. Pavlov reviews how the Soviet Union has tried to keep non-salmonid fish migrating past dams, reservoirs and water abstraction works. The focus is on [[Sturgeon]] (Acipenseridae), Clupeidae, Cyprinidae, Percidae and Siluridae in...
+> -- *[[StructuresAssistingTheMigratio_11231]]*
+
+### Mentioned In
+- [[StructuresAssistingTheMigratio_11231]]
 
 ## Kudo 1954 Classification
 <!-- fm: auto_enriched: true -->
@@ -5235,6 +8403,18 @@ Kudo, 1931 is an author who omitted Urceolaria from his classification and place
 
 ### Mentioned In
 - [[TrichodinaRenicolaMuellerACili_15477]]
+
+## Kuehne
+
+### Summary
+A co-author, with Bailey (1961), of a biogeographic explanation for the presence of Etheostoma baileyi in the Kentucky system. They attributed it to stream capture from the Cumberland River.
+
+### Context
+> This taxonomic paper, published in the [[Occasional Papers of the Museum of Natural History]] (University of Kansas, No. 101, 1982) by [[Lawrence M. Page]] and [[Brooks M. Burr]], formally describes three previously unnamed darter species of the subgenus [[Nanostoma]]: [[Etheostoma Baileyi]],...
+> -- *[[ThreeNewSpeciesOfDarterPercida_18399]]*
+
+### Mentioned In
+- [[ThreeNewSpeciesOfDarterPercida_18399]]
 
 ## Kuehne 1962
 <!-- fm: auto_enriched: true -->
@@ -5262,6 +8442,18 @@ Kudo, 1931 is an author who omitted Urceolaria from his classification and place
 
 ### Mentioned In
 - [[AnnotatedChecklistOfFishesFrom_1962]]
+
+## Kuehne and Barbour 1983
+
+### Summary
+Kuehne and Barbour (1983) is earlier literature in which specimens of this darter were identified as undescribed Etheostoma. The authors note that the species was not recognized at the time. They regret that failure, since earlier recognition might have made protection easier to secure.
+
+### Context
+> Boschung, Mayden and Tomelleri (1992) describe [[Etheostoma Chermocki]], the **[[Vermilion Darter]]**, a new snubnose darter in the subgenus [[Ulocentra]]/[[Nanostoma]]. The species is known only from a short reach of Turkey Creek, a tributary of [[Locust Fork]] in the [[Black Warrior River]]...
+> -- *[[EtheostomaChermockiANewSpecies_17733]]*
+
+### Mentioned In
+- [[EtheostomaChermockiANewSpecies_17733]]
 
 ## Kuenzler Hedgehog Cactus
 
@@ -5301,6 +8493,30 @@ Kuhlia rupestris is a fish species found in the Kosi System. One individual was 
 ### Mentioned In
 - [[PredationAndSourcesOfMortality_18127]]
 
+## Kuhn
+
+### Summary
+Author cited (1972) who attempted an analytical derivation of stream temperature. According to this paper, Kuhn did not distinguish local from advected temperature derivatives and omitted bottom heat flow, which Zimmerman addresses.
+
+### Context
+> This is a theoretical micrometeorological study by J. T. F. Zimmerman (Institute of Earth Sciences, Free University, Amsterdam), published in *Archiv für Meteorologie, Geophysik und Bioklimatologie*, Series A, 1974. It develops an analytical model of the daily temperature cycle of natural streams,...
+> -- *[[OnTheDiurnalHeatBalanceAndTemp_20944]]*
+
+### Mentioned In
+- [[OnTheDiurnalHeatBalanceAndTemp_20944]]
+
+## Kuhn and Korcke
+
+### Summary
+Kuhn and Korcke, in 1956, described progressive gill damage in fish exposed to ferric chloride. The damage starts with oedema and changes in branchial epithelial cells and can end in near-total destruction of the epithelium. Cruz cites this work as evidence that iron harms the respiratory surfaces of fish.
+
+### Context
+> This 1969 paper by J. Amorim Machado Cruz, published by the [[Instituto de Zoologia Dr. Augusto Nobre]] as its No. 106, is an experimental study of how dissolved [[Iron Salts]] harm freshwater fish. Using [[Carassius Auratus]] (goldfish) exposed to four iron salts in water, the author combined...
+> -- *[[IronSaltsInIchthyopathology_18084]]*
+
+### Mentioned In
+- [[IronSaltsInIchthyopathology_18084]]
+
 ## Kuhn Lake
 <!-- fm: auto_enriched: true -->
 
@@ -5310,6 +8526,18 @@ Kuhlia rupestris is a fish species found in the Kosi System. One individual was 
 
 ### Mentioned In
 - [[AReportOnTheLakesOfTheTippecan_11316]]
+
+## Kuhnia Scombri
+
+### Summary
+A monogenean gill parasite cited as one of the diclidophoroidean species that uses an extrinsic muscle–tendon–fair-lead–hinged-jaw clamping system, which the authors compare with Discocotyle sagittata.
+
+### Context
+> This 1960 study by J. Llewellyn and I. L. Owen re-examines how the monogenean [[Discocotyle Sagittata]] attaches to the gills of [[Salmo Trutta]] (brown trout). The authors found that the parasite adopts a characteristic inclined "adhesive attitude" that is set by the direction of the host's [[Gill...
+> -- *[[TheAttachmentOfTheMonogeneanDi_16165]]*
+
+### Mentioned In
+- [[TheAttachmentOfTheMonogeneanDi_16165]]
 
 ## Kulczynski Similarity Index
 
@@ -5322,6 +8550,30 @@ The Kulczynski Similarity Index is a measure of similarity between two samples, 
 
 ### Mentioned In
 - [[ASurveyOfTheAquaticFloraAndFau_17435]]
+
+## Kulhavý
+
+### Summary
+Kulhavý (1959) is cited as reporting Troglochaetus beranecki from Czechoslovakia. The record is one of several extending the species' known range in Central Europe by 1962.
+
+### Context
+> This 1962 study by [[Siegfried Husmann]] at the [[Max Planck Society]] hydrobiological station in Schlitz (Hesse) examines the groundwater archiannelid [[Troglochaetus beranecki]]. The author compiles new records from the [[Danube River]], [[Rhine River]], [[Weser River]] and associated tributaries...
+> -- *[[OkologischeUndVerbreitungscsge_14536]]*
+
+### Mentioned In
+- [[OkologischeUndVerbreitungscsge_14536]]
+
+## Kullenberg Sampler
+
+### Summary
+The Kullenberg sampler is a heavy weighted corer used for taking lake and marine sediment cores. Mackereth notes that it needs heavy lifting gear and a large vessel, and that it is more advantageous than his device for very deep water when such a vessel is available.
+
+### Context
+> This 1958 methods paper by F. J. H. Mackereth, of the [[Freshwater Biological Association]], describes a pneumatically operated [[Lake Sediment Cores|sediment core sampler]] that two people can carry and operate from a rowing boat. It takes undisturbed cores about 6 m long and works in water depths...
+> -- *[[APortableCoreSamplerForKakeDep_19316]]*
+
+### Mentioned In
+- [[APortableCoreSamplerForKakeDep_19316]]
 
 ## Kundaeli
 
@@ -5347,6 +8599,30 @@ The Kunde Allotment is one of the five grazing allotments shown on the watershed
 ### Mentioned In
 - [[ReRedrockCanyonActionPlanCoron_12858]]
 
+## Kundelungu Plateau
+
+### Summary
+A plateau in Katanga (Upper Shaba) in the Democratic Republic of the Congo, where the Luanza River rises. In this source, the authors describe an actively forming calcareous tufa seep on its eastern escarpment.
+
+### Context
+> This short French-language note by J.-J. Symoens and F. Malaisse describes an actively forming [[Calcareous Tufa]] deposit at a seep on the eastern escarpment of the [[Kundelungu Plateau]] in the [[Democratic Republic of the Congo]]. The seep feeds the [[Luanza River]], a tributary of the [[Luizi...
+> -- *[[SurUneFormationDeTufCalcaireOb_15140]]*
+
+### Mentioned In
+- [[SurUneFormationDeTufCalcaireOb_15140]]
+
+## Kunene River
+
+### Summary
+A river in southwestern Africa that the paper discusses in connection with a Dolops specimen from a closed drainage basin in Angola, about 3,500 ft above sea level. The author considers possible past swamp connections with it.
+
+### Context
+> This 1963 taxonomic paper by [[Geoffrey Fryer]] of the Freshwater Biological Association reports new crustacean ectoparasites of African freshwater fishes. It describes two new copepods, [[Lamproglenoides Vermiformis]] (new genus and species) and [[Lamproglena Intercedens]], and a new branchiuran,...
+> -- *[[FurtherStudiesOnTheParasiticCr_18872]]*
+
+### Mentioned In
+- [[FurtherStudiesOnTheParasiticCr_18872]]
+
 ## Kunkel
 
 ### Context
@@ -5355,6 +8631,30 @@ The Kunde Allotment is one of the five grazing allotments shown on the watershed
 
 ### Mentioned In
 - [[GeneralReviewsAndSummariesTrop_17993]]
+
+## Kunming Institute of Zoology
+
+### Summary
+A Chinese research institution that holds the fish specimens examined in this study, including the holotype of *T. laticeps* (KIZ 914077) and the type series of *T. gejiuensis*.
+
+### Context
+> This taxonomic paper by [[Zhou Wei]] and [[Cui Gui-Hua]] (*Ichthyological Exploration of Freshwaters*, 1997) reviews [[Triplophysa]] loaches of the [[Yuanjiang River]] (upper [[Red River]]) basin in Yunnan and formally describes *Triplophysa laticeps* as a new species. Two species had previously...
+> -- *[[FishesOfTheGenusTriplophysaCyp_12406]]*
+
+### Mentioned In
+- [[FishesOfTheGenusTriplophysaCyp_12406]]
+
+## Kuntz and Radcliffe (1917)
+
+### Summary
+An early study of the Atlantic Menhaden (*Brevoortia tyrannus*) that reported spawning in summer, unlike the Louisiana population. The author disputes their description of the menhaden gut as convoluted, arguing it is a uniformly ringed tube.
+
+### Context
+> This 1956 paper by [[Royal D. Suttkus]] of Tulane University examines the early life history of the [[Gulf Menhaden]] (*Brevoortia patronus*) in [[Lake Pontchartrain]], Louisiana, based on sampling from July 1953 to May 1955. The study concludes that menhaden do not spawn within the lake. Instead,...
+> -- *[[EarlyLifeHistoryOfTheGulfMenha_15040]]*
+
+### Mentioned In
+- [[EarlyLifeHistoryOfTheGulfMenha_15040]]
 
 ## Kupffer's Vesicle
 
@@ -5392,6 +8692,18 @@ Kuroda (1938) is cited in this report as evidence that shell outline and colour 
 ### Mentioned In
 - [[FurtherStudiesOnTheIntroducedA_19003]]
 
+## Kuronuma and Abe 1972
+
+### Summary
+Kuronuma and Abe 1972 is an earlier trawl survey of Gulf fishes cited in the background. The source says it, like other trawl work, recorded reef species only incidentally.
+
+### Context
+> This 1987 study by [[Gregory Smith]], [[Mostafa Saleh]] and [[Khatoon Sangoor]] (University College of Bahrain) presents a checklist of 71 fish species from 25 families recorded on shallow reefs (4-15 m) northeast of Bahrain in the [[Arabian Gulf]]. Based on SCUBA observations and collections made...
+> -- *[[TheReefIchthyofaunaOfBahrainAr_21168]]*
+
+### Mentioned In
+- [[TheReefIchthyofaunaOfBahrainAr_21168]]
+
 ## Kurshiu Lagoon
 
 ### Summary
@@ -5403,6 +8715,38 @@ The Kurshiu Lagoon is a brackish Baltic lagoon shared by Lithuania and Russia, w
 
 ### Mentioned In
 - [[ReportsOfTheSymposiumOnSocialE_18344]]
+
+## Kurt D. Fausch
+
+### Summary
+Kurt D. Fausch is a co-author, with Ray J. White, of the 1983 Progressive Fish-Culturist article describing a sinuous, recirculating laboratory stream aquarium built at Michigan State University. The source uses his work to argue that laboratory streams should mimic natural meandering riffle-pool form to study juvenile stream salmonids.
+
+### Context
+> This document contains two items from *Progressive Fish-Culturist* (45(2), April 1983). The main article, by [[Kurt D. Fausch]] and [[Ray J. White]], describes a sinuous, recirculating laboratory stream aquarium built at [[Michigan State University]] during 1976–81 to study juvenile stream...
+> -- *[[SinuousStreamAquariumToSimulat_16320]]*
+
+> This study by [[Kurt D. Fausch]] (1984, *Canadian Journal of Zoology*) develops a model of "potential profit," the net energy gain available to a stream salmonid at a fixed holding position, calculated as energy from drifting invertebrates minus the metabolic cost of swimming to hold station....
+> -- *[[ProfitableStreamPositionsForSa_16319]]*
+
+> This 1986 study by [[Kurt D. Fausch]] and [[Ray J. White]] examines interspecific competition among juvenile [[Coho Salmon]], [[Brook Trout]], and [[Brown Trout]] in streams of the [[Laurentian Great Lakes]]. Field sampling in [[Lake Michigan]] tributaries showed that coho salmon emerged 2-3 weeks...
+> -- *[[CompetitionAmongJuvenilesOfCoh_16321]]*
+
+### Mentioned In
+- [[SinuousStreamAquariumToSimulat_16320]]
+- [[ProfitableStreamPositionsForSa_16319]]
+- [[CompetitionAmongJuvenilesOfCoh_16321]]
+
+## Kurzia Latissima
+
+### Summary
+A cladoceran that was abundant in spring and autumn vernal and autumnal pools. The source says it favored pools with little weed growth, and laboratory cultures reproduced sporadically throughout the year.
+
+### Context
+> This survey documents the non-crayfish Crustacea of temporary and permanent freshwater bodies within about 2.5 miles of [[Lawrence Kansas]], in [[Eastern Kansas]]. Collections ran from February 1947 to May 1948 at roughly thirty water bodies, mostly temporary. The authors list 29 species in the...
+> -- *[[CrustaceaInEasternKansas_20278]]*
+
+### Mentioned In
+- [[CrustaceaInEasternKansas_20278]]
 
 ## Kusnetzow 1939
 <!-- fm: auto_enriched: true -->
@@ -5419,6 +8763,30 @@ The Kurshiu Lagoon is a brackish Baltic lagoon shared by Lithuania and Russia, w
 
 ### Mentioned In
 - [[SummerFoodHabitsOfYellowBassAn_1962]]
+
+## Kutkuhn 1957
+
+### Summary
+A cited study that the source uses to support the diet shift in blue tilapia, in which juveniles feed mainly on large zooplankton and adults rely more on phytoplankton and smaller, non-evasive zooplankton. The source groups it with Cramer and Marzolf (1970) and Drenner et al. (1982).
+
+### Context
+> This study examines why [[Blue Tilapia]] (*Tilapia aurea*) switch from visual particulate-feeding on zooplankton as juveniles to pump filter-feeding as adults. The authors test whether energy profitability, rather than only proximal morphological changes, drives this shift. Filter-feeding costs...
+> -- *[[AnEnergybasedAnalysisOfParticu_20913]]*
+
+### Mentioned In
+- [[AnEnergybasedAnalysisOfParticu_20913]]
+
+## Kuwait
+
+### Summary
+A country on the northern Arabian Gulf coast. The source cites a Kuwaiti artificial reef survey (Downing et al., 1985) that used SCUBA fish censuses and recorded 50 species, which is compared with the Bahrain count.
+
+### Context
+> This study surveyed reef-fish assemblages at three reefs off [[Bahrain]] in the [[Arabian Gulf]] at 4-7 m, 7-10 m and 13-15 m depth, using SCUBA and the [[Species/Time Random Count Technique]]. A total of 55 species in 22 families was recorded. Species richness rose with depth, from 37 species at...
+> -- *[[AbundanceAndBathymetricDistrib_21169]]*
+
+### Mentioned In
+- [[AbundanceAndBathymetricDistrib_21169]]
 
 ## Kuwait Institute for Scientific Research
 
@@ -5449,6 +8817,18 @@ The Kvichak River is the main river system in this catalog and the largest contr
 
 ### Mentioned In
 - [[SpawningGroundCatalogOfTheKvic_12869]]
+
+## Kvichak Sockeye Salmon
+
+### Summary
+The sockeye salmon run of the Kvichak River system in Bristol Bay, Alaska, which drains into Iliamna Lake. The report notes that the run fell sharply from 46,566,000 fish in 1965 to 4,914,000 in 1967, reflecting strong cyclic variability in survival. It also reports that the 1965 year class in Iliamna Lake produced over 21 times as many yearling smolts as the 1960 class.
+
+### Context
+> This annual report from the [[Fisheries Research Institute]] at the [[University of Washington College of Fisheries]] (March 1968) summarizes the year's work across salmon biology, estuarine ecology, invertebrate fisheries, radioecology, water utilization and food science. The core research focus...
+> -- *[[ResearchInFisheries_11441]]*
+
+### Mentioned In
+- [[ResearchInFisheries_11441]]
 
 ## Kwagunt Rapid
 
@@ -5510,11 +8890,51 @@ Kyowa A-400 is a commercial dry fish feed produced by a Japanese firm with a St.
 ### Mentioned In
 - [[OurayRazorbackHatcherySummary_13377]]
 
+## Kyphopteryx
+
+### Summary
+Kyphopteryx is a genus of stoneflies in the subfamily Brachypterinae. The source places it in Group D with Doddsia and Mesyatsia, based on shared structural features. It notes that Kyphopteryx dorsalis was collected in Tibet and Sikkim during the 1924 British Everest Expedition.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
+
+## Kyphopteryx dorsalis
+
+### Summary
+A brachypterine stonefly collected in Tibet and Sikkim during the 1924 British Everest Expedition. The source places Kyphopteryx in Group D with Doddsia and Mesyatsia.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
+
 ## Kyphosis (Fish)
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[VertebralAnomaliesInHumpbacked_1968_07_19]]
+
+## Kyphosus Sectatrix
+
+### Summary
+A sea chub of the family Kyphosidae examined in this study. The anterior opening lies near the anterior scale border, and the species has accessory pores along the canal.
+
+### Context
+> This methodological and descriptive study uses [[Scanning Electron Microscopy]] to examine [[Lateral-Line Scale]] structure in 12 teleost species from 10 families, all within the Perciformes except for three orders (Beryciformes, Myctophiformes, Elopiformes). The authors document a wide range of...
+> -- *[[VariationsInStructureOfTheLate_12762]]*
+
+> This 1974 paper by [[Edward D. DeLamater]] and [[Walter R. Courtenay Jr.]], published in the *Florida Scientist*, uses the [[Scanning Electron Microscope]] (SEM) to characterize fish scale structure for taxonomic use. It describes circuli (ridges), the dentition on circuli crests, the [[Ctenoid...
+> -- *[[FishScalesAsSeenByScanningElec_12763]]*
+
+### Mentioned In
+- [[VariationsInStructureOfTheLate_12762]]
+- [[FishScalesAsSeenByScanningElec_12763]]
 
 ## Kyrauchen
 
@@ -5563,6 +8983,18 @@ Kyushu is a Japanese island where Lestidium prolixum is particularly common off 
 
 ### Mentioned In
 - [[RecordsOfYpatchedBarracudinasL_19901]]
+
+## Köppen-Geiger Climate Classification
+
+### Summary
+A widely used system that classifies world climates by temperature and precipitation patterns. The authors scored catchment climates against ten zones of a modified version of this system to relate climate to flow variability.
+
+### Context
+> This study analyses the hydrographs of 52 large rivers worldwide to identify measures of [[Flow Variability]] that both characterize river groups and generate hypotheses about river ecology, particularly for fish. Multivariate analysis separates rivers into groups that broadly match [[Tropical...
+> -- *[[FlowVariabilityAndTheEcologyOf_18718]]*
+
+### Mentioned In
+- [[FlowVariabilityAndTheEcologyOf_18718]]
 
 ## Kühme 1963
 <!-- fm: auto_enriched: true -->

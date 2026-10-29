@@ -32,6 +32,22 @@ letter: Z
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
 - [[AlganseaMonticolaANewCyprinidF_15574]]
 
+## Zagros Mountains
+
+### Summary
+The Zagros Mountains are a major mountain range in western Iran where Aphanius vladykovi was collected at about 2380 m altitude. The source attributes the isolation of the species' populations to the uplift and the tangs formed by streams cutting across the range.
+
+### Context
+> This paper by [[Brian W. Coad]] describes *Aphanius vladykovi*, a new species of [[Tooth-Carp]] (Cyprinodontidae) from the upper reaches of the [[Karun River]] basin in the [[Zagros Mountains]] of Iran. The species is separated from its closest relative, [[Aphanius sophiae]], by a higher count of...
+> -- *[[AphaniusVladykoviANewSpeciesOf_15969]]*
+
+> This chapter, by [[K. E. Banister]] in the Dr. W. Junk monograph *Euphrates and Tigris, Mesopotamian Ecology and Destiny* (Volume 38, edited by J. Illies and Julian Rzoska, 1980), reviews the freshwater ichthyofauna of the Tigris-Euphrates system. It finds that the fauna is poorly known,...
+> -- *[[TheFishesOfTheTigrisAndEuphrat_17312]]*
+
+### Mentioned In
+- [[AphaniusVladykoviANewSpeciesOf_15969]]
+- [[TheFishesOfTheTigrisAndEuphrat_17312]]
+
 ## Zaire River
 <!-- fm: auto_enriched: true -->
 
@@ -41,6 +57,18 @@ letter: Z
 
 ### Mentioned In
 - [[WestAfricanRiversAsBiogeograph_1989]]
+
+## Zale
+
+### Summary
+Zale et al. (1988) is cited as reporting that adult striped bass in Keystone Reservoir tolerate temperatures up to 29°C. This is used as comparison for the Lake Texoma adults, which the authors suggest may tolerate temperatures somewhat above 25°C.
+
+### Context
+> This Transactions of the American Fisheries Society paper (Matthews, Hill, Epps & Gelwick, 1989) uses six years of experimental gillnetting (April 1981 to October 1986) to describe seasonal habitat use by [[Striped Bass]] in an uplake study area of [[Lake Texoma]], a large, shallow reservoir on the...
+> -- *[[InfluenceOfWaterQualityAndSeas_15205]]*
+
+### Mentioned In
+- [[InfluenceOfWaterQualityAndSeas_15205]]
 
 ## Zalembius rosaceus
 
@@ -66,6 +94,30 @@ The Zambesi River is a major African river system in the Indian Ocean basin wher
 ### Mentioned In
 - [[ANoteOnEelsAnguillaSpp_18852]]
 
+## Zambezi
+
+### Summary
+A major river system in southern Africa where Dolops ranarum was previously recorded, and where the paper reports further parasite records from its tributaries. It is one of the systems cited for the wide distribution of the Dolops species.
+
+### Context
+> This 1963 taxonomic paper by [[Geoffrey Fryer]] of the Freshwater Biological Association reports new crustacean ectoparasites of African freshwater fishes. It describes two new copepods, [[Lamproglenoides Vermiformis]] (new genus and species) and [[Lamproglena Intercedens]], and a new branchiuran,...
+> -- *[[FurtherStudiesOnTheParasiticCr_18872]]*
+
+### Mentioned In
+- [[FurtherStudiesOnTheParasiticCr_18872]]
+
+## Zambezi River
+
+### Summary
+A major river in southern Africa. The source places the native range of Tilapia mossambica as widely distributed in the lower Zambezi River, within East African rivers from Somaliland to Natal.
+
+### Context
+> C. F. Hickling, of the [[Fish Culture Research Station]] in [[Malacca]], reports a method for producing almost all-male [[Tilapia Mossambica]] fingerlings by crossing the acclimatised [[Malayan Tilapia]] with an unnamed African Tilapia from [[Zanzibar]]. The cross was made to avoid the waste of...
+> -- *[[TheMalaccaTilapiaHybrids_20384]]*
+
+### Mentioned In
+- [[TheMalaccaTilapiaHybrids_20384]]
+
 ## Zamia
 
 ### Summary
@@ -87,8 +139,12 @@ Zamiaceae is the cycad family of ancient seed plants. This source indicates that
 > This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
 > -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
 
+> This document is the official Mexican standard NOM-059-ECOL-1994, published in the Diario Oficial de la Federación on 16 May 1994 and issued by the Secretaría de Desarrollo Social through the [[Instituto Nacional de Ecología]]. It determines which wild terrestrial and aquatic species and subspecies...
+> -- *[[NormaOficialMexicanaQueDetermi_11400]]*
+
 ### Mentioned In
 - [[DraftOfMexicosNewEndangeredSpe_11644]]
+- [[NormaOficialMexicanaQueDetermi_11400]]
 
 ## Zander
 
@@ -131,8 +187,12 @@ Zannichellia is a submergent aquatic plant that appeared in Apache Lake by 1975 
 > This completion report (1972-1975) documents the environmental impacts of pumped-storage hydroelectric generation on the lower Salt River reservoir chain in Central Arizona. The study focused on [[Canyon Lake]] and [[Saguaro Lake]], two desert reservoirs subjected to massive operational...
 > -- *[[InfluenceOfPumpStorageAndGener_15886]]*
 
+> This 1935 paper by A. S. Hazzard of the [[Institute For Fisheries Research]] reports a preliminary limnological survey of [[Fish Lake]], Utah, a high-elevation lake known to anglers as exceptionally productive. The survey ran from July 21 to 31, 1933, in cooperation with the [[Utah Fish And Game...
+> -- *[[APreliminaryStudyOfAnException_20741]]*
+
 ### Mentioned In
 - [[InfluenceOfPumpStorageAndGener_15886]]
+- [[APreliminaryStudyOfAnException_20741]]
 
 ## Zannichellia Palustris
 
@@ -143,8 +203,20 @@ Zannichellia palustris, known as horned pondweed, is an aquatic plant that grew 
 > This 1980 *Hilgardia* study compared the effects of the native [[Desert Pupfish]] (*Cyprinodon macularius*) and the introduced [[Western Mosquitofish]] (*Gambusia affinis affinis*) on aquatic insects and zooplankton in 12 experimental ponds in Riverside, California, during 1974 and 1975. Both fish...
 > -- *[[ImpactOfTheDesertPupfishCyprin_14858]]*
 
+> This study by Marsh and Fisher (1987, *Journal of Arid Environments*) estimates whole-system and component oxygen metabolism in the [[Arizona Canal]], a 12-km, concrete-lined irrigation canal near [[Phoenix Metropolitan Area]], Arizona. The canal was measured on four dates in 1983 using diel...
+> -- *[[MetabolismOfAnAridRegionCanalE_17029]]*
+
+> This 1965 *Copeia* note by W. L. [[MincklBy]] describes sexual dimorphism in the [[Loach Minnow]] (*Tiaroga cobitis*, order [[Cypriniformes]]), a fish that once occurred widely in the [[Gila River]] system of Arizona and New Mexico but had become increasingly rare in Arizona. The study is based on...
+> -- *[[SexualDimorphismInTheLoachMinn_18560]]*
+
+> This 1959 paper by [[Branley A. Branson]] (Department of Zoology, Oklahoma State University) is the first part of a series on the recent land and freshwater snails of [[Oklahoma]]. It reviews the history of malacological work in the state, divides Oklahoma into biotic provinces and districts that...
+> -- *[[TheRecentGastropodaOfOklahomaP_12890]]*
+
 ### Mentioned In
 - [[ImpactOfTheDesertPupfishCyprin_14858]]
+- [[MetabolismOfAnAridRegionCanalE_17029]]
+- [[SexualDimorphismInTheLoachMinn_18560]]
+- [[TheRecentGastropodaOfOklahomaP_12890]]
 
 ## Zanzibar
 
@@ -155,8 +227,12 @@ Zanzibar is an island off the coast of East Africa and the native habitat of the
 > This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
 > -- *[[ProgressReportOfTheCultureOfTi_14692]]*
 
+> C. F. Hickling, of the [[Fish Culture Research Station]] in [[Malacca]], reports a method for producing almost all-male [[Tilapia Mossambica]] fingerlings by crossing the acclimatised [[Malayan Tilapia]] with an unnamed African Tilapia from [[Zanzibar]]. The cross was made to avoid the waste of...
+> -- *[[TheMalaccaTilapiaHybrids_20384]]*
+
 ### Mentioned In
 - [[ProgressReportOfTheCultureOfTi_14692]]
+- [[TheMalaccaTilapiaHybrids_20384]]
 
 ## Zapus
 
@@ -170,6 +246,78 @@ Zapus sp. (jumping mice) are small mammals that possibly occur in the upper reac
 ### Mentioned In
 - [[LiteratureReviewAndImpactRepor_14988]]
 
+## Zdenka Svobodova
+
+### Summary
+Czech co-author of this 1993 FAO/EIFAC Technical Paper on water quality and fish health, a training textbook drawn from the Vodnany course. The source credits her with the review of pollution effects and the work on chronic toxicity testing, including the 1991 chronic test work with Vykusova.
+
+### Context
+> This FAO/EIFAC Technical Paper (No. 54, 1993, 59 pp.) is a textbook edited from lectures given at the FAO International Training Course on Freshwater Fish Diseases and Intoxications, held in Vodnany, Czechoslovakia (June 15 - July 3, 1992). Written by [[Zdenka Svobodova]], [[Richard Lloyd]], [[Jana...
+> -- *[[WaterQualityAndFishHealth_15062]]*
+
+### Mentioned In
+- [[WaterQualityAndFishHealth_15062]]
+
+## Zea Mays
+
+### Summary
+Zea mays, commonly known as corn or maize, is a domesticated cereal grass in the family Poaceae. In this source it is the most important cultivated-plant pollen in the human fecal samples, found in 14 of the 24 human samples. The authors suggest its high counts probably came from chewing corn-leaf quids dusted with tassel pollen or from green-corn preparations, since natural pollen rain from cornfields is only 0.25–1.0%.
+
+### Context
+> This paper (Martin and Sharrock, *American Antiquity*, 1964) reports the first systematic pollen analysis of prehistoric human and nonhuman feces from dry alcoves in the [[Glen Canyon]] region of southern Utah. Pollen was extracted and counted from 54 fecal samples across 14 archaeological sites....
+> -- *[[PollenAnalysisOfPrehistoricHum_17069]]*
+
+### Mentioned In
+- [[PollenAnalysisOfPrehistoricHum_17069]]
+
+## Zealand
+
+### Summary
+Zealand (Sjælland) is the largest island of Denmark, and the study's River Susaa, the largest river on Zealand, is the site of this research. The source describes it only as the regional setting of the study streams.
+
+### Context
+> This study, by Sand-Jensen, Jeppesen, Nielsen and colleagues (Freshwater Biology, 1989), examines the seasonal growth of submerged macrophytes in the [[River Susaa]], a small, nutrient-rich lowland stream in [[Zealand]], Denmark. Over three years (1979–1981) the authors tracked biomass, discharge,...
+> -- *[[GrowthOfMacrophytesAndEcosyste_20508]]*
+
+### Mentioned In
+- [[GrowthOfMacrophytesAndEcosyste_20508]]
+
+## Zealeuctra
+
+### Summary
+Zealeuctra is a genus of small stoneflies (order Plecoptera) in the family Leuctridae, containing seven known species. Ricker and Ross (1969) revise the genus, describe six new species, and find it occupies a fairly central position within Leuctridae. All species are reported from the central Mississippi valley region of the United States, with minor overlap into Texas and West Virginia.
+
+### Context
+> Ricker and Ross (1969) revise the stonefly genus [[Zealeuctra]] (family [[Leuctridae]], order Plecoptera), originally erected by Ricker in 1952 with type species [[Leuctra claasseni]] Frison 1929. The genus contains seven known species, six of which are newly described: *arnoldi*, *fraxina*,...
+> -- *[[TheGenusZealeuctraAndItsPositi_16881]]*
+
+### Mentioned In
+- [[TheGenusZealeuctraAndItsPositi_16881]]
+
+## Zebra Cichlid
+
+### Summary
+Cichlasoma nigrofasciatum, a cichlid native to Central America and introduced to Morelos, Mexico, most likely by an aquarist. The source reports that it has largely displaced the native Cichlasoma istlanum in the Rio Amacuzac. It matures earlier than C. istlanum and breeds repeatedly, with a pair in a 20-litre aquarium spawning every 26 to 28 days.
+
+### Context
+> This German-language magazine issue, translated from English, contains two articles. The first is a conservation report by Topiltzin Contreras-MacBeath, of the Ichthyological Institute at the Biological Research Centre of the Universidad de Morelos, Mexico. It documents the displacement of native...
+> -- *[[ZebrasInMexiko_17539]]*
+
+### Mentioned In
+- [[ZebrasInMexiko_17539]]
+
+## Zebra Danio
+
+### Summary
+Brachydanio rerio, a small freshwater cyprinid long popular as a beginner aquarium fish. The source suggests Aphanius dispar as a strong alternative to it for beginners who want an egg-laying fish.
+
+### Context
+> This hobbyist article, written by an aquarist, profiles [[Aphanius Dispar]], a small [[Cyprinodontidae|cyprinodont]] killifish known as the [[Arabian Killifish]]. The author argues that the name "Middle East killifish" would better describe a species distributed from northern India around the...
+> -- *[[TheArabianKillifishes_21094]]*
+
+### Mentioned In
+- [[TheArabianKillifishes_21094]]
+
 ## Zebra Fish
 
 ### Summary
@@ -179,8 +327,20 @@ Zebra Fish (Brachydanio rerio) is a small freshwater cyprinid species used in th
 > This 1962 research report by Howard P. Clemens and Kermit E. Sneed documents comprehensive investigations into the use of pituitary materials to induce spawning in warm-water fishes. The study evaluated pituitary activity and potency through bioassay methods, tested phylogenetic specificity across...
 > -- *[[BioassayAndUseOfPituitaryMater_15952]]*
 
+> This study by [[W. E. Bachop]] and [[F. J. Schwartz]] tests whether the giant nuclei of the [[Yolk-Sac Syncytium]] (periblast) in oviparous teleost embryos carry more DNA than diploid nuclei. Using [[Feulgen Reaction]] staining and [[Microspectrophotometry]], the authors measured relative DNA...
+> -- *[[QuantitativeNucleicAcidHistoch_17192]]*
+
+> This 1984 study by [[J. F. Craig]] and [[J. M. Fletcher]] tested whether temperature and diet energy content, acting on physiological processes, set the growth and mortality rates of juvenile [[Zebra Fish]] that then carry into adulthood. Twelve glass tanks, each stocked with 100 fish, were held...
+> -- *[[GrowthAndMortalityOfZebraFishB_17989]]*
+
+> This 1966 study by John C. Mertz and George W. Barlow, published in the *Zeitschrift für Tierpsychologie*, describes the reproductive behavior of the [[Florida Flagfish]] ([[Jordanella floridae]], family [[Cyprinodontidae]]) and quantifies its [[Parental Fanning]]. The authors describe territorial,...
+> -- *[[OnTheReproductiveBehaviorOfJor_20139]]*
+
 ### Mentioned In
 - [[BioassayAndUseOfPituitaryMater_15952]]
+- [[QuantitativeNucleicAcidHistoch_17192]]
+- [[GrowthAndMortalityOfZebraFishB_17989]]
+- [[OnTheReproductiveBehaviorOfJor_20139]]
 
 ## Zebra Mussel
 <!-- fm: auto_enriched: true -->
@@ -222,6 +382,24 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This 1963 report from the [[Tennessee Stream Pollution Control Board]] (Tennessee Department of Public Health), authored by Ralph M. Sinclair and Billy G. Isom, documents the spread, biology, taxonomy and control of the introduced [[Asiatic Clam]] (*Corbicula*) in Tennessee. The clam, first taken...
 > -- *[[FurtherStudiesOnTheIntroducedA_19003]]*
 
+> This review by [[Peter B. Moyle]] and [[Theo Light]] (Biological Conservation, 1996, pp. 149–161) examines how non-native fishes and other aquatic organisms invade freshwater and estuarine systems. Drawing on case histories from California streams, Sri Lankan rainforest streams, and the...
+> -- *[[BiologicalInvasionsOfFreshWate_15445]]*
+
+> This Biotechnology news feature (Vol. 10, October 1992, by Jeffrey L. Fox) examines whether the long history of damaging fish transplantations in the United States offers a useful model for assessing [[Genetically Engineered Fish]] before they are released into open environments. It draws on a...
+> -- *[[TransplantedFishCastShadow_18809]]*
+
+> This Bassmaster Magazine feature (January 1994, by Robert Montgomery) examines a conflict between conservation preservationists and state sportfishing agencies over the stocking of [[Non-Native Species]]. Preservationists, working through the [[Endangered Species Act]] and the [[Aquatic Nuisance...
+> -- *[[InTheNameOfBiodiversity_16553]]*
+
+> This issue of [[Guelph Ichthyology Reviews]] (No. 3, 1995) combines two essays: Eugene K. Balon's review of the wild origin, domestication and colour selection of the [[Common Carp]], and Richard C. Hoffmann's paper on environmental change and carp culture in medieval Europe. Editor David L.G....
+> -- *[[TheCommonCarpCyprinusCarpioIts_17307]]*
+
+> This American Fisheries Society (AFS) review, published in *Fisheries* (Vol. 18, No. 9, September 1993), lists all native freshwater mussels of the families [[Margaritiferidae]] and [[Unionidae]] in the United States and Canada. It gives state and provincial distributions, reviews the conservation...
+> -- *[[ConservationStatusOfFreshwater_12010]]*
+
+> This note covers the front matter of *Biological Pollution: The Control and Impact of Invasive Exotic Species*, a 1993 proceedings volume edited by Bill N. McKnight and published by the [[Indiana Academy of Science]]. The symposium was held in Indianapolis on October 25–26, 1991, and drew about 300...
+> -- *[[BiologicalPollutionThroughFish_17615]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -234,6 +412,12 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[PathwaysForAquaticBiotaTransfe_16237]]
 - [[NonnativeFishesInhabitingTheSt_12682]]
 - [[FurtherStudiesOnTheIntroducedA_19003]]
+- [[BiologicalInvasionsOfFreshWate_15445]]
+- [[TransplantedFishCastShadow_18809]]
+- [[InTheNameOfBiodiversity_16553]]
+- [[TheCommonCarpCyprinusCarpioIts_17307]]
+- [[ConservationStatusOfFreshwater_12010]]
+- [[BiologicalPollutionThroughFish_17615]]
 
 ## Zebra-tailed Lizard
 
@@ -262,11 +446,15 @@ Zebrafish (Danio rerio) are small freshwater cyprinids native to South Asia that
 > This genomics paper reports chromosome-scale reference genome assemblies for two endangered, co-distributed desert minnows, [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*), both endemic to the [[Gila River Basin]] in Arizona and New Mexico. The assemblies were built from...
 > -- *[[ChromosomelevelReferenceGenome_2023]]*
 
+> This 1965 paper by [[Alfred Post]] (Zoologisches Staatsinstitut und Zoologisches Museum Hamburg) reports haploid chromosome counts for freshwater teleost fishes, using a hypotonic-solution squash method for testis tissue adapted from [[Hsu and Pomerat Method]] and [[Karbe Method]]. The author...
+> -- *[[VergleichendeUntersuchungenDer_18640]]*
+
 ### Mentioned In
 - [[AdditionOfMisgurnusAnguillicau_1969]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
 - [[EffectiveBreedingEfficiencyAnI_13479]]
 - [[ChromosomelevelReferenceGenome_2023]]
+- [[VergleichendeUntersuchungenDer_18640]]
 
 ## Zebulon Pike
 
@@ -277,8 +465,12 @@ An American explorer included among the early explorers and settlers whose accou
 > This 1954 historical monograph by Harriet Bell Carlander, sponsored by the [[Upper Mississippi River Conservation Committee]], traces how fish and fishing shaped and were shaped by the Upper Mississippi River from St. Paul, Minnesota, to Caruthersville, Missouri (951 miles). It draws on Indian,...
 > -- *[[HistoryOfFishAndFishingInTheUp_17391]]*
 
+> This is the front matter, introduction and chapter sequence of *Biotic Communities of the American Southwest – United States and Mexico*, edited by [[David E. Brown]] and published as a companion to the 1:1,000,000 color map *Biotic Communities of the Southwest* ([[Brown and Lowe Map]], 1978/1980)....
+> -- *[[BioticCommunitiesOfTheAmerican_13023]]*
+
 ### Mentioned In
 - [[HistoryOfFishAndFishingInTheUp_17391]]
+- [[BioticCommunitiesOfTheAmerican_13023]]
 
 ## Zeidae
 <!-- fm: auto_enriched: true -->
@@ -290,11 +482,40 @@ An American explorer included among the early explorers and settlers whose accou
 ### Mentioned In
 - [[Anomalies Encountered in Freshwater and Marine Fishes from the Eastern United States]]
 
+## Zeiformes
+
+### Summary
+Zeiformes is an order of acanthomorph fishes that the authors describe as problematic. Caproids are treated as plesiomorphic, while zeoids and plectognaths have modified pelvic girdles. The source's analyses tested zeiform monophyly as a constraint.
+
+### Context
+> This excerpt from the *Zoological Journal of the Linnean Society* (1992, 104: 209–242) presents a review of the pelvic girdle of [[Acanthomorpha]] by Stiassny and Moore. The authors use pelvic anatomy as a character system to test hypotheses of relationship among acanthomorph lineages, working from...
+> -- *[[AReviewOfThePelvicGirdleOfAcan_14327]]*
+
+### Mentioned In
+- [[AReviewOfThePelvicGirdleOfAcan_14327]]
+
+## Zeiske
+
+### Summary
+Zeiske (1968) is cited as prior work showing that both the cave and surface forms of this fish reproduce in darkness. That work indicated that olfaction and taste, rather than vision, are essential for recognising conspecific females.
+
+### Context
+> This 1970 morphological study by [[Jakob Parzefall]] (Zoologisches Institut, Hamburg) compares a cave-dwelling population of [[Mollienesia Sphenops]] with its surface ancestor, [[Mollienesia Velifera]], and [[Xiphophorus Helleri]]. The work examines three traits thought to support life in darkness:...
+> -- *[[MorphologicalStudiesOnACaverni_18443]]*
+
+### Mentioned In
+- [[MorphologicalStudiesOnACaverni_18443]]
+
 ## Zeitgeber
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This laboratory study tests whether [[Feeding Periodicity]] and [[Starvation]] affect the formation of [[Daily Growth Increments]] in the [[Otoliths]] of juvenile [[Steelhead Trout]] (*Salmo gairdneri*) and [[Starry Flounder]] (*Platichthys stellatus*). Fish were reared for 64–76 days under feeding...
+> -- *[[FeedingPeriodicityAndTheProduc_17346]]*
+
 ### Mentioned In
 - [[TimeCoOrdinatedPrefeedingActiv_13978]]
+- [[FeedingPeriodicityAndTheProduc_17346]]
 
 ## Zeitgeber (Time Cue)
 <!-- fm: auto_enriched: true -->
@@ -326,6 +547,18 @@ Zenaida macroura is the mourning dove, a game bird species. This source lists it
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
 
+## Zeolite Softening
+
+### Summary
+A water-treatment process that removes calcium and magnesium ions by exchange onto zeolite minerals, producing soft water. In this study, zeolite-softened medium was blended with hard water to create the artificial soft test medium (medium 3, about 29.8 p.p.m. hardness).
+
+### Context
+> This study by David E. Craigie (Department of Zoology, [[University Of Toronto]]) tested whether the mineral hardness of rearing water changes the thermal resistance of [[Rainbow Trout]] (*[[Salmo Gairdneri]]*) yearlings. Fish were reared from fertilization in [[Hard Water]] or [[Soft Water]], then...
+> -- *[[AnEffectOfWaterHardnessInTheTh_17994]]*
+
+### Mentioned In
+- [[AnEffectOfWaterHardnessInTheTh_17994]]
+
 ## Zeomorph Fishes
 <!-- fm: auto_enriched: true -->
 
@@ -356,6 +589,30 @@ Zhilenko reported on the decline of fish populations in the Suifan River, docume
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Zhiltzovia
+
+### Summary
+A new genus of brachypterine stoneflies from Eurasia, with one species, Z. brevipennis. Both sexes have very short wings, and the authors tentatively treat it as a specialized derivative of Group B.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
+
+## Zhiltzovia brevipennis
+
+### Summary
+A brachypterine stonefly species known from two sites on fairly large rivers in the mountains of Armenia. It is the only species in the genus Zhiltzovia, with both sexes having very short wings.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
+
 ## Zhob-Gowmal River
 
 ### Summary
@@ -367,6 +624,18 @@ The Zhob-Gowmal River is one of three Afghan drainage basins that flows to the s
 
 ### Mentioned In
 - [[FishesOfAfghanistanAnAnnotated_15968]]
+
+## Zhou Wei
+
+### Summary
+Co-author of this 1997 taxonomic paper on Triplophysa loaches of the Yuanjiang basin in Yunnan, China. He also collected the holotype of the new species, *T. laticeps*, in 1991.
+
+### Context
+> This taxonomic paper by [[Zhou Wei]] and [[Cui Gui-Hua]] (*Ichthyological Exploration of Freshwaters*, 1997) reviews [[Triplophysa]] loaches of the [[Yuanjiang River]] (upper [[Red River]]) basin in Yunnan and formally describes *Triplophysa laticeps* as a new species. Two species had previously...
+> -- *[[FishesOfTheGenusTriplophysaCyp_12406]]*
+
+### Mentioned In
+- [[FishesOfTheGenusTriplophysaCyp_12406]]
 
 ## Zicker Berger And Hasler 1956
 <!-- fm: auto_enriched: true -->
@@ -407,8 +676,12 @@ An African cichlid fish introduced to the Salton Sea area and counted in the sur
 > A qualitative survey by the [[California Department of Fish and Game]] (CDFG), Inland Fisheries Division, measured the distribution of the endangered [[Desert Pupfish]] (*Cyprinodon macularius*) in non-refuge habitats around the [[Salton Sea]] during April, May and June 1991. Baited [[Minnow Trap]]...
 > -- *[[ADistributionSurveyOfDesertPup_20197]]*
 
+> This chapter, by Allan A. Schoenherr (Fullerton College), examines whether competition actually drives the replacement of native desert fishes by introduced species. The classic case, the near extirpation of the [[Gila Topminnow]] (*Poeciliopsis occidentalis*) by [[Mosquitofish]] (*Gambusia...
+> -- *[[TheRoleOfCompetitionInTheRepla_20582]]*
+
 ### Mentioned In
 - [[ADistributionSurveyOfDesertPup_20197]]
+- [[TheRoleOfCompetitionInTheRepla_20582]]
 
 ## Zill's Tilapia
 
@@ -419,14 +692,30 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 > This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
 > -- *[[FisheryInventoryOfTheCoachella_13687]]*
 
+> This issue of *Natur und Museum*, published by the [[Senckenberg Naturforschende Gesellschaft]] in Frankfurt am Main, contains several articles. Its central fish-focused contribution is Friedhelm Krupp's study of the distribution of Syrian freshwater fishes under human influence. Krupp reports that...
+> -- *[[DieVerbreitungSyrischerSubwass_12459]]*
+
 ### Mentioned In
 - [[FisheryInventoryOfTheCoachella_13687]]
+- [[DieVerbreitungSyrischerSubwass_12459]]
 
 ## Zilli'S Tilapia
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TripReportForTheSeptemberSurve_1996_09_15]]
+
+## Zimmerman
+
+### Summary
+A researcher (with students) whose electrophoretic work documented rapid local genetic adaptation of stream fishes to thermal alteration. The source reports this adaptation occurring in under 40 years.
+
+### Context
+> This chapter, by David C. Heins and William J. Matthews, reviews the history of [[Stream-Fish Ecology]] in North America and summarizes recent progress in [[Community Ecology]] and [[Evolutionary Ecology]] of stream fishes. It traces the field from early faunal surveys of the late 1700s and early...
+> -- *[[HistoricalPerspectivesOnTheStu_16610]]*
+
+### Mentioned In
+- [[HistoricalPerspectivesOnTheStu_16610]]
 
 ## Zimmerman And Neuenschwander 1984
 <!-- fm: auto_enriched: true -->
@@ -460,11 +749,15 @@ Zill's Tilapia (Tilapia zilli) is an introduced fish species found in trace amou
 > This conceptual management plan, prepared by Bob D. Burdick for the [[Recovery Implementation Program]] (June 1994), proposes restoring floodplain connectivity at two bottomland sites in the [[Escalante State Wildlife Area]] on the [[Gunnison River]], downstream of Delta, Colorado. The plan argues...
 > -- *[[ConceptualManagementPlanForHab_13899]]*
 
+> This 1968 laboratory study by Brown, Mitrovic and Stark examined how 100 days of chronic exposure to [[Zinc]] (0.8 mg Zn/l) alters the acute toxicity of a soft [[Alkyl Benzene Sulphonate]] (ABS) detergent in [[Rainbow Trout]]. Zinc-exposed fish were more sensitive to the detergent–zinc mixture than...
+> -- *[[EffectsOfChronicExposureToZinc_13832]]*
+
 ### Mentioned In
 - [[TheAcuteLethalToxicityToRainbo_1970_02_17]]
 - [[PredictedAndObservedToxicities_16173]]
 - [[AStudyOfSomeFishlessRiversInTh_16697]]
 - [[ConceptualManagementPlanForHab_13899]]
+- [[EffectsOfChronicExposureToZinc_13832]]
 
 ## Zinc Analysis
 
@@ -494,10 +787,34 @@ The study's assessment of whether zinc limits Bear Lake's productivity. Kemmerer
 > This 1964 experimental study by Herbert and Wakeford at the [[Water Pollution Research Laboratory]] investigated how salinity affects the toxicity of [[Zinc Sulphate]] to [[Atlantic Salmon]] smolts and yearling [[Rainbow Trout]]. The research addresses a critical management question: how to assess...
 > -- *[[TheSusceptibilityOfSalmonidFis_16704]]*
 
+> This review by D. W. M. Herbert of the [[Water Pollution Research Laboratory]] (Stevenage) examines how to set water quality criteria that protect freshwater fisheries from domestic, industrial and mining wastes. Because it is impractical to study every ecological effect of every discharge, the...
+> -- *[[PollutionAndFisheries_16694]]*
+
+> This 1967 laboratory study by [[Ian R. Ball]], published in *Water Research*, compares the acute toxicity of [[Zinc Sulphate]] to five freshwater fish species: [[Rainbow Trout]], [[Perch]], [[Roach]], [[Gudgeon]] and [[Bream]]. It is the second paper in a series following a study on [[Undissociated...
+> -- *[[TheRelativeSusceptibilitiesOfS_17293]]*
+
+> This 1963 preliminary study by D. W. M. Herbert and D. S. Shurben tested whether swimming activity makes [[Rainbow Trout]] more susceptible to two common pollutants, [[Ammonium Chloride]] and [[Zinc Sulphate]]. Hatchery-reared yearling trout were held against known current velocities in stirred...
+> -- *[[APreliminaryStudyOfTheEffectOf_16701]]*
+
+> This 1964 study by D. W. M. Herbert and Jennifer M. Vandyke, published in *Annals of Applied Biology* (vol. 53), tests whether the toxic threshold of a two-poison mixture to [[Rainbow Trout]] can be predicted by summing each poison's concentration as a fraction of its individual threshold. The...
+> -- *[[TheToxicityToFishOfMixturesOfP_16703]]*
+
+> This 1964 laboratory study by D. W. M. Herbert and D. S. Shurben, from the [[Water Pollution Research Laboratory]] at Stevenage, tested an empirical rule for the acute toxicity of mixed poisons in [[Rainbow Trout]] (*Salmo gairdnerii*). The rule states that a two-poison mixture reaches its...
+> -- *[[TheToxicityToFishOfMixturesOfP_16702]]*
+
+> This 1946 paper by J. Grindley of the [[Water Pollution Research Laboratory]] (Watford, England) reports controlled laboratory bioassays of nine toxic substances that occur in industrial waste water. Tests used [[Eurasian Minnow]] (*Phoxinus phoxinus*) and yearling [[Rainbow Trout]] (*Salmo...
+> -- *[[ToxicityToRainbowTroutAndMinno_17797]]*
+
 ### Mentioned In
 - [[TheAcuteToxicityOfPhenolToRain_1967_08_09]]
 - [[TheSusceptibilityOfSalmonidFis_16705]]
 - [[TheSusceptibilityOfSalmonidFis_16704]]
+- [[PollutionAndFisheries_16694]]
+- [[TheRelativeSusceptibilitiesOfS_17293]]
+- [[APreliminaryStudyOfTheEffectOf_16701]]
+- [[TheToxicityToFishOfMixturesOfP_16703]]
+- [[TheToxicityToFishOfMixturesOfP_16702]]
+- [[ToxicityToRainbowTroutAndMinno_17797]]
 
 ## Zinc Sulphate Toxicity
 <!-- fm: auto_enriched: true -->
@@ -525,11 +842,15 @@ The study's assessment of whether zinc limits Bear Lake's productivity. Kemmerer
 > This review by [[Walter A. Chipman]] of the [[U.S. Fish and Wildlife Service]] Radiobiological Investigations examines how marine fish and shellfish take up radioactive materials when [[Fission Products]] and other radioisotopes are present in sea water. Drawing mainly on laboratory work at the...
 > -- *[[AccumulationOfRadioactiveMater_16139]]*
 
+> This study by C. E. Cushing of the [[Battelle Memorial Institute]] Pacific Northwest Laboratory examined periphyton (attached algal community) productivity and the uptake of radionuclides, specifically [[Phosphorus-32]] (³²P) and [[Zinc-65]] (⁶⁵Zn), from the [[Columbia River]] below the [[Hanford...
+> -- *[[PeriphytonProductivityAndRadio_18119]]*
+
 ### Mentioned In
 - [[RadioactiveMaterialsInAquaticA_13967]]
 - [[TerrestrialAndFreshwaterRadioe_12563]]
 - [[TerrestrialAndFreshwaterRadioe_12564]]
 - [[AccumulationOfRadioactiveMater_16139]]
+- [[PeriphytonProductivityAndRadio_18119]]
 
 ## Zingel
 
@@ -540,8 +861,24 @@ A Palearctic percid genus with 3 species in the source's taxonomic table. The so
 > This review reconstructs the evolution of spawning behavior in percid fishes, a group that arose as freshwater derivatives of a marine perciform and diversified strongly in North America. The paper recognizes six egg-deposition behaviors (broadcasting, stranding, burying, attaching, clumping and...
 > -- *[[EvolutionOfReproductiveBehavio_18403]]*
 
+> This 1965 paper by [[Bruce B. Collette]] (Ichthyological Laboratory, Bureau of Commercial Fisheries, U.S. National Museum) surveys the family [[Percidae]] for [[Breeding Tubercles]], small epidermal structures that aid contact between males and females during spawning, and compares their...
+> -- *[[SystematicSignificanceOfBreedi_17132]]*
+
 ### Mentioned In
 - [[EvolutionOfReproductiveBehavio_18403]]
+- [[SystematicSignificanceOfBreedi_17132]]
+
+## Zinsmeister Collection
+
+### Summary
+A fossil collection of material from the Timms Point silt that the author drew on for the 1968 study. Its specimens contributed to the otolith and other fish remains identified in the paper.
+
+### Context
+> This 1968 study by [[John E. Fitch]], published in the [[Los Angeles County Museum of Natural History]] *Contributions in Science* (No. 146), identifies fish remains recovered from the [[Timms Point Silt]] exposed near San Pedro, California. Over 1,000 pounds of fossiliferous matrix yielded 2,601...
+> -- *[[OtolithsAndOtherFishRemainsFro_16432]]*
+
+### Mentioned In
+- [[OtolithsAndOtherFishRemainsFro_16432]]
 
 ## Zion Canyon
 
@@ -575,6 +912,9 @@ Zion Canyon is one of the steep-walled, narrow canyons that characterize the Vir
 > This 1993 report by the [[Southern Utah Wilderness Alliance]] (SUWA) is a conservationist "blueprint" for restoring balance to management of the Virgin River, a roughly 200-mile desert river flowing through Utah, Arizona and Nevada into [[Lake Mead]]. The report argues that water management has...
 > -- *[[AVisionForTheVirginConservatio_15060]]*
 
+> This 1994 paper by Scott C. Gregory and James E. Deacon, published in the *American Water Resources Association* volume on effects of human-induced changes on hydrologic systems, uses 17 years of native fish data plus historical records to document declines in the distribution and abundance of the...
+> -- *[[HumanInducedChangesToNativeFis_19277]]*
+
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
@@ -582,6 +922,7 @@ Zion Canyon is one of the steep-walled, narrow canyons that characterize the Vir
 - [[DraftConservationAgreementVirg_18320]]
 - [[AquaticEcosystemSymposiumARepo_15847]]
 - [[AVisionForTheVirginConservatio_15060]]
+- [[HumanInducedChangesToNativeFis_19277]]
 
 ## Zion Power Station
 
@@ -594,6 +935,18 @@ A thermal power plant on Lake Michigan that the report lists among major intake 
 
 ### Mentioned In
 - [[FishProtectiveDevicesACompilat_11796]]
+
+## Zippin Removal Method
+
+### Summary
+A mark-recapture style depletion estimator used to calculate fish population size from successive removal passes. In this study, it was applied to three-pass electrofishing data from block-netted stream stations, processed in MicroFish 3.0.
+
+### Context
+> This study surveyed stream habitats and fish populations at 243 stations across 21 high-elevation trout streams in the [[White Mountains Area]], east-central Arizona, from 1986 to 1990. The area holds most of the historic habitat of the federally threatened [[Apache Trout]]. A generalized linear...
+> -- *[[TroutBiomassAndStreamHabitatRe_15929]]*
+
+### Mentioned In
+- [[TroutBiomassAndStreamHabitatRe_15929]]
 
 ## Zirahuén
 <!-- fm: auto_enriched: true -->
@@ -641,6 +994,38 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 ### Mentioned In
 - [[BriefBographiesOfLeadingIchthy_12677]]
 
+## Zoarces Viviparus
+
+### Summary
+A viviparous fish species (the eelpout) mentioned as part of earlier work on dorsal fin ray variation. The source cites Schmidt (1919–1921) as having studied it alongside Lebistes reticulatus, but gives no findings for this species in the note.
+
+### Context
+> This 1965 study by Johannes Horst Schröder, published in the *Zeitschrift für zoologische Systematik und Evolutionsforschung*, tests whether the [[Dorsal Fin Ray Count]] in [[Mollienesia]] hybrids is inherited polygenically, as previously shown for vicariant [[Limia]] species by Breider (1936)....
+> -- *[[ZurVererbungDerDorsalflossenst_20607]]*
+
+> This 1962 paper by Guillermo Mendoza (Grinnell College) reports the first intensive field-based study of the female reproductive cycles of three viviparous [[Goodeidae]] from [[Lake Pátzcuaro]], Mexico: [[Alloophorus Robustus]], [[Goodea Luitpoldii]] and [[Neoophorus Diazi]]. Based on 3,261 females...
+> -- *[[TheReproductiveCyclesOfThreeVi_20118]]*
+
+> This 1933 morphological study by C. L. Turner, published in the *Journal of Morphology*, examines reproduction in the [[Goodeidae]], a family of cyprinodont fishes confined to the [[Mexican Plateau]] and adjacent streams. All members are viviparous. Fertilization is internal, the eggs contain very...
+> -- *[[ViviparitySuperimposedUponOvov_13418]]*
+
+### Mentioned In
+- [[ZurVererbungDerDorsalflossenst_20607]]
+- [[TheReproductiveCyclesOfThreeVi_20118]]
+- [[ViviparitySuperimposedUponOvov_13418]]
+
+## Zobell
+
+### Summary
+Zobell is cited, with Anderson, for the observation that sessile bacteria on bottle walls remove phosphorus from solution. The source uses this to explain that surface-to-volume effects make turnover in bottles faster than in open lakes. The note therefore treats bottle experiments as a source of bias when extrapolating to natural waters.
+
+### Context
+> This 1957 laboratory study by [[Eugene Harris]] (Dalhousie University, published in the [[Canadian Journal of Zoology]]) measured the exchange of radioactive phosphorus (³²P) between water and three test systems: the brine shrimp [[Artemia]], the marine amphipod [[Gammarus Locusta]] (beach flea),...
+> -- *[[RadiophosphorusMetabolismInZoo_20668]]*
+
+### Mentioned In
+- [[RadiophosphorusMetabolismInZoo_20668]]
+
 ## Zobell 1946
 <!-- fm: auto_enriched: true -->
 
@@ -654,8 +1039,13 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 ## Zona Radiata
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This histological study describes the ovary of the [[Threadfin Shad]] (*Dorosoma petenense*) collected from [[Lake Texoma]] to support work on spawning biology. Using gill-netted adults fixed in Smith's or Bouin's fluid, the author documents a wide range of egg follicle sizes within a single ovary...
+> -- *[[OvarianMorphologyOfTheThreadfi_11420]]*
+
 ### Mentioned In
 - [[ElectronMicroscopicInvestigati_1964_06_11]]
+- [[OvarianMorphologyOfTheThreadfi_11420]]
 
 ## Zona Radiata Externa
 <!-- fm: auto_enriched: true -->
@@ -668,6 +1058,18 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 
 ### Mentioned In
 - [[DesmosomesInTheFollicularEpith_1964_06_11]]
+
+## Zonale Darter
+
+### Summary
+A darter species (Etheostoma zonale) recorded by the source among about 30 fish species collected from the same riffles and nearby pools as the Bayou Darter.
+
+### Context
+> The paper describes [[Etheostoma Rubrum]], the Bayou Darter, a new percid species of the subgenus [[Nothonotus Subgenus]]. The description is based on 209 type specimens from seven series, all taken from [[Bayou Pierre]] or its tributary [[White Oak Creek]] in [[Copiah County]], Mississippi. The...
+> -- *[[EtheostomaRubrumANewPercidFish_16768]]*
+
+### Mentioned In
+- [[EtheostomaRubrumANewPercidFish_16768]]
 
 ## Zonatus Group
 <!-- fm: auto_enriched: true -->
@@ -733,9 +1135,13 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 > - **Aquatic/freshwater gastropods**: [[Campeloma Decisum]], [[Viviparus Intertextus]], [[Lymnaea Columella]], [[Physa Anatina]], [[Helisoma Anceps]], [[Oxytrema Alveare]] (noted as "typical downstream forms") - **Terrestrial land snails**: [[Stenotrema Leai Aliciae]], [[Mesodon Thyroidus]], [[Mes...
 > -- *[[SomeDistributionRecordsForLoui_12899]]*
 
+> This 1952 [[Kansas University Science Bulletin]] paper by A. Byron Leonard and C. Raymond Goble is the first in a planned series cataloguing the invertebrate and vertebrate fauna of the [[University of Kansas Natural History Reservation]]. The authors surveyed the land snails and freshwater...
+> -- *[[MolluscaOfTheUniversityOfKansa_20277]]*
+
 ### Mentioned In
 - [[NotesOnSomeGastropodsFromNorth_12895]]
 - [[SomeDistributionRecordsForLoui_12899]]
+- [[MolluscaOfTheUniversityOfKansa_20277]]
 
 ## Zoo Population
 <!-- fm: auto_enriched: true -->
@@ -757,11 +1163,59 @@ Zoarces, the viviparous blenny, was the subject of classic studies on fish races
 ### Mentioned In
 - [[DraftFishRemainsFromStantonSCa_15373]]
 
+## Zoobenthos
+
+### Summary
+Bottom-dwelling aquatic invertebrates that live on or in stream sediments. The source notes that hyporheic zones have mainly been studied as zoobenthos habitat, citing Coleman and Hynes (1970) and Stanford and Ward (1988).
+
+### Context
+> This 1990 study by [[H. Maurice Valett]], [[Stuart G. Fisher]], and [[Emily H. Stanley]] (Arizona State University, *Journal of the North American Benthological Society* 9(3):201-215) describes the physical and chemical conditions of the [[Hyporheic Zone]] in three sandy runs of [[Sycamore Creek]],...
+> -- *[[PhysicalAndChemicalCharacteris_13667]]*
+
+### Mentioned In
+- [[PhysicalAndChemicalCharacteris_13667]]
+
 ## Zoogeographic Barriers
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TerminologyAssociatedWithIntro_11384]]
+
+## Zoogeographic Models
+
+### Summary
+Conceptual models of how fish populations are structured across a landscape, as proposed by Meffe and Vrijenhoek (1988). The source contrasts a Death Valley model of complete isolation with a stream hierarchy model of connected dendritic river populations, each implying different management actions.
+
+### Context
+> This review by G. K. Meffe (1990, *Journal of Fish Biology* 37 Supplement A, 105–112) argues that the long-term persistence of rare fishes depends on maintaining genetic variation within populations, which provides the raw material for natural selection. The paper outlines six applications of...
+> -- *[[GeneticApproachesToConservatio_20081]]*
+
+### Mentioned In
+- [[GeneticApproachesToConservatio_20081]]
+
+## Zoogeographic Regions
+
+### Summary
+Biogeographic divisions of the ocean used to describe where organisms occur. The source states that the restricted distributions of Oneirodes species are consistent with the zoogeographic regions recognized for midwater organisms. Most species are confined to discrete areas rather than being cosmopolitan.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
+
+## Zoogeographic Zones
+
+### Summary
+Geographic divisions of a region based on distinct species assemblages. The authors divided the Chesapeake Bight into three zones: a Gulf Stream zone with tropical and southern fauna, a stable outer shelf and upper slope zone, and a seasonally variable inner shelf zone dominated by Virginian species.
+
+### Context
+> This study by [[John A. Musick]] and [[John D. McEachran]] (Virginia Institute of Marine Science) documents the distribution, abundance, and molt condition of 21 decapod crustacean species collected by bottom trawling across the [[Chesapeake Bight]] continental shelf during autumn 1967 and winter...
+> -- *[[AutumnAndWinterOccurrenceOfDec_15542]]*
+
+### Mentioned In
+- [[AutumnAndWinterOccurrenceOfDec_15542]]
 
 ## Zoogeography
 <!-- fm: auto_enriched: true -->
@@ -776,17 +1230,53 @@ Zoogeography in fish science refers to the study of how fish species are distrib
 > This is a data package, not a research paper. A cover letter dated 2 November 1984 from the University of Arizona Laboratory of Tree-Ring Research was sent to Mr. Dave E. Brown of the Zoology Department at Arizona State University. It encloses temperature and precipitation data for Mexican...
 > -- *[[TemperatureAndPrecipitationDat_12376]]*
 
+> This study surveyed reef-fish assemblages at three reefs off [[Bahrain]] in the [[Arabian Gulf]] at 4-7 m, 7-10 m and 13-15 m depth, using SCUBA and the [[Species/Time Random Count Technique]]. A total of 55 species in 22 families was recorded. Species richness rose with depth, from 37 species at...
+> -- *[[AbundanceAndBathymetricDistrib_21169]]*
+
+> This short paper by [[Boris Sket]] (University E. Kardelj, Ljubljana), published in the *Int. Espeleol. Comun.* proceedings, reviews notable cave-water finds in Yugoslavia accumulated over several decades. It covers the taxonomy, [[Zoogeography]] and [[Ecology]] of subterranean animals of the...
+> -- *[[EvaluationOfSomeTaxonomicallyZ_19012]]*
+
+> In March 1990 a joint zoological survey of central and western [[Saudi Arabia]] sampled 28 freshwater localities between 8 and 28 March. The survey was a collaboration between the [[National Commission For Wildlife Conservation And Development]] (NCWCD, Riyadh) and the [[Senckenberg Research...
+> -- *[[ZoologicalSurveyInSaudiArabiaS_12464]]*
+
+> This 1977 study by S. J. M. Blaber (University of Natal) examines the feeding ecology and relative abundance of eleven [[Grey Mullet]] species (family [[Mugilidae]]) in five estuaries of the Natal and Pondoland coast of South Africa, sampled over two years (1975–1976). Diet was broadly similar...
+> -- *[[TheFeedingEcologyAndRelativeAb_17662]]*
+
+> This 1993 paleolimnology study by Peter Hovingh compares the distribution of amphibians, leeches, molluscs and fish among the artesian spring systems of [[Tule Valley]], [[Snake Valley]] and [[Fish Springs Flat]] in the western [[Bonneville Basin]], Utah. Tule Valley springs lack fish and molluscs...
+> -- *[[ZoogeographyAndPaleozoologyOfL_19947]]*
+
+> This revision by [[Carter R. Gilbert]] (Bulletin of the Florida State Museum, 1964) treats the cyprinid subgenus *Luxilus* ([[Genus Notropis]]), a group of shiners of clear, small to medium-sized streams across temperate North America east of the Rockies. The author recognizes three species groups...
+> -- *[[TheAmericanCyprinidFishesOfThe_16991]]*
+
 ### Mentioned In
 - [[ARevisionOfTheSandDartersOfThe_1969]]
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
 - [[Zoogeography_18180]]
 - [[TemperatureAndPrecipitationDat_12376]]
+- [[AbundanceAndBathymetricDistrib_21169]]
+- [[EvaluationOfSomeTaxonomicallyZ_19012]]
+- [[ZoologicalSurveyInSaudiArabiaS_12464]]
+- [[TheFeedingEcologyAndRelativeAb_17662]]
+- [[ZoogeographyAndPaleozoologyOfL_19947]]
+- [[TheAmericanCyprinidFishesOfThe_16991]]
 
 ## Zoogeography Of The Levant
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TheCichlidFishesOfTheGenusTris_1960_12_30]]
+
+## Zoogloea
+
+### Summary
+A genus of bacteria, and in this source a loosely defined 'zoogloeal' group that forms gelatinous masses in slimes. It was present at more than 90% of the surveyed sites and was dominant or co-dominant at over half, and the authors note its taxonomy is unresolved.
+
+### Context
+> This study by [[Curtis]] and [[Harrington]] of the [[Water Pollution Research Laboratory]] examines [[Sewage Fungus]], the cotton-wool-like slimes of attached micro-organisms that form in rivers receiving biodegradable organic pollution. Sites were surveyed in 1968 and 1969 and compared with a 1960...
+> -- *[[TheOccurrenceOfSewageFungusInR_18112]]*
+
+### Mentioned In
+- [[TheOccurrenceOfSewageFungusInR_18112]]
 
 ## Zoogoneticus
 
@@ -800,6 +1290,42 @@ A genus of small viviparous Goodeid fishes that Meek established as new in this 
 ### Mentioned In
 - [[AContributionToTheIcthyologyOf_12369]]
 
+## Zoogoneticus Cuitzeokensis
+
+### Summary
+Zoogoneticus cuitzeokensis is a goodeid fish found across much of the Mexican Plateau. Turner describes it as having the most elaborate nutritive processes in the family, about twelve branched divisions of flattened membranes, which he links to lower absorption efficiency per unit area.
+
+### Context
+> This 1933 morphological study by C. L. Turner, published in the *Journal of Morphology*, examines reproduction in the [[Goodeidae]], a family of cyprinodont fishes confined to the [[Mexican Plateau]] and adjacent streams. All members are viviparous. Fertilization is internal, the eggs contain very...
+> -- *[[ViviparitySuperimposedUponOvov_13418]]*
+
+### Mentioned In
+- [[ViviparitySuperimposedUponOvov_13418]]
+
+## Zoogoneticus Quitzeoensis
+
+### Summary
+Zoogoneticus quitzeoensis is a small native goodeid fish of central Mexico. In this source it was one of the most frequently recorded native fishes, occurring at five Rio Duero drainage sites.
+
+### Context
+> This paper reports new field, interview, and museum-based information on two lampreys endemic to a small area of central Mexico: the parasitic [[Lampetra Spadicea]] and its nonparasitic derivative [[Lampetra Geminis]]. Surveys in November 1991 of the [[Rio Grande de Morelia]] and [[Rio Duero]]...
+> -- *[[NotesOnTheBiologyOfTheMexicanL_15992]]*
+
+### Mentioned In
+- [[NotesOnTheBiologyOfTheMexicanL_15992]]
+
+## Zoological Journal of the Linnean Society
+
+### Summary
+The journal in which this 1991 paper by Alan H. Bornbusch appeared (vol. 101, no. 2). The issue also included an unrelated paper by Walter Stalker Greaves on premolar loss in selenodont artiodactyls.
+
+### Context
+> This 1991 paper in the [[Zoological Journal of the Linnean Society]] by Alan H. Bornbusch tests whether the Eurasian catfish family [[Siluridae]] is a natural (monophyletic) group. Using a phylogenetic analysis of derived character states, the author identifies five synapomorphies unique to the...
+> -- *[[MonophylyOfTheCatfishFamilySil_17726]]*
+
+### Mentioned In
+- [[MonophylyOfTheCatfishFamilySil_17726]]
+
 ## Zoological Laboratory of Indiana University
 
 ### Summary
@@ -811,6 +1337,30 @@ The Zoological Laboratory of Indiana University is the institutional affiliation
 
 ### Mentioned In
 - [[OnANewSpeciesOfFishesFromColom_15807]]
+
+## Zoological Museum Amsterdam
+
+### Summary
+The Zoological Museum Amsterdam (ZMA) is the institution that published this 1969 Bulletin paper and holds the type material of the new species, catalogued as ZMA Amph. 102.126–102.128. The source identifies it as the home of the Bulletin Zoologisch Museum series in which the description appeared.
+
+### Context
+> This 1969 taxonomic note from the [[Zoological Museum Amsterdam]] (Bulletin Vol. 1 No. 11) by S. Pinkster describes a new freshwater amphipod, *Echinogammarus aquilifer* nov. sp., from the western Pyrenees. Based on topotypical material, the author provides a detailed redescription of...
+> -- *[[ANewEchinogammarusOfTheBerillo_11099]]*
+
+### Mentioned In
+- [[ANewEchinogammarusOfTheBerillo_11099]]
+
+## Zoological Nomenclature
+
+### Summary
+The system of naming animals that the article uses as its main frame. Blackwelder criticises several textbook errors in how names are formed, cited and applied, including binomial names, synonymy and the authority that governs the rules.
+
+### Context
+> R. E. Blackwelder (Department of Zoology, Southern Illinois University) critiques recurring taxonomic errors in general biology and zoology textbooks, which he attributes to authors who are usually not experienced taxonomists. The article lists thirteen errors and ends with a numbered summary of...
+> -- *[[SomeCommonTaxonomicErrors_17680]]*
+
+### Mentioned In
+- [[SomeCommonTaxonomicErrors_17680]]
 
 ## Zoological Record
 
@@ -837,8 +1387,24 @@ The Zoological Survey of Saudi Arabia is a systematic animal inventory project t
 > This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
 > -- *[[TheLevantineLandbridgeHistoric_18634]]*
 
+> This source is a multi-part compilation from the Proceedings of the 1985 Mainz Symposium on the Fauna and Zoogeography of the Middle East (Beihefte zum TAVO A 28, 1987). It contains three elements: a reference list from [[Por]]'s work on Levantine zoogeography and [[Lessepsian Migration]]; a survey...
+> -- *[[ZoologicalSurveyOfSaudiArabia_14148]]*
+
 ### Mentioned In
 - [[TheLevantineLandbridgeHistoric_18634]]
+- [[ZoologicalSurveyOfSaudiArabia_14148]]
+
+## Zoologisches Museum Hamburg
+
+### Summary
+A natural history museum in Hamburg, Germany, whose collection (abbreviated ZMH) holds the holotype and paratypes of Chondrostoma beysehirense, including specimens collected in 1955 and 1964.
+
+### Context
+> This paper describes *Chondrostoma beysehirense* as a new species of cyprinid fish from [[Beysehir Lake]] in [[Central Anatolia]], Turkey. Specimens from the lake had previously been assigned to [[Chondrostoma Regium]], and the author concludes from morphological comparison with 15 *Chondrostoma*...
+> -- *[[ChondrostomaBeysehirenseANewCy_12404]]*
+
+### Mentioned In
+- [[ChondrostomaBeysehirenseANewCy_12404]]
 
 ## Zoology
 <!-- fm: auto_enriched: true -->
@@ -861,6 +1427,18 @@ The university department that ran the refinery effluent toxicity bioassay progr
 
 ### Mentioned In
 - [[ToxicityBioassayOfOilRefineryE_19066]]
+
+## Zoology Museum at CIQRO
+
+### Summary
+A zoological collection held by the Centro de Investigaciones de Quintana Roo (CIQRO) that supplied fish specimens for this study, alongside field sampling and published records. The source draws on its holdings as one of the data sources for the southern Quintana Roo inventory.
+
+### Context
+> This study by Schmitter-Soto and Gamboa-Pérez (1996, *Revista de Biología Tropical* 44(1): 199–212) presents a preliminary inventory and distribution analysis of continental fishes in southern [[Quintana Roo]], drawing on 69 sampled localities in the [[Río Hondo]] basin, published records and the...
+> -- *[[ComposicionYDistribucionDePece_20570]]*
+
+### Mentioned In
+- [[ComposicionYDistribucionDePece_20570]]
 
 ## Zooplanktivory
 <!-- fm: auto_enriched: true -->
@@ -947,6 +1525,51 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This second interim report, prepared by Diana Fapoulias of [[Arizona State University]] for the [[U.S. Fish and Wildlife Service]] Office of Endangered Species (Albuquerque, NM), documents an 8-week pond experiment on larval [[Razorback Sucker]] reared at [[Dexter National Fish Hatchery]]. Twelve...
 > -- *[[SecondInterimReportOnStudiesOf_18415]]*
 
+> This 1950 Special Publication of the [[American Society of Limnology and Oceanography]] describes the [[Clarke-Bumpus Plankton Sampler]], developed by G. L. Clarke and D. F. Bumpus of Harvard University and the [[Woods Hole Oceanographic Institution]]. The device is a closing plankton net fitted...
+> -- *[[ThePlanktonSampleranInstrument_15916]]*
+
+> This study compared benthic insect populations and planktonic food at two physically similar rapids on the [[Montreal River]], Saskatchewan, during summer 1960. The lower station, below a series of productive lakes, held substantially more filter-feeding [[Trichoptera]] larvae, mainly...
+> -- *[[FilterfeedingInsectDistributio_18115]]*
+
+> This study by [[Ronald N. B. Campbell]] (University College, Cork; published in *Glasgow Naturalist*, 1982) compares the diet of [[Arctic Charr]] living alone with that of Charr living alongside [[Brown Trout]]. The allopatric (alone) Charr of [[Loch Meallt]], Skye, were compared by stomach...
+> -- *[[TheFoodOfArcticCharrInThePrese_17362]]*
+
+> This 1963 study by Johnie H. Crance (Alabama Department of Conservation), reprinted from *The Progressive Fish-Culturist*, tested whether low concentrations of [[Copper Sulfate]] (0.05 to 0.08 p.p.m.) could control scum-forming [[Microcystis]] blooms in farm ponds without harming [[Zooplankton]] or...
+> -- *[[TheEffectsOfCopperSulfateOnMic_17995]]*
+
+> This 1987 study in the [[Transactions of the American Fisheries Society]] examines how the filter-feeding cichlid *Tilapia galilaea* ingests plankton. The authors tested a [[Double-Filtration Hypothesis]], which proposed that [[Gill Rakers]] strain large particles such as zooplankton while...
+> -- *[[ParticleIngestionByTilapiaGali_19137]]*
+
+> This study used bottom trawling where the [[Thermocline]] met the lake bottom near Grand Haven, Michigan, to compare the thermal distribution of fishes in [[Lake Michigan]] between 1977 and 1979. Between the two surveys, the native [[Bloater]] (*Coregonus hoyi*) rose from less than 1% to about 42%...
+> -- *[[ThermalHabitatShiftsByFishesAt_18075]]*
+
+> This 1968 study, published in the [[Journal of the Arizona Academy of Science]], examines what controls productivity in seven small fishing impoundments in eastern Arizona. The authors (Kemmerer, Glucksman, Stewart, and McConnell) of the [[Arizona Cooperative Fishery Unit]] measured gross primary...
+> -- *[[SomeProductivityRelationsInSev_17934]]*
+
+> This U.S. Fish and Wildlife Service account by [[Chester C. Buchanan]] and [[Mark E. Coleman]] (published in the Audubon Wildlife Report, 1987) describes the [[Cui-Ui]] (*Chasmistes cujus*), a large, lake-dwelling sucker endemic to [[Pyramid Lake]], Nevada. The cui-ui must enter the [[Truckee...
+> -- *[[TheCuiui_13873]]*
+
+> This 1967 review by [[J. W. G. Lund]] of the Freshwater Biological Association argues that understanding the ecology of [[Planktonic Algae]] is essential to understanding the ecology of a lake as a whole. It covers algal productivity and biomass estimates, the transfer of energy from primary to...
+> -- *[[PlanktonicAlgaeAndTheEcologyOf_16259]]*
+
+> This study uses a [[Bioenergetics Model]] to quantify the consumption dynamics of [[Lake Trout]] (*Salvelinus namaycush*) in [[Flaming Gorge Reservoir]], Utah-Wyoming, and tests whether lake trout predation drove recent shifts in the forage fish community. Kokanee (*Oncorhynchus nerka*) constituted...
+> -- *[[LakeTroutConsumptionAndRecentC_20920]]*
+
+> This 1990 study by [[Maria Leonor Fidalgo]], published by the [[Instituto de Zoologia Dr. Augusto Nobre]] at the [[Faculdade de Ciências do Porto]], examines the abundance of heterotrophic bacteria, total coliforms, fecal coliforms and fecal streptococci in the [[Crestuma/Lever Reservoir]] on the...
+> -- *[[AboutTheRelationshipBetweenSom_16365]]*
+
+> This 1990 limnological survey, published by the Instituto de Zoologia "Dr. Augusto Nobre" (Faculdade de Ciências do Porto), describes the baseline (reference) condition of a stretch of [[River Vizela]] in northern Portugal before the construction of [[Queimadela Dam]]. Monthly sampling at two...
+> -- *[[LimnologicalCharacterizationOf_16368]]*
+
+> This 1962 study by Robert E. Wollitz, published in the *Proceedings of the Montana Academy of Sciences*, examines how commercial fish toxicants alter the physical, chemical and biological character of three adjacent [[Three Forks Ponds]] (East, Middle and West) east of Three Forks, Montana....
+> -- *[[EffectsOfCertainCommercialFish_20809]]*
+
+> This 1937 study by [[William E. Ricker]] (Pacific Biological Station) analyses the stomach contents of several hundred [[Sockeye Salmon]] from [[Cultus Lake]], British Columbia, to determine how young fish relate to the lake's plankton supply. Fingerlings feed almost exclusively on pelagic...
+> -- *[[TheFoodAndTheFoodSupplyOfSocke_16846]]*
+
+> This is a review article by W. T. Edmondson, published in the *Mitteilungen der Internationalen Vereinigung für Theoretische und Angewandte Limnologie* (Stuttgart, 1974, vol. 2, pp. 229–272). It surveys the state of knowledge on [[Secondary Production]] (production of consumer animals) in...
+> -- *[[SecondaryProduction_15764]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -979,6 +1602,21 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[PhysicochemicalAndBiologicalCo_16925]]
 - [[LimnologyOfTheUpperNorthPlatte_20516]]
 - [[SecondInterimReportOnStudiesOf_18415]]
+- [[ThePlanktonSampleranInstrument_15916]]
+- [[FilterfeedingInsectDistributio_18115]]
+- [[TheFoodOfArcticCharrInThePrese_17362]]
+- [[TheEffectsOfCopperSulfateOnMic_17995]]
+- [[ParticleIngestionByTilapiaGali_19137]]
+- [[ThermalHabitatShiftsByFishesAt_18075]]
+- [[SomeProductivityRelationsInSev_17934]]
+- [[TheCuiui_13873]]
+- [[PlanktonicAlgaeAndTheEcologyOf_16259]]
+- [[LakeTroutConsumptionAndRecentC_20920]]
+- [[AboutTheRelationshipBetweenSom_16365]]
+- [[LimnologicalCharacterizationOf_16368]]
+- [[EffectsOfCertainCommercialFish_20809]]
+- [[TheFoodAndTheFoodSupplyOfSocke_16846]]
+- [[SecondaryProduction_15764]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->
@@ -998,6 +1636,22 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 
 ### Mentioned In
 - [[EffectsOfNutrientEnhancementOn_1994]]
+
+## Zooplankton Feeding
+
+### Summary
+Zooplankton feeding is the consumption of small planktonic crustaceans such as copepods by fish. In this study, copepods (Diaptomus and Cyclops) dominated trout diets, and rainbow trout fed more on zooplankton than cutthroat, brook, or coho. The authors suggested that introducing alternative food organisms, such as mysids and amphipods, might reduce dependence on copepods and thus lower infection.
+
+### Context
+> This 1967 study by [[Becker and Brunson]] (Journal of Wildlife Management, Vol. 31, No. 4) examined larval *Diphyllobothrium* cestodes in stocked salmonids in three western Washington lakes (Goodwin, Shoecraft, and Silver) from June 1963 to June 1966. The authors concluded that the plerocercoid...
+> -- *[[DiphyllobothriumCestodaInfecti_15679]]*
+
+> McCarthy and Minckley (1987) evaluated seven bony structures for age estimation in the [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Lake Mohave]], Arizona and Nevada. Only [[Sectioned Otoliths]] gave reliable ages, especially for large, old fish. Seventy wild-caught fish were estimated at 24...
+> -- *[[AgeEstimationForRazorbackSucke_12257]]*
+
+### Mentioned In
+- [[DiphyllobothriumCestodaInfecti_15679]]
+- [[AgeEstimationForRazorbackSucke_12257]]
 
 ## Zooplankton Grazing
 <!-- fm: auto_enriched: true -->
@@ -1046,6 +1700,30 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 ### Mentioned In
 - [[CalanoidCopepodsFromSomeOldAri_16013]]
 
+## Zoosporangia
+
+### Summary
+Sporangia in which motile zoospores are produced, a key asexual reproductive structure in water moulds. In this source they are used to separate the species, with differences in abundance, shape, and timing among the three Scoliolegnia species.
+
+### Context
+> M. W. Dick (1969, *Botanical Journal of the Linnean Society*, vol. 62, pp. 255–266) re-examined isolates previously referred to [[Saprolegnia Asterophora]] de Bary, a water mould of acidic, organic-rich wetlands. The study resolves the group into an aggregate of three segregate species. Two are...
+> -- *[[TheScoliolegniaAsterophoraAggr_12848]]*
+
+### Mentioned In
+- [[TheScoliolegniaAsterophoraAggr_12848]]
+
+## Zoospore
+
+### Summary
+A motile, flagellated spore that is the infective stage of chytrids. In this fungus, the zoospore settles on the apex of a Stylospheridium cell, dissolves part of the host wall, and develops into the apical part of the sporangium; mature zoospores (2.5–3 µm, with a posterior flagellum about 12 µm long) are released non-motile and then swim off through the host mucilage.
+
+### Context
+> This 1965 paper by Hilda M. Canter, published in the *Journal of the Royal Microscopical Society*, describes and names a new chytrid fungus, [[Entophlyctis Molesta]] sp. nov. The fungus parasitizes [[Stylospheridium Stipitatum]], a green alga that itself grows as an epiphyte on the blue-green alga...
+> -- *[[StudiesOnBritishChytridsXxivEn_17376]]*
+
+### Mentioned In
+- [[StudiesOnBritishChytridsXxivEn_17376]]
+
 ## Zoospores
 
 ### Summary
@@ -1057,6 +1735,30 @@ Zoospores are motile, flagellated spores that many parasitic fungi, including Sa
 
 ### Mentioned In
 - [[APreliminaryReportOnTheControl_14372]]
+
+## Zopf 1884
+
+### Summary
+An earlier author whose description of a chytrid form is the closest match to Entophlyctis molesta, according to Canter. The source notes differences: the empty sporangium remains visible in Zopf's material, Zopf apparently did not see the male cell, and Zopf regarded the resting spore as asexually formed.
+
+### Context
+> This 1965 paper by Hilda M. Canter, published in the *Journal of the Royal Microscopical Society*, describes and names a new chytrid fungus, [[Entophlyctis Molesta]] sp. nov. The fungus parasitizes [[Stylospheridium Stipitatum]], a green alga that itself grows as an epiphyte on the blue-green alga...
+> -- *[[StudiesOnBritishChytridsXxivEn_17376]]*
+
+### Mentioned In
+- [[StudiesOnBritishChytridsXxivEn_17376]]
+
+## Zora I. Braddock
+
+### Summary
+Co-author with James C. Braddock of this 1955 study of female Betta splendens aggression, published in Physiological Zoology. The study was conducted in the Department of Zoology at Michigan State College. The source reports the behavioral observations of paired females that the two authors made.
+
+### Context
+> This 1955 laboratory study by [[James C. Braddock]] and [[Zora I. Braddock]] (Department of Zoology, Michigan State College) describes in detail the aggressive behavior of adult female [[Siamese Fighting Fish]] (*Betta splendens*) when two females are placed together in a small aquarium. Earlier...
+> -- *[[AggressiveBehaviorAmongFemales_12874]]*
+
+### Mentioned In
+- [[AggressiveBehaviorAmongFemales_12874]]
 
 ## Zorach
 
@@ -1092,6 +1794,30 @@ Zorach (1972) is cited as the researcher who summarized about 15 years of work o
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
 
+## Zosalmo
+
+### Summary
+A grayling-like salmonid from the Eocene of British Columbia, known as Zosalmo driftwoodensis. The source uses it as a comparison, noting that the Clarkia trout (Hucho sp.) differs from it in several features.
+
+### Context
+> This paper by [[G. R. Smith]] and [[R. R. Miller]] (University of Michigan) describes the fish fossils from the Miocene lacustrine deposits of the [[Clarkia Lake Beds]] in northern Idaho. The fauna contains three taxa: a trout, a minnow, and a sunfish, belonging to [[Salmonidae]], [[Cyprinidae]],...
+> -- *[[TaxonomyOfFishesFromMioceneCla_21166]]*
+
+### Mentioned In
+- [[TaxonomyOfFishesFromMioceneCla_21166]]
+
+## Zostera Marina
+
+### Summary
+Zostera marina is a seagrass species forming the subtidal eelgrass beds studied in Saanich Inlet. In this source it is the habitat in which both gunnels were found in summer, and the blades it provides are associated with prey such as caprellid amphipods and shrimp eaten by large P. laeta. The source treats it as the habitat backdrop rather than a study subject.
+
+### Context
+> This study compares the ecology of two sympatric, morphologically similar gunnels, [[Pholis Laeta]] and [[Pholis Ornata]], in [[Saanich Inlet]], British Columbia. Sampling was carried out at two sites, [[Mill Bay]] and [[Patricia Bay]], between 1980 and 1983, with more than 1000 fish sampled. The...
+> -- *[[TheComparativeEcologyAndEviden_14499]]*
+
+### Mentioned In
+- [[TheComparativeEcologyAndEviden_14499]]
+
 ## Zostera Noltii
 <!-- fm: auto_enriched: true -->
 
@@ -1104,6 +1830,18 @@ Zorach (1972) is cited as the researcher who summarized about 15 years of work o
 
 ### Mentioned In
 - [[AGeographicalInformationSystem_1990]]
+
+## Zullini
+
+### Summary
+A. Zullini is one of the three authors of this paper on the biospeleology of Chiapas caves. The paper reports the results of the 1971 Italian expedition, which sampled 29 caves across several climate zones.
+
+### Context
+> This introductory paper, by [[Sbordoni]], [[Argano]] and [[Zullini]], reports the biospeleological results of the second Italian zoological mission to Mexico, sponsored by the [[Accademia Nazionale dei Lincei]]. The expedition ran from 24 January to 11 April 1971 and explored or visited 29 caves in...
+> -- *[[BiologicalInvestigationsOnTheC_20538]]*
+
+### Mentioned In
+- [[BiologicalInvestigationsOnTheC_20538]]
 
 ## Zuni Bluehead Sucker
 <!-- fm: auto_enriched: true -->
@@ -1223,6 +1961,18 @@ The Zuni Tribe is a Native American tribe that raised significant concerns in th
 ### Mentioned In
 - [[DraftEnvironmentalImpactStatem_11497]]
 
+## Zunini Fish Learning Studies
+
+### Summary
+These earlier fish learning studies are cited as prior work on transposition that the authors contrast with their own. The source suggests that some earlier experiments may not have excluded olfactory or other non-visual cues, which affects how their results should be interpreted.
+
+### Context
+> This 1969 study by R. F. Mark and Alan Maxwell tested whether the cichlid fish [[Oscar Fish]] (*Astronotus ocellatus*) could develop a concept of relative size. Eight fish were trained with automated [[Visual Discrimination Apparatus]] to choose the larger of two light circles. Only six of eight...
+> -- *[[CircleSizeDiscriminationAndTra_19375]]*
+
+### Mentioned In
+- [[CircleSizeDiscriminationAndTra_19375]]
+
 ## Zwartkops River
 
 ### Summary
@@ -1256,6 +2006,18 @@ Zygapophyses are the articular processes on vertebrae that join adjacent vertebr
 
 ### Mentioned In
 - [[AKeyToSomeSouthernCaliforniaFi_15959]]
+
+## Zygogonium Ericetorum
+
+### Summary
+A filamentous green alga that forms a dusky purple coating on peat and resists drought. The source reports it on Tarn Moss and recommends experimental tests of its effect on sundews and sedges.
+
+### Context
+> This review, written by J. W. G. Lund of the [[Freshwater Biological Association]], describes the algal flora of the [[Malham Tarn]] district in Yorkshire. The document concerns algae, not fish. It covers terrestrial, semi-terrestrial and aquatic habitats, with a focus on the calcareous conditions...
+> -- *[[TheAlgaeOfTheMalhamTarnDistric_16253]]*
+
+### Mentioned In
+- [[TheAlgaeOfTheMalhamTarnDistric_16253]]
 
 ## Zygonectes
 
@@ -1312,3 +2074,15 @@ Zzyzx Resort is a property in the Mojave area containing a spring-fed lake (Lake
 
 ### Mentioned In
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
+
+## Zürichsee
+
+### Summary
+Zürichsee is Lake Zurich in Switzerland. In this source it is cited as a site where Nipkow found live Melosira cells in sediment layers 4-5 years old, showing that some Melosira species can survive for long periods buried in lake mud.
+
+### Context
+> This 1966 review, translated from Russian by J.W.G. Lund (Freshwater Biological Association, Ambleside), argues that water turbulence is a major driver of the seasonal and vertical distribution of planktonic [[Melosira Diatoms]] in lakes and reservoirs. Turbulence keeps cells suspended, while...
+> -- *[[TheImportanceOfTurbulenceInThe_16254]]*
+
+### Mentioned In
+- [[TheImportanceOfTurbulenceInThe_16254]]

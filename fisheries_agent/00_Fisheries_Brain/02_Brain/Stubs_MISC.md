@@ -40,6 +40,18 @@ The U.S. Congress elected in the November 8, 1994 midterm election. The source f
 ### Mentioned In
 - [[KeyFindingsFromAPostelectionVo_19501]]
 
+## 111 Ranch Beds
+
+### Summary
+The 111 Ranch Beds are a sequence of middle Pleistocene flood-plain, paludal, and lacustrine sediments exposed in badland terrain about 14 miles southeast of Safford, Arizona. The section is roughly 200 feet thick and is dominated by clay marl, silt, and tuffaceous silt, with diatomite and chert interbedded.
+
+### Context
+> This paper by [[Philip Seff]], a research geologist with the Southwest Watershed Research Station, examines the chert deposits of the [[111 Ranch Beds]], a sequence of middle Pleistocene flood-plain, paludal, and lacustrine sediments in Graham County, Arizona. The author concludes that the chert is...
+> -- *[[PetrographyAndOriginOfTheRanch_11337]]*
+
+### Mentioned In
+- [[PetrographyAndOriginOfTheRanch_11337]]
+
 ## 119 Mile Creek
 
 ### Summary
@@ -293,6 +305,18 @@ An international agreement among Western Hemisphere nations on protecting nature
 ### Mentioned In
 - [[ConservationOfEndangeredSpecie_19348]]
 
+## 1944 Water Treaty
+
+### Summary
+The US-Mexico treaty governing Colorado River water sharing. The source says it allocates Mexico 10% of the lower river's base flow in non-flood years, but most of that water is diverted to the Canal Central, so mainstem water reaches delta wetlands mainly during high flows.
+
+### Context
+> This 1997 final report, prepared by [[Sonoran Institute]] researchers for [[Defenders of Wildlife]] and the [[National Park Service]] US/Mexico Affairs Office, assesses the ecological condition of the [[Lower Colorado River]] from Parker Dam to the [[Colorado River Delta]] and evaluates past...
+> -- *[[OpportunitiesForEcologicalImpr_12940]]*
+
+### Mentioned In
+- [[OpportunitiesForEcologicalImpr_12940]]
+
 ## 1948 Upper Colorado River Compact
 
 ### Summary
@@ -304,6 +328,18 @@ The 1948 Upper Colorado River Compact is an interstate water allocation agreemen
 
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
+
+## 1949-50 Flood
+
+### Summary
+The first well-documented flood of Lake Eyre North, which reached -10.30 m AHD by late September 1950. The lake was not fully dry in any calendar year for the following decade.
+
+### Context
+> This study is the first systematic attempt to quantify how much water reaches [[Lake Eyre]] and how often. It combines historical records, satellite and aerial imagery, field reconnaissance and a [[RORB Model]] rainfall-runoff reconstruction covering 1885-1984. The [[Lake Eyre Basin]] covers 1 140...
+> -- *[[FloodsOfLakeEyre_12408]]*
+
+### Mentioned In
+- [[FloodsOfLakeEyre_12408]]
 
 ## 1956 Year Class
 <!-- fm: auto_enriched: true -->
@@ -320,6 +356,18 @@ The 1948 Upper Colorado River Compact is an interstate water allocation agreemen
 
 ### Mentioned In
 - [[StreamProtectionSoughtToImprov_15530]]
+
+## 1974 Flood
+
+### Summary
+The largest known flood of Lake Eyre North, which peaked at -9.09 m AHD in May-June 1974. The equilibrium level between the two lakes (-9.5 m AHD) was reached in October that year.
+
+### Context
+> This study is the first systematic attempt to quantify how much water reaches [[Lake Eyre]] and how often. It combines historical records, satellite and aerial imagery, field reconnaissance and a [[RORB Model]] rainfall-runoff reconstruction covering 1885-1984. The [[Lake Eyre Basin]] covers 1 140...
+> -- *[[FloodsOfLakeEyre_12408]]*
+
+### Mentioned In
+- [[FloodsOfLakeEyre_12408]]
 
 ## 1979a
 <!-- fm: auto_enriched: true -->
@@ -353,6 +401,18 @@ The 1983 flood was a high-flow event on the Colorado River below Glen Canyon Dam
 ### Mentioned In
 - [[ReviewOfTheNationalResearchCom_13738]]
 
+## 1984 Flood
+
+### Summary
+A flood in January 1984 in which Lake Eyre South overflowed into Lake Eyre North for the first time on record. Local rainfall filled both lakes within days, and damages were estimated at AUD 2 459 000.
+
+### Context
+> This study is the first systematic attempt to quantify how much water reaches [[Lake Eyre]] and how often. It combines historical records, satellite and aerial imagery, field reconnaissance and a [[RORB Model]] rainfall-runoff reconstruction covering 1885-1984. The [[Lake Eyre Basin]] covers 1 140...
+> -- *[[FloodsOfLakeEyre_12408]]*
+
+### Mentioned In
+- [[FloodsOfLakeEyre_12408]]
+
 ## 1987 Wetlands Delineation Manual
 
 ### Summary
@@ -374,6 +434,42 @@ The 1987 Wetlands Delineation Manual is the guidance the Corps and EPA use to de
 
 ### Mentioned In
 - [[AmendmentToManagementResearchP_1989_02_08]]
+
+## 1993 Arizona Floods
+
+### Summary
+Record statewide floods in 1993 damaged farms along the Gila River in southwestern Arizona. The article presents them as the trigger for the proposed dike, since farmers complained that federal action was too slow and repaired a dike themselves without approval.
+
+### Context
+> In late May 1995, four environmental advocacy groups sued the [[U.S. Army Corps of Engineers]] in the U.S. District Court in Phoenix to halt a $73 million, 56-mile flood-control dike along the [[Gila River]] in southwestern Arizona. The plaintiffs argue that the dike would destroy natural...
+> -- *[[SuitFiledToStopDikeAlongGilaRi_20918]]*
+
+### Mentioned In
+- [[SuitFiledToStopDikeAlongGilaRi_20918]]
+
+## 1993 Flood
+
+### Summary
+The severe winter flood of January 1993 on the Hassayampa River, with a peak of about 745 m³/s and an estimated 25-year recurrence interval. The study reports that it eroded terraces, widened the channel from roughly 3 m to 50 m, and drove a temporary expansion of riverine marsh.
+
+### Context
+> This 1997 study in *Wetlands* examines how large floods reshape riverine marsh and riparian vegetation along the free-flowing [[Hassayampa River]] in central Arizona. Riverine marsh expanded fivefold, from 2% to 9% of the floodplain-channel area, after the severe [[1993 Flood]]. Floodwaters eroded...
+> -- *[[MarshDevelopmentAfterLargeFloo_14636]]*
+
+### Mentioned In
+- [[MarshDevelopmentAfterLargeFloo_14636]]
+
+## 1993 Gila River Flood
+
+### Summary
+A severe flood in January through March 1993 after record winter storms over a 50,000-square-mile watershed. Flows at Painted Rock Dam reached a record 204,000 cubic feet per second, and early-March peak flow exceeded the levees, which were designed for less than half that amount. The flood inundated up to 16,000 acres of farmland for months and created new riparian habitat, including at Growler Ponds.
+
+### Context
+> The article examines the [[Wellton-Mohawk Irrigation District]] in southwest Arizona, which has received more than $500 million in federal and state subsidies since the late 1940s to address drainage, salinity and irrigation problems. The district now seeks funding for a [[Channelization Project]]...
+> -- *[[BuyingAGilaMonster_19074]]*
+
+### Mentioned In
+- [[BuyingAGilaMonster_19074]]
 
 ## 1994 Annual Operating Plan
 <!-- fm: auto_enriched: true -->
@@ -432,6 +528,15 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 > This preliminary report by Theophilus D. Inslee (U.S. Fish and Wildlife Service, Fish Culture Development Center, Tishomingo, Oklahoma) evaluates whether repeated chemical treatments can control parasitic fungal infestations, chiefly [[Saprolegnia Parasitica]], in pond-reared [[Largemouth Bass]]...
 > -- *[[APreliminaryReportOnTheControl_14372]]*
 
+> This 1961 article, written by aquatic biologist [[Alex Montgomery]] and reprinted from the *Journal of Soil and Water Conservation*, reviews methods for controlling nuisance [[Aquatic Weeds]] in [[Farm Pond]]s. It was issued by the [[Chemical Insecticide Corporation]], which sells aquatic...
+> -- *[[ControlOfAquaticWeedsInFarmPon_16551]]*
+
+> This document contains two items. The main paper, by [[Walter R. Courtenay Jr]] and [[Woodard W. Miley II]], documents the spread of the introduced [[Walking Catfish]] ([[Clarias Batrachus]]) across southern [[Florida]] after escapes from an aquarium-fish farm in the mid-1960s. By 1974 the species...
+> -- *[[RangeExpansionAndEnvironmental_17623]]*
+
+> This 1968 review by Donald W. Johnson of the [[Arizona State University]] Department of Zoology surveys the literature on pesticide interactions in aquatic habitats, with emphasis on effects on fishes. The author argues that research to date has focused on acute, directly lethal effects, measured...
+> -- *[[PesticidesAndFishesaReviewOfSe_19749]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
@@ -442,6 +547,9 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 - [[AquaticPlantsManagementAndCont_17108]]
 - [[HerbicideManualForNoncroplandW_19157]]
 - [[APreliminaryReportOnTheControl_14372]]
+- [[ControlOfAquaticWeedsInFarmPon_16551]]
+- [[RangeExpansionAndEnvironmental_17623]]
+- [[PesticidesAndFishesaReviewOfSe_19749]]
 
 ## 2,4-D and 2,4,5-T Herbicides
 
@@ -471,6 +579,30 @@ A widely used phenoxy herbicide that was the main chemical in this program, appl
 - [[NoxiousVegetationControl_16243]]
 - [[SelectionOfRepresentativeSmall_12163]]
 
+## 2,4-D-2,4,5-T Combinations
+
+### Summary
+2,4-D-2,4,5-T combinations are herbicide mixtures used against emergent and floating plants. The source says ester formulations were applied with detergent in water, and that adding fuel oil improved control of hardier narrowleaf plants like cattail and bulrush.
+
+### Context
+> This 1961 article, written by aquatic biologist [[Alex Montgomery]] and reprinted from the *Journal of Soil and Water Conservation*, reviews methods for controlling nuisance [[Aquatic Weeds]] in [[Farm Pond]]s. It was issued by the [[Chemical Insecticide Corporation]], which sells aquatic...
+> -- *[[ControlOfAquaticWeedsInFarmPon_16551]]*
+
+### Mentioned In
+- [[ControlOfAquaticWeedsInFarmPon_16551]]
+
+## 2-4-D Herbicide
+
+### Summary
+A synthetic organic herbicide (2,4-dichlorophenoxyacetic acid) used to kill broadleaf plants. This source reports that after 1943 it gave the best results against water hyacinth, with doses of about 1 to 9 kg/ha and aerial or motor-pump application. The text states it does not harm fish and acts only on the target plant, while cotton is highly sensitive and spraying should be at least one kilometer from cotton fields.
+
+### Context
+> This section of the *Boletín de Piscicultura Rural* (Vol. XIII, 1963), published by the Dirección General de Pesca e Industrias Conexas and the Instituto Nacional de Investigaciones Biológico-Pesqueras, compiles information on the invasive aquatic plant [[Water Hyacinth]] (*Eichhornia crassipes*,...
+> -- *[[ElLirioAcuaticoSuControlYComba_11378]]*
+
+### Mentioned In
+- [[ElLirioAcuaticoSuControlYComba_11378]]
+
 ## 2-Deoxyglucose Labelling
 
 ### Summary
@@ -482,6 +614,18 @@ A neural tracing and activity-mapping technique. The proposal plans to use it in
 
 ### Mentioned In
 - [[NeurologicalBaisOfSalmonMigrat_16109]]
+
+## 2-Methyl-3-Phytyl-1,4-Naphthoquinone
+
+### Summary
+2-Methyl-3-phytyl-1,4-naphthoquinone is vitamin K1. The source cites earlier work showing that it reduced whole-blood clotting time and raised packed cell volume in brook trout, and it was not tested directly in this lake trout study.
+
+### Context
+> This study by [[H. A. Poston]] (1976), published in the *Journal of the Fisheries Research Board of Canada*, compared two water-soluble synthetic forms of [[Vitamin K]], [[Menadione Sodium Bisulfite]] (MSB) and [[Menadione Dimethylpyrimidinol Bisulfite]] (MPB), in the diet of fingerling [[Lake...
+> -- *[[RelativeEffectOfTwoDietaryWate_18642]]*
+
+### Mentioned In
+- [[RelativeEffectOfTwoDietaryWate_18642]]
 
 ## 2-Methylquinoline
 <!-- fm: auto_enriched: true -->
@@ -506,6 +650,18 @@ The 24 Road Hatchery is a facility with 36 tanks specifically designed for raisi
 
 ### Mentioned In
 - [[AnnualReportRecoveryProgramFor_11678]]
+
+## 3-Trifluoromethyl-4-Nitrophenol
+
+### Summary
+TFM is a nitrophenol compound used as a lampricide, registered for controlling sea lampreys. In this 1985 study it was tested as a selective amphibicide to remove frog tadpoles from fish culture ponds, with frog larvae found more sensitive to it than fathead minnows or bluegill.
+
+### Context
+> This 1985 study, published in the *Progressive Fish-Culturist* (vol. 47, no. 4), evaluates [[3-Trifluoromethyl-4-Nitrophenol]] (TFM) as a selective [[Amphibicide]] for removing tadpoles from fish culture ponds. Tadpoles, mainly [[Bullfrog Tadpole]] larvae, compete with cultured fish for food,...
+> -- *[[TrifluoromethylnitrophenolTfmC_17879]]*
+
+### Mentioned In
+- [[TrifluoromethylnitrophenolTfmC_17879]]
 
 ## 316(b) Demonstration
 
@@ -554,6 +710,18 @@ A study required under Section 316(b) of the Clean Water Act to show that a powe
 ### Mentioned In
 - [[StationProfileOfMammothSpringN_19535]]
 
+## 4% Formalin
+
+### Summary
+A buffered solution of formaldehyde in water commonly used to fix fish specimens. In this study Pimephales notatus shrank 4.1% in standard length in formalin, and Catostomus commersoni showed negligible change, with the authors finding no significant effect of fixative type overall.
+
+### Context
+> This study measured body-part lengths of several species of young freshwater fish to determine the short- and medium-term effects of [[Fixation]] and [[Preservation]]. [[Shrinkage]] of up to 4.9% was the general rule, but some lengths increased or stayed static. [[Rigor Mortis]] is probably the...
+> -- *[[ChangesInLengthsOfFixedAndPres_20295]]*
+
+### Mentioned In
+- [[ChangesInLengthsOfFixedAndPres_20295]]
+
 ## 41 U.S.C. 5
 
 ### Summary
@@ -577,6 +745,18 @@ A section of the U.S. Code requiring that federal contracts generally be awarded
 
 ### Mentioned In
 - [[FederalAidPresentationAtMatago_16453]]
+
+## 45-Degree Replacement Line
+
+### Summary
+In Ricker's framework, the 45-degree line marks replacement, where progeny equal parents. A reproduction curve must cross this line to show equilibrium, and the stock density at the crossing point is the equilibrium abundance. The paper notes that a curve must end below the line because density-dependent mortality limits population size.
+
+### Context
+> Ricker (1954) synthesizes the theory of how population size is regulated by density-dependent mortality, and how the resulting stock-recruitment (reproduction) curves shape abundance over time. Plotting filial egg production against parental egg production typically gives a domed curve crossing the...
+> -- *[[StockAndRecruitment_16864]]*
+
+### Mentioned In
+- [[StockAndRecruitment_16864]]
 
 ## 5-Year Flaming Gorge Flow Investigations Program
 <!-- fm: auto_enriched: true -->
@@ -632,6 +812,18 @@ A section of the Code of Federal Regulations (Title 50, Part 13, the general per
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_1987_07_07]]
 
+## 60% Ethanol
+
+### Summary
+A diluted alcohol solution used to preserve fish specimens. Pimephales notatus shrank 4.9% in standard length in this solution, the largest shrinkage among the fixatives tested, though the overall effect of fixative type was judged not significant.
+
+### Context
+> This study measured body-part lengths of several species of young freshwater fish to determine the short- and medium-term effects of [[Fixation]] and [[Preservation]]. [[Shrinkage]] of up to 4.9% was the general rule, but some lengths increased or stayed static. [[Rigor Mortis]] is probably the...
+> -- *[[ChangesInLengthsOfFixedAndPres_20295]]*
+
+### Mentioned In
+- [[ChangesInLengthsOfFixedAndPres_20295]]
+
 ## 60-Mile
 
 ### Summary
@@ -655,3 +847,15 @@ A target study site (river mile 60.0–60.1) in Grand Canyon, immediately above 
 
 ### Mentioned In
 - [[ProtocolForQuantifyingAdultHum_13651]]
+
+## 96-Hour Lc50 Test
+
+### Summary
+A 96-hour LC50 test is a standard static bioassay in which organisms are exposed to a chemical for four days and the concentration lethal to half the group is estimated. In this study it followed EPA (1975) methods, using 75-L aquaria with 10 organisms per vessel and mortality recorded from 1 to 96 hours.
+
+### Context
+> This 1985 study, published in the *Progressive Fish-Culturist* (vol. 47, no. 4), evaluates [[3-Trifluoromethyl-4-Nitrophenol]] (TFM) as a selective [[Amphibicide]] for removing tadpoles from fish culture ponds. Tadpoles, mainly [[Bullfrog Tadpole]] larvae, compete with cultured fish for food,...
+> -- *[[TrifluoromethylnitrophenolTfmC_17879]]*
+
+### Mentioned In
+- [[TrifluoromethylnitrophenolTfmC_17879]]

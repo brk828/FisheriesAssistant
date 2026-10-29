@@ -16,6 +16,42 @@ A 1990 genetic study of Florida panthers that identified two stocks: a Big Cypre
 ### Mentioned In
 - [[ReviewOfDraftPolicyProtectionO_11697]]
 
+## O'Connor 1968
+
+### Summary
+O'Connor (1968) is cited in this source as having reported similar concerns about nutrient loss from agricultural land in South Island catchments. The author uses this to suggest that the causes of eutrophication may be similar across New Zealand.
+
+### Context
+> This Fisheries Research Division publication by G. R. Fish examines [[Eutrophication]], the artificial enhancement of water fertility, in New Zealand freshwaters. Using a [[Nutrient Budget]] for [[Lake Rotorua]] covering June 1967 to May 1968, the author finds that [[Sewage Effluent]] is an...
+> -- *[[LakesTheValueOfRecentResearchT_16403]]*
+
+### Mentioned In
+- [[LakesTheValueOfRecentResearchT_16403]]
+
+## O'Connor-Dobbins Formula
+
+### Summary
+The O'Connor-Dobbins formula is an empirical equation that estimates the reaeration coefficient from stream velocity and depth. For the August 4, 1973 Mechums River example, the authors corrected it to 23.5 °C and obtained K = 0.40 hr⁻¹, which they describe as reasonably close to their measured values.
+
+### Context
+> This 1975 *Journal of the Environmental Engineering Division* paper by George M. Hornberger and Mahlon G. Kelly (University of Virginia) presents two methods for estimating the [[Reaeration Coefficient]] (K), the rate at which [[Atmospheric Reaeration]] exchanges oxygen between air and river water....
+> -- *[[AtmosphericReaerationInARiverU_19923]]*
+
+### Mentioned In
+- [[AtmosphericReaerationInARiverU_19923]]
+
+## O'Day 1972
+
+### Summary
+A prior study cited for the finding that the bioluminescence of the ceratioid esca comes from symbiotic Gram-negative bacteria. The source uses this to explain how the lure produces light.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
+
 ## O'Donnell and Churchill
 
 ### Summary
@@ -112,6 +148,30 @@ O'Shaughnessy and Hewitt were researchers who reported that nitrification begins
 ### Mentioned In
 - [[SomeObservationsOnDenitrificat_12181]]
 
+## O-Chlorophenol
+
+### Summary
+O-Chlorophenol is an isomer of chlorophenol that was used as a generalization test odor. Fish did not clearly associate it with either training odor and scored it as more negative than positive, possibly because shock is a stronger motivator than hunger and both odors were naturally offensive.
+
+### Context
+> This 1949–1950 study, published in the *Transactions of the American Fisheries Society*, tests whether [[Bluntnose Minnow]] (*Hybognathus notatus*) can be trained to detect [[Phenol]] and [[P-Chlorophenol]] at concentrations below the human odor threshold. Fish were conditioned with food rewards...
+> -- *[[UseOfFishForTheOlfactoryAssayO_20699]]*
+
+### Mentioned In
+- [[UseOfFishForTheOlfactoryAssayO_20699]]
+
+## O. Billings
+
+### Summary
+O. Billings is the author of a 1937 study of reproductive cytology in Isomeris arborea. He reported a haploid plant with 17 chromosomes, no true meiosis or syngamy, and a haploid endosperm, which the source's later authors contradict.
+
+### Context
+> This OCR-scanned compilation of letters from [[Nature]] (September 3, 1955) contains three unrelated items. The first is a medical report on [[Mediterranean-Hemoglobin E Disease]] and [[Hemoglobin Z]] in Southeast Asia. The second, and the only one with a fish focus, is a rebuttal by G. Fryer and...
+> -- *[[PredationPressureAndEvolutionI_18886]]*
+
+### Mentioned In
+- [[PredationPressureAndEvolutionI_18886]]
+
 ## O. C. Farrington
 
 ### Summary
@@ -123,6 +183,18 @@ O. C. Farrington was a geologist cited for a suggestion about river history. The
 
 ### Mentioned In
 - [[TheFreshwaterFishesOfMexicoNor_12373]]
+
+## O. E. Meinzer
+
+### Summary
+O. E. Meinzer was an early U.S. geologist who first studied the Willcox Playa area in 1910–1911 and named Lake Cochise. His early work is cited as the starting point for later geological studies of the basin.
+
+### Context
+> This field-guide paper by [[Joseph F. Schreiber Jr.]] (University of Arizona) describes the geology of [[Willcox Playa]], the desiccated bed of [[Lake Cochise]], a shallow late Pleistocene pluvial lake in southeastern Arizona. Results come from three years of field work (1962–65), later work...
+> -- *[[GeologyOfTheWillcoxPlayaCochis_20604]]*
+
+### Mentioned In
+- [[GeologyOfTheWillcoxPlayaCochis_20604]]
 
 ## O. Eugene Maughan
 
@@ -140,6 +212,18 @@ O. Eugene Maughan is listed under the Keywords chapter's Fish entry. The source 
 - [[WhereToFindWaterExpertiseAtSta_13522]]
 - [[WhereToFindWaterExpertiseAtSta_13523]]
 
+## O. L. Meehean
+
+### Summary
+O. L. Meehean reviewed the genus Argulus in 1940 and reduced some species to synonyms. This source uses his host and distribution data for many species. Causey notes that Meehean disagreed with Wilson on A. maculosus and differed on some hosts and distributions.
+
+### Context
+> This is a 1960 issue of the [[Turtox News]] (Vol. 38, No. 2). Its main scientific content is a taxonomic article by [[David Causey]] of the [[University of Arkansas]] Department of Zoology, titled "Creepin, blastit wonner'" or On the Misidentification of Common Argulus of Freshwater Fish. The...
+> -- *[[CreepinBlastitWonnerOrOnTheMis_16058]]*
+
+### Mentioned In
+- [[CreepinBlastitWonnerOrOnTheMis_16058]]
+
 ## O. Lloyd Meehean
 
 ### Summary
@@ -151,6 +235,18 @@ O. Lloyd Meehean was one of four fishery scientists on the expert panel that una
 
 ### Mentioned In
 - [[FloridasControlledSeiningProgr_12821]]
+
+## O. P. Hay
+
+### Summary
+A paleontologist whose 1919 and 1923 chronologies of Pleistocene extinction are discussed here. Martin argues that radiocarbon and stratigraphic evidence disproved those chronologies by showing that several genera Hay had placed early survived into the last glaciation.
+
+### Context
+> This review, presented as a chapter by [[Paul S. Martin]] of the University of Arizona Geochronology Department, argues that the sudden late-Pleistocene wave of large-animal extinction, involving at least 200 genera with little or no replacement, was caused by [[Prehistoric Overkill]] by humans...
+> -- *[[PrehistoricOverkill_17076]]*
+
+### Mentioned In
+- [[PrehistoricOverkill_17076]]
 
 ## O. R. Kingsbury
 
@@ -197,6 +293,18 @@ Oahe Reservoir is a main stem Missouri River reservoir where the study was exten
 
 ### Mentioned In
 - [[TheRelationshipBetweenDissolve_14575]]
+
+## Oak Brush
+
+### Summary
+A chaparral vegetation zone at lower elevations along the Provo River, below the lodgepole pine and aspen forest zones. The source lists it as part of the vegetation gradient from mountain forest to valley floor.
+
+### Context
+> This 1959 study by [[Arden R. Gaufin]] (Iowa State College Journal of Science, Vol. 33, No. 3) examines the stream-bottom invertebrates of the [[Provo River]], a typical mountain stream of the Intermountain region known for [[Trout Fishing]]. Fieldwork ran from September 1946 to May 1949. The aim...
+> -- *[[ProductionOfBottomFaunaInThePr_16934]]*
+
+### Mentioned In
+- [[ProductionOfBottomFaunaInThePr_16934]]
 
 ## Oak Creek
 <!-- fm: auto_enriched: true -->
@@ -256,6 +364,9 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > This 1994 petition, filed by David Hogan, the [[Greater Gila Biodiversity Project]], the Southwest Center for Biological Diversity and the Biodiversity Legal Foundation, asks the [[U.S. Fish And Wildlife Service]] (USFWS) to designate [[Critical Habitat]] for the [[Gila Trout]] under the...
 > -- *[[PetitionToDesignateCriticalHab_20448]]*
 
+> This methods note describes a simple, inexpensive device and procedure for quantitatively sampling [[Periphyton]] (attached algae and microorganisms) on intact, submerged [[Sedimentary Substrates]] in shallow flowing water. A [[Peristaltic Pump]] evacuates the periphyton mat from a sharpened pipe...
+> -- *[[APortablePumpSamplerForLoticPe_20988]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -275,6 +386,7 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[ABiologicalSurveyOfStreamsAndL_19340]]
 - [[EvaluationOfTheAndCatchableTro_15816]]
 - [[PetitionToDesignateCriticalHab_20448]]
+- [[APortablePumpSamplerForLoticPe_20988]]
 
 ## Oak Creek Canyon
 
@@ -288,6 +400,18 @@ Oak Creek Canyon is a location in Yavapai County, Arizona overlooking Coconino N
 ### Mentioned In
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 
+## Oak Creek Tuff
+
+### Summary
+A crystal-rich ash-flow tuff that filled the Juniper Cauldron in the Animas Mountains. One sample of it gave a K-Ar age of 35.2 ± 0.8 m.y.
+
+### Context
+> This preliminary field-guide paper (New Mexico Geological Society Guidebook, 29th Field Conference, 1978) describes the mid-Tertiary volcanic stratigraphy and structure of roughly 5,000 km² in [[Hidalgo County]]. The document contains no fish, invertebrate, plankton, water-chemistry or aquatic...
+> -- *[[CenozoicVolcanicGeologyOfTheBa_12816]]*
+
+### Mentioned In
+- [[CenozoicVolcanicGeologyOfTheBa_12816]]
+
 ## Oak Creek, Red Rock State Park
 
 ### Summary
@@ -299,6 +423,18 @@ A site on Oak Creek in Arizona sampled by the Fall Fish Count (FC3610). The repo
 
 ### Mentioned In
 - [[FallFishCountSummary_20903]]
+
+## Oak Forest
+
+### Summary
+The Oak Forest is the most abundant temperate vegetation type in Chipinque, reaching 15 to 20 m tall. The source names Quercus rysophylla, Q. polymorpha, Q. laceyi, Q. virginiana var. fusiformis, Q. canbyi and Q. laeta as dominant species.
+
+### Context
+> This is the second part of the illustrated field guide *Flora Representativa de Chipinque*, a Spanish-language publication (April 1996) covering the flowers and ferns of the [[Chipinque Ecological Park]] in Nuevo León, Mexico. It was produced by a consortium led by the [[Consejo Consultivo Estatal...
+> -- *[[FloraRepresentativaDeChipinque_18741]]*
+
+### Mentioned In
+- [[FloraRepresentativaDeChipinque_18741]]
 
 ## Oak Grove Canyon
 
@@ -321,6 +457,18 @@ A canyon in the Redrock drainage that the report recommends evaluating for ripar
 
 ### Mentioned In
 - [[TheIonicCompositionOfSomeLowla_11054]]
+
+## Oak Pollen
+
+### Summary
+Pollen from oak trees (genus *Quercus*), one of the four upland forest genera the source uses as a climate proxy. The source treats oak pollen as an indicator of moisture and warmth in the upland forest record.
+
+### Context
+> This multi-part series from the *Bulletin of the Geological Society of America* (1965) uses lake-sediment cores from the [[Mexico City Basin]] to reconstruct Pleistocene and Holocene climate, volcanism, and tectonics. Because the basin lay beyond the limit of continental glaciation, its sediments...
+> -- *[[PalynologyInSouthernNorthAmeri_11351]]*
+
+### Mentioned In
+- [[PalynologyInSouthernNorthAmeri_11351]]
 
 ## Oak Ridge
 
@@ -353,6 +501,15 @@ Oak Ridge is a location in Tennessee that houses the Oak Ridge National Laborato
 > This report summarizes a three-year (June 1950 – July 1, 1953) cooperative survey by the [[Tennessee Valley Authority]] for the [[Atomic Energy Commission]] on the physical and biological effects of radioactive effluents from the [[Oak Ridge National Laboratory]] on [[White Oak Creek]] and [[White...
 > -- *[[ASummaryOfFindingsOfTheEcologi_12440]]*
 
+> This Report of the [[Reelfoot Lake Biological Station]] (Contribution No. 79) by [[Robert J. Schoffman]] compares the age and growth of [[White Crappie]] (*Pomoxis annularis*) in [[Reelfoot Lake]] between 1938 and 1948. Scale samples from 595 fish (391 from 1938, 204 from 1948) were aged, and mean...
+> -- *[[AgeAndGrowthOfWhiteCrappiesInR_20591]]*
+
+> This 1958 laboratory study examined how adult [[Brine Shrimp]] (*Artemia salina*), a planktonic crustacean representing the second trophic level, take up radionuclides from sea water containing an equilibrium mixture of [[Strontium-90]] and its daughter [[Yttrium-90]]. Animals were unfed and...
+> -- *[[TheAccumulationOfYFromAnEquili_17731]]*
+
+> This 1954 case report, published in the *Archives of Pathology*, describes an osteogenic sarcoma of the right tibiofibula in a wild adult female [[Muskrat]] (*Ondatra zibethica*) captured in the [[Oak Ridge National Laboratory]] X-10 Area, Tennessee. The tumor was a sclerosing type with metastases...
+> -- *[[OsteogenicSarcomaInAMuskratFro_12447]]*
+
 ### Mentioned In
 - [[AccumulationAndRetentionOfRadi_1957]]
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
@@ -361,6 +518,9 @@ Oak Ridge is a location in Tennessee that houses the Oak Ridge National Laborato
 - [[TerrestrialAndFreshwaterRadioe_12564]]
 - [[AnEcologicalSurveyOfTheVertebr_12441]]
 - [[ASummaryOfFindingsOfTheEcologi_12440]]
+- [[AgeAndGrowthOfWhiteCrappiesInR_20591]]
+- [[TheAccumulationOfYFromAnEquili_17731]]
+- [[OsteogenicSarcomaInAMuskratFro_12447]]
 
 ## Oak Woodland
 
@@ -374,6 +534,18 @@ A vegetation type that the source names as one of the habitat themes in the bibl
 ### Mentioned In
 - [[SelectedBibliographyOfWildlife_18466]]
 
+## Oak-Hickory Forest
+
+### Summary
+An upland forest type in which oaks and hickories are the dominant trees. In the Tall Trees ridge sample described in the source, oaks made up 60% of the stand and hickories 20%, with beech, maple, tulip-tree and walnut present in smaller proportions. Lovell noted that beech was regenerating in this forest.
+
+### Context
+> This inaugural issue of *The Kentucky Naturalist*, journal of the Kentucky Society of Natural History (Louisville), sets out the Society's aims and reports on natural history in Kentucky. Its main research content is Harvey B. Lovell's survey of plant succession and wildlife at the [[Otter Creek...
+> -- *[[SomeSuccessionalChangesInTheBi_16216]]*
+
+### Mentioned In
+- [[SomeSuccessionalChangesInTheBi_16216]]
+
 ## Oak-Woodland
 
 ### Summary
@@ -385,6 +557,18 @@ A vegetation type covering about 131 acres (1.0 percent of the forest), occurrin
 
 ### Mentioned In
 - [[FloraAndVegetationOfTheSierraA_18445]]
+
+## Oakland County
+
+### Summary
+A county in southeastern Michigan, USA, where Deep Lake is located. The source gives it only as the study site's administrative location and draws no further findings from it.
+
+### Context
+> This 1938 field study by W. F. Carbine of the [[Institute For Fisheries Research]] examined spawning behavior and fry production of four centrarchid fishes in [[Deep Lake]], a 14.9-acre lake with no inlet or outlet in [[Oakland County]], [[Michigan]]. Observations ran from May 28 to August 15,...
+> -- *[[ObservationsOnTheSpawningHabit_17382]]*
+
+### Mentioned In
+- [[ObservationsOnTheSpawningHabit_17382]]
 
 ## Oasis Valley
 
@@ -474,6 +658,18 @@ The Obed River is a Tennessee stream system where introgression between Redeye B
 ### Mentioned In
 - [[HybridizationBetweenRedeyeBass_1998]]
 
+## Oberlander 1965
+
+### Summary
+Oberlander 1965 is a geological source that the author follows for the drainage history of the Zagros. It describes Zagros streams cutting transversely across anticlines of Oligocene-Miocene limestone, forming deep tangs that isolate upland fish populations.
+
+### Context
+> This paper by [[Brian W. Coad]] describes *Aphanius vladykovi*, a new species of [[Tooth-Carp]] (Cyprinodontidae) from the upper reaches of the [[Karun River]] basin in the [[Zagros Mountains]] of Iran. The species is separated from its closest relative, [[Aphanius sophiae]], by a higher count of...
+> -- *[[AphaniusVladykoviANewSpeciesOf_15969]]*
+
+### Mentioned In
+- [[AphaniusVladykoviANewSpeciesOf_15969]]
+
 ## Obermeyer Gate
 <!-- fm: auto_enriched: true -->
 
@@ -498,15 +694,47 @@ The Obed River is a Tennessee stream system where introgression between Redeye B
 > **Habitat — Fish faunal notes:** - *Moxostoma poecilurum* is primarily a Gulf Slope species (Galveston Bay tributaries, Texas, to Choctawhatchee drainage, Florida); its occurrence in [[Terrapin Creek]], Kentucky represents the northernmost known record for the species, well outside its core range...
 > -- *[[TheBlacktailRedhorseMoxostomaP_1984]]*
 
+> This document is the 1943 report of the [[Reelfoot Lake Biological Station]], issued by the [[Tennessee Academy of Science]]. Its centerpiece is a life-history study of the [[Smallmouth Buffalo]] (*[[Ictiobus Bubalus]]*) by [[Robert J. Schoffman]], based on scale ages of 107 fish from [[Reelfoot...
+> -- *[[AgeAndGrowthOfTheSmallmouthBuf_20593]]*
+
+> This 1981 study by [[Walsh and Burr]] (Southern Illinois University at Carbondale), published in *Brimleyana* No. 6, maps the Kentucky distribution of the [[Least Brook Lamprey]], morphometrically compares over 220 adult specimens, and documents a neotenic population in Terrapin Creek. The authors...
+> -- *[[DistributionMorphologyAndLifeH_14853]]*
+
 ### Mentioned In
 - [[RecordsOfFishesInWesternKentuc_1979]]
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
+- [[AgeAndGrowthOfTheSmallmouthBuf_20593]]
+- [[DistributionMorphologyAndLifeH_14853]]
+
+## Obipteryx
+
+### Summary
+A genus of brachypterine stoneflies in which the source transfers Taeniopteryx tenuis as O. tenuis, because its male 9th sternite is spoon-shaped. It is placed in Group B with Okamotoperla, and its male 10th tergite lobes are well developed.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
 
 ## OBIS
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[RangeOfChriodorus_17137]]
+
+## Obligate Schooling
+
+### Summary
+Obligate schooling describes coherently polarized groups that persist unless strongly disturbed and cannot be maintained alone. Breder notes that isolated obligate schoolers swim erratically, may exhaust themselves and die, and will school with almost any moving fish but not with inert objects. Scombriform, carangiform and clupeiform fishes are given as examples and are rarely kept in public aquaria because they are hard to maintain.
+
+### Context
+> This is a theoretical and synthetic review by C. M. Breder Jr. (1967), published in *Zoologica* (New York Zoological Society), on whether fish schools have survival value. Breder argues that fish groupings are not a single kind of structure and that no one formulation can explain them all. He...
+> -- *[[OnTheSurvivalValueOfFishSchool_12922]]*
+
+### Mentioned In
+- [[OnTheSurvivalValueOfFishSchool_12922]]
 
 ## Obliquaria reflexa
 
@@ -517,8 +745,24 @@ Obliquaria reflexa is a unionid mussel found rarely at West Creek (Station 6) in
 > This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
 > -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
 
+> This 1992 study by Williams, Fuller and Grace, published in the *Bulletin of the Alabama Museum of Natural History* (No. 13), compares freshwater mussel (Unionidae) assemblages in an unimpounded upper [[Tombigbee River]] reach with those in impounded sections of the [[Black Warrior River]] and...
+> -- *[[EffectsOfImpoundmentsOnFreshwa_12028]]*
+
 ### Mentioned In
 - [[MolluscaFromGreenwoodCountyKan_20276]]
+- [[EffectsOfImpoundmentsOnFreshwa_12028]]
+
+## Observation-Area Curve
+
+### Summary
+An observation-area curve plots the home range area against the number of observations, showing whether the area has levelled off. The author used it to check stability, with the recommended endpoint being where further observations added less than 1% to the area. It was used to judge whether tracking had been long enough.
+
+### Context
+> This 1977 study in *Transactions of the American Fisheries Society* uses [[Radio Telemetry]] to test whether [[Largemouth Bass]] wander randomly or keep to defined areas. Four bass were tracked in [[Mary Lake]] during summer 1970: three resident fish captured in the lake and one fish transplanted...
+> -- *[[SummerHomeRangeMovementsAndHab_20780]]*
+
+### Mentioned In
+- [[SummerHomeRangeMovementsAndHab_20780]]
 
 ## Observations On The Breeding Of Dionda Episcopa Serena In The Nueces River, Texas
 <!-- fm: auto_enriched: true -->
@@ -529,6 +773,18 @@ Obliquaria reflexa is a unionid mussel found rarely at West Creek (Station 6) in
 
 ### Mentioned In
 - [[RecordsFromEastTexasOfThreeSpe_1951_09_30]]
+
+## Observer Effect
+
+### Summary
+A bias in which the presence of an observer changes the behaviour or counts of the animals being studied. The authors interpret their consistency results as evidence that no observer effect was detected, since only 1 of 140 species-to-total ratios differed significantly.
+
+### Context
+> This 1977 methods paper, published in *Environmental Biology of Fishes* (Vol. 1, No. 2), tests the [[Strip Count Method]] as a way to estimate fish densities and habitat use in a small lake. The study was carried out in [[Lake Opinicon]], Ontario, using snorkel-based [[Diver Counts]] at three...
+> -- *[[StripCountsAsAMeansOfDetermini_17909]]*
+
+### Mentioned In
+- [[StripCountsAsAMeansOfDetermini_17909]]
 
 ## OCAP
 
@@ -566,6 +822,46 @@ A river from which water is diverted to Charette Lake through its sister lake, U
 ### Mentioned In
 - [[AStudyOfTheFishPopulationsOfCh_20808]]
 
+## Occa verrucosa
+
+### Summary
+Occa verrucosa is the warty poacher, a bottom-dwelling sculpin-like fish in the family Agonidae. In this source it is noted as the only species from the Playa del Rey deposit not recorded as far south in recent times, since several hundred small-mesh tows in Santa Monica Bay caught none.
+
+### Context
+> This Los Angeles County Museum of Natural History contribution (No. 119, December 31, 1966) by [[John E. Fitch]] reports a resampling of the [[Playa del Rey Pleistocene Deposit]]. A 200-pound field sample of washed fossiliferous screenings was examined under a binocular microscope at six...
+> -- *[[AdditionalFishRemainsMostlyOto_16430]]*
+
+### Mentioned In
+- [[AdditionalFishRemainsMostlyOto_16430]]
+
+## Occam's Razor
+
+### Summary
+The principle that, among competing explanations, the one requiring the fewest assumptions is preferred. The author applied it to favour the introgressive-hybridization hypothesis, though the source says that hypothesis still did not fully explain the species' distinct phenotype.
+
+### Context
+> This 1973 taxonomic paper by [[Paul V. Loiselle]] describes *Barbus (Enteromius) guildi* sp. nov., a small cyprinid from the headwaters of the [[Hedjo River]] in Ghana and Togo. The species was first set aside as possible hybrids between two sympatric congeners, [[Barbus Macrops]] and [[Barbus...
+> -- *[[DescriptionOfANewSpeciesOfBarb_16189]]*
+
+### Mentioned In
+- [[DescriptionOfANewSpeciesOfBarb_16189]]
+
+## Occasional Papers of the Museum of Natural History
+
+### Summary
+The University of Kansas publication series in which this 1982 paper appeared as No. 101. It is the venue for the formal description of the three new darter species covered in the source.
+
+### Context
+> This taxonomic paper, published in the [[Occasional Papers of the Museum of Natural History]] (University of Kansas, No. 101, 1982) by [[Lawrence M. Page]] and [[Brooks M. Burr]], formally describes three previously unnamed darter species of the subgenus [[Nanostoma]]: [[Etheostoma Baileyi]],...
+> -- *[[ThreeNewSpeciesOfDarterPercida_18399]]*
+
+> This revision by Lawrence M. Pace, published in the [[Occasional Papers of the Museum of Natural History]] (University of Kansas, No. 90, 1981), re-examines the generic and subgeneric classification of North American darters. It combines phenetic (numerical taxonomic) and cladistic methods on 142...
+> -- *[[TheGeneraAndSubgeneraOfDarters_18398]]*
+
+### Mentioned In
+- [[ThreeNewSpeciesOfDarterPercida_18399]]
+- [[TheGeneraAndSubgeneraOfDarters_18398]]
+
 ## Occidental Geanticline
 
 ### Summary
@@ -590,6 +886,18 @@ The Occult Little Brown Bat (Myotis occultus) is a sensitive species addressed b
 ### Mentioned In
 - [[LowerColoradoRiverMultispecies_11766]]
 
+## Occupational Exposure
+
+### Summary
+Radiation exposure received by workers in their jobs. The paper budgets it at 150,000 man-rems and concludes that it is easier to control than environmental exposure, so environmental data should inform occupational limits.
+
+### Context
+> This 1960 paper by [[Conrad P. Straub]] reports the research program of the [[Robert A. Taft Sanitary Engineering Center]], a [[Public Health Service]] unit in Cincinnati, Ohio, to measure radioactive contamination of air, rainfall, cistern water, [[Ohio River]] water, milk and food. It is not a...
+> -- *[[ResearchInTheRadioactiveContam_14606]]*
+
+### Mentioned In
+- [[ResearchInTheRadioactiveContam_14606]]
+
 ## Ocean Basin
 <!-- fm: auto_enriched: true -->
 
@@ -600,6 +908,18 @@ The Occult Little Brown Bat (Myotis occultus) is a sensitive species addressed b
 ### Mentioned In
 - [[BonytailsInUpperVerde_11948]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
+
+## Ocean Current Gyres
+
+### Summary
+Large circulating systems of ocean currents, with countercurrents, that the source discusses in relation to distribution. The authors suggest that ontogenetic vertical migration within these currents helps maintain the restricted distributions of Oneirodes species. The O. notius length-latitude relationship is cited as support.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
 
 ## Ocean Lake
 
@@ -661,6 +981,18 @@ The temperature of sea water, which affects where marine fish live. The note cit
 ### Mentioned In
 - [[ExpandedBibliographyOfArticleE_14464]]
 
+## Ocean Township Municipal Pond
+
+### Summary
+The Ocean Township Municipal Pond is a pond in Monmouth County, New Jersey, shown in two photographs in this article. The photos show weed cover before and after pelleted 2,4-D treatment, credited to an SCS photographer named Clark.
+
+### Context
+> This 1961 article, written by aquatic biologist [[Alex Montgomery]] and reprinted from the *Journal of Soil and Water Conservation*, reviews methods for controlling nuisance [[Aquatic Weeds]] in [[Farm Pond]]s. It was issued by the [[Chemical Insecticide Corporation]], which sells aquatic...
+> -- *[[ControlOfAquaticWeedsInFarmPon_16551]]*
+
+### Mentioned In
+- [[ControlOfAquaticWeedsInFarmPon_16551]]
+
 ## Ocean University of Qingdao
 
 ### Summary
@@ -688,6 +1020,26 @@ The oceanic skipjack (Katsuwonus pelamis) is a pelagic tuna that lives far from 
 ### Mentioned In
 - [[FishRemainsFromCenturyRanchSit_18766]]
 - [[FishRemainsFromTheCenturyRanch_18756]]
+
+## Oceanography
+
+### Summary
+Oceanography is the study of the sea, and the paper lists it among the fields it traces, alongside limnology, as part of the development of ecology. The source mentions it mainly in this context rather than giving detailed findings.
+
+### Context
+> This occasional paper by [[Richard Brewer]] (Department of Biology, [[Western Michigan University]]) is the first part of a chronological survey of the development of [[Ecology]] from antiquity to 1919. It was published on November 22, 1960, as Number 1 of the *Occasional Papers of the [[C. C....
+> -- *[[ABriefHistoryOfEcologyPartIPre_12931]]*
+
+> This 1965 bulletin article, published in the *Boletim de Estudos da Pesca* (vol. 5, no. 2), presents **Termos Coordenados**, a manual-punched-card indexing system developed by [[Silvia Augusta Marques]] and [[J. M. Brandão]] for the documentation service of the [[SUDENE]] Fisheries Development...
+> -- *[[NovoSistemaDeDocumentacaoParaA_12791]]*
+
+> This 1970 T.F.H. Publications booklet, written by [[George S. Myers]], is a career guide rather than a research report. It advises prospective ichthyologists (scientists who study fishes) on the education, subject preparation, university choice, and graduate training needed to enter the field. Its...
+> -- *[[HowToBecomeAnIchthyologist_15552]]*
+
+### Mentioned In
+- [[ABriefHistoryOfEcologyPartIPre_12931]]
+- [[NovoSistemaDeDocumentacaoParaA_12791]]
+- [[HowToBecomeAnIchthyologist_15552]]
 
 ## Ocellated Turkey
 
@@ -752,6 +1104,18 @@ A river in Northwest Florida surveyed over 48.5 miles from the Georgia line to L
 ### Mentioned In
 - [[FishAndFishingInLeonAndGadsden_12267]]
 
+## Ochromonas Malhamensis
+
+### Summary
+Ochromonas malhamensis is a golden-brown flagellate alga (Chrysophyta). The source describes it as a famous culture organism whose natural occurrence is unknown. It is one of the rare and unresolved taxa noted in the Malham flora.
+
+### Context
+> This review, written by J. W. G. Lund of the [[Freshwater Biological Association]], describes the algal flora of the [[Malham Tarn]] district in Yorkshire. The document concerns algae, not fish. It covers terrestrial, semi-terrestrial and aquatic habitats, with a focus on the calcareous conditions...
+> -- *[[TheAlgaeOfTheMalhamTarnDistric_16253]]*
+
+### Mentioned In
+- [[TheAlgaeOfTheMalhamTarnDistric_16253]]
+
 ## Ochrotrichia
 
 ### Summary
@@ -767,6 +1131,30 @@ Ochrotrichia is a genus of caddisflies (Trichoptera) found in Aravaipa Creek. It
 ### Mentioned In
 - [[DistributionAndAbundanceOfBent_13853]]
 - [[StudiesOfNeotropicalCaddisFlie_16467]]
+
+## Ochynski Absorptiometric Method
+
+### Summary
+The Ochynski Absorptiometric Method (1960) is an analytical procedure for measuring phenol concentration by light absorption. The authors used it to verify the phenol levels in their test water during the exposures.
+
+### Context
+> This 1968 laboratory study by Mitrovic, Brown, Shurben and Berryman, published in *Water Research*, describes the pathology of [[Rainbow Trout]] (*Salmo gairdnerii*) exposed to [[Phenol]] at concentrations near the 48 hr median lethal concentration (LC50). Fish that died within hours showed gill...
+> -- *[[SomePathologicalEffectsOfSubac_16519]]*
+
+### Mentioned In
+- [[SomePathologicalEffectsOfSubac_16519]]
+
+## Ocklawaha River
+
+### Summary
+A 78-mile tributary of the St. Johns River in Florida. The article describes the reservoir behind Rodman Dam, which covers about 9,000 acres, as a weed-choked, declining ecosystem that still supports bass fishing. Florida's Cabinet unanimously approved its removal in 1992, but as of the article it had no funding and its federal permit was set to expire December 31.
+
+### Context
+> This Smithsonian magazine feature, compiled with unrelated advertisements and short arts and science pieces, examines whether American dams should be removed to restore migratory fish. Its central case study is the [[Elwha River]] in Washington, where [[Elwha Dam]] and [[Glines Canyon Dam]] have...
+> -- *[[TheDamDilemmaSalmonReservoirsA_21212]]*
+
+### Mentioned In
+- [[TheDamDilemmaSalmonReservoirsA_21212]]
 
 ## Ocklockonee River
 <!-- fm: auto_enriched: true -->
@@ -790,8 +1178,12 @@ The Ocmulgee River is a river in Georgia, USA, where flathead catfish were intro
 > This conference paper by Matthew E. Thomas of the [[Georgia Department Of Natural Resources]] reports a standardized stream monitoring program run on the [[Altamaha River]] from 1987 to 1992 (electrofishing data analysed for 1988 to 1992). The study tracked the invasion of [[Flathead Catfish]]...
 > -- *[[MonitoringTheEffectsOfIntroduc_13577]]*
 
+> This Bulletin of the [[Florida Museum Of Natural History]] paper by James D. Williams and George H. Burgess formally describes the **[[Shoal Bass]]**, *Micropterus cataractae*, a moderate-sized [[Black Bass]] endemic to the [[Apalachicola River Basin]] of Alabama, Florida, and Georgia. Long...
+> -- *[[ANewSpeciesOfBassMicropterusCa_12029]]*
+
 ### Mentioned In
 - [[MonitoringTheEffectsOfIntroduc_13577]]
+- [[ANewSpeciesOfBassMicropterusCa_12029]]
 
 ## Ocoee River
 
@@ -827,9 +1219,29 @@ Ocotillo (Fouquieria splendens) is a spiny desert shrub of the Southwest and Baj
 > This Bureau of Land Management (BLM) booklet summarizes the California Desert Conservation Area (CDCA) Plan, the long-range land-management plan required by Section 601 of the [[Federal Land Policy and Management Act]] (FLPMA) of 1976. The Plan covers a 25-million-acre CDCA, of which the BLM...
 > -- *[[TheCaliforniaDesertConservatio_11541]]*
 
+> This 1970 publication by Donald J. Pinkava and Elinor Lehto of the [[Arizona State University Herbarium]] is a semi-technical dichotomous key for identifying the woody plants commonly cultivated in the arid [[Salt River Valley]] of Central Arizona. Most of these plants are non-native cultivars from...
+> -- *[[AVegatativeKeyToTheCultivatedW_11147]]*
+
+> This 1978 catalogue, compiled by [[J. Harry Lehr]] (Curator of the Herbarium, [[Desert Botanical Garden]], Phoenix), is a current checklist of the vascular flora of Arizona. It was produced because the last full state flora, the [[Arizona Flora]] (1960, reprinted 1964), had become outdated after...
+> -- *[[ACatalogueOfTheFloraOfArizona_20234]]*
+
 ### Mentioned In
 - [[BotanicalExplorationsInTheSout_12961]]
 - [[TheCaliforniaDesertConservatio_11541]]
+- [[AVegatativeKeyToTheCultivatedW_11147]]
+- [[ACatalogueOfTheFloraOfArizona_20234]]
+
+## Ocotillo Conglomerate
+
+### Summary
+A younger coarse clastic unit up to 2,400 feet thick in the Imperial Valley. It is one of the coarse-grained formations described in the source's stratigraphic overview.
+
+### Context
+> This document is a 1965 paper from the *Journal of Sedimentary Petrology* (vol. 35, no. 4, pp. 911–916) by [[Richard Merriam]] and [[Orville L. Bandy]] of the University of Southern California. It asks whether the coarse and fine Cenozoic sediments filling the Colorado delta basin share a single...
+> -- *[[SourceOfUpperCenozoicSediments_20136]]*
+
+### Mentioned In
+- [[SourceOfUpperCenozoicSediments_20136]]
 
 ## Ocotillo Formation
 
@@ -896,6 +1308,18 @@ A 17,300-acre area associated with Alamo Dam that the Army Corps of Engineers, t
 ### Mentioned In
 - [[AsurpSampling_19410]]
 
+## Octave Classes
+
+### Summary
+Octave classes group species abundances on a log base-2 scale. The authors used them to bin abundance data, following Preston (1948), before fitting the lognormal model.
+
+### Context
+> This study by [[William F. Fagan]] and [[Peter M. Kareiva]] (University of Washington) tests two statistical methods for correcting [[Sampling Effort]] bias in species lists compiled from museum and conservation databases. The test database is a set of about 11,994 [[Butterfly]] records from...
+> -- *[[UsingCompiledSpeciesListsToMak_16298]]*
+
+### Mentioned In
+- [[UsingCompiledSpeciesListsToMak_16298]]
+
 ## October 1993 Protocol
 <!-- fm: auto_enriched: true -->
 
@@ -931,6 +1355,18 @@ An intestinal flagellate parasite of trout. It causes chronic wasting, known as 
 ### Mentioned In
 - [[CareAndDiseasesOfTrout_13966]]
 
+## Octopus Bimaculatus
+
+### Summary
+Octopus bimaculatus is the two-spot octopus, a small octopus of Pacific coastal waters including Southern California. This source only uses a photograph of a young specimen from Southern California as its cover picture, with no further data on the animal.
+
+### Context
+> This is a miscellaneous page from [[Turtox News]], a biological supply house publication, containing a photograph caption, travel and workshop notices, a cover credit, product and slide advertisements, and job openings. Its only substantive aquatic content is a photograph of shark and sawfish...
+> -- *[[SharkAndSawfishFromFreshwaterL_15319]]*
+
+### Mentioned In
+- [[SharkAndSawfishFromFreshwaterL_15319]]
+
 ## Ocyurus chrysurus
 
 ### Context
@@ -961,6 +1397,38 @@ The Oden Hatchery is a Michigan trout hatchery whose waste ditches were shocked 
 
 ### Mentioned In
 - [[TheElectricShockerAndItsUseInM_18901]]
+
+## Oden State Fish Hatchery
+
+### Summary
+A Michigan state fish hatchery that supplied the 3,000 rainbow trout fingerlings used in this study. The fish were raised there and planted in Hunt Creek on 22 October 1952.
+
+### Context
+> This 1967 study by David S. Shetter, published in the *Transactions of the American Fisheries Society* (vol. 96, no. 4, pp. 394–399), tested whether the marks commonly used in [[Fishery Biology]] research bias the results they are meant to measure. About 1,000 [[Rainbow Trout]] fingerlings in each...
+> -- *[[EffectsOfJawTagsAndFinExcision_18905]]*
+
+> This study tested whether [[Pelleted Dry Diet]] formulations could replace the raw-meat rations long used in Michigan trout hatcheries. Pelleted dry-meal diets were compared with [[Raw Beef Liver]] and chopped raw-meat diets, using [[Rainbow Trout]] and [[Brook Trout]] as test animals. Growth,...
+> -- *[[PelletedDryRationsForTroutProp_19203]]*
+
+### Mentioned In
+- [[EffectsOfJawTagsAndFinExcision_18905]]
+- [[PelletedDryRationsForTroutProp_19203]]
+
+## Odette Afonso
+
+### Summary
+Odette Afonso is one of the three co-authors of this 1979 paper. The source says that the isopods collected from the wells in August 1978 were passed to her for study.
+
+### Context
+> This 1979 taxonomic paper by [[Amilcar Mateus]], [[Emilia Mateus]] and [[Odette Afonso]] describes a new epigean amphipod, *Echinogammarus paxjuliensis* sp. n. ([[Gammaridae]]), from the Monte da Calcada area near Beja in the [[Alentejo]] region of southern [[Portugal]]. The animals were found...
+> -- *[[UneNouvelleEspeceDechinogammar_15156]]*
+
+> This 1974 taxonomic paper by [[Emília de Oliveira Mateus]] and [[Odette Afonso]], published by the [[Institute of Zoology Dr. Augusto Nobre]] at the Faculty of Sciences of Porto, Portugal, reports on a small collection of littoral amphipod crustaceans from the [[Azores]]. The authors identified...
+> -- *[[EtudeDuneCollectionDamphipodaD_15158]]*
+
+### Mentioned In
+- [[UneNouvelleEspeceDechinogammar_15156]]
+- [[EtudeDuneCollectionDamphipodaD_15158]]
 
 ## Odland Reservoir
 
@@ -1046,6 +1514,18 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 > This 1992 annual report from the [[Native Fish Work Group]] (NFWG) documents an effort to rebuild the endangered [[Razorback Sucker]] population in [[Lake Mohave]], Arizona-Nevada. The adult population, estimated at about 60,000 fish, is old (40+ years) and has shown no detectable recruitment to...
 > -- *[[NativeFishWorkGroupAnnualRepor_13921]]*
 
+> This paper, by [[Charles D. Michener]] of the University of Kansas, was published in the Proceedings of the Tenth International Congress of Entomology (1956, vol. 1, pp. 583–588). It argues that taxonomists should adopt a uniform, morphologically meaningful terminology for insect structures...
+> -- *[[MorphologicallyMeaningfulVsDes_15263]]*
+
+> This 1963 comparative biochemistry paper by D. W. Sutcliffe (Department of Zoology, University of Durham) tests whether the chemical composition of [[Insecta|insect]] haemolymph reflects evolutionary history. Using a compiled dataset from published analyses, the author expresses the osmotic...
+> -- *[[TheChemicalCompositionOfHaemol_14684]]*
+
+> This 1962 study by James R. Karr examined age, growth, and food habits of three darter species from the [[Des Moines River]] and [[Bluff Creek]] in [[Boone County]], Iowa. Samples comprised 61 [[Johnny Darter]], 25 [[Slenderhead Darter]], and 18 [[Blacksided Darter]]. Blacksided darters grew...
+> -- *[[AgeGrowthAndFoodHabitsOfJohnny_17889]]*
+
+> This study analyzes the diet of [[Montana Grayling]] (*Thymallus montanus*) introduced into [[Ford Lake]], a small landlocked lake in northern Michigan, after stocking in fall 1936. The work was motivated by the probable extinction of the native [[Michigan Grayling]] (*Thymallus tricolor*) and the...
+> -- *[[FeedingHabitsOfTheMontanaGrayl_20280]]*
+
 ### Mentioned In
 - [[ComparativeEcologyOfNotropisAl_14679]]
 - [[DragonfliesCollectedInKentucky_1984_06_26]]
@@ -1058,6 +1538,10 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 - [[PopulationDynamicsOfHerbivorou_13410]]
 - [[LiteratureReviewAndImpactRepor_14988]]
 - [[NativeFishWorkGroupAnnualRepor_13921]]
+- [[MorphologicallyMeaningfulVsDes_15263]]
+- [[TheChemicalCompositionOfHaemol_14684]]
+- [[AgeGrowthAndFoodHabitsOfJohnny_17889]]
+- [[FeedingHabitsOfTheMontanaGrayl_20280]]
 
 ## Odonate Nymphs
 <!-- fm: auto_enriched: true -->
@@ -1084,6 +1568,78 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 ### Mentioned In
 - [[MeetingAnnouncementNativeFishW_1993]]
 
+## Odontesthes
+
+### Summary
+A South American genus in the tribe Basilichthyini, containing about ten species and flagged for generic revision. It lacks a mesethmoid, has a fenestrated opercle (except O. incisus), and has protractile jaws with a thin, spinelike premaxillary dorsal process. The source treats Austromenidia as a junior synonym of it.
+
+### Context
+> This systematic revision uses [[Cladistics]] (Hennig's phylogenetic systematics) to test the relationships of the New World silverside subfamily [[Atherinopsinae]] within the family [[Atherinidae]]. Based on osteological comparisons of cleared-and-stained and dissected specimens, the study...
+> -- *[[EvolutionaryRelationshipsOfThe_12185]]*
+
+### Mentioned In
+- [[EvolutionaryRelationshipsOfThe_12185]]
+
+## Odontocerum albicorne
+
+### Summary
+A cased caddisfly that was scarce and found mainly in the main stream of Ford Wood Beck. The source lists it among the cased species that were uncommon at the study sites.
+
+### Context
+> This paper, by [[Jean C. Mackereth]] of the [[Freshwater Biological Association]], reports the caddisfly (Trichoptera) fauna of [[Ford Wood Beck]], a small stony moorland stream that drains into [[Blelham Tarn]] north-west of [[Windermere]]. Monthly collections over three years at five main...
+> -- *[[NotesOnTheTrichopteraOfAStonyS_19315]]*
+
+### Mentioned In
+- [[NotesOnTheTrichopteraOfAStonyS_19315]]
+
+## Odontopholis
+
+### Summary
+Odontopholis is one of the subgenera of Percina darters that the source lists as having modified midbelly scales. The source places it among the seven subgenera with this trait, but it gives no specific findings for this group.
+
+### Context
+> This 1976 morphological study by [[Lawrence M. Page]] of the Illinois Natural History Survey examines the enlarged, strongly toothed "modified" scales of [[Percina]] darters. The scales are unique to this genus within the darter tribe Etheostomatini, and their presence or absence helps separate...
+> -- *[[TheModifiedMidventralScalesOfP_18385]]*
+
+### Mentioned In
+- [[TheModifiedMidventralScalesOfP_18385]]
+
+## Odontopyxis Trispinosus
+
+### Summary
+Odontopyxis trispinosus is a small marine agonid fish (family Agonidae) of the North Pacific. In this 1942 note by Hubbs, it serves as the reference species, and the two aberrant specimens are identified as abnormal examples of it, with the fish's typical features described from Jordan and Evermann's account.
+
+### Context
+> This 1942 morphological study by [[Carl L. Hubbs]] examines two aberrant specimens of the agonid [[Odontopyxis Trispinosus]] collected in [[British Columbia]]. Both fish show fusion of the dorsal shields and keels before the dorsal fin, a feature that otherwise defines the related [[Bothragonus...
+> -- *[[PeculiarVariantsOfTheAgonidFis_20025]]*
+
+### Mentioned In
+- [[PeculiarVariantsOfTheAgonidFis_20025]]
+
+## Odor Choice Apparatus
+
+### Summary
+A four-runway test device in which salmon fingerlings jumped waterfalls to enter arms scented with different test odors. It was one of the two experimental designs the authors used to examine odor discrimination.
+
+### Context
+> This 1955 reprint from *Scientific American* by [[Arthur D. Hasler]] and [[James A. Larsen]] examines how salmon find their way back to their natal streams after years at sea. Drawing on laboratory conditioning experiments at the [[Wisconsin Lake Laboratory]] and field tests in North American...
+> -- *[[TheHomingSalmon_20700]]*
+
+### Mentioned In
+- [[TheHomingSalmon_20700]]
+
+## Odra River
+
+### Summary
+A river in central Europe whose system drains to the Baltic Sea. In this source, the Lucina and Moravka streams are tributaries of its river system.
+
+### Context
+> This 1950s hydrobiological study by Milan Straškraba (Hydrobiological Laboratory, Czechoslovak Academy of Sciences, Prague) compares the bottom macrofauna, fish and fish food of two Silesian streams, the [[Lucina Stream]] and the [[Moravka Stream]], which are tributaries of the [[Odra River]]....
+> -- *[[OnTheDistributionOfTheMacrofau_14603]]*
+
+### Mentioned In
+- [[OnTheDistributionOfTheMacrofau_14603]]
+
 ## Odum
 <!-- fm: auto_enriched: true -->
 
@@ -1097,11 +1653,35 @@ Odonata is the taxonomic order comprising dragonflies and damselflies, which are
 > This 1964 Oklahoma State University doctoral dissertation in Zoology by [[John Lawrence Butler]] examines how water exchange, turbidity, dissolved solids, temperature and light control primary productivity in farm ponds and in laboratory [[Microecosystem]] studies. Field work on [[Myers Ponds]] and...
 > -- *[[InteractionOfEffectsByEnvironm_14113]]*
 
+> This 1958 review by J. W. G. [[Lund]] of the [[Freshwater Biological Association]] examines [[Primary Production]] in British inland waters. It argues that attached plants ([[Phytobenthos]]) may outproduce [[Phytoplankton]] in many shallow waters, reed beds and rivers, and that standing-crop...
+> -- *[[PrimaryProductionInInlandWater_16249]]*
+
+> This review by Edwards and Owens, from the [[Water Pollution Research Laboratory]] at Stevenage, argues that the classical [[Streeter-Phelps Equation]] is inadequate for describing dissolved oxygen in streams. The equation treats oxygen demand as bacterial [[Biochemical Oxygen Demand]] (BOD) and...
+> -- *[[OxygenConsumptionOfRiverMuds_15788]]*
+
+> This 1966 Oklahoma State University dissertation by [[Ray K. Baumgardner]] examines the [[Oxygen Balance]] of [[Skeleton Creek]], a small prairie stream in north-central Oklahoma receiving sewage from several municipal and institutional sources and effluent from an [[Oil Refinery]]. Monthly...
+> -- *[[OxygenBalanceInAStreamReceivin_15654]]*
+
 ### Mentioned In
 - [[FactorsInfluencingLocalDistrib_17059]]
 - [[SomeEffectsOfPlantsAndAnimalsO_15778]]
 - [[TheNutrientCompositionDynamics_12515]]
 - [[InteractionOfEffectsByEnvironm_14113]]
+- [[PrimaryProductionInInlandWater_16249]]
+- [[OxygenConsumptionOfRiverMuds_15788]]
+- [[OxygenBalanceInAStreamReceivin_15654]]
+
+## Odum (1953)
+
+### Summary
+Odum (1953) is a study cited by Gordon showing that much of the Florida peninsula has waters with chloride of about 100 ppm or more. It also documented sites with marine fishes where chlorinity ranged from 570 to 900 ppm. Because these Florida waters fall outside the list's working concept, Gordon largely excluded Florida records.
+
+### Context
+> This paper by [[Gordon Gunter]] (Gulf Coast Research Laboratory, 1956) revises and extends an earlier annotated list of fishes that tolerate both fresh water and pure sea water. The revised list contains **150 species** from North and Middle America, north of the southern boundary of Panama. The...
+> -- *[[ARevisedListOfEuryhalinFishesO_17829]]*
+
+### Mentioned In
+- [[ARevisedListOfEuryhalinFishesO_17829]]
 
 ## Odum 1956
 <!-- fm: auto_enriched: true -->
@@ -1206,6 +1786,18 @@ A study of the metabolism of a laboratory stream microcosm. It is listed among t
 ### Mentioned In
 - [[ProductivityRelationsInCarboyM_12276]]
 
+## Odum and Kuenzler 1955
+
+### Summary
+Odum and Kuenzler (1955) described the approach the author used to estimate maximum home range, the smallest convex polygon enclosing all of a fish's locations. In this study, shorelines formed the polygon edges, and obvious wandering such as bass #3's lake-wide excursion was excluded.
+
+### Context
+> This 1977 study in *Transactions of the American Fisheries Society* uses [[Radio Telemetry]] to test whether [[Largemouth Bass]] wander randomly or keep to defined areas. Four bass were tracked in [[Mary Lake]] during summer 1970: three resident fish captured in the lake and one fish transplanted...
+> -- *[[SummerHomeRangeMovementsAndHab_20780]]*
+
+### Mentioned In
+- [[SummerHomeRangeMovementsAndHab_20780]]
+
 ## Odum and Odum 1955
 
 ### Summary
@@ -1218,6 +1810,54 @@ Odum and Odum's 1955 study describes the trophic structure of a windward coral r
 ### Mentioned In
 - [[PartialBibliographyOfInterestT_18238]]
 
+## Odum Method
+
+### Summary
+The Odum method is a 1956 approach for estimating stream productivity and respiration from dissolved oxygen changes, using a finite-difference solution of the oxygen balance. The authors note that it is subject to important errors, and they contrast it with their own method, which uses a sequence of night-time measurements rather than Odum's two-point (sunset/sunrise) approach.
+
+### Context
+> This 1975 *Journal of the Environmental Engineering Division* paper by George M. Hornberger and Mahlon G. Kelly (University of Virginia) presents two methods for estimating the [[Reaeration Coefficient]] (K), the rate at which [[Atmospheric Reaeration]] exchanges oxygen between air and river water....
+> -- *[[AtmosphericReaerationInARiverU_19923]]*
+
+### Mentioned In
+- [[AtmosphericReaerationInARiverU_19923]]
+
+## Odum Succession Model
+
+### Summary
+The Odum succession model is an ecological model predicting how communities change over time, including convergence of production and respiration (P and R) as systems mature. The source uses it as a benchmark and finds that desert stream succession departs from its predictions. In desert streams P and R do not converge, and communities remain dominated by small, fast-growing taxa.
+
+### Context
+> This review by [[Stuart G. Fisher]] (Arizona State University) argues that [[Desert Streams]] are substantially different from [[Mesic Streams]] and therefore serve as a critical test of ecosystem paradigms built largely on humid-region research. Desert streams are typically flashy, intermittent,...
+> -- *[[StructureAndDynamicsOfDesertSt_16413]]*
+
+### Mentioned In
+- [[StructureAndDynamicsOfDesertSt_16413]]
+
+## Odum's Ecosystem Development
+
+### Summary
+Eugene Odum's generalizations describing how ecosystems change during development, such as rising biomass, production and community complexity. Fisher tests them against Sycamore Creek and finds most hold, except for traits shaped by stream openness, such as P/R ratios that do not approach unity.
+
+### Context
+> This review by Stuart G. Fisher ([[Arizona State University]], Department of Zoology) argues that [[Ecological Succession]] theory, which has historically been botanical and terrestrial, can be fruitfully applied to running waters. The paper examines two aspects of stream succession:...
+> -- *[[SuccessionInStreams_16412]]*
+
+### Mentioned In
+- [[SuccessionInStreams_16412]]
+
+## Oeclus
+
+### Summary
+Oeclus is a genus of diplocentrid scorpions that Stahnke uses as the main comparison for separating the new genus Bioculus. The source distinguishes the two by features including a median carapacial notch, pedal spurs, tarsomere spine formulas, pectinal tooth counts and trichobothrial positions. No further details about Oeclus itself are given in this note.
+
+### Context
+> Stahnke (1968), published in the Proceedings of the [[California Academy of Sciences]], describes diplocentrid scorpions from Baja California del Sur, Mexico, a group not previously reported from the peninsula. The paper describes one new species of [[Didymocentrus]] (*D. caboensis*), one new genus...
+> -- *[[SomeDiplocentridScorpionsFromB_14706]]*
+
+### Mentioned In
+- [[SomeDiplocentridScorpionsFromB_14706]]
+
 ## Oedogonium
 
 ### Summary
@@ -1229,6 +1869,42 @@ Oedogonium is a filamentous green alga that grew richly in the ORNL settling bas
 
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
+
+## Oemopteryx
+
+### Summary
+Oemopteryx is a genus of small winter stoneflies in the family Taeniopterygidae. This synopsis places it in Group C with Brachyptera and recognizes four species groups within it (loewii, glacialis, contorta and vanduzeea). The source notes that O. contorta is known from very few Appalachian sites and O. vanduzeea is from California.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
+
+## Oemopteryx contorta
+
+### Summary
+A small brachypterine stonefly known from very few sites in the Appalachian region of eastern North America. It belongs to the contorta group within Oemopteryx.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
+
+## Oemopteryx vanduzeea
+
+### Summary
+A brachypterine stonefly from California. The source places it in its own group within Oemopteryx, one of four groups recognized in the genus.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
 
 ## Of Men And Marshes
 <!-- fm: auto_enriched: true -->
@@ -1381,8 +2057,12 @@ The Office of Technology Assessment (OTA) was a congressional advisory body that
 > This June 1997 report by [[Donald Wilhite]] of the [[National Drought Mitigation Center]] (NDMC), University of Nebraska, was prepared for the [[Western Water Policy Review Advisory Commission]]. It reviews drought and drought management in the Western United States and recommends how the Federal...
 > -- *[[ImprovingDroughtManagementInTh_11975]]*
 
+> This review, by [[Richard L. Mayden]] and [[Robert M. Wood]] in the American Fisheries Society Symposium 17 (1995), argues that accurate recognition of biodiversity depends on [[Phylogenetic Systematics]] and an appropriate [[Species Concept]]. The authors contend that most species concepts in use...
+> -- *[[SystematicsSpeciesConceptsAndT_15240]]*
+
 ### Mentioned In
 - [[ImprovingDroughtManagementInTh_11975]]
+- [[SystematicsSpeciesConceptsAndT_15240]]
 
 ## Office Of The Federal Register
 
@@ -1453,8 +2133,16 @@ The Ogallala Aquifer is a large underground water source on the High Plains. In 
 > This 1985 field guide, written by John Woodling for the [[Colorado Division of Wildlife]], describes about 50 of the roughly 80 fish species found in Colorado. These are the minnows, suckers, darters and other species seldom sought by anglers, often labelled "trash" or "forage" fish. The guide...
 > -- *[[ColoradosLittleFishAGuideToThe_20824]]*
 
+> This book chapter, by [[Peter J. Unmack]] and [[W. L. Minckley]], reviews the causes of loss and decline of desert springs and their aquatic biota, with emphasis on experience in Australia and western North America. Springs are described as remnants of wetter climates and as natural laboratories...
+> -- *[[TheDemiseOfDesertSprings_11444]]*
+
+> This 1980 National Geographic feature by Thomas Y. Canby, with photographs by Ted Spiegel, surveys water use, scarcity, pollution, and management across the United States. It argues that the nation is not running out of water in a general sense, since roughly four trillion gallons of precipitation...
+> -- *[[OurMostPreciousResourceWater_17371]]*
+
 ### Mentioned In
 - [[ColoradosLittleFishAGuideToThe_20824]]
+- [[TheDemiseOfDesertSprings_11444]]
+- [[OurMostPreciousResourceWater_17371]]
 
 ## Ogallala Formation
 
@@ -1465,8 +2153,28 @@ A widespread alluvial sediment unit of the High Plains. The source argues that R
 > This bulletin (Bulletin 116, [[New Mexico Bureau of Mines & Mineral Resources]], Socorro, 1987) by Dwight W. Taylor of Oregon State University describes 22 freshwater mollusc species from New Mexico and adjacent areas. It describes nine new species from New Mexico, four from Arizona, two from Utah,...
 > -- *[[FreshwaterMollusksFromNewMexic_13497]]*
 
+> This short paleontological note reports the first fossil occurrence of the herring subfamily [[Dorosomatinae]] (family [[Clupeidae]]), represented by a nearly complete juvenile of [[Dorosoma Petenense]] (threadfin shad). The specimen comes from the type locality of the [[Gatuna Formation]], an...
+> -- *[[FirstFossilRecordPliopleistoce_15367]]*
+
+> This study documents the fish community of the Smoky Hill River in western and central Kansas, based on 62 electrofishing collections at eight stations from 29 May 1965 to 6 August 1966. The author recorded 13,959 specimens of 30 species (the text also cites 31 species for the same collections, a...
+> -- *[[FishesOfTheSmokyHillRiverKansa_14672]]*
+
 ### Mentioned In
 - [[FreshwaterMollusksFromNewMexic_13497]]
+- [[FirstFossilRecordPliopleistoce_15367]]
+- [[FishesOfTheSmokyHillRiverKansa_14672]]
+
+## Ogden Bay Bird Refuge
+
+### Summary
+A shallow, marshy site in Utah, USA, where the carp in this study were collected in 1950–51. The area was converted from a barren salt flat into a vegetated marsh in 1938 and has been eutrophied since then by silt and sewage from the Weber and Ogden rivers. The author linked changing habitat conditions there to a decline in carp growth rates across age classes.
+
+### Context
+> This 1951 study, published in the *Transactions of the American Fisheries Society*, tests whether the [[Opercular Bone Method]] can estimate the age and growth of [[Common Carp]] (*Cyprinus carpio*) in northern Utah. It was part of a non-game fish investigation begun in 1948 by the Department of...
+> -- *[[TheOpercularBoneAsAnIndicatorO_12271]]*
+
+### Mentioned In
+- [[TheOpercularBoneAsAnIndicatorO_12271]]
 
 ## Ogee Crest
 
@@ -1496,11 +2204,40 @@ Ogilbia pearsei is the blind brotula, a member of the family Bythitidae. This so
 - [[DistributionalAndLocalVernacul_13815]]
 - [[CatalogoDeLosPecesContinentale_20569]]
 
+## Oglala Aquifer
+
+### Summary
+The Oglala Aquifer is a large groundwater aquifer underlying parts of the Great Plains. The source cites it as an interstate example of groundwater overpumping, where shortages forced valuable farmland out of production. It is used to illustrate the argument that aquifers can be mined like oil or coal.
+
+### Context
+> This article, a condensed version of a law review piece by [[Charles F. Wilkinson]] (University of Colorado-Boulder), argues that western water law is being reevaluated after more than a century dominated by the [[Prior Appropriation Doctrine]]. Traditional priorities (state-based appropriation,...
+> -- *[[WesternWaterLawInTransition_11983]]*
+
+### Mentioned In
+- [[WesternWaterLawInTransition_11983]]
+
 ## Ogowe River
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This taxonomic note by [[Geoffrey Fryer]] of the Freshwater Biological Association reports crustacean gill parasites from cichlid fishes of the genus [[Tilapia]], based on a search of the gills and branchial chambers of all tilapia specimens held in the [[Musée Royal de l'Afrique Centrale]],...
+> -- *[[CrustaceanParasitesFromCichlid_18870]]*
+
 ### Mentioned In
 - [[WestAfricanRiversAsBiogeograph_1989]]
+- [[CrustaceanParasitesFromCichlid_18870]]
+
+## OH Radical
+
+### Summary
+The hydroxyl radical (OH) is a highly reactive molecule in the atmosphere that breaks down methane. The methane fragment in this source argues that higher temperatures would increase OH formation and thus methane destruction.
+
+### Context
+> This Science (1996) paper by [[Thomas C Johnson]] and colleagues uses [[Seismic Reflection Profiling]] and [[Piston Coring]] to test whether the more than 300 endemic [[Haplochromine Cichlids]] of [[Lake Victoria]] could have survived in refugia during a late Pleistocene arid period. The authors...
+> -- *[[LatePleistoceneDesiccationOfLa_19823]]*
+
+### Mentioned In
+- [[LatePleistoceneDesiccationOfLa_19823]]
 
 ## Ohanapecosh River
 
@@ -1513,6 +2250,18 @@ The Ohanapecosh River is a mountain stream in the Columbia River watershed with 
 
 ### Mentioned In
 - [[CharacteristicsOfSpawningNests_14037]]
+
+## Ohau Channel
+
+### Summary
+The channel that carries water from Lake Rotorua into Lake Rotoiti, entering its western basin. It is the main inflow to Rotoiti and also the only surface outlet of Lake Rotorua, in the north-east.
+
+### Context
+> This 1969 limnological paper by G. R. Fish (Fisheries Research Division, Marine Department, Rotorua) and M. A. Chapman (Zoology Department, University of Auckland) reports short synoptic surveys of [[Lake Rotorua]] and [[Lake Rotoiti]], New Zealand, carried out before a planned three-year...
+> -- *[[SynopticSurveysOfLakesRotoruaA_16406]]*
+
+### Mentioned In
+- [[SynopticSurveysOfLakesRotoruaA_16406]]
 
 ## Ohaus Scale
 
@@ -1571,6 +2320,18 @@ The Ohio unit studied strip-mine ponds, finding that only 12 of 170 impoundments
 ### Mentioned In
 - [[AnnualReportForCooperativeFish_11527]]
 
+## Ohio Crayfish
+
+### Summary
+Orconectes propinquus is a freshwater crayfish in the family Cambaridae. The author suggested introducing this smaller species to West Lost Lake as one management option to increase crayfish prey available to trout.
+
+### Context
+> This 1967 study by Walter T. Momot, published in the *Transactions of the American Fisheries Society*, examines how [[Brook Trout]] (*Salvelinus fontinalis*) predation affects a population of [[Virile Crayfish]] (*Orconectes virilis*) in [[West Lost Lake]], a closed marl lake in Michigan's [[Pigeon...
+> -- *[[EffectsOfBrookTroutPredationOn_16546]]*
+
+### Mentioned In
+- [[EffectsOfBrookTroutPredationOn_16546]]
+
 ## Ohio Creek
 
 ### Summary
@@ -1601,6 +2362,18 @@ A tributary of the Gunnison River above Sapinero in Colorado. The source lists i
 - [[LimeTreatmentOfLakeReducesAcid_17119]]
 - [[ArtificialKeysForTheIdentifica_13390]]
 
+## Ohio Drainage
+
+### Summary
+The Ohio Drainage is the river basin system of Ohio in which Ericymba buccata occurs. The source notes that the species is a small freshwater minnow of this drainage.
+
+### Context
+> This 1950 histological study by [[Geo. A. Moore]], [[Harold R. Pollock]] and [[Donna Lima]] at the [[Oklahoma Agricultural and Mechanical College]] describes the photoreceptors of the [[Silverjaw Minnow]] (*[[Ericymba Buccata]]*), a small Ohio stream fish. The authors report that the retina...
+> -- *[[TheVisualCellsOfEricymbaBuccat_16572]]*
+
+### Mentioned In
+- [[TheVisualCellsOfEricymbaBuccat_16572]]
+
 ## Ohio Fish Fauna Decline
 
 ### Summary
@@ -1624,6 +2397,18 @@ The fisheries of the State of Ohio, which supplied more than half of the Lake Er
 
 ### Mentioned In
 - [[AgeGrowthAndProductionOfYellow_19742]]
+
+## Ohio Hatchery Creek Chubs
+
+### Summary
+A comparison group of hatchery-raised creek chubs from Ohio. The authors found that Station 2.8 fish were larger than these early in the season but grew more slowly by the fourth month.
+
+### Context
+> This study examines how partially treated domestic sewage from Wilmington, Ohio, affects the size and growth of [[Creek Chub]] (*Semotilus atromaculatus*) in [[Lytle Creek]]. The authors, working at the [[Robert A. Taft Sanitary Engineering Center]] of the U.S. Public Health Service, compared...
+> -- *[[TheLengthAndGrowthOfYearClassC_17894]]*
+
+### Mentioned In
+- [[TheLengthAndGrowthOfYearClassC_17894]]
 
 ## Ohio Lamprey
 
@@ -1716,6 +2501,99 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This 1953 U.S. Geological Survey circular assesses the water resources of the Louisville metropolitan area, which comprises Jefferson County, Kentucky and parts of Clark and Floyd Counties, Indiana. The [[Ohio River]] is the dominant source, with a 25-year average flow of 75,000 mgd, while the...
 > -- *[[WaterResourcesOfTheLouisvilleA_10791]]*
 
+> This study examines the [[Life History]] and [[Ecology]] of the mayfly *Epeorus pleuralis* (Banks) in [[Morgan's Creek]], a small, spring-fed stony stream in Meade County, Kentucky. Observations ran over about 20 months, from 1 February 1963 to 26 September 1964. The species is univoltine. Hatching...
+> -- *[[LifeHistoryAndEcologyOfEpeorus_16512]]*
+
+> This short paper by [[Gerald E. Gunning]] and [[Royal D. Suttkus]] of [[Tulane University]] reports the occurrence of the introduced [[Asiatic Clam]] in the [[Pearl River]] system of Louisiana. Specimens first identified as [[Corbicula Fluminea]] were referred by a national museum specialist to...
+> -- *[[OccurenceAndDistributionOfAsia_17827]]*
+
+> This note reports the first Canadian record of the exotic cyprinid [[Grass Carp]] (*Ctenopharyngodon idella*). A male specimen, 758 mm total length (TL), was captured in a trap net in [[Lake Erie]] about 1 km off the west shore of [[Point Pelee National Park]] on 27 September 1985. The authors...
+> -- *[[TheFirstRecordOfGrassCarpCteno_18072]]*
+
+> This study reports the frequent occurrence of the troglobitic isopod [[Asellus Stygius]] in surface (epigean) waters of Meade and Jefferson counties, [[Kentucky]]. The species was collected at 20 localities, most of them in [[Doe Run]]. There it persisted as a consistent but minor element of the...
+> -- *[[OccurrenceOfSubterraneanIsopod_18552]]*
+
+> This 1975 reprint from the *Transactions of the Kentucky Academy of Science* by Brooks M. Burr and Lawrence M. Page, of the [[Illinois Natural History Survey]], reports [[Notropis Maculatus]] (Taillight Shiner) from [[Ohio River]] oxbow lakes in Ballard and McCracken counties, western Kentucky....
+> -- *[[DistributionAndLifeHistoryNote_14051]]*
+
+> This 1964 paper by W. L. Minckl7ey (Department of Zoology, Arizona State University) documents large-scale upstream movements of amphipod crustaceans in [[Doe Run]], a large spring stream in [[Meade County]], Kentucky. Among six amphipod species in the system, only [[Gammarus Bousfieldi]] migrated...
+> -- *[[UpstreamMovementsOfGammarusAmp_18556]]*
+
+> This 1945 paper by W. E. Ricker of [[Indiana University]] presents the first compiled list of stonefly species recorded from [[Indiana]]. The list contains 38 species in seven families, assembled from the [[Purdue University]] and Indiana University teaching and research collections, supplemented...
+> -- *[[AFirstListOfIndianaStonefliesP_16854]]*
+
+> This 1961 limnological paper by John G. Weise reviews the distribution and ecology of [[Urnatella Gracilis]], a freshwater endoproct (phylum Endoprocta), using bottom collections from the [[Ohio River]] made during the author's work for the [[Aquatic Life Resources Project]]. The species is found...
+> -- *[[TheEcologyOfUrnatellaGracilisL_12124]]*
+
+> This 1958 extension article by Frank J. Schwartz of the [[Chesapeake Biological Laboratory]] reports the first West Virginia record of the [[Threadfin Shad]], captured on July 25, 1957, in [[Bluestone Reservoir]]. The author argues that the species could become a valuable [[Forage Fish]] for the...
+> -- *[[ThreadfinShadANewForageFishFor_11288]]*
+
+> This 1953 fisheries study by John F. Hall, conducted for the Kentucky Department of Fish and Wildlife Resources, compared two fish-sampling approaches in [[Old Kingfisher Lake]], a 14-acre, shallow, clear impoundment in western Kentucky. The methods were multi-panel netting (gill, trammel, wing and...
+> -- *[[AComparativeStudyOfTwoFishsamp_20972]]*
+
+> This document is a compilation from the newsletter *American Currents* (NANFA). It has three parts: a short opening passage on aquarium husbandry, a reference list of 21+ mostly North American fish studies, and a feature article by Jim Pitts on collecting native fishes in urban Louisville,...
+> -- *[[CollectingFishInAnUrbanEnviron_18604]]*
+
+> This 1957 study by [[Gerald A. Cole]] (Department of Biology, University of Louisville) reports surface-dwelling (epigean) aquatic isopods and amphipods collected from 85 stations in Kentucky, mostly in [[Jefferson County]]. The study covers more than 140 collections gathered over roughly three...
+> -- *[[SomeEpigeanIsopodsAndAmphipods_16010]]*
+
+> This 1966 study by [[G. Wayne Minshall]] and [[Judy Norman Minshall]] examines the life history, feeding and distribution of two carnivorous stoneflies, *Isoperla clio* and *Isogenus decisus*, in [[Morgan's Creek]], a relatively cool, spring-fed limestone brook in Meade County, Kentucky. Both are...
+> -- *[[NotesOnTheLifeHistoryAndEcolog_16509]]*
+
+> This document contains two papers. The first, a 1976 study, examines vertebral numbers in the [[Emerald Shiner]] (*Notropis atherinoides*) along the [[Ohio River]]. Counts from 1,038 x-rayed specimens show a consistent upstream-to-downstream increase, the reverse of the latitudinal pattern...
+> -- *[[VertebralVariationInTheEmerald_16818]]*
+
+> This 1963 study by W. L. Minckley and Donald R. Tindall examines the ecology of a [[Batrachospermum]] red alga (Rhodophyta) in [[Doe Run]], a spring-fed stream in [[Meade County]], Kentucky. Observations ran from February 1959 to August 1962. The alga's sexual thalli appear in autumn, grow...
+> -- *[[EcologyOfBatrachospermSpRhodop_15870]]*
+
+> Gaufin and Tarzwell (1955) report a year-round study of [[Lytle Creek]], a small stream in Ohio polluted by primary-treated sewage from Wilmington. The study compares [[Summer Septic Zone|summer]] and [[Winter Conditions|winter]] conditions and their effects on [[Macro-Invertebrates]] assemblages....
+> -- *[[EnvironmentalChangesInAPollute_16938]]*
+
+> This preliminary study from the 1961 [[Radioecology]] symposium examines the life history, feeding ecology, growth, and [[Bioaccumulation]] of naturally occurring radionuclides in the [[Banded Sculpin]] (*Cottus carolinae*) in [[Doe Run]], a spring stream in Meade County, Kentucky. The banded...
+> -- *[[NaturalRadioactivityInTheFoodW_11280]]*
+
+> This herpetological compilation by [[James E Craddock]] and [[W L Minckley]] (published 1964 in *The American Midland Naturalist*) records 57 amphibian and reptile species from [[Meade County]] and adjacent northern Kentucky counties. The material was gathered between February 1959 and January...
+> -- *[[AmphibiansAndReptilesFromMeade_17981]]*
+
+> This study re-examines the benthic macroinvertebrate assemblage of [[Doe Run Creek]], a spring-fed karst stream in Meade County, Kentucky, by repeating the 1960 sampling design of [[Wendell Minckley]] (1963). It compares 1960 and 1990 data, and also 1989 and 1990 data, to place the 30-year change...
+> -- *[[AComparisonOfTheMacroinvertebr_19799]]*
+
+> This taxonomic paper, published in the [[Occasional Papers of the Museum of Natural History]] (University of Kansas, No. 101, 1982) by [[Lawrence M. Page]] and [[Brooks M. Burr]], formally describes three previously unnamed darter species of the subgenus [[Nanostoma]]: [[Etheostoma Baileyi]],...
+> -- *[[ThreeNewSpeciesOfDarterPercida_18399]]*
+
+> This 1960 paper by [[Conrad P. Straub]] reports the research program of the [[Robert A. Taft Sanitary Engineering Center]], a [[Public Health Service]] unit in Cincinnati, Ohio, to measure radioactive contamination of air, rainfall, cistern water, [[Ohio River]] water, milk and food. It is not a...
+> -- *[[ResearchInTheRadioactiveContam_14606]]*
+
+> This paper reports what the authors describe as the first known natural hybrids between the [[Threadfin Shad]] (*Signalosa petenensis*) and the [[Gizzard Shad]] (*Dorosoma cepedianum*), both collected from the [[Ohio River]]. Six hybrid specimens were compared with 25 specimens of each parental...
+> -- *[[NaturalHybridizationBetweenThe_15868]]*
+
+> This taxonomic revision by W. E. Ricker (Fisheries Research Board of Canada, Nanaimo) and H. H. Ross (Illinois Natural History Survey) covers the eight American stonefly species of the genus [[Taeniopteryx]]. Four of these, [[Taeniopteryx Burksi]], [[Taeniopteryx Lonicera]], [[Taeniopteryx...
+> -- *[[NorthAmericanSpeciesOfTaeniopt_16880]]*
+
+> This study by [[Donald C. Tarter]] analyzes the stomach contents of 934 western blacknose dace (*Rhinichthys atratulus meleagris*) collected semimonthly from October 1965 through September 1966 at three stations in the upper 3.1 miles of [[Doe Run]], Meade County, Kentucky. Stomach contents were...
+> -- *[[FoodAndFeedingHabitsOfTheWeste_13462]]*
+
+> This 1966 paper, reprinted from the proceedings of the Stockholm symposium *Radioecological Concentration Processes*, reports a multi-year study by L. A. Krumholz (University of Louisville) of how [[Nuclear Fallout]] accumulated through the biota of [[Doe Run]], a spring-fed limestone stream in...
+> -- *[[AccumulationOfRadioactiveFallo_12455]]*
+
+> This American Fisheries Society (AFS) review, published in *Fisheries* (Vol. 18, No. 9, September 1993), lists all native freshwater mussels of the families [[Margaritiferidae]] and [[Unionidae]] in the United States and Canada. It gives state and provincial distributions, reviews the conservation...
+> -- *[[ConservationStatusOfFreshwater_12010]]*
+
+> This 1963 study by [[W. L. Minckley]] and [[Gerald A. Cole]] (Occasional Papers, [[C. C. Adams Center for Ecological Studies]], Western Michigan University) examines two coexisting amphipod crustaceans in Doe Run, a spring-fed stream in Meade County, Kentucky. The species are [[Gammarus Minus]], a...
+> -- *[[EcologicalAndMorphologicalStud_15871]]*
+
+> This 1960–1961 limnological survey by [[Geiling]] and [[Krumholz]] (Department of Biology, University of Louisville) characterizes shallow [[Sinkhole Ponds]] in the karst landscape around [[Doe Run]], Meade County, Kentucky. The study had two aims: a limnological reconnaissance of an unstudied...
+> -- *[[ALimnologicalSurveyOfSinkholeP_16949]]*
+
+> This study by [[Ruperth Prins]] compares the ecology and life histories of two freshwater crayfishes, [[Orconectes Rusticus Rusticus]] and [[Cambarus Tenebrosus]], in [[Doe Run]], a torrent spring stream in Meade County, Kentucky. Fieldwork ran from September 1962 through September 1964 at four...
+> -- *[[ComparativeEcologyOfTheCrayfis_18689]]*
+
+> This 1965 final report from the University of Louisville, prepared under [[U.S. Atomic Energy Commission]] Contract No. AT-(40-1)-2595, documents the accumulation of [[Gross Beta Radioactivity]] from [[Fallout]] by the biota of [[Doe Run]], a spring-fed limestone stream in [[Meade County]],...
+> -- *[[ARadioecologicalStudyOfTheBiot_12454]]*
+
+> This Wildlife Monograph by W. L. Minckley (University of Louisville, 1963) presents a multi-year, integrated study of Doe Run, an unpolluted, partly modified spring stream in eastern Meade County, Kentucky, that drains karst limestone terrain into the [[Ohio River]]. The work covers physical flow...
+> -- *[[TheEcologyOfASpringStreamDoeRu_18554]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -1748,6 +2626,37 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[ObservationsUponTheAmericanSpe_10959]]
 - [[PhytoplanktonProject_11439]]
 - [[WaterResourcesOfTheLouisvilleA_10791]]
+- [[LifeHistoryAndEcologyOfEpeorus_16512]]
+- [[OccurenceAndDistributionOfAsia_17827]]
+- [[TheFirstRecordOfGrassCarpCteno_18072]]
+- [[OccurrenceOfSubterraneanIsopod_18552]]
+- [[DistributionAndLifeHistoryNote_14051]]
+- [[UpstreamMovementsOfGammarusAmp_18556]]
+- [[AFirstListOfIndianaStonefliesP_16854]]
+- [[TheEcologyOfUrnatellaGracilisL_12124]]
+- [[ThreadfinShadANewForageFishFor_11288]]
+- [[AComparativeStudyOfTwoFishsamp_20972]]
+- [[CollectingFishInAnUrbanEnviron_18604]]
+- [[SomeEpigeanIsopodsAndAmphipods_16010]]
+- [[NotesOnTheLifeHistoryAndEcolog_16509]]
+- [[VertebralVariationInTheEmerald_16818]]
+- [[EcologyOfBatrachospermSpRhodop_15870]]
+- [[EnvironmentalChangesInAPollute_16938]]
+- [[NaturalRadioactivityInTheFoodW_11280]]
+- [[AmphibiansAndReptilesFromMeade_17981]]
+- [[AComparisonOfTheMacroinvertebr_19799]]
+- [[ThreeNewSpeciesOfDarterPercida_18399]]
+- [[ResearchInTheRadioactiveContam_14606]]
+- [[NaturalHybridizationBetweenThe_15868]]
+- [[NorthAmericanSpeciesOfTaeniopt_16880]]
+- [[FoodAndFeedingHabitsOfTheWeste_13462]]
+- [[AccumulationOfRadioactiveFallo_12455]]
+- [[ConservationStatusOfFreshwater_12010]]
+- [[EcologicalAndMorphologicalStud_15871]]
+- [[ALimnologicalSurveyOfSinkholeP_16949]]
+- [[ComparativeEcologyOfTheCrayfis_18689]]
+- [[ARadioecologicalStudyOfTheBiot_12454]]
+- [[TheEcologyOfASpringStreamDoeRu_18554]]
 
 ## Ohio River Basin
 
@@ -1801,12 +2710,16 @@ The Ohio River Valley Alluvium is the glacial outwash sand and gravel that fills
 > This 1953 U.S. Geological Survey circular assesses the water resources of the Louisville metropolitan area, which comprises Jefferson County, Kentucky and parts of Clark and Floyd Counties, Indiana. The [[Ohio River]] is the dominant source, with a 25-year average flow of 75,000 mgd, while the...
 > -- *[[WaterResourcesOfTheLouisvilleA_10791]]*
 
+> This 1961 limnological paper by John G. Weise reviews the distribution and ecology of [[Urnatella Gracilis]], a freshwater endoproct (phylum Endoprocta), using bottom collections from the [[Ohio River]] made during the author's work for the [[Aquatic Life Resources Project]]. The species is found...
+> -- *[[TheEcologyOfUrnatellaGracilisL_12124]]*
+
 ### Mentioned In
 - [[StrontiumInSurfaceWaterInTheUn_14608]]
 - [[ProceduresForInvestigationOfFi_21178]]
 - [[RiverqualityConditionsDuringAW_15943]]
 - [[PhytoplanktonProject_11439]]
 - [[WaterResourcesOfTheLouisvilleA_10791]]
+- [[TheEcologyOfUrnatellaGracilisL_12124]]
 
 ## Ohio Shad
 
@@ -1845,6 +2758,18 @@ Ohio Valley is a reference region used for comparative context regarding species
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 
+## Ohiopyle Falls
+
+### Summary
+A waterfall on the Youghiogheny River, about 4 m high, that the authors identify as a barrier to upstream fish movement. They argue it helped keep many large-river species from recolonizing the upper drainage after pollution declined.
+
+### Context
+> This preliminary checklist, published in the [[Natural History Miscellanea]] series by the Chicago Academy of Sciences, updates the known fish fauna of the [[Youghiogheny River]], a major tributary of the [[Monongahela River]]. The drainage now holds **82 known species**: 59 native, 20 introduced...
+> -- *[[APreliminaryChecklistOfTheFish_16631]]*
+
+### Mentioned In
+- [[APreliminaryChecklistOfTheFish_16631]]
+
 ## Ohmart and Anderson Wildlife Value Index
 
 ### Summary
@@ -1856,6 +2781,18 @@ A wildlife value index developed by Anderson and Ohmart that scores riparian hab
 
 ### Mentioned In
 - [[ArizonaRiparianInventoryAndMap_13661]]
+
+## Ohrid Lake
+
+### Summary
+An ancient lake in the southern Balkans, shared by North Macedonia and Albania, with a rich endemic fauna. In this source it is the focus of the study, which reports that the lake itself is inhabited almost exclusively by three endemic leech taxa and proposes they arose during a low-water phase.
+
+### Context
+> This taxonomic study by [[Sket B]] reviews the rhynchobdellid leeches (Hirudinea, Rhynchobdellae) of the [[Ohrid Lake]] basin, an ancient lake in the southern Balkans. The lake itself is inhabited almost exclusively by three endemic taxa: *Cystobranchus pawlowskii*, *Glossiphonia complanata...
+> -- *[[RhynchobdellidLeechesHirudinea_19014]]*
+
+### Mentioned In
+- [[RhynchobdellidLeechesHirudinea_19014]]
 
 ## Oil and Gas Development
 
@@ -1878,8 +2815,24 @@ Oil Field Brine is a highly saline byproduct of oil pumping. In this report it i
 > This Oklahoma Fishery Research Laboratory report by Dee Keeton tests whether [[Oil Field Brine]], a waste product of oil pumping, can clear turbid [[Farm Ponds]] by precipitating negatively charged [[Colloidal Clay]] particles. Two experimental ponds near [[Holdenville]], [[Hughes County]], were...
 > -- *[[LimnologicalEffectsOfIntroduci_17912]]*
 
+> This 1966 Oklahoma State University dissertation by [[Ray K. Baumgardner]] examines the [[Oxygen Balance]] of [[Skeleton Creek]], a small prairie stream in north-central Oklahoma receiving sewage from several municipal and institutional sources and effluent from an [[Oil Refinery]]. Monthly...
+> -- *[[OxygenBalanceInAStreamReceivin_15654]]*
+
 ### Mentioned In
 - [[LimnologicalEffectsOfIntroduci_17912]]
+- [[OxygenBalanceInAStreamReceivin_15654]]
+
+## Oil Immersion Microscopy
+
+### Summary
+Oil immersion microscopy is a high-magnification light microscopy technique used to examine the chromosomes and cells in this study. The source reports using it together with photographs and camera lucida drawings.
+
+### Context
+> This paper by J. B. Burch is the first in a series of cytotaxonomic studies on freshwater limpets (Gastropoda: Basommatophora). It examines the karyotype and spermatogenesis of the European [[Lake Limpet]], *Acroloxus lacustris*, a species long placed in the family [[Ancylidae]]. Burch argues that...
+> -- *[[CytotaxonomicStudiesOfFreshwat_13896]]*
+
+### Mentioned In
+- [[CytotaxonomicStudiesOfFreshwat_13896]]
 
 ## Oil Pollution
 
@@ -1892,6 +2845,18 @@ Contamination of water by petroleum products, one of the industrial waste source
 
 ### Mentioned In
 - [[BiologyInAReviewOfTheLiteratur_17895]]
+
+## Oil Refinery
+
+### Summary
+A petroleum processing facility whose effluent was a major waste input to Skeleton Creek. Its discharge of about 2.7 million liters per day passed through a separator, holding lake, settling pits, pH adjustment and five oxidation ponds before reaching the stream.
+
+### Context
+> This 1966 Oklahoma State University dissertation by [[Ray K. Baumgardner]] examines the [[Oxygen Balance]] of [[Skeleton Creek]], a small prairie stream in north-central Oklahoma receiving sewage from several municipal and institutional sources and effluent from an [[Oil Refinery]]. Monthly...
+> -- *[[OxygenBalanceInAStreamReceivin_15654]]*
+
+### Mentioned In
+- [[OxygenBalanceInAStreamReceivin_15654]]
 
 ## Oil Refinery Effluent
 
@@ -1909,6 +2874,18 @@ Oil refinery effluent is listed in the bibliography as one of the effluent types
 - [[PartialBibliographyOfInterestT_18238]]
 - [[LongtermToxicityBioassayOfOilR_19191]]
 
+## Oil Refinery Holding Ponds
+
+### Summary
+Oil refinery holding ponds are impoundments that store water or wastes at petroleum refineries. In this source they serve only as a comparison: the study's respiration rates were considerably lower than those reported for such ponds. The source gives no further detail about them.
+
+### Context
+> This 1970 study by Owen T. Lind and Robert S. Campbell (Department of Zoology, University of Missouri) measured [[Community Metabolism]] over 24 months in three Missouri [[Strip-Mine Lakes]]: one acid lake (As) and two formerly acid lakes (B and D). Metabolism was estimated with a modified [[Diel...
+> -- *[[CommunityMetabolismInAcidAndAl_20332]]*
+
+### Mentioned In
+- [[CommunityMetabolismInAcidAndAl_20332]]
+
 ## Oil Shale
 
 ### Summary
@@ -1918,8 +2895,12 @@ Oil shale is a sedimentary rock that can be processed for petroleum-like oil. Th
 > This document is the front matter and proceedings of a 1981 American Fisheries Society symposium, co-sponsored by the Western Division of the AFS, the U.S. Fish and Wildlife Service (FWS) Region VI, and the U.S. Bureau of Reclamation Upper Colorado Region. It compiles papers on the rare native...
 > -- *[[FishesOfTheUpperColoradoRiverS_13313]]*
 
+> This Wall Street Journal clipping is a multi-article collection. Three of its four items concern business and finance: tax-exempt industrial-revenue bonds that exclude small borrowers, shopping-center tenants resisting holiday opening requirements, and proposed IRS rules on debt versus equity. None...
+> -- *[[WillSquawfishKillUtahPlansForS_18468]]*
+
 ### Mentioned In
 - [[FishesOfTheUpperColoradoRiverS_13313]]
+- [[WillSquawfishKillUtahPlansForS_18468]]
 
 ## Oil-Field Brine
 
@@ -1969,6 +2950,18 @@ Oilfish (Ruvettus pretiosus) is a deep-water fish species from the family Gempyl
 ### Mentioned In
 - [[RecordOfTheOilfishRuvettusPret_15600]]
 
+## Oils and Refined Products
+
+### Summary
+Petroleum-based substances such as crude oil and refined fuels, which can enter waters through spills and discharges and harm fish. The source lists them among the man-made pollutant classes covered in its toxicology review.
+
+### Context
+> This FAO/EIFAC Technical Paper (No. 54, 1993, 59 pp.) is a textbook edited from lectures given at the FAO International Training Course on Freshwater Fish Diseases and Intoxications, held in Vodnany, Czechoslovakia (June 15 - July 3, 1992). Written by [[Zdenka Svobodova]], [[Richard Lloyd]], [[Jana...
+> -- *[[WaterQualityAndFishHealth_15062]]*
+
+### Mentioned In
+- [[WaterQualityAndFishHealth_15062]]
+
 ## Oit-Fort Collins
 <!-- fm: auto_enriched: true -->
 
@@ -1986,8 +2979,12 @@ Oilfish (Ruvettus pretiosus) is a deep-water fish species from the family Gempyl
 > - **Fishes (teleosts, elasmobranchs, chondrosteans, cyclostomes):** [[Micropogon undulatus]] (Atlantic croaker), [[Morone chrysops]] (white bass), [[Osmerus mordax]] (rainbow smelt), [[Perca flavescens]] (yellow perch), [[Gambusia affinis]] and [[Gambusia holbrooki]] (mosquitofish), [[Leucichthys...
 > -- *[[SexRatiosAquaticAnimals_13946]]*
 
+> This laboratory and field study measured how four copepod species feed on natural phytoplankton from [[Bras D'or Lake]] and [[Morrison's Pond]], Cape Breton Island, Nova Scotia. Feeding and filtration rates were corrected for animal density and experiment duration and then extrapolated to field...
+> -- *[[EffectsOfCopepodGrazingOnTwoNa_20639]]*
+
 ### Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
+- [[EffectsOfCopepodGrazingOnTwoNa_20639]]
 
 ## Ojo Caliente Springs
 
@@ -2025,6 +3022,18 @@ An extensive spring complex of about 1.5 ha, with pools 2 to 4 m deep that fed a
 ### Mentioned In
 - [[SurvivalStatusOfTheSandiaAndPo_17533]]
 
+## Ojo de Agua de Apodaca
+
+### Summary
+A spring area and municipal recreation site in Apodaca, Nuevo León, Mexico, made up of several springs, their outflow into a series of pools, and surrounding forest. The source describes it as the site of Mexico's first attempted ecological management of a spring ecosystem, carried out in 1988–1989. In 1961 it was a marsh with dense aquatic vegetation.
+
+### Context
+> This report describes the first attempt in Mexico at ecological management of a spring ecosystem, carried out at the [[Ojo de Agua de Apodaca]] in [[Nuevo León]] between 1988 and 1989. The project was a joint effort of the [[Monterrey Water And Drainage Services]] (water utility), the municipal...
+> -- *[[ProteccionEcologicaDeLasFuente_17289]]*
+
+### Mentioned In
+- [[ProteccionEcologicaDeLasFuente_17289]]
+
 ## Ojo de Agua La Presa
 
 ### Summary
@@ -2036,6 +3045,18 @@ A spring area of about 0.8 ha with pools 1 to 2 m deep and an outlet creek. The 
 
 ### Mentioned In
 - [[SurvivalStatusOfTheSandiaAndPo_17533]]
+
+## Ojo de El Agua Caliente
+
+### Summary
+A thermal spring that rises through granite in the region described by the report. The source gives no further detail on its flow or temperature.
+
+### Context
+> This field report, written in Spanish by mining engineer [[Vicente Gálvez]] for the [[Instituto Geológico Nacional]] (Anales del Instituto Geológico de México), describes a 1920 geological reconnaissance of the southern tip of the [[Baja California]] Peninsula, from [[La Paz]] to [[Cabo San...
+> -- *[[AlgunasExploracionesEnElDistri_16900]]*
+
+### Mentioned In
+- [[AlgunasExploracionesEnElDistri_16900]]
 
 ## Ojo de Vaca
 
@@ -2049,6 +3070,18 @@ A slightly sulphureous spring that formed a marsh and was one of the nine locali
 ### Mentioned In
 - [[ReportOfExplorationsForThatPor_18430]]
 
+## Ojo del Potosí
+
+### Summary
+A spring in Nuevo León, Mexico, and the type locality of Cyprinodon alvarezi. Until 1983 it was one of only two known cyprinodontid sites in the state, alongside Megupsilon aporus.
+
+### Context
+> This taxonomic paper describes four new pupfish species of the genus [[Cyprinodon]] from springs on the floor of a previously unreported dry lake bed, which the authors name [[Bolsón de Sandia]] (= Pluvial Lake Sandia), in southern [[Nuevo León]], Mexico. The four species are *C. longidorsalis*,...
+> -- *[[FourNewSpeciesOfCyprinodonFrom_16229]]*
+
+### Mentioned In
+- [[FourNewSpeciesOfCyprinodonFrom_16229]]
+
 ## Ojo La Trinidad
 
 ### Summary
@@ -2058,8 +3091,24 @@ A spring whose area fell from about 1 ha to less than 0.1 ha as water dropped mo
 > This manuscript, by [[Salvador Contreras-Balderas]] and [[María de Lourdes Lozano-Vilano]], documents the decline of a group of narrowly endemic pupfishes, crayfishes and valvatid snails inhabiting isolated springs in the arid southwest of Nuevo León, Mexico. Of the springs surveyed, four are...
 > -- *[[SurvivalStatusOfTheSandiaAndPo_17533]]*
 
+> Surveys of the arid southwestern [[Nuevo Leon]] highlands documented the extinction of several recently described and undescribed endemic pupfishes, crayfishes and snails from isolated springs. Four spring populations of [[Cyprinodon Longidorsalis]], [[Cyprinodon Inmemoriam]], [[Cyprinodon...
+> -- *[[ExtinctionOfMostSandiaAndPotas_17530]]*
+
 ### Mentioned In
 - [[SurvivalStatusOfTheSandiaAndPo_17533]]
+- [[ExtinctionOfMostSandiaAndPotas_17530]]
+
+## Okada 1950
+
+### Summary
+A researcher who reported a double-tailed field-caught coffer-fish, Ostracion farnasini, with extra bony pieces between the two tails. The paper uses it as a comparison for the double-tailed flounder.
+
+### Context
+> This paper reports pigment anomalies (ambicoloration), associated structural abnormalities, and one double-tailed specimen in [[Paralichthys Lethostigma]] (southern flounder) and [[Paralichthys Dentatus]] (summer flounder) collected in [[North Carolina Waters]] between 1960 and 1972. The...
+> -- *[[AnomoliesOfTheGenusParalychthy_18651]]*
+
+### Mentioned In
+- [[AnomoliesOfTheGenusParalychthy_18651]]
 
 ## Okaloosa Darter
 <!-- fm: auto_enriched: true -->
@@ -2068,10 +3117,30 @@ A spring whose area fell from about 1 ha to less than 0.1 ha as water dropped mo
 > This 1963 survey, prepared at the [[University of Michigan Museum of Zoology]] and attributed to [[Robert Rush Miller]], reviews the status of rare and threatened native fishes state by state across the United States. For each species it gives known range, number of recorded individuals or...
 > -- *[[PreliminaryListOfRareRestricte_15342]]*
 
+> This American Fisheries Society (AFS) monograph by [[James E. Johnson]], with editorial support from Beth D. McAleer and funding from The Standard Oil Company, catalogs native fishes of the United States and Canada that receive legal protection or are of Special Concern. The listing uses only two...
+> -- *[[ProtectedFishesOfTheUnitedStat_19777]]*
+
+> This document is a preliminary conservation inventory of rare, restricted, and threatened North American freshwater fishes, compiled by [[Robert Rush Miller]] of the [[Museum of Zoology]], [[University of Michigan]]. It covers roughly 65 taxon entries, arranged alphabetically by U.S. state, with...
+> -- *[[ReviewPrinciplesOfPaleoecology_15343]]*
+
 ### Mentioned In
 - [[GeochronographicMappingAUseful_11615]]
 - [[OkaloosaDarterEtheostomaOkaloo_1992]]
 - [[PreliminaryListOfRareRestricte_15342]]
+- [[ProtectedFishesOfTheUnitedStat_19777]]
+- [[ReviewPrinciplesOfPaleoecology_15343]]
+
+## Okamotoperla
+
+### Summary
+A new genus of brachypterine stoneflies from Eurasia, known from one species, O. zonata, based on a single specimen. The authors place it in Group B with Obipteryx and note its male 10th tergite lobes are well developed.
+
+### Context
+> This synopsis revises the systematics of the [[Brachypterinae]], a subfamily of [[Taeniopterygidae]] stoneflies (order [[Plecoptera]]) found across the temperate and cool parts of the Northern Hemisphere. The authors recognize 13 genera. The most primitive is [[Kohnoperla]], from Japan. Five new...
+> -- *[[SynopsisOfTheBrachypterinaeIns_16882]]*
+
+### Mentioned In
+- [[SynopsisOfTheBrachypterinaeIns_16882]]
 
 ## Okanogan River
 
@@ -2084,6 +3153,18 @@ The Okanogan River is a Columbia River tributary in Washington and British Colum
 
 ### Mentioned In
 - [[CharacteristicsOfSpawningNests_14037]]
+
+## Okavango River
+
+### Summary
+A river in southern Africa discussed alongside the Kunene River in relation to a Dolops record from a closed Angolan basin, with the author considering whether past swamp connections linked these systems.
+
+### Context
+> This 1963 taxonomic paper by [[Geoffrey Fryer]] of the Freshwater Biological Association reports new crustacean ectoparasites of African freshwater fishes. It describes two new copepods, [[Lamproglenoides Vermiformis]] (new genus and species) and [[Lamproglena Intercedens]], and a new branchiuran,...
+> -- *[[FurtherStudiesOnTheParasiticCr_18872]]*
+
+### Mentioned In
+- [[FurtherStudiesOnTheParasiticCr_18872]]
 
 ## Okazaki 1981
 <!-- fm: auto_enriched: true -->
@@ -2165,6 +3246,12 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 > This monograph-style study by Austin B. Williams revises the freshwater crayfish fauna of the mountainous Ozark Plateaus and Ouachita Provinces of [[Missouri]], [[Arkansas]], [[Oklahoma]] and southeastern [[Kansas]]. The region holds 31 known species and subspecies in three genera of the subfamily...
 > -- *[[SpeciationAndDistributionOfThe_12069]]*
 
+> This document is a dichotomous identification key to amphipod crustaceans (order [[Amphipoda]]) of [[Oklahoma]], not a fish study. It separates the state's keyed species by antennal structure, accessory flagellum, uropod proportions, eye presence, and gnathopod (second pereiopod) armature. The key...
+> -- *[[AKeyToTheSpeciesOfAmphipodaOfO_19322]]*
+
+> This 1959 paper by [[Branley A. Branson]] (Department of Zoology, Oklahoma State University) is the first part of a series on the recent land and freshwater snails of [[Oklahoma]]. It reviews the history of malacological work in the state, divides Oklahoma into biotic provinces and districts that...
+> -- *[[TheRecentGastropodaOfOklahomaP_12890]]*
+
 ### Mentioned In
 - [[RegionFisheriesStakeholderMeet_1996_10_15]]
 - [[RegionEndangeredSpeciesActIntr_11825]]
@@ -2175,6 +3262,20 @@ The Okinawa Islands are part of the southern Japanese Islands where Lestidium pr
 - [[FishesOfOklahoma_16566]]
 - [[RareAndEndangeredVertebratesAn_11494]]
 - [[SpeciationAndDistributionOfThe_12069]]
+- [[AKeyToTheSpeciesOfAmphipodaOfO_19322]]
+- [[TheRecentGastropodaOfOklahomaP_12890]]
+
+## Oklahoma Agricultural and Mechanical College
+
+### Summary
+Oklahoma Agricultural and Mechanical College is the institution where the authors of this 1950 retinal study were based. The source lists it as the affiliation for the research on Ericymba buccata photoreceptors.
+
+### Context
+> This 1950 histological study by [[Geo. A. Moore]], [[Harold R. Pollock]] and [[Donna Lima]] at the [[Oklahoma Agricultural and Mechanical College]] describes the photoreceptors of the [[Silverjaw Minnow]] (*[[Ericymba Buccata]]*), a small Ohio stream fish. The authors report that the retina...
+> -- *[[TheVisualCellsOfEricymbaBuccat_16572]]*
+
+### Mentioned In
+- [[TheVisualCellsOfEricymbaBuccat_16572]]
 
 ## Oklahoma Biological Survey
 
@@ -2218,9 +3319,13 @@ The Oklahoma Cooperative Fishery Research Unit, based at Oklahoma State Universi
 > - **Policy status (1984):** Oklahoma lacked a state endangered and threatened species act, preventing the state from generating its own sensitive species list or assessment criteria — a significant regulatory gap relative to states with such statutes. - **Reliance on federal listing:** In the abs...
 > -- *[[LetterToWLMinckleyOnOklahomaSS_1984_09_12]]*
 
+> This fisheries technical note by [[Alfred Houser]] of the [[Oklahoma Fishery Research Laboratory]] describes the development of a collapsible nylon-net fish trap to replace the rigid [[Wire Trap]] used for sampling ponds and small lakes in Oklahoma. The wire trap was effective but heavy, hard to...
+> -- *[[ACollapsibleNylonFishTrapForPo_19932]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyOnOklahomaSS_1984_09_12]]
 - [[TheIntroductionOfWhiteBassRocc_1966]]
+- [[ACollapsibleNylonFishTrapForPo_19932]]
 
 ## Oklahoma Dwarf Salamander
 
@@ -2233,6 +3338,18 @@ A salamander listed as Rare-1 in the 1975 Oklahoma report, named for the state w
 
 ### Mentioned In
 - [[RareAndEndangeredVertebratesAn_11494]]
+
+## Oklahoma Farm Ponds
+
+### Summary
+Oklahoma farm ponds are small impoundments on farms in Oklahoma. In this source they serve only as a comparison: the study's respiration rates were considerably lower than those reported for them. The source gives no further detail about them.
+
+### Context
+> This 1970 study by Owen T. Lind and Robert S. Campbell (Department of Zoology, University of Missouri) measured [[Community Metabolism]] over 24 months in three Missouri [[Strip-Mine Lakes]]: one acid lake (As) and two formerly acid lakes (B and D). Metabolism was estimated with a modified [[Diel...
+> -- *[[CommunityMetabolismInAcidAndAl_20332]]*
+
+### Mentioned In
+- [[CommunityMetabolismInAcidAndAl_20332]]
 
 ## Oklahoma Fish and Game Council
 
@@ -2272,9 +3389,21 @@ The state fisheries research unit that issued this 1954 report on channel catfis
 > This 1955 field survey by the [[Oklahoma Fisheries Research Laboratory]] (Finnell, Jenkins and Hall) documents the fish populations, habitat, growth rates and standing crops of the [[Little River]] system in southeastern Oklahoma. Sampling took place June to August 1955 using rotenone, seines, gill...
 > -- *[[TheFisheryResourcesOfTheLittle_16397]]*
 
+> This 1955 survey by the [[Oklahoma Fisheries Research Laboratory]] examined the fish community of the [[Little River System]] in southeastern Oklahoma. A five-person crew sampled the main rivers, sixteen tributaries, and ten [[Cutoff Lakes]] during June and July 1955. The study compared species...
+> -- *[[GrowthOfFishesInCutoffLakesAnd_16395]]*
+
+> This study compares fish growth in [[Sub-Prison Lake]], a 60-acre impoundment on the [[Stringtown State Game Refuge]] in Oklahoma, before and after a 1950–1951 draining, [[Rotenone]] treatment and restocking. A 1950 survey found an overpopulation of stunted fishes. After the lake was drained,...
+> -- *[[ComparisonOfGrowthratesOfFishe_16394]]*
+
+> This 1959 study by Alfred Houser and Michael G. Ross, of the [[Oklahoma Fisheries Research Laboratory]] in Norman, examines the [[Paddlefish]] (*Polyodon spathula*) population in [[Fort Gibson Reservoir]], Oklahoma. Young-of-the-year fish collected in 1957 reached an average total length of 28.4...
+> -- *[[ObservationsOnGrowthAndReprodu_19940]]*
+
 ### Mentioned In
 - [[GrowthOfChannelCatfishInOklaho_16396]]
 - [[TheFisheryResourcesOfTheLittle_16397]]
+- [[GrowthOfFishesInCutoffLakesAnd_16395]]
+- [[ComparisonOfGrowthratesOfFishe_16394]]
+- [[ObservationsOnGrowthAndReprodu_19940]]
 
 ## Oklahoma Fishery Research Laboratory
 
@@ -2306,6 +3435,15 @@ The Oklahoma Fishery Research Laboratory was a state research institution that c
 > This report, by Alfred Houser and Michael G. Bross of the [[Oklahoma Fishery Research Laboratory]], consolidates statewide average growth rates and length-weight relationships for fifteen freshwater fish species in Oklahoma. It is a summary of excerpts and revisions from eight earlier published...
 > -- *[[AverageGrowthRatesAndLengthwei_19941]]*
 
+> This study by [[Alfred Houser]] and [[Bob Grinstead]] of the [[Oklahoma Fishery Research Laboratory]] tested whether removing large amounts of [[Black Bullhead Catfish]] and [[Bluegill]] from a small lake would improve the remaining fish community. Fish were trapped, marked and recaptured from 1958...
+> -- *[[TheEffectOfBlackBullheadCatfis_19944]]*
+
+> This fisheries technical note by [[Alfred Houser]] of the [[Oklahoma Fishery Research Laboratory]] describes the development of a collapsible nylon-net fish trap to replace the rigid [[Wire Trap]] used for sampling ponds and small lakes in Oklahoma. The wire trap was effective but heavy, hard to...
+> -- *[[ACollapsibleNylonFishTrapForPo_19932]]*
+
+> Houser and Ghent (1964), of the [[Oklahoma Fishery Research Laboratory]] and the University of Oklahoma, describe a new experimental [[Gill Net]] built on the [[Latin Square]] principle from experimental design. Conventional gill nets place each mesh size in a single block of webbing, separating...
+> -- *[[AnExperimentalGillNetBasedOnTh_19943]]*
+
 ### Mentioned In
 - [[SummaryOfCommercialFisheriesCa_19834]]
 - [[GrowthOfBlackBullheadCatfishIn_19942]]
@@ -2315,6 +3453,9 @@ The Oklahoma Fishery Research Laboratory was a state research institution that c
 - [[APreimpoundmentStudyOfArbuckle_20512]]
 - [[AStudyOfTheCommercialFisheryOf_19933]]
 - [[AverageGrowthRatesAndLengthwei_19941]]
+- [[TheEffectOfBlackBullheadCatfis_19944]]
+- [[ACollapsibleNylonFishTrapForPo_19932]]
+- [[AnExperimentalGillNetBasedOnTh_19943]]
 
 ## Oklahoma Fishery Resources Office
 <!-- fm: auto_enriched: true -->
@@ -2325,6 +3466,30 @@ The Oklahoma Fishery Research Laboratory was a state research institution that c
 
 ### Mentioned In
 - [[FisheriesFieldStationSummarySo_1996]]
+
+## Oklahoma Game and Fish Commission
+
+### Summary
+The Oklahoma state wildlife and fisheries agency. According to the source, it cooperated with the U.S. Army Corps of Engineers in preparing this fish survey ahead of construction of the Wister Dam.
+
+### Context
+> Cross and Moore (1952) present an annotated checklist of the fishes of the Poteau River, a tributary system of the [[Arkansas River]] flowing from Scott County, Arkansas, into Le Flore County, Oklahoma. The list draws on a August 1947 survey conducted during an unusually dry summer, on earlier...
+> -- *[[TheFishesOfThePoteauRiverOklah_18034]]*
+
+### Mentioned In
+- [[TheFishesOfThePoteauRiverOklah_18034]]
+
+## Oklahoma Game and Fish Council
+
+### Summary
+The Oklahoma Game and Fish Council was the state body that received the survey's management recommendations. It approved the recommendations to end bluegill, crappie, and channel catfish stocking, to start a creel census, and to continue postimpoundment studies. It also assigned a student to a postimpoundment survey.
+
+### Context
+> This 1951 paper by [[Gordon E. Hall]] (Oklahoma Game and Fish Department) reports a fishery survey of the existing waters of the [[Wister Reservoir]] area, [[Poteau River]] Basin, Oklahoma, conducted from April to September 1949, one month before impoundment on October 4, 1949. The survey...
+> -- *[[PreimpoundmentFishPopulationsO_20965]]*
+
+### Mentioned In
+- [[PreimpoundmentFishPopulationsO_20965]]
 
 ## Oklahoma Game And Fish Department
 <!-- fm: auto_enriched: true -->
@@ -2339,11 +3504,19 @@ The Oklahoma Fishery Research Laboratory was a state research institution that c
 > This 1954 bulletin, published by the [[Oklahoma Game and Fish Department]] and authored by H. C. Ward, E. M. Leonard, and J. Mayo Martin, is a practical guide to building and managing farm ponds for sport fishing. It estimates that Oklahoma holds about 100,000 farm ponds, with roughly 12,000 new...
 > -- *[[FarmPondsForFishInOklahoma_14872]]*
 
+> This 1955 survey by the [[Oklahoma Fisheries Research Laboratory]] examined the fish community of the [[Little River System]] in southeastern Oklahoma. A five-person crew sampled the main rivers, sixteen tributaries, and ten [[Cutoff Lakes]] during June and July 1955. The study compared species...
+> -- *[[GrowthOfFishesInCutoffLakesAnd_16395]]*
+
+> This study compares fish growth in [[Sub-Prison Lake]], a 60-acre impoundment on the [[Stringtown State Game Refuge]] in Oklahoma, before and after a 1950–1951 draining, [[Rotenone]] treatment and restocking. A 1950 survey found an overpopulation of stunted fishes. After the lake was drained,...
+> -- *[[ComparisonOfGrowthratesOfFishe_16394]]*
+
 ### Mentioned In
 - [[EffectivenessOfRotenoneInPondR_1953]]
 - [[EarlyLimnologicalAndFishPopula_13878]]
 - [[ASummaryOfFisheriesInvestigati_19934]]
 - [[FarmPondsForFishInOklahoma_14872]]
+- [[GrowthOfFishesInCutoffLakesAnd_16395]]
+- [[ComparisonOfGrowthratesOfFishe_16394]]
 
 ## Oklahoma Natural Heritage Inventory
 
@@ -2356,6 +3529,18 @@ The Oklahoma Natural Heritage Inventory is an organization that conducted status
 
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11592]]
+
+## Oklahoma Panhandle
+
+### Summary
+The westernmost extension of Oklahoma, part of the semiarid High Plains, where the Berends Local Fauna was found. The source describes it as receiving less than twenty inches of mean annual rainfall, with few streams that may dry up, and lacking habitat for many of the large river fishes found in the fossil deposits.
+
+### Context
+> This 1964 *Natural History* article by C. Lavett Smith argues that fossil fishes can serve as indicators of past climate. Because fishes have specific habitat requirements, an ichthyologist who can identify the fishes living in a region during a given geologic interval can infer the environmental...
+> -- *[[FishesAndClimatesFossilFishDis_21136]]*
+
+### Mentioned In
+- [[FishesAndClimatesFossilFishDis_21136]]
 
 ## Oklahoma Reservoirs
 
@@ -2414,6 +3599,12 @@ Oklahoma State University was the institution where this research on fish bioass
 > This 1960 Master of Science thesis in Zoology, submitted to [[Oklahoma State University]] by Anwar David Niazi, presents a comparative osteological study of the [[Weberian Apparatus]] in four North American minnow species of the genus [[Pimephales]]. Using alizarin-stained and dissected specimens,...
 > -- *[[AComparativeStudyOfTheWeberian_10836]]*
 
+> This *Bios* journal extract is a mixed document. Its main research content is a laboratory study of [[Pearl Gourami]] (*[[Trichogaster Leeri]]*) that documents breeding-season color and body-marking changes in males and females. The extract also includes a fragment of a non-research essay on...
+> -- *[[ReproductiveColorChangesInTheP_20961]]*
+
+> This study describes the cephalic and trunk lateral-line system of the [[Rio Grande Perch]], *Cichlasoma cyanoguttatum*, the only member of the [[Cichlidae]] known to occur naturally in the continental United States. Branson (1961) combines external morphology, osteology, histology, and...
+> -- *[[TheLaterallineSystemInTheRioGr_12897]]*
+
 ### Mentioned In
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[EvaluationAndRelativeResistanc_19097]]
@@ -2424,6 +3615,8 @@ Oklahoma State University was the institution where this research on fish bioass
 - [[LongtermToxicityBioassayOfOilR_19191]]
 - [[PhysicochemicalAndBiologicalCo_16925]]
 - [[AComparativeStudyOfTheWeberian_10836]]
+- [[ReproductiveColorChangesInTheP_20961]]
+- [[TheLaterallineSystemInTheRioGr_12897]]
 
 ## Oklahoma State University Museum of Zoology
 
@@ -2456,6 +3649,18 @@ A state wildlife agency that supported the Oklahoma Fishery Research Laboratory 
 - [[GrowthOfBlackBullheadCatfishIn_19942]]
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
 - [[APreimpoundmentStudyOfArbuckle_20512]]
+
+## Okoboji Lakes
+
+### Summary
+A group of connected lakes in northwestern Iowa, adjoining Spirit Lake. In this source, spawning-run pikeperch for the Spirit Lake hatchery were also taken by gill-netting in the Okoboji Lakes.
+
+### Context
+> This study estimated the adult [[Yellow Pikeperch]] population of [[Spirit Lake]], Iowa, after gill-net and angler catches declined over roughly a decade. Biologists from the [[Iowa Conservation Commission]] tagged 550 adult fish in spring 1947 and then used a [[Creel Census]] (May 15 to November...
+> -- *[[ThePopulationOfYellowPikeperch_21036]]*
+
+### Mentioned In
+- [[ThePopulationOfYellowPikeperch_21036]]
 
 ## Okriocythere
 
@@ -2536,6 +3741,9 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 > This U.S. Fish and Wildlife Service final report (Wydoski and Wick, 1998), prepared for the [[Upper Colorado River Basin Recovery Program]], reviews the ecological value of [[Floodplain Habitats]] for recovering the [[Razorback Sucker]] (*Xyrauchen texanus*) and anticipates how endangered, native...
 > -- *[[EcologicalValueOfFloodplainHab_20871]]*
 
+> This study by [[Modde]], [[Muth]], and [[Haines]] (U.S. Fish and Wildlife Service) tested whether floodplain wetlands of the middle [[Green River]] in Utah provide suitable nursery habitat for juvenile [[Razorback Sucker]] and whether larvae can reach them. The authors studied [[Old Charley Wash]],...
+> -- *[[FloodplainWetlandSuitabilityAc_16557]]*
+
 ### Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -2549,6 +3757,7 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 - [[FiscalYearWorkPlan_11756]]
 - [[RequestForReviewOfDraftFyWorkP_19638]]
 - [[EcologicalValueOfFloodplainHab_20871]]
+- [[FloodplainWetlandSuitabilityAc_16557]]
 
 ## Old Charlie Inlet
 
@@ -2700,6 +3909,18 @@ A riparian zone along the Colorado River in Grand Canyon that the source describ
 - [[IntegrationAndEvaluationOfGlen_18447]]
 - [[OperationOfGlenCanyonDamdrafte_11485]]
 
+## Old Kingfisher Lake
+
+### Summary
+A 14-acre, shallow, clear impoundment in western Kentucky, built around 1900, that was the study site for this 1953 comparison of fish-sampling methods. The lake was stocked with fish from the Ohio River and had declined in fishing quality before the study. The source describes its maximum depth as 10 feet and its bottom as sand, mud and gravel.
+
+### Context
+> This 1953 fisheries study by John F. Hall, conducted for the Kentucky Department of Fish and Wildlife Resources, compared two fish-sampling approaches in [[Old Kingfisher Lake]], a 14-acre, shallow, clear impoundment in western Kentucky. The methods were multi-panel netting (gill, trammel, wing and...
+> -- *[[AComparativeStudyOfTwoFishsamp_20972]]*
+
+### Mentioned In
+- [[AComparativeStudyOfTwoFishsamp_20972]]
+
 ## Old River
 
 ### Summary
@@ -2756,6 +3977,18 @@ The Older Valley Fill is one of two main late Cenozoic alluvial deposits in the 
 ### Mentioned In
 - [[SomeNotesOnTheLateCenozoicDrai_17545]]
 
+## Oldsquaw
+
+### Summary
+The oldsquaw (long-tailed duck, Clangula hyemalis) is a sea duck that concentrates in large numbers in Simpson Lagoon during the summer molt, mid-July to mid-August. The source reports it ate over 90% mobile epibenthic crustaceans and used infauna only in early summer, and its food intake was far below prey supply.
+
+### Context
+> This interdisciplinary study by [[Peter C. Craig]] and colleagues examines the trophic structure of [[Simpson Lagoon]], a shallow arctic coastal lagoon in the central [[Alaskan Beaufort Sea]]. The authors work top-down, from birds and fish (consumers) to their invertebrate prey and finally to the...
+> -- *[[TrophicDynamicsInAnArcticLagoo_17991]]*
+
+### Mentioned In
+- [[TrophicDynamicsInAnArcticLagoo_17991]]
+
 ## Olduvai Gorge
 <!-- fm: auto_enriched: true -->
 
@@ -2779,9 +4012,25 @@ The Older Valley Fill is one of two main late Cenozoic alluvial deposits in the 
 > This document is a fragment of the *New York Fish and Game Journal* (Vol. 7, No. 1, January 1960) and contains three parts: a partial literature-cited list on waterfowl, a study of feeding and flavor perception in aquarium [[Common Carp]] by [[Howard A. Loeb]], and the opening of a study by...
 > -- *[[ReactionsOfAquariumToFoodAndFl_16185]]*
 
+> This document bundles three separately paginated research papers. The main, fish-focused study (Magnuson & Prescott, *Animal Behaviour* 14, 1966, pp. 54–67) describes the swimming, feeding, courtship, and miscellaneous behaviour of captive [[Pacific Bonito]] ([[Sarda Chiliensis]]), a pelagic...
+> -- *[[CourtshipLocomotionFeedingAndM_19350]]*
+
 ### Mentioned In
 - [[ReductionInNumberOfMucousCells_15675]]
 - [[ReactionsOfAquariumToFoodAndFl_16185]]
+- [[CourtshipLocomotionFeedingAndM_19350]]
+
+## Olfactory Bulb
+
+### Summary
+The olfactory bulb is the brain region that processes smell signals. Earlier work cited in this source found that the olfactory bulb and olfactory nerves are not needed for nest building or for the balance of reproductive behaviour in sticklebacks.
+
+### Context
+> This 1962 study by [[Segaar]] and [[Nieuwenhuys]] examines how the [[Telencephalon]] (forebrain) of male [[Three-Spined Stickleback]] regulates three components of reproductive behaviour: aggression, sexual behaviour and parental care. Earlier work had shown that the [[Olfactory Bulb]] and...
+> -- *[[NewEthophysiologicalExperiment_11338]]*
+
+### Mentioned In
+- [[NewEthophysiologicalExperiment_11338]]
 
 ## Olfactory Epithelium
 <!-- fm: auto_enriched: true -->
@@ -2808,11 +4057,83 @@ The Older Valley Fill is one of two main late Cenozoic alluvial deposits in the 
 - [[FishAssociationsAndEnvironment_20597]]
 - [[NeurologicalBaisOfSalmonMigrat_16109]]
 
+## Olfactory Imprinting Hypothesis
+
+### Summary
+The authors' working model that each stream has a stable, characteristic odor that young salmon learn before migrating to sea and later use to navigate back home. The source describes it as supported by partial evidence but not yet proven.
+
+### Context
+> This 1955 reprint from *Scientific American* by [[Arthur D. Hasler]] and [[James A. Larsen]] examines how salmon find their way back to their natal streams after years at sea. Drawing on laboratory conditioning experiments at the [[Wisconsin Lake Laboratory]] and field tests in North American...
+> -- *[[TheHomingSalmon_20700]]*
+
+### Mentioned In
+- [[TheHomingSalmon_20700]]
+
 ## Olfactory Lamellae
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[ReductionInNumberOfMucousCells_15675]]
+
+## Olfactory Nerve
+
+### Summary
+The nerve that carries signals from the nasal receptors to the brain in fish. In bony fishes, odorant molecules entering the nasal pits stimulate these receptors, which send the signals through this nerve.
+
+### Context
+> This 1955 reprint from *Scientific American* by [[Arthur D. Hasler]] and [[James A. Larsen]] examines how salmon find their way back to their natal streams after years at sea. Drawing on laboratory conditioning experiments at the [[Wisconsin Lake Laboratory]] and field tests in North American...
+> -- *[[TheHomingSalmon_20700]]*
+
+### Mentioned In
+- [[TheHomingSalmon_20700]]
+
+## Olfactory Organ
+
+### Summary
+The olfactory organ is the paired nasal structure of fishes that bears sensory lamellae for detecting chemical cues. In this study the lamellae were the same in form and histology across surface and cave forms, and counts varied with body size rather than being fixed. Surface fish had slightly more lamellae than cave forms at equal length, and cave nasal pits were flatter and more open.
+
+### Context
+> This 1967 German-language dissertation by [[Christian Schemmel]] (Zoologisches Staatsinstitut und Museum Hamburg) compares the cutaneous sense organs of the surface-dwelling [[Astyanax Mexicanus]] river fish with three cave populations: [[Chica Cave Fish]], [[Sabinos Cave Fish]] and [[Pachon Cave...
+> -- *[[VergleischendeUntersuchungenAn_20553]]*
+
+### Mentioned In
+- [[VergleischendeUntersuchungenAn_20553]]
+
+## Olfactory Tract Severance
+
+### Summary
+Olfactory tract severance is the surgical cutting of the nerves that connect the nose to the forebrain. Savage used it as a control: two fish with severed olfactory tracts still learned the 15 s light avoidance task without the deficit seen after forebrain removal, which ruled out loss of smell as the cause.
+
+### Context
+> The excerpt contains two 1969 papers from *Animal Behaviour*, vol. 17. The first and main paper, by G. E. Savage, reports eight experiments on the role of the [[Telencephalon]] (forebrain) in [[Avoidance Conditioning]] in [[Goldfish]]. Forebrain-ablated fish learned and retained shock-avoidance...
+> -- *[[TelencephalicLesionsAndAvoidan_20532]]*
+
+### Mentioned In
+- [[TelencephalicLesionsAndAvoidan_20532]]
+
+## Olfactory Tracts
+
+### Summary
+The olfactory tracts are the nerve pathways that carry smell signals from the nose to the forebrain. In this study they were severed during the forebrain-removal surgery in goldfish, and the operation was done with the optic tracts left intact.
+
+### Context
+> The excerpt contains two 1969 papers from *Animal Behaviour*, vol. 17. The first and main paper, by G. E. Savage, reports eight experiments on the role of the [[Telencephalon]] (forebrain) in [[Avoidance Conditioning]] in [[Goldfish]]. Forebrain-ablated fish learned and retained shock-avoidance...
+> -- *[[TelencephalicLesionsAndAvoidan_20532]]*
+
+### Mentioned In
+- [[TelencephalicLesionsAndAvoidan_20532]]
+
+## Olga Berg
+
+### Summary
+Olga Berg is a co-author of this 1953 study with Myron Gordon, which examined the relationship between atypical pigment cell growth and gonadal development in platyfish-swordtail hybrids. The source credits her as one of the two researchers who carried out the hybrid breeding and histological work.
+
+### Context
+> This 1953 study by [[Olga Berg]] and [[Myron Gordon]] examines whether atypical pigment cell growth (melanosis and [[Melanoma]]) is linked to abnormal [[Gonadal Development]] in [[Platyfish-Swordtail Hybrids]]. Using [[Genetic Methods]], the authors produced F1, F2 and two backcross generations...
+> -- *[[RelationshipOfAtypicalPigmentC_18186]]*
+
+### Mentioned In
+- [[RelationshipOfAtypicalPigmentC_18186]]
 
 ## Oligocene
 
@@ -2823,8 +4144,12 @@ The Oligocene is a geological epoch during which extensive paleorivers drained w
 > This study used allozyme electrophoresis to assess phylogenetic relationships within the cyprinid tribe [[Plagopterini]] of western North America. The research examined 28 presumptive gene loci across multiple genera including [[Lepidomeda]], [[Meda]], [[Plagopterus]], and [[Gila copei]], plus five...
 > -- *[[AllozymicVariationAndSystemati_12782]]*
 
+> Ossian (1973) revises the fossil fish fauna of the [[Ree Heights]] site in [[Hand County]], [[South Dakota]]. The lake beds, long thought to be [[Oligocene]], are shown to be [[Pleistocene]] in age, most likely [[Wisconsinan Glaciation]] deposits in the [[Cary Substage]]. The fauna comprises 521...
+> -- *[[FishesOfAPleistoceneLakeInSout_18353]]*
+
 ### Mentioned In
 - [[AllozymicVariationAndSystemati_12782]]
+- [[FishesOfAPleistoceneLakeInSout_18353]]
 
 ## Oligocephalus
 <!-- fm: auto_enriched: true -->
@@ -2836,10 +4161,18 @@ Oligocephalus is a subgenus within the darter genus Etheostoma (family Percidae)
 > Williams & Robison (1980) erect **Ozarka**, a new subgenus of the darter genus [[Etheostoma]] (family [[Percidae]]), to unite five morphologically and ecologically similar species: *[[Etheostoma punctulatum]]* (type species), *[[Etheostoma cragini]]*, *[[Etheostoma pallididorsum]]*, *[[Etheostoma...
 > -- *[[OzarkaANewSubgenusOfEtheostoma_12006]]*
 
+> The paper by [[John S. Ramsey]] and [[Royal D. Suttkus]] (Tulane University) formally describes *Etheostoma (Oligocephalus) ditrema*, the Coldwater Darter, a small, sexually dimorphic percid. The description is based on 133 specimens from three localities in the upper [[Coosa-Alabama River Basin]]....
+> -- *[[EtheostomaDitremaANewDarterOfT_16744]]*
+
+> This Occasional Paper by [[Lawrence M. Pace]] (University of Kansas Museum of Natural History, 1981) redescribes the [[Conchos Darter]], *Etheostoma australe*, a small percid endemic to the [[Rio Conchos]] system of Chihuahua and Durango, Mexico. The redescription is based on a series of 26...
+> -- *[[RedescriptionOfEtheostomaAustr_18386]]*
+
 ### Mentioned In
 - [[OzarkaANewSubgenusOfEtheostoma_12006]]
 - [[SystematicStudiesOfDartersFrom_1963]]
 - [[TwoNaturalDarterHybridsInvolvi_1980]]
+- [[EtheostomaDitremaANewDarterOfT_16744]]
+- [[RedescriptionOfEtheostomaAustr_18386]]
 
 ## Oligochaeta
 <!-- fm: auto_enriched: true -->
@@ -2869,6 +4202,9 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 > This Bureau of Reclamation technical report (REC-ERC-81-10, July 1981) presents the baseline limnological characterization of four reservoirs in series on the [[North Platte River]] in Wyoming: [[Seminoe Reservoir]], [[Kortes Reservoir]], [[Pathfinder Reservoir]], and [[Alcova Reservoir]]. Surveys...
 > -- *[[LimnologyOfTheUpperNorthPlatte_20516]]*
 
+> This paper reports quantitative and qualitative data on the bottom fauna (benthos) of [[Cultus Lake]], a deep, oligotrophic lake in southern British Columbia. The study used dredgings collected largely in 1932 as part of a limnological investigation of factors controlling [[Sockeye Salmon]]...
+> -- *[[TheBenthosOfCultusLake_16862]]*
+
 ### Mentioned In
 - [[OnAnInterestingPhilippineSpeci_1970_05_27]]
 - [[TheEffectsOfPollutionOnAMidwes_16933]]
@@ -2879,12 +4215,42 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 - [[LimnologicalReconnaissanceOfSe_12640]]
 - [[AStudyOfThirtysixStreamsThatWe_19907]]
 - [[LimnologyOfTheUpperNorthPlatte_20516]]
+- [[TheBenthosOfCultusLake_16862]]
 
 ## Oligocottus Maculosus
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This study by G. J. S. Craik (1981, *Canadian Journal of Zoology* 59: 598–604) tests whether homing performance in the intertidal sculpin [[Oligocottus Maculosus]] changes with age and body length. The author reciprocally transplanted fish between two groups of [[Tidepool]] pools at [[First...
+> -- *[[TheEffectsOfAgeAndLengthOnHomi_17985]]*
+
 ### Mentioned In
 - [[TheRelationOfHydrologicalCondi_20023]]
+- [[TheEffectsOfAgeAndLengthOnHomi_17985]]
+
+## Oligohaline Zone
+
+### Summary
+The oligohaline zone is a low-salinity portion of estuaries, where water is only slightly salty compared with the sea. Gordon places the chlorinity of some Florida sites with marine fishes, 570 to 900 ppm, in this zone, citing Odum (1953). Those sites fall outside the basic fresh-water-to-sea concept used for the list.
+
+### Context
+> This paper by [[Gordon Gunter]] (Gulf Coast Research Laboratory, 1956) revises and extends an earlier annotated list of fishes that tolerate both fresh water and pure sea water. The revised list contains **150 species** from North and Middle America, north of the southern boundary of Panama. The...
+> -- *[[ARevisedListOfEuryhalinFishesO_17829]]*
+
+### Mentioned In
+- [[ARevisedListOfEuryhalinFishesO_17829]]
+
+## Oligoneuriidae
+
+### Summary
+A family of mayflies (order Ephemeroptera) whose members are typically found in flowing freshwater. In this source it is the family to which Lachlania belongs, and the authors discuss generic limits and wing venation within it.
+
+### Context
+> This 1970 taxonomic paper in the *Proceedings of the Entomological Society of Washington* (Vol. 72, No. 1, pp. 55-65) describes [[Lachlania Dencyanna]], a new mayfly species from the [[Gila River]] system in New Mexico. It is the third *Lachlania* species described from North America. The authors...
+> -- *[[ANewSpeciesOfLachlaniaFromNewM_12632]]*
+
+### Mentioned In
+- [[ANewSpeciesOfLachlaniaFromNewM_12632]]
 
 ## Oligophlebodes Sigma
 <!-- fm: auto_enriched: true -->
@@ -2903,8 +4269,12 @@ Oligochaeta are a group of sedentary aquatic invertebrates, particularly oligoch
 > - **Trophic gradient framing**: Waters are classified along an [[Oligotrophic]]–[[Eutrophic]] continuum, terms coined ~50 years prior to this 1967 article. Eutrophic (nutrient-rich) waters support higher primary and secondary production, including greater fish biomass — historically viewed favora...
 > -- *[[Eutrophication_1967_05_06]]*
 
+> This issue of *The Kentucky Naturalist* (Vol. VI, No. 2, April 1952), published by the [[Kentucky Society of Natural History]], is a mixed-content journal with four main research or feature articles and several society news items. The principal scientific paper, by Donald Distler, examines why...
+> -- *[[TheKentuckyNaturalistSpringLak_16003]]*
+
 ### Mentioned In
 - [[Eutrophication_1967_05_06]]
+- [[TheKentuckyNaturalistSpringLak_16003]]
 
 ## Oligotrophic Conditions
 
@@ -2956,17 +4326,81 @@ A state of low nutrient supply and low biological productivity in a water body. 
 > This Bureau of Reclamation Engineering and Science Monograph (No. 43, May 1993) reports 15 years of cooperative limnology and fishery studies (1971–86) on [[Twin Lakes]], a pair of dimictic, oligotrophic, glacially formed montane lakes in central Colorado. The studies assessed the effects of the...
 > -- *[[AquaticEcologyStudiesOfTwinLak_11484]]*
 
+> This 1967 review by [[J. W. G. Lund]] of the Freshwater Biological Association argues that understanding the ecology of [[Planktonic Algae]] is essential to understanding the ecology of a lake as a whole. It covers algal productivity and biomass estimates, the transfer of energy from primary to...
+> -- *[[PlanktonicAlgaeAndTheEcologyOf_16259]]*
+
 ### Mentioned In
 - [[TheAgeAndGrowthOfCentrarchidFi_13538]]
 - [[TroutCatchAndAnglerUseAtLakeTa_12122]]
 - [[ChlorophyllAConcentrationAndDi_17366]]
 - [[AquaticEcologyStudiesOfTwinLak_11484]]
+- [[PlanktonicAlgaeAndTheEcologyOf_16259]]
 
 ## Oligotrophic Loughs
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TheChemicalCompositionOfSomeWe_1957_05_08]]
+
+## Oligotrophy
+
+### Summary
+The condition of lakes with low nutrient levels and generally high oxygen in deep water. In the source, prior lake research linked oligotrophic lakes to particular profundal chironomid faunas, which contrast with those of eutrophic reservoirs.
+
+### Context
+> This paper by J. H. [[Mundie]] (Imperial College, London; communicated by P. Freeman, received 5 September 1956, read 5 December 1956) reports a three-year survey (February 1950 to February 1953, with a 1954 extension) of the non-biting midges of storage reservoirs supplied by the River Thames in...
+> -- *[[TheEcologyOfChironomidaeInStor_15509]]*
+
+### Mentioned In
+- [[TheEcologyOfChironomidaeInStor_15509]]
+
+## Oligotrophy-Eutrophy Classification
+
+### Summary
+A lake classification system that sorts water bodies by nutrient status, from nutrient-poor (oligotrophic) to nutrient-rich (eutrophic). In this source it is the lake-based model that Cushing et al. wanted to see paralleled for running waters. The source does not describe its criteria in detail.
+
+### Context
+> The document combines two items: a short appendix reporting water-chemistry sampling from [[Lake Pamvotis]] in Ioannina, Greece (18 October 1979), and a multivariate study by Cushing et al. (1980) on physical-chemical variables from 34 stream stations on 26 streams. The stream study tests whether...
+> -- *[[ComparativeStudyOfPhysicalchem_18123]]*
+
+### Mentioned In
+- [[ComparativeStudyOfPhysicalchem_18123]]
+
+## Oligyra Orbiculata Tropica
+
+### Summary
+A terrestrial, lunged snail in the order Archaeogastropoda, the only Oklahoma representative of that order cited in the source, within the subclass Prosobranchia.
+
+### Context
+> This 1959 paper by [[Branley A. Branson]] (Department of Zoology, Oklahoma State University) is the first part of a series on the recent land and freshwater snails of [[Oklahoma]]. It reviews the history of malacological work in the state, divides Oklahoma into biotic provinces and districts that...
+> -- *[[TheRecentGastropodaOfOklahomaP_12890]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaP_12890]]
+
+## Oligyridae
+
+### Summary
+Oligyridae is a family of land snails treated in this paper. Its Oklahoma representative is Oligyra orbiculata, a tropical-subtropical intrusion associated with limestone-rich areas and seldom seen alive except in rain.
+
+### Context
+> This taxonomic revision covers the terrestrial (land) snails of Oklahoma in four families: [[Pupillidae]], [[Carychiidae]], [[Strobilopsidae]] and [[Oligyridae]]. It is the terrestrial companion to a paper on the state's freshwater snails. The author reports that Oklahoma has a large land snail...
+> -- *[[TheRecentGastropodaOfOklahomaI_12894]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaI_12894]]
+
+## Oliva 1956
+
+### Summary
+A previous author who used scales to age pike, cited among the earlier scale-based studies that Frost and Kipling review. The source gives no further detail about this work.
+
+### Context
+> This methodological study by [[Winifred E. Frost]] and [[Charlotte Kipling]] (Freshwater Biological Association, Ambleside) evaluates [[Scale Ageing]] and [[Opercular Bone Ageing]] for [[Northern Pike]] (*Esox lucius*) from [[Windermere]], England, using material collected 1944–1957. The authors...
+> -- *[[TheDeterminationOfTheAgeAndGro_18856]]*
+
+### Mentioned In
+- [[TheDeterminationOfTheAgeAndGro_18856]]
 
 ## Oliva incrassata
 
@@ -3134,6 +4568,30 @@ The Olivia and Caroline Phelps Stokes Fund funded essay prizes on preserving wil
 ### Mentioned In
 - [[BotanicalExplorationsInTheSout_12962]]
 
+## Olivier Rieppel
+
+### Summary
+A systematist whose 1988 work the author cites to describe pattern and process analyses as complementary 'ways of seeing' biological diversity. The essay notes that pattern analysis alone identifies common ancestry, while process analysis gives causal explanation.
+
+### Context
+> This essay argues that [[Systematics]] is central to the conservation of [[Biological Diversity]]. The author describes biodiversity as an interdisciplinary science sitting between pattern and process, and as a socio-political activity shaped by the anthropocentric goals of the [[Convention On...
+> -- *[[SystematicsAndTheConservationO_20852]]*
+
+### Mentioned In
+- [[SystematicsAndTheConservationO_20852]]
+
+## Olivier Vector Survival
+
+### Summary
+Olivier (1956) found contrasts in survival between snail populations in permanent and temporary waters, in Biomphalaria glabrata and Tropicorbis centimetralis. Heeg cites this work to argue that populations in truly ephemeral habitats should contain more successful aestivators. The source uses it to support its selection-pressure explanation for population differences.
+
+### Context
+> This 1977 study by J. Heeg, published in *Malacologia*, examines how the freshwater snail [[Bulinus (Physopsis) Africanus]] (Planorbidae) responds physiologically to being out of water, comparing fed, starving-in-water and aestivating (out-of-water) individuals. Aestivating snails had a lower...
+> -- *[[OxygenConsumptionAndTheUseOfMe_16593]]*
+
+### Mentioned In
+- [[OxygenConsumptionAndTheUseOfMe_16593]]
+
 ## Ollentodon
 
 ### Summary
@@ -3145,6 +4603,18 @@ Ollentodon is a goodeid genus placed in the subfamily Girardinichthyinae. This s
 
 ### Mentioned In
 - [[ProposalForSupportOfResearchOn_15568]]
+
+## Olm
+
+### Summary
+The olm (Proteus anguinus) is a blind, cave-dwelling salamander of the family Proteidae, endemic to karst waters of the Dinaric region. The source lists it among the early-recorded unique higher-taxon cave representatives of Yugoslavia and as a holodinaric element, a taxon found across the Dinaric karst.
+
+### Context
+> This short paper by [[Boris Sket]] (University E. Kardelj, Ljubljana), published in the *Int. Espeleol. Comun.* proceedings, reviews notable cave-water finds in Yugoslavia accumulated over several decades. It covers the taxonomy, [[Zoogeography]] and [[Ecology]] of subterranean animals of the...
+> -- *[[EvaluationOfSomeTaxonomicallyZ_19012]]*
+
+### Mentioned In
+- [[EvaluationOfSomeTaxonomicallyZ_19012]]
 
 ## Olmita, Texas
 
@@ -3177,8 +4647,24 @@ Scirpus olneyi, a dense emergent aquatic plant. At Quitobaquito Springs it forms
 > This 1986 final report by Philip C. Rosen (Arizona State University) documents a mark-recapture study of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], from September 1982 to September 1985. The population is...
 > -- *[[PopulationDeclineOfSonoranMudT_21070]]*
 
+> This 1997 study in *Wetlands* examines how large floods reshape riverine marsh and riparian vegetation along the free-flowing [[Hassayampa River]] in central Arizona. Riverine marsh expanded fivefold, from 2% to 9% of the floodplain-channel area, after the severe [[1993 Flood]]. Floodwaters eroded...
+> -- *[[MarshDevelopmentAfterLargeFloo_14636]]*
+
 ### Mentioned In
 - [[PopulationDeclineOfSonoranMudT_21070]]
+- [[MarshDevelopmentAfterLargeFloo_14636]]
+
+## Olsen
+
+### Summary
+Cited in the note as an author associating the gar (Lepisosteus) with the closest extant relatives of teleosts, in contrast to Patterson (1973), who linked bowfin to teleosts. The source uses this to frame the phylogenetic debate about the two genera.
+
+### Context
+> Schultze and Arratia (1986), publishing in the [[Journal of Morphology]], reexamine the caudal (tail) skeleton of two living "lower" actinopterygians, the [[Longnose Gar]] (*Lepisosteus*) and the [[Bowfin]] (*Amia*). Using growth series, cleared-and-stained specimens, serial sections and fossil...
+> -- *[[ReevaluationOfTheCaudalSkeleto_11281]]*
+
+### Mentioned In
+- [[ReevaluationOfTheCaudalSkeleto_11281]]
 
 ## Olsen Bay
 
@@ -3207,8 +4693,13 @@ Olsen Creek is a pink salmon spawning stream located in Olsen Bay, Port Gravina,
 ## Olsson 1957
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This experimental histological study by Walter Fahrmann, published in *Zeitschrift für Zellforschung* (1963) and carried out at the [[Hydrobiologische Anstalt]] of the Max-Planck-Gesellschaft in Schlitz, examines how [[Reissner's Fiber]] (RF) behaves after the spinal cord is cut in [[Rainbow...
+> -- *[[DerReissnerscheFadenNachDurchs_16303]]*
+
 ### Mentioned In
 - [[DurchschneidungDesReissnersche_1962_01_13]]
+- [[DerReissnerscheFadenNachDurchs_16303]]
 
 ## Oltramare
 
@@ -3229,6 +4720,18 @@ Olsen Creek is a pink salmon spawning stream located in Olsen Bay, Port Gravina,
 ### Mentioned In
 - [[StationProfileOfTheGreenLakeNa_1993]]
 
+## Olympic Dam
+
+### Summary
+A major mining operation whose bore field draws water from the Great Artesian Basin. The source says about 15 ML/d is currently pumped from it, roughly half the amount estimated for full production, which adds to aquifer draw-down threats to the springs.
+
+### Context
+> This paper by C.R. Harris (South Australian Department of Environment and Land Management, *Rangeland Journal* 14(2), 1992) reviews the [[Mound Springs]] of inland Australia, the natural outlets of the [[Great Artesian Basin]]. It assesses a decade of conservation work since [[Harris (1981)]],...
+> -- *[[MoundSpringsSouthAustralianCon_20664]]*
+
+### Mentioned In
+- [[MoundSpringsSouthAustralianCon_20664]]
+
 ## Olympic Dam Project
 
 ### Summary
@@ -3248,9 +4751,17 @@ The Olympic Dam Project is a mining operation whose environmental impacts on Gre
 > This 1963 survey, prepared at the [[University of Michigan Museum of Zoology]] and attributed to [[Robert Rush Miller]], reviews the status of rare and threatened native fishes state by state across the United States. For each species it gives known range, number of recorded individuals or...
 > -- *[[PreliminaryListOfRareRestricte_15342]]*
 
+> This 1971 cytogenetic study by [[R. J. Beamish]], [[M. J. Merrilees]] and [[E. J. Crossman]] (University of Toronto and Royal Ontario Museum) examines chromosome counts and nuclear DNA content across the suborder [[Esocoidei]], a group of primary freshwater fishes comprising pikes, mudminnows and...
+> -- *[[KaryotypesAndDnaValuesForMembe_15672]]*
+
+> This document is a preliminary conservation inventory of rare, restricted, and threatened North American freshwater fishes, compiled by [[Robert Rush Miller]] of the [[Museum of Zoology]], [[University of Michigan]]. It covers roughly 65 taxon entries, arranged alphabetically by U.S. state, with...
+> -- *[[ReviewPrinciplesOfPaleoecology_15343]]*
+
 ### Mentioned In
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[PreliminaryListOfRareRestricte_15342]]
+- [[KaryotypesAndDnaValuesForMembe_15672]]
+- [[ReviewPrinciplesOfPaleoecology_15343]]
 
 ## Olympic National Park
 <!-- fm: auto_enriched: true -->
@@ -3295,8 +4806,56 @@ Oman is a country on the Arabian Peninsula with fisheries in the Western Indian 
 > This document is the sixth biennial review of global fishery resources prepared by FAO's Marine Resources Service for the Committee on Fisheries (COFI), covering statistics through 1986 with some 1987 data. Total recorded landings of marine and freshwater fish reached 90.9 million tons in 1987,...
 > -- *[[ReviewOfTheStateOfWorldFishery_16310]]*
 
+> This note compiles three short pieces on two killifish of the genus [[Aphanius]]. The first is a hobbyist article on [[Aphanius Iberus]], one of the few killifish native to Europe, based on observations of four pairs in a community tank. The second is a follow-up on [[Aphanius Dispar]] by a keeper...
+> -- *[[AphaniusIberustheSpanishMinnow_15644]]*
+
+> This field and laboratory study documents the natural history of [[Aphanius Dispar]] in northern [[Oman]], a species previously unstudied in the country. The fish was found in most permanent freshwater bodies with a connection to the sea, occupying habitats that differ in flow, chemistry,...
+> -- *[[NotesOnTheEcologyOfAphaniusDis_20948]]*
+
+> This document combines two papers from the *Journal of Natural History* (1984). The first, by K. E. Banister of the [[British Museum (Natural History)]], reports a hypogean (cave-dwelling) population of the cyprinid [[Garra Barreimiae]] from a deep cave in the [[Jabal Akhdar]] mountains of...
+> -- *[[ASubterraneanPopulationOfGarra_17313]]*
+
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16310]]
+- [[AphaniusIberustheSpanishMinnow_15644]]
+- [[NotesOnTheEcologyOfAphaniusDis_20948]]
+- [[ASubterraneanPopulationOfGarra_17313]]
+
+## Oman Marine Science And Fisheries Center
+
+### Summary
+The Oman Marine Science And Fisheries Center is the institution for which the second author was conducting field work in southern Oman in 1989. During that work he first noted several individuals of the unknown toadfish near Raysut.
+
+### Context
+> This paper by [[David W. Greenfield]], [[Jonathan K.L. Mee]] and [[John E. Randall]] formally describes *Bifax lacinia*, a new genus and species of toadfish in the subfamily [[Batrachoidinae]] (family [[Batrachoididae]]). The fish was collected from crevices in rocky walls at 6-8 m depth on the...
+> -- *[[BifaxLaciniaANewGenusAndSpecie_19260]]*
+
+### Mentioned In
+- [[BifaxLaciniaANewGenusAndSpecie_19260]]
+
+## Oman Natural History Museum
+
+### Summary
+A museum in Oman (abbreviated ONHM) that holds part of the type series of Garra barreimiae gallagheri.
+
+### Context
+> This Journal of Oman Studies special report by [[Friedhelm Krupp]] documents the freshwater fishes of the [[Wadi Batha]] drainage in Oman. Three species occur there: [[Cyprinion Microphthalmum]], [[Garra Barreimiae]] and [[Aphanius Dispar]]. The study describes a new endemic subspecies, [[Garra...
+> -- *[[FreshwaterFishesOfTheWadiBatha_12462]]*
+
+### Mentioned In
+- [[FreshwaterFishesOfTheWadiBatha_12462]]
+
+## Omar Vidal
+
+### Summary
+Omar Vidal is a Mexican marine biologist quoted in the report. He estimated that about two thirds of vaquitas caught in gillnets die in totoaba nets, counted a large illegal totoaba shipment being loaded, and warned that vaquita mortality could cause extinction very soon.
+
+### Context
+> This investigative report, written by [[Vicki Monks]] for [[Defenders of Wildlife]] and published in the July/August 1992 issue of *Defenders*, documents an illegal fishery for the endangered [[Totoaba]] in the northern [[Gulf of California]]. Undercover field work in Baja California and Sonora...
+> -- *[[BajasPeriledPorpoiseTheUsTaste_16548]]*
+
+### Mentioned In
+- [[BajasPeriledPorpoiseTheUsTaste_16548]]
 
 ## Ombrogenous Bogs
 <!-- fm: auto_enriched: true -->
@@ -3309,6 +4868,30 @@ Oman is a country on the Arabian Peninsula with fisheries in the Western Indian 
 
 ### Mentioned In
 - [[TheChemicalCompositionOfRainFr_11053]]
+
+## Omobranchini
+
+### Summary
+A new tribe of Blenniinae erected by Springer in this work. It is distinguished by its jaw and dental characters, with 14 to 30 premaxillary comblike teeth, and the author proposes that Nemophidinae derive from it or a closely related group.
+
+### Context
+> This U.S. National Museum Bulletin (No. 284, Victor G. Springer, 1968) defines the family [[Blenniidae]] osteologically and revises its suprageneric classification. The study uses a detailed skeletal description of [[Entomacrodus Nigricans]] as an osteological standard for the family, then compares...
+> -- *[[OsteologyAndClassificationOfTh_11875]]*
+
+### Mentioned In
+- [[OsteologyAndClassificationOfTh_11875]]
+
+## Ompok
+
+### Summary
+A genus of Asian silurid catfishes included in Regan's 1911 concept of Siluridae. The paper lists Ompok bimaculatus among the species examined; it is not discussed in detail beyond its inclusion in the family.
+
+### Context
+> This 1991 paper in the [[Zoological Journal of the Linnean Society]] by Alan H. Bornbusch tests whether the Eurasian catfish family [[Siluridae]] is a natural (monophyletic) group. Using a phylogenetic analysis of derived character states, the author identifies five synapomorphies unique to the...
+> -- *[[MonophylyOfTheCatfishFamilySil_17726]]*
+
+### Mentioned In
+- [[MonophylyOfTheCatfishFamilySil_17726]]
 
 ## Omura Bay
 
@@ -3332,6 +4915,30 @@ Omura Bay is a body of water north of Nagasaki in southern Japan. Jordan and Sny
 ### Mentioned In
 - [[ThePlaceOfEcologyInScience_11353]]
 
+## On-Site Toxicity Test
+
+### Summary
+An on-site toxicity test places organisms in suspended containers such as bags or garbage cans within the actual production pond to find the safe dose under local water conditions. The source used these trials in three ponds with different water chemistry and recommends them before any treatment.
+
+### Context
+> This 1985 study, published in the *Progressive Fish-Culturist* (vol. 47, no. 4), evaluates [[3-Trifluoromethyl-4-Nitrophenol]] (TFM) as a selective [[Amphibicide]] for removing tadpoles from fish culture ponds. Tadpoles, mainly [[Bullfrog Tadpole]] larvae, compete with cultured fish for food,...
+> -- *[[TrifluoromethylnitrophenolTfmC_17879]]*
+
+### Mentioned In
+- [[TrifluoromethylnitrophenolTfmC_17879]]
+
+## Once-Through Cooling
+
+### Summary
+Once-through cooling is a design in which water is pumped from a river, lake or marine source, passed through heat exchangers once, and returned to the source. The paper notes that most existing power plants use this open-system design, and that a very large plant using it could require enormous daily volumes of water.
+
+### Context
+> This 1970 conference paper, presented at the Tenth Biennial Veterinary Conference and Annual Conference of the Wildlife Disease Association, by J.A. Mihursky, A.J. McErlean and V.S. Kennedy of the [[University of Maryland]] Natural Resources Institute and [[Chesapeake Biological Laboratory]],...
+> -- *[[ThermalPollutionAquacultureAnd_15270]]*
+
+### Mentioned In
+- [[ThermalPollutionAquacultureAnd_15270]]
+
 ## Onchidium
 
 ### Context
@@ -3349,6 +4956,62 @@ Omura Bay is a body of water north of Nagasaki in southern Japan. Jordan and Sny
 
 ### Mentioned In
 - [[GeneralReviewsAndSummariesTrop_17993]]
+
+## Onchocerca volvulus
+
+### Summary
+Onchocerca volvulus is a filarial nematode that causes human onchocerciasis (river blindness) and is transmitted by black flies of the genus Simulium. The paper mentions it in connection with Simulium damnosum, which carries the parasite, as a reason for careful black fly control planning.
+
+### Context
+> This 1962 study by [[H. B. N. Hynes]] and [[T. R. Williams]] examines how a single application of [[DDT]] affected the entire invertebrate community of the [[River Manafwa]], a rapid stream on the slopes of [[Mount Elgon]] in eastern Uganda. Samples were taken 29–31 days after dosing at eight...
+> -- *[[TheEffectOfDdtOnTheFaunaOfACen_14579]]*
+
+### Mentioned In
+- [[TheEffectOfDdtOnTheFaunaOfACen_14579]]
+
+## Oncolite
+
+### Summary
+Oncolites are concentric accumulations of algal carbonate built around a nucleus, here often a snail shell. This source reports oncolites on both modern Goniobasis from Kentucky and Tertiary lacustrine Goniobasis from Utah. About 72% of the riffle gravel at Doe Run consisted of oncolites, and the author concludes that most Utah oncolites formed mainly after the snail nuclei died.
+
+### Context
+> This paper by [[Malcolm P. Weiss]] (Northern Illinois University) tests whether calcareous [[Algal Laminite]] crusts kill living freshwater snails of the genus *Goniobasis*. The author concludes they do not. Crusts are restricted mostly to the outer spire of living snails, and the snails continue...
+> -- *[[OncolitesFormingOnSnailsGoniob_12135]]*
+
+### Mentioned In
+- [[OncolitesFormingOnSnailsGoniob_12135]]
+
+## Oncolites
+
+### Summary
+Oncolites are algal-accreted limestone concretions that form around a nucleus and grow in shallow water. In this source, Weiss describes Late Cretaceous to Paleocene North Horn and Paleocene to Eocene Flagstaff oncolites from central Utah as homologous with modern freshwater and marine examples, indicating shallow, nearshore lacustrine conditions.
+
+### Context
+> This 1968 paper by Malcolm P. Weiss examines [[Oncolites]] (algal-accreted limestone concretions) in the Late Cretaceous to Paleocene [[North Horn Formation]] and the Paleocene to Eocene [[Flagstaff Formation]] of central Utah. The oncolites are shown to be homologous with modern freshwater and...
+> -- *[[OncolitesPaleoecologyAndLarami_12134]]*
+
+### Mentioned In
+- [[OncolitesPaleoecologyAndLarami_12134]]
+
+## Oncomelania
+
+### Summary
+A genus of amphibious operculate snails from Asia that serve as intermediate hosts of the Asian blood fluke. The source recognizes four species (*O. quadrasi*, *O. nosophora*, *O. formosana*, *O. hupensis*) and reviews crossing experiments showing they produce fertile hybrids with one another. The paper also notes all nominal species are allopatric, so their taxonomic status is still disputed.
+
+### Context
+> This 1962 paper by [[Henry van der Schalie]] and [[Lowell L. Getz]], published in *The American Midland Naturalist*, tests whether two North American snails, [[Pomatiopsis Lapidaria]] and [[Pomatiopsis Cincinnatiensis]], are reproductively isolated where their ranges overlap. The species are...
+> -- *[[ReproductiveIsolationInTheSnai_13078]]*
+
+> This 1962 paper by [[Henry Van Der Schalie]] and [[Lowell L. Getz]] (University of Michigan and University of Connecticut) examines the reproductive anatomy of the amphibious prosobranch snail *Pomatiopsis cincinnatiensis* using serially sectioned specimens from natural populations. The authors...
+> -- *[[MorphologyAndDevelopmentOfTheS_13080]]*
+
+> This 1962 study by [[Van Der Schalie]] and [[Getz]] examines the regional and local distribution, life history, and laboratory culture of *Pomatiopsis cincinnatiensis*, an amphibious, operculate prosobranch snail that lives on river banks in the upper Mississippi drainage and lower Great Lakes...
+> -- *[[DistributionAndNaturalistHisto_13079]]*
+
+### Mentioned In
+- [[ReproductiveIsolationInTheSnai_13078]]
+- [[MorphologyAndDevelopmentOfTheS_13080]]
+- [[DistributionAndNaturalistHisto_13079]]
 
 ## Oncorhynchus
 <!-- fm: auto_enriched: true -->
@@ -3381,6 +5044,15 @@ Oncorhynchus is a genus of anadromous and semelparous fish in the salmon family 
 > This 1980 University of Michigan doctoral dissertation by Michael Leonard Smith examines the evolutionary and ecological history of the freshwater fish fauna of the [[Rio Lerma Basin]] in the western [[Mesa Central]] of Mexico. The work combines fossil fish collections from Late Miocene to Late...
 > -- *[[TheEvolutionaryAndEcologicalHi_21181]]*
 
+> This 1963 study by [[Tsuyuki and Roberts]] (Fisheries Research Board of Canada, Technological Station, Vancouver) compares the muscle myogen protein patterns of ten salmonid taxa using [[Starch Gel Electrophoresis]]. Species from three genera were examined: [[Salvelinus]] (Dolly Varden and eastern...
+> -- *[[SpeciesDifferencesOfSomeMember_13409]]*
+
+> This 1972 Bulletin of the [[University of Oregon Museum of Natural History]] (No. 18), by Ted M. Cavender and Robert Rush Miller, formally describes *Smilodonichthys rastrosus*, a new genus and species of extinct [[Salmonidae]] from Pliocene deposits of California and Oregon. The taxon is based...
+> -- *[[SmilodonichthysRastrosusANewPl_16066]]*
+
+> This update of the [[Deacon et al. 1979]] list, published by the [[American Fisheries Society]] (AFS) Endangered Species Committee, catalogs 364 North American fishes that warrant protection because of rarity. Compared with the 1979 list of 251 taxa, 139 taxa were added and 26 removed (16 for...
+> -- *[[FishesOfNorthAmericaEndangered_12023]]*
+
 ### Mentioned In
 - [[Bureaucratic Mischief Recognizing Endangered Species and Subspecies]]
 - [[KitzhaberCallsForBreachingFour_13544]]
@@ -3394,6 +5066,9 @@ Oncorhynchus is a genus of anadromous and semelparous fish in the salmon family 
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[TaxonomyOfFishesFromMioceneCla_21156]]
 - [[TheEvolutionaryAndEcologicalHi_21181]]
+- [[SpeciesDifferencesOfSomeMember_13409]]
+- [[SmilodonichthysRastrosusANewPl_16066]]
+- [[FishesOfNorthAmericaEndangered_12023]]
 
 ## Oncorhynchus apache
 
@@ -3573,6 +5248,9 @@ Oncorhynchus nerka, commonly known as sockeye salmon, is a Pacific salmon specie
 > 1. **Consistent leeward accumulation pattern**: Under sustained, moderate-to-strong wind (~9.3–21.3 km/h persisting for hours), zooplankton (Diaptomus, Cyclops, Daphnia, Diaphanosoma, Bosmina, Ceriodaphnia) consistently concentrated in the **epilimnion at the leeward end** of all three lakes stud...
 > -- *[[DirectEffectOfWindOnPlanktonDi_12702]]*
 
+> This 1938 paper by W. E. Ricker of the [[Pacific Biological Station]] describes three forms of [[Oncorhynchus Nerka]] in [[Cultus Lake]], British Columbia: the normal [[Anadromous Sockeye]] stock, a non-migratory "residual" group that is largely or perhaps wholly the progeny of anadromous fish, and...
+> -- *[[ResidualAndKokaneeSalmonInCult_16848]]*
+
 ### Mentioned In
 - [[AdditionalObservationsConcerni_16872]]
 - [[DirectEffectOfWindOnPlanktonDi_12702]]
@@ -3580,6 +5258,7 @@ Oncorhynchus nerka, commonly known as sockeye salmon, is a Pacific salmon specie
 - [[NotesOnTheLeapingOfThePacificS_14869]]
 - [[SalmonidGeneticsBreedingGuidel_1983]]
 - [[TheImpactOfSquawfishOnSalmonid_1981]]
+- [[ResidualAndKokaneeSalmonInCult_16848]]
 
 ## Oncorhynchus Nerka Kennerlyi
 <!-- fm: auto_enriched: true -->
@@ -3606,10 +5285,14 @@ Oncorhynchus nerka, commonly known as sockeye salmon, is a Pacific salmon specie
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
 > -- *[[PartEndangeredAndThreatenedWil_11634]]*
 
+> This 1978 survey by Smith, Taylor and Grimshaw documents the fish fauna of the [[Raisin River]] drainage in southeastern Michigan. The basin has been heavily altered by industrial, urban and agricultural change. Sampling at 160 localities between June 15 and October 31, 1978 yielded 50,345...
+> -- *[[EcologicalSurveyOfFishesInTheR_21164]]*
+
 ### Mentioned In
 - [[AListOfOntarioFishes_11321]]
 - [[FishRemainsFromDeerCreekCaveEl_18755]]
 - [[PartEndangeredAndThreatenedWil_11634]]
+- [[EcologicalSurveyOfFishesInTheR_21164]]
 
 ## Ondatra zibethicus
 
@@ -3666,6 +5349,12 @@ The Oneida Fish Hatchery is a New York fish hatchery whose personnel collected s
 > This 1932 bulletin article from the [[Roosevelt Wild Life Forest Experiment Station]] (New York State College of Forestry, Syracuse) is Part II of a survey of parasitic worms infecting fishes of [[Oneida Lake]], New York. The authors, Justus F. Mueller and Harley J. Van Cleave, describe nine new...
 > -- *[[PartIiDescriptionsOfNewSpecies_15478]]*
 
+> This study by [[Michael D. Clady]] (Cornell University, 1976) estimates egg-to-larval survival of [[Yellow Perch]] (*Perca flavescens*) year-classes from 1969 to 1975 in [[Oneida Lake]], New York. Egg production was derived from [[Mark-and-Recapture]] adult stock estimates and fecundity, and larval...
+> -- *[[InfluenceOfTemperatureAndWindO_15901]]*
+
+> This 1939 study by Edward C. Raney, based on observations at the south end of [[Cayuga Lake]] near Ithaca, New York, documents the breeding biology of the [[Silvery Minnow]] ([[Hybognathus Regius]]), a [[Cyprinidae]] species. The author reports that the species is among the earliest northeastern...
+> -- *[[TheBreedingHabitsOfTheSilveryM_16751]]*
+
 ### Mentioned In
 - [[AnElectricalSurfaceDeviceForCa_16181]]
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -3678,6 +5367,8 @@ The Oneida Fish Hatchery is a New York fish hatchery whose personnel collected s
 - [[GrowthMovementsAndSurvivalOfSm_18781]]
 - [[TrichodinaRenicolaMuellerACili_15477]]
 - [[PartIiDescriptionsOfNewSpecies_15478]]
+- [[InfluenceOfTemperatureAndWindO_15901]]
+- [[TheBreedingHabitsOfTheSilveryM_16751]]
 
 ## Oneida Tennessee
 
@@ -3691,6 +5382,90 @@ A town in Scott County, Tennessee, used in the source as the reference point for
 ### Mentioned In
 - [[NewCrayfishesOfTheGenusCambaru_20415]]
 
+## Oneirodes
+
+### Summary
+A genus of deep-sea ceratioid anglerfishes in the family Oneirodidae. After the 1974 revision the source recognizes 23 species, and it considers the genus the least derived oneirodid, close to the ancestral form of the family. Skin spines are found only in this genus.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
+
+## Oneirodes Acanthias
+
+### Summary
+A deep-sea ceratioid anglerfish species in the family Oneirodidae. The source uses it as the detailed osteological reference for the group, and resurrects it as a valid species based on 147 females (11.5–167.0 mm). It is one of the species confined to a single water mass, Transition Water of the California Current.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
+
+## Oneirodes Eschrichtii
+
+### Summary
+A deep-sea ceratioid anglerfish species and the only member of its genus with a nearly cosmopolitan distribution, according to the source. Eighteen nominal forms of the former eschrichtii-group were synonymized with it. A disjunct, morphologically distinct southern California population is recognized, and the largest female examined was 213 mm.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
+
+## Oneirodes Luetkeni
+
+### Summary
+A deep-sea ceratioid anglerfish species in the genus Oneirodes. The source identifies it, along with O. carlsbergi and O. rosenblatti, as among the least derived species in the genus. Members of the O. schmidti-group are the most derived.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
+
+## Oneirodes Thompsoni
+
+### Summary
+A deep-sea ceratioid anglerfish species in the genus Oneirodes. The source reinstates it from synonymy with O. acanthias. It is one of the species the source places in Pacific Subarctic Water.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
+
+## Oneirodidae
+
+### Summary
+The family of deep-sea ceratioid anglerfishes that is the source's focus. The source describes it as the largest and most diverse of the 11 ceratioid families, with 13 genera and nearly 50 species, over half of all described ceratioids. Its osteology and relationships are reviewed in the study.
+
+### Context
+> This Natural History Museum of Los Angeles County Science Bulletin (No. 18, 1974, by Theodore W. Pietsch) presents a detailed osteological description of [[Oneirodes Acanthias]] as a basis for comparing nine of the 13 genera of the deep-sea ceratioid family [[Oneirodidae]]. It diagnoses the family...
+> -- *[[OsteologyAndRelationshipsOfCer_11182]]*
+
+### Mentioned In
+- [[OsteologyAndRelationshipsOfCer_11182]]
+
+## Onesquethaw Cave
+
+### Summary
+A cave listed among the subterranean habitats sampled for Stygonectes populations. The source includes it in the cave collections used in the sex-ratio comparison but does not describe its findings individually.
+
+### Context
+> This short research note reports sex ratios in populations of the subterranean amphipod genus [[Stygonectes]] collected from seeps, springs, drains and caves across eastern and central North America and Texas. Females predominate in most collections. The bias is strongest in cave populations of...
+> -- *[[PreliminaryObservationsOnSexRa_18094]]*
+
+### Mentioned In
+- [[PreliminaryObservationsOnSexRa_18094]]
+
 ## Oniscidae
 
 ### Summary
@@ -3700,8 +5475,12 @@ Oniscidae is a family of terrestrial isopods to which the type specimen of Synur
 > This taxonomic revision examines terrestrial isopod crustaceans in the family [[Sphaeroniscidae]], resolving the status of several genera originally described by Richardson. The author establishes that [[Synuropus]] is a junior synonym of [[Scleropactes]], transfers multiple species between genera...
 > -- *[[DispositionOfSpeciesOfTerrestr_20619]]*
 
+> This 1972 taxonomic review by George A. Schultz, published in the *Proceedings of the Biological Society of Washington* (Vol. 84, No. 56, pp. 477-488), revises the terrestrial isopod family [[Scyphacidae]] in the New World. The family consists of beach-dwelling [[Oniscoidea]] (terrestrial isopods)...
+> -- *[[AReviewOfSpeciesOfTheFamilyScy_20620]]*
+
 ### Mentioned In
 - [[DispositionOfSpeciesOfTerrestr_20619]]
+- [[AReviewOfSpeciesOfTheFamilyScy_20620]]
 
 ## Oniscidea
 <!-- fm: auto_enriched: true -->
@@ -3713,6 +5492,22 @@ Oniscidae is a family of terrestrial isopods to which the type specimen of Synur
 ### Mentioned In
 - [[Reurs_13127]]
 
+## Oniscoidea
+
+### Summary
+A suborder of terrestrial isopods (woodlice and pill bugs). Nearly all species in this source belong to it, and they are mostly surface fauna found near cave and mine entrances.
+
+### Context
+> This 1965 reprint from the *Texas Journal of Science* by [[George A. Schultz]] of the [[Duke Marine Laboratory]] identifies isopods collected from caves and mines in Texas and northern Mexico. Specimens were sent by [[James Reddell]] of the [[Texas Speleological Survey]]. The collections comprise 8...
+> -- *[[TerrestrialIsopodsFromCavesAnd_20618]]*
+
+> This 1972 taxonomic review by George A. Schultz, published in the *Proceedings of the Biological Society of Washington* (Vol. 84, No. 56, pp. 477-488), revises the terrestrial isopod family [[Scyphacidae]] in the New World. The family consists of beach-dwelling [[Oniscoidea]] (terrestrial isopods)...
+> -- *[[AReviewOfSpeciesOfTheFamilyScy_20620]]*
+
+### Mentioned In
+- [[TerrestrialIsopodsFromCavesAnd_20618]]
+- [[AReviewOfSpeciesOfTheFamilyScy_20620]]
+
 ## Oniscus Asellus
 <!-- fm: auto_enriched: true -->
 
@@ -3722,6 +5517,18 @@ Oniscidae is a family of terrestrial isopods to which the type specimen of Synur
 
 ### Mentioned In
 - [[ÉtudeDUneCollectionDLsopodesTe_13127]]
+
+## Onisimus glacialis
+
+### Summary
+Onisimus glacialis is an amphipod crustacean that is a dominant member of the epibenthos in Simpson Lagoon. The source lists it, with Gammarus setosus, as a key prey organism for fish and birds in the lagoon.
+
+### Context
+> This interdisciplinary study by [[Peter C. Craig]] and colleagues examines the trophic structure of [[Simpson Lagoon]], a shallow arctic coastal lagoon in the central [[Alaskan Beaufort Sea]]. The authors work top-down, from birds and fish (consumers) to their invertebrate prey and finally to the...
+> -- *[[TrophicDynamicsInAnArcticLagoo_17991]]*
+
+### Mentioned In
+- [[TrophicDynamicsInAnArcticLagoo_17991]]
 
 ## Onized Lake
 
@@ -3786,6 +5593,74 @@ Ontario County is a county in New York State where Flint Creek is located. The n
 ### Mentioned In
 - [[LethalOxygenConcentrationsForT_17548]]
 
+## Ontario Department of Lands and Forests
+
+### Summary
+The provincial Ontario government agency to which the authors Fry, Cucin, Kennedy and Papson were affiliated when they carried out this 1960 study on fish scale marking. The note lists it only as the authors' institutional home.
+
+### Context
+> This 1960 methods paper by Fry, Cucin, Kennedy and Papson, from the [[Ontario Department of Lands and Forests]] and the [[University of Toronto]], evaluates lead disodium versenate ([[Lead Versenate]]) as an injected agent for placing a time mark on fish scales. Injection at 50 mg per kg body...
+> -- *[[TheUseOfLeadVersenateToPlaceAT_18862]]*
+
+> This Ontario Department of Lands and Forests study examines the [[Lake Trout]] (*Salvelinus namaycush namaycush*) during the ice-covered period in several [[Algonquin Park]] lakes. It compares winter [[Ice Fishing]] catches and winter diet with summer and other seasonal conditions. Winter catches...
+> -- *[[CatchAndWinterFoodOfLakeTroutI_17063]]*
+
+> This study by the [[Ontario Department of Lands and Forests]] and the University of Toronto follows the [[Year Class]] of [[Lake Trout]] hatched in 1944 in [[South Bay]], a 30-square-mile arm of [[Lake Huron]] on the south-east corner of [[Manitoulin Island]]. This cohort supported a significant...
+> -- *[[TheYearClassOfLakeTroutInSouth_18860]]*
+
+### Mentioned In
+- [[TheUseOfLeadVersenateToPlaceAT_18862]]
+- [[CatchAndWinterFoodOfLakeTroutI_17063]]
+- [[TheYearClassOfLakeTroutInSouth_18860]]
+
+## Ontario Division Of Fish And Game
+
+### Summary
+The Ontario Division of Fish and Game is a provincial conservation agency in Canada and one of the affiliations listed for the paper's authors. The source uses this affiliation as context and does not describe the division's programs in detail.
+
+### Context
+> This 1953 paper by [[W. J. K. Harkness]], [[Justin W. Leonard]], and [[Paul R. Needham]] reviews how fishery research was organized, staffed, funded, and communicated in North America at mid-century. It was prepared for a symposium on the organization, popularization, and application of fishery...
+> -- *[[FisheryResearchAtMidcentury_20641]]*
+
+### Mentioned In
+- [[FisheryResearchAtMidcentury_20641]]
+
+## Ontario Fisheries Management Strategy
+
+### Summary
+A provincial framework for managing Ontario's fisheries. The source cites Loftus et al. (1978) and says the author's proposed surveillance and response mechanisms for controlling more efficient gear should be placed under it.
+
+### Context
+> This study compares the catching efficiency of [[Monofilament Nylon]] and [[Multifilament Nylon]] gill nets for [[Lake Whitefish]] (*Coregonus clupeaformis*) in [[Lake Huron]], using commercial-type 114 mm mesh nets fished in the [[North Channel]] (1972) and [[South Bay]] (1973). Monofilament nets...
+> -- *[[RelativeEfficiencyOfMultifilam_17147]]*
+
+### Mentioned In
+- [[RelativeEfficiencyOfMultifilam_17147]]
+
+## Ontario Fisheries Research Laboratory
+
+### Summary
+The Ontario Fisheries Research Laboratory was a research facility that, according to the source, ran the project in which the brook trout were held. It was jointly operated by the University of Toronto and the Ontario Department of Lands and Forests. The fish were kept under controlled conditions as part of this project.
+
+### Context
+> This 1963 paper by [[Nancy E. Henderson]] (University of Toronto) tests whether [[Atresia]], the degeneration of developing ovarian follicles, substantially reduces the number of maturing ova in the [[Eastern Brook Trout]] (*[[Salvelinus Fontinalis]]*) during the [[Secondary Growth Phase]] of...
+> -- *[[ExtentOfAtresiaInMaturingOvari_16627]]*
+
+### Mentioned In
+- [[ExtentOfAtresiaInMaturingOvari_16627]]
+
+## Ontario Hydro
+
+### Summary
+Ontario Hydro is the Ontario power utility whose research contributed to this study. Its Great Lakes stations experienced most of the freshwater fish impingement that motivated the choice of freshwater species. The study combined its independent research with work from the University of Maryland.
+
+### Context
+> This laboratory study tested whether [[Strobe Light]] combined with an [[Air-Bubble Barrier]] can exclude fish at power-plant intakes. Freshwater species ([[Alewife]], [[Rainbow Smelt]], [[Gizzard Shad]]) and estuarine species ([[White Perch]], [[Spot]], [[Atlantic Menhaden]]) were tested under...
+> -- *[[ResponsesOfFishToAStrobeLightA_18450]]*
+
+### Mentioned In
+- [[ResponsesOfFishToAStrobeLightA_18450]]
+
 ## Ontogenetic Allometry
 
 ### Summary
@@ -3849,6 +5724,18 @@ A large cat reported in the western Sierra Madre of Mexico, described by local h
 ### Mentioned In
 - [[MolecularGeneticIdentification_19135]]
 
+## Oocardium Stratum
+
+### Summary
+A desmid that is one of the few species able to grow in highly calcareous water. It is rare at Malham and was rediscovered there by C. A. Sinker.
+
+### Context
+> This review, written by J. W. G. Lund of the [[Freshwater Biological Association]], describes the algal flora of the [[Malham Tarn]] district in Yorkshire. The document concerns algae, not fish. It covers terrestrial, semi-terrestrial and aquatic habitats, with a focus on the calcareous conditions...
+> -- *[[TheAlgaeOfTheMalhamTarnDistric_16253]]*
+
+### Mentioned In
+- [[TheAlgaeOfTheMalhamTarnDistric_16253]]
+
 ## Oocystis pusilla
 
 ### Summary
@@ -3892,8 +5779,12 @@ Oodinium is a genus of parasitic dinoflagellates that infect fishes. The source 
 > This 1970 report by [[Earl S. Herald]], [[Robert P. Dempster]] and [[Marjorie Hunt]] of the [[Steinhart Aquarium]] evaluates [[Ultraviolet Sterilization]] as a way to reduce bacterial loads in crowded, recirculating aquarium systems. Test and production units were installed between 1960 and the...
 > -- *[[UltravioletSterilizationOfAqua_16687]]*
 
+> This three-part series by [[Bruce J. Turner]], published in *African Wild Life*, introduces the African annual killifish genus [[Nothobranchius]]. The genus is described as one of the least-studied vertebrate groups in Africa, and the only true annual fishes on the African landmass. The article...
+> -- *[[AnIntroductionToTheFishesOfThe_13414]]*
+
 ### Mentioned In
 - [[UltravioletSterilizationOfAqua_16687]]
+- [[AnIntroductionToTheFishesOfThe_13414]]
 
 ## Oodinium Limneticum
 <!-- fm: auto_enriched: true -->
@@ -3918,8 +5809,49 @@ Oodinium is a genus of parasitic dinoflagellates that infect fishes. The source 
 ## Oogenesis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1963 paper by [[Nancy E. Henderson]] (University of Toronto) tests whether [[Atresia]], the degeneration of developing ovarian follicles, substantially reduces the number of maturing ova in the [[Eastern Brook Trout]] (*[[Salvelinus Fontinalis]]*) during the [[Secondary Growth Phase]] of...
+> -- *[[ExtentOfAtresiaInMaturingOvari_16627]]*
+
 ### Mentioned In
 - [[DesmosomesInTheFollicularEpith_1964_06_11]]
+- [[ExtentOfAtresiaInMaturingOvari_16627]]
+
+## Oogonia
+
+### Summary
+The female sexual reproductive structures in oomycetes that contain oospores. In this source, oogonium size, papillation, and the number of oospores per oogonium are used to distinguish the species.
+
+### Context
+> M. W. Dick (1969, *Botanical Journal of the Linnean Society*, vol. 62, pp. 255–266) re-examined isolates previously referred to [[Saprolegnia Asterophora]] de Bary, a water mould of acidic, organic-rich wetlands. The study resolves the group into an aggregate of three segregate species. Two are...
+> -- *[[TheScoliolegniaAsterophoraAggr_12848]]*
+
+### Mentioned In
+- [[TheScoliolegniaAsterophoraAggr_12848]]
+
+## Oospores
+
+### Summary
+Thick-walled sexual resting spores formed within oogonia. Dick (1969) measured oospore size and arrangement (subcentric or subeccentric) to separate the species, and the oospore number per oogonium is a key taxonomic character.
+
+### Context
+> M. W. Dick (1969, *Botanical Journal of the Linnean Society*, vol. 62, pp. 255–266) re-examined isolates previously referred to [[Saprolegnia Asterophora]] de Bary, a water mould of acidic, organic-rich wetlands. The study resolves the group into an aggregate of three segregate species. Two are...
+> -- *[[TheScoliolegniaAsterophoraAggr_12848]]*
+
+### Mentioned In
+- [[TheScoliolegniaAsterophoraAggr_12848]]
+
+## Opabinia
+
+### Summary
+Opabinia is a mid-Cambrian animal that Fryer suggests may have been an anostracan incapable of filter-feeding. He puts this forward following Hutchinson's interpretation, as part of his argument that the earliest anostracans may not have been filter-feeders.
+
+### Context
+> This 1966 study by Geoffrey Fryer, published in the *Proceedings of the Linnean Society of London*, shows that [[Branchinecta Gigas]], the largest known extant anostracan (fairy shrimp), is a carnivore that captures and eats large prey, mainly other anostracans. Gut analyses and morphology show...
+> -- *[[BranchinectaGigasLynchANonfilt_18878]]*
+
+### Mentioned In
+- [[BranchinectaGigasLynchANonfilt_18878]]
 
 ## Opae
 
@@ -3933,6 +5865,30 @@ Atyid shrimp, freshwater shrimp of the family Atyidae, named in the source as pa
 ### Mentioned In
 - [[AnnualReportForCooperativeFish_11527]]
 
+## Opal Allotoca
+
+### Summary
+The opal allotoca (Allotoca sp.) is a small, opalescent freshwater fish known from Lake Magdalena in the Rio Ameca basin. According to this source, it was not seen after 1970 and was later rediscovered alive in an artificial pond near the dry former lake bed, with a breeding population established at the New York Aquarium.
+
+### Context
+> This is a multi-item fisheries newsletter page (from *Fisheries*, Vol. 16, No. 3, May-June 1991, with a partial first page). It contains calls for papers and course announcements, a research request on the effects of [[Electrofishing]] on fish, a conservation report on the rediscovered [[Opal...
+> -- *[[ARareSpeciesOfFishBelievedToBe_18286]]*
+
+### Mentioned In
+- [[ARareSpeciesOfFishBelievedToBe_18286]]
+
+## Opal Diffusing Disc
+
+### Summary
+An opal diffusing disc is a translucent diffuser placed over a photometer to correct its angular (cosine) response to light. Westlake notes that a clear glass window does not do this. Dry rough opals follow the cosine law better than polished ones, although wetting largely removes that advantage.
+
+### Context
+> This 1965 review by D. F. Westlake of the [[Freshwater Biological Association]] (River Laboratory, Wareham, Dorset) summarizes agreed practice for measuring radiation under water in ecological studies. It addresses terminology, units, optical density, instrument design, and the optical errors that...
+> -- *[[SomeProblemsInTheMeasurementOf_12175]]*
+
+### Mentioned In
+- [[SomeProblemsInTheMeasurementOf_12175]]
+
 ## Opaleye
 
 ### Summary
@@ -3942,8 +5898,12 @@ The Opaleye (Girella simplicans) is a fish the key uses to illustrate basic exte
 > This document is a provisional "working key" by Donald A. Thomson and William H. Eger (Department of Zoology, University of Arizona, July 1964) for identifying 66 fish families likely to occur in the shallow inshore waters of the [[Upper Gulf of California]], between [[Guaymas]] and [[Puerto...
 > -- *[[KeyToTheFamiliesOfTheInshoreTe_13333]]*
 
+> This study tested whether adult [[Yellowtail Rockfish]] (*Sebastes flavidus*) in southeastern Alaska show a home site and homing ability. Fish were tagged at a shipwreck at [[Lena Point]] in [[Favorite Channel]], displaced to 11 release sites up to 35.0 km away, and recovered mainly by hook and...
+> -- *[[EvidenceForAHomeSiteAndHomingO_17421]]*
+
 ### Mentioned In
 - [[KeyToTheFamiliesOfTheInshoreTe_13333]]
+- [[EvidenceForAHomeSiteAndHomingO_17421]]
 
 ## Open Access Fisheries
 
@@ -3956,6 +5916,18 @@ Fisheries in which no effective limit restricts who can fish, so individual fish
 
 ### Mentioned In
 - [[StrategyForFisheriesManagement_18774]]
+
+## Open Desert Basin
+
+### Summary
+The flat, sandy-loam desert habitat at the base of Phoenix South Mountain, covered mainly by creosote bush and bur-sage. It had the highest total scorpion catch (197) and was dominated by Vejovis confusus, with Hadrurus arizonensis also most abundant here.
+
+### Context
+> This study examines how four habitat types on Phoenix South Mountain, Arizona, shape the abundance, distribution and community structure of desert scorpions. Using standardized [[Pitfall Trapping]] over 104 consecutive weeks (1964–1966), the author recorded 645 scorpions from eight species in three...
+> -- *[[CoexistenceOfDesertScorpionsBy_12049]]*
+
+### Mentioned In
+- [[CoexistenceOfDesertScorpionsBy_12049]]
 
 ## Open Ditch Effluent Passage
 
@@ -3981,6 +5953,18 @@ Open population models are capture-recapture methods that allow animals to enter
 ### Mentioned In
 - [[PopulationAndSurvivalEstimates_21127]]
 
+## Open Posterior Myodome Clade
+
+### Summary
+One of the three major clades recovered by the study, always found with 98-100% bootstrap support. It includes Rhinichthys, Phenacobius, Platygobio and Notropis. The authors favour it as sister to the Creek Chub clade, but it was never strongly resolved as sister to the Western Clade.
+
+### Context
+> This molecular phylogenetic study sequenced the complete mitochondrial 12S and 16S ribosomal RNA genes, plus the intervening Valine tRNA gene, in 31 cyprinid specimens representing the major clades of [[North American Phoxinins]] and several outgroups. Parsimony analyses recovered three major...
+> -- *[[PhylogeneticRelationshipsOfThe_18995]]*
+
+### Mentioned In
+- [[PhylogeneticRelationshipsOfThe_18995]]
+
 ## Open Water Creel Census
 
 ### Summary
@@ -3992,6 +5976,30 @@ This was the less intensive spring-season survey used alongside the ice census a
 
 ### Mentioned In
 - [[FinalReportOfTheIceFishingCree_12822]]
+
+## Opeongo Lake
+
+### Summary
+Opeongo Lake is a lake whose lake trout growth was used as a comparison point. The authors found Redrock Lake's growth resembled that of piscivorous populations in Opeongo Lake and Proulx Lake, which fits the faster growth of trout that feed on fish.
+
+### Context
+> This 1947 field study examined the [[Depth Distribution]], [[Feeding Ecology]], and [[Growth Rate]] of [[Lake Trout]] (*Salvelinus namaycush*) in two [[Algonquin Park]] lakes, [[Lake Louisa]] and [[Redrock Lake]], Ontario. The two populations differ sharply in diet. Redrock trout fed mainly on...
+> -- *[[AStudyOfTheLakeTroutSalvelinus_17062]]*
+
+### Mentioned In
+- [[AStudyOfTheLakeTroutSalvelinus_17062]]
+
+## Opeongo Lake Trout
+
+### Summary
+A lake trout stock from Opeongo Lake, used as the case study for Beverton's 1954 analysis of mortality under fluctuating fishing effort. The source uses its ten-year catch and effort record to compare the iterative and virtual population approaches. The source does not provide further details about the stock.
+
+### Context
+> This methodological paper by Yvonne M. M. Bishop (Inter-American Tropical Tuna Commission, La Jolla, California; published 1959 in the *Journal of the Fisheries Research Board of Canada*, vol. 16, no. 1) analyses the bias in individual estimates of the natural mortality coefficient (M) derived from...
+> -- *[[ErrorsInEstimatesOfMortalityOb_17651]]*
+
+### Mentioned In
+- [[ErrorsInEstimatesOfMortalityOb_17651]]
 
 ## Opequon Creek
 
@@ -4005,6 +6013,18 @@ A Potomac direct tributary covered by the survey, with flow data in Table 3. The
 ### Mentioned In
 - [[GameFishStreamsAndRecordsOfFis_21088]]
 
+## Operant Conditioning
+
+### Summary
+Operant conditioning is learning in which an animal's voluntary behaviour is strengthened or weakened by its consequences, such as food rewards. In this source, goldfish were trained in automated feeders where a photocell beam interruption delivered food. Forebrain-ablated fish responded initially but then declined, while normal fish showed steady, rising response rates, and the author attributed this to a failure of association rather than loss of motivation.
+
+### Context
+> This study by G. E. Savage tests whether the [[Telencephalon]] (forebrain) of the [[Goldfish]], *Carassius auratus*, is needed for food-reinforced (positively motivated) behaviour, not only for [[Shock Avoidance Learning]]. Across seven experiments, fish with most of the telencephalon removed...
+> -- *[[SomePreliminaryObservationsOnT_20531]]*
+
+### Mentioned In
+- [[SomePreliminaryObservationsOnT_20531]]
+
 ## Operating Criteria And Procedures
 
 ### Summary
@@ -4014,8 +6034,12 @@ Operating Criteria and Procedures (OCAP) governs how Truckee River water is rele
 > This 1994 [[U.S. Fish And Wildlife Service]] (Service) document, prepared by the Nevada Ecological Services State Office and the Northern Nevada Fishery Resource Office, is the "action plan" required by the [[Cui-ui Recovery Plan]] (Second Revision) for [[Cui-ui]] (*[[Chasmistes Cujus]]*). It...
 > -- *[[HabitatConservationMeasuresFor_11652]]*
 
+> This letter from the [[Cui-Ui Recovery Team]] Leader Thomas A. Strekal to [[U.S. Fish And Wildlife Service]] Regional Director Marvin Plenert (dated December 7, 1990) summarizes the status of the Draft [[Cui-Ui Recovery Plan]] and the Team's key recommendations. The Team concludes that recovery...
+> -- *[[DraftLetterSummaryOfTheStatusO_14621]]*
+
 ### Mentioned In
 - [[HabitatConservationMeasuresFor_11652]]
+- [[DraftLetterSummaryOfTheStatusO_14621]]
 
 ## Operating Principles
 
@@ -4077,9 +6101,25 @@ The opercle is a bone of the gill cover in fishes. The proposal selects landmark
 > This 1928 bulletin from the [[Illinois Natural History Survey]], by David H. Thompson, describes a skeletal and growth malformation in [[Cyprinus Carpio]] (common carp) of the middle [[Illinois River]]. Fishermen called the affected fish "knotheads." The study was begun with [[Ludwig Scheuring]]...
 > -- *[[TheKnotheadCarpOfTheIllinoisRi_13583]]*
 
+> This Fisheries and Marine Service Technical Report (No. 849, April 1979) by J.S. Campbell and J.A. Babaluk, Western Region, Winnipeg, compares [[Age Determination]] methods for [[Walleye]] (*Stizostedion vitreum vitreum*) from [[Wapun Lake]], a small boreal lake in northern Manitoba. The work was a...
+> -- *[[AgeDeterminationOfWalleyeStizo_17355]]*
+
 ### Mentioned In
 - [[TheEffectsOfAgeSexAndSizeOnMor_16810]]
 - [[TheKnotheadCarpOfTheIllinoisRi_13583]]
+- [[AgeDeterminationOfWalleyeStizo_17355]]
+
+## Opercle Aging
+
+### Summary
+A method of estimating fish age by counting annual growth marks (annuli) on the gill cover bone, the opercle. In this 1959 study of Des Moines River carp, opercle-based ages agreed with scale-based ages for 84.5% of fish, and the opercle showed growth resuming earlier in spring than the scales did.
+
+### Context
+> This 1959 study of [[Cyprinus Carpio]] in a 7-mile reach of the [[Des Moines River]] (Boone County, Iowa) examined growth, condition, age structure, reproduction, diet, and parasites. Fish were collected from October 1957 to October 1958, mostly by [[Electrofishing]]. The author found that weight...
+> -- *[[SomeAspectsOfTheLifeHistoryOfT_16803]]*
+
+### Mentioned In
+- [[SomeAspectsOfTheLifeHistoryOfT_16803]]
 
 ## Opercle Aging Method
 <!-- fm: auto_enriched: true -->
@@ -4099,6 +6139,58 @@ An opercle regression is an equation that predicts a fish's standard length from
 ### Mentioned In
 - [[UtilizationOfBenthicfeedingFis_20740]]
 
+## Opercles
+
+### Summary
+The opercles are the bony gill covers on the sides of a fish's head. In this source, male Loach Minnows have minute tubercles concentrated on the opercles, which females largely lack.
+
+### Context
+> This 1965 *Copeia* note by W. L. [[MincklBy]] describes sexual dimorphism in the [[Loach Minnow]] (*Tiaroga cobitis*, order [[Cypriniformes]]), a fish that once occurred widely in the [[Gila River]] system of Arizona and New Mexico but had become increasingly rare in Arizona. The study is based on...
+> -- *[[SexualDimorphismInTheLoachMinn_18560]]*
+
+### Mentioned In
+- [[SexualDimorphismInTheLoachMinn_18560]]
+
+## Opercular Bone
+
+### Summary
+The opercular bone is a bony plate covering the gill chamber of fish. In this source it is tested as an ageing structure for Windermere pike, where its annuli (growth rings) can be used for back-calculation of past growth; its main drawback is discoloured spongy tissue at its base that can hide the first or second annulus in fish over 50 cm.
+
+### Context
+> This 1961 paper by W. E. Frost and Ch. Kipling, presented at the Verhandlungen Internationale Vereinigung für Theoretische und Angewandte Limnologie (Stuttgart), tests the [[Opercular Bone]] as an alternative to the [[Scale Method]] for estimating age and growth of [[Northern Pike]] from...
+> -- *[[SomeObservationsOnTheGrowthOfP_18857]]*
+
+> This 1965 reprint from *Salmon and Trout Magazine* by Frost and Kipling reports the age and growth of [[Northern Pike]] (*Esox lucius*) in [[Windermere]], England. Ages were determined from [[Opercular Bone]] readings rather than [[Scale Analysis]], which the authors found unreliable without...
+> -- *[[SomeObservationsOnTheGrowthOfP_18858]]*
+
+### Mentioned In
+- [[SomeObservationsOnTheGrowthOfP_18857]]
+- [[SomeObservationsOnTheGrowthOfP_18858]]
+
+## Opercular Bone Ageing
+
+### Summary
+A method of estimating fish age by counting annual rings (annuli) on the opercular bone, the gill cover bone. In this 1959 paper by Frost and Kipling, opercular bones are judged valid and preferable to scales for Windermere pike, showing fewer false annuli and clearer boundaries, though the thickened base can hide the first one or two annuli in large fish.
+
+### Context
+> This methodological study by [[Winifred E. Frost]] and [[Charlotte Kipling]] (Freshwater Biological Association, Ambleside) evaluates [[Scale Ageing]] and [[Opercular Bone Ageing]] for [[Northern Pike]] (*Esox lucius*) from [[Windermere]], England, using material collected 1944–1957. The authors...
+> -- *[[TheDeterminationOfTheAgeAndGro_18856]]*
+
+### Mentioned In
+- [[TheDeterminationOfTheAgeAndGro_18856]]
+
+## Opercular Bone Method
+
+### Summary
+A method of estimating fish age and reconstructing growth history by reading annuli (growth bands) on the opercular bone, a bony gill-cover plate. In this study, McConnell tested it on carp from northern Utah and found annuli clearer than on scales, with ages readable past the fourth year and quick preparation (boiling, cleaning and drying). The author judged it superior to scale ageing for this species but said its validity was not conclusively established.
+
+### Context
+> This 1951 study, published in the *Transactions of the American Fisheries Society*, tests whether the [[Opercular Bone Method]] can estimate the age and growth of [[Common Carp]] (*Cyprinus carpio*) in northern Utah. It was part of a non-game fish investigation begun in 1948 by the Department of...
+> -- *[[TheOpercularBoneAsAnIndicatorO_12271]]*
+
+### Mentioned In
+- [[TheOpercularBoneAsAnIndicatorO_12271]]
+
 ## Opercular Bones
 
 ### Summary
@@ -4110,6 +6202,18 @@ The opercle is a bony gill cover on the side of the head. The study examined ope
 
 ### Mentioned In
 - [[AgeDeterminationForImperiledRa_12256]]
+
+## Opercular Spreading
+
+### Summary
+An agonistic display in sunfish in which the gill covers (opercula) are spread outward. It was one of three aggression measures scored in this study, and it did not differ significantly among unoperated, sham and castrated longears.
+
+### Context
+> This document contains two 1969 papers in *Animal Behaviour*. The first, by R. J. F. Smith, is the complete study and the focus of this note. It tests whether [[Gonadal Androgen]] controls prespawning behaviour in two freshwater sunfish, the [[Pumpkinseed Sunfish]] (*Lepomis gibbosus*) and the...
+> -- *[[ControlOfPrespawningBehaviourO_21204]]*
+
+### Mentioned In
+- [[ControlOfPrespawningBehaviourO_21204]]
 
 ## Opercular Strap Tag
 <!-- fm: auto_enriched: true -->
@@ -4129,6 +6233,18 @@ Opercular tagging was a method of marking individual fish with numbered tags on 
 ### Mentioned In
 - [[HomePoolsAndHomingBehaviorOfSm_20184]]
 
+## Operculum
+
+### Summary
+The operculum is the bony gill cover of a fish, and its bones can be read for age in the way scales or otoliths are. In this study, operculum bones were used to age walleye and northern pike, and the annual nature of their growth checks was validated with tetracycline.
+
+### Context
+> This study by [[J. F. Craig]] and K. Smiley (Alberta Environmental Centre, Vegreville) reports a single-season (May–September 1983) survey of [[Walleye]] (*Stizostedion vitreum*) and [[Northern Pike]] (*Esox lucius*) in Ethel, Marie and Wolf Lakes in the Cold Lake region of [[Alberta]]. The work...
+> -- *[[WalleyeStizostedionVitreumAndN_17990]]*
+
+### Mentioned In
+- [[WalleyeStizostedionVitreumAndN_17990]]
+
 ## Ophiactis savignyi
 
 ### Summary
@@ -4140,6 +6256,18 @@ Ophiactis savignyi is a brittle star species found at Puerto Peñasco. The sourc
 
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+
+## Ophicephalus
+
+### Summary
+An older name for a genus of snakeheads, a group of freshwater teleost fishes. The study uses it as a comparative teleost reference when discussing cranial features.
+
+### Context
+> This 1957 morphological study by H. R. Srinivasachar describes the fully formed [[Chondrocranium]] (embryonic cartilaginous skull) of two catfishes of the family [[Bagridae]]: [[Mystus Vittatus]] (20 mm stage) and [[Rita]] sp. (12 mm stage). It is the second part of a series, following a study of...
+> -- *[[DevelopmentOfTheSkullOfCatfish_14691]]*
+
+### Mentioned In
+- [[DevelopmentOfTheSkullOfCatfish_14691]]
 
 ## Ophicephalus Argus
 <!-- fm: auto_enriched: true -->
@@ -4159,15 +6287,59 @@ Ophichthidae is the family of snake eels, which are marine eels characterized by
 > This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
 > -- *[[AClassificationOfTheFishesOfTh_14438]]*
 
+> This document is a Spanish-language identification manual by William A. Bussing, published by the Universidad de Costa Rica as Serie Ciencias Naturales No. 6 (1969). It is a revised edition of a mimeographed key first produced in 1965 for the course Ictiologia B-416. It provides a dichotomous key...
+> -- *[[FamiliasDePecesMarinosCostarri_14108]]*
+
+> This paper, by Carter R. Gilbert, documents a mass shoreward movement of demersal fishes on the Atlantic coast of Florida. The event occurred on the afternoon of 17 September 1962 along the beach south of [[Marineland Florida]], about 50 miles south of Jacksonville. It was the first reported...
+> -- *[[AMassInshoreMovementOfFishesOn_16992]]*
+
 ### Mentioned In
 - [[Eel_14169]]
 - [[AClassificationOfTheFishesOfTh_14438]]
+- [[FamiliasDePecesMarinosCostarri_14108]]
+- [[AMassInshoreMovementOfFishesOn_16992]]
+
+## Ophichthus Melanoporus
+
+### Summary
+A deep-water snake eel of the family Ophichthidae. This source reports its first US record, a single specimen taken on the beach just north of Matanzas Inlet, Florida, previously known from five specimens at 250 fathoms off Andros Island, Bahamas.
+
+### Context
+> This paper, by Carter R. Gilbert, documents a mass shoreward movement of demersal fishes on the Atlantic coast of Florida. The event occurred on the afternoon of 17 September 1962 along the beach south of [[Marineland Florida]], about 50 miles south of Jacksonville. It was the first reported...
+> -- *[[AMassInshoreMovementOfFishesOn_16992]]*
+
+### Mentioned In
+- [[AMassInshoreMovementOfFishesOn_16992]]
+
+## Ophidiidae
+
+### Summary
+The cusk-eel family of burrowing demersal fishes. Its members were among the probable non-resident species the author thought moved inshore from deeper water during the event, and no cusk-eels were found in later rotenone collections at the site.
+
+### Context
+> This paper, by Carter R. Gilbert, documents a mass shoreward movement of demersal fishes on the Atlantic coast of Florida. The event occurred on the afternoon of 17 September 1962 along the beach south of [[Marineland Florida]], about 50 miles south of Jacksonville. It was the first reported...
+> -- *[[AMassInshoreMovementOfFishesOn_16992]]*
+
+### Mentioned In
+- [[AMassInshoreMovementOfFishesOn_16992]]
 
 ## Ophidiiformes
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[ANewOphidioidFishGenusLucifuga_1970_05_27]]
+
+## Ophidonais Serpentina
+
+### Summary
+A naidid worm recorded from several British sites, including Oxwich Marsh and the Shropshire Union Canal. The source gives no further detail on its ecology.
+
+### Context
+> This is a 1963 identification guide (Freshwater Biological Association Scientific Publication No. 22) by [[Brinkhurst]] for all truly aquatic oligochaete worms recorded from Britain. It provides a [[Key To Families]], then species keys for the [[Aeolosomatidae]], [[Naididae]] and [[Tubificidae]],...
+> -- *[[AGuideForTheIdentificationOfBr_12942]]*
+
+### Mentioned In
+- [[AGuideForTheIdentificationOfBr_12942]]
 
 ## Ophiocara Porocephala
 <!-- fm: auto_enriched: true -->
@@ -4334,8 +6506,48 @@ A blind, depigmented cave-dwelling swamp eel of the family Synbranchidae. The so
 > This 1996 catalogue by Juan Jacobo Schmitter-Soto (El Colegio de la Frontera Sur, Unidad Chetumal) inventories the fishes of the continental waters of [[Quintana Roo]]: [[Cenotes]], lagoons, ponds, and the [[Río Hondo]] with its tributaries. It lists 125 species in 43 families, of which 86 species...
 > -- *[[CatalogoDeLosPecesContinentale_20569]]*
 
+> This document combines two papers from the *Journal of Natural History* (1984). The first, by K. E. Banister of the [[British Museum (Natural History)]], reports a hypogean (cave-dwelling) population of the cyprinid [[Garra Barreimiae]] from a deep cave in the [[Jabal Akhdar]] mountains of...
+> -- *[[ASubterraneanPopulationOfGarra_17313]]*
+
 ### Mentioned In
 - [[CatalogoDeLosPecesContinentale_20569]]
+- [[ASubterraneanPopulationOfGarra_17313]]
+
+## Ophryoxus gracilis
+
+### Summary
+Ophryoxus gracilis is a cladoceran species. The source treats it as a northern form, noting it has been recorded from Loch Ness.
+
+### Context
+> This is the second edition (1958) of the Freshwater Biological Association's *Scientific Publication No. 5*, a key to the British freshwater [[Cladocera]]. The original author, D. J. Scourfield, died in 1949, so J. P. Harding of the [[British Museum (Natural History)]] revised the work. The key...
+> -- *[[AKeyToTheBritishSpeciesOfFresh_11322]]*
+
+### Mentioned In
+- [[AKeyToTheBritishSpeciesOfFresh_11322]]
+
+## Ophrys Apifera
+
+### Summary
+A European orchid whose photograph appears in the article's opening section. That section is unrelated to fish and describes how these orchids are pollinated through deceptive mimicry of female wasps. The source gives no further detail about the species.
+
+### Context
+> This article, written by Ronald E. Watson, argues that the endemic freshwater fishes of the United States are disappearing at a rapid rate and that the causes are overwhelmingly tied to human activity. The main pressures identified are habitat drying from groundwater pumping and diversion, dam...
+> -- *[[EndangeredFreshwaterFishOfTheU_14937]]*
+
+### Mentioned In
+- [[EndangeredFreshwaterFishOfTheU_14937]]
+
+## Ophrys Holosericea
+
+### Summary
+A European orchid pictured in the article's opening section, which is unrelated to fish. The section describes orchids of this kind being pollinated by deceptive mimicry of female wasps. The source gives no further detail about this species.
+
+### Context
+> This article, written by Ronald E. Watson, argues that the endemic freshwater fishes of the United States are disappearing at a rapid rate and that the causes are overwhelmingly tied to human activity. The main pressures identified are habitat drying from groundwater pumping and diversion, dam...
+> -- *[[EndangeredFreshwaterFishOfTheU_14937]]*
+
+### Mentioned In
+- [[EndangeredFreshwaterFishOfTheU_14937]]
 
 ## Opinion Research Center 1949
 <!-- fm: auto_enriched: true -->
@@ -4369,6 +6581,66 @@ Opisthocoelous vertebrae have posterior faces concave and anterior faces convex.
 ### Mentioned In
 - [[OrderLepisostei_15047]]
 
+## Opistholernaea contorta
+
+### Summary
+Opistholernaea contorta is a copepod parasite described as new from the Niger system, reaching about 13 mm with a strongly contorted posterior trunk and a four-armed anchor. It was collected from Distichodus rostratus and D. brevipinnis at Konna and Mopti. The source notes variable thoracic torsion, with one specimen lacking it.
+
+### Context
+> This 1964 taxonomic paper by [[Geoffrey Fryer]] of the [[Freshwater Biological Association]] describes new crustacean parasites of African freshwater fishes from the [[Nile River]] and former Nile drainage, the [[Niger River]], and [[Lake Albert]]. It describes four new taxa, clarifies a group of...
+> -- *[[ParasiticCrustaceansOfAfricanF_18875]]*
+
+### Mentioned In
+- [[ParasiticCrustaceansOfAfricanF_18875]]
+
+## Opistholernaea Laterobrachialis
+
+### Summary
+A parasitic copepod previously known only from Lake Bangweulu. This paper records it from Lake Mweru on Tilapia macrochir, based on a single specimen whose anchor was longer and more pointed than the Bangweulu material.
+
+### Context
+> This systematic paper by [[Geoffrey Fryer]] reports parasitic crustaceans (Copepoda and Branchiura) recovered from African freshwater fishes. The material comes mainly from the Belgian expeditions to [[Lake Tanganyika]] (1945-1947) and to [[Lake Kivu]], [[Lake Edward]] and [[Lake Albert]]...
+> -- *[[CrustaceanParasitesOfAfricanFr_18876]]*
+
+### Mentioned In
+- [[CrustaceanParasitesOfAfricanFr_18876]]
+
+## Opistholernaea laterobrachialis nilotica
+
+### Summary
+Opistholernaea laterobrachialis nilotica is a copepod subspecies described from the Nile system, attaching to gill arches rather than the palate. It is recognised as a geographical subspecies of the Congo-system form, a decision the author calls somewhat subjective due to lack of biological data. Its host is Tilapia nilotica from the lower Nile.
+
+### Context
+> This 1964 taxonomic paper by [[Geoffrey Fryer]] of the [[Freshwater Biological Association]] describes new crustacean parasites of African freshwater fishes from the [[Nile River]] and former Nile drainage, the [[Niger River]], and [[Lake Albert]]. It describes four new taxa, clarifies a group of...
+> -- *[[ParasiticCrustaceansOfAfricanF_18875]]*
+
+### Mentioned In
+- [[ParasiticCrustaceansOfAfricanF_18875]]
+
+## Opistholernaea Longa
+
+### Summary
+A parasitic copepod first recorded from Lake Tanganyika, found on Lates in three specimens. Fryer follows the genus Opistholernaea rather than placing it in Lernaea.
+
+### Context
+> This systematic paper by [[Geoffrey Fryer]] reports parasitic crustaceans (Copepoda and Branchiura) recovered from African freshwater fishes. The material comes mainly from the Belgian expeditions to [[Lake Tanganyika]] (1945-1947) and to [[Lake Kivu]], [[Lake Edward]] and [[Lake Albert]]...
+> -- *[[CrustaceanParasitesOfAfricanFr_18876]]*
+
+### Mentioned In
+- [[CrustaceanParasitesOfAfricanFr_18876]]
+
+## Opisthomi
+
+### Summary
+A higher-teleost group that includes Mastacembelus pancelas, which has four upper branchiostegal rays. Hubbs states that the group fits the view of Boulenger and Regan that the Opisthomi are higher teleosts.
+
+### Context
+> This 1919 comparative anatomy paper by [[Carl L. Hubbs]], reprinted from the *Journal of Morphology* (Vol. 33, No. 1), consolidates evidence on the opercular series and branchiostegal rays across a wide range of fishes. Hubbs argues that these bones take one of two basic forms: a generalized type...
+> -- *[[AComparativeStudyOfTheBonesFor_19965]]*
+
+### Mentioned In
+- [[AComparativeStudyOfTheBonesFor_19965]]
+
 ## Opisthonema Spp
 <!-- fm: auto_enriched: true -->
 
@@ -4381,6 +6653,18 @@ Opisthocoelous vertebrae have posterior faces concave and anterior faces convex.
 
 ### Mentioned In
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
+
+## Opisthotic Bone
+
+### Summary
+A bone at the back of the braincase that is listed among the primitive features shared by Elopidae and Albulidae. The note also says that Megalops differs from Elops by having a bullate opisthotic.
+
+### Context
+> The document is a scanned 1904 Proceedings of the Zoological Society article in two parts. Part one describes the gill-rakers of the [[Spoonbill Sturgeon]] (*Polyodon spathula*), a filter-feeding structure, and gives six numbered conclusions on their structure and function. Part two is a detailed...
+> -- *[[OnTheCranialOsteologyOfTheFish_14946]]*
+
+### Mentioned In
+- [[OnTheCranialOsteologyOfTheFish_14946]]
 
 ## Oplegnathus fasciatus
 
@@ -4437,6 +6721,30 @@ Oplegnathus fasciatus is the striped beakperch, a species of the family Oplegnat
 - [[DevelopmentalRatesAndTolerance_12106]]
 - [[TheDevelopmentalRateOfTheGreen_14262]]
 
+## Opportunistic Species
+
+### Summary
+An opportunistic species is one that can invade and establish in communities where competition or barriers have been reduced, such as after local extirpations. Hocutt and Hambrick argue that the Piedmont darter shows these traits, having spread through New River since 1963 while being limited upstream by Claytor Lake Dam.
+
+### Context
+> Hocutt and Hambrick (1973) describe a natural hybrid between the [[Piedmont Darter]] (*Percina crassa roanoka*) and the [[Sharpnose Darter]] (*Percina oxyrhyncha*) from the upper [[Kanawha River]] ([[New River]]) system in Virginia. The single hybrid specimen was collected in 1971 at Radford. Its...
+> -- *[[HybridizationBetweenTheDarters_20434]]*
+
+### Mentioned In
+- [[HybridizationBetweenTheDarters_20434]]
+
+## Opsanus pardus
+
+### Summary
+The leopard toadfish. The note reports one 164 mm specimen from 35 to 40 feet depth, 14 miles SSE of St. Marks Light, in July 1955, and suggests it is probably more common offshore than collections show.
+
+### Context
+> This short faunal note by [[Ratpo W. Yerger]] of The Florida State University supplements an earlier checklist of the fishes of [[Alligator Harbor]] (Joseph and Yerger, 1956). It reports 18 species from 14 families, several of them new records for the harbor, for the surrounding Gulf waters, or for...
+> -- *[[AdditionalRecordsOfMarineFishe_20884]]*
+
+### Mentioned In
+- [[AdditionalRecordsOfMarineFishe_20884]]
+
 ## Opsanus tau
 
 ### Summary
@@ -4465,6 +6773,18 @@ Opthof and Leydesdorff are researchers who published work in 2010 advocating for
 ### Mentioned In
 - [[CaveatsForUsingStatisticalSign_2013]]
 
+## Optic Lobe
+
+### Summary
+The optic lobe is the midbrain region that processes visual information. In this study, clear-water sight-feeding Hybopsis have large optic lobes, while turbid-water fishes tend to have reduced ones, which the author links to their reliance on taste rather than sight.
+
+### Context
+> This doctoral dissertation (Oklahoma State University, 1966, by Billy Joe Davis) compares brain morphology, cutaneous and internal taste bud distribution, and habitat preferences across 21 nominal species of the North American cyprinid genus [[Hybopsis]]. Using 394 specimens, the study uses brain...
+> -- *[[BrainPatternsInFishesOfTheGenu_13962]]*
+
+### Mentioned In
+- [[BrainPatternsInFishesOfTheGenu_13962]]
+
 ## Optical Character Recognition
 
 ### Summary
@@ -4485,6 +6805,42 @@ Optical Character Recognition (OCR) is software that converts images of printed 
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[TurkeyCreekCoronadoNationalFor_18313]]
 
+## Optical Density
+
+### Summary
+Optical density is defined as D = log10(I0/It), and it is proportional to attenuation coefficient, concentration and depth. Westlake notes that optical densities are additive across water, solute and particle components. This lets pure-water absorption be subtracted to estimate the other contributions.
+
+### Context
+> This 1965 review by D. F. Westlake of the [[Freshwater Biological Association]] (River Laboratory, Wareham, Dorset) summarizes agreed practice for measuring radiation under water in ecological studies. It addresses terminology, units, optical density, instrument design, and the optical errors that...
+> -- *[[SomeProblemsInTheMeasurementOf_12175]]*
+
+### Mentioned In
+- [[SomeProblemsInTheMeasurementOf_12175]]
+
+## Optical Disk
+
+### Summary
+An optical disk is a high-capacity storage medium. Parker cites Light (1986) and his own estimates to argue that optical disks could hold detailed continental-scale digital databases, such as a whole-continent database for Africa on about 5 disks.
+
+### Context
+> This is a non-research essay by H. Dennison Parker of the [[Bureau of Land Management]] (BLM) and the Department of Fishery and Wildlife Biology, [[Colorado State University]]. It argues that a [[Geographic Information System]] (GIS) is best understood as an information technology, not a single...
+> -- *[[WhatIsAGeographicInformationSy_18431]]*
+
+### Mentioned In
+- [[WhatIsAGeographicInformationSy_18431]]
+
+## Optical Lever
+
+### Summary
+A recording device that projects reflected light from a small mirror onto a revolving drum. Saunders used it with the segment tambour to record pressure changes over time in the branchial cavities.
+
+### Context
+> This 1961 study by Richard L. Saunders, published in the [[Canadian Journal of Zoology]], examines how teleost fishes move water over their gills. The author developed a [[Cannulation Technique]] that measures hydrostatic pressure in the oral and opercular cavities without interfering with normal...
+> -- *[[TheIrrigationOfTheGillsInFishe_20530]]*
+
+### Mentioned In
+- [[TheIrrigationOfTheGillsInFishe_20530]]
+
 ## Optical Method
 
 ### Summary
@@ -4497,6 +6853,18 @@ The optical method is the second particle-sizing technique used in the study. It
 ### Mentioned In
 - [[TheEffectOfSuspendedMineralSol_16698]]
 
+## Optically Stimulated Luminescence
+
+### Summary
+Optically stimulated luminescence is a dating technique that measures the time since sand grains were last exposed to light, indicating when they were buried or deposited. In this source it was used to date dune migration, constraining Ferris dune movement to about 8.8–8.1 ka and 4.3–4.0 ka, and Nebraska Sand Hills activity to about 8–6 ka and 3–2 ka.
+
+### Context
+> This paleoclimate synthesis by Dean, Ahlbrandt, Anderson and Bradbury (*The Holocene* 6, 1996) reviews evidence for increased aridity and wind-driven dune activity across the Great Plains and Rocky Mountain region during the mid-Holocene (c. 8000 to 4000 yr BP). The central record is a continuously...
+> -- *[[RegionalAridityInNorthAmericaD_12739]]*
+
+### Mentioned In
+- [[RegionalAridityInNorthAmericaD_12739]]
+
 ## Optimal Foraging Theory
 <!-- fm: auto_enriched: true -->
 
@@ -4504,10 +6872,34 @@ The optical method is the second particle-sizing technique used in the study. It
 > This M.S. thesis in zoology (University of Maine at Orono, May 1982, by David C. Smith) examines the feeding ecology of the endemic [[Cichlasoma]] morphs of the [[Cuatro Ciénegas Basin]], Coahuila, Mexico. Field observations and gut analyses were conducted over three consecutive summers. The two...
 > -- *[[TrophicEcologyOfTheCichlidMorp_21141]]*
 
+> This 1980 study by [[Allen Keast]] (Queen's University) examines how a species-rich community of juvenile lake fishes in a [[Macrophyte Weedbed]] in [[Lake Opinicon]], Ontario, partitions food while growing rapidly. Food was not limiting: prey abundance peaked alongside plant growth in mid-July....
+> -- *[[DevelopmentOfDietarySpecializa_17906]]*
+
+> This study by [[Allen Keast]] (Department of Biology, Queen's University, Kingston, Ontario) examines how temperature controls feeding and growth in the [[Brown Bullhead]] (*[[Ictalurus Nebulosus]]*). Two age classes, year 0 and year 2 fish, were held for 8 weeks at six constant temperatures (5,...
+> -- *[[GrowthResponsesOfTheBrownBullh_17905]]*
+
+> This study by [[Kurt D. Fausch]] (1984, *Canadian Journal of Zoology*) develops a model of "potential profit," the net energy gain available to a stream salmonid at a fixed holding position, calculated as energy from drifting invertebrates minus the metabolic cost of swimming to hold station....
+> -- *[[ProfitableStreamPositionsForSa_16319]]*
+
 ### Mentioned In
 - [[FoodHabitsOfLakeTrou_17691]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
 - [[TrophicEcologyOfTheCichlidMorp_21141]]
+- [[DevelopmentOfDietarySpecializa_17906]]
+- [[GrowthResponsesOfTheBrownBullh_17905]]
+- [[ProfitableStreamPositionsForSa_16319]]
+
+## Optimal Sustained Yield
+
+### Summary
+The harvest level that a fish population can sustain over the long term, generally defined as the maximum catch that does not reduce future production. In this paper it is cited as a management goal that depends on knowing how many fish are present, along with the standing crop and the size of fish available for harvest.
+
+### Context
+> This 1956 paper by Gerald P. Cooper and Karl F. Lagler reviews methods for estimating the number of fish in a population, focusing on inland waters. It separates direct enumeration (actual counts) from indirect estimation, and tests two indirect approaches, the [[Delury Regression Method]] and...
+> -- *[[AppraisalOfMethodsOfFishPopula_17567]]*
+
+### Mentioned In
+- [[AppraisalOfMethodsOfFishPopula_17567]]
 
 ## Optimality Models
 
@@ -4564,6 +6956,58 @@ A riffle beetle genus with about five to six eastern species, common in middle a
 ### Mentioned In
 - [[TheOptomotorReactionOfSchoolin_11406]]
 
+## Optomotor Response
+
+### Summary
+A visually driven behavior in which a fish fixes on a stationary object, such as one on the stream bed or bank, and swims to hold its position relative to it. The article notes that together with rheotaxis it lets fish hold station in fast water.
+
+### Context
+> This is the first in a planned series by [[Antonios Pappantoniou]] on the behavior of [[North American Freshwater Fishes]], written for aquarists and drawing on the scientific literature and the author's own observations. The article argues that fish behavior is largely shaped by environment, with...
+> -- *[[TheBehaviorOfFishes_18420]]*
+
+> This short laboratory study by D. W. M. Herbert (Water Pollution Research Laboratory, Stevenage) reports an unexpected behaviour in [[Rainbow Trout]] (*Salmo gairdnerii*). Fish held in a circular current for months swam circuits of the tank in the **opposite** direction once the current was...
+> -- *[[ReversalOfDirectionOfSwimmingB_16693]]*
+
+### Mentioned In
+- [[TheBehaviorOfFishes_18420]]
+- [[ReversalOfDirectionOfSwimmingB_16693]]
+
+## Opuntia
+
+### Summary
+Opuntia is the prickly pear genus of cacti. The source lists several Opuntia species from the basin's bajadas, and describes Opuntia anteojoensis as locally common on gentle slopes.
+
+### Context
+> This is the third installment of a floristic survey of the vascular plants of the [[Cuatro Ciénegas Basin]] and surrounding ranges in [[Coahuila]], Mexico, by [[Donald J. Pinkava]] of the Department of Botany and Microbiology, Arizona State University. It annotates the families from Cactaceae...
+> -- *[[VegetationAndFloraOfTheBolsonO_11096]]*
+
+> This 1968 Utah Academy of Sciences paper by Raymond B. Farnsworth and Max W. Hammond reports the first observation of [[Root Nodules]] on *[[Artemisia Ludoviciana]]* (Compositae), adding a new genus and family to the list of [[Nonleguminous Nodulation]] plants. The nodules were found in Utah, and a...
+> -- *[[RootNodulesAndIsolationOfEndop_16313]]*
+
+> This paper (Martin and Sharrock, *American Antiquity*, 1964) reports the first systematic pollen analysis of prehistoric human and nonhuman feces from dry alcoves in the [[Glen Canyon]] region of southern Utah. Pollen was extracted and counted from 54 fecal samples across 14 archaeological sites....
+> -- *[[PollenAnalysisOfPrehistoricHum_17069]]*
+
+> This 1970 publication by Donald J. Pinkava and Elinor Lehto of the [[Arizona State University Herbarium]] is a semi-technical dichotomous key for identifying the woody plants commonly cultivated in the arid [[Salt River Valley]] of Central Arizona. Most of these plants are non-native cultivars from...
+> -- *[[AVegatativeKeyToTheCultivatedW_11147]]*
+
+### Mentioned In
+- [[VegetationAndFloraOfTheBolsonO_11096]]
+- [[RootNodulesAndIsolationOfEndop_16313]]
+- [[PollenAnalysisOfPrehistoricHum_17069]]
+- [[AVegatativeKeyToTheCultivatedW_11147]]
+
+## Opuntia anteojoensis
+
+### Summary
+Opuntia anteojoensis is a prickly pear described by Pinkava in this survey. It is a locally common species on gentle bajada slopes, and its type is cited as LL-TEX, about 21 km west of Cuatro Ciénegas.
+
+### Context
+> This is the third installment of a floristic survey of the vascular plants of the [[Cuatro Ciénegas Basin]] and surrounding ranges in [[Coahuila]], Mexico, by [[Donald J. Pinkava]] of the Department of Botany and Microbiology, Arizona State University. It annotates the families from Cactaceae...
+> -- *[[VegetationAndFloraOfTheBolsonO_11096]]*
+
+### Mentioned In
+- [[VegetationAndFloraOfTheBolsonO_11096]]
+
 ## Opuszynski & Leszczynski 1967
 <!-- fm: auto_enriched: true -->
 
@@ -4577,8 +7021,12 @@ A riffle beetle genus with about five to six eastern species, common in middle a
 > - **Locality**: [[Aravaipa Creek]] and associated tributaries/washes in the [[Gila River Basin]], Pinal/Graham County region of Arizona, with stops referenced near [[Oracle]], [[Klondyke]], [[Winkelman]], and a "Colerman Ranch" locality. - **Substrate**: Gravel and sand mixtures dominate, consist...
 > -- *[[FieldTripNotes_12290]]*
 
+> This paper, by D. W. Rhind and N. P. A. Green of [[Birkbeck College]], University of London, reports a study financed by the [[Natural Environment Research Council]] (NERC) that ran from 1984 for about 18 months. Its aim was to design a unified [[Geographic Information System]] (GIS) for a...
+> -- *[[DesignOfAGeographicalInformati_16829]]*
+
 ### Mentioned In
 - [[FieldTripNotes_12290]]
+- [[DesignOfAGeographicalInformati_16829]]
 
 ## Oracle Granite
 
@@ -4592,9 +7040,13 @@ A Precambrian-Y granite that underlies much of the Tortolita Mountains quadrangl
 > This U.S. Geological Survey bulletin by L. A. Heindl revises the Cenozoic history of the lower [[San Pedro River]] valley near Mammoth, Arizona. Mapping of discrete alluvial units led the author to replace the earlier single-formation view of the [[Gila Group]] with a sequence of named units. The...
 > -- *[[CenozoicGeologyInTheMammothAre_16601]]*
 
+> Keith and co-authors integrate field mapping, Rb-Sr whole-rock and mineral isochrons, K-Ar, fission-track and U-Th-Pb dating to produce a new synthesis of the [[Santa Catalina–Rincon-Tortolita Crystalline Complex]]. The crystalline core is interpreted as a composite batholith deformed by variable...
+> -- *[[EvidenceForMultipleIntrusionAn_17916]]*
+
 ### Mentioned In
 - [[RadiometricAndChemicalDataForT_17317]]
 - [[CenozoicGeologyInTheMammothAre_16601]]
+- [[EvidenceForMultipleIntrusionAn_17916]]
 
 ## Oracle, Arizona
 <!-- fm: auto_enriched: true -->
@@ -4606,6 +7058,18 @@ A Precambrian-Y granite that underlies much of the Tortolita Mountains quadrangl
 ### Mentioned In
 - [[FieldTripNotes_12290]]
 
+## Oral Valves
+
+### Summary
+Membranous valves in the mouth, either maxillary or mandibular, that prevent water from being pushed back out of the mouth during the oral pumping phase. They are part of the branchial pump mechanism described in this source.
+
+### Context
+> This 1961 study by Richard L. Saunders, published in the [[Canadian Journal of Zoology]], examines how teleost fishes move water over their gills. The author developed a [[Cannulation Technique]] that measures hydrostatic pressure in the oral and opercular cavities without interfering with normal...
+> -- *[[TheIrrigationOfTheGillsInFishe_20530]]*
+
+### Mentioned In
+- [[TheIrrigationOfTheGillsInFishe_20530]]
+
 ## Orange Chromide
 <!-- fm: auto_enriched: true -->
 
@@ -4613,8 +7077,12 @@ A Precambrian-Y granite that underlies much of the Tortolita Mountains quadrangl
 > This 1963 study by G.W. Barlow investigates the role of body size in courtship and mate selection dynamics of the [[Orange Chromide]] (*Etroplus maculatus*), a cichlid species exhibiting reversed sexual size dimorphism potential relative to other cichlids. In typical pairs, males are ~10% longer ...
 > -- *[[RoleOfSizeInCourtshipOfTheOran_15588]]*
 
+> Barlow and Green (University of California, Berkeley) tested courtship behavior in paired [[Blackchin Mouthbreeder]] (*Tilapia melanotheron*, family [[Cichlidae]]) in a laboratory arena. The study examined two problems: whether courtship follows the [[Appeasement Hypothesis]] or the [[Arousal...
+> -- *[[TheProblemsOfAppeasementAndOfS_15596]]*
+
 ### Mentioned In
 - [[RoleOfSizeInCourtshipOfTheOran_15588]]
+- [[TheProblemsOfAppeasementAndOfS_15596]]
 
 ## Orange County
 
@@ -4628,9 +7096,13 @@ Orange County is a county in southern California where Pumpkinseed were reported
 > This zooarchaeological report documents 41 fish remains recovered from two [[Gabrielino]] archaeological sites (Ora-118A and Ora-119A, B) at [[Irvine]], [[Orange County]], [[California]], excavated in spring 1963. The collection represents seven edible fish species from six families, all consistent...
 > -- *[[FishRemainsFromArchaeologicalS_18761]]*
 
+> This note reports the first melanistic female [[Gambusia Affinis Holbrooki]] (Eastern Mosquitofish) in the scientific literature. The fish was collected on 26 July 1983 from a roadside ditch near Oviedo, Seminole Co., [[Florida]]. Melanism had previously been documented only in males. A year-long...
+> -- *[[AMelanisticFemaleMosquitofishG_21232]]*
+
 ### Mentioned In
 - [[TheStatusOfThePumpkinseedLepom_12862]]
 - [[FishRemainsFromArchaeologicalS_18761]]
+- [[AMelanisticFemaleMosquitofishG_21232]]
 
 ## Orange County Flood Control Channels
 
@@ -4644,6 +7116,30 @@ Flood control channels in Orange County, California, where the letter reports th
 ### Mentioned In
 - [[RevisionOfCaliforniaInlandFish_15443]]
 
+## Orange River
+
+### Summary
+A major river in southern Africa. The source cites a historical muddy flood on it as an example of high natural erosion in South African rivers.
+
+### Context
+> This journal article by F. M. Chutter, from the [[Limnological Research Group]] at the National Institute for Water Research (Grahamstown, South Africa), examines how [[Silt and Sand]] alter the invertebrate fauna of streams and rivers. Most earlier work dealt with complete smothering of habitats....
+> -- *[[TheEffectsOfSiltAndSandOnTheIn_16158]]*
+
+### Mentioned In
+- [[TheEffectsOfSiltAndSandOnTheIn_16158]]
+
+## Orange River Project
+
+### Summary
+The water-transfer scheme of which the Orange-Fish Tunnel was a part. The tunnel opened in May 1975 and moved water from the Orange River into the Great Fish River catchment, which introduced fish into the Fish system.
+
+### Context
+> This paper presents a primer on colonisation theory and applies it to invasive fishes in the [[Great Fish River]], South Africa. It aims to (a) characterise successful invader species in aquatic systems and (b) identify habitat properties that make a system susceptible to invasion. The authors also...
+> -- *[[ColonisationTheoryAndInvasiveB_20200]]*
+
+### Mentioned In
+- [[ColonisationTheoryAndInvasiveB_20200]]
+
 ## Orange Roughy
 
 ### Summary
@@ -4653,8 +7149,28 @@ A long-lived, slow-growing deep-sea fish that is vulnerable to overfishing. The 
 > This FAO Fisheries Circular (No. 710, Revision 8, Part 1, Rome, 1992, 114 p.) reviews the state of the world's marine fish stocks, based mainly on [[FAO Yearbook Statistics]] through 1990. It covers world catch trends, sixteen regional reviews by FAO statistical area, special sections on...
 > -- *[[ReviewOfTheStateOfWorldFishery_16311]]*
 
+> This Worldwatch Paper (No. 120, July 1994, by [[Peter Weber]]) argues that world marine fisheries have reached or passed their biological and economic limits. Global marine catch peaked in 1989 (about 82 million tons) and has since stagnated. Overfishing is identified as the primary cause of...
+> -- *[[NetLossFishJobsAndTheMarineEnv_19658]]*
+
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16311]]
+- [[NetLossFishJobsAndTheMarineEnv_19658]]
+
+## Orange-Fish Tunnel
+
+### Summary
+An intercatchment water transfer tunnel in southern Africa that the source identifies as one of the infrastructure features that facilitates the transfer of aquatic animals between river systems.
+
+### Context
+> This 1985 report, compiled by M N Bruton and S V Merron of the [[J L B Smith Institute of Ichthyology]] for the [[Committee for Nature Conservation Research]] under the [[National Programme for Ecosystem Research]], provides a general introduction, a checklist and an annotated bibliography of alien...
+> -- *[[AlienAndTranslocatedAquaticAni_13858]]*
+
+> This paper presents a primer on colonisation theory and applies it to invasive fishes in the [[Great Fish River]], South Africa. It aims to (a) characterise successful invader species in aquatic systems and (b) identify habitat properties that make a system susceptible to invasion. The authors also...
+> -- *[[ColonisationTheoryAndInvasiveB_20200]]*
+
+### Mentioned In
+- [[AlienAndTranslocatedAquaticAni_13858]]
+- [[ColonisationTheoryAndInvasiveB_20200]]
 
 ## Orange-Mouth Corvina
 
@@ -4678,11 +7194,27 @@ The Orange-Spotted Sunfish (Lepomis humilis) is a small, colorful North American
 > This 1947 educational bulletin by John Breukelman provides a practical field guide for identifying game fish, rough fish, and common bait minnows in [[Kansas]] waters. Published by the Kansas Forestry, Fish and Game Commission, the guide uses simplified terminology and illustrated keys to help...
 > -- *[[WhatHaveICaught_12929]]*
 
+> This 1963 study by Erwin E. Klaas, published in the *Transactions of the Kansas Academy of Science*, examines infections of farm-pond fishes by the yellow grub, the metacercarial stage of the trematode [[Clinostomum Marginatum]]. Anglers in eastern Kansas often reported "wormy" fish from farm...
+> -- *[[EcologyOfTheTrematodeClinostom_12561]]*
+
+> This note documents the first confirmed occurrence of the [[Warmouth]] ([[Lepomis Gulosus]]), a warm-adapted [[Centrarchidae|centrarchid]] sunfish, in Canada. Specimens were collected from [[Lake Erie]] at [[Rondeau Provincial Park]] from 1966 to 1968 and from [[Lake Pond]] in [[Point Pelee...
+> -- *[[WarmouthLepomisGulosusAFreshwa_18071]]*
+
+> This 1957 study by Andreas A. Paloumpis (Iowa State College, Ames) examines how a severe [[Drought]] in 1955 affected the fish and macroscopic [[Bottom Fauna]] of two small [[Oxbow Pond]]s on [[Squaw Creek]] in [[Boone County Iowa]]. The south pond was rotenone-treated in July 1955 to remove fish...
+> -- *[[TheEffectsOfDroughtConditionsO_18408]]*
+
+> Ossian (1973) revises the fossil fish fauna of the [[Ree Heights]] site in [[Hand County]], [[South Dakota]]. The lake beds, long thought to be [[Oligocene]], are shown to be [[Pleistocene]] in age, most likely [[Wisconsinan Glaciation]] deposits in the [[Cary Substage]]. The fauna comprises 521...
+> -- *[[FishesOfAPleistoceneLakeInSout_18353]]*
+
 ### Mentioned In
 - [[ATenYearCreelCensusOnLakePawhu_1951]]
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
 - [[ToxicFreshWaterAlgae_14366]]
 - [[WhatHaveICaught_12929]]
+- [[EcologyOfTheTrematodeClinostom_12561]]
+- [[WarmouthLepomisGulosusAFreshwa_18071]]
+- [[TheEffectsOfDroughtConditionsO_18408]]
+- [[FishesOfAPleistoceneLakeInSout_18353]]
 
 ## Orange-Throated Darter
 <!-- fm: auto_enriched: true -->
@@ -4818,6 +7350,24 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 > This Texas Parks and Wildlife Department job completion report (Federal Aid Project F-7-R-12, Job D-3, dated August 9, 1965) examines why [[Buffalo Springs Lake]], a freshwater reservoir near Lubbock, supports a poor [[Game Fish]] fishery. The study covers 1964 and combines creel census, gill...
 > -- *[[FisheriesInvestigationsAndSurv_14936]]*
 
+> This paper by [[Kenneth D. Carlander]] reconstructs the fish population of Lake LaVerne, a small eutrophic campus lake in Ames, Iowa, from 1937 to 1977. The data come from fishery management class records and other irregularly collected information, gathered as teaching exercises rather than formal...
+> -- *[[HistoryOfTheFishPopulationOfLa_17404]]*
+
+> This 1956 survey, published in the *Transactions of the Kansas Academy of Science*, documents the fish assemblage of [[El Dorado City Lake]], a 3,000 acre-foot impoundment in [[Butler County]], [[Kansas]]. Following a long decline in angling success, the lake was partly drained in 1954, its...
+> -- *[[FishesOfElDoradoCityLakeButler_19274]]*
+
+> This 1956 survey by W. L. Minckley (Kansas State College, Manhattan) documents the fish community of a 900-yard reach of [[Deep Creek]] around [[Pillsbury Crossing]], a tributary of the [[Kansas River]]. Sampling ran from February 21 to April 27, 1956, using nine gear types. Thirteen species and...
+> -- *[[AFishSurveyOfThePillsburyCross_18547]]*
+
+> This 1960 paper by Niles F. Stockinger and Horace A. Hays, published in the *Transactions of the Kansas Academy of Science* (Vol. 63, No. 1), reports the first study of plankton, benthos and fish in acid strip-mine water in southeastern Kansas. Three [[Strip-Mine Lakes]] with different pH levels...
+> -- *[[PlanktonBenthosAndFishInThreeS_14345]]*
+
+> This 1950 study by Frank Bernard Cross, published in *The American Midland Naturalist*, compares a 1947–48 fish survey of [[Stillwater Creek]] with an earlier 1938 survey by Moore and Mizelle. Two changes occurred between surveys: construction of [[Lake Carl Blackwell]] (a 3,300-acre flood-control...
+> -- *[[EffectsOfSewageAndOfAHeadwater_18027]]*
+
+> This 1959 survey by W. L. Minckley, published by the [[University Of Kansas Museum Of Natural History]], documents the fish fauna and angling success of the [[Big Blue River]] Basin in northeastern Kansas. The work was done from March 30, 1957, to August 9, 1958, before the [[Tuttle Creek Dam]]...
+> -- *[[FishesOfTheBigBlueRiverBasinKa_18551]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[DistributionHabitatAndAbundanc_1959]]
@@ -4833,6 +7383,12 @@ The orangespotted sunfish (Lepomis humilis) is a small centrarchid species commo
 - [[AverageGrowthRatesAndLengthwei_19941]]
 - [[EcologicalFactorsAffectingDist_16042]]
 - [[FisheriesInvestigationsAndSurv_14936]]
+- [[HistoryOfTheFishPopulationOfLa_17404]]
+- [[FishesOfElDoradoCityLakeButler_19274]]
+- [[AFishSurveyOfThePillsburyCross_18547]]
+- [[PlanktonBenthosAndFishInThreeS_14345]]
+- [[EffectsOfSewageAndOfAHeadwater_18027]]
+- [[FishesOfTheBigBlueRiverBasinKa_18551]]
 
 ## Orangethroat Darter
 <!-- fm: auto_enriched: true -->
@@ -4871,6 +7427,12 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 > This 1968 monograph by Donald A. Distler (University of Kansas Science Bulletin, vol. 48, no. 5, pp. 143–208) revises the [[Orangethroat Darter]], *Etheostoma spectabile* (Agassiz), a small bottom-dwelling percid. It combines range mapping, morphometric and meristic variation, laboratory breeding...
 > -- *[[DistributionAndVariationOfEthe_19031]]*
 
+> This study compares fish collections made in the upper [[Neosho River]] System of Kansas in 1952 and 1967. The authors report a rapid deterioration of the fish fauna over the 15-year interval. Losses were greatest in the mainstream of the [[Cottonwood River]] and Neosho River, where numerous fish...
+> -- *[[QualitativeChangesInTheFishfau_18040]]*
+
+> This 1955 study by Allan D. Linder, prepared under the direction of [[George A. Moore]], provides the first annotated checklist of the fishes of the [[Blue River]] in south-central Oklahoma and describes two percid hybrid combinations. The annotated list records 49 species in 9 families and 32...
+> -- *[[TheFishesOfBlueRiverInOklahoma_20334]]*
+
 ### Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 - [[DurationOfSpermViabilityAsAFac_14210]]
@@ -4884,6 +7446,20 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 - [[TheLifeHistoryOfTheSloughDarte_12872]]
 - [[DistributionStatusAndLifeHisto_11159]]
 - [[DistributionAndVariationOfEthe_19031]]
+- [[QualitativeChangesInTheFishfau_18040]]
+- [[TheFishesOfBlueRiverInOklahoma_20334]]
+
+## Orangethroated Darter
+
+### Summary
+A small percid darter (Etheostoma spectabile) found in Deep Creek. Minckley noted that it moved onto riffles in late March, possibly linked to spawning, and unlike Johnny Darter it stayed on riffles rather than returning to pool eddies.
+
+### Context
+> This 1956 survey by W. L. Minckley (Kansas State College, Manhattan) documents the fish community of a 900-yard reach of [[Deep Creek]] around [[Pillsbury Crossing]], a tributary of the [[Kansas River]]. Sampling ran from February 21 to April 27, 1956, using nine gear types. Thirteen species and...
+> -- *[[AFishSurveyOfThePillsburyCross_18547]]*
+
+### Mentioned In
+- [[AFishSurveyOfThePillsburyCross_18547]]
 
 ## Orara River
 <!-- fm: auto_enriched: true -->
@@ -4963,6 +7539,30 @@ Orchelimum fidicinum is a grasshopper species representing terrestrial macroinve
 ### Mentioned In
 - [[CalorificEquivalentsForStudies_18098]]
 
+## Orchestia
+
+### Summary
+Orchestia is a genus of amphipods keyed in the source, with Orchestia bottae as the species discussed. These amphipods live on land margins rather than in open water, and the source covers the genus within the Amphipoda section of the key.
+
+### Context
+> This Freshwater Biological Association publication (Scientific Publication No. 19, 1960) is a taxonomic key to the British Malacostraca that live in fresh water. Its authors are [[Hynes]], [[Macan]] and Williams, working with several contributors. The key is restricted to species known to breed and...
+> -- *[[AKeyToTheBritishSpeciesSpecies_14576]]*
+
+### Mentioned In
+- [[AKeyToTheBritishSpeciesSpecies_14576]]
+
+## Orchestia Bottae
+
+### Summary
+Orchestia bottae is an amphipod that lives under stones just above the water's edge on river and canal banks. The source notes that it was first taken in England in 1942, and it is included in the key's amphipod section and distribution maps.
+
+### Context
+> This Freshwater Biological Association publication (Scientific Publication No. 19, 1960) is a taxonomic key to the British Malacostraca that live in fresh water. Its authors are [[Hynes]], [[Macan]] and Williams, working with several contributors. The key is restricted to species known to breed and...
+> -- *[[AKeyToTheBritishSpeciesSpecies_14576]]*
+
+### Mentioned In
+- [[AKeyToTheBritishSpeciesSpecies_14576]]
+
 ## Orchestia grillus
 
 ### Summary
@@ -4997,10 +7597,14 @@ Orchestia uhleri is an amphipod species that co-occurs with Corophium aquafuscum
 > This document is a draft Mexican Official Standard (Norma Oficial Mexicana NOM-CRN-001-ECOL/1993) issued by the National Institute of Ecology (Instituto Nacional de Ecología) establishing comprehensive lists of terrestrial and aquatic flora and fauna species and subspecies classified as endangered...
 > -- *[[DraftOfMexicosNewEndangeredSpe_11644]]*
 
+> This document is the official Mexican standard NOM-059-ECOL-1994, published in the Diario Oficial de la Federación on 16 May 1994 and issued by the Secretaría de Desarrollo Social through the [[Instituto Nacional de Ecología]]. It determines which wild terrestrial and aquatic species and subspecies...
+> -- *[[NormaOficialMexicanaQueDetermi_11400]]*
+
 ### Mentioned In
 - [[SuggestedModificationsOfTheSal_1997]]
 - [[PartEndangeredAndThreatenedWil_11585]]
 - [[DraftOfMexicosNewEndangeredSpe_11644]]
+- [[NormaOficialMexicanaQueDetermi_11400]]
 
 ## Orchonectes
 
@@ -5013,6 +7617,18 @@ Orchonectes is a genus of exotic crayfish that has been introduced to Valle de C
 
 ### Mentioned In
 - [[ProgramaDeAccionEmergenteParaE_19472]]
+
+## Orchopeas Howardii
+
+### Summary
+Orchopeas howardii howardii is a flea associated with the eastern gray squirrel and Virginia opossum. In the flea note, females had significantly more pronotal comb spines than males and were more numerous in field collections.
+
+### Context
+> This document contains two short scientific notes. The first, the main item, reports a year-long study (May 1973 to April 1974) of the benthic fauna of a single riffle in [[Squirrel Creek]], a foothill stream draining the [[Sierra Nevada]] in California. Autumn and winter storms caused repeated...
+> -- *[[TheEffectsOfWashoutInASierraFo_18941]]*
+
+### Mentioned In
+- [[TheEffectsOfWashoutInASierraFo_18941]]
 
 ## Orconectes
 <!-- fm: auto_enriched: true -->
@@ -5033,6 +7649,9 @@ Orchonectes is a genus of exotic crayfish that has been introduced to Valle de C
 > This monograph-style study by Austin B. Williams revises the freshwater crayfish fauna of the mountainous Ozark Plateaus and Ouachita Provinces of [[Missouri]], [[Arkansas]], [[Oklahoma]] and southeastern [[Kansas]]. The region holds 31 known species and subspecies in three genera of the subfamily...
 > -- *[[SpeciationAndDistributionOfThe_12069]]*
 
+> This paper describes the previously unknown first-form (form I) male of the crawfish [[Orconectes Bisectus]], a species known until then only from the [[Rhoades Holotype]] and a unique female [[Annulus Ventralis]]. Form I males are needed for reliable identification and for judging relationships,...
+> -- *[[TheFirstformMaleOfOrconectesBi_18691]]*
+
 ### Mentioned In
 - [[ANewFaxonellaFromNortheastLoui_1968_12_30]]
 - [[ZurTagesperiodikVonNiphargusAq_15503]]
@@ -5040,6 +7659,7 @@ Orchonectes is a genus of exotic crayfish that has been introduced to Valle de C
 - [[ANewCrayfishOfTheGenusFallicam_20420]]
 - [[NewCrayfishesOfTheGenusCambaru_20415]]
 - [[SpeciationAndDistributionOfThe_12069]]
+- [[TheFirstformMaleOfOrconectesBi_18691]]
 
 ## Orconectes Australis
 <!-- fm: auto_enriched: true -->
@@ -5050,6 +7670,18 @@ Orchonectes is a genus of exotic crayfish that has been introduced to Valle de C
 
 ### Mentioned In
 - [[BiogeographyOfTroglobites_15604]]
+
+## Orconectes Bisectus
+
+### Summary
+Orconectes bisectus, the Kentucky crawfish, is a freshwater crayfish of the family Cambaridae known from creeks in Crittenden County, western Kentucky. This source describes its previously unknown first-form male and moves the species to the Limosus Section of the genus Orconectes. The species was previously recognised mainly from its female annulus ventralis.
+
+### Context
+> This paper describes the previously unknown first-form (form I) male of the crawfish [[Orconectes Bisectus]], a species known until then only from the [[Rhoades Holotype]] and a unique female [[Annulus Ventralis]]. Form I males are needed for reliable identification and for judging relationships,...
+> -- *[[TheFirstformMaleOfOrconectesBi_18691]]*
+
+### Mentioned In
+- [[TheFirstformMaleOfOrconectesBi_18691]]
 
 ## Orconectes Causeyi
 
@@ -5099,11 +7731,64 @@ Orconectes causeyi, Causey's Crayfish, is a large, omnivorous freshwater crayfis
 ### Mentioned In
 - [[ThreeNewCrawfishesRelatedToOrc_1972_02_29]]
 
+## Orconectes Immunis
+
+### Summary
+Orconectes immunis, the Rusty Crayfish, is a freshwater crayfish in the family Cambaridae. This study found it occupied temporary roadside ditches in the Wakarusa River valley, where it tolerated high temperatures and low oxygen, and it was described as a burrower and chimney-builder.
+
+### Context
+> Wiens and Armitage (1961) compared the oxygen consumption of two freshwater crayfishes, [[Orconectes Immunis]] and [[Orconectes Nais]], across four temperatures (16°, 24°, 30°, 35°C) and four oxygen saturation levels (full, one-half, one-quarter, one-eighth). The work was motivated by the local...
+> -- *[[TheOxygenConsumptionOfTheCrayf_12211]]*
+
+### Mentioned In
+- [[TheOxygenConsumptionOfTheCrayf_12211]]
+
+## Orconectes Indianensis
+
+### Summary
+Orconectes indianensis is a crayfish species that the source compares with O. bisectus. The authors state that the tuberosities of the finger are similar to those of O. indianensis, which is one of the morphological resemblances used in discussing relationships.
+
+### Context
+> This paper describes the previously unknown first-form (form I) male of the crawfish [[Orconectes Bisectus]], a species known until then only from the [[Rhoades Holotype]] and a unique female [[Annulus Ventralis]]. Form I males are needed for reliable identification and for judging relationships,...
+> -- *[[TheFirstformMaleOfOrconectesBi_18691]]*
+
+### Mentioned In
+- [[TheFirstformMaleOfOrconectesBi_18691]]
+
+## Orconectes Lancifer
+
+### Summary
+Orconectes lancifer is a crayfish species that the source identifies as closely related to O. bisectus. The authors note that the flattened central projection of the O. bisectus pleopod is more like that of O. lancifer, and judge the relationship closer than Ortmann (1905) had indicated.
+
+### Context
+> This paper describes the previously unknown first-form (form I) male of the crawfish [[Orconectes Bisectus]], a species known until then only from the [[Rhoades Holotype]] and a unique female [[Annulus Ventralis]]. Form I males are needed for reliable identification and for judging relationships,...
+> -- *[[TheFirstformMaleOfOrconectesBi_18691]]*
+
+### Mentioned In
+- [[TheFirstformMaleOfOrconectesBi_18691]]
+
 ## Orconectes Luteus
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This note reports new distributional records for two crayfishes, [[Orconectes Luteus]] and [[Orconectes Neglectus Neglectus]], from collections made in 1960 and 1961 in Missouri, Kansas, and Nebraska. The authors document O. luteus north of the Osage River system, where it had not previously been...
+> -- *[[NewDistributionalRecordsForTwo_20146]]*
+
 ### Mentioned In
 - [[NewDistributionalRecordsForThr_1959]]
+- [[NewDistributionalRecordsForTwo_20146]]
+
+## Orconectes Nais
+
+### Summary
+Orconectes nais, the Nais Crayfish, is a freshwater crayfish in the family Cambaridae. In this study it lived in permanent ponds, lakes and running streams in Douglas County, Kansas, and showed a weaker ability than O. immunis to regulate its metabolism under combined high temperature and low oxygen.
+
+### Context
+> Wiens and Armitage (1961) compared the oxygen consumption of two freshwater crayfishes, [[Orconectes Immunis]] and [[Orconectes Nais]], across four temperatures (16°, 24°, 30°, 35°C) and four oxygen saturation levels (full, one-half, one-quarter, one-eighth). The work was motivated by the local...
+> -- *[[TheOxygenConsumptionOfTheCrayf_12211]]*
+
+### Mentioned In
+- [[TheOxygenConsumptionOfTheCrayf_12211]]
 
 ## Orconectes Neglectus
 <!-- fm: auto_enriched: true -->
@@ -5120,8 +7805,12 @@ Orconectes neglectus neglectus is an epigean (surface-dwelling) crayfish species
 > This paper describes *[[Cambarus (Jugicambarus) tartarus]]*, a new troglobitic (cave-dwelling) crayfish species from northeastern [[Oklahoma]]. Discovered by Jeffrey H. Black in the [[Stansberry-January Cave System]], this species represents the fourth member of the subgenus *Jugicambarus* known to...
 > -- *[[ANewTroglobiticCrayfishFromOkl_20419]]*
 
+> This note reports new distributional records for two crayfishes, [[Orconectes Luteus]] and [[Orconectes Neglectus Neglectus]], from collections made in 1960 and 1961 in Missouri, Kansas, and Nebraska. The authors document O. luteus north of the Osage River system, where it had not previously been...
+> -- *[[NewDistributionalRecordsForTwo_20146]]*
+
 ### Mentioned In
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
+- [[NewDistributionalRecordsForTwo_20146]]
 
 ## Orconectes Ozarkae
 <!-- fm: auto_enriched: true -->
@@ -5143,8 +7832,12 @@ Orconectes neglectus neglectus is an epigean (surface-dwelling) crayfish species
 > - **Evolutionary hypothesis**: *O. perfectus* is proposed as morphologically representative of the probable ancestral stock leading to *O. difficilis hathawayi*, based on near-identical gonopod morphology/meristics but retention of a more "primitive" chela and annulus ventralis structure. - Despi...
 > -- *[[ThreeNewCrawfishesRelatedToOrc_1972_02_29]]*
 
+> Metcalf and Distler report the first Kansas records of the crayfish [[Orconectes Palmeri]] subspecies *longimanus*, collected from two western tributaries of the [[Big Caney River]] (Verdigris River System) in Cowley County between October 1961 and August 1962. The authors document morphology,...
+> -- *[[TheCrayfishOrconectesPalmeriLo_20144]]*
+
 ### Mentioned In
 - [[ThreeNewCrawfishesRelatedToOrc_1972_02_29]]
+- [[TheCrayfishOrconectesPalmeriLo_20144]]
 
 ## Orconectes Pellucidus
 <!-- fm: auto_enriched: true -->
@@ -5175,14 +7868,39 @@ A crayfish subspecies that hosted Attheyella pilosa at Doe Run, Kentucky. The st
 > This 1968 paper in the *Proceedings of the Biological Society of Washington* examines two harpacticoid copepods of the genus [[Attheyella]], [[Attheyella Pilosa]] and [[Attheyella Carolinensis]], which live on [[Crayfish]] hosts in the eastern United States. The authors redescribe both species,...
 > -- *[[NotesOnTheHarpacticoidCopepods_17754]]*
 
+> This study by [[Ruperth Prins]] compares the ecology and life histories of two freshwater crayfishes, [[Orconectes Rusticus Rusticus]] and [[Cambarus Tenebrosus]], in [[Doe Run]], a torrent spring stream in Meade County, Kentucky. Fieldwork ran from September 1962 through September 1964 at four...
+> -- *[[ComparativeEcologyOfTheCrayfis_18689]]*
+
+> This 1965 final report from the University of Louisville, prepared under [[U.S. Atomic Energy Commission]] Contract No. AT-(40-1)-2595, documents the accumulation of [[Gross Beta Radioactivity]] from [[Fallout]] by the biota of [[Doe Run]], a spring-fed limestone stream in [[Meade County]],...
+> -- *[[ARadioecologicalStudyOfTheBiot_12454]]*
+
 ### Mentioned In
 - [[NotesOnTheHarpacticoidCopepods_17754]]
+- [[ComparativeEcologyOfTheCrayfis_18689]]
+- [[ARadioecologicalStudyOfTheBiot_12454]]
 
 ## Orconectes Shoupi
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This paper describes the previously unknown first-form (form I) male of the crawfish [[Orconectes Bisectus]], a species known until then only from the [[Rhoades Holotype]] and a unique female [[Annulus Ventralis]]. Form I males are needed for reliable identification and for judging relationships,...
+> -- *[[TheFirstformMaleOfOrconectesBi_18691]]*
+
 ### Mentioned In
 - [[ThreeNewCrawfishesRelatedToOrc_1972_02_29]]
+- [[TheFirstformMaleOfOrconectesBi_18691]]
+
+## Orconectes Sloani
+
+### Summary
+Orconectes sloani is a crayfish species related to O. bisectus. The source states that the first pleopod of the form I male of O. bisectus resembles that of O. sloani, although the central projection is more flattened in O. bisectus.
+
+### Context
+> This paper describes the previously unknown first-form (form I) male of the crawfish [[Orconectes Bisectus]], a species known until then only from the [[Rhoades Holotype]] and a unique female [[Annulus Ventralis]]. Form I males are needed for reliable identification and for judging relationships,...
+> -- *[[TheFirstformMaleOfOrconectesBi_18691]]*
+
+### Mentioned In
+- [[TheFirstformMaleOfOrconectesBi_18691]]
 
 ## Orconectes Virilis
 <!-- fm: auto_enriched: true -->
@@ -5203,10 +7921,18 @@ A crayfish subspecies that hosted Attheyella pilosa at Doe Run, Kentucky. The st
 > This revision by J. A. Riegel (University of California, Davis) presents the first comprehensive account of California's crayfishes. It recognizes five valid species in three genera and two subfamilies, and it synonymizes [[Pacifastacus Trowbridgi]] with [[Pacifastacus Leniusculus]]. Only...
 > -- *[[TheSystematicsAndDistributionO_14952]]*
 
+> This 1980 survey of the [[New River]] drainage, published in the Chicago Academy of Sciences *Natural History Miscellanea* (No. 208), documents the crayfish (Decapoda) and freshwater mussels/clams (Mollusca: Pelecypoda) of the lower New River gorge in Virginia and West Virginia. Fieldwork in summer...
+> -- *[[TheCrayfishDecapodaAstacidaeAn_19376]]*
+
+> This experimental study, by [[Walter T. Momot]] and [[Howard Gowing]], tested [[Maximum Sustained Yield]] (MSY) as a management strategy for the freshwater crayfish [[Orconectes virilis]] in two small lakes, [[North Twin Lake]] and [[West Lost Lake]], in the [[Pigeon River State Forest]], Michigan....
+> -- *[[ResultsOfAnExperimentalFishery_16547]]*
+
 ### Mentioned In
 - [[NotesOnTheFishesOfTheColoradoR_13441]]
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[TheSystematicsAndDistributionO_14952]]
+- [[TheCrayfishDecapodaAstacidaeAn_19376]]
+- [[ResultsOfAnExperimentalFishery_16547]]
 
 ## Orconectes Wrighti
 <!-- fm: auto_enriched: true -->
@@ -5245,6 +7971,9 @@ Ord Creek is a small mountain stream in Apache County, Arizona, within the Gila 
 > This report by Danny M. Regan (Colorado Cooperative Fishery Unit) compares body measurements of 16 [[Gila Trout]] and 16 [[Ord Creek Trout]] as part of a broader study of Gila trout ecology and its taxonomic relationship to other trouts. Funding came from the New Mexico Department of Game and Fish...
 > -- *[[ComparisonOfMorphometricMeasur_16798]]*
 
+> This report, prepared by [[John N. Rinne]] of the Rocky Mountain Forest and Range Experiment Station for the U.S. Fish and Wildlife Service, Office of Endangered Species, assesses the genetic and morphological purity of the native [[Arizona Trout]] (*Salmo apache*) across streams in east-central...
+> -- *[[DistributionOfPurePopulationsO_15494]]*
+
 ### Mentioned In
 - [[AnalysisOfApacheTroutPopulatio_15424]]
 - [[EffectsOfChemicalTreatmentForF_15892]]
@@ -5254,6 +7983,7 @@ Ord Creek is a small mountain stream in Apache County, Arizona, within the Gila 
 - [[AnnualReportOncorhynchusApache_11989]]
 - [[ReTheElectrophoreticStudyOfWhi_14999]]
 - [[ComparisonOfMorphometricMeasur_16798]]
+- [[DistributionOfPurePopulationsO_15494]]
 
 ## Ord Creek Trout
 
@@ -5278,6 +8008,66 @@ The Ordinary High Water Line (OHWL) is defined as the water level representing t
 
 ### Mentioned In
 - [[InterimProceduresForStockingNo_15423]]
+
+## Ordinary Least-Squares Regression
+
+### Summary
+A standard statistical method that models how a dependent variable changes with one or more predictor variables by fitting a line or plane that minimizes squared prediction errors. In this study the authors used it to identify which sociodemographic and attitudinal factors predicted residents' drought perceptions and policy preferences, though the models explained little variance (R² around .06 to .08 for perceived drought likelihood).
+
+### Context
+> This Water Resources Bulletin paper (Krannich, Keenan, Walker, and Hardesty, October 1995) reports household surveys in two water-dependent communities: the [[Grand Valley]] in western Colorado and [[Kern County]] in California's [[San Joaquin Valley]]. The study examines how residents perceive a...
+> -- *[[SocialImplicationsOfSevereSust_12420]]*
+
+### Mentioned In
+- [[SocialImplicationsOfSevereSust_12420]]
+
+## Ordinary Seiche
+
+### Summary
+A seiche is a standing wave oscillation in an enclosed or partly enclosed body of water. In this paper, the ordinary (surface) seiche is the k = 1 family, with its largest vertical displacement at the surface and horizontal velocity that does not vary with depth; for Lake Windermere's northern basin the fundamental period is 0.181 h.
+
+### Context
+> This 1961 paper by N. S. Heaps presents an analytical theory of longitudinal [[Seiche]] (standing wave) oscillations in a narrow, thermally stratified lake. The lake is modelled as three horizontal layers, with density varying linearly with depth inside each layer and continuous across the...
+> -- *[[SeichesInANarrowLakeUniformlyS_20747]]*
+
+### Mentioned In
+- [[SeichesInANarrowLakeUniformlyS_20747]]
+
+## Ordination
+
+### Summary
+Ordination is a family of multivariate methods that reduce many species variables to a smaller number of axes so that samples can be arranged by their composition. The authors note that linear ordination methods perform poorly when species respond unimodally to environmental gradients, and they review non-linear alternatives.
+
+### Context
+> This methods paper by [[Roger H. Green]] and [[Gian L. Vascotto]] (University of Manitoba, 1978) reviews how aquatic ecologists can link spatial patterns of species composition to environmental variables. The authors critically assess [[Ordination]], [[Classification Analysis]] and [[Diversity...
+> -- *[[AMethodForTheAnalysisOfEnviron_19227]]*
+
+### Mentioned In
+- [[AMethodForTheAnalysisOfEnviron_19227]]
+
+## Ordination Method
+
+### Summary
+A simple assessment approach tested in this paper that plots total numbers of specimens against total numbers of taxa, treating standing crop as the indicator of community health. The author found it located stressed areas of the New River more consistently than the diversity index d, and favoured it for this system.
+
+### Context
+> This paper tests a simple [[Ordination Method]] for assessing stressed benthic macroinvertebrate communities in the [[New River]] near [[Pearisburg Virginia]], downstream of a [[Synthetic Fibers Plant]]. The method plots total numbers of specimens against total numbers of taxa, treating standing...
+> -- *[[AssessmentOfAStressedMacroinve_20426]]*
+
+### Mentioned In
+- [[AssessmentOfAStressedMacroinve_20426]]
+
+## Ordnance Survey
+
+### Summary
+The UK national mapping agency. The source describes it as a major data source for NERC, providing digitized topographic data at 1:50,000 and 1:10,000 scales.
+
+### Context
+> This paper, by D. W. Rhind and N. P. A. Green of [[Birkbeck College]], University of London, reports a study financed by the [[Natural Environment Research Council]] (NERC) that ran from 1984 for about 18 months. Its aim was to design a unified [[Geographic Information System]] (GIS) for a...
+> -- *[[DesignOfAGeographicalInformati_16829]]*
+
+### Mentioned In
+- [[DesignOfAGeographicalInformati_16829]]
 
 ## Ordovician
 
@@ -5318,6 +8108,18 @@ Orectolobidae is a family of sharks within the order Squaliformes found in the G
 
 ### Mentioned In
 - [[AClassificationOfTheFishesOfTh_14438]]
+
+## OREG Stream Group
+
+### Summary
+One of the five stream groups, with 6 sites. The source characterises these sites by low nitrate. They form one of the discrete clusters that the authors used to test whether stream types could be grouped.
+
+### Context
+> The document combines two items: a short appendix reporting water-chemistry sampling from [[Lake Pamvotis]] in Ioannina, Greece (18 October 1979), and a multivariate study by Cushing et al. (1980) on physical-chemical variables from 34 stream stations on 26 streams. The stream study tests whether...
+> -- *[[ComparativeStudyOfPhysicalchem_18123]]*
+
+### Mentioned In
+- [[ComparativeStudyOfPhysicalchem_18123]]
 
 ## Oregon
 <!-- fm: auto_enriched: true -->
@@ -5446,6 +8248,30 @@ Oregon Lake is one of the aquatic systems where channel and lake minnows of the 
 ### Mentioned In
 - [[LetterToMrDonnellyHillRegardin_1994_08_29]]
 
+## Oregon Natural Heritage Program
+
+### Summary
+The Oregon Natural Heritage Program maintains lists of species at risk of extinction in Oregon. The authors used its Lists 1 and 2 to define one of three rarity categories, endangered or at-risk species.
+
+### Context
+> This study by [[William F. Fagan]] and [[Peter M. Kareiva]] (University of Washington) tests two statistical methods for correcting [[Sampling Effort]] bias in species lists compiled from museum and conservation databases. The test database is a set of about 11,994 [[Butterfly]] records from...
+> -- *[[UsingCompiledSpeciesListsToMak_16298]]*
+
+### Mentioned In
+- [[UsingCompiledSpeciesListsToMak_16298]]
+
+## Oregon Natural Resources Council
+
+### Summary
+An Oregon-based conservation organization named in the source as one of the key actors in the western grazing debate. The source lists it among groups involved in the conflict, though it gives no further detail about its specific actions.
+
+### Context
+> This 1999 *Atlantic Monthly* feature by Perri Knize examines the conflict over livestock grazing on [[Public Rangelands]] in the American West. It argues that ranchers and [[Environmental Groups]] are increasingly finding common ground on [[Riparian Restoration]], even as litigation, budget cuts...
+> -- *[[WinningTheWarForTheWest_12566]]*
+
+### Mentioned In
+- [[WinningTheWarForTheWest_12566]]
+
 ## Oregon Pellet
 
 ### Summary
@@ -5530,15 +8356,35 @@ Oregon State Hatcheries developed moist pellets made from meats and dry meals th
 > This document is a preliminary dichotomous identification key to the [[Cichlidae]] (cichlid fishes) of Florida, prepared by William F. Smith-Vaniz and James D. Williams of the National Fisheries Research Center, National Biological Survey, Gainesville, Florida. The key was circulated to selected...
 > -- *[[KeyToCichlidFishesOfFlorida_21211]]*
 
+> This technical note by [[Chervinski]] (Fish and Aquaculture Research Station, Dor, Israel) presents a dichotomous key for identifying four tilapiine forms from [[Lake Kinneret]]: [[Sarotherodon Galilaeus]], [[Oreochromis Niloticus]], [[Oreochromis Aureus]], and their hybrid. Identification rests on...
+> -- *[[IdentificationOfFourTilapiaSpe_16122]]*
+
+> This taxonomic account by [[F. Krupp]] and [[W. Schneider]] (Fauna of Saudi Arabia, vol. 10, 1989) provides the first comprehensive treatment of the freshwater fishes of the Jordan River drainage basin and [[Azraq Oasis]]. It covers 25 native species from the Jordan-Dead Sea drainage plus one...
+> -- *[[TheFishesOfTheJordanRiverDrain_12463]]*
+
 ### Mentioned In
 - [[EvaluationOfThePotentialOfTila_15172]]
 - [[KeyToCichlidFishesOfFlorida_21211]]
+- [[IdentificationOfFourTilapiaSpe_16122]]
+- [[TheFishesOfTheJordanRiverDrain_12463]]
 
 ## Oreochromis Mortimeri
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[CichlasomaLoiselleiANewNandops_1989]]
+
+## Oreochromis mossambica
+
+### Summary
+Oreochromis mossambica, the Mozambique tilapia, is a cichlid fish native to southern Africa. In this source it is listed among the species suspected to be present in the Great Fish River system but not actually recorded there by the survey.
+
+### Context
+> This paper presents a primer on colonisation theory and applies it to invasive fishes in the [[Great Fish River]], South Africa. It aims to (a) characterise successful invader species in aquatic systems and (b) identify habitat properties that make a system susceptible to invasion. The authors also...
+> -- *[[ColonisationTheoryAndInvasiveB_20200]]*
+
+### Mentioned In
+- [[ColonisationTheoryAndInvasiveB_20200]]
 
 ## Oreochromis Mossambicus
 <!-- fm: auto_enriched: true -->
@@ -5550,11 +8396,15 @@ Oregon State Hatcheries developed moist pellets made from meats and dry meals th
 > This document is a preliminary dichotomous identification key to the [[Cichlidae]] (cichlid fishes) of Florida, prepared by William F. Smith-Vaniz and James D. Williams of the National Fisheries Research Center, National Biological Survey, Gainesville, Florida. The key was circulated to selected...
 > -- *[[KeyToCichlidFishesOfFlorida_21211]]*
 
+> This workshop paper, presented at the Australian Society for Fish Biology workshop on introduced and translocated fishes (Magnetic Island, 1989), reviews the history, scale and consequences of [[Introduced Fishes]] in the United States. The author argues that introductions, whether deliberate or...
+> -- *[[IntroducedAndTranslocatedFishe_18622]]*
+
 ### Mentioned In
 - [[CichlasomaLoiselleiANewNandops_1989]]
 - [[EffectsOfSalinityOnPreferredAn_14746]]
 - [[RequestByUecToImportAndPossess_18439]]
 - [[KeyToCichlidFishesOfFlorida_21211]]
+- [[IntroducedAndTranslocatedFishe_18622]]
 
 ## Oreochromis Niloticus
 <!-- fm: auto_enriched: true -->
@@ -5575,12 +8425,20 @@ Oreochromis niloticus, commonly known as the Nile tilapia, is a cichlid fish spe
 > This compiled report, produced by the [[Haplochromis Ecology Survey Team]] (HEST) and the [[Tanzanian Fisheries Research Institute]] (TAFIRI) with the Zoological Laboratory of Leiden University (1987), documents how the introduced [[Nile Perch]] (*Lates niloticus*) has reshaped the fisheries of...
 > -- *[[TheIncreaseOfTheNilePerchInLak_20369]]*
 
+> This technical note by [[Chervinski]] (Fish and Aquaculture Research Station, Dor, Israel) presents a dichotomous key for identifying four tilapiine forms from [[Lake Kinneret]]: [[Sarotherodon Galilaeus]], [[Oreochromis Niloticus]], [[Oreochromis Aureus]], and their hybrid. Identification rests on...
+> -- *[[IdentificationOfFourTilapiaSpe_16122]]*
+
+> This compiled document contains three items: a fragment of a reference list (Hawaiian goby and Guam streamfish literature), the full research article on the fish community of the [[Lacanja River]] in Chiapas, Mexico, and the opening (abstract and introduction) of a study on fish diversity after...
+> -- *[[PatternsInTheSpeciesDiversityA_16711]]*
+
 ### Mentioned In
 - [[EffectsOfSalinityOnPreferredAn_14746]]
 - [[LetterToPeterBMoyleOnColoradoR_13792]]
 - [[TheEffectsOfTilapiaIntroductio_1990]]
 - [[RequestByUecToImportAndPossess_18439]]
 - [[TheIncreaseOfTheNilePerchInLak_20369]]
+- [[IdentificationOfFourTilapiaSpe_16122]]
+- [[PatternsInTheSpeciesDiversityA_16711]]
 
 ## Oreochromis Spilurus
 <!-- fm: auto_enriched: true -->
@@ -5597,6 +8455,18 @@ Oreochromis niloticus, commonly known as the Nile tilapia, is a cichlid fish spe
 
 ### Mentioned In
 - [[SonorellaGrahamensisAndSonorel_11184]]
+
+## Oreoleuciscus
+
+### Summary
+Oreoleuciscus is a cyprinid genus included in the broadened aspinine group in this paper. The source places it as a sister to Aspiopsis and notes that it, like Aspiopsis, is restricted to a small Central Asian area bordering Sinkiang and the landlocked Upper Ob and Bya basins in Mongolia.
+
+### Context
+> This 1984 systematic paper by [[Gordon Howes]] (Bulletin of the British Museum (Natural History) Zoology 47(5): 283-303) re-examines the Hwang-Ho dace, *Leuciscus mongolicus* (Kessler, 1876), which was prompted by specimens in the American Museum of Natural History. Anatomical study shows the...
+> -- *[[PhyleticsAndBiogeographyOfTheA_19953]]*
+
+### Mentioned In
+- [[PhyleticsAndBiogeographyOfTheA_19953]]
 
 ## Oreonectes anophthalmus
 
@@ -5630,9 +8500,65 @@ Oreonectes anophthalmus is a loach species from the family Cobitidae. This sourc
 > This 1960 doctoral dissertation from the University of Florida by Ram Prakash Sethi uses comparative skeletal anatomy to assess the classification and evolutionary relationships of the oviparous (egg-laying) cyprinodonts of the [[Cyprinodontiformes]]. The author argues that existing...
 > -- *[[OsteologyAndPhylogenyOfOviparo_11369]]*
 
+> This book chapter by W. Villwock examines how small (micro-) populations of fish influence morphological differentiation and [[Speciation]]. It argues that small populations can produce striking local differences, but that microgeographic separation alone does not guarantee true speciation. The...
+> -- *[[OnMicropopulationsInFishAndThe_13138]]*
+
+> This 1962 paper by [[Wolfgang Villwock]] examines how the endemic killifish genus [[Orestias]] (Cyprinodontidae) diversified in the high-altitude [[Altiplano]] of Peru and Bolivia. The author reconstructs the geological and climatic history of the region, describes the present-day distribution and...
+> -- *[[DieGattungOrestiasPiscesMicroc_13134]]*
+
 ### Mentioned In
 - [[ArtificialHybridizationOfCreni_14299]]
 - [[OsteologyAndPhylogenyOfOviparo_11369]]
+- [[OnMicropopulationsInFishAndThe_13138]]
+- [[DieGattungOrestiasPiscesMicroc_13134]]
+
+## Orestias Agassii
+
+### Summary
+Orestias agassii is the most widespread Orestias form and is usually small, occurring in all shallow-water areas of the lake and region. Villwock groups the larger agassii populations (such as O. agassii tschudii) with it in one species complex, distinguished mainly by final size and timing of sexual maturity. Large forms in Titicaca's dense rush beds are discussed as possible examples of ongoing intralacustrine speciation.
+
+### Context
+> This 1962 paper by [[Wolfgang Villwock]] examines how the endemic killifish genus [[Orestias]] (Cyprinodontidae) diversified in the high-altitude [[Altiplano]] of Peru and Bolivia. The author reconstructs the geological and climatic history of the region, describes the present-day distribution and...
+> -- *[[DieGattungOrestiasPiscesMicroc_13134]]*
+
+### Mentioned In
+- [[DieGattungOrestiasPiscesMicroc_13134]]
+
+## Orestias Cuvieri
+
+### Summary
+Orestias cuvieri is the largest Titicaca Orestias, reaching about 30 cm total length. Preliminary gut-content data suggest a predatory, pike-like habit, and it occupies open bays. Its numbers fell after salmonids were introduced in 1937, and it was not recorded during the 1960 expedition.
+
+### Context
+> This 1962 paper by [[Wolfgang Villwock]] examines how the endemic killifish genus [[Orestias]] (Cyprinodontidae) diversified in the high-altitude [[Altiplano]] of Peru and Bolivia. The author reconstructs the geological and climatic history of the region, describes the present-day distribution and...
+> -- *[[DieGattungOrestiasPiscesMicroc_13134]]*
+
+### Mentioned In
+- [[DieGattungOrestiasPiscesMicroc_13134]]
+
+## Orestias Luteus
+
+### Summary
+Orestias luteus is a bottom-dwelling predator that mainly eats mollusc and ostracod shells. In the source it occurs in the Titicaca reed belt, where it inhabits the outer edge and deep water, and in some peripheral lakes (Arapa, Umayo, Checayani). It is the only Orestias species Villwock reports as shared with those peripheral lakes.
+
+### Context
+> This 1962 paper by [[Wolfgang Villwock]] examines how the endemic killifish genus [[Orestias]] (Cyprinodontidae) diversified in the high-altitude [[Altiplano]] of Peru and Bolivia. The author reconstructs the geological and climatic history of the region, describes the present-day distribution and...
+> -- *[[DieGattungOrestiasPiscesMicroc_13134]]*
+
+### Mentioned In
+- [[DieGattungOrestiasPiscesMicroc_13134]]
+
+## Orestias Pentlandii
+
+### Summary
+Orestias pentlandii reaches about 20 cm total length and is apparently a planktivore that also eats fish larvae, with a herring-like habit. The source places it in open bays of Lake Titicaca.
+
+### Context
+> This 1962 paper by [[Wolfgang Villwock]] examines how the endemic killifish genus [[Orestias]] (Cyprinodontidae) diversified in the high-altitude [[Altiplano]] of Peru and Bolivia. The author reconstructs the geological and climatic history of the region, describes the present-day distribution and...
+> -- *[[DieGattungOrestiasPiscesMicroc_13134]]*
+
+### Mentioned In
+- [[DieGattungOrestiasPiscesMicroc_13134]]
 
 ## Orestiidae
 
@@ -5645,6 +8571,18 @@ Orestiidae is a fish family designation that was proposed by Eigenmann in 1920 a
 
 ### Mentioned In
 - [[EndangeredSpeciesInformationSy_14003]]
+
+## Organ Cave
+
+### Summary
+A cave that was one of the subterranean habitats sampled for Stygonectes sex-ratio data. The source lists it among the cave collections but gives no further details about its population.
+
+### Context
+> This short research note reports sex ratios in populations of the subterranean amphipod genus [[Stygonectes]] collected from seeps, springs, drains and caves across eastern and central North America and Texas. Females predominate in most collections. The bias is strongest in cave populations of...
+> -- *[[PreliminaryObservationsOnSexRa_18094]]*
+
+### Mentioned In
+- [[PreliminaryObservationsOnSexRa_18094]]
 
 ## Organ Pipe Cactus National Monument
 <!-- fm: auto_enriched: true -->
@@ -5833,6 +8771,18 @@ The 1897 federal statute establishing the purposes of National Forests. In this 
 ### Mentioned In
 - [[EineNeueMethodeDerQuantitative_1966]]
 
+## Organic Enrichment
+
+### Summary
+The addition of organic matter to a water body, which can change stream communities. The source states that the phytopigment density method can assess its effects on stream periphyton.
+
+### Context
+> This 1960 methods paper by [[Alfred R. Grzenda]] and [[Morris L. Brehmer]] (Michigan State University) presents two techniques for collecting and estimating stream [[Periphyton]] production using artificial substrata. Periphyton was grown on 1.4 dm² [[Plexiglass Plates]] mounted on a horizontal...
+> -- *[[AQuantitativeMethodForTheColle_17810]]*
+
+### Mentioned In
+- [[AQuantitativeMethodForTheColle_17810]]
+
 ## Organic Import In Aquatic Systems
 <!-- fm: auto_enriched: true -->
 
@@ -5851,6 +8801,18 @@ The 1897 federal statute establishing the purposes of National Forests. In this 
 
 ### Mentioned In
 - [[TheFateOfDissolvedOrganicCarbo_16180]]
+
+## Organic Loading
+
+### Summary
+The input of organic material, such as tree litter, that decomposes and consumes oxygen in water. The authors conclude that this loading can strongly control stream water composition, especially at low flow.
+
+### Context
+> This 1968 study by [[Keith V. Slack]] and [[Herman R. Feltz]] (U.S. Geological Survey) examines how autumn leaf fall from [[Riparian Vegetation]] degrades the chemistry of a small, otherwise unpolluted stream, the [[North Fork Quantico Creek]]. Field measurements in 1963 were paired with...
+> -- *[[TreeLeafControlOnLowFlowWaterQ_19023]]*
+
+### Mentioned In
+- [[TreeLeafControlOnLowFlowWaterQ_19023]]
 
 ## Organic Matter Budget
 <!-- fm: auto_enriched: true -->
@@ -5898,6 +8860,42 @@ A group of pesticides used mainly against insects and mites that parasitize plan
 ### Mentioned In
 - [[DetectionAndAssessmentOfWaterP_1966]]
 
+## Organismal Functional Morphology
+
+### Summary
+In this source, the term is proposed by Stuart Fisher (Arizona State University) as an ecosystem metaphor rather than as a standard use of the term for organisms. Fisher uses it to generate hypotheses about how ecosystem processes depend on channel form and tributary branching, and how processes such as retentiveness may feed back on stream geomorphology.
+
+### Context
+> This TREE (Vol. 11, No. 7, July 1996) feature by [[David D. Hart]] and [[Dina M. Fonseca]] reviews the symposium *New Concepts in Stream Ecology: An Integrative Approach*, organized by J. Vaun McArthur and Peter Koetsier and held at the [[Savannah River Ecology Laboratory]] in New Ellenton, SC,...
+> -- *[[AnImportantConfluenceForStream_20685]]*
+
+### Mentioned In
+- [[AnImportantConfluenceForStream_20685]]
+
+## Organization for Tropical Studies
+
+### Summary
+The Organization for Tropical Studies is a tropical biology and conservation organization. The source mentions it only in connection with Charles Schnell's 1994 SCB award for conservation work carried out with the group.
+
+### Context
+> This issue of the [[Society for Conservation Biology]] (SCB) Newsletter covers the 1994 annual meeting in [[Guadalajara]], [[Mexico]], and reports on the journal [[Conservation Biology]]. [[Peter F. Brussard]]'s president's column argues that human population growth and resource consumption are the...
+> -- *[[SocietyForConservationBiologyN_17497]]*
+
+### Mentioned In
+- [[SocietyForConservationBiologyN_17497]]
+
+## Organochlorine Compounds
+
+### Summary
+Organochlorine compounds are persistent, bioaccumulating chemicals cited in the source as an example of substances for which tissue residues and depuration rates matter more than LC50 values. They fall into the category needing further testing to set water quality criteria. The source gives no specific organochlorine findings.
+
+### Context
+> This FAO publication (EIFAC Technical Paper, Revision 1, 1983) presents standardized guidance for fish toxicity testing, prepared by the [[European Inland Fisheries Advisory Commission]] (EIFAC) Working Party on Toxicity Testing Procedures. The main report was drafted in 1975 and complemented in...
+> -- *[[RevisedReportOnFishToxicityTes_15797]]*
+
+### Mentioned In
+- [[RevisedReportOnFishToxicityTes_15797]]
+
 ## Organochlorine Insecticides
 
 ### Summary
@@ -5938,6 +8936,18 @@ Organochlorine pesticides are synthetic chlorine-containing compounds historical
 - [[SizeRelatedFactorsAssociatedWi_13891]]
 - [[BaldEagle_13866]]
 
+## Organophosphate Insecticides
+
+### Summary
+A group of synthetic insecticides, including malathion, parathion and diazinon, that the source describes as generally less toxic to fishes than chlorinated hydrocarbons and relatively unstable, with little storage in fish. The review notes they are nonetheless highly toxic to fish food organisms.
+
+### Context
+> This 1968 review by Donald W. Johnson of the [[Arizona State University]] Department of Zoology surveys the literature on pesticide interactions in aquatic habitats, with emphasis on effects on fishes. The author argues that research to date has focused on acute, directly lethal effects, measured...
+> -- *[[PesticidesAndFishesaReviewOfSe_19749]]*
+
+### Mentioned In
+- [[PesticidesAndFishesaReviewOfSe_19749]]
+
 ## Organophosphate Pesticides
 <!-- fm: auto_enriched: true -->
 
@@ -5977,9 +8987,25 @@ Organpipe National Monument is a protected area relevant to Desert Pupfish conse
 > This document is not a research study. It is the closing reference section (printed pages 1109–1271) of a larger review of California fishes and aquatic ecosystems. It lists several thousand alphabetically ordered citations, from Aasen (1998) to Young (1994). The entries cover fish taxonomy, life...
 > -- *[[ReferencesForNdEditionOfInland_15457]]*
 
+> This 1973 position paper by [[Water R. Courtenay Jr.]] and [[C. Richard Robins]], published in the *Transactions of the American Fisheries Society* on behalf of the Florida Chapter of the American Institute of Fisheries Research Biologists, reviews exotic aquatic organisms established in Florida....
+> -- *[[ExoticAquaticOrganismsInFlorid_17620]]*
+
 ### Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[ReferencesForNdEditionOfInland_15457]]
+- [[ExoticAquaticOrganismsInFlorid_17620]]
+
+## Oriental Leaf Frog
+
+### Summary
+A tree frog (*Hyla savignyi*) that lives on the banks of the springs and river. The source describes it as less timid than the Caspian armoured swamp toad (*Maurinus caspica*) found in the same area.
+
+### Context
+> This illustrated feature article, written by a fish researcher from the [[Senckenberg Museum]], describes the karst spring system at [[Ra's Al-Ain Karst Springs]] in northeast Syria and the [[Khabur River]] that drains it. The springs, fed by mountain catchments and rising through fractured Eocene...
+> -- *[[TheKarstSpringsOfRasAlain_12466]]*
+
+### Mentioned In
+- [[TheKarstSpringsOfRasAlain_12466]]
 
 ## Oriental Realm
 
@@ -5992,6 +9018,18 @@ The Oriental Realm is one of three major biogeographic realms connected by the L
 
 ### Mentioned In
 - [[TheLevantineLandbridgeHistoric_18634]]
+
+## Oriental Snail
+
+### Summary
+A freshwater snail listed by the authors among the exotic species whose introductions caused predation, competition and hybridization problems in desert aquatic ecosystems. The paper cites it as one of the non-native threats to native desert fauna, including endemic snails.
+
+### Context
+> This 1985 paper by the Endangered Species Committee of the [[Desert Fishes Council]] (Williams, Bowman, Brooks, Echelle, Edwards, Hendrickson and Landye) identifies endangered aquatic ecosystems across the [[Great Basin Desert|Great Basin]], [[Mojave Desert|Mohave]], [[Sonoran Desert|Sonoran]] and...
+> -- *[[EndangeredAquaticEcosystemsInN_12035]]*
+
+### Mentioned In
+- [[EndangeredAquaticEcosystemsInN_12035]]
 
 ## Oriental Weatherfish
 <!-- fm: auto_enriched: true -->
@@ -6016,6 +9054,18 @@ Directed or undirected reactions of an organism to environmental stimuli. Fraenk
 ### Mentioned In
 - [[TheExperimentalStudyOfBehaviou_18861]]
 
+## Oriente
+
+### Summary
+The eastern Amazon-slope region of Ecuador, with dense tropical forest, flat jungle, and rivers such as the Napo, Pastaza and Marañón. According to the source, it is the most primary-dominated region (90.7% primary fishes) and contains the Cuyabeno and Garza Cocha lakes.
+
+### Context
+> This volume extract (pages 236–269 of a journal issue) contains three items. The main item is M. M. Ovchynnyk's annotated checklist of the [[Freshwater Fishes of Ecuador]]. It records 306 species in 159 genera and 44 families, compared with 118 species reported by [[Fowler 1954]]. The list is...
+> -- *[[AnnotatedListOfTheFreshwaterFi_18360]]*
+
+### Mentioned In
+- [[AnnotatedListOfTheFreshwaterFi_18360]]
+
 ## Orinoco
 
 ### Summary
@@ -6037,9 +9087,13 @@ The Orinoco is a major South American river basin to which the Rio Meta system b
 > This classic zoogeographic study, a contribution from the Zoological Laboratory of Indiana University (No. 177) by Carl H. Eigenmann, analyses the origin, composition and distribution of the fishes of the [[Magdalena Basin]] in western Colombia. The author reports roughly 150 species in about 70...
 > -- *[[TheMagdalenaBasinAndTheHorizon_15804]]*
 
+> This 1963 paper by José A. Luengo, published in *Acta Biologica Venezuelica*, inventories the freshwater fishes of the [[Lake Valencia]] basin in north-central Venezuela. The author lists 37 species from material examined (26 species, 559 specimens), of which 8 are reported as new records for the...
+> -- *[[LaFaunaIctiologicaDelLagoDeVal_16242]]*
+
 ### Mentioned In
 - [[TheFishesOfLakeValenciaCaracas_15801]]
 - [[TheMagdalenaBasinAndTheHorizon_15804]]
+- [[LaFaunaIctiologicaDelLagoDeVal_16242]]
 
 ## Orinoco River
 <!-- fm: auto_enriched: true -->
@@ -6076,6 +9130,18 @@ Orizaba is a city in Veracruz, Mexico, near which the author sampled the Rio Bla
 
 ### Mentioned In
 - [[CollectionOfFishesFromTheRiver_20840]]
+
+## Orleans Parish
+
+### Summary
+Orleans Parish is a Louisiana parish with the lowest faunal resemblance to Caddo-Bossier in this comparison, with an FRF of 0.66. The authors attribute this to its extensive marshland environment.
+
+### Context
+> This 1979 checklist, published as Number 3 of the [[Bulletin Of The Museum Of Life Sciences]] by [[Louisiana State University In Shreveport]], documents the fish fauna of Caddo and Bossier Parishes in northwestern [[Louisiana]]. The authors, [[Laurence M. Hardy]] and [[William H. LeGrande]], list...
+> -- *[[ChecklistOfTheFishesOfCaddoAnd_20635]]*
+
+### Mentioned In
+- [[ChecklistOfTheFishesOfCaddoAnd_20635]]
 
 ## Orme Dam
 <!-- fm: auto_enriched: true -->
@@ -6131,6 +9197,18 @@ Orme Dam (also known as Maxwell Dam) was a proposed water infrastructure project
 - [[HerpetofaunaOfTheOrmeButtesCha_18586]]
 - [[IchthyofaunaOfTheOrmeButtesCha_18587]]
 
+## Ornamental Aquarium Fish Trade
+
+### Summary
+The commercial breeding and importing of fish sold as pets for home aquaria. According to this source, it was the main pathway by which exotic fishes entered Florida, with farms in the state supplying most US demand and releases occurring through effluent, flooding, surplus stock and dumping.
+
+### Context
+> This 1974 study, published in *Biological Conservation*, is the first comprehensive survey of non-indigenous fishes in Florida's fresh and brackish waters. The authors recorded at least 38 exotic species and several hybrids, of which 20 species and five hybrids were established as reproducing...
+> -- *[[ExoticFishesInFreshAndBrackish_17621]]*
+
+### Mentioned In
+- [[ExoticFishesInFreshAndBrackish_17621]]
+
 ## Ornamental Fish Trade
 <!-- fm: auto_enriched: true -->
 
@@ -6141,6 +9219,18 @@ Orme Dam (also known as Maxwell Dam) was a proposed water infrastructure project
 ### Mentioned In
 - [[CareOfTropicalAquariumFishes_13271]]
 - [[LetterToRayVaughnOpposingRestr_1973_04_13]]
+
+## Ornata Group
+
+### Summary
+The Ornata Group is the second proposed species group within Terrapene, made up of savannah and grassland turtles. It contains T. ornata (three subspecies, including the extinct T. o. longinsulae) and T. nelsoni (two subspecies). The author hypothesises that it evolved from the Carolina Group.
+
+### Context
+> This monograph by [[William W. Milstead]] (Bulletin of the Florida State Museum, Biological Sciences, Vol. 14, No. 1, 1969) reconstructs the evolution of the North American box turtle genus [[Terrapene]] using osteological, shell and colour characters from at least 2,050 adult specimens grouped...
+> -- *[[StudiesOnTheEvolutionOfBoxTurt_18496]]*
+
+### Mentioned In
+- [[StudiesOnTheEvolutionOfBoxTurt_18496]]
 
 ## Ornithocythere
 
@@ -6250,6 +9340,18 @@ Orocastus is a genus of deltocephaline leafhoppers that this source proposes sho
 ### Mentioned In
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
 
+## Oroclinal Bending
+
+### Summary
+A clockwise bending of the western Mojave, southern Sierra Nevada, and northern Salinian block that the authors describe as a right-lateral bend. It deflects the Permo-Triassic truncation boundary, the western limit of the Sierran batholith, and the Great Valley and Franciscan terranes. The document notes an unresolved conflict over whether the bending occurred in latest Cretaceous or mid-Cretaceous time.
+
+### Context
+> This document is a geological synthesis of the [[Mojave Desert]] region of southeastern California, not an ichthyological or aquatic ecology study. It contains no fish species, fish habitat data, or aquatic survey results, so the species and habitat fields are recorded as N/A. The authors,...
+> -- *[[MojaveDesertsAndEnvirons_13897]]*
+
+### Mentioned In
+- [[MojaveDesertsAndEnvirons_13897]]
+
 ## Orocopia Schist
 
 ### Summary
@@ -6262,6 +9364,18 @@ A metamorphic basement rock unit in southern California. The source note lists i
 ### Mentioned In
 - [[MidtertiaryConglomeratesAndThe_17712]]
 
+## Orogenic Events
+
+### Summary
+Orogenic events are mountain-building episodes. In this source, the uplift of the Zagros ridges during and after the Pliocene is proposed as the process that isolated the mountain populations of Aphanius vladykovi from lowland fish.
+
+### Context
+> This paper by [[Brian W. Coad]] describes *Aphanius vladykovi*, a new species of [[Tooth-Carp]] (Cyprinodontidae) from the upper reaches of the [[Karun River]] basin in the [[Zagros Mountains]] of Iran. The species is separated from its closest relative, [[Aphanius sophiae]], by a higher count of...
+> -- *[[AphaniusVladykoviANewSpeciesOf_15969]]*
+
+### Mentioned In
+- [[AphaniusVladykoviANewSpeciesOf_15969]]
+
 ## Orontes River
 
 ### Summary
@@ -6271,8 +9385,28 @@ The Orontes River is one of the waterways in the sequence contained within the S
 > This document presents two distinct contributions to Middle Eastern biogeography. The first section by [[F.D. Por]] outlines ten theses on the biogeographic significance of the [[Levantine Landbridge]], describing it as the most important crossroad of biotic exchange on Earth—a three-way filter...
 > -- *[[TheLevantineLandbridgeHistoric_18634]]*
 
+> This document is a compilation of three items. It opens with a fragment of a reference list (Coad, Fishes of the North-eastern Atlantic and the Mediterranean and related works). It then presents a paper by F. Krupp on the [[Freshwater Ichthyogeography]] of the [[Levant]], and closes with a paper by...
+> -- *[[FreshwaterIchthyogeographyOfTh_12461]]*
+
+> This source is a multi-part compilation from the Proceedings of the 1985 Mainz Symposium on the Fauna and Zoogeography of the Middle East (Beihefte zum TAVO A 28, 1987). It contains three elements: a reference list from [[Por]]'s work on Levantine zoogeography and [[Lessepsian Migration]]; a survey...
+> -- *[[ZoologicalSurveyOfSaudiArabia_14148]]*
+
 ### Mentioned In
 - [[TheLevantineLandbridgeHistoric_18634]]
+- [[FreshwaterIchthyogeographyOfTh_12461]]
+- [[ZoologicalSurveyOfSaudiArabia_14148]]
+
+## Orontium Aquaticum
+
+### Summary
+Orontium aquaticum (golden club) is an emergent aquatic plant. In this study, all Orontium samples had leaf protein extractability above 40%, and its protein isolates contained 7% to 9% nitrogen.
+
+### Context
+> This 1968 *Economic Botany* paper, by [[Boyd]] of [[Auburn University]], is a preliminary study assessing whether freshwater aquatic plants, usually regarded as nuisance [[Aquatic Weeds]], could serve as a food source. The work measured the chemical composition of dried plants as potential...
+> -- *[[FreshwaterPlantsAPotentialSour_17757]]*
+
+### Mentioned In
+- [[FreshwaterPlantsAPotentialSour_17757]]
 
 ## Orr Ditch Decree
 
@@ -6365,6 +9499,42 @@ Ortho-phosphate is the dissolved inorganic form of phosphorus that plants and al
 ### Mentioned In
 - [[ObservationsOnTheFishesOfTheGe_1909_12_08]]
 
+## Orthodon microlepidotus
+
+### Summary
+Orthodon microlepidotus is a relict taxon of the Sacramento-San Joaquin system, which the source describes as the most species-rich western fauna. The authors note that relict forms like it share Miocene and Pliocene congeners in the Snake River Plain.
+
+### Context
+> This chapter by [[W. L. Minckley]], [[Dean A. Hendrickson]] and [[Carl E. Bond]] reviews the zoogeography of freshwater fishes across western North America, from the [[Continental Divide]] to the Pacific and from the [[Columbia River Basin]] south to the Rio Grande de Santiago Basin in Mexico. The...
+> -- *[[GeographyOfWesternNorthAmerica_15412]]*
+
+### Mentioned In
+- [[GeographyOfWesternNorthAmerica_15412]]
+
+## Orthodon Onkognathus
+
+### Summary
+A new cyprinid species from the Deer Butte Formation, distinguished by four sensory pores and robust, short dentaries. It is known from 14 specimens at the Tunnel Road and Tunnel Mountain localities.
+
+### Context
+> This paleontological study describes the fossil fish fauna of the [[Deer Butte Formation]] in Malheur County, Oregon. The fauna comprises about 24 species in 15 genera, found as disarticulated fossils in loosely consolidated siltstones, sandstones and conglomerates. The author interprets the...
+> -- *[[FishesOfTheMioceneplioceneDeer_12524]]*
+
+### Mentioned In
+- [[FishesOfTheMioceneplioceneDeer_12524]]
+
+## Orthoevolution
+
+### Summary
+Orthoevolution refers to the idea of directed evolutionary change along a fixed line, sometimes attributed to special forces. Kosswig rejects needing such forces, instead attributing it to directed mutation probabilities and Wright-type chance.
+
+### Context
+> This is a 1959 theoretical essay by [[Curt Kosswig]] (Zoologisches Staatsinstitut und Museum, Hamburg), written from a colloquium presentation on phylogenetic trends. It argues that the genetic basis of evolutionary change can be explained by ordinary mutation, polygenic inheritance and...
+> -- *[[PhylogenetischeTrendsGenetisch_12389]]*
+
+### Mentioned In
+- [[PhylogenetischeTrendsGenetisch_12389]]
+
 ## Orthogenesis
 
 ### Summary
@@ -6377,6 +9547,18 @@ Orthogenesis is the idea that evolution follows a directed course governed by in
 ### Mentioned In
 - [[PhylogenetischeTrendsInDerGatt_14751]]
 
+## Orthokinesis
+
+### Summary
+Orthokinesis is a change in the rate of locomotory activity in response to a stimulus, rather than a change in direction. In this study, nymph activity rose with light intensity and almost stopped in low light, so nymphs slowed in shaded patches and stayed there. The author considers this response, combined with phototaxis and skototaxis, sufficient to explain the observed aggregations.
+
+### Context
+> This 1966 behavioural study by D. A. Hughes tests whether the light responses of two mayfly nymphs, [[Baetis Harrisoni]] and [[Tricorythus Discolor]], help determine where they live within a stream. Field work showed that Baetis favours sunlit reaches and Tricorythus favours shaded reaches....
+> -- *[[TheRoleOfResponsesToLightInThe_14495]]*
+
+### Mentioned In
+- [[TheRoleOfResponsesToLightInThe_14495]]
+
 ## Orthophosphate
 
 ### Summary
@@ -6386,8 +9568,12 @@ A dissolved form of phosphorus that acts as a nutrient for algae and plants. In 
 > This thesis, from a Department of Biological Sciences, evaluated whether [[Reclaimed Wastewater]] treated by [[Sand Filtration]] (tertiary treatment) could support a [[Sport Fishery]]. Three fish were tested: [[Channel Catfish]], [[Rainbow Trout]] and [[Tilapia Hybrids]]. The study aimed to...
 > -- *[[SportFishProductionAndProducti_20981]]*
 
+> This 1970 study by [[H. R. MacCrimmon]] and [[J. R. M. Kelso]] (Department of Zoology, University of Guelph) tracked biweekly water chemistry at five stations on the [[Grand River]] system in southern Ontario from August 16, 1967, to September 1, 1968. The city of [[Guelph]] was the dominant source...
+> -- *[[SeasonalVariationInSelectedNut_19305]]*
+
 ### Mentioned In
 - [[SportFishProductionAndProducti_20981]]
+- [[SeasonalVariationInSelectedNut_19305]]
 
 ## Orthopodomyia
 
@@ -6401,6 +9587,18 @@ Orthopodomyia is a mosquito genus whose eggs are laid singly in damp humus or ab
 ### Mentioned In
 - [[TheMosquitoesOfIllinoisDiptera_21083]]
 
+## Orthoquartzite
+
+### Summary
+A quartzite that has not undergone metamorphic recrystallization, so its original depositional texture is preserved, and its cementation is diagenetic. In this study, Sespe orthoquartzite clasts are mainly quartzofeldspathic and derive from craton-interior sources.
+
+### Context
+> This [[Geological Society of America]] Bulletin paper (Howard, 2000) uses petrography to determine the provenance of quartzite clasts in fluvial [[Sespe Formation]] conglomerates of the Santa Monica Mountains, Los Angeles trough. Clasts were compared with candidate source rocks in the Mojave...
+> -- *[[ProvenanceOfQuartziteClastsInT_19949]]*
+
+### Mentioned In
+- [[ProvenanceOfQuartziteClastsInT_19949]]
+
 ## Orthoselection
 
 ### Summary
@@ -6413,6 +9611,46 @@ Orthoselection is a form of directional selection that the author proposes as th
 ### Mentioned In
 - [[PhylogenetischeTrendsInDerGatt_14751]]
 
+## Ortmann
+
+### Summary
+Ortmann was a early 20th-century crayfish taxonomist whose work is cited here in two ways. He proposed the 'warm water type' life-cycle classification that Van Deventer applies to this species, and he hypothesized that Cambarus propinquus is closely related to C. propinquus sanbornii and C. obscurus.
+
+### Context
+> This 1937 monograph by William Carl Van Deventer, published in the *Illinois Biological Monographs* (Vol. XV, No. 3), presents a two-year field study (June 1932 to June 1934) of the life cycle of [[Cambarus Propinquus]], a crayfish common in small streams of eastern Illinois. Because laboratory...
+> -- *[[StudiesOnTheBiologyOfTheCrayfi_13083]]*
+
+> This survey assessed the commercially valuable freshwater mussels (family [[Unionidae]]) of the [[Wabash River]], [[White River]], and [[East Fork of the White River]] in Indiana. Shells from these mussels are cut into nuclei for the [[Cultured Pearl Industry]] in Japan. The Indiana Department of...
+> -- *[[ASurveyOfTheCommerciallyValuab_12458]]*
+
+### Mentioned In
+- [[StudiesOnTheBiologyOfTheCrayfi_13083]]
+- [[ASurveyOfTheCommerciallyValuab_12458]]
+
+## Ortmann Distribution Study
+
+### Summary
+An 1894 study by Ortmann that addressed the geographic distribution of Atya scabra. Darnell cites it as one of the few earlier works on the species, which was poorly studied at the time. The source does not describe its findings in detail.
+
+### Context
+> This 1956 population study by Rezneat M. Darnell (Tulane University) examines a population of the poorly studied tropical freshwater shrimp [[Atya Scabra]] collected on 27 April 1950 from a boulder riffle of the Rio Sabinas, a headwater tributary of the [[Rio Tamesi]] drainage in southern...
+> -- *[[AnalysisOfAPopulationOfTheTrop_13942]]*
+
+### Mentioned In
+- [[AnalysisOfAPopulationOfTheTrop_13942]]
+
+## Orton's Rule
+
+### Summary
+The principle that organisms breed either at a physiological constant temperature or at a particular temperature change, rising or falling. Gunter uses it to divide species into rising-temperature and falling-temperature spawners, which shapes their seasonal reproduction timing.
+
+### Context
+> This book chapter by Gordon Gunter (Gulf Coast Research Laboratory, 1957) reviews temperature as "the most important single factor governing the occurrence and behavior of life" in marine systems. It links [[Temperature Physiology]] at the cellular level to whole-organism performance, reproduction,...
+> -- *[[ChapterTemperature_17830]]*
+
+### Mentioned In
+- [[ChapterTemperature_17830]]
+
 ## Orvar Nybelin
 
 ### Summary
@@ -6424,6 +9662,18 @@ Orvar Nybelin was a researcher who revised the genus Anotopterus in 1946 and des
 
 ### Mentioned In
 - [[TheWidespreadProbablyAntitropi_14301]]
+
+## Orville L. Bandy
+
+### Summary
+Co-author, with Richard Merriam, of this 1965 paper. The source cites his earlier 1951 work on Peninsular Range foraminifera, which it uses as a comparison for the Colorado River sediment sources.
+
+### Context
+> This document is a 1965 paper from the *Journal of Sedimentary Petrology* (vol. 35, no. 4, pp. 911–916) by [[Richard Merriam]] and [[Orville L. Bandy]] of the University of Southern California. It asks whether the coarse and fine Cenozoic sediments filling the Colorado delta basin share a single...
+> -- *[[SourceOfUpperCenozoicSediments_20136]]*
+
+### Mentioned In
+- [[SourceOfUpperCenozoicSediments_20136]]
 
 ## Oryzias
 
@@ -6454,10 +9704,22 @@ Oryzias is a new genus established by Jordan and Snyder in 1906 to accommodate t
 > This 1906 taxonomic review by [[Jordan]] and [[Snyder]] documents two species of killifishes (family [[Poeciliidae]]) from Japan: [[Fundulichthys virescens]] and [[Oryzias latipes]]. Both are small fishes inhabiting rice swamps, pools, and ditches in southern Japan, likely feeding on mosquitoes....
 > -- *[[AReviewOfThePoeciliidaeOrKillf_19855]]*
 
+> This review, by [[Myron Gordon]] of the Genetics Laboratory of the New York Zoological Society, argues that hereditary factors play a real and important role in fish diseases and skeletal abnormalities. Most of the evidence comes from long-term breeding experiments on [[Xiphophorus Helleri]]...
+> -- *[[TheGeneticsOfFishDiseases_11040]]*
+
+> This review by [[Curt Kosswig]], published in the *Abhandlungen und Verhandlungen des Naturwissenschaftlichen Vereins in Hamburg* (N.F. Bd. X, 1965), summarizes four decades of genetic research on fishes, mainly live-bearing toothcarps (Poeciliidae, Xiphophorini) and cyprinodonts. It argues that...
+> -- *[[JahreGenestischeUntersuchungen_12397]]*
+
+> This monograph by [[Carl L. Hubbs]] and Laura C. Hubbs examines left-right differences in paired and median structures of fishes. Its main focus is the flatfishes (order Heterosomata), the most asymmetric vertebrates, but it also surveys essentially symmetrical fishes such as [[Leptocottus...
+> -- *[[BilateralAsymmetryAndBilateral_14309]]*
+
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
 - [[ProductivityRelationsInCarboyM_12276]]
 - [[AReviewOfThePoeciliidaeOrKillf_19855]]
+- [[TheGeneticsOfFishDiseases_11040]]
+- [[JahreGenestischeUntersuchungen_12397]]
+- [[BilateralAsymmetryAndBilateral_14309]]
 
 ## Osage Fork
 
@@ -6483,9 +9745,29 @@ Osage River, also called Marais des Cygnes, is a major Kansas waterway where Blu
 > This Missouri Department of Conservation report (Aquatic Series No. 18, Jefferson City, October 1984) by William L. Pflieger documents the distribution, abundance, habitat, diet, growth, reproduction, and conservation status of the [[Bluestripe Darter]], an endemic fish of the [[Osage River]] and...
 > -- *[[DistributionStatusAndLifeHisto_11159]]*
 
+> This document combines two short hatchery reports from the *Progressive Fish-Culturist* (January 1963). The first, by Charles A. Purkett, Jr. of the [[Missouri Conservation Commission]], describes the first hatchery propagation of [[Paddlefish]] (*Polyodon spathula*) from eggs stripped from wild...
+> -- *[[ArtificialPropagationOfPaddlef_18723]]*
+
+> This taxonomic paper describes *[[Ambloplites Constellatus]]*, the Ozark rock bass, a new centrarchid from the upland section of the [[White River]] in Arkansas and Missouri. The authors separate it from its congeners, mainly [[Ambloplites Rupestris]] (northern rock bass) and [[Ambloplites...
+> -- *[[AmbloplitesConstellatusANewSpe_16046]]*
+
 ### Mentioned In
 - [[WhatHaveICaught_12929]]
 - [[DistributionStatusAndLifeHisto_11159]]
+- [[ArtificialPropagationOfPaddlef_18723]]
+- [[AmbloplitesConstellatusANewSpe_16046]]
+
+## Osage River System
+
+### Summary
+A drainage system in eastern Kansas and western Missouri that includes the Marais des Cygnes and Little Osage rivers. In this source, the tadpole madtom appears to be confined to this system within Kansas, based on oxbow and strip-mine records in its tributary basins.
+
+### Context
+> This short faunal note reports new Kansas occurrences of four fish species whose state records were scarce or poorly documented: [[Notropis Illecebrosus]] (silverstripe shiner), [[Notropis Dorsalis]] (bigmouth shiner), [[Noturus Gyrinus]] (tadpole madtom), and [[Etheostoma Stigmaeum]] (speckled...
+> -- *[[NewRecordsOfFourFishesFromKans_18037]]*
+
+### Mentioned In
+- [[NewRecordsOfFourFishesFromKans_18037]]
 
 ## Osborne 1911 Clinostomum Study
 
@@ -6510,6 +9792,82 @@ Osburn is Dr. R. C. Osburn, who made the species identifications for the fish ex
 
 ### Mentioned In
 - [[MorphologyOfTheKidneysOfOhioFi_16580]]
+
+## Oscar
+
+### Summary
+Astronotus ocellatus, a large South American cichlid widely kept in aquariums and established as an exotic in Florida canals. The source notes it co-occurs with the Spotted Tilapia and that its numbers declined in some canals where the tilapia became common.
+
+### Context
+> This document combines two items. The first is a research paper by [[Walter R. Courtenay]] and [[Dannie A. Hensley]] on the rapid range expansion of the introduced [[Spotted Tilapia]] (*Tilapia mariae*) in southern [[Florida]], with preliminary evidence that it may displace native and other exotic...
+> -- *[[RangeExpansionInSouthernFlorid_17624]]*
+
+> This study describes the cephalic and trunk lateral-line system of the [[Rio Grande Perch]], *Cichlasoma cyanoguttatum*, the only member of the [[Cichlidae]] known to occur naturally in the continental United States. Branson (1961) combines external morphology, osteology, histology, and...
+> -- *[[TheLaterallineSystemInTheRioGr_12897]]*
+
+### Mentioned In
+- [[RangeExpansionInSouthernFlorid_17624]]
+- [[TheLaterallineSystemInTheRioGr_12897]]
+
+## Oscar F. Francke
+
+### Summary
+Oscar F. Francke was a scorpion biologist and systematist at Texas Tech University. Williams named Uroctonus franckei in recognition of his contributions to scorpion biology and systematics.
+
+### Context
+> This taxonomic paper describes a new scorpion, [[Uroctonus Franckei]] Williams, 1986, from the eastern slope of the [[Sierra Nevada]] in California. The species is known only from elevations above 2133 m, on slopes dominated by [[Pinus Jeffreyi]] (yellow pine). Its closest relative is [[Uroctonus...
+> -- *[[ANewSpeciesOfUroctonusFromTheS_12062]]*
+
+### Mentioned In
+- [[ANewSpeciesOfUroctonusFromTheS_12062]]
+
+## Oscar Fish
+
+### Summary
+The Oscar (*Astronotus ocellatus*) is a cichlid fish from the family Cichlidae. In this study, eight Oscars were kept in laboratory home tanks at 25°C and tested on visual size discrimination. Only six learned the initial task, and only one showed partial transposition.
+
+### Context
+> This 1969 study by R. F. Mark and Alan Maxwell tested whether the cichlid fish [[Oscar Fish]] (*Astronotus ocellatus*) could develop a concept of relative size. Eight fish were trained with automated [[Visual Discrimination Apparatus]] to choose the larger of two light circles. Only six of eight...
+> -- *[[CircleSizeDiscriminationAndTra_19375]]*
+
+### Mentioned In
+- [[CircleSizeDiscriminationAndTra_19375]]
+
+## Oscar Flores-Villela
+
+### Summary
+Oscar Flores-Villela is the author of this 1993 Carnegie Museum of Natural History Special Publication, an annotated checklist of Mexican amphibians and reptiles. The source credits him with the list, which updates earlier national checklists and records recent taxonomic changes. He is a herpetologist, and the work is a herpetological reference rather than a fish study.
+
+### Context
+> This Carnegie Museum of Natural History Special Publication (No. 17, 1993), authored by [[Oscar Flores-Villela]] and edited by C. J. McCoy, presents an annotated checklist of the valid amphibian and reptile species of Mexico, together with a summary of taxonomic changes and new species recorded...
+> -- *[[HerpetofaunaMexicana_18739]]*
+
+### Mentioned In
+- [[HerpetofaunaMexicana_18739]]
+
+## Osceola County
+
+### Summary
+A Florida county that the authors expected the walking catfish to reach within a year or two, as it spread from the Kissimmee area. The source lists it as a projected invasion site rather than a confirmed record.
+
+### Context
+> This document contains two items. The main paper, by [[Walter R. Courtenay Jr]] and [[Woodard W. Miley II]], documents the spread of the introduced [[Walking Catfish]] ([[Clarias Batrachus]]) across southern [[Florida]] after escapes from an aquarium-fish farm in the mid-1960s. By 1974 the species...
+> -- *[[RangeExpansionAndEnvironmental_17623]]*
+
+### Mentioned In
+- [[RangeExpansionAndEnvironmental_17623]]
+
+## Oscillation Ripples
+
+### Summary
+Ripples formed by oscillating flow, which the source says the reversing-flow ripples at the reattachment point resemble. The authors caution that these ripples should not be mistaken for wave ripples.
+
+### Context
+> This sedimentological study by [[David M. Rubin]], [[John C. Schmidt]], and [[Johnnie N. Moore]] examines a [[Reattachment Bar]] in a channel expansion of the [[Colorado River]] in [[Grand Canyon]], Arizona. The paper describes how [[Recirculation Zone]] flow deposits sand at the point where flow...
+> -- *[[OriginStructureAndEvolutionOfA_21106]]*
+
+### Mentioned In
+- [[OriginStructureAndEvolutionOfA_21106]]
 
 ## Oscillatoria
 <!-- fm: auto_enriched: true -->
@@ -6551,6 +9909,12 @@ Osburn is Dr. R. C. Osburn, who made the species identifications for the fish ex
 > This 1925 report from the [[State Board Of Fisheries And Game]] presents a multi-year investigation of [[Alosa Sapidissima]] (American shad) in the [[Connecticut River]] and its tributaries. Catches had collapsed from tens of thousands per year to record lows (13,350 in 1923). The investigation...
 > -- *[[AReportOfInvestigationsConcern_16518]]*
 
+> This 1956 population study by Rezneat M. Darnell (Tulane University) examines a population of the poorly studied tropical freshwater shrimp [[Atya Scabra]] collected on 27 April 1950 from a boulder riffle of the Rio Sabinas, a headwater tributary of the [[Rio Tamesi]] drainage in southern...
+> -- *[[AnalysisOfAPopulationOfTheTrop_13942]]*
+
+> This survey by Symoens, Duvigneaud and Vanden Berghen (Bulletin de la Société Royale de Botanique de Belgique, 1951) reviews the calcareous tufas (travertines) of Belgium and the plants that build them. Tufa forms when [[Biogenic Decalcification]] occurs: photosynthesis strips dissolved calcium...
+> -- *[[ApercuSurLaVegetationDesTufsCa_15139]]*
+
 ### Mentioned In
 - [[AProposalToMonitorTheEffectsOf_11482]]
 - [[ReportOnLunaLakeApacheCountyAr_19495]]
@@ -6564,6 +9928,8 @@ Osburn is Dr. R. C. Osburn, who made the species identifications for the fish ex
 - [[LaboratoryFoodPatchExploitatio_17130]]
 - [[IntegrationAndEvaluationOfGlen_13851]]
 - [[AReportOfInvestigationsConcern_16518]]
+- [[AnalysisOfAPopulationOfTheTrop_13942]]
+- [[ApercuSurLaVegetationDesTufsCa_15139]]
 
 ## Oscillatoria agardhii
 
@@ -6574,8 +9940,24 @@ Oscillatoria agardhii is a blue-green algae (cyanobacterium) that forms dense, n
 > This comprehensive limnological study examines the phenomenon of metalimnetic oxygen maxima in 54 lakes worldwide, documenting 98 separate instances where oxygen concentrations exceeded 12.7 mg/L (the saturation value at 4°C). The research establishes a classification system for plus-heterograde...
 > -- *[[FurtherStudiesOnTheMetalimneti_15723]]*
 
+> This is a review by W. T. Edmondson (Washington, USA), prepared for the Fourteenth Limnological Congress (Verhandlungen Internationale Vereinigung für Theoretische und Angewandte Limnologie, Stuttgart, 1961), on secondary production and decomposition in lakes. Using the [[Daphnia Pulex]] energy...
+> -- *[[SecondaryProductionAndDecompos_15762]]*
+
 ### Mentioned In
 - [[FurtherStudiesOnTheMetalimneti_15723]]
+- [[SecondaryProductionAndDecompos_15762]]
+
+## Oscillatoria Aghardi
+
+### Summary
+A filamentous cyanobacterium (blue-green alga) found in plankton. In this source it dominated the August 1961 plankton of Doe Valley Lake, and the authors link it to the metalimnetic oxygen maximum there, which disappeared by late September.
+
+### Context
+> This paper by [[W. L. Minckley]] and Donald R. Tindall reports water-chemistry and thermal observations from [[Doe Valley Lake]], a reservoir of about 500 surface acres in the steep-walled valley of [[Doe Run]], Meade County, Kentucky, sampled during its filling in August and September 1961. The...
+> -- *[[LimnologicalObservationsOnDoeV_15872]]*
+
+### Mentioned In
+- [[LimnologicalObservationsOnDoeV_15872]]
 
 ## Oscillatoria angustissima
 
@@ -6645,6 +10027,18 @@ Oscillatoria tenius is an algal species mentioned in this 1967 literature review
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 
+## Oscillatoria Terebriformis
+
+### Summary
+A filamentous blue-green alga (cyanobacterium) found in hot spring outflows. It shades out Synechococcus lividus below about 54°C, and grazing by the ostracod Potamocypris confines it to warmer water above roughly 46–48°C, creating a thermal refuge.
+
+### Context
+> This review, published in the *Annual Review of Ecology and Systematics* (Volume 6, 1975) by Robert K. Colwell and Eduardo R. Fuentes, synthesizes experimental studies of how biotic interactions shape the [[Ecological Niche]] of populations within co-evolved communities. The authors restrict scope...
+> -- *[[ExperimentalStudiesOfTheNiche_17451]]*
+
+### Mentioned In
+- [[ExperimentalStudiesOfTheNiche_17451]]
+
 ## Osmeridae
 <!-- fm: auto_enriched: true -->
 
@@ -6670,6 +10064,9 @@ Osmeridae is a family of small, silvery forage fishes characterized by the prese
 > This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
 > -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
 
+> This paper by [[Gordon Gunter]] (Gulf Coast Research Laboratory, 1956) revises and extends an earlier annotated list of fishes that tolerate both fresh water and pure sea water. The revised list contains **150 species** from North and Middle America, north of the southern boundary of Panama. The...
+> -- *[[ARevisedListOfEuryhalinFishesO_17829]]*
+
 ### Mentioned In
 - [[DispersalOfRainbowSmeltOsmerus_1980]]
 - [[FreshwaterFishesOfTheEasternAr_18569]]
@@ -6680,6 +10077,7 @@ Osmeridae is a family of small, silvery forage fishes characterized by the prese
 - [[KeysToTheFreshwaterAndAnadromo_12535]]
 - [[AssessmentOfTheNeedForForageEn_17853]]
 - [[ARevisionOfTheOsmeridFishesOfT_19980]]
+- [[ARevisedListOfEuryhalinFishesO_17829]]
 
 ## Osmerus dentex
 
@@ -6718,6 +10116,12 @@ Osmerus mordax, commonly known as rainbow smelt, is a small euryhaline teleost f
 > This 1925 taxonomic paper by [[Carl L Hubbs]] revises the smelt family [[Osmeridae]] in the North Pacific. Based on examination of nearly all osmerid material preserved in American museums, Hubbs presents a dichotomous key to the genera and species, reassesses the validity of several named forms,...
 > -- *[[ARevisionOfTheOsmeridFishesOfT_19980]]*
 
+> This chapter, by Brooks M. Burr and Lawrence M. Page (in Hocutt and Wiley, 1986), consolidates distribution records for the freshwater fishes of the [[Lower Ohio-Upper Mississippi Basin]] and interprets them against [[Pliocene]], [[Pleistocene]] and Recent environments. The region holds 229 species...
+> -- *[[ZoogeographyOfFishesOfTheLower_14071]]*
+
+> This 1978 survey by Smith, Taylor and Grimshaw documents the fish fauna of the [[Raisin River]] drainage in southeastern Michigan. The basin has been heavily altered by industrial, urban and agricultural change. Sampling at 160 localities between June 15 and October 31, 1978 yielded 50,345...
+> -- *[[EcologicalSurveyOfFishesInTheR_21164]]*
+
 ### Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
@@ -6726,6 +10130,8 @@ Osmerus mordax, commonly known as rainbow smelt, is a small euryhaline teleost f
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[TransportationAndDeliveryOfCen_11638]]
 - [[ARevisionOfTheOsmeridFishesOfT_19980]]
+- [[ZoogeographyOfFishesOfTheLower_14071]]
+- [[EcologicalSurveyOfFishesInTheR_21164]]
 
 ## Osmerus Mordax Mordax
 <!-- fm: auto_enriched: true -->
@@ -6789,6 +10195,12 @@ Osmoregulation refers to the physiological processes by which fish maintain home
 > This review, by [[Richard S. Wydoski]] and [[Gary A. Wedemeyer]], examines the difficulties of using physiological, mainly [[Blood Chemistry]], data to monitor wild fish populations. The authors argue that fish constantly adjust [[Osmoregulation]] and metabolism to environmental change, that...
 > -- *[[ProblemsInThePhysiologicalMoni_20869]]*
 
+> This popular feature describes the [[Pupfish]] (*Cyprinodon* spp.) of [[Death Valley]], California, and nearby Nevada. The fish survive in desert springs and pools that remain from [[Lake Manly]], a Pleistocene lake that once covered the valley. The article focuses on the [[Devils Hole Pupfish]],...
+> -- *[[LivingFossilsOfDevilsHole_12343]]*
+
+> This laboratory study examines how acute heat stress alters the gill ultrastructure of the [[Mozambique Tilapia]] (*Oreochromis mossambicus*, family [[Cichlidae]]). Fish acclimated to 25°C for 14 days were exposed to 30, 35, 40 and 45°C. Gill epithelia were progressively damaged between 30 and...
+> -- *[[ChangesInGillMorphologyOfOreoc_20439]]*
+
 ### Mentioned In
 - [[CyclicalActivityOfTheThyroidGl_15081]]
 - [[EffectOfActivitySalinityAndTem_1969]]
@@ -6798,6 +10210,8 @@ Osmoregulation refers to the physiological processes by which fish maintain home
 - [[SomeMechanismsUnderlyingTherma_1967]]
 - [[WaterAndSodiumMoveme_19754]]
 - [[ProblemsInThePhysiologicalMoni_20869]]
+- [[LivingFossilsOfDevilsHole_12343]]
+- [[ChangesInGillMorphologyOfOreoc_20439]]
 
 ## Osmoregulation In Salmonids
 <!-- fm: auto_enriched: true -->
@@ -6818,11 +10232,47 @@ Osmoregulation refers to the physiological processes by which fish maintain home
 ### Mentioned In
 - [[LargeScaleMortalityOfFishAtStL_17668]]
 
+## Osmotic Activity
+
+### Summary
+The osmotic contribution of a haemolymph component is its share of total osmolar concentration, which Sutcliffe calculated from freezing-point depression (1 osmole/l corresponding to 1.86°C). Each component's percentage is treated as a maximum estimate because incomplete dissociation and ion binding were assumed absent.
+
+### Context
+> This 1963 comparative biochemistry paper by D. W. Sutcliffe (Department of Zoology, University of Durham) tests whether the chemical composition of [[Insecta|insect]] haemolymph reflects evolutionary history. Using a compiled dataset from published analyses, the author expresses the osmotic...
+> -- *[[TheChemicalCompositionOfHaemol_14684]]*
+
+### Mentioned In
+- [[TheChemicalCompositionOfHaemol_14684]]
+
 ## Osmotic Balance
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[OsmoregulatoryRoleOfSerumGluco_1971]]
+
+## Osmotic Pressure
+
+### Summary
+Osmotic pressure is the pressure that drives water movement across membranes, and in marine fishes it relates to the salinity of sea water and body fluids. The source discusses a disagreement over whether sea water osmotic pressure harms marine fishes. Scott found no deaths attributable to osmotic pressure in his experiments and suggested the conflict with earlier reports might be explained by unrecorded sporozoan infection.
+
+### Context
+> This 1911 paper by Will Scott, reprinted from the *Proceedings of the Indiana Academy of Science*, reports experiments on [[Scale Regeneration]] in the [[Killifish]] ([[Fundulus Heteroclitus]]). Scott removed about six rows of scales from one side of each fish and followed the development of the...
+> -- *[[TheRegeneratedScalesOfFundulus_11317]]*
+
+### Mentioned In
+- [[TheRegeneratedScalesOfFundulus_11317]]
+
+## Osmotic Processes
+
+### Summary
+Movement of water across cell membranes driven by differences in salt concentration. The authors proposed that differences between marine and freshwater fish responses to fixation and preservation may relate mainly to osmotic processes and salinity.
+
+### Context
+> This study measured body-part lengths of several species of young freshwater fish to determine the short- and medium-term effects of [[Fixation]] and [[Preservation]]. [[Shrinkage]] of up to 4.9% was the general rule, but some lengths increased or stayed static. [[Rigor Mortis]] is probably the...
+> -- *[[ChangesInLengthsOfFixedAndPres_20295]]*
+
+### Mentioned In
+- [[ChangesInLengthsOfFixedAndPres_20295]]
 
 ## Osmotic Stress
 
@@ -6852,6 +10302,18 @@ Osmundson (1987) is a prior study of Colorado squawfish winter survival that fou
 - [[TheRoleOfSizeConditionAndLipid_13587]]
 - [[ColoradoSquawfishAndRazorbackS_18350]]
 
+## Osmylidae
+
+### Summary
+Osmylidae is an insect family in the order Neuroptera. In this source it is represented in Britain by Osmylus fulvicephalus, whose larvae live in wet moss at the edges of small wooded streams and feed on chironomid larvae.
+
+### Context
+> This second-edition key (Freshwater Biological Association Scientific Publication No. 8, 1962), by D. E. Kimmins of the [[British Museum (Natural History)]], identifies the six British aquatic species of the orders [[Megaloptera]] and [[Neuroptera]]. The insects are only partly aquatic: eggs, pupae...
+> -- *[[KeysToTheBritishSpeciesOfAquat_12525]]*
+
+### Mentioned In
+- [[KeysToTheBritishSpeciesOfAquat_12525]]
+
 ## Osphranticum
 <!-- fm: auto_enriched: true -->
 
@@ -6869,8 +10331,12 @@ Osmundson (1987) is a prior study of Colorado squawfish winter survival that fou
 > **Species-specific niche notes:** - **[[Diaptomus Pallidus]]**: The most common calanoid in the region, found at 21 stations; typical of quarries, permanent ponds, and lakes. Also the dominant *Diaptomus* species in the Cincinnati area (cf. [[Turner 1892]], [[Ward 1940]]). - **[[Diaptomus Sanguin...
 > -- *[[NotesOnTheCalanoidAndCyclopoid_16005]]*
 
+> This 1959 review by [[Gerald A. Cole]] consolidates published records of crustaceans from [[Kentucky]], reports taxa not previously listed for the state, and flags unresolved taxonomic problems. More than 20 species had been described from Kentucky material, yet knowledge of the class within state...
+> -- *[[ASummaryOfOurKnowledgeOfKentuc_16011]]*
+
 ### Mentioned In
 - [[NotesOnTheCalanoidAndCyclopoid_16005]]
+- [[ASummaryOfOurKnowledgeOfKentuc_16011]]
 
 ## Osprey
 <!-- fm: auto_enriched: true -->
@@ -6921,6 +10387,9 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 > This report, written by [[Witmer Stone]] with field notes by [[Samuel N. Rhoads]], documents a February 1905 collection of 258 bird specimens and 117 mammal specimens from the [[Colorado Delta]] in northwestern Lower California. The expedition was made for the [[Academy of Natural Sciences of...
 > -- *[[OnACollectionOfBirdsAndMamalsF_14597]]*
 
+> This review by [[Peter S. Maitland]] proposes national criteria for selecting freshwater fish sites in the British Isles for notification as [[National Nature Reserves]] or [[Sites of Special Scientific Interest]]. The author argues that many important fish sites remain unprotected because clear...
+> -- *[[CriteriaForTheSelectionOfImpor_19358]]*
+
 ### Mentioned In
 - [[BrownPelicansInTheGulfOfCalifo_1998_05_30]]
 - [[ColoradoRiverTrophicStudiesMee_1991_07_23]]
@@ -6937,6 +10406,7 @@ In the context of aquatic ecology and fisheries science, osprey (Pandion haliaet
 - [[YellowstoneFishAndFishing_11404]]
 - [[GeneralBiologyOfTheEndangeredS_11584]]
 - [[OnACollectionOfBirdsAndMamalsF_14597]]
+- [[CriteriaForTheSelectionOfImpor_19358]]
 
 ## Osprey Falls
 
@@ -6978,6 +10448,18 @@ Ospreys are occasional summer visitors to the Kosi System. This study observed t
 ### Mentioned In
 - [[SacoRiverFisheryManagement_12824]]
 
+## Ost
+
+### Summary
+Ost is a 1987 author cited by the essay for the principle that models should be taken seriously but not literally. The source uses this point to warn against treating simulation outputs as literal descriptions of reality.
+
+### Context
+> This document is a 1992 journal essay by Marlo Steed on **Stella**, a graphical simulation construction kit for building continuous, system-dynamics models. It is not a fish, ecological, or field study. Its only aquatic element is an illustrative river-pollution model (a "NoBug" concentration from...
+> -- *[[StellaASimulationConstructionK_14749]]*
+
+### Mentioned In
+- [[StellaASimulationConstructionK_14749]]
+
 ## Ostariophysi
 <!-- fm: auto_enriched: true -->
 
@@ -6997,10 +10479,22 @@ Ospreys are occasional summer visitors to the Kosi System. This study observed t
 > This 1961 Master of Science thesis by Morgan Emery Sisk, submitted to [[Oklahoma State University]], compares the bony elements of the [[Weberian Apparatus]] in three species of [[Dionda]] and six species of [[Notropis]], plus one hybrid combination. The author set out to test whether this small,...
 > -- *[[AComparativeStudyOfTheWeberian_19005]]*
 
+> This reprinted 1963 Encyclopaedia Britannica entry describes the [[Electric Eel]] (*Electrophorus electricus*), a South American fresh-water fish with an elongated, nearly round-in-cross-section body. The text covers its taxonomic placement, external anatomy, the structure and output of its...
+> -- *[[ElectricEel_14165]]*
+
+> This 1963 study by [[Wolfgang Pfeiffer]] (Department of Zoology, University of British Columbia) documents the [[Fright Reaction]] in North American freshwater fish for the first time in detail. Skin extracts from five [[Cyprinidae]] species and two [[Catostomidae]] species were tested in more than...
+> -- *[[TheFrightReactionInNorthAmeric_11152]]*
+
+> This 1919 comparative anatomy paper by [[Carl L. Hubbs]], reprinted from the *Journal of Morphology* (Vol. 33, No. 1), consolidates evidence on the opercular series and branchiostegal rays across a wide range of fishes. Hubbs argues that these bones take one of two basic forms: a generalized type...
+> -- *[[AComparativeStudyOfTheBonesFor_19965]]*
+
 ### Mentioned In
 - [[ElectricEel_1963]]
 - [[MinnowsFirstThenTrout_21137]]
 - [[AComparativeStudyOfTheWeberian_19005]]
+- [[ElectricEel_14165]]
+- [[TheFrightReactionInNorthAmeric_11152]]
+- [[AComparativeStudyOfTheBonesFor_19965]]
 
 ## Osteichthyes
 <!-- fm: auto_enriched: true -->
@@ -7021,6 +10515,12 @@ Osteichthyes refers to the class of bony fishes, characterized by the presence o
 > This document presents a comprehensive taxonomic classification of fish species inhabiting the [[Gulf of California]], organized according to the classification system of L.S. Berg. The checklist encompasses both cartilaginous fishes ([[Chondrichthyes]]) and bony fishes ([[Osteichthyes]]),...
 > -- *[[AClassificationOfTheFishesOfTh_14438]]*
 
+> The source is a bundle of several items. The main research content is a 1999 *Nature* letter on [[Psarolepis Romeri]], a roughly 400-million-year-old fossil fish from the Lower Devonian of [[Qujing]], Yunnan, China. The letter describes shoulder girdle and cheek bone material that shows a mix of...
+> -- *[[APrimitiveFossilFishShedsLight_20933]]*
+
+> This booklet, compiled by [[Reeve M. Bailey]] and [[Ted M. Cavender]] of the Museum of Zoology, University of Michigan, reprints 51 encyclopedia articles on fish classification from the McGraw-Hill Encyclopedia of Science and Technology (third edition, 1971). Most articles focus on bony fishes...
+> -- *[[Fishes_17252]]*
+
 ### Mentioned In
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[BookReviewOfHowToKnowTheFreshw_1959]]
@@ -7028,6 +10528,8 @@ Osteichthyes refers to the class of bony fishes, characterized by the presence o
 - [[ProvisionalChecklistOfCanadian_21104]]
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[AClassificationOfTheFishesOfTh_14438]]
+- [[APrimitiveFossilFishShedsLight_20933]]
+- [[Fishes_17252]]
 
 ## Osteichthys
 
@@ -7040,6 +10542,18 @@ Osteichthys is the class-level taxonomic classification for the Pahrump Killifis
 
 ### Mentioned In
 - [[EndangeredSpeciesInformationSy_14003]]
+
+## Osteo-Dentine
+
+### Summary
+A bone-like tissue with a lacunar and canalicular structure, similar to dentine. Ridewood states that the gill-raker of Polyodon closely resembles this tissue in its histology.
+
+### Context
+> The document is a scanned 1904 Proceedings of the Zoological Society article in two parts. Part one describes the gill-rakers of the [[Spoonbill Sturgeon]] (*Polyodon spathula*), a filter-feeding structure, and gives six numbered conclusions on their structure and function. Part two is a detailed...
+> -- *[[OnTheCranialOsteologyOfTheFish_14946]]*
+
+### Mentioned In
+- [[OnTheCranialOsteologyOfTheFish_14946]]
 
 ## Osteoglossidae
 <!-- fm: auto_enriched: true -->
@@ -7073,6 +10587,18 @@ Osteichthys is the class-level taxonomic classification for the Pahrump Killifis
 
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
+
+## Osteolepiformes
+
+### Summary
+An order of lobefin fishes (Crossopterygii) that the source says gave rise to tetrapods. It is one of the lineages within the relict lobefin group.
+
+### Context
+> This booklet, compiled by [[Reeve M. Bailey]] and [[Ted M. Cavender]] of the Museum of Zoology, University of Michigan, reprints 51 encyclopedia articles on fish classification from the McGraw-Hill Encyclopedia of Science and Technology (third edition, 1971). Most articles focus on bony fishes...
+> -- *[[Fishes_17252]]*
+
+### Mentioned In
+- [[Fishes_17252]]
 
 ## Osteological Specimen Preparation
 <!-- fm: auto_enriched: true -->
@@ -7132,6 +10658,18 @@ Ostichthys trachypoma is a soldierfish species in the subfamily Myripristinae fo
 ### Mentioned In
 - [[FaoSpeciesIdentificationSheets_20826]]
 
+## Ostion Lagoon
+
+### Summary
+A coastal lagoon in Veracruz named among the major estuaries and lagoons included in the checklist. It is one of the lagoon systems that supports the diverse euryhaline fish fauna described in the paper.
+
+### Context
+> This paper presents an updated checklist of the marine and coastal fishes of [[Veracruz]], Mexico, on the southwestern [[Gulf of Mexico]]. It combines literature records with the results of 22 collecting trips that yielded 1,989 specimens. The checklist lists 290 species in 171 genera and 71...
+> -- *[[PecesCosterosYMarinosDelEstado_16230]]*
+
+### Mentioned In
+- [[PecesCosterosYMarinosDelEstado_16230]]
+
 ## Ostracoda
 <!-- fm: auto_enriched: true -->
 
@@ -7145,11 +10683,35 @@ Ostichthys trachypoma is a soldierfish species in the subfamily Myripristinae fo
 > This 1980 *Hilgardia* study compared the effects of the native [[Desert Pupfish]] (*Cyprinodon macularius*) and the introduced [[Western Mosquitofish]] (*Gambusia affinis affinis*) on aquatic insects and zooplankton in 12 experimental ponds in Riverside, California, during 1974 and 1975. Both fish...
 > -- *[[ImpactOfTheDesertPupfishCyprin_14858]]*
 
+> This 1961 bulletin note by [[Carl L. Hubbs]] and [[Robert R. Miller]] re-examines silicified microfossils from [[Calico Mountains Nodules]] that [[W. Dwight Pierce]] had reported as Miocene fish eggs and an embryo. After review by several specialists, the authors conclude that the specimens are...
+> -- *[[SupposedMioceneFishEggsAndEmbr_14442]]*
+
+> This study by W. J. P. Smyly, of the [[Freshwater Biological Association]], examines the distribution and seasonal abundance of [[Entomostraca]] (small freshwater crustaceans in the orders [[Copepoda]], [[Cladocera]] and [[Ostracoda]]) in three small moorland ponds on Claife Heights near...
+> -- *[[DistributionAndSeasonalAbundan_21217]]*
+
+> This 1967 study by William L. Hilsenhoff (Department of Entomology, University of Wisconsin, Madison) examines why [[Chironomus Plumosus]] populations fluctuate so strongly in [[Lake Winnebago]]. The midge is abundant enough to be a serious nuisance. Over about 3½ years, the author sampled four...
+> -- *[[EcologyAndPopulationDynamicsOf_20405]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[EndangeredSpeciesInformationSy_14003]]
 - [[DistributionAndAbundanceOfBent_13853]]
 - [[ImpactOfTheDesertPupfishCyprin_14858]]
+- [[SupposedMioceneFishEggsAndEmbr_14442]]
+- [[DistributionAndSeasonalAbundan_21217]]
+- [[EcologyAndPopulationDynamicsOf_20405]]
+
+## Ostracode
+
+### Summary
+Ostracodes are small crustaceans with calcite shells that are preserved in lake sediments and can be dated. In this source, a 14,100 yr B.P. ostracode age from a fresh, deep-water lake in the Carson Lake area of the Carson Desert provides independent support, as reported by Thompson et al. (1990), for a roughly 14,000 yr B.P. highstand. Ostracode and pollen samples in the Walker Lake core were taken at about 1 m intervals.
+
+### Context
+> This paleolimnological rebuttal, published in the *Journal of Paleolimnology* (1991), argues that the last highstand of [[Lake Lahontan]] occurred between about 14,500 and 13,000 yr B.P. The author, L.V. Benson, disputes [[Bradbury et al. 1989]], who proposed that the last highstand fell between...
+> -- *[[TimingOfTheLastHighstandOfLake_18174]]*
+
+### Mentioned In
+- [[TimingOfTheLastHighstandOfLake_18174]]
 
 ## Ostracodermi
 
@@ -7162,6 +10724,30 @@ Ostracodermi is the group name for most early fishes that were heavily armoured 
 
 ### Mentioned In
 - [[Cyclostome_14164]]
+
+## Ostracodes
+
+### Summary
+Ostracodes are small bivalved crustaceans whose calcite valves are common in lake sediments. In this source, ostracode valves and fragments are a major source of calcite in the Lake Cochise clays, and their fauna is used by S. P. Cameron to reconstruct lake salinity and the history of temporary and permanent lakes. Ostracode fragments were also dated radiocarbon in the eastern playa edge samples.
+
+### Context
+> This field-guide paper by [[Joseph F. Schreiber Jr.]] (University of Arizona) describes the geology of [[Willcox Playa]], the desiccated bed of [[Lake Cochise]], a shallow late Pleistocene pluvial lake in southeastern Arizona. Results come from three years of field work (1962–65), later work...
+> -- *[[GeologyOfTheWillcoxPlayaCochis_20604]]*
+
+### Mentioned In
+- [[GeologyOfTheWillcoxPlayaCochis_20604]]
+
+## Ostracods
+
+### Summary
+Small crustaceans with bivalved shells. In this study, ostracods (mainly the undescribed Potamocypris sp.) made up 15% of the animal prey eaten, though they occurred in only about 2% of fish, and they were restricted to cooler areas of the stream.
+
+### Context
+> This study examined the diet of an [[Amargosa Pupfish]] (*Cyprinodon nevadensis amargosae*) population in the thermal outflow of [[Tecopa Bore]], California, using 218 specimens collected monthly from January 1972 to April 1973. The diet was dominated by an [[Algae-Detritus Mixture]] of blue-green...
+> -- *[[FoodHabitsOfTheAmargosaPupfish_19479]]*
+
+### Mentioned In
+- [[FoodHabitsOfTheAmargosaPupfish_19479]]
 
 ## Ostrea
 
@@ -7358,12 +10944,16 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 > This California Department of Fish and Game *Fish Bulletin* (No. 85, 1952, by Frederick B. Hagerman) describes the biology of the [[Dover Sole]], *Microstomus pacificus*, and the trawl fishery that depended on it. The study drew on about 3,200 specimens collected from July 1948 to October 1949,...
 > -- *[[TheBiologyOfTheDoverSoleMicros_20955]]*
 
+> This Fisheries and Marine Service Technical Report (No. 849, April 1979) by J.S. Campbell and J.A. Babaluk, Western Region, Winnipeg, compares [[Age Determination]] methods for [[Walleye]] (*Stizostedion vitreum vitreum*) from [[Wapun Lake]], a small boreal lake in northern Manitoba. The work was a...
+> -- *[[AgeDeterminationOfWalleyeStizo_17355]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19708]]
 - [[AnalyticalRequestForContaminan_11843]]
 - [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
 - [[AgeDeterminationForRazorbackSu_12255]]
 - [[TheBiologyOfTheDoverSoleMicros_20955]]
+- [[AgeDeterminationOfWalleyeStizo_17355]]
 
 ## Otolith Ageing
 
@@ -7430,11 +11020,15 @@ Otolith analysis is a method that reads growth rings in the ear stones of fish t
 > This California Department of Fish and Game bulletin (Fish Bulletin 126, by Julius B. Phillips) reports life-history data for ten commercially important [[Rockfish]] species of the genus *Sebastodes*. It covers annual growth, size and age at maturity, weight-length relationships, spawning season,...
 > -- *[[LifeHistoryStudiesOnTenSpecies_11172]]*
 
+> This 1969 monograph (Biological Papers of the University of Alaska, No. 11) by Lo-Chai Chen examines the [[Burbot]] (*Lota lota*) of interior Alaska. It argues for recognizing the Alaskan form as the subspecies *Lota lota leptura* on the basis of a high [[Peduncle Ratio]], geographic variation, and...
+> -- *[[TheBiologyAndTaxonomyOfTheBurb_16111]]*
+
 ### Mentioned In
 - [[CritiqueOfHumpbackChubResearch_20317]]
 - [[SomeAspectsOfTheLifeHistoryOfT_19254]]
 - [[EstablishingACaptiveBroodstock_20773]]
 - [[LifeHistoryStudiesOnTenSpecies_11172]]
+- [[TheBiologyAndTaxonomyOfTheBurb_16111]]
 
 ## Otolith and Scale Ageing
 
@@ -7466,6 +11060,18 @@ Otolith daily growth rings are microstructure increments in the ear bones that c
 ### Mentioned In
 - [[ManuscriptlongevityAndGrowthOf_11310]]
 
+## Otolith Identification
+
+### Summary
+Otolith identification is a method of recognising fish prey from their ear bones (otoliths), used here to identify heavily digested prey in carangid stomachs that could not be identified by other means. It supported the diet analysis of the six species.
+
+### Context
+> This study examines the occurrence, biology and feeding ecology of [[Carangidae]] (jacks and trevallies) in [[Natal Estuaries]], South Africa, based on a two-year survey of seven estuaries. Of 17 carangid species recorded in estuaries (from at least 40 species in Natal waters), six were...
+> -- *[[TheBiologyOfCarangidaeTeleoste_17665]]*
+
+### Mentioned In
+- [[TheBiologyOfCarangidaeTeleoste_17665]]
+
 ## Otolithes
 
 ### Summary
@@ -7490,9 +11096,61 @@ Otoliths are calcified structures in the inner ear of fishes, used to estimate a
 > This Canadian Special Publication (Fisheries and Aquatic Sciences 60, 1982) is a laboratory manual by [[Doris E. Chilton]] and [[Richard J. Beamish]] of the Pacific Biological Station, Nanaimo, B.C. It describes methods and equipment for estimating the ages of groundfish species off Canada's west...
 > -- *[[AgeDeterminationMethodsForFish_16137]]*
 
+> This FAO/EIFAC Occasional Paper (No. 21, 1988) reviews the methods used to determine the age of the [[European Eel]] (*Anguilla anguilla*) and related species, based on a circular survey of EIFAC Working Party on Eel members and the published literature of the previous decade. It also includes a...
+> -- *[[AgeDeterminationOfAnguillaAngu_13147]]*
+
+> This 1965 study by [[Flavio R. Lima]] (SUDENE fisheries research, Recife) examines the growth of the Pargo (*Lutjanus aya*), a commercially important snapper of northeastern Brazil. Using about 3,900 fish landed by [[Pargueiro Fishing Boats]] off the coast of Ceará between October 1962 and...
+> -- *[[CrescimentoDoPargoLutianusAyaB_12790]]*
+
+> This laboratory study tests whether [[Feeding Periodicity]] and [[Starvation]] affect the formation of [[Daily Growth Increments]] in the [[Otoliths]] of juvenile [[Steelhead Trout]] (*Salmo gairdneri*) and [[Starry Flounder]] (*Platichthys stellatus*). Fish were reared for 64–76 days under feeding...
+> -- *[[FeedingPeriodicityAndTheProduc_17346]]*
+
+> This book chapter by [[Giorgio Pannella]] reviews the structure, calcification, and growth-increment patterns of fish sagittae (the largest of the three paired [[Otoliths]] in teleost ears). It argues that sagittae record a detailed life-history archive: daily, tidal, lunar, and seasonal growth...
+> -- *[[GrowthPatternsInFishSagittae_18412]]*
+
 ### Mentioned In
 - [[StaticAndOntogenicAllometryInT_16811]]
 - [[AgeDeterminationMethodsForFish_16137]]
+- [[AgeDeterminationOfAnguillaAngu_13147]]
+- [[CrescimentoDoPargoLutianusAyaB_12790]]
+- [[FeedingPeriodicityAndTheProduc_17346]]
+- [[GrowthPatternsInFishSagittae_18412]]
+
+## Otophidium
+
+### Summary
+A genus of cusk-eels that includes the two species the source lists, O. scrippsae and O. taylori. Eye sorting gave it 16.3% of the yield against 9.7% by microscope, showing the large-otolith bias.
+
+### Context
+> This Los Angeles County Museum of Natural History contribution (No. 119, December 31, 1966) by [[John E. Fitch]] reports a resampling of the [[Playa del Rey Pleistocene Deposit]]. A 200-pound field sample of washed fossiliferous screenings was examined under a binocular microscope at six...
+> -- *[[AdditionalFishRemainsMostlyOto_16430]]*
+
+### Mentioned In
+- [[AdditionalFishRemainsMostlyOto_16430]]
+
+## Otophidium Taylori
+
+### Summary
+A cusk-eel species whose otoliths were important in other deposits but were entirely absent from the San Pedro sample. The author attributes the absence to a real lack of the species rather than to sampling bias.
+
+### Context
+> This Los Angeles County Museum of Natural History contribution (No. 128, May 31, 1967) by John E. Fitch describes the marine fish fauna recovered from the Miraflores Street deposit at San Pedro, California ([[San Pedro Sand]], LACMIP 332), a Lower Pleistocene outcrop. About 300 pounds of...
+> -- *[[TheMarineFishFaunaBasedPrimari_16431]]*
+
+### Mentioned In
+- [[TheMarineFishFaunaBasedPrimari_16431]]
+
+## Otsego County
+
+### Summary
+A county in the northern Lower Peninsula of Michigan, USA, where the Pigeon River trout research reach studied in this 1952 paper is located. The source places the experimental reach there, 13 miles east of Vanderbilt.
+
+### Context
+> This 1952 study, published in the *Transactions of the American Fisheries Society*, evaluates the yield and survival of legal-sized hatchery trout planted during the open season in a 4.8-mile section of the [[Pigeon River]] in [[Otsego County]], Michigan. Using a compulsory permit-based [[Creel...
+> -- *[[ReturnsFromPlantingsOfLegalsiz_17552]]*
+
+### Mentioned In
+- [[ReturnsFromPlantingsOfLegalsiz_17552]]
 
 ## Otsego Whitefish
 
@@ -7571,8 +11229,16 @@ Otter Creek is an unpolluted control stream in Oklahoma used in this study to co
 > This doctoral dissertation (Oklahoma State University, 1966) investigated how domestic sewage and oil refinery effluents affected the morphological characteristics and population structure of three cyprinid fish species in [[Skeleton Creek]], Oklahoma. Between June 1963 and May 1964, the author...
 > -- *[[TheEffectOfDomesticAndOilRefin_15666]]*
 
+> This short paper, reprinted from the *Transactions of the American Fisheries Society* (Vol. 92, No. 2, April 1962), describes a low-cost method for neutralizing acidic stream water. Raw [[Limestone]] is tumbled in a steel drum that is rotated by the stream's own flow, which prevents coating and...
+> -- *[[DissolvingLimestoneFromRevolvi_20946]]*
+
+> This 1959 University of Kansas Museum of Natural History monograph by Artie L. Metcalf surveys the fishes of a portion of the [[Arkansas River Basin]] in south-central Kansas, covering Cowley, Chautauqua and Elk Counties (about 2,430 square miles). Collections were made at 60 numbered stations...
+> -- *[[FishesOfChautauquaCowleyAndElk_20142]]*
+
 ### Mentioned In
 - [[TheEffectOfDomesticAndOilRefin_15666]]
+- [[DissolvingLimestoneFromRevolvi_20946]]
+- [[FishesOfChautauquaCowleyAndElk_20142]]
 
 ## Otter Creek Drainage Basin
 
@@ -7585,6 +11251,18 @@ The intermittent, sixth-order drainage basin in Garfield and Logan Counties, nor
 
 ### Mentioned In
 - [[StreamOrderAndCommunityStructu_20656]]
+
+## Otter Creek Recreational Area
+
+### Summary
+A former farming area on the Ohio River bluffs in Kentucky, acquired in 1934-1935 and managed by the National Park Service for about ten years when Lovell surveyed it. Eroded gullies had been stabilised with stakes, stones, sticks, grass and planted black locust. Lovell found that erosion had largely stopped but vegetation cover was still incomplete, and he documented pioneer shrub stands, remnant woodlands and wildlife there.
+
+### Context
+> This inaugural issue of *The Kentucky Naturalist*, journal of the Kentucky Society of Natural History (Louisville), sets out the Society's aims and reports on natural history in Kentucky. Its main research content is Harvey B. Lovell's survey of plant succession and wildlife at the [[Otter Creek...
+> -- *[[SomeSuccessionalChangesInTheBi_16216]]*
+
+### Mentioned In
+- [[SomeSuccessionalChangesInTheBi_16216]]
 
 ## Otter Lake
 
@@ -7647,6 +11325,15 @@ A bottom-towed net used by the four northern California vessels that supplied th
 > Fish Bulletin 136 (California Department of Fish and Game, 1966), compiled by [[Jerry L. Turner]] and D. W. Kelley, is the second volume of the [[Delta Fish and Wildlife Protection Study]]. It reports twelve papers on the distribution, relative abundance, food and spawning habits of fishes in the...
 > -- *[[EcologicalStudiesOfTheSacramen_13026]]*
 
+> This 1973 study by McErlean, O'Connor, Mihursky and Gibson, published in *Estuarine and Coastal Marine Science*, analyzes four years of quarterly fish collections from the middle [[Patuxent Estuary]] in Maryland. Three gears were used ([[Haul Seine]], [[Beam Trawl]] and [[Otter Trawl]]) at 50...
+> -- *[[AbundanceDiversityAndSeasonalP_12311]]*
+
+> This 1961 study by Royal D. Suttkus and Bangalore I. Sundararaj, Department of Zoology, [[Tulane University]], examines the reproductive biology of the [[Largescale Menhaden]] (*Brevoortia patronus*) in [[Louisiana Coast|Louisiana coastal waters]]. The authors analyzed 280 specimens collected...
+> -- *[[FecundityAndReproductionInTheL_15057]]*
+
+> This 1955 study by L. C. Hewson of the [[Central Fisheries Research Station]] examines the [[Burbot]] (*Lota lota*) in [[Lake Winnipeg]], Manitoba. The study draws on 886 burbot sampled with [[Trap-Net]], [[Otter Trawl]] and [[Gill-Net]] gear. Ages were determined from otoliths. The analysis covers...
+> -- *[[AgeMaturitySpawningAndFoodOfBu_20378]]*
+
 ### Mentioned In
 - [[StatusOfTheAnimalFoodFisheryIn_18204]]
 - [[AgeAndGrowthOfTheFlukeInGreatS_18632]]
@@ -7654,6 +11341,9 @@ A bottom-towed net used by the four northern California vessels that supplied th
 - [[ADistributionalAtlasOfUpperMis_21198]]
 - [[TheBiologyOfTheDoverSoleMicros_20955]]
 - [[EcologicalStudiesOfTheSacramen_13026]]
+- [[AbundanceDiversityAndSeasonalP_12311]]
+- [[FecundityAndReproductionInTheL_15057]]
+- [[AgeMaturitySpawningAndFoodOfBu_20378]]
 
 ## Otter Trawl Sampling
 
@@ -7695,11 +11385,35 @@ Otto Friedrich Müller was an 18th-century naturalist whose 1776 work begins the
 ### Mentioned In
 - [[FreshwaterTricladsTurbellariaO_17938]]
 
+## Otto Kinne
+
+### Summary
+Otto Kinne was a German-born marine biologist and author of this 1962 paper, written while he was at the University of Toronto. The paper reports his laboratory work on how salinity experienced by Desert Pupfish embryos shapes later growth and food conversion.
+
+### Context
+> This 1962 paper by [[Otto Kinne]] (University of Toronto) reports laboratory experiments on the euryhaline [[Desert Pupfish]] (*Cyprinodon macularius*). Fertilized eggs were either kept in their spawning salinity or moved 3–6 hr after spawning into a different salinity. Fish hatched from eggs that...
+> -- *[[IrreversibleNongeneticAdaptati_12547]]*
+
+### Mentioned In
+- [[IrreversibleNongeneticAdaptati_12547]]
+
 ## Ouabain
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[WaterAndSodiumMoveme_19754]]
+
+## Ouachita District
+
+### Summary
+An intergradation zone within the Carolinian Province in Oklahoma, where eastern and western faunal elements mix. Its only restricted species is Mesodon kiowaensis, found around Pittsburg County.
+
+### Context
+> This 1959 paper by [[Branley A. Branson]] (Department of Zoology, Oklahoma State University) is the first part of a series on the recent land and freshwater snails of [[Oklahoma]]. It reviews the history of malacological work in the state, divides Oklahoma into biotic provinces and districts that...
+> -- *[[TheRecentGastropodaOfOklahomaP_12890]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaP_12890]]
 
 ## Ouachita Mountains
 <!-- fm: auto_enriched: true -->
@@ -7711,10 +11425,42 @@ Otto Friedrich Müller was an 18th-century naturalist whose 1776 work begins the
 > This 1955 field survey by the [[Oklahoma Fisheries Research Laboratory]] (Finnell, Jenkins and Hall) documents the fish populations, habitat, growth rates and standing crops of the [[Little River]] system in southeastern Oklahoma. Sampling took place June to August 1955 using rotenone, seines, gill...
 > -- *[[TheFisheryResourcesOfTheLittle_16397]]*
 
+> This chapter, drawn from a 1987 volume on stream fish ecology, argues that algivorous (algae-grazing) fishes have been largely overlooked by stream ecologists. The authors focus on the widespread grazing minnow [[Campostoma Anomalum]] (Central Stoneroller), which they show can strongly control the...
+> -- *[[GrazingFishesAsComponentsOfNor_15200]]*
+
+> This 1955 survey by the [[Oklahoma Fisheries Research Laboratory]] examined the fish community of the [[Little River System]] in southeastern Oklahoma. A five-person crew sampled the main rivers, sixteen tributaries, and ten [[Cutoff Lakes]] during June and July 1955. The study compared species...
+> -- *[[GrowthOfFishesInCutoffLakesAnd_16395]]*
+
 ### Mentioned In
 - [[ThreeShinersNotropisOrtenburge_14255]]
 - [[RareAndEndangeredVertebratesAn_11494]]
 - [[TheFisheryResourcesOfTheLittle_16397]]
+- [[GrazingFishesAsComponentsOfNor_15200]]
+- [[GrowthOfFishesInCutoffLakesAnd_16395]]
+
+## Ouachita Parish
+
+### Summary
+Ouachita Parish is a Louisiana parish the authors compared with Caddo-Bossier using the FRF. It is the most similar of the four comparison areas, with 96 species (64.0% of the state fauna) and an FRF of 0.85 according to the source.
+
+### Context
+> This 1979 checklist, published as Number 3 of the [[Bulletin Of The Museum Of Life Sciences]] by [[Louisiana State University In Shreveport]], documents the fish fauna of Caddo and Bossier Parishes in northwestern [[Louisiana]]. The authors, [[Laurence M. Hardy]] and [[William H. LeGrande]], list...
+> -- *[[ChecklistOfTheFishesOfCaddoAnd_20635]]*
+
+### Mentioned In
+- [[ChecklistOfTheFishesOfCaddoAnd_20635]]
+
+## Ouachita Region
+
+### Summary
+The Ouachita Region is a area in the south-central United States, where species such as A. peltoides and A. mohri were collected. The authors argue it is relevant to Pleistocene faunal movements, and it is part of the biogeographic hypothesis for the sister pair A. frisoni and A. peltoides.
+
+### Context
+> This 1964 taxonomic paper by [[Herbert H. Ross]] and [[William E. Ricker]] describes six new species of winter stoneflies in the genus [[Allocapnia]] (family [[Capniidae]]) from the temperate deciduous forest of eastern North America. The species are diagnosed mainly by the male genitalia,...
+> -- *[[NewSpeciesOfWinterStonefliesGe_21084]]*
+
+### Mentioned In
+- [[NewSpeciesOfWinterStonefliesGe_21084]]
 
 ## Ouachita River
 <!-- fm: auto_enriched: true -->
@@ -7753,8 +11499,48 @@ The Ouachita rock-pocketbook is a freshwater mussel known from an about 80-mile 
 > This Federal Register compilation (October 29, 1990) contains three U.S. Fish and Wildlife Service actions under the [[Endangered Species Act]]. It contains no fish-focused research. The first is a proposed-rule request for information on [[Nile Crocodile]] and [[Yacare Caiman]] populations, tied...
 > -- *[[EndangeredAndThreatenedWildlif_14779]]*
 
+> This American Fisheries Society (AFS) review, published in *Fisheries* (Vol. 18, No. 9, September 1993), lists all native freshwater mussels of the families [[Margaritiferidae]] and [[Unionidae]] in the United States and Canada. It gives state and provincial distributions, reviews the conservation...
+> -- *[[ConservationStatusOfFreshwater_12010]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_14779]]
+- [[ConservationStatusOfFreshwater_12010]]
+
+## Ouachita Uplift
+
+### Summary
+A geologic uplift in southeastern Oklahoma. The source lists it as one of the regions where one keyed amphipod species occurs, in springs and subterranean waters.
+
+### Context
+> This document is a dichotomous identification key to amphipod crustaceans (order [[Amphipoda]]) of [[Oklahoma]], not a fish study. It separates the state's keyed species by antennal structure, accessory flagellum, uropod proportions, eye presence, and gnathopod (second pereiopod) armature. The key...
+> -- *[[AKeyToTheSpeciesOfAmphipodaOfO_19322]]*
+
+### Mentioned In
+- [[AKeyToTheSpeciesOfAmphipodaOfO_19322]]
+
+## Ouchterlony Immunodiffusion
+
+### Summary
+This is an agar-gel immunological method in which antigen and antiserum diffuse toward each other and form precipitation bands where they meet. Greenham used rabbit antisera raised against each group's muscle protein and found consistently high similarity among all six groups, with no clear protein differences detected.
+
+### Context
+> This 1968 study by P. M. Greenham, published in the *Australian Journal of Zoology*, compares six populations of [[Galaxiid Fishes]] collected from streams in and around the [[Australian Capital Territory]]. Populations were compared on two axes: meristic counts (vertebrae and fin rays) and the...
+> -- *[[MeristicFeaturesAndMuscleProte_19262]]*
+
+### Mentioned In
+- [[MeristicFeaturesAndMuscleProte_19262]]
+
+## Oued
+
+### Summary
+An oued is a North African watercourse, typically a seasonal river or stream. In the source, G. rouxi was collected from an oued crossing a road upstream of Imouzzer du Kandar, Fez province.
+
+### Context
+> This taxonomic paper, published in the [[Beaufortia]] miscellaneous series of the University of Amsterdam (1975, Volume 23, No. 301), describes two new freshwater amphipod species of the genus [[Gammarus]] from Morocco. [[Gammarus Rouxi]] was found in a well near Fez alongside [[Gammarus...
+> -- *[[OnTwoNewFreshwaterSpeciesOfThe_11104]]*
+
+### Mentioned In
+- [[OnTwoNewFreshwaterSpeciesOfThe_11104]]
 
 ## Ouray
 
@@ -8013,6 +11799,9 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This U.S. Fish and Wildlife Service document, dated April 12, 1987, combines two components for the [[Bonytail Chub]] (*Gila elegans*), a Cyprinidae fish of the [[Colorado River Basin]]: a bibliography of roughly 40 references (1980-1986) and the working narrative and stepdown plan of the bonytail...
 > -- *[[ReferencesWithNewInformationFo_11566]]*
 
+> This study by [[Modde]], [[Muth]], and [[Haines]] (U.S. Fish and Wildlife Service) tested whether floodplain wetlands of the middle [[Green River]] in Utah provide suitable nursery habitat for juvenile [[Razorback Sucker]] and whether larvae can reach them. The authors studied [[Old Charley Wash]],...
+> -- *[[FloodplainWetlandSuitabilityAc_16557]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -8044,6 +11833,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[CollectedNotesminutesreportsno_17172]]
 - [[FinalEnvironmentalAssessment_11629]]
 - [[ReferencesWithNewInformationFo_11566]]
+- [[FloodplainWetlandSuitabilityAc_16557]]
 
 ## Ouray Reach
 
@@ -8113,6 +11903,9 @@ Outbreeding depression in fish science refers to the reduction in fitness and su
 > This document is a 1993 proposal to the [[National Science Foundation]] (NSF Conservation Research program, NSF 90-66) from [[Arizona State University]]. It was submitted by [[Philip W. Hedrick]] (Principal Investigator, Department of Zoology) and [[Wendell Minckley]] (Co-Principal Investigator)....
 > -- *[[InbreedingDepression_20767]]*
 
+> This invited editorial by Gary K. Meffe (Savannah River Ecology Laboratory, University of Georgia), published in *Environmental Biology of Fishes* (1987), argues that [[Conservation Genetics]] is an underdeveloped field and that the loss of genetic diversity in fishes is largely invisible, unlike...
+> -- *[[ConservingFishGenomesPhilosoph_20077]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[ConservingFishGenomesPhilosoph_1988_08_02]]
@@ -8120,6 +11913,7 @@ Outbreeding depression in fish science refers to the reduction in fitness and su
 - [[LetterRegardingGilaTopminnowRe_1992_12_08]]
 - [[HeterozygosityAndFitnessDiffer_18732]]
 - [[InbreedingDepression_20767]]
+- [[ConservingFishGenomesPhilosoph_20077]]
 
 ## Outer Continental Shelf
 
@@ -8133,6 +11927,70 @@ The Outer Continental Shelf is the submerged seabed of the continental margin be
 ### Mentioned In
 - [[FactorsAffectingAccuracyOfIcht_17749]]
 
+## Outer Continental Shelf Environmental Assessment Program
+
+### Summary
+The Outer Continental Shelf Environmental Assessment Program (OCSEAP) was the US program that sponsored the Beaufort Sea barrier island–lagoon ecological process studies, including this work. The source notes that this study drew on companion OCSEAP studies of birds, fish, invertebrates and primary productivity.
+
+### Context
+> This interdisciplinary study by [[Peter C. Craig]] and colleagues examines the trophic structure of [[Simpson Lagoon]], a shallow arctic coastal lagoon in the central [[Alaskan Beaufort Sea]]. The authors work top-down, from birds and fish (consumers) to their invertebrate prey and finally to the...
+> -- *[[TrophicDynamicsInAnArcticLagoo_17991]]*
+
+### Mentioned In
+- [[TrophicDynamicsInAnArcticLagoo_17991]]
+
+## Outgate
+
+### Summary
+A location near the source of Ford Wood Beck in the English Lake District, where the author ran emergence traps and logged stream temperatures. The source notes that emerging adults were rare there, and that the station was consistently 2-3 °C cooler than station 1 near the mouth.
+
+### Context
+> This reprinted paper, presented at the XI International Congress of Entomology (Vienna, 1960), reviews the mayflies (Ephemeroptera) of Britain. It records 47 species from the British list, notes that several are rare or of doubtful status, and argues that the timing of emergence and the...
+> -- *[[EphemeropteraInBritain_19292]]*
+
+### Mentioned In
+- [[EphemeropteraInBritain_19292]]
+
+## Outgate Beck
+
+### Summary
+A tributary of Ford Wood Beck that was sampled regularly during the study. Macan reports that Habrophlebia fusca rose from scarcity to among the commonest species here, mainly in this stream. Wormaldia occipitalis was also much commoner at Outgate than elsewhere.
+
+### Context
+> This symposium paper by [[T. T. Macan]] (Freshwater Biological Association, Ambleside, 1962) argues that the composition of stream communities is often shaped by living components of the environment, not only by current. Macan uses an Arctic stream (Illies, 1956), a long-term study of [[Ford Wood...
+> -- *[[BioticFactorsInRunningWater_19291]]*
+
+> This paper by T. T. Macan (*Transactions of the Society for British Entomology*, 1957) reports three years of monthly collections of mayfly nymphs (Ephemeroptera) from a small, stony stream in the Lake District, [[Ford Wood Beck]], together with two tributaries, [[Sykeside Beck]] and [[Outgate...
+> -- *[[TheLifeHistoriesAndMigrationsO_19280]]*
+
+### Mentioned In
+- [[BioticFactorsInRunningWater_19291]]
+- [[TheLifeHistoriesAndMigrationsO_19280]]
+
+## Outgroup Comparison
+
+### Summary
+A method in phylogenetic systematics for determining whether a character state is primitive or derived by comparing it with related taxa outside the group of interest. The review identifies it as the most reliable method for polarising characters.
+
+### Context
+> This review, by [[Richard L. Mayden]] and [[Robert M. Wood]] in the American Fisheries Society Symposium 17 (1995), argues that accurate recognition of biodiversity depends on [[Phylogenetic Systematics]] and an appropriate [[Species Concept]]. The authors contend that most species concepts in use...
+> -- *[[SystematicsSpeciesConceptsAndT_15240]]*
+
+### Mentioned In
+- [[SystematicsSpeciesConceptsAndT_15240]]
+
+## Outgroup Method
+
+### Summary
+The Outgroup Method is a cladistic technique for assessing character polarity, meaning which character state is ancestral. The authors used it to assess polarity in their pelvic girdle characters. The note does not describe the method in further detail.
+
+### Context
+> This excerpt from the *Zoological Journal of the Linnean Society* (1992, 104: 209–242) presents a review of the pelvic girdle of [[Acanthomorpha]] by Stiassny and Moore. The authors use pelvic anatomy as a character system to test hypotheses of relationship among acanthomorph lineages, working from...
+> -- *[[AReviewOfThePelvicGirdleOfAcan_14327]]*
+
+### Mentioned In
+- [[AReviewOfThePelvicGirdleOfAcan_14327]]
+
 ## Outgroup Polarization
 
 ### Summary
@@ -8144,6 +12002,18 @@ The practice of using outgroups to polarize character states and root trees. SCK
 
 ### Mentioned In
 - [[WhenTheoriesAndMethodologiesCl_19841]]
+
+## Outlet Stream
+
+### Summary
+The outlet stream carries water from Loon Lake toward a falls about 4 miles downstream that fish cannot pass. It was one of the two natal spawning streams studied, with a run of about 5,000 fish that spawn earlier in the year than the inlet run.
+
+### Context
+> This four-year field study (1953–1956) by [[Lindsey]], [[Northcote]] and [[Hartman]] tested whether [[Rainbow Trout]] in [[Loon Lake]] return to the stream of their own origin (inlet or outlet) to spawn. Trout were trapped and marked as young and adults in both streams. Homing at first spawning was...
+> -- *[[HomingOfRainbowTroutToInletAnd_20342]]*
+
+### Mentioned In
+- [[HomingOfRainbowTroutToInletAnd_20342]]
 
 ## Outreach
 <!-- fm: auto_enriched: true -->
@@ -8162,6 +12032,42 @@ The Outstanding Graduate Teaching Award is an annual Arizona State University ho
 
 ### Mentioned In
 - [[OutstandingGraduateMentorsGrad_21259]]
+
+## Ovando State Fish Hatchery
+
+### Summary
+The Ovando State Fish Hatchery in Montana was the site of the DDT bio-assays. Testing used seven 210-liter fiberglass units supplied with spring water, with temperature, pH, alkalinity, and turbidity recorded for that supply.
+
+### Context
+> This document contains two 1963 papers from the *Proceedings of the Montana Academy of Sciences*. The main paper, by [[Norman D Schoenthal]], reports laboratory bio-assays and a field test stream study on the effects of the insecticide [[DDT]] on cold-water fishes and their food organisms. DDT was...
+> -- *[[SomeEffectsOfDdtOnColdWaterFis_20584]]*
+
+### Mentioned In
+- [[SomeEffectsOfDdtOnColdWaterFis_20584]]
+
+## Ovchynnyk 1965
+
+### Summary
+A prior study cited by the source that found high variability in scale annuli and doubted that scales were reliable for aging. The source lists it among the works that questioned scale-based ages.
+
+### Context
+> This study by [[R. J. Beamish]] and [[H. H. Harvey]] (University of Toronto) tests whether [[Scale Annuli]] reliably age [[White Sucker]] (*Catostomus commersoni*). The authors compare scale ages with ages from thin sections of pectoral fin rays, a method that does not require killing the fish....
+> -- *[[AgeDeterminationInTheWhiteSuck_15671]]*
+
+### Mentioned In
+- [[AgeDeterminationInTheWhiteSuck_15671]]
+
+## Over-Snow Runoff
+
+### Summary
+A hydrologic condition in which inflow exceeds the rate water can percolate through dense snow filling a channel, so water flows over the snow surface and cuts a channel into it. The source links it to the highest runoff rates and sediment levels in the study, including 862 ppm suspended sediment at Sane Creek in 1973, and calls it a unique hydrologic phenomenon.
+
+### Context
+> This study measures suspended sediment and bedload transport from two perennial-flow [[Big Sagebrush]] watersheds, [[Loco Creek]] and [[Sane Creek]], in south-central Wyoming. The work was conducted at the [[Stratton Sagebrush Hydrology Study Area]] over seven years (1968 to 1974 record, with...
+> -- *[[SedimentTransportFromBigSagebr_14658]]*
+
+### Mentioned In
+- [[SedimentTransportFromBigSagebr_14658]]
 
 ## Over-Summering Refuges
 
@@ -8199,6 +12105,18 @@ Methods for keeping minnows alive through winter in ponds. The source describes 
 ### Mentioned In
 - [[MinnowPropagation_19045]]
 
+## Overaccumulation
+
+### Summary
+A concept the article identifies as one of EPA's stated concerns about recycled materials, alongside spills and leaks from recycling facilities. The source does not define it in detail, but it relates to the 75% speculative accumulation test the authors describe under recycling rules.
+
+### Context
+> This article, a law review piece in the Arizona State Law Journal's symposium on toxic substances and hazardous waste, argues that the [[Resource Conservation and Recovery Act]] (RCRA) should be confined to discarded materials and should not reach ongoing industrial processes, including beneficial...
+> -- *[[TurningGoldIntoSolidWasteRcras_12183]]*
+
+### Mentioned In
+- [[TurningGoldIntoSolidWasteRcras_12183]]
+
 ## Overbank Flooding
 <!-- fm: auto_enriched: true -->
 
@@ -8216,6 +12134,18 @@ A 1996 study that counted a minimum of 81 sets of relict travertine dams on Foss
 
 ### Mentioned In
 - [[FossilCreekHydrologyAndTravert_20796]]
+
+## Overdevelopment
+
+### Summary
+Overdevelopment refers to rapid land conversion for housing and commercial use in forested regions. The essay cites this pressure as a threat to the eastern forest recovery, with the Sterling Forest proposal as a main example.
+
+### Context
+> This April 1995 essay by Bill McKibben argues that the eastern United States is undergoing an unplanned, largely unnoticed reforestation after two centuries of clearing. Forest cover has rebounded across New England, New York and the southern Appalachians, and wildlife such as [[Whitetail Deer]],...
+> -- *[[AnExplosionOfGreen_12326]]*
+
+### Mentioned In
+- [[AnExplosionOfGreen_12326]]
 
 ## Overfall Type Fishway
 
@@ -8275,8 +12205,20 @@ Overgrazing is livestock grazing at levels that degrade vegetation and soils. Th
 > This Southwest Forest Alliance report, dated November 14, 1995 and authored by Torey Silloway and Kieran Suckling of the [[Southwest Center for Biological Diversity]], is a policy critique rather than a primary research study. It argues that a [[U.S. Forest Service]] report by M. Johnson (1995)...
 > -- *[[ForestFraudAndForestHealthUsFo_18957]]*
 
+> In April 1945 a ten-day field party crossed the [[Rio Grande]] into the northern [[Sierra del Carmen]] of [[Coahuila]], Mexico, to complete an ecological survey of the adjacent [[Big Bend National Park]]. The survey recorded vegetation, mammals, birds, reptiles and amphibians, and compared them...
+> -- *[[PreliminaryEcologicalSurveyOfT_13507]]*
+
+> This 1960 University of Kansas Museum of Natural History paper by [[Frank B. Cross]] and W. L. Minckley describes five natural hybrid combinations among [[Cyprinidae]] minnows, with morphological comparisons to each parental species. Four of the five hybrids were taken during a severe drought...
+> -- *[[FiveNaturalHybridCombinationsI_18025]]*
+
+> Hendrickson and Minckley review the historical distribution, cultural history, hydrology and ecology of [[Ciénega]] habitats in southeastern Arizona. The authors define the ciénega as a mid-elevation (1,000–2,000 m) wetland of permanently saturated, highly organic, reducing soils, dominated by low...
+> -- *[[CinegasvanishingClimaxCommunit_16637]]*
+
 ### Mentioned In
 - [[ForestFraudAndForestHealthUsFo_18957]]
+- [[PreliminaryEcologicalSurveyOfT_13507]]
+- [[FiveNaturalHybridCombinationsI_18025]]
+- [[CinegasvanishingClimaxCommunit_16637]]
 
 ## Overhead Cover
 <!-- fm: auto_enriched: true -->
@@ -8287,8 +12229,13 @@ Overgrazing is livestock grazing at levels that degrade vegetation and soils. Th
 ## Overkill Hypothesis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1966 review by Paul S. Martin, reprinted from *Nature*, re-examines the [[Pleistocene Extinction]] of large mammals using radiocarbon chronology and pollen evidence. It compares the timing and intensity of generic extinction across [[Africa]], [[North America]], and [[Madagascar]]. Martin...
+> -- *[[AfricaAndPleistoceneOverkill_17071]]*
+
 ### Mentioned In
 - [[OverkillAtOlduvaiGorge_1967_07_08]]
+- [[AfricaAndPleistoceneOverkill_17071]]
 
 ## Overland Flow
 <!-- fm: auto_enriched: true -->
@@ -8297,8 +12244,56 @@ Overgrazing is livestock grazing at levels that degrade vegetation and soils. Th
 > - **Location:** Lower [[Chaparral Zone]] of Arizona, on granitic soils. - **Climate driver:** Intense summer thunderstorms typical of the Arizona monsoon season, producing most surface runoff during summer months. - **Hydrological process:** Sparse plant cover and low infiltration capacity promot...
 > -- *[[SurfaceRunoffAndErosionInTheLo_1961]]*
 
+> This USDA Forest Service record (Station Paper 66, 1961, by Lowell R. Rich, [[Rocky Mountain Forest And Range Experiment Station]]) describes a watershed study of [[Surface Runoff]] and [[Soil Erosion]] in the [[Lower Chaparral Zone]] of [[Arizona]]. The work compared storm runoff and [[Sediment...
+> -- *[[SurfaceRunoffAndErosionInTheLo_16833]]*
+
+> This paper by [[William R. Miller]] and [[James I. Drever]] examines how the major dissolved chemistry of the [[North Fork Shoshone River]] changed during a single storm on July 20, 1973, in the [[Absaroka Mountains]] of Wyoming. The authors show that the variation cannot be explained by simple...
+> -- *[[WaterChemistryOfAStreamFollowi_18487]]*
+
+> This study by Aaron Yair examines where runoff and sediment originate on the slopes of a small first-order drainage basin in the [[Northern Negev]], near [[Sde Boker]], Israel. The half-basin was divided into ten contiguous plots draining from the upper divide to the channel mouth, and monitored...
+> -- *[[GeomorphologischeProzesseUndPr_18637]]*
+
 ### Mentioned In
 - [[SurfaceRunoffAndErosionInTheLo_1961]]
+- [[SurfaceRunoffAndErosionInTheLo_16833]]
+- [[WaterChemistryOfAStreamFollowi_18487]]
+- [[GeomorphologischeProzesseUndPr_18637]]
+
+## Overland Telegraph
+
+### Summary
+A historic telegraph line across inland Australia that used the mound springs as water sources. The source lists its associated sites among the heritage items entered on State and National Estate registers.
+
+### Context
+> This paper by C.R. Harris (South Australian Department of Environment and Land Management, *Rangeland Journal* 14(2), 1992) reviews the [[Mound Springs]] of inland Australia, the natural outlets of the [[Great Artesian Basin]]. It assesses a decade of conservation work since [[Harris (1981)]],...
+> -- *[[MoundSpringsSouthAustralianCon_20664]]*
+
+### Mentioned In
+- [[MoundSpringsSouthAustralianCon_20664]]
+
+## Overmere Hydrobiological Station
+
+### Summary
+Hydrobiological research station founded by Ernest Rousseau in 1906. The review presents it as an early institutional base for Belgian lake ecology.
+
+### Context
+> This historical review by [[Jean-Jacques Symoens]] (Université d'Elisabethville; *Bulletin de la Société royale de Botanique de Belgique*, vol. 95, 1963) traces roughly a century of Belgian research on the floristics and ecology of algae, written for the centenary of the [[Royal Botanical Society...
+> -- *[[UnSicleDeRecherchesBelgesSurLa_15137]]*
+
+### Mentioned In
+- [[UnSicleDeRecherchesBelgesSurLa_15137]]
+
+## Oversnow Flow
+
+### Summary
+Oversnow flow is a hydrologic process in which snowmelt runs across the surface of a wind-compacted snowpack and, in extreme cases, erodes a channel into it. The source describes it as previously undescribed and documents it at Sane Creek in 1970 and 1973, when it raised peak flows and sediment transport.
+
+### Context
+> This paper describes "[[Oversnow Flow]]," a previously undescribed hydrologic process in which snowmelt water runs across the surface of a wind-compacted snowpack and, in extreme cases, erodes a well-defined channel into it. The observations come from [[Sane Creek]], a 587-acre (238-ha) watershed...
+> -- *[[OversnowRunoffEventsAffectStre_14657]]*
+
+### Mentioned In
+- [[OversnowRunoffEventsAffectStre_14657]]
 
 ## Overstocking
 
@@ -8359,8 +12354,12 @@ The autumn mixing of a lake that brings deeper water to the surface. In this stu
 > This two-part paper by [[Vera G. Collins]], a senior scientist at the Freshwater Biological Association, reviews how freshwater bacteria have been studied and then reports a new method for counting them. The author argues that bacteriology of freshwater has been dominated by water-quality testing,...
 > -- *[[TheDistributionAndEcologyOfBac_17161]]*
 
+> This publication (Fisheries Research Publication No. 140, 1970) reports seven years of limnological observations, 1960–66, on four lakes near Rotorua, New Zealand: [[Lake Okataina]], [[Lake Rotoehu]], [[Lake Ngapouri]] and [[Lake Okaro]]. The study was undertaken as part of a trout population...
+> -- *[[ALimnologicalStudyOfFourLakesN_16404]]*
+
 ### Mentioned In
 - [[TheDistributionAndEcologyOfBac_17161]]
+- [[ALimnologicalStudyOfFourLakesN_16404]]
 
 ## Overwinter Survival
 
@@ -8383,8 +12382,12 @@ The ovipositor is the egg-laying organ of female insects. The paper reports that
 > This paper, presented by [[August Wilhelm Steffan]] at the XI International Congress of Entomology (Vienna, 1960), analyses the phylogeny of the beetle genus [[Dryops]] (family [[Dryopidae]]). The genus contains 35 species according to Bollow (1938, 1939). Based on micromorphology of male...
 > -- *[[PhylogenetischeTrendsInDerGatt_14751]]*
 
+> This paper, by [[Charles D. Michener]] of the University of Kansas, was published in the Proceedings of the Tenth International Congress of Entomology (1956, vol. 1, pp. 583–588). It argues that taxonomists should adopt a uniform, morphologically meaningful terminology for insect structures...
+> -- *[[MorphologicallyMeaningfulVsDes_15263]]*
+
 ### Mentioned In
 - [[PhylogenetischeTrendsInDerGatt_14751]]
+- [[MorphologicallyMeaningfulVsDes_15263]]
 
 ## Ovis Canadensis
 <!-- fm: auto_enriched: true -->
@@ -8401,8 +12404,12 @@ Ovoviviparity is a reproductive mode in which fertilization and embryo developme
 > This California Department of Fish and Game bulletin (Fish Bulletin 126, by Julius B. Phillips) reports life-history data for ten commercially important [[Rockfish]] species of the genus *Sebastodes*. It covers annual growth, size and age at maturity, weight-length relationships, spawning season,...
 > -- *[[LifeHistoryStudiesOnTenSpecies_11172]]*
 
+> This revision by [[Robert Hershler]] describes 12 species in nine genera of hydrobiid snails from the isolated spring system of [[Cuatro Ciénegas Basin]], Coahuila, México. Snails were collected from 103 localities. One new genus ([[Mexistiobia]]) and three new species are described. The six...
+> -- *[[SystematicRevisionOfTheHydrobi_16715]]*
+
 ### Mentioned In
 - [[LifeHistoryStudiesOnTenSpecies_11172]]
+- [[SystematicRevisionOfTheHydrobi_16715]]
 
 ## Ovulation
 <!-- fm: auto_enriched: true -->
@@ -8421,6 +12428,18 @@ The OW Ranch is a cattle allotment along Canyon Creek. The source says it was hi
 
 ### Mentioned In
 - [[CanyonCreekAquaticHabitatImpro_15422]]
+
+## Owen Erosion-Littoral Study
+
+### Summary
+The note links to this study in connection with the 1939-1940 dredging of about 135 acres at the lake's southern end, which the State Conservation Commission carried out to improve boating and fishing. The source also names Owen, alongside Kutkuhn, as having collected gill-net data on the lake from 1953 to 1955. The note does not describe the study's own findings.
+
+### Context
+> This study by [[Jon E. Cottier]] (Iowa Cooperative Fishery Research Unit, Iowa State University) reports fish population trends and the food habits of [[Yellow Bass]] in [[North Twin Lake]], a shallow, partly dredged prairie lake in Calhoun County, Iowa, over 1953 to 1958. Populations were high...
+> -- *[[ChangesInFishPopulationsAndFoo_17144]]*
+
+### Mentioned In
+- [[ChangesInFishPopulationsAndFoo_17144]]
 
 ## Owen Gorman
 <!-- fm: auto_enriched: true -->
@@ -8446,6 +12465,18 @@ The OW Ranch is a cattle allotment along Canyon Creek. The source says it was hi
 - [[RevisedUsfwsPinetopFaoGeneralS_1991_10_01]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[GlenCanyonEnvironmentalStudies_19717]]
+
+## Owens
+
+### Summary
+A researcher whose 1970 national survey of UK rivers found about 90% of river miles had dissolved oxygen above the threshold. The present study's dissolved oxygen results closely matched that national figure.
+
+### Context
+> This study by [[Curtis]] and [[Harrington]] of the [[Water Pollution Research Laboratory]] examines [[Sewage Fungus]], the cotton-wool-like slimes of attached micro-organisms that form in rivers receiving biodegradable organic pollution. Sites were surveyed in 1968 and 1969 and compared with a 1960...
+> -- *[[TheOccurrenceOfSewageFungusInR_18112]]*
+
+### Mentioned In
+- [[TheOccurrenceOfSewageFungusInR_18112]]
 
 ## Owens And Edwards 1962
 <!-- fm: auto_enriched: true -->
@@ -8475,12 +12506,16 @@ The Owens Chub (Gila bigelovii) is an endemic cyprinid fish historically found i
 > - **[[Pahrump Killifish]]**: extirpated from native Manse Spring; survives only in translocated populations at Corn Creek (~2,500 individuals) and Shoshone Ponds (~2,500 individuals). Threatened by invasive bullfrogs (*Rana catesbeiana*) and proposed MX Missile infrastructure. - **[[Devils Hole P...
 > -- *[[SeventhAnnualMeetingDeathValle_1980_04_09]]*
 
+> This 1978 monograph by [[David L. Soltz]] and [[Robert J. Naiman]], published as Science Series 30 by the [[Natural History Museum of Los Angeles County]], synthesizes what was known about the native fishes of the Death Valley System: their geological and hydrological setting, evolutionary history,...
+> -- *[[TheNaturalHistoryOfNativeFishe_11790]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[OurDisappearingDesertFishes_1980]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+- [[TheNaturalHistoryOfNativeFishe_11790]]
 
 ## Owens Dace
 <!-- fm: auto_enriched: true -->
@@ -8506,6 +12541,18 @@ The Owens Dace (*Rhinichthys evermanni*) is an endemic cyprinid fish historicall
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[FourthAnnualMeetingDeathValley_11111]]
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
+
+## Owens Formula
+
+### Summary
+The Owens formula is an empirical equation that estimates the reaeration coefficient from hydraulic variables such as velocity and depth. For August 4, 1973, the corrected Owens et al. estimate was 0.61 hr⁻¹, noticeably higher than the paper's light-based (0.35 hr⁻¹) and night-time (0.34 hr⁻¹) values.
+
+### Context
+> This 1975 *Journal of the Environmental Engineering Division* paper by George M. Hornberger and Mahlon G. Kelly (University of Virginia) presents two methods for estimating the [[Reaeration Coefficient]] (K), the rate at which [[Atmospheric Reaeration]] exchanges oxygen between air and river water....
+> -- *[[AtmosphericReaerationInARiverU_19923]]*
+
+### Mentioned In
+- [[AtmosphericReaerationInARiverU_19923]]
 
 ## Owens Lake
 
@@ -8575,6 +12622,36 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This report summarizes a symposium held November 18-19, 1969 at [[Death Valley National Monument]], California, attended by 42 persons from federal and state agencies, universities, and conservation organizations. Coordinated by E. P. Pister of the California Department of Fish and Game and...
 > -- *[[SymposiumOnRareAndEndangeredFi_15352]]*
 
+> This review by [[W. L. Minckley]] (Arizona State University, *Biological Conservation* 72, 1995) examines translocation, the movement of imperiled fishes among natural sites or from nature to propagation facilities and back, as a conservation tool in the western United States. The author argues...
+> -- *[[TranslocationAsAToolForConserv_15818]]*
+
+> This 1993 review by [[Swift et al. 1993 Fish Survey|Swift, Haglund, Ruiz and Fisher]] documents the status and distribution of native, estuarine and introduced fishes across southern California's Owens, Mohave, Colorado and coastal drainages. The authors recognize 38 native freshwater taxa and 23...
+> -- *[[TheStatusAndDistributionOfTheF_15079]]*
+
+> This essay, written by retired [[California Department of Fish and Game]] district fishery biologist Edwin Philip "Phil" Pister, recounts his career managing fisheries and desert aquatic habitats in eastern California and reflects on the conservation of endangered [[Desert Pupfish]] species. The...
+> -- *[[SpeciesInABucket_18598]]*
+
+> This invited editorial by [[Edwin P. Pister]], a retired state agency fishery biologist, argues that species and habitat endangerment has reached a point where complacency is unacceptable. The author calls for [[Scholarship of Application]] to receive at least equal consideration with [[Scholarship...
+> -- *[[ProfessionalObligationsInTheCo_18599]]*
+
+> This study examines the morphological and genetic diversity of [[Speckled Dace]] (*Rhinichthys osculus*) across 13 populations in the [[Death Valley System]], the [[Lahontan Basin]], and the [[Lower Colorado River]]. The authors use these data, together with a review of endemic wetland organisms,...
+> -- *[[DesertAquaticEcosystemsAndTheG_20492]]*
+
+> This 1971 paper by [[Robert Rush Miller]] and [[Edwin P. Pister]] documents the decline, rediscovery, and conservation management of the [[Owens Pupfish]], a killifish endemic to the Owens River drainage of [[Owens Valley]], California. The species was believed extinct when described in 1948, but a...
+> -- *[[ManagementOfTheOwensPupfishCyp_15399]]*
+
+> Edwin P. Pister, of the California Department of Fish and Game, presents a paper prepared for the American Fisheries Society and delivered at the 139th Meeting of the [[American Association for the Advancement of Science]] (December 29, 1972). The paper reviews the decline of endemic desert fishes...
+> -- *[[DesertFishesAndTheirHabitats_18602]]*
+
+> This 1977 *FRONTIERS* article by [[James D. Williams]] and Dona K. Finnley reviews the decline of native American fishes and the legal and scientific efforts to protect them. It traces habitat loss, pollution, overfishing and nonnative species as the main threats, and it documents the extinction of...
+> -- *[[OurVanishingFishesCanTheyBeSav_12002]]*
+
+> This review by [[Robert R. Miller]], James D. Williams, and Jack E. Williams documents the extinction of 3 genera, 27 species and 13 subspecies (40 taxa in total) of North American freshwater fishes during the past 100 years. The paper's stated purpose is to provide a comprehensive list of recently...
+> -- *[[ExtinctionsOfNorthAmericanFish_15379]]*
+
+> This 1978 monograph by [[David L. Soltz]] and [[Robert J. Naiman]], published as Science Series 30 by the [[Natural History Museum of Los Angeles County]], synthesizes what was known about the native fishes of the Death Valley System: their geological and hydrological setting, evolutionary history,...
+> -- *[[TheNaturalHistoryOfNativeFishe_11790]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -8599,6 +12676,16 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[ObservationsOnTheStatusOfTheDe_12013]]
 - [[RareAndEndangeredFish_15354]]
 - [[SymposiumOnRareAndEndangeredFi_15352]]
+- [[TranslocationAsAToolForConserv_15818]]
+- [[TheStatusAndDistributionOfTheF_15079]]
+- [[SpeciesInABucket_18598]]
+- [[ProfessionalObligationsInTheCo_18599]]
+- [[DesertAquaticEcosystemsAndTheG_20492]]
+- [[ManagementOfTheOwensPupfishCyp_15399]]
+- [[DesertFishesAndTheirHabitats_18602]]
+- [[OurVanishingFishesCanTheyBeSav_12002]]
+- [[ExtinctionsOfNorthAmericanFish_15379]]
+- [[TheNaturalHistoryOfNativeFishe_11790]]
 
 ## Owens River
 <!-- fm: auto_enriched: true -->
@@ -8628,6 +12715,9 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 > This review by [[Peter J. Mehringer Jr.]] (Washington State University), published in the [[Desert Research Institute]] symposium volume edited by [[Don D. Fowler]] (1977), synthesizes evidence for the magnitude and chronology of late Quaternary environmental change in the [[Great Basin]]. The...
 > -- *[[GreatBasinLateQuaternaryEnviro_20097]]*
 
+> Edwin P. Pister, of the California Department of Fish and Game, presents a paper prepared for the American Fisheries Society and delivered at the 139th Meeting of the [[American Association for the Advancement of Science]] (December 29, 1972). The paper reviews the decline of endemic desert fishes...
+> -- *[[DesertFishesAndTheirHabitats_18602]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -8640,6 +12730,7 @@ The Owens River is a critical freshwater system in California's eastern Sierra N
 - [[TheTroutFisheryOfCrowleyLakeMo_11106]]
 - [[MorphometricAndGeneticDifferen_20491]]
 - [[GreatBasinLateQuaternaryEnviro_20097]]
+- [[DesertFishesAndTheirHabitats_18602]]
 
 ## Owens River Basin
 <!-- fm: auto_enriched: true -->
@@ -8717,6 +12808,9 @@ The Owens Sucker (*Catostomus* sp.) is a cyprinid fish species endemic to the Ow
 > This 1977 report by J. E. Williams, prepared for the [[Bureau of Reclamation]], assesses the status of a [[Devil's Hole Pupfish]] (*Cyprinodon diabolis*) population established in a thermal cement pool below [[Hoover Dam]]. The refugium was built in August 1972 as a backup for the wild population...
 > -- *[[ObservationsOnTheStatusOfTheDe_12013]]*
 
+> This 1978 monograph by [[David L. Soltz]] and [[Robert J. Naiman]], published as Science Series 30 by the [[Natural History Museum of Los Angeles County]], synthesizes what was known about the native fishes of the Death Valley System: their geological and hydrological setting, evolutionary history,...
+> -- *[[TheNaturalHistoryOfNativeFishe_11790]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
@@ -8725,6 +12819,7 @@ The Owens Sucker (*Catostomus* sp.) is a cyprinid fish species endemic to the Ow
 - [[SeventhAnnualMeetingDeathValle_1980_04_09]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[ObservationsOnTheStatusOfTheDe_12013]]
+- [[TheNaturalHistoryOfNativeFishe_11790]]
 
 ## Owens Tui Chub
 <!-- fm: auto_enriched: true -->
@@ -8736,10 +12831,14 @@ The Owens Sucker (*Catostomus* sp.) is a cyprinid fish species endemic to the Ow
 > This recovery plan addresses the [[Owens Pupfish]] (*Cyprinodon radiosus*), an endangered species endemic to [[Owens Valley]], California. Originally abundant throughout shallow marshy areas and springs along the [[Owens River]] from [[Fish Slough]] (Mono County) to [[Owens Lake]] (Inyo County),...
 > -- *[[OwensPupfishCyprinodonRadiosus_13308]]*
 
+> This 1993 review by [[Swift et al. 1993 Fish Survey|Swift, Haglund, Ruiz and Fisher]] documents the status and distribution of native, estuarine and introduced fishes across southern California's Owens, Mohave, Colorado and coastal drainages. The authors recognize 38 native freshwater taxa and 23...
+> -- *[[TheStatusAndDistributionOfTheF_15079]]*
+
 ### Mentioned In
 - [[LetterOnCuiUiRecoveryPlanForma_1989_08_21]]
 - [[TwentiethAnnualSymposiumOfTheD_1988_11_16]]
 - [[OwensPupfishCyprinodonRadiosus_13308]]
+- [[TheStatusAndDistributionOfTheF_15079]]
 
 ## Owens Valley
 <!-- fm: auto_enriched: true -->
@@ -8784,6 +12883,15 @@ The Owens Valley represents a significant case study in the historical transitio
 > This is a 1990 letter from [[Clarence A. Hall Jr.]], Director of the [[White Mountain Research Station]] (a [[University Of California]] facility), to past station users. It announces the station's fortieth-anniversary symposium, "The History of Water: Eastern Sierra, Owens Valley-White-Inyo...
 > -- *[[WhiteMountainResearchStationCo_12193]]*
 
+> This is a literary essay by John McPhee on the groundwater of the [[Great Basin]] and the conflict over its transfer to [[Las Vegas]]. The document does not report fish or other aquatic species data. Its subject is the aquifer system that sustains desert springs and seeps, and the proposal to pump...
+> -- *[[ShoutsAndMurmursWaterWar_12344]]*
+
+> This popular-science article describes the [[Desert Pupfish]], a one-inch killifish that survives as a relict of the last [[Ice Age]] in isolated desert springs of the [[Death Valley]] drainage. The author argues that the fish is a scientifically important example of rapid [[Divergent Evolution]]...
+> -- *[[LittleLeftoverOfTheIceAge_11883]]*
+
+> This 1971 paper by [[Robert Rush Miller]] and [[Edwin P. Pister]] documents the decline, rediscovery, and conservation management of the [[Owens Pupfish]], a killifish endemic to the Owens River drainage of [[Owens Valley]], California. The species was believed extinct when described in 1948, but a...
+> -- *[[ManagementOfTheOwensPupfishCyp_15399]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
@@ -8796,6 +12904,9 @@ The Owens Valley represents a significant case study in the historical transitio
 - [[ANewPyrgulopsisFromSoutheaster_20362]]
 - [[ConservationOfFishesOfTheDeath_15351]]
 - [[WhiteMountainResearchStationCo_12193]]
+- [[ShoutsAndMurmursWaterWar_12344]]
+- [[LittleLeftoverOfTheIceAge_11883]]
+- [[ManagementOfTheOwensPupfishCyp_15399]]
 
 ## Owens Valley Native Fish Sanctuary
 <!-- fm: auto_enriched: true -->
@@ -8825,6 +12936,12 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 > This 1967 field survey, published in the [[California-Nevada Section Transactions]] (1969), assessed the current status of the native fishes of the [[Death Valley System]], a formerly interconnected Pleistocene drainage in eastern California and southwestern Nevada. Of nine species in three...
 > -- *[[ConservationOfFishesOfTheDeath_15351]]*
 
+> This 1971 paper by [[Robert Rush Miller]] and [[Edwin P. Pister]] documents the decline, rediscovery, and conservation management of the [[Owens Pupfish]], a killifish endemic to the Owens River drainage of [[Owens Valley]], California. The species was believed extinct when described in 1948, but a...
+> -- *[[ManagementOfTheOwensPupfishCyp_15399]]*
+
+> Edwin P. Pister, of the California Department of Fish and Game, presents a paper prepared for the American Fisheries Society and delivered at the 139th Meeting of the [[American Association for the Advancement of Science]] (December 29, 1972). The paper reviews the decline of endemic desert fishes...
+> -- *[[DesertFishesAndTheirHabitats_18602]]*
+
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[SecondAnnualMeetingOfDeathVall_1975_02_21]]
@@ -8834,6 +12951,20 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 - [[RareAndEndangeredFish_15354]]
 - [[SymposiumOnRareAndEndangeredFi_15352]]
 - [[ConservationOfFishesOfTheDeath_15351]]
+- [[ManagementOfTheOwensPupfishCyp_15399]]
+- [[DesertFishesAndTheirHabitats_18602]]
+
+## Owens Valley Native Fishes Sanctuary
+
+### Summary
+A protected area in California's Owens Valley set aside for native fishes. The source lists it as an indexed locality in the Council's proceedings, with no further detail given here.
+
+### Context
+> This document is a cumulative index to the first fifteen volumes of the [[Proceedings of the Desert Fishes Council]], covering 1969 to 1983. It was compiled by Cynthia Deacon Williams and Jack Edward Williams. The index has three parts: a Subject Index, an Author Index, and a Systematic Index. It...
+> -- *[[IndexOfTheProceedingsOfTheDese_12025]]*
+
+### Mentioned In
+- [[IndexOfTheProceedingsOfTheDese_12025]]
 
 ## Owens Valley Pupfish
 <!-- fm: auto_enriched: true -->
@@ -8845,9 +12976,17 @@ The Owens Valley Native Fish Sanctuary represents a conservation initiative focu
 > This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
 > -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
 
+> This 1961 review by [[Robert Rush Miller]] of the University of Michigan Museum of Zoology documents how the freshwater fish fauna of the arid American Southwest changed over roughly the past 100 years. The paper argues that modern human activity, rather than climate, is the chief driver of these...
+> -- *[[ManAndTheChangingFishFaunaOfTh_15337]]*
+
+> This document is a preliminary conservation inventory of rare, restricted, and threatened North American freshwater fishes, compiled by [[Robert Rush Miller]] of the [[Museum of Zoology]], [[University of Michigan]]. It covers roughly 65 taxon entries, arranged alphabetically by U.S. state, with...
+> -- *[[ReviewPrinciplesOfPaleoecology_15343]]*
+
 ### Mentioned In
 - [[RareAndEndangeredWorldFreshwat_15350]]
 - [[ACheckListOfTheFreshwaterAndAn_11395]]
+- [[ManAndTheChangingFishFaunaOfTh_15337]]
+- [[ReviewPrinciplesOfPaleoecology_15343]]
 
 ## Owens Valley Refuge
 
@@ -8909,6 +13048,18 @@ Owosso is a city in Michigan that borders Hopkins Lake on its north side, with m
 ### Mentioned In
 - [[FisheriesLakeSurveyASmallscale_12998]]
 
+## Owyhee Basalt
+
+### Summary
+A basalt unit in the region of southeastern Oregon and adjacent Idaho. The source argues that the Blackjack Basalt should not be treated as a synonym of it, because the stratigraphic relations of the two differ.
+
+### Context
+> This paleontological study describes the fossil fish fauna of the [[Deer Butte Formation]] in Malheur County, Oregon. The fauna comprises about 24 species in 15 genera, found as disarticulated fossils in loosely consolidated siltstones, sandstones and conglomerates. The author interprets the...
+> -- *[[FishesOfTheMioceneplioceneDeer_12524]]*
+
+### Mentioned In
+- [[FishesOfTheMioceneplioceneDeer_12524]]
+
 ## Owyhee County
 
 ### Summary
@@ -8959,6 +13110,18 @@ Oxbow Lake is a backwater area south of Palo Verde Townsite in the Cibola Divisi
 - [[LowerColoradoRiverMaps_12161]]
 - [[LowerColoradoRiverMaps_11471]]
 
+## Oxbow Pond
+
+### Summary
+An oxbow pond is a small body of standing water left behind when a river or creek meanders and its bend is cut off from the main channel. In this study, the two ponds formed in 1952 when Squaw Creek was straightened during bridge construction, and they still connected to the creek through overflow during floods.
+
+### Context
+> This 1957 study by Andreas A. Paloumpis (Iowa State College, Ames) examines how a severe [[Drought]] in 1955 affected the fish and macroscopic [[Bottom Fauna]] of two small [[Oxbow Pond]]s on [[Squaw Creek]] in [[Boone County Iowa]]. The south pond was rotenone-treated in July 1955 to remove fish...
+> -- *[[TheEffectsOfDroughtConditionsO_18408]]*
+
+### Mentioned In
+- [[TheEffectsOfDroughtConditionsO_18408]]
+
 ## Oxbow Spring
 
 ### Summary
@@ -8971,6 +13134,18 @@ Oxbow Spring (Site #56) was a reintroduction site where Gila Topminnow failed by
 ### Mentioned In
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 
+## Oxibar Cave
+
+### Summary
+A cave in the western Pyrenees where the nominotypical subspecies P. spelaeus spelaeus lives in small pools fed by permanent seepage. It is one of the stations used to define that subspecies.
+
+### Context
+> This paper by [[Guy Magniez]] and [[Jean-Paul Henry]] describes a new blind and depigmented [[Asellota]] isopod, *[[Proasellus Vandeli]]* n. sp., from the French Basque Country. The species is named after Professor [[A. Vandel]]. The authors also re-evaluate the cave and spring Asellids of the...
+> -- *[[UnNouvelAselleHypogeDeFrancePr_19346]]*
+
+### Mentioned In
+- [[UnNouvelAselleHypogeDeFrancePr_19346]]
+
 ## Oxidized Microzone
 <!-- fm: auto_enriched: true -->
 
@@ -8980,6 +13155,18 @@ Oxbow Spring (Site #56) was a reintroduction site where Gila Topminnow failed by
 
 ### Mentioned In
 - [[ObservationsOnTheFormationAndB_11074]]
+
+## Oxley
+
+### Summary
+John Oxley, an early explorer of inland New South Wales. The source says he gave the first detailed account of the Murray Cod and the freshwater fishes of the Murray River system.
+
+### Context
+> This is the 1964 Presidential Address to the [[Linnean Society of New South Wales]] by G. P. Whitley, a long-serving ichthyologist at the [[Australian Museum]]. It surveys about three and a half centuries of documented knowledge of Australian fishes, from Aboriginal rock art and early European...
+> -- *[[PresidentialAddressASurveyOfAu_12231]]*
+
+### Mentioned In
+- [[PresidentialAddressASurveyOfAu_12231]]
 
 ## Oxnard
 
@@ -9006,8 +13193,16 @@ Oxnard, California was the site of the Daryl Arnold Ranch where in 1953, five th
 > 1. **Novel instrumentation**: A polarographic respirometer using dropping-mercury electrodes enables precise, stable, and continuous measurement of dissolved oxygen depletion over intact mud cores, permitting direct calibration of meters/recorders in ppm dissolved oxygen. 2. **Pollution–respirati...
 > -- *[[PolarographicMeasurementOfTheR_12575]]*
 
+> This 1955 paper by G. A. Truesdale, A. L. Downing and G. F. Lowden re-determines the [[Saturation Solubility]] of atmospheric oxygen in pure and saline water between 0° and 40°C using a modified [[Winkler Titration Method]]. The new values are, in some cases, up to 4% lower than the accepted...
+> -- *[[TheSolubilityOfOxygenInPureWat_13403]]*
+
+> This 1966 Oklahoma State University dissertation by [[Ray K. Baumgardner]] examines the [[Oxygen Balance]] of [[Skeleton Creek]], a small prairie stream in north-central Oklahoma receiving sewage from several municipal and institutional sources and effluent from an [[Oil Refinery]]. Monthly...
+> -- *[[OxygenBalanceInAStreamReceivin_15654]]*
+
 ### Mentioned In
 - [[PolarographicMeasurementOfTheR_12575]]
+- [[TheSolubilityOfOxygenInPureWat_13403]]
+- [[OxygenBalanceInAStreamReceivin_15654]]
 
 ## Oxygen Consumption
 <!-- fm: auto_enriched: true -->
@@ -9019,9 +13214,49 @@ Oxnard, California was the site of the Daryl Arnold Ranch where in 1953, five th
 > This Massachusetts Agricultural Experiment Station Research Bulletin (No. 605, July 1974), by James R. Beltz, James E. Johnson, Donald L. Cohen and Frank B. Pratt of the [[Department Of Forestry And Wildlife Management]] at the University of Massachusetts at Amherst, compiles an annotated...
 > -- *[[AnAnnotatedBibliographyOfTheEf_18153]]*
 
+> This 1963 preliminary study by D. W. M. Herbert and D. S. Shurben tested whether swimming activity makes [[Rainbow Trout]] more susceptible to two common pollutants, [[Ammonium Chloride]] and [[Zinc Sulphate]]. Hatchery-reared yearling trout were held against known current velocities in stirred...
+> -- *[[APreliminaryStudyOfTheEffectOf_16701]]*
+
+> This document is a 1976 issue section of the *Bulletin of the Southern California Academy of Sciences* (Vol. 75) containing two papers. The first examines the [[Oxygen Consumption]] and [[Gill Ventilation]] responses of the [[Unarmored Threespine Stickleback]] ([[Gasterosteus Aculeatus]]) to...
+> -- *[[FishRemainsFromAnArchaeologica_18768]]*
+
+> This 1965 laboratory study by H. Smit examines how the [[Oxygen Consumption]] of [[Goldfish]] (*[[Carassius Auratus]]*) changes with [[Swimming Speed]], and whether oxygen uptake can reliably estimate swimming power. Using a rotatable annular chamber ([[Fry's Annular Respirometer]]) and [[Blazka's...
+> -- *[[SomeExperimentsOnTheOxygenCons_19029]]*
+
+> This 1959 study by Donald E. Wohlschlag and Rogelio O. Juliano measured [[Oxygen Consumption]] in wild [[Lepomis Macrochirus]] (bluegill) in [[Felt Lake]], a small California reservoir, from March 1956 to February 1957. Using a field [[Respiration Chamber]], the authors fitted [[Multiple Regression...
+> -- *[[SeasonalChangesInBluegillMetab_20801]]*
+
 ### Mentioned In
 - [[ARelativeStudyOfOxygenConsumpt_16948]]
 - [[AnAnnotatedBibliographyOfTheEf_18153]]
+- [[APreliminaryStudyOfTheEffectOf_16701]]
+- [[FishRemainsFromAnArchaeologica_18768]]
+- [[SomeExperimentsOnTheOxygenCons_19029]]
+- [[SeasonalChangesInBluegillMetab_20801]]
+
+## Oxygen Debt
+
+### Summary
+Oxygen debt is the extra oxygen a fish must take up after exercise, when anaerobic metabolism has been used. Smit considered it a possible but not the main explanation for elevated postexercise oxygen consumption in goldfish, suggesting excitement contributed more, and recommended carbon dioxide measurements to clarify the balance.
+
+### Context
+> This 1965 laboratory study by H. Smit examines how the [[Oxygen Consumption]] of [[Goldfish]] (*[[Carassius Auratus]]*) changes with [[Swimming Speed]], and whether oxygen uptake can reliably estimate swimming power. Using a rotatable annular chamber ([[Fry's Annular Respirometer]]) and [[Blazka's...
+> -- *[[SomeExperimentsOnTheOxygenCons_19029]]*
+
+### Mentioned In
+- [[SomeExperimentsOnTheOxygenCons_19029]]
+
+## Oxygen Inhibition
+
+### Summary
+Oxygen inhibition is the reduction of net photosynthesis at high dissolved oxygen concentrations. In this study, net photosynthesis was about 1.4 times higher at low than at near-saturation oxygen, and the author attributes this mainly to faster respiration rather than to suppression of gross photosynthesis.
+
+### Context
+> This 1965–1966 study by D. F. Westlake, of [[River Laboratory]] (East Stoke, Dorset), describes a prototype flow-through apparatus for measuring oxygen exchange in submerged aquatic plants under controlled water velocities. The work focuses on [[Ranunculus Pseudofluitans]], the dominant submerged...
+> -- *[[SomeEffectsOfLowvelocityCurren_12179]]*
+
+### Mentioned In
+- [[SomeEffectsOfLowvelocityCurren_12179]]
 
 ## Oxygen Isotope Paleothermometry
 <!-- fm: auto_enriched: true -->
@@ -9040,6 +13275,30 @@ Oxnard, California was the site of the Daryl Arnold Ranch where in 1953, five th
 ### Mentioned In
 - [[InUnexpectedPlacesCluesToAncie_14832]]
 
+## Oxygen Isotope Ratios
+
+### Summary
+Oxygen isotope ratios, expressed as δ¹⁸O, record the relative abundance of heavy and light oxygen in water, carbonate, and ice. They are the main proxy in this debate, as δ¹⁸O in DH 2 calcite and marine records is used to infer temperature and glacial-interglacial timing.
+
+### Context
+> This technical comment exchange, published in [[Science]] in October 1989, debates whether the [[Devils Hole Calcite Vein]] (DH 2) oxygen-isotope record supports or contradicts the conventional [[Pleistocene Time Scale]]. [[Winograd Et Al.]] (1988) proposed that the DH 2 record, dated to 50–280 ka,...
+> -- *[[ResponseGreatBasinCalciteVeinA_19803]]*
+
+### Mentioned In
+- [[ResponseGreatBasinCalciteVeinA_19803]]
+
+## Oxygen Isotope Record
+
+### Summary
+A marine sediment record of oxygen isotope ratios used as a proxy for global temperature. The paper notes that it shows global cooling from 15 to 10 Ma, whereas the Nevada floras show a trend toward warmer temperatures.
+
+### Context
+> This paper uses [[Leaf Physiognomy]] of fossil floras to reconstruct the elevation of western Nevada during the [[Miocene]]. Analyses of 12 mid-Miocene floras indicate that the [[Basin and Range Province]] stood about 3 km above sea level at 15 to 16 million years ago (Ma), roughly 1 to 1.5 km...
+> -- *[[PaleobotanicalEvidenceForHighA_20806]]*
+
+### Mentioned In
+- [[PaleobotanicalEvidenceForHighA_20806]]
+
 ## Oxygen Method
 
 ### Summary
@@ -9052,6 +13311,18 @@ The oxygen method measures primary productivity from changes in dissolved oxygen
 ### Mentioned In
 - [[InteractionOfEffectsByEnvironm_14113]]
 
+## Oxygen Minimum Layer
+
+### Summary
+A zone of low dissolved oxygen that forms beneath the epilimnion in stratified water. In Lake Powell this layer appears just below the epilimnion-thermocline interface in July-September and is attributed to respiration of settling organic matter. Autumn convection breaks it down.
+
+### Context
+> This paper documents the physical circulation of [[Lake Powell]], a canyon reservoir on the Colorado River behind [[Glen Canyon Dam]], over 1972-1975. Sampling was roughly quarterly for temperature, conductivity, turbidity and dissolved oxygen, supplemented by monthly [[Bureau of Reclamation]]...
+> -- *[[ConvectiveAndAdvectiveCirculat_19796]]*
+
+### Mentioned In
+- [[ConvectiveAndAdvectiveCirculat_19796]]
+
 ## oxygen minimum zone
 
 ### Summary
@@ -9063,6 +13334,30 @@ The oxygen minimum zone is a region of extremely low dissolved oxygen concentrat
 
 ### Mentioned In
 - [[BathyconchoeciaDeeveyaeAHighly_12629]]
+
+## Oxygen Recorder
+
+### Summary
+The automatic dissolved-oxygen recorder used in this study, developed at the Water Pollution Research Laboratory, Stevenage. It photographed the instrument's dials every half hour, and the camera often failed, leaving records incomplete on about one-third of days. The authors described it as still being in field trials.
+
+### Context
+> This study examines six months of automated [[Dissolved Oxygen]] records (1 January to 26 June 1958) from the polluted [[River Hiz]], near Hitchin, Hertfordshire. The records were made with an automatic recorder developed at the [[Water Pollution Research Laboratory]], Stevenage. The authors did...
+> -- *[[SixMonthsOxygenRecordsForAPoll_16903]]*
+
+### Mentioned In
+- [[SixMonthsOxygenRecordsForAPoll_16903]]
+
+## Oxygen Regulation
+
+### Summary
+Oxygen regulation is the ability of an animal to keep its oxygen consumption constant despite changes in ambient oxygen. In this study neither species fully regulated, and both acted as partial regulators under moderate stress, with regulation weakening as temperature rose.
+
+### Context
+> Wiens and Armitage (1961) compared the oxygen consumption of two freshwater crayfishes, [[Orconectes Immunis]] and [[Orconectes Nais]], across four temperatures (16°, 24°, 30°, 35°C) and four oxygen saturation levels (full, one-half, one-quarter, one-eighth). The work was motivated by the local...
+> -- *[[TheOxygenConsumptionOfTheCrayf_12211]]*
+
+### Mentioned In
+- [[TheOxygenConsumptionOfTheCrayf_12211]]
 
 ## Oxygen Sag Curve
 
@@ -9080,11 +13375,107 @@ A profile of dissolved oxygen plotted against distance along a river or estuary,
 - [[FactorsAffectingTheConcentrati_16907]]
 - [[OxygenRelationsInStreams_11632]]
 
+## Oxygen Sag Zone
+
+### Summary
+The stretch of stream directly below waste outfalls where dissolved oxygen drops sharply because decomposition consumes oxygen faster than it is replaced. In Skeleton Creek, DO fell to as low as 0.2 ppm in the warm season and the sag minimum shifted position across seasons; photosynthesis supplied about 40% of oxygen demand here.
+
+### Context
+> This 1966 Oklahoma State University dissertation by [[Ray K. Baumgardner]] examines the [[Oxygen Balance]] of [[Skeleton Creek]], a small prairie stream in north-central Oklahoma receiving sewage from several municipal and institutional sources and effluent from an [[Oil Refinery]]. Monthly...
+> -- *[[OxygenBalanceInAStreamReceivin_15654]]*
+
+### Mentioned In
+- [[OxygenBalanceInAStreamReceivin_15654]]
+
+## Oxygen Saturation
+
+### Summary
+The maximum amount of dissolved oxygen water can hold at a given temperature, often expressed as a percentage. In this study, daily oxygen ranges were partly reported as a percentage of saturation, and weirs and turbulent reaches tended to push oxygen toward saturation and reduce daily swings.
+
+### Context
+> This study examines six months of automated [[Dissolved Oxygen]] records (1 January to 26 June 1958) from the polluted [[River Hiz]], near Hitchin, Hertfordshire. The records were made with an automatic recorder developed at the [[Water Pollution Research Laboratory]], Stevenage. The authors did...
+> -- *[[SixMonthsOxygenRecordsForAPoll_16903]]*
+
+### Mentioned In
+- [[SixMonthsOxygenRecordsForAPoll_16903]]
+
+## Oxygen Solubility
+
+### Summary
+Oxygen solubility is the amount of oxygen that water can hold at a given condition. In this source, temperature is named as the most important factor controlling oxygen solubility in fresh waters, which matters because it sets how much DO is available to fish.
+
+### Context
+> This review, written by [[Clarence M. Tarzwell]] (Chief of Aquatic Biology, [[Robert A. Taft Sanitary Engineering Center]]), argues that [[Dissolved Oxygen]] (DO) is the scientific yardstick for whether water supports fish, while [[Fish Kills]] are the visible public measure of pollution. It...
+> -- *[[WhatMakesFishLiveandDie_13466]]*
+
+### Mentioned In
+- [[WhatMakesFishLiveandDie_13466]]
+
+## Oxygen Solubility In Water
+
+### Summary
+The amount of dissolved oxygen water can hold at a given temperature, which falls as water warms. In this source, solubility values from Truesdale, Downing & Lowden (1955) were used to convert oxygen measurements into the percent air saturation scale used in the experiments.
+
+### Context
+> Downing and Merkens (1957) measured how long eight freshwater fish species survived under low dissolved oxygen (DO) at several water temperatures. Tests ran from under a day to one week in constantly renewed water, using native British species plus two introduced species, [[Mirror Carp]] and...
+> -- *[[TheInfluenceOfTemperatureOnThe_19133]]*
+
+### Mentioned In
+- [[TheInfluenceOfTemperatureOnThe_19133]]
+
 ## Oxygen-Deficient Water
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TestingPlantMaterialsForDetect_1966_05_18]]
+
+## Oxygen-Sensing Mechanism
+
+### Summary
+A hypothetical internal mechanism that could make a fish stop swimming when oxygen falls too low. Kutty suggests it may operate here, but notes there is no direct evidence for it and that further study is needed.
+
+### Context
+> This 1968 *Canadian Journal of Zoology* paper by M. Narayanan Kutty tests how ambient dissolved oxygen limits the sustained swimming effort of [[Goldfish]] and [[Rainbow Trout]]. Fish were forced to swim against controlled currents in a [[Blazka Respirometer]] while oxygen was lowered until each...
+> -- *[[InfluenceOfAmbientOxygenOnTheS_12494]]*
+
+### Mentioned In
+- [[InfluenceOfAmbientOxygenOnTheS_12494]]
+
+## Oxygeneum Pulverulentum
+
+### Summary
+Oxygeneum pulverulentum is a nominal cyprinid species described by Forbes (1885) from a single specimen taken in the Illinois River at Peoria in 1878. This source concludes that the type is an intergeneric hybrid of Campostoma anomalum pullum and Chrosomus erythrogaster, so the name is removed from the list of valid American freshwater fishes.
+
+### Context
+> Hubbs and Bailey (1952, reprinted from the Papers of the Michigan Academy of Science, Arts and Letters, vol. XXXVII, 1951) re-examine [[Oxygeneum Pulverulentum]], a nominal cyprinid genus and species described by Forbes (1885) from a single specimen taken in the [[Illinois River]] at Peoria in June...
+> -- *[[IdentificationOfOxygeneumPulve_14284]]*
+
+### Mentioned In
+- [[IdentificationOfOxygeneumPulve_14284]]
+
+## Oxyjulis Californica
+
+### Summary
+The senorita wrasse, a temperate reef fish of the eastern Pacific. The review discusses claims that it affects kelp-forest communities, but judges that evidence tentative and internally contradictory.
+
+### Context
+> This review, by J. H. Choat of the [[University Of Auckland]], evaluates whether feeding by temperate-water fishes significantly shapes the structure of shallow benthic communities. Fish predation is compared with the well-studied effects of invertebrate predators. The author concludes that...
+> -- *[[FishFeedingAndTheStructureOfBe_16143]]*
+
+### Mentioned In
+- [[FishFeedingAndTheStructureOfBe_16143]]
+
+## Oxyloma
+
+### Summary
+A snail genus whose modal shell measurements are given in Table I alongside Pseudosuccinea columella and Succinea avara; the overlapping ranges mean shell size alone cannot separate them.
+
+### Context
+> This 1959 paper by [[Branley A. Branson]] (Department of Zoology, Oklahoma State University) is the first part of a series on the recent land and freshwater snails of [[Oklahoma]]. It reviews the history of malacological work in the state, divides Oklahoma into biotic provinces and districts that...
+> -- *[[TheRecentGastropodaOfOklahomaP_12890]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaP_12890]]
 
 ## Oxytetracycline
 <!-- fm: auto_enriched: true -->
@@ -9096,9 +13487,13 @@ A profile of dissolved oxygen plotted against distance along a river or estuary,
 > This Canadian Special Publication (Fisheries and Aquatic Sciences 60, 1982) is a laboratory manual by [[Doris E. Chilton]] and [[Richard J. Beamish]] of the Pacific Biological Station, Nanaimo, B.C. It describes methods and equipment for estimating the ages of groundfish species off Canada's west...
 > -- *[[AgeDeterminationMethodsForFish_16137]]*
 
+> This 1982 study examines why live [[Freshwater Drum]] (*Aplodinotus grunniens*) die after being hauled from [[Lake Erie]] to pay-fishing ponds, and which measures reduce that loss. The species is abundant in Lake Erie but underused, with only about 15% of its 11.3-million-kilogram maximum...
+> -- *[[CausesAndControlsOfFreshwaterD_19746]]*
+
 ### Mentioned In
 - [[DrugSensitivityOfChondrococcus_1969]]
 - [[AgeDeterminationMethodsForFish_16137]]
+- [[CausesAndControlsOfFreshwaterD_19746]]
 
 ## Oxytetracycline Marking
 
@@ -9128,6 +13523,18 @@ A method of marking fish with a chemical that leaves a permanent mark on hard ti
 ### Mentioned In
 - [[TwoNewBloodFlukeParasitesOfTro_14426]]
 
+## Oyashio Current
+
+### Summary
+The Oyashio Current is a cold subarctic current flowing southward along the western North Pacific, off Japan and the Kuril Islands. The authors suggest it may transport Greenland halibut individuals southward, which could account for sporadic records near Sagami Bay and central Honshu.
+
+### Context
+> This 1964 study by [[Hubbs]] and Wilimovsky, published in the *Journal of the Fisheries Research Board of Canada*, reviews the Pacific distribution and taxonomic status of the [[Greenland Halibut]] (*Reinhardtius hippoglossoides*). The species is a commercially significant flatfish in the...
+> -- *[[DistributionAndSynonymyInThePa_14484]]*
+
+### Mentioned In
+- [[DistributionAndSynonymyInThePa_14484]]
+
 ## Oyster
 <!-- fm: auto_enriched: true -->
 
@@ -9142,6 +13549,18 @@ A method of marking fish with a chemical that leaves a permanent mark on hard ti
 - [[ListOfFisheryAssociationsInThe_12333]]
 - [[RoleOfEstuarineWatersInGulfFis_19019]]
 - [[APreliminaryBibliographyWithKw_16163]]
+
+## Oyster Beds
+
+### Summary
+Productive oyster bottoms in the estuary near the river mouth and in Mississippi Sound. The source reports that salt water has encroached on them as distributary changes altered estuarine conditions, and it suggests controlled freshwater flow could benefit them.
+
+### Context
+> This paper, presented by [[Gordon Gunter]] of the [[Gulf Coast Research Laboratory]] at the Twenty-Second North American Wildlife Conference (1957), examines how [[Flood Control]] on the [[Mississippi River]] has altered the river's floodplain and the wildlife and aquatic life that depend on it....
+> -- *[[WildlifeAndFloodControlInTheMi_17832]]*
+
+### Mentioned In
+- [[WildlifeAndFloodControlInTheMi_17832]]
 
 ## Oyster Creek Generating Station
 
@@ -9166,6 +13585,18 @@ Oyster cultch is shell material placed on the bottom to provide settling surface
 
 ### Mentioned In
 - [[AccumulationOfRadioactiveMater_16139]]
+
+## Oyster Culture
+
+### Summary
+Oyster culture is the farming of oysters in coastal or estuarine waters. This source describes it in Canton (Kwangtung province), where several oyster species exist but only a few, notably *Crassostrea rivularis* and *Lopha cucullata*, are suitable for cultivation. Work was organized into a reproduction zone, a spat-collection zone and a growth zone, with suspension culture reported to raise productivity 4–5 times over bottom culture.
+
+### Context
+> This 1965 Mexican rural fish-farming bulletin contains a report by Biol. María Luisa Sevilla on a study visit to China, undertaken at the invitation of the Chinese Fisheries Association. The author argues that aquaculture can strengthen rural economies and protein supply in Mexico and that Chinese...
+> -- *[[LaPisciculturaEnChina_11372]]*
+
+### Mentioned In
+- [[LaPisciculturaEnChina_11372]]
 
 ## Oyster Larvae
 <!-- fm: auto_enriched: true -->
@@ -9287,6 +13718,12 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 > This 1988 draft policy from the [[U.S. Fish and Wildlife Service]] (FWS) sets rules for assigning a **lead Region** to manage endangered and threatened species whose range or management scope crosses regional boundaries. The lead Region coordinates candidate assessment, listing, recovery planning,...
 > -- *[[DraftassignmentOfLeadRegionsFo_11605]]*
 
+> This American Fisheries Society (AFS) monograph by [[James E. Johnson]], with editorial support from Beth D. McAleer and funding from The Standard Oil Company, catalogs native fishes of the United States and Canada that receive legal protection or are of Special Concern. The listing uses only two...
+> -- *[[ProtectedFishesOfTheUnitedStat_19777]]*
+
+> This document is a preliminary conservation inventory of rare, restricted, and threatened North American freshwater fishes, compiled by [[Robert Rush Miller]] of the [[Museum of Zoology]], [[University of Michigan]]. It covers roughly 65 taxon entries, arranged alphabetically by U.S. state, with...
+> -- *[[ReviewPrinciplesOfPaleoecology_15343]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[RareAndEndangeredWorldFreshwat_15350]]
@@ -9298,6 +13735,8 @@ The Ozark Cavefish is a rare, endemic freshwater species inhabiting isolated cav
 - [[RareAndEndangeredVertebratesAn_11494]]
 - [[PreliminaryListOfRareRestricte_15342]]
 - [[DraftassignmentOfLeadRegionsFo_11605]]
+- [[ProtectedFishesOfTheUnitedStat_19777]]
+- [[ReviewPrinciplesOfPaleoecology_15343]]
 
 ## Ozark Faunal Group
 <!-- fm: auto_enriched: true -->
@@ -9328,8 +13767,16 @@ A Land Resource Area in northeastern Oklahoma, shown in the report's preface map
 > This 1975 report, prepared by the [[Rare and Endangered Species of Oklahoma Committee]] with assistance from the [[Soil Conservation Service]] (U.S. Department of Agriculture), is the first state-level inventory of rare and endangered vertebrates and plants in [[Oklahoma]]. It is meant to inform...
 > -- *[[RareAndEndangeredVertebratesAn_11494]]*
 
+> This study tracks the fish community of [[Clearwater Lake]], a 1,650-acre flood-control reservoir on the [[Black River]] in the [[Ozark Highland]] of Missouri, during its first seven years after impoundment (1948–1954). Sampling used nets, seines, rotenone and [[Creel Census]] data. The authors did...
+> -- *[[TheDevelopmentOfTheFishPopulat_18449]]*
+
+> This study describes the life history of the [[Black Redhorse]] (*Moxostoma duquesnei*) in two south-central Missouri Ozark Highland rivers, the [[Niangua River]] and the [[Big Piney River]], using collections made from 1951 to 1957. Scale samples from 1,314 Big Piney and 1,559 Niangua fish were...
+> -- *[[LifeHistoryOfTheBlackRedhorseM_17750]]*
+
 ### Mentioned In
 - [[RareAndEndangeredVertebratesAn_11494]]
+- [[TheDevelopmentOfTheFishPopulat_18449]]
+- [[LifeHistoryOfTheBlackRedhorseM_17750]]
 
 ## Ozark Highlands
 <!-- fm: auto_enriched: true -->
@@ -9344,8 +13791,13 @@ A Land Resource Area in northeastern Oklahoma, shown in the report's preface map
 ## Ozark Madtom
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This study examines the reproductive biology of the [[Checkered Madtom]] (*[[Noturus Flavater]]*), one of the largest and least known catfishes of the genus *Noturus*. Data came from nest observations in the [[North Fork White River]] (Missouri) during July 1981 and 1982, plus preserved museum...
+> -- *[[ReproductiveBiologyOfTheChecke_14067]]*
+
 ### Mentioned In
 - [[AspectsOfTheLifeHistoryOfTheOz_15231]]
+- [[ReproductiveBiologyOfTheChecke_14067]]
 
 ## Ozark Minnow
 
@@ -9372,8 +13824,12 @@ A Land Resource Area in northeastern Oklahoma, shown in the report's preface map
 > - **Scope**: Covers 59 threatened/endangered fish species or subspecies across [[North America]] (USA, Canada, Mexico), each with discovery history, habitat details, threat assessment, and conservation status. - **Primary threats identified**: [[Habitat Modification]], water level lowering, [[Aci...
 > -- *[[BookReviewsTransactionsOfTheAm_1985]]*
 
+> This short research note reports sex ratios in populations of the subterranean amphipod genus [[Stygonectes]] collected from seeps, springs, drains and caves across eastern and central North America and Texas. Females predominate in most collections. The bias is strongest in cave populations of...
+> -- *[[PreliminaryObservationsOnSexRa_18094]]*
+
 ### Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
+- [[PreliminaryObservationsOnSexRa_18094]]
 
 ## Ozark Mountains Physiographic Province
 <!-- fm: auto_enriched: true -->
@@ -9396,8 +13852,17 @@ A National Park Service unit in Missouri protecting the Current River and Jacks 
 ## Ozark Plateau
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This study by [[James D. Felley]] and [[Loren G. Hill]] (University of Oklahoma) uses multivariate analysis to describe the habitat preferences of ten cyprinid species in the Oklahoma drainage of the [[Illinois River]]. Fish were collected at 15 localities in spring, summer, autumn and winter of...
+> -- *[[MultivariateAssessmentOfEnviro_16331]]*
+
+> This note reports new distributional records for two crayfishes, [[Orconectes Luteus]] and [[Orconectes Neglectus Neglectus]], from collections made in 1960 and 1961 in Missouri, Kansas, and Nebraska. The authors document O. luteus north of the Osage River system, where it had not previously been...
+> -- *[[NewDistributionalRecordsForTwo_20146]]*
+
 ### Mentioned In
 - [[AnAtypicalEuryceaLucifugaFromK_18549]]
+- [[MultivariateAssessmentOfEnviro_16331]]
+- [[NewDistributionalRecordsForTwo_20146]]
 
 ## Ozark Plateaus
 
@@ -9438,6 +13903,18 @@ The Ozark Province is a physiographic region in the southeast of the Kansas area
 - [[ANewTroglobiticCrayfishFromOkl_20419]]
 - [[DescriptionsOfNearcticCaddisFl_21082]]
 
+## Ozark Stream
+
+### Summary
+A stream in Arkansas cited as a comparison case. The source reports that after the worst catastrophic flood of the century, its fish assemblage recovered to a near-preflood condition within 8 months.
+
+### Context
+> This study by [[Gary K. Meffe]] and [[W. L. Minckley]] assesses the persistence and stability of two animal assemblages, fishes and benthic invertebrates, in [[Aravaipa Creek]], a flash-flood-prone Sonoran Desert stream in Arizona. Persistence (presence or absence of taxa, measured by a...
+> -- *[[PersistenceAndStabilityOfFishA_20076]]*
+
+### Mentioned In
+- [[PersistenceAndStabilityOfFishA_20076]]
+
 ## Ozark Stream Ecosystems
 <!-- fm: auto_enriched: true -->
 
@@ -9447,6 +13924,22 @@ The Ozark Province is a physiographic region in the southeast of the Kansas area
 
 ### Mentioned In
 - [[TheDynamicsOfHabitatUseInAGuil_11064]]
+
+## Ozark Upland
+
+### Summary
+A highland region of the central United States in Missouri and Arkansas. This source identifies it as the present center of abundance of *Schilbeodes insignis*, where the madtom is usually common under stones and dead leaves.
+
+### Context
+> This taxonomic revision of the small, venomous catfishes called madtoms (genus [[Schilbeodes]]) corrects nomenclature for four eastern North American species and describes a new subspecies. The authors, [[Carl L. Hubbs]] and [[Edward C. Raney]], show that the name *insignis* properly belongs to the...
+> -- *[[SystematicNotesOnNorthAmerican_14455]]*
+
+> This taxonomic paper describes *[[Ambloplites Constellatus]]*, the Ozark rock bass, a new centrarchid from the upland section of the [[White River]] in Arkansas and Missouri. The authors separate it from its congeners, mainly [[Ambloplites Rupestris]] (northern rock bass) and [[Ambloplites...
+> -- *[[AmbloplitesConstellatusANewSpe_16046]]*
+
+### Mentioned In
+- [[SystematicNotesOnNorthAmerican_14455]]
+- [[AmbloplitesConstellatusANewSpe_16046]]
 
 ## Ozark Uplands
 <!-- fm: auto_enriched: true -->
@@ -9474,8 +13967,16 @@ The Ozark Uplift is a region in southern Illinois whose streams host several spe
 > This 1935 bulletin of the [[Illinois Natural History Survey]] by [[Theodore H. Frison]] is a comprehensive survey of the aquatic insect order [[Plecoptera]] (stoneflies) in Illinois. Based on collecting and rearing from 1926 onward, the study records 36 stonefly species for the state, plus at least...
 > -- *[[TheStonefliesOrPlecopteraOfIll_18843]]*
 
+> This chapter, drawn from a 1987 volume on stream fish ecology, argues that algivorous (algae-grazing) fishes have been largely overlooked by stream ecologists. The authors focus on the widespread grazing minnow [[Campostoma Anomalum]] (Central Stoneroller), which they show can strongly control the...
+> -- *[[GrazingFishesAsComponentsOfNor_15200]]*
+
+> This document is a two-part note from the *Transactions of the Kansas Academy of Science* (Vol. 57, No. 4, 1954). The first and main part, by Frank B. Cross of the [[University Of Kansas]], reports new distributional records for ten fish species that had seldom or never been reported from Kansas....
+> -- *[[RecordsOfFishesLittleknownFrom_18030]]*
+
 ### Mentioned In
 - [[TheStonefliesOrPlecopteraOfIll_18843]]
+- [[GrazingFishesAsComponentsOfNor_15200]]
+- [[RecordsOfFishesLittleknownFrom_18030]]
 
 ## Ozark Violet
 
@@ -9509,6 +14010,50 @@ A violet (Viola) native to the Ozark region, which extends into northeastern Okl
 ### Mentioned In
 - [[ADistributionalStudyOfTheFishe_1969]]
 
+## Ozarkian District
+
+### Summary
+The district of the Carolinian Province with the sharpest demarcation in the state, featuring swift, clear, spring-fed, slightly alkaline streams with riffles and pools, about 43 inches of rain, and chert and limestone geology. It holds several endemics, including Mudalia plebia, Ferrissia tarda, Polygyra jacksoni and Philomycus carolinianus, and its gastropods are thought to have radiated from the Tertiary Appalachians.
+
+### Context
+> This 1959 paper by [[Branley A. Branson]] (Department of Zoology, Oklahoma State University) is the first part of a series on the recent land and freshwater snails of [[Oklahoma]]. It reviews the history of malacological work in the state, divides Oklahoma into biotic provinces and districts that...
+> -- *[[TheRecentGastropodaOfOklahomaP_12890]]*
+
+### Mentioned In
+- [[TheRecentGastropodaOfOklahomaP_12890]]
+
+## Ozarkian Fauna
+
+### Summary
+The fish assemblage characteristic of the Ozark Uplands, which the source describes as the essential character of Big River's fish community. The source notes that 65 species are centred on the Ozarks in Missouri and fourteen are endemic to the region, with the Ozark fauna having developed in the Quaternary.
+
+### Context
+> This survey documents the pre-impoundment fish community of [[Big River]], the largest tributary of the [[Meramec River]] in east-central Missouri. Field collections from 1974 to 1976 at 37 stations found 80 species, and literature records and a later addendum raised the known total for the river...
+> -- *[[ThePreimpoundmentFishFaunaOfBi_18491]]*
+
+> This 1954 survey by [[Frank B. Cross]] documents the fish fauna of two small streams in the [[Flint Hills Region]] of east-central Kansas: the South Fork of the Cottonwood River and its tributary, [[Cedar Creek]]. Based chiefly on collections from 12 stations (nine on the South Fork, three on Cedar...
+> -- *[[FishesOfCedarCreekAndTheSouthF_18031]]*
+
+> This 1959 University of Kansas Museum of Natural History monograph by Artie L. Metcalf surveys the fishes of a portion of the [[Arkansas River Basin]] in south-central Kansas, covering Cowley, Chautauqua and Elk Counties (about 2,430 square miles). Collections were made at 60 numbered stations...
+> -- *[[FishesOfChautauquaCowleyAndElk_20142]]*
+
+### Mentioned In
+- [[ThePreimpoundmentFishFaunaOfBi_18491]]
+- [[FishesOfCedarCreekAndTheSouthF_18031]]
+- [[FishesOfChautauquaCowleyAndElk_20142]]
+
+## Ozarkian Uplift
+
+### Summary
+A geologic uplift in northeastern Oklahoma. The source reports that Gammarus minus is found only in its springs, and it is also named as a region for another keyed species in springs and subterranean waters.
+
+### Context
+> This document is a dichotomous identification key to amphipod crustaceans (order [[Amphipoda]]) of [[Oklahoma]], not a fish study. It separates the state's keyed species by antennal structure, accessory flagellum, uropod proportions, eye presence, and gnathopod (second pereiopod) armature. The key...
+> -- *[[AKeyToTheSpeciesOfAmphipodaOfO_19322]]*
+
+### Mentioned In
+- [[AKeyToTheSpeciesOfAmphipodaOfO_19322]]
+
 ## Ozarks
 
 ### Summary
@@ -9520,6 +14065,18 @@ The Ozarks is a geographic region that contains significant cave systems with nu
 
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11596]]
+
+## Ozarslan
+
+### Summary
+An earlier author (1958) who, like Setuk, treated conical teeth as a marker of the subfamily Fundulinae and disputed the placement of the Anatolian forms. The source also cites his pharyngeal tooth count of about 30 per bone in Aphanius fasciatus.
+
+### Context
+> This 1972 monograph by Ruth Franz and Wolfgang Villwock (University of Hamburg) reports the first ontogenetic and histological study of tooth development in [[Aphanius]]-like toothcarps (tribe Aphaniini, family [[Cyprinodontidae]]). Most Aphaniini bear tricuspid teeth in a single row on each jaw....
+> -- *[[BeitragZurKenntnisDerZahnentwi_18825]]*
+
+### Mentioned In
+- [[BeitragZurKenntnisDerZahnentwi_18825]]
 
 ## Ozone Treatment
 
@@ -9544,3 +14101,15 @@ A proposed facility in this source, sited at McClusky, that would use ozone to r
 
 ### Mentioned In
 - [[WaterForBirdsFishAndPeople_18183]]
+
+## Ötz River
+
+### Summary
+A river in the Danube system in Austria. Husmann records the species at Brunnau on the Ötz on 11 August 1959, where it was abundant alongside associated insect larvae.
+
+### Context
+> This 1962 study by [[Siegfried Husmann]] at the [[Max Planck Society]] hydrobiological station in Schlitz (Hesse) examines the groundwater archiannelid [[Troglochaetus beranecki]]. The author compiles new records from the [[Danube River]], [[Rhine River]], [[Weser River]] and associated tributaries...
+> -- *[[OkologischeUndVerbreitungscsge_14536]]*
+
+### Mentioned In
+- [[OkologischeUndVerbreitungscsge_14536]]

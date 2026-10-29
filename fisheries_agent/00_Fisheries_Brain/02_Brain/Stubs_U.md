@@ -20,6 +20,18 @@ The U.S. Fish and Wildlife Service (FWS) is a federal agency that co-received th
 - [[DraftlongtermMonitoringPlanFor_11488]]
 - [[StatusReportForRanaOncaCope_18613]]
 
+## U.S. Army
+
+### Summary
+The military organization that conducted mechanized infantry training at the Pinon Canyon Maneuvers Site, using M-60 tanks and M-113 armored personnel carriers from July 1985 onward. According to the source, the training was concentrated in the Taylor Arroyo and Lockwood Canyon upland watersheds and did not take place in canyons or riparian zones.
+
+### Context
+> This study modified the [[Index of Biotic Integrity]] (IBI) for the plains portion of the [[Arkansas River]] basin in the Southwestern Tablelands ecoregion of southeastern Colorado and applied it to 12 sites on the [[Purgatoire River]] adjacent to the [[Pinon Canyon Maneuvers Site]], where [[U.S....
+> -- *[[VariableFishCommunitiesAndTheI_12885]]*
+
+### Mentioned In
+- [[VariableFishCommunitiesAndTheI_12885]]
+
 ## U.S. Army Corps of Engineers
 <!-- fm: auto_enriched: true -->
 
@@ -150,6 +162,36 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 > This 1995 letter from [[Paul Wagner]] of [[Pyramid Lake Fisheries]] to [[Carlos Mendoza]], Nevada State Director of the [[U.S. Fish And Wildlife Service]], urges prompt field testing of alternative fishway designs at [[Marble Bluff Dam]]. The existing [[Pool And Weir Fishway]] is judged unsuitable...
 > -- *[[RePlanForImprovingTheFishwayAt_14406]]*
 
+> In late May 1995, four environmental advocacy groups sued the [[U.S. Army Corps of Engineers]] in the U.S. District Court in Phoenix to halt a $73 million, 56-mile flood-control dike along the [[Gila River]] in southwestern Arizona. The plaintiffs argue that the dike would destroy natural...
+> -- *[[SuitFiledToStopDikeAlongGilaRi_20918]]*
+
+> This 1991 newspaper column by the Arizona Republic's Outdoor Editor (Burkhart), published 24 March 1991, describes a conflict over how [[Glen Canyon Dam]] releases water into the [[Colorado River]] below Lake Powell. On one side is the [[Western Area Power Authority]] (WAPA), which markets power...
+> -- *[[EnvironmentalBattleBrewingOnCo_13923]]*
+
+> This 1988 study by [[Maule Et Al]] (Oregon State University) examined whether the [[Mcnary Dam Collection System]] and the barge and truck transport operations of the [[U.S. Army Corps of Engineers]] stress emigrating juvenile [[Chinook Salmon]] on the [[Columbia River]]. Fall and spring Chinook...
+> -- *[[PhysiologicalEffectsOfCollecti_15214]]*
+
+> This 1999 *New York Times* opinion column by [[James Conaway]] argues for removing obsolete dams to restore fish migration, using the [[Embrey Dam]] on the [[Rappahannock River]] in [[Fredericksburg]], Virginia, as its central case. The author holds that the dam blocks [[Anadromous Fish]] runs such...
+> -- *[[SettingOurRiversFree_17464]]*
+
+> This 1957 paper by Fritz H. Johnson of the [[Minnesota Department of Conservation]] tests whether spring water levels affect the strength of [[Northern Pike]] year classes in [[Ball Club Lake]], Minnesota, for the seven years 1945 to 1952. Years were ranked by a combined [[Water Level Index]] for...
+> -- *[[NorthernPikeYearclassStrengthA_19755]]*
+
+> This 1953 paper reports an intensive creel census of [[Clearwater Lake]], a flood-control reservoir on the [[Black River]] in southeastern Missouri, during its first four years of impoundment (1949–1952). The study compared species composition, fishing effort, catch rates and harvest across years...
+> -- *[[AnIntensiveCreelCensusOnClearw_17892]]*
+
+> Cross and Moore (1952) present an annotated checklist of the fishes of the Poteau River, a tributary system of the [[Arkansas River]] flowing from Scott County, Arkansas, into Le Flore County, Oklahoma. The list draws on a August 1947 survey conducted during an unusually dry summer, on earlier...
+> -- *[[TheFishesOfThePoteauRiverOklah_18034]]*
+
+> This presidential address by [[Arthur C. Benke]] (Department of Biology, University of Alabama) synthesizes available data on the physical degradation of streams in the contiguous United States, focusing on hydropower dams. It combines [[Federal Energy Regulatory Commission]] (FERC) hydropower data...
+> -- *[[APerspectiveOnAmericasVanishin_18154]]*
+
+> This Natural Resources Institute Special Report (No. 4), by [[William Dovel]], synthesizes eleven years (1960 to 1968) of plankton-net sampling of fish eggs and larvae in the upper [[Chesapeake Bay]] and its tributaries, including the [[Patuxent River]], [[Magothy River]], [[Susquehanna River]] and...
+> -- *[[FishEggsAndLarvaeOfTheUpperChe_19101]]*
+
+> This is a 1985 monograph by geographer and fluvial geomorphologist William L. Graf, published by the [[Association of American Geographers]] as part of its Resource Publications in Geography series. It argues that the Colorado River Basin is an unstable, arid-region human-environmental system, and...
+> -- *[[TheColoradoRiverInstabilityAnd_19189]]*
+
 ### Mentioned In
 - [[EmergencyConsultationLetterOnF_1994_12_07]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -194,6 +236,16 @@ The U.S. Army Corps of Engineers is a federal agency responsible for managing wa
 - [[SymposiumOnSamplingProblemsInC_17398]]
 - [[RiverRenewalRestoringRiversThr_19592]]
 - [[RePlanForImprovingTheFishwayAt_14406]]
+- [[SuitFiledToStopDikeAlongGilaRi_20918]]
+- [[EnvironmentalBattleBrewingOnCo_13923]]
+- [[PhysiologicalEffectsOfCollecti_15214]]
+- [[SettingOurRiversFree_17464]]
+- [[NorthernPikeYearclassStrengthA_19755]]
+- [[AnIntensiveCreelCensusOnClearw_17892]]
+- [[TheFishesOfThePoteauRiverOklah_18034]]
+- [[APerspectiveOnAmericasVanishin_18154]]
+- [[FishEggsAndLarvaeOfTheUpperChe_19101]]
+- [[TheColoradoRiverInstabilityAnd_19189]]
 
 ## U.S. Army Intelligence Center And Fort Huachuca
 
@@ -219,9 +271,21 @@ The U.S. Atomic Energy Commission was the federal agency that established discha
 > This U.S. Geological Survey Professional Paper (712-C, 1975, by Isaac J. Winograd and William Thordarson) was prepared for the [[U.S. Atomic Energy Commission]]. It characterizes how ground water moves beneath the [[Nevada Test Site]] and the surrounding south-central [[Great Basin]], to assess the...
 > -- *[[HydrogeologicAndHydrochemicalF_12114]]*
 
+> This study by [[Donald C. Tarter]] analyzes the stomach contents of 934 western blacknose dace (*Rhinichthys atratulus meleagris*) collected semimonthly from October 1965 through September 1966 at three stations in the upper 3.1 miles of [[Doe Run]], Meade County, Kentucky. Stomach contents were...
+> -- *[[FoodAndFeedingHabitsOfTheWeste_13462]]*
+
+> This 1966 paper, reprinted from the proceedings of the Stockholm symposium *Radioecological Concentration Processes*, reports a multi-year study by L. A. Krumholz (University of Louisville) of how [[Nuclear Fallout]] accumulated through the biota of [[Doe Run]], a spring-fed limestone stream in...
+> -- *[[AccumulationOfRadioactiveFallo_12455]]*
+
+> This 1965 final report from the University of Louisville, prepared under [[U.S. Atomic Energy Commission]] Contract No. AT-(40-1)-2595, documents the accumulation of [[Gross Beta Radioactivity]] from [[Fallout]] by the biota of [[Doe Run]], a spring-fed limestone stream in [[Meade County]],...
+> -- *[[ARadioecologicalStudyOfTheBiot_12454]]*
+
 ### Mentioned In
 - [[EnvironmentalImplicationsOfRad_14607]]
 - [[HydrogeologicAndHydrochemicalF_12114]]
+- [[FoodAndFeedingHabitsOfTheWeste_13462]]
+- [[AccumulationOfRadioactiveFallo_12455]]
+- [[ARadioecologicalStudyOfTheBiot_12454]]
 
 ## U.S. Biological Station
 
@@ -247,9 +311,13 @@ The U.S. Biological Survey was a federal agency whose member, E. A. Goldman, joi
 > This document is the front matter of *Man and Wildlife in Arizona II: The American Settlement Period, 1865-1912*, edited by [[Neil B. Carmony]] and [[David E. Brown]]. It consists of a table of contents, an editors' preface, and scanned handwritten pages that are largely illegible. The volume...
 > -- *[[ManAndWildlifeInArizonaIiTheAm_17431]]*
 
+> This popular-science article describes the [[Desert Pupfish]], a one-inch killifish that survives as a relict of the last [[Ice Age]] in isolated desert springs of the [[Death Valley]] drainage. The author argues that the fish is a scientifically important example of rapid [[Divergent Evolution]]...
+> -- *[[LittleLeftoverOfTheIceAge_11883]]*
+
 ### Mentioned In
 - [[BotanicalExplorationsInTheSout_12962]]
 - [[ManAndWildlifeInArizonaIiTheAm_17431]]
+- [[LittleLeftoverOfTheIceAge_11883]]
 
 ## U.S. Bureau Of Commercial Fisheries
 <!-- fm: auto_enriched: true -->
@@ -281,12 +349,28 @@ The U.S. Biological Survey was a federal agency whose member, E. A. Goldman, joi
 > This 1935 report by M. J. Madsen, Temporary Assistant Biologist for the [[U.S. Bureau of Fisheries]] (Department of Commerce), documents a field survey of the streams and lakes of the [[Coconino National Forest]] in north central Arizona. The survey was conducted from May to August 1934, during a...
 > -- *[[ABiologicalSurveyOfStreamsAndL_19340]]*
 
+> This annotated publication by W. L. Minckley reproduces the manuscript of [[Frederic Morton Chamberlain]], a U.S. Bureau of Fisheries aquatic biologist who surveyed Arizona fishes from 15 January to 28 April 1904, with about 30 field days concentrated in the [[Gila River Basin]]. Chamberlain's...
+> -- *[[FredericMortonChamberlainsSurv_15858]]*
+
 ### Mentioned In
 - [[NotesOnTheLeapingOfThePacificS_14869]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[ExplanatoryNote_11949]]
 - [[GameFishesOfArizona_15484]]
 - [[ABiologicalSurveyOfStreamsAndL_19340]]
+- [[FredericMortonChamberlainsSurv_15858]]
+
+## U.S. Bureau of Indian Affairs
+
+### Summary
+A federal agency that supported the Red Lakes research alongside the University of Minnesota and the U.S. Fish and Wildlife Service. In this source its role is limited to providing funding support for the walleye tagging program.
+
+### Context
+> This 1951 study reports a three-year jaw-tag mark-recapture program on [[Walleye]] (*Stizostedion vitreum vitreum*) in the two connected [[Red Lakes]] of northern [[Minnesota]]. The lakes support the [[Red Lake Fishery]], a commercial operation that is a major economic resource for the [[Red Lake...
+> -- *[[MovementsOfMarkedWalleyesStizo_21176]]*
+
+### Mentioned In
+- [[MovementsOfMarkedWalleyesStizo_21176]]
 
 ## U.S. Bureau Of Land Management
 <!-- fm: auto_enriched: true -->
@@ -316,6 +400,9 @@ The U.S. Biological Survey was a federal agency whose member, E. A. Goldman, joi
 > This 20 April 1992 letter from [[W. L. Minckley]], Team Leader of the [[Desert Fishes Recovery Team]], transmits the minutes of the team's 5-6 February 1992 meeting in Phoenix, Arizona, to [[Michael Spear]], Regional Director of the [[U.S. Fish And Wildlife Service]] (Region II). The team...
 > -- *[[SuggestedListOfGovernmentalAgi_13804]]*
 
+> This document is a cumulative index to the first fifteen volumes of the [[Proceedings of the Desert Fishes Council]], covering 1969 to 1983. It was compiled by Cynthia Deacon Williams and Jack Edward Williams. The index has three parts: a Subject Index, an Author Index, and a Systematic Index. It...
+> -- *[[IndexOfTheProceedingsOfTheDese_12025]]*
+
 ### Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[MinutesOfTheFebruaryDesertFish_1992_04_20]]
@@ -327,6 +414,7 @@ The U.S. Biological Survey was a federal agency whose member, E. A. Goldman, joi
 - [[WaterQualityStudyBurroCreekWat_16740]]
 - [[LakeMohaveSamplingForBonytailA_17038]]
 - [[SuggestedListOfGovernmentalAgi_13804]]
+- [[IndexOfTheProceedingsOfTheDese_12025]]
 
 ## U.S. Bureau of Mines
 
@@ -521,6 +609,15 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This 1955 Colorado Department of Game and Fish report by [[Wesley C. Nelson]] summarizes fisheries, limnological and bottom-fauna studies of [[Green Mountain Reservoir]], a long, narrow, deep [[Blue River]] impoundment in Summit County, Colorado, carried out from April 1949 to December 1950. The...
 > -- *[[GreenMountainReservoirStudies_10811]]*
 
+> This 1991 newspaper column by the Arizona Republic's Outdoor Editor (Burkhart), published 24 March 1991, describes a conflict over how [[Glen Canyon Dam]] releases water into the [[Colorado River]] below Lake Powell. On one side is the [[Western Area Power Authority]] (WAPA), which markets power...
+> -- *[[EnvironmentalBattleBrewingOnCo_13923]]*
+
+> This document is a cumulative index to the first fifteen volumes of the [[Proceedings of the Desert Fishes Council]], covering 1969 to 1983. It was compiled by Cynthia Deacon Williams and Jack Edward Williams. The index has three parts: a Subject Index, an Author Index, and a Systematic Index. It...
+> -- *[[IndexOfTheProceedingsOfTheDese_12025]]*
+
+> This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
+> -- *[[FleeAsDikeBurstsInSUtah_20836]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -592,6 +689,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[EnvironmentalConditionsWithinT_18585]]
 - [[WorkingDraftallozymeDivergence_14115]]
 - [[GreenMountainReservoirStudies_10811]]
+- [[EnvironmentalBattleBrewingOnCo_13923]]
+- [[IndexOfTheProceedingsOfTheDese_12025]]
+- [[FleeAsDikeBurstsInSUtah_20836]]
 
 ## U.S. Bureau Of Sport Fisheries And Wildlife
 <!-- fm: auto_enriched: true -->
@@ -603,10 +703,14 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This report, prepared for [[Consolidated Edison Company]] and the [[Hudson River Policy Committee]], evaluates whether a proposed [[Pumped Storage Hydroelectric Plant]] at Cornwall, New York would harm fish in the [[Hudson River Estuary]]. The [[Hudson River Technical Committee]] compiled three...
 > -- *[[HudsonRiverFisheriesInvestigat_14489]]*
 
+> This 1968 study, published in the [[Journal of the Arizona Academy of Science]], examines what controls productivity in seven small fishing impoundments in eastern Arizona. The authors (Kemmerer, Glucksman, Stewart, and McConnell) of the [[Arizona Cooperative Fishery Unit]] measured gross primary...
+> -- *[[SomeProductivityRelationsInSev_17934]]*
+
 ### Mentioned In
 - [[InvestigationOfProposedProject_1967_03_31]]
 - [[RecommendationsOfRepresentativ_1960_07_27]]
 - [[HudsonRiverFisheriesInvestigat_14489]]
+- [[SomeProductivityRelationsInSev_17934]]
 
 ## U.S. Commission of Fish and Fisheries
 <!-- fm: auto_enriched: true -->
@@ -633,10 +737,14 @@ The U.S. Department of Agriculture is a federal agency that issued warnings abou
 > This report from the [[National Fish Hatchery Review Panel]], convened at the request of the [[U.S. Fish and Wildlife Service]] (Service) Director and conducted by [[The Conservation Fund]], evaluates the future role of the [[National Fish Hatcheries]] (NFH) program. The Panel concludes that many...
 > -- *[[ReportOfTheNationalFishHatcher_20170]]*
 
+> This document is the proceedings of a November 1969 conference at [[Iowa State University]] on the role of agriculture in clean water, published by the [[Federal Water Pollution Control Administration]] (FWPCA) under Grant No. 13040 EYX (November 1970). It compiles six parts of expert chapters on...
+> -- *[[EffectsOfAgriculturalPollutant_17361]]*
+
 ### Mentioned In
 - [[ArizonaDepartmentOfWaterResour_18960]]
 - [[EffectsOfEnvironmentalFactorsO_18248]]
 - [[ReportOfTheNationalFishHatcher_20170]]
+- [[EffectsOfAgriculturalPollutant_17361]]
 
 ## U.S. Department of Energy
 
@@ -752,6 +860,9 @@ The U.S. diplomatic mission in Mexico City, which in this 1986 source receives c
 > This document is a February 25, 1999 public scoping letter from the [[Santa Catalina Ranger District]] of the [[Coronado National Forest]] and the [[Arizona Game and Fish Department]]. It proposes a native fish renovation in [[Sabino Canyon]] to aid recovery of the [[Gila Chub]], a native Arizona...
 > -- *[[LetterProposalForNativeFishRen_11506]]*
 
+> This 1990 final report by [[Jones & Stokes Associates]] for the [[Pyramid Lake Fisheries Restoration Project]], cosponsored by the [[U.S. Environmental Protection Agency]] Region 9, evaluates the decline of the riparian corridor along the lower 23 miles of the [[Truckee River]] between Wadsworth...
+> -- *[[ChannelStabilizationAndRiparia_19843]]*
+
 ### Mentioned In
 - [[RosterLowerBasinRecoveryImplem_21095]]
 - [[MiningActivitiesAndWaterQualit_21102]]
@@ -761,6 +872,7 @@ The U.S. diplomatic mission in Mexico City, which in this 1986 source receives c
 - [[ImpactsOfPowerPlantIntakeVeloc_11537]]
 - [[ThePotentialEconomicConsequenc_15754]]
 - [[LetterProposalForNativeFishRen_11506]]
+- [[ChannelStabilizationAndRiparia_19843]]
 
 ## U.S. Fish & Wildlife Service
 <!-- fm: auto_enriched: true -->
@@ -790,6 +902,9 @@ The U.S. diplomatic mission in Mexico City, which in this 1986 source receives c
 > This final report to the [[Western Water Policy Review Advisory Commission]] (July 1997), prepared by Ernie Niemi (ECONorthwest) and Tom McGuckin (New Mexico State University), assesses competition for scarce water and related resources across the Upper Rio Grande Basin, from the Colorado...
 > -- *[[FinalReportwaterManagementStud_10852]]*
 
+> This essay by [[W. L. Minckley]], Department of Biology, Arizona State University, argues that [[Non-Native Fishes]] are among the greatest threats to the survival of native fishes in the [[Sonoran Desert]]. It traces how dams, canals, and deliberate stocking transformed Arizona's aquatic fauna,...
+> -- *[[TheConservationDilemmaOfNonnat_16477]]*
+
 ### Mentioned In
 - [[ConsultationRequirementsForSpe_14815]]
 - [[GilaMorphometry_19079]]
@@ -799,6 +914,7 @@ The U.S. diplomatic mission in Mexico City, which in this 1986 source receives c
 - [[ProposalRoutingApprovalFormFor_13793]]
 - [[DraftfiscalYearWorkPlanGilaTax_14723]]
 - [[FinalReportwaterManagementStud_10852]]
+- [[TheConservationDilemmaOfNonnat_16477]]
 
 ## U.S. Fish and Wildlife Refuge
 
@@ -2301,6 +2417,150 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 > This 1991 research proposal outlines a three-year study of radio-telemetered and otherwise marked subadult [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Verde River]] drainage of Arizona. The work aims to generate the basic ecological data (movements, habitat selection, food habits, age and...
 > -- *[[MovementsAndHabitatUseOfSubadu_15923]]*
 
+> This newspaper article, reproduced from a scanned page with substantial OCR damage, reports on the [[Gila Topminnow]], a small endangered fish of southern Arizona. The main issue is a dispute over whether operations at the [[Silver Bell Mine]] and a new [[Tailings Pond]] threaten the species'...
+> -- *[[IndustryPredatorsThreatenArizo_13937]]*
+
+> This article, written by [[Michael J. Demlong]] of the [[Phoenix Zoo]]'s Living Collections, describes a head-starting program for the [[Ramsey Canyon Leopard Frog]] (*Rana subaquavocalis*), a critically endangered anuran from the Huachuca Mountains of southeastern Arizona. A 1996 census found only...
+> -- *[[HeadstartingRanaSubaquavocalis_12787]]*
+
+> This paper, by [[W. L. Minckley]] (Arizona State University) and James E. Brooks ([[Arizona Game And Fish Department]]), compiles published and unpublished records of nearly 200 intentional and presumably accidental transplantations of 26 species and subspecies of native Arizona fishes through...
+> -- *[[TransplantationsOfNonnativeAri_13707]]*
+
+> This paper by [[W. L. Minckley]] and [[James E. Brooks]] (Arizona State University and the Arizona Game and Fish Department) compiles published and unpublished records of nearly 200 intentional and presumably accidental transplantations of 26 native Arizona fish species and subspecies through 1980....
+> -- *[[TransplantationsOfNativeArizon_15895]]*
+
+> This 1985 *National Wildlife* article examines how dams and water diversions on the [[Colorado River]] have reduced habitat for two endangered fishes, the [[Colorado Squawfish]] and the [[Humpbacked Chub]]. Both species have nearly vanished from the lower river, and conservationists fear the same...
+> -- *[[SqueezingOutTheSquawfishEffort_19500]]*
+
+> This Star-Tribune news article reports a first interview with state Senator [[John Turner]] (R-Teton-Sublette, Wyoming), who was named by President [[George Bush]] to direct the [[U.S. Fish And Wildlife Service]] (USFWS). Turner pledged scientific professionalism and cooperation with the agency's...
+> -- *[[TurnerOutlinesPlansForFwsJob_20783]]*
+
+> This document is a cumulative index to the first fifteen volumes of the [[Proceedings of the Desert Fishes Council]], covering 1969 to 1983. It was compiled by Cynthia Deacon Williams and Jack Edward Williams. The index has three parts: a Subject Index, an Author Index, and a Systematic Index. It...
+> -- *[[IndexOfTheProceedingsOfTheDese_12025]]*
+
+> This 1956 creel-census study, published in the *Illinois Academy of Science Transactions* (Vol. 49), measured angler success on three southern Illinois waters during 1955. It was a cooperative project between the [[Illinois Department of Conservation]] and the [[Cooperative Fisheries Research...
+> -- *[[BoatFishermensCatchAtCrabOrcha_20312]]*
+
+> This paper, a contribution to the 1985 symposium *The Role of Fish Culture in Fisheries Management* (Lake Ozark, Missouri), reviews how artificial propagation in [[Hatchery Facilities]] supports the recovery of imperiled freshwater fishes, mainly in the American Southwest. It centres on [[Dexter...
+> -- *[[TheRoleOfHatcheriesInTheManage_14649]]*
+
+> This Associated Press article from Kingman, Arizona, reports that the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) is in serious decline across the American Southwest. Conservationists working to restore the species are reluctant to have it federally listed as endangered, because they fear...
+> -- *[[ItsAnUphillBattleForRazorbackS_18272]]*
+
+> A newspaper report describes the decision by the [[U.S. Fish and Wildlife Service]] (USFWS) to destroy about 18,000 hatchery-produced fingerlings of the endangered [[Virgin River Chub]]. The fish were destroyed on Oct. 26, 1989, because USFWS staff judged them genetically deficient relative to the...
+> -- *[[DecisionToDestroyFishMayHaveBe_19651]]*
+
+> A news report from the *Denver Post* (by Mary George) describes the first recorded [[Colorado Squawfish]] in Wyoming since 1962. A 27-inch adult was caught and released on August 20 from the [[Little Snake River]] just west of [[Baggs Wyoming]], close to the Colorado border. The [[Wyoming Game And...
+> -- *[[ColoradoSquawfishFoundInWyomin_14446]]*
+
+> This study reviews the distribution, life history, and conservation status of the [[Carolina Madtom]] (*Noturus furiosus*), a small catfish endemic to the [[Tar River]] and [[Neuse River]] drainages of North Carolina. The species was a candidate for pre-listing studies by the [[U.S. Fish and...
+> -- *[[DistributionBiologyAndConserva_14077]]*
+
+> A federal court order in June required the [[U.S. Fish And Wildlife Service]] (FWS) to establish a timetable for designating [[Critical Habitat]] for the [[Mexican Spotted Owl]], a subspecies listed as threatened under the [[Endangered Species Act]]. Environmentalists argued that the protections...
+> -- *[[OwlsWinUsRulingOverLoggers_20915]]*
+
+> This Wisconsin popular-press article by Thomas L. Wirth, Project Leader for Winnebago Studies, argues that the [[Freshwater Drum]] (commonly called "sheepshead") is an underrated, nutritious food fish. It reports that the edible fillet of Lake Winnebago drum is high in protein and low in fat, and...
+> -- *[[DrumForGoodEating_20785]]*
+
+> This report, prepared by [[John N. Rinne]] of the Rocky Mountain Forest and Range Experiment Station for the U.S. Fish and Wildlife Service, Office of Endangered Species, assesses the genetic and morphological purity of the native [[Arizona Trout]] (*Salmo apache*) across streams in east-central...
+> -- *[[DistributionOfPurePopulationsO_15494]]*
+
+> This newspaper feature (The Arizona Republic, Western Arizona Bureau) reports a weeklong search by roughly 50 state and federal researchers at [[Lake Mohave]] for wild [[Bonytail Chub]]. The bonytail is described as one of the rarest vertebrates in North America. Wild bonytails are nearly absent,...
+> -- *[[EndangeredFishSoughtBreedingLa_13935]]*
+
+> This short 1955 study tested whether [[Northern Pike]] (*Esox lucius*) stocked in [[Clear Lake]], Iowa, were recaptured mainly near their stocking sites. In fall 1953, 2,630 individually tagged young-of-the-year pike were released at eight locations. Anglers returned 780 tagged fish in the summer...
+> -- *[[DispersalOfStockedNorthernPike_17396]]*
+
+> A coalition of six environmental groups petitioned the [[U.S. Fish and Wildlife Service]] on March 15, 1989, to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as endangered under the [[Endangered Species Act]]. The article, published in *The Salt Lake Tribune* on March 16, 1989, reports that...
+> -- *[[EnvironmentalistsAskUsToProtec_20837]]*
+
+> This newspaper article reports a federal proposal to list the [[Cactus Ferruginous Pygmy Owl]] as endangered and to designate its [[Critical Habitat]] in Arizona. The owl depends on riparian vegetation that has been lost to groundwater pumping, dam operation, and livestock grazing. A petition by a...
+> -- *[[SurvivalOfTheSmallestUsPropose_17222]]*
+
+> This article by [[James E. Deacon]], a biologist at the [[University Of Nevada Las Vegas]], reviews the status of the desert pupfishes of the [[Death Valley]] region. Several populations are extinct or threatened, mainly because of groundwater pumping and drainage of marshes in [[Ash Meadows]],...
+> -- *[[DevilsHolePupfishVictimOfEnvir_14025]]*
+
+> This newspaper feature by Steve Daniels (Western Arizona Bureau) reports on the decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), a large native fish of the [[Colorado River Basin]] that was once common in Arizona and southern California but has been reduced to a few surviving adults,...
+> -- *[[UglyRazorbackSuckersFaceOblivi_13541]]*
+
+> This second revision of the [[Cui-ui Recovery Plan]] was prepared by the Cui-ui Recovery Team for Region 1 of the [[U.S. Fish and Wildlife Service]] (Service). The plan covers *Chasmistes cujus*, a large lakesucker endemic to [[Pyramid Lake]], Nevada, listed as endangered on March 11, 1967. The...
+> -- *[[CuiuiChamistesCujusRecoveryPla_18093]]*
+
+> This 1994 opinion piece by environmental writer Ronald Harris, published in *The Arizona Republic*, argues that [[Glen Canyon Dam]] has damaged the Colorado River ecosystem through Glen and [[Grand Canyon]] since its operation was intensified for [[Hydropower Peaking]]. The author describes how...
+> -- *[[PoliticalScienceInTheGrandCany_20674]]*
+
+> This letter from the [[Cui-Ui Recovery Team]] Leader Thomas A. Strekal to [[U.S. Fish And Wildlife Service]] Regional Director Marvin Plenert (dated December 7, 1990) summarizes the status of the Draft [[Cui-Ui Recovery Plan]] and the Team's key recommendations. The Team concludes that recovery...
+> -- *[[DraftLetterSummaryOfTheStatusO_14621]]*
+
+> This newspaper feature (Los Angeles Times, by Pete Thomas) reports on an oral-history report compiled by Fred Quartarone of the [[Colorado Division Of Wildlife]] with the [[U.S. Fish And Wildlife Service]]. The report gathered first-hand recollections from more than 100 people, average age 77,...
+> -- *[[TalkingSquawfishCollectionOfSt_13578]]*
+
+> This study tests whether [[Electrophoretic Genotyping]] can be run on [[Non-Lethal Genetic Sampling|low-risk tissues]] (blood, fins, and scale epithelium) of [[Largemouth Bass]] (*[[Micropterus Salmoides]]*) instead of invasive liver biopsy or necropsy. The authors used [[Starch Gel...
+> -- *[[GeneticMarkerIdentificationInL_17427]]*
+
+> A newspaper report describes the release of 903 juvenile [[Razorback Sucker]]s, an endangered native fish, into the [[Bill Williams River National Wildlife Refuge]] on [[Lake Havasu]], Arizona. The fish were raised at the [[Dexter National Fish Hatchery]] in New Mexico and trucked to the release...
+> -- *[[EndangeredFishGetFightingChanc_12070]]*
+
+> This popular feature describes the [[Pupfish]] (*Cyprinodon* spp.) of [[Death Valley]], California, and nearby Nevada. The fish survive in desert springs and pools that remain from [[Lake Manly]], a Pleistocene lake that once covered the valley. The article focuses on the [[Devils Hole Pupfish]],...
+> -- *[[LivingFossilsOfDevilsHole_12343]]*
+
+> This literary nonfiction passage, the "Fish" chapter of Charles Bowden's *Blue Desert* (University of Arizona Press, 1986), follows a journalist's visit to the [[San Bernardino Ranch]] in southeastern Arizona. The ranch's springs and ponds shelter the [[Yaqui Topminnow]], an endangered fish of...
+> -- *[[Fishes_17742]]*
+
+> This Bassmaster Magazine feature (January 1994, by Robert Montgomery) examines a conflict between conservation preservationists and state sportfishing agencies over the stocking of [[Non-Native Species]]. Preservationists, working through the [[Endangered Species Act]] and the [[Aquatic Nuisance...
+> -- *[[InTheNameOfBiodiversity_16553]]*
+
+> This document is the 1956 "Policy Pertaining to Management of Minnesota Waters for Fish and Fishing," written by James W. Kimball, Director of the [[Division Of Game And Fish]]. It sets out the Department's goals, administrative structure, and species-specific rules for managing the state's lakes...
+> -- *[[TheFishManagementPolicy_12617]]*
+
+> This review by [[Robert Victor Miller]], a fishery biologist at the [[Bureau of Commercial Fisheries]] Tropical Atlantic Biological Laboratory, summarizes the migratory movements of three commercially and recreationally important coastal fishes along the North American coasts: [[Striped Bass]],...
+> -- *[[ContinentalMigrationsOfFishes_18475]]*
+
+> This 1951 study reports a three-year jaw-tag mark-recapture program on [[Walleye]] (*Stizostedion vitreum vitreum*) in the two connected [[Red Lakes]] of northern [[Minnesota]]. The lakes support the [[Red Lake Fishery]], a commercial operation that is a major economic resource for the [[Red Lake...
+> -- *[[MovementsOfMarkedWalleyesStizo_21176]]*
+
+> This 1987 *ASU Research* feature describes the decline of three endemic Arizona fishes: the [[Colorado Squawfish]], [[Bonytail Chub]], and [[Razorback Sucker]]. All three are listed as endangered at the federal and state levels. Arizona State University researchers [[W.L. Minckley]] and [[Paul...
+> -- *[[WantedEndangeredArizonaFishesF_17028]]*
+
+> This Fisheries bulletin article by [[James E. Johnson]] and [[John N. Rinne]] (Fisheries, Vol. 7, No. 4, July-August 1982) reviews the status of native fishes of the American Southwest under the [[Endangered Species Act]] of 1973. The authors argue that the region's fauna, marked by high endemism...
+> -- *[[TheEndangeredSpeciesActAndSout_19785]]*
+
+> This 1951 paper by [[Gordon E. Hall]] (Oklahoma Game and Fish Department) reports a fishery survey of the existing waters of the [[Wister Reservoir]] area, [[Poteau River]] Basin, Oklahoma, conducted from April to September 1949, one month before impoundment on October 4, 1949. The survey...
+> -- *[[PreimpoundmentFishPopulationsO_20965]]*
+
+> Richard L. Mayden (1993, [[Bulletin Alabama Museum of Natural History]] No. 16) formally describes the **spring pygmy sunfish**, *Elassoma alabamae*, a small freshwater fish of the family [[Elassomatidae]]. The description brings the number of described species in the family to six. The species is...
+> -- *[[ElassomaAlabamaeANewSpeciesOfP_15238]]*
+
+> This taxonomic paper describes two new species of [[Thermosphaeroma]] isopod crustaceans (family [[Sphaeromatidae]]) from hot springs in Chihuahua, Mexico. It raises the known number of species in the genus from three to five, adds descriptive notes on the endangered [[Thermosphaeroma...
+> -- *[[ThermosphaeromaMilleriAndTSmit_17753]]*
+
+> This magazine feature (Trout, Winter 1995) examines the endangered [[Gila Trout]] (*Oncorhynchus gilae*) and the recovery program run by the [[U.S. Fish and Wildlife Service]], the [[U.S. Forest Service]] and the [[New Mexico Department of Game and Fish]]. The Gila trout has been listed as...
+> -- *[[WarOnTheWestTheNonrecoveryOfGi_12068]]*
+
+> This 1985 report by [[Defenders of Wildlife]] reviews federal performance under the [[Endangered Species Act]] (ESA) during 1984. It is the first annual follow-up to the organization's ten-year analysis, and it covers budgets, species listing and recovery, and the roles of the [[U.S. Fish and...
+> -- *[[ImplementationOfTheUsEndangere_14601]]*
+
+> This 1991 taxonomic paper by [[James D. Williams]] and [[Glenn H. Clemmer]] formally describes *Scaphirhynchus suttkusi*, the Alabama Sturgeon, from the [[Mobile Basin]] of Alabama and Mississippi. The species is morphologically closest to the [[Shovelnose Sturgeon]] (*S. platorynchus*) and differs...
+> -- *[[ScaphirhynchusSuttkusiANewStur_12009]]*
+
+> This 1970 T.F.H. Publications booklet, written by [[George S. Myers]], is a career guide rather than a research report. It advises prospective ichthyologists (scientists who study fishes) on the education, subject preparation, university choice, and graduate training needed to enter the field. Its...
+> -- *[[HowToBecomeAnIchthyologist_15552]]*
+
+> This *Denver Post* outdoors article (dated January 26; the year is not stated, but it references events through March 1992) reports a dispute between the [[Colorado Division Of Wildlife]] (DOW) and the [[U.S. Fish And Wildlife Service]] (USFWS) over stocking non-native game fish on the Western...
+> -- *[[StockExchangesStateFederalOffi_20494]]*
+
+> This Summer 1991 issue of a trout-focused magazine combines a policy essay, advertising, and four feature pieces. The central story follows [[Steve Moore]], fisheries biologist for [[Great Smoky Mountains National Park]], through the decline and attempted restoration of the native [[Salvelinus...
+> -- *[[SavedByTheBarriers_20924]]*
+
+> This September 1995 issue of the [[Arizona Riparian Council]] newsletter covers the [[Lower Colorado River Ecoregion]] (LCRE) and its conservation planning, state land preservation and water funding in Arizona, a comparative environmental risk assessment for riparian systems, a species profile of...
+> -- *[[TheLowerColoradoRiverEcoregion_16225]]*
+
+> This 1993 University of Arizona master's thesis examines the [[Flannelmouth Sucker]] (*Catostomus latipinnis*) in the [[Paria River]], a turbid, flash-flood-prone tributary entering the [[Colorado River]] about 25 km below [[Glen Canyon Dam]]. The study combined seine, hoop-net and PIT-tag sampling...
+> -- *[[SpawningMovementAndPopulationS_12137]]*
+
+> This 1985 paper by the Endangered Species Committee of the [[Desert Fishes Council]] (Williams, Bowman, Brooks, Echelle, Edwards, Hendrickson and Landye) identifies endangered aquatic ecosystems across the [[Great Basin Desert|Great Basin]], [[Mojave Desert|Mohave]], [[Sonoran Desert|Sonoran]] and...
+> -- *[[EndangeredAquaticEcosystemsInN_12035]]*
+
 ### Mentioned In
 - [[AdministrativeChangesWillMakeE_1994_06_14]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -3001,6 +3261,54 @@ The U.S. Fish and Wildlife Service (USFWS) is a federal agency responsible for m
 - [[SystematicEcologicalGeneticAnd_13779]]
 - [[SystematicAnalysesOfColoradoRi_16488]]
 - [[MovementsAndHabitatUseOfSubadu_15923]]
+- [[IndustryPredatorsThreatenArizo_13937]]
+- [[HeadstartingRanaSubaquavocalis_12787]]
+- [[TransplantationsOfNonnativeAri_13707]]
+- [[TransplantationsOfNativeArizon_15895]]
+- [[SqueezingOutTheSquawfishEffort_19500]]
+- [[TurnerOutlinesPlansForFwsJob_20783]]
+- [[IndexOfTheProceedingsOfTheDese_12025]]
+- [[BoatFishermensCatchAtCrabOrcha_20312]]
+- [[TheRoleOfHatcheriesInTheManage_14649]]
+- [[ItsAnUphillBattleForRazorbackS_18272]]
+- [[DecisionToDestroyFishMayHaveBe_19651]]
+- [[ColoradoSquawfishFoundInWyomin_14446]]
+- [[DistributionBiologyAndConserva_14077]]
+- [[OwlsWinUsRulingOverLoggers_20915]]
+- [[DrumForGoodEating_20785]]
+- [[DistributionOfPurePopulationsO_15494]]
+- [[EndangeredFishSoughtBreedingLa_13935]]
+- [[DispersalOfStockedNorthernPike_17396]]
+- [[EnvironmentalistsAskUsToProtec_20837]]
+- [[SurvivalOfTheSmallestUsPropose_17222]]
+- [[DevilsHolePupfishVictimOfEnvir_14025]]
+- [[UglyRazorbackSuckersFaceOblivi_13541]]
+- [[CuiuiChamistesCujusRecoveryPla_18093]]
+- [[PoliticalScienceInTheGrandCany_20674]]
+- [[DraftLetterSummaryOfTheStatusO_14621]]
+- [[TalkingSquawfishCollectionOfSt_13578]]
+- [[GeneticMarkerIdentificationInL_17427]]
+- [[EndangeredFishGetFightingChanc_12070]]
+- [[LivingFossilsOfDevilsHole_12343]]
+- [[Fishes_17742]]
+- [[InTheNameOfBiodiversity_16553]]
+- [[TheFishManagementPolicy_12617]]
+- [[ContinentalMigrationsOfFishes_18475]]
+- [[MovementsOfMarkedWalleyesStizo_21176]]
+- [[WantedEndangeredArizonaFishesF_17028]]
+- [[TheEndangeredSpeciesActAndSout_19785]]
+- [[PreimpoundmentFishPopulationsO_20965]]
+- [[ElassomaAlabamaeANewSpeciesOfP_15238]]
+- [[ThermosphaeromaMilleriAndTSmit_17753]]
+- [[WarOnTheWestTheNonrecoveryOfGi_12068]]
+- [[ImplementationOfTheUsEndangere_14601]]
+- [[ScaphirhynchusSuttkusiANewStur_12009]]
+- [[HowToBecomeAnIchthyologist_15552]]
+- [[StockExchangesStateFederalOffi_20494]]
+- [[SavedByTheBarriers_20924]]
+- [[TheLowerColoradoRiverEcoregion_16225]]
+- [[SpawningMovementAndPopulationS_12137]]
+- [[EndangeredAquaticEcosystemsInN_12035]]
 
 ## U.S. Fish And Wildlife Service 1986
 <!-- fm: auto_enriched: true -->
@@ -3080,11 +3388,15 @@ The U.S. Fish Commission was the federal agency that supplied carp to the Arizon
 > This note summarises a 1890 field survey and taxonomic report by [[Charles Henry Gilbert]] and [[Norman Bishop Scofield]]. The expedition, made by the senior author and A. B. Alexander of the [[U.S. Fish Commission]] during the late April and early May 1890 detached from the [[Albatross...
 > -- *[[NotesOnACollectionOfFishesFrom_16994]]*
 
+> This annotated publication by W. L. Minckley reproduces the manuscript of [[Frederic Morton Chamberlain]], a U.S. Bureau of Fisheries aquatic biologist who surveyed Arizona fishes from 15 January to 28 April 1904, with about 30 field days concentrated in the [[Gila River Basin]]. Chamberlain's...
+> -- *[[FredericMortonChamberlainsSurv_15858]]*
+
 ### Mentioned In
 - [[ToHisExcellencyFrederickATritl_13446]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
 - [[ToHisExcellencyFrederickATritl_13445]]
 - [[NotesOnACollectionOfFishesFrom_16994]]
+- [[FredericMortonChamberlainsSurv_15858]]
 
 ## U.S. Fish Cultural Station
 
@@ -3292,6 +3604,45 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 > This U.S. Forest Service memorandum and attached report (Jerome A. Stefferud, Tonto National Forest, April 27, 1993) compiles fish monitoring records for [[Gila Topminnow]] in [[Redrock Canyon]] from 1979 to 1992. Redrock Canyon is the only [[Gila Topminnow]] site in Arizona on National Forest...
 > -- *[[DraftmonitoringOfTheFishCommun_11499]]*
 
+> This document is a cumulative index to the first fifteen volumes of the [[Proceedings of the Desert Fishes Council]], covering 1969 to 1983. It was compiled by Cynthia Deacon Williams and Jack Edward Williams. The index has three parts: a Subject Index, an Author Index, and a Systematic Index. It...
+> -- *[[IndexOfTheProceedingsOfTheDese_12025]]*
+
+> This report, prepared by [[John N. Rinne]] of the Rocky Mountain Forest and Range Experiment Station for the U.S. Fish and Wildlife Service, Office of Endangered Species, assesses the genetic and morphological purity of the native [[Arizona Trout]] (*Salmo apache*) across streams in east-central...
+> -- *[[DistributionOfPurePopulationsO_15494]]*
+
+> This Arizona State University (ASU) newsletter issue profiles [[W.L. Minckley]], an ASU zoologist and fish specialist who mentors graduate students through intensive field training. It reports his comments that only 30 of the 80 fish species in Arizona waters are native, nearly all of them on...
+> -- *[[ZoologistanglerHooksGraduateSt_12622]]*
+
+> S. Clark Martin, a range scientist with the [[Rocky Mountain Forest And Range Experiment Station]], argues that the 80-million-acre [[Southwestern Semidesert]] region should continue to be grazed. The region supports about one million animal units yearlong, serves livestock, wildlife, hunting, and...
+> -- *[[WhyGrazeSemidesertRanges_17080]]*
+
+> This Summer 1995 issue of the *Arizona Conservation Voter* newsletter covers several Arizona conservation topics. Its central feature, by [[Paul C. Marsh]] (Center for Environmental Studies, [[Arizona State University]]) and [[W. L. Minckley]] (Department of Zoology, Arizona State University),...
+> -- *[[RecoveryOfADesertRiverFishtheL_17058]]*
+
+> This 1993 review by [[Swift et al. 1993 Fish Survey|Swift, Haglund, Ruiz and Fisher]] documents the status and distribution of native, estuarine and introduced fishes across southern California's Owens, Mohave, Colorado and coastal drainages. The authors recognize 38 native freshwater taxa and 23...
+> -- *[[TheStatusAndDistributionOfTheF_15079]]*
+
+> This review by [[William S. Platts]] and John N. Rinne, published in the *North American Journal of Fisheries Management* (1985, vol. 5, no. 2, pp. 115–125), assesses past stream enhancement research in the Rocky Mountains, the adequacy of that research, and the studies needed to improve future...
+> -- *[[RiparianAndStreamEnhancementMa_18612]]*
+
+> This 1999 *Atlantic Monthly* feature by Perri Knize examines the conflict over livestock grazing on [[Public Rangelands]] in the American West. It argues that ranchers and [[Environmental Groups]] are increasingly finding common ground on [[Riparian Restoration]], even as litigation, budget cuts...
+> -- *[[WinningTheWarForTheWest_12566]]*
+
+> This Fisheries bulletin article by [[James E. Johnson]] and [[John N. Rinne]] (Fisheries, Vol. 7, No. 4, July-August 1982) reviews the status of native fishes of the American Southwest under the [[Endangered Species Act]] of 1973. The authors argue that the region's fauna, marked by high endemism...
+> -- *[[TheEndangeredSpeciesActAndSout_19785]]*
+
+> This review by [[John N. Rinne]] of the [[Rocky Mountain Research Station]] examines the relationships between [[Livestock Grazing]] and fishes in the western and southwestern United States. The author finds that the direct effects of grazing on vegetation are well documented, but the indirect...
+> -- *[[FishAndGrazingRelationshipsThe_15009]]*
+
+> This magazine feature (Trout, Winter 1995) examines the endangered [[Gila Trout]] (*Oncorhynchus gilae*) and the recovery program run by the [[U.S. Fish and Wildlife Service]], the [[U.S. Forest Service]] and the [[New Mexico Department of Game and Fish]]. The Gila trout has been listed as...
+> -- *[[WarOnTheWestTheNonrecoveryOfGi_12068]]*
+
+> This 1985 report by [[Defenders of Wildlife]] reviews federal performance under the [[Endangered Species Act]] (ESA) during 1984. It is the first annual follow-up to the organization's ten-year analysis, and it covers budgets, species listing and recovery, and the roles of the [[U.S. Fish and...
+> -- *[[ImplementationOfTheUsEndangere_14601]]*
+
+> This Spring 1991 issue of the [[Trout Unlimited]] newsletter is a mixed advocacy publication. Its lead article, "Voodoo Fish Management," argues that wild Columbia River salmon have declined by about 97 percent, that habitat destruction (dams, logging, livestock grazing and beaver loss) is the root...
+> -- *[[VoodooFishManagement_16338]]*
+
 ### Mentioned In
 - [[CommentsOnProposedReclassifica_1987_08_26]]
 - [[ConcurrenceOnKaylerSpringFenci_1994_08_02]]
@@ -3368,6 +3719,19 @@ The U.S. Forest Service is a federal agency responsible for managing public fore
 - [[SuggestedListOfGovernmentalAgi_13804]]
 - [[TheReturnOfStrawberryOneOfUtah_13233]]
 - [[DraftmonitoringOfTheFishCommun_11499]]
+- [[IndexOfTheProceedingsOfTheDese_12025]]
+- [[DistributionOfPurePopulationsO_15494]]
+- [[ZoologistanglerHooksGraduateSt_12622]]
+- [[WhyGrazeSemidesertRanges_17080]]
+- [[RecoveryOfADesertRiverFishtheL_17058]]
+- [[TheStatusAndDistributionOfTheF_15079]]
+- [[RiparianAndStreamEnhancementMa_18612]]
+- [[WinningTheWarForTheWest_12566]]
+- [[TheEndangeredSpeciesActAndSout_19785]]
+- [[FishAndGrazingRelationshipsThe_15009]]
+- [[WarOnTheWestTheNonrecoveryOfGi_12068]]
+- [[ImplementationOfTheUsEndangere_14601]]
+- [[VoodooFishManagement_16338]]
 
 ## U.S. General Accounting Office
 
@@ -3515,6 +3879,33 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 > This draft technical report (August 1987) presents the findings of the [[Glen Canyon Environmental Studies]] (GCES), a multi-agency study commissioned by the Secretary of the Interior in December 1982. The study assessed how releases from [[Glen Canyon Dam]] affect environmental and recreational...
 > -- *[[GlenCanyonEnvironmentalStudies_19675]]*
 
+> This study modified the [[Index of Biotic Integrity]] (IBI) for the plains portion of the [[Arkansas River]] basin in the Southwestern Tablelands ecoregion of southeastern Colorado and applied it to 12 sites on the [[Purgatoire River]] adjacent to the [[Pinon Canyon Maneuvers Site]], where [[U.S....
+> -- *[[VariableFishCommunitiesAndTheI_12885]]*
+
+> This 1941 paper (S. F. Turner and L. C. Halpenny, reprinted from the *Transactions of the American Geophysical Union*) describes the scope and methods of a ground-water inventory of two inner valleys of the [[Gila River]] in New Mexico and Arizona. The study was run by the [[U.S. Geological...
+> -- *[[GroundwaterInventoryInTheUpper_13025]]*
+
+> This 1941 hydrological study by H. M. Babcock and E. M. Cushing, of the [[U.S. Geological Survey]], examines how flash floods in [[Queen Creek]], a typical large desert wash in [[Pinal County]], [[Arizona]], recharge the underlying [[Alluvium]] aquifer. The work supported a proposed flood-control...
+> -- *[[RechargeToGroundwaterFromFlood_17190]]*
+
+> This geomorphic study, produced under the [[Arid Lands Project]] at the [[University of Arizona]], examines how the modern drainage of southeastern Arizona developed, with a focus on the [[Safford Valley]] in Graham County. The writer asks how the [[Gila River]] came to cross the [[Mescal...
+> -- *[[OriginOfTheDrainageOfSoutheast_20114]]*
+
+> This 1978 study by [[Stuart G. Fisher]] and [[W. L. Minckley]] (Arizona State University) documents changes in water chemistry and discharge during a single flash flood on [[Sycamore Creek]], a desert tributary of the [[Verde River]] in central Arizona. Suspended particulates rose from 0.3 g/l to a...
+> -- *[[ChemicalCharacteristicsOfADese_16427]]*
+
+> This excerpt from Robert R. Humphrey's book compares historic photographs of International Boundary monuments (erected in the 1890s) with vegetation observed by the author in summer 1983. The survey covers Monuments 73 through 81 in the [[Chihuahuan Desert]], from the riparian bottom of [[Guadalupe...
+> -- *[[ChihuahuanDesert_14510]]*
+
+> This U.S. Geological Survey guidebook paper by [[Philip T. Hayes]] and [[Harald Drewes]] synthesizes the stratigraphy of the Mesozoic rocks of southeastern Arizona. It correlates units across many mountain ranges using field relations, paleontology, petrology, and radiometric dates. The authors...
+> -- *[[MesozoicSedimentaryAndVolcanic_20728]]*
+
+> This paper by John W. Harshbarger, presented at a 1957 symposium on [[Climate And Man In The Southwest]] (the 33rd annual meeting of the Southwestern and Rocky Mountain Division of the American Association for the Advancement of Science, Tucson, Arizona), reviews the ground-water resources of...
+> -- *[[UseOfGroundWaterInArizona_20682]]*
+
+> This document is the proceedings of a November 1969 conference at [[Iowa State University]] on the role of agriculture in clean water, published by the [[Federal Water Pollution Control Administration]] (FWPCA) under Grant No. 13040 EYX (November 1970). It compiles six parts of expert chapters on...
+> -- *[[EffectsOfAgriculturalPollutant_17361]]*
+
 ### Mentioned In
 - [[CreationOfTheNationalBiologica_1993_03_17]]
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
@@ -3560,6 +3951,15 @@ The U.S. Geological Survey (USGS) is a federal scientific agency that conducts r
 - [[ProgressReportForTheBiological_19814]]
 - [[RiverqualityConditionsDuringAW_15943]]
 - [[GlenCanyonEnvironmentalStudies_19675]]
+- [[VariableFishCommunitiesAndTheI_12885]]
+- [[GroundwaterInventoryInTheUpper_13025]]
+- [[RechargeToGroundwaterFromFlood_17190]]
+- [[OriginOfTheDrainageOfSoutheast_20114]]
+- [[ChemicalCharacteristicsOfADese_16427]]
+- [[ChihuahuanDesert_14510]]
+- [[MesozoicSedimentaryAndVolcanic_20728]]
+- [[UseOfGroundWaterInArizona_20682]]
+- [[EffectsOfAgriculturalPollutant_17361]]
 
 ## U.S. Highway 1
 
@@ -3572,6 +3972,18 @@ A major highway running through the Florida Keys. The report notes that the bill
 
 ### Mentioned In
 - [[ConservationOfEndangeredSpecie_19348]]
+
+## U.S. Highway 41
+
+### Summary
+The Tamiami Trail highway in southern Florida. The source notes that Walking Catfish crossed it near Everglades National Park during the southward spread.
+
+### Context
+> This document contains two items. The main paper, by [[Walter R. Courtenay Jr]] and [[Woodard W. Miley II]], documents the spread of the introduced [[Walking Catfish]] ([[Clarias Batrachus]]) across southern [[Florida]] after escapes from an aquarium-fish farm in the mid-1960s. By 1974 the species...
+> -- *[[RangeExpansionAndEnvironmental_17623]]*
+
+### Mentioned In
+- [[RangeExpansionAndEnvironmental_17623]]
 
 ## U.S. Highway 66
 
@@ -3636,6 +4048,21 @@ The U.S. National Museum served as a major institutional repository for fish spe
 > This 1981 report by Dirk V. Lanning, prepared for [[The Nature Conservancy]] and the [[U.S. Fish and Wildlife Service]] through the [[Arizona Natural Heritage Program]], presents a baseline vertebrate survey of the 984 ha [[San Bernardino Ranch]], a spring-fed riparian oasis at the northern...
 > -- *[[TheVertebratesOfSanBernardinoR_12717]]*
 
+> This 1940 taxonomic paper by [[J. G. Mackin]], reprinted from *The American Midland Naturalist* (Vol. 23, No. 1, pp. 219–221), describes a new conchostracan branchiopod, *Eulimnadia antlei* sp. nov., from small ponds in Oklahoma. The species is named for [[Herbert Antle]], who collected the first...
+> -- *[[ANewSpeciesOfConchostracanPhyl_19321]]*
+
+> John M. Legler ([[University of Kansas Museum of Natural History]], 1959) describes a previously unrecognized tortoise, *Gopherus flavomarginatus*, from north-central Mexico. The species is based on a [[Holotype]] and five [[Paratype]] specimens, mostly from [[Lerdo]], Durango, with additional...
+> -- *[[ANewTortoiseGenusGopherusFromN_20314]]*
+
+> This 1967 taxonomic paper by [[Charles E. Price]] and [[William A. Bussing]] describes two new monogenean (flatworm) gill parasites, *Cleidodiscus costaricensis* and *Cleidodiscus strombicirrus*, both recovered from the characid teleost [[Astyanax fasciatus]] collected in Costa Rica. The authors...
+> -- *[[MonogeneanParasitesOfCostaRica_18678]]*
+
+> This paper describes *Gammarus pecos*, a new species of freshwater amphipod crustacean from a spring and springbrook in the [[Pecos River]] drainage near [[Fort Stockton]], Pecos County, Texas. The species was collected from 1964 to 1968, largely through the efforts of [[W. L. Minckley]] of...
+> -- *[[ANewFreshwaterGammarusCrustace_17106]]*
+
+> This 1956 population study by Rezneat M. Darnell (Tulane University) examines a population of the poorly studied tropical freshwater shrimp [[Atya Scabra]] collected on 27 April 1950 from a boulder riffle of the Rio Sabinas, a headwater tributary of the [[Rio Tamesi]] drainage in southern...
+> -- *[[AnalysisOfAPopulationOfTheTrop_13942]]*
+
 ### Mentioned In
 - [[DistributionalRecordsForNorthA_1946_06_15]]
 - [[LetterToJohnRogersRegardingBon_1993_07_01]]
@@ -3644,6 +4071,11 @@ The U.S. National Museum served as a major institutional repository for fish spe
 - [[SalmoEvermanniASynonymOfSalmoC_18176]]
 - [[ANewSpeciesOfAquaticIsopodCrus_17104]]
 - [[TheVertebratesOfSanBernardinoR_12717]]
+- [[ANewSpeciesOfConchostracanPhyl_19321]]
+- [[ANewTortoiseGenusGopherusFromN_20314]]
+- [[MonogeneanParasitesOfCostaRica_18678]]
+- [[ANewFreshwaterGammarusCrustace_17106]]
+- [[AnalysisOfAPopulationOfTheTrop_13942]]
 
 ## U.S. National Museum of Natural History
 
@@ -3718,12 +4150,16 @@ The U.S. Public Health Service is a federal agency that conducted companion stud
 > This doctoral dissertation by Richard Cunningham Harrel (Oklahoma State University, Zoology, July 1966) tests whether [[Stream Order]] classification, following [[Horton Stream Order System]] and [[Strahler Modification]], can predict the morphometry, [[Physico-Chemical Conditions]] and biological...
 > -- *[[StreamOrderAndCommunityStructu_20656]]*
 
+> This 1957 paper (reprinted from the *Transactions of the American Fisheries Society*, vol. 86, 1956) by [[Croswell Henderson]] of the [[U.S. Public Health Service]] and [[Richard F. Foster]] of the [[General Electric Company]] reports on a population of [[Smallmouth Bass]] in a cold-water reach of...
+> -- *[[StudiesOfSmallmouthBlackBassMi_16624]]*
+
 ### Mentioned In
 - [[TheRadioactivityAndEcologyOfAq_14009]]
 - [[ChemicalControlOfSubmergedWate_19910]]
 - [[ThePlanningOperationAndAnalysi_17632]]
 - [[SanPedroRiverBasinWaterQuality_15721]]
 - [[StreamOrderAndCommunityStructu_20656]]
+- [[StudiesOfSmallmouthBlackBassMi_16624]]
 
 ## U.S. Soil Conservation Service
 
@@ -3765,9 +4201,17 @@ The U.S. Supreme Court described the Endangered Species Act in Tennessee Valley 
 > This 1986 letter and commendation from the [[Desert Fishes Council]] recognizes the [[Ash Meadows Preservation Committee]] for its central role in protecting [[Ash Meadows]], Nevada. The [[California-Nevada Chapter]] of the [[American Fisheries Society]] gave the committee its Conservation...
 > -- *[[AshMeadowsPreservationCommitte_11127]]*
 
+> This article by [[James E. Deacon]], a biologist at the [[University Of Nevada Las Vegas]], reviews the status of the desert pupfishes of the [[Death Valley]] region. Several populations are extinct or threatened, mainly because of groundwater pumping and drainage of marshes in [[Ash Meadows]],...
+> -- *[[DevilsHolePupfishVictimOfEnvir_14025]]*
+
+> This 1978 monograph by [[David L. Soltz]] and [[Robert J. Naiman]], published as Science Series 30 by the [[Natural History Museum of Los Angeles County]], synthesizes what was known about the native fishes of the Death Valley System: their geological and hydrological setting, evolutionary history,...
+> -- *[[TheNaturalHistoryOfNativeFishe_11790]]*
+
 ### Mentioned In
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[AshMeadowsPreservationCommitte_11127]]
+- [[DevilsHolePupfishVictimOfEnvir_14025]]
+- [[TheNaturalHistoryOfNativeFishe_11790]]
 
 ## U.S. Trout Farmers Association
 
@@ -3780,6 +4224,18 @@ The U.S. Trout Farmers Association is a trade organization of trout producers. T
 
 ### Mentioned In
 - [[ReuseOfWaterInHatcheriesToIncr_12416]]
+
+## U.S. Tundra Biome
+
+### Summary
+The U.S. component of the International Biological Programme's tundra biome research effort in the early 1970s. According to this source, the Ikroavik Lake energy budget study was carried out as part of this program and was meant to supply input for a whole-lake model.
+
+### Context
+> This paper presents a first-order energy budget for a population of [[Ninespine Stickleback]] (*Pungitius pungitius*) inhabiting shallow [[Tundra Lake]] Ikroavik, near Barrow in northern Alaska. The study was part of the [[U.S. Tundra Biome]] program of the [[International Biological Programme]]...
+> -- *[[PreliminaryEnergyBudgetOfTheNi_17345]]*
+
+### Mentioned In
+- [[PreliminaryEnergyBudgetOfTheNi_17345]]
 
 ## U.S. Virgin Islands
 
@@ -3891,6 +4347,18 @@ UABC (University of Baja California) is the academic institution that houses the
 ### Mentioned In
 - [[SummaryOfEvents_18368]]
 
+## Uaxactún
+
+### Summary
+A Maya archaeological site in the Petén. The source notes that a pit at Uaxactún in the Bajo de Joventud was cited as support for the Cooke-Ricketson hypothesis of erosion-driven lake silting.
+
+### Context
+> Cowgill and Hutchinson test several hypotheses for the collapse of [[Classic Maya Civilization]] in the southern lowlands of the [[Petén]], Guatemala, using agronomic data, sediment cores, pollen, chloride chemistry and field observations. Their main conclusions are that the central Petén could...
+> -- *[[EcologicalAndGeochemicalArchae_17971]]*
+
+### Mentioned In
+- [[EcologicalAndGeochemicalArchae_17971]]
+
 ## UC Natural Reserve System
 
 ### Summary
@@ -3940,6 +4408,18 @@ Uca minax, the red-jointed fiddler crab, is one of three crab species that co-oc
 ### Mentioned In
 - [[SexRatiosAquaticAnimals_13946]]
 
+## Uchee Creek
+
+### Summary
+A shallow stream about 10 feet wide with a sand bottom in Lee County, Alabama, in the Chattahoochee system. It is the type locality of *Notropis euryzonus*, and the holotype and most of the type series came from its eight localities. The source describes its water as brown and clear and its estimated flow as 8 cubic feet per second when it was sampled in 1949.
+
+### Context
+> This 1955 description by [[Royal D. Suttkus]] of [[Tulane Studies in Zoology]] (Vol. 3, No. 5) formally names *Notropis euryzonus*, a small, colorful minnow that appears restricted to tributaries of the lower [[Chattahoochee River]]. The name refers to the broad dark lateral band. The species is...
+> -- *[[NotropisEuryzonusANewCyprinidF_15039]]*
+
+### Mentioned In
+- [[NotropisEuryzonusANewCyprinidF_15039]]
+
 ## Uchida and King
 
 ### Summary
@@ -3949,8 +4429,12 @@ Uchida and King were researchers who in 1962 demonstrated that tilapia showed si
 > This 1966 progress report documents the [[California Department of Fish and Game]]'s experimental culture of all-male [[Tilapia mossambica]] hybrids produced by crossing Zanzibari males with Javanese females. Initiated in December 1963, the study aimed to develop culture techniques, assess growth...
 > -- *[[ProgressReportOfTheCultureOfTi_14692]]*
 
+> This document contains two items from *Progressive Fish-Culturist* (45(2), April 1983). The main article, by [[Kurt D. Fausch]] and [[Ray J. White]], describes a sinuous, recirculating laboratory stream aquarium built at [[Michigan State University]] during 1976–81 to study juvenile stream...
+> -- *[[SinuousStreamAquariumToSimulat_16320]]*
+
 ### Mentioned In
 - [[ProgressReportOfTheCultureOfTi_14692]]
+- [[SinuousStreamAquariumToSimulat_16320]]
 
 ## Uchida And King 1963
 <!-- fm: auto_enriched: true -->
@@ -3991,6 +4475,18 @@ The Udall Center for Studies in Public Policy worked with the EPA Border Environ
 ### Mentioned In
 - [[ResultsOfTheTektiteProgramEcol_17141]]
 
+## Uganda
+
+### Summary
+An East African country. The source cites Lowe-McConnell (1958), who suspected natural hybrids of Tilapia in Uganda's Lakes Bunyoni and Nkugute, where the hybrids were thought to have arisen after introductions of new species.
+
+### Context
+> C. F. Hickling, of the [[Fish Culture Research Station]] in [[Malacca]], reports a method for producing almost all-male [[Tilapia Mossambica]] fingerlings by crossing the acclimatised [[Malayan Tilapia]] with an unnamed African Tilapia from [[Zanzibar]]. The cross was made to avoid the waste of...
+> -- *[[TheMalaccaTilapiaHybrids_20384]]*
+
+### Mentioned In
+- [[TheMalaccaTilapiaHybrids_20384]]
+
 ## Uganda Game and Fisheries Department
 
 ### Summary
@@ -4002,6 +4498,42 @@ The Ugandan government fisheries agency. According to the source, it introduced 
 
 ### Mentioned In
 - [[TheFishesOfUgandaiv_19265]]
+
+## Ugashik Lake
+
+### Summary
+A lake on the Alaska Peninsula in the Bristol Bay region. This source reports related Mesidotea populations there, where they are common in May fyke-net catches.
+
+### Context
+> This 1968 study by David W. Narver, published in the *Journal of the Fisheries Research Board of Canada*, documents the lacustrine biology of the isopod *Mesidotea entomon* in the two [[Chignik Lakes]] of the Alaska Peninsula, based on sampling from 1961 to 1964. The isopod, usually described as a...
+> -- *[[TheIsopodMesidoteaEntomonInThe_19489]]*
+
+### Mentioned In
+- [[TheIsopodMesidoteaEntomonInThe_19489]]
+
+## Uhlenhuth
+
+### Summary
+Uhlenhuth is an author who in 1921 described the hydrology of the Purgatory Creek System near San Marcos, Texas. The source cites this work as background on the aquifer where the San Marcos salamander and blind shrimp occur.
+
+### Context
+> This Texas Water Resources Center special report (WRC 69-6, August 1969), by [[James R. Reddell]] and [[Robert W. Mitchell]] of Texas Tech University, is a guide to the biology of the state's subterranean waters. It has two parts. Part I is a species checklist of every aquatic animal taken from...
+> -- *[[AChecklistAndAnnotatedBibliogr_16788]]*
+
+### Mentioned In
+- [[AChecklistAndAnnotatedBibliogr_16788]]
+
+## Uinta Basin
+
+### Summary
+The Uinta Basin is a ponded Laramide basin in northeastern Utah that hosted Lake Uinta. The source suggests it acted as a lacustrine sump receiving drainage from surrounding basins by mid-Eocene time.
+
+### Context
+> This Geological Society of America Bulletin paper (Dickinson and others, 1988) synthesizes the sedimentary history of Laramide basins between central Montana and central New Mexico. It groups the basins into three paleogeographic classes (perimeter, axial, and ponded), applies twelve stratigraphic...
+> -- *[[PaleogeographicAndPaleotectoni_12851]]*
+
+### Mentioned In
+- [[PaleogeographicAndPaleotectoni_12851]]
 
 ## Uinta Basin Hookless Cactus
 
@@ -4043,9 +4575,21 @@ A mountain range in Utah with wilderness areas. The paper describes its wilderne
 > This M.S. thesis by Niles Allen Binns (Oregon State University, 1966) documents the September 1962 rotenone treatment of roughly 445 miles of the [[Green River]] and its tributaries above [[Flaming Gorge Dam]]. The treatment was intended to suppress a rapidly expanding coarse fish population...
 > -- *[[EffectsOfRotenoneTreatmentOnTh_17633]]*
 
+> Sigler and Low (1949–1950, *Proceedings of the Utah Academy of Sciences, Arts and Letters*) report a 16-day pack trip (August 19 to September 3, 1947) through the primitive area of the high [[Uinta Mountains]] in northeastern Utah. The study sampled trout from 13 alpine lakes, aged 104 fish from 4...
+> -- *[[AgeCompositionAndGrowthOfFishA_18949]]*
+
+> This 1959 study by [[Arden R. Gaufin]] (Iowa State College Journal of Science, Vol. 33, No. 3) examines the stream-bottom invertebrates of the [[Provo River]], a typical mountain stream of the Intermountain region known for [[Trout Fishing]]. Fieldwork ran from September 1946 to May 1949. The aim...
+> -- *[[ProductionOfBottomFaunaInThePr_16934]]*
+
+> This University of Utah Miscellaneous Paper (No. 1, May 1963, Institute of Environmental Biological Research) reports a July 20 to August 6, 1962 survey of the aquatic and terrestrial biota of [[Dinosaur National Monument]], conducted for the [[National Park Service]] under a cooperative agreement...
+> -- *[[StudiesOfBiotaInDinosaurNation_20823]]*
+
 ### Mentioned In
 - [[RecreationOpportunitiesAndProb_14544]]
 - [[EffectsOfRotenoneTreatmentOnTh_17633]]
+- [[AgeCompositionAndGrowthOfFishA_18949]]
+- [[ProductionOfBottomFaunaInThePr_16934]]
+- [[StudiesOfBiotaInDinosaurNation_20823]]
 
 ## Uinta River
 
@@ -4122,8 +4666,37 @@ A disease that primarily affects brook trout. Its bacterial cause is uncertain, 
 ## Ulcerative Dermal Necrosis
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This article examines the fungal component of the salmon disease known as [[Ulcerative Dermal Necrosis]] (U.D.N.), first recorded in autumn 1964. The author, a mycologist at the Freshwater Biological Association, argues that the disease is multi-factorial, but that the presence of an active...
+> -- *[[SalmonDiseaseInWindermereAndTh_12092]]*
+
+> T. B. Bagenal tested whether the amount of food a [[Brown Trout]] receives affects its fecundity, the number of eggs it produces. The study used two tank experiments (1966 and 1967) and a small field experiment in a stream. Fish fed more food matured in higher proportions, grew faster, and carried...
+> -- *[[TheRelationshipBetweenFoodSupp_17197]]*
+
 ### Mentioned In
 - [[IrishSalmonDiseaseAnInterimRep_13819]]
+- [[SalmonDiseaseInWindermereAndTh_12092]]
+- [[TheRelationshipBetweenFoodSupp_17197]]
+
+## Ullswater
+
+### Summary
+Ullswater is a large lake in the English Lake District. In this source it served as a comparison lake for perch: unlike Windermere, it had no large predator and no fishery, and its perch catch per trap and average weight stayed steady and low.
+
+### Context
+> This section of the 1965 *Mitteilungen der Internationalen Vereinigung für Theoretische und Angewandte Limnologie* symposium report records three exhibits from the [[Freshwater Biological Association]]. Each illustrates how fish predation, food supply, and territorial behaviour shape freshwater...
+> -- *[[TheEffectOfTheIntroductionOfSa_19297]]*
+
+> Macan and Maudsley surveyed the fauna living on stony substrata in the shallow littoral of [[Windermere]] and then extended the work to other English lakes in the [[Lake District]]. The study identified two distinct biocoenoses on the stony bottom of Windermere: a "non-insect community" dominated...
+> -- *[[FaunaOfTheStonySubstratumInLak_19304]]*
+
+> This 1965 study by [[Evelyn Gorham]] and [[Dalway Swaine]] compares the elemental composition of oxidizing and reducing lake muds, glacial clays, and ferromanganese "oxidate crusts" from [[Windermere]], [[Esthwaite Water]], and [[Ullswater]] in the [[Lake District]]. Some 26 elements were analyzed...
+> -- *[[TheInfluenceOfOxidizingAndRedu_11061]]*
+
+### Mentioned In
+- [[TheEffectOfTheIntroductionOfSa_19297]]
+- [[FaunaOfTheStonySubstratumInLak_19304]]
+- [[TheInfluenceOfOxidizingAndRedu_11061]]
 
 ## Ulmer
 
@@ -4156,8 +4729,20 @@ A historical series of caddisfly specimens referred to in the source's discussio
 > - **Taxonomic scope**: The genera treated are [[Percina]] and [[Etheostoma]] (including former *Ammocrypta*, now largely reassigned to *Etheostoma* except *[[Crystallaria asprella]]*, elevated to its own genus per [[Simons]] in press). - **Geographic range of specimens**: Collections span numerou...
 > -- *[[ProvenanceAndDispositionOfFish_16999]]*
 
+> This taxonomic paper, published in the [[Occasional Papers of the Museum of Natural History]] (University of Kansas, No. 101, 1982) by [[Lawrence M. Page]] and [[Brooks M. Burr]], formally describes three previously unnamed darter species of the subgenus [[Nanostoma]]: [[Etheostoma Baileyi]],...
+> -- *[[ThreeNewSpeciesOfDarterPercida_18399]]*
+
+> Boschung, Mayden and Tomelleri (1992) describe [[Etheostoma Chermocki]], the **[[Vermilion Darter]]**, a new snubnose darter in the subgenus [[Ulocentra]]/[[Nanostoma]]. The species is known only from a short reach of Turkey Creek, a tributary of [[Locust Fork]] in the [[Black Warrior River]]...
+> -- *[[EtheostomaChermockiANewSpecies_17733]]*
+
+> This revision by Lawrence M. Pace, published in the [[Occasional Papers of the Museum of Natural History]] (University of Kansas, No. 90, 1981), re-examines the generic and subgeneric classification of North American darters. It combines phenetic (numerical taxonomic) and cladistic methods on 142...
+> -- *[[TheGeneraAndSubgeneraOfDarters_18398]]*
+
 ### Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
+- [[ThreeNewSpeciesOfDarterPercida_18399]]
+- [[EtheostomaChermockiANewSpecies_17733]]
+- [[TheGeneraAndSubgeneraOfDarters_18398]]
 
 ## Ulothrix
 
@@ -4171,9 +4756,21 @@ Ulothrix is a filamentous alga found in the highly radioactive seepage from Pit 
 > [[Big Bear Lake]] in [[San Bernardino County]], California was treated with toxaphene in September 1960 to eradicate an abundant population of [[Goldfish]] (*Carassius auratus*) and the ectoparasitic copepod *[[Lernaea carassii]]*. The treatment followed two unsuccessful rotenone applications....
 > -- *[[ToxapheneTreatmentOfBigBearLak_19824]]*
 
+> This review, written by J. W. G. Lund of the [[Freshwater Biological Association]], describes the algal flora of the [[Malham Tarn]] district in Yorkshire. The document concerns algae, not fish. It covers terrestrial, semi-terrestrial and aquatic habitats, with a focus on the calcareous conditions...
+> -- *[[TheAlgaeOfTheMalhamTarnDistric_16253]]*
+
+> This document contains two short scientific notes. The first, the main item, reports a year-long study (May 1973 to April 1974) of the benthic fauna of a single riffle in [[Squirrel Creek]], a foothill stream draining the [[Sierra Nevada]] in California. Autumn and winter storms caused repeated...
+> -- *[[TheEffectsOfWashoutInASierraFo_18941]]*
+
+> This study by David A. Flemer (University of Maryland, Chesapeake Biological Laboratories) measured [[Primary Productivity]] in a shallow, weakly buffered stream, the [[Raritan River]] (North Branch), New Jersey, from October 1961 to November 1962. Gross photosynthesis was estimated from diurnal...
+> -- *[[PrimaryProductivityOfTheNorthB_16461]]*
+
 ### Mentioned In
 - [[TheSuspendedMicrobiotaOfTheCli_12669]]
 - [[ToxapheneTreatmentOfBigBearLak_19824]]
+- [[TheAlgaeOfTheMalhamTarnDistric_16253]]
+- [[TheEffectsOfWashoutInASierraFo_18941]]
+- [[PrimaryProductivityOfTheNorthB_16461]]
 
 ## Ultimate Oxygen Demand
 
@@ -4218,17 +4815,69 @@ A silicic volcanic rock with very high potassium relative to sodium, classified 
 > This University of Minnesota Agricultural Experiment Station Miscellaneous Report (152-1978), by J.D. Winter, V.B. Kuechle, D.B. Siniff and J.R. Tester, is a practical guide for fisheries biologists who want to start [[Radio Telemetry]] programs for freshwater fish. It covers the history of aquatic...
 > -- *[[EquipmentAndMethodsForRadioTra_20781]]*
 
+> This 1978 study by [[John D. Minor]] and [[E. J. Crossman]] used [[Radiotelemetry]] to test whether adult [[Muskellunge]] (*Esox masquinongy*) establish home ranges and which environmental factors shape their use of habitat. Sixteen adults were tracked from May 1975 to October 1976 in a small,...
+> -- *[[HomeRangeAndSeasonalMovementsO_16503]]*
+
 ### Mentioned In
 - [[ContinuedResearchOfTheLowerCol_1996_09_04]]
 - [[AspectsOfJuvenileAndAdultRazor_16214]]
 - [[FishRadiotelemetryTheoryAndApp_13042]]
 - [[EquipmentAndMethodsForRadioTra_20781]]
+- [[HomeRangeAndSeasonalMovementsO_16503]]
 
 ## Ultrasonic Telemetry In Fisheries Research
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[HabitatUseByRazorbackSuckersRe_1995]]
+
+## Ultraviolet Detection
+
+### Summary
+Ultraviolet detection is a nocturnal search method in which scorpions are located by their fluorescence under UV light. In this source, Uroctonus franckei was collected only by this method, which is part of why the species is considered rare and hard to find.
+
+### Context
+> This taxonomic paper describes a new scorpion, [[Uroctonus Franckei]] Williams, 1986, from the eastern slope of the [[Sierra Nevada]] in California. The species is known only from elevations above 2133 m, on slopes dominated by [[Pinus Jeffreyi]] (yellow pine). Its closest relative is [[Uroctonus...
+> -- *[[ANewSpeciesOfUroctonusFromTheS_12062]]*
+
+> This taxonomic paper, published in the *Pan-Pacific Entomologist* (vol. 62, no. 4, 1986, pp. 355–358) by Stanley C. Williams, describes and names [[Vaejovis Chamelaensis]], a new scorpion species from the [[Estacion de Biologia Chamela]] in [[Jalisco]], Mexico. The species is placed in the...
+> -- *[[ANewSpeciesOfVaejovisFromJalis_12061]]*
+
+> This taxonomic paper, published in the [[Pan-Pacific Entomologist]] (Vol. 44, No. 4, October 1968) by [[Stanley C Williams]] of San Francisco State College, describes two new scorpion species in the family [[Vejovidae]]. The species are [[Vejovis Utahensis]], a burrowing form from sandy dune...
+> -- *[[TwoNewScorpionsFromWesternNort_12048]]*
+
+> This 1968 methods paper by [[Stanley C Williams]] evaluates [[Pitfall Trapping]] as a tool for sampling scorpion populations in the Sonoran Desert near [[Phoenix South Mountain]], Arizona. Over the study, 100 unbaited traps captured 607 scorpions of four species in the family Vejovidae. Covered...
+> -- *[[MethodsOfSamplingScorpionPopul_12052]]*
+
+> Williams (1970), published in the *[[Pan-Pacific Entomologist]]* (Vol. 46, No. 1, pp. 1–11), reports a one-week survey of the scorpion fauna of [[Death Valley]], California, carried out in April 1968. The study examined several hundred specimens and described three previously undescribed species of...
+> -- *[[ThreeNewSpeciesOfVejovisFromDe_12058]]*
+
+> This 1968 taxonomic paper by [[Stanley C. Williams]], published in the *Occasional Papers of the [[California Academy of Sciences]]* (No. 68), describes five new scorpion species of the genus [[Vejovis]] from the [[Cuatro Cienegas Basin]] in Coahuila, Mexico. The descriptions rest on 227 specimens...
+> -- *[[ScorpionsFromNorthernMexicoFiv_12047]]*
+
+> This taxonomic paper by [[Stanley C. Williams]] of the [[California Academy of Sciences]] describes eleven new species of scorpions in the genus [[Vejovis]], all collected on the [[Baja California Peninsula]] during a two-month field expedition in summer 1968. The study is terrestrial. It contains...
+> -- *[[ScorpionFaunaOfBajaCaliforniaM_12059]]*
+
+### Mentioned In
+- [[ANewSpeciesOfUroctonusFromTheS_12062]]
+- [[ANewSpeciesOfVaejovisFromJalis_12061]]
+- [[TwoNewScorpionsFromWesternNort_12048]]
+- [[MethodsOfSamplingScorpionPopul_12052]]
+- [[ThreeNewSpeciesOfVejovisFromDe_12058]]
+- [[ScorpionsFromNorthernMexicoFiv_12047]]
+- [[ScorpionFaunaOfBajaCaliforniaM_12059]]
+
+## Ultraviolet Detection Method
+
+### Summary
+A field technique for locating scorpions, which the source says was used to sample the specimens in this study. The note does not give further detail on how the method was applied.
+
+### Context
+> This 1970 taxonomic paper by [[Stanley C. Williams]] in the *Proceedings of the California Academy of Sciences* describes seven new species and subspecies of scorpions in the genus [[Vejovis]], all belonging to the [[Vejovis Eusthenura Group]]. The taxa are *Vejovis waeringi*, *V. coloradensis*,...
+> -- *[[NewScorpionsBelongingToTheEust_12055]]*
+
+### Mentioned In
+- [[NewScorpionsBelongingToTheEust_12055]]
 
 ## Ultraviolet Light
 
@@ -4239,8 +4888,24 @@ Ultraviolet light is a sterilizing treatment for water that can kill very small 
 > This U.S. Bureau of Sport Fisheries and Wildlife leaflet (FDL-28, July 1970, Division of Fishery Research), prepared by [[Glenn L. Hoffman]] of the [[Eastern Fish Disease Laboratory]], compiles the most effective chemical and non-chemical methods for controlling external and internal parasites of...
 > -- *[[ControlAndTreatmentOfParasitic_20451]]*
 
+> This 1964 methods study by [[Gene R. Huntsman]], published in the Iowa Academy of Science, tested whether [[Paper Chromatography]] of body mucus could separate catostomid fishes (suckers) taxonomically. Mucus was sampled non-lethally from five genera: *Carpiodes*, *Catostomus*, *Ictiobus*,...
+> -- *[[PaperChromatogramsOfBodyMucusO_14532]]*
+
 ### Mentioned In
 - [[ControlAndTreatmentOfParasitic_20451]]
+- [[PaperChromatogramsOfBodyMucusO_14532]]
+
+## Ultraviolet Light Detection
+
+### Summary
+Ultraviolet light detection is a collecting method in which scorpions are located at night by their fluorescence under ultraviolet light. The authors used it as one of four field methods in the Cholla Bay survey, alongside turning surface objects, pitfall trapping, and burrow excavation.
+
+### Context
+> This 1967 taxonomic survey by [[Williams and Hadley]] documents the scorpion fauna of the [[Puerto Peñasco]] area on the [[Gulf of California]] coast of Sonora, Mexico. The authors recorded five species in two families, described one new species, [[Vejovis Baergi]], and provided a regional...
+> -- *[[ScorpionsOfThePuertoPeascoArea_12046]]*
+
+### Mentioned In
+- [[ScorpionsOfThePuertoPeascoArea_12046]]
 
 ## Ultraviolet Light Trapping
 
@@ -4253,6 +4918,18 @@ A collecting method in which adult insects are attracted to ultraviolet light an
 
 ### Mentioned In
 - [[StudiesOfNeotropicalCaddisflie_16468]]
+
+## Ultraviolet Radiation
+
+### Summary
+Short-wavelength solar radiation that can damage fish skin. The paper notes that sunburn often occurs when UV levels are reduced by haze, and that short-wave UV (280–320 nm) produced skin lesions in rainbow trout fed phenothiazine-coated pellets.
+
+### Context
+> This short paper by J. C. Eiras of the [[Instituto De Zoologia Dr Augusto Nobre]], Faculdade de Ciências do Porto, reports the first occurrence in Portugal of sunburn-like lesions in farmed [[Brown Trout]] ([[Salmo Trutta]]). Affected one-year-old fish showed grey, rough, eroded skin on top of the...
+> -- *[[ACaseOfSunburnInFarmedBrownTro_15813]]*
+
+### Mentioned In
+- [[ACaseOfSunburnInFarmedBrownTro_15813]]
 
 ## Ultraviolet Sterilization
 
@@ -4284,6 +4961,18 @@ The Umatilla Basin Project in Oregon was allowed to proceed through mediation af
 ### Mentioned In
 - [[SeekingSolutionsAlternativeDis_12941]]
 
+## Umatilla Dace
+
+### Summary
+A dace species (Rhinichthys umatilla) that the source describes as the strongest potential competitor of Speckled Dace. A Umatilla-like Rhinichthys replaces Speckled Dace below Cascade, and its co-occurrence there suggests two distinct species.
+
+### Context
+> This status assessment examines the Canadian population of the [[Speckled Dace]] (*Rhinichthys osculus*), a small cyprinid whose Canadian range is restricted to the [[Kettle River]] and [[Granby River]] in southern [[British Columbia]]. The authors, working at the [[British Columbia Provincial...
+> -- *[[StatusOfTheSpeckledDaceRhinich_11255]]*
+
+### Mentioned In
+- [[StatusOfTheSpeckledDaceRhinich_11255]]
+
 ## Umatilla Hatchery
 <!-- fm: auto_enriched: true -->
 
@@ -4306,6 +4995,18 @@ Umbelliferae is the parsley family to which Lilaeopsis schaffneriana subspecies 
 ### Mentioned In
 - [[StatusReportLilaeopsisSchaffne_14909]]
 
+## Umbra
+
+### Summary
+A genus of mudminnows in the suborder Esocoidei, including Umbra limi (central mudminnow) and U. pygmaea (eastern mudminnow). The study found 22 large metacentric and submetacentric chromosomes in these species, and DNA values of about 68-72% of the reference, which set them apart from Novumbra and Dallia.
+
+### Context
+> This 1971 cytogenetic study by [[R. J. Beamish]], [[M. J. Merrilees]] and [[E. J. Crossman]] (University of Toronto and Royal Ontario Museum) examines chromosome counts and nuclear DNA content across the suborder [[Esocoidei]], a group of primary freshwater fishes comprising pikes, mudminnows and...
+> -- *[[KaryotypesAndDnaValuesForMembe_15672]]*
+
+### Mentioned In
+- [[KaryotypesAndDnaValuesForMembe_15672]]
+
 ## Umbra Limi
 <!-- fm: auto_enriched: true -->
 
@@ -4313,9 +5014,13 @@ Umbelliferae is the parsley family to which Lilaeopsis schaffneriana subspecies 
 > **Habitat — Fish faunal notes:** - *Moxostoma poecilurum* is primarily a Gulf Slope species (Galveston Bay tributaries, Texas, to Choctawhatchee drainage, Florida); its occurrence in [[Terrapin Creek]], Kentucky represents the northernmost known record for the species, well outside its core range...
 > -- *[[TheBlacktailRedhorseMoxostomaP_1984]]*
 
+> This 1981 study by [[Walsh and Burr]] (Southern Illinois University at Carbondale), published in *Brimleyana* No. 6, maps the Kentucky distribution of the [[Least Brook Lamprey]], morphometrically compares over 220 adult specimens, and documents a neotenic population in Terrapin Creek. The authors...
+> -- *[[DistributionMorphologyAndLifeH_14853]]*
+
 ### Mentioned In
 - [[DrainageRecordsAndConservation_14901]]
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
+- [[DistributionMorphologyAndLifeH_14853]]
 
 ## Umbrella Species
 <!-- fm: auto_enriched: true -->
@@ -4324,8 +5029,12 @@ Umbelliferae is the parsley family to which Lilaeopsis schaffneriana subspecies 
 > - **Scope**: Covers 59 threatened/endangered fish species or subspecies across [[North America]] (USA, Canada, Mexico), each with discovery history, habitat details, threat assessment, and conservation status. - **Primary threats identified**: [[Habitat Modification]], water level lowering, [[Aci...
 > -- *[[BookReviewsTransactionsOfTheAm_1985]]*
 
+> This review essay by [[Daniel Simberloff]] (Florida State University, *Biological Conservation*, 1998) asks whether managing individual species is still a useful conservation tool as conservation shifts toward [[Ecosystem Management]] and landscape scales. The author examines three single-species...
+> -- *[[FlagshipsUmbrellasAndKeystones_18982]]*
+
 ### Mentioned In
 - [[BookReviewsTransactionsOfTheAm_1985]]
+- [[FlagshipsUmbrellasAndKeystones_18982]]
 
 ## Umbrella Tree
 
@@ -4358,11 +5067,15 @@ Umbridae is a family of small freshwater fishes commonly known as mudminnows, cl
 > This 1956 symposium paper by Ernest A. Lachner documents the dramatic decline of fish diversity and abundance in the [[Upper Ohio River Basin]] over the preceding century. Originally supporting more than 125 species across 25 families, the basin's fish fauna has been severely degraded by human...
 > -- *[[TheChangingFishFaunaOfTheUpper_12661]]*
 
+> This 1978 review by E. J. Crossman, published in the American Fisheries Society Special Publication 11, examines the taxonomy and distribution of the family [[Esocidae]] in North America. Four native species (Esox masquinongy, E. lucius, E. niger, E. americanus) and one exotic species (E....
+> -- *[[TaxonomyAndDistributionOfNorth_18056]]*
+
 ### Mentioned In
 - [[FreshwaterFishesOfTheEasternAr_18569]]
 - [[Kontinentalverschiebungstheori_1954]]
 - [[LetterToMrDonnellyHillRegardin_1994_08_29]]
 - [[TheChangingFishFaunaOfTheUpper_12661]]
+- [[TaxonomyAndDistributionOfNorth_18056]]
 
 ## Umgeni
 <!-- fm: auto_enriched: true -->
@@ -4383,6 +5096,30 @@ Umbridae is a family of small freshwater fishes commonly known as mudminnows, cl
 
 ### Mentioned In
 - [[TheDistributionOfTheFreshwater_1979]]
+
+## Umlalazi Estuary
+
+### Summary
+Umlalazi Estuary is a South African estuary in KwaZulu-Natal. The authors used fish from this estuary in their feeding experiments on scale-eating. It is one of the estuaries where the species was studied.
+
+### Context
+> This study documents scale-eating (lepidophagy) in [[Terapon Jarbua]], a marine teleost up to 25 cm long that is common in the estuaries of the tropical and subtropical Indian Ocean. Fish scales removed from living fish were the most important food item, and the authors state that this niche had...
+> -- *[[ScaleeatingHabitsOfTheMarineTe_12239]]*
+
+### Mentioned In
+- [[ScaleeatingHabitsOfTheMarineTe_12239]]
+
+## Umm Al-Sahik
+
+### Summary
+A populated inland oasis in the study area where Aphanius dispar occurs throughout the irrigation system.
+
+### Context
+> This paper by W. Ross (*Fauna of Saudi Arabia* 7, 1985) inventories the fishes of seven oases in the Eastern Province of [[Saudi Arabia]], three coastal and four inland. The fauna comprises one secondary freshwater species, ten marine species occurring in drainage systems, and seven introduced...
+> -- *[[OasisOfFishesOfEasternSaudiAra_21093]]*
+
+### Mentioned In
+- [[OasisOfFishesOfEasternSaudiAra_21093]]
 
 ## Umpqua Squawfish
 <!-- fm: auto_enriched: true -->
@@ -4414,6 +5151,18 @@ The international treaty on climate change, whose Third Conference of the Partie
 ### Mentioned In
 - [[PacificInstituteReport_18370]]
 
+## Un-ionised Ammonia
+
+### Summary
+The toxic, uncharged form of ammonia in water, whose share of total ammonia rises with higher pH and temperature. The source gives maximum admissible concentrations of 0.05 mg/l for cyprinids and 0.0125 mg/l for salmonids, and links ammonia to toxic gill necrosis in carp.
+
+### Context
+> This FAO/EIFAC Technical Paper (No. 54, 1993, 59 pp.) is a textbook edited from lectures given at the FAO International Training Course on Freshwater Fish Diseases and Intoxications, held in Vodnany, Czechoslovakia (June 15 - July 3, 1992). Written by [[Zdenka Svobodova]], [[Richard Lloyd]], [[Jana...
+> -- *[[WaterQualityAndFishHealth_15062]]*
+
+### Mentioned In
+- [[WaterQualityAndFishHealth_15062]]
+
 ## Un-Ionized Ammonia
 <!-- fm: auto_enriched: true -->
 
@@ -4421,9 +5170,21 @@ The international treaty on climate change, whose Third Conference of the Partie
 > This 1964 report by [[Roger E. Burrows]], Fishery Research Biologist at the [[Salmon-Cultural Laboratory]] (Bureau of Sport Fisheries and Wildlife), examines which excretory products accumulate in salmon and trout rearing ponds and how they affect hatchery fish. It is the second in a series on...
 > -- *[[EffectsOfAccumulatedExcretoryP_14085]]*
 
+> This 1955 study by [[Kathleen M. Downing]] and J. C. Merkens tested how [[Dissolved Oxygen]] concentration modifies the lethal effect of [[Un-Ionized Ammonia]] on juvenile [[Rainbow Trout]] (*Salmo gairdneri* Richardson). Fingerling trout were exposed in controlled laboratory streams at 19.8 °C and...
+> -- *[[TheInfluenceOfDissolvedoxygenC_19132]]*
+
+> This 1957 study by [[J. C. Merkens]] and [[K. M. Downing]], published in the *Annals of Applied Biology* (Vol. 45, No. 3, pp. 521-527), examines how dissolved oxygen (DO) tension modifies the lethal effect of [[Un-Ionized Ammonia]] on four freshwater fish species: [[Rainbow Trout]], [[European...
+> -- *[[TheEffectOfTensionOfDissolvedO_20129]]*
+
+> This study examined cellular-level (histological) effects of un-ionized ammonia (NH3) on [[Rainbow Trout]] and [[Channel Catfish]] reared in intensive [[Static-Water Aquaculture]] earthen ponds. Trout were sampled from nine ponds in the 1979–80 winter season and catfish from twelve ponds in summer...
+> -- *[[ComparativeHistologyOfRainbowT_11778]]*
+
 ### Mentioned In
 - [[TheToxicityOfAmmoniaToRainbowT_16169]]
 - [[EffectsOfAccumulatedExcretoryP_14085]]
+- [[TheInfluenceOfDissolvedoxygenC_19132]]
+- [[TheEffectOfTensionOfDissolvedO_20129]]
+- [[ComparativeHistologyOfRainbowT_11778]]
 
 ## Un-Ionized Ammonia Toxicity
 <!-- fm: auto_enriched: true -->
@@ -4468,6 +5229,12 @@ The Unarmored Threespine Stickleback (*Gasterosteus aculeatus williamsoni*) is a
 > This Bureau of Reclamation booklet (prepared by Wayne O. Deason, Environmental Office, Lower Colorado Region) reproduces, often word for word, sheets from the U.S. Fish and Wildlife Service "Red Book" (*Threatened Wildlife of the United States*, 1973 edition). Its purpose is to help Reclamation...
 > -- *[[RegionalInformationSummaryOfTh_12740]]*
 
+> This document is a 1976 issue section of the *Bulletin of the Southern California Academy of Sciences* (Vol. 75) containing two papers. The first examines the [[Oxygen Consumption]] and [[Gill Ventilation]] responses of the [[Unarmored Threespine Stickleback]] ([[Gasterosteus Aculeatus]]) to...
+> -- *[[FishRemainsFromAnArchaeologica_18768]]*
+
+> This 1993 review by [[Swift et al. 1993 Fish Survey|Swift, Haglund, Ruiz and Fisher]] documents the status and distribution of native, estuarine and introduced fishes across southern California's Owens, Mohave, Colorado and coastal drainages. The authors recognize 38 native freshwater taxa and 23...
+> -- *[[TheStatusAndDistributionOfTheF_15079]]*
+
 ### Mentioned In
 - [[FishesOfTheSantaClaraRiverSyst_1978_05_15]]
 - [[LatePleistoceneFreshwaterFishe_1989]]
@@ -4475,6 +5242,8 @@ The Unarmored Threespine Stickleback (*Gasterosteus aculeatus williamsoni*) is a
 - [[ThermalAndRespiratoryStudiesWi_16327]]
 - [[RecoveryPlanForUnarmoredThrees_20518]]
 - [[RegionalInformationSummaryOfTh_12740]]
+- [[FishRemainsFromAnArchaeologica_18768]]
+- [[TheStatusAndDistributionOfTheF_15079]]
 
 ## Unarmoured Threespine Stickleback
 
@@ -4572,6 +5341,18 @@ The loose sediment layer in the basin that holds the principal aquifer. It inclu
 ### Mentioned In
 - [[GeohydrologyAndWaterUtilizatio_13828]]
 
+## Undaunted Courage
+
+### Summary
+Undaunted Courage is Stephen Ambrose's account of the Lewis and Clark Expedition, which became a bestseller. The source mentions it as the book that brought Ambrose's work on the expedition to a wide readership.
+
+### Context
+> This feature profiles [[Stephen Ambrose]], a historian and author who retraced the route of the [[Lewis and Clark Expedition]] along the [[Missouri River]] for two decades. Comparing the explorers' journals with the present-day river, Ambrose found a heavily modified waterway: leveed, dammed, and...
+> -- *[[HistoriansCorpsOfRecoveryAmbro_20519]]*
+
+### Mentioned In
+- [[HistoriansCorpsOfRecoveryAmbro_20519]]
+
 ## Undecimalis Species Group
 <!-- fm: auto_enriched: true -->
 
@@ -4608,6 +5389,18 @@ Subsurface groundwater flow moving through the alluvium. In this source, underfl
 
 ### Mentioned In
 - [[GeologyAndGroundwaterSystemInT_12138]]
+
+## Underflow Density Current
+
+### Summary
+A dense current that sinks and flows along the bottom of a lake or reservoir. In Lake Powell this source describes a full-lake-length winter underflow that replaces and uplifts bottom waters, with upwelling concentrated near the dam, and that flushes old hypolimnetic water out through the penstocks.
+
+### Context
+> This paper documents the physical circulation of [[Lake Powell]], a canyon reservoir on the Colorado River behind [[Glen Canyon Dam]], over 1972-1975. Sampling was roughly quarterly for temperature, conductivity, turbidity and dissolved oxygen, supplemented by monthly [[Bureau of Reclamation]]...
+> -- *[[ConvectiveAndAdvectiveCirculat_19796]]*
+
+### Mentioned In
+- [[ConvectiveAndAdvectiveCirculat_19796]]
 
 ## Underground Mining
 
@@ -4654,8 +5447,12 @@ Author of a 1957 fish fauna study from a neighboring region. The source cites it
 > This 1966 study by [[Fredrick A. Copes]] and [[Richard A. Tubb]], published by the [[Institute for Ecological Studies]] at the University of North Dakota, documents the fish fauna of eastern North Dakota tributaries to the [[Red River]]. Fish were collected at 90 stations on 11 tributaries during...
 > -- *[[FishesOfTheRedRiverTributaries_17585]]*
 
+> This 1943 paper by [[Louis A Krumholz]], published by the [[Institute For Fisheries Research]] (Michigan Department of Conservation), tests a [[Fin Clipping]] [[Mark-Recapture]] method for estimating fish populations. The method, adapted from [[David H Thompson]]'s black crappie study, was checked...
+> -- *[[ACheckOnTheFinclippingMethodFo_12432]]*
+
 ### Mentioned In
 - [[FishesOfTheRedRiverTributaries_17585]]
+- [[ACheckOnTheFinclippingMethodFo_12432]]
 
 ## Underwater Exhalation Behavior
 <!-- fm: auto_enriched: true -->
@@ -4697,6 +5494,18 @@ A sampling approach that uses cameras underwater to count organisms in place. He
 ### Mentioned In
 - [[ResultsOfFisheriesInvestigatio_16398]]
 
+## Underwater Pumping Device
+
+### Summary
+A portable, hand-operated pump system used by two divers to collect eggs, invertebrates, periphyton and sediment in Great Lakes habitats. This source says it uses two diaphragm pumps in tandem for a flow of 60 to 120 L/min and weighs about 6.8 kg.
+
+### Context
+> This document is a two-part methods paper describing new aquatic sampling gear. The first part presents the [[Quatrefoil Trap]], a plexiglas larval fish light trap built to seven design criteria and validated in a [[Stream Larval Fish Habitat Partitioning Study]] in Kentucky. The second part...
+> -- *[[ANewLarvalFishLightTrapTheQuat_18745]]*
+
+### Mentioned In
+- [[ANewLarvalFishLightTrapTheQuat_18745]]
+
 ## Underwood's Mastiff Bat
 
 ### Summary
@@ -4708,6 +5517,18 @@ Underwood's Mastiff Bat is identified in this document as one of the species of 
 
 ### Mentioned In
 - [[WrittenCommentsOnSupplementToD_20523]]
+
+## Undissociated Ammonia
+
+### Summary
+Undissociated ammonia is the un-ionised form of ammonia, which is toxic to fish. In this source it is mentioned only as the subject of the earlier paper in the series by the same author, which used the same experimental methods. The present study builds on those ammonia findings, including the observation that trout-cyprinid differences in susceptibility varied with the poison and exposure time.
+
+### Context
+> This 1967 laboratory study by [[Ian R. Ball]], published in *Water Research*, compares the acute toxicity of [[Zinc Sulphate]] to five freshwater fish species: [[Rainbow Trout]], [[Perch]], [[Roach]], [[Gudgeon]] and [[Bream]]. It is the second paper in a series following a study on [[Undissociated...
+> -- *[[TheRelativeSusceptibilitiesOfS_17293]]*
+
+### Mentioned In
+- [[TheRelativeSusceptibilitiesOfS_17293]]
 
 ## UNESCO Biosphere Reserve
 
@@ -4733,6 +5554,42 @@ The UNESCO Vegetation Classification (1973) is a vegetation scheme that the sour
 ### Mentioned In
 - [[ADigitizedSystematicClassifica_13012]]
 
+## Ungava
+
+### Summary
+A large region of northern Québec. The source places it among the principal collecting areas and notes that the endemic *Capnia sugluka* is restricted to the south shore of Hudson Strait, within this region's range. It is also the site of the rare *Capnia labradora* records.
+
+### Context
+> This 1968 faunistic paper by [[Ricker]], Malouin, Harper and Ross compiles the distribution of stoneflies (order [[Plecoptera]]) in the Canadian province of [[Québec]]. The authors report 94 named species examined directly, one species cited from the literature, and two further undescribed or...
+> -- *[[DistributionOfQuebecStoneflies_16879]]*
+
+### Mentioned In
+- [[DistributionOfQuebecStoneflies_16879]]
+
+## Unicoi Formation
+
+### Summary
+A Pre-Cambrian rock unit of the Great Smoky Mountains region. According to the source, it is one of the soft-water formations that yields low alkalinity, typically about 0 to 23 p.p.m., and acidic to near-neutral water.
+
+### Context
+> This 1944 paper, published in the *Transactions of the American Fisheries Society* (reprinted 1947), examines how the total alkalinity, carbonate alkalinity, and pH of unpolluted Tennessee streams relate to the [[Geological Formations]] forming their beds. Using 371 water analyses from an equal...
+> -- *[[GeochemicalInterpretationOfWat_18915]]*
+
+### Mentioned In
+- [[GeochemicalInterpretationOfWat_18915]]
+
+## Unidades de Manejo Ambiental
+
+### Summary
+Wildlife-use units (UMAs) created in Mexico in 1997 that let landowners manage wild species for use while giving them an incentive to protect habitat. The source describes them as a legal tool for private conservation, but notes that use plans are weakly monitored and any owner can withdraw from the program.
+
+### Context
+> This 2000 report, prepared by Elisa I. Corcuera for the [[David and Lucile Packard Foundation]], reviews the emerging practice of private land conservation in Mexico. It explains how [[Land Tenure]] under the [[Ejido]] system shapes what conservation tools are feasible, catalogues seven legal...
+> -- *[[PrivateConservationInMexico_17587]]*
+
+### Mentioned In
+- [[PrivateConservationInMexico_17587]]
+
 ## Uniform Ecological Response
 
 ### Summary
@@ -4744,6 +5601,18 @@ The assumption that fossil species had the same ecology as their living relative
 
 ### Mentioned In
 - [[TheEvolutionaryAndEcologicalHi_21181]]
+
+## Uniform Energy Distribution
+
+### Summary
+Uniform energy distribution is the second opposing tendency in the source, in which energy expenditure per unit bed area (ws) is spread evenly along the river and across the channel. Under this condition the slope-discharge exponent would be near -0.50, giving a straighter profile.
+
+### Context
+> This paper by [[Walter B. Langbein]] and [[Luna B. Leopold]] (U.S. Geological Survey) argues that the observed form of stream channels can be derived theoretically rather than only described empirically. The empirically measured mean form, known as [[Hydraulic Geometry]], is treated as a...
+> -- *[[QuasiequilibriumStatesInChanne_12700]]*
+
+### Mentioned In
+- [[QuasiequilibriumStatesInChanne_12700]]
 
 ## Uniform Federal Relocation and Assistance Act
 
@@ -4769,6 +5638,30 @@ The principle that present-day processes and organisms can be used to interpret 
 ### Mentioned In
 - [[ClimaticAndBiogeographicSignif_21184]]
 
+## Unilateral Lesions
+
+### Summary
+Unilateral lesions are damage confined to one side of the brain. In Savage's Experiment 8, electrolytic lesions in ten goldfish showed that dorsal lateral and central forebrain areas mediate avoidance, and in several cases discrimination was impaired while avoidance stayed high, which may point to separate neural substrates.
+
+### Context
+> The excerpt contains two 1969 papers from *Animal Behaviour*, vol. 17. The first and main paper, by G. E. Savage, reports eight experiments on the role of the [[Telencephalon]] (forebrain) in [[Avoidance Conditioning]] in [[Goldfish]]. Forebrain-ablated fish learned and retained shock-avoidance...
+> -- *[[TelencephalicLesionsAndAvoidan_20532]]*
+
+### Mentioned In
+- [[TelencephalicLesionsAndAvoidan_20532]]
+
+## Unio Litoralis
+
+### Summary
+A river mussel in the family Unionidae, found in a tidally influenced stretch of the Douro River at Melres. In this study it had the lowest calorific values of the three species, with a high lipid content (6.26–14.07% dry weight).
+
+### Context
+> This 1979 study by M. Manuela Q. Machado (Faculty of Sciences, University of Porto) measures the energetic (calorific) value of three bivalve species from northern Portugal: the marine [[Mytilus Galloprovincialis]], the riverine [[Unio Litoralis]] and the lagoon-associated [[Anodonta Cygnea]]....
+> -- *[[EnergeticValueInBivalveMollusc_19307]]*
+
+### Mentioned In
+- [[EnergeticValueInBivalveMollusc_19307]]
+
 ## Uniomerus tetralasmus
 
 ### Summary
@@ -4791,6 +5684,18 @@ Uniomerus tetralasmus is a freshwater mussel in the family Unionidae. It was col
 ### Mentioned In
 - [[FreshwaterMollusksCollectedByT_13490]]
 
+## Union City Hatchery
+
+### Summary
+A Pennsylvania Fish Commission hatchery where the 1973 artificial hybridization work described in this study was carried out. It served as one of the two sites for the crosses between Amur pike and North American esocids.
+
+### Context
+> This study describes artificial hybrids between the [[Amur Pike]] (*Esox reicherti*), the only member of the family [[Esocidae]] not naturally occurring in North America, and several North American esocids. The work was carried out in 1973 at the [[Union City Hatchery]] and the [[Benner Spring Fish...
+> -- *[[ArtificialHybridsBetweenAmurPi_18065]]*
+
+### Mentioned In
+- [[ArtificialHybridsBetweenAmurPi_18065]]
+
 ## Union City Station
 
 ### Summary
@@ -4802,6 +5707,18 @@ An Erie County warmwater station established in 1905 that rears mainly muskellun
 
 ### Mentioned In
 - [[FishCultureInPennsylvania_11272]]
+
+## Union Colony
+
+### Summary
+The Union Colony was a settlement founded in 1870 on the Cache la Poudre River in northeastern Colorado, which became the city of Greeley. Its colonists built ditches and canals, and their water conflict with the upstream Fort Collins Colony during the 1874 drought helped shape Colorado's early water provisions.
+
+### Context
+> This article, written by [[Ken Wiley]] for a [[The Nature Conservancy]] publication, argues that the survival of many Western aquatic species and ecosystems depends on keeping water flowing in rivers and streams. Because most land in the West is already protected, the Conservancy's main tool is...
+> -- *[[UntyingTheWesternWaterKnot_11970]]*
+
+### Mentioned In
+- [[UntyingTheWesternWaterKnot_11970]]
 
 ## Union Lake
 
@@ -4913,6 +5830,15 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 > This document is a comprehensive compilation of Title 50, Code of Federal Regulations, Part 17, which lists all species of wildlife and plants determined by the U.S. Fish and Wildlife Service and National Marine Fisheries Service to be Endangered or Threatened under the [[Endangered Species Act]]....
 > -- *[[PartEndangeredAndThreatenedWil_11634]]*
 
+> Hynes and Coleman (1968, *Limnology and Oceanography*, 13(4): 569-573) propose a simple way to estimate the annual production of stream benthic invertebrates from a series of quantitative samples taken at intervals through the year. They argue it is currently the only simple, direct method of...
+> -- *[[ASimpleMethodOfAssessingTheAnn_14573]]*
+
+> This survey assessed the commercially valuable freshwater mussels (family [[Unionidae]]) of the [[Wabash River]], [[White River]], and [[East Fork of the White River]] in Indiana. Shells from these mussels are cut into nuclei for the [[Cultured Pearl Industry]] in Japan. The Indiana Department of...
+> -- *[[ASurveyOfTheCommerciallyValuab_12458]]*
+
+> This American Fisheries Society (AFS) review, published in *Fisheries* (Vol. 18, No. 9, September 1993), lists all native freshwater mussels of the families [[Margaritiferidae]] and [[Unionidae]] in the United States and Canada. It gives state and provincial distributions, reviews the conservation...
+> -- *[[ConservationStatusOfFreshwater_12010]]*
+
 ### Mentioned In
 - [[ChangesInTheCommercialFisheryO_13861]]
 - [[DifferencesInLittoralFaunaDueT_1972]]
@@ -4928,12 +5854,51 @@ Unionidae is a family of obligate freshwater mussels that are ecologically signi
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
 - [[PartEndangeredAndThreatenedWil_11634]]
+- [[ASimpleMethodOfAssessingTheAnn_14573]]
+- [[ASurveyOfTheCommerciallyValuab_12458]]
+- [[ConservationStatusOfFreshwater_12010]]
 
 ## Unioninae
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
+
+## Unionised Ammonia
+
+### Summary
+Unionised ammonia is the un-ionised form of ammonia, which is toxic to fish and becomes more prevalent as pH rises. Westlake notes that weed-driven increases in pH raise its proportion, partly offset by nitrogen uptake by the plants.
+
+### Context
+> This 1960 paper by D. F. Westlake, a botanist with the Pollution Research Unit of the Freshwater Biological Association, was presented to the Institution of Public Health Engineers. It reviews the available quantitative data on macroscopic aquatic plants ("water-weed") and applies it to river...
+> -- *[[WaterweedAndWaterManagement_12170]]*
+
+### Mentioned In
+- [[WaterweedAndWaterManagement_12170]]
+
+## Unisexual Poeciliids
+
+### Summary
+Unisexual poeciliids are all-female clonal lineages in the genera Poeciliopsis and Poecilia. The source states that electrophoretic and karyological evidence shows they arise as interspecific hybrids, making them typically several times more heterozygous than bisexual relatives, with each form made up of several lineages from separate hybridization events.
+
+### Context
+> This document is an excerpt from a poeciliid monograph covering the genetic variation of livebearing fishes studied by protein electrophoresis, or [[Allozyme Electrophoresis]]. It reviews work on [[Gene Linkage]] in poeciliids, [[Unisexual Poeciliids]], and population variability in bisexual...
+> -- *[[AllozymeStudiesOfGeneticVariat_15729]]*
+
+### Mentioned In
+- [[AllozymeStudiesOfGeneticVariat_15729]]
+
+## Unit Input Curves
+
+### Summary
+Predicted temperature-rise distribution curves for a reference heat input at different points in the estuary, calculated for fresh-water flows of 170, 500 and 1500 million gallons per day. They allowed the authors to estimate the temperature effect of any heat input at any location.
+
+### Context
+> This 1957 paper uses a theory of tidal mixing to estimate how heat from [[Power Stations]] and other sources has raised the water temperature of the [[Thames Estuary]]. The authors reconstruct a "[[Basic Temperature]]" for the estuary, meaning the temperature expected without artificial heating....
+> -- *[[EffectsOfHeatedDischargesOnThe_16906]]*
+
+### Mentioned In
+- [[EffectsOfHeatedDischargesOnThe_16906]]
 
 ## Unit L-3
 
@@ -4982,6 +5947,18 @@ United Energy Corporation (UEC) was a company that requested permits to import a
 
 ### Mentioned In
 - [[RequestByUecToImportAndPossess_18439]]
+
+## United Kingdom Atomic Energy Authority
+
+### Summary
+The UK public body that ran several nuclear establishments discharging radioactive material into the Thames area. The source notes it as one of the sources of radioactivity in the river.
+
+### Context
+> This 1962 paper by [[N. T. Mitchell]] and [[G. E. Eden]] reports a 19-week survey (from 17 July 1959) of the two strontium radioisotopes, [[Strontium 89]] and [[Strontium 90]], in the [[River Thames]]. The study was commissioned to test whether radioactivity discharged from the [[Atomic Energy...
+> -- *[[RadioactiveStrontiumInTheRiver_16517]]*
+
+### Mentioned In
+- [[RadioactiveStrontiumInTheRiver_16517]]
 
 ## United Nations Convention on the Law of the Sea
 
@@ -5034,6 +6011,18 @@ The United States is the party alleged in this petition to be failing to effecti
 > This document is a legal filing, not a research report. It is a Notice of Appeal filed on December 12, 1994, in the [[United States District Court For The District Of New Mexico]]. The [[United States]] appeals to the [[Tenth Circuit Court Of Appeals]] from the final judgment in a case brought by...
 > -- *[[NoticeOfAppealForBoardOfCounty_11769]]*
 
+> This book chapter by E. J. Crossman traces the deliberate introduction of exotic fishes into Canada during the late 1800s and early 1900s. It argues that fisheries managers have long used introductions as a management tool, and it uses the [[Common Carp]] case in Ontario as a cautionary example....
+> -- *[[IntroductionOfExoticFishesInto_18058]]*
+
+> This paper by [[Stanley C. Williams]] redescribes the scorpion [[Vejovis Bilineatus]] (order Scorpionida, family [[Vejovidae]]), a species first described by [[Richard Irvine Pocock]] in 1898 from "San Diego, Texas." Its identity had been uncertain for decades, and [[Hoffmann]] (1931) had only...
+> -- *[[ARediscriptionOfTheScorpionVej_12057]]*
+
+> This reprinted 1969 article by D. G. Cross of the [[Salmon and Freshwater Fisheries Laboratory]] (Ministry of Agriculture, Fisheries and Food, London) describes the [[Grass Carp]] (*Ctenopharyngodon idella*) and assesses whether it can be imported into Britain for controlling nuisance water weeds....
+> -- *[[AquaticWeedControlUsingGrassCa_18023]]*
+
+> Kenneth D. Carlander ([[Iowa State College]]) conducted a mail survey of fish conservation agencies in April 1958 to establish how many technical fishery personnel worked in the [[United States]] and [[Canada]], and how they were trained, employed and distributed. The survey counted 1,905...
+> -- *[[ASurveyOfTechnicalFisheryPerso_17402]]*
+
 ### Mentioned In
 - [[APetitionPursuantToArticleOfTh_17637]]
 - [[ASummaryOfInformationAboutTheA_18574]]
@@ -5042,6 +6031,22 @@ The United States is the party alleged in this petition to be failing to effecti
 - [[MonthlyNormalTemperaturesPreci_13263]]
 - [[RuediReservoirReleasescolorado_12300]]
 - [[NoticeOfAppealForBoardOfCounty_11769]]
+- [[IntroductionOfExoticFishesInto_18058]]
+- [[ARediscriptionOfTheScorpionVej_12057]]
+- [[AquaticWeedControlUsingGrassCa_18023]]
+- [[ASurveyOfTechnicalFisheryPerso_17402]]
+
+## United States and Mexican Boundary Survey
+
+### Summary
+A joint US–Mexico survey team that worked along the international border in the early 1850s to mark the boundary. According to this checklist, it was the source of the earliest Arizona fish collections, made between 1851 and 1854. The note gives no further details of the specimens collected.
+
+### Context
+> This is the first published checklist of the fish fauna of [[Arizona]], compiled by Robert Rush Miller (University of Michigan) and Charles H. Lowe (University of Arizona). It is based on fieldwork and a review of the literature, and it covers both native species and species introduced by agencies...
+> -- *[[AnAnnotatedCheckListOfTheFishe_15394]]*
+
+### Mentioned In
+- [[AnAnnotatedCheckListOfTheFishe_15394]]
 
 ## United States Atomic Energy Commission
 
@@ -5055,9 +6060,13 @@ The United States Atomic Energy Commission was the federal agency for which the 
 > This is the third supplement (February 1965) to a selected bibliography of terrestrial and freshwater radioecology, compiled by [[Alfred W. Klement Jr.]] and [[Vincent Schultz]] for the [[United States Atomic Energy Commission]] (AEC), Division of Biology and Medicine (report TID-3910, Suppl. 3)....
 > -- *[[TerrestrialAndFreshwaterRadioe_12564]]*
 
+> This Wildlife Monograph by W. L. Minckley (University of Louisville, 1963) presents a multi-year, integrated study of Doe Run, an unpolluted, partly modified spring stream in eastern Meade County, Kentucky, that drains karst limestone terrain into the [[Ohio River]]. The work covers physical flow...
+> -- *[[TheEcologyOfASpringStreamDoeRu_18554]]*
+
 ### Mentioned In
 - [[PartialBibliographyOfInterestT_18238]]
 - [[TerrestrialAndFreshwaterRadioe_12564]]
+- [[TheEcologyOfASpringStreamDoeRu_18554]]
 
 ## United States Bureau of Fisheries
 
@@ -5084,10 +6093,30 @@ The federal agency that ran the fish culture, egg collection, rescue, and distri
 > This 1966 study (Dingell-Johnson Project F-18-R) uses scales to determine age and growth of [[Largemouth Bass]], [[Smallmouth Bass]], [[Bluegill]] and [[Red-ear Sunfish]] in [[Folsom Lake]] during the first 7 years after impoundment (1955-1961). Largemouth bass grew slightly faster than smallmouth...
 > -- *[[TheAgeAndGrowthOfCentrarchidFi_13538]]*
 
+> This 1963 limnological study by Quentin J. Stober, published in the *Proceedings of the Montana Academy of Sciences*, examines how [[Tiber Reservoir]], an impoundment on the [[Marias River]] completed in 1956, altered water temperature, turbidity, and plankton in the river. Field work ran from June...
+> -- *[[SomeLimnologicalEffectsOfTiber_14344]]*
+
+> This article, a condensed version of a law review piece by [[Charles F. Wilkinson]] (University of Colorado-Boulder), argues that western water law is being reevaluated after more than a century dominated by the [[Prior Appropriation Doctrine]]. Traditional priorities (state-based appropriation,...
+> -- *[[WesternWaterLawInTransition_11983]]*
+
 ### Mentioned In
 - [[CommentsOnTheBiologicalAndConf_1997_07_24]]
 - [[MemorandumOfUnderstandingOnEnd_11447]]
 - [[TheAgeAndGrowthOfCentrarchidFi_13538]]
+- [[SomeLimnologicalEffectsOfTiber_14344]]
+- [[WesternWaterLawInTransition_11983]]
+
+## United States Coast Guard
+
+### Summary
+The United States Coast Guard is a branch of the U.S. armed forces. In this source it appears only in a photo caption, which describes a Coast Guard helicopter visiting a Federal Highway Administration summer transportation event on the ASU campus for high school students.
+
+### Context
+> This is a university newsletter page from [[Arizona State University]] (ASU) dated July 16, 1999, not a fish or aquatic-ecosystem research document. It contains no species data, sample sizes, or field measurements. Its scientifically relevant content is a obituary for [[Gerald Ainsworth Cole]],...
+> -- *[[ProfessorEmeritusDies_11945]]*
+
+### Mentioned In
+- [[ProfessorEmeritusDies_11945]]
 
 ## United States Court of Appeals for the Second Circuit
 
@@ -5177,6 +6206,21 @@ This is the federal trial court where the case was heard. The Notice of Appeal i
 > This document is a success-story and implementation guide for the April 15, 1995 [[Biological Opinion]] on the potential for the [[Central Arizona Project]] (CAP) to introduce and spread nonnative aquatic species in the Gila River Basin. It was written and negotiated by the Arizona Ecological...
 > -- *[[SuccessStoryImplementationOfTh_18319]]*
 
+> This study examines whether decades of translocation, hatchery propagation, and reintroduction have altered the genetic and morphological structure of the [[Yaqui Chub]], a federally endangered minnow restricted to the Rio San Bernardino in the [[Rio Yaqui Basin]] of Sonora, México, and Arizona,...
+> -- *[[GeneticsAndMorphologyOfTheYaqu_12786]]*
+
+> This study by [[William F. Fagan]] and [[Peter M. Kareiva]] (University of Washington) tests two statistical methods for correcting [[Sampling Effort]] bias in species lists compiled from museum and conservation databases. The test database is a set of about 11,994 [[Butterfly]] records from...
+> -- *[[UsingCompiledSpeciesListsToMak_16298]]*
+
+> This paper, the sixth in a series on fish life histories at [[Reelfoot Lake]], Tennessee, estimates the age and growth of the [[Gourdhead Buffalo]] (*Megastomatobus cyprinella*) from scales of 118 fish collected in summers 1937 to 1942. Growth in length slows after the third summer and then stays...
+> -- *[[AgeAndGrowthOfTheGourdheadBuff_20594]]*
+
+> This is a finding aid (Guide Number 4) to the field reports of the [[United States Fish and Wildlife Service]] and its predecessor, the [[Bureau of Biological Survey]]. The collection is Record Unit 7176, measures 17.2 linear meters, and is held by the [[Smithsonian Archives]] at the [[Smithsonian...
+> -- *[[GuideToTheFieldReportsOfTheUni_17973]]*
+
+> This document contains two 1963 papers from the *Proceedings of the Montana Academy of Sciences*. The main paper, by [[Norman D Schoenthal]], reports laboratory bio-assays and a field test stream study on the effects of the insecticide [[DDT]] on cold-water fishes and their food organisms. DDT was...
+> -- *[[SomeEffectsOfDdtOnColdWaterFis_20584]]*
+
 ### Mentioned In
 - [[MemorandumOfUnderstandingOnEnd_11447]]
 - [[ObstaclesToReturnOfTheNative_16538]]
@@ -5186,6 +6230,11 @@ This is the federal trial court where the case was heard. The Notice of Appeal i
 - [[TheNutritionOfTroutCortlandHat_11165]]
 - [[NoticeOfAppealForBoardOfCounty_11769]]
 - [[SuccessStoryImplementationOfTh_18319]]
+- [[GeneticsAndMorphologyOfTheYaqu_12786]]
+- [[UsingCompiledSpeciesListsToMak_16298]]
+- [[AgeAndGrowthOfTheGourdheadBuff_20594]]
+- [[GuideToTheFieldReportsOfTheUni_17973]]
+- [[SomeEffectsOfDdtOnColdWaterFis_20584]]
 
 ## United States Fish Commission
 
@@ -5196,8 +6245,12 @@ The United States Fish Commission was the federal agency that originally transfe
 > This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
 > -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
 
+> This short experimental paper by [[Walter E. Garrey]] describes a visually triggered orientation and schooling reflex in [[Stickleback]] (*Gasterosteus bispinosus*) held in the aquaria of the [[United States Fish Commission]] at Woods Hole, Massachusetts. Observations were made in the summers of...
+> -- *[[ASightReflexShownByStickleback_16922]]*
+
 ### Mentioned In
 - [[ANewCrayfishFromTheNashvilleBa_20416]]
+- [[ASightReflexShownByStickleback_16922]]
 
 ## United States Fishery Reserve
 
@@ -5221,9 +6274,21 @@ The United States Fishery Reserve is an area set aside by President Woodrow Wils
 > A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
 > -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
 
+> This 1943 study by [[David S. Shetter]], published by the [[Institute for Fisheries Research]] of the [[Michigan Department of Conservation]], reports weighed creel-census results from portions of seven trout streams in 1939 and five in 1940. It quantifies the yield of trout to anglers in pounds...
+> -- *[[AnglersCatchesFromPortionsOfCe_18900]]*
+
+> This 1994 news article from *The Arizona Republic* (by Steve Yozwiak) reports that [[Quartzite Falls]], a notorious rapid in the [[Salt River Canyon]], was deliberately destroyed with high explosives. The blast reduced a 6-foot waterfall and a Class 6 rapid to a series of ripples. The falls acted...
+> -- *[[OutrageInTheWildernessSaltRive_20917]]*
+
+> This document contains two 1963 papers from the *Proceedings of the Montana Academy of Sciences*. The main paper, by [[Norman D Schoenthal]], reports laboratory bio-assays and a field test stream study on the effects of the insecticide [[DDT]] on cold-water fishes and their food organisms. DDT was...
+> -- *[[SomeEffectsOfDdtOnColdWaterFis_20584]]*
+
 ### Mentioned In
 - [[ObstaclesToReturnOfTheNative_16538]]
 - [[BlueRiverPoolSamplingGreenleeC_17213]]
+- [[AnglersCatchesFromPortionsOfCe_18900]]
+- [[OutrageInTheWildernessSaltRive_20917]]
+- [[SomeEffectsOfDdtOnColdWaterFis_20584]]
 
 ## United States Geological and Geographical Survey West of the 100th Meridian
 
@@ -5294,6 +6359,18 @@ The United States Geological Survey is a U.S. government scientific agency. In J
 > This is a short [[United States Geological Survey]] (USGS) letter with an attached site table and a sketch-map label. The letter, written from the [[Denver Federal Center]], appears to request or transmit information on water sample analyses from a set of springs. The handwritten text is partly...
 > -- *[[CuatroCienegasWaterChemistrySa_14958]]*
 
+> This Science research news item reports geophysical evidence for [[Thin-Skinned Extension]] in the [[Basin and Range Province]] of Utah. Seismic reflection profiling beneath the [[Sevier Desert]] by the [[COCORP]] consortium revealed a low-angle [[Sevier Desert Detachment]] that slices through much...
+> -- *[[ThinskinnedCrustalExtensionCon_12511]]*
+
+> This Department of Geology, University of Arizona paper by J. T. Hollander examines the stratigraphy, structure, and boundary conditions of the [[Safford Valley]] alluvium along the [[Gila River]] in Graham County, Arizona. The author argues that the water-bearing behavior of the [[Inner-Valley...
+> -- *[[GeologyAndAquiferCharacteristi_20473]]*
+
+> Heins and Baker examined egg size in the [[Blacktail Shiner]] (*Notropis venustus*) from 16 populations in river systems draining to the northern [[Gulf of Mexico]], from eastern Texas to northwestern Florida. Egg size was unrelated to female size within populations but correlated with female size...
+> -- *[[AnalysisOfFactorsAssociatedWit_16607]]*
+
+> This 1968 report from the [[Michigan State University]] Museum (Biological Series, Vol. 4, No. 2) describes the chemistry and hydrology of the [[Red Cedar River]], a warm-water, highly buffered stream in south-central Michigan. It was written as the physical and chemical baseline for later papers...
+> -- *[[TheRedCedarRiverReportIChemist_17303]]*
+
 ### Mentioned In
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 - [[DiaryOfGrandCanyonSurvey_17643]]
@@ -5312,6 +6389,10 @@ The United States Geological Survey is a U.S. government scientific agency. In J
 - [[GlenCanyonEnvironmentalStudies_11546]]
 - [[MapsOfTheChihuahuanDesertRegio_16912]]
 - [[CuatroCienegasWaterChemistrySa_14958]]
+- [[ThinskinnedCrustalExtensionCon_12511]]
+- [[GeologyAndAquiferCharacteristi_20473]]
+- [[AnalysisOfFactorsAssociatedWit_16607]]
+- [[TheRedCedarRiverReportIChemist_17303]]
 
 ## United States National Marine Fisheries Service
 
@@ -5404,6 +6485,66 @@ The United States National Marine Fisheries Service is a federal government agen
 > This 1968 taxonomic paper describes [[Algansea Monticola]], a new species of small cyprinid fish from the headwaters of the Río Juchipila and Río Colotlán in [[Zacatecas]] and [[Jalisco]], Mexico. The authors, Clyde D. Barbour and Salvador Contreras, collected 630 specimens in eight series during...
 > -- *[[AlganseaMonticolaANewCyprinidF_15574]]*
 
+> This short paper by [[Gerald E. Gunning]] and [[Royal D. Suttkus]] of [[Tulane University]] reports the occurrence of the introduced [[Asiatic Clam]] in the [[Pearl River]] system of Louisiana. Specimens first identified as [[Corbicula Fluminea]] were referred by a national museum specialist to...
+> -- *[[OccurenceAndDistributionOfAsia_17827]]*
+
+> Clark Hubbs (University of Texas, 1954, *Texas Journal of Science* 6(3)) re-evaluates published distributional records for Texas freshwater fishes. Much of the earlier literature, largely pre-1900 and perpetuated by [[Fowler 1945]], [[Baughman 1950]] and [[Knapp 1953]], contains misidentifications...
+> -- *[[CorrectedDistributionalRecords_14203]]*
+
+> This 1939 reprint by [[Carl L. Hubbs]] revises the separation and geographic ranges of the two eastern North American blennies then placed in the genus [[Hypsoblennius]]: [[Hypsoblennius Hentz]] and [[Hypsoblennius Ionthas]]. Hubbs argues that the dichotomous key in [[Jordan and Evermann]] (1898)...
+> -- *[[TheCharactersAndDistributionOf_20018]]*
+
+> This 1953 taxonomic revision by Clark Hubbs (University of Texas), reprinted from *Zoologica* (New York Zoological Society, Vol. 38, Part 3), refines the eastern Pacific species of the [[Labrisomus]] genus of [[Clinidae]] blennies. Hubbs recognizes eight species, grouped into three subgenera:...
+> -- *[[RevisionOfTheEasternPacificFis_14200]]*
+
+> This paper describes the previously unknown first-form (form I) male of the crawfish [[Orconectes Bisectus]], a species known until then only from the [[Rhoades Holotype]] and a unique female [[Annulus Ventralis]]. Form I males are needed for reliable identification and for judging relationships,...
+> -- *[[TheFirstformMaleOfOrconectesBi_18691]]*
+
+> This paper, published in [[Los Angeles County Museum]] *Contributions in Science* No. 74 (December 30, 1963) by Wayne J. Baldwin, describes **Holacanthus limbaughi**, a new species of chaetodontid fish (subfamily [[Pomacanthinae]]) from [[Clipperton Island]] in the [[Eastern Pacific]]. The species...
+> -- *[[ANewChaetodontFishHolocanthusL_17291]]*
+
+> This 1976 morphological study by [[Lawrence M. Page]] of the Illinois Natural History Survey examines the enlarged, strongly toothed "modified" scales of [[Percina]] darters. The scales are unique to this genus within the darter tribe Etheostomatini, and their presence or absence helps separate...
+> -- *[[TheModifiedMidventralScalesOfP_18385]]*
+
+> This 1967 taxonomic revision by [[Carter R. Gilbert]] and [[David K. Caldwell]], published in the [[Los Angeles County Museum of Natural History]] *Contributions in Science* (No. 125), reviews the atherinid genus *Coleotropis*. The genus contains two valid species: *C. starksi* in the eastern...
+> -- *[[TheAmericanAtherinidFishesOfTh_16998]]*
+
+> This taxonomic paper describes [[Notropis Baileyi]], a new small cyprinid fish from the Pascagoula and Mobile Bay drainages of Mississippi and Alabama. The authors, Royal D. Suttkus ([[Tulane University]]) and Edward C. Raney ([[Cornell University]]), distinguish the species from its closest...
+> -- *[[NotropisBaileyiANewCyprinidFis_15054]]*
+
+> This 1973 taxonomic paper, published in the [[Publicaciones Biologicas]] series of the [[Universidad Autonoma de Nuevo Leon]], describes *[[Notropis Aguirrepequenoi]]* sp. nov., a cyprinid minnow endemic to the [[Rio Soto La Marina]] in [[Tamaulipas]], northeastern Mexico. The species was described...
+> -- *[[NotropisAguirrepequenoiEspecie_17516]]*
+
+> This 1944 paper by [[William E. Ricker]] reviews the stonefly (Plecoptera) fauna of the far north of North America, based on specimens in the [[Canadian National Collection]], the [[United States National Museum]] and the [[Royal Ontario Museum of Zoology]]. It documents new regional records,...
+> -- *[[SomePlecopteraFromTheFarNorth_16852]]*
+
+> This paper describes *Speocirolana guerrai* sp. nov., a blind, depigmented troglobitic isopod of the family [[Cirolanidae]] from [[Cueva de la Chorrera]] in the Sierra Madre Oriental near Linares, Nuevo León, Mexico. The description rests on a type series of 48 specimens collected in 1971 and 1972....
+> -- *[[SpeocirolanaGuerraiSpNovCirola_17535]]*
+
+> This document is the front matter and bibliography of Memoir 4 of the [[San Diego Society Of Natural History]] (1970), compiled by [[Dwight W Taylor]]. It is the first installment of a planned review of the freshwater and brackish-water Mollusca of western North America, covering both Pleistocene...
+> -- *[[WestAmericanFreshwaterMollusca_13492]]*
+
+> This U.S. National Museum Bulletin (No. 284, Victor G. Springer, 1968) defines the family [[Blenniidae]] osteologically and revises its suprageneric classification. The study uses a detailed skeletal description of [[Entomacrodus Nigricans]] as an osteological standard for the family, then compares...
+> -- *[[OsteologyAndClassificationOfTh_11875]]*
+
+> This 1943 paper by [[Carl L. Hubbs]] and [[E. Ross Allen]], published in the *Proceedings of the Florida Academy of Sciences* (Vol. 6, pp. 110–130), provides the first authoritative inventory of the fishes of [[Silver Springs]], a large, clear-water spring system in north-central Florida. The...
+> -- *[[FishesOfSilverSpringsFlorida_14279]]*
+
+> This 1971 taxonomic revision by William L. Fink, published in the [[Publications of the Gulf Coast Research Laboratory Museum]], reviews the [[Gambusia Nicaraguensis Species Group]] within the livebearer genus [[Gambusia]]. The group comprises four recognized species: [[Gambusia Nicaraguensis]],...
+> -- *[[ARevisionOfTheGambusiaNicaragu_16382]]*
+
+> John R. Holsinger (Department of Zoology and Institute of Speleology, University of Kentucky) revises the troglobitic amphipod genus [[Stygonectes]] from central Texas caves. He redefines the genus, sinks [[Synpleonia]] into it as a synonym, treats five species (three newly described), and proposes...
+> -- *[[SubterraneanAmphipodsOfTheGenu_19878]]*
+
+> This volume extract (pages 236–269 of a journal issue) contains three items. The main item is M. M. Ovchynnyk's annotated checklist of the [[Freshwater Fishes of Ecuador]]. It records 306 species in 159 genera and 44 families, compared with 118 species reported by [[Fowler 1954]]. The list is...
+> -- *[[AnnotatedListOfTheFreshwaterFi_18360]]*
+
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+> This 1966 *Proceedings of the [[United States National Museum]]* catalog, by [[Bruce B. Collette]] and [[Lewis W. Knapp]], inventories the type specimens of the North American darter tribe [[Etheostomatini]] (genera [[Percina]], [[Ammocrypta]] and [[Etheostoma]]). The authors state that about 212...
+> -- *[[CatalogOfTypeSpecimensOfTheDar_17140]]*
+
 ### Mentioned In
 - [[GirardinusSonoriensisMczCatalo_1994_09_01]]
 - [[NotesOnFishesCollectedByCaptCh_15664]]
@@ -5430,6 +6571,38 @@ The United States National Marine Fisheries Service is a federal government agen
 - [[SystematicStudiesInPlecoptera_16861]]
 - [[TheNaturalRangeOfSalmoNowOncho_15385]]
 - [[AlganseaMonticolaANewCyprinidF_15574]]
+- [[OccurenceAndDistributionOfAsia_17827]]
+- [[CorrectedDistributionalRecords_14203]]
+- [[TheCharactersAndDistributionOf_20018]]
+- [[RevisionOfTheEasternPacificFis_14200]]
+- [[TheFirstformMaleOfOrconectesBi_18691]]
+- [[ANewChaetodontFishHolocanthusL_17291]]
+- [[TheModifiedMidventralScalesOfP_18385]]
+- [[TheAmericanAtherinidFishesOfTh_16998]]
+- [[NotropisBaileyiANewCyprinidFis_15054]]
+- [[NotropisAguirrepequenoiEspecie_17516]]
+- [[SomePlecopteraFromTheFarNorth_16852]]
+- [[SpeocirolanaGuerraiSpNovCirola_17535]]
+- [[WestAmericanFreshwaterMollusca_13492]]
+- [[OsteologyAndClassificationOfTh_11875]]
+- [[FishesOfSilverSpringsFlorida_14279]]
+- [[ARevisionOfTheGambusiaNicaragu_16382]]
+- [[SubterraneanAmphipodsOfTheGenu_19878]]
+- [[AnnotatedListOfTheFreshwaterFi_18360]]
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+- [[CatalogOfTypeSpecimensOfTheDar_17140]]
+
+## United States Soil Conservation Service
+
+### Summary
+The United States Soil Conservation Service was a federal agency that worked on soil and water conservation. The source cites its estimate that irrigation waste totals about 24 million acre-feet per year, almost double the Colorado River's annual flow, to support the case for conservation as the main new supply.
+
+### Context
+> This article, a condensed version of a law review piece by [[Charles F. Wilkinson]] (University of Colorado-Boulder), argues that western water law is being reevaluated after more than a century dominated by the [[Prior Appropriation Doctrine]]. Traditional priorities (state-based appropriation,...
+> -- *[[WesternWaterLawInTransition_11983]]*
+
+### Mentioned In
+- [[WesternWaterLawInTransition_11983]]
 
 ## United States v. Cappaert
 
@@ -5491,6 +6664,18 @@ A mining and smelting operation at Jerome and Clarkdale, Arizona. The source say
 ### Mentioned In
 - [[FossilCreakFlumeaPioneerMonume_16579]]
 
+## Univac 1100
+
+### Summary
+The Univac 1100 was a mainframe computer system used in the period this essay describes. The author cites it as the platform on which vector overlay took twenty minutes to an hour or more. He uses this as a comparison with raster overlay on a super-minicomputer, which took about two minutes.
+
+### Context
+> This essay by David A. Plakeman, a resource specialist with the [[Forest Service]] [[Pacific Southwest Region]], argues that the [[Geographic Information System]] (GIS) industry has stayed with costly [[Manual Digitizer]] data entry for too long. Plakeman states that data entry accounts for about...
+> -- *[[SomeThoughtsAboutGisDataentry_17685]]*
+
+### Mentioned In
+- [[SomeThoughtsAboutGisDataentry_17685]]
+
 ## Universal Soil Loss Equation
 
 ### Summary
@@ -5500,8 +6685,12 @@ The Universal Soil Loss Equation (USLE) is a standard empirical model that predi
 > This Technical Completion Report (WRRI, January 1983) by [[Richard A. Cole]] and co-authors presents models and first-approximation coefficients for predicting how grazing animals mobilize dung and soil nutrients from western watersheds into downstream waters, particularly the hypolimnia of small...
 > -- *[[ModelingImpactsOnSmallReservoi_17114]]*
 
+> This document is the proceedings of a November 1969 conference at [[Iowa State University]] on the role of agriculture in clean water, published by the [[Federal Water Pollution Control Administration]] (FWPCA) under Grant No. 13040 EYX (November 1970). It compiles six parts of expert chapters on...
+> -- *[[EffectsOfAgriculturalPollutant_17361]]*
+
 ### Mentioned In
 - [[ModelingImpactsOnSmallReservoi_17114]]
+- [[EffectsOfAgriculturalPollutant_17361]]
 
 ## Universal Transverse Mercator
 
@@ -5539,6 +6728,18 @@ The Universidad Autonoma de Baja California is a public university in Baja Calif
 ### Mentioned In
 - [[DraftAgendaForMeetingOnNovembe_17488]]
 
+## Universidad Autonoma De Baja California Sur
+
+### Summary
+The Universidad Autonoma de Baja California Sur (UABCS) is a public university in La Paz, Baja California Sur, Mexico. According to this source, it co-organized the I Congreso Nacional de Ictiologia in 1988 with the Sociedad Ictiologica Mexicana, and its Rector, José Eduardo Ruiz Castro, was an honorary president of the congress. Its facilities hosted registration, the opening, and poster sessions.
+
+### Context
+> This document is the program and abstract index of the **I Congreso Nacional de Ictiología**, held in La Paz, Baja California Sur, Mexico, from 8 to 11 November 1988. The congress was organized by the [[Sociedad Ictiologica Mexicana]] (SIMAC) with the [[Universidad Autonoma De Baja California Sur]]...
+> -- *[[ICongresoNacionalDeIctiologia_11777]]*
+
+### Mentioned In
+- [[ICongresoNacionalDeIctiologia_11777]]
+
 ## Universidad Autonoma de Nuevo Leon
 
 ### Summary
@@ -5554,10 +6755,38 @@ Universidad Autonoma de Nuevo Leon is a Mexican university that served as the in
 > This document contains the program and abstracts from the 25th Annual Meeting of the [[Desert Fishes Council]], held November 10-14, 1993, at the [[Universidad Autonoma de Nuevo Leon]] in San Nicolas de los Garza, Nuevo Leon, Mexico. The meeting featured agency reports, contributed papers, poster...
 > -- *[[AbstractsFromTheDesertFishesCo_15019]]*
 
+> This short note reports a new Mexican locality for the [[Blue Sucker]] ([[Cycleptus Elongatus]], Le Sueur) in the [[Rio Bravo]] near [[Ciudad Acuña]], [[Coahuila]]. A single male specimen (142.0 mm standard length) was collected on 11 July 1968, 2 km upstream of the town. The authors summarize the...
+> -- *[[UnaLocalidadNuevaParaCycleptus_17534]]*
+
+> This short report formally describes the first recorded natural hybrid between two poeciliid fishes, [[Poecilia Mexicana]] and [[Poecilia Latipunctata]]. A single adult male was collected in the [[Rio Guayalejo-Tamesi]] near [[Llera De Canales]], [[Tamaulipas]], Mexico, in 1964 and deposited in the...
+> -- *[[NuevoHibridoNaturalPoeciliaMex_17524]]*
+
+> This 1973 taxonomic paper, published in the [[Publicaciones Biologicas]] series of the [[Universidad Autonoma de Nuevo Leon]], describes *[[Notropis Aguirrepequenoi]]* sp. nov., a cyprinid minnow endemic to the [[Rio Soto La Marina]] in [[Tamaulipas]], northeastern Mexico. The species was described...
+> -- *[[NotropisAguirrepequenoiEspecie_17516]]*
+
+> This 1995 field guide, published by the [[Consejo Consultivo Estatal]] (Subcomision de Flora) with the [[Universidad Autonoma de Nuevo Leon]] and the [[Patronato del Parque Ecologico Chipinque]], documents the representative trees and shrubs of [[Chipinque Ecological Park]] in the [[Sierra Madre...
+> -- *[[FloraRepresentativaDeChipinque_18740]]*
+
 ### Mentioned In
 - [[ProposalBiologicallySensitiveA_16496]]
 - [[CvForNewProposal_17525]]
 - [[AbstractsFromTheDesertFishesCo_15019]]
+- [[UnaLocalidadNuevaParaCycleptus_17534]]
+- [[NuevoHibridoNaturalPoeciliaMex_17524]]
+- [[NotropisAguirrepequenoiEspecie_17516]]
+- [[FloraRepresentativaDeChipinque_18740]]
+
+## Universidad Autónoma de Baja California Sur
+
+### Summary
+The Universidad Autónoma de Baja California Sur (UABCS) is a Mexican university that partners with the Instituto Nacional de la Pesca on the binational shark and ray research program. The two-year project runs from 1998 to 1999 and is funded by the David and Lucille Packard Foundation.
+
+### Context
+> This Spring 1998 issue of [[Voces del Mar]], the newsletter of the [[Biosphere Reserve Alto Golfo de California y Delta del Río Colorado]], focuses on the [[Gulf Corvina]] (*Curvina golfina*), a sciaenid whose fishery has recovered sharply after roughly three decades of scarcity. The lead article...
+> -- *[[LaCuvinaGolfinaVolviParaQuedar_13182]]*
+
+### Mentioned In
+- [[LaCuvinaGolfinaVolviParaQuedar_13182]]
 
 ## Universidad Autónoma De Nuevo León
 <!-- fm: auto_enriched: true -->
@@ -5572,10 +6801,18 @@ Universidad Autonoma de Nuevo Leon is a Mexican university that served as the in
 > This 1972 Master of Science thesis by [[Glady Lou Lytle]], Arizona State University, examines the four nominal forms of the [[Notropis proserpinus Group]] (subgenus Cyprinella of the genus Notropis) from southern Texas and northeastern Mexico. The study combined computer-based [[Taximetrics]]...
 > -- *[[CyprinidFishesOfTheSubgenusCyp_16292]]*
 
+> This paper describes *Speocirolana guerrai* sp. nov., a blind, depigmented troglobitic isopod of the family [[Cirolanidae]] from [[Cueva de la Chorrera]] in the Sierra Madre Oriental near Linares, Nuevo León, Mexico. The description rests on a type series of 48 specimens collected in 1971 and 1972....
+> -- *[[SpeocirolanaGuerraiSpNovCirola_17535]]*
+
+> This is the second part of the illustrated field guide *Flora Representativa de Chipinque*, a Spanish-language publication (April 1996) covering the flowers and ferns of the [[Chipinque Ecological Park]] in Nuevo León, Mexico. It was produced by a consortium led by the [[Consejo Consultivo Estatal...
+> -- *[[FloraRepresentativaDeChipinque_18741]]*
+
 ### Mentioned In
 - [[InvitationLetterToDrWLMinckley_1985_07_08]]
 - [[NotropisMedialunae_17532]]
 - [[CyprinidFishesOfTheSubgenusCyp_16292]]
+- [[SpeocirolanaGuerraiSpNovCirola_17535]]
+- [[FloraRepresentativaDeChipinque_18741]]
 
 ## Universidad Autónoma Metropolitana
 
@@ -5610,8 +6847,12 @@ The Universidad de Nuevo León is a university in Mexico that holds some of the 
 > This 1968 taxonomic paper describes [[Algansea Monticola]], a new species of small cyprinid fish from the headwaters of the Río Juchipila and Río Colotlán in [[Zacatecas]] and [[Jalisco]], Mexico. The authors, Clyde D. Barbour and Salvador Contreras, collected 630 specimens in eight series during...
 > -- *[[AlganseaMonticolaANewCyprinidF_15574]]*
 
+> This 1971 undergraduate thesis from the [[Universidad de Nuevo León]], Facultad de Ciencias Biológicas, presents a taxonomic and distributional survey of the freshwater fish fauna of the interior basins of the [[Nazas River]], [[Aguanaval River]], Parras (Río San Lorenzo) and [[El Chorro]] in...
+> -- *[[IctiofaunaDelComplejoDeCuencas_17085]]*
+
 ### Mentioned In
 - [[AlganseaMonticolaANewCyprinidF_15574]]
+- [[IctiofaunaDelComplejoDeCuencas_17085]]
 
 ## Universidad De Sonora
 <!-- fm: auto_enriched: true -->
@@ -5623,6 +6864,22 @@ The Universidad de Nuevo León is a university in Mexico that holds some of the 
 ### Mentioned In
 - [[MeetingOnNativeFishConservatio_1994_09_13]]
 
+## Universidad Nacional Autonoma de Mexico
+
+### Summary
+The Universidad Nacional Autonoma de Mexico is a Mexican university whose collection holds the holotype of Notropis aguirrepequenoi (UNAM IB/CML-P434), a 39.7 mm SL male from the Rio Pilon near Mainero, Tamaulipas. It also holds paratypes of the species.
+
+### Context
+> This 1973 taxonomic paper, published in the [[Publicaciones Biologicas]] series of the [[Universidad Autonoma de Nuevo Leon]], describes *[[Notropis Aguirrepequenoi]]* sp. nov., a cyprinid minnow endemic to the [[Rio Soto La Marina]] in [[Tamaulipas]], northeastern Mexico. The species was described...
+> -- *[[NotropisAguirrepequenoiEspecie_17516]]*
+
+> This 1969 catalogue by [[Angel Silva-Barcenas]], published by the [[Instituto De Geologia]] of the [[Universidad Nacional Autonoma De Mexico]] as *Paleontologia Mexicana* No. 28, maps and inventories the known fossil vertebrate localities of [[Mexico]]. It plots 87 localities on a 1:5,000,000 map...
+> -- *[[LocalidadesDeVertebradosFosile_18958]]*
+
+### Mentioned In
+- [[NotropisAguirrepequenoiEspecie_17516]]
+- [[LocalidadesDeVertebradosFosile_18958]]
+
 ## Universidad Nacional Autónoma de México
 
 ### Summary
@@ -5632,8 +6889,12 @@ The National Autonomous University of Mexico (UNAM). According to this 1970 lett
 > This document is a 1970 exchange of letters between American ichthyologist [[Robert R. Miller]] and Mexican botanist [[Arturo Gomez Pompa]] of the [[Universidad Nacional Autónoma de México]] (UNAM). Miller writes to urge protection of two Mexican aquatic sites of high biological value: the [[Cuatro...
 > -- *[[InterestInConservationInLatinA_15353]]*
 
+> This document is the official Mexican standard NOM-059-ECOL-1994, published in the Diario Oficial de la Federación on 16 May 1994 and issued by the Secretaría de Desarrollo Social through the [[Instituto Nacional de Ecología]]. It determines which wild terrestrial and aquatic species and subspecies...
+> -- *[[NormaOficialMexicanaQueDetermi_11400]]*
+
 ### Mentioned In
 - [[InterestInConservationInLatinA_15353]]
+- [[NormaOficialMexicanaQueDetermi_11400]]
 
 ## Universidade Da Florida
 
@@ -5646,6 +6907,18 @@ The University of Florida, where Sethi's 1960 doctoral dissertation was submitte
 
 ### Mentioned In
 - [[OsteologyAndPhylogenyOfOviparo_11369]]
+
+## Universities And Colleges
+
+### Summary
+Universities and colleges are academic institutions that conduct research and train fishery scientists. The paper weighs whether conservation agencies should contract research out to them. It notes that academic settings offer freedom from political pressure, library access, consultants, and the freedom to publish, while agency staff research is adopted more quickly within the agency.
+
+### Context
+> This 1953 paper by [[W. J. K. Harkness]], [[Justin W. Leonard]], and [[Paul R. Needham]] reviews how fishery research was organized, staffed, funded, and communicated in North America at mid-century. It was prepared for a symposium on the organization, popularization, and application of fishery...
+> -- *[[FisheryResearchAtMidcentury_20641]]*
+
+### Mentioned In
+- [[FisheryResearchAtMidcentury_20641]]
 
 ## University Arboretum Center
 
@@ -5865,6 +7138,21 @@ The University of Arizona served as an institutional partner in federally-author
 > This final report, submitted by [[Boyd E. Kynard]] to the [[National Park Service]] in August 1979, closes a three-phase study (1975–78) of the [[Quitobaquito Pupfish]] at [[Organ Pipe Cactus National Monument]], Arizona. It covers water quality, population size and spawning success, pesticide...
 > -- *[[StudyOfQuitobaquitoPupfishpres_12500]]*
 
+> This USDA Forest Service and University of Arizona research report (Research Report 274, Summer 1975) documents **[[Snowmelt Runoff Efficiency]]** for 14 experimental watersheds across Arizona's snow zone. Efficiency is the share of on-site [[Snowpack Water Equivalent]] that leaves the watershed as...
+> -- *[[SnowmeltRunoffEfficiencesOnAri_11784]]*
+
+> W. J. McConnell, associate professor of Wildlife Management and unit leader of the Arizona Cooperative Fishery Unit, evaluates whether a sterile hybrid tilapia from [[Malacca Tilapia Hybrid]] could support a new agricultural enterprise in southern Arizona. The hybrid, produced at the Tropical Fish...
+> -- *[[TilapiaAFishForRanchPonds_12278]]*
+
+> This 1968 study, published in the [[Journal of the Arizona Academy of Science]], examines what controls productivity in seven small fishing impoundments in eastern Arizona. The authors (Kemmerer, Glucksman, Stewart, and McConnell) of the [[Arizona Cooperative Fishery Unit]] measured gross primary...
+> -- *[[SomeProductivityRelationsInSev_17934]]*
+
+> This geomorphic study, produced under the [[Arid Lands Project]] at the [[University of Arizona]], examines how the modern drainage of southeastern Arizona developed, with a focus on the [[Safford Valley]] in Graham County. The writer asks how the [[Gila River]] came to cross the [[Mescal...
+> -- *[[OriginOfTheDrainageOfSoutheast_20114]]*
+
+> This special issue of *Desert Plants* (Vol. 9, Nos. 3–4, 1989), by Robert C. Szaro of the USDA Forest Service, presents a structural classification of riparian forest and scrubland vegetation in Arizona and New Mexico. Based on 152 field sites sampled from 1979 to 1983 across National Forests and...
+> -- *[[RiparianForestAndScrublandComm_15142]]*
+
 ### Mentioned In
 - [[ConfirmationOfReceipt_1986_07_25]]
 - [[LetterRegardingMeetingOfEndang_1993_03_12]]
@@ -5913,6 +7201,11 @@ The University of Arizona served as an institutional partner in federally-author
 - [[ArizonaRiparianInventoryAndMap_13661]]
 - [[DraftAgendaForMeetingOnNovembe_17488]]
 - [[StudyOfQuitobaquitoPupfishpres_12500]]
+- [[SnowmeltRunoffEfficiencesOnAri_11784]]
+- [[TilapiaAFishForRanchPonds_12278]]
+- [[SomeProductivityRelationsInSev_17934]]
+- [[OriginOfTheDrainageOfSoutheast_20114]]
+- [[RiparianForestAndScrublandComm_15142]]
 
 ## University of Arizona Agricultural Experiment Station
 
@@ -5992,6 +7285,18 @@ The source states that the plant collection was made by the University of Arizon
 ### Mentioned In
 - [[AquaticAndSemiaquaticPlantsCol_13527]]
 
+## University of Arizona Laboratory of Paleontology
+
+### Summary
+The institution holding duplicates and casts of the Rancho La Brisca fossil material, catalogued under UALP locality #7627. It is one of the two main repositories for the specimens, the other being the Instituto de Geologia in Mexico City.
+
+### Context
+> This paper (Van Devender, Rea and Smith, 1985) describes a Late Pleistocene (Rancholabrean Land Mammal Age, Sangamon Interglacial) vertebrate fauna of 51 taxa from a sedimentary deposit at [[Rancho La Brisca]] in north-central [[Sonora]], Mexico. The fauna was preserved in a marshy [[Ciénega]]...
+> -- *[[TheSangamonInterglacialVertebr_13101]]*
+
+### Mentioned In
+- [[TheSangamonInterglacialVertebr_13101]]
+
 ## University Of Arizona Press
 <!-- fm: auto_enriched: true -->
 
@@ -6008,11 +7313,39 @@ The source states that the plant collection was made by the University of Arizon
 > This is a 1989 letter from the [[Desert Fishes Council]], signed by its Executive Secretary, E. P. Pister, to Ms. Barbara Beaty of the [[University of Arizona Press]]. The Council offers a financial commitment toward publication of the book *Battle Against Extinction: Native Fish Management in the...
 > -- *[[LetterToBarbaraBeatyTaxexemptD_11136]]*
 
+> This 1992 newspaper outdoor column, written by Outdoor Editor Barry Burkhart for the [[Arizona Republic]] (Sunday, March 1, 1992), profiles efforts to re-establish populations of endangered native fish in the arid lands west of the Mississippi. It centres on [[W.L. Minckley]] of [[Arizona State...
+> -- *[[PlaguedByImportedSpecies_13924]]*
+
 ### Mentioned In
 - [[FundraisingLetterForBattleAgai_1989_11_30]]
 - [[UpdatesFromEpPister_12831]]
 - [[ManuscriptAppraisalForWlMinckl_11437]]
 - [[LetterToBarbaraBeatyTaxexemptD_11136]]
+- [[PlaguedByImportedSpecies_13924]]
+
+## University of Arkansas
+
+### Summary
+The University of Arkansas is the institution whose Department of Zoology is credited for David Causey, author of this 1960 article on freshwater Argulus. The source places Causey's work there and cites Arkansas localities such as Lake Hamilton, the Ouachita River, the White River and Reelfoot Lake in his distribution records.
+
+### Context
+> This is a 1960 issue of the [[Turtox News]] (Vol. 38, No. 2). Its main scientific content is a taxonomic article by [[David Causey]] of the [[University of Arkansas]] Department of Zoology, titled "Creepin, blastit wonner'" or On the Misidentification of Common Argulus of Freshwater Fish. The...
+> -- *[[CreepinBlastitWonnerOrOnTheMis_16058]]*
+
+### Mentioned In
+- [[CreepinBlastitWonnerOrOnTheMis_16058]]
+
+## University Of Auckland
+
+### Summary
+A New Zealand university where the author of this review, J. H. Choat, was based. The source names it only as the author's affiliation and does not discuss its work further.
+
+### Context
+> This review, by J. H. Choat of the [[University Of Auckland]], evaluates whether feeding by temperate-water fishes significantly shapes the structure of shallow benthic communities. Fish predation is compared with the well-studied effects of invertebrate predators. The author concludes that...
+> -- *[[FishFeedingAndTheStructureOfBe_16143]]*
+
+### Mentioned In
+- [[FishFeedingAndTheStructureOfBe_16143]]
 
 ## University of Baja California Museum
 
@@ -6025,6 +7358,18 @@ The University of Baja California Museum is where Anita Williams works and from 
 
 ### Mentioned In
 - [[SummaryOfEvents_18368]]
+
+## University of Birmingham
+
+### Summary
+The University of Birmingham, UK, is where the laboratory work in this source was carried out. Author K. A. Bisset is associated with the institution, and the experiments on frog immunisation were conducted there.
+
+### Context
+> K. A. Bisset of the [[University of Birmingham]] reports laboratory experiments on how temperature controls antibody production in cold-blooded vertebrates. The work used [[Common Frog]] (*Rana temporaria*) immunised with a killed suspension of [[Pseudomonas Fluorescens]]. The central finding is...
+> -- *[[TheEffectOfTemperatureUponAnti_17652]]*
+
+### Mentioned In
+- [[TheEffectOfTemperatureUponAnti_17652]]
 
 ## University of California
 
@@ -6044,11 +7389,23 @@ The University of California is a public university system in California. This s
 > This is a 1990 letter from [[Clarence A. Hall Jr.]], Director of the [[White Mountain Research Station]] (a [[University Of California]] facility), to past station users. It announces the station's fortieth-anniversary symposium, "The History of Water: Eastern Sierra, Owens Valley-White-Inyo...
 > -- *[[WhiteMountainResearchStationCo_12193]]*
 
+> This 1963 institutional profile, published in the *American Zoologist*, describes the [[Scripps Institution of Oceanography]] at the [[University of California]] in La Jolla, California. The document covers the institution's history, organization, research programs, facilities and regional fauna....
+> -- *[[FieldStationsOfTheUnitedStates_14168]]*
+
+> This 1953 paper by [[W. J. K. Harkness]], [[Justin W. Leonard]], and [[Paul R. Needham]] reviews how fishery research was organized, staffed, funded, and communicated in North America at mid-century. It was prepared for a symposium on the organization, popularization, and application of fishery...
+> -- *[[FisheryResearchAtMidcentury_20641]]*
+
+> This invited editorial by [[Edwin P. Pister]], a retired state agency fishery biologist, argues that species and habitat endangerment has reached a point where complacency is unacceptable. The author calls for [[Scholarship of Application]] to receive at least equal consideration with [[Scholarship...
+> -- *[[ProfessionalObligationsInTheCo_18599]]*
+
 ### Mentioned In
 - [[RefugiaInNevadaForCertainRareA_14193]]
 - [[FishAndWildlifeServiceNoticeOf_11728]]
 - [[PopulationGeneticsOfEndangered_15456]]
 - [[WhiteMountainResearchStationCo_12193]]
+- [[FieldStationsOfTheUnitedStates_14168]]
+- [[FisheryResearchAtMidcentury_20641]]
+- [[ProfessionalObligationsInTheCo_18599]]
 
 ## University of California Archaeological Research Facility
 
@@ -6073,6 +7430,18 @@ University of California at Davis was one of two alternative facilities that Dr.
 
 ### Mentioned In
 - [[DraftMinutesOfTheOctoberRecove_13868]]
+
+## University of California at Los Angeles
+
+### Summary
+The University of California at Los Angeles is one of the institutional collections Hubbs examined when preparing this revision of eastern Pacific Labrisomus. Its specimens contributed to the morphological and distributional data reported in the paper.
+
+### Context
+> This 1953 taxonomic revision by Clark Hubbs (University of Texas), reprinted from *Zoologica* (New York Zoological Society, Vol. 38, Part 3), refines the eastern Pacific species of the [[Labrisomus]] genus of [[Clinidae]] blennies. Hubbs recognizes eight species, grouped into three subgenera:...
+> -- *[[RevisionOfTheEasternPacificFis_14200]]*
+
+### Mentioned In
+- [[RevisionOfTheEasternPacificFis_14200]]
 
 ## University of California Davis
 
@@ -6101,10 +7470,14 @@ The University of California Los Angeles (UCLA) is a research institution where 
 > This document is a 1983 cover letter and six purchase order sheets from [[Don Buth]], Assistant Professor in the Department of Biology at the [[University of California Los Angeles]], to [[William L. Minckley]] at [[Arizona State University]]. It concerns chemical and starch orders for a planned...
 > -- *[[OrderSheetsForChemicals_14130]]*
 
+> This paper, published in [[Los Angeles County Museum]] *Contributions in Science* No. 74 (December 30, 1963) by Wayne J. Baldwin, describes **Holacanthus limbaughi**, a new species of chaetodontid fish (subfamily [[Pomacanthinae]]) from [[Clipperton Island]] in the [[Eastern Pacific]]. The species...
+> -- *[[ANewChaetodontFishHolocanthusL_17291]]*
+
 ### Mentioned In
 - [[FutureGilaWork_11987]]
 - [[AllozymeDivergenceAmongPopulat_14119]]
 - [[OrderSheetsForChemicals_14130]]
+- [[ANewChaetodontFishHolocanthusL_17291]]
 
 ## University of California Riverside
 
@@ -6148,9 +7521,37 @@ The University of California, Los Angeles (UCLA) was the institutional affiliati
 > This 1953 reprint from *California Fish and Game* (Vol. 39, No. 1) by [[Carl L. Hubbs]] of the [[Scripps Institution of Oceanography]] reports the first capture of the [[Spotted Sleeper]] (*Eleotris picta*, family [[Eleotridae]]) in California. A non-breeding adult male was caught on April 16,...
 > -- *[[EleotrisPictaAddedToTheFishFau_20054]]*
 
+> This *Denver Post* outdoors article (dated January 26; the year is not stated, but it references events through March 1992) reports a dispute between the [[Colorado Division Of Wildlife]] (DOW) and the [[U.S. Fish And Wildlife Service]] (USFWS) over stocking non-native game fish on the Western...
+> -- *[[StockExchangesStateFederalOffi_20494]]*
+
 ### Mentioned In
 - [[FishRemainsFromArchaeologicalS_18761]]
 - [[EleotrisPictaAddedToTheFishFau_20054]]
+- [[StockExchangesStateFederalOffi_20494]]
+
+## University of Cambridge
+
+### Summary
+The university where Watson moved to work on crystallography after leaving Copenhagen. The essay refers to it as a key setting for his career.
+
+### Context
+> This is a reflective essay by [[James Watson]], adapted from a talk given on March 2, 1993, at [[Cold Spring Harbor Laboratory]]. The talk honored the 40th anniversary of the [[Watson-Crick Model|Watson/Crick discovery of the DNA double helix]]. It is a career-advice piece, published in the...
+> -- *[[SucceedingInScienceSomeRulesOf_14939]]*
+
+### Mentioned In
+- [[SucceedingInScienceSomeRulesOf_14939]]
+
+## University of Canterbury
+
+### Summary
+The Christchurch, New Zealand university where the author, W. C. Clark, was based when writing this 1975 theoretical essay on polymorphism. The note cites it only as the author's affiliation.
+
+### Context
+> This 1975 theoretical essay by W. C. Clark, of the [[University of Canterbury]] in Christchurch, New Zealand, argues that [[Polymorphism]] is a useful broad term for any discontinuous variation affecting the same developmental stages within a population, regardless of cause. The author proposes two...
+> -- *[[TheEnvironmentAndTheGenotypeIn_15915]]*
+
+### Mentioned In
+- [[TheEnvironmentAndTheGenotypeIn_15915]]
 
 ## University Of Chicago
 <!-- fm: auto_enriched: true -->
@@ -6159,8 +7560,12 @@ The University of California, Los Angeles (UCLA) was the institutional affiliati
 > - The document announces the appointment of **Dr. H. Ronald Pulliam** (age 48, native of Miami Beach, Florida) as Director of the **National Biological Survey (NBS)**, a new agency under the [[U.S. Department of the Interior]], effective May 2, 1994. - Secretary of the Interior **Bruce Babbitt** ...
 > -- *[[UniversityOfGeorgiaProfessorTa_1994_05_02]]*
 
+> This is a reflective essay by [[James Watson]], adapted from a talk given on March 2, 1993, at [[Cold Spring Harbor Laboratory]]. The talk honored the 40th anniversary of the [[Watson-Crick Model|Watson/Crick discovery of the DNA double helix]]. It is a career-advice piece, published in the...
+> -- *[[SucceedingInScienceSomeRulesOf_14939]]*
+
 ### Mentioned In
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
+- [[SucceedingInScienceSomeRulesOf_14939]]
 
 ## University of Colorado
 
@@ -6199,8 +7604,12 @@ The University of Florida's Department of Coastal and Oceanographic Engineering 
 > This document is official correspondence from the [[National Park Service]] (NPS) dated March 24, 1989, addressed to Dr. John C. Gordon, Dean of the [[Yale School of Forestry and Environmental Studies]], regarding the establishment of a Commission on Research and Resource Management Policy in the...
 > -- *[[NationalParksAndConservationAs_15435]]*
 
+> This methods study, from the [[University of Florida]], evaluates anesthetics and surgical techniques for implanting [[Radio Telemetry]] transmitters into the body cavity of grass carp (*Ctenopharyngodon idella*) weighing 1.6–3.7 kg. The work supports a larger project using [[Grass Carp]] for...
+> -- *[[AnesthesiaAndSurgicalProcedure_20601]]*
+
 ### Mentioned In
 - [[NationalParksAndConservationAs_15435]]
+- [[AnesthesiaAndSurgicalProcedure_20601]]
 
 ## University Of Georgia
 <!-- fm: auto_enriched: true -->
@@ -6260,8 +7669,24 @@ The university campus in Champaign County, which the source lists among the urba
 > This Illinois Natural History Survey bulletin (March 1963, Vol. 28, Art. 2) by R. Weldon Larimore and Philip W. Smith compares three fish surveys of [[Champaign County]], Illinois, made in 1899 ([[Forbes and Richardson Survey]]), 1928 ([[Thompson and Hunt Survey]]), and 1959 ([[Larimore and Smith...
 > -- *[[TheFishesOfChampaignCountyIlli_12724]]*
 
+> This 1956 study from the [[Illinois Academy of Science]] reports observations on the life histories of several aquatic dipteran (midge and phantom midge) larvae collected from five shallow lakes on the leveed floodplain of the Mississippi River near Quincy, Illinois. Dredge samples were taken at...
+> -- *[[LimnologyOfTheMiddleMississipp_19064]]*
+
 ### Mentioned In
 - [[TheFishesOfChampaignCountyIlli_12724]]
+- [[LimnologyOfTheMiddleMississipp_19064]]
+
+## University of Illinois Ecology
+
+### Summary
+University of Illinois Ecology is the second American ecological school the paper covers in its survey of the field's development. The source names it as part of the chronological account and does not give details beyond that.
+
+### Context
+> This occasional paper by [[Richard Brewer]] (Department of Biology, [[Western Michigan University]]) is the first part of a chronological survey of the development of [[Ecology]] from antiquity to 1919. It was published on November 22, 1960, as Number 1 of the *Occasional Papers of the [[C. C....
+> -- *[[ABriefHistoryOfEcologyPartIPre_12931]]*
+
+### Mentioned In
+- [[ABriefHistoryOfEcologyPartIPre_12931]]
 
 ## University Of Kansas
 <!-- fm: auto_enriched: true -->
@@ -6270,8 +7695,12 @@ The university campus in Champaign County, which the source lists among the urba
 > This 1957–1958 progress report, authored by James E. Deacon in cooperation with the [[Kansas Forestry, Fish, and Game Commission]] and the [[University of Kansas]], documents the recovery of fish populations in eastern Kansas prairie streams following a severe four-year drought (1952–1956). Six p...
 > -- *[[SurveyOfFishPopulationsInStrea_13990]]*
 
+> This document is a two-part note from the *Transactions of the Kansas Academy of Science* (Vol. 57, No. 4, 1954). The first and main part, by Frank B. Cross of the [[University Of Kansas]], reports new distributional records for ten fish species that had seldom or never been reported from Kansas....
+> -- *[[RecordsOfFishesLittleknownFrom_18030]]*
+
 ### Mentioned In
 - [[SurveyOfFishPopulationsInStrea_13990]]
+- [[RecordsOfFishesLittleknownFrom_18030]]
 
 ## University Of Kansas Museum Of Natural History
 
@@ -6288,10 +7717,90 @@ The institution whose field party collected the 14 Trionyx specimens in Septembe
 > This report assesses the status of fishes in the [[Arkansas River]] and the streams south of its mainstream in southwestern Kansas, including the [[Cimarron River]]. Fieldwork on 16–23 July 1983 visited 35 sites; 23 had water and 12 were dry. Combined with historical collections (1853 to present),...
 > -- *[[AssessmentOfDewateringImpactsO_18043]]*
 
+> This document combines two items from the *Transactions of the Kansas Academy of Science* (Vol. 63, No. 1, 1960). The first, by [[W L Minckley]] and [[Frank B Cross]], re-examines the taxonomic status of the [[Shorthead Redhorse]] ([[Moxostoma Aureolum]]) in the [[Kansas River Basin]]. The authors...
+> -- *[[TaxonomicStatusOfTheShortheadR_15867]]*
+
+> This short faunal note reports new Kansas occurrences of four fish species whose state records were scarce or poorly documented: [[Notropis Illecebrosus]] (silverstripe shiner), [[Notropis Dorsalis]] (bigmouth shiner), [[Noturus Gyrinus]] (tadpole madtom), and [[Etheostoma Stigmaeum]] (speckled...
+> -- *[[NewRecordsOfFourFishesFromKans_18037]]*
+
+> John M. Legler ([[University of Kansas Museum of Natural History]], 1959) describes a previously unrecognized tortoise, *Gopherus flavomarginatus*, from north-central Mexico. The species is based on a [[Holotype]] and five [[Paratype]] specimens, mostly from [[Lerdo]], Durango, with additional...
+> -- *[[ANewTortoiseGenusGopherusFromN_20314]]*
+
+> John M. Legler describes a previously unrecognized subspecies of slider turtle, [[Pseudemys Scripta Taylori]] new subspecies, from the basin of [[Cuatro Ciénegas Basin]], [[Coahuila]], Mexico. The turtles were collected in September 1958 from small ponds and the [[Rio Chiquito]]. The subspecies is...
+> -- *[[ANewSubspeciesOfSliderTurtlePs_20232]]*
+
+> This 1971 study by [[Fleet and Dixon]] (*Herpetologica* 27:295–302) examines geographic variation in the long-tailed group of the [[Glossy Snake]] (*Arizona elegans*). The authors analyze ventral scale counts, caudal scale counts, and dorsal body blotch counts across four north-south geographic...
+> -- *[[GeographicVariationWithinTheLo_16460]]*
+
+> This 1953 study by Charles C. Burner and Claude Leist, published in the *Transactions of the Kansas Academy of Science*, is the first phase of a research program on improving fish production in [[Strip-Mine Lake]]s of Southeastern Kansas. It describes the [[College Farm Strip-Mine Lake]] near...
+> -- *[[ALimnologicalStudyOfTheCollege_14036]]*
+
+> This short systematic note by [[Robert G Webb]] reports on amphibians and reptiles from northern Mexico that are notable for taxonomic or distributional reasons. It documents range extensions and first state or country records, rectifies a published misidentification of a [[Pituophis Deppei]]...
+> -- *[[NotesOnSomeAmphibiansAndReptil_19647]]*
+
+> This is a 1959 University of Kansas Publications, Museum of Natural History report (Volume 11, No. 8, pp. 443–516) by Emil K. Urban. It is a systematic summary of the birds of [[Coahuila]], a northern Mexican state, based primarily on about 500 specimens held in the [[University of Kansas Museum of...
+> -- *[[BirdsFromCoahuilaMexico_11449]]*
+
+> This Occasional Paper from the [[University Of Kansas Museum Of Natural History]] describes the life history of the [[Freckled Madtom]] ([[Noturus Nocturnus]]) in [[Mill Creek]], a small tributary of the [[Cache River]] in [[Pulaski County]], [[Illinois]]. Authors [[Brooks M. Burr]] and [[Richard...
+> -- *[[LifeHistoryOfTheFreckledMadtom_14065]]*
+
+> This 1962 study by [[Claude E. Hastings]] and [[Frank B. Cross]], published by the [[University of Kansas Museum of Natural History]], surveys the [[Farm Ponds]] of [[Douglas County Kansas]] and assesses their potential for fish production. It combines three data sources: [[Aerial Photography]] of...
+> -- *[[FarmPondsInDouglasCountyKansas_20705]]*
+
+> This taxonomic revision from the [[University of Kansas Museum of Natural History]] (Occasional Papers No. 104, 1983) by Taylor and Miller clarifies the status of the cichlid genus *Cichlasoma* in the [[Rio Panuco Basin]], the second largest Atlantic-slope drainage of Mexico. The authors resolve...
+> -- *[[CichlidFishesGenusCichlasomaOf_13505]]*
+
+> This 1952 [[Kansas University Science Bulletin]] paper by A. Byron Leonard and C. Raymond Goble is the first in a planned series cataloguing the invertebrate and vertebrate fauna of the [[University of Kansas Natural History Reservation]]. The authors surveyed the land snails and freshwater...
+> -- *[[MolluscaOfTheUniversityOfKansa_20277]]*
+
+> This 1959 survey by W. L. Minckley, published by the [[University Of Kansas Museum Of Natural History]], documents the fish fauna and angling success of the [[Big Blue River]] Basin in northeastern Kansas. The work was done from March 30, 1957, to August 9, 1958, before the [[Tuttle Creek Dam]]...
+> -- *[[FishesOfTheBigBlueRiverBasinKa_18551]]*
+
+> This 1961 study by James Everett Deacon, published by the [[University of Kansas Museum of Natural History]], documents how fish populations in the [[Neosho River]] and [[Marais des Cygnes River]] in Kansas recovered after the severe drought of the early-to-mid 1950s. Sampling from 1957 through...
+> -- *[[FishPopulationsFollowingADroug_13991]]*
+
 ### Mentioned In
 - [[ANewSoftshellTurtleGenusTriony_19646]]
 - [[SpeciationAndDistributionOfThe_12069]]
 - [[AssessmentOfDewateringImpactsO_18043]]
+- [[TaxonomicStatusOfTheShortheadR_15867]]
+- [[NewRecordsOfFourFishesFromKans_18037]]
+- [[ANewTortoiseGenusGopherusFromN_20314]]
+- [[ANewSubspeciesOfSliderTurtlePs_20232]]
+- [[GeographicVariationWithinTheLo_16460]]
+- [[ALimnologicalStudyOfTheCollege_14036]]
+- [[NotesOnSomeAmphibiansAndReptil_19647]]
+- [[BirdsFromCoahuilaMexico_11449]]
+- [[LifeHistoryOfTheFreckledMadtom_14065]]
+- [[FarmPondsInDouglasCountyKansas_20705]]
+- [[CichlidFishesGenusCichlasomaOf_13505]]
+- [[MolluscaOfTheUniversityOfKansa_20277]]
+- [[FishesOfTheBigBlueRiverBasinKa_18551]]
+- [[FishPopulationsFollowingADroug_13991]]
+
+## University Of Kansas Natural History Museum
+
+### Summary
+The University of Kansas Natural History Museum is where the specimens for Cross's Kansas records are deposited. Records based on a few specimens are listed with University of Kansas (KU) catalogue numbers, which correspond to these holdings.
+
+### Context
+> This document is a two-part note from the *Transactions of the Kansas Academy of Science* (Vol. 57, No. 4, 1954). The first and main part, by Frank B. Cross of the [[University Of Kansas]], reports new distributional records for ten fish species that had seldom or never been reported from Kansas....
+> -- *[[RecordsOfFishesLittleknownFrom_18030]]*
+
+### Mentioned In
+- [[RecordsOfFishesLittleknownFrom_18030]]
+
+## University of Kansas Natural History Reservation
+
+### Summary
+A roughly one-square-mile area of wooded, hilly land in Douglas County, Kansas, formerly grazed and cultivated and then allowed to revert to natural conditions after 1948. This paper surveyed its land and freshwater mollusks at ten collecting stations (A–J) from 1948 to 1949, recording 25 molluscan taxa.
+
+### Context
+> This 1952 [[Kansas University Science Bulletin]] paper by A. Byron Leonard and C. Raymond Goble is the first in a planned series cataloguing the invertebrate and vertebrate fauna of the [[University of Kansas Natural History Reservation]]. The authors surveyed the land snails and freshwater...
+> -- *[[MolluscaOfTheUniversityOfKansa_20277]]*
+
+### Mentioned In
+- [[MolluscaOfTheUniversityOfKansa_20277]]
 
 ## University Of Kansas Science Bulletin
 
@@ -6342,8 +7851,20 @@ The University of Maryland's Laboratory for Coastal Research was represented on 
 > This document is official correspondence from the [[National Park Service]] (NPS) dated March 24, 1989, addressed to Dr. John C. Gordon, Dean of the [[Yale School of Forestry and Environmental Studies]], regarding the establishment of a Commission on Research and Resource Management Policy in the...
 > -- *[[NationalParksAndConservationAs_15435]]*
 
+> This 1970 conference paper, presented at the Tenth Biennial Veterinary Conference and Annual Conference of the Wildlife Disease Association, by J.A. Mihursky, A.J. McErlean and V.S. Kennedy of the [[University of Maryland]] Natural Resources Institute and [[Chesapeake Biological Laboratory]],...
+> -- *[[ThermalPollutionAquacultureAnd_15270]]*
+
+> This 1967 popular article by [[Frank J Schwartz]] of the [[University of Maryland]] [[Chesapeake Biological Laboratory]], published in the [[Maryland Conservationist]], surveys the trout and salmon of Maryland. It reports one native trout, three introduced trout, and one native salmon. Historical...
+> -- *[[MarylandsTroutAndSalmon_11292]]*
+
+> This laboratory study tested whether [[Strobe Light]] combined with an [[Air-Bubble Barrier]] can exclude fish at power-plant intakes. Freshwater species ([[Alewife]], [[Rainbow Smelt]], [[Gizzard Shad]]) and estuarine species ([[White Perch]], [[Spot]], [[Atlantic Menhaden]]) were tested under...
+> -- *[[ResponsesOfFishToAStrobeLightA_18450]]*
+
 ### Mentioned In
 - [[NationalParksAndConservationAs_15435]]
+- [[ThermalPollutionAquacultureAnd_15270]]
+- [[MarylandsTroutAndSalmon_11292]]
+- [[ResponsesOfFishToAStrobeLightA_18450]]
 
 ## University Of Maryland Appalachian Environmental Laboratory
 <!-- fm: auto_enriched: true -->
@@ -6352,8 +7873,12 @@ The University of Maryland's Laboratory for Coastal Research was represented on 
 > - Three species — **[[Fourspine Stickleback]]**, **[[Brook Stickleback]]**, and **[[Bluespotted Sunfish]]** — are formally added to the known ichthyofauna of the [[Susquehanna River Drainage]] in Pennsylvania. - **Brook Stickleback** is reported for the first time from the Pennsylvania Susquehann...
 > -- *[[AdditionsToThePennsylvaniaIcht_1975_10_28]]*
 
+> This preliminary checklist, published in the [[Natural History Miscellanea]] series by the Chicago Academy of Sciences, updates the known fish fauna of the [[Youghiogheny River]], a major tributary of the [[Monongahela River]]. The drainage now holds **82 known species**: 59 native, 20 introduced...
+> -- *[[APreliminaryChecklistOfTheFish_16631]]*
+
 ### Mentioned In
 - [[AdditionsToThePennsylvaniaIcht_1975_10_28]]
+- [[APreliminaryChecklistOfTheFish_16631]]
 
 ## University of Miami
 
@@ -6364,8 +7889,12 @@ The University of Miami contributed taxonomic expertise to the Great Smoky Mount
 > This document presents a comprehensive inventory of 72 fish species documented in [[Great Smoky Mountains National Park]] as of November 1960, compiled by Robert E. Lennon of the [[Bureau of Sport Fisheries and Wildlife]]. The list represents a revision of earlier surveys, incorporating collections...
 > -- *[[FishesOfGreatSmokyMountainsNat_20242]]*
 
+> This 1952 article from the *Turtox News* (General Biological Supply House, Chicago) describes the first use of [[Rotenone]] for scientific fish collection in [[Puerto Rico]]. The author, Virgilio Biaggi Jr. of the [[University of Puerto Rico]] (Mayagüez), reports that the method was applied during...
+> -- *[[RotenoneUsedForTheFirstTimeFor_18240]]*
+
 ### Mentioned In
 - [[FishesOfGreatSmokyMountainsNat_20242]]
+- [[RotenoneUsedForTheFirstTimeFor_18240]]
 
 ## University of Miami Marine Science Institute
 
@@ -6378,6 +7907,18 @@ An institution holding paratype specimens of Citharichthys abbotti, according to
 
 ### Mentioned In
 - [[CitharichthysAbbottiANewFlatfi_13988]]
+
+## University of Miami Team
+
+### Summary
+One of two independent research groups that recommended installing a biological barrier before any sea-level canal opens. Proposed barriers discussed include bubble curtains, ultrasonic screens, and heated or fresh water.
+
+### Context
+> This chapter argues that [[Applied Biogeography]] should be guided by an "ethic of organic diversity": humans should add as little as possible to the global rate of species extinction, and lower it where possible. The authors stress how poorly known the living world is, and they warn against...
+> -- *[[AppliedBiogeography_12093]]*
+
+### Mentioned In
+- [[AppliedBiogeography_12093]]
 
 ## University of Michigan
 <!-- fm: auto_enriched: true -->
@@ -6419,6 +7960,18 @@ The University of Michigan has been a significant institutional contributor to i
 > This document comprises professional correspondence dated October 16, 1992, from Thomas R. Jones at the [[University of Michigan]] Museum of Zoology to Dr. W.L. Minckley at [[Arizona State University]], along with Jones's curriculum vitae. The letter requests letters of recommendation for job...
 > -- *[[LetterRequestingLetterOfRecomm_19844]]*
 
+> This early article by [[Carl L Hubbs]], written for *American Forests*, argues that trout fishing in Michigan can be increased by improving stream habitat, not only by introducing trout, protecting them, and stocking hatcheries. The author sets out four means of improving trout waters: introduction...
+> -- *[[TheImprovementOfTroutStreams_19958]]*
+
+> This chapter reports a 42-year mark-recapture study (1953–1994) of the turtle community on the [[E. S. George Reserve]] (ESGR), a protected research site in southeastern Michigan. Three common species, [[Midland Painted Turtle]], [[Blanding's Turtle]], and [[Common Snapping Turtle]], make up over...
+> -- *[[StructureAndDynamicsOfATurtleC_17474]]*
+
+> This 1966 essay by [[Enrique Beltran]], published by the [[Instituto Mexicano de Recursos Naturales Renovables]] (IMRNR), is the closing chapter of the institute's 1965 round-table series on the contribution of various professions to the conservation of renewable natural resources. The author...
+> -- *[[ElCaracterInterdisciplinarioDe_18152]]*
+
+> This document is a preliminary conservation inventory of rare, restricted, and threatened North American freshwater fishes, compiled by [[Robert Rush Miller]] of the [[Museum of Zoology]], [[University of Michigan]]. It covers roughly 65 taxon entries, arranged alphabetically by U.S. state, with...
+> -- *[[ReviewPrinciplesOfPaleoecology_15343]]*
+
 ### Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -6435,6 +7988,62 @@ The University of Michigan has been a significant institutional contributor to i
 - [[ReportOnYaquiCatfishReceived_15380]]
 - [[FishesOfGreatSmokyMountainsNat_20242]]
 - [[LetterRequestingLetterOfRecomm_19844]]
+- [[TheImprovementOfTroutStreams_19958]]
+- [[StructureAndDynamicsOfATurtleC_17474]]
+- [[ElCaracterInterdisciplinarioDe_18152]]
+- [[ReviewPrinciplesOfPaleoecology_15343]]
+
+## University of Michigan Biological Station
+
+### Summary
+A research station that sponsored the Weber Lake study alongside the Institute for Fisheries Research. The source credits it as a sponsor of the fieldwork.
+
+### Context
+> This paper by [[Frank F. Hooper]] (Institute for Fisheries Research, Michigan Department of Conservation) reports the physical, chemical and biological features of [[Weber Lake]], a small, 31-acre seepage lake in southwestern [[Cheboygan County]], Michigan. Surveys in 1950, 1951 and 1952 found two...
+> -- *[[LimnologicalFeaturesOfWebersLa_19908]]*
+
+### Mentioned In
+- [[LimnologicalFeaturesOfWebersLa_19908]]
+
+## University of Michigan Forestry Tract
+
+### Summary
+The tract is the land containing Third Sister Lake, near a caretaker's lodge. The lake sat within it and was closed to fishing, so the authors considered poaching losses unlikely.
+
+### Context
+> This report, by Robert C. Baur and W. L. Minckley of the [[Michigan Institute for Fisheries Research]], describes a mark-recapture study in [[Third Sister Lake]], a 10-acre lake in Michigan. The original goal was to estimate the fish population from tag returns. That estimate could not be...
+> -- *[[ATaggingExperimentOnTheFishPop_17297]]*
+
+### Mentioned In
+- [[ATaggingExperimentOnTheFishPop_17297]]
+
+## University Of Michigan Great Lakes Research Division
+
+### Summary
+The 1961 report comes from this division, which the executive summary names as the source of the work. The document describes the division's shipboard boom for measuring temperature, humidity and wind profiles over the lakes. The source gives no further details about the division.
+
+### Context
+> This 1961 preliminary report from the [[University Of Michigan Great Lakes Research Division]] describes a new shipboard meteorological boom on the research vessel [[Porte Dauphine]] for measuring vertical profiles of temperature, humidity and wind in the lowest atmosphere over the lakes. The...
+> -- *[[PhysicalLimnologyAndMeteorolog_13839]]*
+
+### Mentioned In
+- [[PhysicalLimnologyAndMeteorolog_13839]]
+
+## University of Michigan Museum of Paleontology
+
+### Summary
+A museum whose collections provided fossil fish material for this 1945 study. The source lists it among the three institutions that supplied specimens.
+
+### Context
+> This note covers a 1945 paper by [[Robert R. Miller]] in the *Journal of the Washington Academy of Sciences* (vol. 35, no. 10) describing four new fossil cyprinodont species from desert deposits of eastern California. Three are [[Fundulus]] species and one is a [[Cyprinodon]]. The fossils were...
+> -- *[[PaleontologyfourNewSpeciesOfFo_15311]]*
+
+> This 1961 bulletin note by [[Carl L. Hubbs]] and [[Robert R. Miller]] re-examines silicified microfossils from [[Calico Mountains Nodules]] that [[W. Dwight Pierce]] had reported as Miocene fish eggs and an embryo. After review by several specialists, the authors conclude that the specimens are...
+> -- *[[SupposedMioceneFishEggsAndEmbr_14442]]*
+
+### Mentioned In
+- [[PaleontologyfourNewSpeciesOfFo_15311]]
+- [[SupposedMioceneFishEggsAndEmbr_14442]]
 
 ## University of Michigan Museum of Zoology
 <!-- fm: auto_enriched: true -->
@@ -6503,6 +8112,78 @@ The University of Michigan Museum of Zoology is a major institutional repository
 > This 1968 taxonomic paper describes [[Algansea Monticola]], a new species of small cyprinid fish from the headwaters of the Río Juchipila and Río Colotlán in [[Zacatecas]] and [[Jalisco]], Mexico. The authors, Clyde D. Barbour and Salvador Contreras, collected 630 specimens in eight series during...
 > -- *[[AlganseaMonticolaANewCyprinidF_15574]]*
 
+> This paper, reprinted from the *Transactions of the American Fisheries Society* (Vol. 101, No. 2, April 1972, pp. 239–252) and written by [[Robert Rush Miller]] of the [[University of Michigan Museum of Zoology]], is the first compilation of threatened native freshwater fishes for the United...
+> -- *[[ThreatenedFreshwaterFishesOfTh_15355]]*
+
+> Clark Hubbs (University of Texas, 1954, *Texas Journal of Science* 6(3)) re-evaluates published distributional records for Texas freshwater fishes. Much of the earlier literature, largely pre-1900 and perpetuated by [[Fowler 1945]], [[Baughman 1950]] and [[Knapp 1953]], contains misidentifications...
+> -- *[[CorrectedDistributionalRecords_14203]]*
+
+> This is a miscellaneous page from [[Turtox News]], a biological supply house publication, containing a photograph caption, travel and workshop notices, a cover credit, product and slide advertisements, and job openings. Its only substantive aquatic content is a photograph of shark and sawfish...
+> -- *[[SharkAndSawfishFromFreshwaterL_15319]]*
+
+> This 1939 reprint by [[Carl L. Hubbs]] revises the separation and geographic ranges of the two eastern North American blennies then placed in the genus [[Hypsoblennius]]: [[Hypsoblennius Hentz]] and [[Hypsoblennius Ionthas]]. Hubbs argues that the dichotomous key in [[Jordan and Evermann]] (1898)...
+> -- *[[TheCharactersAndDistributionOf_20018]]*
+
+> [[Carl L. Hubbs]] reports a well-preserved semifossil cranium of the [[Freshwater Sheepshead]] (*Aplodinotus grunniens*) found while digging a boat well at [[Burt Lake]], [[Cheboygan County]], Michigan, in summer 1937. The skull was buried in postglacial marl, and the author argues it provides the...
+> -- *[[TheCraniumOfAFreshwaterSheepsh_20020]]*
+
+> This paper describes [[Notropis Hypsilepis]], a new small cyprinid minnow from the [[Apalachicola River System]] of Georgia and Alabama. The species had been overlooked or confused with [[Notropis Xaenocephalus]], which occurs in the upper [[Alabama River System]]. Its name refers to the elevated...
+> -- *[[NotropisHypsilepisANewCyprinid_15055]]*
+
+> Hubbs and Bailey (1952, reprinted from the Papers of the Michigan Academy of Science, Arts and Letters, vol. XXXVII, 1951) re-examine [[Oxygeneum Pulverulentum]], a nominal cyprinid genus and species described by Forbes (1885) from a single specimen taken in the [[Illinois River]] at Peoria in June...
+> -- *[[IdentificationOfOxygeneumPulve_14284]]*
+
+> This 1963 paper in the [[Los Angeles County Museum]] *Contributions in Science* (No. 77) by William A. Bussing describes *Phallichthys tico*, a new live-bearing poeciliid fish from Costa Rica. The species was collected in a swamp near Tilarán (1961) and in the [[Rio Puerto Viejo]] (1962). It is...
+> -- *[[ANewPoeciliidFishPhallichthysT_14106]]*
+
+> This classic morphological study by [[Edward M. Nelson]] (Osborn Zoological Laboratory, Yale University) examines the opercular series, the set of gill-cover bones, of the sucker family [[Catostomidae]]. The work is based on 83 preserved specimens across 15 genera. The author classifies the genera...
+> -- *[[TheOpercularSeriesOfTheCatosto_19626]]*
+
+> This 1976 morphological study by [[Lawrence M. Page]] of the Illinois Natural History Survey examines the enlarged, strongly toothed "modified" scales of [[Percina]] darters. The scales are unique to this genus within the darter tribe Etheostomatini, and their presence or absence helps separate...
+> -- *[[TheModifiedMidventralScalesOfP_18385]]*
+
+> This 1948 monograph from the [[University Of Michigan Museum Of Zoology]] (Laboratory of Vertebrate Biology, Contributions No. 22) by Carl L. Hubbs, Laura C. Hubbs and Raymond E. Johnson documents the first described natural hybrids between species of catostomid fishes ("suckers"), a family of...
+> -- *[[HybridizationInNatureBetweenSp_14308]]*
+
+> This taxonomic paper describes [[Notropis Baileyi]], a new small cyprinid fish from the Pascagoula and Mobile Bay drainages of Mississippi and Alabama. The authors, Royal D. Suttkus ([[Tulane University]]) and Edward C. Raney ([[Cornell University]]), distinguish the species from its closest...
+> -- *[[NotropisBaileyiANewCyprinidFis_15054]]*
+
+> This 1954 taxonomic paper redescribes [[Glaridodon Latidens]], a species named by [[Garman]] in 1895 from four female type specimens labelled "Chihuahua, Mexico," and places it in the live-bearing genus [[Poeciliopsis]] (family [[Poeciliidae]]). The authors argue the type locality is probably...
+> -- *[[StudiesOfCyprinodontFishesXxiG_14440]]*
+
+> This biographical article, reprinted from *Collection Building in Ichthyology and Herpetology* (1997), profiles [[Carl L. Hubbs]], a 20th-century ichthyologist and complete naturalist whose lasting legacy is the large fish collections he built at the [[University of Michigan Museum of Zoology]] and...
+> -- *[[CarlLHubbsCollectionBuilderExt_15387]]*
+
+> This 1943 paper by [[Carl L. Hubbs]] and [[E. Ross Allen]], published in the *Proceedings of the Florida Academy of Sciences* (Vol. 6, pp. 110–130), provides the first authoritative inventory of the fishes of [[Silver Springs]], a large, clear-water spring system in north-central Florida. The...
+> -- *[[FishesOfSilverSpringsFlorida_14279]]*
+
+> This paper formally describes three previously unnamed shiners of the genus [[Notropis]] from eastern Texas: *Notropis oxyrhynchus* (Sharpnose Shiner), *N. brazosensis* (Brazos Shiner) and *N. potteri* (Chub Shiner). The authors, [[Carl L. Hubbs]] and [[Kelshaw Bonham]], state that the species had...
+> -- *[[NewCyprinidFishesOfTheGenusNot_14294]]*
+
+> This 1971 genetic study by Kallman, published in the [[New York Zoological Society]] journal *Zoologica*, examines how four melanophore (pigment) patterns are inherited in the Montezuma swordtail, *Xiphophorus montezumae cortezi*, a freshwater fish endemic to parts of the [[Rio Panuco]] system in...
+> -- *[[InheritanceOfMelanophorePatter_17872]]*
+
+> This 1971 taxonomic revision by William L. Fink, published in the [[Publications of the Gulf Coast Research Laboratory Museum]], reviews the [[Gambusia Nicaraguensis Species Group]] within the livebearer genus [[Gambusia]]. The group comprises four recognized species: [[Gambusia Nicaraguensis]],...
+> -- *[[ARevisionOfTheGambusiaNicaragu_16382]]*
+
+> This 1962 malacological study by William H. Heard, based on nearly 5000 lots in the [[University of Michigan Museum of Zoology]] collections, reviews the distribution of freshwater sphaeriid clams (fingernail and pill clams) in Michigan. The author recognises 32 species, reduced from 73 species and...
+> -- *[[DistributionOfSphaeriidaePelec_20749]]*
+
+> This compiled document has two parts. The first is a formal description of a new cichlid, [[Theraps Wesseli]] (Honduras Mojarra), from a small mountain drainage on the Caribbean slope of northern Honduras. The species was found by amateur naturalist [[Rusty Wessel]] and is named in his honor. The...
+> -- *[[TherapsWesseliANewSpeciesOfCic_15386]]*
+
+> This revision by [[Clyde D. Barbour]] (Department of Biology, University of Utah) reassesses the freshwater atherinid genus [[Chirostoma]]. The genus is treated as comprising 18 species and six subspecies, excluding *C. compressum*, which is thought to be extinct. Apart from a few populations of...
+> -- *[[TheSystematicsAndEvolutionOfTh_15569]]*
+
+> This survey, conducted in spring and summer 1978 and combined with a review of literature and museum specimens, documents the fish fauna of the [[Rio Yaqui Basin]] in northwestern Mexico and its small United States portion. The drainage, covering about 73,000 km², supports 35 native fish species in...
+> -- *[[FishesOfTheRioYaquiBasinMexico_16633]]*
+
+> Rosen and Bailey (1959) revise two Middle-American poeciliid genera, [[Carlhubbsia]] and [[Phallichthys]], which had previously been grouped with several other genera in the subfamily [[Poeciliopsinae]] on the basis of a shared asymmetrically folded male gonopodium. The authors describe two new...
+> -- *[[MiddleamericanPoeciliidFishesO_21058]]*
+
+> This 1966 *Proceedings of the [[United States National Museum]]* catalog, by [[Bruce B. Collette]] and [[Lewis W. Knapp]], inventories the type specimens of the North American darter tribe [[Etheostomatini]] (genera [[Percina]], [[Ammocrypta]] and [[Etheostoma]]). The authors state that about 212...
+> -- *[[CatalogOfTypeSpecimensOfTheDar_17140]]*
+
 ### Mentioned In
 - [[CorrespondenceBetweenRobertRMi_15382]]
 - [[NewDistributionalRecordsOfIlli_1988]]
@@ -6526,6 +8207,46 @@ The University of Michigan Museum of Zoology is a major institutional repository
 - [[VariousCyprinodonInformationHa_15304]]
 - [[SystematicStudiesInPlecoptera_16861]]
 - [[AlganseaMonticolaANewCyprinidF_15574]]
+- [[ThreatenedFreshwaterFishesOfTh_15355]]
+- [[CorrectedDistributionalRecords_14203]]
+- [[SharkAndSawfishFromFreshwaterL_15319]]
+- [[TheCharactersAndDistributionOf_20018]]
+- [[TheCraniumOfAFreshwaterSheepsh_20020]]
+- [[NotropisHypsilepisANewCyprinid_15055]]
+- [[IdentificationOfOxygeneumPulve_14284]]
+- [[ANewPoeciliidFishPhallichthysT_14106]]
+- [[TheOpercularSeriesOfTheCatosto_19626]]
+- [[TheModifiedMidventralScalesOfP_18385]]
+- [[HybridizationInNatureBetweenSp_14308]]
+- [[NotropisBaileyiANewCyprinidFis_15054]]
+- [[StudiesOfCyprinodontFishesXxiG_14440]]
+- [[CarlLHubbsCollectionBuilderExt_15387]]
+- [[FishesOfSilverSpringsFlorida_14279]]
+- [[NewCyprinidFishesOfTheGenusNot_14294]]
+- [[InheritanceOfMelanophorePatter_17872]]
+- [[ARevisionOfTheGambusiaNicaragu_16382]]
+- [[DistributionOfSphaeriidaePelec_20749]]
+- [[TherapsWesseliANewSpeciesOfCic_15386]]
+- [[TheSystematicsAndEvolutionOfTh_15569]]
+- [[FishesOfTheRioYaquiBasinMexico_16633]]
+- [[MiddleamericanPoeciliidFishesO_21058]]
+- [[CatalogOfTypeSpecimensOfTheDar_17140]]
+
+## University Of Minnesota
+
+### Summary
+The state university whose experts reviewed the 1956 Minnesota fish management policy before it was finalized. The source note names it only as a reviewing body and does not describe any specific findings from the university.
+
+### Context
+> This document is the 1956 "Policy Pertaining to Management of Minnesota Waters for Fish and Fishing," written by James W. Kimball, Director of the [[Division Of Game And Fish]]. It sets out the Department's goals, administrative structure, and species-specific rules for managing the state's lakes...
+> -- *[[TheFishManagementPolicy_12617]]*
+
+> This 1951 study reports a three-year jaw-tag mark-recapture program on [[Walleye]] (*Stizostedion vitreum vitreum*) in the two connected [[Red Lakes]] of northern [[Minnesota]]. The lakes support the [[Red Lake Fishery]], a commercial operation that is a major economic resource for the [[Red Lake...
+> -- *[[MovementsOfMarkedWalleyesStizo_21176]]*
+
+### Mentioned In
+- [[TheFishManagementPolicy_12617]]
+- [[MovementsOfMarkedWalleyesStizo_21176]]
 
 ## University of Missouri
 
@@ -6536,8 +8257,12 @@ The University of Missouri is the institution behind this monograph, which was p
 > The Black River Studies is a seven-part 1953 monograph by [[Missouri Conservation Commission]] and [[University of Missouri]] Wildlife Research Unit biologists. It combines a pre-impoundment survey of a Missouri Ozark stream (Black River, 1947) with post-impoundment monitoring of the same reach...
 > -- *[[TheBlackRiverStudies_18895]]*
 
+> This short methods note, reprinted from *The Progressive Fish-Culturist* (Vol. 30, No. 1, January 1968), describes an external method for sexing [[Bluegill]] ([[Lepomis Macrochirus]]) by examining the [[Urogenital Opening]]. The author, [[Thomas S. McComish]] of the [[Missouri Cooperative Fishery...
+> -- *[[SexualDifferentiationOfBluegil_12268]]*
+
 ### Mentioned In
 - [[TheBlackRiverStudies_18895]]
+- [[SexualDifferentiationOfBluegil_12268]]
 
 ## University Of Natal Mullet Research Programme
 <!-- fm: auto_enriched: true -->
@@ -6589,6 +8314,18 @@ The University of Nevada Biological Museum holds the preserved specimens of Gila
 ### Mentioned In
 - [[ANewSpeciesOfTheGenusGilaFromN_17333]]
 
+## University of Nevada Biology Museum
+
+### Summary
+The university museum, which had few Nevada fish specimens when La Rivers first drafted the key. The source notes that a collection holding nearly every recorded Nevada species had been assembled by 1952 with help from Thomas Trelease and students.
+
+### Context
+> This 1952 paper, published in the Bulletin of the Southern California Academy of Sciences (Vol. 51, Part 3) by [[Ira La Rivers]] of the University of Nevada, Reno, is the fourth revision of a dichotomous key to the fishes of [[Nevada Fishes]]. The key separates the state's native and introduced...
+> -- *[[AKeyToNevadaFishes_12725]]*
+
+### Mentioned In
+- [[AKeyToNevadaFishes_12725]]
+
 ## University Of Nevada Las Vegas
 <!-- fm: auto_enriched: true -->
 
@@ -6623,6 +8360,12 @@ The University of Nevada Las Vegas serves as an important academic institution s
 > This 1975 letter from [[James E. Deacon]], Professor of Biology at the [[University Of Nevada Las Vegas]], replies to [[Clark Hubbs]] of the University of Texas. It supports Hubbs' proposal for a coordinated refugium program for rare Nevada fishes. The letter lists refugia already in development or...
 > -- *[[ReRefugiumIdeaAndSpeciesWhichS_13998]]*
 
+> This 1992 newspaper outdoor column, written by Outdoor Editor Barry Burkhart for the [[Arizona Republic]] (Sunday, March 1, 1992), profiles efforts to re-establish populations of endangered native fish in the arid lands west of the Mississippi. It centres on [[W.L. Minckley]] of [[Arizona State...
+> -- *[[PlaguedByImportedSpecies_13924]]*
+
+> This article by [[James E. Deacon]], a biologist at the [[University Of Nevada Las Vegas]], reviews the status of the desert pupfishes of the [[Death Valley]] region. Several populations are extinct or threatened, mainly because of groundwater pumping and drainage of marshes in [[Ash Meadows]],...
+> -- *[[DevilsHolePupfishVictimOfEnvir_14025]]*
+
 ### Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[RazorbackSuckersInLakeMead_1990_05_07]]
@@ -6634,6 +8377,8 @@ The University of Nevada Las Vegas serves as an important academic institution s
 - [[VirginRiverFishSamplingJanuary_19425]]
 - [[ResearchProposalOutlineEffects_11729]]
 - [[ReRefugiumIdeaAndSpeciesWhichS_13998]]
+- [[PlaguedByImportedSpecies_13924]]
+- [[DevilsHolePupfishVictimOfEnvir_14025]]
 
 ## University of Nevada Reno
 
@@ -6668,6 +8413,18 @@ The University of Nevada System produced this multi-report document for the U.S.
 
 ### Mentioned In
 - [[WoundfinTransferFromDexterNati_1993_11_03]]
+
+## University of Nevada, Reno
+
+### Summary
+A university whose researcher, Dr. Peter Brussard, conducted cui-ui genetics work under contract for the recovery team. The letter identifies this as one of the collaborating institutions.
+
+### Context
+> This letter from the [[Cui-Ui Recovery Team]] Leader Thomas A. Strekal to [[U.S. Fish And Wildlife Service]] Regional Director Marvin Plenert (dated December 7, 1990) summarizes the status of the Draft [[Cui-Ui Recovery Plan]] and the Team's key recommendations. The Team concludes that recovery...
+> -- *[[DraftLetterSummaryOfTheStatusO_14621]]*
+
+### Mentioned In
+- [[DraftLetterSummaryOfTheStatusO_14621]]
 
 ## University of Nevada-Las Vegas
 
@@ -6731,6 +8488,30 @@ The University of New Mexico is the institutional affiliation of Steven P. Plata
 - [[ArchaeofaunaFromLaLomitaPequea_12928]]
 - [[ColoradoWildlifeFederationEtAl_19327]]
 
+## University Of North Carolina Collection
+
+### Summary
+The institutional collection holding the catalogued flounder specimens (for example UNC 3495, UNC 6154) examined in this study.
+
+### Context
+> This paper reports pigment anomalies (ambicoloration), associated structural abnormalities, and one double-tailed specimen in [[Paralichthys Lethostigma]] (southern flounder) and [[Paralichthys Dentatus]] (summer flounder) collected in [[North Carolina Waters]] between 1960 and 1972. The...
+> -- *[[AnomoliesOfTheGenusParalychthy_18651]]*
+
+### Mentioned In
+- [[AnomoliesOfTheGenusParalychthy_18651]]
+
+## University of Notre Dame
+
+### Summary
+A private university in Indiana. In this source, Dr. Erhard M. Winkler of the university, a specialist in Cenozoic ostracodes, supplied the detailed ostracode identifications of the Calico Mountains specimens.
+
+### Context
+> This 1961 bulletin note by [[Carl L. Hubbs]] and [[Robert R. Miller]] re-examines silicified microfossils from [[Calico Mountains Nodules]] that [[W. Dwight Pierce]] had reported as Miocene fish eggs and an embryo. After review by several specialists, the authors conclude that the specimens are...
+> -- *[[SupposedMioceneFishEggsAndEmbr_14442]]*
+
+### Mentioned In
+- [[SupposedMioceneFishEggsAndEmbr_14442]]
+
 ## University of Nuevo Leon
 
 ### Summary
@@ -6757,9 +8538,13 @@ The University of Nuevo Leon is a university in Monterrey, Mexico. This source i
 > - The **Lower Basin Recovery Implementation Scientific Workgroup** comprises a small group of academic ichthyologists (e.g., [[James E. Deacon]], [[Paul Marsh]], [[William Matthews]], [[W.L. Minckley]], [[Dave Propst]]) and agency biologists (e.g., [[Owen T. Gorman]], [[C.O. Minckley]], [[Gordon ...
 > -- *[[RosterLowerBasinRecoveryImplem_21095]]*
 
+> This 1956 paper by [[Mary Smith Sublette]], reprinted from *The Texas Journal of Science* (Vol. VIII, No. 4), describes the gross and histological anatomy of the post-pharyngeal digestive tract of the [[White Bass]] (*Morone chrysops*). The study examined 27 fish by gross dissection and six by...
+> -- *[[TheMorphologyOfThePostpharynge_14662]]*
+
 ### Mentioned In
 - [[AquaticCoordinationTeamMeeting_1991_10_28]]
 - [[RosterLowerBasinRecoveryImplem_21095]]
+- [[TheMorphologyOfThePostpharynge_14662]]
 
 ## University of Oklahoma Biological Station
 
@@ -6779,11 +8564,15 @@ A field research station in Kingston, Oklahoma, where this 1993 proposal was pre
 > This 1957 University of Oklahoma Master of Science thesis by Alfred Houser, conducted under the [[Oklahoma Fish and Game Council]], examines the commercial fishery of [[Lake Texoma]] during July to December 1952. Commercial fishing was framed as a management tool for controlling [[Rough Fish]]...
 > -- *[[AStudyOfTheCommercialFisheryOf_19933]]*
 
+> This study examines juvenile [[Largemouth Bass]], [[Spotted Bass]], [[Striped Bass]] and [[White Bass]] in [[Lake Texoma]], a 36,000-hectare impoundment on the Red and Washita rivers. Striped bass are introduced, while the other three species are native to the basin. Sampling spanned 1981 to 1986...
+> -- *[[FoodOfAndHabitatUseByJuveniles_15209]]*
+
 ### Mentioned In
 - [[PotentialEstablishmentOfRedShi_15211]]
 - [[OutlineOfThoughtsForAMethodolo_15198]]
 - [[ReviewOfGlenCanyonEnvironmenta_15187]]
 - [[AStudyOfTheCommercialFisheryOf_19933]]
+- [[FoodOfAndHabitatUseByJuveniles_15209]]
 
 ## University of Oklahoma Biological Survey
 
@@ -6797,9 +8586,13 @@ A university survey organization that supported the report on black bullhead age
 > This 1950s technical report from the [[Oklahoma Fishery Research Laboratory]] documents a pre-impoundment survey of the streams that would be flooded by the proposed [[Arbuckle Reservoir]] on [[Rock Creek]] in [[Murray County]], Oklahoma. Field collections in 1957 and 1958 recorded 39 fish species...
 > -- *[[APreimpoundmentStudyOfArbuckle_20512]]*
 
+> This fisheries technical note by [[Alfred Houser]] of the [[Oklahoma Fishery Research Laboratory]] describes the development of a collapsible nylon-net fish trap to replace the rigid [[Wire Trap]] used for sampling ponds and small lakes in Oklahoma. The wire trap was effective but heavy, hard to...
+> -- *[[ACollapsibleNylonFishTrapForPo_19932]]*
+
 ### Mentioned In
 - [[GrowthOfBlackBullheadCatfishIn_19942]]
 - [[APreimpoundmentStudyOfArbuckle_20512]]
+- [[ACollapsibleNylonFishTrapForPo_19932]]
 
 ## University of Oklahoma Fish Survey
 
@@ -6812,6 +8605,42 @@ The University of Oklahoma Museum of Zoology's fish survey program, under which 
 
 ### Mentioned In
 - [[FishesCollectedInOklahomaAndAr_14452]]
+
+## University Of Oklahoma Museum Of Zoology
+
+### Summary
+A museum collection that supplied 67 supplementary fish collections from 1963 (Lindsey and Bates), restricted to the Red River pupfish's range, which the authors used alongside their 1969 field seining data. The source draws on these records for distribution and co-occurrence analysis.
+
+### Context
+> This field study examines why the [[Red River Pupfish]] (*Cyprinodon rubrofluviatilis*) is restricted mainly to saline waters within its range in the [[Red River]] and [[Brazos River]] drainages of western Oklahoma and Texas. Based on 59 seining localities sampled in 1969 and 67 museum collections...
+> -- *[[InterspecificInteractionsAndLi_15736]]*
+
+### Mentioned In
+- [[InterspecificInteractionsAndLi_15736]]
+
+## University of Oregon Biological Station
+
+### Summary
+The University of Oregon Biological Station is a field research station in Charleston, Oregon. The source lists it as the summer address of author Sanford H. Vernick. The note does not describe any work done there.
+
+### Context
+> This item is a 1962 issue of the [[Turtox News]] (Vol. 40, No. 6, June). Its main scientific content is a short research note by [[Sanford H. Vernick]], who tested whether water temperature during embryonic development changes the vertebral count of [[Tilapia Macrocephala]]. Cold rearing appeared...
+> -- *[[SomeEffectsOfTemperatureUponTh_13123]]*
+
+### Mentioned In
+- [[SomeEffectsOfTemperatureUponTh_13123]]
+
+## University of Oregon Museum of Natural History
+
+### Summary
+The institution that published this 1972 Bulletin (No. 18) describing Smilodonichthys rastrosus. The museum houses the holotype (UO 26799) and paratype (UO F3335) specimens discussed in the source.
+
+### Context
+> This 1972 Bulletin of the [[University of Oregon Museum of Natural History]] (No. 18), by Ted M. Cavender and Robert Rush Miller, formally describes *Smilodonichthys rastrosus*, a new genus and species of extinct [[Salmonidae]] from Pliocene deposits of California and Oregon. The taxon is based...
+> -- *[[SmilodonichthysRastrosusANewPl_16066]]*
+
+### Mentioned In
+- [[SmilodonichthysRastrosusANewPl_16066]]
 
 ## University of Pittsburgh
 
@@ -6834,8 +8663,12 @@ The University of Puerto Rico's Institute of Marine Biology contributed to this 
 > This 1966 field guide by P. E. Pickens from the [[University of Arizona]] Department of Zoology documents the invertebrate fauna of [[Puerto Peñasco]], [[Sonora]], [[Mexico]] in the [[Gulf of California]]. The guide presents identification keys, illustrations, and distributional data for major...
 > -- *[[AFieldGuideToSomeOfTheInverteb_11179]]*
 
+> This 1952 article from the *Turtox News* (General Biological Supply House, Chicago) describes the first use of [[Rotenone]] for scientific fish collection in [[Puerto Rico]]. The author, Virgilio Biaggi Jr. of the [[University of Puerto Rico]] (Mayagüez), reports that the method was applied during...
+> -- *[[RotenoneUsedForTheFirstTimeFor_18240]]*
+
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+- [[RotenoneUsedForTheFirstTimeFor_18240]]
 
 ## University of Rhode Island
 
@@ -6892,8 +8725,12 @@ The University of São Paulo in Brazil contributed taxonomic expertise through D
 > - **144 total specimens** appeared across the 24 color plates of *The American Darters*. - **117 specimens** had confirmed locality and collection data successfully reconstructed; **7 additional** had probable data — totaling **124 of 144** (86%) with recoverable provenance. - **Disposition break...
 > -- *[[ProvenanceAndDispositionOfFish_16999]]*
 
+> This 1958 study from the *Journal of the Tennessee Academy of Science* reports three life-history traits of [[Sauger]] (*Stizostedion canadense canadense*) in [[Norris Reservoir]], Tennessee: [[Fecundity]] (egg production), adult [[Sex Ratio]] by age, and [[Age At Maturity]]. The data were...
+> -- *[[TheFecunditySexRatioAndMaturit_20703]]*
+
 ### Mentioned In
 - [[ProvenanceAndDispositionOfFish_16999]]
+- [[TheFecunditySexRatioAndMaturit_20703]]
 
 ## University of Texas
 
@@ -6933,8 +8770,20 @@ The University of Texas is the institutional affiliation of Dr. Dean Hendrickson
 > This technical report is **not a biological or ichthyological study**; it is an engineering/methodology note describing modifications made to the **[[Franklin-Laing Bottom Sediment Sampler]]**, a mechanical device used in limnological and oceanographic research to collect bottom sediment samples....
 > -- *[[ModificationsToTheFr_12616]]*
 
+> This study by David E. Craigie (Department of Zoology, [[University Of Toronto]]) tested whether the mineral hardness of rearing water changes the thermal resistance of [[Rainbow Trout]] (*[[Salmo Gairdneri]]*) yearlings. Fish were reared from fertilization in [[Hard Water]] or [[Soft Water]], then...
+> -- *[[AnEffectOfWaterHardnessInTheTh_17994]]*
+
+> This 1960 methods paper by Fry, Cucin, Kennedy and Papson, from the [[Ontario Department of Lands and Forests]] and the [[University of Toronto]], evaluates lead disodium versenate ([[Lead Versenate]]) as an injected agent for placing a time mark on fish scales. Injection at 50 mg per kg body...
+> -- *[[TheUseOfLeadVersenateToPlaceAT_18862]]*
+
+> This 1963 paper by [[Nancy E. Henderson]] (University of Toronto) tests whether [[Atresia]], the degeneration of developing ovarian follicles, substantially reduces the number of maturing ova in the [[Eastern Brook Trout]] (*[[Salvelinus Fontinalis]]*) during the [[Secondary Growth Phase]] of...
+> -- *[[ExtentOfAtresiaInMaturingOvari_16627]]*
+
 ### Mentioned In
 - [[ModificationsToTheFr_12616]]
+- [[AnEffectOfWaterHardnessInTheTh_17994]]
+- [[TheUseOfLeadVersenateToPlaceAT_18862]]
+- [[ExtentOfAtresiaInMaturingOvari_16627]]
 
 ## University of Utah
 
@@ -6968,6 +8817,22 @@ The University of Washington was the institutional affiliation of Dr. Jerry Fran
 - [[BiologyOfFreshwaterFishInARevi_17896]]
 - [[SecondWorkshopOnEcologyOfPumpe_20515]]
 
+## University Of Washington College Of Fisheries
+
+### Summary
+The academic unit at the University of Washington where the tag and applicator were tested in 1967. Its ponds were one of the sites where trout were recaptured, and the paper was published as its Contribution No. 263.
+
+### Context
+> This short paper from the *Transactions of the American Fisheries Society* (Vol. 97, No. 1, 1968) introduces a new [[Internal Anchor Tag]] and a [[Cartridge-Fed Tagging Gun]] for rapid, mass tagging of fish. The tag is molded of [[Nylon]] and is inserted with a hollow needle. Preliminary 1967...
+> -- *[[ANewFishTagAndRapidCartridgefe_12768]]*
+
+> This annual report from the [[Fisheries Research Institute]] at the [[University of Washington College of Fisheries]] (March 1968) summarizes the year's work across salmon biology, estuarine ecology, invertebrate fisheries, radioecology, water utilization and food science. The core research focus...
+> -- *[[ResearchInFisheries_11441]]*
+
+### Mentioned In
+- [[ANewFishTagAndRapidCartridgefe_12768]]
+- [[ResearchInFisheries_11441]]
+
 ## University of Wisconsin
 
 ### Summary
@@ -6983,10 +8848,18 @@ The University of Wisconsin is a research institution where antimycin was origin
 > This 1970 resume by [[Robert E. Lennon]] and [[Bernard L. Berger]] of the [[Fish Control Laboratory]], [[Bureau of Sport Fisheries and Wildlife]], reviews more than 50 field applications of [[Antimycin A]], a piscicide, in lakes, ponds, and streams in 19 U.S. States, Canada, and Guatemala. The...
 > -- *[[AResumeOnFieldApplicationOfAnt_20263]]*
 
+> This review essay, by [[Edward Schriver]] of the University of Maine, surveys five books on [[Aldo Leopold]] published in 1987-1988, along with a short group of natural-history titles. The essay argues that environmental problems persist because society lacks a sound land philosophy, and that...
+> -- *[[AldoLeopoldRemarkableTeachersc_20484]]*
+
+> This historical review, attributed to Arthur D. Hasler of the [[University Of Wisconsin]] Department of Zoology, examines the use of copper sulfate (CuSO₄) to control algal blooms in lakes. Copper is effective against nuisance algae, but the author argues it is a persistent heavy metal that...
+> -- *[[AntibioticAspectsOfCopperTreat_20697]]*
+
 ### Mentioned In
 - [[AntimycinaNewFisheryTool_20243]]
 - [[MoreFactsmoreFish_17550]]
 - [[AResumeOnFieldApplicationOfAnt_20263]]
+- [[AldoLeopoldRemarkableTeachersc_20484]]
+- [[AntibioticAspectsOfCopperTreat_20697]]
 
 ## University Of Wisconsin Arboretum
 
@@ -7035,6 +8908,18 @@ The University of Wyoming in Laramie hosted the Inland Commercial Fisheries Work
 
 ### Mentioned In
 - [[AsuGolfCourseFishResearchPlan_12772]]
+
+## UNL Fish Collection
+
+### Summary
+The UNL Fish Collection is the Universidad de Nuevo León fish collection, from which specimens used in this 1971 survey of northern Mexican interior basins were drawn. Specimens were preserved following Hall et al. (1962) before examination and measurement.
+
+### Context
+> This 1971 undergraduate thesis from the [[Universidad de Nuevo León]], Facultad de Ciencias Biológicas, presents a taxonomic and distributional survey of the freshwater fish fauna of the interior basins of the [[Nazas River]], [[Aguanaval River]], Parras (Río San Lorenzo) and [[El Chorro]] in...
+> -- *[[IctiofaunaDelComplejoDeCuencas_17085]]*
+
+### Mentioned In
+- [[IctiofaunaDelComplejoDeCuencas_17085]]
 
 ## UNLV
 
@@ -7134,6 +9019,174 @@ Unnamed TT Spring (site 14B) is one of the sites the report recommends not resto
 ### Mentioned In
 - [[SpatialAndTemporalVariationInT_16050]]
 
+## Unstable Depositing Zone
+
+### Summary
+A zone in the Vaal Dam catchment with little vegetation, eroded banks, and extensive sand and mud banks. Faunal variety was lowest here, and many stone-dwelling and sediment groups declined.
+
+### Context
+> This journal article by F. M. Chutter, from the [[Limnological Research Group]] at the National Institute for Water Research (Grahamstown, South Africa), examines how [[Silt and Sand]] alter the invertebrate fauna of streams and rivers. Most earlier work dealt with complete smothering of habitats....
+> -- *[[TheEffectsOfSiltAndSandOnTheIn_16158]]*
+
+### Mentioned In
+- [[TheEffectsOfSiltAndSandOnTheIn_16158]]
+
+## Untersee
+
+### Summary
+The Untersee is the lower, separate part of Lake Constance (Bodensee) in Germany, and the Gnadensee is one of its arms. The source gives its reed area as about 5 km², with roughly one fifth of that in the Gnadensee.
+
+### Context
+> This 1975 study by M. W. Banoub, published in *Archiv für Hydrobiologie*, examines how [[Phragmites Communis]] (common reed) beds alter the water chemistry of the [[Gnadensee]], a morphologically distinct arm of the [[Untersee]] in the [[Bodensee]] (Lake Constance). Water inside three reed stands...
+> -- *[[TheEffectOfReedsOnTheWaterChem_17318]]*
+
+### Mentioned In
+- [[TheEffectOfReedsOnTheWaterChem_17318]]
+
+## Up-Down Method
+
+### Summary
+A staircase procedure for estimating thresholds by changing stimulus level after each response. The source compared 2-dB and 5-dB step sizes in its grunt threshold tests and found similar mean thresholds.
+
+### Context
+> This source combines two papers. The first, by [[William N. Tavolga]] and [[Jerome Wodinsky]], measures auditory thresholds in the [[Blue-Striped Grunt]] (*[[Haemulon Sciurus]]*) using [[Avoidance Conditioning]]. It tests 421 threshold determinations on 23 subjects and examines intra- and...
+> -- *[[AuditoryCapacitiesInFishesThre_13484]]*
+
+### Mentioned In
+- [[AuditoryCapacitiesInFishesThre_13484]]
+
+## Upeneus
+
+### Summary
+Upeneus is a genus of small goatfishes in the family Mullidae, distributed across the tropical and subtropical Indo-Pacific and Western Atlantic. This 1954 revision by Lachner recognizes ten valid species in the genus, resolving confusion among 24 nominal species.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Arge
+
+### Summary
+Upeneus arge is a goatfish species recognized as valid, known from the Hawaiian and Phoenix Islands and based on 11 specimens of 164-250 mm. It has small scales (36-38 scale rows), a transparent peritoneum and about 22.3 gillrakers (21-24).
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Asymmetricus
+
+### Summary
+Upeneus asymmetricus is a goatfish species described as new in this revision, with a holotype from Pandanon Island in the Philippines. It is named for its reduced upper-lobe caudal fin bars, which number three compared with six to seven on the lower lobe.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Bensasi
+
+### Summary
+Upeneus bensasi is a goatfish species recognized as valid in this revision, based on 115 specimens measuring 37-148 mm. It has 7 dorsal spines, about 13.8 pectoral rays, 25.0 gillrakers (23-27) and no caudal lower-lobe bars.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Luzonius
+
+### Summary
+Upeneus luzonius is a goatfish of the Philippines and East Indies, closely related to U. tragula and easily confused with it when small. It has about 14.1 pectoral rays, 20.4 gillrakers (19-22) and a barbel 62-72% of head length.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Moluccensis
+
+### Summary
+Upeneus moluccensis is a goatfish species recognized as valid, based on 21 specimens of 49-125 mm. It has about 16.0 pectoral rays, 28.9 gillrakers (27-31) and a barbel 48-64% of head length.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Oligospilus
+
+### Summary
+Upeneus oligospilus is a goatfish species described as new in this revision, with its holotype from Tarut Bay in the Persian Gulf. It has 14 pectoral rays, 23 gillrakers and a barbel 50-64% of head length, and differs from U. tragula in having fewer caudal bars and fewer, larger body spots.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Parvus
+
+### Summary
+Upeneus parvus is the only goatfish species of the genus known from the Western Atlantic, recorded from Cuba, Tobago, Puerto Rico and the Tortugas. It appears to be rare, and Lachner corrected Fowler's Atlantic counts, finding seven dorsal spines, no upper-jaw teeth and 15 pectoral rays.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Sulphureus
+
+### Summary
+Upeneus sulphureus is a goatfish species recognized as valid, based on 217 specimens of 48-132 mm. It has about 15.8 pectoral rays, 35.4 scale rows, 29.4 gillrakers (26-32), and a barbel 58-82% of head length in large specimens. It is one of the widely distributed species that remains morphologically homogeneous across regions.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Tragula
+
+### Summary
+Upeneus tragula is a goatfish with a widely distributed range from the Philippines and East Africa to Australia, rare in Oceania. Lachner reports an average of 13.0 pectoral rays, 22.8 gillrakers (21-25) and a barbel 52-68% of head length, and it is closely related to and easily confused with U. luzonius when small.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
+## Upeneus Vittatus
+
+### Summary
+Upeneus vittatus is a widely distributed goatfish, reported from the Red Sea to the Low Archipelago but not from Hawaii. Based on 150 specimens, it has about 16.1 pectoral rays, 28.2 gillrakers (26-31) and 35.0 scale rows, and it showed no notable differentiation across localities about 12,000 miles apart.
+
+### Context
+> This 1954 taxonomic revision by Ernest A. Lachner of the goatfish genus [[Upeneus]] (family [[Mullidae]]) resolves nomenclatural confusion among 24 nominal species. Based mainly on [[United States National Museum]] collections, with additional material from the [[Museum of Comparative Zoology]],...
+> -- *[[ARevisionOfTheGoatfishGenusUpe_12660]]*
+
+### Mentioned In
+- [[ARevisionOfTheGoatfishGenusUpe_12660]]
+
 ## UPGMA
 
 ### Summary
@@ -7143,8 +9196,44 @@ UPGMA (Unweighted Pair Group Method with Arithmetic Mean) is a clustering analys
 > This study used protein electrophoresis to analyze genetic variation among morphologically divergent populations of [[Gila]] species from the [[Lower Colorado River Basin]]. The research examined [[Gila intermedia]], [[Gila robusta]], and phenotypically intermediate populations formerly referred to...
 > -- *[[GeneticVariationAmongLowerColo_12776]]*
 
+> This revision by Lawrence M. Pace, published in the [[Occasional Papers of the Museum of Natural History]] (University of Kansas, No. 90, 1981), re-examines the generic and subgeneric classification of North American darters. It combines phenetic (numerical taxonomic) and cladistic methods on 142...
+> -- *[[TheGeneraAndSubgeneraOfDarters_18398]]*
+
 ### Mentioned In
 - [[GeneticVariationAmongLowerColo_12776]]
+- [[TheGeneraAndSubgeneraOfDarters_18398]]
+
+## UPGMA Cluster Analysis
+
+### Summary
+Unweighted Pair-Group Method using Arithmetic averages, a hierarchical clustering technique that groups samples by similarity. Here it was used on the 30 collections, and none clustered by month, while stations 2, 6 and 7 tended to group together.
+
+### Context
+> This study by [[William J. Matthews]] compares three analytical approaches for partitioning spatial and temporal variation in riffle fish assemblages of the upper [[Roanoke River]] system, Virginia. Six sites were sampled by [[Kick-Set Sampling]] in five surveys between May and November 1978. The...
+> -- *[[SpatialAndTemporalVariationInF_15185]]*
+
+> This paper (Ross, Matthews and Echelle, *The American Naturalist*, 1985) compares the temporal stability and persistence of fish assemblages in two streams of contrasting physical harshness: [[Brier Creek]], an intermittent prairie-margin stream in southern Oklahoma, and [[Piney Creek]], a...
+> -- *[[PersistenceOfStreamFishAssembl_21092]]*
+
+### Mentioned In
+- [[SpatialAndTemporalVariationInF_15185]]
+- [[PersistenceOfStreamFishAssembl_21092]]
+
+## UPGMA Clustering
+
+### Summary
+UPGMA (Unweighted Pair Group Method with Arithmetic Mean) is a hierarchical clustering method that groups samples by average similarity. The Lacanja study applied it, together with the Jaccard coefficient, to presence–absence data from 24 pooled site samples to show how sites group by fish composition.
+
+### Context
+> This compiled document contains three items: a fragment of a reference list (Hawaiian goby and Guam streamfish literature), the full research article on the fish community of the [[Lacanja River]] in Chiapas, Mexico, and the opening (abstract and introduction) of a study on fish diversity after...
+> -- *[[PatternsInTheSpeciesDiversityA_16711]]*
+
+> This 1984 study by [[Berg]] and [[Ferris]] applies [[Restriction Endonuclease Analysis]] to the [[Mitochondrial DNA]] (mtDNA) of four salmonids to test their systematic relationships. The authors estimate the [[Salmonid Mitochondrial Genome]] at about 16,670 base pairs (bp), slightly larger than...
+> -- *[[RestrictionEndonucleaseAnalysi_18191]]*
+
+### Mentioned In
+- [[PatternsInTheSpeciesDiversityA_16711]]
+- [[RestrictionEndonucleaseAnalysi_18191]]
 
 ## UPGMA Dendrogram
 
@@ -7210,6 +9299,18 @@ Upland streams are elevated watercourses typically characterized by rocky substr
 ### Mentioned In
 - [[DiversityWithinTheRedeyeBassMi_2013]]
 
+## Upolu
+
+### Summary
+The largest island of the Samoan group, where the author surveyed 62 habitats and found the only Characeae population in the study. Major excursions covered the north shore near Apia, the Lemafa Pass route, and Lake Lanato'o.
+
+### Context
+> This 1963 botanical note reports the first known occurrence of Characeae (stoneworts) in the Samoan Islands. The author, [[Wood]] of the University of Rhode Island, identified a single population of [[Nitella Furcata Var. Sieberi]] on [[Upolu]], [[Western Samoa]], making it the easternmost...
+> -- *[[CharaceaeInSamoa_20817]]*
+
+### Mentioned In
+- [[CharaceaeInSamoa_20817]]
+
 ## Upper Allegheny River Watershed
 <!-- fm: auto_enriched: true -->
 
@@ -7248,6 +9349,9 @@ The Upper Basin, in the context of Colorado River fish science and conservation,
 > This U.S. Fish and Wildlife Service (Service) draft document supports a proposed designation of [[Critical Habitat]] for four [[Colorado River Basin]] fishes listed as endangered: the [[Razorback Sucker]], [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail Chub]]. The document was prepared...
 > -- *[[ColoradoRiverEndangeredFishesC_19333]]*
 
+> This simulation study assesses how a severe, sustained drought would affect the [[Colorado River Basin]] water system. Using the [[Colorado River Model]], the authors compared a 38-year drought trace, derived from roughly 500 years of tree-ring-reconstructed streamflows, with a 38-year historical...
+> -- *[[ImpactsOfASevereSustainedDroug_20630]]*
+
 ### Mentioned In
 - [[LowerBasinBigRiverFishesRecove_1989_01_09]]
 - [[MemorandumOnFebruaryLowerBasin_1989_02_13]]
@@ -7256,6 +9360,7 @@ The Upper Basin, in the context of Colorado River fish science and conservation,
 - [[ColoradoSquawfishRevisedRecove_17170]]
 - [[ManagingVegetationToIncreaseFl_20382]]
 - [[ColoradoRiverEndangeredFishesC_19333]]
+- [[ImpactsOfASevereSustainedDroug_20630]]
 
 ## Upper Basin Recovery and Implementation Program
 
@@ -7278,9 +9383,13 @@ The Upper Basin Recovery Implementation Program (UBRIP) is the body for which th
 > This document is a 1989–1990 interagency package from the [[Bureau of Reclamation]] (Upper Colorado Region) and the [[Fish and Wildlife Service]] (FWS) on seven conservation measures for the operation of [[Glen Canyon Dam]]. The measures are attached to the Section 7 consultation under the...
 > -- *[[ConservationMeasuresForGlenCan_14782]]*
 
+> This conference paper, presented by Dale Pontius at the American Bar Association's 16th Annual Water Law Conference (February 19-20, 1998, San Diego, California), reviews environmental conflicts in the [[Colorado River Basin]]. It covers the basin's natural ecosystem, the effects of development,...
+> -- *[[EnvironmentalIssuesInTheColora_18631]]*
+
 ### Mentioned In
 - [[LeveeRemovalStrategicPlan_18081]]
 - [[ConservationMeasuresForGlenCan_14782]]
+- [[EnvironmentalIssuesInTheColora_18631]]
 
 ## Upper Basin Recovery Program
 
@@ -7380,6 +9489,18 @@ The Upper Colorado Basin refers to the portion of the Colorado River system abov
 
 ### Mentioned In
 - [[ReportsConcerningUpperColorado_1936_05_06]]
+
+## Upper Colorado Endangered Fish Recovery Program
+
+### Summary
+A recovery effort for the four endangered Colorado River fish, begun in 1984 as a 15-year program with about $59 million spent by the time of the source. The source also notes a San Juan River component estimated for completion in 2007.
+
+### Context
+> This Layperson's Guide from the [[Water Education Foundation]] traces the history of the Colorado River's development, the compromises that divided its water among seven U.S. basin states, Mexico and American Indian tribes, and current issues including water marketing, water quality, endangered...
+> -- *[[LaypersonsGuideToTheColoradoRi_14920]]*
+
+### Mentioned In
+- [[LaypersonsGuideToTheColoradoRi_14920]]
 
 ## Upper Colorado Region
 
@@ -7783,6 +9904,18 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > This FY 1993 annual project report, submitted under the [[Colorado River Recovery Program]] (Project Number 18-6), describes a desk-based study that re-examines existing preserved collections of young fishes from the [[Green River]] to determine whether late larvae and early juveniles of...
 > -- *[[AnalysisOfPastCollectionsFromT_16529]]*
 
+> This newspaper feature (Los Angeles Times, by Pete Thomas) reports on an oral-history report compiled by Fred Quartarone of the [[Colorado Division Of Wildlife]] with the [[U.S. Fish And Wildlife Service]]. The report gathered first-hand recollections from more than 100 people, average age 77,...
+> -- *[[TalkingSquawfishCollectionOfSt_13578]]*
+
+> This monograph (Laboratory of Tree-Ring Research Papers No. 5, University of Arizona Press, 1975, by Charles W. Stockton) tests whether surface-runoff information can be extracted from tree-ring width series and used to extend short streamflow records. Two pilot watersheds, [[Bright Angel Creek]]...
+> -- *[[LongtermStreamflowRecordsRecon_14346]]*
+
+> This report is a 1959 aquatic survey of the Green River and selected tributaries in the [[Flaming Gorge Reservoir]] Basin, Utah and Wyoming. It was published as University of Utah Anthropological Papers No. 49 (Upper Colorado Series No. 3, November 1960), a by-product of a [[Bureau of Reclamation]]...
+> -- *[[EcologicalStudiesOfTheFloraAnd_18743]]*
+
+> This multi-author University of Utah publication (Anthropological Papers No. 40, Glen Canyon Series No. 7, June 1959) documents pre-impoundment ecological baseline studies in [[Glen Canyon]], the canyon of the [[Colorado River]] that was to be flooded by the [[Glen Canyon Reservoir]], a unit of the...
+> -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -7923,6 +10056,10 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[FishesOfTheUpperColoradoRiverS_17415]]
 - [[AnEvaluationOfTheStatusLifeHis_19861]]
 - [[AnalysisOfPastCollectionsFromT_16529]]
+- [[TalkingSquawfishCollectionOfSt_13578]]
+- [[LongtermStreamflowRecordsRecon_14346]]
+- [[EcologicalStudiesOfTheFloraAnd_18743]]
+- [[EcologicalStudiesOfTheFloraAnd_20822]]
 
 ## Upper Colorado River Basin Biological Subcommittee
 <!-- fm: auto_enriched: true -->
@@ -8023,6 +10160,9 @@ The Upper Colorado River Basin Endangered Fishes Council was proposed as part of
 > This compilation (August 1990) is the Native and Endangered Species section of the [[Glen Canyon Environmental Studies]] (GCES) Phase II Integrated Research Plan, together with several technical and budget proposals that support it. The work examines how [[Glen Canyon Dam]] operations affect the...
 > -- *[[GlenCanyonEnvironmentalStudies_19692]]*
 
+> This Bassmaster Magazine feature (January 1994, by Robert Montgomery) examines a conflict between conservation preservationists and state sportfishing agencies over the stocking of [[Non-Native Species]]. Preservationists, working through the [[Endangered Species Act]] and the [[Aquatic Nuisance...
+> -- *[[InTheNameOfBiodiversity_16553]]*
+
 ### Mentioned In
 - [[BriefingNotesEndangeredFishInC_14950]]
 - [[MemorandumOnAnnualResearchersQ_18168]]
@@ -8031,6 +10171,7 @@ The Upper Colorado River Basin Endangered Fishes Council was proposed as part of
 - [[SanJuanRiverBasinRecoveryImple_11693]]
 - [[SanJuanRiverBasinRecoveryImple_18326]]
 - [[GlenCanyonEnvironmentalStudies_19692]]
+- [[InTheNameOfBiodiversity_16553]]
 
 ## Upper Colorado River Basin Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -8145,8 +10286,12 @@ The ten-member committee that governs the Recovery Implementation Program for th
 > This review traces how the [[Recovery Implementation Program]] for four endemic [[Colorado River Basin]] fishes came about. Large dams, water diversion and introduced fishes altered the river and drove declines in the [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]] and [[Razorback Sucker]]....
 > -- *[[EvolutionOfACooperativeRecover_20872]]*
 
+> This book chapter (Wydoski and Hamill, in Minckley and Deacon, 1991) traces the history of the cooperative recovery program for four endangered large-river fishes of the upper [[Colorado River]] basin: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], and [[Razorback Sucker]]. It describes...
+> -- *[[EvolutionOfACooperativeRecover_20858]]*
+
 ### Mentioned In
 - [[EvolutionOfACooperativeRecover_20872]]
+- [[EvolutionOfACooperativeRecover_20858]]
 
 ## Upper Colorado River Investigations
 
@@ -8229,6 +10374,18 @@ The Upper Colorado River Recovery Implementation Program is a recovery effort fo
 - [[CaptureLocationsOfRareFishInTh_19862]]
 - [[ContributionsToAGuideToTheCypr_21238]]
 
+## Upper Colorado Speckled Dace
+
+### Summary
+A native small minnow of the Colorado River system (Rhinichthys osculus yarrowi). In the 1958 tributary samples it was closely matched in dominance by the introduced Fathead Minnow.
+
+### Context
+> This multi-author University of Utah publication (Anthropological Papers No. 40, Glen Canyon Series No. 7, June 1959) documents pre-impoundment ecological baseline studies in [[Glen Canyon]], the canyon of the [[Colorado River]] that was to be flooded by the [[Glen Canyon Reservoir]], a unit of the...
+> -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
+
+### Mentioned In
+- [[EcologicalStudiesOfTheFloraAnd_20822]]
+
 ## Upper Columbia River
 <!-- fm: auto_enriched: true -->
 
@@ -8240,6 +10397,18 @@ The Upper Colorado River Recovery Implementation Program is a recovery effort fo
 
 ### Mentioned In
 - [[RequestForARulingToCorrectHomo_17135]]
+
+## Upper Cretaceous Foraminifera
+
+### Summary
+Reworked Cretaceous microfossils (including Heterohelix, Globotruncana and Pseudouvigerina species) found in many Colorado delta, Lake Mead, Borrego, Brawley and Imperial Formation samples. The authors interpret them as transported by the Colorado River from the Mancos Shale of the Colorado Plateau, not from local sources.
+
+### Context
+> This document is a 1965 paper from the *Journal of Sedimentary Petrology* (vol. 35, no. 4, pp. 911–916) by [[Richard Merriam]] and [[Orville L. Bandy]] of the University of Southern California. It asks whether the coarse and fine Cenozoic sediments filling the Colorado delta basin share a single...
+> -- *[[SourceOfUpperCenozoicSediments_20136]]*
+
+### Mentioned In
+- [[SourceOfUpperCenozoicSediments_20136]]
 
 ## Upper Dam
 
@@ -8253,6 +10422,18 @@ A dam on the Machias River built in 1841–42 that leaks water and was fitted wi
 ### Mentioned In
 - [[MachiasRiverSalmonRestoration_16466]]
 
+## Upper Des Moines River Basin
+
+### Summary
+The Upper Des Moines River Basin is a drainage area in north central Iowa, USA, where the study took place. The authors sampled eleven 1.6 km stream reaches in its tributaries, including channelized prairie streams and unchannelized woodland streams. Drainage areas of the study streams ranged from 373 to 821 km².
+
+### Context
+> This 1978 study in the *Water Resources Bulletin* by David W. Zimmer and Roger W. Bachmann examines how [[Stream Channelization]] alters stream habitat and [[Invertebrate Drift]] in tributaries of the [[Upper Des Moines River Basin]] in north central Iowa. Eleven study sites (1.6 km reaches) were...
+> -- *[[ChannelizationAndInvertebrateD_20939]]*
+
+### Mentioned In
+- [[ChannelizationAndInvertebrateD_20939]]
+
 ## Upper Echo Lake
 <!-- fm: auto_enriched: true -->
 
@@ -8262,6 +10443,18 @@ A dam on the Machias River built in 1841–42 that leaks water and was fitted wi
 
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
+
+## Upper Gaging-Station
+
+### Summary
+A stream-gaging station about three-quarters of a mile below Black Point on Queen Creek, established in August 1939. It measured flood peaks (up to 13,000 second-feet) and a total of 64,300 acre-feet over the two study years.
+
+### Context
+> This 1941 hydrological study by H. M. Babcock and E. M. Cushing, of the [[U.S. Geological Survey]], examines how flash floods in [[Queen Creek]], a typical large desert wash in [[Pinal County]], [[Arizona]], recharge the underlying [[Alluvium]] aquifer. The work supported a proposed flood-control...
+> -- *[[RechargeToGroundwaterFromFlood_17190]]*
+
+### Mentioned In
+- [[RechargeToGroundwaterFromFlood_17190]]
 
 ## Upper Gila River
 <!-- fm: auto_enriched: true -->
@@ -8297,6 +10490,9 @@ The Upper Gila River is a critical reach of the Gila River system in the southwe
 > This field report documents bird observations made on the [[Upper Gila River]] in Arizona on 22 and 23 June 1971. Fieldwork started on the [[San Francisco River]] below the Phelps Dodge plant at [[Morenci]] and continued downstream through the canyon, passing the night of 22 June at the confluence...
 > -- *[[BirdObservationsOnUpperGilaRiv_11534]]*
 
+> The federally listed threatened [[Spikedace]] (*Meda fulgida*) was once widespread and locally abundant in the [[Gila River Basin]] but now occurs in four isolated systems in Arizona and New Mexico. Based on six years of study, the species has declined sharply in the [[Upper Verde River]], and it...
+> -- *[[StatusOfSpikedaceMedaFulgidaIn_15007]]*
+
 ### Mentioned In
 - [[LetterToUSForestServiceRegardi_1991_02_15]]
 - [[LetterToWLMinckleyOnFisheryRes_1994_05_27]]
@@ -8306,6 +10502,7 @@ The Upper Gila River is a critical reach of the Gila River system in the southwe
 - [[DraftMinutesOfTheNovemberTeamM_14785]]
 - [[DraftnativeFishesAndNaturalAqu_13704]]
 - [[BirdObservationsOnUpperGilaRiv_11534]]
+- [[StatusOfSpikedaceMedaFulgidaIn_15007]]
 
 ## Upper Gila River Basin
 <!-- fm: auto_enriched: true -->
@@ -8399,6 +10596,18 @@ The Upper Green River is a section of the Green River that was part of the Inter
 - [[TentativeAgendaForTheUpperColo_15254]]
 - [[RealitiesOfProvidingWaterForEn_20669]]
 
+## Upper Guinean Region
+
+### Summary
+One of the three main biogeographic regions, restricted in this revision to the coastal area from Tomine through Saint John. It has a mean adjacent-river faunistic distance of 0.086, the lowest of the regions, and 19% endemics (35% with single-river endemics). Adjacent rivers here are more similar than on flat Sudanian terrain, which the authors link to river capture being more likely in flat areas.
+
+### Context
+> This study by Hugueny & Lévéque (1994, *Environmental Biology of Fishes* 39: 365–380) uses quantified fish species composition to test and refine the ichthyological provinces of West Africa. Presence–absence data for 443 species (from 743 known) across 52 river units were analysed with...
+> -- *[[FreshwaterFishZoogeographyInWe_14507]]*
+
+### Mentioned In
+- [[FreshwaterFishZoogeographyInWe_14507]]
+
 ## Upper Gulf fisheries
 
 ### Summary
@@ -8448,6 +10657,9 @@ The Upper Gulf of California refers to the northernmost marine section of the Gu
 > This draft agenda outlines a planning meeting held November 2-3, 1994, in Tempe, Arizona, convened by [[Conservation International]] and [[American Rivers]]. The purpose was to define a scientific and technical research project that would provide an objective analysis of the historic, current, and...
 > -- *[[DraftAgendaForMeetingOnNovembe_17488]]*
 
+> This Spring 1998 issue of [[Voces del Mar]], the newsletter of the [[Biosphere Reserve Alto Golfo de California y Delta del Río Colorado]], focuses on the [[Gulf Corvina]] (*Curvina golfina*), a sciaenid whose fishery has recovered sharply after roughly three decades of scarcity. The lead article...
+> -- *[[LaCuvinaGolfinaVolviParaQuedar_13182]]*
+
 ### Mentioned In
 - [[ColoradoBiNationalRiverEcosyst_1995_01_09]]
 - [[LetterSummarizingTheColoradoRi_1997_11_19]]
@@ -8459,6 +10671,7 @@ The Upper Gulf of California refers to the northernmost marine section of the Gu
 - [[ReportPlanningGroupForTheColor_19473]]
 - [[KeyToTheFamiliesOfTheInshoreTe_13333]]
 - [[DraftAgendaForMeetingOnNovembe_17488]]
+- [[LaCuvinaGolfinaVolviParaQuedar_13182]]
 
 ## Upper Gulf of California and Colorado River Delta Biosphere Reserve
 
@@ -8469,8 +10682,12 @@ The Upper Gulf of California and Colorado River Delta Biosphere Reserve was esta
 > This document summarizes a binational workshop held October 30-31, 1997, in Mexicali, Baja California, Mexico, focused on the ecological and social restoration of the [[Colorado River Delta]] and [[Upper Gulf of California]]. Organized by the [[Pacific Institute]], [[International Sonoran Desert...
 > -- *[[SummaryOfEvents_18368]]*
 
+> This paper reports the first survey specifically designed to estimate [[Vaquita]] (*Phocoena sinus*) abundance across its full range. A [[Line-Transect Survey]] was run by three vessels in summer 1997 as a joint cruise of the [[Instituto Nacional de la Pesca]] and the [[NOAA National Marine...
+> -- *[[ANewAbundanceEstimateForVaquit_21035]]*
+
 ### Mentioned In
 - [[SummaryOfEvents_18368]]
+- [[ANewAbundanceEstimateForVaquit_21035]]
 
 ## Upper Gulf Of California Biosphere Reserve
 <!-- fm: auto_enriched: true -->
@@ -8568,8 +10785,12 @@ Upper Horrell Springs consists of several small hillside seeps and two moderate-
 > The letter originates from The Klamath Tribe (Chiloquin, Oregon) and is addressed to a prominent ichthyologist specializing in North American freshwater fishes. The core subject is the planning of a scientific meeting focused on **[[Conservation Genetics]]** of sucker species native to the **[[Up...
 > -- *[[LetterConfirmingMeetingOnConse_1992_12_07]]*
 
+> This 1985 paper by the Endangered Species Committee of the [[Desert Fishes Council]] (Williams, Bowman, Brooks, Echelle, Edwards, Hendrickson and Landye) identifies endangered aquatic ecosystems across the [[Great Basin Desert|Great Basin]], [[Mojave Desert|Mohave]], [[Sonoran Desert|Sonoran]] and...
+> -- *[[EndangeredAquaticEcosystemsInN_12035]]*
+
 ### Mentioned In
 - [[LetterConfirmingMeetingOnConse_1992_12_07]]
+- [[EndangeredAquaticEcosystemsInN_12035]]
 
 ## Upper Klamath Lake
 <!-- fm: auto_enriched: true -->
@@ -8650,6 +10871,18 @@ The Upper Mainstem Subbasin is a geographic subdivision of the Colorado River Ba
 ### Mentioned In
 - [[AlcoholDehydrogenaseVariabilit_1977]]
 
+## Upper Mississippi Conservation Committee
+
+### Summary
+The Upper Mississippi Conservation Committee conducted a tagging program on the Mississippi River involving 382 tags. Its results showed greater fish movement than in the Des Moines River, with journeys over 50 miles common and one fish moving 180 miles. Harrison uses this work for comparison.
+
+### Context
+> This 1953 study by Harry M. Harrison, published in the Iowa Academy of Science proceedings, reports mark-recapture results for [[Channel Catfish]] tagged in the [[Des Moines River]] from 1947 to 1949, with recoveries continuing through 1952. A total of 4,032 fish were tagged at 28 stations along...
+> -- *[[ReturnsFromTaggedChannelCatfis_20677]]*
+
+### Mentioned In
+- [[ReturnsFromTaggedChannelCatfis_20677]]
+
 ## Upper Mississippi River
 <!-- fm: auto_enriched: true -->
 
@@ -8675,6 +10908,15 @@ The Upper Mississippi River refers to the northern section of the Mississippi Ri
 > This 1954 report from the [[Oklahoma Fisheries Research Laboratory]] consolidates age and growth data for [[Channel Catfish]] (*Ictalurus punctatus*) across Oklahoma. It draws on 7,717 specimens from 107 bodies of water collected between 1946 and 1954. Growth is calculated from lengths at each...
 > -- *[[GrowthOfChannelCatfishInOklaho_16396]]*
 
+> A 1999 [[Quad City Times]] article reports that [[Jeff Stein]], a 29-year-old river advocate hired from Washington, D.C., will coordinate efforts to enhance the [[Upper Mississippi River]] from an office in downtown Davenport. His stated priorities are wetland and fish and waterfowl habitat...
+> -- *[[DredgingUpDollarsForTheUpperMi_17467]]*
+
+> This compiled document contains three items: a fragment of a reference list (Hawaiian goby and Guam streamfish literature), the full research article on the fish community of the [[Lacanja River]] in Chiapas, Mexico, and the opening (abstract and introduction) of a study on fish diversity after...
+> -- *[[PatternsInTheSpeciesDiversityA_16711]]*
+
+> This Iowa Agricultural and Home Economics Experiment Station Research Bulletin (No. 483, September 1960) by Calvin R. Fremling examines the biology of hydropsychid caddisflies that create nuisance and health problems in [[Keokuk, Iowa]] on the [[Upper Mississippi River]]. Three species,...
+> -- *[[BiologyAndPossibleControlOfNui_18831]]*
+
 ### Mentioned In
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
 - [[StationProfileOfTheGenoaNation_1993]]
@@ -8684,6 +10926,9 @@ The Upper Mississippi River refers to the northern section of the Mississippi Ri
 - [[BiologyOfALargeMayflyHexagenia_18832]]
 - [[ADistributionalAtlasOfUpperMis_21198]]
 - [[GrowthOfChannelCatfishInOklaho_16396]]
+- [[DredgingUpDollarsForTheUpperMi_17467]]
+- [[PatternsInTheSpeciesDiversityA_16711]]
+- [[BiologyAndPossibleControlOfNui_18831]]
 
 ## Upper Mississippi River Conservation Committee
 <!-- fm: auto_enriched: true -->
@@ -8726,6 +10971,18 @@ The Upper Mississippi River Conservation Committee is a collaborative interstate
 
 ### Mentioned In
 - [[GarrisonDamNationalFishHatcher_19557]]
+
+## Upper Neosho Station
+
+### Summary
+One of the six main-stem sampling stations, located near Council Grove on the Neosho River. It was a study reach about 0.5 mile long that dried almost completely in 1956 during the drought, which made it a useful test of recovery after intermittent flow.
+
+### Context
+> This 1961 study by James Everett Deacon, published by the [[University of Kansas Museum of Natural History]], documents how fish populations in the [[Neosho River]] and [[Marais des Cygnes River]] in Kansas recovered after the severe drought of the early-to-mid 1950s. Sampling from 1957 through...
+> -- *[[FishPopulationsFollowingADroug_13991]]*
+
+### Mentioned In
+- [[FishPopulationsFollowingADroug_13991]]
 
 ## Upper Ohio Basin
 
@@ -8806,8 +11063,24 @@ The upper reaches of the Rio Grande drainage, where the source finds three livin
 > This bulletin (Bulletin 116, [[New Mexico Bureau of Mines & Mineral Resources]], Socorro, 1987) by Dwight W. Taylor of Oregon State University describes 22 freshwater mollusc species from New Mexico and adjacent areas. It describes nine new species from New Mexico, four from Arizona, two from Utah,...
 > -- *[[FreshwaterMollusksFromNewMexic_13497]]*
 
+> This 1961 review by [[Robert Rush Miller]] of the University of Michigan Museum of Zoology documents how the freshwater fish fauna of the arid American Southwest changed over roughly the past 100 years. The paper argues that modern human activity, rather than climate, is the chief driver of these...
+> -- *[[ManAndTheChangingFishFaunaOfTh_15337]]*
+
 ### Mentioned In
 - [[FreshwaterMollusksFromNewMexic_13497]]
+- [[ManAndTheChangingFishFaunaOfTh_15337]]
+
+## Upper Rio Grande Basin
+
+### Summary
+The sub-basin in New Mexico and Colorado where the river's waters originate, located where four major biomes meet. The source reports that open-pit mining near Questa threatens water supplies and that irrigation and competing water users strain limited supplies.
+
+### Context
+> This bilingual (English/Spanish) conference statement records the outcome of a three-day meeting held in [[El Paso]], Texas, on May 19-22, 1994. About 100 participants from Mexico and the United States, including residents, government agency staff, NGOs and business representatives, discussed...
+> -- *[[TheRioGranderioBravoBasinSusta_16072]]*
+
+### Mentioned In
+- [[TheRioGranderioBravoBasinSusta_16072]]
 
 ## Upper Salt River
 
@@ -8820,6 +11093,18 @@ The Upper Salt River is a section of the Salt River in Arizona that contains bot
 
 ### Mentioned In
 - [[LetterToWlMinckleyRemovalOfRoo_12727]]
+
+## Upper San Francisco River
+
+### Summary
+A river watershed spanning the Arizona-New Mexico border, studied here as one of two pilot basins for reconstructing streamflow from tree rings. Its runoff is concentrated from December to May and depends strongly on summer monsoon precipitation, with a mean annual flow of about 46,767 acre-feet over 1928-1966 according to the source. The source uses tree-ring chronologies from five sites in this basin.
+
+### Context
+> This monograph (Laboratory of Tree-Ring Research Papers No. 5, University of Arizona Press, 1975, by Charles W. Stockton) tests whether surface-runoff information can be extracted from tree-ring width series and used to extend short streamflow records. Two pilot watersheds, [[Bright Angel Creek]]...
+> -- *[[LongtermStreamflowRecordsRecon_14346]]*
+
+### Mentioned In
+- [[LongtermStreamflowRecordsRecon_14346]]
 
 ## Upper San Luis Rey River
 
@@ -8957,6 +11242,18 @@ The Upper Sonoran Desert is a biological community type found at lower elevation
 ### Mentioned In
 - [[DraftEvaluationOfPotentialsFor_15827]]
 
+## Upper Stillwater River
+
+### Summary
+The Upper Stillwater River is a stream on the Beartooth Plateau in Montana that is downstream of the mining area. The source reports that water chemistry below the mine sites indicates stream degradation, with streams described as essentially sterile for several miles and with iron hydroxide deposits on channel beds. The source does not study fish or other aquatic fauna there.
+
+### Context
+> This 1975 symposium paper, by Johnston, Brown, and Cravens of the USDA Forest Service, describes a multiagency project rehabilitating [[Acid Mine Drainage]] and disturbed land at the [[McLaren Mine]] and [[Glengary Mine]] on the [[Beartooth Plateau]], Montana. The work addresses acid drainage,...
+> -- *[[AcidMineRehabilitationProblems_19828]]*
+
+### Mentioned In
+- [[AcidMineRehabilitationProblems_19828]]
+
 ## Upper Suncook Lake
 
 ### Summary
@@ -9043,6 +11340,9 @@ The Upper Verde River is a segment of the Verde River system in Arizona that ser
 > This 1987 report, written by James W. Hartshorne for the [[Gila Fish and Gun Club]] and the [[Conner Dam]] Association, assesses the status of the [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) in the lower Gila River of New Mexico. It was prepared to support the Conner Dam...
 > -- *[[CurrentAndPredictedFutureStatu_20689]]*
 
+> The federally listed threatened [[Spikedace]] (*Meda fulgida*) was once widespread and locally abundant in the [[Gila River Basin]] but now occurs in four isolated systems in Arizona and New Mexico. Based on six years of study, the species has declined sharply in the [[Upper Verde River]], and it...
+> -- *[[StatusOfSpikedaceMedaFulgidaIn_15007]]*
+
 ### Mentioned In
 - [[FormalSectionConsultationCentr_1988_10_28]]
 - [[LetterToDrWLMinckleyRegardingA_1985_04_15]]
@@ -9053,6 +11353,19 @@ The Upper Verde River is a segment of the Verde River system in Arizona that ser
 - [[DraftMinutesOfTheNovemberTeamM_14785]]
 - [[AzgfdEaChecklistspikedaceAndLo_19415]]
 - [[CurrentAndPredictedFutureStatu_20689]]
+- [[StatusOfSpikedaceMedaFulgidaIn_15007]]
+
+## Upper Verde River Adaptive Management Program
+
+### Summary
+The Upper Verde River Adaptive Management Program, begun in 1998, is a cooperative effort among the Forest Service, grazing permittees, environmental and public interests, Arizona Game and Fish Department and the U.S. Fish and Wildlife Service. It aims to coordinate research, management and monitoring, with two-year adaptive changes to grazing practices. Rinne presents it as a model for the partnerships he recommends.
+
+### Context
+> This review by [[John N. Rinne]] of the [[Rocky Mountain Research Station]] examines the relationships between [[Livestock Grazing]] and fishes in the western and southwestern United States. The author finds that the direct effects of grazing on vegetation are well documented, but the indirect...
+> -- *[[FishAndGrazingRelationshipsThe_15009]]*
+
+### Mentioned In
+- [[FishAndGrazingRelationshipsThe_15009]]
 
 ## Upper Verde River Wildlife Area
 
@@ -9066,6 +11379,18 @@ Upper Verde River Wildlife Area is a location in Arizona (34.867749°N, 112.4016
 ### Mentioned In
 - [[ACaseOfMistakenIdentityGenetic_2021]]
 
+## Upper Volcanic Supergroup
+
+### Summary
+The younger of the two major igneous sequences in the Sierra Madre Occidental, dominated by moderately to densely welded rhyodacitic to rhyolitic ignimbrites with some mafic lavas near the top. McDowell and Clabaugh report that volcanism was concentrated between about 34 and 27 million years ago, with some activity continuing to 23 million years ago, and that most units in each area were emplaced within 3 to 5 million years.
+
+### Context
+> McDowell and Clabaugh (Geological Society of America Special Paper 180, 1979) describe two large, largely coextensive calc-alkalic igneous sequences in the [[Sierra Madre Occidental]] of western Mexico. The older sequence, a [[Lower Volcanic Complex]] of batholithic and volcanic rocks, spans...
+> -- *[[IgnimbritesOfTheSierraMadreOcc_12304]]*
+
+### Mentioned In
+- [[IgnimbritesOfTheSierraMadreOcc_12304]]
+
 ## Upper Waterton Lake
 
 ### Summary
@@ -9077,6 +11402,18 @@ Upper Waterton Lake is a lake in Alberta, Canada that served as one of two sourc
 
 ### Mentioned In
 - [[IntroductionOfTheOpossumShrimp_20345]]
+
+## Upper White River
+
+### Summary
+A river system in the Great Basin/Mohave region noted in this 1985 paper as holding Lund Town Spring, described as a nearly pristine refugium for three or four rare fishes. It is one of the 15 ecosystems the authors identify as supporting at least four rare fishes.
+
+### Context
+> This 1985 paper by the Endangered Species Committee of the [[Desert Fishes Council]] (Williams, Bowman, Brooks, Echelle, Edwards, Hendrickson and Landye) identifies endangered aquatic ecosystems across the [[Great Basin Desert|Great Basin]], [[Mojave Desert|Mohave]], [[Sonoran Desert|Sonoran]] and...
+> -- *[[EndangeredAquaticEcosystemsInN_12035]]*
+
+### Mentioned In
+- [[EndangeredAquaticEcosystemsInN_12035]]
 
 ## Upper York Dam
 <!-- fm: auto_enriched: true -->
@@ -9101,6 +11438,30 @@ Upper Waterton Lake is a lake in Alberta, Canada that served as one of two sourc
 ### Mentioned In
 - [[FisheriesFieldStationSummarySo_1996]]
 
+## Uppsala School
+
+### Summary
+The Uppsala School is a group of Swedish peat researchers whose terminology restricts the word 'bog' to ombrogenous habitats, those fed only by precipitation. The source contrasts this usage with Pearsall's 'lacustrine bog' and the British 'valley bog' concept. The differing definitions show that terminology for peat lands is not uniform across research traditions.
+
+### Context
+> This review, by Eville Gorham of the [[Freshwater Biological Association]] (Ambleside, England), reprinted from *The Quarterly Review of Biology* (Vol. 32, No. 2, June 1957), synthesizes how peat lands (bogs, fens, and related wetlands) form and develop. It outlines a common vertical and horizontal...
+> -- *[[TheDevelopmentOfPeatLands_11056]]*
+
+### Mentioned In
+- [[TheDevelopmentOfPeatLands_11056]]
+
+## Upstream Movement
+
+### Summary
+Upstream movement is the migration of crawling or swimming organisms against the current. At Sycamore Creek it supplied 16% of summer and 23% of winter individuals, came from only about 10 taxa, and increased in relative importance after floods.
+
+### Context
+> This study examines how stream macroinvertebrates recolonize [[Sycamore Creek]], a lowland [[Sonoran Desert]] stream, after floods. The authors tested the hypothesis that most taxa recolonize through aerial pathways. Using colonization trays, mark-recapture of adult beetles, diel drift and...
+> -- *[[PostfloodRecolonizationPathway_19210]]*
+
+### Mentioned In
+- [[PostfloodRecolonizationPathway_19210]]
+
 ## Upstream Riparian Areas
 
 ### Summary
@@ -9112,6 +11473,30 @@ Upstream riparian areas are vegetated corridors along streams that have extra wa
 
 ### Mentioned In
 - [[ManagingVegetationToIncreaseFl_20382]]
+
+## Upstream-Downstream Diurnal Method
+
+### Summary
+A stream metabolism technique, after Odum (1956), that estimates whole-community production and respiration from day-night changes in dissolved oxygen between an upstream and downstream station. Unlike light and dark bottle methods, it captures benthic as well as planktonic processes, and this dissertation used 23 such analyses.
+
+### Context
+> This 1966 Oklahoma State University dissertation by [[Ray K. Baumgardner]] examines the [[Oxygen Balance]] of [[Skeleton Creek]], a small prairie stream in north-central Oklahoma receiving sewage from several municipal and institutional sources and effluent from an [[Oil Refinery]]. Monthly...
+> -- *[[OxygenBalanceInAStreamReceivin_15654]]*
+
+### Mentioned In
+- [[OxygenBalanceInAStreamReceivin_15654]]
+
+## Upstream-Downstream Method
+
+### Summary
+A method for estimating stream primary production from differences in dissolved oxygen between an upstream and a downstream point along a reach. In this study it gave mean gross production of 4.7 g O₂ m⁻² day⁻¹ at Station I, 9.9 at Station II, and 11.6 at Station III. Its values were higher than those from the Single Curve Method at Stations II and III.
+
+### Context
+> This study by David A. Flemer (University of Maryland, Chesapeake Biological Laboratories) measured [[Primary Productivity]] in a shallow, weakly buffered stream, the [[Raritan River]] (North Branch), New Jersey, from October 1961 to November 1962. Gross photosynthesis was estimated from diurnal...
+> -- *[[PrimaryProductivityOfTheNorthB_16461]]*
+
+### Mentioned In
+- [[PrimaryProductivityOfTheNorthB_16461]]
 
 ## Upwelling
 <!-- fm: auto_enriched: true -->
@@ -9138,6 +11523,15 @@ Upwelling is the process by which nutrient-rich deep water is brought to the sur
 > This document is an expanded bibliography supplementing Chapter 5, "Oceanography and Marine Life along the Pacific Coast of Middle America," by [[Carl L. Hubbs]] and [[Gunnar I. Roden]]. The chapter appeared in Volume 1 (1964) of *Natural Environment and Early Cultures*, part of the *Handbook of...
 > -- *[[ExpandedBibliographyOfArticleE_14464]]*
 
+> This chapter argues that [[Applied Biogeography]] should be guided by an "ethic of organic diversity": humans should add as little as possible to the global rate of species extinction, and lower it where possible. The authors stress how poorly known the living world is, and they warn against...
+> -- *[[AppliedBiogeography_12093]]*
+
+> This paper by [[R. J. M. Crawford]] (Department of Industries, Sea Fisheries Branch, 1980, *Journal of Fish Biology*) summarizes well-defined seasonal trends in the availability and distribution of six species that make up the [[Western Cape Purse-Seine Fishery]]: [[Pilchard]], [[Anchovy]], [[Horse...
+> -- *[[SeasonalPatternsInSouthAfricas_18000]]*
+
+> This 1948 paper by [[Carl L. Hubbs]] of the [[Scripps Institution of Oceanography]] argues that water temperature is the dominant control on the distribution of marine fishes along the [[Pacific Coast of North America]]. Hubbs uses fish distributions to infer past ocean temperatures, and treats the...
+> -- *[[ChangesInTheFishFaunaOfWestern_20041]]*
+
 ### Mentioned In
 - [[CarlLeavittHubbsMcgrawHillMode_1968]]
 - [[InfluenceOfLandMassesOnTheDist_14157]]
@@ -9145,6 +11539,21 @@ Upwelling is the process by which nutrient-rich deep water is brought to the sur
 - [[FishOilIndustryInSouthAmerica_20503]]
 - [[RecentClimacticHistoryInCalifo_17984]]
 - [[ExpandedBibliographyOfArticleE_14464]]
+- [[AppliedBiogeography_12093]]
+- [[SeasonalPatternsInSouthAfricas_18000]]
+- [[ChangesInTheFishFaunaOfWestern_20041]]
+
+## Ural River
+
+### Summary
+A river flowing into the northern Caspian Sea, mentioned in the source as the endpoint of a Volga-to-Ural River grass carp transfer. Pavlov and Nelovkin (1963) reported that this transfer crosses low-salinity brackish water, which the source uses as evidence that grass carp can move through such water.
+
+### Context
+> This 1970 laboratory study by D. G. Cross of the [[Salmon And Freshwater Fisheries Laboratory]] tested how well older [[Grass Carp]] (*[[Ctenopharyngodon Idella]]*) tolerate diluted [[Seawater]]. The question matters for risk assessment: if grass carp were introduced to British waterways for...
+> -- *[[TheToleranceOfGrassCarpCtenoph_18024]]*
+
+### Mentioned In
+- [[TheToleranceOfGrassCarpCtenoph_18024]]
 
 ## Uranidea Marginata
 <!-- fm: auto_enriched: true -->
@@ -9155,6 +11564,30 @@ Upwelling is the process by which nutrient-rich deep water is brought to the sur
 
 ### Mentioned In
 - [[NotesOnFishesCollectedByCaptCh_15664]]
+
+## Uranium
+
+### Summary
+Uranium is a radioactive element with a very long half-life, about 7.6 billion years. The source contrasts it with radiocarbon, noting that uranium is suited to dating far longer timescales than the last few tens of thousands of years.
+
+### Context
+> This 1952 *Scientific American* article by [[Edward S. Deevey Jr.]] reviews [[Radiocarbon Dating]], a method developed by [[Willard F. Libby]] that measures the age of organic remains from their residual [[Carbon 14]]. The author argues that the method has largely fulfilled its promise for the last...
+> -- *[[RadiocarbonDating_12758]]*
+
+### Mentioned In
+- [[RadiocarbonDating_12758]]
+
+## Uranium 235
+
+### Summary
+Uranium 235 is a uranium isotope that undergoes nuclear fission. The source identifies it as one of the fission sources of the strontium isotopes studied, which were produced from fission products.
+
+### Context
+> This 1953 laboratory study from the [[Water Pollution Research Laboratory]], published in the *Journal of the Institution of Water Engineers*, examines how radioactive strontium isotopes ([[Strontium 89]] and [[Strontium 90]]) behave during conventional drinking-water treatment. Only 2 to 5 per...
+> -- *[[ObservationsOnTheRemovalOfRadi_19130]]*
+
+### Mentioned In
+- [[ObservationsOnTheRemovalOfRadi_19130]]
 
 ## Uranium Exploration
 
@@ -9167,6 +11600,82 @@ Uranium exploration is listed among the main land uses in the Little Snake River
 
 ### Mentioned In
 - [[AFisheriesSurveyOfTheLittleSna_20873]]
+
+## Uranium Milling
+
+### Summary
+Uranium milling is the processing of mined uranium ore to extract the uranium, which leaves behind large volumes of liquid and solid waste. This source describes mills along the Animas, San Miguel and Dolores Rivers that discharged wastes to streams before effective treatment existed, with nearly all the ore's radium remaining in the tailings.
+
+### Context
+> Bulletin 462 of the Utah Agricultural Experiment Station (Utah State University, Logan, December 1966) reports a 1960–1963 field study of how [[Uranium Milling]] wastes affect stream biota in the Animas, San Miguel, and Dolores Rivers of southwestern Colorado. The work focused on [[Radium-226]], a...
+> -- *[[TheEffectsOfUraniumMillWastesO_18951]]*
+
+### Mentioned In
+- [[TheEffectsOfUraniumMillWastesO_18951]]
+
+## Uranium Ore Refinery
+
+### Summary
+The uranium mill at Durango, Colorado, which processed local ore and discharged chemical toxicants and radium-bearing solids into the Animas River. The source note identifies it as the principal source of interstate pollution, with dissolved radium rising sharply below the plant. Its effluents were also acutely toxic to rainbow trout in bioassays.
+
+### Context
+> This 1960 study, published in the *Journal of the Water Pollution Control Federation*, examines interstate pollution of the [[Animas River]] (Colorado–New Mexico) by a [[Uranium Ore Refinery]] at Durango, Colorado. The refinery discharged chemical toxicants and [[Radium]]-bearing solids that raised...
+> -- *[[ControlOfRadioactivePollutionO_13408]]*
+
+### Mentioned In
+- [[ControlOfRadioactivePollutionO_13408]]
+
+## Uranium Refining
+
+### Summary
+The processing of uranium ore to recover uranium oxide, which in the western United States was done at mills that produced liquid radioactive wastes. This source examines how those wastes affected nearby streams. Methods mentioned include acid and carbonate leaching, ion exchange, and solvent extraction.
+
+### Context
+> This 1958 study by the [[Public Health Service]] (Robert A. Taft Sanitary Engineering Center and Occupational Health Field Station) examines how liquid radioactive wastes from western [[Uranium Refining]] mills affect nearby streams. The main concern is [[Radium]], the most hazardous radionuclide...
+> -- *[[EffectsOfUraniumOreRefineryWas_13407]]*
+
+### Mentioned In
+- [[EffectsOfUraniumOreRefineryWas_13407]]
+
+## Uranium-238
+
+### Summary
+The most abundant isotope of natural uranium (about 99.28 per cent of it) and the parent of the uranium-radium decay series, with a half-life of 4.5 billion years. Only uranium is recovered from ores, while its decay products remain in the process wastes.
+
+### Context
+> This 1958 study by the [[Public Health Service]] (Robert A. Taft Sanitary Engineering Center and Occupational Health Field Station) examines how liquid radioactive wastes from western [[Uranium Refining]] mills affect nearby streams. The main concern is [[Radium]], the most hazardous radionuclide...
+> -- *[[EffectsOfUraniumOreRefineryWas_13407]]*
+
+> This preliminary study from the 1961 [[Radioecology]] symposium examines the life history, feeding ecology, growth, and [[Bioaccumulation]] of naturally occurring radionuclides in the [[Banded Sculpin]] (*Cottus carolinae*) in [[Doe Run]], a spring stream in Meade County, Kentucky. The banded...
+> -- *[[NaturalRadioactivityInTheFoodW_11280]]*
+
+### Mentioned In
+- [[EffectsOfUraniumOreRefineryWas_13407]]
+- [[NaturalRadioactivityInTheFoodW_11280]]
+
+## Uranium-Radium Decay Series
+
+### Summary
+The chain of radioactive decay products that begins with uranium-238 and ends in nonradioactive lead. Radium and radon are members of this series; all members except uranium remain in mill wastes, making the series the main concern for waste disposal.
+
+### Context
+> This 1958 study by the [[Public Health Service]] (Robert A. Taft Sanitary Engineering Center and Occupational Health Field Station) examines how liquid radioactive wastes from western [[Uranium Refining]] mills affect nearby streams. The main concern is [[Radium]], the most hazardous radionuclide...
+> -- *[[EffectsOfUraniumOreRefineryWas_13407]]*
+
+### Mentioned In
+- [[EffectsOfUraniumOreRefineryWas_13407]]
+
+## Uranium-Series Dating
+
+### Summary
+Uranium-series dating is a radiometric method used here for materials older than the radiocarbon range (over about 20,000 yr B.P.). In this source it is used alongside radiocarbon ages, for example sample PL 41 gave a uranium-series age of 14,000 ± 3,000 yr B.P., and it was used to show that nine Walker Lake tufa radiocarbon ages were too young by about 19,000 years.
+
+### Context
+> This paleolimnological rebuttal, published in the *Journal of Paleolimnology* (1991), argues that the last highstand of [[Lake Lahontan]] occurred between about 14,500 and 13,000 yr B.P. The author, L.V. Benson, disputes [[Bradbury et al. 1989]], who proposed that the last highstand fell between...
+> -- *[[TimingOfTheLastHighstandOfLake_18174]]*
+
+### Mentioned In
+- [[TimingOfTheLastHighstandOfLake_18174]]
 
 ## Uranium-Thorium Dating
 <!-- fm: auto_enriched: true -->
@@ -9240,6 +11749,30 @@ Modifying urban stream channels, often by straightening or lining them. The sour
 ### Mentioned In
 - [[FishSamplingAtAsuKarstenGolfCo_1990_05_12]]
 
+## Urban Sewage
+
+### Summary
+Domestic wastewater and sewage entering rivers near towns and cities. The paper links sewage and city discharges, such as those from Monterrey, to declines in several Nuevo León and Querétaro streams.
+
+### Context
+> This paper reports changes in freshwater fish community composition at nine Mexican localities marginal to arid zones, documented over roughly 70 years or less. Comparisons are drawn between early collections by [[Seth E. Meek]] (1901–1904) and later surveys from 1960 to 1973. Most changes are...
+> -- *[[CambiosDeComposicionDeEspecies_17515]]*
+
+### Mentioned In
+- [[CambiosDeComposicionDeEspecies_17515]]
+
+## Urban Sprawl
+
+### Summary
+The spread of development into surrounding land. The authors identify it as a threat to the Etowah, warning that growth from Atlanta could overtake the river within roughly a decade.
+
+### Context
+> The article argues that the [[Etowah River]] in north Georgia appears healthy on the surface but is in serious ecological decline. Surveys of its fish and mussel fauna show that 35 of about 50 historic mussel species have disappeared, along with seven fish species, and seven more fish species are...
+> -- *[[ARiverUnderSiegeIsTheBeautiful_14034]]*
+
+### Mentioned In
+- [[ARiverUnderSiegeIsTheBeautiful_14034]]
+
 ## Urban Sprawl And Watershed Degradation
 <!-- fm: auto_enriched: true -->
 
@@ -9298,6 +11831,30 @@ Urethane is a sedative chemical used to anesthetize fish, applied as a 0.5% solu
 ### Mentioned In
 - [[TheUseOfSedativesToReduceManip_20686]]
 
+## Urethane Anesthesia
+
+### Summary
+A chemical anesthetic (urethane) used to immobilize the fish during the spinal cord surgery in this study.
+
+### Context
+> This experimental histological study by Walter Fahrmann, published in *Zeitschrift für Zellforschung* (1963) and carried out at the [[Hydrobiologische Anstalt]] of the Max-Planck-Gesellschaft in Schlitz, examines how [[Reissner's Fiber]] (RF) behaves after the spinal cord is cut in [[Rainbow...
+> -- *[[DerReissnerscheFadenNachDurchs_16303]]*
+
+### Mentioned In
+- [[DerReissnerscheFadenNachDurchs_16303]]
+
+## Urnatella Gracilis
+
+### Summary
+A freshwater endoproct (phylum Endoprocta) with branched, colonial calyces. Weise's 1961 paper reviews its distribution and ecology, based mainly on Ohio River collections. It lives only in flowing water on coarse substrates and tolerates wide ranges of oxygen, temperature, pH, alkalinity and turbidity.
+
+### Context
+> This 1961 limnological paper by John G. Weise reviews the distribution and ecology of [[Urnatella Gracilis]], a freshwater endoproct (phylum Endoprocta), using bottom collections from the [[Ohio River]] made during the author's work for the [[Aquatic Life Resources Project]]. The species is found...
+> -- *[[TheEcologyOfUrnatellaGracilisL_12124]]*
+
+### Mentioned In
+- [[TheEcologyOfUrnatellaGracilisL_12124]]
+
 ## Urness
 
 ### Summary
@@ -9309,6 +11866,62 @@ Cited (1969) for a study of deer diet and nutrition, using rumen and fecal analy
 
 ### Mentioned In
 - [[SelectedBibliographyOfWildlife_18466]]
+
+## Uroctonus Franckei
+
+### Summary
+Uroctonus franckei is a scorpion in the family Vaejovidae, described as new by S. C. Williams in 1986. According to this source, it is known only from montane slopes above 2133 m on the eastern side of the Sierra Nevada in California, where it was never found to be abundant. It is distinguished from its nearest relative, U. mordax, by slenderer metasomal segments, chela palm shape, and macrosetal arrangement.
+
+### Context
+> This taxonomic paper describes a new scorpion, [[Uroctonus Franckei]] Williams, 1986, from the eastern slope of the [[Sierra Nevada]] in California. The species is known only from elevations above 2133 m, on slopes dominated by [[Pinus Jeffreyi]] (yellow pine). Its closest relative is [[Uroctonus...
+> -- *[[ANewSpeciesOfUroctonusFromTheS_12062]]*
+
+### Mentioned In
+- [[ANewSpeciesOfUroctonusFromTheS_12062]]
+
+## Uroctonus mordax
+
+### Summary
+A scorpion found in single-species communities at high elevations or latitudes. The source reports that about 15% of a population surfaced on one night, surfacing at about 4 °C, and that it ingested 5–87% of prey biomass when feeding.
+
+### Context
+> This 1987 review by S.C. Williams of [[San Francisco State University]] summarizes recent research on the biology of scorpions (order Scorpiones), covering systematics, life history, reproduction, feeding, habitat use, activity cycles and predation. The document describes scorpions as an ancient...
+> -- *[[ScorpionBionomics_12063]]*
+
+> This taxonomic paper describes a new scorpion, [[Uroctonus Franckei]] Williams, 1986, from the eastern slope of the [[Sierra Nevada]] in California. The species is known only from elevations above 2133 m, on slopes dominated by [[Pinus Jeffreyi]] (yellow pine). Its closest relative is [[Uroctonus...
+> -- *[[ANewSpeciesOfUroctonusFromTheS_12062]]*
+
+> This study by [[Stanley C Williams]] describes the birth and early post-birth behaviour of 14 North American scorpion species from seven genera and four families ([[Buthidae]], [[Chactidae]], [[Diplocentridae]], [[Vejovidae]]). Observations were made over roughly five years in western North...
+> -- *[[BirthActivitiesOfSomeNorthAmer_12050]]*
+
+### Mentioned In
+- [[ScorpionBionomics_12063]]
+- [[ANewSpeciesOfUroctonusFromTheS_12062]]
+- [[BirthActivitiesOfSomeNorthAmer_12050]]
+
+## Urogenital Opening
+
+### Summary
+The urogenital opening is the external genital opening of a fish, and this note uses its shape and surrounding tissue as a way to tell male from female bluegills. Females show a pink, fleshy, ring-like opening that swells most during the breeding season, while males usually have only a small fleshy area or none, ending in a small funnel-shaped pore. Comparing these features was validated against dissection on 200 fish.
+
+### Context
+> This short methods note, reprinted from *The Progressive Fish-Culturist* (Vol. 30, No. 1, January 1968), describes an external method for sexing [[Bluegill]] ([[Lepomis Macrochirus]]) by examining the [[Urogenital Opening]]. The author, [[Thomas S. McComish]] of the [[Missouri Cooperative Fishery...
+> -- *[[SexualDifferentiationOfBluegil_12268]]*
+
+### Mentioned In
+- [[SexualDifferentiationOfBluegil_12268]]
+
+## Urogenital Papilla
+
+### Summary
+A small external reproductive structure in cichlids whose shape differs between sexes. In this source it is the main tool for telling sexes apart: conical and pointed in males, broad and scalloped in females.
+
+### Context
+> This 1975 systematic revision by [[William A. Bussing]] and Michael Martin, published in [[Contributions in Science]] by the [[Natural History Museum of Los Angeles County]], clarifies the status of four Central American cichlids of the [[Longimanus Complex]] within the [[Amphilophus Group]]. The...
+> -- *[[SystematicStatusVariationAndDi_14143]]*
+
+### Mentioned In
+- [[SystematicStatusVariationAndDi_14143]]
 
 ## Urogenital Papillae
 <!-- fm: auto_enriched: true -->
@@ -9331,8 +11944,24 @@ Cited (1969) for a study of deer diet and nutrition, using rumen and fecal analy
 > This 1975 study by Alex E. Peden investigates **copulatory behavior** in the poeciliid genus *[[Gambusia]]* as a potential **partial prefertilization isolating mechanism** between species that frequently hybridize in nature. Using artificial female models (plaster-of-Paris bodies filled with shor...
 > -- *[[DifferencesInCopulatoryBehavio_1975]]*
 
+> This 1972 study in the *Canadian Journal of Zoology* describes how male [[Gambusia]] use the [[Gonopodium]] (the modified anal fin used to transfer sperm) and the [[Pectoral Fin]] during [[Copulation]]. Using super 8-mm film and hollowed-out [[Artificial Female Models]] that recorded gonopodial...
+> -- *[[TheFunctionOfGonopodialPartsAn_11236]]*
+
 ### Mentioned In
 - [[DifferencesInCopulatoryBehavio_1975]]
+- [[TheFunctionOfGonopodialPartsAn_11236]]
+
+## Urohyal
+
+### Summary
+An ossified tendon in the throat region, which Ridewood argues is not a basibranchiostegal bone. He says the term 'basibranchiostegal' is therefore misleading when applied to it.
+
+### Context
+> The document is a scanned 1904 Proceedings of the Zoological Society article in two parts. Part one describes the gill-rakers of the [[Spoonbill Sturgeon]] (*Polyodon spathula*), a filter-feeding structure, and gives six numbered conclusions on their structure and function. Part two is a detailed...
+> -- *[[OnTheCranialOsteologyOfTheFish_14946]]*
+
+### Mentioned In
+- [[OnTheCranialOsteologyOfTheFish_14946]]
 
 ## Urophycis
 <!-- fm: auto_enriched: true -->
@@ -9450,8 +12079,12 @@ The black bear is an endangered species under federal protection in the Sierra S
 > This management plan proposes the establishment of the "Sierra San Luis" Wild and Aquatic Flora and Fauna Protection Area, encompassing 59,000 hectares in northwestern Mexico along the border with the United States. The area spans the municipalities of [[Agua Prieta]] (Sonora) and [[Janos]]...
 > -- *[[ManagementPlanSierraSanLuisWil_18303]]*
 
+> This is a draft management plan (*Proyecto de Plan de Manejo*, October 1994) for the proposed Zona de Protección de Flora y Fauna Silvestres y Acuáticas [[Sierra San Luis]], a 59,000 ha protected area on the northern edge of the [[Sierra Madre Occidental]] straddling the Sonora–Chihuahua border...
+> -- *[[ProyectoDePlanDeManejo_19306]]*
+
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
+- [[ProyectoDePlanDeManejo_19306]]
 
 ## Ursus arctos
 
@@ -9489,9 +12122,13 @@ The US Army Corps of Engineers is a federal agency that builds and operates wate
 > This 1955 report from the [[New Hampshire Fish And Game Department]] (Management and Research Division) assesses how dams affect fish and wildlife in New Hampshire. It concludes that some dams have been highly destructive while many have been beneficial. The authors argue that dam proposals should...
 > -- *[[DamsInNewHampshireAndTheirEffe_18942]]*
 
+> This Sunset magazine feature by Lora J. Finnegan profiles the [[Snake River]] and [[Hells Canyon]] in the Pacific Northwest as both a recreational destination and a contested dam-management landscape. The article describes the river's recreational value and the conflict between conservationists...
+> -- *[[YearOfTheSnakeThisNorthwestern_17466]]*
+
 ### Mentioned In
 - [[WaterForBirdsFishPeople_18182]]
 - [[DamsInNewHampshireAndTheirEffe_18942]]
+- [[YearOfTheSnakeThisNorthwestern_17466]]
 
 ## US Bureau of Land Management
 
@@ -9519,6 +12156,18 @@ The US Bureau of Land Management is one of the primary management jurisdictions 
 - [[NoticeOfIntentToSueEndangeredS_1993_09_26]]
 - [[RequestForProposalspresubmitta_18342]]
 - [[GeneticDiversityOfRazorbackSuc_19126]]
+
+## US Census Bureau
+
+### Summary
+The US Census Bureau is the federal agency that collects population data for the United States. The article uses its figures to show that Kane and McHenry counties are among Illinois's fastest-growing counties.
+
+### Context
+> This 1999 USA TODAY news article by Traci Watson examines how suburban development ("sprawl") is threatening US rivers. Its main case study is the [[Fox River]] in northeastern Illinois, which flows through [[Kane County]] and [[McHenry County]], two of the fastest-growing counties in the state....
+> -- *[[EffectsOfSprawlFlowIntoRiverIn_17465]]*
+
+### Mentioned In
+- [[EffectsOfSprawlFlowIntoRiverIn_17465]]
 
 ## Us Fish And Wildlife Service
 <!-- fm: auto_enriched: true -->
@@ -9596,6 +12245,9 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 > A letter dated January 15, 1999, from the [[US Fish And Wildlife Service]] Arizona Ecological Services Field Office transmits the final decision on the extirpation of stocked populations of [[Gila Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) at nine...
 > -- *[[SitesDeclaredExtirpatedForGila_11758]]*
 
+> This study by [[Jason B. Dunham]] and [[W. L. Minckley]] (Arizona State University, published in *Biological Conservation*, 1998) compares allozymic (protein-electrophoresis) genetic variation among wild and captive populations of the endangered [[Desert Pupfish]] (*Cyprinodon macularius...
+> -- *[[AllozymicVariationInDesertPupf_19163]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1992_03_08]]
 - [[LetterFromCatronCountyCommissi_1992_12_01]]
@@ -9627,6 +12279,7 @@ The U.S. Fish and Wildlife Service is the primary federal agency responsible for
 - [[SanPedroRiparianNationalConser_18829]]
 - [[VirginRiverBasinIntegratedReso_19196]]
 - [[SitesDeclaredExtirpatedForGila_11758]]
+- [[AllozymicVariationInDesertPupf_19163]]
 
 ## US Fish and Wildlife Service Field Station
 
@@ -9690,10 +12343,14 @@ The US federal science agency that studies natural resources and hydrology. In t
 > This document is a policy package rather than research. It contains a November 12, 1997 memorandum from the Secretaries of the Interior and Agriculture and the Deputy Under Secretary of Defense, and a December 16, 1997 briefing paper. Together they direct federal agencies to build a collaborative...
 > -- *[[InteragencySouthwestStrategyFo_17186]]*
 
+> This document is the summary of proceedings from the Second Annual Symposium on the Rare and Endangered Fishes of the [[Death Valley System]]. It was held November 17-18, 1970, at Death Valley National Monument Headquarters, Furnace Creek, California, and coordinated by the [[California Department...
+> -- *[[TheRareAndEndangeredFishesOfTh_11107]]*
+
 ### Mentioned In
 - [[ExecutiveSummaryOfTheRecoveryP_11480]]
 - [[RadiometricAndChemicalDataForT_17317]]
 - [[InteragencySouthwestStrategyFo_17186]]
+- [[TheRareAndEndangeredFishesOfTh_11107]]
 
 ## Us Global Change Research Program
 <!-- fm: auto_enriched: true -->
@@ -9789,6 +12446,15 @@ The USDA Forest Service is a federal agency responsible for managing over 190 mi
 > This document is a set of three letters from late 1996 and early 1997 concerning a proposal to reintroduce [[Gila Trout]] (*Oncorhynchus gilae*) into Arizona waters. The [[Zane Grey Chapter]] of [[Trout Unlimited]] initiated the request to the [[U.S. Fish And Wildlife Service]] (USFWS) Arizona...
 > -- *[[CommunicationBetweenTheZaneGre_13254]]*
 
+> This USDA Forest Service and University of Arizona research report (Research Report 274, Summer 1975) documents **[[Snowmelt Runoff Efficiency]]** for 14 experimental watersheds across Arizona's snow zone. Efficiency is the share of on-site [[Snowpack Water Equivalent]] that leaves the watershed as...
+> -- *[[SnowmeltRunoffEfficiencesOnAri_11784]]*
+
+> A historic 1999 agreement between [[Arizona Public Service]] (APS) and an environmental partnership led by [[American Rivers]] will close and decommission the Childs-Irving hydropower plants on [[Fossil Creek]], which have diverted over 95% of the creek's flow since 1908. Under the agreement, full...
+> -- *[[FossilCreekMilesOfStreamRestor_20558]]*
+
+> This 1976 paper, by J. R. Thompson, O. D. Knipe, and Phil M. Johnson of the [[USDA Forest Service]] Rocky Mountain Forest and Range Experiment Station, examines whether tree windbreaks can hold blowing snow on the high-elevation [[Grassland Islands]] of eastern Arizona and thereby raise [[Water...
+> -- *[[WindbreaksMayIncreaseWaterYiel_13589]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[InteragencySouthwestStrategyFo_1997_11_12]]
@@ -9800,6 +12466,9 @@ The USDA Forest Service is a federal agency responsible for managing over 190 mi
 - [[ProgramWithAbstracts_18596]]
 - [[ChiricahuaMountainsResearchSym_15626]]
 - [[CommunicationBetweenTheZaneGre_13254]]
+- [[SnowmeltRunoffEfficiencesOnAri_11784]]
+- [[FossilCreekMilesOfStreamRestor_20558]]
+- [[WindbreaksMayIncreaseWaterYiel_13589]]
 
 ## Use Counts
 
@@ -9888,6 +12557,18 @@ USFWS (United States Fish and Wildlife Service) is the primary federal agency re
 
 ### Mentioned In
 - [[LoachMinnowStudyPlanForBiologi_1996_05_17]]
+
+## USFWS Endangered Species Lists
+
+### Summary
+Lists of species protected under the U.S. Fish and Wildlife Service's endangered species program. The source used the 1991 version as one of its status data sources for U.S. freshwater fishes.
+
+### Context
+> This review by [[Melvin L. Warren Jr.]] and [[Brooks M. Burr]], published in *Fisheries* (Vol. 19, No. 1, January 1994), assesses the diversity, endemicity and conservation status of native freshwater fishes across the conterminous United States. The country holds about 790 native freshwater...
+> -- *[[CommunityDiversityRelativeRole_14907]]*
+
+### Mentioned In
+- [[CommunityDiversityRelativeRole_14907]]
 
 ## Usfws Fisheries Program
 <!-- fm: auto_enriched: true -->
@@ -10057,6 +12738,18 @@ Streamflow records collected at a fixed gauge on a river, used here to derive th
 ### Mentioned In
 - [[VirginRiverMonitoringNevadaSum_1995_05_31]]
 
+## USGS Gauging Station
+
+### Summary
+The USGS gauging station was located 17 km upstream of the Sycamore Creek mouth and supplied 19 years (1960–1979) of discharge data. Gray used these records to calculate flood probabilities. He then estimated the chance that each taxon's larval development would be completed without a flood, which helped explain the timing of reproduction.
+
+### Context
+> This study by [[Lawrence J. Gray]] (Arizona State University) describes the aquatic insect fauna of [[Sycamore Creek]], a lowland [[Sonoran Desert]] stream in central Arizona, sampled from July 1977 to 1979. The fauna comprised 99 aquatic insect taxa within 104 macroinvertebrate taxa. Life...
+> -- *[[SpeciesCompositionAndLifeHisto_19209]]*
+
+### Mentioned In
+- [[SpeciesCompositionAndLifeHisto_19209]]
+
 ## USGS Monitoring
 
 ### Summary
@@ -10068,6 +12761,18 @@ USGS Monitoring refers to the long-term monthly nitrate records kept by the U.S.
 
 ### Mentioned In
 - [[NutrientManagementWithHydroele_18469]]
+
+## USGS Quadrangle
+
+### Summary
+A USGS Quadrangle is a standard topographic map sheet published by the U.S. Geological Survey, commonly at 1:24,000 scale. The essay says these sheets were the typical base maps used in Forest Service planning. The author notes that earlier scanners could not accept full quadrangle sizes, which the Region planned to address.
+
+### Context
+> This essay by David A. Plakeman, a resource specialist with the [[Forest Service]] [[Pacific Southwest Region]], argues that the [[Geographic Information System]] (GIS) industry has stayed with costly [[Manual Digitizer]] data entry for too long. Plakeman states that data entry accounts for about...
+> -- *[[SomeThoughtsAboutGisDataentry_17685]]*
+
+### Mentioned In
+- [[SomeThoughtsAboutGisDataentry_17685]]
 
 ## USGS Station 09406000
 
@@ -10183,6 +12888,18 @@ A reference the authors cite as the basis for recommending periodic, long-term s
 ### Mentioned In
 - [[NotesOnSiltPollutionInTheTruck_17588]]
 
+## USNS Eltanin
+
+### Summary
+USNS Eltanin was a research vessel whose cruises supplied some of the Lampadena specimens examined in this review. It is listed among the sources of material alongside R/V Anton Bruun, R/V Atlantis II and R/V Chain.
+
+### Context
+> This taxonomic review by [[Nafpaktitis]] and [[Paxton]] (Los Angeles County Museum of Natural History, *Contributions in Science* No. 138, 1968) revises the [[Lampadena]] genus of [[Myctophidae|Myctophid]] lanternfishes. The authors consolidate redescriptions of the genus's species, which had been...
+> -- *[[ReviewOfTheLanternfishGenusLam_19476]]*
+
+### Mentioned In
+- [[ReviewOfTheLanternfishGenusLam_19476]]
+
 ## Ussuri River
 <!-- fm: auto_enriched: true -->
 
@@ -10200,6 +12917,22 @@ The Usumacinta Fish Province is a freshwater fish biogeographic region of southe
 
 ### Mentioned In
 - [[MexicanFreshwaterSilversidesPi_16117]]
+
+## Usumacinta River
+
+### Summary
+A large tropical river on the Mexico-Guatemala border that drains about 41,000 square miles and flows north to the Gulf of Mexico. The article treats the river as a whole watershed of value, threatened by deforestation, dam plans, and settlement pressure.
+
+### Context
+> This feature-length article describes the [[Usumacinta River]] as a large tropical river system on the Mexico-Guatemala border that drains the largest surviving rain forest in North America. The author's raft expedition documents three intertwined pressures: rapid settlement and [[Deforestation]]...
+> -- *[[TheUsumacintaRiverTroublesOnAW_11981]]*
+
+> Rosen and Bailey (1959) revise two Middle-American poeciliid genera, [[Carlhubbsia]] and [[Phallichthys]], which had previously been grouped with several other genera in the subfamily [[Poeciliopsinae]] on the basis of a shared asymmetrically folded male gonopodium. The authors describe two new...
+> -- *[[MiddleamericanPoeciliidFishesO_21058]]*
+
+### Mentioned In
+- [[TheUsumacintaRiverTroublesOnAW_11981]]
+- [[MiddleamericanPoeciliidFishesO_21058]]
 
 ## Usumacinta-Grijalva Basin
 
@@ -10244,6 +12977,12 @@ Utah is a geographic region in the western United States that serves as a critic
 > The 1995 annual report documents the [[Upper Colorado River Recovery Program]]'s transition from research to direct recovery actions for four endangered fish species: [[Colorado Squawfish]] (*Ptychocheilus lucius*), [[Razorback Sucker]] (*Xyrauchen texanus*), [[Bonytail]] (*Gila elegans*), and...
 > -- *[[AnnualReportRecoveryProgramFor_11673]]*
 
+> This 1951 study by William F. Sigler of the [[Utah State Agricultural College]] examines the life history of the [[Brown Trout]] (*Salmo trutta fario*) in the [[Logan River]], a cold, steep, high-velocity stream in [[Cache County]], [[Utah]]. Of 1,053 brown trout examined, 286 were retained for age...
+> -- *[[AgeAndGrowthOfTheBrownTroutSal_18947]]*
+
+> Vasco M. Tanner (Brigham Young University, 1936) presents a systematic review of the native and introduced fish fauna of [[Utah]]. The paper combines a historical account of collectors and publications, identification keys to families, genera and species, illustrated descriptions, distributional...
+> -- *[[AStudyOfTheFishesOfUtah_13456]]*
+
 ### Mentioned In
 - [[EndanderedAndThreatenedWildlif_16520]]
 - [[EndangeredAndThreatenedWildlif_1980_05_27]]
@@ -10258,6 +12997,8 @@ Utah is a geographic region in the western United States that serves as a critic
 - [[ReSteveLanigansCommentsConcern_14142]]
 - [[DraftManagementGroupMeetingSum_17880]]
 - [[AnnualReportRecoveryProgramFor_11673]]
+- [[AgeAndGrowthOfTheBrownTroutSal_18947]]
+- [[AStudyOfTheFishesOfUtah_13456]]
 
 ## Utah Chub
 <!-- fm: auto_enriched: true -->
@@ -10314,6 +13055,30 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 > This progress report from the Utah Division of Fish and Game, with contributions from the Arizona Game and Fish Department, covers the fifth year of post-impoundment fishery study on [[Lake Powell]] (Glen Canyon Reservoir) on the [[Colorado River]], for the biological year February 1967 to January...
 > -- *[[GlenCanyonReservoirPostimpound_14588]]*
 
+> This 1961 study by Richard J. Graham (Oklahoma State University) documents the biology of the [[Utah Chub]] (*Gila atraria*) in [[Hebgen Lake]], an artificial impoundment on the [[Madison River]] in Montana. The species was probably introduced by live-bait fishermen around 1935 and became the most...
+> -- *[[BiologyOfTheUtahChubInHebgenLa_19190]]*
+
+> This 1963 study by [[Workman and Neuhold]] at [[Utah State University]] tested the acute toxicity of the insecticide [[Toxaphene]] to [[Goldfish]], [[Mosquitofish]] and [[Rainbow Trout]], and documented how long the chemical persists in water and in the field. Two formulations were compared: a...
+> -- *[[LethalConcentrationsOfToxaphen_20841]]*
+
+> This paper by Richard Heckmann (Department of Zoology, Brigham Young University) reviews parasites of Utah fishes, a group the author describes as poorly known. It outlines a step-by-step protocol for examining fish for [[Ectoparasites]] and [[Endoparasites]], covering external scrapings, [[Blood...
+> -- *[[ParasitesOfFishesInUtahMethods_20754]]*
+
+> This document is a portion of an annotated checklist of the fishes of Utah, authored by William F. Sigler (Department of Wildlife Resources, Utah State University) and Robert Rush Miller (Museum of Zoology, University of Michigan), published in 1963. It covers taxonomic notes for several groups,...
+> -- *[[FishesOfUtah_18950]]*
+
+> This book chapter by John W. Sigler and William F. Sigler examines the fishes and aquatic ecosystems of the arid interior western United States and argues that their management must be treated as a biological problem, not just an administrative one. It describes extreme water events of the 1980s,...
+> -- *[[AquaticResourcesOfTheAridWestP_18954]]*
+
+> This study uses a [[Bioenergetics Model]] to quantify the consumption dynamics of [[Lake Trout]] (*Salvelinus namaycush*) in [[Flaming Gorge Reservoir]], Utah-Wyoming, and tests whether lake trout predation drove recent shifts in the forage fish community. Kokanee (*Oncorhynchus nerka*) constituted...
+> -- *[[LakeTroutConsumptionAndRecentC_20920]]*
+
+> This taxonomic review by A. Gaylon Cook (Bioconservation International, Provo, Utah) re-examines the native fishes of [[Utah Lake]], a 38,800-ha freshwater body in central Utah, by compiling the descriptive and systematic literature and winnowing the tangled synonymies that have accumulated since...
+> -- *[[NativePiscifaunaOfUtahLake_17541]]*
+
+> This Memoir of the [[California Academy of Sciences]] (Volume VII, published February 8, 1974) by Carl L. Hubbs, Robert Rush Miller, and Laura C. Hubbs reconstructs the Quaternary hydrography of 21 enclosed (endorheic) pluvial-lake basins in the north-central [[Great Basin]] of Nevada and one basin...
+> -- *[[HydrographicHistoryAndRelictFi_14448]]*
+
 ### Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
 - [[EndangeredAndThreatenedFishInT_1979]]
@@ -10332,6 +13097,14 @@ The Utah Chub (Gila atraria) is a cyprinid fish species native to the Great Basi
 - [[CommunityStructureOfBenthicMac_15163]]
 - [[CreelCensusAndExpenditureStudy_13267]]
 - [[GlenCanyonReservoirPostimpound_14588]]
+- [[BiologyOfTheUtahChubInHebgenLa_19190]]
+- [[LethalConcentrationsOfToxaphen_20841]]
+- [[ParasitesOfFishesInUtahMethods_20754]]
+- [[FishesOfUtah_18950]]
+- [[AquaticResourcesOfTheAridWestP_18954]]
+- [[LakeTroutConsumptionAndRecentC_20920]]
+- [[NativePiscifaunaOfUtahLake_17541]]
+- [[HydrographicHistoryAndRelictFi_14448]]
 
 ## Utah Cooperative Fishery Research Unit
 <!-- fm: auto_enriched: true -->
@@ -10365,6 +13138,18 @@ The earliest of the cooperative units, established in December 1961. The source 
 - [[AnnualReportForCooperativeFish_11527]]
 - [[RecreationalUsePatternsAtFlami_20379]]
 
+## Utah Cooperative Wildlife Research Unit
+
+### Summary
+A cooperative research unit that helped launch the 1948 fishery investigation of the Logan River, under which this brown trout growth study was conducted.
+
+### Context
+> This 1951 study by William F. Sigler of the [[Utah State Agricultural College]] examines the life history of the [[Brown Trout]] (*Salmo trutta fario*) in the [[Logan River]], a cold, steep, high-velocity stream in [[Cache County]], [[Utah]]. Of 1,053 brown trout examined, 286 were retained for age...
+> -- *[[AgeAndGrowthOfTheBrownTroutSal_18947]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfTheBrownTroutSal_18947]]
+
 ## Utah Cutthroat Trout
 <!-- fm: auto_enriched: true -->
 
@@ -10387,9 +13172,13 @@ The state agency that issued this completion report under Federal Aid Project F-
 > This joint Utah–Wyoming report documents the planning, execution and post-treatment analysis of a 1962 chemical rehabilitation of roughly 450 miles of the [[Green River]] and its tributaries above [[Flaming Gorge Dam]]. The project aimed to remove non-desirable fish, chiefly [[Carp]], suckers and...
 > -- *[[ThePlanningOperationAndAnalysi_17632]]*
 
+> This multi-author University of Utah publication (Anthropological Papers No. 40, Glen Canyon Series No. 7, June 1959) documents pre-impoundment ecological baseline studies in [[Glen Canyon]], the canyon of the [[Colorado River]] that was to be flooded by the [[Glen Canyon Reservoir]], a unit of the...
+> -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
+
 ### Mentioned In
 - [[PreimpoundmentInvestigationsOf_12301]]
 - [[ThePlanningOperationAndAnalysi_17632]]
+- [[EcologicalStudiesOfTheFloraAnd_20822]]
 
 ## Utah Department Of Natural Resources
 <!-- fm: auto_enriched: true -->
@@ -10435,6 +13224,18 @@ The Utah Division of Fish and Game is a state agency that, along with the U.S. B
 
 ### Mentioned In
 - [[WoundfinTransferFromDexterNati_1993_11_03]]
+
+## Utah Division of Water Rights
+
+### Summary
+The state agency whose then-director, Robert L. Morgan, warned that saturation of the dam toe could cause instability at Quail Creek. The article cites this warning as part of the state's response to the rising seepage.
+
+### Context
+> This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
+> -- *[[FleeAsDikeBurstsInSUtah_20836]]*
+
+### Mentioned In
+- [[FleeAsDikeBurstsInSUtah_20836]]
 
 ## Utah Division of Wildlife
 
@@ -10580,6 +13381,9 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > This FY 93 annual report and attached interim report, prepared for the [[Colorado River Fishes Recovery Program]] and the [[Utah Division Of Wildlife Resources]], evaluate overwinter survival of age-0 [[Colorado Squawfish]] (*Ptychocheilus lucius*), an endangered species. The work was conducted...
 > -- *[[FiscalYearAnnualProjectReportY_13656]]*
 
+> Sigler and Low (1949–1950, *Proceedings of the Utah Academy of Sciences, Arts and Letters*) report a 16-day pack trip (August 19 to September 3, 1947) through the primitive area of the high [[Uinta Mountains]] in northeastern Utah. The study sampled trout from 13 alpine lakes, aged 104 fish from 4...
+> -- *[[AgeCompositionAndGrowthOfFishA_18949]]*
+
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
 - [[CaptureOfRareFishInLakePowell_1988_08_18]]
@@ -10633,6 +13437,7 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[InRegardsToTheWashingtonCounty_16270]]
 - [[TheReturnOfStrawberryOneOfUtah_13233]]
 - [[FiscalYearAnnualProjectReportY_13656]]
+- [[AgeCompositionAndGrowthOfFishA_18949]]
 
 ## Utah Fish And Game Commission
 
@@ -10661,16 +13466,32 @@ The Utah Fish and Game Department was one of two state agencies (along with Ariz
 > This report documents the sixth segment of a nine-year cooperative fisheries investigation on [[Lake Powell]], conducted by the [[Arizona Game and Fish Department]] and [[Utah Fish and Game Department]]. During February 1, 1968 through January 31, 1969, creel census was conducted at four major...
 > -- *[[LakePowellFisheriesInvestigati_14595]]*
 
+> This 1935 paper by A. S. Hazzard of the [[Institute For Fisheries Research]] reports a preliminary limnological survey of [[Fish Lake]], Utah, a high-elevation lake known to anglers as exceptionally productive. The survey ran from July 21 to 31, 1933, in cooperation with the [[Utah Fish And Game...
+> -- *[[APreliminaryStudyOfAnException_20741]]*
+
 ### Mentioned In
 - [[GlenCanyonUnitcoloradoRiverSto_14583]]
 - [[ReservoirFisheriesInvestigatio_14589]]
 - [[LakePowellFisheriesInvestigati_14595]]
+- [[APreliminaryStudyOfAnException_20741]]
 
 ## Utah Fisheries Experiment Station
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[HatcheryAndLaboratoryPhaseOfTh_1980]]
+
+## Utah Fishes Committee
+
+### Summary
+The committee that prepared this 1974 report, which catalogs the endangered, threatened and indeterminate-status fishes of Utah. It is named in the source as the body responsible for the work, under the Bonneville Chapter.
+
+### Context
+> This 1974 report, published in the *Proceedings of the Utah Academy of Sciences, Arts, and Letters* and prepared by the [[Utah Fishes Committee]] of the [[Bonneville Chapter]], catalogs the endangered, threatened and indeterminate-status fishes of Utah. It applies the definitions of the...
+> -- *[[ThreatenedFishesOfUtah_20470]]*
+
+### Mentioned In
+- [[ThreatenedFishesOfUtah_20470]]
 
 ## Utah Frog
 
@@ -10695,6 +13516,30 @@ The state wildlife agency of Utah, which jointly carried out the Green River Fis
 
 ### Mentioned In
 - [[MissionAccomplishedGoodFishing_14409]]
+
+## Utah Geological and Mineral Survey
+
+### Summary
+The state geological agency whose engineering geologist, Bruce Kaliser, warned of gypsum-related settlement risks beneath the Quail Creek dike in 1983. The article cites the survey as one of the bodies that identified gypsum dissolution as a foreseeable hazard before construction.
+
+### Context
+> This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
+> -- *[[FleeAsDikeBurstsInSUtah_20836]]*
+
+### Mentioned In
+- [[FleeAsDikeBurstsInSUtah_20836]]
+
+## Utah International
+
+### Summary
+A copper mining company that was acquired by a larger industrial firm during the period the source describes. The source uses it as an example of acquisition and restructuring in the industry.
+
+### Context
+> Don H. Sherwood, a Denver mining attorney, argues in a 1987 seminar paper that the mining industry has changed fundamentally since the late 1970s. Oil-company acquisitions, foreign ownership, hostile takeovers, spin-offs and bankruptcies have produced a "new model" mining company that he describes...
+> -- *[[MiningLeasesAndExplorationAgre_18899]]*
+
+### Mentioned In
+- [[MiningLeasesAndExplorationAgre_18899]]
 
 ## Utah Juniper
 
@@ -10746,6 +13591,30 @@ Utah Lake is a large, shallow freshwater lake in Utah, USA, characterized by dyn
 > This Utah Division of Wildlife Resources publication (Publication No. 88-8, Snyder and Muth, Larval Fish Laboratory, Colorado State University, July 1988) documents the morphological development and diagnostic characters of the larvae and early juveniles of three catostomids in [[Utah Lake]] and...
 > -- *[[DescriptionAndIdentificationOf_21243]]*
 
+> This 1983 lecture abstract by G.R. Smith (Museum of Zoology, University of Michigan) reviews the history, distribution, and conservation of the fishes of the [[Great Basin]] in Utah and Nevada. The region holds 36 native species, a small number that nonetheless reflects its geological history and...
+> -- *[[HistoryOfFishesOfTheGreatBasin_21150]]*
+
+> This document is a portion of an annotated checklist of the fishes of Utah, authored by William F. Sigler (Department of Wildlife Resources, Utah State University) and Robert Rush Miller (Museum of Zoology, University of Michigan), published in 1963. It covers taxonomic notes for several groups,...
+> -- *[[FishesOfUtah_18950]]*
+
+> This book chapter by John W. Sigler and William F. Sigler examines the fishes and aquatic ecosystems of the arid interior western United States and argues that their management must be treated as a biological problem, not just an administrative one. It describes extreme water events of the 1980s,...
+> -- *[[AquaticResourcesOfTheAridWestP_18954]]*
+
+> Vasco M. Tanner (Brigham Young University, 1936) presents a systematic review of the native and introduced fish fauna of [[Utah]]. The paper combines a historical account of collectors and publications, identification keys to families, genera and species, illustrated descriptions, distributional...
+> -- *[[AStudyOfTheFishesOfUtah_13456]]*
+
+> This 1959 study by [[Arden R. Gaufin]] (Iowa State College Journal of Science, Vol. 33, No. 3) examines the stream-bottom invertebrates of the [[Provo River]], a typical mountain stream of the Intermountain region known for [[Trout Fishing]]. Fieldwork ran from September 1946 to May 1949. The aim...
+> -- *[[ProductionOfBottomFaunaInThePr_16934]]*
+
+> This 1974 report, published in the *Proceedings of the Utah Academy of Sciences, Arts, and Letters* and prepared by the [[Utah Fishes Committee]] of the [[Bonneville Chapter]], catalogs the endangered, threatened and indeterminate-status fishes of Utah. It applies the definitions of the...
+> -- *[[ThreatenedFishesOfUtah_20470]]*
+
+> This review by A. Gaylon Cook (Bioconservation International) organizes and critically reanalyzes the published descriptions of the catostomid suckers of [[Utah Lake]], central Utah. The author argues that long-standing confusion over the number and identity of Utah Lake suckers arose from...
+> -- *[[SuckersOfUtahLake_17542]]*
+
+> This taxonomic review by A. Gaylon Cook (Bioconservation International, Provo, Utah) re-examines the native fishes of [[Utah Lake]], a 38,800-ha freshwater body in central Utah, by compiling the descriptive and systematic literature and winnowing the tangled synonymies that have accumulated since...
+> -- *[[NativePiscifaunaOfUtahLake_17541]]*
+
 ### Mentioned In
 - [[CompensatoryRecruitmentDynamic_2020]]
 - [[StatusOfJuneSuckerInUtahLakeAn_2007]]
@@ -10755,6 +13624,26 @@ Utah Lake is a large, shallow freshwater lake in Utah, USA, characterized by dyn
 - [[FishesNativeToOrIntroducedInPa_18945]]
 - [[ReportUponTheCollectionsOfFish_17579]]
 - [[DescriptionAndIdentificationOf_21243]]
+- [[HistoryOfFishesOfTheGreatBasin_21150]]
+- [[FishesOfUtah_18950]]
+- [[AquaticResourcesOfTheAridWestP_18954]]
+- [[AStudyOfTheFishesOfUtah_13456]]
+- [[ProductionOfBottomFaunaInThePr_16934]]
+- [[ThreatenedFishesOfUtah_20470]]
+- [[SuckersOfUtahLake_17542]]
+- [[NativePiscifaunaOfUtahLake_17541]]
+
+## Utah Lake Fish Management Advisory Team
+
+### Summary
+The Utah Lake Fish Management Advisory Team is a group whose 1994 work the source cites for management context on Utah Lake's fishes. The source does not describe its findings in detail.
+
+### Context
+> This taxonomic review by A. Gaylon Cook (Bioconservation International, Provo, Utah) re-examines the native fishes of [[Utah Lake]], a 38,800-ha freshwater body in central Utah, by compiling the descriptive and systematic literature and winnowing the tangled synonymies that have accumulated since...
+> -- *[[NativePiscifaunaOfUtahLake_17541]]*
+
+### Mentioned In
+- [[NativePiscifaunaOfUtahLake_17541]]
 
 ## Utah Lake Sculpin
 <!-- fm: auto_enriched: true -->
@@ -10794,6 +13683,34 @@ The Utah Prairie Dog is an endangered mammal in Iron and Millard Counties, Utah,
 - [[UsFishAndWildlifeServiceBiolog_11560]]
 - [[EndangeredAndThreatenedWildlif_18279]]
 
+## Utah Sculpin
+
+### Summary
+A native freshwater sculpin (Cottus bairdi semiscaber) found in the upper Logan River above the lowest impoundment dam. The source lists it among the native fishes of that reach.
+
+### Context
+> This 1951 study by William F. Sigler of the [[Utah State Agricultural College]] examines the life history of the [[Brown Trout]] (*Salmo trutta fario*) in the [[Logan River]], a cold, steep, high-velocity stream in [[Cache County]], [[Utah]]. Of 1,053 brown trout examined, 286 were retained for age...
+> -- *[[AgeAndGrowthOfTheBrownTroutSal_18947]]*
+
+> This study examines the life history of the [[Utah Sculpin]] (*[[Cottus Bairdi Semiscaber]]*) in the [[Logan River]], Utah, based on 801 specimens collected from 1949 to March 1951. The work aimed to clarify the sculpin's relationship to [[Game Fish]] and to supplement existing knowledge of the...
+> -- *[[LifeHistoryOfTheUtahSculpinCot_20928]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfTheBrownTroutSal_18947]]
+- [[LifeHistoryOfTheUtahSculpinCot_20928]]
+
+## Utah State Agricultural College
+
+### Summary
+The institution whose faculty member, William F. Sigler, authored this 1951 study of brown trout growth in the Logan River. The source identifies the author's affiliation with this college.
+
+### Context
+> This 1951 study by William F. Sigler of the [[Utah State Agricultural College]] examines the life history of the [[Brown Trout]] (*Salmo trutta fario*) in the [[Logan River]], a cold, steep, high-velocity stream in [[Cache County]], [[Utah]]. Of 1,053 brown trout examined, 286 were retained for age...
+> -- *[[AgeAndGrowthOfTheBrownTroutSal_18947]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfTheBrownTroutSal_18947]]
+
 ## Utah State Department of Fish and Game
 
 ### Summary
@@ -10803,8 +13720,12 @@ One of the three agencies that jointly produced this 1957 bulletin on Bear Lake,
 > This 1957 bulletin, produced jointly by the [[Utah State Department of Fish and Game]], the [[Idaho Department of Fish and Game]] and the Wildlife Management Department of Utah State Agricultural College, reports a multi-year study of [[Bear Lake]], a large, deep, naturally alkaline lake straddling...
 > -- *[[BearLakeItsFishAndFishing_12272]]*
 
+> This report is a 1959 aquatic survey of the Green River and selected tributaries in the [[Flaming Gorge Reservoir]] Basin, Utah and Wyoming. It was published as University of Utah Anthropological Papers No. 49 (Upper Colorado Series No. 3, November 1960), a by-product of a [[Bureau of Reclamation]]...
+> -- *[[EcologicalStudiesOfTheFloraAnd_18743]]*
+
 ### Mentioned In
 - [[BearLakeItsFishAndFishing_12272]]
+- [[EcologicalStudiesOfTheFloraAnd_18743]]
 
 ## Utah State Engineer
 
@@ -10864,6 +13785,15 @@ Utah State University, particularly through its Institute for Natural Systems En
 > This document is a faxed cover sheet and three draft minutes from meetings of the [[Virgin Spinedace]] Conservation Coordinating Team, transmitted by the [[Sierra Club Legal Defense Fund]] on February 9, 1995. The meetings (July 7, September 30, and August 31, 1994) brought together state, federal,...
 > -- *[[MinutesOfThreeDifferentVirginS_20094]]*
 
+> This study examines how ambient light, set by lunar phase and time of day, biases [[Hydroacoustic Survey]] estimates of pelagic fish abundance. Surveys were run in [[Bear Lake]] (Utah–Idaho), where the dominant target was the [[Bonneville Cisco]] (*Prosopium gemmifer*). Acoustic density and biomass...
+> -- *[[EffectsOfMoonlightAndDaylightO_16239]]*
+
+> This 1963 study by [[Workman and Neuhold]] at [[Utah State University]] tested the acute toxicity of the insecticide [[Toxaphene]] to [[Goldfish]], [[Mosquitofish]] and [[Rainbow Trout]], and documented how long the chemical persists in water and in the field. Two formulations were compared: a...
+> -- *[[LethalConcentrationsOfToxaphen_20841]]*
+
+> This narrative essay examines the [[Colorado River]] below [[Glen Canyon Dam]] in Arizona, where a regulated flow of water functions as a "waterworks" rather than a self-constructing river. It traces the history of the dam, the creation of the [[Glen Canyon Environmental Studies]] (GCES) program,...
+> -- *[[BuildingAndRebuildingTheRiver_18937]]*
+
 ### Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
 - [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
@@ -10882,6 +13812,9 @@ Utah State University, particularly through its Institute for Natural Systems En
 - [[DraftAnEvaluationOfChangesInNa_17641]]
 - [[VirginRiverMonitoringArizonaSu_18233]]
 - [[MinutesOfThreeDifferentVirginS_20094]]
+- [[EffectsOfMoonlightAndDaylightO_16239]]
+- [[LethalConcentrationsOfToxaphen_20841]]
+- [[BuildingAndRebuildingTheRiver_18937]]
 
 ## Utah Sucker
 <!-- fm: auto_enriched: true -->
@@ -10917,6 +13850,18 @@ The Utah Sucker (*Catostomus ardens*) is a native cyprinid species of the Colora
 > This Colorado Division of Wildlife Technical Publication (No. 38, June 1990), written by Darrel E. Snyder and Robert T. Muth of the [[Larval Fish Laboratory]] at Colorado State University, provides illustrated descriptions, identification keys, and diagnostic criteria for the larval and...
 > -- *[[DescriptionsAndIdentificationO_21241]]*
 
+> This second revision of the [[Cui-ui Recovery Plan]] was prepared by the Cui-ui Recovery Team for Region 1 of the [[U.S. Fish and Wildlife Service]] (Service). The plan covers *Chasmistes cujus*, a large lakesucker endemic to [[Pyramid Lake]], Nevada, listed as endangered on March 11, 1967. The...
+> -- *[[CuiuiChamistesCujusRecoveryPla_18093]]*
+
+> This document is a portion of an annotated checklist of the fishes of Utah, authored by William F. Sigler (Department of Wildlife Resources, Utah State University) and Robert Rush Miller (Museum of Zoology, University of Michigan), published in 1963. It covers taxonomic notes for several groups,...
+> -- *[[FishesOfUtah_18950]]*
+
+> This review by A. Gaylon Cook (Bioconservation International) organizes and critically reanalyzes the published descriptions of the catostomid suckers of [[Utah Lake]], central Utah. The author argues that long-standing confusion over the number and identity of Utah Lake suckers arose from...
+> -- *[[SuckersOfUtahLake_17542]]*
+
+> This taxonomic review by A. Gaylon Cook (Bioconservation International, Provo, Utah) re-examines the native fishes of [[Utah Lake]], a 38,800-ha freshwater body in central Utah, by compiling the descriptive and systematic literature and winnowing the tangled synonymies that have accumulated since...
+> -- *[[NativePiscifaunaOfUtahLake_17541]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedFishInT_1979]]
 - [[PopulationDifferentiationAndIn_1987]]
@@ -10929,6 +13874,22 @@ The Utah Sucker (*Catostomus ardens*) is a native cyprinid species of the Colora
 - [[BearLakeItsFishAndFishing_12272]]
 - [[DescriptionAndIdentificationOf_21243]]
 - [[DescriptionsAndIdentificationO_21241]]
+- [[CuiuiChamistesCujusRecoveryPla_18093]]
+- [[FishesOfUtah_18950]]
+- [[SuckersOfUtahLake_17542]]
+- [[NativePiscifaunaOfUtahLake_17541]]
+
+## Utah Tiger Salamander
+
+### Summary
+The Utah Tiger Salamander (*Ambystoma tigrinum utahense*) is a subspecies of tiger salamander. Lowe (1955) names it for the northern dark-backed populations, which have gray, brownish, or blackish-brown upper surfaces without yellow spots. The source reports 8 Arizona localities, with the holotype collected at Lapoint, Uintah County, Utah, and notes it occupies drainages flowing directly into the Colorado River, such as the San Juan River and Tapeats Creek.
+
+### Context
+> This 1955 paper by Charles H. Lowe, Jr. (University of Arizona) clarifies the taxonomy and distribution of the [[Tiger Salamander]] (*Ambystoma tigrinum*) in Arizona, a group previously in uncertain status. The author recognizes three subspecies, supported by approximately 30 verifiable localities:...
+> -- *[[TheSalamandersOfArizona_16218]]*
+
+### Mentioned In
+- [[TheSalamandersOfArizona_16218]]
 
 ## Utah Water Users Association
 
@@ -10986,6 +13947,30 @@ The Ute Pipeline Project was a water development project in the Upper Colorado R
 ### Mentioned In
 - [[AlternativeApproachesToHcpsFor_16735]]
 
+## Utermöhl Method
+
+### Summary
+A standard quantitative method for counting phytoplankton using settled samples examined under an inverted microscope. This study applied it, with samples preserved in iodine solution, following Utermöhl (1958).
+
+### Context
+> This 1990 study by [[Maria Manuela Cerqueira da Silva]] (Instituto de Zoologia "Dr. Augusto Nobre", Faculdade de Ciências do Porto) characterises the phytoplankton of the [[River Lima]] over one annual cycle (monthly sampling, May 1987 to April 1988). It was part of an ecological characterisation...
+> -- *[[SomeNotesAboutThePhytoplankton_16074]]*
+
+### Mentioned In
+- [[SomeNotesAboutThePhytoplankton_16074]]
+
+## Utermöhl Sedimentation Method
+
+### Summary
+A standard method for counting phytoplankton in which preserved samples are settled in a chamber and counted on an inverted microscope. In this study, phytoplankton fixed in iodine solution were counted this way.
+
+### Context
+> This 1969 limnological paper by G. R. Fish (Fisheries Research Division, Marine Department, Rotorua) and M. A. Chapman (Zoology Department, University of Auckland) reports short synoptic surveys of [[Lake Rotorua]] and [[Lake Rotoiti]], New Zealand, carried out before a planned three-year...
+> -- *[[SynopticSurveysOfLakesRotoruaA_16406]]*
+
+### Mentioned In
+- [[SynopticSurveysOfLakesRotoruaA_16406]]
+
 ## Utica
 
 ### Summary
@@ -10998,6 +13983,54 @@ A location at Starved Rock on the Illinois River, marking the upper limit of fis
 ### Mentioned In
 - [[TheKnotheadCarpOfTheIllinoisRi_13583]]
 
+## Utricularia
+
+### Summary
+A genus of carnivorous aquatic plants (bladderworts). The source notes it as sparse in the aquatic vegetation at the Río Alamo collection site.
+
+### Context
+> This short 1972 note by [[Salvador Contreras Balderas]], published in the *Cuadernos del Instituto de Investigaciones Científicas* (No. 16, Universidad Autónoma de Nuevo León), reports the first record of the family [[Mugilidae]] in the state of [[Nuevo León]], Mexico. Two specimens of...
+> -- *[[AgonostomusMonticolaBancroftPr_17514]]*
+
+### Mentioned In
+- [[AgonostomusMonticolaBancroftPr_17514]]
+
+## Utricularia Biflora
+
+### Summary
+Utricularia biflora is a bladderwort, a small aquatic plant that occurs in open areas of the Lake Ogletree stand. Boyd listed it as part of the sparse associated flora alongside Spirogyra and Chara. The source gives no further data on it.
+
+### Context
+> This study by Claude E. Boyd (Auburn University, 1969) quantifies seasonal production, mineral nutrient uptake, and biochemical assimilation in a [[Justicia Americana]] stand at [[Lake Ogletree]], Alabama, with comparative data from an [[Alternanthera Philoxeroides]] stand and four additional *J....
+> -- *[[ProductionMineralNutrientAbsor_17758]]*
+
+### Mentioned In
+- [[ProductionMineralNutrientAbsor_17758]]
+
+## Utricularia obtusa
+
+### Summary
+Utricularia obtusa is a bladderwort, a carnivorous aquatic plant. This source lists it among the wet-habitat taxa of the Cuatro Ciénegas basin, found in lagunas, pozos, springs and marshes.
+
+### Context
+> This is the third installment of a floristic survey of the vascular plants of the [[Cuatro Ciénegas Basin]] and surrounding ranges in [[Coahuila]], Mexico, by [[Donald J. Pinkava]] of the Department of Botany and Microbiology, Arizona State University. It annotates the families from Cactaceae...
+> -- *[[VegetationAndFloraOfTheBolsonO_11096]]*
+
+### Mentioned In
+- [[VegetationAndFloraOfTheBolsonO_11096]]
+
+## Utter 1981
+
+### Summary
+Utter (1981) is a fisheries genetics publication cited in the genetics section on salmonid population structure. The source relies on it to support its warning that hatchery manipulation can narrow genetic diversity and reduce fitness in wild stocks.
+
+### Context
+> This FAO-published manual (EIFAC Occasional Paper No. 23, edited by Gary E. Turner, Rome, 1988) consolidates international guidance on the introduction and transfer of non-indigenous marine and freshwater organisms. It was prepared jointly by the [[International Council for the Exploration of the...
+> -- *[[CodesOfPracticeAndManualOfProc_13433]]*
+
+### Mentioned In
+- [[CodesOfPracticeAndManualOfProc_13433]]
+
 ## Utter And Ridgway 1966
 
 ### Summary
@@ -11009,6 +14042,18 @@ A cited study that used similar serological techniques to examine inbreeding in 
 
 ### Mentioned In
 - [[ASerologicalAnalysisOfThreePop_17331]]
+
+## Utuhina Stream
+
+### Summary
+A stream flowing into Lake Rotorua through urban areas. It carried a large phosphate load, about 14.5% of the total phosphate inflow, which the author links to urban sources.
+
+### Context
+> This Fisheries Research Division publication by G. R. Fish examines [[Eutrophication]], the artificial enhancement of water fertility, in New Zealand freshwaters. Using a [[Nutrient Budget]] for [[Lake Rotorua]] covering June 1967 to May 1968, the author finds that [[Sewage Effluent]] is an...
+> -- *[[LakesTheValueOfRecentResearchT_16403]]*
+
+### Mentioned In
+- [[LakesTheValueOfRecentResearchT_16403]]
 
 ## Uvalde
 <!-- fm: auto_enriched: true -->
@@ -11052,6 +14097,30 @@ Uvalde National Fish Hatchery is a federal warmwater fish production facility es
 ### Mentioned In
 - [[StationAllocationsAndFtesForOp_1994_03_29]]
 
+## Uvulifer
+
+### Summary
+A genus of trematode parasites (family Diplostomidae) that causes black-spot disease. In this survey it was heavily infesting Poeciliopsis occidentalis and Agosia chrysogaster, and it was recorded as one of the parasite groups found on native fish.
+
+### Context
+> This survey assesses the current status of the freshwater fish fauna of the [[Yaqui River Basin]] in Sonora, Mexico. Sampling covered 29 localities in March and October 1987 and August 1988. Of 23 species collected, the authors report distribution and abundance data for the native species and...
+> -- *[[ObservacionesSobreLaIctiofauna_17369]]*
+
+### Mentioned In
+- [[ObservacionesSobreLaIctiofauna_17369]]
+
+## Uxmal
+
+### Summary
+Uxmal is a Maya archaeological site in northern Yucatan. The source lists it among northern lowland sites that flourished during the AD 800–1000 period, when southern lowland populations were declining. It is cited as part of the spatial pattern of population shift.
+
+### Context
+> This document is an excerpt from a 1995 issue of *Nature*, not a fish study. Its central item is a research letter by [[Hodell]] and colleagues that uses a 4.9-m sediment core from [[Lake Chichancanab]], Yucatan, Mexico, to reconstruct Holocene climate. The authors find that the interval...
+> -- *[[PossibleRoleOfClimateInTheColl_20441]]*
+
+### Mentioned In
+- [[PossibleRoleOfClimateInTheColl_20441]]
+
 ## Uyeno 1961
 
 ### Summary
@@ -11063,6 +14132,42 @@ Uyeno 1961 is a taxonomic work that defined the characters of the genus Gila and
 
 ### Mentioned In
 - [[ANewSpeciesOfTheGenusGilaFromN_17333]]
+
+## Uyeno and Miller
+
+### Summary
+Uyeno and Miller (1963) is a published work that the source cites as one of the foundations it builds on for the Cenozoic fish fossil record. The review does not give details of its findings beyond this citation.
+
+### Context
+> This review, by Ted M. Cavender, synthesizes the fossil record relating to the distributional history of North American freshwater fishes from the Triassic through the Pleistocene. Emphasis falls on the Cenozoic, particularly the Paleogene, because the Neogene record has been summarized more fully...
+> -- *[[ReviewOfTheFossilHistoryOfNort_16060]]*
+
+### Mentioned In
+- [[ReviewOfTheFossilHistoryOfNort_16060]]
+
+## Uyeno and Miller 1962
+
+### Summary
+A prior publication cited as the context for this paper: Late Pleistocene mammal remains from Texas had been studied extensively, while the associated fossil fishes had received less attention.
+
+### Context
+> This 1963 paper by [[Teruya Uyeno]] describes fossil fish remains from two Late Pleistocene local faunas in north-central and northeast Texas. The Clear Creek local fauna is assigned to the [[Sangamon Interglacial]] stage, and the Ben Franklin local fauna to the Late [[Wisconsin Glaciation]]. The...
+> -- *[[LatePleistoceneFishesOfTheClea_13245]]*
+
+### Mentioned In
+- [[LatePleistoceneFishesOfTheClea_13245]]
+
+## Uyeno Et Al 1983
+
+### Summary
+A cited earlier work documenting the fish fauna of western Jalisco. The source notes it, together with Miller and Smith (1986), as evidence that these basins share faunal affinities while also containing endemic species.
+
+### Context
+> This study applies an indirect multivariate gradient analysis to fish assemblages in rivers and streams of western Jalisco, Mexico. It compares the influence of large-scale zoogeographic factors with local habitat features on species composition and on ecological guild composition. Data come from...
+> -- *[[PatronesTaxonmicosYEcolgicosEn_16289]]*
+
+### Mentioned In
+- [[PatronesTaxonmicosYEcolgicosEn_16289]]
 
 ## Uzboi Valley
 

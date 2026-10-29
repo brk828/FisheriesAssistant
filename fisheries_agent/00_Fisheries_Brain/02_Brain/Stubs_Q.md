@@ -40,6 +40,58 @@ Q. rugosa (Quercus rugosa) is one of the dominant oak species in the Sierra San 
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
 
+## Q10 Temperature Coefficient
+
+### Summary
+The Q10 temperature coefficient is the factor by which a biological rate changes for a 10°C rise in temperature. In this study the mean Q10 for O. immunis was 1.42, and Q10 values declined slightly as oxygen saturation decreased.
+
+### Context
+> Wiens and Armitage (1961) compared the oxygen consumption of two freshwater crayfishes, [[Orconectes Immunis]] and [[Orconectes Nais]], across four temperatures (16°, 24°, 30°, 35°C) and four oxygen saturation levels (full, one-half, one-quarter, one-eighth). The work was motivated by the local...
+> -- *[[TheOxygenConsumptionOfTheCrayf_12211]]*
+
+### Mentioned In
+- [[TheOxygenConsumptionOfTheCrayf_12211]]
+
+## Qanat
+
+### Summary
+A qanat is an artificial horizontal well system in alluvial fans that delivers a constant flow of water. According to the source, falling groundwater can leave qanats as the only fish habitat, and Coad includes qanat collections because they reflect basin ichthyofaunas.
+
+### Context
+> This compiled document contains three parts. Two are full or near-full papers on freshwater fish zoogeography: B.W. Coad's analysis of the freshwater ichthyofauna of Iran, and a partial paper by F. Krupp on the freshwater fishes of the Levant. The third is a fragment of a lepidopteran paper by C.M....
+> -- *[[ZoogeographyOfTheFreshwaterFis_15970]]*
+
+### Mentioned In
+- [[ZoogeographyOfTheFreshwaterFis_15970]]
+
+## Qatif Oasis
+
+### Summary
+An oasis in Saudi Arabia's Eastern Province where the author observed wild Aphanius dispar in a drainage ditch and a well. It is one of the field locations cited in the source.
+
+### Context
+> This hobbyist article, written by an aquarist, profiles [[Aphanius Dispar]], a small [[Cyprinodontidae|cyprinodont]] killifish known as the [[Arabian Killifish]]. The author argues that the name "Middle East killifish" would better describe a species distributed from northern India around the...
+> -- *[[TheArabianKillifishes_21094]]*
+
+### Mentioned In
+- [[TheArabianKillifishes_21094]]
+
+## Qinghai-Xizang Plateau
+
+### Summary
+A high-altitude region of central Asia where most Triplophysa species occur. The source notes that the Yuanjiang basin lies at the southeastern edge of the genus's range.
+
+### Context
+> This taxonomic paper by [[Zhou Wei]] and [[Cui Gui-Hua]] (*Ichthyological Exploration of Freshwaters*, 1997) reviews [[Triplophysa]] loaches of the [[Yuanjiang River]] (upper [[Red River]]) basin in Yunnan and formally describes *Triplophysa laticeps* as a new species. Two species had previously...
+> -- *[[FishesOfTheGenusTriplophysaCyp_12406]]*
+
+> This third volume of *The Freshwater Fishes of China in Coloured Illustration* is a photographic and descriptive field guide to 142 freshwater fish species in 17 families, focused mainly on northern China. Coverage includes the cold-water fauna of the [[Northeast China]] region, the arid northwest...
+> -- *[[TheFreshwaterFishesOfChinaInCo_18290]]*
+
+### Mentioned In
+- [[FishesOfTheGenusTriplophysaCyp_12406]]
+- [[TheFreshwaterFishesOfChinaInCo_18290]]
+
 ## Qu'Appelle River
 
 ### Summary
@@ -80,6 +132,66 @@ The Qu'Appelle River is a river system in southern Saskatchewan, Canada, that in
 ### Mentioned In
 - [[AnEvaluationOfMassachusettsTro_15488]]
 - [[AStudyOfTheTroutStreamFisherie_11203]]
+
+## Quad City Times
+
+### Summary
+A newspaper serving the Quad-Cities area of Iowa and Illinois. This source is a March 14, 1999 feature from the paper reporting on river enhancement efforts and the hiring of Jeff Stein to coordinate them.
+
+### Context
+> A 1999 [[Quad City Times]] article reports that [[Jeff Stein]], a 29-year-old river advocate hired from Washington, D.C., will coordinate efforts to enhance the [[Upper Mississippi River]] from an office in downtown Davenport. His stated priorities are wetland and fish and waterfowl habitat...
+> -- *[[DredgingUpDollarsForTheUpperMi_17467]]*
+
+### Mentioned In
+- [[DredgingUpDollarsForTheUpperMi_17467]]
+
+## Quad-Cities
+
+### Summary
+The metropolitan region on the Upper Mississippi River spanning Iowa and Illinois, where Jeff Stein is based and where many of the described riverfront projects are located. The article describes it as a center of riverfront trail and botanical center development.
+
+### Context
+> A 1999 [[Quad City Times]] article reports that [[Jeff Stein]], a 29-year-old river advocate hired from Washington, D.C., will coordinate efforts to enhance the [[Upper Mississippi River]] from an office in downtown Davenport. His stated priorities are wetland and fish and waterfowl habitat...
+> -- *[[DredgingUpDollarsForTheUpperMi_17467]]*
+
+### Mentioned In
+- [[DredgingUpDollarsForTheUpperMi_17467]]
+
+## Quad-City Botanical Center
+
+### Summary
+A botanical center planned near the river in the Quad-Cities region, listed among regional riverfront projects. The source gives no further details on its design or scope.
+
+### Context
+> A 1999 [[Quad City Times]] article reports that [[Jeff Stein]], a 29-year-old river advocate hired from Washington, D.C., will coordinate efforts to enhance the [[Upper Mississippi River]] from an office in downtown Davenport. His stated priorities are wetland and fish and waterfowl habitat...
+> -- *[[DredgingUpDollarsForTheUpperMi_17467]]*
+
+### Mentioned In
+- [[DredgingUpDollarsForTheUpperMi_17467]]
+
+## Quadrat Sampling
+
+### Summary
+Quadrat sampling counts organisms within a fixed-area frame placed on the bottom. In this study, m² quadrats were used to estimate Asiatic clam densities and biomass per unit area in Roosevelt and Apache lakes.
+
+### Context
+> This 1974 study by [[John N Rinne]] (Arizona State University) quantifies the distribution, density, and biomass of the introduced [[Asiatic Clam]] (*Corbicula*) in two central Arizona reservoirs, [[Roosevelt Lake]] and [[Apache Lake]], part of the [[Salt River Reservoir System]]. Densities were...
+> -- *[[TheIntroducedAsiaticClamCorbic_14989]]*
+
+### Mentioned In
+- [[TheIntroducedAsiaticClamCorbic_14989]]
+
+## Quadrivisio
+
+### Summary
+Quadrivisio is one of the related genera included in Mateus's morphological comparison. The source places it in Group II, which is characterised by a reduced or absent inner lower lip lobe and laminar uropods.
+
+### Context
+> This 1974 paper by [[Amilcar Mateus]], published as No. 128 of the *Publicações do Instituto de Zoologia "Dr. Augusto Nobre"* (Faculdade de Ciências do Porto), proposes a phylogeny for the amphipod genus [[Hadzia]] and its morphologically close genera. It also discusses the genus's geographic...
+> -- *[[SurLaPhylognieDuGenreHadziaCru_15154]]*
+
+### Mentioned In
+- [[SurLaPhylognieDuGenreHadziaCru_15154]]
 
 ## Quadrula Petrina
 <!-- fm: auto_enriched: true -->
@@ -122,11 +234,15 @@ Quadrula quadrula, commonly known as the Macroshell or Mapleleaf mussel, is a fr
 > This 1946 survey documents the molluscan fauna of [[Greenwood County]], southeastern [[Kansas]], reporting 16 species of [[Unionidae|unionid mussels]], 6 species of aquatic gastropods, and 19 species or subspecies of terrestrial gastropods. The study represents the first systematic malacological...
 > -- *[[MolluscaFromGreenwoodCountyKan_20276]]*
 
+> This survey assessed the commercially valuable freshwater mussels (family [[Unionidae]]) of the [[Wabash River]], [[White River]], and [[East Fork of the White River]] in Indiana. Shells from these mussels are cut into nuclei for the [[Cultured Pearl Industry]] in Japan. The Indiana Department of...
+> -- *[[ASurveyOfTheCommerciallyValuab_12458]]*
+
 ### Mentioned In
 - [[TheBlacktailRedhorseMoxostomaP_1984]]
 - [[TheImpactOfImpoundmentOnTheMus_15633]]
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
 - [[MolluscaFromGreenwoodCountyKan_20276]]
+- [[ASurveyOfTheCommerciallyValuab_12458]]
 
 ## Quadruple Objective Holder
 
@@ -227,6 +343,18 @@ A breach of the Quail Creek Dam in January 1989, listed by the Nevada Division o
 ### Mentioned In
 - [[AnEvaluationOfChangesInNativeF_20471]]
 
+## Quail Creek Dike
+
+### Summary
+The 1,980-foot-long earthen dike at Quail Creek Reservoir that burst early on January 1, 1989, releasing floodwater into the Virgin River and forcing about 1,500 people to flee. The article says seepage through rock cracks had increased around it for years, and that renewed seepage on the night before the failure preceded the collapse.
+
+### Context
+> This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
+> -- *[[FleeAsDikeBurstsInSUtah_20836]]*
+
+### Mentioned In
+- [[FleeAsDikeBurstsInSUtah_20836]]
+
 ## Quail Creek Diversion
 
 ### Summary
@@ -274,8 +402,13 @@ A water-delivery pipeline completed in 1985 that now carries all LaVerkin Bench 
 ## Quail Creek Project
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
+> -- *[[FleeAsDikeBurstsInSUtah_20836]]*
+
 ### Mentioned In
 - [[ResponseToTheFactsAboutTheHist_1998_06_30]]
+- [[FleeAsDikeBurstsInSUtah_20836]]
 
 ## Quail Creek Reservoir
 <!-- fm: auto_enriched: true -->
@@ -341,6 +474,15 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 > This 1994 [[Fish and Wildlife Service]] proposed rule would list the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a small minnow endemic to the [[Virgin River]] drainage, as a **threatened** species under the [[Endangered Species Act]]. The Service estimates that about 40 percent of...
 > -- *[[EndangeredAndThreatenedWildlif_11706]]*
 
+> A newspaper report describes the decision by the [[U.S. Fish and Wildlife Service]] (USFWS) to destroy about 18,000 hatchery-produced fingerlings of the endangered [[Virgin River Chub]]. The fish were destroyed on Oct. 26, 1989, because USFWS staff judged them genetically deficient relative to the...
+> -- *[[DecisionToDestroyFishMayHaveBe_19651]]*
+
+> This draft concept, prepared by the [[Washington County Water Conservancy District]] (WCWCD) in March 1994 for discussion only, proposes a cooperative river management framework for the Virgin River in Washington County, Utah. Its goals are to acquire and set aside riparian, wetland and riverine...
+> -- *[[DraftConceptForAVirginRiverMan_14915]]*
+
+> This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
+> -- *[[FleeAsDikeBurstsInSUtah_20836]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -363,6 +505,9 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[InRegardsToTheWashingtonCounty_16270]]
 - [[PersistenceAndStabilityOfTheVi_20636]]
 - [[EndangeredAndThreatenedWildlif_11706]]
+- [[DecisionToDestroyFishMayHaveBe_19651]]
+- [[DraftConceptForAVirginRiverMan_14915]]
+- [[FleeAsDikeBurstsInSUtah_20836]]
 
 ## Quail Creek Reservoir Project
 <!-- fm: auto_enriched: true -->
@@ -443,6 +588,18 @@ Quail trapping refers to the methods that the survey identified as driving quail
 ### Mentioned In
 - [[AFishAndWildlifeSurveyOfGuatem_20529]]
 
+## Quaker Neck Dam
+
+### Summary
+A low, non-generating dam, about six feet high, on the Neuse River in North Carolina. According to the essay, it was removed the year before publication, and shad were then reported spawning about 70 miles upstream, as far as Raleigh. Babbitt presents it as evidence that dam removal can restore fish passage.
+
+### Context
+> This is a first-person essay by [[Bruce Babbitt]], former U.S. Secretary of the Interior, arguing that the United States has built too many dams and should selectively remove them to restore migratory fish runs and river ecosystems. It is an opinion and policy piece, not a research study. It uses a...
+> -- *[[ARiverRunsAgainstItAmericasEvo_17185]]*
+
+### Mentioned In
+- [[ARiverRunsAgainstItAmericasEvo_17185]]
+
 ## Quaking Aspen
 
 ### Summary
@@ -454,6 +611,18 @@ Quaking Aspen (Populus tremuloides) is a deciduous tree species found in the Jef
 
 ### Mentioned In
 - [[TheMonoBasin_15632]]
+
+## Qualitative Fish Sampling
+
+### Summary
+The non-quantitative collecting approach used in this study, in which fishes were gathered by seine, electroshocker, gill net and trap net across 110 localities. The method aims to document which species are present rather than to estimate their abundance.
+
+### Context
+> This preliminary checklist, published in the [[Natural History Miscellanea]] series by the Chicago Academy of Sciences, updates the known fish fauna of the [[Youghiogheny River]], a major tributary of the [[Monongahela River]]. The drainage now holds **82 known species**: 59 native, 20 introduced...
+> -- *[[APreliminaryChecklistOfTheFish_16631]]*
+
+### Mentioned In
+- [[APreliminaryChecklistOfTheFish_16631]]
 
 ## Qualitative Sampling
 
@@ -515,6 +684,30 @@ This component studies traits that vary continuously, by rearing fish from eggs 
 ### Mentioned In
 - [[StateOfProposedResearchEvaluat_19159]]
 
+## Quantitative Genetics
+
+### Summary
+Quantitative genetics is the study of traits influenced by many genes and the environment, often continuous in variation. This source applies quantitative genetic models, including genetic variances and covariances, to ask how plasticity of polygenic traits evolves.
+
+### Context
+> This theoretical paper by [[Sara Via]] and [[Russell Lande]] (*Evolution* 39(3): 505–522, 1985; University of Chicago) uses [[Quantitative Genetics]] models to ask how the level of [[Phenotypic Plasticity]] of a polygenic trait evolves in spatially variable environments. The authors treat a trait...
+> -- *[[GenotypeenvironmentInteraction_12095]]*
+
+### Mentioned In
+- [[GenotypeenvironmentInteraction_12095]]
+
+## Quantitative Sampler
+
+### Summary
+A sampling device (Scs) with two rotating toothed cylinders that cut vegetation as it is lowered and seals into the mud. The source says it gives numbers per unit area but catches fewer individuals and species than the pond net.
+
+### Context
+> This paper by T. T. Macan (Freshwater Biological Association, Ambleside) reports the Odonata (dragonflies and damselflies) of [[Hodson's Tarn]], a small artificial moorland fishpond in the [[Lake District]]. The study ran from 1955 to autumn 1960, when 500 specimens of *Salmo trutta* were...
+> -- *[[TheOdonataOfAMoorlandFishpond_19293]]*
+
+### Mentioned In
+- [[TheOdonataOfAMoorlandFishpond_19293]]
+
 ## Quantum Evolution
 <!-- fm: auto_enriched: true -->
 
@@ -524,6 +717,18 @@ This component studies traits that vary continuously, by rearing fish from eggs 
 
 ### Mentioned In
 - [[Drought, Diastrophism, and Quantum Evolution]]
+
+## Quarantine
+
+### Summary
+Quarantine is the controlled holding of imported organisms to prevent disease or pest spread. The source gives 16 detailed quarantine requirements, covering disinfection, water treatment, waste disposal, hygiene and containment design, and it argues quarantine may need to last a lifetime because carriers can show no signs.
+
+### Context
+> This FAO-published manual (EIFAC Occasional Paper No. 23, edited by Gary E. Turner, Rome, 1988) consolidates international guidance on the introduction and transfer of non-indigenous marine and freshwater organisms. It was prepared jointly by the [[International Council for the Exploration of the...
+> -- *[[CodesOfPracticeAndManualOfProc_13433]]*
+
+### Mentioned In
+- [[CodesOfPracticeAndManualOfProc_13433]]
 
 ## Quartermaster Canyon
 <!-- fm: auto_enriched: true -->
@@ -569,6 +774,18 @@ A coarse-grained intrusive igneous rock related to granite and granodiorite. In 
 ### Mentioned In
 - [[GeochronologyGeologyAndLisricN_16804]]
 
+## Quartzite
+
+### Summary
+A quartzose metamorphic or sedimentary rock with little or no porosity. The source follows Krynine (1948) and Jackson (1997) in treating it as the central rock type of its provenance study, divided into orthoquartzite and metaquartzite.
+
+### Context
+> This [[Geological Society of America]] Bulletin paper (Howard, 2000) uses petrography to determine the provenance of quartzite clasts in fluvial [[Sespe Formation]] conglomerates of the Santa Monica Mountains, Los Angeles trough. Clasts were compared with candidate source rocks in the Mojave...
+> -- *[[ProvenanceOfQuartziteClastsInT_19949]]*
+
+### Mentioned In
+- [[ProvenanceOfQuartziteClastsInT_19949]]
+
 ## Quartzite Falls
 
 ### Summary
@@ -581,9 +798,17 @@ Quartzite Falls is a waterfall barrier on the uppermost Salt River in Arizona. T
 > This field survey of the [[Salt River]] in Arizona was conducted in two excursions: one from [[Gleason Flats]] (Station 5) to [[Roosevelt Lake]], and one from the junction of the [[Black River]] and [[White River]] (Station 1) to the crossing of the Salt River at the [[Highway 60 Bridge]]. Sampling...
 > -- *[[DraftsaltRiverSurvey_14100]]*
 
+> Eight men from the Phoenix area were indicted by a federal grand jury for destroying [[Quartzite Falls]] on the [[Salt River]] in Arizona using explosives in 1993. The falls, located in the [[Salt River Canyon Wilderness]] within the [[Tonto National Forest]], had acted as a natural barrier that...
+> -- *[[IndictedInBlastingOfFallsOnSal_20914]]*
+
+> This 1994 news article from *The Arizona Republic* (by Steve Yozwiak) reports that [[Quartzite Falls]], a notorious rapid in the [[Salt River Canyon]], was deliberately destroyed with high explosives. The blast reduced a 6-foot waterfall and a Class 6 rapid to a series of ripples. The falls acted...
+> -- *[[OutrageInTheWildernessSaltRive_20917]]*
+
 ### Mentioned In
 - [[RecoveryPlanForTheRazorbackSuc_15882]]
 - [[DraftsaltRiverSurvey_14100]]
+- [[IndictedInBlastingOfFallsOnSal_20914]]
+- [[OutrageInTheWildernessSaltRive_20917]]
 
 ## Quasi-Baseline Monitoring
 
@@ -597,6 +822,18 @@ This is the surveillance component of the plan, calling for at least monthly obs
 ### Mentioned In
 - [[AGeneralizedMasterPlanOfEnviro_16071]]
 
+## Quasi-Fixation
+
+### Summary
+The state in which an allele's frequency approaches fixation so that it is nearly certain to become fixed over time. The review discusses quasi-fixation rules under varying selection and notes Kimura's early formula for finite populations was withdrawn.
+
+### Context
+> This document is a theoretical review by Joseph Felsenstein (Department of Genetics, University of Washington), published in the *Annual Review of Genetics* (1976, vol. 10, pp. 253–80). It covers how temporal variation in selection and spatial structure (migration, subdivision, clines) shape...
+> -- *[[TheTheoreticalPopulationGeneti_16332]]*
+
+### Mentioned In
+- [[TheTheoreticalPopulationGeneti_16332]]
+
 ## Quassilabia
 <!-- fm: auto_enriched: true -->
 
@@ -607,6 +844,18 @@ This is the surveillance component of the plan, calling for at least monthly obs
 ### Mentioned In
 - [[ErrataForBibliographyOfTheFami_1991]]
 
+## Quast 1968
+
+### Summary
+A study the authors cite on the visual dependence of California demersal fishes. They use it to suggest that deep open water may disorient rockfish when visual contact with the substrate is lost, which could explain lower returns from open-water releases.
+
+### Context
+> This study tested whether adult [[Yellowtail Rockfish]] (*Sebastes flavidus*) in southeastern Alaska show a home site and homing ability. Fish were tagged at a shipwreck at [[Lena Point]] in [[Favorite Channel]], displaced to 11 release sites up to 35.0 km away, and recovered mainly by hook and...
+> -- *[[EvidenceForAHomeSiteAndHomingO_17421]]*
+
+### Mentioned In
+- [[EvidenceForAHomeSiteAndHomingO_17421]]
+
 ## Quaternary
 
 ### Summary
@@ -616,8 +865,48 @@ The Quaternary is the most recent geologic period, spanning roughly the last 2.6
 > This U.S. Geological Survey report presents a working hypothesis for how the drainage of southeastern Arizona and southwestern New Mexico developed during late Cenozoic time, mainly the [[Pliocene]] and [[Quaternary]]. Drainage evolution was repeatedly controlled by large-scale faulting,...
 > -- *[[SomeNotesOnTheLateCenozoicDrai_17545]]*
 
+> This paper by Daniel I. Axelrod (Department of Botany, University of California, Davis) reconstructs the age and origin of [[Coastal Sage Scrub]], a shrub vegetation type of Alta and Baja California. The author argues that coastal sage is a new, pioneer-type vegetation that spread widely only after...
+> -- *[[TheOriginOfCoastalSageVegetati_10594]]*
+
 ### Mentioned In
 - [[SomeNotesOnTheLateCenozoicDrai_17545]]
+- [[TheOriginOfCoastalSageVegetati_10594]]
+
+## Quaternary Climate Change
+
+### Summary
+The Quaternary is the most recent geological period, marked by repeated glacial and climatic shifts. In this source, the authors say Quaternary climate change and desertification shaped how the Colorado fish fauna arose and then fragmented. The climate change of the period is described as comparable in severity to the later impacts of regulation.
+
+### Context
+> This book chapter by J. A. Stanford and J. V. Ward describes the indigenous fish fauna of the [[Colorado River]] system, how that fauna arose through [[Quaternary Climate Change]] and desertification, and how [[Flow Regulation]] and [[Exotic Species]] have reduced it. The system holds 32 native...
+> -- *[[BFishOfTheColoradoSystem_14709]]*
+
+### Mentioned In
+- [[BFishOfTheColoradoSystem_14709]]
+
+## Quaternary Climate Variation
+
+### Summary
+This refers to the climate changes of the last roughly 2.6 million years, including glacial and interglacial cycles. In this source, the Würm glaciation was up to 4 °C cooler than today, and the Altithermal (about 9000 to 6000 years BP) was a moist, relatively warm period. The source also rejects a simple correlation between European glacial periods and Middle Eastern pluvials.
+
+### Context
+> This document is the front matter of a 1985 symposium proceedings volume on the fauna and zoogeography of the Middle East, followed by two papers. The first, by [[R. Wolfart]], reconstructs the [[Palaeogeography of the Middle East]] from the Late Cretaceous to the Quaternary, focusing on the...
+> -- *[[LateCretaceousThroughQuaternar_20805]]*
+
+### Mentioned In
+- [[LateCretaceousThroughQuaternar_20805]]
+
+## Quaternary Glaciation
+
+### Summary
+The Quaternary Glaciation is the most recent series of glacial periods covering the last roughly 2.6 million years, including the last ice age. In this source, the grey clay-gyttja fish layer lies on pinkish-grey laminated clay that the authors interpret as the basal deposit from the last main episode of this glaciation.
+
+### Context
+> This short paper reports the first fish remains recovered from a freshwater sediment core taken by the [[Freshwater Biological Association]]. Four consecutive caudal vertebrae and about 40 scales were found at 450 cm below the mud surface in a core from Esthwaite Water, English Lake District....
+> -- *[[FishVertebraeAndScalesInASedim_11273]]*
+
+### Mentioned In
+- [[FishVertebraeAndScalesInASedim_11273]]
 
 ## Quaternary Lake Lahontan
 
@@ -637,11 +926,47 @@ Lake Lahontan was a large Pleistocene-era lake in the Great Basin that had no ou
 ### Mentioned In
 - [[EnvironmentAndCultureInRetrosp_11357]]
 
+## Quaternary Pluvial Phases
+
+### Summary
+Wetter periods during the Quaternary geological era when rainfall in arid regions was higher. Arnold interprets mesic forms along the periphery of the Arabian Peninsula and oasis relicts as remnants of these wetter phases.
+
+### Context
+> This proceedings excerpt contains two contributions from the 1985 Mainz Symposium on the Fauna and Zoogeography of the Middle East. The first, by [[W. Villwock]], reports that the [[Bardawil Lagoon]] killifish population in North Sinai, Egypt, and related populations near [[Al-Qanatir]] west of the...
+> -- *[[FurtherContributionsOnNaturalH_13137]]*
+
+### Mentioned In
+- [[FurtherContributionsOnNaturalH_13137]]
+
+## Quaternary Terraces
+
+### Summary
+Quaternary terraces are stepped surfaces left along stream valleys by former floodplain levels during the Quaternary Period. In this study, Sonoita Creek has eight composite terraces and Canada del Oro has four major levels; their profiles run undeformed across basin-bounding faults, which the authors use as evidence against significant recent tectonism.
+
+### Context
+> This paper by Menges and McFadden argues that the main phase of [[Basin and Range Province|Basin-Range]] vertical tectonism in two southeastern Arizona basins ended within a latest Miocene to early Pliocene interval of roughly 6 to 3 m.y.B.P. Evidence comes from [[Basin-Fill Stratigraphy]],...
+> -- *[[EvidenceForALatestMioceneToPli_20120]]*
+
+### Mentioned In
+- [[EvidenceForALatestMioceneToPli_20120]]
+
 ## Quatrefoil Larval Fish Light Trap
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
+
+## Quatrefoil Trap
+
+### Summary
+A plexiglas larval fish light trap designed to meet seven criteria, including easy entry and difficult escape, a large capture area, and portability. This source reports it was built for about $25.60 per unit and validated in a Kentucky stream study, where it caught larval fish of 25 species in light traps.
+
+### Context
+> This document is a two-part methods paper describing new aquatic sampling gear. The first part presents the [[Quatrefoil Trap]], a plexiglas larval fish light trap built to seven design criteria and validated in a [[Stream Larval Fish Habitat Partitioning Study]] in Kentucky. The second part...
+> -- *[[ANewLarvalFishLightTrapTheQuat_18745]]*
+
+### Mentioned In
+- [[ANewLarvalFishLightTrapTheQuat_18745]]
 
 ## Quattro And Vrijenhoek 1989
 <!-- fm: auto_enriched: true -->
@@ -725,8 +1050,16 @@ An island group off the coast of British Columbia, Canada. The source reports li
 > This 1958 review by J. B. Phillips of the [[California Department of Fish and Game]] (Marine Resources Operations) assembles what was known about the life history of the [[Lingcod]] and the status of its fishery. The lingcod is prized as a food and sport fish, and local concern had developed that...
 > -- *[[AReviewOfTheLingcodOphiodonElo_11171]]*
 
+> This book chapter reviews the zoogeography of the freshwater fishes of [[Cascadia]], the region west of the Continental Divide bounded by the [[Columbia River]] to the south and the [[Stikine River]] to the north. The region supports 61 native freshwater fish species, a small fauna attributed...
+> -- *[[ZoogeographyOfTheFreshwaterFis_15413]]*
+
+> Haas and McPhail (1991) test whether North American [[Dolly Varden]] (*Salvelinus malma*) and [[Bull Trout]] (*Salvelinus confluentus*), long grouped within the Arctic char complex, are two distinct species. Using multivariate morphometric and meristic data from 1,580 museum and field specimens...
+> -- *[[SystematicsAndDistributionsOfD_20949]]*
+
 ### Mentioned In
 - [[AReviewOfTheLingcodOphiodonElo_11171]]
+- [[ZoogeographyOfTheFreshwaterFis_15413]]
+- [[SystematicsAndDistributionsOfD_20949]]
 
 ## Queen City Formation
 <!-- fm: auto_enriched: true -->
@@ -784,6 +1117,9 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 > This 1993 scoping letter and proposal from the [[Tonto National Forest]] (USDA Forest Service) describes management options for the Picketpost Mountain/Arnett Creek Analysis Area, south of Superior in Pinal County, Arizona. The central fish-related proposal is to reestablish a native fish community...
 > -- *[[PicketpostMountainarnettCreekA_15280]]*
 
+> This 1941 hydrological study by H. M. Babcock and E. M. Cushing, of the [[U.S. Geological Survey]], examines how flash floods in [[Queen Creek]], a typical large desert wash in [[Pinal County]], [[Arizona]], recharge the underlying [[Alluvium]] aquifer. The work supported a proposed flood-control...
+> -- *[[RechargeToGroundwaterFromFlood_17190]]*
+
 ### Mentioned In
 - [[AProposalToReestablishDesertSu_20730]]
 - [[EnvironmentalAssessmentarnettC_11509]]
@@ -791,6 +1127,19 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 - [[GroundwaterResourcesAndProblem_20985]]
 - [[FinalReportForTheArnettCreekNa_17657]]
 - [[PicketpostMountainarnettCreekA_15280]]
+- [[RechargeToGroundwaterFromFlood_17190]]
+
+## Queen Mary Reservoir
+
+### Summary
+A large reservoir (292.59 ha, maximum depth 10.5 m) in Middlesex, kept at a constant level by pumping from the River Thames. In this study only adult midges were observed there, and it shared the profundal Procladius choreus, Tanytarsus lugens, Chironomus plumosus and C. anthracinus community.
+
+### Context
+> This paper by J. H. [[Mundie]] (Imperial College, London; communicated by P. Freeman, received 5 September 1956, read 5 December 1956) reports a three-year survey (February 1950 to February 1953, with a 1954 extension) of the non-biting midges of storage reservoirs supplied by the River Thames in...
+> -- *[[TheEcologyOfChironomidaeInStor_15509]]*
+
+### Mentioned In
+- [[TheEcologyOfChironomidaeInStor_15509]]
 
 ## Queenfish
 <!-- fm: auto_enriched: true -->
@@ -807,6 +1156,42 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 
 ### Mentioned In
 - [[InitialObservationsOnSpawningA_1991]]
+
+## Queensland Lungfish
+
+### Summary
+A lungfish of eastern Queensland (Ceratodus forsteri), a survivor of an ancient group. The source highlights its discovery and description by Krefft in 1870 as a 'living fossil' milestone in Australian ichthyology.
+
+### Context
+> This is the 1964 Presidential Address to the [[Linnean Society of New South Wales]] by G. P. Whitley, a long-serving ichthyologist at the [[Australian Museum]]. It surveys about three and a half centuries of documented knowledge of Australian fishes, from Aboriginal rock art and early European...
+> -- *[[PresidentialAddressASurveyOfAu_12231]]*
+
+### Mentioned In
+- [[PresidentialAddressASurveyOfAu_12231]]
+
+## Queensland Museum
+
+### Summary
+The state museum of Queensland, Australia. It holds 15 paratype specimens (9.9–15.2 mm SL) of the redfinned blue-eye, according to the source.
+
+### Context
+> This paper, published in the Journal of the Australia New Guinea Fishes Association (Vol. 6, No. 4, July 1991), describes a new species, genus and subfamily of blue-eye, [[Scaturiginichthys Vermeilipinnis]], from inland springs in central western Queensland. It is the first member of the family...
+> -- *[[ARedfinnedBlueeyeANewSpeciesAn_14398]]*
+
+### Mentioned In
+- [[ARedfinnedBlueeyeANewSpeciesAn_14398]]
+
+## Queimadela Dam
+
+### Summary
+A dam on the River Vizela in northern Portugal, planned or under construction at the time of this study. The 1990 survey was conducted as a baseline before its construction so that the future reservoir's ecological changes could be monitored.
+
+### Context
+> This 1990 limnological survey, published by the Instituto de Zoologia "Dr. Augusto Nobre" (Faculdade de Ciências do Porto), describes the baseline (reference) condition of a stretch of [[River Vizela]] in northern Portugal before the construction of [[Queimadela Dam]]. Monthly sampling at two...
+> -- *[[LimnologicalCharacterizationOf_16368]]*
+
+### Mentioned In
+- [[LimnologicalCharacterizationOf_16368]]
 
 ## Quekett Microscopical Club
 
@@ -842,6 +1227,18 @@ Quemado Lake is one of the five Apache National Forest lakes covered by this dra
 ### Mentioned In
 - [[DraftEnvironmentalStatementAqu_11508]]
 
+## Querandina Transgression
+
+### Summary
+A modest marine advance of the Pleistocene, followed by a regression. The author describes it as a limited sea-level rise in the later history of the basin.
+
+### Context
+> This Spanish-language monograph, the first part of a series by [[Fernando de Buen]] on the [[Mar de Solís]] and its fish fauna, treats the [[Río de la Plata]] as a declining intracontinental sea. It reconstructs the basin's geological history from the Cenozoic onward, describes its present...
+> -- *[[ElMarDeSolisYSuFaunaDePeces_12744]]*
+
+### Mentioned In
+- [[ElMarDeSolisYSuFaunaDePeces_12744]]
+
 ## Quercus
 
 ### Summary
@@ -851,8 +1248,12 @@ Quercus is the genus of oaks. This source lists oak as one of the legible plant 
 > This document is a multi-page field log, not a fish study. It records a small-mammal trapping effort and a plant inventory at two roadside sites near creek drainages. The scan is heavily degraded, and most pages are unreadable. The legible entries cover a September field session, a group of student...
 > -- *[[AzGilaCoSierraAnchaMtFieldNote_19357]]*
 
+> This is the second installment of a floristic survey of the [[Cuatro Ciénegas Basin]] region of [[Coahuila]], Mexico, by [[Donald J. Pinkava]] (Department of Botany and Microbiology, Arizona State University). It covers the dicotyledonous families from Casuarinaceae through Loasaceae and was...
+> -- *[[VegetationAndFloraOfTheBolsonO_11095]]*
+
 ### Mentioned In
 - [[AzGilaCoSierraAnchaMtFieldNote_19357]]
+- [[VegetationAndFloraOfTheBolsonO_11095]]
 
 ## Quercus arizonica
 
@@ -866,6 +1267,18 @@ Quercus arizonica is one of the dominant oak species in the Sierra San Luis rese
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
 
+## Quercus Ilex Section
+
+### Summary
+The section of oaks (genus Quercus) that includes the holm oak, Quercus ilex, and other evergreen live oaks. In this source they are listed among Madrean-Tethyan links, past and present, in the paper's Table 3 as part of the shared sclerophyllous flora across North America and the Mediterranean.
+
+### Context
+> Axelrod's 1975 review (Annals of the Missouri Botanical Garden, vol. 62) argues that broadleaved evergreen sclerophyllous vegetation, the [[Chaparral and Macchia]] type, originated from older [[Laurophyllous Forest]] alliances as dry climate spread from the middle Eocene onward. The author holds...
+> -- *[[EvolutionAndBiogeographyOfMadr_10593]]*
+
+### Mentioned In
+- [[EvolutionAndBiogeographyOfMadr_10593]]
+
 ## Quercus toumeyii
 
 ### Summary
@@ -877,6 +1290,22 @@ Quercus toumeyii is an oak species found in the Sierra San Luis reserve. It occu
 
 ### Mentioned In
 - [[ManagementPlanSierraSanLuisWil_18303]]
+
+## Quercus Turbinella
+
+### Summary
+Shrub live oak, an evergreen shrub of the southwestern United States. It was part of the Late Pleistocene woodland, and a single old individual survived on a northerly cliff base in the modern plots, where runoff and shade create mesic microsites. It disappeared from the middle Holocene record.
+
+### Context
+> This paleoecological study reconstructs about 22,000 years of vegetation change at [[Eagle Eye Mountain]], near the northern border of the [[Sonoran Desert]] in Arizona's [[Arizona Upland]] subdivision. Plant macrofossils from eleven radiocarbon-dated [[Packrat Middens]] (*Neotoma* sp.) were...
+> -- *[[AYearRecordOfVegetationChangeI_15259]]*
+
+> This study by [[Campbell]] and [[Green]] examines the composition, distribution, and community structure of stream-channel vegetation along [[Sycamore Creek]], a 42-mile, semiarid stream in central [[Arizona]] that drains the [[Mazatzal Mountains]] and joins the [[Verde River]]. Using 402 randomly...
+> -- *[[PerpetualSuccessionOfStreamcha_17347]]*
+
+### Mentioned In
+- [[AYearRecordOfVegetationChangeI_15259]]
+- [[PerpetualSuccessionOfStreamcha_17347]]
 
 ## Questar Mountain Fuel Supply Pipeline
 
@@ -901,6 +1330,18 @@ Quibdo is a collection locality in Trans-Andean Colombia where specimens of Hypo
 
 ### Mentioned In
 - [[TheGymnotidaeOfTransandeanColo_15808]]
+
+## Quiburi
+
+### Summary
+A Sobaipuri village site (c. A.D. 1150–1760) on the San Pedro River in Cochise County, Arizona. Miller reports charred and marked fish vertebrae there, indicating the Sobaipuri ate fish, including a large squawfish-sized specimen. He also cites an 1846 report of large 'salmon trout' from the San Pedro as evidence that squawfish once lived there.
+
+### Context
+> This 1955 paper by [[Robert Rush Miller]] identifies fish remains recovered from three Arizona archaeological sites: [[Catclaw Cave]] on the lower [[Colorado River]], the Hohokam settlement of [[Snaketown]], and the Sobaipuri village of [[Quiburi]]. Using skeletal elements, Miller confirms that...
+> -- *[[FishRemainsFromArchaeologicalS_15324]]*
+
+### Mentioned In
+- [[FishRemainsFromArchaeologicalS_15324]]
 
 ## Quiburis Formation
 
@@ -930,6 +1371,18 @@ Quicklime is calcium oxide used to disinfect drained fish ponds. The source iden
 ### Mentioned In
 - [[ControlAndTreatmentOfParasitic_20451]]
 
+## Quids
+
+### Summary
+Quids are wads of chewed plant fiber and food material left in archaeological deposits. In this source, more than 20,000 quids were counted and typed but excluded from the artifact catalog, and quids are among the evidence Taylor uses to document a shift from animal to plant foods.
+
+### Context
+> Walter W. Taylor reports radiocarbon dates from [[Frightful Cave]] (site CM-68) in the [[Cuatro Ciénegas Basin]] of central [[Coahuila]], Mexico. The dates show that the cave's artifacts and biofacts are far older than Taylor expected, and that the deposits record a single cultural continuum of...
+> -- *[[SomeImplicationsOfTheCarbonDat_13511]]*
+
+### Mentioned In
+- [[SomeImplicationsOfTheCarbonDat_13511]]
+
 ## Quien Sabe Prescribed Burn
 
 ### Summary
@@ -945,6 +1398,30 @@ The Quien Sabe Prescribed Burn is a planned prescribed fire in the Cave Creek ra
 ### Mentioned In
 - [[FisheryMonitoringForTheQuienSa_14755]]
 - [[DraftBiologicalOpinionQuienSab_11862]]
+
+## Quiet Water
+
+### Summary
+A zone of slower current created by a shelter, where a fish can rest out of the main flow. In this study, quiet water alone attracted little use in clear coverts, and mattered mainly when darkness and a visual reference were also present, becoming more important at higher velocity.
+
+### Context
+> This study examined how juvenile [[Smallmouth Bass]] (*Micropterus dolomieui*) use artificial shelter in flowing water. Wild yearlings were tested individually in a [[Stream Aquarium]] at two [[Water Velocity]] levels (12 and 28 cm/sec). Fish were offered opaque and clear plexiglass [[Covert...
+> -- *[[ResponsesOfYearlingSmallmouthB_20956]]*
+
+### Mentioned In
+- [[ResponsesOfYearlingSmallmouthB_20956]]
+
+## Quietula
+
+### Summary
+A genus of gobiid fishes found in the eastern Pacific, related to Gillichthys. In this source, Barlow compares postlarval pigmentation of Gillichthys with that of Quietula, Clevelandia, and Ilypnus, noting that Gillichthys postlarvae are more heavily pigmented at 8-12 mm, which suggests a shorter pelagic phase and reduced dispersal.
+
+### Context
+> This 1963 study by George W. Barlow, published in *Pacific Science*, examines morphological and meristic variation in [[Gillichthys Mirabilis]] across its range from central California through Baja California, the [[Gulf of California]], and the introduced [[Salton Sea]] population. About 4,000...
+> -- *[[SpeciesStructureOfTheGobiidFis_15587]]*
+
+### Mentioned In
+- [[SpeciesStructureOfTheGobiidFis_15587]]
 
 ## Quilcene
 <!-- fm: auto_enriched: true -->
@@ -989,12 +1466,28 @@ The Quien Sabe Prescribed Burn is a planned prescribed fire in the Cave Creek ra
 > This monitoring study, reprinted from the *Pesticides Monitoring Journal* (Vol. 12, No. 2, September 1978), reports [[Organochlorine Insecticides]] and [[Polychlorinated Biphenyls]] (PCBs) in edible fish flesh from [[Lake Saint Clair]] and [[Lake Erie]] collected between 1968 and 1976. Eighteen...
 > -- *[[ResiduesOfOrganochlorineInsect_18815]]*
 
+> This 1940 study, by [[William E. Ricker]] and [[John Gottschalk]] (published in the *Transactions of the American Fisheries Society*, vol. 70), tests whether an overabundance of coarse fish caused the decline of [[Bass Lake]], Indiana. Under the [[Division of Fish and Game]], [[Seining]] removed...
+> -- *[[AnExperimentInRemovingCoarseFi_16850]]*
+
+> This study by [[Andreas A. Paloumpis]] (Iowa State College, 1958) examines how the fish community of [[Squaw Creek]], an unstable intermittent stream in central [[Iowa]], responds to repeated floods and droughts. Sampling covered 1953 to 1956 using seines, wire traps, an electric shocker and...
+> -- *[[ResponsesOfSomeMinnowsToFloodA_18410]]*
+
+> This 1947 study (published 1949 in the *Transactions of the American Fisheries Society*) examines six decades of commercial fishing on [[Lake Of The Woods]], beginning in 1884. The [[Lake Sturgeon]] has nearly disappeared and the [[Lake Whitefish]] has declined sharply. Overfishing is identified as...
+> -- *[[SomeTrendsInTheCommercialFishe_17393]]*
+
+> This study examines spawning by sucker species (Catostomidae) in Deer Creek, a third-order tributary of the middle [[Wabash River]] in Carroll County, Indiana. Over spring 1977–1979 the authors combined adult sampling, blocknet movement traps, age-size analysis and spawning-site measurements. They...
+> -- *[[DifferentialUseOfStreamHabitat_18103]]*
+
 ### Mentioned In
 - [[LarvalDevelopmentOfTheShorthea_14149]]
 - [[InlandCommercialFisheriesWorks_15658]]
 - [[WhatHaveICaught_12929]]
 - [[ProminentFishesOfWestVirginia_13090]]
 - [[ResiduesOfOrganochlorineInsect_18815]]
+- [[AnExperimentInRemovingCoarseFi_16850]]
+- [[ResponsesOfSomeMinnowsToFloodA_18410]]
+- [[SomeTrendsInTheCommercialFishe_17393]]
+- [[DifferentialUseOfStreamHabitat_18103]]
 
 ## Quillback Carpsucker
 <!-- fm: auto_enriched: true -->
@@ -1032,12 +1525,36 @@ A compound in the low toxicity class. Lake trout were roughly ten times as sensi
 > This document compiles three reports from the U.S. Bureau of Sport Fisheries and Wildlife, *Investigations in Fish Control* numbers 22 to 24 (January 1969). Together they evaluate [[Quinaldine]] (2-methylquinoline), a coal-tar derived chemical, as a lower-cost alternative to [[MS-222]] for...
 > -- *[[EfficacyOfQuinaldineAsAnAnesth_20586]]*
 
+> This three-part series by [[Bruce J. Turner]], published in *African Wild Life*, introduces the African annual killifish genus [[Nothobranchius]]. The genus is described as one of the least-studied vertebrate groups in Africa, and the only true annual fishes on the African landmass. The article...
+> -- *[[AnIntroductionToTheFishesOfThe_13414]]*
+
+> This 1958 note by Bruce Muench of the [[Illinois Department of Conservation]] reports [[Quinaldine]] (2-methylquinoline), a chemical not previously recognized as a fish anesthetic, as a candidate for handling and transporting fish, and possibly for anesthetizing fish populations in their natural...
+> -- *[[QuinaldineANewAnestheticForFis_15479]]*
+
+> This methods study, from the [[University of Florida]], evaluates anesthetics and surgical techniques for implanting [[Radio Telemetry]] transmitters into the body cavity of grass carp (*Ctenopharyngodon idella*) weighing 1.6–3.7 kg. The work supports a larger project using [[Grass Carp]] for...
+> -- *[[AnesthesiaAndSurgicalProcedure_20601]]*
+
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[QuinaldineAsAnAnestheticOnSire_1961]]
 - [[ColoradoSquawfishRecoveryPlan_20997]]
 - [[UltravioletSterilizationOfAqua_16687]]
 - [[EfficacyOfQuinaldineAsAnAnesth_20586]]
+- [[AnIntroductionToTheFishesOfThe_13414]]
+- [[QuinaldineANewAnestheticForFis_15479]]
+- [[AnesthesiaAndSurgicalProcedure_20601]]
+
+## Quinaldine Sulfate
+
+### Summary
+Quinaldine Sulfate is a chemical agent used to anaesthetise fish. In this source, the authors used it in 1990 to collect the first of seven specimens of Bifax lacinia after earlier collection attempts had failed.
+
+### Context
+> This paper by [[David W. Greenfield]], [[Jonathan K.L. Mee]] and [[John E. Randall]] formally describes *Bifax lacinia*, a new genus and species of toadfish in the subfamily [[Batrachoidinae]] (family [[Batrachoididae]]). The fish was collected from crevices in rocky walls at 6-8 m depth on the...
+> -- *[[BifaxLaciniaANewGenusAndSpecie_19260]]*
+
+### Mentioned In
+- [[BifaxLaciniaANewGenusAndSpecie_19260]]
 
 ## Quinault
 <!-- fm: auto_enriched: true -->
@@ -1107,6 +1624,18 @@ The quinnat (Salmo quinnat), also called California salmon, is a large Pacific s
 ### Mentioned In
 - [[AppendixBTheSalmonAndTroutSpec_14665]]
 
+## Quintana
+
+### Summary
+Quintana is a genus of small poeciliid fishes endemic to Cuba. In this source, Rosen and Bailey report that Carlhubbsia shares a suite of gonopodial and suspensorial characters with Quintana and Girardinus. They interpret this as evidence of common descent and of a mainland origin for the Antillean group.
+
+### Context
+> Rosen and Bailey (1959) revise two Middle-American poeciliid genera, [[Carlhubbsia]] and [[Phallichthys]], which had previously been grouped with several other genera in the subfamily [[Poeciliopsinae]] on the basis of a shared asymmetrically folded male gonopodium. The authors describe two new...
+> -- *[[MiddleamericanPoeciliidFishesO_21058]]*
+
+### Mentioned In
+- [[MiddleamericanPoeciliidFishesO_21058]]
+
 ## Quintana Roo
 
 ### Summary
@@ -1116,8 +1645,12 @@ A state on the eastern Yucatán Peninsula of Mexico, covering about 58,443 km².
 > This 1996 catalogue by Juan Jacobo Schmitter-Soto (El Colegio de la Frontera Sur, Unidad Chetumal) inventories the fishes of the continental waters of [[Quintana Roo]]: [[Cenotes]], lagoons, ponds, and the [[Río Hondo]] with its tributaries. It lists 125 species in 43 families, of which 86 species...
 > -- *[[CatalogoDeLosPecesContinentale_20569]]*
 
+> This study by Schmitter-Soto and Gamboa-Pérez (1996, *Revista de Biología Tropical* 44(1): 199–212) presents a preliminary inventory and distribution analysis of continental fishes in southern [[Quintana Roo]], drawing on 69 sampled localities in the [[Río Hondo]] basin, published records and the...
+> -- *[[ComposicionYDistribucionDePece_20570]]*
+
 ### Mentioned In
 - [[CatalogoDeLosPecesContinentale_20569]]
+- [[ComposicionYDistribucionDePece_20570]]
 
 ## Quintero
 
@@ -1173,6 +1706,9 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 > This 1987 technical report by Robert Rush Miller and Lee A. Fuiman, issued by the [[Cooperative National Park Resources Studies Unit]] (University of Arizona) under a [[National Park Service]] contract, formally describes *Cyprinodon macularius eremus* as a new subspecies of [[Desert Pupfish]]...
 > -- *[[StatusOfCyprinodonMaculariusEr_15416]]*
 
+> This is Volume 9, Number 2 (1988) of [[Desert Plants]], a quarterly journal published by the University of Arizona at the [[Boyce Thompson Southwestern Arboretum]]. Its central research article, by Ezcurra, Felger, Russell and Equihua, examines the [[Adair Bay Pozos]]: small artesian freshwater...
+> -- *[[NitrogenFixationInDesertLegume_12832]]*
+
 ### Mentioned In
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[ArizonaAndMexicanDesertPupfish_12498]]
@@ -1186,6 +1722,7 @@ Quitobaquito is a desert aquatic habitat supporting a genetically distinct popul
 - [[TheDesertPupfishOfOrganPipeNat_18555]]
 - [[MinutesdesertFishesRecoveryTea_13730]]
 - [[StatusOfCyprinodonMaculariusEr_15416]]
+- [[NitrogenFixationInDesertLegume_12832]]
 
 ## Quitobaquito Basin
 
@@ -1428,6 +1965,9 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 > This review by Allan A. Schoenherr (Fullerton College), presented at the *Desert Ecology 1986* symposium, compiles what is known about the [[Desert Pupfish]] and its allies and documents a serious population decline. The species was once common in the [[Gila River]], the [[Lower Colorado River]],...
 > -- *[[AReviewOfTheLifeHistoryAndStat_20583]]*
 
+> This study by [[Jason B. Dunham]] and [[W. L. Minckley]] (Arizona State University, published in *Biological Conservation*, 1998) compares allozymic (protein-electrophoresis) genetic variation among wild and captive populations of the endangered [[Desert Pupfish]] (*Cyprinodon macularius...
+> -- *[[AllozymicVariationInDesertPupf_19163]]*
+
 ### Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
@@ -1443,6 +1983,7 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 - [[AReviewOfSelectedEndangeredFis_19784]]
 - [[VegetationRecoveryFollowingLiv_14904]]
 - [[AReviewOfTheLifeHistoryAndStat_20583]]
+- [[AllozymicVariationInDesertPupf_19163]]
 
 ## Quitobaquito Springs
 <!-- fm: auto_enriched: true -->
@@ -1517,6 +2058,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This final report, submitted to the [[National Park Service]] under Purchase Order PX-8100-6-0215 by Boyd E. Kynard (University of Arizona, dated April 15, 1981), examines the [[Desert Pupfish]] (*Cyprinodon macularius*) of [[Quitobaquito Springs]] in [[Organ Pipe Cactus National Monument]]....
 > -- *[[StudyOfQuitobaquitoPupfishsyst_12501]]*
 
+> This regional review, a chapter by Gerald A. Cole, surveys the limnology of the American Southwest and Middle America, an area of about 3.8 million km² spanning roughly 25° of latitude and 42° of longitude. The region's aquatic habitats are extremely varied, including [[Thermal Springs]], extremely...
+> -- *[[TheAmericanSouthwestAndMiddleA_17096]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -1545,6 +2089,7 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[PopulationDeclineOfSonoranMudT_21070]]
 - [[ABehavioralAndEcologicalStudyO_17972]]
 - [[StudyOfQuitobaquitoPupfishsyst_12501]]
+- [[TheAmericanSouthwestAndMiddleA_17096]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->
@@ -1571,8 +2116,12 @@ Quitovac is a location in Sonora, Mexico, approximately 35 miles southeast of Or
 > Archaeological survey conducted by the [[NPS Western Archaeological and Conservation Center]] at [[Organ Pipe Cactus National Monument]] (ORPI) between 1989 and 1993 documented 12,000 years of continuous human occupation. The survey covered 8,000 acres (2% of the monument) and recorded 199...
 > -- *[[BetweenTheDesertAndTheSeaArche_13223]]*
 
+> This is Volume 9, Number 2 (1988) of [[Desert Plants]], a quarterly journal published by the University of Arizona at the [[Boyce Thompson Southwestern Arboretum]]. Its central research article, by Ezcurra, Felger, Russell and Equihua, examines the [[Adair Bay Pozos]]: small artesian freshwater...
+> -- *[[NitrogenFixationInDesertLegume_12832]]*
+
 ### Mentioned In
 - [[BetweenTheDesertAndTheSeaArche_13223]]
+- [[NitrogenFixationInDesertLegume_12832]]
 
 ## Quitovaquito Spring
 
@@ -1585,3 +2134,63 @@ A spring in Organ Pipe Cactus National Monument, Arizona, that is one of two sur
 
 ### Mentioned In
 - [[ChromosomeStudyOnTheDesertPupf_15677]]
+
+## Quivering
+
+### Summary
+A scored courtship action pattern, also called body-quiver, in this study of Tilapia melanotheron. Together with nodding and tail beating it formed the core of courtship, and it declined as the mate's relative size increased.
+
+### Context
+> Barlow and Green (University of California, Berkeley) tested courtship behavior in paired [[Blackchin Mouthbreeder]] (*Tilapia melanotheron*, family [[Cichlidae]]) in a laboratory arena. The study examined two problems: whether courtship follows the [[Appeasement Hypothesis]] or the [[Arousal...
+> -- *[[TheProblemsOfAppeasementAndOfS_15596]]*
+
+### Mentioned In
+- [[TheProblemsOfAppeasementAndOfS_15596]]
+
+## Qujing
+
+### Summary
+Qujing is a locality in Yunnan Province, China, with a series of fossil beds that yielded Psarolepis romeri. The source places the new material in the second and third of four fossil beds there, spanning the Xishancun and Xitun Formations of the Pridoli to late Lochkovian interval.
+
+### Context
+> The source is a bundle of several items. The main research content is a 1999 *Nature* letter on [[Psarolepis Romeri]], a roughly 400-million-year-old fossil fish from the Lower Devonian of [[Qujing]], Yunnan, China. The letter describes shoulder girdle and cheek bone material that shows a mix of...
+> -- *[[APrimitiveFossilFishShedsLight_20933]]*
+
+### Mentioned In
+- [[APrimitiveFossilFishShedsLight_20933]]
+
+## Quoddy Herring Fishery
+
+### Summary
+This is a herring fishery in the Quoddy region that Ricker uses as an example in his management discussion. He suggests that juvenile harvest during the compensatory phase may increase recruitment in this fishery. The source treats it as a case where stock-recruitment reasoning bears on exploitation.
+
+### Context
+> Ricker (1954) synthesizes the theory of how population size is regulated by density-dependent mortality, and how the resulting stock-recruitment (reproduction) curves shape abundance over time. Plotting filial egg production against parental egg production typically gives a domed curve crossing the...
+> -- *[[StockAndRecruitment_16864]]*
+
+### Mentioned In
+- [[StockAndRecruitment_16864]]
+
+## Quoy And Gaimard
+
+### Summary
+French naturalists who published the original description and figure of *Euprotomicrus bispinatus* in 1824. The authors found that Fowler's 1941 redescription relied largely on this crude figure rather than the original text, which led to errors in fin positions and proportions.
+
+### Context
+> This paper reports a small pelagic squaloid shark, [[Euprotomicrus Bispinatus]], captured at the surface by dip-net under a surface light about 500 nautical miles off California on the night of November 19, 1948. The specimen (California Academy of Sciences No. 20431, a 233 mm female) is only the...
+> -- *[[RelationshipsOfThePelagicShark_14322]]*
+
+### Mentioned In
+- [[RelationshipsOfThePelagicShark_14322]]
+
+## Québec
+
+### Summary
+A Canadian province and the study area of this 1968 paper, which compiles the distribution of stoneflies across the province. The authors report 97 provincial species, including 94 examined directly. The source also describes Québec's stonefly fauna as a mix of Great Lakes, Appalachian, Atlantic and northern elements.
+
+### Context
+> This 1968 faunistic paper by [[Ricker]], Malouin, Harper and Ross compiles the distribution of stoneflies (order [[Plecoptera]]) in the Canadian province of [[Québec]]. The authors report 94 named species examined directly, one species cited from the literature, and two further undescribed or...
+> -- *[[DistributionOfQuebecStoneflies_16879]]*
+
+### Mentioned In
+- [[DistributionOfQuebecStoneflies_16879]]
