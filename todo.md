@@ -20,6 +20,7 @@ Observations about the current brain (affects the design):
 * Current `search_fisheries_brain` returns the first 3 substring matches (1,500 characters each), which is why answers just echo the brain.
 
 ## Open questions
+- [ ] Marsh Library: confirm the server folder for the public-domain PDFs (`MARSH_PDF_BASE` in `site/scripts/build-data.mjs`, now the Minckley `textpdf/` folder), then upload `MarshLibrary_PublicDomain/`.
 - [ ] Citation style: title and year, `source_id`, or both?
 - [ ] Per-question cost ceiling (limits how many chunks go to the model).
 - [ ] Where plans are saved: `runs/` or the user's project folder; `.md` or `.yaml`.

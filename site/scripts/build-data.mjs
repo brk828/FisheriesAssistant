@@ -16,6 +16,11 @@ const refs = {
 
 // Minckley Library permissions: only "public domain" items have a freely hosted full PDF.
 const PDF_BASE = "https://www.marsheducation.org/library/textpdf/";
+// Marsh Library (Paul C. Marsh) PDFs: public-domain items are uploaded as <code>.pdf (PML0001.pdf ...). Their permission
+// comes from the note frontmatter (fisheries_agent/utils/marsh_ingest.py), not a spreadsheet. Change this if they go
+// to a different folder on the server.
+const MARSH_PDF_BASE = "https://www.marsheducation.org/library/textpdf/";
+const MARSH_CODE = /^PML\d{4,}$/;
 const publicDomain = new Set();
 const csvPath = path.join(agent, "brain_meta", "minckley_library.csv");
 if (fs.existsSync(csvPath)) {
@@ -62,13 +67,13 @@ function parseFrontmatter(text) {
   return [fm, text.slice(m[0].length)];
 }
 
-function citationText(ref, title, mid) {
+function citationText(ref, title, mid, marshId) {
   const pub = ref.publication ? ` ${ref.publication.replace(/\.$/, "")}.` : "";
   const tail = ref.type === "Personal Communication" ? " (personal communication)." : pub;
   const head = ref.authors
     ? `${ref.authors} (${ref.year || "n.d."}). ${title}.`
     : `${title} (${ref.year || "n.d."}).`;
-  return head + tail + (mid ? ` Minckley Library ID: ${mid}.` : "");
+  return head + tail + (mid ? ` Minckley Library ID: ${mid}.` : marshId ? ` Marsh Library ID: ${marshId}.` : "");
 }
 
 function cleanBody(body) {
@@ -93,8 +98,12 @@ for (const file of fs.readdirSync(sourcesDir).filter((f) => f.endsWith(".md")).s
   const [fm, body] = parseFrontmatter(fs.readFileSync(path.join(sourcesDir, file), "utf-8"));
   const ref = lookup(fm.source_id, stem);
   const sid = String(fm.source_id || "");
-  // Minckley Library notes carry a numeric source_id (or minckley_id); other libraries use "X-<hash>".
-  const minckleyId = fm.minckley_id || (sid.startsWith("X-") ? "" : midFromId(sid) || midFromStem(stem));
+  // Minckley Library notes carry a numeric source_id (or minckley_id); Marsh Library notes a PML code; others "X-<hash>".
+  const marshId = MARSH_CODE.test(fm.marsh_id || "") ? fm.marsh_id : MARSH_CODE.test(sid) ? sid : "";
+  const minckleyId = marshId ? "" : fm.minckley_id || (sid.startsWith("X-") ? "" : midFromId(sid) || midFromStem(stem));
+  const pdfKey = minckleyId || marshId;
+  const pdfCandidate = minckleyId && publicDomain.has(minckleyId) ? `${PDF_BASE}${minckleyId}.pdf`
+    : marshId && (fm.permission || "").toLowerCase() === "public domain" ? `${MARSH_PDF_BASE}${marshId}.pdf` : "";
   const title = ref.title || fm.title || stem;
   const year = (ref.year || (fm.date_published || fm.date || "").slice(0, 4) || "").toString();
   const doi = ref.doi || fm.doi || "";
@@ -107,10 +116,14 @@ for (const file of fs.readdirSync(sourcesDir).filter((f) => f.endsWith(".md")).s
     type: ref.type || "",
     doi,
     minckleyId,
-    pdfUrl: minckleyId && publicDomain.has(minckleyId) && !missing.has(minckleyId) ? `${PDF_BASE}${minckleyId}.pdf` : "",
+    marshId,
+    library: minckleyId ? "Minckley Library" : marshId ? "Marsh Library" : "Other sources",
+    pdfKey,
+    pdfCandidate,
+    pdfUrl: pdfCandidate && !missing.has(pdfKey) ? pdfCandidate : "",
     species: fm.common_name || fm.species || "",
     location: fm.location || "",
-    citation: citationText(ref, title, minckleyId),
+    citation: citationText(ref, title, minckleyId, marshId),
     hasCitation: Boolean(ref.title || fm.source_citation),
     html: marked.parse(cleanBody(body)),
   });
@@ -119,4 +132,4 @@ for (const file of fs.readdirSync(sourcesDir).filter((f) => f.endsWith(".md")).s
 const out = path.resolve(here, "../src/generated/sources.json");
 fs.mkdirSync(path.dirname(out), { recursive: true });
 fs.writeFileSync(out, JSON.stringify(items));
-console.log(`Wrote ${items.length} sources (${items.filter((i) => i.minckleyId).length} with Minckley IDs, ${items.filter((i) => i.pdfUrl).length} with public-domain PDFs) to ${path.relative(process.cwd(), out)}`);
+console.log(`Wrote ${items.length} sources (${items.filter((i) => i.minckleyId).length} with Minckley IDs, ${items.filter((i) => i.marshId).length} Marsh Library, ${items.filter((i) => i.pdfUrl).length} with public-domain PDFs) to ${path.relative(process.cwd(), out)}`);

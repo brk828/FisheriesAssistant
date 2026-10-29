@@ -46,3 +46,6 @@ site/src/generated/
 
 # development source documents
 fisheries_agent/skill_source/
+
+# Marsh Library working catalog: local register (file names, permission reasons); never commit
+fisheries_agent/brain_meta/marsh_catalog.csv

@@ -20,7 +20,7 @@ const base = import.meta.env.BASE_URL;
   </script>
   <article
     data-pagefind-body
-    data-library={s.minckleyId ? "Minckley Library" : "Other sources"}
+    data-library={s.library}
     data-decade={s.year ? `${s.year.slice(0, 3)}0s` : "Unknown"}
     data-year={s.year || "0"}
     data-pdf={s.pdfUrl ? "Available" : "Not available"}
@@ -30,14 +30,14 @@ const base = import.meta.env.BASE_URL;
     <h1 data-pagefind-meta="title">{s.title}</h1>
     <p class="cite" data-pagefind-meta="citation">{s.citation}</p>
     <div class="request">
-      {s.minckleyId ? (
+      {s.minckleyId || s.marshId ? (
         s.pdfUrl ? (
           <p>
-            <strong>Minckley Library ID: {s.minckleyId}.</strong> The full PDF of this document is available.
-            View it at <a href={s.pdfUrl} target="_blank" rel="noopener noreferrer"><strong>Minckley Library: {s.minckleyId}</strong></a>.
+            <strong>{s.library} ID: {s.pdfKey}.</strong> The full PDF of this document is available.
+            View it at <a href={s.pdfUrl} target="_blank" rel="noopener noreferrer"><strong>{s.library}: {s.pdfKey}</strong></a>.
           </p>
         ) : (
-          <p><strong>Minckley Library ID: {s.minckleyId}.</strong> {REQUEST_PDF_TEXT}</p>
+          <p><strong>{s.library} ID: {s.pdfKey}.</strong> {REQUEST_PDF_TEXT}</p>
         )
       ) : (
         <p>
