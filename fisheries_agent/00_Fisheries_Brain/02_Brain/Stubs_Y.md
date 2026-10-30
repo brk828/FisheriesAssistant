@@ -134,8 +134,16 @@ The lower Yakima River and its tributaries were the release site for transplante
 > This 1957 paper (reprinted from the *Transactions of the American Fisheries Society*, vol. 86, 1956) by [[Croswell Henderson]] of the [[U.S. Public Health Service]] and [[Richard F. Foster]] of the [[General Electric Company]] reports on a population of [[Smallmouth Bass]] in a cold-water reach of...
 > -- *[[StudiesOfSmallmouthBlackBassMi_16624]]*
 
+> This study examines how the body sizes of [[Smallmouth Bass]] (*Micropterus dolomieu*), a nonnative piscivore, relate to predation risk for native salmonids in the lower [[Yakima River]], Washington. Data were collected from 1998 to 2002 using electrofishing, [[Mark-Recapture Abundance...
+> -- *[[EffectsOfPredationByNonnativeS_PML0841]]*
+
+> This document is a journal article (Transactions of the American Fisheries Society, 135:853-860, 2006) by Alexander L. Fritts and Todd N. Pearsons of the Washington Department of Fish and Wildlife. It quantifies how nonnative [[Smallmouth Bass]] (*Micropterus dolomieu*) prey on juvenile [[Chinook...
+> -- *[[EffectsOfPredationByNonnativeS_PML0842]]*
+
 ### Mentioned In
 - [[StudiesOfSmallmouthBlackBassMi_16624]]
+- [[EffectsOfPredationByNonnativeS_PML0841]]
+- [[EffectsOfPredationByNonnativeS_PML0842]]
 
 ## Yakima River Basin
 
@@ -219,6 +227,18 @@ Yamabe is the name for river-resident cherry salmon that do not migrate to sea. 
 
 ### Mentioned In
 - [[AReviewOfTheJapaneseSalmons_16151]]
+
+## Yampa Aquatic Plan
+
+### Summary
+A 1998 Colorado Division of Wildlife plan (CDOW 1998) that recommended trapping and translocating northern pike, smallmouth bass, channel catfish, and white sucker from critical habitat while still providing angling opportunities. The report cites it as the policy basis for the pike removal work.
+
+### Context
+> This final report from the [[Larval Fish Laboratory]] at [[Colorado State University]] evaluates mechanical removal of nonnative [[Northern Pike]] from the [[Yampa River]], northwestern Colorado, for the [[Upper Colorado River Endangered Fish Recovery Program]] (Project No. 98a). Northern pike,...
+> -- *[[NorthernPikeManagementStudiesI_PML1000]]*
+
+### Mentioned In
+- [[NorthernPikeManagementStudiesI_PML1000]]
 
 ## Yampa Basin Feasibility Study
 
@@ -306,6 +326,42 @@ Yampa Canyon refers to a river canyon section within the Yampa River system that
 > This final report by Edmund J. Wick and John A. Hawkins (Colorado State University, Larval Fish Laboratory, February 1989) documents two winters of radiotelemetry on adult [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the upper [[Yampa River]], Colorado. The work was commissioned under Section...
 > -- *[[ColoradoSquawfishWinterHabitat_12220]]*
 
+> This FY 2000 annual report from the [[Colorado River Recovery Program]] describes the third year of a three-year study to develop procedures for monitoring population trends of the [[Humpback Chub]] in the [[Yampa River]] through [[Yampa Canyon]]. The [[U.S. Fish and Wildlife Service]] project team...
+> -- *[[HumpbackChubMonitoringInYampaC_PML1911]]*
+
+> This FY 2001 annual report from the [[Colorado River Recovery Program]] covers Project 22a4, a three-year [[Humpback Chub]] monitoring study in [[Yampa Canyon]], [[Dinosaur National Monument]], run from 1998 to 2001 by G. B. Haines and Tim Modde of the [[U.S. Fish and Wildlife Service]] (Vernal,...
+> -- *[[HumpbackChubMonitoringInYampaC_PML0945]]*
+
+> This protocol, recommended by the [[Colorado River Fishes Recovery Team]], sets out how field personnel should handle, hold, and transport wild [[Bonytail]] (*Gila elegans*) captured in the [[Upper Colorado River Basin]]. The default goal is to keep every captured bonytail alive and deliver it to a...
+> -- *[[AProtocolForTheHandlingAndTran_PML2532]]*
+
+> This June 1987 draft protocol, prepared by the [[Colorado River Fishes Recovery Team]], directs field personnel to retain every wild [[Bonytail]] (*Gila elegans*) they encounter alive and move it to refugia. It sets out how to identify the species in the field, how to hold and transport a captured...
+> -- *[[ProtocolForHandlingAndTranspor_PML0344]]*
+
+> Two FY 1999 annual reports from the [[Colorado River Recovery Program]] address monitoring of [[Humpback Chub]] populations. Project 22-A-4 covers the Yampa River population in [[Yampa Canyon]], where electrofishing and angling captured 23 adults in two five-day trips. Project 22-A-3, part of the...
+> -- *[[HumpbackChubMonitoringInYampaC_PML1907]]*
+
+> This manuscript, a penultimate draft prepared for submission to *Transactions* (cover letter dated 15 December 1997), analyzes length-weight relationships of the endangered [[Humpback Chub]] ([[Gila Cypha]]) across six populations in the [[Colorado River]] Basin. The authors report that [[Grand...
+> -- *[[SpatiotemporalVariationInLengt_PML1680]]*
+
+> This study by Karp and Tyus (1990, *Great Basin Naturalist* 50) assesses the distribution, habitat use, spawning and species associations of the federally endangered [[Humpback Chub]] (*Gila cypha*) in the [[Yampa River]] and [[Green River]] within [[Dinosaur National Monument]], Colorado and Utah,...
+> -- *[[HumpbackChubGilaCyphaInTheYamp_PML1264]]*
+
+> This final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fish Project (Vernal, Utah) describes a three-year study (1998-2000) of the [[Humpback Chub]] (*Gila cypha*) population in [[Yampa Canyon]], a reach of the [[Yampa River]] within [[Dinosaur National Monument]]. The study...
+> -- *[[HumpbackChubMonitoringInYampaC_PML0946]]*
+
+> This U.S. Fish and Wildlife Service report, prepared for the [[Bureau of Reclamation]] under a memorandum of understanding, analyzes radiotelemetry data for the endangered [[Colorado Squawfish]] in the [[Green River]], [[White River]] and [[Yampa River]] (Colorado and Utah) during 1980 and 1981....
+> -- *[[MovementMigrationAndHabitatPre_PML1723]]*
+
+> This Colorado Division of Wildlife final report covers the transition period of 1983–1984 in the monitoring of endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] and [[Yampa River]]. Extensive sampling in 1981–1982 gave way to a...
+> -- *[[ColoradoSquawfishAndHumpbackCh_PML2654]]*
+
+> This U.S. Fish and Wildlife Service report, prepared under the [[Flaming Gorge Studies Program]] (1991), synthesizes sixteen-plus studies of four federally listed or imperiled Colorado River fishes: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]], and [[Razorback Sucker]]. It evaluates...
+> -- *[[HabitatUseAndStreamflowNeedsOf_PML2522]]*
+
+> This U.S. Fish and Wildlife Service report (final, November 1995, prepared by Tim Moddel and George Smith under the [[Recovery Implementation Program]]) updates the 1990 interim flow recommendations for the [[Yampa River]], the last major unregulated tributary of the [[Upper Colorado River Basin]]....
+> -- *[[FlowRecommendationsForEndanger_PML1909]]*
+
 ### Mentioned In
 - [[DistributionHabitatUseAndGrowt_1991]]
 - [[GilaTaxonomy_14730]]
@@ -327,6 +383,18 @@ Yampa Canyon refers to a river canyon section within the Yampa River system that
 - [[SecondAnnualReport_18486]]
 - [[DraftcoloradoRiverFishMonitori_13045]]
 - [[ColoradoSquawfishWinterHabitat_12220]]
+- [[HumpbackChubMonitoringInYampaC_PML1911]]
+- [[HumpbackChubMonitoringInYampaC_PML0945]]
+- [[AProtocolForTheHandlingAndTran_PML2532]]
+- [[ProtocolForHandlingAndTranspor_PML0344]]
+- [[HumpbackChubMonitoringInYampaC_PML1907]]
+- [[SpatiotemporalVariationInLengt_PML1680]]
+- [[HumpbackChubGilaCyphaInTheYamp_PML1264]]
+- [[HumpbackChubMonitoringInYampaC_PML0946]]
+- [[MovementMigrationAndHabitatPre_PML1723]]
+- [[ColoradoSquawfishAndHumpbackCh_PML2654]]
+- [[HabitatUseAndStreamflowNeedsOf_PML2522]]
+- [[FlowRecommendationsForEndanger_PML1909]]
 
 ## Yampa River
 <!-- fm: auto_enriched: true -->
@@ -815,6 +883,285 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This University of Utah Miscellaneous Paper (No. 1, May 1963, Institute of Environmental Biological Research) reports a July 20 to August 6, 1962 survey of the aquatic and terrestrial biota of [[Dinosaur National Monument]], conducted for the [[National Park Service]] under a cooperative agreement...
 > -- *[[StudiesOfBiotaInDinosaurNation_20823]]*
 
+> The document is a species status summary for the [[Humpback Chub]] (*Gila cypha*), a fish listed as Endangered. Its numbers cannot be estimated, its present range is sporadic, and its former distribution is unknown. The main threats are habitat change from [[Dam Construction]] on the Colorado River...
+> -- *[[HumpbackChubGilaCypha_PML1699]]*
+
+> This FY 2005 annual report from the [[Colorado River Recovery Program]] covers Project 133, which evaluates the [[Yampa River]] population of [[Humpback Chub]]. The project ran from 2003 to 2005 under principal investigator Sam Finney of the [[U.S. Fish and Wildlife Service]] (Vernal, Utah)....
+> -- *[[EvaluationOfTheYampaHumpbackCh_PML0811]]*
+
+> This is a resolution adopted by the [[Desert Fishes Council]] at its Tenth Annual Symposium in Las Cruces, New Mexico, on November 17, 1978, and dated February 1979. It responds to a request from the [[U.S. Fish and Wildlife Service]] for comment on the [[Colorado Squawfish]] [[Recovery Plan]] and...
+> -- *[[ResolutionRelativeToTheColorad_PML2285]]*
+
+> This 1962 internal memorandum from a [[Fisheries Management]] biologist to the Regional Director summarizes fish collections made in the [[Green River]] within [[Dinosaur National Monument]] before and after a [[Rotenone]] eradication treatment. The collections were qualitative species surveys, not...
+> -- *[[FishCollectedBeforeAndAfterEra_PML0082]]*
+
+> This annual project report from the [[Colorado River Recovery Program]] covers FY 2002 operations of the [[J.W. Mumma Native Aquatic Species Restoration Facility]] (NASRF) in Alamosa, Colorado. The facility rears [[Bonytail]] for stocking in the [[Upper Colorado River Basin]] and [[Colorado...
+> -- *[[OperationAndMaintenanceOfJwMum_PML2383]]*
+
+> This is a set of three letters from November 1970 between [[Robert R. Miller]], Curator of Fishes at the [[University of Michigan Museum of Zoology]], and [[Paul B. Holden]] of the [[Utah Cooperative Fishery Unit]] at [[Utah State University]]. The letters concern photographed specimens of...
+> -- *[[LetterToHoldenPbSquawfishKaryo_PML1698]]*
+
+> This FY 2000 annual report from the [[Colorado River Recovery Program]] describes the third year of a three-year study to develop procedures for monitoring population trends of the [[Humpback Chub]] in the [[Yampa River]] through [[Yampa Canyon]]. The [[U.S. Fish and Wildlife Service]] project team...
+> -- *[[HumpbackChubMonitoringInYampaC_PML1911]]*
+
+> This annual report from the [[Colorado River Recovery Program]] covers Project 29d, the operation and maintenance of the [[J.W. Mumma Native Aquatic Species Restoration Facility]] (NASRF) in Alamosa, Colorado. The facility rears endangered [[Bonytail]] and [[Colorado Pikeminnow]] for stocking in...
+> -- *[[OperationAndMaintenanceOfJwMum_PML2298]]*
+
+> This compiled record from the [[Desert Fishes Council]] and the [[Southwestern Fishes Council]] covers several 1975 activities in fish conservation. It includes an update on recovery team functioning, a presentation on the [[Endangered Species Act]] and [[Critical Habitat]], and a proposed list of...
+> -- *[[SouthwesternAndSoutheasternFis_PML0583]]*
+
+> This short research note reports the first recent capture of a [[Colorado Squawfish]] (*Ptychocheilus lucius*) in Wyoming. An adult was taken on 20 August 1990 in the [[Little Snake River]] near Baggs, Carbon County, after the species had been listed as extinct in the state since the 1960s. The...
+> -- *[[RediscoveryOfColoradoSquawfish_PML1540]]*
+
+> This April 16, 1990 letter from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the [[U.S. Fish and Wildlife Service]] (Denver, Colorado) responds to a March 23, 1990 draft of the [[Colorado Squawfish Recovery Plan]]. The team concluded that the [[San Juan River]] should be...
+> -- *[[ColoradoSquawfishRecoveryTeamL_PML0348]]*
+
+> This species account, part of a "Threatened Fishes of the World" series by Paul C. Marsh, describes the [[Bonytail Chub]] (*[[Gila Elegans]]*), a moderate-sized cyprinid endemic to the [[Colorado River Basin]]. The species is listed as endangered in the United States. It is now extremely rare, with...
+> -- *[[ThreatenedFishesOfTheWorldGila_PML1512]]*
+
+> This protocol, recommended by the [[Colorado River Fishes Recovery Team]], sets out how field personnel should handle, hold, and transport wild [[Bonytail]] (*Gila elegans*) captured in the [[Upper Colorado River Basin]]. The default goal is to keep every captured bonytail alive and deliver it to a...
+> -- *[[AProtocolForTheHandlingAndTran_PML2532]]*
+
+> This June 1987 draft protocol, prepared by the [[Colorado River Fishes Recovery Team]], directs field personnel to retain every wild [[Bonytail]] (*Gila elegans*) they encounter alive and move it to refugia. It sets out how to identify the species in the field, how to hold and transport a captured...
+> -- *[[ProtocolForHandlingAndTranspor_PML0344]]*
+
+> This report, by Paul B. Holden of BIO/WEST, Inc., evaluates how fish populations in the [[Green River]] changed after the [[Water And Power Resources Service]] installed inlet modifications on [[Flaming Gorge Dam]] in June 1978. The dam had been closed in November 1962. It produced a trout fishery...
+> -- *[[ChangesInTheFishPopulationsInT_PML1081]]*
+
+> This U.S. Fish and Wildlife Service fishery management report, issued by the Cooperative Fishery Unit under Robert L. Inucdo (Fishery Management Biologist), describes a three-day fish sampling survey of the [[Green River]] and the [[Yampa River]] in Colorado and Utah, conducted October 11-13, 1953....
+> -- *[[FisheryManagementReportGreenRi_PML0837]]*
+
+> Two FY 1999 annual reports from the [[Colorado River Recovery Program]] address monitoring of [[Humpback Chub]] populations. Project 22-A-4 covers the Yampa River population in [[Yampa Canyon]], where electrofishing and angling captured 23 adults in two five-day trips. Project 22-A-3, part of the...
+> -- *[[HumpbackChubMonitoringInYampaC_PML1907]]*
+
+> This Colorado River Recovery Program annual report covers Project 133, which evaluates the [[Humpback Chub]] population of the [[Yampa River]]. The project tests whether the Yampa population also occupies [[Lodore Canyon]], [[Whirlpool Canyon]] and [[Split Mountain Canyon]], as the recovery goals...
+> -- *[[EvaluationOfYampaRiverHumpback_PML0813]]*
+
+> This document is a species status account for the [[Bonytail Chub]] (*Gila elegans*), a cyprinid fish listed as **Endangered**. It covers taxonomy, historical and present range, population decline, life history, research needs, and authorities. The species was once abundant in the main channels of...
+> -- *[[StatusOfGilaElegansBonytailChu_PML0188]]*
+
+> This FY2000 annual report from the [[Colorado River Recovery Program]] closes the [[Interagency Standardized Monitoring Program]] (ISMP), a standardized fish monitoring effort run by the [[Colorado Division Of Wildlife]] and led by principal investigator [[William R Elmblad]]. The program tracked...
+> -- *[[InteragencyStandardizedMonitor_PML0680]]*
+
+> This document is a set of proceedings and meeting minutes from the [[Colorado River Wildlife Council]] (with its Great Basin and Lahontan counterparts) on the status and management of native desert fishes. It reports state and federal status updates by region: the [[Lower Colorado River]], the...
+> -- *[[DesertFishStatusReportsAndMana_PML0582]]*
+
+> This compiled 1980 document gathers several conservation and research items on native fishes of the southwestern United States, centered on the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] system. Its main components are a spawning-ecology study of razorback suckers in...
+> -- *[[RazorbackSuckerResearchAndSout_PML0572]]*
+
+> This document combines a cover letter from the [[Lake Mead Limnological Research Center]] (University of Nevada, Las Vegas, December 1982) with a manuscript by Gene R. Wilde (Department of Biological Sciences, UNLV). The letter reports fall netting at [[Cottonwood Basin]] and a [[Razorback Sucker]]...
+> -- *[[DistributionAndAbundanceOfRazo_PML2890]]*
+
+> This study compares four structures for estimating the age of the federally endangered [[Colorado Pikeminnow]] (*Ptychocheilus lucius*): scales, [[Vertebral Centra]], [[Whole Otoliths]], and [[Sectioned Otoliths]]. Ages were estimated from 48 fish captured in the [[Green River Basin]] of Colorado...
+> -- *[[ComparisonOfFourTechniquesForA_PML1004]]*
+
+> This study by [[Tyus and Minckley]] documents how mass migrations of [[Mormon Cricket]] (*[[Anabrus Simplex]]*) into the [[Green River]] and [[Yampa River]] in [[Dinosaur National Monument]] (DNM) in 1986 and 1987 supplied a large, seasonal food pulse to stream fishes. Swimming crickets were swept...
+> -- *[[MigratingMormonCricketsAnabrus_PML2523]]*
+
+> This document is a Five Year Status Report on the [[Razorback Sucker]] (*Xyrauchen texanus*), prepared by the California Department of Fish and Game (Endangered Species Project) and dated July 1, 1987. The report recommends that the species **retain its Endangered classification**. It attributes...
+> -- *[[FiveYearStatusReportRazorbackS_PML0677]]*
+
+> This five-year status report on the [[Razorback Sucker]] (*Xyrauchen texanus*) recommends retaining its Endangered classification. The species has declined from abundance to extreme rarity in the [[Colorado River Basin]] during the past 100 years. Adults survive only in small, isolated areas, and...
+> -- *[[FiveYearStatusReportRazorbackS_PML0676]]*
+
+> This abstract, by Paul C. Marsh and W. L. Minckley of the [[Center for Environmental Studies]] and the Department of Zoology (13 June 1989), reports radio-tracking of hatchery-propagated and wild [[Razorback Sucker]] stocked into the [[Gila River]] near Safford, Arizona, in 1988. Two release groups...
+> -- *[[RadiotaggingRazorbackSuckersGi_PML1536]]*
+
+> This manuscript, prepared by [[Edmund J. Wick]], [[John A. Hawkins]] and T. P. Nesler, reports the first documented occurrence of the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) and suspected [[Humpback Chub]] (*Gila cypha*) in the [[Little Snake River]], a tributary of the [[Yampa...
+> -- *[[OccurrenceOfTwoEndangeredFishe_PML2886]]*
+
+> This U.S. [[Fish and Wildlife Service]] (FWS) study surveyed the fishes of the [[White River]] in Colorado and Utah during 1981, as part of a larger effort on the upper [[Colorado River Basin]]. The work was funded through a memorandum of understanding with the [[Bureau of Land Management]] (BLM)....
+> -- *[[WhiteRiverFishesStudy_PML0992]]*
+
+> This U.S. Fish and Wildlife Service memorandum (Fishery Management Biologist [[Robert L. Azevedo]], [[Bureau of Sport Fisheries and Wildlife]], Albuquerque, dated November 9, 1962) reports a fish sampling survey of the [[Green River]] within [[Dinosaur National Monument]] conducted September 24 to...
+> -- *[[DinosaurNationalMonumentGreenR_PML0083]]*
+
+> Webber and Beers (U.S. Fish and Wildlife Service, Colorado River Fish Project) tested whether passive instream flat-plate antennas (PIAs) could detect [[Razorback Sucker]]s tagged with [[Passive Integrated Transponder Tags]] (PIT tags) at a spawning site, [[Razorback Bar]], in the [[Green River]],...
+> -- *[[DetectingRazorbackSuckersUsing_PML2846]]*
+
+> This 1990 study by Kaeding and colleagues examines whether [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*Gila robusta*) overlap in spawning and whether they hybridize in the upper [[Colorado River]]. Fieldwork ran from 1983 to 1985 at [[Black Rocks]], Colorado. The authors combined...
+> -- *[[TemporalAndSpatialRelationsBet_PML1251]]*
+
+> This study compares the distribution, recapture rates, and growth of [[Razorback Sucker]] (*Xyrauchen texanus*) stocked into the middle [[Green River]] by two routes: fish acclimated for a full growing season in [[Floodplain Wetlands]] that entered the river voluntarily as subadults, and subadults...
+> -- *[[ComparisonOfTheDistributionAnd_PML1905]]*
+
+> This preliminary hatchery report by [[Donald P. Toney]], Hatchery Manager at the U.S. Fish and Wildlife Service's [[Willow Beach National Fish Hatchery]], documents the holding, spawning, and early rearing of two endangered fishes: the [[Colorado Squawfish]] and the [[Razorback Sucker]]. Because...
+> -- *[[ObservationsOnThePropagationAn_PML2508]]*
+
+> This 1996 letter from [[Paul C. Marsh]] to the [[U.S. Fish and Wildlife Service]] reports three breeding seasons (1992–1994) of [[Razorback Sucker]] experiments in the [[Yuma Cove]] backwater of [[Lake Mohave]]. The experiments tested methods for producing young fish for [[Repatriation]] under the...
+> -- *[[RazorbackSuckerRepatriationGen_PML1432]]*
+
+> This document is a news-style feature (OCR-scanned, partly garbled) covering two linked western water problems. The first is groundwater contamination and overpumping in the [[Albuquerque Aquifer]] area of the [[Rio Grande Basin]], including the [[San Jose Groundwater Contamination]] site. The...
+> -- *[[FishRecovery_PML1055]]*
+
+> Tyus and Karp (1990) studied the spawning behavior, movements, and habitat use of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Green River]] and lower [[Yampa River]] from 1987 to 1989. Using electrofishing, capture-recapture, and radiotelemetry, the authors documented ripe fish in...
+> -- *[[SpawningAndMovementsOfRazorbac_PML2521]]*
+
+> This document is a natural-history survey of the fishes of [[Dinosaur National Monument]], centered on the [[Green River]] and [[Yampa River]] in the [[Colorado River]] basin. It describes a harsh, silty, highly variable canyon environment in which few species persist, and notes that only eight...
+> -- *[[FishesOfDinosaurNationalMonume_PML1730]]*
+
+> This Wyoming Game and Fish Department administrative report (Johnson and Oberholtzer, February 1987; projects 5086-13-8601 and 4486-13-860I) investigated whether [[Colorado Squawfish]], a federally threatened or endangered species, still persists in Wyoming. The species had not been documented in...
+> -- *[[InvestigationIntoPossibleOccur_PML1225]]*
+
+> This study examines spawning timing, movements, and habitat use of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Green River]] and lower [[Yampa River]] of Utah and Colorado, using electrofishing, [[Capture-Recapture]] records, and [[Radiotelemetry]] from 1987 to 1989. Ripe fish...
+> -- *[[SpawningAndMovementsOfRazorbac_PML2416]]*
+
+> This study, presented by [[Harold M. Tyus]] and [[William B. Harned]] for the [[U.S. Fish and Wildlife Service]] (FWS) and the [[Bureau of Reclamation]], documents the distribution, spawning and habitat use of the [[Razorback Sucker]] in the [[Green River]] Basin from 1979 to 1984. The razorback...
+> -- *[[DistributionSpawningAndHabitat_PML2534]]*
+
+> This 1994 magazine feature (article by Chris Madson, photography by Lance Beeny) examines how dams on the [[Colorado River]] system changed desert rivers and their fish, and how managers now try to protect endangered native species while maintaining sport fisheries. It focuses on [[Wyoming]]...
+> -- *[[BetweenTwoWorlds_PML1408]]*
+
+> This first annual report of the [[Colorado River Fishery Monitoring Project]] (CRFMP) covers 1982 field work by the [[U.S. Fish and Wildlife Service]] (FWS) and the [[Bureau of Reclamation]] (BR). The project followed up a three-year study (1979–82) of three endangered fishes: [[Colorado...
+> -- *[[ColoradoRiverFishesMonitoringP_PML1725]]*
+
+> This study, published in the *Great Basin Naturalist* (Vol. 45, No. 1, January 1985) by Vincent A. Lamarra, Marianne C. Lamarra and John G. Carter, quantifies the physical and biological environment of a suspected [[Colorado Squawfish]] spawning site at Yampa River mile 16.5. Field sampling in July...
+> -- *[[EcologicalInvestigationOfASusp_PML1312]]*
+
+> This partial literature review, prepared by the [[Colorado Division of Wildlife]] in 1977 and updated by an addendum in December 1978, covers the status, natural history, and life history of four fish species endemic to the [[Colorado River Basin]]: the [[Colorado Squawfish]], [[Bonytail Chub]],...
+> -- *[[APartialReviewOfLiteratureOnTh_PML1088]]*
+
+> This study by Karp and Tyus (1990, *Great Basin Naturalist* 50) assesses the distribution, habitat use, spawning and species associations of the federally endangered [[Humpback Chub]] (*Gila cypha*) in the [[Yampa River]] and [[Green River]] within [[Dinosaur National Monument]], Colorado and Utah,...
+> -- *[[HumpbackChubGilaCyphaInTheYamp_PML1264]]*
+
+> This study by Modde, Burnham, and Wick (1996, *Conservation Biology* 10(1):110–119) assesses the status of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the middle [[Green River]]. The authors analyzed capture data from 1975 to 1992, with population estimates covering 1980–1992. The population...
+> -- *[[PopulationStatusOfTheRazorback_PML0340]]*
+
+> This paper by Harold M. Tyus of the [[U.S. Fish and Wildlife Service]] argues that instream flow decisions for four federally listed [[Endangered Species Act]] fishes of the Colorado River should aim at recovery rather than mere survival. The four species are [[Colorado Squawfish]], [[Humpback...
+> -- *[[AnInstreamFlowPhilosophyForRec_PML2538]]*
+
+> This study by [[Douglas et al. 1990s Study|Douglas, Minckley, and Tyus]] tests whether field technicians with no specialized systematics training can separate morphologically similar [[Colorado River Chubs]] of the *Gila robusta* complex. Qualitative rankings of body-region features, scored from 1...
+> -- *[[QualitativeCharactersIdentific_PML0600]]*
+
+> This is a formal public comment letter, dated January 10, 1994, from the [[Sierra Club Legal Defense Fund]] to the U.S. Fish and Wildlife Service (FWS) on the proposed rule designating [[Critical Habitat]] for four endangered Colorado River fishes: the [[Bonytail Chub]], [[Razorback Sucker]],...
+> -- *[[ReProposedRuleDesignatingCriti_PML2362]]*
+
+> This multi-author progress compilation reports on endangered big-river fishes of the [[Colorado River Basin]] during 1982, with plans for 1983. It covers radiotelemetry of adult [[Colorado Squawfish]], larval and young-of-the-year (YOY) sampling, stocking of hatchery-reared squawfish, studies on...
+> -- *[[ColoradoRiverEndangeredFishesP_PML1256]]*
+
+> This study compares three aging structures ([[Scale Aging]], [[Opercular Bone]], and [[Otolith]] analysis) for [[Roundtail Chub]] (*[[Gila robusta]]*) collected from the [[Yampa River]] in [[Dinosaur National Monument]] during 1998, 1999, 2001, and 2002. It also describes age structure, mortality,...
+> -- *[[ComparisonOfAgingStructuresAnd_PML2267]]*
+
+> This laboratory study measured the temperatures that adult [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered [[Colorado River]] catostomid, avoid and prefer. Fish were acclimated to 8, 14, 20, or 26 C and tested in an electronic [[Shuttlebox]]. The authors estimated a [[Final Preferendum]]...
+> -- *[[TemperaturePreferenceAndAvoida_PML0318]]*
+
+> This study examines the introduced [[Channel Catfish]] (*[[Ictalurus Punctatus]]*) in the [[Green River]] (517 km sampled) and lower [[Yampa River]] (74 km sampled) in [[Dinosaur National Monument]], Colorado and Utah, in 1987 and 1988. The fish was most abundant in rocky canyon habitats with...
+> -- *[[AbundanceGrowthAndDietOfChanne_PML2524]]*
+
+> This final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fish Project (Vernal, Utah) describes a three-year study (1998-2000) of the [[Humpback Chub]] (*Gila cypha*) population in [[Yampa Canyon]], a reach of the [[Yampa River]] within [[Dinosaur National Monument]]. The study...
+> -- *[[HumpbackChubMonitoringInYampaC_PML0946]]*
+
+> This research article (Martinez, *Aquatic Invasions* 2012, vol. 7, issue 2, pp. 219–234) documents the explosive increase of invasive [[Virile Crayfish]] (*Orconectes virilis*) in the middle [[Yampa River]], a high desert tributary of the [[Upper Colorado River Basin]] (UCRB) in northwestern...
+> -- *[[InvasiveCrayfishInAHighDesertR_PML1594]]*
+
+> This study uses mitochondrial DNA (mtDNA) variation to test how far [[Introgressive Hybridization]] has shaped the [[Gila Robusta Complex]], a group of endemic cyprinid fishes of the [[Colorado River Basin]]. Lower-basin populations of *G. robusta*, *G. elegans* and *G. cypha* carried largely...
+> -- *[[TheRoleOfIntrogressiveHybridiz_PML0856]]*
+
+> This synthesis report by [[Finney and Haines]] (U.S. Fish and Wildlife Service, Colorado River Fish Project, March 2008) evaluates a three-year mechanical removal program for nonnative [[Northern Pike]] in a 37-mile reach of the [[Yampa River]] near Craig, Colorado. The work was funded by the...
+> -- *[[NorthernPikeRemovalSmallmouthB_PML0814]]*
+
+> This U.S. Fish and Wildlife Service report, prepared for the [[Bureau of Reclamation]] under a memorandum of understanding, analyzes radiotelemetry data for the endangered [[Colorado Squawfish]] in the [[Green River]], [[White River]] and [[Yampa River]] (Colorado and Utah) during 1980 and 1981....
+> -- *[[MovementMigrationAndHabitatPre_PML1723]]*
+
+> This Colorado Division of Wildlife Job Progress Report (Federal Aid Project SE-3, May 1990, by Thomas P. Nesler) covers 1988-1989 field work on non-native gamefish in the [[Yampa River]] and [[Colorado River]]. The work tested whether non-native gamefish, mainly [[Northern Pike]], [[Channel...
+> -- *[[AquaticNongameResearchEndanger_PML2009]]*
+
+> This 1984 U.S. Fish and Wildlife Service recovery plan addresses the [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid of the [[Colorado River Basin]] listed as endangered on April 23, 1980. The species was listed without designated critical habitat because reproducing populations were...
+> -- *[[RecoveryPlanForTheEndangeredBo_PML2769]]*
+
+> This final report (December 1996), prepared for the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin by Timothy Modde (U.S. Fish and Wildlife Service, Vernal, Utah) and Edmund J. Wick (National Park Service, Fort Collins, Colorado), examines adult...
+> -- *[[InvestigationsOfRazorbackSucke_PML1906]]*
+
+> This Colorado Division of Wildlife final report covers the transition period of 1983–1984 in the monitoring of endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] and [[Yampa River]]. Extensive sampling in 1981–1982 gave way to a...
+> -- *[[ColoradoSquawfishAndHumpbackCh_PML2654]]*
+
+> This U.S. Fish and Wildlife Service technical paper by Charles W. McAda and Richard S. Wydoski reports a field study (August 1974 to November 1976) of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]]. The species has declined largely because of dam construction...
+> -- *[[TheRazorbackSuckerXyrauchenTex_PML2634]]*
+
+> This U.S. Fish and Wildlife Service Biological Report (No. 89(14), July 1989) by [[Harold M. Tyus]] and Catherine A. Karp evaluates the habitat use, potential limiting factors, and general streamflow needs of four federally rare fishes in the [[Yampa River]], Colorado: [[Colorado Squawfish]],...
+> -- *[[HabitatUseAndStreamflowNeedsOf_PML2520]]*
+
+> This final report from the [[Larval Fish Laboratory]] at [[Colorado State University]] evaluates mechanical removal of nonnative [[Northern Pike]] from the [[Yampa River]], northwestern Colorado, for the [[Upper Colorado River Endangered Fish Recovery Program]] (Project No. 98a). Northern pike,...
+> -- *[[NorthernPikeManagementStudiesI_PML1000]]*
+
+> This 1976 Bureau of Land Management (BLM) Technical Note, written by James E. Johnson of the [[Colorado State Office]], reviews the status of endangered and threatened fishes in Colorado. It covers four [[Cutthroat Trout]] subspecies of the genus *Salmo* and four native minnows and suckers of the...
+> -- *[[StatusOfEndangeredAndThreatene_PML1217]]*
+
+> This Colorado Division of Wildlife Job Progress Report (Project SE-3-2, Work Plan 1, Job 1; period October 1, 1978 to September 30, 1979) documents the second year of monitoring for endangered [[Colorado Squawfish]] and [[Humpback Chub]] in the [[Colorado River]] system. Fishes were sampled by...
+> -- *[[ColoradoSquawfishAndHumpbackCh_PML1329]]*
+
+> This study examines the life history, growth, diet, reproduction and distribution of the [[Colorado Squawfish]] (*Ptychocheilus lucius*) and the [[Colorado Chub]] (*Gila robusta*) in the [[Green River]] within [[Dinosaur National Monument]]. Fieldwork ran from May 1964 to October 1966, after the...
+> -- *[[LifeHistoryOfTheColoradoSquawf_PML2787]]*
+
+> This U.S. Fish and Wildlife Service report, prepared under the [[Flaming Gorge Studies Program]] (1991), synthesizes sixteen-plus studies of four federally listed or imperiled Colorado River fishes: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]], and [[Razorback Sucker]]. It evaluates...
+> -- *[[HabitatUseAndStreamflowNeedsOf_PML2522]]*
+
+> This Utah Division of Wildlife Resources final report (Publication 03-13, Upper Colorado River Endangered Fish Recovery Program, Project #25) evaluates the reintroduction of hatchery-reared [[Bonytail]] (*Gila elegans*) into the upper [[Colorado River]] Basin (UCRB) between 1996 and 2002. Bonytail...
+> -- *[[ReintroductionAndMonitoringOfH_PML0142]]*
+
+> This document combines two conservation papers. The first is a symposium paper on the [[Colorado Squawfish]] (*[[Ptychocheilus Lucius]]*), an endangered freshwater cyprinid of the [[Colorado River Basin]]. Radiotelemetry work showed that the species undertakes long-distance spawning migrations, and...
+> -- *[[LossOfStreamPassageAsAFactorIn_PML2528]]*
+
+> This document comprises a cover-letter correspondence set, a reviewer-comment compendium, and a draft status review (dated 30 September 1989) prepared by [[Kevin R. Bestgen]] of the [[Larval Fish Laboratory]], Colorado State University, for the [[U.S. Bureau of Reclamation]]. The review summarizes...
+> -- *[[RazorbackSuckerXyrauchenTexanu_PML0203]]*
+
+> This 1977 status report, prepared for the [[Colorado River Wildlife Council]] by its Endemic Species Committees, reviews the status of 34 native fish taxa of the Colorado River system across seven western states. Its stated purpose is educational: to make readers aware that many endemic species...
+> -- *[[EndemicFishesOfTheColoradoRive_PML0064]]*
+
+> This 1980 report by [[Bio/West Inc]], prepared for the [[National Park Service]] to support a reserved water right claim for [[Dinosaur National Monument]], tests whether flow in the [[Yampa River]] controls the reproductive success of endangered [[Colorado Squawfish]] in the upper [[Green River]]....
+> -- *[[TheRelationshipBetweenFlowsInT_PML1080]]*
+
+> This 1952 report documents a field survey of the [[Green River]] and its tributary the [[Yampa River]] within [[Dinosaur National Monument]]. It was prepared by [[Harold K. Hagen]] (Associate Professor, Fisheries Science) and [[Joe L. Banks]] (Graduate Student) at [[Colorado State University]]...
+> -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
+
+> This final report by [[Kevin R Bestgen]] and [[Lawrence W Crist]] evaluates the restoration protocol of Stanford et al. (1996) for regulated rivers, using the 105 km reach of the [[Green River]] between [[Flaming Gorge Dam]] and its confluence with the unregulated [[Yampa River]]. Closure of the...
+> -- *[[ResponseOfTheGreenRiverFishCom_PML0200]]*
+
+> This 1990 status review, prepared by Kevin R. Bestgen of the [[Larval Fish Laboratory]] at Colorado State University for the [[Bureau of Reclamation]], compiles historic and present status, life history, causes of decline, and current research and management for the [[Razorback Sucker]], an endemic...
+> -- *[[StatusReviewOfTheRazorbackSuck_PML0205]]*
+
+> This final report by [[Thomas P. Nesler]] for the [[Colorado River Recovery Implementation Program]] (Project No. 91-29, Federal Aid Project SE-3, [[Colorado Division of Wildlife]]) evaluates how well non-native warmwater gamefish have established in the Colorado River and how strongly they...
+> -- *[[InteractionsBetweenEndangeredF_PML2008]]*
+
+> This final report (September 2000) from the [[Upper Colorado River Endangered Fish Recovery Program]] synthesizes the Flaming Gorge Flow Recommendations Investigation (1990–1996). Its purpose is to recommend dam operations that restore flow and temperature conditions for the endangered [[Humpback...
+> -- *[[FlowAndTemperatureRecommendati_PML1993]]*
+
+> This U.S. Fish and Wildlife Service report (final, November 1995, prepared by Tim Moddel and George Smith under the [[Recovery Implementation Program]]) updates the 1990 interim flow recommendations for the [[Yampa River]], the last major unregulated tributary of the [[Upper Colorado River Basin]]....
+> -- *[[FlowRecommendationsForEndanger_PML1909]]*
+
+> This document combines a critical review letter by [[Vernal CRFP]] biologists (Tim Modde, Bruce Haines and Chris Kitchen) with the Draft 2 recovery goals for four endangered [[Colorado River Basin]] fishes, prepared for the [[Upper Colorado River Recovery Program]] (May 2000). The letter objects to...
+> -- *[[RecoveryGoalsForTheFourColorad_PML2486]]*
+
+> This U.S. Fish and Wildlife Service Technical Paper (No. 99, 1980) by Charles W. McAda and Richard S. Wydoski reports a 1974–76 field study of the [[Razorback Sucker]], a native [[Colorado River Basin]] fish recommended for listing as "threatened." The study documented small but concentrated...
+> -- *[[TheRazorbackSuckerXyrauchenTex_PML1630]]*
+
+> This study examines the life history and ecology of the [[Colorado Squawfish]] (*Ptychocheilus lucius*) and the [[Colorado Chub]] (*Gila robusta*) in the Green River of [[Dinosaur National Monument]], Colorado–Utah, during 1964–1966. Both are large, endemic cyprinid minnows whose ranges have shrunk...
+> -- *[[LifeHistoryOfTheColoradoSquawf_PML2786]]*
+
+> This 1993 report by Jack A. Stanford, prepared for the [[Instream Flow Subcommittee]] of the [[Recovery Implementation Program]] and the [[U.S. Fish and Wildlife Service]], reviews the ecological science behind instream flow recommendations for four endangered big-river fishes of the Upper Colorado...
+> -- *[[InstreamFlowsToAssistTheRecove_PML2436]]*
+
+> This document is a compiled bibliography and set of extracted notes (roughly 1950s to 1990s) on fishes of the upper and lower [[Colorado River Basin]]. Its central theme is the decline of endemic large-river fishes, especially the endangered [[Humpback Chub]] (*Gila cypha*), and the roles of dam...
+> -- *[[ABibliographyOfTheFederallyEnd_PML1761]]*
+
+> This final report (Colorado River Recovery Implementation Program Project 115, March 2006) by the [[Larval Fish Laboratory]] at Colorado State University and the [[U.S. Fish and Wildlife Service]] evaluates how changes in [[Flaming Gorge Dam]] operations affected physical habitat and the fish...
+> -- *[[ResponseOfTheGreenRiverFishCom_PML0207]]*
+
+> This Colorado State University [[Larval Fish Laboratory]] report examines how spawning timing and relative abundance of [[Yampa River]] fishes relate to river discharge and water temperature. The study covers native and nonnative species, with emphasis on [[Colorado Squawfish]], [[Humpback Chub]],...
+> -- *[[AssociationsAmongFlowAndTemper_PML1992]]*
+
+> This 1967 Utah State University dissertation by Charles David Vanicek documents the post-impoundment fish fauna, habitat use, growth, food habits, parasites, reproduction and movements of native fishes in the Green River from [[Flaming Gorge Dam]] to Ouray, Utah, from May 1964 to October 1966. The...
+> -- *[[EcologicalStudiesOfNativeGreen_PML2788]]*
+
+> This 1963 report by [[Harold K. Hagen]] (Associate Professor, Fisheries Science) and [[Joe L. Banks]] (Graduate Student) of [[Colorado State University]] documents the 1962 field season of an ecological and limnological survey of the [[Green River]] in [[Dinosaur National Monument]]. The study was...
+> -- *[[EcologicalAndLimnologicalStudi_PML0941]]*
+
+> This Wyoming Game and Fish Department administrative report (Oberholtzer, May 1987) revises a 1954–1955 inventory of the [[Little Snake River]] Drainage in southwestern Carbon County. It consolidates 1986 field work with data from water-development evaluations to cover 126 streams, compared with 46...
+> -- *[[AFisheriesSurveyOfTheLittleSna_PML2039]]*
+
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its Endemic Species Committees, reviews the 34 endemic fish species of the Colorado River drainage and assesses each species' status in the seven member states. It is an educational booklet intended to...
+> -- *[[EndemicFishesOfTheColoradoRive_PML2238]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -1025,6 +1372,99 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[MultivariateDiscriminationOfCo_19087]]
 - [[TemperaturePreferenceAndAvoida_13892]]
 - [[StudiesOfBiotaInDinosaurNation_20823]]
+- [[HumpbackChubGilaCypha_PML1699]]
+- [[EvaluationOfTheYampaHumpbackCh_PML0811]]
+- [[ResolutionRelativeToTheColorad_PML2285]]
+- [[FishCollectedBeforeAndAfterEra_PML0082]]
+- [[OperationAndMaintenanceOfJwMum_PML2383]]
+- [[LetterToHoldenPbSquawfishKaryo_PML1698]]
+- [[HumpbackChubMonitoringInYampaC_PML1911]]
+- [[OperationAndMaintenanceOfJwMum_PML2298]]
+- [[SouthwesternAndSoutheasternFis_PML0583]]
+- [[RediscoveryOfColoradoSquawfish_PML1540]]
+- [[ColoradoSquawfishRecoveryTeamL_PML0348]]
+- [[ThreatenedFishesOfTheWorldGila_PML1512]]
+- [[AProtocolForTheHandlingAndTran_PML2532]]
+- [[ProtocolForHandlingAndTranspor_PML0344]]
+- [[ChangesInTheFishPopulationsInT_PML1081]]
+- [[FisheryManagementReportGreenRi_PML0837]]
+- [[HumpbackChubMonitoringInYampaC_PML1907]]
+- [[EvaluationOfYampaRiverHumpback_PML0813]]
+- [[StatusOfGilaElegansBonytailChu_PML0188]]
+- [[InteragencyStandardizedMonitor_PML0680]]
+- [[DesertFishStatusReportsAndMana_PML0582]]
+- [[RazorbackSuckerResearchAndSout_PML0572]]
+- [[DistributionAndAbundanceOfRazo_PML2890]]
+- [[ComparisonOfFourTechniquesForA_PML1004]]
+- [[MigratingMormonCricketsAnabrus_PML2523]]
+- [[FiveYearStatusReportRazorbackS_PML0677]]
+- [[FiveYearStatusReportRazorbackS_PML0676]]
+- [[RadiotaggingRazorbackSuckersGi_PML1536]]
+- [[OccurrenceOfTwoEndangeredFishe_PML2886]]
+- [[WhiteRiverFishesStudy_PML0992]]
+- [[DinosaurNationalMonumentGreenR_PML0083]]
+- [[DetectingRazorbackSuckersUsing_PML2846]]
+- [[TemporalAndSpatialRelationsBet_PML1251]]
+- [[ComparisonOfTheDistributionAnd_PML1905]]
+- [[ObservationsOnThePropagationAn_PML2508]]
+- [[RazorbackSuckerRepatriationGen_PML1432]]
+- [[FishRecovery_PML1055]]
+- [[SpawningAndMovementsOfRazorbac_PML2521]]
+- [[FishesOfDinosaurNationalMonume_PML1730]]
+- [[InvestigationIntoPossibleOccur_PML1225]]
+- [[SpawningAndMovementsOfRazorbac_PML2416]]
+- [[DistributionSpawningAndHabitat_PML2534]]
+- [[BetweenTwoWorlds_PML1408]]
+- [[ColoradoRiverFishesMonitoringP_PML1725]]
+- [[EcologicalInvestigationOfASusp_PML1312]]
+- [[APartialReviewOfLiteratureOnTh_PML1088]]
+- [[HumpbackChubGilaCyphaInTheYamp_PML1264]]
+- [[PopulationStatusOfTheRazorback_PML0340]]
+- [[AnInstreamFlowPhilosophyForRec_PML2538]]
+- [[QualitativeCharactersIdentific_PML0600]]
+- [[ReProposedRuleDesignatingCriti_PML2362]]
+- [[ColoradoRiverEndangeredFishesP_PML1256]]
+- [[ComparisonOfAgingStructuresAnd_PML2267]]
+- [[TemperaturePreferenceAndAvoida_PML0318]]
+- [[AbundanceGrowthAndDietOfChanne_PML2524]]
+- [[HumpbackChubMonitoringInYampaC_PML0946]]
+- [[InvasiveCrayfishInAHighDesertR_PML1594]]
+- [[TheRoleOfIntrogressiveHybridiz_PML0856]]
+- [[NorthernPikeRemovalSmallmouthB_PML0814]]
+- [[MovementMigrationAndHabitatPre_PML1723]]
+- [[AquaticNongameResearchEndanger_PML2009]]
+- [[RecoveryPlanForTheEndangeredBo_PML2769]]
+- [[InvestigationsOfRazorbackSucke_PML1906]]
+- [[ColoradoSquawfishAndHumpbackCh_PML2654]]
+- [[TheRazorbackSuckerXyrauchenTex_PML2634]]
+- [[HabitatUseAndStreamflowNeedsOf_PML2520]]
+- [[NorthernPikeManagementStudiesI_PML1000]]
+- [[StatusOfEndangeredAndThreatene_PML1217]]
+- [[ColoradoSquawfishAndHumpbackCh_PML1329]]
+- [[LifeHistoryOfTheColoradoSquawf_PML2787]]
+- [[HabitatUseAndStreamflowNeedsOf_PML2522]]
+- [[ReintroductionAndMonitoringOfH_PML0142]]
+- [[LossOfStreamPassageAsAFactorIn_PML2528]]
+- [[RazorbackSuckerXyrauchenTexanu_PML0203]]
+- [[EndemicFishesOfTheColoradoRive_PML0064]]
+- [[TheRelationshipBetweenFlowsInT_PML1080]]
+- [[EcologicalAndLimnologicalStudi_PML0942]]
+- [[ResponseOfTheGreenRiverFishCom_PML0200]]
+- [[StatusReviewOfTheRazorbackSuck_PML0205]]
+- [[InteractionsBetweenEndangeredF_PML2008]]
+- [[FlowAndTemperatureRecommendati_PML1993]]
+- [[FlowRecommendationsForEndanger_PML1909]]
+- [[RecoveryGoalsForTheFourColorad_PML2486]]
+- [[TheRazorbackSuckerXyrauchenTex_PML1630]]
+- [[LifeHistoryOfTheColoradoSquawf_PML2786]]
+- [[InstreamFlowsToAssistTheRecove_PML2436]]
+- [[ABibliographyOfTheFederallyEnd_PML1761]]
+- [[ResponseOfTheGreenRiverFishCom_PML0207]]
+- [[AssociationsAmongFlowAndTemper_PML1992]]
+- [[EcologicalStudiesOfNativeGreen_PML2788]]
+- [[EcologicalAndLimnologicalStudi_PML0941]]
+- [[AFisheriesSurveyOfTheLittleSna_PML2039]]
+- [[EndemicFishesOfTheColoradoRive_PML2238]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1067,8 +1507,13 @@ The Yampa River Basin Recovery and Water Management Plan is a planning effort to
 ## Yampa River Canyon
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This volume of the [[Desert Fishes Council]] proceedings (2000 symposium, published November 13, 2001) contains three papers on native fishes of the [[Colorado River Basin]] and the [[Gila River Basin]]. The text is bilingual (Spanish abstracts followed by English abstracts). The three studies...
+> -- *[[NativeFishConservationAndTheCe_PML1526]]*
+
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
+- [[NativeFishConservationAndTheCe_PML1526]]
 
 ## Yampa River Operation and Management Plan
 
@@ -1104,6 +1549,30 @@ The Yampa River Projects Alternatives Feasibility Study is an examination of res
 ### Mentioned In
 - [[AdditionalStudiesToFacilitateE_1993]]
 
+## Yampa Site
+
+### Summary
+The Yampa site is the lower 5 km of the Yampa River where fish were sampled in this study. It yielded 14 breeding captures (about 7% of breeding fish), and the mean water temperature there was 13.8°C with a range of 10.5 to 16°C. In 1989, flannelmouth and bluehead suckers were each about eight times more numerous than razorback suckers at this site.
+
+### Context
+> This study examines spawning timing, movements, and habitat use of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Green River]] and lower [[Yampa River]] of Utah and Colorado, using electrofishing, [[Capture-Recapture]] records, and [[Radiotelemetry]] from 1987 to 1989. Ripe fish...
+> -- *[[SpawningAndMovementsOfRazorbac_PML2416]]*
+
+### Mentioned In
+- [[SpawningAndMovementsOfRazorbac_PML2416]]
+
+## Yampa State Wildlife Area
+
+### Summary
+A set of ponds used as release sites for northern pike removed from the Yampa River critical habitat. Relocated fish were placed there, along with fish sent to Rio Blanco Reservoir, as part of the translocation effort.
+
+### Context
+> This final report from the [[Larval Fish Laboratory]] at [[Colorado State University]] evaluates mechanical removal of nonnative [[Northern Pike]] from the [[Yampa River]], northwestern Colorado, for the [[Upper Colorado River Endangered Fish Recovery Program]] (Project No. 98a). Northern pike,...
+> -- *[[NorthernPikeManagementStudiesI_PML1000]]*
+
+### Mentioned In
+- [[NorthernPikeManagementStudiesI_PML1000]]
+
 ## Yangtze River
 <!-- fm: auto_enriched: true -->
 
@@ -1127,8 +1596,12 @@ A perennial spring and the headwater of Sycamore Creek in Santa Cruz County, Ari
 > This document comprises a 1984 cover letter from the [[U.S. Fish and Wildlife Service]] (FWS) to [[W.L. Minckley]] and a reprint of the *Federal Register* proposed rule (Vol. 49, No. 110, June 6, 1984, pp. 23402–23409). The proposal would list the [[Sonora Chub]] (*[[Gila Ditaenia]]*) as a...
 > -- *[[LetterToMinckleylistingOfGilaD_20831]]*
 
+> This document is a set of 1984 U.S. regulatory materials, including an Arizona Clearinghouse notice, a U.S. Fish and Wildlife Service (USFWS) cover letter, and a *Federal Register* proposed rule (Vol. 49, No. 110, June 6, 1984). It proposes listing the [[Sonora Chub]] (*Gila ditaenia*) as a...
+> -- *[[EndangeredAndThreatenedWildlif_PML0722]]*
+
 ### Mentioned In
 - [[LetterToMinckleylistingOfGilaD_20831]]
+- [[EndangeredAndThreatenedWildlif_PML0722]]
 
 ## Yankee Fork
 
@@ -1170,6 +1643,22 @@ A rebuttal to Grossman et al. (1982) that disputed the claim that North American
 ### Mentioned In
 - [[HistoricalPerspectivesOnTheStu_16610]]
 
+## Yantic River
+
+### Summary
+A river in eastern Connecticut that joins the Shetucket and Quinebaug rivers at Norwich to form the Thames River estuary. The source names it only as part of the study area's geography.
+
+### Context
+> This study by [[Paul C. Marsh]] (University of Connecticut, Department of Natural Resources Conservation) estimates the age and growth of [[Striped Bass]] (*Morone saxatilis*) in the [[Thames River Estuary]], Connecticut. Ages were determined by [[Scale Analysis]] of fish collected in 1972 and...
+> -- *[[AgeAndGrowthOfStripedBassMoron_PML1445]]*
+
+> This technical report by [[Paul C. Marsh]] estimates the age and growth of [[Striped Bass]] (*Morone saxatilis*) in the [[Thames River Estuary]], Connecticut. Fish were collected in 1972 and 1973 and aged from scales. Back-calculated fork lengths at the end of the first six years of life are...
+> -- *[[AgeAndGrowthOfStripedBassMoron_PML1444]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfStripedBassMoron_PML1445]]
+- [[AgeAndGrowthOfStripedBassMoron_PML1444]]
+
 ## Yaqui
 
 ### Summary
@@ -1198,9 +1687,17 @@ The Yaqui Basin is a geographic region in Arizona that was the focus of a major 
 > This correspondence from the [[University of Michigan]] [[Museum of Zoology]] Division of Fishes provides expert identification of five catfish specimens submitted by the [[Dexter National Fish Hatchery]] in [[New Mexico]]. The analysis confirms hybridization between [[Yaqui Catfish]] ([[Ictalurus...
 > -- *[[ReportOnYaquiCatfishReceived_15380]]*
 
+> This study compares the historical development of nonnative fish assemblages in two similar North American desert drainages: the heavily invaded [[Gila Basin]] (principally southwestern USA) and the lightly invaded [[Yaqui Basin]] (principally northwestern Mexico). Using the comprehensive...
+> -- *[[ConvergenceOfDifferentiallyInv_PML2545]]*
+
+> This document is a meristic data table, the only legible content in an otherwise heavily garbled scan. It reports counts of fin rays and lateral-line scales for [[Gila]] chubs from river systems south and east of the lower [[Colorado River Basin]] and from streams tributary to the middle Colorado...
+> -- *[[CyprinidFishesOfTheGenusGilaFr_PML2239]]*
+
 ### Mentioned In
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[ReportOnYaquiCatfishReceived_15380]]
+- [[ConvergenceOfDifferentiallyInv_PML2545]]
+- [[CyprinidFishesOfTheGenusGilaFr_PML2239]]
 
 ## Yaqui Beautiful Shiner
 
@@ -1211,8 +1708,12 @@ The Yaqui beautiful shiner (Cyprinella formosa) is a small, silvery cyprinid fis
 > This draft recovery plan addresses four federally listed fish species endemic to the [[Rio Yaqui Basin]]: [[Yaqui Chub]] (*Gila purpurea*, endangered 1984), [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*, endangered 1967), [[Yaqui Catfish]] (*Ictalurus pricei*, threatened 1984), and...
 > -- *[[DraftRecoveryPlanForTheEndange_15977]]*
 
+> This annual report from [[Dexter National Fish Hatchery]] (Dexter NFH), a U.S. Fish and Wildlife Service facility in southeastern New Mexico, covers fiscal year 1990. The station's mission centers on refuge, study and propagation of imperiled warmwater fishes of the Southwest, particularly those...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2671]]*
+
 ### Mentioned In
 - [[DraftRecoveryPlanForTheEndange_15977]]
+- [[AnnualReportFiscalYearDexterNa_PML2671]]
 
 ## Yaqui catfish
 <!-- fm: auto_enriched: true -->
@@ -1395,6 +1896,51 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 > This survey, conducted in spring and summer 1978 and combined with a review of literature and museum specimens, documents the fish fauna of the [[Rio Yaqui Basin]] in northwestern Mexico and its small United States portion. The drainage, covering about 73,000 km², supports 35 native fish species in...
 > -- *[[FishesOfTheRioYaquiBasinMexico_16633]]*
 
+> This field report by [[C. O. Minckley]] documents a seine-based fish collection made on 18 July 2009 in the [[Cajon Bonito]], a northern tributary of the [[Yaqui River]] in [[Sonora]], Mexico. Fourteen seine hauls over roughly 1 km of stream yielded 102 individuals representing six native...
+> -- *[[AReportOnACollectionOfFishFrom_PML1791]]*
+
+> This document is a set of production records from the [[Dexter National Fish Hatchery and Technology Center]] covering 1995–2000. It has three parts: egg production tables, fish production tables by year, and a six-year fish production summary. Production covers twelve fish species, all of which...
+> -- *[[EggProductionSummaryAndFishPro_PML2639]]*
+
+> This paper, presented at the 1974 Annual Conference of the Association of State Game and Fish Commissioners in Albuquerque, New Mexico, re-evaluates the native fishes of the upper [[Rio Yaqui]] system within the United States. The Yaqui drainage in Arizona originally contributed roughly a quarter...
+> -- *[[ReevaluationOfTheNativeFishesO_PML1651]]*
+
+> This annual report from [[Dexter National Fish Hatchery]] (Dexter NFH), a U.S. Fish and Wildlife Service facility in southeastern New Mexico, covers fiscal year 1990. The station's mission centers on refuge, study and propagation of imperiled warmwater fishes of the Southwest, particularly those...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2671]]*
+
+> This document is a cover letter and two annual activity reports (December 1991–November 1992 and December 1992–November 1993) filed by the [[Arizona Game And Fish Department]] (AGFD) as a subpermittee of the [[U.S. Fish And Wildlife Service]] (USFWS) Region 2 [[Blanket Permit PRT-676811]] under the...
+> -- *[[ReportOnPrtActivityFromDecembe_PML2359]]*
+
+> This study compares the historical development of nonnative fish assemblages in two similar North American desert drainages: the heavily invaded [[Gila Basin]] (principally southwestern USA) and the lightly invaded [[Yaqui Basin]] (principally northwestern Mexico). Using the comprehensive...
+> -- *[[ConvergenceOfDifferentiallyInv_PML2545]]*
+
+> This document is a cover letter and two annual reports from the [[Arizona Game and Fish Department]] (AGFD) to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 2. The Department acted as a subpermittee under [[Blanket Permit PRT-676811]] for Endangered or Threatened species. The cover letter...
+> -- *[[ReportOnPrtActivityFromDecembe_PML1229]]*
+
+> This document is a [[Federal Register]] final rule issued by the [[U.S. Fish and Wildlife Service]] on August 31, 1984 (Vol. 49, No. 171), together with a cover letter to the [[Arizona State Clearinghouse]] and a Standard Form 424 (federal assistance application cover sheet). The rule lists three...
+> -- *[[DeterminationOfEndangeredAndTh_PML0720]]*
+
+> This Endangered Species Bulletin article (1997) by Linda Andreasen, a Fishery Biologist with the U.S. Fish and Wildlife Service (FWS) Division of Fish Hatcheries, and Buddy Jensen, Manager of the [[Dexter National Fish Hatchery and Technology Center]], describes how one facility shifted from...
+> -- *[[DexterNationalFishHatcheryAndT_PML0053]]*
+
+> This Fiscal Year 1989 annual report from the [[Dexter National Fish Hatchery]] in Dexter, New Mexico, documents the station's role in propagating, holding, and reintroducing imperiled freshwater fishes of the American Southwest. The hatchery, established under the White Act of 1931, shifted into...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2668]]*
+
+> This study assesses the genetic and morphological status of the endangered [[Yaqui Chub]] (*Gila purpurea*), a small minnow that was nearly extirpated from the United States in the late 1960s. Most of its habitat dried up, but fish were moved to [[Leslie Creek]] shortly before [[Astin Spring]]...
+> -- *[[GeneticsAndMorphologyOfYaquiCh_PML0557]]*
+
+> This is the Fiscal Year 1991 annual report of the [[Dexter National Fish Hatchery]] in New Mexico. It was designated a Technology Center during FY 91, one of only five in the [[U.S. Fish and Wildlife Service]]. The station is a refuge, research and propagation facility for imperiled fishes of the...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2677]]*
+
+> This annual report from the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC), Dexter, New Mexico, covers Fiscal Year 1994. The station maintained, cultured and distributed imperiled fishes of the American Southwest and northwestern Mexico, with 14 threatened or endangered...
+> -- *[[DexterNationalFishHatcheryAndT_PML2699]]*
+
+> This annual report from the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC), covering Fiscal Year 1994, documents the culture, genetic management, cryopreservation, and recovery support for 14 federally listed threatened and endangered fishes of the American Southwest and...
+> -- *[[DexterNationalFishHatcheryAndT_PML1199]]*
+
+> This annual report covers Fiscal Year 2002 (October 1, 2001 to September 30, 2002) at the [[Dexter National Fish Hatchery]] & Technology Center in southeastern New Mexico. The station is a U.S. Fish and Wildlife Service facility devoted to the refugium holding, culture, research and reintroduction...
+> -- *[[DexterNationalFishHatcheryTech_PML2755]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -1491,6 +2037,21 @@ The Yaqui Catfish is an endangered fish species endemic to the Rio Yaqui basin, 
 - [[Fishes_17742]]
 - [[LongfinSonoraChubChihuahuaChub_13688]]
 - [[FishesOfTheRioYaquiBasinMexico_16633]]
+- [[AReportOnACollectionOfFishFrom_PML1791]]
+- [[EggProductionSummaryAndFishPro_PML2639]]
+- [[ReevaluationOfTheNativeFishesO_PML1651]]
+- [[AnnualReportFiscalYearDexterNa_PML2671]]
+- [[ReportOnPrtActivityFromDecembe_PML2359]]
+- [[ConvergenceOfDifferentiallyInv_PML2545]]
+- [[ReportOnPrtActivityFromDecembe_PML1229]]
+- [[DeterminationOfEndangeredAndTh_PML0720]]
+- [[DexterNationalFishHatcheryAndT_PML0053]]
+- [[AnnualReportFiscalYearDexterNa_PML2668]]
+- [[GeneticsAndMorphologyOfYaquiCh_PML0557]]
+- [[AnnualReportFiscalYearDexterNa_PML2677]]
+- [[DexterNationalFishHatcheryAndT_PML2699]]
+- [[DexterNationalFishHatcheryAndT_PML1199]]
+- [[DexterNationalFishHatcheryTech_PML2755]]
 
 ## Yaqui chub
 <!-- fm: auto_enriched: true -->
@@ -1751,6 +2312,81 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This survey, conducted in spring and summer 1978 and combined with a review of literature and museum specimens, documents the fish fauna of the [[Rio Yaqui Basin]] in northwestern Mexico and its small United States portion. The drainage, covering about 73,000 km², supports 35 native fish species in...
 > -- *[[FishesOfTheRioYaquiBasinMexico_16633]]*
 
+> This internal U.S. Fish and Wildlife Service memorandum, dated November 4, 1986, reports on stockings of two native southwestern fishes in Arizona by the [[Dexter National Fish Hatchery]] in New Mexico. The memo was sent from the hatchery manager to the Regional Director of [[Region 2]] in...
+> -- *[[YaquiChubAndBonytailChubStocki_PML2659]]*
+
+> This 1986 interagency memorandum from the [[Dexter National Fish Hatchery]] manager to the [[U.S. Fish and Wildlife Service]] Regional Director, [[Region 2]] (Albuquerque, New Mexico), reports the November 4, 1986 stocking of native southwestern fishes in Arizona. The stocked species were the...
+> -- *[[YaquiChubAndBonytailChubStocki_PML1190]]*
+
+> This document is an email from [[Chuck Minckley]] to [[Paul Marsh]], dated Sunday, June 19, 2011, that transmits field data from a two-day [[Mark-Recapture Sampling]] effort on [[Yaqui Chub]] at [[Las Ojitos Spring]]. Minckley asks Marsh to run a [[Population Estimation]] for the whole population...
+> -- *[[EmailToPaulMarshReYaquiChubMar_PML1793]]*
+
+> This note combines two species accounts from a North American freshwater fish atlas compiled by W. L. Minckley (July 1978). Both accounts cover small cyprinid fishes of the genus [[Gila]] from northwestern Mexico and adjacent southern Arizona. The [[Yaqui Chub]] (*Gila purpurea*) is nearly...
+> -- *[[AtlasOfNorthAmericanFreshwater_PML1828]]*
+
+> This 1980 annual report from [[Dexter National Fish Hatchery]] (Dexter NFH) describes the station's shift from warmwater sport fish production to the holding, propagation and rearing of rare, threatened and endangered southwestern fishes. In 1980 the station held 14 species and two hybrid chubs....
+> -- *[[AnnualReportDexterNationalFish_PML1180]]*
+
+> This document is a set of administrative correspondence from the [[U.S. Fish and Wildlife Service]] (USFWS) Albuquerque regional office. It covers the federal permit issued under the [[Endangered Species Act]] (16 USC 1539(a), regulations at [[50 CFR 17.22]]) that authorizes [[Arizona State...
+> -- *[[FederalFishAndWildlifePermitPr_PML2417]]*
+
+> A fisheries survey of [[Turkey Creek]] and nearby ponds in Cochise County, Arizona, was conducted November 14–15, 1997, by Brian Bagley and Patti Sowka of [[Arizona State University]]. Four fish species were collected. The survey was motivated by a recent report of [[Fathead Minnow]] in [[Lodge...
+> -- *[[TurkeyCreekFisheriesSurvey_PML1396]]*
+
+> This annual narrative report, submitted on December 6, 1984 by Hatchery Manager Buddy Lee Jensen, covers operations at [[Dexter National Fish Hatchery]] in the Pecos River Valley of southeastern New Mexico. The station was built in 1931 and began rearing fish in 1932, originally to meet demand for...
+> -- *[[AnnualNarrativeReportDexterNat_PML1185]]*
+
+> This annual narrative report from the [[Dexter National Fish Hatchery]] in the [[Pecos River Valley]] of southeastern New Mexico (submitted by Hatchery Manager Buddy Lee Jensen, January 20, 1987) documents the 1986 season of a facility devoted to rearing, spawning and distributing imperiled fishes...
+> -- *[[AnnualNarrativeReportDexterNat_PML1187]]*
+
+> The U.S. Fish and Wildlife Service (the Service) proposes to acquire approximately 1360 acres of upland, riparian, and aquatic habitat in [[Leslie Canyon]], Swisshelm Mountains, Cochise County, Arizona, and add it to the [[National Wildlife Refuge System]] as Leslie Canyon National Wildlife Refuge....
+> -- *[[DraftEnvironmentalAssessmentLe_PML2664]]*
+
+> This paper, presented at the 1974 Annual Conference of the Association of State Game and Fish Commissioners in Albuquerque, New Mexico, re-evaluates the native fishes of the upper [[Rio Yaqui]] system within the United States. The Yaqui drainage in Arizona originally contributed roughly a quarter...
+> -- *[[ReevaluationOfTheNativeFishesO_PML1651]]*
+
+> This document is a U.S. Fish and Wildlife Service (Service) Negative Declaration and Final Environmental Assessment (May 1988) for acquiring approximately 1,360 acres of upland, riparian, and aquatic habitat in [[Leslie Canyon]], Swisshelm Mountains, Cochise County, Arizona, for inclusion in the...
+> -- *[[FinalEnvironmentalAssessmentLe_PML2665]]*
+
+> This preliminary report, presented by [[Cecil R. Schwalbe]] and [[Philip C. Rosen]] at a 1988 symposium on amphibian, reptile and small mammal management, tests whether the introduced [[American Bullfrog]] (*Rana catesbeiana*) drives declines of native wetland herpetofauna in southeastern Arizona....
+> -- *[[PreliminaryReportOnEffectsOfBu_PML2314]]*
+
+> This 1982 document is the [[Arizona Game And Fish Department]]'s list of threatened native wildlife, approved by the Arizona Game and Fish Commission on 10 December 1982. It was first developed in 1975 and revised in 1978. The list covers 93 species and subspecies, grouped by the degree of threat...
+> -- *[[ThreatenedNativeWildlifeInAriz_PML0091]]*
+
+> This document is a set of 1984 U.S. regulatory materials, including an Arizona Clearinghouse notice, a U.S. Fish and Wildlife Service (USFWS) cover letter, and a *Federal Register* proposed rule (Vol. 49, No. 110, June 6, 1984). It proposes listing the [[Sonora Chub]] (*Gila ditaenia*) as a...
+> -- *[[EndangeredAndThreatenedWildlif_PML0722]]*
+
+> This document is a cover letter and two annual activity reports (December 1991–November 1992 and December 1992–November 1993) filed by the [[Arizona Game And Fish Department]] (AGFD) as a subpermittee of the [[U.S. Fish And Wildlife Service]] (USFWS) Region 2 [[Blanket Permit PRT-676811]] under the...
+> -- *[[ReportOnPrtActivityFromDecembe_PML2359]]*
+
+> This annual narrative report covers fiscal year 1981 (FY81) at [[Dexter National Fish Hatchery]] in Dexter, New Mexico. The station's program consisted entirely of holding, spawning, rearing, and distributing captive-propagated threatened, endangered, and other listed species of southwestern...
+> -- *[[AnnualNarrativeReportFyDexterN_PML2649]]*
+
+> This document is a [[Federal Register]] final rule issued by the [[U.S. Fish and Wildlife Service]] on August 31, 1984 (Vol. 49, No. 171), together with a cover letter to the [[Arizona State Clearinghouse]] and a Standard Form 424 (federal assistance application cover sheet). The rule lists three...
+> -- *[[DeterminationOfEndangeredAndTh_PML0720]]*
+
+> This December 1995 review by Gary Schiffmiller (University of New Mexico) documents a rapid, unprecedented decline in the abundance, diversity, and distribution of native freshwater fishes in western North America. Western species account for a disproportionate share of threatened and extinct North...
+> -- *[[TheDeclineInAbundanceDiversity_PML2290]]*
+
+> This study assesses the genetic and morphological status of the endangered [[Yaqui Chub]] (*Gila purpurea*), a small minnow that was nearly extirpated from the United States in the late 1960s. Most of its habitat dried up, but fish were moved to [[Leslie Creek]] shortly before [[Astin Spring]]...
+> -- *[[GeneticsAndMorphologyOfYaquiCh_PML0557]]*
+
+> This study evaluates and redesigns the monitoring of three endangered or threatened freshwater fishes endemic to the [[Rio Yaqui Watershed]] in southeastern Arizona and Sonora, Mexico: the [[Yaqui Topminnow]], the [[Yaqui Chub]], and the [[Beautiful Shiner]]. The authors argue that standardized...
+> -- *[[EstimatingAbundanceOfEndangere_PML2461]]*
+
+> This peer-reviewed paper by [[W. L. Minckley]] (Arizona State University) reviews experiences with [[Translocation]] of imperiled freshwater fishes in the western United States. It presents the political and biological hurdles of moving fishes to new or restored sites, outlines guidelines adapted...
+> -- *[[TranslocationAsAToolForConserv_PML1851]]*
+
+> This Arizona Game and Fish Department publication, approved by the [[Arizona Game and Fish Commission]] at a public meeting on July 21, 1988, presents the state's official Threatened Native Wildlife (TNW) list. The list covers 116 taxa (species or subspecies) across fish, amphibians, reptiles,...
+> -- *[[ThreatenedNativeWildlifeInAriz_PML0097]]*
+
+> This draft biological opinion (US Fish and Wildlife Service, Arizona Ecological Services Field Office, dated April 14, 1999; consultation AESO/SE 2-21-98-F-399) evaluates the effects of ongoing and long-term livestock grazing on five [[Coronado National Forest]] allotments (Seibold, Kunde,...
+> -- *[[DraftBiologicalOpinionOngoingA_PML2744]]*
+
+> This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program, Technical Report 81, June 1995) summarizes six years (1988–1994) of data from the [[Fall Fish Count]] (FFC), a volunteer-based survey of fish communities in Arizona streams. The FFC yielded collections...
+> -- *[[FallFishCountSummary_PML0119]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -1885,6 +2521,43 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[LongfinSonoraChubChihuahuaChub_13688]]
 - [[FishesOfNorthAmericaEndangered_12023]]
 - [[FishesOfTheRioYaquiBasinMexico_16633]]
+- [[YaquiChubAndBonytailChubStocki_PML2659]]
+- [[YaquiChubAndBonytailChubStocki_PML1190]]
+- [[EmailToPaulMarshReYaquiChubMar_PML1793]]
+- [[AtlasOfNorthAmericanFreshwater_PML1828]]
+- [[AnnualReportDexterNationalFish_PML1180]]
+- [[FederalFishAndWildlifePermitPr_PML2417]]
+- [[TurkeyCreekFisheriesSurvey_PML1396]]
+- [[AnnualNarrativeReportDexterNat_PML1185]]
+- [[AnnualNarrativeReportDexterNat_PML1187]]
+- [[DraftEnvironmentalAssessmentLe_PML2664]]
+- [[ReevaluationOfTheNativeFishesO_PML1651]]
+- [[FinalEnvironmentalAssessmentLe_PML2665]]
+- [[PreliminaryReportOnEffectsOfBu_PML2314]]
+- [[ThreatenedNativeWildlifeInAriz_PML0091]]
+- [[EndangeredAndThreatenedWildlif_PML0722]]
+- [[ReportOnPrtActivityFromDecembe_PML2359]]
+- [[AnnualNarrativeReportFyDexterN_PML2649]]
+- [[DeterminationOfEndangeredAndTh_PML0720]]
+- [[TheDeclineInAbundanceDiversity_PML2290]]
+- [[GeneticsAndMorphologyOfYaquiCh_PML0557]]
+- [[EstimatingAbundanceOfEndangere_PML2461]]
+- [[TranslocationAsAToolForConserv_PML1851]]
+- [[ThreatenedNativeWildlifeInAriz_PML0097]]
+- [[DraftBiologicalOpinionOngoingA_PML2744]]
+- [[FallFishCountSummary_PML0119]]
+
+## Yaqui Fish Collection Expedition
+
+### Summary
+A collection trip into Mexico by the hatchery to gather Yaqui fishes. According to the report, Yaqui beautiful shiners and Yaqui catfish were collected there in October 1989 and April 1990, and 191 catfish from the Rio Sirupa collection were added to the 56 surviving fish from a 1987 collection.
+
+### Context
+> This annual report from [[Dexter National Fish Hatchery]] (Dexter NFH), a U.S. Fish and Wildlife Service facility in southeastern New Mexico, covers fiscal year 1990. The station's mission centers on refuge, study and propagation of imperiled warmwater fishes of the Southwest, particularly those...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2671]]*
+
+### Mentioned In
+- [[AnnualReportFiscalYearDexterNa_PML2671]]
 
 ## Yaqui Fishes
 <!-- fm: auto_enriched: true -->
@@ -1976,6 +2649,9 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This undated-day memorandum, dated December 12, 1989, is a follow-up circular sent to members of the [[Desert Pupfish]] recovery team ("DFRT"). It lists work assignments that arose from a recovery team meeting. The main decisions were that the [[Gila Topminnow]] should not be downlisted at this...
 > -- *[[DesertFishesRecoveryTeamWorkAs_14774]]*
 
+> This working draft revises the 1984 recovery plan for the [[Gila Topminnow]], *Poeciliopsis occidentalis occidentalis*, a federally endangered livebearer listed in 1967 with no critical habitat designated. The plan covers only the U.S. portion of the range; the [[Yaqui Topminnow]] is handled in a...
+> -- *[[GilaTopminnowPoeciliopsisOccid_PML2852]]*
+
 ### Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1992_12_07]]
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
@@ -1989,6 +2665,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[GallinasCreekSampling_18700]]
 - [[BiologicalAssessmentAndEvaluat_16615]]
 - [[DesertFishesRecoveryTeamWorkAs_14774]]
+- [[GilaTopminnowPoeciliopsisOccid_PML2852]]
 
 ## Yaqui Form Of Longfin Dace
 <!-- fm: auto_enriched: true -->
@@ -2062,6 +2739,18 @@ The Yaqui Longfin Dace (Agosia chrysogaster, "Yaqui form") is a native cyprinid 
 > This taxonomic paper by John Otterbein Snyder reports on a freshwater fish collection made by [[Edgar A. Mearns]], surgeon and naturalist with the United States Army, during the survey of the Mexican boundary between January 1892 and September 1894. The specimens came from rivers draining to the...
 > -- *[[NotesOnACollectionOfFishesMade_21252]]*
 
+> This field report by [[C. O. Minckley]] documents a seine-based fish collection made on 18 July 2009 in the [[Cajon Bonito]], a northern tributary of the [[Yaqui River]] in [[Sonora]], Mexico. Fourteen seine hauls over roughly 1 km of stream yielded 102 individuals representing six native...
+> -- *[[AReportOnACollectionOfFishFrom_PML1791]]*
+
+> This taxonomic paper reports on a collection of freshwater fishes made by [[Dr. Edgar A. Mearns]], US Army medical officer and naturalist, while in charge of the biological section of the Mexican Boundary Survey (1892–1894). The specimens came from the [[Colorado River]] and its tributaries, the...
+> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
+
+> This book chapter (Minckley, Hendrickson and Bond, 1986) examines the distribution of freshwater fishes across western North America in relation to Cenozoic geology, paleohydrography, and paleoclimate. The authors argue that the region's fish distributions reflect a long history of plate-tectonic...
+> -- *[[GeographyOfWesternNorthAmerica_PML1838]]*
+
+> This classic symposium paper by [[Carl L. Hubbs]] and [[Robert R. Miller]] correlates the present distribution of fishes in the interior (endorheic) desert basins of western North America with the Pleistocene and Postglacial hydrographic history of the region. The authors argue that freshwater...
+> -- *[[TheGreatBasinWithEmphasisOnGla_PML2497]]*
+
 ### Mentioned In
 - [[MemorandumOnDesertFishesRecove_1986_02_20]]
 - [[MemorandumOnFederalEndangeredt_1994_10_12]]
@@ -2073,6 +2762,10 @@ The Yaqui Longfin Dace (Agosia chrysogaster, "Yaqui form") is a native cyprinid 
 - [[TheGilaTopminnowPoeciliopsisOO_12486]]
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[NotesOnACollectionOfFishesMade_21252]]
+- [[AReportOnACollectionOfFishFrom_PML1791]]
+- [[CollectionOfFishesMadeByDrEdga_PML2406]]
+- [[GeographyOfWesternNorthAmerica_PML1838]]
+- [[TheGreatBasinWithEmphasisOnGla_PML2497]]
 
 ## Yaqui River Basin
 <!-- fm: auto_enriched: true -->
@@ -2127,9 +2820,14 @@ The Yaqui River Basin is a transboundary aquatic ecosystem spanning the United S
 ## Yaqui River Drainage
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This technical report, a Southwestern Region Wildlife Unit Technical Report from the [[USDA Forest Service]] with contributions from the [[Arizona Game and Fish Department]] and [[Arizona State University]], provides a computer-compatible digital index to the naturally occurring perennial streams...
+> -- *[[IndexToTheNaturalDrainageSyste_PML2366]]*
+
 ### Mentioned In
 - [[AsianTapewormEradicationStrate_13118]]
 - [[WestTurkeyCreekFishS_1999_11_29]]
+- [[IndexToTheNaturalDrainageSyste_PML2366]]
 
 ## Yaqui River System
 
@@ -2174,6 +2872,9 @@ The Yaqui Shiner is a small native fish species endemic to the Rio Yaqui drainag
 > This is the first published checklist of the fish fauna of [[Arizona]], compiled by Robert Rush Miller (University of Michigan) and Charles H. Lowe (University of Arizona). It is based on fieldwork and a review of the literature, and it covers both native species and species introduced by agencies...
 > -- *[[AnAnnotatedCheckListOfTheFishe_15394]]*
 
+> This paper, presented at the 1974 Annual Conference of the Association of State Game and Fish Commissioners in Albuquerque, New Mexico, re-evaluates the native fishes of the upper [[Rio Yaqui]] system within the United States. The Yaqui drainage in Arizona originally contributed roughly a quarter...
+> -- *[[ReevaluationOfTheNativeFishesO_PML1651]]*
+
 ### Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[ConceptualGoalsForManagementOf_1984_10_09]]
@@ -2183,6 +2884,7 @@ The Yaqui Shiner is a small native fish species endemic to the Rio Yaqui drainag
 - [[FisheryManagementForTheSanBern_18979]]
 - [[SanBernardinoAquaticHabitatMan_19783]]
 - [[AnAnnotatedCheckListOfTheFishe_15394]]
+- [[ReevaluationOfTheNativeFishesO_PML1651]]
 
 ## Yaqui Sucker
 <!-- fm: auto_enriched: true -->
@@ -2263,6 +2965,36 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 > This document is a set of 16 species accounts from the *Atlas of North American Freshwater Fishes*. The accounts cover minnows, suckers, pupfishes, a topminnow and a catfish from the desert and grassland drainages of Arizona, New Mexico, Texas, California and northern Mexico. Each entry gives type...
 > -- *[[LongfinSonoraChubChihuahuaChub_13688]]*
 
+> This 1980 annual report from [[Dexter National Fish Hatchery]] (Dexter NFH) describes the station's shift from warmwater sport fish production to the holding, propagation and rearing of rare, threatened and endangered southwestern fishes. In 1980 the station held 14 species and two hybrid chubs....
+> -- *[[AnnualReportDexterNationalFish_PML1180]]*
+
+> This paper, presented at the 1974 Annual Conference of the Association of State Game and Fish Commissioners in Albuquerque, New Mexico, re-evaluates the native fishes of the upper [[Rio Yaqui]] system within the United States. The Yaqui drainage in Arizona originally contributed roughly a quarter...
+> -- *[[ReevaluationOfTheNativeFishesO_PML1651]]*
+
+> This annual narrative report covers fiscal year 1981 (FY81) at [[Dexter National Fish Hatchery]] in Dexter, New Mexico. The station's program consisted entirely of holding, spawning, rearing, and distributing captive-propagated threatened, endangered, and other listed species of southwestern...
+> -- *[[AnnualNarrativeReportFyDexterN_PML2649]]*
+
+> This Endangered Species Bulletin article (1997) by Linda Andreasen, a Fishery Biologist with the U.S. Fish and Wildlife Service (FWS) Division of Fish Hatcheries, and Buddy Jensen, Manager of the [[Dexter National Fish Hatchery and Technology Center]], describes how one facility shifted from...
+> -- *[[DexterNationalFishHatcheryAndT_PML0053]]*
+
+> This FY2000 [[Imperiled Species Module]] report documents the refugium culture of 15 imperiled freshwater fish species at [[Dexter National Fish Hatchery and Technology Center]]. Twelve species are listed as endangered and three as threatened or of special concern. Each species is held as a...
+> -- *[[FisImperiledSpeciesModuleBasic_PML2749]]*
+
+> This study assesses the genetic and morphological status of the endangered [[Yaqui Chub]] (*Gila purpurea*), a small minnow that was nearly extirpated from the United States in the late 1960s. Most of its habitat dried up, but fish were moved to [[Leslie Creek]] shortly before [[Astin Spring]]...
+> -- *[[GeneticsAndMorphologyOfYaquiCh_PML0557]]*
+
+> This source is a 1999 facility record (a funding or activity listing) for the [[Dexter National Fish Hatchery and Technology Center]]. It lists 16 line items covering 14 fish species that were "maintained as a refugium species" at the facility during 1999. Twelve items are [[Endangered Species]],...
+> -- *[[DnfhFyAnnualReport_PML2743]]*
+
+> This annual report for Fiscal Year 2001 covers the [[Dexter National Fish Hatchery]] and Technology Center in the Pecos River Valley of southeastern New Mexico. The facility functions as a refugium and recovery center for imperiled fishes of the American Southwest, holding 16 listed species and one...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2759]]*
+
+> This annual report covers Fiscal Year 2002 (October 1, 2001 to September 30, 2002) at the [[Dexter National Fish Hatchery]] & Technology Center in southeastern New Mexico. The station is a U.S. Fish and Wildlife Service facility devoted to the refugium holding, culture, research and reintroduction...
+> -- *[[DexterNationalFishHatcheryTech_PML2755]]*
+
+> This U.S. Fish & Wildlife Service annual report for fiscal year 2003 documents the activities of the [[Dexter National Fish Hatchery and Technology Center]] in Dexter, New Mexico. The Center propagates and maintains imperiled native fishes of the American Southwest, conducts applied research in...
+> -- *[[DexterNationalFishHatcheryAndT_PML2758]]*
+
 ### Mentioned In
 - [[ColoradoRiverLowerBasinFisheri_1995_04_10]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -2292,6 +3024,16 @@ The Yaqui Sucker (*Catostomus bernardini*) is a catostomid fish native to the Ya
 - [[DraftProposalNonindigenousAsia_15984]]
 - [[GeneticsAndMorphologyOfTheYaqu_12786]]
 - [[LongfinSonoraChubChihuahuaChub_13688]]
+- [[AnnualReportDexterNationalFish_PML1180]]
+- [[ReevaluationOfTheNativeFishesO_PML1651]]
+- [[AnnualNarrativeReportFyDexterN_PML2649]]
+- [[DexterNationalFishHatcheryAndT_PML0053]]
+- [[FisImperiledSpeciesModuleBasic_PML2749]]
+- [[GeneticsAndMorphologyOfYaquiCh_PML0557]]
+- [[DnfhFyAnnualReport_PML2743]]
+- [[AnnualReportFiscalYearDexterNa_PML2759]]
+- [[DexterNationalFishHatcheryTech_PML2755]]
+- [[DexterNationalFishHatcheryAndT_PML2758]]
 
 ## Yaqui topminnow
 <!-- fm: auto_enriched: true -->
@@ -2462,6 +3204,60 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This study by [[Meffe Et Al 1983]] examines the decline of the endangered [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) in the United States, where the species now survives only in a few isolated localities in southern Arizona. Field surveys conducted between August 1979 and July 1981 at all...
 > -- *[[FactorsResultingInDeclineOfThe_20068]]*
 
+> This proposal (28 May 1996) from the [[Arizona Fishery Resources Offices]], the [[U.S. Fish And Wildlife Service]] and the [[San Carlos Apache Tribe]] seeks to restore the spring system of S2 at [[Bylas Springs]] and reintroduce the endangered [[Sonoran Topminnow]], also called the Gila topminnow....
+> -- *[[MiddleSpringSAndTheEndangeredG_PML2715]]*
+
+> This paper, presented at the 1974 Annual Conference of the Association of State Game and Fish Commissioners in Albuquerque, New Mexico, re-evaluates the native fishes of the upper [[Rio Yaqui]] system within the United States. The Yaqui drainage in Arizona originally contributed roughly a quarter...
+> -- *[[ReevaluationOfTheNativeFishesO_PML1651]]*
+
+> This 1995 report, prepared by Brian E. Bagley, [[Paul C. Marsh]], and W.L. Minckley of Arizona State University for the [[Bureau of Reclamation]] (Phoenix Area Office), reviews the literature on the swimming and leaping capabilities of non-native fishes. The goal is to inform the design of [[Exotic...
+> -- *[[SwimmingAbilityOfNonnativeFish_PML0156]]*
+
+> This preliminary report, presented by [[Cecil R. Schwalbe]] and [[Philip C. Rosen]] at a 1988 symposium on amphibian, reptile and small mammal management, tests whether the introduced [[American Bullfrog]] (*Rana catesbeiana*) drives declines of native wetland herpetofauna in southeastern Arizona....
+> -- *[[PreliminaryReportOnEffectsOfBu_PML2314]]*
+
+> This annual narrative report covers fiscal year 1981 (FY81) at [[Dexter National Fish Hatchery]] in Dexter, New Mexico. The station's program consisted entirely of holding, spawning, rearing, and distributing captive-propagated threatened, endangered, and other listed species of southwestern...
+> -- *[[AnnualNarrativeReportFyDexterN_PML2649]]*
+
+> This USFWS project report (June 29, 2000) documents the renovation of Spring S1, known as "Tusidugihalen" ("Hot Spring"), at [[Bylas Springs]] on the [[San Carlos Apache Reservation]]. The goal was to restore habitat for the endangered [[Gila Topminnow]] by removing invasive [[Mosquitofish]] and...
+> -- *[[TusidugihalenHotSpringSAndTheE_PML2294]]*
+
+> This document is a cover letter and two annual reports from the [[Arizona Game and Fish Department]] (AGFD) to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 2. The Department acted as a subpermittee under [[Blanket Permit PRT-676811]] for Endangered or Threatened species. The cover letter...
+> -- *[[ReportOnPrtActivityFromDecembe_PML1229]]*
+
+> This document is a [[Federal Register]] final rule issued by the [[U.S. Fish and Wildlife Service]] on August 31, 1984 (Vol. 49, No. 171), together with a cover letter to the [[Arizona State Clearinghouse]] and a Standard Form 424 (federal assistance application cover sheet). The rule lists three...
+> -- *[[DeterminationOfEndangeredAndTh_PML0720]]*
+
+> This study by [[Hedrick]], [[Parker]] and [[Lee]] (Arizona State University, *Molecular Ecology*, 2001) tests whether neutral [[Microsatellite Loci]] and a major histocompatibility gene ([[Major Histocompatibility Complex]], MHC) identify the same population structure in endangered [[Gila...
+> -- *[[UsingMicrosatelliteAndMhcVaria_PML1026]]*
+
+> This study by [[David L. Galat]] and [[Ben Robertson]] (Arizona State University, published in *Environmental Biology of Fishes* 33: 249–264, 1992) examines how the endangered [[Yaqui Topminnow]] (*Poeciliopsis occidentalis sonoriensis*) responds to the introduced [[Western Mosquitofish]]...
+> -- *[[ResponseOfEndangeredPoeciliops_PML0845]]*
+
+> This study by [[Philip W. Hedrick]] and [[Karen M. Parker]] (Arizona State University) uses molecular markers to characterize the genetic structure of endangered [[Gila Topminnow]] and [[Yaqui Topminnow]] populations in Arizona. The authors sampled nine additional Gila topminnow populations and two...
+> -- *[[GeneticCharacterizationOfSonor_PML1024]]*
+
+> This document is a review packet issued by the [[Arizona Game and Fish Department]] (Nongame Branch) in August 1987. It invites expert comment on a proposed revision of the state's List of Threatened Native Wildlife, last revised in 1982. The packet contains a cover letter, ground rules for...
+> -- *[[ProposedThreatenedAndEndangere_PML0095]]*
+
+> This study evaluates and redesigns the monitoring of three endangered or threatened freshwater fishes endemic to the [[Rio Yaqui Watershed]] in southeastern Arizona and Sonora, Mexico: the [[Yaqui Topminnow]], the [[Yaqui Chub]], and the [[Beautiful Shiner]]. The authors argue that standardized...
+> -- *[[EstimatingAbundanceOfEndangere_PML2461]]*
+
+> This draft report by Lee H. Simons (Arizona Game and Fish Department) to the [[U.S. Fish and Wildlife Service]] reviews the status of the [[Gila Topminnow]], one of two Sonoran topminnow subspecies in the United States, in 1987, about six years after intensive recovery actions began. The subspecies...
+> -- *[[StatusOfTheEndangeredGilaTopmi_PML2370]]*
+
+> This Arizona Game and Fish Department special report, prepared by [[Matt Brown]] and [[Francisco J. Abarca]] under Project E5-2, Job 9 (Title VI of the Endangered Species Act), updates the status of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*)...
+> -- *[[AnUpdateStatusReportOfTheSonor_PML0294]]*
+
+> This draft revised recovery plan, prepared for the [[U.S. Fish and Wildlife Service]] Region 2 by Abarca, Bagley, Hendrickson and Simms, addresses only the Gila topminnow, one of two subspecies of Sonora topminnow. The Gila topminnow was listed as endangered in 1967 without critical habitat...
+> -- *[[GilaTopminnowPoeciliopsisOccid_PML0012]]*
+
+> This working draft revises the 1984 recovery plan for the [[Gila Topminnow]], *Poeciliopsis occidentalis occidentalis*, a federally endangered livebearer listed in 1967 with no critical habitat designated. The plan covers only the U.S. portion of the range; the [[Yaqui Topminnow]] is handled in a...
+> -- *[[GilaTopminnowPoeciliopsisOccid_PML2852]]*
+
+> This Arizona Game and Fish Department special report assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) using field surveys from June 1989 to April 1990 and a review of historic records. Both species were federally listed...
+> -- *[[StatusOfTheSonoranTopminnowPoe_PML0155]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -2543,6 +3339,24 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[ResponseOfEndangeredPoeciliops_16888]]
 - [[Fishes_17742]]
 - [[FactorsResultingInDeclineOfThe_20068]]
+- [[MiddleSpringSAndTheEndangeredG_PML2715]]
+- [[ReevaluationOfTheNativeFishesO_PML1651]]
+- [[SwimmingAbilityOfNonnativeFish_PML0156]]
+- [[PreliminaryReportOnEffectsOfBu_PML2314]]
+- [[AnnualNarrativeReportFyDexterN_PML2649]]
+- [[TusidugihalenHotSpringSAndTheE_PML2294]]
+- [[ReportOnPrtActivityFromDecembe_PML1229]]
+- [[DeterminationOfEndangeredAndTh_PML0720]]
+- [[UsingMicrosatelliteAndMhcVaria_PML1026]]
+- [[ResponseOfEndangeredPoeciliops_PML0845]]
+- [[GeneticCharacterizationOfSonor_PML1024]]
+- [[ProposedThreatenedAndEndangere_PML0095]]
+- [[EstimatingAbundanceOfEndangere_PML2461]]
+- [[StatusOfTheEndangeredGilaTopmi_PML2370]]
+- [[AnUpdateStatusReportOfTheSonor_PML0294]]
+- [[GilaTopminnowPoeciliopsisOccid_PML0012]]
+- [[GilaTopminnowPoeciliopsisOccid_PML2852]]
+- [[StatusOfTheSonoranTopminnowPoe_PML0155]]
 
 ## Yaqui Trout
 
@@ -2553,8 +3367,12 @@ Yaqui trout (Salmo sp.) is a native salmonid of the Rio Yaqui system. In this so
 > Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
 > -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
 
+> This study compares the historical development of nonnative fish assemblages in two similar North American desert drainages: the heavily invaded [[Gila Basin]] (principally southwestern USA) and the lightly invaded [[Yaqui Basin]] (principally northwestern Mexico). Using the comprehensive...
+> -- *[[ConvergenceOfDifferentiallyInv_PML2545]]*
+
 ### Mentioned In
 - [[TwoNewCatostomidFishesCyprinif_PML2361]]
+- [[ConvergenceOfDifferentiallyInv_PML2545]]
 
 ## Yaqui Watershed
 
@@ -2603,6 +3421,18 @@ The Yarkon River is a Mediterranean coastal river in Israel. The source says Til
 
 ### Mentioned In
 - [[CichlidaeOfTheGenusTilapiaInIs_16408]]
+
+## Yashouv
+
+### Summary
+Yashouv is an Israeli fisheries researcher whose earlier work is cited in the source. Studies from 1954 and 1956 are cited for the benthic diet of carp in Israel, and studies from 1963 to 1972 are cited for higher carp production in carp-tilapia polyculture. A 1956 study reported that intensive tilapia spawning inhibited tilapia and carp growth.
+
+### Context
+> This short study, attributed to P. Spataru and B. Hepher of the [[Dor Fish And Aquaculture Research Station]], tests whether [[Common Carp]] can limit unwanted reproduction of [[Tilapia]] in a [[Polyculture]] pond. Uncontrolled spawning of prolific tilapia ("wild spawning") floods the pond with fry...
+> -- *[[CommonCarpPredatingOnTilapiaFr_PML2414]]*
+
+### Mentioned In
+- [[CommonCarpPredatingOnTilapiaFr_PML2414]]
 
 ## Yashouv 1958
 <!-- fm: auto_enriched: true -->
@@ -2666,11 +3496,15 @@ Yavapai County is a county in Arizona that contains Tule Creek. This source docu
 > This taxonomic paper describes five new species of deltocephaline leafhoppers (Homoptera: [[Cicadellidae]]) discovered during ecological studies of leafhopper-grassland relationships in [[North America]]. The new species are: *[[Latalus intermedius]]*, *[[Latalus draculus]]*, *[[Diplocolenus...
 > -- *[[NewSpeciesOfNorthAmericanDelto_21086]]*
 
+> This USGS Open-File Report (99-0378, 2000) by Laurie Wirt and H.W. Hjalmarson identifies the aquifers and flow paths that supply the perennial base flow of the uppermost [[Verde River]] in Yavapai County, Arizona. Using multiple independent lines of evidence (geology, groundwater levels,...
+> -- *[[SourcesOfSpringsSupplyingBaseF_PML2917]]*
+
 ### Mentioned In
 - [[SiteVisitPotentialFishBarrierS_11854]]
 - [[SelectionsFromUniversityOfMich_18288]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
+- [[SourcesOfSpringsSupplyingBaseF_PML2917]]
 
 ## Yavapai Frog
 
@@ -2693,8 +3527,24 @@ A leopard frog species of Arizona listed as a Candidate for federal protection. 
 > This USDA Forest Service Environmental Assessment (EA), dated April 16, 1996, evaluates a proposal to re-establish a native fish community in [[Arnett Creek]] and [[Telegraph Canyon]] on the [[Tonto National Forest]] (Globe Ranger District), in partnership with the [[Arizona Game And Fish...
 > -- *[[EnvironmentalAssessmentarnettC_11509]]*
 
+> This document is a draft Environmental Assessment (EA) issued by the [[Tonto National Forest]] (USDA Forest Service, Globe Ranger District, Pinal County, Arizona, dated April 16, 1996). It evaluates a proposal to re-establish native fish in [[Arnett Creek]] and [[Telegraph Canyon]], in cooperation...
+> -- *[[EnvironmentalAssessmentArnettC_PML2614]]*
+
 ### Mentioned In
 - [[EnvironmentalAssessmentarnettC_11509]]
+- [[EnvironmentalAssessmentArnettC_PML2614]]
+
+## Yavapai Series
+
+### Summary
+A sequence of Precambrian rocks dated at about 1,820–1,720 million years old in this region. The authors count it as one of two orogenic cycles recorded in the older Precambrian, alongside the younger Pinal Schist.
+
+### Context
+> This Arizona Geological Society Digest paper (Volume XII, 1980) by Shafiquullah, Damon, Lynch, Reynolds, Rehrig and Raymond reports 174 [[Potassium-Argon Dating|K-Ar]] ages from 154 localities in southwestern Arizona and adjacent areas, combined with a synthesis of the region's geologic history....
+> -- *[[KarGeochronologyAndGeologicHis_PML2339]]*
+
+### Mentioned In
+- [[KarGeochronologyAndGeologicHis_PML2339]]
 
 ## Yavapai Terrane
 
@@ -2731,6 +3581,18 @@ The Yavapai-Apache Nation is a tribal government in central Arizona. In this agr
 
 ### Mentioned In
 - [[FossilCreekMilesOfStreamRestor_20558]]
+
+## Yavapai-Apache Tribe
+
+### Summary
+A tribe represented at the 2005 Fossil Creek stewardship meeting, alongside agencies, non-profits, and citizens. The report lists it among the non-governmental participants in management.
+
+### Context
+> This document is a stakeholder report from the [[Fossil Creek Stewardship Meeting]], held in October 2005 after the [[Fossil Creek Dam Decommissioning]] in July 2005. The meeting was organized by the [[Northern Arizona University]] (NAU) [[Fossil Creek Ecosystem Studies Group]] and brought together...
+> -- *[[ShortAndLongtermManagementStew_PML1353]]*
+
+### Mentioned In
+- [[ShortAndLongtermManagementStew_PML1353]]
 
 ## Yavapai-Prescott Indian Community
 
@@ -2802,11 +3664,35 @@ A river in Austria in the Danube basin. Husmann reports a gravel sample from nea
 ### Mentioned In
 - [[OkologischeUndVerbreitungscsge_14536]]
 
+## Yeager
+
+### Summary
+The Yeager stocking pools, where spinedace were stocked and monitored. In 2008 about 30 adults and 1 young-of-year were seen in pool #1 in May, and about 25 young-of-year were seen in pool #2 in July, when 167 spinedace were also stocked into the two pools.
+
+### Context
+> This note covers two linked documents: the agenda and field updates from the [[Little Colorado Spinedace]] Recovery Team meeting held July 25, 2008, at the [[Black Mesa Ranger District]] in Arizona, and a July 14, 2008 letter from the [[U.S. Fish and Wildlife Service]] (Service) responding to the...
+> -- *[[LcSpinedaceRecoveryMeeting_PML1343]]*
+
+### Mentioned In
+- [[LcSpinedaceRecoveryMeeting_PML1343]]
+
 ## Yeager 1936
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[ReproductiveBehaviorOfTheBigmo_14068]]
+
+## Yeager Creek
+
+### Summary
+Yeager Creek is a Little Colorado spinedace stocking site with a set of stocking pools. In May 2008 about 30 adult spinedace were seen in Stocking Pool #2, and on July 8, 2008, 167 spinedace from West Leonard Creek were introduced into Pools #1 and #2. The source does not report non-native fish status at this site.
+
+### Context
+> This document bundles three items from the [[Little Colorado Spinedace]] recovery effort: a January 28, 2009 meeting agenda, a January 26, 2009 letter to the [[U.S. Fish and Wildlife Service]] requesting formal separation of the spinedace recovery team from the [[Apache Trout]] team, and...
+> -- *[[LittleColoradoSpinedaceRecover_PML1342]]*
+
+### Mentioned In
+- [[LittleColoradoSpinedaceRecover_PML1342]]
 
 ## Year Class
 
@@ -2823,10 +3709,14 @@ The group of fish hatched in the same year, whose strength determines later catc
 > This study by the [[Ontario Department of Lands and Forests]] and the University of Toronto follows the [[Year Class]] of [[Lake Trout]] hatched in 1944 in [[South Bay]], a 30-square-mile arm of [[Lake Huron]] on the south-east corner of [[Manitoulin Island]]. This cohort supported a significant...
 > -- *[[TheYearClassOfLakeTroutInSouth_18860]]*
 
+> This study by [[Scoppettone]], [[Coleman]], and [[Wedemeyer]] (U.S. Fish and Wildlife Service) examines the endangered [[Cui-ui]] (*[[Chasmistes Cujus]]*), a [[Catostomidae|catostomid]] endemic to [[Pyramid Lake]], Nevada. Adults congregate off the mouth of the [[Truckee River]] from mid-March to...
+> -- *[[LifeHistoryAndStatusOfTheEndan_PML2317]]*
+
 ### Mentioned In
 - [[AgeGrowthAndProductionOfYellow_19742]]
 - [[AbundanceGrowthAndConditionOfY_17405]]
 - [[TheYearClassOfLakeTroutInSouth_18860]]
+- [[LifeHistoryAndStatusOfTheEndan_PML2317]]
 
 ## Year Class Analysis
 
@@ -2843,6 +3733,18 @@ Year-class analysis groups individuals in a population by the year they were spa
 ### Mentioned In
 - [[OccurenceAndDistributionOfAsia_17827]]
 - [[FailureOfYellowBassRoccusMissi_13877]]
+
+## Year Class Strength
+
+### Summary
+Year class strength refers to the size of a cohort of fish produced in a given year that survives to join the adult or fished population. Predicting it is a central goal of fishery science, and this source suggests the proportion of starving larvae might serve as an independent index of mortality and, potentially, of year class strength for northern anchovy. The author stresses that such an index would need several years of correlation with recruitment before it could be validated.
+
+### Context
+> This 1980 *Fishery Bulletin* study by C. P. O'Connell (NOAA, Southwest Fisheries Center, La Jolla) estimates the proportion of starving [[Northern Anchovy]] larvae in the Southern California Bight using [[Histological Analysis]] of larvae collected in March 1977. Of 318 larvae sectioned from 64 net...
+> -- *[[PercentageOfStarvingNorthernAn_PML2036]]*
+
+### Mentioned In
+- [[PercentageOfStarvingNorthernAn_PML2036]]
 
 ## Year Class Success
 
@@ -2886,6 +3788,18 @@ The relative number of walleyes produced in a given year class, as indexed in th
 ### Mentioned In
 - [[DistributionHabitatAndAbundanc_1959]]
 
+## Year-Class Failure
+
+### Summary
+Year-class failure is the lack of recruitment of a particular year's cohort of young fish into the adult population. The authors suggest food-related larval mortality may contribute to this in Lake Mohave razorback suckers, although they note the study does not prove it.
+
+### Context
+> This laboratory study tests whether food limitation contributes to the failure of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae to recruit into the adult population of [[Lake Mohave]], Arizona-Nevada. Adults are common and reproduce annually, yet larvae disappear at about 10.6 mm total length...
+> -- *[[FoodLimitedSurvivalOfLarvalRaz_PML2086]]*
+
+### Mentioned In
+- [[FoodLimitedSurvivalOfLarvalRaz_PML2086]]
+
 ## Year-Class Growth Comparison
 <!-- fm: auto_enriched: true -->
 
@@ -2902,11 +3816,19 @@ The relative number of walleyes produced in a given year class, as indexed in th
 > This 1957 paper by Fritz H. Johnson of the [[Minnesota Department of Conservation]] tests whether spring water levels affect the strength of [[Northern Pike]] year classes in [[Ball Club Lake]], Minnesota, for the seven years 1945 to 1952. Years were ranked by a combined [[Water Level Index]] for...
 > -- *[[NorthernPikeYearclassStrengthA_19755]]*
 
+> This experimental study tested whether species-specific [[TaqMan Real-Time PCR]] probes can detect prey DNA from fish eggs and larvae after ingestion by a teleost predator, the [[Whiting]] (*Merlangius merlangus*). Prey were [[Atlantic Cod]] (*Gadus morhua*) eggs and yolk-sac larvae, and [[European...
+> -- *[[EffectivenessOfTaqmanProbesFor_PML1132]]*
+
+> This study by [[Theilacker]] tests whether starvation is a major natural cause of mortality for young [[Jack Mackerel]] (*Trachurus symmetricus*) at sea. Using [[Histological Analysis]] and [[Morphometric Analysis]] calibrated in the laboratory, the author examined larvae from a 4-day survey grid...
+> -- *[[StarvationinducedMortalityOfYo_PML2498]]*
+
 ### Mentioned In
 - [[FailureOfSomeYellowBassToFormA_1958_12_15]]
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
 - [[EffectsOfArtificialPropagation_16149]]
 - [[NorthernPikeYearclassStrengthA_19755]]
+- [[EffectivenessOfTaqmanProbesFor_PML1132]]
+- [[StarvationinducedMortalityOfYo_PML2498]]
 
 ## Year-Class Strength And Recruitment
 <!-- fm: auto_enriched: true -->
@@ -2961,6 +3883,30 @@ A yearling is a trout in its second year of life, roughly one year old. The sour
 
 ### Mentioned In
 - [[PreliminaryObservationsOnPopul_20222]]
+
+## Yearling Trout
+
+### Summary
+Trout raised in hatcheries for about a year before being stocked into streams and lakes. The source notes that Minnesota state hatcheries produced yearlings for stocking and that their average size, measured in fish per pound, changed after the diet switch.
+
+### Context
+> This document combines two linked Minnesota fisheries studies. The first, a cost review by [[Robert E. Schumacher]] (Aquatic Biologist, Fisheries Research Unit, Special Publication No. 3, February 1955), compares [[Trout Feed Costs]] and feed efficiency at state trout rearing stations over five...
+> -- *[[ReviewOfComparativeTroutFeedCo_PML2313]]*
+
+### Mentioned In
+- [[ReviewOfComparativeTroutFeedCo_PML2313]]
+
+## Yeast Extract
+
+### Summary
+A nutrient preparation made from yeast cells, rich in amino acids, vitamins and other organic compounds. The authors suggest that adding organic supplements such as yeast extract to a grass-based medium could help in culturing aerobic heterotrophic marine bacteria.
+
+### Context
+> This short research note examines how [[Marine Bacteria]] break down the dead leaves of [[Spartina Alterniflora]], the dominant grass of [[Salt Marsh]] systems near [[Sapelo Island]], Georgia. The study combined field decomposition experiments with laboratory tests of bacterial growth on media...
+> -- *[[DecompositionOfMarshGrassByAer_PML0338]]*
+
+### Mentioned In
+- [[DecompositionOfMarshGrassByAer_PML0338]]
 
 ## Yeatman 1956
 <!-- fm: auto_enriched: true -->
@@ -3122,6 +4068,21 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 > This 1970 study by Ross V. Bulkley, published in the *Iowa State Journal of Science*, examined how food supply and water temperature shaped the reproductive cycle and fecundity of [[Yellow Bass]] (*Morone mississippiensis*) in [[Clear Lake]], Iowa, from April 1967 to September 1968. Sampling was...
 > -- *[[ChangesInYellowBassReproductio_13887]]*
 
+> A memo from [[Arizona State University]] staff reports a gill and trammel net survey of the two lakes at the [[Arizona State University Karsten Golf Course]] (ASUGC) on 4–5 May 1995. The survey aimed to assess the status of stocked [[Razorback Sucker]], [[Bonytail]], and [[Colorado Squawfish]]. A...
+> -- *[[FishSamplingAtAsuKarstenGolfCo_PML0151]]*
+
+> This memorandum from [[Arizona State University]]'s Center for Environmental Studies reports a fish survey of the [[ASU Research Park]] in [[Tempe Arizona]], conducted 6–7 April 1995 by Brian Bagley, Terry Inman and Patti Sowka. Seven entanglement nets sampled the park's three ponds overnight. The...
+> -- *[[TripReportForTheAprilSurveyOfT_PML0152]]*
+
+> This Arizona Game and Fish Commission report, written by [[Jack E. Hemphill]], Chief of Fisheries, evaluates [[Toxaphene]], a chlorinated camphene insecticide, as a [[Piscicide]] for controlling unwanted "rough fish" in lakes and reservoirs. The work began after fish kills in Arizona fish ponds...
+> -- *[[ToxapheneAsAFishToxin_PML1018]]*
+
+> This report, submitted by Paul C. Marsh, Ph.D., to the [[Val Vista Lakes]] Community Association, presents the results of a spring (April) 1998 fishery survey of the lake system in [[Gilbert, Arizona]]. Eleven fish species were recorded overall, including one species taken only by seining. The...
+> -- *[[SpringFisherySurveyOfValVistaL_PML1398]]*
+
+> This is a popular Arizona angling handbook, *The Arizona Fish Book* by Bob Hinsch with illustrations by Mary Hinsch (copyright 1982), covering the major sport fish found in the state's reservoirs, lakes, rivers and streams. Each species account typically gives identification features, spawning...
+> -- *[[TheYellowFrontBookOfArizonaFis_PML1061]]*
+
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
 - [[AnglerHarvestInTheSummersOfToA_1957_12_12]]
@@ -3181,6 +4142,11 @@ Yellow Bass (*Morone mississippiensis*) is a non-native percichthyid fish specie
 - [[BlackAndWhiteCrappiesInClearLa_19607]]
 - [[UtilizationOfPlanktonByJuvenil_12492]]
 - [[ChangesInYellowBassReproductio_13887]]
+- [[FishSamplingAtAsuKarstenGolfCo_PML0151]]
+- [[TripReportForTheAprilSurveyOfT_PML0152]]
+- [[ToxapheneAsAFishToxin_PML1018]]
+- [[SpringFisherySurveyOfValVistaL_PML1398]]
+- [[TheYellowFrontBookOfArizonaFis_PML1061]]
 
 ## Yellow Bay
 
@@ -3438,6 +4404,189 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This 1959 survey by W. L. Minckley, published by the [[University Of Kansas Museum Of Natural History]], documents the fish fauna and angling success of the [[Big Blue River]] Basin in northeastern Kansas. The work was done from March 30, 1957, to August 9, 1958, before the [[Tuttle Creek Dam]]...
 > -- *[[FishesOfTheBigBlueRiverBasinKa_18551]]*
 
+> This March 7, 1973 memorandum from the Department of Fish and Game (Assistant Fisheries Biologist Gary Ponder, to Fritz Walgenbach, Paul C. Marsh, and others at The Resources Agency) lists the organisms found in the [[Tenth Avenue Backwater]], locally called "Big Hole," and in the channels of...
+> -- *[[CheckListOfOrganismsInSectionB_PML2153]]*
+
+> This memorandum from the [[Fish and Wildlife Service]] Parker office (dated 29 April 1994) reports a netting and electrofishing effort at [[Palm Lake]], on the [[Hassayampa River Preserve]] in Arizona, to remove additional [[Bonytail Chub]]. A total of 25 bonytail were captured by [[Trammel...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1770]]*
+
+> This 1986 interoffice memorandum from the Chief, Endangered Species, to the Assistant Regional Director, Region 2, proposes using several ponds at [[Buenos Aires National Wildlife Refuge]] (NWR) in Arizona to rear five native fish species, including four federally endangered species. Spring surveys...
+> -- *[[UtilizationOfPondsAtBuenosAire_PML2658]]*
+
+> A memo from [[Arizona State University]] staff reports a gill and trammel net survey of the two lakes at the [[Arizona State University Karsten Golf Course]] (ASUGC) on 4–5 May 1995. The survey aimed to assess the status of stocked [[Razorback Sucker]], [[Bonytail]], and [[Colorado Squawfish]]. A...
+> -- *[[FishSamplingAtAsuKarstenGolfCo_PML0151]]*
+
+> The [[Arizona Game and Fish Department]] Region III Fisheries Program surveyed about 0.7 mile of the [[Verde River]] upstream of the [[Granite Creek]] confluence, locally known as [[Stillman Lake]], on September 25, 2001. The survey tested whether the fish community there differed from the river...
+> -- *[[RegionIiiFisheriesSurveyOfTheV_PML0430]]*
+
+> This Arizona Game and Fish Department memorandum (dated February 9, 1994) summarizes the management history of imperiled native big-river fishes at [[Palm Lake]] from 1989 to early 1994. It records stockings from [[Dexter National Fish Hatchery]], removals and relocations to hatcheries and research...
+> -- *[[PalmLakeNativeFishData_PML0210]]*
+
+> This 23 May 1990 memorandum from the [[Arizona Game And Fish Department]] reports a fish monitoring survey of [[Palm Lake]] at the [[Hassayampa River Preserve]]. Written by [[Dean Hendrickson]], Nongame Fish Biologist, to interested parties, it documents captures of two endangered-status native...
+> -- *[[FishMonitoringOfPalmLakeHassay_PML1031]]*
+
+> This document is an email correspondence from [[Peter Reinthal]], Associate Curator at the [[University of Arizona]], transmitting raw fish count data from two sampling events on [[Aravaipa Creek]], Arizona: a spring 2003 survey (April 5–6) and a fall 2003 survey (September 27–28). Counts were...
+> -- *[[AravaipaSamplingNumbersSpring_PML2191]]*
+
+> This 1992 internal memorandum from the [[Arizona Game And Fish Department]] reports on a fish barrier built on [[Tule Creek]] as mitigation for the expanded [[New Waddell Dam]] and [[Lake Pleasant]]. A post-construction inspection on June 11, 1992 found the barrier sound except for its vertical...
+> -- *[[TuleCreekFishBarrierAndGreenSu_PML0107]]*
+
+> This correspondence, dated November 2, 1992 (year partly garbled in the scan), is a letter from the [[Arizona Game and Fish Department]] Native Fish Program Manager to The Nature Conservancy's Verde Valley/Eassayampa River Preserve. It reports an October 26 sampling effort at Painted Rock, Arizona,...
+> -- *[[PalmLakeNativeFishStudies_PML0105]]*
+
+> This document is a short file of correspondence and survey results from [[Aravaipa Canyon Wilderness]] in Arizona, dated 2000. It contains three items: 1. A [[Bureau of Land Management]] letter (2 February 2000) from the [[Safford District Office]] to [[W.L. Minckley]] of [[Arizona State...
+> -- *[[AravaipaCanyonFishSamplingAndW_PML1862]]*
+
+> This document is a field report from the 2010 Lake Mohave March Razorback Roundup, an annual long-term interagency monitoring effort run by the [[National Park Service]] (NPS) and the [[Nevada Department of Wildlife]] (NDOW) from March 15 to March 19. Crews netted the Tequila Cove spawning zone on...
+> -- *[[LakeMohaveMarchRazorbackRoundu_PML2034]]*
+
+> This February 1987 monthly report from the [[California Department of Fish and Game]] covers the [[Razorback Sucker]] reintroduction and monitoring study on the [[Colorado River]]. Work in February focused on three areas: recovering juvenile razorbacks from hatchery ponds, surveying the river and...
+> -- *[[RazorbackSuckerReintroductionM_PML1319]]*
+
+> From March 15 to 19, 2010, the [[U.S. Bureau of Reclamation]] (USBR) Fisheries Group, joined by staff from the USBR Boulder City and Denver offices, took part in the annual March [[Razorback Sucker]] roundup on [[Lake Mohave]]. The team surveyed the Nine-Mile stretch on the Nevada shoreline using...
+> -- *[[LakeMohaveRoundupMarch_PML2591]]*
+
+> This memorandum reports a preliminary survey of stock-watering tanks on the [[Buenos Aires National Wildlife Refuge]] (BANWR) in southern Arizona. The survey asked whether existing tanks could serve as supplemental habitat for recovering endangered fishes. Two sampling trips were made, one in...
+> -- *[[PreliminaryFisheriesSurveyOfAq_PML1840]]*
+
+> The endangered [[Razorback Sucker]] (*Xyrauchen texanus*), a big-river fish of the [[Colorado River Basin]], has shown no sustainable recruitment in four decades, even though spawning adults and larvae are present. Predation by [[Nonnative Fishes]] has been proposed as a major cause. Control...
+> -- *[[SmallNonnativeFishesAsPredator_PML0378]]*
+
+> This study examined predation by five introduced predatory fishes on the endangered [[Humpback Chub]] (*Gila cypha*) and other native fishes in the [[Little Colorado River]], Grand Canyon, Arizona. Fish were sampled about monthly from July 1991 to June 1995 in the lower 15 km of the river, and 408...
+> -- *[[PredationByIntroducedFishesOnE_PML1524]]*
+
+> This memorandum from the [[Nongame Native Fish Program]] of the [[Arizona Game and Fish Department]] reports the November 1995 [[Red Shiner]] survey of the lower reach of [[Aravaipa Creek]], from [[Brandenburg Wash]] to near the [[San Pedro River]] confluence. The survey used the same approach as...
+> -- *[[AravaipaCreekRedShinerSurveySu_PML0212]]*
+
+> This document is a set of 1990 field materials from [[Arizona Game And Fish Department]] (AZGFD), [[Arizona State University]] (ASU) and cooperating agencies. It covers a fall fish count, a logistics plan, a formal survey summary, and historical annual count tables for Aravaipa Creek. The central...
+> -- *[[RedShinerInvasionSurveyOfLower_PML1883]]*
+
+> This laboratory study, published in the *Transactions of the American Fisheries Society* (2008), tests whether gut content analysis can reliably detect predation on native fish larvae by small nonnative fishes. Five nonnative predator species were each fed a single larval [[Razorback Sucker]], a...
+> -- *[[DetectionOfLarvalRemainsAfterC_PML2310]]*
+
+> This document is a set of handwritten and typed field data sheets from fish surveys of [[Aravaipa Creek]] in [[Pinal County]], [[Arizona]]. Surveys were conducted on 3 August 2005 and 14 September 2005 by P.C. Marsh, R. Clarkson (OCR reads "Gfarkson") and J.A. Stefferud. The sampling was organized...
+> -- *[[AravaipaCreekAtConstructedFish_PML1542]]*
+
+> This laboratory study tested whether small nonnative fishes that prey on native fish larvae leave identifiable remains in their guts. Five nonnative species from Arizona were each fed a single larval [[Razorback Sucker]] (*Xyrauchen texanus*) and dissected at 15, 30, 45, or 60 min after...
+> -- *[[DetectionOfLarvalRemainsAfterC_PML2308]]*
+
+> This technical report, submitted by Paul C. Marsh to the [[Bureau of Reclamation]] (Phoenix Area Office), summarizes fish surveys in [[Central Arizona Project]]-related canals during fiscal year 2002 (1 October 2001 to 30 September 2002). Sampling followed the [[Long-Term Monitoring Plan]] for the...
+> -- *[[CentralArizonaProjectFishMonit_PML1508]]*
+
+> This student report from the Spring Semester of 1975 documents a one-semester survey of fishes in the [[Verde River]] drainage of Arizona. Seventeen taxa, including two subspecies of [[Roundtail Chub]], were collected with gill nets, bag seines, and small-mesh seines, then preserved and identified....
+> -- *[[ASurveyOfTheFishInTheVerdeRive_PML2013]]*
+
+> This report from the Bureau of Land Management, Bureau of Reclamation and U.S. Fish and Wildlife Service presents the November 1982 aquatic monitoring survey of the [[Middle Gila River]] in Arizona. The river was long described as nearly devoid of aquatic life, and earlier 1976 surveys lacked...
+> -- *[[MiddleGilaRiverAquaticStudy_PML1272]]*
+
+> This interim report by the [[U.S. Fish and Wildlife Service]] Arizona Fishery Resources Office (Parker) documents an effort to collect wild [[Bonytail Chub]] (*Gila elegans*) from [[Lake Mojave]] for the [[Broodstock Management|broodstock]] program at [[Willow Beach National Fish Hatchery]]...
+> -- *[[InterimReportForBonytailBroods_PML1799]]*
+
+> This report summarizes three years (1994–1996) of fish surveys on [[Fossil Creek]], a 14-mile perennial stream in north-central Arizona and a tributary of the [[Verde River]]. Surveys were run by the [[Arizona Game and Fish Department]] (Region II Fisheries) to determine the status of [[Roundtail...
+> -- *[[StatewideFisheriesInvestigatio_PML2241]]*
+
+> This Forest Service-funded report (final version, February 2002, by David H. Hall and Robert J. Steidl, [[University of Arizona]]) documents the first phase of a restoration project in the [[Santa Catalina Mountains]] of southern Arizona. The study compares desert stream canyons with and without...
+> -- *[[EffectsOfNonnativeFishUponStre_PML0949]]*
+
+> This correspondence file, compiled by the [[California Department of Fish and Game]] (Region 5) with the [[Metropolitan Water District]] and the [[U.S. Fish and Wildlife Service]], documents the establishment and monitoring of a native fish refugium for the endangered [[Colorado Squawfish]] in...
+> -- *[[ColoradoSquawfishStatusCopperB_PML2918]]*
+
+> This document reviews how dam construction, channelization and water diversion have transformed the Lower Colorado River, once a seasonally erratic, sediment-laden river supporting a small endemic fish fauna. Dams created [[Reservoir Ecosystems]] with clear water and stable levels that favored...
+> -- *[[EffectsOfWaterDevelopmentsOnTh_PML2283]]*
+
+> This first annual report by [[Allan A. Schoenherr]] compares two populations of the endangered [[Desert Pupfish]] (*Cyprinodon macularius*) in Riverside County, California. The study contrasts a constant-temperature population at [[Oasis Spring]], introduced in 1977, with a natural population in...
+> -- *[[AComparisonOfTwoPopulationsOfT_PML2306]]*
+
+> This technical report, prepared by the [[U.S. Bureau of Reclamation]] (Phoenix Area Office) for the [[U.S. Fish and Wildlife Service]] and the [[Arizona Game and Fish Department]], presents fish monitoring results for 1997 in target streams and canals of the Gila River Basin. The monitoring was...
+> -- *[[ResultsOfFishMonitoringOfSelec_PML0447]]*
+
+> This U.S. Fish and Wildlife Service interim report, prepared for the [[National Fish and Wildlife Foundation]] and the Multi-Species Conservation Plan, documents 2004 spring sampling in [[Lake Mohave]] for wild [[Bonytail]] (*Gila elegans*), an endangered cyprinid largely extinct in the [[Colorado...
+> -- *[[BonytailBroodstockCollectionRe_PML1801]]*
+
+> This study examines the native and non-native fish community of the upper Verde River in central Arizona, a free-flowing reach of a desert river in the American Southwest. Sampling at seven sites from 1993 to 1995 (with a 1986–1996 comparison dataset) tracked how a 50+ year flood and a 7-year flood...
+> -- *[[FactorsContributingToConservat_PML2224]]*
+
+> Paul E. Marsh (Center for Environmental Studies and Department of Zoology, Arizona State University) reports on stocking three imperiled Colorado River fishes into fishless artificial ponds at [[Buenos Aires National Wildlife Refuge]] (Buenos Aires NWR) and [[Arizona State University Research...
+> -- *[[NativeFishesAtBuenosAiresNatio_PML1466]]*
+
+> This study surveyed the fish community of the earthen [[Coachella Canal]] in [[Imperial Valley]], southeastern California, after the canal was dewatered in November 1980 during the replacement of its upper 78 km with a concrete-lined structure under the [[Colorado River Basin Salinity Control...
+> -- *[[FisheryInventoryOfTheCoachella_PML1877]]*
+
+> A fisheries survey of [[Eagle Creek]] in [[Greenlee County]], Arizona, was conducted June 23–25, 1997, by [[Arizona State University]] researchers Brian Bagley and Paul Marsh. Seven sites were sampled from [[Honeymoon Campground]] to 1.2 km (0.75 mi) below the Eagle Creek pump station. Fifteen fish...
+> -- *[[EagleCreekGreenleeCountyArizon_PML1394]]*
+
+> A May 1975 survey by [[California Department of Fish and Game]] staff examined fish and other aquatic life in irrigation drains operated by the [[Palo Verde Irrigation District]] (PVID), the [[Coachella Valley County Water District]] (CVCWD) and the [[Imperial Irrigation District]] (IID). Seven...
+> -- *[[AquaticResourcesAssessmentOfAg_PML1042]]*
+
+> This six-year study (2007–2012) tested whether annual mechanical removal of [[Nonnative Fishes]] by [[Electrofishing]] and seining could reduce nonnative predators and benefit native fishes in a 4.6-km reach of the West Fork [[Gila River]], southwest New Mexico. Results were mixed. Mass of [[Yellow...
+> -- *[[EfficacyOfMechanicallyRemoving_PML2173]]*
+
+> A fisheries survey of [[Eagle Creek]] in [[Greenlee County]], Arizona, was conducted on June 17–18, 1998, by researchers from Arizona State University, Brian Bagley and Paul Marsh. Seven sites were sampled between [[Honeymoon Campground]] and 3.4 km (2.1 mi) below the Eagle Creek pump station,...
+> -- *[[EagleCreekFisheriesSurveyGreen_PML1397]]*
+
+> This two-year parasitological survey of the [[Little Colorado River]] (LCR) in [[Grand Canyon]], Arizona, examined 1,435 fish representing 4 native and 7 nonnative species. The study identified 17 parasite species, of which 15 are first published records for the LCR and the Colorado River drainage...
+> -- *[[ParasitesOfNativeAndNonnativeF_PML0424]]*
+
+> This USDA Forest Service paper by John N. Rinne reviews six years of study of the [[Spikedace]] population in the upper [[Verde River]], Arizona. The federally listed threatened minnow has declined from common to non-detection since 1997. Calculated probabilities of extirpation from the upper Verde...
+> -- *[[StatusOfSpikedaceMedaFulgidaIn_PML2222]]*
+
+> This study analyzes a 30-year spring-sampling database (1963 onward, with analyses restricted to 1970/1975–2000) of the native fish assemblage of [[Aravaipa Creek]], a Sonoran Desert stream in Arizona. The authors asked whether long-term directional change occurred in community composition, whether...
+> -- *[[VariabilityAndDynamicsOfADeser_PML0653]]*
+
+> This U.S. Bureau of Reclamation and U.S. Geological Survey technical memorandum (July 2006) reports the status of stocked [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] between [[Davis Dam]] and [[Parker Dam]], including [[Lake Havasu]]. Sampling from 2003 to 2005 used...
+> -- *[[TheStatusOfRazorbackSuckersInT_PML2584]]*
+
+> This final annual report documents autumn-winter 2008 fish monitoring in the [[Gila River]], [[Salt River]], [[San Pedro River]], [[Aravaipa Creek]] and [[Cienega Creek]] in Arizona. The work was conducted by Marsh & Associates, LLC for the [[Bureau of Reclamation]] under a [[Central Arizona...
+> -- *[[FishMonitoringOfSelectedStream_PML1544]]*
+
+> Interagency memoranda from the [[Arizona Game and Fish Department]] (AGFD), with input from [[The Nature Conservancy]] (TNC) and the [[Bureau of Land Management]] (BLM), document fish and habitat monitoring at nine stations along [[Aravaipa Creek]], Arizona, from February to June 1993. Winter...
+> -- *[[AravaipaCreekMonitoringData_PML0211]]*
+
+> This 19-year study (1988–2006) examined how a natural flow regime and [[Nonnative Fishes]] interact to shape [[Native Fish Assemblages]] in the relatively unaltered [[Upper Gila River Drainage]] of southwest [[New Mexico]], USA. Six permanent sites were sampled annually from October to early...
+> -- *[[NaturalFlowRegimesNonnativeFis_PML2172]]*
+
+> This appendix describes the aquatic habitats, fishes, benthos, plants and algae, pigments and water chemistry of the Havasu Division of the [[Lower Colorado River]]. Surveys ran mainly 1974–76. Most of the division is [[Lake Havasu]], impounded by [[Parker Dam]]. Only the stretch between Parker Dam...
+> -- *[[AquaticHabitatsAndFishesOfTheL_PML1741]]*
+
+> This study characterizes trophic linkages between native and nonnative fishes in the upper [[Gila River]] basin of southwest New Mexico, one of the few unimpounded drainages west of the Continental Divide. Gut contents and stable isotopes (δ13C and δ15N) from six reaches were used to assess diet,...
+> -- *[[DietAndTrophicNicheOverlapOfNa_PML2130]]*
+
+> This study characterizes trophic linkages between [[Native Fishes]] and [[Nonnative Predators]] in the upper [[Gila River]] basin of southwest New Mexico, one of the few unimpounded drainage basins west of the Continental Divide. It combines [[Diet Analysis]] (gut contents) with [[Stable Isotope...
+> -- *[[DietAndTrophicNicheOverlapOfNa_PML2131]]*
+
+> This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program, Technical Report 198, November 2002) presents fish monitoring and survey data from [[Aravaipa Creek]], a spring-fed, largely unaltered perennial stream in the Galiuro Mountains and a tributary of the...
+> -- *[[AravaipaCreekFishMonitoringAnd_PML2800]]*
+
+> This atlas excerpt, edited by [[Earl E. Deubler Jr.]] from work by Alice J. Mansueti and Jeol D. Hardy Jr., documents the egg, yolk-sac larval, larval, prejuvenile and juvenile stages of freshwater fishes occurring in the Chesapeake Bay region. The text covers the families [[Cyprinidae]] (minnows...
+> -- *[[DevelopmentOfFishesOfTheChesap_PML1415]]*
+
+> This Arizona Game and Fish Department technical report (Technical Report 198, November 2002) presents fish monitoring data from [[Aravaipa Creek]], a spring-fed tributary of the [[San Pedro River]] in the Galiuro Mountains. Sampling was conducted in October 1999 and November 2000 at nine fixed...
+> -- *[[AravaipaCreekFishMonitoringAnd_PML2799]]*
+
+> A three-day fisheries survey of [[Eagle Creek]] in Greenlee County, Arizona, was conducted June 7-9, 1999, by Arizona State University researchers (Brian Kesner, Tim McLaughlin, Paul Marsh and Brian Bagley). Sampling at seven sites along a roughly 6.5 km (about 4 mi) reach, from [[Honeymoon...
+> -- *[[EagleCreekGreenleeCountyArizon_PML1399]]*
+
+> This USDA Forest Service review (edited by Jamison, Raish and Finch, Rocky Mountain Research Station) examines what is known about the relationships between domestic livestock grazing, riparian habitat and fishes in the southwestern United States, with emphasis on USFS Region 3 (R-3). The author...
+> -- *[[FishAndGrazingRelationshipsSou_PML2220]]*
+
+> This draft final report by David A. Weedman of the [[Arizona Game and Fish Department]] (AGFD) documents the [[Fossil Creek Native Fish Restoration]] project, conducted in autumn 2004 in the Mazatzal Mountains of central Arizona. The project removed invasive [[Green Sunfish]] and [[Smallmouth...
+> -- *[[FossilCreekNativeFishRestorati_PML2850]]*
+
+> This document is a petition dated November 7, 2009, submitted to the [[U.S. Fish and Wildlife Service]] (FWS) by four biologists: Sally E. Stefferud, Jerome A. Stefferud, [[Paul C. Marsh]] and [[Thomas E. Dowling]]. It requests two actions for the [[Headwater Chub]], an endemic [[Cyprinidae]] fish...
+> -- *[[PetitionForListingPriorityRest_PML2451]]*
+
+> This final report from the [[Arizona Game And Fish Department]] and cooperating agencies documents the 2004 chemical renovation of [[Fossil Creek]], a travertine-depositing warm-water stream in central Arizona, to remove nonnative [[Green Sunfish]] and [[Smallmouth Bass]] and create habitat for...
+> -- *[[FossilCreekNativeFishRestorati_PML2857]]*
+
+> This literature review, prepared for the U.S. Bureau of Land Management under a cooperative agreement (March 2005), summarizes the history of fish monitoring, research, and conservation on [[Aravaipa Creek]], a perennial desert stream in southeastern Arizona that is one of the premier remnants of...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_PML2454]]*
+
+> This check list, by [[Robert Rush Miller]] and [[Charles H. Lowe]], is the first comprehensive inventory of the fishes known to occur in Arizona waters. It covers both native and introduced species, compiled from a review of the literature and museum records. The authors report **68 species**, of...
+> -- *[[FishesOfArizona_PML1690]]*
+
+> This biological report, prepared by [[EnviroNet Inc]] for [[Arizona Public Service]] in October 1998, supports the [[Federal Energy Regulatory Commission]] (FERC) relicensing of the [[Childs & Irving Hydroelectric Plant]] on [[Fossil Creek]], about 5 miles southwest of Strawberry, Arizona. It...
+> -- *[[ChildsIrvingHydroelectricPlant_PML0685]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -3565,6 +4714,67 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[TheFishPopulationOfDeepLakeMic_17385]]
 - [[ManagementOfFarmFishPonds_15120]]
 - [[FishesOfTheBigBlueRiverBasinKa_18551]]
+- [[CheckListOfOrganismsInSectionB_PML2153]]
+- [[RemovalOfAdditionalBonytailChu_PML1770]]
+- [[UtilizationOfPondsAtBuenosAire_PML2658]]
+- [[FishSamplingAtAsuKarstenGolfCo_PML0151]]
+- [[RegionIiiFisheriesSurveyOfTheV_PML0430]]
+- [[PalmLakeNativeFishData_PML0210]]
+- [[FishMonitoringOfPalmLakeHassay_PML1031]]
+- [[AravaipaSamplingNumbersSpring_PML2191]]
+- [[TuleCreekFishBarrierAndGreenSu_PML0107]]
+- [[PalmLakeNativeFishStudies_PML0105]]
+- [[AravaipaCanyonFishSamplingAndW_PML1862]]
+- [[LakeMohaveMarchRazorbackRoundu_PML2034]]
+- [[RazorbackSuckerReintroductionM_PML1319]]
+- [[LakeMohaveRoundupMarch_PML2591]]
+- [[PreliminaryFisheriesSurveyOfAq_PML1840]]
+- [[SmallNonnativeFishesAsPredator_PML0378]]
+- [[PredationByIntroducedFishesOnE_PML1524]]
+- [[AravaipaCreekRedShinerSurveySu_PML0212]]
+- [[RedShinerInvasionSurveyOfLower_PML1883]]
+- [[DetectionOfLarvalRemainsAfterC_PML2310]]
+- [[AravaipaCreekAtConstructedFish_PML1542]]
+- [[DetectionOfLarvalRemainsAfterC_PML2308]]
+- [[CentralArizonaProjectFishMonit_PML1508]]
+- [[ASurveyOfTheFishInTheVerdeRive_PML2013]]
+- [[MiddleGilaRiverAquaticStudy_PML1272]]
+- [[InterimReportForBonytailBroods_PML1799]]
+- [[StatewideFisheriesInvestigatio_PML2241]]
+- [[EffectsOfNonnativeFishUponStre_PML0949]]
+- [[ColoradoSquawfishStatusCopperB_PML2918]]
+- [[EffectsOfWaterDevelopmentsOnTh_PML2283]]
+- [[AComparisonOfTwoPopulationsOfT_PML2306]]
+- [[ResultsOfFishMonitoringOfSelec_PML0447]]
+- [[BonytailBroodstockCollectionRe_PML1801]]
+- [[FactorsContributingToConservat_PML2224]]
+- [[NativeFishesAtBuenosAiresNatio_PML1466]]
+- [[FisheryInventoryOfTheCoachella_PML1877]]
+- [[EagleCreekGreenleeCountyArizon_PML1394]]
+- [[AquaticResourcesAssessmentOfAg_PML1042]]
+- [[EfficacyOfMechanicallyRemoving_PML2173]]
+- [[EagleCreekFisheriesSurveyGreen_PML1397]]
+- [[ParasitesOfNativeAndNonnativeF_PML0424]]
+- [[StatusOfSpikedaceMedaFulgidaIn_PML2222]]
+- [[VariabilityAndDynamicsOfADeser_PML0653]]
+- [[TheStatusOfRazorbackSuckersInT_PML2584]]
+- [[FishMonitoringOfSelectedStream_PML1544]]
+- [[AravaipaCreekMonitoringData_PML0211]]
+- [[NaturalFlowRegimesNonnativeFis_PML2172]]
+- [[AquaticHabitatsAndFishesOfTheL_PML1741]]
+- [[DietAndTrophicNicheOverlapOfNa_PML2130]]
+- [[DietAndTrophicNicheOverlapOfNa_PML2131]]
+- [[AravaipaCreekFishMonitoringAnd_PML2800]]
+- [[DevelopmentOfFishesOfTheChesap_PML1415]]
+- [[AravaipaCreekFishMonitoringAnd_PML2799]]
+- [[EagleCreekGreenleeCountyArizon_PML1399]]
+- [[FishAndGrazingRelationshipsSou_PML2220]]
+- [[FossilCreekNativeFishRestorati_PML2850]]
+- [[PetitionForListingPriorityRest_PML2451]]
+- [[FossilCreekNativeFishRestorati_PML2857]]
+- [[FishesOfAravaipaCreekGrahamAnd_PML2454]]
+- [[FishesOfArizona_PML1690]]
+- [[ChildsIrvingHydroelectricPlant_PML0685]]
 
 ## Yellow Creek
 
@@ -3575,8 +4785,12 @@ Yellow Creek is a stream in the Cumberland River basin where Cambarus gentryi ha
 > This paper describes **Cambarus gentryi**, a new species of burrowing crayfish from the [[Nashville Basin]] in [[Tennessee]]. The species was first collected in the 1890s from a tributary of [[Stones River]] but remained undescribed for approximately 75 years. It was rediscovered in 1968 by Dr....
 > -- *[[ANewCrayfishFromTheNashvilleBa_20416]]*
 
+> This EPA Project Summary (EPA/600/S3-86/019, April 1986) describes the [[Environmental Requirements and Pollution Tolerance]] (ERAPT) system, a computerized retrieval and analysis tool for environmental information on aquatic organisms. The system predicts environmental conditions from the...
+> -- *[[AComputerizedSystemForTheEvalu_PML0533]]*
+
 ### Mentioned In
 - [[ANewCrayfishFromTheNashvilleBa_20416]]
+- [[AComputerizedSystemForTheEvalu_PML0533]]
 
 ## Yellow Creek Lake
 <!-- fm: auto_enriched: true -->
@@ -3610,6 +4824,18 @@ The yellow eel is the feeding and growth stage of the European eel between the g
 - [[MarkingAndTaggingMethodsApplie_13148]]
 - [[EinigeBeobachtungenUberAaleAus_18853]]
 
+## Yellow Fever Mosquito
+
+### Summary
+Aedes aegypti, a mosquito whose larvae were studied here for hemolymph effects on Malpighian tubule fluid secretion. The source reports that hemolymph from fed larvae and from larvae reared at higher salinity stimulated faster secretion, and that the authors suggest a hormonal mechanism.
+
+### Context
+> This is a scanned front matter and abstract collection from *[[American Zoologist]]* (the journal's volume 33, number 5 issue, labelled "A Journal of Integrative and Comparative Biology"). It presents short abstracts from comparative physiology, biochemistry and ecology. Most studies concern...
+> -- *[[ComparativeMetabolicRatesBetwe_PML0689]]*
+
+### Mentioned In
+- [[ComparativeMetabolicRatesBetwe_PML0689]]
+
 ## yellow goatfish
 
 ### Context
@@ -3634,10 +4860,26 @@ Yellow Grub (Clinostomum sp.) is a trematode parasite that appears as yellowish-
 > This Wisconsin Conservation Department fishery biology bulletin, written by biologist Jacob H. Fischthal, answers common angler questions about the four main flesh- and organ-inhabiting "grubs" found in fishes across Wisconsin lakes and streams. It covers the [[Yellow Grub]] (*Clinostomum...
 > -- *[[GrubsInFishes_16402]]*
 
+> Several Arkansas and Missouri fish farms attempted to spawn [[Black Carp]] in 1992 (the year implied by the source's context) to produce sterile [[Triploid Fish]] as a potential biological control for the [[Zebra Mussel]]. [[Hopper-Stephens Hatcheries]] reported success with diploid spawning and a...
+> -- *[[HopperstephensOsageSpawnBlackC_PML2837]]*
+
+> This study by [[Widmer]] and colleagues measures the upper thermal tolerance of the [[Loach Minnow]] (*Rhinichthys cobitis*), a small, benthic stream fish listed as threatened under the [[Endangered Species Act]] in 1986. Four laboratory methods were compared: the [[Lethal Thermal Method]] (LTM),...
+> -- *[[UpperTemperatureToleranceOfLoa_PML2887]]*
+
+> This laboratory study, conducted by [[Scott A. Bonar]], [[Cori J. Carveth]], and [[Ann M. Widmer]] with [[Jeff Simms]] of the [[Bureau of Land Management]], measured the upper thermal tolerance of two endangered southwestern cyprinids, [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda...
+> -- *[[UpperTemperatureToleranceOfLoa_PML0248]]*
+
+> This final report, prepared by the [[Arizona Game And Fish Department]] for the [[Bureau Of Reclamation]], describes a 2002–2004 study to develop hatchery maintenance and propagation methods for the threatened [[Loach Minnow]] (*Tiaroga cobitis*). Wild fish were collected from [[Aravaipa Creek]]...
+> -- *[[DevelopmentOfPropagationTechni_PML0420]]*
+
 ### Mentioned In
 - [[FishParasites_20804]]
 - [[DraftsaltRiverSurvey_14100]]
 - [[GrubsInFishes_16402]]
+- [[HopperstephensOsageSpawnBlackC_PML2837]]
+- [[UpperTemperatureToleranceOfLoa_PML2887]]
+- [[UpperTemperatureToleranceOfLoa_PML0248]]
+- [[DevelopmentOfPropagationTechni_PML0420]]
 
 ## Yellow Jacket Bar
 
@@ -3684,12 +4926,20 @@ The Yellow Mud Turtle (Kinosternon flavescens flavescens) is a turtle species li
 > This 1986 final report by Philip C. Rosen (Arizona State University) documents a mark-recapture study of the [[Sonoran Mud Turtle]] (*Kinosternon sonoriense longifemorale*) at [[Quitobaquito Springs]], [[Organ Pipe Cactus National Monument]], from September 1982 to September 1985. The population is...
 > -- *[[PopulationDeclineOfSonoranMudT_21070]]*
 
+> This memorandum reports a preliminary survey of stock-watering tanks on the [[Buenos Aires National Wildlife Refuge]] (BANWR) in southern Arizona. The survey asked whether existing tanks could serve as supplemental habitat for recovering endangered fishes. Two sampling trips were made, one in...
+> -- *[[PreliminaryFisheriesSurveyOfAq_PML1840]]*
+
+> This December 1988 issue of [[Wildlife Views]], published by the [[Arizona Game And Fish Department]], is a magazine compilation rather than a research report. Its central theme is the proposed revision of the state's [[Live Wildlife Regulations]], which govern the possession of native and exotic...
+> -- *[[AThreatMoreRealThanImagined_PML2930]]*
+
 ### Mentioned In
 - [[MasterPlanForBuenosAiresWildli_13323]]
 - [[RePreliminaryFisheriesSurveyOf_13711]]
 - [[PreliminaryFisheriesSurveyOfAq_16481]]
 - [[AvianUseOfQuitobaquitoSpringsO_19805]]
 - [[PopulationDeclineOfSonoranMudT_21070]]
+- [[PreliminaryFisheriesSurveyOfAq_PML1840]]
+- [[AThreatMoreRealThanImagined_PML2930]]
 
 ## Yellow Perch
 <!-- fm: auto_enriched: true -->
@@ -4145,6 +5395,57 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
 > -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
 
+> This laboratory study examined interspecific competition for fish eggs between two common benthic predators of the [[Great Lakes]], the [[Slimy Sculpin]] (*Cottus cognatus*) and the [[Virile Crayfish]] (*Orconectes virilis*). The sculpin's feeding rate was unchanged by the presence of crayfish, but...
+> -- *[[CompetitionForFoodBetweenCrayf_PML1692]]*
+
+> This early field study by Jack E. Hemphill of the [[Arizona Game And Fish Commission]] evaluates [[Toxaphene]], a chlorinated camphene insecticide, as a selective agent for [[Fish Population Control]] in farm fishponds and reservoirs. The work was prompted by fish kills in Arizona fishponds linked...
+> -- *[[ToxapheneAsAFishToxin_PML1019]]*
+
+> This 1983 field study used [[Radio Telemetry]] to track the habitat use and movements of four fish species in [[Cedar Lake]], Illinois: [[Largemouth Bass]], [[Bluegill]], [[Yellow Perch]] and [[Pumpkinseed]]. Fish were located by [[Triangulation]] at five-minute intervals and assigned to five...
+> -- *[[HabitatUtilizationAndMovementO_PML2288]]*
+
+> This document is a cover letter and the interim (March 10, 1994) Procedures for Stocking Nonnative Fish Species in the [[Upper Colorado River Basin]], excluding the San Juan River Basin. The procedures were developed jointly by the [[U.S. Fish and Wildlife Service]] (Service) and the States of...
+> -- *[[InterimProceduresForStockingNo_PML2701]]*
+
+> This study examined trophic links between [[Yellow Perch]] (*Perca flavescens*) and two non-indigenous prey species, [[Alewife]] (*Alosa pseudoharengus*) and [[Round Goby]] (*Neogobius melanostomus*), in the extreme southern area of [[Lake Michigan]] during summer 2002. Yellow perch stomachs were...
+> -- *[[GapeLimitationAndPiscinePreySi_PML2514]]*
+
+> This strategic plan from the [[Arizona Game and Fish Department]] sets out goals, objectives, and management strategies for warmwater sportfisheries for 1990–1995. It assesses current supply and demand, projects future trends, and proposes solutions to thirteen management problems. The central...
+> -- *[[ArizonaWarmwaterSportfisheries_PML0102]]*
+
+> This document is a compiled file covering two linked issues: (1) a 1990s consultation between the [[Bureau Of Reclamation]], the [[U.S. Fish And Wildlife Service]] and the Arizona Game and Fish Department over the introduction of nonnative fish from the [[Central Arizona Project]] (CAP) into the...
+> -- *[[MinutesOfMeetingOnEndangeredSp_PML1506]]*
+
+> This document is a draft policy framework, dated December 10, 1993 and revised for a January 5, 1994 meeting, that governs the stocking of nonnative fishes in the Upper Colorado River Basin. It was developed by consensus among the [[U.S. Fish and Wildlife Service]] and the fish and wildlife...
+> -- *[[ProceduresForStockingNonnative_PML0958]]*
+
+> This paper reviews the life history, age structure, current status, and management options for four long-lived lakesucker species of western North America: [[Cui-Ui]], [[June Sucker]], [[Shortnose Sucker]], and [[Lost River Sucker]]. All four are lake-dwelling catostomids that migrate into streams...
+> -- *[[LakeSuckerLifeHistoryAndManage_PML2320]]*
+
+> This report analyzes five years (2000–2004) of standardized fish monitoring data from the [[Central Arizona Project]] (CAP) canal system, interconnected regional canals, and selected reaches of the Gila, Salt, and San Pedro rivers. Prepared for the [[U.S. Bureau of Reclamation]] by Paul C. Marsh...
+> -- *[[AnalysisOfFishPopulationMonito_PML1401]]*
+
+> This document is the Article 4 "Live Wildlife Rules" of the [[Arizona Game And Fish Commission]], promulgated under Arizona Revised Statutes 17-306 and effective January 1, 1995. It governs the importation, transport, release, possession, and sale of live wildlife in Arizona. Its central mechanism...
+> -- *[[LiveWildlifeRules_PML0114]]*
+
+> This Master of Science thesis from [[Colorado State University]] (Fort Collins, Fall 1989) by Jay M. Thompson examines why age-0 [[Colorado Squawfish]] (*Ptychocheilus lucius*), an endangered [[Cyprinidae]] piscivore, may suffer high mortality during its first winter. Hatchery-reared fish in three...
+> -- *[[TheRoleOfSizeConditionAndLipid_PML2501]]*
+
+> This compiled study, edited by William F. Miller and colleagues and published by the Western Division of the American Fisheries Society, reviews the distribution, relative abundance, and conservation status of fishes in the [[Upper Colorado River Basin]]. The authors recorded 55 fishes (52 species...
+> -- *[[FishesOfTheUpperColoradoRiverS_PML1721]]*
+
+> This essay by [[Peter B. Moyle]] traces the history of the [[Common Carp]] (*Cyprinus carpio*) from its domestication in China through its spread across Europe and into North America. It describes how carp became established through deliberate stocking, most notably by the [[U.S. Fish Commission]]...
+> -- *[[AmericasCarp_PML1925]]*
+
+> This Arizona Game and Fish Commission Wildlife Restoration Division work plan (Project F-2-R-1, Work Plan 2, Job I, by Richard A. Wagner) describes a basic survey of the [[Verde River]] system in central Arizona and its on-stream impoundments. The authors note that the state lacked permanent,...
+> -- *[[BasicSurveyOfVerdeRiverAndItsO_PML2806]]*
+
+> This 1959 compendium, issued as the [[University of Utah]] Anthropological Papers (No. 40, Glen Canyon Series No. 7), presents the first biological baseline for the canyon region before the planned [[Glen Canyon Reservoir]] inundated it. The work was part of a salvage program run jointly with the...
+> -- *[[EcologicalStudiesOfFloraAndFau_PML2920]]*
+
+> This mid-twentieth-century identification guide, prepared by W. Harry Brickley of the [[Colorado Cooperative Fishery Research Unit]] and sponsored by Colorado A&M College, the [[Colorado Game and Fish Department]], and the U.S. Fish and Wildlife Service, catalogs the fishes found in Colorado...
+> -- *[[GuideToTheFishesOfColorado_PML0185]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -4344,6 +5645,23 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[ProductiveCapacityOfCanadianFi_16874]]
 - [[FishEggsAndLarvaeOfTheUpperChe_19101]]
 - [[OzoneDisinfectionAndAquaticTox_PML2066]]
+- [[CompetitionForFoodBetweenCrayf_PML1692]]
+- [[ToxapheneAsAFishToxin_PML1019]]
+- [[HabitatUtilizationAndMovementO_PML2288]]
+- [[InterimProceduresForStockingNo_PML2701]]
+- [[GapeLimitationAndPiscinePreySi_PML2514]]
+- [[ArizonaWarmwaterSportfisheries_PML0102]]
+- [[MinutesOfMeetingOnEndangeredSp_PML1506]]
+- [[ProceduresForStockingNonnative_PML0958]]
+- [[LakeSuckerLifeHistoryAndManage_PML2320]]
+- [[AnalysisOfFishPopulationMonito_PML1401]]
+- [[LiveWildlifeRules_PML0114]]
+- [[TheRoleOfSizeConditionAndLipid_PML2501]]
+- [[FishesOfTheUpperColoradoRiverS_PML1721]]
+- [[AmericasCarp_PML1925]]
+- [[BasicSurveyOfVerdeRiverAndItsO_PML2806]]
+- [[EcologicalStudiesOfFloraAndFau_PML2920]]
+- [[GuideToTheFishesOfColorado_PML0185]]
 
 ## Yellow Pike Perch
 
@@ -4587,6 +5905,27 @@ Pelamis platurus, a sea snake that is widely distributed in tropical waters of t
 > This 1999 final draft, prepared for the [[Commission for Environmental Cooperation]] (CEC) Secretariat by an interdisciplinary San Pedro Expert Study Team, assesses how base water flows can be maintained to sustain the riparian corridor of the upper San Pedro River. The corridor is a critical...
 > -- *[[SustainingAndEnhancingRiparian_20514]]*
 
+> This interagency memorandum from [[Arizona State University]] (Minckley, Velasco and Timmons, Department of Zoology) transmits seine-sampling and habitat data for [[Aravaipa Creek]], Arizona, collected 25–26 June 1994. Sampling covered east-end and west-end stream reaches, including canyon-bound...
+> -- *[[MonitoringDataAravaipaCreekJun_PML1887]]*
+
+> This Federal Register notice (Volume 65, Number 134, July 12, 2000) announces that the [[Bureau Of Reclamation]] and the [[Fish And Wildlife Service]] will jointly prepare an Environmental Impact Statement/Environmental Impact Report (EIS/EIR) for a proposed [[Multi-Species Conservation Program]]...
+> -- *[[SupplementalNoticeOfIntentToPr_PML0776]]*
+
+> This 1993 Federal Register proposed rule from the [[U.S. Fish And Wildlife Service]] (Service) proposes listing the [[Southwestern Willow Flycatcher]] (*Empidonax traillii extimus*) as an endangered species under the [[Endangered Species Act]] of 1973, and designating its critical habitat. The...
+> -- *[[EndangeredAndThreatenedWildlif_PML0753]]*
+
+> This plan, prepared in January 2008 for the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP), describes the design, construction, planting, monitoring and management of the Imperial Ponds Conservation Area on [[Imperial National Wildlife Refuge]] in Arizona. The LCR MSCP is a...
+> -- *[[LowerColoradoRiverMultispecies_PML2563]]*
+
+> This draft Environmental Assessment (EA), prepared by the [[U.S. Fish and Wildlife Service]] (Service) in March 2007 with the [[Arizona Game and Fish Department]] (AGFD), evaluates the renovation of [[Stillman Lake]] in the headwaters of the [[Verde River]], Arizona. The purpose is to restore and...
+> -- *[[DraftEnvironmentalAssessmentFo_PML2643]]*
+
+> This graduate thesis documents a 1992–1993 study of trace element and organochlorine contamination in the [[Bill Williams River]] and its floodplain, within the [[Bill Williams River National Wildlife Refuge]] (NWR) in western Arizona. The work was funded by the U.S. Fish and Wildlife Service...
+> -- *[[TraceElementContaminationInFis_PML2271]]*
+
+> This document is the raw working record (presentation notes, transcripts, planning memos, correspondence, panelist bios, and draft reports) of the [[2009 Gila Science Forum]] held 3 June 2009 at Western New Mexico University, Silver City. Six panelists addressed four questions on the potential...
+> -- *[[GilaScienceForumPaulCMarshPres_PML1513]]*
+
 ### Mentioned In
 - [[NotesFromMayMeetingLowerColora_1997_05_28]]
 - [[ChangesInRiparianVegetationAnd_14524]]
@@ -4602,6 +5941,13 @@ Pelamis platurus, a sea snake that is widely distributed in tropical waters of t
 - [[ProposedProjectsForFundingFisc_19818]]
 - [[UniqueWatersNominationBonitaCr_11620]]
 - [[SustainingAndEnhancingRiparian_20514]]
+- [[MonitoringDataAravaipaCreekJun_PML1887]]
+- [[SupplementalNoticeOfIntentToPr_PML0776]]
+- [[EndangeredAndThreatenedWildlif_PML0753]]
+- [[LowerColoradoRiverMultispecies_PML2563]]
+- [[DraftEnvironmentalAssessmentFo_PML2643]]
+- [[TraceElementContaminationInFis_PML2271]]
+- [[GilaScienceForumPaulCMarshPres_PML1513]]
 
 ## Yellow-Breasted Chat
 
@@ -4630,6 +5976,18 @@ Yellow-finned cutthroat trout is a native fish species that has been extirpated 
 
 ### Mentioned In
 - [[PrimaryProductivityCAtTwinLake_12652]]
+
+## Yellow-Headed Blackbird
+
+### Summary
+The Yellow-Headed Blackbird is a North American marsh-nesting songbird of the blackbird family. In this report it is listed among the abundant bird species recorded in the Cienega de Santa Clara bird surveys.
+
+### Context
+> Field Report No. 1 documents preliminary field studies of the Cienega de Santa Clara, a brackish-to-saline wetland in the Colorado River Delta of Sonora, Mexico, conducted October 13–18, 1992, with supplementary flora surveys on November 22–23, 1992. The work was undertaken to document hydrology,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_PML0401]]*
+
+### Mentioned In
+- [[FieldReportNoStudyOfCienegaDeS_PML0401]]
 
 ## Yellow-nosed Cotton Rat
 
@@ -4715,9 +6073,13 @@ Yellowfin cutthroat trout (Salmo clarki macdonaldi) is a cutthroat subspecies kn
 > This Colorado Division of Wildlife report (Division Report No. 12, June 1985, by William J. Wiltzius) is a historical account of private, federal and state fish culture and the stocking of fishes in Colorado from 1872 to 1978. It was written to document the introduction and stocking of exotic...
 > -- *[[FishCultureAndStockingInColora_12110]]*
 
+> This 1976 Bureau of Land Management (BLM) Technical Note, written by James E. Johnson of the [[Colorado State Office]], reviews the status of endangered and threatened fishes in Colorado. It covers four [[Cutthroat Trout]] subspecies of the genus *Salmo* and four native minnows and suckers of the...
+> -- *[[StatusOfEndangeredAndThreatene_PML1217]]*
+
 ### Mentioned In
 - [[StatusOfEndangeredAndThreatene_19769]]
 - [[FishCultureAndStockingInColora_12110]]
+- [[StatusOfEndangeredAndThreatene_PML1217]]
 
 ## Yellowfin Goby
 <!-- fm: auto_enriched: true -->
@@ -4751,11 +6113,27 @@ The Yellowfin Madtom is a fish species with special regulatory designations unde
 > This 1995 study (Bulletin Alabama Museum of Natural History 18:43-69) by [[Gerald R. Dinkins]] and [[Peggy W. Shute]] documents the life histories of two rare madtom catfishes, the federally endangered [[Smoky Madtom]] (*Noturus baileyi*) and the federally threatened [[Yellowfin Madtom]] (*N....
 > -- *[[LifeHistoriesOfNoturusBaileyiA_12867]]*
 
+> This document is the 1991 annual index (Volume XVI) of the [[Endangered Species Technical Bulletin]], published by the U.S. Department of the Interior, Fish and Wildlife Service. It is not a research paper. It is a dated subject and species index that points to bulletin items on listings, recovery...
+> -- *[[EndangeredSpeciesTechnicalBull_PML2678]]*
+
 ### Mentioned In
 - [[PartEndangeredAndThreatenedWil_11612]]
 - [[EndangeredAndThreatenedWildlif_18279]]
 - [[ReproductiveBehaviorCaptiveBre_16732]]
 - [[LifeHistoriesOfNoturusBaileyiA_12867]]
+- [[EndangeredSpeciesTechnicalBull_PML2678]]
+
+## Yellowfin Shiner
+
+### Summary
+Notropis lutipinnis is a small freshwater minnow of the family Cyprinidae found in southeastern U.S. streams. This study tested its upper thermal limits, finding a critical thermal maximum near 29–30°C at the slower heating rates. Acclimation to a warmer constant temperature raised its lethal limit to about 33°C in the authors' tests.
+
+### Context
+> This study measures the upper thermal limits of stream [[Cyprinidae|cyprinid]] minnows, mainly the [[Yellowfin Shiner]] and [[Dusky Shiner]], with a small comparison group of [[Creek Chub]]. The authors used the [[Critical Thermal Maximum]] (CTM), defined as the temperature at which fish lose...
+> -- *[[ThermalToleranceOfStreamCyprin_PML1644]]*
+
+### Mentioned In
+- [[ThermalToleranceOfStreamCyprin_PML1644]]
 
 ## Yellowfin Sole
 
@@ -4880,6 +6258,18 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 > This 1992 *Trout* magazine feature, the first part of a series, argues by [[Ray J. White]] that [[Wild Fish]] matter for biological, management and economic reasons, and that [[Hatchery Management]] and stocking have repeatedly failed to deliver long-term fish abundance while damaging wild...
 > -- *[[WhyWildFishMatterABiologistsVi_12195]]*
 
+> This Bureau of Reclamation applied sciences memorandum (Referral Memorandum No. 93-2-6) reports a 1992 comparison of [[Hydroacoustics]] and active and passive netting for monitoring fish in [[Buffalo Bill Reservoir]], impounded by [[Buffalo Bill Dam]] on the [[Shoshone River]]. Surveys were run in...
+> -- *[[HydroacousticAndFishNettingSur_PML1942]]*
+
+> This review by [[Allendorf]] and [[Leary]] (*Conservation Biology*, Vol. 2, No. 2, June 1988) examines the conservation genetics of the polytypic [[Cutthroat Trout]]. At least 16 subspecies are recognized, and their genetic divergence ranges from levels typical of conspecific populations to levels...
+> -- *[[ConservationAndDistributionOfG_PML0027]]*
+
+> This 1976 Bureau of Land Management (BLM) Technical Note, written by James E. Johnson of the [[Colorado State Office]], reviews the status of endangered and threatened fishes in Colorado. It covers four [[Cutthroat Trout]] subspecies of the genus *Salmo* and four native minnows and suckers of the...
+> -- *[[StatusOfEndangeredAndThreatene_PML1217]]*
+
+> This mid-twentieth-century identification guide, prepared by W. Harry Brickley of the [[Colorado Cooperative Fishery Research Unit]] and sponsored by Colorado A&M College, the [[Colorado Game and Fish Department]], and the U.S. Fish and Wildlife Service, catalogs the fishes found in Colorado...
+> -- *[[GuideToTheFishesOfColorado_PML0185]]*
+
 ### Mentioned In
 - [[LifeHistoryOfTheCutthroatTrout_1951]]
 - [[ObservationsOnTheLongnoseSucke_1954]]
@@ -4898,6 +6288,10 @@ The Yellowstone Cutthroat Trout is a native salmonid species historically endemi
 - [[TheIntroducedFishesOfNevadaWit_15388]]
 - [[ThreatenedFishesOfUtah_20470]]
 - [[WhyWildFishMatterABiologistsVi_12195]]
+- [[HydroacousticAndFishNettingSur_PML1942]]
+- [[ConservationAndDistributionOfG_PML0027]]
+- [[StatusOfEndangeredAndThreatene_PML1217]]
+- [[GuideToTheFishesOfColorado_PML0185]]
 
 ## Yellowstone Drainage
 <!-- fm: auto_enriched: true -->
@@ -4950,10 +6344,14 @@ A 109-foot waterfall about 12 miles downstream of Yellowstone Lake. The source i
 > J. H. Stewart's Geological Society of America Memoir 152 review synthesizes the origin and development of [[Basin-Range Structure]] across more than 1,500 km of the western Cordillera of North America. The structure consists of alternating elongate mountain ranges and alluviated basins produced by...
 > -- *[[BasinrangeStructureInWesternNo_14837]]*
 
+> This 1978 symposium paper by Gerald R. Smith analyzes the distribution of the native fishes of the [[Intermountain Region]], an area bounded by the [[Sierra Nevada]], [[Grand Canyon]], [[Rocky Mountains]], and [[Snake River Plain]]. The fauna comprises 83 species, with the abstract listing 26...
+> -- *[[BiogeographyOfIntermountainFis_PML2393]]*
+
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
 - [[CenozoicPlateTectonicSettingOf_12849]]
 - [[BasinrangeStructureInWesternNo_14837]]
+- [[BiogeographyOfIntermountainFis_PML2393]]
 
 ## Yellowstone Lake
 <!-- fm: auto_enriched: true -->
@@ -4977,6 +6375,12 @@ A 109-foot waterfall about 12 miles downstream of Yellowstone Lake. The source i
 > This paper by [[Winifred E. Frost]] of the [[Freshwater Biological Association]] examines the breeding behaviour of the [[Windermere Charr]] (*Salvelinus willughbii*, Günther), a charr of the English [[Lake District]]. The study identifies two reproductively isolated populations in [[Windermere]],...
 > -- *[[TheHomingOfCharrSalvelinusWill_18854]]*
 
+> This document is a forwarded email (June 19, 2000) containing a reprinted [[Los Angeles Times]] article by Usha Lee McFarling on the spread of nonnative fish in U.S. ponds, lakes, rivers and streams. The article reports, citing a study by [[Frank Rahel]] (University of Wyoming, published in...
+> -- *[[NonnativeSpeciesAreBigFishInUs_PML1645]]*
+
+> This study by [[Scoppettone]], [[Coleman]], and [[Wedemeyer]] (U.S. Fish and Wildlife Service) examines the endangered [[Cui-ui]] (*[[Chasmistes Cujus]]*), a [[Catostomidae|catostomid]] endemic to [[Pyramid Lake]], Nevada. Adults congregate off the mouth of the [[Truckee River]] from mid-March to...
+> -- *[[LifeHistoryAndStatusOfTheEndan_PML2317]]*
+
 ### Mentioned In
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[NativeRockyMountainTroutAndSto_17773]]
@@ -4985,6 +6389,8 @@ A 109-foot waterfall about 12 miles downstream of Yellowstone Lake. The source i
 - [[ASerologicalStudyOfCutthroatTr_20320]]
 - [[ParasitesOfFishesInUtahMethods_20754]]
 - [[TheHomingOfCharrSalvelinusWill_18854]]
+- [[NonnativeSpeciesAreBigFishInUs_PML1645]]
+- [[LifeHistoryAndStatusOfTheEndan_PML2317]]
 
 ## Yellowstone Lake Cutthroat Trout
 
@@ -5065,6 +6471,12 @@ The nonprofit that published this 1970 booklet on Yellowstone fishes and fishing
 > This 1939 pamphlet by James R. Simon, published by the Yellowstone Library and Museum Association, is an angler's and naturalist's guide to the fishes of [[Yellowstone National Park]]. It was written to update [[Smith and Kendall 1921]], which predated taxonomic revisions and stocking changes, and...
 > -- *[[YellowstoneFishes_18992]]*
 
+> This mathematical biology paper develops a stochastic, spatially explicit model of animal movement, the mechanistic RSA (MERSA) model, in which an individual's next move is biased by the habitat preference of its local surroundings within a length scale L. The authors derive a closed-form...
+> -- *[[AnalyticSteadystateSpaceUsePat_PML0176]]*
+
+> This paper reviews the status of [[Gray Wolf]] ([[Canis Lupus]]) restoration in Montana, Idaho, and Wyoming through 1 November 1998. Wolves were eliminated from the region by the 1930s and returned naturally from southwestern Canada. Following the [[Recovery Plan]] (1987), wolves were reintroduced...
+> -- *[[StatusOfGrayWolfRestorationInM_PML0169]]*
+
 ### Mentioned In
 - [[ObservationsOnTheLongnoseSucke_1954]]
 - [[TheRoleAndResponsibilitiesOfTh_19662]]
@@ -5083,6 +6495,8 @@ The nonprofit that published this 1970 booklet on Yellowstone fishes and fishing
 - [[SomeEffectsOfDdtOnColdWaterFis_20584]]
 - [[WhyWildFishMatterABiologistsVi_12195]]
 - [[YellowstoneFishes_18992]]
+- [[AnalyticSteadystateSpaceUsePat_PML0176]]
+- [[StatusOfGrayWolfRestorationInM_PML0169]]
 
 ## Yellowstone River
 <!-- fm: auto_enriched: true -->
@@ -5145,11 +6559,15 @@ The site where the Yellowstone River enters Yellowstone Lake in the southeast ar
 > This 1987 special report by [[Lee H Simons]] of the [[Arizona Game And Fish Department]] assesses the status of the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in the United States under Project E-1 of Title VI of the [[Endangered Species Act]]. The subspecies was listed as...
 > -- *[[StatusOfTheGilaTopminnowPoecil_18996]]*
 
+> This Arizona Game and Fish Department (AGFD) Technical Report 100, a draft by [[David A. Weedman]] and [[Kirk L. Young]], reviews [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites across Arizona and provisionally declares a large number of them extirpated. The...
+> -- *[[GilaTopminnowSitesInArizonaPro_PML2858]]*
+
 ### Mentioned In
 - [[StatusOfPoeciliopsisOOccidenta_1984_07_25]]
 - [[GilaTopminnowSitesInArizonaPro_19668]]
 - [[DraftProposedCriteriaForDesign_14776]]
 - [[StatusOfTheGilaTopminnowPoecil_18996]]
+- [[GilaTopminnowSitesInArizonaPro_PML2858]]
 
 ## Yellowstone Whitefish
 <!-- fm: auto_enriched: true -->
@@ -5291,11 +6709,31 @@ A tree listed as Rare-1 in the 1975 Oklahoma report, meaning it is not presently
 > This draft proposal, dated 6 May 1996, sets out a plan to restore the [[Middle Spring]] (S2) system at the [[Bylas Springs]] complex on the [[San Carlos Apache Reservation]] and to reintroduce [[Gila Topminnow]] of S2 lineage. The authors are staff of the [[U.S. Fish And Wildlife Service]] (Arizona...
 > -- *[[DraftProposalMiddleSpringSAndT_20270]]*
 
+> This proposal (28 May 1996) from the [[Arizona Fishery Resources Offices]], the [[U.S. Fish And Wildlife Service]] and the [[San Carlos Apache Tribe]] seeks to restore the spring system of S2 at [[Bylas Springs]] and reintroduce the endangered [[Sonoran Topminnow]], also called the Gila topminnow....
+> -- *[[MiddleSpringSAndTheEndangeredG_PML2715]]*
+
+> This Arizona Game and Fish Department (AGFD) technical report, authored by Jeremy B. Voeltz and Robert H. Bettaso (December 2003), summarizes the status of two endangered fishes, the [[Gila Topminnow]] and the [[Desert Pupfish]], based on monitoring from 1998 through 2003. Both species declined...
+> -- *[[StatusOfTheGilaTopminnowAndDes_PML2802]]*
+
 ### Mentioned In
 - [[PupfishPopulationSupplementPeo_1988_09_20]]
 - [[AnUpdateStatusReportOfTheSonor_13824]]
 - [[IntroductionOfGilaTopminnowAnd_17957]]
 - [[DraftProposalMiddleSpringSAndT_20270]]
+- [[MiddleSpringSAndTheEndangeredG_PML2715]]
+- [[StatusOfTheGilaTopminnowAndDes_PML2802]]
+
+## Yerba Mansa Spring
+
+### Summary
+A spring on BLM land where Gila topminnow were present during the study period. The source notes that it lies outside the species' historic range, so it is a reestablishment site rather than a native one.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) technical report documents monitoring and management of two endangered desert fishes, [[Gila Topminnow]] and [[Desert Pupfish]], on [[Bureau of Land Management]] (BLM) lands from October 2002 through October 2003. The work was funded through a BLM...
+> -- *[[GilaTopminnowAndDesertPupfishM_PML2803]]*
+
+### Mentioned In
+- [[GilaTopminnowAndDesertPupfishM_PML2803]]
 
 ## Yerger 1977
 <!-- fm: auto_enriched: true -->
@@ -5338,8 +6776,12 @@ Yermo is a location in San Bernardino County, California where United Energy Cor
 > This report by the Arizona Game and Fish Department documents a multi-year pathological investigation (1990–1993) of [[Rainbow Trout]] (*Oncorhynchus mykiss*) in the [[Lee's Ferry]] tailwater fishery of the Colorado River, Arizona. Beginning in 1990, biologists observed widespread malnutrition an...
 > -- *[[LeeSFerryTroutPathologicalEval_12696]]*
 
+> This compiled document is a set of U.S. Fish and Wildlife Service (Service) policy drafts, guidelines and supporting material for the controlled propagation of imperiled fish species within the [[National Fish Hatchery System]] (NFHS), with a focus on Region 6 (Mountain-Prairie). It covers the...
+> -- *[[GuidelinesForDirectingControll_PML2714]]*
+
 ### Mentioned In
 - [[LeeSFerryTroutPathologicalEval_12696]]
+- [[GuidelinesForDirectingControll_PML2714]]
 
 ## Yewleaf Willow
 
@@ -5374,8 +6816,12 @@ Yield per recruit models estimate the long-term yield obtainable from each fish 
 > This document is FAO Fisheries Circular No. 746 (April 1982), edited by J.F. Caddy of the [[FAO Fisheries Department]]'s Marine Resources Service. It is an annotated, provisional catalogue of computer programmes used in [[Fish Stock Assessment]] that participating fisheries institutes are willing...
 > -- *[[ProvisionalWorldListOfComputer_17320]]*
 
+> This synthesis paper, published in *Ecological Applications* (Supplement, 2003), distills existing theoretical and modeling results into general principles for designing [[Marine Reserves]]. The authors, from the University of California, Davis and the University of Pisa, note that marine reserve...
+> -- *[[PrinciplesForTheDesignOfMarine_PML0256]]*
+
 ### Mentioned In
 - [[ProvisionalWorldListOfComputer_17320]]
+- [[PrinciplesForTheDesignOfMarine_PML0256]]
 
 ## Yield-Per-Recruit
 
@@ -5407,11 +6853,35 @@ This is the research laboratory where the *Tilapia galilaea* fish were held for 
 ### Mentioned In
 - [[ParticleIngestionByTilapiaGali_19137]]
 
+## Yokuts
+
+### Summary
+The Yokuts were Indigenous people of the Central Valley and Sierra foothills who fished the Sacramento and San Joaquin rivers, where salmon ran. The source says they used both individual and cooperative fishing methods, and that large king salmon were a major food source.
+
+### Context
+> This document is an ethnographic and archaeological compilation on how Indigenous peoples of arid western North America and central Mexico used lakes, rivers, marshes and coastal waters for food, tools and materials. Fish are one strand among many. Most of the text covers wild plants, mammals,...
+> -- *[[HandbookOfIndianFoodsAndFibers_PML0651]]*
+
+### Mentioned In
+- [[HandbookOfIndianFoodsAndFibers_PML0651]]
+
 ## Yoldia Sea
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[RelictFaunaOfEnnerdaleWaterAPr_1959_10_31]]
+
+## Yolk Absorption
+
+### Summary
+The process by which a newly hatched fish larva uses up the nutrient reserve in its yolk sac and must begin capturing external food. In this source, yolk absorption in razorback sucker larvae was estimated at about 8 days post-hatch, based on yolk presence in dead larvae and on Minckley & Gustafson (1982). Its end marks the start of the period when starvation becomes a serious risk.
+
+### Context
+> This laboratory study tests whether food limitation contributes to recruitment failure in the [[Razorback Sucker]], a large endemic fish of the [[Colorado River Basin]]. Adults in [[Lake Mohave]] (Arizona-Nevada) reproduce each year, yet no recruitment to the adult population has been detected for...
+> -- *[[FoodLimitedSurvivalOfLarvalRaz_PML2081]]*
+
+### Mentioned In
+- [[FoodLimitedSurvivalOfLarvalRaz_PML2081]]
 
 ## Yolk Darter
 
@@ -5448,6 +6918,18 @@ Yolk sac absorption is the point at which a newly hatched fish has used up its i
 
 ### Mentioned In
 - [[TheEffectOfFoodAvailabilityOnG_18413]]
+
+## Yolk Sac Larva
+
+### Summary
+The earliest post-hatching larval stage, when the young fish still draws nourishment from the attached yolk sac. The manual's glossary defines yolk sac larval stages as a morphological reference for identifying developing fishes.
+
+### Context
+> This December 1974 identification manual, prepared by Alice J. HipPson and R. Lynn Moran of the Martin Marietta Corporation Environmental Technology Center and sponsored by the Power Plant Siting Program of the Maryland Department of Natural Resources, provides illustrated keys and life-history...
+> -- *[[ManualForIdentificationOfEarly_PML1370]]*
+
+### Mentioned In
+- [[ManualForIdentificationOfEarly_PML1370]]
 
 ## Yolk-Sac Syncytium
 
@@ -5622,6 +7104,18 @@ A review of the historical abundance and decline of Central Valley chinook salmo
 ### Mentioned In
 - [[ANewSpeciesOfLaccobiusFromTheG_1968_12_30]]
 
+## Young American Shad
+
+### Summary
+A North American shad species cited in the manuscript as an example of fish studied for cold-shock responses. The source uses it for literature comparison, and the note does not report its specific results.
+
+### Context
+> This document is a manuscript by Charles R. Berry, Jr., submitted with a cover letter to peer reviewer Dr. Paul C. Marsh (Center for Environmental Studies, Arizona State University). The cover letter is from the [[South Dakota Cooperative Fish & Wildlife Research Unit]], South Dakota State...
+> -- *[[EffectsOfColdShockOnColoradoSq_PML0196]]*
+
+### Mentioned In
+- [[EffectsOfColdShockOnColoradoSq_PML0196]]
+
 ## Young Block Gravel Pit Ponds
 
 ### Summary
@@ -5651,6 +7145,30 @@ The distribution of young fish in the river, assessed in the memo by seining dur
 
 ### Mentioned In
 - [[AccumulationAndRetentionOfRadi_1957]]
+
+## Young-Of-The-Year Squawfish
+
+### Summary
+Colorado squawfish in their first year of life, from the Colorado Squawfish species described in the source. The project ran a 1979 survey to map their distribution and recruitment, with limited work on their use of backwaters. Food habits of young squawfish and more backwater and hydraulic studies were scheduled for the following year.
+
+### Context
+> This methods paper, written by Harold Tyus and Richard Valdez of the [[U.S. Fish and Wildlife Service]] [[Colorado River Fisheries Project]], describes how the project studies two endangered cyprinids, the [[Colorado Squawfish]] and the [[Humpback Chub]], in the mainstem of the Upper Colorado and...
+> -- *[[FieldMethodologiesOfTheFishAnd_PML0067]]*
+
+### Mentioned In
+- [[FieldMethodologiesOfTheFishAnd_PML0067]]
+
+## Young-Of-Year Fish
+
+### Summary
+Young-of-year (YOY) fish are fish in their first year of life. In this study, YOY flannelmouth suckers were defined as individuals under about 90 mm total length, and their abundance at the Paria River mouth was used as the measure of recruitment success.
+
+### Context
+> This study examines why [[Flannelmouth Sucker]] (*Catostomus latipinnis*) recruit poorly to adult size in the [[Colorado River]] below [[Glen Canyon Dam]]. The authors hypothesized that a lack of persistent warm rearing areas for [[Young-Of-Year Fish]] (YOY) limits recruitment. They studied the...
+> -- *[[EffectsOfPoolFormationAndFlash_PML2499]]*
+
+### Mentioned In
+- [[EffectsOfPoolFormationAndFlash_PML2499]]
 
 ## Young-Of-Year Fish Habitat
 <!-- fm: auto_enriched: true -->
@@ -5705,6 +7223,18 @@ Youngs Bay is a location in the Columbia River where adult returning Chinook sal
 
 ### Mentioned In
 - [[SizeAtReleaseSizeselectiveMort_2011]]
+
+## Youth Conservation Corps
+
+### Summary
+A federal youth employment program whose crew, led by Terry Dupree and Mitchell Daubert, worked at Dexter NFH in 1980. The crew renovated ponds, installed drainlines, and assisted with hatchery maintenance and stream habitat work, which the report says saved significant money without sacrificing quality.
+
+### Context
+> This 1980 annual report from [[Dexter National Fish Hatchery]] (Dexter NFH) describes the station's shift from warmwater sport fish production to the holding, propagation and rearing of rare, threatened and endangered southwestern fishes. In 1980 the station held 14 species and two hybrid chubs....
+> -- *[[AnnualReportDexterNationalFish_PML1180]]*
+
+### Mentioned In
+- [[AnnualReportDexterNationalFish_PML1180]]
 
 ## Ypsiscarus
 
@@ -6070,6 +7600,9 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 > This 1951 survey by [[Robert Rush Miller]] (University of Michigan) identifies the bait fishes sold along the [[Lower Colorado River]] between [[Lake Mead]], Nevada, and [[Yuma]], Arizona. It provides a dichotomous identification key covering 32 species, records the known or probable origin of...
 > -- *[[CommunityStructureOfBenthicMac_15163]]*
 
+> This ethnographic article by [[Kenneth M Stewart]] describes the fish that the [[Mohave People]] caught in aboriginal times along the lower [[Colorado River]], the fishing techniques they used, and the cultural beliefs that governed fishing. The article reports that the construction of [[Laguna...
+> -- *[[MohaveFishing_PML2464]]*
+
 ### Mentioned In
 - [[LectureNotesFromBiologyClass_13784]]
 - [[SummaryOfJulyMeetingOnCentralA_20608]]
@@ -6081,6 +7614,19 @@ Yuma is a city in southwestern Arizona at very low elevation. The lecture notes 
 - [[SportOnTheLowerColorado_19172]]
 - [[RestorationStrategiesForTheLow_18459]]
 - [[CommunityStructureOfBenthicMac_15163]]
+- [[MohaveFishing_PML2464]]
+
+## Yuma Area
+
+### Summary
+The Yuma Area is the region around Yuma along the lower Colorado River, where the study's canal and river sampling took place. The source names it as one of the locations covered in the paper's survey of canals and drains connected to the lower river.
+
+### Context
+> This paper by [[Paul C. Marsh]] and [[W. L. Minckley]] (*Great Basin Naturalist*, Vol. 49, No. 1, January 1989) reviews the status of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the lower [[Colorado River]] basin. The species was once abundant and endemic to the basin but had become rare,...
+> -- *[[ObservationsOnRecruitmentAndEc_PML1567]]*
+
+### Mentioned In
+- [[ObservationsOnRecruitmentAndEc_PML1567]]
 
 ## Yuma Area Office
 
@@ -6263,6 +7809,75 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
 > -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
 
+> This Federal Register notice (Volume 65, Number 134, July 12, 2000) announces that the [[Bureau Of Reclamation]] and the [[Fish And Wildlife Service]] will jointly prepare an Environmental Impact Statement/Environmental Impact Report (EIS/EIR) for a proposed [[Multi-Species Conservation Program]]...
+> -- *[[SupplementalNoticeOfIntentToPr_PML0776]]*
+
+> This document is a cover letter and two annual activity reports (December 1991–November 1992 and December 1992–November 1993) filed by the [[Arizona Game And Fish Department]] (AGFD) as a subpermittee of the [[U.S. Fish And Wildlife Service]] (USFWS) Region 2 [[Blanket Permit PRT-676811]] under the...
+> -- *[[ReportOnPrtActivityFromDecembe_PML2359]]*
+
+> This memorandum and attached biological opinion, issued by the U.S. Fish and Wildlife Service in June 1990, evaluates a proposal to reintroduce juvenile [[Colorado Squawfish]] (*Ptychocheilus lucius*), a federally listed endangered species, into the [[Colorado River]] mainstream between [[Headgate...
+> -- *[[IntraserviceSectionConsultatio_PML1684]]*
+
+> This document is a set of critical comments by W. L. Minckley (Arizona State University, Department of Biology) on the U.S. Fish and Wildlife Service's 1997 [[Biological Opinion]] for [[Lower Colorado River]] operations and maintenance, from [[Lake Mead]] to the Southerly International Boundary....
+> -- *[[LowerColoradoRiverBiologicalOp_PML1752]]*
+
+> This document is the **Literature Cited** section of a 1986 final report on revegetation work in riparian habitat, prepared for the Department of Fish and Game and associated with a 25-acre plot project. The OCR text is badly degraded, so the title and author block are only partly legible. The...
+> -- *[[LiteratureCited_PML2041]]*
+
+> This [[Biological Evaluation]], prepared by the [[Bureau of Land Management]] (Lake Havasu Field Office) for the [[U.S. Fish and Wildlife Service]] and dated 20 August 1996, assesses the effects of using two tertiary treatment ponds at the [[Lake Havasu City Wastewater Treatment Plant]] to grow...
+> -- *[[BiologicalEvaluationForDevelop_PML0592]]*
+
+> This BioScience feature (December 2001) by Jeffrey P. Cohn examines efforts to restore [[Riparian Habitat]] and native fish along the [[Colorado River]] after more than a century of dam building, diversion, and flow regulation. The river is now among the most controlled in the world, and its...
+> -- *[[ResurrectingTheDammedALookAtCo_PML0471]]*
+
+> This document is a review packet issued by the [[Arizona Game and Fish Department]] (Nongame Branch) in August 1987. It invites expert comment on a proposed revision of the state's List of Threatened Native Wildlife, last revised in 1982. The packet contains a cover letter, ground rules for...
+> -- *[[ProposedThreatenedAndEndangere_PML0095]]*
+
+> This draft environmental assessment (EA), prepared in September 1990 by the [[Bureau of Reclamation]] (Yuma Projects Office), evaluates a proposed restoration of two off-channel backwaters, A-7 and C-5, on the [[Colorado River]] in the [[Palo Verde Division]]. The backwaters have silted in, lost...
+> -- *[[DraftEnvironmentalAssessmentRe_PML2572]]*
+
+> This 1983 report, prepared for the [[Bureau Of Reclamation]] (Lower Colorado Regional Office) by the California Department of Fish and Game, inventories two aquatic species in the Yuma Division of the [[Lower Colorado River]]: the crayfish [[Procambarus Clarkii]] and the [[Spiny Softshell Turtle]]....
+> -- *[[InventoryOfCrayfishProcambarus_PML1380]]*
+
+> This note covers a 1990 draft Environmental Assessment (EA) prepared by the [[Bureau of Reclamation]] for the Parker II Channel Modification Project on the Lower Colorado River, together with a cover letter and an agency review letter from Paul F. Marsh (Associate Research Professor, Arizona State...
+> -- *[[DraftEnvironmentalAssessmentPa_PML2571]]*
+
+> This report from the [[Arizona Cooperative Fishery Research Unit]] (University of Arizona, Tucson) examines whether [[Typha latifolia]] (broadleaf cattail) supports the sport fishery of [[Imperial Reservoir]], a eutrophic, partly brackish reservoir on the [[Lower Colorado River]] in Arizona and...
+> -- *[[TheEcologyOfTyphaLatifoliaInIm_PML0952]]*
+
+> This Arizona Game and Fish Department publication, approved by the [[Arizona Game and Fish Commission]] at a public meeting on July 21, 1988, presents the state's official Threatened Native Wildlife (TNW) list. The list covers 116 taxa (species or subspecies) across fish, amphibians, reptiles,...
+> -- *[[ThreatenedNativeWildlifeInAriz_PML0097]]*
+
+> This Design Workshop Draft Report sets out a redesign of the [[Du2 Ponds]] complex on the [[Imperial National Wildlife Refuge]] (INWR), about 30 miles north of Yuma, Arizona. The site was built under the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP) to serve as a [[Native...
+> -- *[[DesignWorkshopFinalReportImper_PML0253]]*
+
+> This U.S. Fish and Wildlife Service Region 2 Contaminants Program report (May 1997; Brenda J. Andrews, Kirke A. King, and Denise L. Baker) presents the first comprehensive assessment of organochlorine pesticides and trace elements in the aquatic ecosystem of [[Havasu National Wildlife Refuge]]...
+> -- *[[EnvironmentalContaminantsInFis_PML0060]]*
+
+> This Bureau of Reclamation design workshop report (July 2005) presents a redesign of the [[DU2 Ponds]] at [[Imperial National Wildlife Refuge]] (INWR) in Arizona. The original four-cell pond complex failed as a [[Native Fish Sanctuary]] for [[Razorback Sucker]]: stocked fish declined from about 658...
+> -- *[[ImperialNationalWildlifeRefuge_PML2581]]*
+
+> This plan, prepared in January 2008 for the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP), describes the design, construction, planting, monitoring and management of the Imperial Ponds Conservation Area on [[Imperial National Wildlife Refuge]] in Arizona. The LCR MSCP is a...
+> -- *[[LowerColoradoRiverMultispecies_PML2563]]*
+
+> This design workshop report, prepared for the [[Bureau of Reclamation]] Lower Colorado Region (July 11, 2005), presents a redesign of the DU2 Ponds at the [[Imperial National Wildlife Refuge]] (INWR). The original pond complex was built as a native fish sanctuary for [[Razorback Sucker]]...
+> -- *[[DesignWorkshopFinalReportImper_PML0254]]*
+
+> This is a [[Bureau of Reclamation]] Final Environmental Statement, prepared under Public Law 93-320, for the Coronado River Basin Salinity Control Project, Title I. The project addresses high-salinity drainage from the [[Wellton-Mohawk Division]] that is discharged into the [[Colorado River]]. Its...
+> -- *[[FinalEnvironmentalStatementCol_PML2599]]*
+
+> This compiled document gathers US Fish and Wildlife Service (FWS) regulatory material on native cyprinids of the [[Colorado River Basin]]. It covers the 1980 final rule listing the [[Bonytail Chub]] as endangered, the 1985 rule designating reintroduced [[Colorado Squawfish]] and [[Woundfin]] as...
+> -- *[[BonytailChubDeterminationAsAnE_PML0724]]*
+
+> This environmental assessment, prepared by the [[U.S. Bureau of Reclamation]] with several state and federal partners, proposes restoring, enhancing and protecting backwaters, wetlands, riparian woodland and aquatic habitat along the Lower Colorado River in the Imperial Division. The area lies...
+> -- *[[ImperialDivisionRestorationAnd_PML2579]]*
+
+> Field Report No. 1 documents preliminary field studies of the Cienega de Santa Clara, a brackish-to-saline wetland in the Colorado River Delta of Sonora, Mexico, conducted October 13–18, 1992, with supplementary flora surveys on November 22–23, 1992. The work was undertaken to document hydrology,...
+> -- *[[FieldReportNoStudyOfCienegaDeS_PML0401]]*
+
+> This U.S. Fish and Wildlife Service (Service) Biological and Conference Opinion (BO), transmitted to the Bureau of Reclamation (Reclamation) in 1997, assesses the effects of Reclamation's continuing operations and maintenance of the [[Lower Colorado River]] from [[Lake Mead]] to the Southerly...
+> -- *[[BiologicalAndConferenceOpinion_PML2630]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -6307,6 +7922,29 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[EnvironmentalIssuesInTheColora_18631]]
 - [[OpportunitiesForEcologicalImpr_12940]]
 - [[DraftEnvironmentalAssessmentSa_PML2656]]
+- [[SupplementalNoticeOfIntentToPr_PML0776]]
+- [[ReportOnPrtActivityFromDecembe_PML2359]]
+- [[IntraserviceSectionConsultatio_PML1684]]
+- [[LowerColoradoRiverBiologicalOp_PML1752]]
+- [[LiteratureCited_PML2041]]
+- [[BiologicalEvaluationForDevelop_PML0592]]
+- [[ResurrectingTheDammedALookAtCo_PML0471]]
+- [[ProposedThreatenedAndEndangere_PML0095]]
+- [[DraftEnvironmentalAssessmentRe_PML2572]]
+- [[InventoryOfCrayfishProcambarus_PML1380]]
+- [[DraftEnvironmentalAssessmentPa_PML2571]]
+- [[TheEcologyOfTyphaLatifoliaInIm_PML0952]]
+- [[ThreatenedNativeWildlifeInAriz_PML0097]]
+- [[DesignWorkshopFinalReportImper_PML0253]]
+- [[EnvironmentalContaminantsInFis_PML0060]]
+- [[ImperialNationalWildlifeRefuge_PML2581]]
+- [[LowerColoradoRiverMultispecies_PML2563]]
+- [[DesignWorkshopFinalReportImper_PML0254]]
+- [[FinalEnvironmentalStatementCol_PML2599]]
+- [[BonytailChubDeterminationAsAnE_PML0724]]
+- [[ImperialDivisionRestorationAnd_PML2579]]
+- [[FieldReportNoStudyOfCienegaDeS_PML0401]]
+- [[BiologicalAndConferenceOpinion_PML2630]]
 
 ## Yuma Clapper Rail Recovery Plan
 
@@ -6414,6 +8052,72 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
 > -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
 
+> A November 1994 memorandum from the [[U.S. Fish and Wildlife Service]] Parker office, addressed to a project leader, Region 2 coordinator and interested parties, reports the stocking of an estimated number of [[Bonytail Chub]] (count illegible in the scan) into [[Lake Mohave]], Arizona. The fish...
+> -- *[[StockingOfBonytailChubsIntoLak_PML1774]]*
+
+> A trip report from the [[U.S. Bureau of Reclamation]] (USBR) Fisheries group, assisted by the [[National Park Service]] (NPS), documents the harvest of [[Razorback Sucker]] from several [[Lake Mohave]] backwaters between September 27 and October 2, 2010. The backwaters had been stocked earlier in...
+> -- *[[TripReportLakeMohaveBackwaterH_PML2596]]*
+
+> This Bureau of Reclamation memorandum from Tom Burke to the [[Native Fish Work Group]] (NFWG) reports on the summer 1995 monitoring of juvenile [[Razorback Sucker]] rearing in lakeside backwater ponds around [[Lake Mohave]]. It sets a harvest schedule for October and November, when the lake drops...
+> -- *[[HarvestOfRazorbackSuckersFromL_PML0332]]*
+
+> This March 2011 summary by [[Mansfield & Associates LLC]] (scanned, partly illegible) reports the adult [[Razorback Sucker]] population estimate for [[Lake Mohave]] and the results of the March 2011 [[Roundup]], in which 194 fish were collected and analyzed. The population estimate uses a...
+> -- *[[RazorbackSuckerSummaryLakeMoha_PML2068]]*
+
+> This monitoring report by [[Michael J. Horn]] tracks the growth of larval and early juvenile [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Yuma Cove]] and the adjacent [[Arizona Bay]] of [[Lake Mohave]] during spring 1992. Sampling used nighttime light trapping and dipnetting, plus daytime...
+> -- *[[MonitoringOfLarvalRazorbackSuc_PML1091]]*
+
+> This 1993 study, published in *The Southwestern Naturalist* (Vol. 38, No. 4), tests a light trap for capturing larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]]. The razorback sucker is federally listed as endangered, and its wild population there is threatened by habitat...
+> -- *[[UseOfLarvalLightTrapsToCapture_PML1966]]*
+
+> This final report, prepared by Michael J. Horn and submitted by Paul C. Marsh of [[Arizona State University]] to the [[Bureau of Reclamation]] (order number 1425-2-PG-81-11240, dated 25 May 1992), evaluates whether predation by larval dragonflies and damselflies (odonate naiads) constrains the...
+> -- *[[PredationByOdonateNaiadsOnLarv_PML1547]]*
+
+> This technical protocol, prepared for the Native Fish Work Group (dated 01 February 1994), sets out procedures for capturing wild razorback sucker larvae from [[Lake Mohave]] on the Arizona–Nevada border and rearing them for stocking. The program addresses a population decline in an endangered...
+> -- *[[ProtocolForCaptureOfWildRazorb_PML1475]]*
+
+> This note summarizes annual activity reports (1991–1994) of the [[Native Fish Work Group]] (NFWG), a multi-agency ad hoc team formed by mutual consent in 1990 to rebuild the wild adult population of [[Razorback Sucker]] in [[Lake Mohave]]. The main method was on-site rearing and stocking of young...
+> -- *[[SummaryOfNativeFishWorkGroupAc_PML2018]]*
+
+> This document is a multi-page compilation of fish stocking and rearing records, most likely from a reservoir management or hatchery program in the [[Lake Mohave]] and [[Lake Havasu]] area. The OCR text contains monthly stocking logs (1993–2006), stocking totals by location, a set of monitoring...
+> -- *[[FishStockingAndRearingRecordsL_PML2067]]*
+
+> This study used sonic telemetry to track the distribution, movements, and habitat use of wild adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir on the Arizona-Nevada border. Ten fish were tagged in November 1994 and tracked until July 1997;...
+> -- *[[DistributionMovementsAndHabita_PML1978]]*
+
+> This study used [[Sonic Telemetry]] to track 10 wild adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a mainstem [[Colorado River]] reservoir on the Arizona-Nevada border, from November 1994 through July 1997. Movement rates and home ranges were similar to those reported for...
+> -- *[[DistributionMovementsAndHabita_PML1955]]*
+
+> This document is a faxed progress report (15 pages, Lower Colorado Region, [[Bureau Of Reclamation]]) from the [[Native Fish Work Group]] (NFWG) describing efforts to rescue the aging adult population of [[Razorback Sucker]] in [[Lake Mohave]]. The group rears wild-collected larvae and juveniles in...
+> -- *[[LakeMohaveRazorbackSuckerReari_PML0331]]*
+
+> This 1996 letter from [[Paul C. Marsh]] to the [[U.S. Fish and Wildlife Service]] reports three breeding seasons (1992–1994) of [[Razorback Sucker]] experiments in the [[Yuma Cove]] backwater of [[Lake Mohave]]. The experiments tested methods for producing young fish for [[Repatriation]] under the...
+> -- *[[RazorbackSuckerRepatriationGen_PML1432]]*
+
+> This paper describes an active management program to maintain the [[Razorback Sucker]] (*Xyrauchen texanus*), an Endangered catostomid, in [[Lake Mohave]], a regulated reservoir on the [[Colorado River Basin]] formed by [[Davis Dam]] on the Arizona-Nevada border. Lake Mohave holds the last large...
+> -- *[[AProgramForMaintainingTheRazor_PML1954]]*
+
+> This research proposal, authored by Michael J. Horn (July 1992), tests whether nutritional constraints during the early larval phase act as a key factor regulating recruitment to the adult population of the endangered [[Razorback Sucker]] in [[Lake Mohave]], the largest remaining population of the...
+> -- *[[NutritionalLimitationOfRecruit_PML1092]]*
+
+> This student special-problems report (1995, supervised by Dr. W.L. Minckley) investigates whether the nighttime catch rate of [[Razorback Sucker]] larvae in [[Lake Mohave]] varies with [[Lunar Phase]] or with location. The larvae respond positively to bright light, so they can be captured with a...
+> -- *[[RazorbackSuckerLarvalPhototact_PML1150]]*
+
+> The 1992 annual report of the [[Native Fish Work Group]] (NFWG) documents an on-site effort to rear endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in isolated backwaters of [[Lake Mohave]], Arizona-Nevada. The aim is to replace an aging adult population (estimated at about 60,000 fish,...
+> -- *[[NativeFishWorkGroupAnnualRepor_PML0328]]*
+
+> This study documents the full spawning season of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a reservoir on the [[Colorado River Basin]] that holds the largest remaining population of the species in the basin. Using visual observation, [[Trammel Net Sampling]], and...
+> -- *[[SpawningSeasonOfTheRazorbackSu_PML0262]]*
+
+> This draft final report (31 March 2004), prepared by [[Thomas E. Dowling]], [[Paul C. Marsh]], Anne T. Kelsen and C. Alana Tibbets of Arizona State University for the [[Bureau of Reclamation]], evaluates whether the [[Native Fishes Work Group]] (NFWG) larval-rearing and repatriation program for the...
+> -- *[[GeneticMonitoringOfWildAndRepa_PML0637]]*
+
+> This summary report, prepared by [[Carol A. Pacey]] and [[Paul C. Marsh]] of Arizona State University for the [[U.S. Geological Survey]] Biological Resources Division, covers the 18-month period from October 1, 1997 through May 31, 1999. It documents the management and analysis of Passive...
+> -- *[[LowerColoradoRiverNativeFishes_PML2075]]*
+
+> This USGS Open-File Report (Mueller, 2007 annual report, 59 p.) documents the development phase of the [[Native Fish Sanctuary Project]], funded by the [[Bureau of Reclamation]] and run in partnership with the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], [[National Park...
+> -- *[[NativeFishSanctuaryProjectsanc_PML1963]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -6454,6 +8158,28 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[NativeFishWorkGroupAnnualRepor_13921]]
 - [[RecaptureDataForJuvenileRazorb_15472]]
 - [[CaptureRatesOfRazorbackSuckerX_PML0886]]
+- [[StockingOfBonytailChubsIntoLak_PML1774]]
+- [[TripReportLakeMohaveBackwaterH_PML2596]]
+- [[HarvestOfRazorbackSuckersFromL_PML0332]]
+- [[RazorbackSuckerSummaryLakeMoha_PML2068]]
+- [[MonitoringOfLarvalRazorbackSuc_PML1091]]
+- [[UseOfLarvalLightTrapsToCapture_PML1966]]
+- [[PredationByOdonateNaiadsOnLarv_PML1547]]
+- [[ProtocolForCaptureOfWildRazorb_PML1475]]
+- [[SummaryOfNativeFishWorkGroupAc_PML2018]]
+- [[FishStockingAndRearingRecordsL_PML2067]]
+- [[DistributionMovementsAndHabita_PML1978]]
+- [[DistributionMovementsAndHabita_PML1955]]
+- [[LakeMohaveRazorbackSuckerReari_PML0331]]
+- [[RazorbackSuckerRepatriationGen_PML1432]]
+- [[AProgramForMaintainingTheRazor_PML1954]]
+- [[NutritionalLimitationOfRecruit_PML1092]]
+- [[RazorbackSuckerLarvalPhototact_PML1150]]
+- [[NativeFishWorkGroupAnnualRepor_PML0328]]
+- [[SpawningSeasonOfTheRazorbackSu_PML0262]]
+- [[GeneticMonitoringOfWildAndRepa_PML0637]]
+- [[LowerColoradoRiverNativeFishes_PML2075]]
+- [[NativeFishSanctuaryProjectsanc_PML1963]]
 
 ## Yuma Cove Backwater
 
@@ -6544,6 +8270,15 @@ The Yuma Desalting Plant is a facility authorized under the Colorado River Salin
 > This Layperson's Guide from the [[Water Education Foundation]] traces the history of the Colorado River's development, the compromises that divided its water among seven U.S. basin states, Mexico and American Indian tribes, and current issues including water marketing, water quality, endangered...
 > -- *[[LaypersonsGuideToTheColoradoRi_14920]]*
 
+> This U.S. Fish and Wildlife Service (USFWS) report, prepared for the [[Bureau of Reclamation]] under Contract 9-07-30-X0066, projects physical and biological changes to the Lower [[Colorado River]] from a 1976 base year to 2000. It is a general guide to aquatic resources, compiled from literature...
+> -- *[[AquaticStudyOfTheLowerColorado_PML2650]]*
+
+> This compilation is a set of appendices (E through J) to a Lower Colorado River environmental document. It covers historical and projected reservoir operations from [[Lake Mead]] to Mexico (Appendix E), the [[Yuma Desalting Plant]] (Appendix F), a 1995 native fish recovery program for the...
+> -- *[[DescriptionOfOperationsAndSens_PML2578]]*
+
+> This U.S. Fish and Wildlife Service (Service) Biological and Conference Opinion (BO), transmitted to the Bureau of Reclamation (Reclamation) in 1997, assesses the effects of Reclamation's continuing operations and maintenance of the [[Lower Colorado River]] from [[Lake Mead]] to the Southerly...
+> -- *[[BiologicalAndConferenceOpinion_PML2630]]*
+
 ### Mentioned In
 - [[TransmittalRegardingReasonable_19809]]
 - [[CommentsOnFinalBiologicalAndCo_11806]]
@@ -6551,6 +8286,9 @@ The Yuma Desalting Plant is a facility authorized under the Colorado River Salin
 - [[ManagingVegetationToIncreaseFl_20382]]
 - [[TheUpperBasinsPoliticalConundr_12302]]
 - [[LaypersonsGuideToTheColoradoRi_14920]]
+- [[AquaticStudyOfTheLowerColorado_PML2650]]
+- [[DescriptionOfOperationsAndSens_PML2578]]
+- [[BiologicalAndConferenceOpinion_PML2630]]
 
 ## Yuma District
 
@@ -6591,10 +8329,22 @@ The Yuma Division is one of two routing options through which water can be coope
 > This October 1969 booklet from the [[Bureau Of Reclamation]] (Region 3) presents facility maps and program status for the Colorado River Operation and Maintenance (O&M) Program on the lower [[Colorado River]]. The program is authorized under the [[Colorado River Front Work And Levee System Act]] of...
 > -- *[[LowerColoradoRiverMaps_11471]]*
 
+> This study by Clarkson and co-author(s) (1986, *Journal of Herpetology*, vol. 20, no. 1) provides baseline ecological data on the [[Rana Catesbeiana|American bullfrog]] (*Rana catesbeiana*) living along riverbanks of the [[Lower Colorado River]] in the [[Yuma Division]], between [[Laguna Dam]] and...
+> -- *[[TheBullfrogRanaCatesbeianaShaw_PML0438]]*
+
+> This final report, prepared by [[Arizona State University]] for the [[Arizona Game and Fish Department]] (Contract Number 0017 per the body text), assesses the status and commercial harvest potential of introduced [[Flathead Catfish]] in Arizona's flowing waters. Of the rivers examined, only the...
+> -- *[[CommercialHarvestPotentialOfFl_PML1585]]*
+
+> This draft final report (Phase II) by Marsh and Minckley, prepared for the [[Bureau of Reclamation]] Lower Colorado Region under Contract 2-07-30-X0214 and conducted at Arizona State University, documents fishery and habitat studies in the Yuma Division of the [[Lower Colorado River]] from May 1985...
+> -- *[[AquaticResourcesOfTheYumaDivis_PML1441]]*
+
 ### Mentioned In
 - [[TransmittalRegardingReasonable_19809]]
 - [[LowerColoradoRiverMaps_12161]]
 - [[LowerColoradoRiverMaps_11471]]
+- [[TheBullfrogRanaCatesbeianaShaw_PML0438]]
+- [[CommercialHarvestPotentialOfFl_PML1585]]
+- [[AquaticResourcesOfTheYumaDivis_PML1441]]
 
 ## Yuma Division Plans
 
@@ -6644,6 +8394,18 @@ The river gauging point at Yuma where the source records Colorado discharge, inc
 ### Mentioned In
 - [[LowerCaliforniaStudiesIvTheNat_12572]]
 
+## Yuma Hispid Cotton Rat
+
+### Summary
+The Yuma Hispid Cotton Rat (Sigmodon hispidus eremicus) is a small rodent subspecies covered by the LCR MSCP. In this plan it is a monitoring target in the cottonwood-willow forest, where small mammal trapping begins in Year 3 with a minimum of 500 trap nights per year.
+
+### Context
+> This plan, prepared in January 2008 for the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP), describes the design, construction, planting, monitoring and management of the Imperial Ponds Conservation Area on [[Imperial National Wildlife Refuge]] in Arizona. The LCR MSCP is a...
+> -- *[[LowerColoradoRiverMultispecies_PML2563]]*
+
+### Mentioned In
+- [[LowerColoradoRiverMultispecies_PML2563]]
+
 ## Yuma Island
 
 ### Summary
@@ -6665,8 +8427,24 @@ The Yuma Project is a federal irrigation project on the lower Colorado River in 
 > This document is a [[Bureau Of Reclamation]] public-information brochure describing the planned [[Central Arizona Project]] (CAP), a large water-importation scheme authorized by the [[Colorado River Basin Project Act]] (Public Law 90-537, September 30, 1968) but not yet constructed. The project...
 > -- *[[CentralArizonaProject_13261]]*
 
+> This is the thirty-third annual Western Water Bulletin, issued by the [[International Boundary and Water Commission]] (IBWC) of the United States and Mexico. It reports streamflow, reservoir storage, water quality, climatological and irrigation data for 1992 on the western boundary streams: the...
+> -- *[[WesternWaterBulletinFlowOfTheC_PML0922]]*
+
 ### Mentioned In
 - [[CentralArizonaProject_13261]]
+- [[WesternWaterBulletinFlowOfTheC_PML0922]]
+
+## Yuma Projects Office
+
+### Summary
+A Bureau of Reclamation office that contracted the Parker I fishery study conducted by the E&R Center's Environmental Sciences Section, according to this source. It is the client for the work summarized in the memo.
+
+### Context
+> This Bureau of Reclamation memorandum (Applied Sciences Referral No. 86-2-2, dated March 20, 1986) summarizes the first two sampling trips (October 1985 and December 1985) of the [[Parker I Fishery Study]] on the highly modified [[Lower Colorado River]]. The study collected quantitative...
+> -- *[[ParkerIFisheryStudyDataSummary_PML1052]]*
+
+### Mentioned In
+- [[ParkerIFisheryStudyDataSummary_PML1052]]
 
 ## Yuma Valley
 
@@ -6677,8 +8455,12 @@ Yuma Valley refers to canal systems in Arizona that were compared to the Coachel
 > This report documents a comprehensive fishery inventory of the uppermost 78 km (48.7 miles) of the [[Coachella Canal]] in southeastern [[California]], conducted in November 1980 prior to replacement of the earthen channel with concrete lining. Using rotenone sampling in three study sections,...
 > -- *[[FisheryInventoryOfTheCoachella_13687]]*
 
+> This appendix to a study report characterises the aquatic habitats, fish fauna, benthos, higher aquatic plants, pigments and physico-chemical conditions of the [[Limitrophe Division]] of the lower [[Colorado River]] and the surrounding [[Yuma Valley]], sampled in 1974–75. The river segment below...
+> -- *[[AquaticHabitatsAndFishesOfTheL_PML1749]]*
+
 ### Mentioned In
 - [[FisheryInventoryOfTheCoachella_13687]]
+- [[AquaticHabitatsAndFishesOfTheL_PML1749]]
 
 ## Yuma, Arizona
 
@@ -6698,11 +8480,31 @@ Yuma, Arizona is a location on the lower Colorado River where summer water tempe
 > This report, written by [[Witmer Stone]] with field notes by [[Samuel N. Rhoads]], documents a February 1905 collection of 258 bird specimens and 117 mammal specimens from the [[Colorado Delta]] in northwestern Lower California. The expedition was made for the [[Academy of Natural Sciences of...
 > -- *[[OnACollectionOfBirdsAndMamalsF_14597]]*
 
+> This document is a March 30, 1995 fax transmittal and cover letter from the [[Central Arizona Water Conservation District]] (CAWCD) to Conrad Fjetland, Regional Director of the [[U.S. Fish and Wildlife Service]] (Service), Region 2, in Albuquerque. It submits formal comments and questions on the...
+> -- *[[CommentsAndQuestionsRegardingT_PML1987]]*
+
+> This account, based on a three-month expedition (February 14 to May 15, 1910) along the Colorado River from [[Needles, California]] to [[Yuma, Arizona]], documents the mammals and birds of the lower river valley. The collectors obtained 1,374 mammals, 448 reptiles and 22 sets of birds' eggs and...
+> -- *[[AnAccountOfTheMammalsAndBirdsO_PML0916]]*
+
 ### Mentioned In
 - [[IntraserviceSectionConsultatio_20152]]
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[MonthlyNormalTemperaturesPreci_13263]]
 - [[OnACollectionOfBirdsAndMamalsF_14597]]
+- [[CommentsAndQuestionsRegardingT_PML1987]]
+- [[AnAccountOfTheMammalsAndBirdsO_PML0916]]
+
+## Yunnan Freshwater Systems
+
+### Summary
+This refers to the freshwater habitats of Yunnan Province, China, where several type specimens in this source were collected. The source gives no details on these systems beyond naming Yunnan as a type locality.
+
+### Context
+> This is a taxonomic paper, published in a Chinese fisheries journal (Vol. 2, No. 2, apparently October 1982), that describes a [[New Genus]] and several [[New Species]] of cyprinid barbs from southwestern China. The new genus is *Anchicyclocheilus*, and the new species are placed in...
+> -- *[[ANewSpeciesOfCyprinidaeFromGua_PML2870]]*
+
+### Mentioned In
+- [[ANewSpeciesOfCyprinidaeFromGua_PML2870]]
 
 ## Yunnan Province
 
@@ -6735,6 +8537,18 @@ A southwestern Chinese province with one of the richest freshwater fish faunas i
 ### Mentioned In
 - [[MolecularEvolutionAndBiogeogra_1994_06_28]]
 - [[TheFossilFreshwaterFishesOfMex_1978_01_19]]
+
+## Yuriria Alta
+
+### Summary
+Yuriria alta is a cyprinid minnow from central Mexico, historically placed as Hudsonius altus. Gilbert (1978) listed Notropis celayensis as a junior synonym of it, and Miller agrees. The source says it is common in streams and lakes of the Rio Lerma basin and the lower Rio Grande de Santiago.
+
+### Context
+> This short taxonomic note, published in *Copeia* (1991, No. 1, pp. 225-227), formally synonymizes two nominal cyprinid species from northern and central Mexico. The first is [[Hybognathus Punctifer]], which is placed as a synonym of [[Dionda Melanops]]. The second is [[Notropis Celayensis]], which...
+> -- *[[TaxonomicStatusOfTwoNominalSpe_PML1719]]*
+
+### Mentioned In
+- [[TaxonomicStatusOfTwoNominalSpe_PML1719]]
 
 ## Yuriria elliana
 

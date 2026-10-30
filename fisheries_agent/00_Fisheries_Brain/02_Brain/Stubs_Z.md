@@ -48,6 +48,18 @@ The Zagros Mountains are a major mountain range in western Iran where Aphanius v
 - [[AphaniusVladykoviANewSpeciesOf_15969]]
 - [[TheFishesOfTheTigrisAndEuphrat_17312]]
 
+## Zahn Bay
+
+### Summary
+A bay at river mile 42.8 on the lower San Juan River, the second release site for the tagged razorback suckers. The source says about 18 fish were released here, and that six fish from this site later moved into Nokai Canyon over winter.
+
+### Context
+> This annual report from the [[Bureau of Reclamation]] and the [[U.S. Geological Survey]] documents the first year (fall 1995 to October 1996) of a sonic telemetry study of [[Razorback Sucker]] movements in the lower [[San Juan River]], Utah. The study tracked 34 hatchery-reared, three-year-old fish...
+> -- *[[AnnualReportOfRazorbackSuckerT_PML1263]]*
+
+### Mentioned In
+- [[AnnualReportOfRazorbackSuckerT_PML1263]]
+
 ## Zaire River
 <!-- fm: auto_enriched: true -->
 
@@ -161,10 +173,18 @@ Zander (Stizostedion lucioperca) is a European fish species closely related to t
 > This document is a 1995 policy compilation by [[Gordon Berg]], North Dakota state representative and chairman of the Devils Lake-Sheyenne-Red River Advisory Committee. It promotes a comprehensive "inlet-and-outlet" water plan for [[Devils Lake]] and [[Stump Lake]] that uses the [[Sheyenne River]]...
 > -- *[[WaterForBirdsFishAndPeople_18183]]*
 
+> This review by [[Michael R. Meador]] of the [[U.S. Geological Survey]] examines the ecological consequences of [[Inter-basin Water Transfer]], the movement of water from one drainage basin to another. The paper briefly traces the history of such projects from ancient Mesopotamia to the [[California...
+> -- *[[InterbasinWaterTransferEcologi_PML1655]]*
+
+> This review by [[Courtenay]] and Robins examines the introduction of non-native fishes into North American waters, focusing on the procedures used to evaluate them and how those procedures have been modified, neglected, or ignored. The authors argue that many introductions were made without...
+> -- *[[FishIntroductionsGoodManagemen_PML0506]]*
+
 ### Mentioned In
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[WaterForBirdsFishPeople_18182]]
 - [[WaterForBirdsFishAndPeople_18183]]
+- [[InterbasinWaterTransferEcologi_PML1655]]
+- [[FishIntroductionsGoodManagemen_PML0506]]
 
 ## Zane Grey Chapter
 
@@ -212,11 +232,27 @@ Zannichellia palustris, known as horned pondweed, is an aquatic plant that grew 
 > This 1959 paper by [[Branley A. Branson]] (Department of Zoology, Oklahoma State University) is the first part of a series on the recent land and freshwater snails of [[Oklahoma]]. It reviews the history of malacological work in the state, divides Oklahoma into biotic provinces and districts that...
 > -- *[[TheRecentGastropodaOfOklahomaP_12890]]*
 
+> This study examines the occurrence and distribution of aquatic macroinvertebrates in three springbrooks in south-east Arizona, near Bylas, within the [[Sonoran Desert]]. Taxonomic richness was low at spring sources and increased in middle and lower reaches, which the authors attribute to harsh...
+> -- *[[DistributionOfAquaticMacroinve_PML1528]]*
+
 ### Mentioned In
 - [[ImpactOfTheDesertPupfishCyprin_14858]]
 - [[MetabolismOfAnAridRegionCanalE_17029]]
 - [[SexualDimorphismInTheLoachMinn_18560]]
 - [[TheRecentGastropodaOfOklahomaP_12890]]
+- [[DistributionOfAquaticMacroinve_PML1528]]
+
+## Zannichellia Pondweed
+
+### Summary
+Zannichellia palustris is a submerged aquatic plant (pondweed) that formed mats at the best pupfish trapping sites in Salt Creek before the 1990 flood. The flood stripped submerged vegetation, including this pondweed. The author considered the resulting loss of cover and spawning substrate profound for the pupfish.
+
+### Context
+> This first annual report by [[Allan A. Schoenherr]] compares two populations of the endangered [[Desert Pupfish]] (*Cyprinodon macularius*) in Riverside County, California. The study contrasts a constant-temperature population at [[Oasis Spring]], introduced in 1977, with a natural population in...
+> -- *[[AComparisonOfTwoPopulationsOfT_PML2306]]*
+
+### Mentioned In
+- [[AComparisonOfTwoPopulationsOfT_PML2306]]
 
 ## Zanzibar
 
@@ -234,6 +270,18 @@ Zanzibar is an island off the coast of East Africa and the native habitat of the
 - [[ProgressReportOfTheCultureOfTi_14692]]
 - [[TheMalaccaTilapiaHybrids_20384]]
 
+## Zanzibar Tilapia
+
+### Summary
+The Zanzibar tilapia is a tilapia species, one of the two parent forms used in this study. The source says a male Zanzibar tilapia was crossed with a female Javanese tilapia to produce the hybrid, and notes that Zanzibar females were sensitive to handling.
+
+### Context
+> This progress report from the [[California Department of Fish and Game]] (Inland Fisheries Administrative Report No. 66-9, May 1966) describes a study begun in December 1963 on the culture of a [[Tilapia Hybrid]] produced by crossing a male [[Zanzibar Tilapia]] with a female [[Javanese Tilapia]]....
+> -- *[[ProgressReportOnTheCultureOfTi_PML2427]]*
+
+### Mentioned In
+- [[ProgressReportOnTheCultureOfTi_PML2427]]
+
 ## Zapus
 
 ### Summary
@@ -245,6 +293,30 @@ Zapus sp. (jumping mice) are small mammals that possibly occur in the upper reac
 
 ### Mentioned In
 - [[LiteratureReviewAndImpactRepor_14988]]
+
+## Zar Biostatistical Analysis
+
+### Summary
+A widely used biostatistics textbook by Jerrold Zar. The lecture cites its chapters 26 and 27 as a source on circular statistics.
+
+### Context
+> This document is a scanned bundle of mostly handwritten field-notebook pages, plus a printed lecture on circular statistics (Robson, Alford & Jones, *Lecture Notes 2004*, Lecture 35, "When the world is circular..."). Most handwritten pages are too degraded to transcribe reliably. Legible fragments...
+> -- *[[ScannedFieldNotebookPagesAndCi_PML2771]]*
+
+### Mentioned In
+- [[ScannedFieldNotebookPagesAndCi_PML2771]]
+
+## Zaret and Rand
+
+### Summary
+Zaret and Rand (1971) are cited as supporting competition-based views of resource partitioning in stream fishes. The chapter lists their work among the early positions in a debate that later studies contested.
+
+### Context
+> This introductory chapter, co-authored by [[David C. Heins]] and [[William J. Matthews]] for the 1987 volume *Community and Evolutionary Ecology of North American Stream Fishes* (University of Oklahoma Press), traces how the ecology of North American stream fishes developed from the late 1700s to...
+> -- *[[HistoricalPerspectivesOnTheStu_PML1015]]*
+
+### Mentioned In
+- [[HistoricalPerspectivesOnTheStu_PML1015]]
 
 ## Zdenka Svobodova
 
@@ -403,6 +475,30 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
 > -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
 
+> Several Arkansas and Missouri fish farms attempted to spawn [[Black Carp]] in 1992 (the year implied by the source's context) to produce sterile [[Triploid Fish]] as a potential biological control for the [[Zebra Mussel]]. [[Hopper-Stephens Hatcheries]] reported success with diploid spawning and a...
+> -- *[[HopperstephensOsageSpawnBlackC_PML2837]]*
+
+> This excerpt from *Science* (Vol. 270, 22 October 1995) combines three items. The main feature is a policy essay by [[Naiman]], [[Magnuson]], [[McKnight]], [[Stanford]] and [[Karr]] on the state of U.S. [[Freshwater Ecosystems]]. It argues that current laws and programs are fragmented and...
+> -- *[[FreshwaterEcosystemsAndTheirMa_PML1997]]*
+
+> This theoretical and empirical study, by Elise F. Zipkin and co-authors (Cornell University, USGS Patuxent Wildlife Research Center), examines when harvest-based control of [[Nuisance Species]] and [[Invasive Species]] can produce unintended results: [[Overcompensation]] (increased abundance in...
+> -- *[[WhenCanEffortsToControlNuisanc_PML2949]]*
+
+> This invited perspective argues that [[Prediction]] is a central, under-examined objective of aquatic science and should be treated as a standard for judging research progress. It traces the influence of the [[Empirical Limnology]] school (F.H. Rigler and R.H. Peters), which promoted predictive...
+> -- *[[PredictionAndTheAquaticScience_PML2062]]*
+
+> This document is a bibliographic listing of publications produced by the [[Fish Technology Centers]] of the [[U.S. Fish and Wildlife Service]] (USFWS), covering roughly 1966 to 2000 (title dates 1966–2001). It lists journal articles, station leaflets, proceedings papers, and technical reports,...
+> -- *[[TechnicalPublicationsOfTheUsFi_PML2753]]*
+
+> This report, submitted by Francisco J. Abarca and Linda J. Allison of the [[Arizona Game and Fish Department]] (Nongame and Endangered Wildlife Program) to the [[U.S. Bureau of Reclamation]] on May 12, 2000, examines how rare species should be defined, detected, and quantified. Its practical...
+> -- *[[IssuesInDefiningDetectingAndQu_PML0010]]*
+
+> This document is the Article 4 "Live Wildlife Rules" of the [[Arizona Game And Fish Commission]], promulgated under Arizona Revised Statutes 17-306 and effective January 1, 1995. It governs the importation, transport, release, possession, and sale of live wildlife in Arizona. Its central mechanism...
+> -- *[[LiveWildlifeRules_PML0114]]*
+
+> This USDA Forest Service technical document (Gen. Tech. Rep. RMRS-GTR-53, 2000) by [[Andrew J. Loftus]] and [[Curtis H. Flather]] supports the 2000 [[RPA Assessment]] required under the Renewable Resources Planning Act of 1974. It reviews national trends in water quality, habitat, fish and aquatic...
+> -- *[[FishAndOtherAquaticResourceTre_PML1375]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -422,6 +518,14 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[ConservationStatusOfFreshwater_12010]]
 - [[BiologicalPollutionThroughFish_17615]]
 - [[OzoneDisinfectionAndAquaticTox_PML2066]]
+- [[HopperstephensOsageSpawnBlackC_PML2837]]
+- [[FreshwaterEcosystemsAndTheirMa_PML1997]]
+- [[WhenCanEffortsToControlNuisanc_PML2949]]
+- [[PredictionAndTheAquaticScience_PML2062]]
+- [[TechnicalPublicationsOfTheUsFi_PML2753]]
+- [[IssuesInDefiningDetectingAndQu_PML0010]]
+- [[LiveWildlifeRules_PML0114]]
+- [[FishAndOtherAquaticResourceTre_PML1375]]
 
 ## Zebra-tailed Lizard
 
@@ -472,9 +576,13 @@ An American explorer included among the early explorers and settlers whose accou
 > This is the front matter, introduction and chapter sequence of *Biotic Communities of the American Southwest – United States and Mexico*, edited by [[David E. Brown]] and published as a companion to the 1:1,000,000 color map *Biotic Communities of the Southwest* ([[Brown and Lowe Map]], 1978/1980)....
 > -- *[[BioticCommunitiesOfTheAmerican_13023]]*
 
+> This historical chapter, by David E. Brown, W. H. Minckley, and James P. Collins, traces how natural history and ecological knowledge of the American Southwest developed. The authors argue that the region's ecosystems are distinctive because of its geographic position at the junction of North...
+> -- *[[HistoricalBackgroundToSouthwes_PML0303]]*
+
 ### Mentioned In
 - [[HistoryOfFishAndFishingInTheUp_17391]]
 - [[BioticCommunitiesOfTheAmerican_13023]]
+- [[HistoricalBackgroundToSouthwes_PML0303]]
 
 ## Zeidae
 <!-- fm: auto_enriched: true -->
@@ -517,9 +625,17 @@ Zeiske (1968) is cited as prior work showing that both the cave and surface form
 > This laboratory study tests whether [[Feeding Periodicity]] and [[Starvation]] affect the formation of [[Daily Growth Increments]] in the [[Otoliths]] of juvenile [[Steelhead Trout]] (*Salmo gairdneri*) and [[Starry Flounder]] (*Platichthys stellatus*). Fish were reared for 64–76 days under feeding...
 > -- *[[FeedingPeriodicityAndTheProduc_17346]]*
 
+> This study tests whether larval fish enter the drift in order to feed. It examines [[Channel Catfish]] (*Ictalurus punctatus*) alevins, which dominated the [[Larval Fish Drift]] assemblage in the [[Illinois River]], a fifth-order [[Ozark Mountains]] stream in [[Benton County Arkansas]]. Alevins...
+> -- *[[DielDriftAndFeedingOfChannelCa_PML0071]]*
+
+> This 1986 review by Jones (Fishery Bulletin, Vol. 84, No. 1) evaluates whether [[Otolith Increment Technique]] can accurately age field-captured larval fish. The technique assumes that growth increments in [[Otolith]] microstructure are deposited daily. The author reviewed the literature to test...
+> -- *[[DeterminingAgeOfLarvalFishWith_PML1232]]*
+
 ### Mentioned In
 - [[TimeCoOrdinatedPrefeedingActiv_13978]]
 - [[FeedingPeriodicityAndTheProduc_17346]]
+- [[DielDriftAndFeedingOfChannelCa_PML0071]]
+- [[DeterminingAgeOfLarvalFishWith_PML1232]]
 
 ## Zeitgeber (Time Cue)
 <!-- fm: auto_enriched: true -->
@@ -580,6 +696,42 @@ A tidal reference level used as the boundary between Zone III and Zone IV at Pue
 
 ### Mentioned In
 - [[TheRockyIntertidalZonesAtPuert_11178]]
+
+## Zero Inflation
+
+### Summary
+An excess of zero counts beyond what a standard count distribution predicts. In this study it arises mainly when many surveyed sites are unoccupied, for example because a species avoids certain vegetation types, and it can also arise from detection error.
+
+### Context
+> This paper develops the [[N-Mixture Model]] (Royle 2004) to handle zero-inflated count data by using [[Zero-Inflated Poisson]] (ZIP) and [[Zero-Inflated Negative Binomial]] (ZINB) forms. The authors fit four variants (Poisson, ZIP, [[Negative Binomial]], ZINB) to survey data for six woodland bird...
+> -- *[[ModelingAbundanceUsingNmixture_PML1243]]*
+
+### Mentioned In
+- [[ModelingAbundanceUsingNmixture_PML1243]]
+
+## Zero-Inflated Negative Binomial
+
+### Summary
+A mixture model combining an occupancy component with a negative binomial count distribution, allowing overdispersion as well as excess zeros. In this study the ZINB had the lowest AIC for all six species but often produced ecologically implausible estimates, such as very high abundance paired with very low detection.
+
+### Context
+> This paper develops the [[N-Mixture Model]] (Royle 2004) to handle zero-inflated count data by using [[Zero-Inflated Poisson]] (ZIP) and [[Zero-Inflated Negative Binomial]] (ZINB) forms. The authors fit four variants (Poisson, ZIP, [[Negative Binomial]], ZINB) to survey data for six woodland bird...
+> -- *[[ModelingAbundanceUsingNmixture_PML1243]]*
+
+### Mentioned In
+- [[ModelingAbundanceUsingNmixture_PML1243]]
+
+## Zero-Inflated Poisson
+
+### Summary
+A mixture model in which some sites are unoccupied (producing zeros) and occupied sites produce counts following a Poisson distribution. In this paper the ZIP is the authors' recommended N-mixture form, because it represents a real mechanism where a site is either suitable and occupied or not. It gave realistic estimates for most focal species.
+
+### Context
+> This paper develops the [[N-Mixture Model]] (Royle 2004) to handle zero-inflated count data by using [[Zero-Inflated Poisson]] (ZIP) and [[Zero-Inflated Negative Binomial]] (ZINB) forms. The authors fit four variants (Poisson, ZIP, [[Negative Binomial]], ZINB) to survey data for six woodland bird...
+> -- *[[ModelingAbundanceUsingNmixture_PML1243]]*
+
+### Mentioned In
+- [[ModelingAbundanceUsingNmixture_PML1243]]
 
 ## Zhilenko
 
@@ -656,8 +808,36 @@ A 1957 study on the South Fork Chehalis River that found 173 organisms per squar
 > This California Department of Fish and Game review, by [[Almo J. Cordone]] and [[Don W. Kelley]] (1960), synthesizes investigations on how [[Inorganic Sediment]] affects stream fisheries. The authors conclude that sediment is harmful to [[Salmonids]] streams, mainly through indirect pathways:...
 > -- *[[TheInfluencesOfInorganicSedime_17590]]*
 
+> This 1984 study in the *North American Journal of Fisheries Management* (Bickerstaff, [[Ziebell]], and Matter, University of Arizona) tests whether [[Redbelly Tilapia]] (*Tilapia zillii*) fry guarded by their parents can survive predation by [[Bluegill]] (*Lepomis macrochirus*). The work addresses...
+> -- *[[VulnerabilityOfRedbellyTilapia_PML0220]]*
+
 ### Mentioned In
 - [[TheInfluencesOfInorganicSedime_17590]]
+- [[VulnerabilityOfRedbellyTilapia_PML0220]]
+
+## Ziemer
+
+### Summary
+Cited as an earlier researcher (1971) who linked watershed geomorphology to fish habitat, one of the prior frameworks the source builds on. The source does not give further details of his findings.
+
+### Context
+> This synthesis by [[Heede]] and [[Rinne]] (North American Journal of Fisheries Management, 1990) argues that fisheries science and hydrology have developed separately, and that stream habitat for fish is dictated by the interaction of streamflow, sediment transport, and channel morphology. The...
+> -- *[[HydrodynamicAndFluvialMorpholo_PML1013]]*
+
+### Mentioned In
+- [[HydrodynamicAndFluvialMorpholo_PML1013]]
+
+## Zietz
+
+### Summary
+An author who provided formal scientific descriptions of Central Australian fishes in 1896, in papers the source cites as Zietz (1896a, 1896b). His work is part of the taxonomic foundation for the regional fish record.
+
+### Context
+> This historical review, by G. J. M. Glover and T. C. Sim (published in *Australian Zoologist* 19(3), 1978), traces the discovery and documentation of fishes in the arid interior of Australia. Early collecting was sparse: by the late nineteenth century only six species were recorded from the Centre,...
+> -- *[[ASurveyOfCentralAustralianIcht_PML0879]]*
+
+### Mentioned In
+- [[ASurveyOfCentralAustralianIcht_PML0879]]
 
 ## Zig Zag Spring
 
@@ -683,9 +863,21 @@ An African cichlid fish introduced to the Salton Sea area and counted in the sur
 > This chapter, by Allan A. Schoenherr (Fullerton College), examines whether competition actually drives the replacement of native desert fishes by introduced species. The classic case, the near extirpation of the [[Gila Topminnow]] (*Poeciliopsis occidentalis*) by [[Mosquitofish]] (*Gambusia...
 > -- *[[TheRoleOfCompetitionInTheRepla_20582]]*
 
+> This chapter, by Allan A. Schoenherr (Fullerton College), examines why native desert fishes in North America have declined as introduced species became established. The central case is the replacement of the [[Gila Topminnow]] (*Poeciliopsis occidentalis*) and the [[Desert Pupfish]] (*Cyprinodon...
+> -- *[[TheRoleOfCompetitionInTheRepla_PML2304]]*
+
+> This document is mainly a scanned journal article from the *Southern California Academy of Sciences* on the [[Desert Pupfish]] (*Cyprinodon macularius*). The readable pages cover mating systems, spawning and egg development, growth, feeding and temperature physiology, and the threat posed by...
+> -- *[[AReviewOfTheLifeHistoryAndStat_PML2305]]*
+
+> This 1980 California Department of Fish and Game special publication by Glenn F. Black assesses the status of the [[Desert Pupfish]] (*Cyprinodon macularius*), a species once widespread across the [[Colorado River]] and springs of the Salton Sink. Quarterly surveys of the [[Salton Sea]] and its...
+> -- *[[StatusOfTheDesertPupfishCyprin_PML0231]]*
+
 ### Mentioned In
 - [[ADistributionSurveyOfDesertPup_20197]]
 - [[TheRoleOfCompetitionInTheRepla_20582]]
+- [[TheRoleOfCompetitionInTheRepla_PML2304]]
+- [[AReviewOfTheLifeHistoryAndStat_PML2305]]
+- [[StatusOfTheDesertPupfishCyprin_PML0231]]
 
 ## Zill's Tilapia
 
@@ -718,8 +910,12 @@ A researcher (with students) whose electrophoretic work documented rapid local g
 > This chapter, by David C. Heins and William J. Matthews, reviews the history of [[Stream-Fish Ecology]] in North America and summarizes recent progress in [[Community Ecology]] and [[Evolutionary Ecology]] of stream fishes. It traces the field from early faunal surveys of the late 1700s and early...
 > -- *[[HistoricalPerspectivesOnTheStu_16610]]*
 
+> This introductory chapter, co-authored by [[David C. Heins]] and [[William J. Matthews]] for the 1987 volume *Community and Evolutionary Ecology of North American Stream Fishes* (University of Oklahoma Press), traces how the ecology of North American stream fishes developed from the late 1700s to...
+> -- *[[HistoricalPerspectivesOnTheStu_PML1015]]*
+
 ### Mentioned In
 - [[HistoricalPerspectivesOnTheStu_16610]]
+- [[HistoricalPerspectivesOnTheStu_PML1015]]
 
 ## Zimmerman And Neuenschwander 1984
 <!-- fm: auto_enriched: true -->
@@ -756,12 +952,24 @@ A researcher (with students) whose electrophoretic work documented rapid local g
 > This 1968 laboratory study by Brown, Mitrovic and Stark examined how 100 days of chronic exposure to [[Zinc]] (0.8 mg Zn/l) alters the acute toxicity of a soft [[Alkyl Benzene Sulphonate]] (ABS) detergent in [[Rainbow Trout]]. Zinc-exposed fish were more sensitive to the detergent–zinc mixture than...
 > -- *[[EffectsOfChronicExposureToZinc_13832]]*
 
+> This U.S. Geological Survey Research Information Bulletin (1994) evaluates whether inorganic contaminants in irrigation water threaten three endangered fishes of the [[Green River]] in Utah: [[Colorado Squawfish]], [[Razorback Sucker]], and [[Bonytail]]. The work followed a Department of the...
+> -- *[[EndangeredFishInTheGreenRiverO_PML0682]]*
+
+> This Southern Regional Aquaculture Center publication (SRAC No. 464, December 1992), by [[William A. Wurts]] and [[Robert M. Durborow]], explains how [[PH]], [[Carbon Dioxide]], [[Total Alkalinity]] and [[Water Hardness]] interact in warmwater fish ponds. These variables are interrelated and...
+> -- *[[InteractionsOfPhCarbonDioxideA_PML2923]]*
+
+> This U.S. EPA Project Summary (EPA/600/S3-85/005, March 1985) reports a study by [[Anthony R. Carlson]] and [[Thomas H. Roush]] of the Environmental Research Laboratory, Duluth, Minnesota. The study tested whether laboratory toxicity results could predict effects on resident river biota downstream...
+> -- *[[SitespecificWaterQualityStudie_PML0362]]*
+
 ### Mentioned In
 - [[TheAcuteLethalToxicityToRainbo_1970_02_17]]
 - [[PredictedAndObservedToxicities_16173]]
 - [[AStudyOfSomeFishlessRiversInTh_16697]]
 - [[ConceptualManagementPlanForHab_13899]]
 - [[EffectsOfChronicExposureToZinc_13832]]
+- [[EndangeredFishInTheGreenRiverO_PML0682]]
+- [[InteractionsOfPhCarbonDioxideA_PML2923]]
+- [[SitespecificWaterQualityStudie_PML0362]]
 
 ## Zinc Analysis
 
@@ -919,6 +1127,12 @@ Zion Canyon is one of the steep-walled, narrow canyons that characterize the Vir
 > This 1994 paper by Scott C. Gregory and James E. Deacon, published in the *American Water Resources Association* volume on effects of human-induced changes on hydrologic systems, uses 17 years of native fish data plus historical records to document declines in the distribution and abundance of the...
 > -- *[[HumanInducedChangesToNativeFis_19277]]*
 
+> This 1979 Utah Cooperative Fishery Research Unit article, written by [[Charles R. Berry Jr.]], describes Utah's rare native fishes of the [[Colorado River Basin]]. The species share unusual traits such as humped backs, bony tails, spines and large body size. The article traces their historical...
+> -- *[[HumpbacksAndBonyTailsUtahsRare_PML0194]]*
+
+> Gregory and Deacon analyze roughly 17 years of native fish data, supplemented by historical records, to document declines in the distribution and abundance of the native fish community of the [[Virgin River]] Drainage. The river rises in southwestern Utah, crosses northwestern Arizona, and enters...
+> -- *[[HumanInducedChangesToNativeFis_PML0907]]*
+
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
@@ -927,6 +1141,8 @@ Zion Canyon is one of the steep-walled, narrow canyons that characterize the Vir
 - [[AquaticEcosystemSymposiumARepo_15847]]
 - [[AVisionForTheVirginConservatio_15060]]
 - [[HumanInducedChangesToNativeFis_19277]]
+- [[HumpbacksAndBonyTailsUtahsRare_PML0194]]
+- [[HumanInducedChangesToNativeFis_PML0907]]
 
 ## Zion Power Station
 
@@ -940,6 +1156,30 @@ A thermal power plant on Lake Michigan that the report lists among major intake 
 ### Mentioned In
 - [[FishProtectiveDevicesACompilat_11796]]
 
+## Zippin Estimator
+
+### Summary
+The Zippin estimator is a closed-population abundance estimator for the Mb model, in which capture probability changes after first capture. It is one of the ten abundance estimators offered in CAPTURE, as listed in this guide.
+
+### Context
+> This July 1991 user's guide describes an enhanced release of [[Program Capture]], a software package for estimating animal abundance and density from [[Mark-Recapture]] data under the [[Closed Population Models|closed-population]] assumption. The guide was written by Eric Rexstad and Kenneth...
+> -- *[[UsersGuideForInteractiveProgra_PML2192]]*
+
+### Mentioned In
+- [[UsersGuideForInteractiveProgra_PML2192]]
+
+## Zippin Method
+
+### Summary
+The depletion estimation approach that the source also calls the Zippin Method, which uses repeated removal passes to estimate abundance. The source cites Zippin (1958) and covers both two-pass and multiple-pass versions of it. The chapter presents it as the depletion alternative to mark-and-recapture.
+
+### Context
+> This chapter from the [[Manual of Fisheries Survey Methods II]] (Michigan Department of Natural Resources, Fisheries Special Report 25, January 2000) explains how to estimate the total number of fish in a discrete stream section by subsampling. It covers two approaches: [[Mark-and-Recapture...
+> -- *[[StreamFishPopulationEstimatesB_PML1374]]*
+
+### Mentioned In
+- [[StreamFishPopulationEstimatesB_PML1374]]
+
 ## Zippin Removal Method
 
 ### Summary
@@ -949,8 +1189,12 @@ A mark-recapture style depletion estimator used to calculate fish population siz
 > This study surveyed stream habitats and fish populations at 243 stations across 21 high-elevation trout streams in the [[White Mountains Area]], east-central Arizona, from 1986 to 1990. The area holds most of the historic habitat of the federally threatened [[Apache Trout]]. A generalized linear...
 > -- *[[TroutBiomassAndStreamHabitatRe_15929]]*
 
+> This study plan, prepared by [[Arizona Game and Fish Department]] (Research Branch) under [[Federal Aid in Sport Fish Restoration]] (Region 3, 1987 to October 31, 1991; revised 07-18-89), sets out procedures to test and validate the [[Wildlife and Fish Habitat Relationship System]] (WFHRS)...
+> -- *[[WildlifeAndFishHabitatRelation_PML0436]]*
+
 ### Mentioned In
 - [[TroutBiomassAndStreamHabitatRe_15929]]
+- [[WildlifeAndFishHabitatRelation_PML0436]]
 
 ## Zirahuén
 <!-- fm: auto_enriched: true -->
@@ -1119,6 +1363,12 @@ A darter species (Etheostoma zonale) recorded by the source among about 30 fish 
 > This 1979 baseline resource inventory, prepared by [[Arizona State University]] for the [[Bureau of Land Management]] Safford District, documents the physical, chemical, bacteriological, and biological condition of the Gila River Complex in eastern Arizona over October 1976 to September 1978. Its...
 > -- *[[ResourceInventoryForTheGilaRiv_15863]]*
 
+> This interagency memorandum from [[Arizona State University]] (Minckley, Velasco and Timmons, Department of Zoology) transmits seine-sampling and habitat data for [[Aravaipa Creek]], Arizona, collected 25–26 June 1994. Sampling covered east-end and west-end stream reaches, including canyon-bound...
+> -- *[[MonitoringDataAravaipaCreekJun_PML1887]]*
+
+> This Bureau of Land Management–funded baseline inventory, prepared by Arizona State University researchers (led by W. L. Minckley and R. R. Sommerfeld), documents the physical, chemical, biological and biotic character of the Gila River Complex in eastern Arizona between October 1976 and September...
+> -- *[[ResourceInventoryForTheGilaRiv_PML1751]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
 - [[ChangesInRiparianVegetationAnd_14524]]
@@ -1128,6 +1378,8 @@ A darter species (Etheostoma zonale) recorded by the source among about 30 fish 
 - [[ProgressReportForTheBiological_19815]]
 - [[LowerGilaRiverBiologicalInvent_18262]]
 - [[ResourceInventoryForTheGilaRiv_15863]]
+- [[MonitoringDataAravaipaCreekJun_PML1887]]
+- [[ResourceInventoryForTheGilaRiv_PML1751]]
 
 ## Zonitoides Arboreus
 <!-- fm: auto_enriched: true -->
@@ -1146,6 +1398,30 @@ A darter species (Etheostoma zonale) recorded by the source among about 30 fish 
 - [[NotesOnSomeGastropodsFromNorth_12895]]
 - [[SomeDistributionRecordsForLoui_12899]]
 - [[MolluscaOfTheUniversityOfKansa_20277]]
+
+## Zoo License
+
+### Summary
+The Zoo License is a special license that allows a zoo to hold and exhibit restricted or regulated wildlife. The source lists its fee as $100.
+
+### Context
+> This document is the Article 4 "Live Wildlife Rules" of the [[Arizona Game And Fish Commission]], promulgated under Arizona Revised Statutes 17-306 and effective January 1, 1995. It governs the importation, transport, release, possession, and sale of live wildlife in Arizona. Its central mechanism...
+> -- *[[LiveWildlifeRules_PML0114]]*
+
+### Mentioned In
+- [[LiveWildlifeRules_PML0114]]
+
+## Zoo Management
+
+### Summary
+Zoo management, as discussed in this note, refers to decisions about how to hold and breed captive populations so as to limit genetic diversity loss. Lacy's recommendations include keeping effective size high, strictly controlling migration between subpopulations, using periodic immigration from wild or large captive stocks, and tailoring subdivision to the planning time scale. He concludes that simulation models can be used now to compare these management strategies.
+
+### Context
+> This paper, by Robert C. Lacy of the [[Chicago Zoological Society]] (Brookfield, Illinois), uses a stochastic [[Computer Simulation]] to examine how [[Genetic Drift]], [[Mutation]], [[Immigration]], [[Natural Selection]] and [[Population Subdivision]] interact to control the loss of genetic...
+> -- *[[LossOfGeneticDiversityFromMana_PML1310]]*
+
+### Mentioned In
+- [[LossOfGeneticDiversityFromMana_PML1310]]
 
 ## Zoo Population
 <!-- fm: auto_enriched: true -->
@@ -1252,6 +1528,9 @@ Zoogeography in fish science refers to the study of how fish species are distrib
 > This revision by [[Carter R. Gilbert]] (Bulletin of the Florida State Museum, 1964) treats the cyprinid subgenus *Luxilus* ([[Genus Notropis]]), a group of shiners of clear, small to medium-sized streams across temperate North America east of the Rockies. The author recognizes three species groups...
 > -- *[[TheAmericanCyprinidFishesOfThe_16991]]*
 
+> This study by [[Matthews and Robison]] provides the first comprehensive, quantitative account of the distribution of native stream fishes across [[Arkansas]]. It draws on 2,323 collections made over roughly 20 years by the authors and other ichthyologists, assigned to 101 defined drainage units...
+> -- *[[TheDistributionOfTheFishesOfAr_PML1618]]*
+
 ### Mentioned In
 - [[ARevisionOfTheSandDartersOfThe_1969]]
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
@@ -1263,6 +1542,7 @@ Zoogeography in fish science refers to the study of how fish species are distrib
 - [[TheFeedingEcologyAndRelativeAb_17662]]
 - [[ZoogeographyAndPaleozoologyOfL_19947]]
 - [[TheAmericanCyprinidFishesOfThe_16991]]
+- [[TheDistributionOfTheFishesOfAr_PML1618]]
 
 ## Zoogeography Of The Levant
 <!-- fm: auto_enriched: true -->
@@ -1291,8 +1571,12 @@ A genus of small viviparous Goodeid fishes that Meek established as new in this 
 > This 1902 taxonomic and faunal report by [[Seth Eugene Meek]], published as Field Columbian Museum Publication 65 (Zoological Series, Vol. III, No. 6), presents results of a fish collecting expedition across Mexico in April to June 1901. The collection, made with [[Frank Eugene Lutz]], was...
 > -- *[[AContributionToTheIcthyologyOf_12369]]*
 
+> This Miscellaneous Publication of the [[University of Michigan Museum of Zoology]], issued 9 July 1926 by [[Carl L. Hubbs]], is the sixth paper in a series revising American cyprinodontoid fishes. It presents taxonomic notes, new genera and species, synonymies and distributional records for the...
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1111]]*
+
 ### Mentioned In
 - [[AContributionToTheIcthyologyOf_12369]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1111]]
 
 ## Zoogoneticus Cuitzeokensis
 
@@ -1381,6 +1665,18 @@ Zoological Record is a major indexing and abstracting service covering zoologica
 ### Mentioned In
 - [[ListOfCurrentFisheriesAndWildl_20304]]
 - [[BibliographyOnTheBloodChemistr_14517]]
+
+## Zoological Society of San Diego
+
+### Summary
+A zoological organization based in San Diego, California. This source lists it among the bodies that supported field studies of rare and endangered species.
+
+### Context
+> This paper, by Robert Rush Miller of the [[Museum of Zoology]] at the University of Michigan, presents the first attempt to list the native threatened freshwater fishes of each U.S. state. Threatened fishes are listed for 49 of the 50 states; only Rhode Island has none. The list was compiled by the...
+> -- *[[ThreatenedFreshwaterFishesOfTh_PML1732]]*
+
+### Mentioned In
+- [[ThreatenedFreshwaterFishesOfTh_PML1732]]
 
 ## Zoological Survey of Saudi Arabia
 
@@ -1574,6 +1870,78 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This is a review article by W. T. Edmondson, published in the *Mitteilungen der Internationalen Vereinigung für Theoretische und Angewandte Limnologie* (Stuttgart, 1974, vol. 2, pp. 229–272). It surveys the state of knowledge on [[Secondary Production]] (production of consumer animals) in...
 > -- *[[SecondaryProduction_15764]]*
 
+> This study examines larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], Arizona-Nevada. The lake's adult population is large and old, with no evidence of recruitment for several decades. Adults still spawn successfully and produce larvae, but few larvae were found in open water,...
+> -- *[[LarvalRazorbackSuckerXyrauchen_PML1322]]*
+
+> This document consists of two conference-style abstracts (English and Spanish) on larval fishes of the southwestern United States. The first reports a light-trap study of [[Razorback Sucker]] larvae in [[Lake Mohave]], Arizona. The second compares predator avoidance behavior in larvae of...
+> -- *[[TheCollectionOfRazorbackSucker_PML1965]]*
+
+> This note summarizes a [[Biological Assessment]] prepared by the [[Fish and Wildlife Service]] (Parker Fishery Resource Office) in June 1996 for a proposed long-term habitat for two federally endangered fishes, the [[Bonytail Chub]] and the [[Razorback Sucker]], at the [[Phoenix Zoo]]. The project...
+> -- *[[BiologicalAssessmentForRazorba_PML1777]]*
+
+> This status report by Dawn P. Jennings, James D. Williams, and Noel M. Burkhead of the [[National Fisheries Research Center]] (Gainesville, Florida) reviews the [[Rudd]], an exotic [[Cyprinidae|cyprinid]] native to Europe and central Asia. Rudd has been introduced to several US states mainly...
+> -- *[[CurrentStatusOfRuddScardiniusE_PML1175]]*
+
+> Several Arkansas and Missouri fish farms attempted to spawn [[Black Carp]] in 1992 (the year implied by the source's context) to produce sterile [[Triploid Fish]] as a potential biological control for the [[Zebra Mussel]]. [[Hopper-Stephens Hatcheries]] reported success with diploid spawning and a...
+> -- *[[HopperstephensOsageSpawnBlackC_PML2837]]*
+
+> This memorandum, dated May 5, 1992, from [[Francisco J. Abarca]] (Native Fish Program Manager) to file, summarizes a response to reports of fish dying at [[Palm Lake]] in the [[Hassayampa River Preserve]], April 21–24, 1992. The team of [[Rob Bettaso]], [[Bruce Denova]] and [[David A. Weedman]]...
+> -- *[[SummaryOfEventsAtPalmLake_PML2853]]*
+
+> This document compiles two hatchery-focused studies. The first, a 1985 pond culture trial at [[Dexter National Fish Hatchery]], measured survival of [[Razorback Sucker]] (*Xyrauchen texanus*) from swim-up fry through fingerlings in earthen ponds. Survival was high at every stage, and the authors...
+> -- *[[SurvivalOfRazorbackSuckersCult_PML0977]]*
+
+> This interim report from the [[Arizona State University]] Department of Zoology, prepared for the [[U.S. Fish and Wildlife Service]], describes preliminary pond experiments on larval [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The species has been extirpated from much of its range, and the only...
+> -- *[[InterimReportOnStudiesOfGrowth_PML2082]]*
+
+> This Arizona Game and Fish Commission report, written by [[Jack E. Hemphill]], Chief of Fisheries, evaluates [[Toxaphene]], a chlorinated camphene insecticide, as a [[Piscicide]] for controlling unwanted "rough fish" in lakes and reservoirs. The work began after fish kills in Arizona fish ponds...
+> -- *[[ToxapheneAsAFishToxin_PML1018]]*
+
+> This Arizona Cooperative Fishery Research Unit report (Research Paper Series, Number 77-2, University of Arizona, Tucson) describes the food habits of [[Threadfin Shad]] (*Dorosoma petenense*) in [[Deer Island Lake]], a small, shallow backwater of the [[Lower Colorado River]]. Monthly plankton...
+> -- *[[SomeObservationsOnTheFlexibleF_PML2281]]*
+
+> This 1981 study by Roger L. Hamman, of the [[U.S. Fish and Wildlife Service]] at [[Willow Beach National Fish Hatchery]], describes the first hatchery spawning and culture of the endangered [[Humpback Chub]] (*Gila cypha*). Wild adults from the [[Little Colorado River]] and the [[Colorado River]]...
+> -- *[[SpawningAndCultureOfHumpbackCh_PML0984]]*
+
+> This laboratory study tests whether food limitation contributes to recruitment failure in the [[Razorback Sucker]], a large endemic fish of the [[Colorado River Basin]]. Adults in [[Lake Mohave]] (Arizona-Nevada) reproduce each year, yet no recruitment to the adult population has been detected for...
+> -- *[[FoodLimitedSurvivalOfLarvalRaz_PML2081]]*
+
+> This document is a scanned journal article from *Copeia* (1978, No. 4), with a Washington location appearing in the running text. The OCR is severely degraded, so most sentences cannot be reconstructed. The legible fragments point to a fish population study that uses body-size and morphological...
+> -- *[[NotesOnTheNaturalHistoryOfTheL_PML1364]]*
+
+> This experimental study tests how grazing by the omnivorous fish [[Oreochromis Aureus]] (blue tilapia) at two stocking densities affects phytoplankton abundance, biomass and community composition. The experiment ran for 15 weeks in five outdoor [[Solar Silos]] (free-standing, mixed microcosms). The...
+> -- *[[BioticEffectsOfGrazingByTilapi_PML2129]]*
+
+> This study by [[Marsh]] (1988, *Environmental Biology of Fishes* 21(1): 59-67) examines the feeding and survival of wild larval [[Razorback Sucker]] (*[[Xyrauchen texanus]]*), an imperiled endemic of the [[Colorado River]] basin, in [[Lake Mohave]] and the adjacent [[Arizona Bay Backwater]]. Larvae...
+> -- *[[FeedingAndFateOfWildLarvalRazo_PML1557]]*
+
+> This 1988 study by Paul C. Marsh and Daniel R. Langhorst in *Environmental Biology of Fishes* tests whether food limitation explains the disappearance of [[Razorback Sucker]] larvae from [[Lake Mohave]], where no recruitment has been recorded since the 1950s. Larval diets and zooplankton...
+> -- *[[FeedingAndFateOfWildLarvalRazo_PML1532]]*
+
+> This study by Rinne, Minckley and Bersell (1981, *Hydrobiologia* 80: 31-42) examines what controls the vertical and horizontal distribution of fishes in two multi-purpose [[Desert Reservoirs]] on the Salt River, Central Arizona: [[Roosevelt Lake]] and [[Apache Lake]]. Sampling ran from summer 1970...
+> -- *[[FactorsInfluencingFishDistribu_PML2234]]*
+
+> The source is a four-page scan whose text layer is almost entirely unreadable. Most lines are character noise, and the legible content is limited to table and figure labels. The labels indicate a dietary or prey-analysis study with two recurring themes: [[Zooplankton]] prey and [[Larval Fish]]...
+> -- *[[InteractiveInfluenceOfTurbidit_PML1895]]*
+
+> This study by [[Scoppettone]], [[Coleman]], and [[Wedemeyer]] (U.S. Fish and Wildlife Service) examines the endangered [[Cui-ui]] (*[[Chasmistes Cujus]]*), a [[Catostomidae|catostomid]] endemic to [[Pyramid Lake]], Nevada. Adults congregate off the mouth of the [[Truckee River]] from mid-March to...
+> -- *[[LifeHistoryAndStatusOfTheEndan_PML2317]]*
+
+> This report from the [[Utah Division Of Wildlife Resources]] and the [[U.S. Fish And Wildlife Service]] tests whether larval [[Razorback Sucker]] and [[Bonytail]], both endangered, can survive in a floodplain wetland that has been reset by drought. Reset sites begin the first inundation with few...
+> -- *[[LarvalRazorbackSuckerAndBonyta_PML0427]]*
+
+> This invited perspective argues that [[Prediction]] is a central, under-examined objective of aquatic science and should be treated as a standard for judging research progress. It traces the influence of the [[Empirical Limnology]] school (F.H. Rigler and R.H. Peters), which promoted predictive...
+> -- *[[PredictionAndTheAquaticScience_PML2062]]*
+
+> This document is the front matter and contents of the *Colorado River Fisheries Project Final Report* (U.S. Fish and Wildlife Service, Bureau of Reclamation, Salt Lake City, Utah, April 1982), with one full section reproduced: Report No. 3, Section IV, *Spawning and Culture of Humpback Chub*, by...
+> -- *[[ColoradoRiverFishesProjectFina_PML0974]]*
+
+> This is a scanned document of roughly 46 pages whose OCR text is, for the most part, unreadable. Scan artifacts, handwriting-like strokes and fragmented words prevent reliable reconstruction of its purpose, methods, sample sizes or conclusions. The few legible fragments point to a scientific or...
+> -- *[[ScannedAquaticEcologyDocumentL_PML2194]]*
+
+> This Arizona Game and Fish Department technical report (Federal Aid Project F-14-R, 1993–1995) investigates why the [[Hoover Dam]] tailwater lost its trophy [[Rainbow Trout]] fishery, which had been productive in the 1960s and early 1970s. The fishery is now a put-and-take system supported by...
+> -- *[[FactorsAffectingTheRainbowTrou_PML0121]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[BiologicalEvaluationGilaRiverE_1993_09_16]]
@@ -1621,12 +1989,53 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[EffectsOfCertainCommercialFish_20809]]
 - [[TheFoodAndTheFoodSupplyOfSocke_16846]]
 - [[SecondaryProduction_15764]]
+- [[LarvalRazorbackSuckerXyrauchen_PML1322]]
+- [[TheCollectionOfRazorbackSucker_PML1965]]
+- [[BiologicalAssessmentForRazorba_PML1777]]
+- [[CurrentStatusOfRuddScardiniusE_PML1175]]
+- [[HopperstephensOsageSpawnBlackC_PML2837]]
+- [[SummaryOfEventsAtPalmLake_PML2853]]
+- [[SurvivalOfRazorbackSuckersCult_PML0977]]
+- [[InterimReportOnStudiesOfGrowth_PML2082]]
+- [[ToxapheneAsAFishToxin_PML1018]]
+- [[SomeObservationsOnTheFlexibleF_PML2281]]
+- [[SpawningAndCultureOfHumpbackCh_PML0984]]
+- [[FoodLimitedSurvivalOfLarvalRaz_PML2081]]
+- [[NotesOnTheNaturalHistoryOfTheL_PML1364]]
+- [[BioticEffectsOfGrazingByTilapi_PML2129]]
+- [[FeedingAndFateOfWildLarvalRazo_PML1557]]
+- [[FeedingAndFateOfWildLarvalRazo_PML1532]]
+- [[FactorsInfluencingFishDistribu_PML2234]]
+- [[InteractiveInfluenceOfTurbidit_PML1895]]
+- [[LifeHistoryAndStatusOfTheEndan_PML2317]]
+- [[LarvalRazorbackSuckerAndBonyta_PML0427]]
+- [[PredictionAndTheAquaticScience_PML2062]]
+- [[ColoradoRiverFishesProjectFina_PML0974]]
+- [[ScannedAquaticEcologyDocumentL_PML2194]]
+- [[FactorsAffectingTheRainbowTrou_PML0121]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1981 hatchery report by Theophilus D. Inslee, of the [[U.S. Fish and Wildlife Service]] at [[Dexter National Fish Hatchery]] in New Mexico, documents trials to spawn and hatch the [[Razorback Sucker]] from wild broodstock taken from [[Lake Mohave]]. Methods tested in 1981 included...
+> -- *[[SpawningAndHatchingOfTheRazorb_PML1156]]*
+
 ### Mentioned In
 - [[ToxapheneAsAFishToxin_1951]]
+- [[SpawningAndHatchingOfTheRazorb_PML1156]]
+
+## Zooplankton Density
+
+### Summary
+The abundance of zooplankton (small drifting animals) per liter of water, which serves as the food supply for larval fishes. In this source, Lake Mohave zooplankton densities were low in 1985, averaging about 1.5 organisms/L where larvae were caught and under 0.5/L in the cutoff bay, far below pond densities. The authors suggest these low densities may have contributed to nutritional deficiency and year-class failure in Razorback Sucker.
+
+### Context
+> This study tests whether food limitation contributes to the recruitment failure of the endemic [[Razorback Sucker]] in [[Lake Mohave]]. In 1985, larvae were reared for eight weeks in 12 earthen ponds at [[Dexter National Fish Hatchery]], New Mexico, fertilized at three levels to create high,...
+> -- *[[EffectsOfFoodAvailabilityOnSur_PML0666]]*
+
+### Mentioned In
+- [[EffectsOfFoodAvailabilityOnSur_PML0666]]
 
 ## Zooplankton Diel Vertical Migration
 <!-- fm: auto_enriched: true -->
@@ -1847,6 +2256,18 @@ A. Zullini is one of the three authors of this paper on the biospeleology of Chi
 ### Mentioned In
 - [[BiologicalInvestigationsOnTheC_20538]]
 
+## Zullo
+
+### Summary
+Zullo and colleagues (1972) are cited in the report as an earlier source of biological information on the Delta-Mendota Canal. Their work, like the earlier studies, was based mostly on fall and winter sampling during dewatering. The report notes that this left gaps in knowledge of the canal's biology during normal operation.
+
+### Context
+> This report, prepared by the [[California Academy of Sciences]] under [[U.S. Bureau of Reclamation]] Contract No. 14-06-200-7762A (April 1975), describes a year-round biological study of the [[Delta-Mendota Canal]] from August 1972 to November 1974. The work sought to identify the canal's organisms...
+> -- *[[BiologicalStudiesOfTheDeltamen_PML0684]]*
+
+### Mentioned In
+- [[BiologicalStudiesOfTheDeltamen_PML0684]]
+
 ## Zuni Bluehead Sucker
 <!-- fm: auto_enriched: true -->
 
@@ -1860,10 +2281,30 @@ A. Zullini is one of the three authors of this paper on the biospeleology of Chi
 > This study by [[David L. Propst]], [[Amber L. Hobbes]] and [[Terry L. Stroh]] reports the current distribution, status, habitat and reproductive biology of the [[Zuni Bluehead Sucker]], an endemic subspecies of the [[Little Colorado River]]. The subspecies now persists mainly as five semi-isolated...
 > -- *[[DistributionStatusAndNotesOnTh_18709]]*
 
+> This Arizona Game & Fish Department (AGFD) correspondence file documents how an expert group set population and habitat objectives for native fish in the [[Little Colorado River]] (LCR) basin. The group met on 17 November 1998 in Phoenix. Its decisions were circulated in a memo dated 18 December...
+> -- *[[NovemberNativeFishNeedsMeeting_PML0127]]*
+
+> This study tests whether the [[Rio Grande Sucker]] (*Pantosteus plebeius*) was recently introduced by humans into the [[Gila River Basin]] of New Mexico or is native there. Earlier surveys lacked the species, and it was first recorded in Sapillo Creek in 1949 and the San Francisco River in 1953,...
+> -- *[[RioGrandeSuckerPantosteusPlebe_PML2515]]*
+
+> This Utah Division of Wildlife Resources (UDWR) draft final report, from [[Colorado State University]], examines the mitochondrial genetic structure of [[Bluehead Sucker]] (*Catostomus (Pantosteus) discobolus*) across its range in the [[Colorado River Basin]] and the [[Weber River]], which drains...
+> -- *[[GeneticStructureOfBlueheadSuck_PML0616]]*
+
+> This document is a set of Arizona Game and Fish Department (AGFD) materials for a 1998 expert meeting and a draft watershed-scale fisheries management plan for the [[Little Colorado River]] (LCR) basin. The plan aims to reconcile native fish conservation with sportfish recreation. It asks experts...
+> -- *[[EstablishingNativeFishNeedsInT_PML0128]]*
+
+> This note covers two linked proposed rules published by the [[U.S. Fish and Wildlife Service]] on January 25, 2013 (Federal Register Vol. 78, No. 17): a proposal to list the [[Zuni Bluehead Sucker]] (*Catostomus discobolus yarrowi*) as an endangered species under the [[Endangered Species Act]], and...
+> -- *[[ZuniBlueheadSuckerProposedEnda_PML0800]]*
+
 ### Mentioned In
 - [[DesertFishesRecoveryTeamMeetin_1987_12_10]]
 - [[MinutesOfTheDesertFishesRecove_16659]]
 - [[DistributionStatusAndNotesOnTh_18709]]
+- [[NovemberNativeFishNeedsMeeting_PML0127]]
+- [[RioGrandeSuckerPantosteusPlebe_PML2515]]
+- [[GeneticStructureOfBlueheadSuck_PML0616]]
+- [[EstablishingNativeFishNeedsInT_PML0128]]
+- [[ZuniBlueheadSuckerProposedEnda_PML0800]]
 
 ## Zuni Migration Legend
 <!-- fm: auto_enriched: true -->
@@ -1922,8 +2363,12 @@ Zuni Pueblo is a Native American tribe with ethnohistorical connections to the G
 > This document is an administrative catalog and correspondence from the Glen Canyon Environmental Studies (GCES) Phase II program, dated September 5, 1995. It consists of a cover memo from Dave Wegner requesting principal investigators to incorporate outside peer review comments into their final...
 > -- *[[GlenCanyonEnvironmentalStudies_19734]]*
 
+> This note covers two linked proposed rules published by the [[U.S. Fish and Wildlife Service]] on January 25, 2013 (Federal Register Vol. 78, No. 17): a proposal to list the [[Zuni Bluehead Sucker]] (*Catostomus discobolus yarrowi*) as an endangered species under the [[Endangered Species Act]], and...
+> -- *[[ZuniBlueheadSuckerProposedEnda_PML0800]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19734]]
+- [[ZuniBlueheadSuckerProposedEnda_PML0800]]
 
 ## Zuni River
 
@@ -1946,12 +2391,20 @@ The Zuni River is a tributary of the Little Colorado River in the southwestern U
 > This 1853 United States War Department report, submitted by [[Colonel J. J. Abert]] of the Corps of Topographical Engineers, documents the expedition led by [[Captain Sitgreaves]] from the Zuni pueblo in New Mexico down the [[Zuni River]] to its junction with the [[Colorado River]], and onward to...
 > -- *[[ReportOfTheSecretaryOfWar_17487]]*
 
+> This *Copeia* paper (No. 1, March 1963) by [[Robert Rush Miller]] documents the distribution, meristic and morphometric variation, sexual dimorphism, larval pigmentation, and ecology of the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a cyprinid endemic to eastern Arizona. The species had...
+> -- *[[DistributionVariationAndEcolog_PML1708]]*
+
+> This Arizona Game and Fish Department technical report (Voeltz, 2002; Nongame and Endangered Wildlife Program Technical Report 186) assesses the present status of the [[Roundtail Chub]] (*Gila robusta*) and the [[Headwater Chub]] (*Gila nigra*) in the lower [[Colorado River]] basin. The work was...
+> -- *[[RoundtailChubGilaRobustaStatus_PML2801]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11564]]
 - [[DraftLittleColoradoRiverSpined_11662]]
 - [[DistributionAbundanceAndHabita_12811]]
 - [[DistributionStatusAndNotesOnTh_18709]]
 - [[ReportOfTheSecretaryOfWar_17487]]
+- [[DistributionVariationAndEcolog_PML1708]]
+- [[RoundtailChubGilaRobustaStatus_PML2801]]
 
 ## Zuni Tribe
 
@@ -1977,6 +2430,18 @@ These earlier fish learning studies are cited as prior work on transposition tha
 ### Mentioned In
 - [[CircleSizeDiscriminationAndTra_19375]]
 
+## Zuñi River
+
+### Summary
+A river in the southwestern United States, in the Zuñi drainage. According to this source, the Gila genus is recorded from the Zuñi River system, alongside the Gila, Colorado, and Rio Grande regions.
+
+### Context
+> This OCR-degraded page pair is a taxonomic and descriptive account of the cyprinid genus [[Gila]], established by [[Baird and Girard]] in the 1850s and treated in a mid-19th-century North American fish survey. The text covers the genus diagnosis, comparative morphology, meristic counts, and the...
+> -- *[[TheFishesOfNorthAndMiddleAmeri_PML1237]]*
+
+### Mentioned In
+- [[TheFishesOfNorthAndMiddleAmeri_PML1237]]
+
 ## Zwartkops River
 
 ### Summary
@@ -1988,6 +2453,18 @@ The Zwartkops River in the eastern Cape represents the southern limit of Gerres 
 
 ### Mentioned In
 - [[PredationAndSourcesOfMortality_18127]]
+
+## Zweifel and Smith
+
+### Summary
+Zweifel and Smith are authors of larval mortality estimates for fish that O'Connell used as a reference point in this study. Using their figures for 7.5 mm larvae in the San Pedro Channel area (average total daily mortality of about 27%), O'Connell estimated that starvation could account for roughly 8% daily mortality, about 40% of the total. The source uses these estimates for comparison rather than presenting new data from them.
+
+### Context
+> This 1980 *Fishery Bulletin* study by C. P. O'Connell (NOAA, Southwest Fisheries Center, La Jolla) estimates the proportion of starving [[Northern Anchovy]] larvae in the Southern California Bight using [[Histological Analysis]] of larvae collected in March 1977. Of 318 larvae sectioned from 64 net...
+> -- *[[PercentageOfStarvingNorthernAn_PML2036]]*
+
+### Mentioned In
+- [[PercentageOfStarvingNorthernAn_PML2036]]
 
 ## Zwick 1976
 <!-- fm: auto_enriched: true -->
@@ -2048,8 +2525,17 @@ Zygonectes is an American killifish genus from which both Oryzias and Fundulicht
 ## Zygoptera
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document consists of two conference-style abstracts (English and Spanish) on larval fishes of the southwestern United States. The first reports a light-trap study of [[Razorback Sucker]] larvae in [[Lake Mohave]], Arizona. The second compares predator avoidance behavior in larvae of...
+> -- *[[TheCollectionOfRazorbackSucker_PML1965]]*
+
+> This final report, prepared by Michael J. Horn and submitted by Paul C. Marsh of [[Arizona State University]] to the [[Bureau of Reclamation]] (order number 1425-2-PG-81-11240, dated 25 May 1992), evaluates whether predation by larval dragonflies and damselflies (odonate naiads) constrains the...
+> -- *[[PredationByOdonateNaiadsOnLarv_PML1547]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
+- [[TheCollectionOfRazorbackSucker_PML1965]]
+- [[PredationByOdonateNaiadsOnLarv_PML1547]]
 
 ## Zymogram
 <!-- fm: auto_enriched: true -->

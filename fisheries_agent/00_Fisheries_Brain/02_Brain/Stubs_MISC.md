@@ -25,8 +25,12 @@ The area inundated by a flood with a 1% annual chance of occurring in a given ye
 > This Final [[Environmental Assessment]] (November 16, 1999), prepared by the U.S. Fish and Wildlife Service Utah Field Office, evaluates the formal designation of [[Critical Habitat]] for two endangered fishes, the [[Woundfin]] and the [[Virgin River Chub]], on the mainstem [[Virgin River]] and its...
 > -- *[[DesignationOfCriticalHabitatFo_20640]]*
 
+> This final rule from the [[U.S. Fish and Wildlife Service]] designates critical habitat for the [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) under the [[Endangered Species Act]]. Approximately 522.2 river miles (840.4 km) are designated across five stream complexes in...
+> -- *[[EndangeredAndThreatenedWildlif_PML0799]]*
+
 ### Mentioned In
 - [[DesignationOfCriticalHabitatFo_20640]]
+- [[EndangeredAndThreatenedWildlif_PML0799]]
 
 ## 104th Congress
 
@@ -70,6 +74,18 @@ The 111 Ranch Beds are a sequence of middle Pleistocene flood-plain, paludal, an
 ### Mentioned In
 - [[AnotherRazorbackCaughtInCanal_18270]]
 
+## 12-Month Finding
+
+### Summary
+A U.S. Fish and Wildlife Service determination made after a petition to list a species, stating whether the listing is warranted. In this source, the Service issued a 12-month finding on a petition to list a distinct population segment of Roundtail Chub and to list Headwater Chub, with publication planned for May 3, 2006. The letter concerns records of how that finding was prepared.
+
+### Context
+> This document is a U.S. Fish and Wildlife Service (USFWS) letter, dated July 20, 2006, responding to a Freedom of Information Act (FOIA) request from Sally E. and Jerome A. Stefferud. The letter concerns the Service's [[12-Month Finding]] on a petition to list a distinct population segment (DPS) of...
+> -- *[[FederalResponseToFoiaRequestAn_PML2637]]*
+
+### Mentioned In
+- [[FederalResponseToFoiaRequestAn_PML2637]]
+
 ## 127 Mile Creek
 
 ### Summary
@@ -106,9 +122,37 @@ A grow-out pond in the study. It received 234 survivors of an airline-delayed sq
 > This 1989 final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fishery Project documents three years (1986–1989) of experiments on rearing endangered [[Colorado Squawfish]] and [[Razorback Sucker]] in four former [[Gravel-Pit Ponds]] near Grand Junction, Colorado. The work was...
 > -- *[[ColoradoSquawfishAndRazorbackS_18350]]*
 
+> This final report from the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] (Grand Junction, Colorado, February 1990) evaluates whether [[PIT Tag]] (passive integrated transponder) tags are biologically compatible with endangered and candidate fishes of the [[Upper Colorado...
+> -- *[[AStudyToDetermineTheBiological_PML2676]]*
+
 ### Mentioned In
 - [[AStudyToDetermineTheBiological_11576]]
 - [[ColoradoSquawfishAndRazorbackS_18350]]
+- [[AStudyToDetermineTheBiological_PML2676]]
+
+## 14 Mile Bar
+
+### Summary
+14 Mile Bar is a cobble-bar site in Glen Canyon on the Colorado River below Glen Canyon Dam. The authors conducted in situ experiments here, which confirmed sluiceway findings that epilithon exposure significantly reduced chlorophyll a, and they used the site to estimate that recolonization would take four to six months.
+
+### Context
+> This experimental study (Angradi and Kubly, *Regulated Rivers: Research & Management*, 1993) tests how stranding by air exposure affects the epilithon (periphyton on cobbles) of the [[Colorado River]] below [[Glen Canyon Dam]], Arizona. The epilithon is dominated by the filamentous green alga...
+> -- *[[EffectsOfAtmosphericExposureOn_PML0062]]*
+
+### Mentioned In
+- [[EffectsOfAtmosphericExposureOn_PML0062]]
+
+## 14C Method
+
+### Summary
+The radiocarbon (14C) method measures primary production by incubating water samples with radioactively labeled carbon and tracking how much is incorporated into phytoplankton biomass. In this study, incubations were run at depths of 0 to 7 m to estimate productivity, with integral values calculated from those profiles.
+
+### Context
+> This 1982 limnological study by John C. Priscu, Jacob Verduin and James E. Deacon, published in [[Archiv für Hydrobiologie]], examines phytoplankton primary productivity and nutrient cycling in [[Lake Mohave]], a 115.3 km² warm-monomictic reservoir on the [[Lower Colorado River]]. Sampling ran from...
+> -- *[[PrimaryProductivityAndNutrient_PML2166]]*
+
+### Mentioned In
+- [[PrimaryProductivityAndNutrient_PML2166]]
 
 ## 15 Mile Reach
 <!-- fm: auto_enriched: true -->
@@ -222,6 +266,18 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 > This January 1990 draft annual report, circulated by the [[U.S. Fish and Wildlife Service]] (Colorado River Recovery Implementation Program), reviews fiscal year 1989 work on endangered fishes of the [[Upper Colorado River Basin]]. It compiles accomplishment highlights, a summary of changes and...
 > -- *[[FiscalYearDraftAnnualReportRec_21032]]*
 
+> The document is an October 2000 update, published by the [[Colorado Water Congress]] and written by Upper Basin water users' representative [[Tom Pitts]], on the [[Upper Colorado River Endangered Fish Recovery Program]]. The Program was established by a Cooperative Agreement signed in January 1988...
+> -- *[[UpdateTheUpperColoradoRiverEnd_PML2145]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) position paper, a synthesis of current biological information dated March 2000 and authored by [[Douglas B. Osmundson]] of the [[Colorado River Fishery Project]], argues that the quality and quantity of habitat in the [[15-Mile Reach]] of the upper...
+> -- *[[ImportanceOfTheMileReachToColo_PML2052]]*
+
+> This U.S. Fish and Wildlife Service report, prepared by Douglas B. Osmundson for the [[Recovery Implementation Program]] (Project No. 74, March 2001), gives interim flow recommendations for the Colorado River between Palisade and Rifle, Colorado. The reach is currently blocked by three diversion...
+> -- *[[FlowRegimesForRestorationAndMa_PML2053]]*
+
+> This compiled document combines a 1998 peer-review cover letter from the [[Colorado River Water Conservation District]] with three technical items: a critique by [[Mussetter Engineering]] of the [[15-Mile Reach]] flow recommendations, a draft review by [[Tyus and Saunders]] of recovery needs for...
+> -- *[[EvaluationOfTheSignificanceOfT_PML0517]]*
+
 ### Mentioned In
 - [[DevelopAndRefineYearRoundFlowN_1993]]
 - [[ManagementGroupMeetingSummaryN_1996_04_10]]
@@ -252,6 +308,10 @@ The 15-Mile Reach refers to a critical 15-mile segment of the Colorado River bet
 - [[StudiesOfColoradoSquawfishAndR_18346]]
 - [[RecommendationsForFlowsInTheMi_18351]]
 - [[FiscalYearDraftAnnualReportRec_21032]]
+- [[UpdateTheUpperColoradoRiverEnd_PML2145]]
+- [[ImportanceOfTheMileReachToColo_PML2052]]
+- [[FlowRegimesForRestorationAndMa_PML2053]]
+- [[EvaluationOfTheSignificanceOfT_PML0517]]
 
 ## 15-Mile Reach Gage
 
@@ -264,6 +324,18 @@ A streamflow gage planned for the Colorado River 15-Mile Reach to measure water 
 
 ### Mentioned In
 - [[ManagementGroupMeeting_21017]]
+
+## 15th Avenue And 43rd Avenue Outfalls
+
+### Summary
+Two Phoenix storm drain outfalls sampled in the Schmidt Drain Study. The 15th Avenue drain, serving industrial, commercial, and residential land, carried about 300 acre-feet per year, while the 43rd Avenue drain, serving residential and heavy industrial land, carried about 150 acre-feet, with higher grease and oil loads in its industrial lower reach.
+
+### Context
+> This review, prepared by Edward D. Ricci of the [[Center For Environmental Studies]] at Arizona State University for the [[Salt River Project]] (SRP) Environmental Services Department (October 1984), synthesizes the literature on [[Urban Stormwater Runoff]] quantity and quality, the legal framework...
+> -- *[[UrbanStormwaterRunoffAReview_PML2193]]*
+
+### Mentioned In
+- [[UrbanStormwaterRunoffAReview_PML2193]]
 
 ## 18-Mile Reach
 
@@ -280,6 +352,18 @@ The 18-Mile Reach is a section of the Colorado River in the Upper Colorado River
 ### Mentioned In
 - [[FiscalYearScopeOfWorkResearchP_11213]]
 - [[StudiesOfColoradoSquawfishAndR_18346]]
+
+## 18S Ribosomal RNA
+
+### Summary
+18S ribosomal RNA is a gene used in molecular phylogenetics to infer relationships among organisms. The source notes that most earlier molecular phylogenies relied on this single gene, which gave divergence estimates that varied widely. This study instead sampled 75 nuclear genes to reduce that problem.
+
+### Context
+> This study by [[Daniel Y.-C. Wang]], [[Sudhir Kumar]] and [[S. Blair Hedges]] (Pennsylvania State University) uses molecular clocks based on a larger set of genes than earlier work to estimate when major animal lineages diverged. Earlier molecular estimates for splits among animal phyla ranged from...
+> -- *[[DivergenceTimeEstimatesForTheE_PML2816]]*
+
+### Mentioned In
+- [[DivergenceTimeEstimatesForTheE_PML2816]]
 
 ## 1922 Colorado River Compact
 
@@ -351,11 +435,51 @@ The first well-documented flood of Lake Eyre North, which reached -10.30 m AHD b
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 
+## 1964 Supreme Court Decree
+
+### Summary
+The 1964 Supreme Court Decree in Arizona v. California is a legal ruling governing the allocation of Colorado River water among the basin states. In this report, concerns were raised about it, and the report lists a need to clarify how it applies to the project; the report gives no further detail.
+
+### Context
+> This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of...
+> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
+
+### Mentioned In
+- [[StatusReportOnTheLowerColorado_PML1780]]
+
+## 1964 Wilderness Act
+
+### Summary
+The federal law that forbids logging and development in designated wilderness areas. The article argues that the Forest Service violated this act by allowing grazing to expand in Gila wilderness, including through construction of stock tanks in wilderness springs, seeps and meadows.
+
+### Context
+> This magazine feature examines the recovery of the [[Gila Trout]] (*Oncorhynchus gilae*), a federally endangered salmonid of the high, dry [[Gila River]] drainage in southern New Mexico and Arizona. The article argues that the species' survival is undermined by livestock grazing on National Forest...
+> -- *[[WarOnTheWestTheNonrecoveryOfGi_PML2900]]*
+
+### Mentioned In
+- [[WarOnTheWestTheNonrecoveryOfGi_PML2900]]
+
 ## 1967
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[StreamProtectionSoughtToImprov_15530]]
+
+## 1970 Boundary Treaty
+
+### Summary
+The 1970 treaty between the United States and Mexico that governs the Rio Grande boundary and the restoration work. The source cites its Article IV B(f), which Mexico invoked to object to spoil mounds built obliquely to the river, and says draglines are used where restoration is required to meet the treaty.
+
+### Context
+> This draft environmental assessment (EA), prepared by the [[United States Section of the International Boundary and Water Commission]] (US Section, IBWC) in April 1983, evaluates the completed segments of the US part of the [[Rio Grande Boundary Preservation Project]]. The 199-river-mile reach runs...
+> -- *[[DraftEnvironmentalAssessmentOf_PML1141]]*
+
+> This December 1978 Final Environmental Impact Statement (EIS) from the United States Section of the [[International Boundary and Water Commission]] (IBWC) evaluates how to restore and preserve the approximately 198.8-mile reach of the [[Rio Grande]] that forms the international boundary between...
+> -- *[[FinalEnvironmentalStatementRio_PML1140]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentOf_PML1141]]
+- [[FinalEnvironmentalStatementRio_PML1140]]
 
 ## 1974 Flood
 
@@ -435,6 +559,30 @@ The 1987 Wetlands Delineation Manual is the guidance the Corps and EPA use to de
 ### Mentioned In
 - [[AmendmentToManagementResearchP_1989_02_08]]
 
+## 1990 Recovery Plan Guidelines
+
+### Summary
+The 1990 Recovery Plan Guidelines are the set of guidance that governed how recovery plans were written under the ESA after the 1988 amendments. In this study, the authors chose 1990 as the cut point for before-and-after comparisons partly to match these guidelines. The source does not describe their specific contents beyond that link to the analysis.
+
+### Context
+> This study examines whether U.S. Endangered Species Act (ESA) recovery plans define the objective, measurable criteria needed to determine when a listed species can be delisted. The authors reviewed recovery criteria for 180 listed species, covering both plants and animals (the Key Findings section...
+> -- *[[AreWeRecoveringAnEvaluationOfR_PML0859]]*
+
+### Mentioned In
+- [[AreWeRecoveringAnEvaluationOfR_PML0859]]
+
+## 1992 Biological Opinion
+
+### Summary
+The 1992 Biological Opinion is a federal consultation document that required the summer base flow target of about 51 m3/s at Jensen, Utah, used in Flaming Gorge re-regulation. The source cites it as the basis for those flow targets.
+
+### Context
+> This final report by [[Kevin R Bestgen]] and [[Lawrence W Crist]] evaluates the restoration protocol of Stanford et al. (1996) for regulated rivers, using the 105 km reach of the [[Green River]] between [[Flaming Gorge Dam]] and its confluence with the unregulated [[Yampa River]]. Closure of the...
+> -- *[[ResponseOfTheGreenRiverFishCom_PML0200]]*
+
+### Mentioned In
+- [[ResponseOfTheGreenRiverFishCom_PML0200]]
+
 ## 1993 Arizona Floods
 
 ### Summary
@@ -477,11 +625,35 @@ A severe flood in January through March 1993 after record winter storms over a 5
 ### Mentioned In
 - [[MeetingToDiscussTheSpikeFlow_1993_07_09]]
 
+## 1997 Biological Opinion
+
+### Summary
+The 1997 Biological Opinion is the federal consultation requirement that drove the creation of this habitat. It required Reclamation to construct or restore at least 300 acres of native fish habitat in the Lower Colorado River floodplain. The Du2 Ponds were built in 1997–2002 to help meet that requirement.
+
+### Context
+> This Design Workshop Draft Report sets out a redesign of the [[Du2 Ponds]] complex on the [[Imperial National Wildlife Refuge]] (INWR), about 30 miles north of Yuma, Arizona. The site was built under the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP) to serve as a [[Native...
+> -- *[[DesignWorkshopFinalReportImper_PML0253]]*
+
+### Mentioned In
+- [[DesignWorkshopFinalReportImper_PML0253]]
+
 ## 19th Century Ichthyology
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[ContributionToTheSystematicsAn_15497]]
+
+## 2 ppt Isohaline
+
+### Summary
+The line in an estuary where salinity is about 2 parts per thousand, marking the freshwater edge of the mixing zone. In this source, maintaining the 2 ppt isohaline in a food-rich, shallow environment is a rearing habitat requirement for the Delta Smelt, extending from Carquinez Strait across Suisun Bay and up the Sacramento River to Three Mile Slough. EPA water quality criteria also target its location from February to June.
+
+### Context
+> The document is a bundle of Federal Register materials dated December 19, 1994. Its centerpiece is the U.S. Fish and Wildlife Service (Service) final rule designating [[Critical Habitat]] for the threatened [[Delta Smelt]] (*Hypomesus transpacificus*) under the [[Endangered Species Act]] (ESA) in...
+> -- *[[TrimedSpecialtiesIncFilingOfPe_PML0758]]*
+
+### Mentioned In
+- [[TrimedSpecialtiesIncFilingOfPe_PML0758]]
 
 ## 2,4,5-T Herbicide
 
@@ -575,9 +747,13 @@ A widely used phenoxy herbicide that was the main chemical in this program, appl
 > This Job Completion Report from the [[West Virginia Conservation Commission]] Fish Division, Project F-3-R-3, documents a series of investigations into the stocking, management, and biology of small farm ponds. Work covered study-pond selection, creation of experimental ponds, physical and chemical...
 > -- *[[SelectionOfRepresentativeSmall_12163]]*
 
+> This excerpt from *Florida Scientist* (vol. 46, no. 1, 1983) contains three components: the end of a manatee study from Turkey Creek, Brevard County; a paper on new distributional records for non-native fishes in Florida's coastal waters; and a methods paper on a tube-type water column sampler for...
+> -- *[[NewDistributionalRecordsForNon_PML0586]]*
+
 ### Mentioned In
 - [[NoxiousVegetationControl_16243]]
 - [[SelectionOfRepresentativeSmall_12163]]
+- [[NewDistributionalRecordsForNon_PML0586]]
 
 ## 2,4-D-2,4,5-T Combinations
 
@@ -590,6 +766,18 @@ A widely used phenoxy herbicide that was the main chemical in this program, appl
 
 ### Mentioned In
 - [[ControlOfAquaticWeedsInFarmPon_16551]]
+
+## 2,4-Dinitrophenol
+
+### Summary
+2,4-Dinitrophenol is a chemical that acts as an uncoupler of oxidative phosphorylation. In this study it was the first chemical tested automatically by the system. Its results were consistent with those from manual testing, which supported the system's suitability for fish acute toxicity syndrome testing.
+
+### Context
+> This EPA Project Summary (EPA/600/S3-89/01, August 1989) describes a [[Data Acquisition And Control System]] (DAC) built to automate physiological measurements and sample control in [[Rainbow Trout]] (*Salmo gairdneri*) exposed to lethal concentrations of toxicants. A microcomputer running...
+> -- *[[AnAutomatedMonitoringSystemFor_PML0365]]*
+
+### Mentioned In
+- [[AnAutomatedMonitoringSystemFor_PML0365]]
 
 ## 2-4-D Herbicide
 
@@ -633,6 +821,18 @@ A neural tracing and activity-mapping technique. The proposal plans to use it in
 ### Mentioned In
 - [[QuinaldineAsAnAnestheticOnSire_1961]]
 
+## 2009 Gila Science Forum
+
+### Summary
+A forum held 3 June 2009 at Western New Mexico University in Silver City, where six panelists addressed the potential effects of flow modification on aquatic and riparian resources of the Gila River. The source records its presentations, transcripts, and draft planning materials, and its consensus was that effects are multi-scale, data gaps are substantial, and an integrated, multi-year framework is needed.
+
+### Context
+> This document is the raw working record (presentation notes, transcripts, planning memos, correspondence, panelist bios, and draft reports) of the [[2009 Gila Science Forum]] held 3 June 2009 at Western New Mexico University, Silver City. Six panelists addressed four questions on the potential...
+> -- *[[GilaScienceForumPaulCMarshPres_PML1513]]*
+
+### Mentioned In
+- [[GilaScienceForumPaulCMarshPres_PML1513]]
+
 ## 20444 Enclosures
 <!-- fm: auto_enriched: true -->
 
@@ -650,6 +850,42 @@ The 24 Road Hatchery is a facility with 36 tanks specifically designed for raisi
 
 ### Mentioned In
 - [[AnnualReportRecoveryProgramFor_11678]]
+
+## 24-Road Hatchery
+
+### Summary
+A fish hatchery in Grand Junction, Colorado, where domestically reared Razorback Sucker were raised for stocking. According to this report, it was one of several rearing facilities used in the Recovery Program's broodstock and grow-out effort.
+
+### Context
+> This Recovery Program final report (Project Number 50, February 2003) by [[Bob Burdick]] of the U.S. Fish and Wildlife Service's Colorado River Fishery Project evaluates whether stocking can restore [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid, in the Upper Colorado River...
+> -- *[[MonitoringAndEvaluatingVarious_PML0324]]*
+
+### Mentioned In
+- [[MonitoringAndEvaluatingVarious_PML0324]]
+
+## 2Capture
+
+### Summary
+2CAPTURE is the interactive front-end component of the CAPTURE software package described in this guide. It prompts the user for input, checks responses for inconsistencies, and writes command files for the analytical CAPTURE program. The guide describes it as using a pull-down menu interface.
+
+### Context
+> This July 1991 user's guide describes an enhanced release of [[Program Capture]], a software package for estimating animal abundance and density from [[Mark-Recapture]] data under the [[Closed Population Models|closed-population]] assumption. The guide was written by Eric Rexstad and Kenneth...
+> -- *[[UsersGuideForInteractiveProgra_PML2192]]*
+
+### Mentioned In
+- [[UsersGuideForInteractiveProgra_PML2192]]
+
+## 3 Links Farm Mitigation Bank
+
+### Summary
+A mitigation bank that would receive the project's riparian mitigation. The source says the roughly 1.13 acres of riparian vegetation affected by the project would be mitigated at a 10:1 ratio there.
+
+### Context
+> The U.S. Bureau of Reclamation (Phoenix Area Office) prepared a Draft and Final Environmental Assessment (EA) and a Finding of No Significant Impact (FONSI) for a proposed concrete [[Fish Barrier]] on Redfield Canyon Creek, Graham County, Arizona. The barrier would block upstream invasion of...
+> -- *[[DraftEnvironmentalAssessmentFo_PML2597]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentFo_PML2597]]
 
 ## 3-Trifluoromethyl-4-Nitrophenol
 
@@ -722,6 +958,22 @@ A buffered solution of formaldehyde in water commonly used to fix fish specimens
 ### Mentioned In
 - [[ChangesInLengthsOfFixedAndPres_20295]]
 
+## 4-Nonylphenol
+
+### Summary
+4-Nonylphenol is an alkylphenol chemical that was one of the five compounds tested for acute toxicity. The study reports that the lowest no-effect factor among listed species (about 0.3) came from Atlantic sturgeon exposed to this chemical. It was grouped with pentachlorophenol as having LC50 ranges similar to copper.
+
+### Context
+> This study by [[Dwyer et al.]] (Archives of Environmental Contamination and Toxicology, 2005, vol. 48, pp. 143–154) tests whether toxicity data from common laboratory species can protect federally and state-listed aquatic species. Three standard test species ([[Fathead Minnow]], [[Sheepshead...
+> -- *[[AssessingContaminantSensitivit_PML0647]]*
+
+> This U.S. EPA-funded final report, prepared by the [[National Biological Service]] Midwest Science Center, tests whether the standard surrogate species used in aquatic toxicity assessments, [[Rainbow Trout]] (coldwater) and [[Fathead Minnow]] (warmwater), adequately protect federally listed fishes....
+> -- *[[UseOfSurrogateSpeciesInAssessi_PML0646]]*
+
+### Mentioned In
+- [[AssessingContaminantSensitivit_PML0647]]
+- [[UseOfSurrogateSpeciesInAssessi_PML0646]]
+
 ## 41 U.S.C. 5
 
 ### Summary
@@ -758,6 +1010,18 @@ In Ricker's framework, the 45-degree line marks replacement, where progeny equal
 ### Mentioned In
 - [[StockAndRecruitment_16864]]
 
+## 5 X 5 Di-Allele Breeding Matrix
+
+### Summary
+A structured breeding design in which 10 unrelated parents (five males and five females) are mated in a 5 x 5 pattern to produce 25 family lots. In this source it is the minimal model when wild adults are few, giving an effective population size of 10 for broodstock development of the endangered fishes.
+
+### Context
+> This final report (24 March 2003) presents a Genetics Management Plan (GMP) for the endangered razorback sucker (*Xyrauchen texanus*) and Colorado pikeminnow (*Ptychocheilus lucius*) in the [[San Juan River]] Basin. Prepared for the [[San Juan River Recovery Implementation Program]] (SJRIP) by...
+> -- *[[GeneticsManagementPlanForTheEn_PML0514]]*
+
+### Mentioned In
+- [[GeneticsManagementPlanForTheEn_PML0514]]
+
 ## 5-Year Flaming Gorge Flow Investigations Program
 <!-- fm: auto_enriched: true -->
 
@@ -791,6 +1055,30 @@ A section of the Code of Federal Regulations (Title 50, Part 13, the general per
 
 ### Mentioned In
 - [[ResponseToRecentApplicationFor_20652]]
+
+## 50 CFR 17.22
+
+### Summary
+This is the U.S. federal regulation under which the permit described in the source was issued. It sets out the rules for permits that allow handling of endangered wildlife for scientific research and species recovery. The source cites it as the regulatory basis for the authorization.
+
+### Context
+> This document is a set of administrative correspondence from the [[U.S. Fish and Wildlife Service]] (USFWS) Albuquerque regional office. It covers the federal permit issued under the [[Endangered Species Act]] (16 USC 1539(a), regulations at [[50 CFR 17.22]]) that authorizes [[Arizona State...
+> -- *[[FederalFishAndWildlifePermitPr_PML2417]]*
+
+### Mentioned In
+- [[FederalFishAndWildlifePermitPr_PML2417]]
+
+## 50 CFR Part 17
+
+### Summary
+This is the Code of Federal Regulations part that governs endangered and threatened wildlife and plants. The source includes a fragment of a rule amending it, which refers to a species table entry for Pecos sunflower, but the OCR text is too garbled to describe further.
+
+### Context
+> This document is a fragment of the *Federal Register* (Vol. 63, No. 62, April 1, 1998, Proposed Rules) issued by the [[U.S. Fish and Wildlife Service]] (Service) under the [[Endangered Species Act]] of 1973. It contains two proposed listing rules for plants: - **Chiricahua dock (*Rumex...
+> -- *[[EndangeredAndThreatenedWildlif_PML0774]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedWildlif_PML0774]]
 
 ## 50 Cfr Part 424
 <!-- fm: auto_enriched: true -->
@@ -847,6 +1135,18 @@ A target study site (river mile 60.0–60.1) in Grand Canyon, immediately above 
 
 ### Mentioned In
 - [[ProtocolForQuantifyingAdultHum_13651]]
+
+## 75 Percent Rule
+
+### Summary
+The 75 Percent Rule, proposed by Amadon in 1949, is a criterion for recognizing subspecies: a subspecies is considered valid if 75% or more of a population can be separated from all, or more than 99%, of members of an overlapping population. The source notes that there is disagreement over the appropriate threshold.
+
+### Context
+> This perspective paper by [[Haig et al. 2006]] in *Conservation Biology* examines how taxonomic uncertainty, particularly around subspecies, complicates listings under the [[Endangered Species Act]] (ESA). Although roughly one-quarter of ESA-listed taxa are subspecies, the authors find no...
+> -- *[[TaxonomicConsiderationsInListi_PML0944]]*
+
+### Mentioned In
+- [[TaxonomicConsiderationsInListi_PML0944]]
 
 ## 96-Hour Lc50 Test
 

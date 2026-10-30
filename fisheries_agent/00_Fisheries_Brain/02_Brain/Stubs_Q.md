@@ -4,6 +4,42 @@ letter: Q
 ---
 # Concept Stubs: Q
 
+## Q-Beam Fish Light
+
+### Summary
+A bright portable light used in this study to attract razorback sucker larvae at night. The larvae respond positively to bright light, so the light makes collecting with a fine-mesh dip net far more productive. The source describes it as the key tool that enabled light-based larval collection in Lake Mohave.
+
+### Context
+> This student special-problems report (1995, supervised by Dr. W.L. Minckley) investigates whether the nighttime catch rate of [[Razorback Sucker]] larvae in [[Lake Mohave]] varies with [[Lunar Phase]] or with location. The larvae respond positively to bright light, so they can be captured with a...
+> -- *[[RazorbackSuckerLarvalPhototact_PML1150]]*
+
+### Mentioned In
+- [[RazorbackSuckerLarvalPhototact_PML1150]]
+
+## Q-Beam Light
+
+### Summary
+A Q-Beam light is a bright light used at night to attract phototactic (light-responding) fish larvae to a sampling area. In this program, Q-Beam and plankton net sampling was done every 10 days in April and May, with hourly 15-minute passes per area to count larvae. The memo lists it as the main method for sampling larval razorbacks at several sites, including the CRIT Agricultural Drain and Island Lake.
+
+### Context
+> This April 14, 1986 interagency memorandum, written by Linda Blythe of the California Department of Fish and Game (Region 5) to the Fisheries Management Supervisor, documents the stocking of about 1.5 million hatchery-reared [[Razorback Sucker]] fry into the [[Lower Colorado River]] and proposes a...
+> -- *[[RazorbackSuckerReintroductionA_PML1368]]*
+
+### Mentioned In
+- [[RazorbackSuckerReintroductionA_PML1368]]
+
+## Q-Beam Spotlight Survey
+
+### Summary
+A handheld 0.5-watt spotlight method used to attract and count Razorback Sucker larvae, which are phototactic for roughly their first three weeks. Surveyors lit a small area beside the boat for 10-minute counts at each station, starting one hour after sunset, and captured at least 30 larvae per count where possible. The source calls it the Q-Beam spotlight method (the OCR renders it as "Q-3bam").
+
+### Context
+> This California Department of Fish and Game monthly report covers April monitoring of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae after their reintroduction into the [[Lower Colorado River]]. Monitoring combined [[Q-Beam Spotlight Survey]] counts of larvae with [[Trammel Net]] sampling for...
+> -- *[[MonitoringStudyOfRazorbackSuck_PML1377]]*
+
+### Mentioned In
+- [[MonitoringStudyOfRazorbackSuck_PML1377]]
+
 ## Q. hypoleucoides
 
 ### Summary
@@ -51,6 +87,18 @@ The Q10 temperature coefficient is the factor by which a biological rate changes
 
 ### Mentioned In
 - [[TheOxygenConsumptionOfTheCrayf_12211]]
+
+## QAICc
+
+### Summary
+A small-sample, overdispersion-adjusted version of Akaike's Information Criterion used to rank candidate models, with lower values indicating better support. In MARK, models are ranked by QAICc and ΔQAICc, and deviance and overdispersion (ĉ) adjustments can be applied.
+
+### Context
+> This draft manual (October 7, 1997) describes [[Program MARK]], a Windows 95 program by Gary C. White and Kenneth P. Burnham for estimating survival and related parameters from marked animals re-encountered alive, dead, or by radio-tracking. The program unifies several model classes in one...
+> -- *[[ProgramMarkSurvivalEstimationF_PML2878]]*
+
+### Mentioned In
+- [[ProgramMarkSurvivalEstimationF_PML2878]]
 
 ## Qanat
 
@@ -169,6 +217,18 @@ A botanical center planned near the river in the Quad-Cities region, listed amon
 ### Mentioned In
 - [[DredgingUpDollarsForTheUpperMi_17467]]
 
+## Quadrant Sampling
+
+### Summary
+A sampling approach that divides a survey area into square frames (quadrants) and records counts within each. In this source, the handwritten notebook pages include per-quadrant tallies, such as Q1 = 211, Q2 = 17 and Q4 = 25 on one 'Fish.shp' page, though many digits are illegible.
+
+### Context
+> This document is a scanned bundle of mostly handwritten field-notebook pages, plus a printed lecture on circular statistics (Robson, Alford & Jones, *Lecture Notes 2004*, Lecture 35, "When the world is circular..."). Most handwritten pages are too degraded to transcribe reliably. Legible fragments...
+> -- *[[ScannedFieldNotebookPagesAndCi_PML2771]]*
+
+### Mentioned In
+- [[ScannedFieldNotebookPagesAndCi_PML2771]]
+
 ## Quadrat Sampling
 
 ### Summary
@@ -180,6 +240,18 @@ Quadrat sampling counts organisms within a fixed-area frame placed on the bottom
 
 ### Mentioned In
 - [[TheIntroducedAsiaticClamCorbic_14989]]
+
+## Quadripaludis luistoddi
+
+### Summary
+A digenean trematode in the family Hemiuridae, recovered from cichlids in the survey. It occurred at Poza la Becerra and the Rio Mezquites, and it was one of the four trematode species found in the cichlid sample.
+
+### Context
+> This preliminary survey documents helminth parasites of selected vertebrates from the [[Cuatro Cienegas]] valley in [[Coahuila]], Mexico. It is based on specimens collected in 1973–1974 and 1983. The study focuses on the endemic [[Cichlasoma]] species complex, whose three cryptic, sympatric species...
+> -- *[[PreliminarySurveyOfParasitesOf_PML1592]]*
+
+### Mentioned In
+- [[PreliminarySurveyOfParasitesOf_PML1592]]
 
 ## Quadrivisio
 
@@ -265,8 +337,32 @@ Quagga mussel (Dreissena bugensis) is an invasive mollusk that established in La
 > **Taxonomic & Life-History Summary**: [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Bonytail]] (*Gila elegans*) were the only two remaining native fishes in [[Lake Mohave]] at study initiation (1980). Four of six historically present native species ([[Speckled Dace]], [[Colorado Pikeminnow]],...
 > -- *[[LongtermPatternsOfFishCommunit_2023]]*
 
+> This is a 2008 email from [[Chuck Minckley]] to [[Paul Marsh]] reporting a two-day search for freshwater clams along the lower [[Bill Williams River]]. The search, undertaken with [[Terry Myers]], was prompted by an earlier collection from the river delta in the early 1990s. The team found five...
+> -- *[[ClamsGeneralInformation_PML1789]]*
+
+> This is the abstract volume for the Colorado River Basin Science and Research Management Symposium, held November 18–20, 2008, at the Doubletree Resort Hotel in Scottsdale, Arizona, under the theme "Coming Together: Coordination of Science and Restoration Activities for the Colorado River...
+> -- *[[ComingTogetherCoordinationOfSc_PML2772]]*
+
+> This document is a 2011 comment letter from fishery scientist [[Paul Marsh]] (Marsh & Associates, LLC) on the Draft Environmental Assessment (EA) for the [[Arizona Game and Fish Department]] (AGFD) [[Sport Fish Stocking Program]], prepared for the [[U.S. Fish and Wildlife Service]] (FWS) under the...
+> -- *[[ArizonaGameAndFishDepartmentSp_PML0138]]*
+
 ### Mentioned In
 - [[LongtermPatternsOfFishCommunit_2023]]
+- [[ClamsGeneralInformation_PML1789]]
+- [[ComingTogetherCoordinationOfSc_PML2772]]
+- [[ArizonaGameAndFishDepartmentSp_PML0138]]
+
+## Quail Bay
+
+### Summary
+Quail Bay is a Lake Mead cove where total cover was estimated as part of the 1980 shoreline vegetation study. The source reports it alongside Burro Point and Little Gyp Beds as part of the cover assessment.
+
+### Context
+> This 1980 Nevada Department of Wildlife job progress report covers the statewide fisheries project for [[Lake Mead]], Clark County. It summarizes seven jobs: salmonid stocking, creel census, [[Largemouth Bass]] life history and tagging, food habits of fry and fingerling bass, [[Striped Bass]]...
+> -- *[[JobProgressReportLakeMead_PML2012]]*
+
+### Mentioned In
+- [[JobProgressReportLakeMead_PML2012]]
 
 ## Quail Creek
 <!-- fm: auto_enriched: true -->
@@ -308,6 +404,12 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 > This 1984 status report, prepared by [[James E Platz]] for the [[U S Fish and Wildlife Service]] Office of Endangered Species, evaluates the taxonomic standing and current survival of the [[Utah Frog]] ([[Rana Onca]]), a leopard frog known from a narrow desert corridor in southwestern Utah and...
 > -- *[[StatusReportForRanaOncaCope_18613]]*
 
+> This 1993 report, prepared for the [[Washington County Water Conservancy District]] by R. Craig Addley and Thomas B. Hardy of Natural Systems Engineering, documents the present distribution, abundance and status of the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a cyprinid minnow...
+> -- *[[TheCurrentDistributionAndStatu_PML0018]]*
+
+> This document is a set of map and figure captions from a spinedace survey of the [[Virgin River]] Basin in southwestern Utah. The source text contains no narrative, methods section, or summary statistics. Its figures show where [[Spinedace]] were found, where streams have perennial flow but no...
+> -- *[[TheCurrentDistributionAndStatu_PML0017]]*
+
 ### Mentioned In
 - [[CommentsOnDraftVirginSpinedace_1994_11_30]]
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
@@ -319,6 +421,8 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 - [[VirginRiverFishSamplingJanuary_19425]]
 - [[StatusOfTheVirginSpinedaceLepi_13652]]
 - [[StatusReportForRanaOncaCope_18613]]
+- [[TheCurrentDistributionAndStatu_PML0018]]
+- [[TheCurrentDistributionAndStatu_PML0017]]
 
 ## Quail Creek Dam
 <!-- fm: auto_enriched: true -->
@@ -327,9 +431,13 @@ Quail Creek is a tributary confluence point and critical sampling location on th
 > This biological opinion, issued July 22, 1996, evaluates the effects of proposed bank stabilization work in [[Beaver Dam Wash]], Arizona, on two endangered fish species: [[Woundfin]] (*Plagopterus argentissimus*) and [[Virgin River Chub]] (*Gila robusta seminuda*). The [[Natural Resources...
 > -- *[[BiologicalOpinionOnTheEffectsO_11915]]*
 
+> This final report from BIO-WEST, Inc. (Holden, Golden and Zucker, April 2001) analyzes a 24-year monitoring database for the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid of the [[Virgin River]] system in Utah, Arizona and Nevada. The study was commissioned to answer why native...
+> -- *[[AnEvaluationOfChangesInWoundfi_PML1084]]*
+
 ### Mentioned In
 - [[LetterToGalenButerbaughOnVirgi_1989_02_27]]
 - [[BiologicalOpinionOnTheEffectsO_11915]]
+- [[AnEvaluationOfChangesInWoundfi_PML1084]]
 
 ## Quail Creek Dam Breach
 
@@ -406,9 +514,13 @@ A water-delivery pipeline completed in 1985 that now carries all LaVerkin Bench 
 > This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
 > -- *[[FleeAsDikeBurstsInSUtah_20836]]*
 
+> This 1998 letter and enclosed rebuttal by [[James Deacon]], a Distinguished Professor at the University of Nevada, Las Vegas, responds to a draft report by the [[Washington County Water Conservancy District]] (WCWCD), "The Facts About the History and Operation of the Quail Creek Project" (dated 14...
+> -- *[[ResponseToTheFactsAboutTheHist_PML0550]]*
+
 ### Mentioned In
 - [[ResponseToTheFactsAboutTheHist_1998_06_30]]
 - [[FleeAsDikeBurstsInSUtah_20836]]
+- [[ResponseToTheFactsAboutTheHist_PML0550]]
 
 ## Quail Creek Reservoir
 <!-- fm: auto_enriched: true -->
@@ -483,6 +595,21 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 > This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
 > -- *[[FleeAsDikeBurstsInSUtah_20836]]*
 
+> This report by James E. Deacon (Environmental Consultants, Inc., Las Vegas, Nevada; January 1986) presents fish population monitoring by the [[Woundfin Recovery Team]] in the mainstream [[Virgin River]] below [[La Verkin Springs]] on 18 April and 9 October 1985. It compares 1985 results with data...
+> -- *[[FishPopulationMonitoringActivi_PML0546]]*
+
+> Gregory and Deacon analyze roughly 17 years of native fish data, supplemented by historical records, to document declines in the distribution and abundance of the native fish community of the [[Virgin River]] Drainage. The river rises in southwestern Utah, crosses northwestern Arizona, and enters...
+> -- *[[HumanInducedChangesToNativeFis_PML0907]]*
+
+> This Fisheries journal article (Vol. 13, No. 1, January–February 1988) by James E. Deacon examines whether [[Woundfin]] and other endangered or native fishes can coexist with water development in the [[Virgin River]] basin. The [[Quail Creek Reservoir]] project was completed in 1985 after a...
+> -- *[[TheEndangeredWoundfinAndWaterM_PML0547]]*
+
+> This document comprises a U.S. Fish and Wildlife Service cover letter (September 7, 1989) and the Federal Register final rule, published August 24, 1989 (effective September 28, 1989), that lists the [[Virgin River Chub]] (*Gila robusta seminuda*) as an endangered species under the [[Endangered...
+> -- *[[DeterminationOfEndangeredStatu_PML0738]]*
+
+> This final report from BIO-WEST, Inc. (Holden, Golden and Zucker, April 2001) analyzes a 24-year monitoring database for the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid of the [[Virgin River]] system in Utah, Arizona and Nevada. The study was commissioned to answer why native...
+> -- *[[AnEvaluationOfChangesInWoundfi_PML1084]]*
+
 ### Mentioned In
 - [[CommentsOnTheDraftVirginRiverH_1994_02_27]]
 - [[EndangeredAndThreatenedWildlif_11621]]
@@ -508,6 +635,11 @@ Quail Creek Reservoir is an impoundment constructed on the Virgin River system i
 - [[DecisionToDestroyFishMayHaveBe_19651]]
 - [[DraftConceptForAVirginRiverMan_14915]]
 - [[FleeAsDikeBurstsInSUtah_20836]]
+- [[FishPopulationMonitoringActivi_PML0546]]
+- [[HumanInducedChangesToNativeFis_PML0907]]
+- [[TheEndangeredWoundfinAndWaterM_PML0547]]
+- [[DeterminationOfEndangeredStatu_PML0738]]
+- [[AnEvaluationOfChangesInWoundfi_PML1084]]
 
 ## Quail Creek Reservoir Project
 <!-- fm: auto_enriched: true -->
@@ -609,8 +741,12 @@ Quaking Aspen (Populus tremuloides) is a deciduous tree species found in the Jef
 > This 1967 report by George L. Batchelder provides a comprehensive synthesis of the Pleistocene geology and ecology of the [[Mono Basin]], California. The basin offers a unique opportunity to study synchronous glaciation and lacustrine fluctuations during the Quaternary. The document describes...
 > -- *[[TheMonoBasin_15632]]*
 
+> This study by Ken C. Harper of the [[White Mountain Apache Tribe]] Division of Wildlife and Natural Resources examines the life history, reproduction, growth, diet, and population structure of [[Arizona Trout]] (*[[Salmo Apache]]*), an endangered native salmonid of Arizona and New Mexico. Field...
+> -- *[[BiologyOfASouthwesternSalmonid_PML0991]]*
+
 ### Mentioned In
 - [[TheMonoBasin_15632]]
+- [[BiologyOfASouthwesternSalmonid_PML0991]]
 
 ## Qualitative Fish Sampling
 
@@ -636,6 +772,30 @@ A stream survey approach that records which taxa are present rather than measuri
 ### Mentioned In
 - [[VariabilityInTheMacrofaunaOfAS_19613]]
 
+## Quality Assurance Program
+
+### Summary
+The QA program in this report was the set of activities used to check whether the Western Lake Survey data were of known and acceptable quality for estimating population characteristics. It covered method selection, crew training, on-site lab evaluation, daily communication, and data verification, and used blanks, duplicates, audit samples, and spikes to partition variability into precision, accuracy, bias, and detectability. The report concludes the final data set was high quality and usable for subregional population estimates.
+
+### Context
+> This EPA Project Summary describes the [[Quality Assurance Program]] for the Phase I synoptic chemistry component of the [[Western Lake Survey]] (WLS-I), part of the [[National Surface Water Survey]]. The survey was built to assess the effects of acidic deposition on lake water chemistry in the...
+> -- *[[NationalSurfaceWaterSurveyWest_PML2365]]*
+
+### Mentioned In
+- [[NationalSurfaceWaterSurveyWest_PML2365]]
+
+## Quality Control
+
+### Summary
+Review steps built into the field procedure to catch errors before data leave the field. The crew leader checks every form for omissions, legibility, and errors before leaving each station and initials the QC field.
+
+### Context
+> This 1995 field manual, issued by the [[Bureau Of Reclamation]] Phoenix Area Office, sets out [[Standard Operating Procedures]] for long-term monitoring of fish populations in rivers and streams of the [[Gila River Basin]], Arizona. It defines the field forms, station layout, sampling gears,...
+> -- *[[StandardOperatingProceduresFie_PML0444]]*
+
+### Mentioned In
+- [[StandardOperatingProceduresFie_PML0444]]
+
 ## Quality Control System
 
 ### Summary
@@ -648,6 +808,18 @@ A quality control system is an industrial approach that the authors propose adap
 ### Mentioned In
 - [[OpportunitiesForMaintenanceAnd_17327]]
 
+## Quality Fishery Alternative
+
+### Summary
+A cold water fishery option that the plan selects as its preferred alternative. Its objectives include 0.25–0.75 trout per angler hour, 1.2–3.5 trout per angler day, an average length of at least 12 inches, and a return of at least 10% of stocked weight. The plan also prefers a quality option for largemouth bass.
+
+### Context
+> This draft plan from the [[Nevada Department of Wildlife]] sets fisheries management goals for [[Lake Mohave]], a reservoir on the [[Colorado River]] formed by [[Davis Dam]] in 1952. The lake supports an endemic native fish population and a managed warm and cold water sport fishery. The plan states...
+> -- *[[LakeMohaveFisheriesManagementP_PML0342]]*
+
+### Mentioned In
+- [[LakeMohaveFisheriesManagementP_PML0342]]
+
 ## Quality Trout Management
 
 ### Summary
@@ -659,6 +831,18 @@ A Colorado Division of Wildlife program begun in 1979 after a Wild Trout Symposi
 
 ### Mentioned In
 - [[WildTroutManagementDoesItWorkI_19622]]
+
+## Quality-Adjusted Life Years
+
+### Summary
+A health-economics unit that combines length of life and its quality into one measure of utility. The source cites it as the health-care counterpart to the conservation unit COPY, which serves the same comparative role for conservation activities.
+
+### Context
+> This review, published in [[Conservation Biology]] (Volume 17, No. 1, February 2003) by Kenneth F. D. Hughey, Ross Cullen and Emma Moran, examines how economic tools can improve [[Priority Setting]] and [[Conservation Evaluation]] for threatened and endangered species and natural areas. The...
+> -- *[[IntegratingEconomicsIntoPriori_PML1125]]*
+
+### Mentioned In
+- [[IntegratingEconomicsIntoPriori_PML1125]]
 
 ## Quantitative Ecology
 
@@ -730,6 +914,42 @@ Quarantine is the controlled holding of imported organisms to prevent disease or
 ### Mentioned In
 - [[CodesOfPracticeAndManualOfProc_13433]]
 
+## Quarantine Facility
+
+### Summary
+In this source, the quarantine facility is the older research wet lab built in 2000, a temperature-controlled building with nine 500-gallon recirculating fiberglass tanks. Newly acquired fish are treated there for diseases and parasites before they are moved outdoors, and its wastewater drains to a separate septic tank.
+
+### Context
+> This status update describes a new propagation and grow-out facility for endangered [[Spikedace]] and [[Loach Minnow]] at [[Bubbling Ponds Fish Hatchery]] near Cornville, Arizona. Construction was completed in June 2007. [[Bureau Of Reclamation]] funded the facility through a cooperative agreement...
+> -- *[[BubblingPondsNativeFishPropaga_PML2830]]*
+
+### Mentioned In
+- [[BubblingPondsNativeFishPropaga_PML2830]]
+
+## Quarantine Protocol
+
+### Summary
+The set of procedures used to isolate and treat newly collected fish before they enter the refuge population. According to this source, tanks are labeled and separated from other facility systems, fish receive 24-hour prophylactic treatments for 3 consecutive days at 18–20 °C with a malachite green, nitromersol and acriflavine mixture, and Asian tapeworm is treated with praziquantel at 0.67 ppm for 24 hours before fish enter the refuge.
+
+### Context
+> This 2005 protocol, prepared by the [[Arizona Game And Fish Department]] (AGFD) and funded by the [[U.S. Bureau Of Reclamation]] through the [[Central Arizona Project]] Fund Transfer Program, sets out a step-by-step framework for building captive refuge populations of native and listed Arizona...
+> -- *[[BubblingPondsHatcheryDevelopme_PML0421]]*
+
+### Mentioned In
+- [[BubblingPondsHatcheryDevelopme_PML0421]]
+
+## Quarantine Protocols
+
+### Summary
+Quarantine protocols are controlled isolation and screening procedures for fish before they are moved between facilities. The memo recommends that any future transfers from the source hatchery be avoided or made only under strict quarantine, and that fish be screened for the parasite before movement.
+
+### Context
+> This internal memorandum, dated in the header but with the year illegible in the scan, reports on efforts to control the [[Asian Tapeworm]] in hatchery fish. The author states that the parasite is panzootic and was probably spread through [[Grass Carp]] and their transport. The memo describes a...
+> -- *[[AsianTapewormControlAndSpreadI_PML1411]]*
+
+### Mentioned In
+- [[AsianTapewormControlAndSpreadI_PML1411]]
+
 ## Quartermaster Canyon
 <!-- fm: auto_enriched: true -->
 
@@ -740,10 +960,14 @@ Quarantine is the controlled holding of imported organisms to prevent disease or
 > This quarterly report documents the second field investigation (September 27 - October 9, 1992) of aquatic resources in the [[Colorado River]] from [[Diamond Creek]] (RM 226) to [[Lake Mead]] below [[Pierce Ferry]] (RM 286). The study was initiated by the [[Hualapai Wildlife Management Department]]...
 > -- *[[TheEffectsOfInterimFlowsFromGl_13620]]*
 
+> This 1996 proposal, prepared by the [[Hualapai Department of Natural Resources]] for the [[Bureau of Reclamation]] and the [[U.S. Fish and Wildlife Service]], describes a radio-telemetry study of juvenile [[Razorback Sucker]] (*Xyrauchen texanus*) in the Grand Canyon. The study is intended to...
+> -- *[[ARadiotelemetryStudyToMonitorH_PML1101]]*
+
 ### Mentioned In
 - [[CollectionOfYoungSuckersFromLo_1993]]
 - [[SynopsisOfTheRazorbackSuckerIn_13640]]
 - [[TheEffectsOfInterimFlowsFromGl_13620]]
+- [[ARadiotelemetryStudyToMonitorH_PML1101]]
 
 ## Quartermaster Creek
 <!-- fm: auto_enriched: true -->
@@ -810,6 +1034,18 @@ Quartzite Falls is a waterfall barrier on the uppermost Salt River in Arizona. T
 - [[IndictedInBlastingOfFallsOnSal_20914]]
 - [[OutrageInTheWildernessSaltRive_20917]]
 
+## Quasi-Akaike Information Criterion
+
+### Summary
+The quasi-Akaike Information Criterion (QAICc) is a model selection statistic that ranks competing statistical models while adjusting for overdispersion and small sample size. In this source, it was used to rank the Cormack-Jolly-Seber models fit in Program MARK. The top-ranked models were then model-averaged.
+
+### Context
+> This feature article from the May 2010 issue of *Fisheries* (the journal of the [[American Fisheries Society]]) reports a case study on [[Lost River Sucker]] (*Deltistes luxatus*), an endangered catostomid in [[Upper Klamath Lake]], Oregon. Traditional [[Trammel Nets]] sampling yielded too few...
+> -- *[[ImprovingInferencesFromFisheri_PML1050]]*
+
+### Mentioned In
+- [[ImprovingInferencesFromFisheri_PML1050]]
+
 ## Quasi-Baseline Monitoring
 
 ### Summary
@@ -833,6 +1069,18 @@ The state in which an allele's frequency approaches fixation so that it is nearl
 
 ### Mentioned In
 - [[TheTheoreticalPopulationGeneti_16332]]
+
+## Quasi-Likelihood Models
+
+### Summary
+Quasi-likelihood models handle overdispersed data by estimating a dispersion parameter from the data rather than assuming a fixed variance. The source lists them as one of three remedies for overdispersion in count data. It does not describe their specific estimation method.
+
+### Context
+> This textbook chapter (from a biostatistics text, p. 437–446 in the source pagination) explains why [[Generalized Linear Models]] (GLMs) are needed when response variables are not normally distributed. It covers the three components of a GLM, the [[Logit Link Function]] used in [[Logistic...
+> -- *[[GeneralizedLinearModelsAndLogi_PML2183]]*
+
+### Mentioned In
+- [[GeneralizedLinearModelsAndLogi_PML2183]]
 
 ## Quassilabia
 <!-- fm: auto_enriched: true -->
@@ -871,6 +1119,18 @@ The Quaternary is the most recent geologic period, spanning roughly the last 2.6
 ### Mentioned In
 - [[SomeNotesOnTheLateCenozoicDrai_17545]]
 - [[TheOriginOfCoastalSageVegetati_10594]]
+
+## Quaternary Basalt
+
+### Summary
+Young volcanic basalt flows in the western Grand Canyon. The report lists these as a failure-prone bedrock source that contributes to slope failure in the park.
+
+### Context
+> This U.S. Geological Survey open-file report, prepared with the [[U.S. Bureau of Reclamation]] and authored by Robert H. Webb (September 1987), documents how [[Debris Flow]] events in small tributary canyons deliver large volumes of coarse sediment to the [[Colorado River]] in [[Grand Canyon...
+> -- *[[DebrisFlowsFromTributariesOfTh_PML2845]]*
+
+### Mentioned In
+- [[DebrisFlowsFromTributariesOfTh_PML2845]]
 
 ## Quaternary Climate Change
 
@@ -956,6 +1216,22 @@ Quaternary terraces are stepped surfaces left along stream valleys by former flo
 ### Mentioned In
 - [[ASubSurfaceWaterSamplerForLake_14940]]
 
+## Quatrefoil Light Trap
+
+### Summary
+The Quatrefoil Light Trap is a light-attracted sampler for larval fish, originally designed by Floyd et al. (1984) with four clear tubes arranged around a central electric lamp. According to this source, it was effective but cumbersome to deploy and awkward to sample. The source describes modifications to it for use in hatchery ponds.
+
+### Context
+> This technical note describes modifications to the [[Quatrefoil Light Trap]], a light-attracted larval fish sampler, so it can collect [[Striped Bass]] fry in earthen [[Hatchery Pond Management|hatchery production ponds]]. The modifications replace the electric lamp with [[Chemical Light Sticks]],...
+> -- *[[ModificationOfTheQuatrefoilLig_PML2333]]*
+
+> This final report, prepared for the [[National Park Service]] Cooperative Parks Study Unit by the [[Larval Fish Laboratory]] at Colorado State University (Snyder and Meismer, 30 September 1997), evaluates whether floating, low-intensity [[Quatrefoil Light Trap]] designs can capture and retain...
+> -- *[[EffectivenessOfLightTrapsForCa_PML2403]]*
+
+### Mentioned In
+- [[ModificationOfTheQuatrefoilLig_PML2333]]
+- [[EffectivenessOfLightTrapsForCa_PML2403]]
+
 ## Quatrefoil Trap
 
 ### Summary
@@ -968,6 +1244,34 @@ A plexiglas larval fish light trap designed to meet seven criteria, including ea
 ### Mentioned In
 - [[ANewLarvalFishLightTrapTheQuat_18745]]
 
+## Quattro
+
+### Summary
+Quattro et al. (1996) reported mitochondrial DNA restriction-site data for these topminnows. This source uses their findings as support, since they show differences between the Gila and Yaqui topminnows consistent with long-term isolation.
+
+### Context
+> This study by [[Philip W. Hedrick]] and [[Karen M. Parker]] (Arizona State University) uses molecular markers to characterize the genetic structure of endangered [[Gila Topminnow]] and [[Yaqui Topminnow]] populations in Arizona. The authors sampled nine additional Gila topminnow populations and two...
+> -- *[[GeneticCharacterizationOfSonor_PML1024]]*
+
+> This Arizona Game and Fish Department special report assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona, based on field surveys from June 1989 to April 1990 and a review of historic records. Both species were...
+> -- *[[StatusOfTheSonoranTopminnowPoe_PML0145]]*
+
+### Mentioned In
+- [[GeneticCharacterizationOfSonor_PML1024]]
+- [[StatusOfTheSonoranTopminnowPoe_PML0145]]
+
+## Quattro and Vrijenhoek
+
+### Summary
+Quattro and Vrijenhoek (1989) reported an earlier positive association between allozyme heterozygosity and fitness in Gila Topminnow, which favored Sharp Spring stock for reintroductions. This study could not confirm that association and found much lower mortality than they reported, with their Monkey Spring and Sharp Spring survival at 45% and 56%.
+
+### Context
+> This study by [[Sheffer]], [[Hedrick]], [[Minckley]] and [[Velasco]] (Arizona State University, *Conservation Biology* 11(1), 1997) compares fitness correlates among four remnant populations of the endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) in four separate watersheds...
+> -- *[[FitnessInTheEndangeredGilaTopm_PML2346]]*
+
+### Mentioned In
+- [[FitnessInTheEndangeredGilaTopm_PML2346]]
+
 ## Quattro And Vrijenhoek 1989
 <!-- fm: auto_enriched: true -->
 
@@ -975,8 +1279,12 @@ A plexiglas larval fish light trap designed to meet seven criteria, including ea
 > **Table 2 — Laboratory-Reared Comparison ([[Sheffer et al. 1996]] vs. [[Quattro and Vrijenhoek 1989]])**
 > -- *[[BilateralAsymmetryInMuseumAndW_18912]]*
 
+> This study examines whether wild-caught [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from two isolated Arizona sites show the bilateral asymmetry reported in earlier laboratory work by [[Quattro and Vrijenhoek 1989]]. Fluctuating asymmetry was measured for lateral-line scales,...
+> -- *[[NoBilateralAsymmetryInWildcaug_PML2345]]*
+
 ### Mentioned In
 - [[BilateralAsymmetryInMuseumAndW_18912]]
+- [[NoBilateralAsymmetryInWildcaug_PML2345]]
 
 ## Quattro et al 1996
 
@@ -1120,6 +1428,18 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 > This 1941 hydrological study by H. M. Babcock and E. M. Cushing, of the [[U.S. Geological Survey]], examines how flash floods in [[Queen Creek]], a typical large desert wash in [[Pinal County]], [[Arizona]], recharge the underlying [[Alluvium]] aquifer. The work supported a proposed flood-control...
 > -- *[[RechargeToGroundwaterFromFlood_17190]]*
 
+> This August 15, 1996 proposal, prepared by [[Arizona Game and Fish Department]] Region V fisheries staff, seeks to re-establish native [[Longfin Dace]] and [[Desert Sucker]] in [[Arnett Creek]] and [[Telegraph Canyon]], tributaries of the [[Gila River]] basin in central Arizona. The project removes...
+> -- *[[AProposalToReestablishDesertSu_PML1006]]*
+
+> This USDA Forest Service design narrative, prepared for the Globe Ranger District of the [[Tonto National Forest]] (Southwestern Region), specifies the purpose, site, hydrology, design standards, and funding for a fish barrier on [[Arnett Creek]], a tributary of [[Queen Creek]] in Gila County,...
+> -- *[[DesignNarrativeArnettCreekFish_PML0229]]*
+
+> This taxonomic and ecological study re-examines the western chubs of the genus [[Gila]] (Cyprinidae) in the lower [[Colorado River Basin]]. The author analyzed roughly 1,800 specimens from the lower and middle Colorado basins and northern Mexico, combining morphometric, meristic, habitat and...
+> -- *[[CyprinidFishesOfTheGenusGilaFr_PML2204]]*
+
+> This final report from the [[Tonto National Forest]] describes Phase I of the Arnett Creek Native Fish Re-Establishment Project, funded by Heritage Grant #193W7 (awarded August 1993). The project had three parts: designing a fish barrier to block upstream invasion by non-native fish from [[Queen...
+> -- *[[FinalReportForTheArnettCreekNa_PML0228]]*
+
 ### Mentioned In
 - [[AProposalToReestablishDesertSu_20730]]
 - [[EnvironmentalAssessmentarnettC_11509]]
@@ -1128,6 +1448,10 @@ Queen Creek is a stream in the Gila River basin in Arizona that serves as the re
 - [[FinalReportForTheArnettCreekNa_17657]]
 - [[PicketpostMountainarnettCreekA_15280]]
 - [[RechargeToGroundwaterFromFlood_17190]]
+- [[AProposalToReestablishDesertSu_PML1006]]
+- [[DesignNarrativeArnettCreekFish_PML0229]]
+- [[CyprinidFishesOfTheGenusGilaFr_PML2204]]
+- [[FinalReportForTheArnettCreekNa_PML0228]]
 
 ## Queen Mary Reservoir
 
@@ -1150,6 +1474,18 @@ A large reservoir (292.59 ha, maximum depth 10.5 m) in Middlesex, kept at a cons
 
 ### Mentioned In
 - [[DiversityInFeedingByBrandtSCor_1970]]
+
+## Queensland
+
+### Summary
+Queensland is the Australian state that covers the northeastern part of the Great Artesian Basin. This source lists Queensland geological survey and groundwater references among its bibliography, but gives no ecological findings for the state.
+
+### Context
+> This document is a scanned, heavily degraded bibliography (pp. 15–16 of a larger work, with the running head "M.A. Habermehl, The Great Artesian Basin") on groundwater hydrology and geology of the [[Great Artesian Basin]] in Australia. It contains no fish or aquatic species data. Its content is a...
+> -- *[[TheGreatArtesianBasinAustralia_PML0938]]*
+
+### Mentioned In
+- [[TheGreatArtesianBasinAustralia_PML0938]]
 
 ## Queensland Fisheries Branch
 <!-- fm: auto_enriched: true -->
@@ -1178,8 +1514,12 @@ The state museum of Queensland, Australia. It holds 15 paratype specimens (9.9�
 > This paper, published in the Journal of the Australia New Guinea Fishes Association (Vol. 6, No. 4, July 1991), describes a new species, genus and subfamily of blue-eye, [[Scaturiginichthys Vermeilipinnis]], from inland springs in central western Queensland. It is the first member of the family...
 > -- *[[ARedfinnedBlueeyeANewSpeciesAn_14398]]*
 
+> This study by Peter J. Unmack (Arizona State University, *Journal of Biogeography* 28: 1053–1089, 2001) examines the biogeographic patterns of Australia's obligate freshwater fishes. Using similarity coefficients, clustering, non-metric multidimensional scaling, parsimony analysis and drainage...
+> -- *[[BiogeographyOfAustralianFreshw_PML2549]]*
+
 ### Mentioned In
 - [[ARedfinnedBlueeyeANewSpeciesAn_14398]]
+- [[BiogeographyOfAustralianFreshw_PML2549]]
 
 ## Queimadela Dam
 
@@ -1226,6 +1566,18 @@ Quemado Lake is one of the five Apache National Forest lakes covered by this dra
 
 ### Mentioned In
 - [[DraftEnvironmentalStatementAqu_11508]]
+
+## Quent Bradwisch
+
+### Summary
+Quent Bradwisch is the principal investigator of this FY 2003 annual report, working with the Utah Division of Wildlife on Project 29c. The report credits him as the author of the Wahweap Operation and Maintenance summary covering bonytail and razorback sucker culture at the Wahweap State Fish Hatchery.
+
+### Context
+> This FY 2003 annual report from the [[Colorado River Recovery Program]] covers Project 29c, the operation and maintenance of the [[Wahweap State Fish Hatchery]] at Big Water, Utah. The hatchery rears [[Bonytail]] for stocking in the Upper Colorado River Basin and maintains the Upper Basin's backup...
+> -- *[[WahweapOperationAndMaintenance_PML0268]]*
+
+### Mentioned In
+- [[WahweapOperationAndMaintenance_PML0268]]
 
 ## Querandina Transgression
 
@@ -1478,6 +1830,12 @@ A genus of gobiid fishes found in the eastern Pacific, related to Gillichthys. I
 > This study examines spawning by sucker species (Catostomidae) in Deer Creek, a third-order tributary of the middle [[Wabash River]] in Carroll County, Indiana. Over spring 1977–1979 the authors combined adult sampling, blocknet movement traps, age-size analysis and spawning-site measurements. They...
 > -- *[[DifferentialUseOfStreamHabitat_18103]]*
 
+> This study examines how spawning suckers (family [[Catostomidae]]) use [[Deer Creek]], a third-order tributary of the middle [[Wabash River]] in Carroll County, Indiana. Spring sampling showed clear partitioning of the stream by species and by age-size group. [[White Sucker]] dominated the...
+> -- *[[DifferentialUseOfStreamHabitat_PML0521]]*
+
+> This document is a scanned, partly illegible research report comparing a **channelized** reach of the [[Little Sioux River]] in [[Iowa]] with an adjacent **unchannelized** reach. It compares physical habitat, water temperature and turbidity, benthic and drift invertebrates, and fish catches, and it...
+> -- *[[EffectsOfStreamChannelizationO_PML0988]]*
+
 ### Mentioned In
 - [[LarvalDevelopmentOfTheShorthea_14149]]
 - [[InlandCommercialFisheriesWorks_15658]]
@@ -1488,6 +1846,8 @@ A genus of gobiid fishes found in the eastern Pacific, related to Gillichthys. I
 - [[ResponsesOfSomeMinnowsToFloodA_18410]]
 - [[SomeTrendsInTheCommercialFishe_17393]]
 - [[DifferentialUseOfStreamHabitat_18103]]
+- [[DifferentialUseOfStreamHabitat_PML0521]]
+- [[EffectsOfStreamChannelizationO_PML0988]]
 
 ## Quillback Carpsucker
 <!-- fm: auto_enriched: true -->
@@ -1534,6 +1894,12 @@ A compound in the low toxicity class. Lake trout were roughly ten times as sensi
 > This methods study, from the [[University of Florida]], evaluates anesthetics and surgical techniques for implanting [[Radio Telemetry]] transmitters into the body cavity of grass carp (*Ctenopharyngodon idella*) weighing 1.6–3.7 kg. The work supports a larger project using [[Grass Carp]] for...
 > -- *[[AnesthesiaAndSurgicalProcedure_20601]]*
 
+> This protocol, recommended by the [[Colorado River Fishes Recovery Team]], sets out how field personnel should handle, hold, and transport wild [[Bonytail]] (*Gila elegans*) captured in the [[Upper Colorado River Basin]]. The default goal is to keep every captured bonytail alive and deliver it to a...
+> -- *[[AProtocolForTheHandlingAndTran_PML2532]]*
+
+> This protocol, recommended by the [[Colorado River Fishes Recovery Team]], directs field personnel to retain every wild [[Bonytail]] (*Gila elegans*) they encounter, alive, for placement in refugia. It sets out the required equipment, the field criteria for confirming a bonytail, handling and...
+> -- *[[AProtocolForTheHandlingAndTran_PML0065]]*
+
 ### Mentioned In
 - [[LetterFromCarlLHubbsToEdwardSt_1972_04_18]]
 - [[QuinaldineAsAnAnestheticOnSire_1961]]
@@ -1543,6 +1909,8 @@ A compound in the low toxicity class. Lake trout were roughly ten times as sensi
 - [[AnIntroductionToTheFishesOfThe_13414]]
 - [[QuinaldineANewAnestheticForFis_15479]]
 - [[AnesthesiaAndSurgicalProcedure_20601]]
+- [[AProtocolForTheHandlingAndTran_PML2532]]
+- [[AProtocolForTheHandlingAndTran_PML0065]]
 
 ## Quinaldine Sulfate
 
@@ -1612,6 +1980,30 @@ Quinaldine Sulfate is a chemical agent used to anaesthetise fish. In this source
 ### Mentioned In
 - [[StationProfileOfTheQ_1993]]
 
+## Quinebaug River
+
+### Summary
+A river in eastern Connecticut that joins the Shetucket and Yantic rivers at Norwich to form the Thames River estuary. The source lists it as one of the three rivers forming the study estuary.
+
+### Context
+> This study by [[Paul C. Marsh]] (University of Connecticut, Department of Natural Resources Conservation) estimates the age and growth of [[Striped Bass]] (*Morone saxatilis*) in the [[Thames River Estuary]], Connecticut. Ages were determined by [[Scale Analysis]] of fish collected in 1972 and...
+> -- *[[AgeAndGrowthOfStripedBassMoron_PML1445]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfStripedBassMoron_PML1445]]
+
+## Quinebaug-Shetucket River
+
+### Summary
+A river in eastern Connecticut that joins the Yantic River at Norwich to form the upper Thames River Estuary. The source names it only as one of the two tributaries forming the estuary.
+
+### Context
+> This technical report by [[Paul C. Marsh]] estimates the age and growth of [[Striped Bass]] (*Morone saxatilis*) in the [[Thames River Estuary]], Connecticut. Fish were collected in 1972 and 1973 and aged from scales. Back-calculated fork lengths at the end of the first six years of life are...
+> -- *[[AgeAndGrowthOfStripedBassMoron_PML1444]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfStripedBassMoron_PML1444]]
+
 ## Quinnat
 
 ### Summary
@@ -1623,6 +2015,18 @@ The quinnat (Salmo quinnat), also called California salmon, is a large Pacific s
 
 ### Mentioned In
 - [[AppendixBTheSalmonAndTroutSpec_14665]]
+
+## Quinolone Antimicrobials
+
+### Summary
+A class of synthetic antibacterial drugs used in fish farming to treat bacterial infections. According to this source, quinolones were the most commonly used antimicrobial group in Norwegian aquaculture at the time. The study compares four members of this group in Atlantic salmon.
+
+### Context
+> This study by [[Martinsen and Horsberg]] (Norwegian College of Veterinary Medicine, Oslo) compared the single-dose pharmacokinetics of four [[Quinolone Antimicrobials]] in [[Atlantic Salmon]] (*Salmo salar*) postsmolts held in seawater at 10.2 ± 0.2 °C. The agents were [[Oxolinic Acid]],...
+> -- *[[ComparativeSingledosePharmacok_PML1596]]*
+
+### Mentioned In
+- [[ComparativeSingledosePharmacok_PML1596]]
 
 ## Quintana
 
@@ -1663,6 +2067,18 @@ Quintero is a small laguna (10 × 20 meters) in the Cuatro Ciénegas Basin of Co
 
 ### Mentioned In
 - [[HistocompatibilityStudiesOfThe_16290]]
+
+## Quist et al. Recommendations
+
+### Summary
+Guidance on selecting and validating aging structures for fish age estimation. The authors followed these recommendations in choosing otolith ages for all subsequent analyses after finding that otoliths gave the most precise age estimates in their comparison.
+
+### Context
+> This study compares three aging structures ([[Scale Aging]], [[Opercular Bone]], and [[Otolith]] analysis) for [[Roundtail Chub]] (*[[Gila robusta]]*) collected from the [[Yampa River]] in [[Dinosaur National Monument]] during 1998, 1999, 2001, and 2002. It also describes age structure, mortality,...
+> -- *[[ComparisonOfAgingStructuresAnd_PML2267]]*
+
+### Mentioned In
+- [[ComparisonOfAgingStructuresAnd_PML2267]]
 
 ## Quitobaquito
 
@@ -1746,10 +2162,14 @@ Quitobaquito Basin is an area within Organ Pipe Cactus National Monument contain
 > The [[Organ Pipe Cactus National Monument]] annual summary for 1992 reports on the endangered [[Quitobaquito Desert Pupfish]] (*Cyprinodon macularius eremus*), an endemic desert pupfish inhabiting the spring outflows and pond at [[Quitobaquito Springs]]. Weekly inspections and an annual census were...
 > -- *[[AnnualSummaryOfActivitiesQuito_19496]]*
 
+> This document is a near-final draft report by [[Michael Douglas and Marlis Douglas]] (Arizona State University) that proposes a standardized annual census for the endangered [[Quitobaquito Desert Pupfish]] (*Cyprinodon macularius eremus*) at [[Quitobaquito Springs]] and pond in [[Organ Pipe Cactus...
+> -- *[[QuitobaquitoDesertPupfishMonit_PML0611]]*
+
 ### Mentioned In
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
 - [[WrittenCommentsOnSupplementToD_20523]]
 - [[AnnualSummaryOfActivitiesQuito_19496]]
+- [[QuitobaquitoDesertPupfishMonit_PML0611]]
 
 ## Quitobaquito Ecosystem
 
@@ -1782,9 +2202,21 @@ A habitat restoration project at Quitobaquito Springs, begun in November 1989 wi
 > This report documents the 1989 annual census of [[Desert Pupfish]] (*Cyprinodon macularius eremus*) conducted at [[Quitobaquito Pond]] in [[Organ Pipe Cactus National Monument]] on September 27-28, 1989, under U.S. Fish and Wildlife Service endangered species permit PRT-676811. Using a...
 > -- *[[ReportOnTheAnnualCensusOfCypri_18280]]*
 
+> This document is a meeting agenda and logistics sheet for a May 28, 2009 status review of the low-water situation at [[Quitobaquito Pond]] within [[Organ Pipe Cactus National Monument]]. The agenda covers the pond's history, its current condition, and management options, and includes a subgroup...
+> -- *[[QuitobaquitoPondLowwaterSituat_PML0003]]*
+
+> This document is a letter from a zoologist at [[Arizona State University]] to [[E. Peter Sennett]] of the [[National Park Service]]. It reports preliminary limnological findings and management recommendations for [[Quitobaquito Pond]] and its spring-fed system at [[Quitobaquito Springs]], within...
+> -- *[[QuitobaquitoPondLimnologicalFi_PML0817]]*
+
+> This technical report (Cooperative National Park Resources Studies Unit, Technical Report No. 22; Quitobaquito Science Series No. 8, June 1989) by [[Stuart G. Fisher]] characterizes the hydrology and limnology of [[Quitobaquito Pond]] and its springs in the Sonoran Desert. It develops a midsummer...
+> -- *[[HydrologicAndLimnologicFeature_PML0820]]*
+
 ### Mentioned In
 - [[NonNativeFishSurveyOfTheQuitob_11721]]
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
+- [[QuitobaquitoPondLowwaterSituat_PML0003]]
+- [[QuitobaquitoPondLimnologicalFi_PML0817]]
+- [[HydrologicAndLimnologicFeature_PML0820]]
 
 ## Quitobaquito Pool
 
@@ -1795,8 +2227,12 @@ Quitobaquito Pool is the spring-fed pool at Organ Pipe Cactus National Monument 
 > This final report, submitted by [[Boyd E. Kynard]] to the [[National Park Service]] in August 1979, closes a three-phase study (1975–78) of the [[Quitobaquito Pupfish]] at [[Organ Pipe Cactus National Monument]], Arizona. It covers water quality, population size and spawning success, pesticide...
 > -- *[[StudyOfQuitobaquitoPupfishpres_12500]]*
 
+> This report, the second of three studies on the [[Quitobaquito Pupfish]] (*[[Cyprinodon Macularius]]*), covers June 1976 to September 1977 and was prepared at the University of Arizona. It addresses five topics: water quality at [[Quitobaquito Pool]] and [[Williams Spring]], population size and age...
+> -- *[[StudyOfQuitobaquitoPupfishSyst_PML1307]]*
+
 ### Mentioned In
 - [[StudyOfQuitobaquitoPupfishpres_12500]]
+- [[StudyOfQuitobaquitoPupfishSyst_PML1307]]
 
 ## Quitobaquito Pupfish
 <!-- fm: auto_enriched: true -->
@@ -1853,6 +2289,72 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 > This final report, submitted by [[Boyd E. Kynard]] to the [[National Park Service]] in August 1979, closes a three-phase study (1975–78) of the [[Quitobaquito Pupfish]] at [[Organ Pipe Cactus National Monument]], Arizona. It covers water quality, population size and spawning success, pesticide...
 > -- *[[StudyOfQuitobaquitoPupfishpres_12500]]*
 
+> This paper, published in the [[Desert Fishes Council]] symposium volume (1998 symposium, published November 15, 1999), assesses mitochondrial DNA (mtDNA) variation in [[Desert Pupfish]] across 11 wild populations and one captive stock held at the [[Dexter National Fish Hatchery and Technology...
+> -- *[[MitochondrialDnaVariationInDes_PML0691]]*
+
+> This document is a bilingual (English and Spanish) set of three abstracts from the [[Desert Fishes Council]] Proceedings, Volume XXX (1998 Symposium), published November 15, 1999. The papers cover endangered desert fish management, genetic monitoring of a conservation stocking program, and drift...
+> -- *[[PopulationEstimatesPopulationM_PML0607]]*
+
+> This excerpt contains three abstracts (with Spanish translations) from the *Proceedings of the Desert Fishes Council*, Volume XXX, published November 15, 1999, following the 1998 symposium. The papers cover: 1. **Population movements of the [[Quitobaquito Pupfish]]**, an endangered fish endemic to...
+> -- *[[SuccessInConservationMolecular_PML0633]]*
+
+> This U.S. Fish and Wildlife Service report, prepared by Dr. C.O. Minckley of the [[Arizona Fishery Resources Office]] in Parker, Arizona, gives the first census of two constructed refugia populations of the [[Desert Pupfish]] (*[[Cyprinodon Macularius Macularius]]*), an endangered fish....
+> -- *[[PopulationEstimatesForRefugiaP_PML1783]]*
+
+> This annual report from the [[Arizona Game and Fish Department]] covers fiscal year (FY) 2011 (July 1, 2010 to June 30, 2011) under the statewide [[Safe Harbor Agreement]] (SHA) for [[Gila Topminnow]] and [[Desert Pupfish]]. The agreement was signed by the Department and the [[US Fish and Wildlife...
+> -- *[[SectionAaPermitAnnualReport_PML0139]]*
+
+> This document argues that Arizona's native freshwater fishes are in severe decline and that their loss signals broader damage to the state's aquatic ecosystems. Of the 31 freshwater fish kinds originally present in Arizona, 26 are listed by the [[U.S. Fish and Wildlife Service]] as Endangered,...
+> -- *[[NoTimeLeftarizonasNativeFishes_PML1848]]*
+
+> This U.S. Fish & Wildlife Service report by C.O. Minckley (Arizona Fishery Resources Office-Parker, September 2005) gives mark-recapture population estimates for two constructed refuge populations of the endangered [[Desert Pupfish]], *Cyprinodon macularius macularius*, sampled in July 2005. The...
+> -- *[[PopulationEstimatesForDesertPu_PML1786]]*
+
+> This final report, submitted August 1, 1979, by [[Boyd E. Kynard]] (University of Arizona, Fisheries Science) to the [[National Park Service]], summarizes three phases of work on the [[Quitobaquito Pupfish]] at [[Organ Pipe Cactus National Monument]] from 1975 to 1978. The study monitored the...
+> -- *[[StudyOfQuitobaquitoPupfishPres_PML1304]]*
+
+> This report, the second of three studies on the [[Quitobaquito Pupfish]] (*[[Cyprinodon Macularius]]*), covers June 1976 to September 1977 and was prepared at the University of Arizona. It addresses five topics: water quality at [[Quitobaquito Pool]] and [[Williams Spring]], population size and age...
+> -- *[[StudyOfQuitobaquitoPupfishSyst_PML1307]]*
+
+> This USFWS Arizona Fisheries Resource Office report (October 2006), prepared by C.O. Minckley and T. Thorson, estimates population sizes of the [[Desert Pupfish]] (*Cyprinodon macularius macularius*) in artificial refuge ponds on [[Cibola National Wildlife Refuge]] (CNWR) and [[Imperial National...
+> -- *[[RefugePopulationEstimatesAtImp_PML1807]]*
+
+> This document is a review packet issued by the [[Arizona Game and Fish Department]] (Nongame Branch) in August 1987. It invites expert comment on a proposed revision of the state's List of Threatened Native Wildlife, last revised in 1982. The packet contains a cover letter, ground rules for...
+> -- *[[ProposedThreatenedAndEndangere_PML0095]]*
+
+> This technical report (Cooperative National Park Resources Studies Unit, Technical Report No. 22; Quitobaquito Science Series No. 8, June 1989) by [[Stuart G. Fisher]] characterizes the hydrology and limnology of [[Quitobaquito Pond]] and its springs in the Sonoran Desert. It develops a midsummer...
+> -- *[[HydrologicAndLimnologicFeature_PML0820]]*
+
+> This Arizona Game and Fish Department special report, prepared by [[Matt Brown]] and [[Francisco J. Abarca]] under Project E5-2, Job 9 (Title VI of the Endangered Species Act), updates the status of [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*)...
+> -- *[[AnUpdateStatusReportOfTheSonor_PML0294]]*
+
+> This U.S. Fish and Wildlife Service recovery plan, prepared by [[Paul C. Marsh]] and Donald W. Sada for the Arizona Game and Fish Department (August 1992), addresses the [[Desert Pupfish]], listed as endangered throughout its range. The taxon comprises two subspecies: the [[Colorado River Pupfish]]...
+> -- *[[DesertPupfishRecoveryPlan_PML1470]]*
+
+> This is a 1991 technical draft of the recovery action plan for the [[Desert Pupfish]] (*Cyprinodon macularius*), prepared by Paul C. Marsh (Arizona State University) and Ronald W. Sada for U.S. Fish and Wildlife Service Region 2 under contract to the Tonto National Forest. It was reviewed by the...
+> -- *[[TechnicalDraftDesertPupfishCyp_PML1548]]*
+
+> This Arizona Game and Fish Department special report assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) in Arizona, based on field surveys from June 1989 to April 1990 and a review of historic records. Both species were...
+> -- *[[StatusOfTheSonoranTopminnowPoe_PML0145]]*
+
+> This Arizona Game and Fish Department special report assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) using field surveys from June 1989 to April 1990 and a review of historic records. Both species were federally listed...
+> -- *[[StatusOfTheSonoranTopminnowPoe_PML0155]]*
+
+> This Pima County staff report, prepared for the Sonoran Desert Conservation Plan and compiled with data from [[Wendell Minckley]], reconstructs the historical distribution of native fishes in Pima County, Arizona. Historic records document 8 native fish species within the county, four of which no...
+> -- *[[HistoricalOccurrenceOfNativeFi_PML2289]]*
+
+> This report, prepared by Sally E. Stefferud and Jerome A. Stefferud in cooperation with Paul C. Marsh of the [[Native Fish Lab]] at Arizona State University for the U.S. Bureau of Reclamation (dated August 13, 2007), examines whether fish, both native and nonnative, can move upstream through "dry"...
+> -- *[[FishMovementThroughIntermitten_PML2450]]*
+
+> This is the 1993 draft U.S. Fish and Wildlife Service (Region 2) recovery plan for the [[Desert Pupfish]], *Cyprinodon macularius*, listed as endangered throughout its range. Prepared by Paul C. Marsh (Arizona State University) and Donald W. Sada (Bishop, California), with assistance from the...
+> -- *[[DesertPupfishRecoveryPlan_PML1579]]*
+
+> This Arizona Game and Fish Department (AGFD) Technical Report (NGTR 118, June 1997), authored by David A. Weedman and Kirk L. Young, reviews the status of two federally endangered desert fishes, the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) and the [[Desert Pupfish]]...
+> -- *[[StatusOfTheGilaTopminnowAndDes_PML2859]]*
+
+> This Arizona Game and Fish Department (AGFD) Nongame Branch technical report (No. 118, June 1997) by [[David A. Weedman]] and [[Kirk L. Young]] reviews five years (1992–1997) of monitoring, reintroduction and management for two federally endangered desert fishes: the [[Gila Topminnow]] and the...
+> -- *[[StatusOfTheGilaTopminnowAndDes_PML2855]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -1891,6 +2393,28 @@ The Quitobaquito Pupfish (Cyprinodon maculatus ార subspecies) is a criticall
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
 - [[DesertPupfishCyprinodonMacular_17044]]
 - [[StudyOfQuitobaquitoPupfishpres_12500]]
+- [[MitochondrialDnaVariationInDes_PML0691]]
+- [[PopulationEstimatesPopulationM_PML0607]]
+- [[SuccessInConservationMolecular_PML0633]]
+- [[PopulationEstimatesForRefugiaP_PML1783]]
+- [[SectionAaPermitAnnualReport_PML0139]]
+- [[NoTimeLeftarizonasNativeFishes_PML1848]]
+- [[PopulationEstimatesForDesertPu_PML1786]]
+- [[StudyOfQuitobaquitoPupfishPres_PML1304]]
+- [[StudyOfQuitobaquitoPupfishSyst_PML1307]]
+- [[RefugePopulationEstimatesAtImp_PML1807]]
+- [[ProposedThreatenedAndEndangere_PML0095]]
+- [[HydrologicAndLimnologicFeature_PML0820]]
+- [[AnUpdateStatusReportOfTheSonor_PML0294]]
+- [[DesertPupfishRecoveryPlan_PML1470]]
+- [[TechnicalDraftDesertPupfishCyp_PML1548]]
+- [[StatusOfTheSonoranTopminnowPoe_PML0145]]
+- [[StatusOfTheSonoranTopminnowPoe_PML0155]]
+- [[HistoricalOccurrenceOfNativeFi_PML2289]]
+- [[FishMovementThroughIntermitten_PML2450]]
+- [[DesertPupfishRecoveryPlan_PML1579]]
+- [[StatusOfTheGilaTopminnowAndDes_PML2859]]
+- [[StatusOfTheGilaTopminnowAndDes_PML2855]]
 
 ## Quitobaquito Pupfish Subspecies
 <!-- fm: auto_enriched: true -->
@@ -1968,6 +2492,36 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 > This study by [[Jason B. Dunham]] and [[W. L. Minckley]] (Arizona State University, published in *Biological Conservation*, 1998) compares allozymic (protein-electrophoresis) genetic variation among wild and captive populations of the endangered [[Desert Pupfish]] (*Cyprinodon macularius...
 > -- *[[AllozymicVariationInDesertPupf_19163]]*
 
+> This U.S. Fish and Wildlife Service report, prepared by Dr. C.O. Minckley of the [[Arizona Fishery Resources Office]] in Parker, Arizona, gives the first census of two constructed refugia populations of the [[Desert Pupfish]] (*[[Cyprinodon Macularius Macularius]]*), an endangered fish....
+> -- *[[PopulationEstimatesForRefugiaP_PML1783]]*
+
+> This U.S. Fish & Wildlife Service report by C.O. Minckley (Arizona Fishery Resources Office-Parker, September 2005) gives mark-recapture population estimates for two constructed refuge populations of the endangered [[Desert Pupfish]], *Cyprinodon macularius macularius*, sampled in July 2005. The...
+> -- *[[PopulationEstimatesForDesertPu_PML1786]]*
+
+> This first annual report by [[Allan A. Schoenherr]] compares two populations of the endangered [[Desert Pupfish]] (*Cyprinodon macularius*) in Riverside County, California. The study contrasts a constant-temperature population at [[Oasis Spring]], introduced in 1977, with a natural population in...
+> -- *[[AComparisonOfTwoPopulationsOfT_PML2306]]*
+
+> This final report, submitted August 1, 1979, by [[Boyd E. Kynard]] (University of Arizona, Fisheries Science) to the [[National Park Service]], summarizes three phases of work on the [[Quitobaquito Pupfish]] at [[Organ Pipe Cactus National Monument]] from 1975 to 1978. The study monitored the...
+> -- *[[StudyOfQuitobaquitoPupfishPres_PML1304]]*
+
+> This USFWS Arizona Fisheries Resource Office report (October 2006), prepared by C.O. Minckley and T. Thorson, estimates population sizes of the [[Desert Pupfish]] (*Cyprinodon macularius macularius*) in artificial refuge ponds on [[Cibola National Wildlife Refuge]] (CNWR) and [[Imperial National...
+> -- *[[RefugePopulationEstimatesAtImp_PML1807]]*
+
+> This Federal Register final rule, issued by the [[U.S. Fish and Wildlife Service]] (Interior Department), lists the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the [[Endangered Species Act]] and designates [[Critical Habitat]] in Imperial County, California, and Pima...
+> -- *[[EndangeredAndThreatenedWildlif_PML0729]]*
+
+> This document is a proposed rule from the [[U.S. Fish And Wildlife Service]], published in the [[Federal Register]] in 1984. It proposes to determine the [[Desert Pupfish]] (*Cyprinodon macularius*) to be an endangered species under the [[Endangered Species Act]] and to designate four areas as...
+> -- *[[DesertPupfishCyprinodonMacular_PML0719]]*
+
+> This Arizona Game and Fish Department (AGFD) technical report documents monitoring and management of two endangered desert fishes, [[Gila Topminnow]] and [[Desert Pupfish]], on [[Bureau of Land Management]] (BLM) lands from October 2002 through October 2003. The work was funded through a BLM...
+> -- *[[GilaTopminnowAndDesertPupfishM_PML2803]]*
+
+> This U.S. Fish and Wildlife Service recovery plan, prepared by [[Paul C. Marsh]] and Donald W. Sada for the Arizona Game and Fish Department (August 1992), addresses the [[Desert Pupfish]], listed as endangered throughout its range. The taxon comprises two subspecies: the [[Colorado River Pupfish]]...
+> -- *[[DesertPupfishRecoveryPlan_PML1470]]*
+
+> This Arizona Game and Fish Department (AGFD) technical report, authored by Jeremy B. Voeltz and Robert H. Bettaso (December 2003), summarizes the status of two endangered fishes, the [[Gila Topminnow]] and the [[Desert Pupfish]], based on monitoring from 1998 through 2003. Both species declined...
+> -- *[[StatusOfTheGilaTopminnowAndDes_PML2802]]*
+
 ### Mentioned In
 - [[HabitatsOfNorthAmericanDesertF_1981]]
 - [[LetterRegardingQuitobaquitoDes_1987_01_15]]
@@ -1984,6 +2538,16 @@ Quitobaquito Spring is a small, isolated desert spring located in southwestern A
 - [[VegetationRecoveryFollowingLiv_14904]]
 - [[AReviewOfTheLifeHistoryAndStat_20583]]
 - [[AllozymicVariationInDesertPupf_19163]]
+- [[PopulationEstimatesForRefugiaP_PML1783]]
+- [[PopulationEstimatesForDesertPu_PML1786]]
+- [[AComparisonOfTwoPopulationsOfT_PML2306]]
+- [[StudyOfQuitobaquitoPupfishPres_PML1304]]
+- [[RefugePopulationEstimatesAtImp_PML1807]]
+- [[EndangeredAndThreatenedWildlif_PML0729]]
+- [[DesertPupfishCyprinodonMacular_PML0719]]
+- [[GilaTopminnowAndDesertPupfishM_PML2803]]
+- [[DesertPupfishRecoveryPlan_PML1470]]
+- [[StatusOfTheGilaTopminnowAndDes_PML2802]]
 
 ## Quitobaquito Springs
 <!-- fm: auto_enriched: true -->
@@ -2061,6 +2625,36 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This regional review, a chapter by Gerald A. Cole, surveys the limnology of the American Southwest and Middle America, an area of about 3.8 million km² spanning roughly 25° of latitude and 42° of longitude. The region's aquatic habitats are extremely varied, including [[Thermal Springs]], extremely...
 > -- *[[TheAmericanSouthwestAndMiddleA_17096]]*
 
+> This paper, presented at the [[Desert Fishes Council]] symposium and published in its proceedings, uses [[Mitochondrial DNA]] (mtDNA) variation to assess the genetic structure of the [[Desert Pupfish]]. Eleven wild populations and one captive stock were sampled. The analysis supports treating the...
+> -- *[[MitochondrialDnaVariationInDes_PML0655]]*
+
+> This student species account reviews the [[Desert Pupfish]] (*[[Cyprinodon Macularius]]*), a small cyprinodontid fish of the [[Sonoran Desert]] region. The document covers morphology, historical and current distribution, environmental tolerances, territorial and spawning behavior, growth, diet,...
+> -- *[[SpeciesAccountCyprinodonMacula_PML2291]]*
+
+> This document is a comprehensive bibliography on the native fishes and aquatic resources of the [[Death Valley System]], a Pleistocene drainage network spanning eastern California and southwestern Nevada. Compiled by Robert Rush Miller (University of Michigan), David L. Soltz (California State...
+> -- *[[FishesAndAquaticResourcesOfThe_PML1712]]*
+
+> This document is a letter from a zoologist at [[Arizona State University]] to [[E. Peter Sennett]] of the [[National Park Service]]. It reports preliminary limnological findings and management recommendations for [[Quitobaquito Pond]] and its spring-fed system at [[Quitobaquito Springs]], within...
+> -- *[[QuitobaquitoPondLimnologicalFi_PML0817]]*
+
+> This paper formally describes a new subspecies of desert pupfish, *Cyprinodon macularius eremus*, endemic to the spring-fed pond and outflow springs at [[Quitobaquito Springs]] in [[Organ Pipe Cactus National Monument]], Arizona. Morphometric comparison of 26 measurements from 12 localities across...
+> -- *[[ANewSubspeciesOfPupfishCyprino_PML1717]]*
+
+> This document is a near-final draft report by [[Michael Douglas and Marlis Douglas]] (Arizona State University) that proposes a standardized annual census for the endangered [[Quitobaquito Desert Pupfish]] (*Cyprinodon macularius eremus*) at [[Quitobaquito Springs]] and pond in [[Organ Pipe Cactus...
+> -- *[[QuitobaquitoDesertPupfishMonit_PML0611]]*
+
+> This Arizona Game and Fish Department special report assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) using field surveys from June 1989 to April 1990 and a review of historic records. Both species were federally listed...
+> -- *[[StatusOfTheSonoranTopminnowPoe_PML0155]]*
+
+> This technical report (Cooperative National Park Resources Studies Unit, Report No. 1) by [[Boyd E. Kynard]] of the University of Arizona, prepared for the [[National Park Service]] Western Region, documents a preliminary study of the [[Desert Pupfish]] (*Cyprinodon macularius*) and its habitat at...
+> -- *[[PreliminaryStudyOfTheDesertPup_PML1306]]*
+
+> This Pima County staff report, prepared for the Sonoran Desert Conservation Plan and compiled with data from [[Wendell Minckley]], reconstructs the historical distribution of native fishes in Pima County, Arizona. Historic records document 8 native fish species within the county, four of which no...
+> -- *[[HistoricalOccurrenceOfNativeFi_PML2289]]*
+
+> Miller and Fuiman (1987, *Copeia*) describe *Cyprinodon macularius eremus* as a new subspecies of the [[Desert Pupfish]] (*C. macularius*) endemic to the spring-fed pond at [[Quitobaquito Springs]] in [[Organ Pipe Cactus National Monument]], Arizona. Morphometric and meristic analyses separate the...
+> -- *[[DescriptionAndConservationStat_PML1702]]*
+
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
 - [[BiologicalOpinionResearchProje_20155]]
@@ -2090,6 +2684,16 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[ABehavioralAndEcologicalStudyO_17972]]
 - [[StudyOfQuitobaquitoPupfishsyst_12501]]
 - [[TheAmericanSouthwestAndMiddleA_17096]]
+- [[MitochondrialDnaVariationInDes_PML0655]]
+- [[SpeciesAccountCyprinodonMacula_PML2291]]
+- [[FishesAndAquaticResourcesOfThe_PML1712]]
+- [[QuitobaquitoPondLimnologicalFi_PML0817]]
+- [[ANewSubspeciesOfPupfishCyprino_PML1717]]
+- [[QuitobaquitoDesertPupfishMonit_PML0611]]
+- [[StatusOfTheSonoranTopminnowPoe_PML0155]]
+- [[PreliminaryStudyOfTheDesertPup_PML1306]]
+- [[HistoricalOccurrenceOfNativeFi_PML2289]]
+- [[DescriptionAndConservationStat_PML1702]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

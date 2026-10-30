@@ -331,8 +331,12 @@ Xenotoca eiseni (Rutter) is a goodeid with a disjunct distribution in Nayarit an
 > This paper, by John Michael Fitzsimons of the [[Louisiana State University]] Museum of Zoology, tests whether premating behavioral barriers keep three freshwater goodeid species of the genus [[Xenotoca]] apart where they live together. Laboratory crosses produced fertile hybrids from all...
 > -- *[[EthologicalIsolatingMechanisms_16436]]*
 
+> This paper describes *[[Allotoca Maculata]]*, a new viviparous goodeid fish from an endorheic basin in west-central Mexico, the second known species of the genus *[[Allotoca]]*. The new species is distinguished from its only congener, *[[Allotoca Dugesi]]*, by the position of the dorsal fin and...
+> -- *[[AllotocaMaculataANewSpeciesOfG_PML2396]]*
+
 ### Mentioned In
 - [[EthologicalIsolatingMechanisms_16436]]
+- [[AllotocaMaculataANewSpeciesOfG_PML2396]]
 
 ## Xenotoca Melanosoma
 
@@ -343,8 +347,12 @@ Xenotoca melanosoma Fitzsimons is a goodeid known only from Jalisco, with its ty
 > This paper, by John Michael Fitzsimons of the [[Louisiana State University]] Museum of Zoology, tests whether premating behavioral barriers keep three freshwater goodeid species of the genus [[Xenotoca]] apart where they live together. Laboratory crosses produced fertile hybrids from all...
 > -- *[[EthologicalIsolatingMechanisms_16436]]*
 
+> This paper describes *[[Allotoca Maculata]]*, a new viviparous goodeid fish from an endorheic basin in west-central Mexico, the second known species of the genus *[[Allotoca]]*. The new species is distinguished from its only congener, *[[Allotoca Dugesi]]*, by the position of the dorsal fin and...
+> -- *[[AllotocaMaculataANewSpeciesOfG_PML2396]]*
+
 ### Mentioned In
 - [[EthologicalIsolatingMechanisms_16436]]
+- [[AllotocaMaculataANewSpeciesOfG_PML2396]]
 
 ## Xenotoca Variata
 
@@ -577,6 +585,12 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 > This 1960 revision by Donn Eric Rosen, published in the [[Bulletin of the Florida State Museum]], reappraises the live-bearing genus [[Xiphophorus]] (platyfishes and swordtails) by combining comparative morphology, distribution, ecology, genetics, cytology, embryology, endocrinology and ethology....
 > -- *[[MiddleamericanPoeciliidFishesO_21043]]*
 
+> This study compares parasite communities of three exotic [[Poeciliidae]] species, [[Gambusia Holbrooki]], [[Xiphophorus Helleri]] and [[Xiphophorus Maculatus]], with those of 15 ecologically similar native freshwater fishes from Queensland, Australia. The central hypothesis was that poeciliids, as...
+> -- *[[RichnessPatternsInTheParasiteC_PML0618]]*
+
+> This Copeia (1965, No. 3, pp. 380–382) "Ichthyological Notes" section contains three short independent reports. The first describes sexual dimorphism in the [[Loach Minnow]] (*[[Tiaroga Cobitis]]*) from the [[Gila River]], New Mexico. The second documents the first observed spawning of the...
+> -- *[[SexualDimorphismInTheLoachMinn_PML1815]]*
+
 ### Mentioned In
 - [[FigXiphophorusMontezuma_19851]]
 - [[GeneticMarkerIdentificationInL_1986]]
@@ -604,6 +618,8 @@ Xiphophorus is a genus of small livebearing fish (family Poeciliidae) native to 
 - [[FunctionalAnatomyAndEvolutionO_21039]]
 - [[PhysiologicalGeneticsOfFishes_11043]]
 - [[MiddleamericanPoeciliidFishesO_21043]]
+- [[RichnessPatternsInTheParasiteC_PML0618]]
+- [[SexualDimorphismInTheLoachMinn_PML1815]]
 
 ## Xiphophorus Andersi
 
@@ -694,6 +710,12 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > This short review by Salvador Contreras Balderas, of the Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León, presents the endemic biota of the [[Cuatro Ciénegas Valley]] in north-central Mexico and an annotated checklist of its endemic species. About 70 local species have been...
 > -- *[[BiotaEndemicaDeCuatroCienegasC_17518]]*
 
+> This 1969 taxonomic paper in the *Proceedings of the Biological Society of Washington* describes [[Notropis Xanthicara]], a new cyprinid minnow from the [[Cuatro Ciénegas Basin]] in [[Coahuila]], northern Mexico. The authors, W. L. [[Minckley]] and Gladys L. Little of the Department of Zoology,...
+> -- *[[NotropisXanthicaraANewCyprinid_PML1870]]*
+
+> This note combines two documents. The first is a 1984 journal paper by W. L. Minckley (Arizona State University) that reviews research on the fishes of the [[Cuatro Ciénegas Basin]] in Coahuila, México, and tests whether species diversity tracks habitat size in a local setting. The second is a...
+> -- *[[CuatroCinegasFishesResearchRev_PML1835]]*
+
 ### Mentioned In
 - [[CuatroCienegasFishesResearchRe_13699]]
 - [[PartialBibliographyOnNaturalHi_13786]]
@@ -701,6 +723,8 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 - [[EndemicFishesOfTheCuatroCieneg_13685]]
 - [[HistocompatibilityStudiesOfThe_16290]]
 - [[BiotaEndemicaDeCuatroCienegasC_17518]]
+- [[NotropisXanthicaraANewCyprinid_PML1870]]
+- [[CuatroCinegasFishesResearchRev_PML1835]]
 
 ## Xiphophorus Helleri
 <!-- fm: auto_enriched: true -->
@@ -751,6 +775,9 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 > This 1953 monograph by [[Donn Eric Rosen]] and [[Myron Gordon]] (New York Aquarium, New York Zoological Society) examines the functional anatomy of the male intromittent organ, the [[Gonopodium]], in [[Poeciliidae]] (live-bearing fishes). It combines histology, vascular and nerve mapping, muscle...
 > -- *[[FunctionalAnatomyAndEvolutionO_21039]]*
 
+> This study compares parasite communities of three exotic [[Poeciliidae]] species, [[Gambusia Holbrooki]], [[Xiphophorus Helleri]] and [[Xiphophorus Maculatus]], with those of 15 ecologically similar native freshwater fishes from Queensland, Australia. The central hypothesis was that poeciliids, as...
+> -- *[[RichnessPatternsInTheParasiteC_PML0618]]*
+
 ### Mentioned In
 - [[BeiträgeZurGenetischenAnalyseX_1959]]
 - [[TheGeneticsOfFishDiseases_11040]]
@@ -763,6 +790,7 @@ Xiphophorus gordoni is an endemic platyfish (family Poeciliidae) described by Mi
 - [[GenetischeAnalyseKonstructiver_12391]]
 - [[OkologischeUndMorpholodischeBe_20926]]
 - [[FunctionalAnatomyAndEvolutionO_21039]]
+- [[RichnessPatternsInTheParasiteC_PML0618]]
 
 ## Xiphophorus Hellerii
 <!-- fm: auto_enriched: true -->
@@ -837,6 +865,9 @@ Hybridization between introduced swordtail and platyfish species (Xiphophorus he
 > This 1960 revision by Donn Eric Rosen, published in the [[Bulletin of the Florida State Museum]], reappraises the live-bearing genus [[Xiphophorus]] (platyfishes and swordtails) by combining comparative morphology, distribution, ecology, genetics, cytology, embryology, endocrinology and ethology....
 > -- *[[MiddleamericanPoeciliidFishesO_21043]]*
 
+> This study compares parasite communities of three exotic [[Poeciliidae]] species, [[Gambusia Holbrooki]], [[Xiphophorus Helleri]] and [[Xiphophorus Maculatus]], with those of 15 ecologically similar native freshwater fishes from Queensland, Australia. The central hypothesis was that poeciliids, as...
+> -- *[[RichnessPatternsInTheParasiteC_PML0618]]*
+
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
 - [[TwoOpposingSexdeterminingMecha_11042]]
@@ -849,6 +880,7 @@ Hybridization between introduced swordtail and platyfish species (Xiphophorus he
 - [[GeneAndChromosomeHomologyInFis_17873]]
 - [[FunctionalAnatomyAndEvolutionO_21039]]
 - [[MiddleamericanPoeciliidFishesO_21043]]
+- [[RichnessPatternsInTheParasiteC_PML0618]]
 
 ## Xiphophorus Milleri
 
@@ -1044,6 +1076,18 @@ A large sucker (Catostomidae) of the Colorado Basin. In this survey the authors 
 ### Mentioned In
 - [[NotesOnACollectionOfFishesObta_1889]]
 
+## Xyrauchen Lexanus
+
+### Summary
+The Razorback Sucker, a catostomid fish. Follett lists it among the few non-marine indigenous genera of Baja California and places it in the lower Colorado River faunal source, which dispersed southward.
+
+### Context
+> This document is a compiled extract from the *Systematic Zoology* Baja California Symposium. It contains a short review item by Jay M. Savage (an Associate Professor of Biology, University of Southern California, Los Angeles), with a reference list on herpetofauna, followed by the main paper, "The...
+> -- *[[TheFreshwaterFishestheirOrigin_PML0829]]*
+
+### Mentioned In
+- [[TheFreshwaterFishestheirOrigin_PML0829]]
+
 ## Xyrauchen texanus
 <!-- fm: auto_enriched: true -->
 
@@ -1165,6 +1209,72 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This Associated Press article from Kingman, Arizona, reports that the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) is in serious decline across the American Southwest. Conservationists working to restore the species are reluctant to have it federally listed as endangered, because they fear...
 > -- *[[ItsAnUphillBattleForRazorbackS_18272]]*
 
+> This document holds two abstracts from the Proceedings of the [[Desert Fishes Council]] (Vol. XXXII, 2000 Symposium). The first is a telemetry study of wild adult [[Razorback Sucker]] (*[[Xyrauchen texanus]]*) in [[Lake Mohave]], Arizona-Nevada, which tracked fish by [[Sonic Telemetry]] from 1994...
+> -- *[[DistributionMovementsAndHabita_PML1977]]*
+
+> This hatchery report documents survival and growth of [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) reared in earthen ponds during 1985 at [[Dexter National Fish Hatchery]], New Mexico. The species is endemic to the [[Colorado River Basin]], has declined in the past century, and has been proposed...
+> -- *[[SurvivalOfRazorbackSuckerCultu_PML0975]]*
+
+> This paper by Paul C. Marsh reports the first well-documented spawning of [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) in a riverine (lotic) setting. Although the species was historically common throughout the [[Colorado River Drainage]], it is now very rare. Spawning records had come almost...
+> -- *[[SpawningObservationsOfRazorbac_PML1933]]*
+
+> This interim report from the [[Arizona State University]] Department of Zoology, prepared for the [[U.S. Fish and Wildlife Service]], describes preliminary pond experiments on larval [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The species has been extirpated from much of its range, and the only...
+> -- *[[InterimReportOnStudiesOfGrowth_PML2082]]*
+
+> This 1997 memorandum from [[W. L. Minckley]] of Arizona State University to [[Mike Walker]] at the [[Bureau of Reclamation]] comments on Provision (RPA) 10 of the [[U.S. Fish and Wildlife Service]] [[Biological Opinion]] on Lower Colorado River operations and maintenance, and on the Lower Colorado...
+> -- *[[CommentsOnRecruitmentOfRazorba_PML1855]]*
+
+> This San Bernardino County Museum Association publication, prepared for the 1993 Desert Research Symposium, reports fossil [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) remains from [[Anza-Borrego Desert State Park]] in Southern California. The authors, Stewart and Roeder, present the first...
+> -- *[[RazorbackSuckerXyrauchenTexanu_PML2462]]*
+
+> This study tests whether dragonfly and damselfly nymphs, common in the Arizona-Nevada backwaters of [[Lake Mohave]], are a significant cause of high larval mortality in the endangered [[Razorback Sucker]]. Two laboratory aquarium experiments (1992 and 1993) showed that odonate nymphs can destroy...
+> -- *[[PredationByOdonateNymphsOnLarv_PML1093]]*
+
+> This excerpt from Richard W. Casteel's *Fish Remains in Archaeology and Paleo-environmental Studies* shows how archaeological fish bones can reconstruct past fish biology and environments. The main case study uses a single [[Proatlas Vertebra]] of the [[Humpback Sucker]] ([[Xyrauchen Texanus]])...
+> -- *[[TheGrowthRateOfXyrauchenTexanu_PML0392]]*
+
+> This report documents a recent outbreak of the copepod ectoparasite [[Lernaea Cyprinacea]] on native fishes in the Colorado River system of [[Grand Canyon]], Arizona. Infestations were found in two tributaries, [[Kanab Creek]] and the [[Little Colorado River]], and at the largest remaining breeding...
+> -- *[[InfestationsOfTheCopepodParasi_PML0373]]*
+
+> This study by [[Marsh]] (1988, *Environmental Biology of Fishes* 21(1): 59-67) examines the feeding and survival of wild larval [[Razorback Sucker]] (*[[Xyrauchen texanus]]*), an imperiled endemic of the [[Colorado River]] basin, in [[Lake Mohave]] and the adjacent [[Arizona Bay Backwater]]. Larvae...
+> -- *[[FeedingAndFateOfWildLarvalRazo_PML1557]]*
+
+> This species account describes the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*), a large [[Catostomidae|catostomid]] of western North America. The account covers its morphology, coloration, reproduction, feeding, habitat preferences, and historical and recent distribution. The species has been...
+> -- *[[RazorbackHumpbackSuckerXyrauch_PML1822]]*
+
+> This study examines whether the water temperatures found in [[Lake Mohave]] allow successful embryonic development and larval emergence in the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*), an endangered catostomid of the [[Colorado River]]. The authors combined field collections of larvae from...
+> -- *[[EffectsOfAmbientLakeMohaveTemp_PML0665]]*
+
+> This experimental study by Clarkson and Childs (2000, *Copeia* 2:402–412) tests how cold water released from [[Hypolimnial-Release Dams]] affects early life stages of four imperiled [[Colorado River Basin]] big-river fishes: [[Razorback Sucker]], [[Flannelmouth Sucker]], [[Humpback Chub]], and...
+> -- *[[TemperatureEffectsOfHypolimnia_PML0440]]*
+
+> This taxonomic paper reports on a collection of freshwater fishes made by [[Dr. Edgar A. Mearns]], US Army medical officer and naturalist, while in charge of the biological section of the Mexican Boundary Survey (1892–1894). The specimens came from the [[Colorado River]] and its tributaries, the...
+> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
+
+> This study tested whether site acclimation and rearing environment affect the postrelease dispersal of hatchery-reared [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). Dispersal from the stocking sites was rapid and declined over time in all tests. Downstream drift was greatest from a small...
+> -- *[[FactorsInfluencingPoststocking_PML1970]]*
+
+> This annotated checklist by [[James E. Deacon]] and [[Jack E. Williams]] (Proceedings of the Biological Society of Washington, vol. 97, no. 1, 1984) records all fishes known from Nevada during historical times, both native and introduced, whether or not established. The list comprises 160 fishes...
+> -- *[[AnnotatedListOfTheFishesOfNeva_PML0537]]*
+
+> This short two-part note contains (1) a description of the distribution and form of breeding tubercles in a single male [[Xyrauchen Texanus]] (Abbott) specimen, which suggests a closer relationship to [[Catostomus]] than to [[Chasmistes]], and (2) a brief locality note on the disjunct distribution...
+> -- *[[ObservationsOnBreedingTubercle_PML0274]]*
+
+> This document is a two-paper compilation from *Conservation Biology* (Volume 10, No. 1, February 1996). The first paper (pp. 120–127; Dowling, Minckley, Marsh and Goldstein) examines mitochondrial DNA (mtDNA) diversity in the endangered [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) in a source...
+> -- *[[MitochondrialDnaVariabilityInT_PML1901]]*
+
+> This taxonomic paper describes *Gila cypha*, a new species of cyprinid fish from the [[Colorado River]] in [[Grand Canyon]], Arizona. The holotype, a specimen about 305 mm standard length, was collected near [[Phantom Ranch]]. The author distinguishes the species from congeners mainly by its...
+> -- *[[GilaCyphaNSp_PML1727]]*
+
+> This document is a scanned, multi-page research table (OCR-degraded) that reports the total length, in millimetres, at which selected morphological characters develop during the larval stage of several [[Minnow]] (Cyprinidae) and [[Sucker]] (Catostomidae) species. The characters tracked are the...
+> -- *[[NativePostlarvalFishesOfTheLow_PML2914]]*
+
+> This document bundles a peer-review solicitation from [[Southwestern Naturalist]] with the manuscript it concerns (F-05-87), a field study of [[Razorback Sucker]] spawning in [[Lake Mohave]] during 1982-1983. The authors (Bozek, Paulson, Wilde and Deacon) report a protracted, seven-month spawning...
+> -- *[[SpawningCharacteristicsOfTheRa_PML0261]]*
+
+> This symposium paper by W. L. Follett reviews the indigenous fishes recorded from fresh water in [[Baja California]]. It reports 29 species in 25 genera and 17 families. Nearly all are of marine affinity, and the only endemic species is [[Fundulus Lima]]. The author concludes that Baja California...
+> -- *[[TheFreshwaterFishesTheirOrigin_PML0830]]*
+
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -1240,6 +1350,28 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[ReRefugiumIdeaAndSpeciesWhichS_13998]]
 - [[RazorbackSuckerXyrauchenFossil_14836]]
 - [[ItsAnUphillBattleForRazorbackS_18272]]
+- [[DistributionMovementsAndHabita_PML1977]]
+- [[SurvivalOfRazorbackSuckerCultu_PML0975]]
+- [[SpawningObservationsOfRazorbac_PML1933]]
+- [[InterimReportOnStudiesOfGrowth_PML2082]]
+- [[CommentsOnRecruitmentOfRazorba_PML1855]]
+- [[RazorbackSuckerXyrauchenTexanu_PML2462]]
+- [[PredationByOdonateNymphsOnLarv_PML1093]]
+- [[TheGrowthRateOfXyrauchenTexanu_PML0392]]
+- [[InfestationsOfTheCopepodParasi_PML0373]]
+- [[FeedingAndFateOfWildLarvalRazo_PML1557]]
+- [[RazorbackHumpbackSuckerXyrauch_PML1822]]
+- [[EffectsOfAmbientLakeMohaveTemp_PML0665]]
+- [[TemperatureEffectsOfHypolimnia_PML0440]]
+- [[CollectionOfFishesMadeByDrEdga_PML2406]]
+- [[FactorsInfluencingPoststocking_PML1970]]
+- [[AnnotatedListOfTheFishesOfNeva_PML0537]]
+- [[ObservationsOnBreedingTubercle_PML0274]]
+- [[MitochondrialDnaVariabilityInT_PML1901]]
+- [[GilaCyphaNSp_PML1727]]
+- [[NativePostlarvalFishesOfTheLow_PML2914]]
+- [[SpawningCharacteristicsOfTheRa_PML0261]]
+- [[TheFreshwaterFishesTheirOrigin_PML0830]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->

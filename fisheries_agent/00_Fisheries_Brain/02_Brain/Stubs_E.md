@@ -28,6 +28,18 @@ The E value is the percentage of a species' share of total population weight, us
 ### Mentioned In
 - [[RelationshipsAndDynamicsOfBala_15099]]
 
+## E&R Center
+
+### Summary
+The Division of Research and Laboratory Services at the Bureau of Reclamation, whose Environmental Sciences Section conducted the Parker I fishery study. This source names it as the organization responsible for the work.
+
+### Context
+> This Bureau of Reclamation memorandum (Applied Sciences Referral No. 86-2-2, dated March 20, 1986) summarizes the first two sampling trips (October 1985 and December 1985) of the [[Parker I Fishery Study]] on the highly modified [[Lower Colorado River]]. The study collected quantitative...
+> -- *[[ParkerIFisheryStudyDataSummary_PML1052]]*
+
+### Mentioned In
+- [[ParkerIFisheryStudyDataSummary_PML1052]]
+
 ## E-erqisi River
 
 ### Summary
@@ -193,8 +205,12 @@ E. G. Marsh Jr. was an early collector who gathered vertebrates from northern Co
 > This early account by [[D. W. Taylor]] and [[W. L. Minckley]] introduces the [[Cuatro Ciénegas Basin]], a small, closed desert basin in central [[Coahuila]], Mexico, as a biologically exceptional site. Despite its modest size (about 20 by 30 miles), the basin combines a rich, largely endemic...
 > -- *[[NewWorldForBiologists_13514]]*
 
+> This taxonomic paper describes two new livebearing fishes of the genus [[Gambusia]] from northeastern Mexico. [[Gambusia Longispinis]] is restricted to the semi-isolated, intermontane [[Cuatro Ciénegas Basin]] in Coahuila. [[Gambusia Marshi]] is widespread throughout the [[Río Salado Basin]]. The...
+> -- *[[TwoNewSpeciesOfFishesOfTheGenu_PML1811]]*
+
 ### Mentioned In
 - [[NewWorldForBiologists_13514]]
+- [[TwoNewSpeciesOfFishesOfTheGenu_PML1811]]
 
 ## E. G. Zies
 
@@ -280,6 +296,18 @@ Co-author, with Harry D. Van Meter, of this 1979 Great Lakes Fishery Commission 
 - [[AnAnnotatedBibliographyOfTheCh_18064]]
 - [[AnAnnotatedBibliographyOfTheMu_18066]]
 
+## E. K. Balon
+
+### Summary
+E. K. Balon is the author of this 2004 review, the thirteenth J.W. Jones Lecture published in the Journal of Fish Biology. In it, Balon examines when and how fishes became true domesticates, argues that the common carp was the first true fish domesticate (in Central Europe), and concludes that only the guppy and neon tetra clearly qualify among aquarium species today.
+
+### Context
+> This review by [[E. K. Balon]], the thirteenth J.W. Jones Lecture published in the *Journal of Fish Biology* (2004, Supplement A), examines when and how fishes became true domesticates. Balon argues that fish domestication began much later than that of mammals, that the first true fish domesticate...
+> -- *[[AboutTheOldestDomesticatesAmon_PML0167]]*
+
+### Mentioned In
+- [[AboutTheOldestDomesticatesAmon_PML0167]]
+
 ## E. Kalkowsky
 
 ### Summary
@@ -301,6 +329,18 @@ E. Kalkowsky is the researcher credited in this source with introducing the term
 
 ### Mentioned In
 - [[NotesOnOdonataFromTheVicinityO_14838]]
+
+## E. O. Wilson
+
+### Summary
+Biologist who, with Levins, Lewontin, and MacArthur, sought in the 1960s to unify ecological and evolutionary approaches to population biology. The source mentions him only as part of this group.
+
+### Context
+> This paper by philosopher Jay Odenbaugh (*Philosophy of Science* 70, December 2003, pp. 1496–1507) defends ecologist [[Richard Levins]]'s thesis that biologists building mathematical models must trade off generality, precision, and realism because biological systems are complex. [[Steven Orzack]]...
+> -- *[[ComplexSystemsTradeoffsAndTheo_PML2040]]*
+
+### Mentioned In
+- [[ComplexSystemsTradeoffsAndTheo_PML2040]]
 
 ## E. P. Bergersen
 
@@ -349,6 +389,18 @@ E. P. Lyon is a researcher cited in this paper who independently showed that fis
 - [[CorrespondenceRegardingBattleA_1989_11_30]]
 - [[FourteenthAnnualSymposiumNovem_1982_08_30]]
 - [[TwentiethAnnualSymposiumfinalD_11133]]
+
+## E. Peter Sennett
+
+### Summary
+E. Peter Sennett is the National Park Service staff member to whom this 1985 letter is addressed. The source identifies him as the recipient of the limnological findings and management recommendations for Quitobaquito Pond. The note does not describe his role beyond that.
+
+### Context
+> This document is a letter from a zoologist at [[Arizona State University]] to [[E. Peter Sennett]] of the [[National Park Service]]. It reports preliminary limnological findings and management recommendations for [[Quitobaquito Pond]] and its spring-fed system at [[Quitobaquito Springs]], within...
+> -- *[[QuitobaquitoPondLimnologicalFi_PML0817]]*
+
+### Mentioned In
+- [[QuitobaquitoPondLimnologicalFi_PML0817]]
 
 ## E. R. Cross
 
@@ -515,6 +567,18 @@ Co-author of the chapter on flow variability, regulation and policy for intermit
 
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
+
+## E.S. George Reserve
+
+### Summary
+A University of Michigan field reserve that is the study area of this survey. The source uses a grid map and a numbered habitat map of its ponds, marshes and other aquatic sites. Both permanent and temporary waters occur there.
+
+### Context
+> This document is a scanned, heavily OCR-degraded research report on the aquatic habitats of the [[E.S. George Reserve]], an University of Michigan field reserve. Its core content is a numbered survey of ponds and wetlands, a species-by-habitat record of amphibian breeding, and statistical tests of...
+> -- *[[EsGeorgeReserveAquaticHabitatA_PML0477]]*
+
+### Mentioned In
+- [[EsGeorgeReserveAquaticHabitatA_PML0477]]
 
 ## Eagle Cove
 
@@ -715,6 +779,87 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 > This study documents the fish fauna of [[Eagle Creek]], a second-order stream in eastern Arizona that still supports much of its original native fish community. The stream holds 20 recorded species: 9 native (including the reintroduced [[Razorback Sucker]]) and 11 non-native. The paper reports the...
 > -- *[[FishesOfEagleCreekArizonaWithR_17041]]*
 
+> This is a short email thread (April 20–22, 2010) among hatchery staff and fisheries scientists about the progress of captive spawning and larval production at the "BP hatchery" in Arizona. The correspondents are [[David Ward]] (Arizona Game and Fish), [[Robert W. Clarkson]] (Bureau of Reclamation),...
+> -- *[[UpdateOnThingsAtBpHatchery_PML2819]]*
+
+> This report, prepared by [[Kevin R. Beetgen]] of Colorado State University for the [[U.S. Fish and Wildlife Service]] Office of Endangered Species (dated 10 September 1985), summarizes the identification of 16 collections of larval fishes made 19–24 May 1985 in the upper [[Salt River]] and [[Gila...
+> -- *[[ResultsOfIdentificationOfColle_PML0201]]*
+
+> This note covers the front matter and three abstracts from the Desert Fishes Council proceedings, published in 1995 from the 1994 symposium. Each abstract is bilingual (English and Spanish). The first two papers are complete. The third is only partly legible because of OCR damage, so its details...
+> -- *[[TheImportanceOfRecognizingIllu_PML1289]]*
+
+> This note covers three bilingual (English/Spanish) abstracts from the *Proceedings of the Desert Fishes Council* symposium, published in 1995. The papers address freshwater fish conservation in arid and montane western North America: 1. **Translocation and genetic diversity** in [[Mosquitofish]]...
+> -- *[[TheImportanceOfRecognizingIllu_PML1287]]*
+
+> This document, a bilingual (English and Spanish) U.S. Fish and Wildlife Service paper by James E. Johnson, Endangered Species Biologist, describes the first year (1981) of an effort to reintroduce the endangered [[Razorback Sucker]] into historic habitats of the [[Colorado River Basin]] in Arizona....
+> -- *[[ReintroducingTheNativeRazorbac_PML1220]]*
+
+> This is a partial, heavily degraded (OCR-scanned) field record, dated approximately 1981, of fish surveys and stocking activities in the [[Gila River]] system of Arizona. It refers to fish collected from the [[Gila River]], [[Salt River]] and [[Verde River]], and to surveys of [[Bonita Creek]] and...
+> -- *[[GilaRiverFishSurveyAndRazorbac_PML0286]]*
+
+> This 1985 technical report, prepared for the [[U.S. Fish and Wildlife Service]] Office of Endangered Species, documents a May 1985 field survey of the upper [[Salt River Basin]] and upper [[Gila River Basin]] in eastern Arizona. The survey tested suspected declines and widespread extirpation of two...
+> -- *[[ArizonaSurveyForSpikedaceMedaF_PML2179]]*
+
+> This report, submitted to the [[U.S. Fish and Wildlife Service]] Office of Endangered Species in July 1995, documents a fish survey of the upper [[Salt River Basin]] and [[Gila River Basin]] in Arizona, conducted 19 to 24 May 1985. The survey tested suspected declines and widespread extirpation of...
+> -- *[[ArizonaSurveyForSpikedaceMedaF_PML2178]]*
+
+> This EPA Environmental Research Laboratory project summary, based on work from 1978 through 1980, examines how increasing agricultural land use alters the [[Benthic Macroinvertebrates]] and fish communities of small streams in [[Central Indiana]]. Fourteen stream segments spanned a range from...
+> -- *[[EffectsOfAgricultureOnStreamFa_PML0846]]*
+
+> This letter from the [[U.S. Fish and Wildlife Service]] (Arizona Ecological Services Field Office, dated January 15, 1998) amends the July 20, 1995 [[Biological Opinion]] on the allotment management plan for the Baseline and Horse Springs livestock grazing allotments, managed by the...
+> -- *[[BiologicalOpinionAmendmentBase_PML2732]]*
+
+> This study by Robert Clarkson and W. L. Minckley (August 1980) measured fish standing crop (biomass and density) in [[Bonita Creek]], a small desert stream in Graham County, Arizona, from November 1977 to December 1978. The goal was to track community trends linked to the variability of a desert...
+> -- *[[UnusualFishStandingCropsInBoni_PML0455]]*
+
+> This annual report, prepared by [[Arizona Game And Fish Department]] biologist Janes E. Brooks and submitted to the [[U.S. Fish And Wildlife Service]] in March 1986, summarizes 1985 reintroductions of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) across the [[Gila River Basin]] of...
+> -- *[[AnnualReintroductionAndMonitor_PML0280]]*
+
+> A fisheries survey of [[Eagle Creek]] in [[Greenlee County]], Arizona, was conducted June 23–25, 1997, by [[Arizona State University]] researchers Brian Bagley and Paul Marsh. Seven sites were sampled from [[Honeymoon Campground]] to 1.2 km (0.75 mi) below the Eagle Creek pump station. Fifteen fish...
+> -- *[[EagleCreekGreenleeCountyArizon_PML1394]]*
+
+> A fisheries survey of [[Eagle Creek]] in [[Greenlee County]], Arizona, was conducted on June 17–18, 1998, by researchers from Arizona State University, Brian Bagley and Paul Marsh. Seven sites were sampled between [[Honeymoon Campground]] and 3.4 km (2.1 mi) below the Eagle Creek pump station,...
+> -- *[[EagleCreekFisheriesSurveyGreen_PML1397]]*
+
+> This study by [[Anderson]] and [[Hendrickson]] (*Southwestern Naturalist*, 1994) tests whether the four remaining subpopulations of [[Meda Fulgida]] (spikedace), a threatened minnow endemic to the [[Gila River Basin]], differ in body shape and whether males and females differ. Using 147 preserved...
+> -- *[[GeographicVariationInMorpholog_PML0052]]*
+
+> This U.S. Fish and Wildlife Service (Service) biological opinion, dated July 2, 1996, responds to a formal consultation request from the [[U.S. Army Corps of Engineers]] (received June 24, 1996) under Section 7 of the [[Endangered Species Act]]. The proposed action is repair of erosion damage to...
+> -- *[[BiologicalOpinionOnTheProposed_PML2707]]*
+
+> This compiled document contains four items on endangered fishes of the [[Colorado River Basin]]: 1. A 1981 U.S. Fish and Wildlife Service paper by James E. Johnson on the reintroduction of [[Razorback Sucker]] (*Xyrauchen texanus*) into historic habitat in Arizona's [[Gila River Basin]], undertaken...
+> -- *[[ReintroducingTheNativeFishesRa_PML0573]]*
+
+> This Bureau of Fisheries field report, prepared by M. J. Madsen (Temporary Assistant Biologist) and dated May 1955, surveys the streams and lakes of the [[Apache National Forest]] and [[Crook National Forest]] in east-central and southeastern Arizona. The survey was a reconnaissance, not a detailed...
+> -- *[[ABiologicalSurveyOfStreamsAndL_PML1407]]*
+
+> A three-day fisheries survey of [[Eagle Creek]] in Greenlee County, Arizona, was conducted June 7-9, 1999, by Arizona State University researchers (Brian Kesner, Tim McLaughlin, Paul Marsh and Brian Bagley). Sampling at seven sites along a roughly 6.5 km (about 4 mi) reach, from [[Honeymoon...
+> -- *[[EagleCreekGreenleeCountyArizon_PML1399]]*
+
+> This 1976 final report, submitted by [[Boyd E. Kynard]] (Assistant Professor of Fisheries Science, School of Renewable Natural Resources, University of Arizona) under Cooperative Agreement No. 1d-51l-CA, assesses non-point and point pollution sources and their effects on the aquatic habitat of...
+> -- *[[AStudyOfThePollutionSourcesAnd_PML1305]]*
+
+> The U.S. Fish and Wildlife Service (FWS) published a final rule in the Federal Register on July 1, 1986 (effective July 31, 1986) listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the [[Endangered Species Act]] of 1973, as amended. The species has been eliminated from more...
+> -- *[[EndangeredAndThreatenedWildlif_PML0731]]*
+
+> This document is a compilation of U.S. Fish and Wildlife Service (FWS) correspondence, draft and final biological opinions (BOs), internal dissent memoranda, and one grazing consultation, all concerning the effects of non-native fish stocking and land management on federally listed fishes in...
+> -- *[[IntraserviceSectionEvaluations_PML2696]]*
+
+> This 1998 Bureau of Land Management (BLM) package from the [[Safford Field Office]] contains the 15-year [[Gila Box Management Plan]] for the [[Gila Box Riparian National Conservation Area]] (RNCA) in Arizona, together with [[Environmental Assessment]] AZ-M0-08-03, a [[Finding of No Significant...
+> -- *[[GilaBoxRiparianNationalConserv_PML2561]]*
+
+> This literature review, prepared for the U.S. Bureau of Land Management under a cooperative agreement (March 2005), summarizes the history of fish monitoring, research, and conservation on [[Aravaipa Creek]], a perennial desert stream in southeastern Arizona that is one of the premier remnants of...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_PML2454]]*
+
+> This final report, prepared for the [[USDA Forest Service]] Rocky Mountain Forest and Range Experiment Station, examines how physical habitat variables relate to trout population density in montane streams of the Apache-Sitgreaves National Forests, eastern Arizona. Field work covered 33 reaches...
+> -- *[[FactorsAffectingTroutPopulatio_PML1464]]*
+
+> This draft final report, prepared by the [[Arizona Game and Fish Department]] (AGFD) for the USDA Forest Service in December 1988, surveys fish communities and riparian habitat on 14 grazing allotments within the [[Clifton Ranger District]] of the [[Apache-Sitgreaves National Forest]]. Twenty-four...
+> -- *[[AFishAndRiparianSurveyOfTheCli_PML2085]]*
+
+> This Bureau of Land Management–funded baseline inventory, prepared by Arizona State University researchers (led by W. L. Minckley and R. R. Sommerfeld), documents the physical, chemical, biological and biotic character of the Gila River Complex in eastern Arizona between October 1976 and September...
+> -- *[[ResourceInventoryForTheGilaRiv_PML1751]]*
+
 ### Mentioned In
 - [[BiologicalOpinionOnEmergencyWa_1994_01_31]]
 - [[CommentsOnTheDraftActivityPlan_13812]]
@@ -786,6 +931,45 @@ Eagle Creek is a specific aquatic study site or stream system that has been util
 - [[FallFishCountTripToEagleCreek_13820]]
 - [[StatusOfSpikedaceMedaFulgidaIn_15007]]
 - [[FishesOfEagleCreekArizonaWithR_17041]]
+- [[UpdateOnThingsAtBpHatchery_PML2819]]
+- [[ResultsOfIdentificationOfColle_PML0201]]
+- [[TheImportanceOfRecognizingIllu_PML1289]]
+- [[TheImportanceOfRecognizingIllu_PML1287]]
+- [[ReintroducingTheNativeRazorbac_PML1220]]
+- [[GilaRiverFishSurveyAndRazorbac_PML0286]]
+- [[ArizonaSurveyForSpikedaceMedaF_PML2179]]
+- [[ArizonaSurveyForSpikedaceMedaF_PML2178]]
+- [[EffectsOfAgricultureOnStreamFa_PML0846]]
+- [[BiologicalOpinionAmendmentBase_PML2732]]
+- [[UnusualFishStandingCropsInBoni_PML0455]]
+- [[AnnualReintroductionAndMonitor_PML0280]]
+- [[EagleCreekGreenleeCountyArizon_PML1394]]
+- [[EagleCreekFisheriesSurveyGreen_PML1397]]
+- [[GeographicVariationInMorpholog_PML0052]]
+- [[BiologicalOpinionOnTheProposed_PML2707]]
+- [[ReintroducingTheNativeFishesRa_PML0573]]
+- [[ABiologicalSurveyOfStreamsAndL_PML1407]]
+- [[EagleCreekGreenleeCountyArizon_PML1399]]
+- [[AStudyOfThePollutionSourcesAnd_PML1305]]
+- [[EndangeredAndThreatenedWildlif_PML0731]]
+- [[IntraserviceSectionEvaluations_PML2696]]
+- [[GilaBoxRiparianNationalConserv_PML2561]]
+- [[FishesOfAravaipaCreekGrahamAnd_PML2454]]
+- [[FactorsAffectingTroutPopulatio_PML1464]]
+- [[AFishAndRiparianSurveyOfTheCli_PML2085]]
+- [[ResourceInventoryForTheGilaRiv_PML1751]]
+
+## Eagle Creek Fish Survey (1987)
+
+### Summary
+A fish survey of Eagle Creek conducted 13-18 July 1987, using electrofishing, nets, seines, and angling. The authors report that native fishes made up roughly 91-98% of specimens in the upstream reaches, while introduced species made up 76.6% of 418 specimens below the diversion dam.
+
+### Context
+> This 1990s survey, based on a [[Eagle Creek Fish Survey (1987)]] and earlier collections dating to 1950, documents the fish assemblage of Eagle Creek, a tributary of the [[Gila River]] in southeastern Arizona. The authors record at least 20 fish species, nine of them native (including a...
+> -- *[[FishesOfEagleCreekWithRecordsO_PML1539]]*
+
+### Mentioned In
+- [[FishesOfEagleCreekWithRecordsO_PML1539]]
 
 ## Eagle Creek Pump Station
 
@@ -798,6 +982,18 @@ Eagle Creek Pump Station is a landmark location on Eagle Creek in Greenlee Count
 
 ### Mentioned In
 - [[EagleCreekGreenleeCountyArizon_17216]]
+
+## Eagle Creek Roundtail Chub
+
+### Summary
+A native freshwater minnow of the Gila River Basin that is held and propagated at the Bubbling Ponds facility. The 2010 review considered using the hormone Ovaprim to speed its gonadal maturation. The group chose to wait another year to see whether volunteer fish would spawn on their own.
+
+### Context
+> This note summarizes the final action items from the August 27, 2010 review of the [[Bubbling Ponds Native Fish Conservation Facility]] (the Facility), operated under the [[Gila River Basin Native Fishes Conservation Program]] (the Program). The meeting, held at the [[Bubbling Ponds Hatchery]],...
+> -- *[[ActionItemsAndOutcomesFinalRev_PML2593]]*
+
+### Mentioned In
+- [[ActionItemsAndOutcomesFinalRev_PML2593]]
 
 ## Eagle Creek Watershed
 <!-- fm: auto_enriched: true -->
@@ -859,6 +1055,9 @@ A small andesitic volcanic breccia hill in Maricopa County, Arizona, about 120 m
 > This paleontological study by D. W. Taylor and G. R. Smith, published in the [[Museum of Paleontology]] at the University of Michigan (1981), describes two fossil freshwater assemblages from northeastern California and northwestern Nevada. The [[Honey Lake]] fauna (seven molluscs, five fishes)...
 > -- *[[PlioceneMolluscsAndFishesFromN_13499]]*
 
+> This manuscript, transmitted by G. Gary Scoppettone (Research Biologist, Seattle National Fishery Research Center, Reno Substation) to Dr. James E. Deacon (University of Nevada), presents an extended age-validation and growth study of the endangered [[Cui-ui]], a catostomid endemic to [[Pyramid...
+> -- *[[LongevityAndGrowthOfCuiuiChasm_PML2318]]*
+
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
 - [[AConservationorientedClassific_15455]]
@@ -870,6 +1069,7 @@ A small andesitic volcanic breccia hill in Maricopa County, Arizona, about 120 m
 - [[BiologicalInvasionsOfFreshWate_15445]]
 - [[BiologyOfTheUtahChubInHebgenLa_19190]]
 - [[PlioceneMolluscsAndFishesFromN_13499]]
+- [[LongevityAndGrowthOfCuiuiChasm_PML2318]]
 
 ## Eagle Lake (Winona)
 <!-- fm: auto_enriched: true -->
@@ -1077,6 +1277,18 @@ Eardley (1932) is an earlier author cited by Weiss who described the limestone b
 - [[ProjectVelaUniformLakeMeadTest_20812]]
 - [[WorkshopProceedings_18372]]
 
+## Earl E. Deubler Jr.
+
+### Summary
+Earl E. Deubler Jr. is the editor of this Part I atlas on the development of Chesapeake Bay fishes, which was prepared from work by Alice J. Mansueti and Jeol D. Hardy Jr. The source credits him with editing the atlas rather than with the original species accounts.
+
+### Context
+> This atlas excerpt, edited by [[Earl E. Deubler Jr.]] from work by Alice J. Mansueti and Jeol D. Hardy Jr., documents the egg, yolk-sac larval, larval, prejuvenile and juvenile stages of freshwater fishes occurring in the Chesapeake Bay region. The text covers the families [[Cyprinidae]] (minnows...
+> -- *[[DevelopmentOfFishesOfTheChesap_PML1415]]*
+
+### Mentioned In
+- [[DevelopmentOfFishesOfTheChesap_PML1415]]
+
 ## Earl Franklin Kennamer
 
 ### Summary
@@ -1155,6 +1367,18 @@ A fisheries worker who removed rough fish from the Pecos River for years before 
 ### Mentioned In
 - [[PecosRiverFishBarrierAndTrapNo_14528]]
 
+## Earl Zarbin
+
+### Summary
+Earl Zarbin was a writer for The Arizona Republic who joined the paper in 1958 and researched the Salt River Valley's water history. He wrote the 1978 series of articles, reproduced by Salt River Project, on which this source is based. The note's content is a historical narrative, not aquatic research.
+
+### Context
+> This document is a historical account, adapted from a Salt River Project publication, of how irrigated agriculture began in the Salt River Valley of Arizona. It centers on [[Jack Swilling]], a frontiersman, miner and farmer who organized the Swilling Irrigating and Canal Company in November 1867...
+> -- *[[TheSwillingLegacy_PML0648]]*
+
+### Mentioned In
+- [[TheSwillingLegacy_PML0648]]
+
 ## Early Agricultural Period
 
 ### Summary
@@ -1188,8 +1412,12 @@ Early life history refers to the larval and juvenile stages of a fish's life. Th
 > This U.S. Fish and Wildlife Service recovery plan, prepared by Ray N. Jones of the [[Oklahoma Cooperative Fishery Research Unit]] (Oklahoma State University) and dated September 1984, addresses the [[Leopard Darter]], a small percid endemic to the [[Little River System]] of southeastern Oklahoma...
 > -- *[[LeopardDarter_13311]]*
 
+> This hatchery report documents survival and growth of [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) reared in earthen ponds during 1985 at [[Dexter National Fish Hatchery]], New Mexico. The species is endemic to the [[Colorado River Basin]], has declined in the past century, and has been proposed...
+> -- *[[SurvivalOfRazorbackSuckerCultu_PML0975]]*
+
 ### Mentioned In
 - [[LeopardDarter_13311]]
+- [[SurvivalOfRazorbackSuckerCultu_PML0975]]
 
 ## Early Life Stage Survival
 <!-- fm: auto_enriched: true -->
@@ -1200,6 +1428,22 @@ Early life history refers to the larval and juvenile stages of a fish's life. Th
 
 ### Mentioned In
 - [[HighlightsOfTheRazorbackSucker_1994_10_22]]
+
+## Early Life-Stage Toxicity Test
+
+### Summary
+A standardized chronic laboratory test that exposes fish from fertilization or early life through the early juvenile period to a chemical and measures survival, growth, and other endpoints. In this study, tests followed ASTM-based methods over 30 days with a proportional diluter, several exposure concentrations, and replicate chambers. The source applied these tests to fountain darters, spotfin chubs, fathead minnows, and rainbow trout.
+
+### Context
+> This study compares early life-stage chronic toxicity of [[Copper]] and [[Pentachlorophenol]] (PCP) in two federally listed fishes, the endangered [[Fountain Darter]] and the threatened [[Spotfin Chub]], with two commonly tested surrogate species, the [[Fathead Minnow]] and the [[Rainbow Trout]]....
+> -- *[[AssessingContaminantSensitivit_PML0199]]*
+
+> This final report from the [[Recovery Implementation Program]] (Project 9SLCAP-6 SE), prepared by Daniel W. Beyers and Cris Sodergren (Colorado State University, 24 November 1999), assesses whether [[Selenium]] in the [[Colorado River Basin]] threatens larval [[Razorback Sucker]], an endangered...
+> -- *[[AssessmentAndPredictionOfEffec_PML0213]]*
+
+### Mentioned In
+- [[AssessingContaminantSensitivit_PML0199]]
+- [[AssessmentAndPredictionOfEffec_PML0213]]
 
 ## Early Man
 
@@ -1317,6 +1561,18 @@ Most ponds in the pamphlet are built as earth-fill dams. The source recommends r
 ### Mentioned In
 - [[FishCultureForFunForProfit_11333]]
 
+## Earthen Canal
+
+### Summary
+The Earthen Canal is the unlined section of the Coachella Canal that this study sampled. Its benthic invertebrates were surveyed in October–November 1980, before the upstream part was re-aligned into concrete. The authors present the data as a pre-lining baseline.
+
+### Context
+> This baseline study by [[Paul C. Marsh]] and [[Carolyn R. Stinemetz]] (published in *California Fish and Game*, 1983) describes the benthic macroinvertebrate community of the [[Earthen Canal]] section of the [[Coachella Canal]]. The canal carries [[Colorado River]] water for irrigation in...
+> -- *[[BenthicInvertebratesOfTheEarth_PML1582]]*
+
+### Mentioned In
+- [[BenthicInvertebratesOfTheEarth_PML1582]]
+
 ## Earthen Canals
 
 ### Summary
@@ -1328,6 +1584,26 @@ Unlined water channels with natural soil beds, used for water conveyance. In thi
 
 ### Mentioned In
 - [[AnUnusuallyHighIncidenceOfSpin_17026]]
+
+## Earthen Ponds
+
+### Summary
+Earthen ponds are excavated, soil-bottomed impoundments used for raising fish in hatcheries. In this study, the razorback sucker was reared in ponds of 0.14 to 0.44 ha, averaging 0.9 to 1.2 m deep, and fertilized to grow natural food for the fish.
+
+### Context
+> This hatchery report documents survival and growth of [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) reared in earthen ponds during 1985 at [[Dexter National Fish Hatchery]], New Mexico. The species is endemic to the [[Colorado River Basin]], has declined in the past century, and has been proposed...
+> -- *[[SurvivalOfRazorbackSuckerCultu_PML0975]]*
+
+> This communication contains two short fish-culture studies. The first reports the survival of [[Colorado Squawfish]] (*Ptychocheilus lucius*) reared from swim-up fry and fingerlings in [[Earthen Ponds]] at the [[Dexter National Fish Hatchery]], New Mexico, during 1987. Fry survival was low (27.7 to...
+> -- *[[SurvivalOfColoradoSquawfishCul_PML0982]]*
+
+> This FY2000 [[Imperiled Species Module]] report documents the refugium culture of 15 imperiled freshwater fish species at [[Dexter National Fish Hatchery and Technology Center]]. Twelve species are listed as endangered and three as threatened or of special concern. Each species is held as a...
+> -- *[[FisImperiledSpeciesModuleBasic_PML2749]]*
+
+### Mentioned In
+- [[SurvivalOfRazorbackSuckerCultu_PML0975]]
+- [[SurvivalOfColoradoSquawfishCul_PML0982]]
+- [[FisImperiledSpeciesModuleBasic_PML2749]]
 
 ## Earthen Stock Tank
 
@@ -1379,8 +1655,12 @@ The journal in which Hugh Copley's 1952 review of the tilapias of Kenya Colony w
 > This 1952 review by Fish Warden Hugh Copley, published in the [[East African Agricultural Journal]], surveys the [[Tilapia]] of Kenya Colony. It covers their evolutionary origin, species identification, breeding, feeding, growth, economic value, and their potential in farm ponds. The author argues...
 > -- *[[TheTilapiasOfKenyaColony_12154]]*
 
+> This note combines two articles from the [[East African Agricultural Journal]]: a 1955 identification key to the common [[Tilapia]] species of East Africa, and a 1952 article, "The Tilapias of Kenya Colony", on their breeding, feeding, growth and value for [[Farm Dam]] fish culture. The authors...
+> -- *[[SpeciesOfTilapiaInEastAfrica_PML1638]]*
+
 ### Mentioned In
 - [[TheTilapiasOfKenyaColony_12154]]
+- [[SpeciesOfTilapiaInEastAfrica_PML1638]]
 
 ## East African Fisheries Research Organisation
 
@@ -1422,9 +1702,13 @@ A fisheries research body in East Africa. Greenwood names H. welcommei after Rob
 > This 1960 paper by [[Geoffrey Fryer]] of the East African Fisheries Research Organization critiques conclusions drawn by [[Lowe McConnell]] on the evolution of [[Tilapia]] and other African cichlids. Fryer argues that two phenomena must be kept separate: [[Intralacustrine Speciation]] (the...
 > -- *[[SomeControversialAspectsOfSpec_18868]]*
 
+> This review by [[Christian Sturmbauer]] (University of Innsbruck) synthesises evidence from the [[East African Great Lakes]] cichlid species flocks into a generalised model of [[Adaptive Radiation]]. The author argues that rapid, "explosive" [[Speciation]] in these lakes reflects a dynamic process...
+> -- *[[ExplosiveSpeciationInCichlidFi_PML0701]]*
+
 ### Mentioned In
 - [[ForeignIntroductionsOfNorthAme_15556]]
 - [[SomeControversialAspectsOfSpec_18868]]
+- [[ExplosiveSpeciationInCichlidFi_PML0701]]
 
 ## East African Rift
 
@@ -1461,6 +1745,18 @@ A major continental rift system in East Africa whose formation produced the basi
 
 ### Mentioned In
 - [[ExplosiveSpeciationInAfricanLa_19271]]
+
+## East Aravaipa Creek
+
+### Summary
+An upper, eastern stream reach in Graham County, Arizona, and one of the five stream systems surveyed in this study. Spikedace occurred there without red shiner, and the report found no clear preference for a particular current velocity by spikedace in this stream.
+
+### Context
+> This is a first annual progress report from [[Arizona State University]] to the [[Arizona Game and Fish Department]] under contract G-70001. It addresses habitat interactions between the federally listed [[Spikedace]] and the introduced [[Red Shiner]] in streams of the [[Gila River Basin]]. The...
+> -- *[[AnalysisOfHabitatInterrelation_PML0614]]*
+
+### Mentioned In
+- [[AnalysisOfHabitatInterrelation_PML0614]]
 
 ## East Baton Rouge Parish
 
@@ -1598,6 +1894,36 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 > This Arizona Game and Fish Department completion report (Project F-7-R-9, Work Plan 8, Job R-4, 1 January to 31 December 1966), authored by Louis H. Carufel, is the third and final year of predevelopment surveys on nine proposed or completed lakes and eighteen to nineteen streams. The study sought...
 > -- *[[WatershedFisheriesSurveyPredev_16041]]*
 
+> This document bundles three items from the [[Little Colorado Spinedace]] recovery effort: a January 28, 2009 meeting agenda, a January 26, 2009 letter to the [[U.S. Fish and Wildlife Service]] requesting formal separation of the spinedace recovery team from the [[Apache Trout]] team, and...
+> -- *[[LittleColoradoSpinedaceRecover_PML1342]]*
+
+> This document is a partly legible field-activity record and recovery-team agenda for the [[Little Colorado Spinedace]], a threatened Arizona cyprinid. Most of the first four pages is illegible scan text and was not extracted. The readable content covers May to July 2007 monitoring, collection, and...
+> -- *[[LittleColoradoSpinedaceRecover_PML1341]]*
+
+> This document is a 1993 report from [[Arizona State University]]'s Department of Zoology to the [[Coconino National Forest]] on mitochondrial DNA (mtDNA) variation in the [[Little Colorado Spinedace]] (*[[Lepidomeda Vittata]]*), a federally threatened cyprinid. The study found substantial...
+> -- *[[MitochondrialDnaVariationWithi_PML2504]]*
+
+> This *Copeia* paper (No. 1, March 1963) by [[Robert Rush Miller]] documents the distribution, meristic and morphometric variation, sexual dimorphism, larval pigmentation, and ecology of the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a cyprinid endemic to eastern Arizona. The species had...
+> -- *[[DistributionVariationAndEcolog_PML1708]]*
+
+> This review covers the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a minnow endemic to the upper [[Little Colorado River]] system in Arizona. The species declined sharply between the late 1930s and early 1960s, was restricted to a single stream system ([[East Clear Creek]]), and was...
+> -- *[[TheLittleColoradoSpinedaceLepi_PML1867]]*
+
+> This report, prepared by [[Diann Lyn Sheldon]] and [[Dean A. Hendrickson]] of the [[Arizona Game and Fish Department]] ([[Nongame Branch]]), summarizes the first annual [[October Fish Count]] (OFC) held in October 1988. The OFC used volunteers to collect fish data across Arizona and parts of New...
+> -- *[[ReportOfTheOctoberFishCount_PML1037]]*
+
+> In late June 2006, the [[Arizona Game and Fish Department]] (AGFD, Region 1) surveyed five streams in the upper [[West Chevelon Creek]] and upper [[East Clear Creek]] drainages for potential stocking sites for the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a species listed as threatened...
+> -- *[[SurveyOfWestChevelonCreekAndUp_PML0381]]*
+
+> This report uses [[Amplified Fragment Length Polymorphism]] (AFLP) markers to assess genetic diversity and population structure in the federally threatened [[Little Colorado Spinedace]]. Samples came from three natural populations in the [[Little Colorado River]] watershed ([[Rudd Creek]],...
+> -- *[[AnAnalysisOfGeneticVariationIn_PML0904]]*
+
+> This 1992 Arizona Game and Fish Department report assesses the distribution, abundance and habitat of the [[Little Colorado Spinedace]] ([[Lepidomeda Vittata]]), a federally listed threatened cyprinid, across [[East Clear Creek]] and its tributaries in the [[Coconino National Forest]] and...
+> -- *[[DistributionAbundanceAndHabita_PML0566]]*
+
+> This 1935 report by M. J. Madsen, Temporary Assistant Biologist, records a biological, chemical and physical survey of streams and lakes in the [[Coconino National Forest]] carried out by the [[Bureau of Fisheries]] field party from late spring to 27 August of the survey season. The survey aimed to...
+> -- *[[ABiologicalSurveyOfStreamsAndL_PML1404]]*
+
 ### Mentioned In
 - [[LetterToWLMinckleyOnLittleColo_1987_01_26]]
 - [[LittleColoradoRiverSpinedaceSu_1991_07_29]]
@@ -1615,6 +1941,28 @@ East Clear Creek is a tributary stream system within the Little Colorado River w
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[AnAnalysisOfGeneticVariationIn_19229]]
 - [[WatershedFisheriesSurveyPredev_16041]]
+- [[LittleColoradoSpinedaceRecover_PML1342]]
+- [[LittleColoradoSpinedaceRecover_PML1341]]
+- [[MitochondrialDnaVariationWithi_PML2504]]
+- [[DistributionVariationAndEcolog_PML1708]]
+- [[TheLittleColoradoSpinedaceLepi_PML1867]]
+- [[ReportOfTheOctoberFishCount_PML1037]]
+- [[SurveyOfWestChevelonCreekAndUp_PML0381]]
+- [[AnAnalysisOfGeneticVariationIn_PML0904]]
+- [[DistributionAbundanceAndHabita_PML0566]]
+- [[ABiologicalSurveyOfStreamsAndL_PML1404]]
+
+## East Deer Tank
+
+### Summary
+A stock-water tank on the San Carlos Reservation that the report rated among the three best waters for trout. Its existing warm-water fish population would need eradication before trout could be introduced.
+
+### Context
+> This 1963 fishery management report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (Albuquerque, New Mexico) and signed by Fishery Management Biologist Richard J. Navarre, assesses the fish resources of the [[San Carlos Indian Reservation]]. Seventy stock-water tanks and the [[Black...
+> -- *[[FisheryManagementReportSanCarl_PML2622]]*
+
+### Mentioned In
+- [[FisheryManagementReportSanCarl_PML2622]]
 
 ## East Eagle Creek
 <!-- fm: auto_enriched: true -->
@@ -1685,11 +2033,15 @@ The East Fork is a tributary of the Gila River in New Mexico that historically s
 > This habitat study, conducted by Ecology Audits, Inc. from April to October 1979, assessed the distribution and habitat requirements of two State of New Mexico endangered cyprinid species: [[Loach Minnow]] (*Tiaroga cobitis*) and [[Roundtail Chub]] (*Gila robusta grahami*) within the [[Gila...
 > -- *[[HabitatStudyOfRoundtailChubGil_18268]]*
 
+> This report summarizes the second annual [[October Fish Count]] (OFC), a volunteer freshwater fish survey coordinated by the [[Arizona Game and Fish Department]] [[Nongame Branch]] and written by Troy Corman, Matt Brown and Francisco Abarca. Volunteer participation rose from 51 people in 1988 to 80...
+> -- *[[ReportOfTheOctoberFishCount_PML0101]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_16787]]
 - [[FisherySurveyOfTheGilaRiverWit_1995_09_19]]
 - [[HolisticSpeciesDelimitationSup_2026]]
 - [[HabitatStudyOfRoundtailChubGil_18268]]
+- [[ReportOfTheOctoberFishCount_PML0101]]
 
 ## East Fork of the Gila River
 
@@ -1735,6 +2087,18 @@ East Fork Spring is a water source currently supplying many homes along the East
 ### Mentioned In
 - [[AdverseBiologicalOpinionIndian_15638]]
 
+## East Fork Strain
+
+### Summary
+A genetic lineage of Apache trout raised at Williams Creek National Fish Hatchery and used as the source of pure stock. The document says waters such as Hayground Creek, Hone Creek, Lee Valley Creek, Wildcat Creek and Lee Valley Reservoir originated from it and are considered pure.
+
+### Context
+> This review, prepared by the [[Pinetop Fisheries Assistance Office]], evaluates a genetic analysis by Genetic Laboratories (Smithville, Texas) of [[Apache Trout]] populations in the White Mountains, Arizona. The office accepts the findings at face value for the purpose of planning. It concludes...
+> -- *[[ApacheTroutPopulationStatusAnd_PML0855]]*
+
+### Mentioned In
+- [[ApacheTroutPopulationStatusAnd_PML0855]]
+
 ## East Fork Virgin River
 
 ### Summary
@@ -1753,11 +2117,15 @@ The East Fork Virgin River is one of eleven tributaries or sub-tributaries in th
 > This document is a December 20, 1993 letter from [[Utah State University]] (Institute for Natural Systems Engineering) to the [[U.S. Fish And Wildlife Service]] requesting renewal of [[Endangered Species Subpermit PRT-676811]]. The renewal would cover population monitoring and life history studies...
 > -- *[[EndangeredSpeciesPermitRenewal_20638]]*
 
+> This document is a set of map and figure captions from a spinedace survey of the [[Virgin River]] Basin in southwestern Utah. The source text contains no narrative, methods section, or summary statistics. Its figures show where [[Spinedace]] were found, where streams have perennial flow but no...
+> -- *[[TheCurrentDistributionAndStatu_PML0017]]*
+
 ### Mentioned In
 - [[DraftConservationStrategyVirgi_11659]]
 - [[DraftConservationAgreementVirg_18320]]
 - [[StatusOfTheVirginSpinedaceLepi_13652]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
+- [[TheCurrentDistributionAndStatu_PML0017]]
 
 ## East Fork White River
 <!-- fm: auto_enriched: true -->
@@ -1793,6 +2161,12 @@ The East Fork White River is a tributary system within the White River drainage 
 > This 1988 report from [[Western Technology And Engineering Inc]] (WESTECH) documents a search for the federally threatened [[Loach Minnow]] (*Tiaroga cobitis*) in the [[White River]] and two tributaries, the [[East Fork White River]] and [[North Fork White River]], on the [[Fort Apache...
 > -- *[[LoachMinnowTiarogaCobitisSurve_12164]]*
 
+> This 1988 memorandum from the [[U.S. Fish and Wildlife Service]] (Phoenix, Arizona) to the [[Bureau of Indian Affairs]] Phoenix Area Office addresses a formal [[Section 7 Consultation]] on the proposed [[Miner Flat Dam Project]] under the [[Endangered Species Act]]. The Service expects to concur...
+> -- *[[FormalSectionConsultationMiner_PML2666]]*
+
+> This report, prepared by [[Western Technology and Engineering]] (WESTEC) for the [[White Mountain Apache Tribe]], documents a survey for the federally listed threatened [[Loach Minnow]] (*Tiaroga cobitis*) in the mainstem White River and its tributaries, the East Fork White River and North Fork...
+> -- *[[LoachMinnowTiarogaCobitisSurve_PML2874]]*
+
 ### Mentioned In
 - [[StudiesOfTheAbundanceDistribut_13841]]
 - [[TripReportWhiteRiverSeptember_1988_09_19]]
@@ -1805,6 +2179,8 @@ The East Fork White River is a tributary system within the White River drainage 
 - [[FormalSectionConsultationMiner_11842]]
 - [[BiologicalAssessmentForTheProp_11456]]
 - [[LoachMinnowTiarogaCobitisSurve_12164]]
+- [[FormalSectionConsultationMiner_PML2666]]
+- [[LoachMinnowTiarogaCobitisSurve_PML2874]]
 
 ## East Fork White River near Fort Apache
 
@@ -1847,8 +2223,12 @@ The East Highline Canal is a water conveyance structure in the Imperial County a
 > This 1985 management plan by the [[California Department of Fish and Game]] addresses the critically endangered [[Razorback Sucker]] (*Xyrauchen texanus*), once abundant throughout the [[Colorado River]] drainage but now reduced to perilously few individuals. The plan presents a 10-year (1986-1995)...
 > -- *[[DraftmanagementPlanForTheRazor_11427]]*
 
+> This paper by [[Paul C. Marsh]] and [[W. L. Minckley]] (*Great Basin Naturalist*, Vol. 49, No. 1, January 1989) reviews the status of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the lower [[Colorado River]] basin. The species was once abundant and endemic to the basin but had become rare,...
+> -- *[[ObservationsOnRecruitmentAndEc_PML1567]]*
+
 ### Mentioned In
 - [[DraftmanagementPlanForTheRazor_11427]]
+- [[ObservationsOnRecruitmentAndEc_PML1567]]
 
 ## East Indian
 
@@ -2021,6 +2401,18 @@ One of the five stream groups. Its sites share small watersheds, low insolation 
 ### Mentioned In
 - [[ComparativeStudyOfPhysicalchem_18123]]
 
+## East Turkey Creek
+
+### Summary
+A stream in the Chiricahua Mountains of Arizona where the author placed Main Cave Creek fish in a 1960 transplant experiment. Some spawning occurred there after early-July rains, showing these fish could spawn late in the summer.
+
+### Context
+> This study examines how [[Hydrologic Regime]] controls the reproductive timing of the [[Speckled Dace]] (*[[Rhinichthys Osculus]]*) in the [[Chiricahua Mountains]] of Arizona. Under normal precipitation, the species spawns in two discrete peaks, one in early spring and one in late summer. Under...
+> -- *[[TheEffectOfTorrentialRainsOnTh_PML1206]]*
+
+### Mentioned In
+- [[TheEffectOfTorrentialRainsOnTh_PML1206]]
+
 ## East Verde River
 
 ### Summary
@@ -2060,6 +2452,27 @@ The East Verde River is an aquatic habitat in Arizona where multiple sampling si
 > This document is the transmittal package and river data summaries for the Arizona component of the [[Nationwide Rivers Inventory]], issued by the [[National Park Service]] Western Region in April 1982 (list dated January 1982). It covers 14 Arizona rivers or river segments that were judged to be...
 > -- *[[TheNationwideRiversInventoryAr_19590]]*
 
+> This short note by [[Paul C. Marsh]] (Copeia, 1969, No. 1) reports attempts to re-establish the [[Gila Topminnow]] (*Poeciliopsis occidentalis*) in semi-isolated habitats within its former range in the [[Gila River Basin]] of Arizona. The species, once one of the most common fishes in the southern...
+> -- *[[AttemptedReestablishmentOfTheG_PML1819]]*
+
+> This document is a cover letter and two attachments from the [[Arizona Game and Fish Department]] (AZGFD) Fisheries Branch, dated July 13, 1990. The letter, sent to Paul Marsh at the Center of Environmental Studies, Arizona State University, encloses a directory of Arizona fisheries and aquatic...
+> -- *[[FisheriesPublicationList_PML0100]]*
+
+> This report summarizes the second annual [[October Fish Count]] (OFC), a volunteer freshwater fish survey coordinated by the [[Arizona Game and Fish Department]] [[Nongame Branch]] and written by Troy Corman, Matt Brown and Francisco Abarca. Volunteer participation rose from 51 people in 1988 to 80...
+> -- *[[ReportOfTheOctoberFishCount_PML0101]]*
+
+> The source is a packet of three related items. Its core is a 2016 peer-style study, [[Carter et al. 2016]], that tested whether the [[Minckley and DeMarais Key]] can reliably separate three chubs of the [[Gila Robusta Complex]]: [[Gila Robusta]], [[Gila Nigra]] and [[Gila Intermedia]]. The packet...
+> -- *[[GilaRobustaComplexSpeciesClass_PML0390]]*
+
+> This 1930s-era survey by the [[Bureau Of Fisheries]] assessed the physical, chemical and biological conditions of streams and reservoirs in the [[Tonto National Forest]] (Arizona) to guide fish stocking. The field party, led by M. J. Madsen, worked the forest from June 28 to July 22, 1954,...
+> -- *[[ABiologicalSurveyOfStreamsAndL_PML1405]]*
+
+> This document is a petition dated November 7, 2009, submitted to the [[U.S. Fish and Wildlife Service]] (FWS) by four biologists: Sally E. Stefferud, Jerome A. Stefferud, [[Paul C. Marsh]] and [[Thomas E. Dowling]]. It requests two actions for the [[Headwater Chub]], an endemic [[Cyprinidae]] fish...
+> -- *[[PetitionForListingPriorityRest_PML2451]]*
+
+> This draft Fish and Wildlife Coordination Act (FWCA) report, prepared by the U.S. Fish and Wildlife Service (Service) for the [[Bureau of Reclamation]] Arizona Projects Office, assesses impacts to fish and wildlife resources from proposed [[Central Arizona Project]] (CAP) water exchanges and...
+> -- *[[FishAndWildlifeCoordinationAct_PML2669]]*
+
 ### Mentioned In
 - [[ReportOfTheOctoberFishCount_11417]]
 - [[ACaseOfMistakenIdentityGenetic_2021]]
@@ -2072,6 +2485,13 @@ The East Verde River is an aquatic habitat in Arizona where multiple sampling si
 - [[ABiologicalSurveyOfStreamsAndL_19339]]
 - [[WatershedFisheriesSurveyPredev_16040]]
 - [[TheNationwideRiversInventoryAr_19590]]
+- [[AttemptedReestablishmentOfTheG_PML1819]]
+- [[FisheriesPublicationList_PML0100]]
+- [[ReportOfTheOctoberFishCount_PML0101]]
+- [[GilaRobustaComplexSpeciesClass_PML0390]]
+- [[ABiologicalSurveyOfStreamsAndL_PML1405]]
+- [[PetitionForListingPriorityRest_PML2451]]
+- [[FishAndWildlifeCoordinationAct_PML2669]]
 
 ## East Walker River
 
@@ -2303,6 +2723,12 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 > This 1939 pamphlet by James R. Simon, published by the Yellowstone Library and Museum Association, is an angler's and naturalist's guide to the fishes of [[Yellowstone National Park]]. It was written to update [[Smith and Kendall 1921]], which predated taxonomic revisions and stocking changes, and...
 > -- *[[YellowstoneFishes_18992]]*
 
+> This paper, presented by Alex Calhoun of the [[California Department of Fish and Game]] at the 83rd Annual Meeting of the [[American Fisheries Society]] (Milwaukee, Wisconsin, September 1953), reports that the sedative [[Sodium Amytal]] (a barbiturate) allows fish to be held and transported at far...
+> -- *[[HypnoticDrugsAsAnAidInFishTran_PML0355]]*
+
+> This Nevada Department of Wildlife job progress report (Project F20-15, Job 301, Statewide Fisheries Program) covers the [[Lake Mohave]] sport fishery from January 1 through December 31, 1979. Creel surveys recorded lower angling pressure than in 1978, with fewer anglers, fishing hours and fish...
+> -- *[[JobProgressReportLakeMohaveCla_PML2011]]*
+
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
@@ -2351,6 +2777,20 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 - [[SystematicsAndDistributionsOfD_20949]]
 - [[InfluenceOfLightAndTemperature_16626]]
 - [[YellowstoneFishes_18992]]
+- [[HypnoticDrugsAsAnAidInFishTran_PML0355]]
+- [[JobProgressReportLakeMohaveCla_PML2011]]
+
+## Eastern Brown Pelican
+
+### Summary
+The Eastern Brown Pelican is a seabird that was removed from the U.S. endangered species list during the study period. The source says its delisting, along with that of the Aleutian Canada Goose, had large positive effects on the abundance index after 1994.
+
+### Context
+> This article by [[Timothy Male]], [[Michael J. Bean]], and [[Scott Walsh]] (Environmental Defense) argues that the [[Endangered Species Act]] (ESA) lacks quantitative metrics for judging whether it is achieving species recovery. The authors propose a family of **[[Recovery Index]]** measures, built...
+> -- *[[ARecoveryIndexDevelopingNewMet_PML1412]]*
+
+### Mentioned In
+- [[ARecoveryIndexDevelopingNewMet_PML1412]]
 
 ## Eastern Burbot
 
@@ -2468,6 +2908,18 @@ The eastern cougar, also called puma or mountain lion, is a large cat once wides
 ### Mentioned In
 - [[AnExplosionOfGreen_12326]]
 
+## Eastern Fauna
+
+### Summary
+The stable, species-rich freshwater fish fauna of the Mississippi, Atlantic and Gulf drainages of eastern North America. According to this source, it held a majority of the continent's freshwater species and suffered little late Cenozoic extinction, partly because its size and orientation let fishes survive Pleistocene cooling by moving south and recolonizing later.
+
+### Context
+> This scanned chapter, written in the style of a review by Smith, examines the late Cenozoic history of North American freshwater fishes. It contrasts the stable, species-rich [[Eastern Fauna]] with the unstable, extinction-prone [[Western Fauna]], and links both to Pleistocene climate change,...
+> -- *[[LateCenozoicFreshwaterFishesOf_PML2385]]*
+
+### Mentioned In
+- [[LateCenozoicFreshwaterFishesOf_PML2385]]
+
 ## Eastern Fence Lizard
 
 ### Summary
@@ -2554,6 +3006,18 @@ A small rodent listed as Rare-2 in the 1975 Oklahoma report, meaning it may be l
 ### Mentioned In
 - [[RareAndEndangeredVertebratesAn_11494]]
 
+## Eastern Highlands
+
+### Summary
+The Eastern Highlands are the mountain range along eastern Australia, which formed through an orogeny ending around 90 Ma. The source notes that evidence for drainage change across this range is contested. It is relevant to the question of how eastern drainages were connected or separated.
+
+### Context
+> This study by Peter J. Unmack (Arizona State University, *Journal of Biogeography* 28: 1053–1089, 2001) examines the biogeographic patterns of Australia's obligate freshwater fishes. Using similarity coefficients, clustering, non-metric multidimensional scaling, parsimony analysis and drainage...
+> -- *[[BiogeographyOfAustralianFreshw_PML2549]]*
+
+### Mentioned In
+- [[BiogeographyOfAustralianFreshw_PML2549]]
+
 ## Eastern Indian Ocean
 
 ### Summary
@@ -2589,6 +3053,18 @@ The study region of this survey, centered on the Lawrence area of Douglas County
 
 ### Mentioned In
 - [[CrustaceaInEasternKansas_20278]]
+
+## Eastern Michigan University
+
+### Summary
+Eastern Michigan University is the university the source names as the academic affiliation for this work. The paper was submitted there in partial fulfillment of a master's degree.
+
+### Context
+> This laboratory study examined interspecific competition for fish eggs between two common benthic predators of the [[Great Lakes]], the [[Slimy Sculpin]] (*Cottus cognatus*) and the [[Virile Crayfish]] (*Orconectes virilis*). The sculpin's feeding rate was unchanged by the presence of crayfish, but...
+> -- *[[CompetitionForFoodBetweenCrayf_PML1692]]*
+
+### Mentioned In
+- [[CompetitionForFoodBetweenCrayf_PML1692]]
 
 ## Eastern Mosquitofish
 
@@ -2654,9 +3130,13 @@ Eastern New Mexico University (ENMU) is one of the institutional collections tha
 > This is Fish and Wildlife Service Circular 226 (August 1965), the fifth report under Public Law 85-582 (1958). It summarizes 1964 pesticide research by the Bureau of Sport Fisheries and Wildlife and the Bureau of Commercial Fisheries. Work was done at [[Patuxent Wildlife Research Center]], [[Denver...
 > -- *[[TheEffectsOfPesticidesOnFishAn_11524]]*
 
+> This study by [[Aldridge]] and [[Mcmahon]] (1978) reports the first detailed description of the reproduction, growth, fecundity, carbon biomass production, and bioenergetics of the [[Asiatic Freshwater Clam]], *[[Corbicula Manilensis]]*, in a natural population in [[Lake Arlington]], [[Tarrant...
+> -- *[[GrowthFecundityAndBioenergetic_PML0023]]*
+
 ### Mentioned In
 - [[EffectsOfPesticidesOnFishAndWi_14331]]
 - [[TheEffectsOfPesticidesOnFishAn_11524]]
+- [[GrowthFecundityAndBioenergetic_PML0023]]
 
 ## Eastern Pacific
 <!-- fm: auto_enriched: true -->
@@ -2680,6 +3160,18 @@ Eastern New Mexico University (ENMU) is one of the institutional collections tha
 ### Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
 
+## Eastern Pacific Ocean
+
+### Summary
+The eastern part of the Pacific Ocean, including the Gulf of California. This source frames the Gulf capture as an early warning for managers and scientists in this region about a potentially harmful exotic fish.
+
+### Context
+> This paper documents the first confirmed record of a free-swimming, healthy Mediterranean [[Gilt-Head Seabream]] (*Sparus aurata* Linnaeus, 1758) in the [[Gulf of California]], Mexico. The fish was captured on 3 October 2007 in [[Bahía de La Paz]] during experimental fishing. The individual most...
+> -- *[[OnTheFirstRecordOfAPotentially_PML0165]]*
+
+### Mentioned In
+- [[OnTheFirstRecordOfAPotentially_PML0165]]
+
 ## Eastern Piedmont Chub
 
 ### Summary
@@ -2691,6 +3183,18 @@ The Eastern Piedmont Chub (Nocomis leptocephalus) is a cyprinid minnow of the At
 
 ### Mentioned In
 - [[StudiesOfTheBiologyOfTheCyprin_12659]]
+
+## Eastern Prairie Fringed Orchid
+
+### Summary
+Eastern Prairie Fringed Orchid (*Platanthera leucophaea*) is a North American terrestrial orchid. This source notes that the U.S. Fish and Wildlife Service listed it as a threatened species, with a review pending, in the same July 2007 Federal Register notice that covered the Apache trout. It is included here only as a companion listing and is not discussed in the recovery plan.
+
+### Context
+> This document bundles a 2007 Federal Register notice, a formal comment letter from fishery scientist Paul C. Marsh, a second comment letter from [[Robert W. Clarkson]] (a Recovery Team member), and the full Draft Second Revision of the [[Apache Trout Recovery Plan]] issued by the [[U.S. Fish and...
+> -- *[[NoticeOfAvailabilityOfTheDraft_PML0786]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfTheDraft_PML0786]]
 
 ## Eastern Province
 
@@ -2737,6 +3241,18 @@ A darter native to Illinois that was decimated by dams. The paper lists it among
 - [[SomeObservationsOnLimnologyAnd_1954]]
 - [[ProminentFishesOfWestVirginia_13090]]
 - [[AgeAndGrowthOfTheSaugerStizost_20702]]
+
+## Eastern Sierra Nevada
+
+### Summary
+The Eastern Sierra Nevada is a mountain region of eastern California where the study streams, Rush Creek and Bishop Creek, are located. The source describes diversion for water supply and hydropower in these streams, which affects their riparian vegetation.
+
+### Context
+> This paper by [[Julie C. Stromberg]] and Duncan T. Patten argues that instream flow standards, which are usually set for fish, do not necessarily maintain [[Riparian Vegetation]]. Plants may need flows that differ in timing and magnitude, such as [[Flood Pulse|floodplain-wetting]] events, to...
+> -- *[[InstreamFlowRequirementsForRip_PML2475]]*
+
+### Mentioned In
+- [[InstreamFlowRequirementsForRip_PML2475]]
 
 ## Eastern Silvery Minnow
 <!-- fm: auto_enriched: true -->
@@ -2880,6 +3396,18 @@ The Dickinson and Snyder (1979) model in which the slab-free zone grew eastward 
 ### Mentioned In
 - [[NewKarDatesFromBasaltsAndTheEv_11360]]
 
+## Eaton Canyon Nature Center
+
+### Summary
+Eaton Canyon Nature Center in Altadena, Los Angeles County, received 20 Mohave chubs on 5 June 1972. None survived, and the cause is unknown.
+
+### Context
+> The Mohave chub (*Gila bicolor mohavensis*), federally and state listed as endangered, is the only known native fish of the [[Mojave River]] in California. Hybridization with the introduced [[Arroyo Chub]] (*Gila orcutti*) before 1957 led to the belief that the species was extinct in the river...
+> -- *[[StatusOfMohaveChubGilaBicolorM_PML1090]]*
+
+### Mentioned In
+- [[StatusOfMohaveChubGilaBicolorM_PML1090]]
+
 ## Eaux-Chaudes Cave
 
 ### Summary
@@ -2994,6 +3522,34 @@ A sub-region of the Sudanian province running from the Cess River (Nipoué, Ivor
 ### Mentioned In
 - [[FreshwaterFishZoogeographyInWe_14507]]
 
+## Eby et al. 2003
+
+### Summary
+Eby et al. (2003) analyzed the long-term Aravaipa Creek fish monitoring data. According to this review, they found decreases in species richness in the lower reach, declines in spikedace and loach minnow, and increases in longfin dace and nonnative species, with lower-reach native diversity losses linked to rising nonnative abundance.
+
+### Context
+> This literature review, prepared for the U.S. Bureau of Land Management under a cooperative agreement (March 2005), summarizes the history of fish monitoring, research, and conservation on [[Aravaipa Creek]], a perennial desert stream in southeastern Arizona that is one of the premier remnants of...
+> -- *[[FishesOfAravaipaCreekGrahamAnd_PML2454]]*
+
+### Mentioned In
+- [[FishesOfAravaipaCreekGrahamAnd_PML2454]]
+
+## EC Bar Ranch
+
+### Summary
+A private ranch on Nutrioso Creek where three survey sites were located. According to this report, it holds the largest concentration of Little Colorado spinedace (nearly 70% of those sampled), where perennial flows exist, and riparian restoration led by landowner Jim Crosswhite is expected to help native fishes.
+
+### Context
+> In April 2006, the [[Arizona Game And Fish Department]] (AGFD) and the [[US Fish And Wildlife Service]] (USFWS) surveyed fish in [[Nutrioso Creek]] and [[Rudd Creek]] to assess the native fish assemblage, with particular focus on the threatened [[Little Colorado Spinedace]]. The survey re-sampled...
+> -- *[[NutriosoCreekAndRuddCreekTripR_PML0384]]*
+
+> In May and June 2006, the [[Arizona Game and Fish Department]] (AGFD) and the [[U.S. Fish and Wildlife Service]] (USFWS) salvaged fish from a reach of [[Nutrioso Creek]] where drought had dried the stream. The reach was home to the [[Little Colorado Spinedace]], a federally [[Threatened Species]]...
+> -- *[[NutriosoCreekSpinedaceSalvager_PML0385]]*
+
+### Mentioned In
+- [[NutriosoCreekAndRuddCreekTripR_PML0384]]
+- [[NutriosoCreekSpinedaceSalvager_PML0385]]
+
 ## EC Directive on Conservation of Natural and Semi-Natural Habitats
 
 ### Summary
@@ -3079,6 +3635,42 @@ A mayfly nymph found mainly in stony streams and rivers, and identified by the a
 
 ### Mentioned In
 - [[AKeyToTheNymphsOfTheBritishSpe_19290]]
+
+## Echelle
+
+### Summary
+Echelle and colleagues (1975, 1978) are cited for using electrophoretic methods to compare mating systems in darters. The source presents this as part of the genetics and population biology work that opened new avenues in stream-fish research.
+
+### Context
+> This introductory chapter, co-authored by [[David C. Heins]] and [[William J. Matthews]] for the 1987 volume *Community and Evolutionary Ecology of North American Stream Fishes* (University of Oklahoma Press), traces how the ecology of North American stream fishes developed from the late 1700s to...
+> -- *[[HistoricalPerspectivesOnTheStu_PML1015]]*
+
+### Mentioned In
+- [[HistoricalPerspectivesOnTheStu_PML1015]]
+
+## Echelle 1991
+
+### Summary
+Echelle (1991) is cited for guidance on managing hybridization. The authors use it to argue that when a taxon is rare, protecting all remaining individuals, including introgressed ones, may be justified to conserve genetic diversity.
+
+### Context
+> This letter, published in *Conservation Biology* (Vol. 6, No. 4, December 1992), is a rejoinder by [[Douglas]], [[Marsh]], [[DeMarais]], [[Dowling]] and [[Minckley]] to critiques of their earlier letter. The authors focus on two linked issues: (1) how molecular characters should be used to identify...
+> -- *[[ResponseToNowakPhillipsAndWayn_PML0622]]*
+
+### Mentioned In
+- [[ResponseToNowakPhillipsAndWayn_PML0622]]
+
+## Echelle and Dowling
+
+### Summary
+Cited in this source (Meffe 1990) as one of the studies on the genetics of endangered desert fishes, paired with Edds and Echelle (1989). The source refers to it as related work and does not detail its specific results.
+
+### Context
+> G. K. Meffe (1990), writing in the *Journal of Fish Biology* (Supplement A), argues that the long-term survival of rare fishes depends partly on maintaining enough genetic variation within populations for natural selection and continued evolutionary adaptation. The paper uses the critically...
+> -- *[[GeneticApproachesToConservatio_PML1669]]*
+
+### Mentioned In
+- [[GeneticApproachesToConservatio_PML1669]]
 
 ## Echelle et al. (1975, 1976)
 
@@ -3398,11 +3990,67 @@ Echo Bay is an embayment of Lake Mead on the Colorado River system where razorba
 > This study by W. A. Kennedy of the [[Central Fisheries Research Station]] presents morphometric measurements and meristic counts for three coregonine species from [[Great Bear Lake]]: [[Lake Whitefish]] (*Coregonus clupeaformis*, n = 78), [[Cisco]] (*Leucichthys artedi*, n = 77) and [[Round...
 > -- *[[TheMorphometryOfTheCoregonineF_17950]]*
 
+> This draft annual report covers the 11th monitoring season (2006-2007) of the [[Razorback Sucker]] (*Xyrauchen texanus*) study in [[Lake Mead]]. The study was initiated in 1996 by the [[Southern Nevada Water Authority]] and the Colorado River Commission of Nevada, in cooperation with the [[Nevada...
+> -- *[[LakeMeadRazorbackSuckerStudies_PML0222]]*
+
+> This peer-reviewed study (Albrecht et al., published in *Lake and Reservoir Management*, 2010) investigates why [[Razorback Sucker]] (*Xyrauchen texanus*) recruitment is occurring in [[Lake Mead]] while most other lower [[Colorado River Basin]] reservoirs show no sustained recruitment. Using a...
+> -- *[[RazorbackSuckerRecruitmentInLa_PML0022]]*
+
+> This report, prepared by Jon C. Sjoberg of the [[Nevada Division Of Wildlife]] in March 1994 and circulated as a June 1994 memorandum to Paul Marsh, compiles historic and recent records to assess the status of the [[Razorback Sucker]] population in [[Lake Mead]]. The author concludes that the...
+> -- *[[StatusSummaryOfTheRazorbackSuc_PML2374]]*
+
+> This 2001 annual report, prepared by [[Bio-West Inc]] for the [[Southern Nevada Water Authority]] (SNWA), compares water quality, nutrients, zooplankton density, and aquatic cover at spawning areas of the endangered [[Razorback Sucker]] in [[Lake Mead]] and [[Lake Mohave]]. Lake Mead's [[Las Vegas...
+> -- *[[ComparisonOfWaterQualityZoopla_PML0883]]*
+
+> This BIO-WEST Inc. report (PR-749-2, December 2001), prepared for the [[Southern Nevada Water Authority]], tests whether nursery areas of [[Razorback Sucker]] differ in water quality, zooplankton density, and aquatic cover between [[Lake Mead]] and [[Lake Mohave]]. Razorback sucker recruitment is...
+> -- *[[ComparisonOfWaterQualityZoopla_PML0882]]*
+
+> This annual report (PR-578-4, December 2000) presents the fourth year (July 1999 to June 2000) of a cooperative study of the [[Razorback Sucker]] population in [[Lake Mead]]. The study was commissioned by the [[Southern Nevada Water Authority]] (SNWA) and conducted by [[BIO/WEST, Inc.]] (BIOMEST in...
+> -- *[[RazorbackSuckerStudiesOnLakeMe_PML1083]]*
+
+> This fifth-year annual report from the [[Lake Mead Razorback Sucker Study]] documents monitoring of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mead]], conducted July 2000 to June 2001 by BIO-WEST, Inc. for the [[Southern Nevada Water Authority]], with cooperation from the...
+> -- *[[RazorbackSuckerStudiesOnLakeMe_PML1082]]*
+
+> This sixth-year annual report (July 2001 to June 2002) from [[BIO-WEST, Inc.]] for the [[Southern Nevada Water Authority]] documents the continuing study of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mead]], Nevada and Arizona. The study, begun in 1996, sought to estimate...
+> -- *[[RazorbackSuckerStudiesOnLakeMe_PML0013]]*
+
+> This annual report (January 2000) covers the third year (July 1998 to June 1999) of a cooperative study of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) population in [[Lake Mead]], Nevada-Arizona. The study was funded by the [[Southern Nevada Water Authority]] (SNWA) and the [[Colorado...
+> -- *[[RazorbackSuckerStudiesOnLakeMe_PML1076]]*
+
+> This August 2006 annual report from [[BIO-WEST Inc]] covers the tenth year (July 2005 to June 2006) of a study of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mead]], funded by the [[Southern Nevada Water Authority]] and the [[Bureau of Reclamation]]. Work included trammel...
+> -- *[[RazorbackSuckerStudiesOnLakeMe_PML0021]]*
+
+> This annual report, prepared by [[BIO/WEST, Inc.]] for the [[Southern Nevada Water Authority]] (SNWA), documents the first year (October 1996 to June 1997) of a multi-year study of the [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mead]]. Sampling by the [[Nevada Division of Wildlife]]...
+> -- *[[RazorbackSuckerStudiesOnLakeMe_PML1075]]*
+
 ### Mentioned In
 - [[ResponseToFwsRpaForTheLowerCol_20463]]
 - [[RazorbackSuckerStudiesOnLakeMe_19873]]
 - [[RazorbackSuckerStudiesOnLakeMe_20464]]
 - [[TheMorphometryOfTheCoregonineF_17950]]
+- [[LakeMeadRazorbackSuckerStudies_PML0222]]
+- [[RazorbackSuckerRecruitmentInLa_PML0022]]
+- [[StatusSummaryOfTheRazorbackSuc_PML2374]]
+- [[ComparisonOfWaterQualityZoopla_PML0883]]
+- [[ComparisonOfWaterQualityZoopla_PML0882]]
+- [[RazorbackSuckerStudiesOnLakeMe_PML1083]]
+- [[RazorbackSuckerStudiesOnLakeMe_PML1082]]
+- [[RazorbackSuckerStudiesOnLakeMe_PML0013]]
+- [[RazorbackSuckerStudiesOnLakeMe_PML1076]]
+- [[RazorbackSuckerStudiesOnLakeMe_PML0021]]
+- [[RazorbackSuckerStudiesOnLakeMe_PML1075]]
+
+## Echo Bay Spawning Site
+
+### Summary
+The Echo Bay Spawning Site is the historic razorback sucker spawning area at Echo Bay on Lake Mead. The source reports that falling lake levels dried this site by 2002, so spawning shifted to two coves on the south shore.
+
+### Context
+> This sixth-year annual report (July 2001 to June 2002) from [[BIO-WEST, Inc.]] for the [[Southern Nevada Water Authority]] documents the continuing study of the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mead]], Nevada and Arizona. The study, begun in 1996, sought to estimate...
+> -- *[[RazorbackSuckerStudiesOnLakeMe_PML0013]]*
+
+### Mentioned In
+- [[RazorbackSuckerStudiesOnLakeMe_PML0013]]
 
 ## Echo Counting
 
@@ -3472,6 +4120,48 @@ Echo Lake is a California water body where kokanee salmon had been previously in
 > This report, prepared by [[Harold K. Hagen]] and [[Joseph E. Banks]] of [[Colorado State University]] for the [[National Park Service]] (contract No. 14-10-0232-686, June 1963), documents the ecology and limnology of the Green River in [[Dinosaur National Monument]]. Its main focus was the rare...
 > -- *[[AnEcologicalAndLimnologicalStu_20953]]*
 
+> This 1962 internal memorandum from a [[Fisheries Management]] biologist to the Regional Director summarizes fish collections made in the [[Green River]] within [[Dinosaur National Monument]] before and after a [[Rotenone]] eradication treatment. The collections were qualitative species surveys, not...
+> -- *[[FishCollectedBeforeAndAfterEra_PML0082]]*
+
+> This is a set of three letters from November 1970 between [[Robert R. Miller]], Curator of Fishes at the [[University of Michigan Museum of Zoology]], and [[Paul B. Holden]] of the [[Utah Cooperative Fishery Unit]] at [[Utah State University]]. The letters concern photographed specimens of...
+> -- *[[LetterToHoldenPbSquawfishKaryo_PML1698]]*
+
+> This report, by Paul B. Holden of BIO/WEST, Inc., evaluates how fish populations in the [[Green River]] changed after the [[Water And Power Resources Service]] installed inlet modifications on [[Flaming Gorge Dam]] in June 1978. The dam had been closed in November 1962. It produced a trout fishery...
+> -- *[[ChangesInTheFishPopulationsInT_PML1081]]*
+
+> This U.S. Fish and Wildlife Service fishery management report, issued by the Cooperative Fishery Unit under Robert L. Inucdo (Fishery Management Biologist), describes a three-day fish sampling survey of the [[Green River]] and the [[Yampa River]] in Colorado and Utah, conducted October 11-13, 1953....
+> -- *[[FisheryManagementReportGreenRi_PML0837]]*
+
+> This document is a species status account for the [[Bonytail Chub]] (*Gila elegans*), a cyprinid fish listed as **Endangered**. It covers taxonomy, historical and present range, population decline, life history, research needs, and authorities. The species was once abundant in the main channels of...
+> -- *[[StatusOfGilaElegansBonytailChu_PML0188]]*
+
+> This U.S. Fish and Wildlife Service memorandum (Fishery Management Biologist [[Robert L. Azevedo]], [[Bureau of Sport Fisheries and Wildlife]], Albuquerque, dated November 9, 1962) reports a fish sampling survey of the [[Green River]] within [[Dinosaur National Monument]] conducted September 24 to...
+> -- *[[DinosaurNationalMonumentGreenR_PML0083]]*
+
+> This partial literature review, prepared by the [[Colorado Division of Wildlife]] in 1977 and updated by an addendum in December 1978, covers the status, natural history, and life history of four fish species endemic to the [[Colorado River Basin]]: the [[Colorado Squawfish]], [[Bonytail Chub]],...
+> -- *[[APartialReviewOfLiteratureOnTh_PML1088]]*
+
+> This 1975 survey by [[Holden and Stalnaker]] (Utah Cooperative Fishery Unit) documents the distribution and relative abundance of fishes in the middle and upper [[Colorado River Basin]] above [[Lake Mead]], sampled from 1967 to 1973. Twenty-nine species were collected, of which 19 were introduced...
+> -- *[[DistributionAndAbundanceOfMain_PML1073]]*
+
+> This U.S. Fish and Wildlife Service technical paper by Charles W. McAda and Richard S. Wydoski reports a field study (August 1974 to November 1976) of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Colorado River Basin]]. The species has declined largely because of dam construction...
+> -- *[[TheRazorbackSuckerXyrauchenTex_PML2634]]*
+
+> This study examines the life history, growth, diet, reproduction and distribution of the [[Colorado Squawfish]] (*Ptychocheilus lucius*) and the [[Colorado Chub]] (*Gila robusta*) in the [[Green River]] within [[Dinosaur National Monument]]. Fieldwork ran from May 1964 to October 1966, after the...
+> -- *[[LifeHistoryOfTheColoradoSquawf_PML2787]]*
+
+> This 1977 status report, prepared for the [[Colorado River Wildlife Council]] by its Endemic Species Committees, reviews the status of 34 native fish taxa of the Colorado River system across seven western states. Its stated purpose is educational: to make readers aware that many endemic species...
+> -- *[[EndemicFishesOfTheColoradoRive_PML0064]]*
+
+> This 1980 report by [[Bio/West Inc]], prepared for the [[National Park Service]] to support a reserved water right claim for [[Dinosaur National Monument]], tests whether flow in the [[Yampa River]] controls the reproductive success of endangered [[Colorado Squawfish]] in the upper [[Green River]]....
+> -- *[[TheRelationshipBetweenFlowsInT_PML1080]]*
+
+> This 1952 report documents a field survey of the [[Green River]] and its tributary the [[Yampa River]] within [[Dinosaur National Monument]]. It was prepared by [[Harold K. Hagen]] (Associate Professor, Fisheries Science) and [[Joe L. Banks]] (Graduate Student) at [[Colorado State University]]...
+> -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
+
+> This 1963 report by [[Harold K. Hagen]] (Associate Professor, Fisheries Science) and [[Joe L. Banks]] (Graduate Student) of [[Colorado State University]] documents the 1962 field season of an ecological and limnological survey of the [[Green River]] in [[Dinosaur National Monument]]. The study was...
+> -- *[[EcologicalAndLimnologicalStudi_PML0941]]*
+
 ### Mentioned In
 - [[AvailabilityOfHabitatCharacter_1993]]
 - [[FisheryManagementReportGreenRi_1963_10_11]]
@@ -3481,6 +4171,20 @@ Echo Lake is a California water body where kokanee salmon had been previously in
 - [[ChangesInTheFishPopulationsInT_20462]]
 - [[DistributionAbundanceAndLifeHi_20456]]
 - [[AnEcologicalAndLimnologicalStu_20953]]
+- [[FishCollectedBeforeAndAfterEra_PML0082]]
+- [[LetterToHoldenPbSquawfishKaryo_PML1698]]
+- [[ChangesInTheFishPopulationsInT_PML1081]]
+- [[FisheryManagementReportGreenRi_PML0837]]
+- [[StatusOfGilaElegansBonytailChu_PML0188]]
+- [[DinosaurNationalMonumentGreenR_PML0083]]
+- [[APartialReviewOfLiteratureOnTh_PML1088]]
+- [[DistributionAndAbundanceOfMain_PML1073]]
+- [[TheRazorbackSuckerXyrauchenTex_PML2634]]
+- [[LifeHistoryOfTheColoradoSquawf_PML2787]]
+- [[EndemicFishesOfTheColoradoRive_PML0064]]
+- [[TheRelationshipBetweenFlowsInT_PML1080]]
+- [[EcologicalAndLimnologicalStudi_PML0942]]
+- [[EcologicalAndLimnologicalStudi_PML0941]]
 
 ## Echo Reservoir
 
@@ -3538,6 +4242,30 @@ An acoustic instrument used to detect and map fish in water. In this source, ech
 ### Mentioned In
 - [[MoreFactsmoreFish_17550]]
 
+## Echosounder
+
+### Summary
+An echosounder is an acoustic instrument that sends sound pulses into the water and records the echoes returned by objects such as fish. In this study, a single-beam BioSonics DT-4000 (later upgraded to a dual-beam DT-5000 in September 1996) operated at 420 kHz was used to estimate fish density and biomass along survey transects. The authors found hydroacoustics to be the only practical method for measuring biomass in large reservoirs, though schooling fish made the estimates highly variable.
+
+### Context
+> This study used hydroacoustics and vertical gill netting to measure the abundance and distribution of pelagic fish in two large [[Colorado River]] reservoirs, [[Lake Powell]] and [[Lake Mead]], across quarterly surveys from November 1995 through January 1999. Pelagic fish biomass was higher and...
+> -- *[[DistributionAndAbundanceOfPela_PML1950]]*
+
+### Mentioned In
+- [[DistributionAndAbundanceOfPela_PML1950]]
+
+## Echosounding
+
+### Summary
+Echosounding is a hydroacoustic method that uses sound pulses to locate fish and estimate their density and depth. In this study a single-beam 200 kHz echosounder was used on night transects, and the authors judged it useful for reservoir-wide estimates but limited in identifying species.
+
+### Context
+> This Bureau of Reclamation applied sciences memorandum (Referral Memorandum No. 93-2-6) reports a 1992 comparison of [[Hydroacoustics]] and active and passive netting for monitoring fish in [[Buffalo Bill Reservoir]], impounded by [[Buffalo Bill Dam]] on the [[Shoshone River]]. Surveys were run in...
+> -- *[[HydroacousticAndFishNettingSur_PML1942]]*
+
+### Mentioned In
+- [[HydroacousticAndFishNettingSur_PML1942]]
+
 ## Echternach
 <!-- fm: auto_enriched: true -->
 
@@ -3568,9 +4296,13 @@ The Eckman dredge is a bottom sampling device used to collect sediment and organ
 > This completion report, a 1967 addendum to Progress Report No. 4 (Job No. 1B, [[Fishery Investigations]], [[Flaming Gorge Unit]]), covers physical, chemical, and biological sampling of [[Fontenelle Reservoir]] and the [[Green River]] from July 1965 to June 1967. The work was financed under Section...
 > -- *[[FisherySurveyOfFontenelleReser_17634]]*
 
+> This ninth and final segment of a fishery study measured angler pressure, harvest, and biological conditions in the [[Colorado River]] tailwater below [[Glen Canyon Dam]], focusing on the [[Leets Ferry]] access area. The creel census covered July 1, 1971 to June 30, 1972. Angler effort rose...
+> -- *[[TailwaterFisheriesGlenCanyonCr_PML2470]]*
+
 ### Mentioned In
 - [[AStudyOfThirtysixStreamsThatWe_19907]]
 - [[FisherySurveyOfFontenelleReser_17634]]
+- [[TailwaterFisheriesGlenCanyonCr_PML2470]]
 
 ## Eco-Pioneers
 
@@ -3620,6 +4352,30 @@ In this source, Ecological Analysis refers to the authors' ecological interpreta
 ### Mentioned In
 - [[FishesOfIsleRoyaleLakeSuperior_14320]]
 
+## Ecological Analysts
+
+### Summary
+Ecological Analysts Inc. was the Concord, California firm that produced this 1981 report for Pacific Gas and Electric Company. The report is a taxonomic reference for identifying early life stages of estuarine fishes. It is cited as the publisher in the source citation.
+
+### Context
+> This 1981 technical report, prepared by [[Johnson C.S. Wang]] for [[Pacific Gas and Electric Company]] and produced by [[Ecological Analysts]] (Concord, California), provides identification keys and descriptions for the eggs, larvae and juveniles of fishes from the [[Sacramento-San Joaquin...
+> -- *[[TaxonomyOfEarlyLifeStagesOfFis_PML2817]]*
+
+### Mentioned In
+- [[TaxonomyOfEarlyLifeStagesOfFis_PML2817]]
+
+## Ecological and Evolutionary Traps
+
+### Summary
+Situations in which environmental cues no longer reliably signal favorable conditions for survival or reproduction, so organisms respond in ways that reduce fitness. For Lake Sturgeon, the source describes dams, climate change and flow variability as producing such traps, where cues like rising water temperature and falling discharge no longer predict good spawning conditions.
+
+### Context
+> This perspective synthesizes three [[Conservation Hatchery]] programs for imperiled North American freshwater fishes: [[Lake Sturgeon]], [[Razorback Sucker]] and [[Rio Grande Silvery Minnow]]. Traditional hatchery culture often reduces the ecological performance, [[Genetic Diversity]] and...
+> -- *[[WildAtHeartProgramsToDiminishN_PML2048]]*
+
+### Mentioned In
+- [[WildAtHeartProgramsToDiminishN_PML2048]]
+
 ## Ecological Competition
 
 ### Summary
@@ -3631,6 +4387,18 @@ Competition between species for shared resources, which the report repeatedly pr
 
 ### Mentioned In
 - [[AnEvaluationOfChangesInNativeF_20471]]
+
+## Ecological Conditions
+
+### Summary
+In this source, temperature and salinity act as environmental drivers of differentiation in these desert fishes. Cooler spring-outlet fish have more body scales than source-spring fish, and increasing salinity has a similar effect to decreasing temperature, producing more meristic units. Miller notes that some of this variation may be a direct environmental effect rather than genetic.
+
+### Context
+> Robert Rush Miller (1950, *Evolution* 4: 155–163) examines speciation in six species of two cyprinodontid genera, [[Cyprinodon]] and [[Empetrichthys]], inhabiting the isolated spring, stream and lake remnants of the [[Death Valley System]] in the [[Great Basin]]. The paper argues that [[Population...
+> -- *[[SpeciationInFishesOfTheGeneraC_PML1696]]*
+
+### Mentioned In
+- [[SpeciationInFishesOfTheGeneraC_PML1696]]
 
 ## Ecological Connectivity
 
@@ -3696,6 +4464,18 @@ Ecological Economics is a field that examines the relationships between ecologic
 ### Mentioned In
 - [[SocietyForConservationBiologyN_17497]]
 
+## Ecological Effects
+
+### Summary
+Deviations in ecosystem states or rates caused by a toxicant. In this source, they are calculated as the difference between a nominal model run and a toxicant-affected run, divided by the nominal value, and are described as heuristic predictions rather than site-specific forecasts.
+
+### Context
+> This [[Environmental Protection Agency]] project summary, prepared by the [[Environmental Research Laboratory]] in Athens, Georgia (EPA-600/S3-83-084, November 1983), presents a strategy for modeling aquatic ecosystems so that the effects of toxic chemicals on [[Element Cycling]] and other...
+> -- *[[PredictionOfEcologicalEffectsO_PML1338]]*
+
+### Mentioned In
+- [[PredictionOfEcologicalEffectsO_PML1338]]
+
 ## Ecological Efficiency
 <!-- fm: auto_enriched: true -->
 
@@ -3748,6 +4528,30 @@ A state in which the natural relationships among organisms and their environment
 ### Mentioned In
 - [[ForeignIntroductionsOfNorthAme_15556]]
 
+## Ecological Mitigation
+
+### Summary
+Ecological mitigation, as the source uses the term, means restoring natural demographic and evolutionary processes, such as colonization and gene flow among patches, rather than maintaining harvests. The author contrasts it with hatchery supplementation and stock transfers aimed at producing harvestable surpluses, and frames artificial recolonization as one form of it.
+
+### Context
+> This perspective article argues that [[Pacific Salmon]] (*Oncorhynchus* spp.) in the [[Pacific Northwest]] have declined regionally and gone locally extinct mainly because of freshwater habitat destruction and overfishing. Current management focuses on [[Habitat Restoration]] and stricter fishery...
+> -- *[[ManagingTheDeclineOfPacificSal_PML2939]]*
+
+### Mentioned In
+- [[ManagingTheDeclineOfPacificSal_PML2939]]
+
+## Ecological Modelling
+
+### Summary
+The journal in which this methods paper by Buckland et al. was published (Ecological Modelling, volume 171, 2004). It is the venue for the state-space framework described in the source.
+
+### Context
+> This methods paper (Buckland et al., 2004, *[[Ecological Modelling]]* 171) proposes a unified [[State-Space Model]] framework for jointly specifying population dynamics and the survey or harvest observations taken on a population. The population process is written as a **state process** and the...
+> -- *[[StatespaceModelsForTheDynamics_PML0313]]*
+
+### Mentioned In
+- [[StatespaceModelsForTheDynamics_PML0313]]
+
 ## Ecological Monographs
 <!-- fm: auto_enriched: true -->
 
@@ -3789,11 +4593,63 @@ An ecological niche in fish science refers to the specific role, habitat, and re
 ### Mentioned In
 - [[EvaluationOfBalanceBetweenFish_13453]]
 
+## Ecological Niche Theory
+
+### Summary
+A framework in ecology describing a species' niche as the set of environmental conditions and resources it can use. In this study it underpins the comparison of native and nonnative fishes, whose traits are mapped into shared niche space to see where they overlap.
+
+### Context
+> This study tests whether [[Ecological Niche Theory]] combined with the [[Winemiller-Rose Model]] of [[Life-History Strategies]] can explain long-term patterns of nonnative fish spread and native fish range contraction in the [[Colorado River Basin]] over roughly 150 years. The authors compiled 22...
+> -- *[[LifehistoryStrategiesPredictFi_PML2044]]*
+
+> This study tests whether [[Ecological Niche Theory]] combined with the [[Winemiller and Rose Model]] of fish [[Life-History Theory]] can explain long-term patterns of nonnative fish spread and native fish range contraction in the [[Colorado River Basin]] over roughly 150 years. The authors compiled...
+> -- *[[LifehistoryStrategiesPredictFi_PML2045]]*
+
+### Mentioned In
+- [[LifehistoryStrategiesPredictFi_PML2044]]
+- [[LifehistoryStrategiesPredictFi_PML2045]]
+
+## Ecological Opportunity
+
+### Summary
+The idea that colonizing new environments or resources can drive rapid evolutionary diversification. The study tests this prediction in minnows, where the pelagic shift produced increased speciation but not increased body shape evolution.
+
+### Context
+> This study tests how two macroevolutionary predictions, that colonizing a new geographic area and increasing habitat complexity both promote evolution, behave when they point in opposite directions. Using the North American minnow radiation ([[Leuciscidae]]), the authors examine the ancestral shift...
+> -- *[[PelagicZoneIsAnEvolutionaryCat_PML0343]]*
+
+### Mentioned In
+- [[PelagicZoneIsAnEvolutionaryCat_PML0343]]
+
 ## Ecological Preserve
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[LetterToJackWoodyRegardingIlle_1987_03_18]]
+
+## Ecological Productivity
+
+### Summary
+An evaluation measure based on ecological outcomes of management relative to inputs. The source reviews it in its evaluation table and applies it to North Island Kokako recovery (Innes et al. 1999).
+
+### Context
+> This review, published in [[Conservation Biology]] (Volume 17, No. 1, February 2003) by Kenneth F. D. Hughey, Ross Cullen and Emma Moran, examines how economic tools can improve [[Priority Setting]] and [[Conservation Evaluation]] for threatened and endangered species and natural areas. The...
+> -- *[[IntegratingEconomicsIntoPriori_PML1125]]*
+
+### Mentioned In
+- [[IntegratingEconomicsIntoPriori_PML1125]]
+
+## Ecological Realism
+
+### Summary
+The criterion used here to judge whether model estimates are biologically plausible, compared against literature densities (Higgins et al.), expert opinion and expected occupancy. The authors show that AIC ranking and ecological realism can disagree, with the best-AIC models often being the least realistic.
+
+### Context
+> This paper develops the [[N-Mixture Model]] (Royle 2004) to handle zero-inflated count data by using [[Zero-Inflated Poisson]] (ZIP) and [[Zero-Inflated Negative Binomial]] (ZINB) forms. The authors fit four variants (Poisson, ZIP, [[Negative Binomial]], ZINB) to survey data for six woodland bird...
+> -- *[[ModelingAbundanceUsingNmixture_PML1243]]*
+
+### Mentioned In
+- [[ModelingAbundanceUsingNmixture_PML1243]]
 
 ## Ecological Reserve Act
 
@@ -3812,6 +4668,42 @@ A law from the 1966–1970 legislative timeline that the report names as part of
 
 ### Mentioned In
 - [[TheBiologicalDiversityCrisisAC_12097]]
+
+## Ecological Resilience
+
+### Summary
+The capacity of an ecological system to absorb disturbance and remain in its current state. The source treats low resilience as a key barrier to adaptive management, since managers fear disturbance could push the system past a threshold.
+
+### Context
+> This conservation ecology paper, by Gunderson (1999), argues that [[Adaptive Environmental Assessment and Management]] (AEAM) often fails because the ecological system or the management institution lacks the [[Ecological Resilience]] or [[Flexibility]] needed to support it. The author's central...
+> -- *[[ResilienceFlexibilityAndAdapti_PML0921]]*
+
+### Mentioned In
+- [[ResilienceFlexibilityAndAdapti_PML0921]]
+
+## Ecological Restoration
+
+### Summary
+Efforts to return a degraded ecosystem toward a more natural condition. In this source, Marsh questions whether restoration is feasible on the channelized lower Colorado River and says it is reasonable only if mandated and implemented, with three preliminary questions answered first.
+
+### Context
+> This is a 1997 review letter by Paul C. Marsh, Faculty Research Associate at Arizona State University (Department of Biology), commenting on the U.S. Fish and Wildlife Service (FWS) and Bureau of Reclamation (USBR) Biological Opinion (BO) on [[Lower Colorado River Operations and Maintenance]]. The...
+> -- *[[PeerReviewOfTheBiologicalOpini_PML1422]]*
+
+### Mentioned In
+- [[PeerReviewOfTheBiologicalOpini_PML1422]]
+
+## Ecological Risk Assessment
+
+### Summary
+This is a general approach for judging how likely environmental stressors are to harm organisms or populations. The source does not discuss or apply it: the note only links to it as background, and the OCR-corrupted text yields no assessment results.
+
+### Context
+> This note covers a scanned document of five or more pages whose OCR text is almost entirely corrupted. Most lines are symbol strings and character fragments, so the content cannot be reliably reconstructed. No species names, sites, sample sizes, statistics, or conclusions can be confidently...
+> -- *[[GapeLimitedPiscivoresPlanktivo_PML0956]]*
+
+### Mentioned In
+- [[GapeLimitedPiscivoresPlanktivo_PML0956]]
 
 ## Ecological Role
 
@@ -3855,6 +4747,18 @@ FWS field offices that, under this memo, take over day-to-day lead responsibilit
 ### Mentioned In
 - [[ReassignmentOfEndangeredSpecie_11826]]
 
+## Ecological Significance
+
+### Summary
+This is the second ground on which the West Fork was designated a Unique Water. The source cites the stream's unimpounded, undiverted condition, its role as the largest tributary of the Little Colorado above Lyman Lake, its virgin conifer canyon forest, and its self-sustaining wild rainbow-Arizona trout fishery.
+
+### Context
+> The Bureau of Water Quality Control, Arizona Department of Health Services, nominated the West Fork of the [[Little Colorado River]] upstream of Government Springs (south of Greer, Arizona) as a Unique Water of Exceptional [[Recreational Significance]] and [[Ecological Significance]]. The...
+> -- *[[UniqueWatersNominationForTheWe_PML0081]]*
+
+### Mentioned In
+- [[UniqueWatersNominationForTheWe_PML0081]]
+
 ## Ecological Society Of America
 <!-- fm: auto_enriched: true -->
 
@@ -3877,6 +4781,12 @@ FWS field offices that, under this memo, take over day-to-day lead responsibilit
 > This issue of the [[Society for Conservation Biology]] (SCB) Newsletter covers the 1994 annual meeting in [[Guadalajara]], [[Mexico]], and reports on the journal [[Conservation Biology]]. [[Peter F. Brussard]]'s president's column argues that human population growth and resource consumption are the...
 > -- *[[SocietyForConservationBiologyN_17497]]*
 
+> This document is a reprint of a 1997 [[Science]] review by Botsford, Castilla and Peterson on the [[Management of Fisheries]] and [[Marine Ecosystem Management]]. It argues that the global marine fish catch is near its upper limit and that management has failed to prevent overfishing. The authors...
+> -- *[[TheManagementOfFisheriesAndMar_PML0257]]*
+
+> This document is a file for a draft [[Technical Conservation Assessment]] of the [[Lake Chub]] (*Couesius plumbeus*) prepared by Richard Stasiak (University of Nebraska at Omaha, April 2005) for the [[USDA Forest Service]] [[Rocky Mountain Region]] (Region 2) Species Conservation Project. It...
+> -- *[[LakeChubCouesiusPlumbeusATechn_PML2442]]*
+
 ### Mentioned In
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
 - [[TheLimnologyOfDesertSprings_13994]]
@@ -3884,6 +4794,20 @@ FWS field offices that, under this memo, take over day-to-day lead responsibilit
 - [[ABriefHistoryOfEcologyPartIPre_12931]]
 - [[TransplantedFishCastShadow_18809]]
 - [[SocietyForConservationBiologyN_17497]]
+- [[TheManagementOfFisheriesAndMar_PML0257]]
+- [[LakeChubCouesiusPlumbeusATechn_PML2442]]
+
+## Ecological Stability
+
+### Summary
+In fisheries management, ecological stability refers to a stock's ability to return to a target level after fluctuations. The source argues that managing for the economic optimum leaves stocks unstable, while setting the target at (3/4)K yields a stable equilibrium under constant harvest that returns to 750 after fluctuations in the example.
+
+### Context
+> This Proceedings of the National Academy of Sciences paper by Roughgarden and Smith (1996) argues that conventional economic management of renewable fisheries drives stocks toward an unstable equilibrium, making collapse likely. The authors propose managing for [[Ecological Stability]] by setting...
+> -- *[[WhyFisheriesCollapseAndWhatToD_PML2270]]*
+
+### Mentioned In
+- [[WhyFisheriesCollapseAndWhatToD_PML2270]]
 
 ## Ecological Stoichiometry
 
@@ -3931,12 +4855,16 @@ The study of how the balance of elements such as carbon, nitrogen and phosphorus
 > This study evaluates the [[Resistance]], [[Resilience]] and [[Ecological Succession]] of [[Periphyton]] and [[Macroinvertebrates]] in [[Sycamore Creek]], a spatially intermittent stream in the [[Sonoran Desert]] of Arizona, over June 1984 to July 1987. Thirty-five [[Flash Flood]] disturbances...
 > -- *[[StabilityOfPeriphytonAndMacroi_17790]]*
 
+> This chapter by [[Stuart G. Fisher]] (Department of Zoology, Arizona State University) argues that stream ecology and [[Ecological Succession]] theory can inform each other. It extends the classical definition of succession, change in community composition after disturbance, to two dimensions:...
+> -- *[[SuccessionInStreams_PML0818]]*
+
 ### Mentioned In
 - [[SuccessionScaleAndHypothesisTe_1987]]
 - [[SuccessionInStreams_16412]]
 - [[SpeciesdiversityAndPatterndive_11181]]
 - [[RecoveryProcessesInLoticEcosys_16416]]
 - [[StabilityOfPeriphytonAndMacroi_17790]]
+- [[SuccessionInStreams_PML0818]]
 
 ## Ecological Support System
 
@@ -4016,6 +4944,18 @@ An ecological trap is a situation in which organisms prefer a habitat that actua
 - [[HowHabitatEdgesChangeSpeciesIn_16297]]
 - [[TheConservationReserveyesterda_19864]]
 
+## Ecological Truncation
+
+### Summary
+Ecological truncation is the preferential loss of specialists and large or wide-ranging species when a community is reduced. Willis argues that it would preserve 70–91% of species in two reserves, compared with 9% expected by chance alone.
+
+### Context
+> This Oikos forum (1984, vol. 42, no. 3) is a multi-author exchange on whether one large nature reserve or several small reserves of equal total area better conserve species, the "SLOSS" question. The lead piece by [[Edwin O. Willis]] defends the [[Anti-Dismemberment Hypothesis]], which holds that...
+> -- *[[ConservationSubdivisionOfReser_PML2910]]*
+
+### Mentioned In
+- [[ConservationSubdivisionOfReser_PML2910]]
+
 ## Ecological Vegetation Classes
 
 ### Summary
@@ -4070,6 +5010,18 @@ These are indigenous vegetation classes, ordered here from wettest to driest: Su
 - [[SocietyForConservationBiologyN_17497]]
 - [[AspectosHidrobiologicosAConsid_11375]]
 
+## Ecology Audits, Inc.
+
+### Summary
+Ecology Audits, Inc. is the Albuquerque, New Mexico firm that produced this 1979 field report for the U.S. Forest Service. The report assessed habitat use, distribution and life history of the Loach Minnow and Roundtail Chub in the Gila and San Francisco River drainages. The firm's file report is cited as EA 79??-05.
+
+### Context
+> This 1979 field report by [[Ecology Audits, Inc.]] for the [[U.S. Forest Service]] assessed habitat use, distribution and basic life history of two endangered or sensitive cyprinid fishes, the [[Loach Minnow]] and the [[Roundtail Chub]], across the [[Gila River]] and [[San Francisco River]]...
+> -- *[[HabitatStudyOfRoundtailChubGil_PML0658]]*
+
+### Mentioned In
+- [[HabitatStudyOfRoundtailChubGil_PML0658]]
+
 ## Ecology Program
 
 ### Summary
@@ -4092,6 +5044,18 @@ The Ecology Program is one of four NSF programs within the Division of Biotic Sy
 ### Mentioned In
 - [[LetterToMrDonnellyHillRegardin_1994_08_29]]
 
+## Ecomorphological Constraints
+
+### Summary
+Limits on ecological behaviour that arise from an organism's body form and how that form affects movement, feeding and swimming. In this source, the authors argue that body shape constrains where and how bass can feed, alongside behavioural flexibility and site-specific resources.
+
+### Context
+> This study examined how three size groups of [[Largemouth Bass]] (*Micropterus salmoides*) in [[Alamo Lake]], an Arizona reservoir, differed in foraging behavior and habitat use. Small bass (<25 cm TL) stayed in littoral cover, probably to avoid predation. Intermediate bass (25–38 cm TL) formed...
+> -- *[[FoodAndHabitatUseByDifferentSi_PML2818]]*
+
+### Mentioned In
+- [[FoodAndHabitatUseByDifferentSi_PML2818]]
+
 ## Ecomorphology
 
 ### Summary
@@ -4101,8 +5065,12 @@ The study of how an organism's morphology relates to its ecological role. In thi
 > This document is a 1993 research proposal from the [[University of Oklahoma Biological Station]] (Kingston, Oklahoma), led by [[William J. Matthews]] (Principal Investigator) and [[Frances P. Gelwick]] (Co-Principal Investigator), and submitted to the [[Environmental Protection Agency]]. It asks...
 > -- *[[PotentialEstablishmentOfRedShi_15211]]*
 
+> Douglas and Matthews (1992, *Oikos* 65:213–224) test whether body morphology can serve as an index of stream fish assemblage structure, using [[Ecomorphology]] data from 17 fish species in five families collected in the upper [[Roanoke River]] drainage, Virginia. Morphology was compared with...
+> -- *[[DoesMorphologyPredictEcologyHy_PML0604]]*
+
 ### Mentioned In
 - [[PotentialEstablishmentOfRedShi_15211]]
+- [[DoesMorphologyPredictEcologyHy_PML0604]]
 
 ## Economic Analysis
 
@@ -4122,11 +5090,47 @@ The economic evaluation required before the razorback sucker critical habitat ru
 > The [[Fish and Wildlife Service]] (Service) proposed critical habitat for four endangered [[Colorado River Basin]] fishes: [[Razorback Sucker]], [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail Chub]]. The proposal was published in the *Federal Register* on January 29, 1993 (Vol. 58, No....
 > -- *[[EndangeredAndThreatenedWildlif_19334]]*
 
+> This [[Federal Register]] notice, published September 15, 1993 (Vol. 58, No. 177), is issued by the [[U.S. Fish and Wildlife Service]] (Service). It announces the availability of a [[Biological Support Document]] for the proposed designation of [[Critical Habitat]] for four endangered Colorado...
+> -- *[[EndangeredAndThreatenedWildlif_PML0748]]*
+
+> The U.S. Fish and Wildlife Service (Service) published a proposed rule on October 27, 2010, to designate approximately 796 miles of streams and rivers in central and eastern Arizona and western New Mexico as [[Critical Habitat]] under the [[Endangered Species Act]] for the federally threatened...
+> -- *[[CriticalHabitatProposedForTwoS_PML2765]]*
+
+> A 1994 final rule from the [[Fish And Wildlife Service]] lists the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the [[Endangered Species Act]]. The rule was published in the Federal Register on July 20, 1994 and took effect August 19, 1994. The species now...
+> -- *[[EndangeredAndThreatenedWildlif_PML0760]]*
+
+> This final rule, published in the [[Federal Register]] on March 8, 1994 and effective April 7, 1994, designates [[Critical Habitat]] for the [[Loach Minnow]] (*Tiaroga cobitis*), a small, slender, endangered freshwater fish of the [[Gila River]] basin in [[Arizona]] and [[New Mexico]]. The rule was...
+> -- *[[EndangeredAndThreatenedWildlif_PML0761]]*
+
+> The [[Fish And Wildlife Service]] (Service) proposed in the *Federal Register* of April 5, 1995 (Vol. 60, No. 65; RIN 1018-AD22) to designate [[Critical Habitat]] for three fishes endemic to the [[Virgin River]] Basin: the [[Woundfin]], the [[Virgin River Chub]], and the [[Virgin Spinedace]]. The...
+> -- *[[EndangeredAndThreatenedWildlif_PML0787]]*
+
+> This U.S. Fish and Wildlife Service proposed rule (*Federal Register*, December 10, 1999) proposes designating [[Critical Habitat]] under the [[Endangered Species Act]] for the [[Spikedace]] (*Meda fulgida*) and the [[Loach Minnow]] (*Tiaroga cobitis*), two threatened freshwater fishes of the Gila...
+> -- *[[EndangeredAndThreatenedWildlif_PML0775]]*
+
 ### Mentioned In
 - [[ColoradoWildlifeFederationEtAl_19327]]
 - [[ReviewOfSupplementalLetterRepo_13957]]
 - [[ProposedRuleDesignatingCritica_17486]]
 - [[EndangeredAndThreatenedWildlif_19334]]
+- [[EndangeredAndThreatenedWildlif_PML0748]]
+- [[CriticalHabitatProposedForTwoS_PML2765]]
+- [[EndangeredAndThreatenedWildlif_PML0760]]
+- [[EndangeredAndThreatenedWildlif_PML0761]]
+- [[EndangeredAndThreatenedWildlif_PML0787]]
+- [[EndangeredAndThreatenedWildlif_PML0775]]
+
+## Economic Consequences of Critical Habitat Designation
+
+### Summary
+This is the subject of the source document: an economic analysis of what designating critical habitat for the Rio Grande silvery minnow would mean for affected parties. The draft by ECONorthwest concludes the designation's net effect is probably close to zero, with the main federal impact falling on the Bureau of Reclamation's river-maintenance program.
+
+### Context
+> This document is the cover letter and draft report of the [[Economic Consequences of Critical Habitat Designation]] for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered fish listed on July 20, 1994. The U.S. [[Fish and Wildlife Service]] (Service) proposed critical habitat along the main...
+> -- *[[ThePotentialEconomicConsequenc_PML2746]]*
+
+### Mentioned In
+- [[ThePotentialEconomicConsequenc_PML2746]]
 
 ## Economic Entomology
 
@@ -4175,6 +5179,22 @@ A working group within the Glen Canyon Environmental Studies program that met in
 
 ### Mentioned In
 - [[EconomicStudyTeamMeetingAgenda_19676]]
+
+## ECONorthwest
+
+### Summary
+ECONorthwest is an economics consulting firm that prepared the February 1996 draft report assessing the economic consequences of designating critical habitat for the Rio Grande Silvery Minnow. The report was produced for the U.S. Fish and Wildlife Service's New Mexico Ecological Services Field Office and uses a with-versus-without framework to evaluate the proposed designation.
+
+### Context
+> This April 1996 cover letter from the [[U.S. Fish and Wildlife Service]] (New Mexico Ecological Services Field Office) and the attached February 1996 draft report by ECONorthwest assess the economic effects of designating critical habitat for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered...
+> -- *[[ThePotentialEconomicConsequenc_PML0659]]*
+
+> This document is the cover letter and draft report of the [[Economic Consequences of Critical Habitat Designation]] for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered fish listed on July 20, 1994. The U.S. [[Fish and Wildlife Service]] (Service) proposed critical habitat along the main...
+> -- *[[ThePotentialEconomicConsequenc_PML2746]]*
+
+### Mentioned In
+- [[ThePotentialEconomicConsequenc_PML0659]]
+- [[ThePotentialEconomicConsequenc_PML2746]]
 
 ## Ecopath II
 
@@ -4281,9 +5301,13 @@ Geographic units of the United States defined by Bailey (1976), used in this sou
 > - **Position relative to other sciences:** Sears argues that all levels of scientific inquiry — from subatomic physics to galactic astronomy — are mutually complementary, and that ecology's study of "systems of systems" (communities, ecosystems) is neither less rigorous nor less valuable than red...
 > -- *[[ThePlaceOfEcologyInScience_11353]]*
 
+> This paper by [[Wendell L. Minckley]], an Arizona State University zoologist, is an ecologist's introduction to the complexity of man-environment interactions, published in the 1970 volume *Water Resource Systems* from the [[Arizona State University]] Water Resource Systems program. It argues that...
+> -- *[[ExploitationAndEnvironmentalQu_PML1820]]*
+
 ### Mentioned In
 - [[TerminologyAssociatedWithIntro_11384]]
 - [[ThePlaceOfEcologyInScience_11353]]
+- [[ExploitationAndEnvironmentalQu_PML1820]]
 
 ## Ecosystem Approach
 <!-- fm: auto_enriched: true -->
@@ -4313,6 +5337,15 @@ The Ecosystem Approach in fish conservation represents a shift from single-speci
 > This Nature Conservancy feature (January/February 1994) is a essay on land stewardship, not a fish study. It argues that stewardship is a young science built on humility about the limits of human knowledge. The authors cite past blunders, such as predator eradication and introduced biocontrol...
 > -- *[[ManagingBiodiversity_17642]]*
 
+> This USFWS project report (June 29, 2000) documents the renovation of Spring S1, known as "Tusidugihalen" ("Hot Spring"), at [[Bylas Springs]] on the [[San Carlos Apache Reservation]]. The goal was to restore habitat for the endangered [[Gila Topminnow]] by removing invasive [[Mosquitofish]] and...
+> -- *[[TusidugihalenHotSpringSAndTheE_PML2294]]*
+
+> This document is a reprint of a 1997 [[Science]] review by Botsford, Castilla and Peterson on the [[Management of Fisheries]] and [[Marine Ecosystem Management]]. It argues that the global marine fish catch is near its upper limit and that management has failed to prevent overfishing. The authors...
+> -- *[[TheManagementOfFisheriesAndMar_PML0257]]*
+
+> This U.S. Fish and Wildlife Service Biological Report (No. 24, July 1994), authored by [[Jack A. Stanford]] of the Flathead Lake Biological Station, University of Montana, is an independent scientific review of the instream flow science used to justify flow recommendations for four [[Endangered...
+> -- *[[InstreamFlowsToAssistTheRecove_PML2437]]*
+
 ### Mentioned In
 - [[EndangeredSpeciesTodayExtinctT_1977]]
 - [[LetterToLoriPotterRegardingCri_1992_06_16]]
@@ -4321,6 +5354,9 @@ The Ecosystem Approach in fish conservation represents a shift from single-speci
 - [[DraftPolicyForConservingSpecie_11730]]
 - [[TheEcosystemApproachHealthyEco_20912]]
 - [[ManagingBiodiversity_17642]]
+- [[TusidugihalenHotSpringSAndTheE_PML2294]]
+- [[TheManagementOfFisheriesAndMar_PML0257]]
+- [[InstreamFlowsToAssistTheRecove_PML2437]]
 
 ## Ecosystem Approach To Conservation
 
@@ -4352,6 +5388,22 @@ A holistic, ecosystem-level alternative to managing species one at a time. This 
 ### Mentioned In
 - [[ConceptualOutlineEcosystemCons_18705]]
 
+## Ecosystem Context
+
+### Summary
+Ecosystem context refers to the biological, physical, and chemical conditions that shape how organisms interact in a given aquatic setting. This source does not provide any legible information about ecosystems, so no ecosystem context can be drawn from it.
+
+### Context
+> The source is an OCR scan whose text is almost entirely corrupted. It contains only fragmentary character strings with no recoverable words, sentences, numbers, species names, or locations. It is not possible to determine whether it is a research article, proposal, budget, or correspondence, and no...
+> -- *[[UnreadableScannedDocumentNoExt_PML0980]]*
+
+> The source document is an OCR scan of roughly 50 pages that is almost entirely corrupted. Most lines are scattered glyphs, fragments of table grids, and isolated punctuation, with no recoverable sentences, headings, or data tables. No species, habitat, location, sample size, statistic, or...
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
+
+### Mentioned In
+- [[UnreadableScannedDocumentNoExt_PML0980]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
+
 ## Ecosystem Diversity
 
 ### Summary
@@ -4367,8 +5419,13 @@ Ecosystem diversity is the variety of communities interacting with their physica
 ## Ecosystem Engineers
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This perspective article by [[Doug Armstrong]] and [[Philip Seddon]] (IUCN/SSC Reintroduction Specialist Group) argues that [[Reintroduction Biology]] should shift from descriptive and retrospective research toward a strategic framework of questions identified in advance. The authors propose ten...
+> -- *[[DirectionsInReintroductionBiol_PML0072]]*
+
 ### Mentioned In
 - [[WhyLinkSpeciesAndEcosystemsAPe_1994]]
+- [[DirectionsInReintroductionBiol_PML0072]]
 
 ## Ecosystem Health
 
@@ -4464,6 +5521,12 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 > This Summer 1993 [[Trout Unlimited]] feature compiles nine essays by fisheries scientists, managers, tribal leaders, policy advisors and conservationists answering one question: what can the [[Clinton Administration]] and Congress do to recover native Pacific salmon? It follows the earlier...
 > -- *[[CanWeSaveAmericasPacificSalmon_16941]]*
 
+> This paper, by [[David Policansky]] and [[John J. Magnuson]] (Ecological Applications, 1998 Special Issue), argues that [[Genetic Diversity]] deserves far more weight in [[Ecosystem Management]] of fisheries than it usually receives. The authors use [[Pacific Salmon]] of the Pacific Northwest as a...
+> -- *[[GeneticsMetapopulationsAndEcos_PML2148]]*
+
+> This chapter, by [[Robert A. Leidy]] and [[Peter B. Moyle]], appears in the edited volume *[[Conservation Biology for the Coming Decade]]* (1998). It reviews the status of the world's fish fauna as an indicator of aquatic biodiversity. The authors argue that aquatic ecosystems, especially...
+> -- *[[ConservationStatusOfTheWorldsF_PML1354]]*
+
 ### Mentioned In
 - [[IssuesAndAlternativesForUseOfH_1994_05_31]]
 - [[LetterFromAssociationOfMidwest_1994_07_14]]
@@ -4486,6 +5549,8 @@ Ecosystem Management in fish science and aquatic conservation refers to the inte
 - [[FlagshipsUmbrellasAndKeystones_18982]]
 - [[StockExchangesStateFederalOffi_20494]]
 - [[CanWeSaveAmericasPacificSalmon_16941]]
+- [[GeneticsMetapopulationsAndEcos_PML2148]]
+- [[ConservationStatusOfTheWorldsF_PML1354]]
 
 ## Ecosystem Management Approach
 
@@ -4521,11 +5586,15 @@ The approach the Muleshoe plan follows, built on interagency partnership, invent
 > This chapter examines how drying affects the [[Hyporheic Zone]] (the subsurface sediments where interstitial water exchanges with surface flow) of [[Sycamore Creek]], a spatially intermittent desert stream in south-central Arizona within the [[Sonoran Desert]]. The authors argue that climate-driven...
 > -- *[[InteractionsBetweenDryingAndTh_14716]]*
 
+> This review, by [[Carpenter Et Al]] (1992) in the *Annual Review of Ecology and Systematics*, assesses how global climate change may alter lake, stream, wetland and floodplain ecosystems. Freshwater holds only about 0.01% of Earth's water, yet it supports ecosystems and human needs, so its...
+> -- *[[GlobalChangeAndFreshwaterEcosy_PML0360]]*
+
 ### Mentioned In
 - [[HyporheicSurfaceWaterExchangeI_13668]]
 - [[Vita_19386]]
 - [[BiogeochemistryOfNitrogenInSon_17780]]
 - [[InteractionsBetweenDryingAndTh_14716]]
+- [[GlobalChangeAndFreshwaterEcosy_PML0360]]
 
 ## Ecosystem Research Institute
 
@@ -4548,8 +5617,36 @@ Ecosystem respiration is the total oxygen consumed by all biological processes i
 > This 1984 study by Nancy B. Grimm and Stuart G. Fisher (Arizona State University) examines summer metabolism in a 30-m reach of [[Sycamore Creek]], a Sonoran Desert stream in Arizona. The authors combined surface-sediment chamber measurements, deep-sediment core respiration, and whole-system oxygen...
 > -- *[[ExchangeBetweenInterstitialAnd_17787]]*
 
+> This study measures whole-ecosystem metabolism in the [[Arizona Canal]], a concrete-lined irrigation canal in central Arizona, using diel changes in [[Dissolved Oxygen]] over a 12-km reach (stations A to E). Measurements were taken in June, July, September and November 1983. The canal behaves as a...
+> -- *[[MetabolismOfAnAridRegionCanalE_PML1438]]*
+
 ### Mentioned In
 - [[ExchangeBetweenInterstitialAnd_17787]]
+- [[MetabolismOfAnAridRegionCanalE_PML1438]]
+
+## Ecosystem Restoration
+
+### Summary
+Efforts to return a degraded ecosystem toward a healthier or previous state. The source lists it as a keyword, linking restoration to the paper's recommendation to rebuild resilience and flexibility before broad adaptive management.
+
+### Context
+> This conservation ecology paper, by Gunderson (1999), argues that [[Adaptive Environmental Assessment and Management]] (AEAM) often fails because the ecological system or the management institution lacks the [[Ecological Resilience]] or [[Flexibility]] needed to support it. The author's central...
+> -- *[[ResilienceFlexibilityAndAdapti_PML0921]]*
+
+### Mentioned In
+- [[ResilienceFlexibilityAndAdapti_PML0921]]
+
+## Ecosystem Shift
+
+### Summary
+A change of an ecosystem from one stable state to a different one, often with altered structure and function. The source notes that managers' fear of such a shift makes them reluctant to run the experiments adaptive management requires.
+
+### Context
+> This conservation ecology paper, by Gunderson (1999), argues that [[Adaptive Environmental Assessment and Management]] (AEAM) often fails because the ecological system or the management institution lacks the [[Ecological Resilience]] or [[Flexibility]] needed to support it. The author's central...
+> -- *[[ResilienceFlexibilityAndAdapti_PML0921]]*
+
+### Mentioned In
+- [[ResilienceFlexibilityAndAdapti_PML0921]]
 
 ## Ecosystem Stability
 
@@ -4592,8 +5689,12 @@ The concept, following Webster et al. (1975), that a system is stable if disturb
 > - **Habitat loss and degradation** are identified as the primary driver of decline for [[Threatened and Endangered Fishes]], occurring at a "community level" before formal listing — by which point recruitment and reproduction may be insufficient for wild sustainability. - Two recognized managemen...
 > -- *[[SampleInterviewRecordOnHatcher_1994_05_13]]*
 
+> This paper, by [[David Policansky]] and [[John J. Magnuson]] (Ecological Applications, 1998 Special Issue), argues that [[Genetic Diversity]] deserves far more weight in [[Ecosystem Management]] of fisheries than it usually receives. The authors use [[Pacific Salmon]] of the Pacific Northwest as a...
+> -- *[[GeneticsMetapopulationsAndEcos_PML2148]]*
+
 ### Mentioned In
 - [[SampleInterviewRecordOnHatcher_1994_05_13]]
+- [[GeneticsMetapopulationsAndEcos_PML2148]]
 
 ## Ecosystem-Based Management
 
@@ -4643,9 +5744,13 @@ A consulting organization whose work is one of the data sources feeding the 86 d
 > This final report, prepared by [[BIO/WEST Inc]] for the [[Bureau of Reclamation]] (Contract No. 6-CS-40-03980), synthesizes four years (1985–1988) of the "Cataract Canyon Studies." The study sampled the lower 50 miles of the [[Green River]] and [[Colorado River]], the 16-mile whitewater reach of...
 > -- *[[FinalReporttheEndangeredFishOf_13607]]*
 
+> This 1986 study by John G. Carter, Vincent A. Lamarra and Ronald J. Ryel of the [[Ecosystems Research Institute]] examines [[Larval Fish Drift]] in the upper [[Colorado River Basin]]. Two independent studies were run: a 1983 survey near [[Parachute Creek]], Colorado, assessing a midchannel water...
+> -- *[[DriftOfLarvalFishesInTheUpperC_PML0388]]*
+
 ### Mentioned In
 - [[DevelopmentOfHabitatSuitabilit_13604]]
 - [[FinalReporttheEndangeredFishOf_13607]]
+- [[DriftOfLarvalFishesInTheUpperC_PML0388]]
 
 ## Ecotone
 
@@ -4662,10 +5767,26 @@ An ecotone is a transition zone between two adjacent ecological systems. The rev
 > This study examines riparian forests in the [[River Garonne]] floodplain, France, as sites of maximum interaction between a river and its valley. Using a historical perspective to explain present processes, the authors show that floodplain vegetation remains strongly shaped by floods, unlike in...
 > -- *[[LateralInteractionsInAFluvialL_16105]]*
 
+> This report from the [[Arizona Cooperative Fishery Research Unit]] (University of Arizona, Tucson) examines whether [[Typha latifolia]] (broadleaf cattail) supports the sport fishery of [[Imperial Reservoir]], a eutrophic, partly brackish reservoir on the [[Lower Colorado River]] in Arizona and...
+> -- *[[TheEcologyOfTyphaLatifoliaInIm_PML0952]]*
+
 ### Mentioned In
 - [[TheEcologyOfInterfacesriparian_19487]]
 - [[AVisionForTheVirginConservatio_15060]]
 - [[LateralInteractionsInAFluvialL_16105]]
+- [[TheEcologyOfTyphaLatifoliaInIm_PML0952]]
+
+## Ecotone Habitat
+
+### Summary
+The transition zone between macrophyte beds and open water or sand, defined as one of the five habitat types in this study. Largemouth bass ranked this habitat highest overall and used it significantly more than most other habitats, which the authors linked to ambush predation at the edge of cover.
+
+### Context
+> This 1983 field study used [[Radio Telemetry]] to track the habitat use and movements of four fish species in [[Cedar Lake]], Illinois: [[Largemouth Bass]], [[Bluegill]], [[Yellow Perch]] and [[Pumpkinseed]]. Fish were located by [[Triangulation]] at five-minute intervals and assigned to five...
+> -- *[[HabitatUtilizationAndMovementO_PML2288]]*
+
+### Mentioned In
+- [[HabitatUtilizationAndMovementO_PML2288]]
 
 ## Ecotone Theory
 
@@ -4714,6 +5835,15 @@ Ecotoxicology in fish science is the study of how toxic substances and pollutant
 - [[TheEffectsOfCombinationsOfInse_1966]]
 - [[TheToxicityOfMixturesOfZincAnd_16168]]
 
+## Ecotrophic Coefficient
+
+### Context
+> This review synthesizes published estimates of annual production, the annual production/biomass (P/B) ratio, and the [[Ecotrophic Coefficient]] for [[Stream Trout]] populations. The ecotrophic coefficient, defined as the ratio of angler harvest to annual production, is proposed as a practical...
+> -- *[[AnnualProductionProductionbiom_PML2839]]*
+
+### Mentioned In
+- [[AnnualProductionProductionbiom_PML2839]]
+
 ## Ecotypy
 <!-- fm: auto_enriched: true -->
 
@@ -4721,9 +5851,13 @@ Ecotoxicology in fish science is the study of how toxic substances and pollutant
 > This 1969 Master of Science thesis by [[John Norman Rinne]] (Arizona State University) revises the taxonomy of western chubs of the genus [[Gila]] (family [[Cyprinidae]]) in the lower [[Colorado River]] basin. Drawing on roughly 1500 museum specimens, the author combines meristic counts,...
 > -- *[[CyprinidFishesOfTheGenusGilaFr_14986]]*
 
+> This study tests whether historical tectonic and drainage changes explain the morphological variation of [[Gila Chub|Gila]] cyprinids in the [[Gila River Basin]] of southwestern North America. The authors (Michael E. Douglas, W. L. Minckley, and Bruce D. DeMarais) compared fish body shape against...
+> -- *[[DidVicarianceMoldPhenotypesOfW_PML0606]]*
+
 ### Mentioned In
 - [[DifferentiationInFishesOfTheAm_12774]]
 - [[CyprinidFishesOfTheGenusGilaFr_14986]]
+- [[DidVicarianceMoldPhenotypesOfW_PML0606]]
 
 ## Ecsenius
 
@@ -4816,6 +5950,18 @@ The three regions the source uses to organise Ecuador's fish records: the easter
 ### Mentioned In
 - [[AnnotatedListOfTheFreshwaterFi_18360]]
 
+## Ed Bianchi
+
+### Summary
+Ed Bianchi is a fish biologist who, according to this source, recalled capturing adult Razorback Suckers by electrofishing at Alamo Lake around 1979 or 1980 during a largemouth bass study. He had not published these razorback records in his dissertation or reports, and he may still hold the original field notes. The thread is a records search about his recollection and does not report new data from him.
+
+### Context
+> This two-part email thread (January 2000) between staff of the [[U.S. Fish and Wildlife Service]] and fish biologists at [[Arizona State University]] questions whether a [[Razorback Sucker]] record from [[Alamo Lake]] is documented elsewhere. A colleague, Ed Bianchi, recalls capturing adult...
+> -- *[[RazorbackWoes_PML2750]]*
+
+### Mentioned In
+- [[RazorbackWoes_PML2750]]
+
 ## Ed Glenn
 <!-- fm: auto_enriched: true -->
 
@@ -4834,6 +5980,18 @@ The three regions the source uses to organise Ecuador's fish records: the easter
 
 ### Mentioned In
 - [[NotesFromAugustMeetingOnFishBa_1994_09_28]]
+
+## Ed Wick
+
+### Summary
+Ed Wick is listed as one of the principal investigators on this 1996 study plan, representing the National Park Service (NPS). The source names him among the team responsible for the razorback sucker early life history work.
+
+### Context
+> This document is a 1996 draft study plan from the [[National Biological Service]] (NBS) Midcontinent Ecological Science Center, submitted to Dr. Paul Marsh (Arizona State University) for peer review, with a comment deadline of May 17, 1996. The plan, titled *Advancing Knowledge on Critical Early...
+> -- *[[AdvancingKnowledgeOnCriticalEa_PML1944]]*
+
+### Mentioned In
+- [[AdvancingKnowledgeOnCriticalEa_PML1944]]
 
 ## Ed's Limestone
 
@@ -4883,6 +6041,18 @@ A Colorado Division of Wildlife aquatic manager quoted in the source. He said ze
 ### Mentioned In
 - [[StockExchangesStateFederalOffi_20494]]
 
+## Edds and Echelle
+
+### Summary
+Cited in this source (Meffe 1990) as part of the body of work on the genetics of endangered desert fishes, alongside Echelle and Dowling (1989). The source uses it as supporting literature rather than describing its specific findings in detail.
+
+### Context
+> G. K. Meffe (1990), writing in the *Journal of Fish Biology* (Supplement A), argues that the long-term survival of rare fishes depends partly on maintaining enough genetic variation within populations for natural selection and continued evolutionary adaptation. The paper uses the critically...
+> -- *[[GeneticApproachesToConservatio_PML1669]]*
+
+### Mentioned In
+- [[GeneticApproachesToConservatio_PML1669]]
+
 ## Eddy
 
 ### Summary
@@ -4898,10 +6068,18 @@ Eddies are slow, circulating water areas along the river margin. The source says
 > This study documents the fish community of the Smoky Hill River in western and central Kansas, based on 62 electrofishing collections at eight stations from 29 May 1965 to 6 August 1966. The author recorded 13,959 specimens of 30 species (the text also cites 31 species for the same collections, a...
 > -- *[[FishesOfTheSmokyHillRiverKansa_14672]]*
 
+> This draft report by the [[Arizona Game and Fish Department]] (AGFD), prepared for the [[Bureau of Reclamation]] under the [[Glen Canyon Environmental Studies]] program, counts and measures [[Backwater]] habitats along the regulated [[Colorado River]] below [[Glen Canyon Dam]]. Backwaters serve as...
+> -- *[[ComparisonOfTheNumberAndAreaOf_PML1647]]*
+
+> This methods paper, written by Harold Tyus and Richard Valdez of the [[U.S. Fish and Wildlife Service]] [[Colorado River Fisheries Project]], describes how the project studies two endangered cyprinids, the [[Colorado Squawfish]] and the [[Humpback Chub]], in the mainstem of the Upper Colorado and...
+> -- *[[FieldMethodologiesOfTheFishAnd_PML0067]]*
+
 ### Mentioned In
 - [[DraftcoloradoRiverFishMonitori_13045]]
 - [[TheTeethOfLampreysPetromyzonid_13179]]
 - [[FishesOfTheSmokyHillRiverKansa_14672]]
+- [[ComparisonOfTheNumberAndAreaOf_PML1647]]
+- [[FieldMethodologiesOfTheFishAnd_PML0067]]
 
 ## Eddy and Carlander
 
@@ -5062,6 +6240,18 @@ One of four topographic features the source identifies on a transect across the 
 ### Mentioned In
 - [[OriginStructureAndEvolutionOfA_21106]]
 
+## Edelia Vittata
+
+### Summary
+Edelia vittata, the western pygmy perch, is a small native freshwater fish of south-western Australia. This source treats it as the focal native species, similar in size and diet to the mosquitofish, and reports that it suffered fin damage and high mortality in tanks holding mosquitofish, and was only found alongside mosquitofish where physical cover was present.
+
+### Context
+> This study, presented at the 5th Indo-Pacific Fish Conference (Nouméa, 1997) and published in 1999, asks whether the introduced [[Gambusia Holbrooki]] (mosquitofish) threatens native freshwater fishes in south-western Australia. The authors combined controlled tank experiments, field sampling of...
+> -- *[[IsTheMosquitofishGambusiaHolbr_PML0868]]*
+
+### Mentioned In
+- [[IsTheMosquitofishGambusiaHolbr_PML0868]]
+
 ## Edella Schlager
 
 ### Summary
@@ -5150,6 +6340,18 @@ Edgar A. Mearns was a surgeon and naturalist with the United States Army who col
 - [[AquaticBiotaOfTheSonoitaCreekB_18565]]
 - [[FishingForSpeckledMountainBeau_PML0296]]
 
+## Edgar Alexander Mearns
+
+### Summary
+Edgar Alexander Mearns was a physician and naturalist on the U.S.–Mexico Boundary Survey of 1892–93. He published a treatise on the natural history of the boundary region and a catalog of its mammals. The chapter notes that he died at age 61.
+
+### Context
+> This historical chapter, by David E. Brown, W. H. Minckley, and James P. Collins, traces how natural history and ecological knowledge of the American Southwest developed. The authors argue that the region's ecosystems are distinctive because of its geographic position at the junction of North...
+> -- *[[HistoricalBackgroundToSouthwes_PML0303]]*
+
+### Mentioned In
+- [[HistoricalBackgroundToSouthwes_PML0303]]
+
 ## Edgar Anderson
 
 ### Summary
@@ -5212,6 +6414,18 @@ A grazing property near Aramac in Central Western Queensland, where the redfinne
 ### Mentioned In
 - [[ARedfinnedBlueeyeANewSpeciesAn_14398]]
 
+## Edge Effect
+
+### Summary
+A bias in grid trapping that arises because animals living near the edge of the trapping grid may range partly outside it. The review notes it is often corrected by adding a strip of half the home-range width around the grid (Dice, 1938). The author lists the edge effect in grid trapping as an open research problem.
+
+### Context
+> This review by [[G. A. F. Seber]] (University of Auckland) surveys developments in estimating animal abundance and related parameters, such as survival rates, published since the author's 1982 book. The paper is general to animal populations rather than fish-specific. It covers density estimation...
+> -- *[[AReviewOfEstimatingAnimalAbund_PML2329]]*
+
+### Mentioned In
+- [[AReviewOfEstimatingAnimalAbund_PML2329]]
+
 ## Edge Effects
 
 ### Summary
@@ -5224,9 +6438,25 @@ Edge effects are changes in species and communities that occur at habitat bounda
 > This feature article by Jon R. Luoma examines whether [[Captive Breeding]] can pull endangered animals back from extinction, and what is lost when wild populations are replaced by animals in cages. The central paradox is that [[Black-footed Ferret]] numbers rebounded in captivity while no ferret...
 > -- *[[BornToBeWildCaptiveBreedingCan_16272]]*
 
+> This Oikos forum (1984, vol. 42, no. 3) is a multi-author exchange on whether one large nature reserve or several small reserves of equal total area better conserve species, the "SLOSS" question. The lead piece by [[Edwin O. Willis]] defends the [[Anti-Dismemberment Hypothesis]], which holds that...
+> -- *[[ConservationSubdivisionOfReser_PML2910]]*
+
 ### Mentioned In
 - [[HowHabitatEdgesChangeSpeciesIn_16297]]
 - [[BornToBeWildCaptiveBreedingCan_16272]]
+- [[ConservationSubdivisionOfReser_PML2910]]
+
+## Edge-Mediated Behaviour
+
+### Summary
+A movement pattern in which animals turn back when they reach the boundary of a habitat patch. The review cites it as an extension that can be built into state-space models.
+
+### Context
+> This review, by Patterson and co-authors and published in *Trends in Ecology and Evolution* (2008, vol. 23, no. 2), argues that [[State-Space Model]]s (SSMs) are the most promising analytical framework for individual animal movement. Movement data are stochastic and often subject to severe...
+> -- *[[StatespaceModelsOfIndividualAn_PML2091]]*
+
+### Mentioned In
+- [[StatespaceModelsOfIndividualAn_PML2091]]
 
 ## Edible Land Snails
 
@@ -5239,6 +6469,42 @@ Terrestrial snails, mostly in the families Achatinidae and Helicidae, that are e
 
 ### Mentioned In
 - [[EdibleLandSnailsInTheUnitedSta_12755]]
+
+## Edie Marsh
+
+### Summary
+Edie Marsh is the Associate Editor for Fishes at The Southwestern Naturalist, based at Angelo State University in San Angelo, Texas. In this source she wrote the cover letter for the peer review package of manuscript F-14-89, dated 31 October 1989, asking reviewers for frank and concise evaluations.
+
+### Context
+> This file is a peer review package for manuscript F-14-89, "Spawning of Desert Sucker," by [[Jeffrey P. Hill]] and [[William J. Matter]], submitted to [[The Southwestern Naturalist]]. The package contains the reviewer evaluation form, the associate editor's cover letter, the reviewer's letter, and...
+> -- *[[SpawningOfDesertSucker_PML1058]]*
+
+### Mentioned In
+- [[SpawningOfDesertSucker_PML1058]]
+
+## Edison Bridge
+
+### Summary
+A landmark near the river mouth of the Samish River estuary, where Group 1 was released directly from fresh water. Salinity at high tide there was about 22 parts per thousand.
+
+### Context
+> This study by the [[Washington State Department of Fisheries]] tested whether the length and salinity of a pre-release sea-water phase improved the survival of hatchery-reared [[Chinook Salmon]] (fall-migrating, "[[Fall Chinook]]") planted as juveniles in the [[Samish River]] estuary. Roughly...
+> -- *[[RearingMethodsAndTheReturnOfFa_PML0675]]*
+
+### Mentioned In
+- [[RearingMethodsAndTheReturnOfFa_PML0675]]
+
+## Edith's Checkerspot Butterfly
+
+### Summary
+Edith's checkerspot butterfly (Euphydryas editha) is a butterfly found in California. In this paper it serves as the main supporting case study, with Ehrlich and colleagues' 15-year monitoring showing fluctuating, fragmented populations on Jasper Ridge Preserve, including local extinctions and recolonizations, and microhabitat effects on larval survival during drought.
+
+### Context
+> This conservation-biology paper, authored by Bruce A. Wilcox and Dennis D. Murphy, argues that [[Habitat Fragmentation]] is a serious threat to biological diversity and should be a central consideration in reserve design. The authors challenge the view, associated with the [[SLOSS]] debate ("single...
+> -- *[[ConservationStrategyTheEffects_PML2889]]*
+
+### Mentioned In
+- [[ConservationStrategyTheEffects_PML2889]]
 
 ## Editorial Policy
 
@@ -5263,6 +6529,38 @@ Edmondson (1977) is cited as describing the recovery of Lake Washington from eut
 
 ### Mentioned In
 - [[OpportunitiesForMaintenanceAnd_17327]]
+
+## Edmund D. Andrews
+
+### Summary
+Edmund D. Andrews is one of the three authors of this 1997 paper, affiliated with the U.S. Geological Survey. Together with Marzolf and Smith, he uses hydrology, sediment records and historical accounts to argue that the pre-dam Colorado River in Grand Canyon depended on imported terrestrial carbon.
+
+### Context
+> This paper by [[G. Richard Marzolf]], [[Edmund D. Andrews]] and [[J. Dungan Smith]] (U.S. Geological Survey) reconstructs the biotic structure and function of the [[Colorado River]] in [[Grand Canyon]] before the construction of [[Glen Canyon Dam]]. Because biological records from the pre-dam...
+> -- *[[TheColoradoRiverInTheGrandCany_PML1597]]*
+
+> This U.S. Fish and Wildlife Service Biological Report (No. 24, July 1994), authored by [[Jack A. Stanford]] of the Flathead Lake Biological Station, University of Montana, is an independent scientific review of the instream flow science used to justify flow recommendations for four [[Endangered...
+> -- *[[InstreamFlowsToAssistTheRecove_PML2437]]*
+
+> This 1993 report by Jack A. Stanford, prepared for the [[Instream Flow Subcommittee]] of the [[Recovery Implementation Program]] and the [[U.S. Fish and Wildlife Service]], reviews the ecological science behind instream flow recommendations for four endangered big-river fishes of the Upper Colorado...
+> -- *[[InstreamFlowsToAssistTheRecove_PML2436]]*
+
+### Mentioned In
+- [[TheColoradoRiverInTheGrandCany_PML1597]]
+- [[InstreamFlowsToAssistTheRecove_PML2437]]
+- [[InstreamFlowsToAssistTheRecove_PML2436]]
+
+## Edmund J. Wick
+
+### Summary
+Edmund J. Wick is one of the three authors of this 1990 paper on endangered fishes in the Little Snake River, Colorado, with John A. Hawkins and T. P. Nesler. The source lists him as a co-author and does not describe his individual role beyond that.
+
+### Context
+> This manuscript, prepared by [[Edmund J. Wick]], [[John A. Hawkins]] and T. P. Nesler, reports the first documented occurrence of the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) and suspected [[Humpback Chub]] (*Gila cypha*) in the [[Little Snake River]], a tributary of the [[Yampa...
+> -- *[[OccurrenceOfTwoEndangeredFishe_PML2886]]*
+
+### Mentioned In
+- [[OccurrenceOfTwoEndangeredFishe_PML2886]]
 
 ## Edmunds 1956
 <!-- fm: auto_enriched: true -->
@@ -5359,6 +6657,18 @@ Eduardo Santana is named in this source as one of the organizers of the 1994 SCB
 
 ### Mentioned In
 - [[SocietyForConservationBiologyN_17497]]
+
+## Edward A. Goldman
+
+### Summary
+Edward A. Goldman was an American naturalist and mammalogist who worked on Southwestern and Mexican fauna. The source lists him only as one of the notable figures in the history of Southwestern natural history, without detailing his specific contributions. The chapter treats him as part of the broader body of work that shaped regional ecological knowledge.
+
+### Context
+> This historical chapter, by David E. Brown, W. H. Minckley, and James P. Collins, traces how natural history and ecological knowledge of the American Southwest developed. The authors argue that the region's ecosystems are distinctive because of its geographic position at the junction of North...
+> -- *[[HistoricalBackgroundToSouthwes_PML0303]]*
+
+### Mentioned In
+- [[HistoricalBackgroundToSouthwes_PML0303]]
 
 ## Edward Alphonso Goldman
 
@@ -5472,11 +6782,15 @@ Edward Cope was a 19th-century American paleontologist and zoologist. According 
 > This bulletin of the [[Florida State Museum]] presents a type catalogue for the North American cyprinid genus [[Notropis]], written by Carter R. Gilbert and published in 1978 (Bulletin of the Florida State Museum, Biological Sciences, Vol. 23, No. 1). The genus, as then constituted, is the largest...
 > -- *[[TypeCatalogueOfTheNorthAmerica_16993]]*
 
+> This historical survey report, prepared by [[Paul C. Marsh]] with [[Edward D. Cope]] describing the new taxa and [[Henry C. Yarrow]] compiling comparisons and synonymy, reports on freshwater fish collected in the western interior of the United States during 1871–1874. The material supports the...
+> -- *[[ReportUponTheCollectionsOfFish_PML0495]]*
+
 ### Mentioned In
 - [[RecordsOfFishesForTheSouthernS_18800]]
 - [[ZoologicalPositionOfTexas_17580]]
 - [[FishesOfAPleistoceneLakeInSout_18353]]
 - [[TypeCatalogueOfTheNorthAmerica_16993]]
+- [[ReportUponTheCollectionsOfFish_PML0495]]
 
 ## Edward D. DeLamater
 
@@ -5530,6 +6844,15 @@ Edward D. DeLamater is a co-author of this 1974 Florida Scientist paper with Wal
 > This chapter, from Burkhead and Jenkins' treatment of Virginia's endangered species (1991), reviews the state's freshwater and euryhaline ichthyofauna. Virginia supports 210 species (230 taxa including subspecies), of which 192 are native. The authors assess the conservation status of imperiled...
 > -- *[[Fishes_14030]]*
 
+> This document comprises a 1984–1985 status package for the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a cyprinid endemic to the [[Little Colorado River]] drainage of eastern Arizona. It includes a cover letter to the U.S. Fish and Wildlife Service (dated February 14, 1985), an internal...
+> -- *[[CurrentDistributionAndStatusOf_PML1758]]*
+
+> This 1985 review in the *Great Basin Naturalist* (Sigler, Vigg and Bres) synthesizes data from the [[Pyramid Lake Ecological Study]] (1975–1978) with agency reports and the literature to present an overview of the [[Cui-ui]], a large lacustrine sucker endemic to [[Pyramid Lake]]. The species is the...
+> -- *[[LifeHistoryOfTheCuiuiChasmiste_PML1366]]*
+
+> This 1984 *Bulletin of the Alabama Museum of Natural History* paper by Robert E. Jenkins and Noel M. Burkhead provides the first detailed description of the [[Spotfin Chub]] (*Hybopsis monacha*), a small cyprinid endemic to the [[Tennessee River]] drainage. The species had a wide historical range...
+> -- *[[DescriptionBiologyAndDistribut_PML1174]]*
+
 ### Mentioned In
 - [[ANoteOnTheGenericNamesCyclagra_11187]]
 - [[BriefBographiesOfLeadingIchthy_12677]]
@@ -5543,6 +6866,9 @@ Edward D. DeLamater is a co-author of this 1974 Florida Scientist paper with Wal
 - [[ReportUponTheCollectionsOfFish_17579]]
 - [[AStudyOfTheFishesOfUtah_13456]]
 - [[Fishes_14030]]
+- [[CurrentDistributionAndStatusOf_PML1758]]
+- [[LifeHistoryOfTheCuiuiChasmiste_PML1366]]
+- [[DescriptionBiologyAndDistribut_PML1174]]
 
 ## Edward E. Brookless
 
@@ -5580,6 +6906,30 @@ Grassl is the author of this 1957 paper, written while affiliated with the Insti
 ### Mentioned In
 - [[PossibleValueOfContinuousFeedi_19202]]
 
+## Edward H. Brown Jr.
+
+### Summary
+Edward H. Brown Jr. was the author of this 1961 study of game fish movement in Massie Creek, Ohio. He worked with the Ohio Department of Natural Resources, Division of Wildlife, and his data came from tagging and recapturing native and hatchery-reared bass during 1953 to 1957.
+
+### Context
+> This 1950s study by [[Edward H. Brown Jr.]] of the [[Ohio Department of Natural Resources]], Division of Wildlife, tracked the movement of tagged [[Smallmouth Bass]] and [[Rock Bass]] in [[Massie Creek]], a small headwater tributary of the [[Little Miami River]] in southwestern Ohio, during 1953...
+> -- *[[MovementOfNativeAndHatcheryrea_PML0297]]*
+
+### Mentioned In
+- [[MovementOfNativeAndHatcheryrea_PML0297]]
+
+## Edward H. Heede
+
+### Summary
+Edward H. Heede is a research hydrologist and co-author of this manuscript with John N. Rinne, both affiliated with the Rocky Mountain Forest and Range Experiment Station. The source presents him as one of the authors arguing that hydrology, fluvial morphology and fisheries science need to be bridged for stream management.
+
+### Context
+> This manuscript, by [[Edward H. Heede]] (research hydrologist) and [[John N. Rinne]] (fisheries research biologist), both of the [[Rocky Mountain Forest and Range Experiment Station]] in Tempe/Flagstaff-area Arizona (listed as Tempe, Arizona in the source), argues that hydrology, fluvial morphology...
+> -- *[[HydrologyFluvialMorphologyAndS_PML1014]]*
+
+### Mentioned In
+- [[HydrologyFluvialMorphologyAndS_PML1014]]
+
 ## Edward Harrison Taylor
 
 ### Summary
@@ -5603,6 +6953,18 @@ Petuch is the author of this 1982 Proceedings of the Biological Society of Washi
 
 ### Mentioned In
 - [[ParaprovincialismRemnantsOfPal_11207]]
+
+## Edward L. Kaplan
+
+### Summary
+Edward L. Kaplan was a co-developer, with Paul Meier, of the Kaplan-Meier method. The source credits the pair with the foundational 1958 paper, "Nonparametric estimation from incomplete observations," in the Journal of the American Statistical Association.
+
+### Context
+> This tutorial explains how [[Kaplan-Meier Curve|Kaplan-Meier (K-M) curves]] are generated, read and compared. It is a clinical biostatistics article, not an aquatic or fisheries study, so no species, habitat or location data apply. Its method is general: it models time-to-event data in which some...
+> -- *[[APracticalGuideToUnderstanding_PML2195]]*
+
+### Mentioned In
+- [[APracticalGuideToUnderstanding_PML2195]]
 
 ## Edward L. Wickliff
 
@@ -5647,8 +7009,12 @@ Edward M. Nelson was the author of this 1949 study of the opercular series of ca
 > The article documents a scientific dispute in the late 1980s/early 1990s over the magnitude and rate of anthropogenic species extinction, framed around a debate published in the journal *Science*. Prominent biologists [[Edward O. Wilson]] and [[Paul R. Ehrlich]] argue that continued destruction o...
 > -- *[[WillTheWeedyInheritTheEarthDeb_14831]]*
 
+> This Oikos forum (1984, vol. 42, no. 3) is a multi-author exchange on whether one large nature reserve or several small reserves of equal total area better conserve species, the "SLOSS" question. The lead piece by [[Edwin O. Willis]] defends the [[Anti-Dismemberment Hypothesis]], which holds that...
+> -- *[[ConservationSubdivisionOfReser_PML2910]]*
+
 ### Mentioned In
 - [[WillTheWeedyInheritTheEarthDeb_14831]]
+- [[ConservationSubdivisionOfReser_PML2910]]
 
 ## Edward P. Glenn
 <!-- fm: auto_enriched: true -->
@@ -5769,10 +7135,14 @@ R. W. Edwards, co-author of the source, whose 1957 work found larval Chironomus 
 > This 1960 study by [[George F. Weisel]] (Zoology Department, University of Montana) provides the first complete description of the skull (osteocranium) of a sucker, *Catostomus macrocheilus*. The author describes the neurocranium, branchiocranium, oromandibular region, pectoral girdle and jaw...
 > -- *[[TheOsteocraniumOfTheCatostomid_12131]]*
 
+> This excerpt, from a scanned journal article in the *Transactions of the American Philosophical Society*, describes the functional anatomy of the upper jaw complex in two fishes: a sucker, [[Carpiodes]], and a characin, [[Hydrocyon]]. It also refers to the [[Common Carp]] (*Cyprinus carpio*) in the...
+> -- *[[FishSkullsAStudyOfTheEvolution_PML0909]]*
+
 ### Mentioned In
 - [[TheDistributionOfTheMidgeChiro_20216]]
 - [[MorphologyOfTheKidneysOfOhioFi_16580]]
 - [[TheOsteocraniumOfTheCatostomid_12131]]
+- [[FishSkullsAStudyOfTheEvolution_PML0909]]
 
 ## Edwards 1946
 
@@ -5914,6 +7284,12 @@ R. W. Edwards and H. L. J. Rolley, the authors of the 1965 Journal of Ecology st
 > This 1978 bulletin of the [[Alabama Museum of Natural History]] (Number 4, 53 pages) by Brooks M. Burr, based on a dissertation at the University of Illinois, revises the darter subgenus [[Microperca]] (genus [[Etheostoma]], family [[Percidae]]). The subgenus contains three species: [[Cypress...
 > -- *[[SystematicsOfThePercidFishesOf_14046]]*
 
+> This study examines the fish community of the free-flowing [[Devil's River]] in southwest Texas, a desert stream that the source describes as the last remaining undammed, unpolluted major river in Texas. The author sampled 12 sites over 1974–75 and compared fish assemblages before and after a major...
+> -- *[[ResponseOfTheDevilsRiverTexasF_PML0993]]*
+
+> This taxonomic paper, published in *Ichthyological Exploration of Freshwaters* (Vol. 8, No. 2, 1997) by Steven M. Norris and W. L. Minckley, describes two new darters of the subgenus [[Oligocephalus]] from streams of the Chihuahuan Desert in central Coahuila, Mexico. Both species occur within or...
+> -- *[[TwoNewSpeciesOfEtheostomaOstei_PML2029]]*
+
 ### Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[FountainDarterEtheostomaFontic_1993_05_19]]
@@ -5929,6 +7305,8 @@ R. W. Edwards and H. L. J. Rolley, the authors of the 1965 Journal of Ecology st
 - [[ZoogeographicPatternsOfNorthAm_19887]]
 - [[TheDemiseOfDesertSprings_11444]]
 - [[SystematicsOfThePercidFishesOf_14046]]
+- [[ResponseOfTheDevilsRiverTexasF_PML0993]]
+- [[TwoNewSpeciesOfEtheostomaOstei_PML2029]]
 
 ## Edwards Dam
 
@@ -5949,6 +7327,18 @@ A dam built in 1837 on the Kennebec River at Augusta, Maine. Babbitt reports tha
 - [[ARiverRunsAgainstItAmericasEvo_17185]]
 - [[FarewellToTheNineteenthCentury_12345]]
 - [[TheDamDilemmaSalmonReservoirsA_21212]]
+
+## Edwards et al. 1989
+
+### Summary
+Edwards et al. (1989) is cited for the point that Texas sits in a broad transition zone between several major zoogeographic provinces of North America and contains many distinctive biotic zones. The checklist uses this to help explain the state's high fish diversity.
+
+### Context
+> This supplement to *The Texas Journal of Science* (Vol. 43, No. 4, 1991) presents an annotated checklist and dichotomous identification keys for the fishes of Texas freshwaters. The authors, [[Carl Hubbs]], [[Robert J. Edwards]], and [[Gary P. Garrett]], report 45 families and 247 species, of which...
+> -- *[[AnAnnotatedChecklistOfTheFresh_PML1113]]*
+
+### Mentioned In
+- [[AnAnnotatedChecklistOfTheFresh_PML1113]]
 
 ## Edwards Plateau
 <!-- fm: auto_enriched: true -->
@@ -5987,6 +7377,9 @@ A dam built in 1837 on the Kennebec River at Augusta, Maine. Babbitt reports tha
 > John R. Holsinger (Department of Zoology and Institute of Speleology, University of Kentucky) revises the troglobitic amphipod genus [[Stygonectes]] from central Texas caves. He redefines the genus, sinks [[Synpleonia]] into it as a synonym, treats five species (three newly described), and proposes...
 > -- *[[SubterraneanAmphipodsOfTheGenu_19878]]*
 
+> This study examines the fish community of the free-flowing [[Devil's River]] in southwest Texas, a desert stream that the source describes as the last remaining undammed, unpolluted major river in Texas. The author sampled 12 sites over 1974–75 and compared fish assemblages before and after a major...
+> -- *[[ResponseOfTheDevilsRiverTexasF_PML0993]]*
+
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[GeographicVariationsInEggCompl_14245]]
@@ -5999,6 +7392,7 @@ A dam built in 1837 on the Kennebec River at Augusta, Maine. Babbitt reports tha
 - [[TheFishesOfTheUpperGuadalupeRi_14256]]
 - [[CorrectedDistributionalRecords_14203]]
 - [[SubterraneanAmphipodsOfTheGenu_19878]]
+- [[ResponseOfTheDevilsRiverTexasF_PML0993]]
 
 ## Edwards Plateau Ichthyofauna
 <!-- fm: auto_enriched: true -->
@@ -6045,6 +7439,18 @@ A dam built in 1837 on the Kennebec River at Augusta, Maine. Babbitt reports tha
 ### Mentioned In
 - [[SoutheasternSocietyOfIchthyolo_20882]]
 
+## Edwin Brand
+
+### Summary
+Edwin Brand was a researcher who, in 1937, recorded that none of the three main rivers of the Lago de Guzmán system had flowed continuously from source to terminal lake since 1924. He also documented that many springs that fed the system about 80 years earlier had failed. His observations are cited in the source as evidence of early hydrological decline in the region.
+
+### Context
+> This formal species description, by [[Minckley]], [[Ralph R. Miller]], and [[Stephen M. Norris]], names three new pupfishes of the genus *Cyprinodon* that were long recognized as distinct. The species are [[Cyprinodon Pisteri]] (Guzmán Pupfish), [[Cyprinodon Albivelis]] (Whitefin Pupfish), and...
+> -- *[[ThreeNewPupfishSpeciesCyprinod_PML1888]]*
+
+### Mentioned In
+- [[ThreeNewPupfishSpeciesCyprinod_PML1888]]
+
 ## Edwin Chapin Starks
 
 ### Summary
@@ -6056,6 +7462,18 @@ Edwin Chapin Starks (1867-1932) made his most impressive contribution in the fie
 
 ### Mentioned In
 - [[BriefBographiesOfLeadingIchthy_12677]]
+
+## Edwin James
+
+### Summary
+Edwin James was a naturalist on Stephen Long's 1820 expedition, alongside Thomas Say. The chapter says the expedition recorded new plants and animals during the exploration period. He is therefore one of the early contributors to the scientific record of Southwestern natural history.
+
+### Context
+> This historical chapter, by David E. Brown, W. H. Minckley, and James P. Collins, traces how natural history and ecological knowledge of the American Southwest developed. The authors argue that the region's ecosystems are distinctive because of its geographic position at the junction of North...
+> -- *[[HistoricalBackgroundToSouthwes_PML0303]]*
+
+### Mentioned In
+- [[HistoricalBackgroundToSouthwes_PML0303]]
 
 ## Edwin Johnson
 
@@ -6101,6 +7519,18 @@ Edwin L. Cooper is a fisheries scientist and co-author of this 1962 study, affil
 - [[AnEcologicalComparisonOfSixPop_12314]]
 - [[GrowthOfBrookTroutSalvelinusFo_17557]]
 
+## Edwin O. Willis
+
+### Summary
+Edwin O. Willis is the author of the lead piece in this 1984 Oikos forum, in which he defends the anti-dismemberment hypothesis. He argues that cutting a reserve into fragments is generally harmful, mainly because of edge effects, and he recommends corridors and trials of large undissected reserves.
+
+### Context
+> This Oikos forum (1984, vol. 42, no. 3) is a multi-author exchange on whether one large nature reserve or several small reserves of equal total area better conserve species, the "SLOSS" question. The lead piece by [[Edwin O. Willis]] defends the [[Anti-Dismemberment Hypothesis]], which holds that...
+> -- *[[ConservationSubdivisionOfReser_PML2910]]*
+
+### Mentioned In
+- [[ConservationSubdivisionOfReser_PML2910]]
+
 ## Edwin P. Pister
 <!-- fm: auto_enriched: true -->
 
@@ -6120,6 +7550,9 @@ Edwin L. Cooper is a fisheries scientist and co-author of this 1962 study, affil
 > This 1971 paper by [[Robert Rush Miller]] and [[Edwin P. Pister]] documents the decline, rediscovery, and conservation management of the [[Owens Pupfish]], a killifish endemic to the Owens River drainage of [[Owens Valley]], California. The species was believed extinct when described in 1948, but a...
 > -- *[[ManagementOfTheOwensPupfishCyp_15399]]*
 
+> This essay, presented as a retrospective by a California fishery biologist (Edwin P. Pister), traces how [[Aldo Leopold]]'s book *A Sand County Almanac* reshaped one manager's approach to aquatic resource management in the eastern Sierra Nevada and Death Valley regions. The author argues that...
+> -- *[[APilgrimsProgressFromGroupAToG_PML2140]]*
+
 ### Mentioned In
 - [[MasterMemorandumOfUnderstandin_18597]]
 - [[ResolutionRelativeToTheListing_1985_02_22]]
@@ -6127,6 +7560,19 @@ Edwin L. Cooper is a fisheries scientist and co-author of this 1962 study, affil
 - [[AldoLeopoldRemarkableTeachersc_20484]]
 - [[ProfessionalObligationsInTheCo_18599]]
 - [[ManagementOfTheOwensPupfishCyp_15399]]
+- [[APilgrimsProgressFromGroupAToG_PML2140]]
+
+## Edwin Philip Pister
+
+### Summary
+Edwin Philip Pister is a conservationist for whom Cyprinodon pisteri is named. The source says he worked for almost four decades to preserve desert aquatic habitats. The authors honor him with the species name.
+
+### Context
+> This formal species description, by [[Minckley]], [[Ralph R. Miller]], and [[Stephen M. Norris]], names three new pupfishes of the genus *Cyprinodon* that were long recognized as distinct. The species are [[Cyprinodon Pisteri]] (Guzmán Pupfish), [[Cyprinodon Albivelis]] (Whitefin Pupfish), and...
+> -- *[[ThreeNewPupfishSpeciesCyprinod_PML1888]]*
+
+### Mentioned In
+- [[ThreeNewPupfishSpeciesCyprinod_PML1888]]
 
 ## Eel
 
@@ -6146,11 +7592,15 @@ In this source, the eel means the American eel (Anguilla rostrata), a catadromou
 > This book chapter by [[Giorgio Pannella]] reviews the structure, calcification, and growth-increment patterns of fish sagittae (the largest of the three paired [[Otoliths]] in teleost ears). It argues that sagittae record a detailed life-history archive: daily, tidal, lunar, and seasonal growth...
 > -- *[[GrowthPatternsInFishSagittae_18412]]*
 
+> This final report, prepared for the [[Arizona Game and Fish Department]] under a cooperative agreement funded by the [[U.S. Fish and Wildlife Service]], reviews methods for controlling or eradicating nonindigenous crayfish in freshwater systems. North America hosts 390 native crayfish species (75%...
+> -- *[[InvestigationOfCrayfishControl_PML1139]]*
+
 ### Mentioned In
 - [[SomeYoungFreshwaterFishesOfNew_16763]]
 - [[BibliographyOfExistingLiteratu_13926]]
 - [[TheProductionOfFishInFreshWate_20223]]
 - [[GrowthPatternsInFishSagittae_18412]]
+- [[InvestigationOfCrayfishControl_PML1139]]
 
 ## Eel Bay
 
@@ -6210,9 +7660,17 @@ The Eel River was the location of Cedar Creek Hatchery in California. The catast
 > This reprinted 1921 paper by [[Carl L Hubbs]] presents the first detailed life-history study of *Amphigonopterus aurora*, the sole species of its genus, a viviparous perch of the [[Embiotocidae]] found in the rocky tide pools of the central California coast. The study covers habitat preference,...
 > -- *[[TheEcologyAndLifehistoryOfAmph_19970]]*
 
+> This U.S. Fish and Wildlife Service leaflet (Fish and Wildlife Leaflet 8, 1987), prepared by [[James P. Clugston]] of the National Fishery Research Laboratory and [[Jerome V. Shireman]] of the University of Florida, summarizes the use of sterile triploid [[Grass Carp]] as a [[Biological Control]]...
+> -- *[[TriploidGrassCarpForAquaticPla_PML0467]]*
+
+> This document is Part 5, "Wetlands," of a regional survey of [[Biotic Communities]] in the American Southwest and northwestern Mexico, written by [[Dale E. Brown]] with W. L. Minckley (Arizona State University) and David E. Brown (Arizona Game and Fish Department). It describes the wetland and...
+> -- *[[BioticCommunitiesSouthwesternU_PML0300]]*
+
 ### Mentioned In
 - [[SeasonalChangesInTheProximateC_17760]]
 - [[TheEcologyAndLifehistoryOfAmph_19970]]
+- [[TriploidGrassCarpForAquaticPla_PML0467]]
+- [[BioticCommunitiesSouthwesternU_PML0300]]
 
 ## Eelgrass Bed
 
@@ -6301,8 +7759,12 @@ An analytical component combined with a Leslie matrix model within the Cui-ui Po
 > This 1988 report by [[Chester C. Buchanan]] (U.S. Fish and Wildlife Service) and [[Thomas A. Strekal]] (U.S. Bureau of Reclamation) documents two computer subroutines added to the [[Truckee-Carson Hydrologic Model]]: the [[Stampede Subroutine]], which schedules releases from [[Stampede Reservoir]]...
 > -- *[[SimulatedWaterManagementAndEva_13864]]*
 
+> This September 1988 report by Chester C. Buchanan (U.S. Fish and Wildlife Service, [[Great Basin Complex]], Reno) and Thomas A. Strekal (U.S. Bureau of Reclamation, Lahontan Basin Project Office, Carson City) documents two computer subroutines added to the [[Truckee-Carson Hydrologic Model]] to...
+> -- *[[SimulatedWaterManagementAndEva_PML0312]]*
+
 ### Mentioned In
 - [[SimulatedWaterManagementAndEva_13864]]
+- [[SimulatedWaterManagementAndEva_PML0312]]
 
 ## Effective Number of Founders
 
@@ -6316,9 +7778,13 @@ The effective number of founders (Ne,f) is an estimate of how many equally contr
 > This genetics study evaluates the captive broodstock of the federally endangered [[Bonytail Chub]] (*Gila elegans*) and sets out a protocol for building a [[Future Captive Broodstock]]. The 1981 F1 progeny produced from wild parents taken from [[Lake Mohave]] have a very small [[Effective Number of...
 > -- *[[EstablishingACaptiveBroodstock_20773]]*
 
+> This genetics-focused paper evaluates the founder base of a [[Captive Broodstock]] for the federally endangered [[Bonytail Chub]] (*Gila elegans*). The hatchery stock descends from at most 10 wild parents collected from [[Lake Mohave]] in 1981. Using [[Allozyme Variation]], [[Mitochondrial DNA]]...
+> -- *[[EstablishingACaptiveBroodstock_PML1025]]*
+
 ### Mentioned In
 - [[EstablishingACaptiveBroodstock_20772]]
 - [[EstablishingACaptiveBroodstock_20773]]
+- [[EstablishingACaptiveBroodstock_PML1025]]
 
 ## Effective Population Size
 <!-- fm: auto_enriched: true -->
@@ -6336,6 +7802,36 @@ Effective population size (Ne) is the number of individuals in an idealized popu
 > This study compares the genetic structure of captive and wild stocks of three federally endangered, spring-dwelling desert fishes held at the [[Dexter National Fish Hatchery]]: the [[Leon Springs Pupfish]], the [[Comanche Springs Pupfish]], and the [[Pecos Gambusia]]. Using [[Allozyme...
 > -- *[[GeneticComparisonsOfHatcheryAn_15755]]*
 
+> This 2005 protocol, prepared by the [[Arizona Game And Fish Department]] (AGFD) and funded by the [[U.S. Bureau Of Reclamation]] through the [[Central Arizona Project]] Fund Transfer Program, sets out a step-by-step framework for building captive refuge populations of native and listed Arizona...
+> -- *[[BubblingPondsHatcheryDevelopme_PML0421]]*
+
+> This paper examines the genetic status of the endangered [[Bonytail Chub]] (*[[Gila elegans]]*) and the captive broodstock established at the [[Dexter National Fish Hatchery]] (DNFH). Using [[Allozyme Analysis]] and [[Mitochondrial DNA]] (mtDNA) sequencing, the authors show that the hatchery...
+> -- *[[EstablishingACaptiveBroodstock_PML1023]]*
+
+> G. K. Meffe (1990), writing in the *Journal of Fish Biology* (Supplement A), argues that the long-term survival of rare fishes depends partly on maintaining enough genetic variation within populations for natural selection and continued evolutionary adaptation. The paper uses the critically...
+> -- *[[GeneticApproachesToConservatio_PML1669]]*
+
+> This August 1992 draft by Michael Gilpin and Andrew Soulé (University of California, San Diego) for comment and discussion, not citation, examines how [[Population Genetics]] bears on the viability and recovery of the [[Colorado Squawfish]]. The authors state that very little is known empirically...
+> -- *[[TheGeneticsOfTheColoradoSquawf_PML0870]]*
+
+> This invited editorial by [[Gary K. Meffe]] (Savannah River Ecology Laboratory, University of Georgia) argues that the erosion of genetic diversity in fishes is a largely invisible but serious conservation problem, and that current knowledge of conserving fish gene pools is limited. The author...
+> -- *[[ConservingFishGenomesPhilosoph_PML1666]]*
+
+> This study presents a [[Monte Carlo Simulation]] procedure for estimating the [[Minimum Viable Population Size]] and the stream habitat area required to sustain a [[Rio Grande Cutthroat Trout]] population. Viability was defined as an extinction rate below 10% over 100 years and a long-term...
+> -- *[[EstimatingRequiredHabitatSizeF_PML0509]]*
+
+> This study uses [[Allozyme Electrophoresis]] to compare the genetic structure of captive and wild stocks of three federally listed endangered desert fishes maintained at the [[Dexter National Fish Hatchery]]: the [[Leon Springs Pupfish]], the [[Comanche Springs Pupfish]], and the [[Pecos...
+> -- *[[GeneticComparisonsOfHatcheryAn_PML0660]]*
+
+> This review by [[Philip W. Hedrick]] surveys how molecular genetics is applied to endangered species conservation. It argues that new molecular data (highly variable loci, large marker sets, extensive sequence data) greatly increase statistical power, but that statistical significance does not...
+> -- *[[RecentDevelopmentsInConservati_PML1022]]*
+
+> This paper, by Robert C. Lacy of the [[Chicago Zoological Society]] (Brookfield, Illinois), uses a stochastic [[Computer Simulation]] to examine how [[Genetic Drift]], [[Mutation]], [[Immigration]], [[Natural Selection]] and [[Population Subdivision]] interact to control the loss of genetic...
+> -- *[[LossOfGeneticDiversityFromMana_PML1310]]*
+
+> This U.S. Fish and Wildlife Service final report (July 2002) analyzes capture-recapture data for the endangered [[Colorado Pikeminnow]] (*Ptychocheilus lucius*), an endemic cyprinid of the [[Colorado River Basin]], collected in 1991–1994 and 1998–2000. Using closed-model abundance estimation...
+> -- *[[PopulationDynamicsOfColoradoPi_PML2054]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[ConservingFishGenomesPhilosoph_1988_08_02]]
@@ -6350,6 +7846,16 @@ Effective population size (Ne) is the number of individuals in an idealized popu
 - [[SummaryOfPopulationViabilityAn_1991_03_26]]
 - [[EstimationOfEffectivePopulatio_20556]]
 - [[GeneticComparisonsOfHatcheryAn_15755]]
+- [[BubblingPondsHatcheryDevelopme_PML0421]]
+- [[EstablishingACaptiveBroodstock_PML1023]]
+- [[GeneticApproachesToConservatio_PML1669]]
+- [[TheGeneticsOfTheColoradoSquawf_PML0870]]
+- [[ConservingFishGenomesPhilosoph_PML1666]]
+- [[EstimatingRequiredHabitatSizeF_PML0509]]
+- [[GeneticComparisonsOfHatcheryAn_PML0660]]
+- [[RecentDevelopmentsInConservati_PML1022]]
+- [[LossOfGeneticDiversityFromMana_PML1310]]
+- [[PopulationDynamicsOfColoradoPi_PML2054]]
 
 ## Effectiveness Monitoring Team
 
@@ -6387,6 +7893,18 @@ A ratio used in the study to express how efficiently Aufwuchs converted availabl
 ### Mentioned In
 - [[TheRedCedarRiverReportIiBioeco_17304]]
 
+## Effluent
+
+### Summary
+Effluent is wastewater discharged from a facility, such as an industrial plant or sewage treatment works. In this manual, effluent samples are the main test material for estimating chronic toxicity to freshwater organisms, with testing done at the NPDES permit sampling point.
+
+### Context
+> This U.S. Environmental Protection Agency manual (EPA/600/S4-89/001, second edition, 1990) describes standardized short-term chronic toxicity tests for [[Effluent]] and [[Receiving Water]] samples using freshwater organisms. It supports [[NPDES Permit]] compliance and related water-quality...
+> -- *[[ShorttermMethodsForEstimatingT_PML2847]]*
+
+### Mentioned In
+- [[ShorttermMethodsForEstimatingT_PML2847]]
+
 ## Effluent Monitoring Test
 
 ### Summary
@@ -6416,6 +7934,18 @@ The period during which collected refinery effluent is held before bioassay test
 
 ### Mentioned In
 - [[GilaAndSaltRiverClearingAndCha_1967_03_31]]
+
+## Effort Datasheet
+
+### Summary
+A field form that records a single fish sampling session, including start and end times, gear type, and which bank was sampled. In this source, effort sheets are described as one of the three main types of page in the scanned set, and they are the basis for linking catch records to sampling conditions.
+
+### Context
+> This document is a scanned set of about 21 field pages from a fish sampling program. It contains [[Effort Datasheet]] entries, [[Fish Catch Datasheet]] entries, and [[Promar Trap]] collection forms. The pages record sampling dates, start and end times, gear type, bank sampled, participants,...
+> -- *[[FishSamplingEffortAndCatchData_PML0251]]*
+
+### Mentioned In
+- [[FishSamplingEffortAndCatchData_PML0251]]
 
 ## Ege
 
@@ -6457,6 +7987,30 @@ A power system model associated with the Bureau of Reclamation (BOR), listed as 
 ### Mentioned In
 - [[ReptilesOfTheMoundSpringsArea_1985]]
 
+## Egg And Larval Drift
+
+### Summary
+The downstream carrying of fish eggs and larvae by water current after spawning. The source interprets the high egg and larval densities found in and just downstream of spawning depressions as evidence of substantial drift.
+
+### Context
+> This paper by Paul C. Marsh reports the first well-documented spawning of [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*) in a riverine (lotic) setting. Although the species was historically common throughout the [[Colorado River Drainage]], it is now very rare. Spawning records had come almost...
+> -- *[[SpawningObservationsOfRazorbac_PML1933]]*
+
+### Mentioned In
+- [[SpawningObservationsOfRazorbac_PML1933]]
+
+## Egg and Larval Net
+
+### Summary
+An egg and larval net is a sampling gear used to collect fish eggs and young larvae from the water. In this program it was used for monthly transects from April to June 1986 in the Havasu backwaters, coordinated with a striped bass study. The gear was part of the first-year monitoring design for detecting early life stages of stocked razorback fry.
+
+### Context
+> This April 14, 1986 interagency memorandum, written by Linda Blythe of the California Department of Fish and Game (Region 5) to the Fisheries Management Supervisor, documents the stocking of about 1.5 million hatchery-reared [[Razorback Sucker]] fry into the [[Lower Colorado River]] and proposes a...
+> -- *[[RazorbackSuckerReintroductionA_PML1368]]*
+
+### Mentioned In
+- [[RazorbackSuckerReintroductionA_PML1368]]
+
 ## Egg Cannibalism
 <!-- fm: auto_enriched: true -->
 
@@ -6466,6 +8020,18 @@ A power system model associated with the Bureau of Reclamation (BOR), listed as 
 
 ### Mentioned In
 - [[FactorsAffectingTheReproductio_15119]]
+
+## Egg Capsule
+
+### Summary
+The protective outer covering of a fish egg. The manual treats capsule characteristics, such as thickness and layering, as diagnostic features; for example, sturgeon eggs have a two-layered capsule and white perch eggs have thick capsules, while striped bass eggs have a thin one.
+
+### Context
+> This December 1974 identification manual, prepared by Alice J. HipPson and R. Lynn Moran of the Martin Marietta Corporation Environmental Technology Center and sponsored by the Power Plant Siting Program of the Maryland Department of Natural Resources, provides illustrated keys and life-history...
+> -- *[[ManualForIdentificationOfEarly_PML1370]]*
+
+### Mentioned In
+- [[ManualForIdentificationOfEarly_PML1370]]
 
 ## Egg Case Morphology In Beetles
 <!-- fm: auto_enriched: true -->
@@ -6496,6 +8062,18 @@ A simplified egg-counting method introduced in this study to replace the earlier
 
 ### Mentioned In
 - [[FecundityOfWildSpeckledTroutSa_13175]]
+
+## Egg Incubation
+
+### Summary
+Egg incubation refers to how Tilapia eggs are kept and developed during the early stage. In mouth-breeders, the eggs must be rolled by jaw and throat movements, and stationary eggs in experiments did not develop, whereas bottom-spawner eggs did. Mouth-breeding fry are released after about 14 days at 25–27 °C.
+
+### Context
+> This document is a scientific paper on the cichlid genus [[Tilapia]] in Israel, written by L. Fishelson of the Department of Zoology, Tel-Aviv University. It covers thermal limits on distribution, the two reproductive strategies (mouth-breeding and bottom-spawning), territorial and courtship...
+> -- *[[CichlidaeOfTheGenusTilapiaInIs_PML0815]]*
+
+### Mentioned In
+- [[CichlidaeOfTheGenusTilapiaInIs_PML0815]]
 
 ## Egg Incubation Temperature
 <!-- fm: auto_enriched: true -->
@@ -6532,6 +8110,18 @@ Methods for estimating egg numbers by volume or weight, such as counting eggs pe
 
 ### Mentioned In
 - [[LifeHistoryAndEcologyOfTheSono_1997]]
+
+## Egg Mortality
+
+### Summary
+Loss of eggs before hatching from causes such as wave action, siltation, desiccation during reservoir drawdowns and predation. The source identifies these as significant threats to Razorback Sucker eggs and larvae in Lake Mohave, with drawdowns able to destroy redds.
+
+### Context
+> This document bundles a peer-review solicitation from [[Southwestern Naturalist]] with the manuscript it concerns (F-05-87), a field study of [[Razorback Sucker]] spawning in [[Lake Mohave]] during 1982-1983. The authors (Bozek, Paulson, Wilde and Deacon) report a protracted, seven-month spawning...
+> -- *[[SpawningCharacteristicsOfTheRa_PML0261]]*
+
+### Mentioned In
+- [[SpawningCharacteristicsOfTheRa_PML0261]]
 
 ## Egg Picking
 
@@ -6607,6 +8197,18 @@ The question the study was originally designed to test: whether yolk or egg size
 ### Mentioned In
 - [[ExperimentalHybridizationAmong_16924]]
 
+## Egg Stripping
+
+### Summary
+Egg stripping is the manual expression of eggs from a female fish after ovulation. In this study, stripping after chorionic gonadotropin injection was the most effective spawning method in 1981. Stripping every 12 hours gave an average of 2.4 spawns per female, compared with 1.5 for daily stripping.
+
+### Context
+> This U.S. Fish and Wildlife Service report, prepared at [[Dexter National Fish Hatchery]] (NFH) in New Mexico, documents two years (1981 and 1982) of induced spawning, egg incubation, and fry rearing trials for the endangered [[Razorback Sucker]]. Broodstock came from [[Lake Mohave]]. The work...
+> -- *[[SpawningAndHatchingOfTheRazorb_PML1157]]*
+
+### Mentioned In
+- [[SpawningAndHatchingOfTheRazorb_PML1157]]
+
 ## Egg Survival
 
 ### Summary
@@ -6618,6 +8220,18 @@ Egg survival is the proportion of razorback sucker eggs that survive to later li
 
 ### Mentioned In
 - [[AspectsOfJuvenileAndAdultRazor_16214]]
+
+## Egg Viability
+
+### Summary
+Egg viability refers to the likelihood that eggs survive and hatch. Deacon et al. (1995), as cited in the report, proposed that algal oxygen production combined with small daily temperature changes may be critical for egg viability, and this study tested that idea by examining hatch rates against DO conditions.
+
+### Context
+> This final report to the [[National Park Service]] (Death Valley National Park) by Gustafson and [[James E. Deacon]] (University of Nevada, Las Vegas, April 1998) tests whether diel dissolved oxygen (DO) variation caused by algal photosynthesis affects the hatching success and distribution of...
+> -- *[[DistributionOfLarvalDevilsHole_PML0929]]*
+
+### Mentioned In
+- [[DistributionOfLarvalDevilsHole_PML0929]]
 
 ## Egg-Burying Behavior
 <!-- fm: auto_enriched: true -->
@@ -6655,6 +8269,15 @@ The proportion of eggs deposited in winter that survive to become young-of-the-y
 ### Mentioned In
 - [[SurvivalOfBrookTroutFromEggToF_18904]]
 
+## Eggert Equation
+
+### Context
+> This simulation study asks whether population size can be estimated reliably from noninvasively collected genetic samples (hair, feces) taken in a **single sampling session**, instead of the multiple sessions required by [[Capture-Mark-Recapture]] (CMR). Using the [[GEMINI Software]] to simulate a...
+> -- *[[EstimatingPopulationSizeWithNo_PML2119]]*
+
+### Mentioned In
+- [[EstimatingPopulationSizeWithNo_PML2119]]
+
 ## Eggleton 1931
 <!-- fm: auto_enriched: true -->
 
@@ -6688,6 +8311,22 @@ Eggleton and Davis reported hinge-tooth reversals in about 12.1% of Ohio Sphaeri
 ### Mentioned In
 - [[TheDisappearanceOfFourLeafLeac_1975]]
 
+## Eggshell Thinning
+
+### Summary
+A reproductive harm to birds in which eggshells become too thin to survive incubation, linked to DDE exposure. The source reports that experimental diets with only 3 ppm DDE produced this effect in mallards, black ducks, American kestrels and screech owls, and the authors reason that predatory birds eating contaminated prey could be at risk.
+
+### Context
+> This Environment-style research note reviews [[DDT]] and its breakdown products ([[DDD]] and [[DDE]]) in wildlife from New Mexico and Arizona, years after the 1972 ban on general use of DDT in the United States. Using U.S. Fish and Wildlife Service (FWS) national monitoring data, unpublished FWS...
+> -- *[[RecentDdtContaminationInNewMex_PML0432]]*
+
+> This June 1987 Type B Technical Information Document, prepared by the [[U.S. Fish and Wildlife Service]] and the [[University of Wyoming]] for the [[CERCLA 301 Project]] of the [[U.S. Department of the Interior]], provides technical guidance for assessing injury to fish and wildlife from releases...
+> -- *[[TypeBTechnicalInformationDocum_PML2662]]*
+
+### Mentioned In
+- [[RecentDdtContaminationInNewMex_PML0432]]
+- [[TypeBTechnicalInformationDocum_PML2662]]
+
 ## Eggshell Thinning In Piscivorous Birds
 <!-- fm: auto_enriched: true -->
 
@@ -6699,6 +8338,18 @@ Eggleton and Davis reported hinge-tooth reversals in about 12.1% of Ohio Sphaeri
 
 ### Mentioned In
 - [[OkaloosaDarterEtheostomaOkaloo_1992]]
+
+## Ehrenfeld
+
+### Summary
+A researcher cited by Rinne (1984) (Ehrenfeld, 1976) in support of the view that nongame species have resource values that cannot be measured economically. The source uses this citation to justify protecting nongame fishes.
+
+### Context
+> This paper, presented at the 64th Annual Conference of the [[Western Association Of Fish And Wildlife Agencies]] (Victoria, British Columbia, July 16–19, 1984), reviews the state of [[Nongame Fish Programs]] across the 13 western states. It examines how each state lists, protects and funds rare and...
+> -- *[[EndangeredAndNongameFishProgra_PML2207]]*
+
+### Mentioned In
+- [[EndangeredAndNongameFishProgra_PML2207]]
 
 ## Ehrler 1960
 <!-- fm: auto_enriched: true -->
@@ -6774,6 +8425,30 @@ Eichornia crassipes (water hyacinth) is an invasive exotic aquatic plant found i
 - [[ProgramaDeAccionEmergenteParaE_19472]]
 - [[TheEcologyOfTwoDegradedEstuari_17667]]
 
+## EID Aalten
+
+### Summary
+EID Aalten is a Dutch company whose radio frequency identification (RFID) modules were used to build Prototype 1, the first of the two portable 12-mm PIT tag detectors described in this study. The study reports that this prototype was designed for Trovan PIT tags, with a detector antenna mounted on a 3-m aluminum pole.
+
+### Context
+> This methods study describes two prototype handheld detectors for reading small 12-mm [[Passive Integrated Transponder Tag|passive integrated transponder (PIT) tags]]. The prototypes were built from commercially available radio frequency identification (RFID) modules from [[EID Aalten]]...
+> -- *[[TheUseOfTwoNewPortableMmPitTag_PML0518]]*
+
+### Mentioned In
+- [[TheUseOfTwoNewPortableMmPitTag_PML0518]]
+
+## Eider Duck
+
+### Summary
+The eider duck (Somateria mollissima) is a sea duck of northern coasts. Cormack analyses a 21-year capture-recapture study of this species with 25 samples, restricting analysis to subsets of years because the full set of histories is impractical. He finds that neither constant nor varying effort gives an acceptable fit, and he attributes residual patterns to temporary emigration after initial marking.
+
+### Context
+> This methodological paper by R. M. Cormack develops [[Log-linear Models]] as a unified framework for [[Capture-Recapture]] experiments on free-living populations of unknown size. The models express the expected number of animals with each observable [[Capture History]] as a product of biological...
+> -- *[[LoglinearModelsForCapturerecap_PML0499]]*
+
+### Mentioned In
+- [[LoglinearModelsForCapturerecap_PML0499]]
+
 ## EIFAC
 
 ### Summary
@@ -6783,8 +8458,32 @@ The European Inland Fisheries Advisory Commission is a body of the UN Food and A
 > This document is EIFAC Occasional Paper No. 18 (FAO, Rome, 1987), a annotated bibliography compiled by E. Dahm of the Bundesforschungsanstalt für Fischerei, Hamburg. It collects roughly 50 publications on the [[Selectivity]] of inland water fishing gear authored by European scientists, many...
 > -- *[[BibliographyOfExistingLiteratu_13926]]*
 
+> This report from the [[EIFAC]] Ad Hoc Working Party on Market Perspectives of European Freshwater Aquaculture (Brussels, 14–16 May 2001) reviews the state of freshwater aquaculture across the EIFAC region. It focuses on marketing problems and offers strategic advice to governments, investors,...
+> -- *[[ReportOfTheAdHocEifacecWorking_PML0670]]*
+
+> This review condenses the 1982 [[EIFAC]] symposium on stock enhancement, held in Budapest, Hungary, in conjunction with the twelfth session of the European Inland Fisheries Advisory Commission. The symposium examined two linked practices: stocking native fishes and introducing exotic species. Its...
+> -- *[[StockEnhancementInTheManagemen_PML2872]]*
+
+> This report from the Eleventh Session of the Joint [[EIFAC]]/[[ICES]] Working Group on Eels (Silkeborg, Denmark, 20–24 September 1999) reviews the status of the [[European Eel]] (*Anguilla anguilla*) across its range. The group concluded that eel yields are declining throughout Europe, that [[Glass...
+> -- *[[ReportOfTheEleventhSessionOfTh_PML0669]]*
+
 ### Mentioned In
 - [[BibliographyOfExistingLiteratu_13926]]
+- [[ReportOfTheAdHocEifacecWorking_PML0670]]
+- [[StockEnhancementInTheManagemen_PML2872]]
+- [[ReportOfTheEleventhSessionOfTh_PML0669]]
+
+## EIFAC Occasional Paper No. 35
+
+### Summary
+EIFAC Occasional Paper No. 35 is the publication in which this 2001 report was issued by the Food and Agriculture Organization, running to 142 pages. It compiles the working party's presentations, discussions, recommendations, a SWOT analysis and five appended papers.
+
+### Context
+> This report from the [[EIFAC]] Ad Hoc Working Party on Market Perspectives of European Freshwater Aquaculture (Brussels, 14–16 May 2001) reviews the state of freshwater aquaculture across the EIFAC region. It focuses on marketing problems and offers strategic advice to governments, investors,...
+> -- *[[ReportOfTheAdHocEifacecWorking_PML0670]]*
+
+### Mentioned In
+- [[ReportOfTheAdHocEifacecWorking_PML0670]]
 
 ## Eifac Water Quality Criteria
 <!-- fm: auto_enriched: true -->
@@ -6967,6 +8666,18 @@ Eimeria is a genus of protozoan parasites that cause coccidiosis in fishes. The 
 - [[HybridsOfAphaniusDisparAndApha_11049]]
 - [[ManinducedChangesInTheFreshwat_18178]]
 
+## Ein Feshkha
+
+### Summary
+A spring area in the Dead Sea region, cited in the source as a location where Chervinski (1965) reported sex-related body-proportion differences in Tilapia aurea exul. The source does not give findings for Ein Feshkha in this paper beyond that earlier report.
+
+### Context
+> This short paper by J. Chervinski of the [[Dor Fish Culture Research Station]] compares body proportions of males and females of two [[Tilapia Aurea]] and [[Tilapia Zillii]] populations: fish from commercial ponds at Dor and wild fish from [[Lake Tiberias]]. Sex-related differences in body...
+> -- *[[SexualDimorphismInTilapiaAurea_PML0411]]*
+
+### Mentioned In
+- [[SexualDimorphismInTilapiaAurea_PML0411]]
+
 ## Ein Fuliya Group
 
 ### Summary
@@ -7123,6 +8834,30 @@ An earthworm (Lumbricidae) that is the only one commonly found in freshwater in 
 - [[AGuideForTheIdentificationOfBr_12942]]
 - [[ATemperaturestressedEcosystemB_14874]]
 
+## Eisler
+
+### Summary
+A researcher whose thresholds were used with predator protection limits for fish and wildlife in the thesis's contaminant comparisons. The source does not give further details of his work.
+
+### Context
+> This graduate thesis documents a 1992–1993 study of trace element and organochlorine contamination in the [[Bill Williams River]] and its floodplain, within the [[Bill Williams River National Wildlife Refuge]] (NWR) in western Arizona. The work was funded by the U.S. Fish and Wildlife Service...
+> -- *[[TraceElementContaminationInFis_PML2271]]*
+
+### Mentioned In
+- [[TraceElementContaminationInFis_PML2271]]
+
+## Eitan
+
+### Summary
+Eitan is an author cited with Por (1970) in a study of the lake's food base. The source uses this work to describe the lake's plankton and benthic organisms as a rich trophic base.
+
+### Context
+> This study by Pepietta Spataru and Myron Zorn of the [[Fishery and Aquaculture Research Station]] (DOR, Israel) examines the feeding ecology of two commercially important [[Tilapia]] species in [[Lake Kineret]]. The two species, [[Tilapia Galilaea]] and [[Tilapia Aurea]], together yield more than...
+> -- *[[SomeAspectsOfNaturalFeedAndFee_PML2415]]*
+
+### Mentioned In
+- [[SomeAspectsOfNaturalFeedAndFee_PML2415]]
+
 ## Eje Volcanico Transversal
 
 ### Summary
@@ -7175,6 +8910,18 @@ Ejido Luis Encinas Johnson is a local community near the Cienega de Santa Clara.
 ### Mentioned In
 - [[FieldReportNoStudyOfCienegaDeS_16073]]
 
+## Ejido Tierra Blanca
+
+### Summary
+A communal farm (ejido) on the valley floor a few kilometers northwest of the Sierra de San Marcos, converted for agriculture. According to the source, production was essentially nil because of poor soils, rough terrain, and lack of investment, so the ejido was abandoned in whole or in part. Trash and debris remain in the surrounding area.
+
+### Context
+> This commentary by [[Salvador Contreras-Balderas]] documents human-caused damage to the spring systems and endemic biota of the [[Cuatro Ciénegas Basin]] in Coahuila, Mexico, between 1963 and 1983. The author notes that numerous papers describe the valley's environments and biota, but no...
+> -- *[[EnvironmentalImpactsInCuatroCi_PML0489]]*
+
+### Mentioned In
+- [[EnvironmentalImpactsInCuatroCi_PML0489]]
+
 ## Ekechukwu
 
 ### Summary
@@ -7186,6 +8933,18 @@ The author of a 1976 study that reported carp collected below Lahontan Reservoir
 
 ### Mentioned In
 - [[TotalMercuryInFishesAndSelecte_17569]]
+
+## Ekman
+
+### Summary
+Ekman is cited as a 1917 reference in this paper. The survey used a Foerst-Ekman dredge to collect deep-water bottom samples, with two catches per station along transect lines.
+
+### Context
+> This 1928 Indiana Division of Fish and Game publication (Publication No. 77) reports a quantitative survey of the benthic invertebrates of [[Lake Wawasee]] (Turkey Lake), Kosciusko County, Indiana. The work was based on two summers of field collections in 1926, carried out to support the state's...
+> -- *[[InvestigationsOfIndianaLakesIA_PML2327]]*
+
+### Mentioned In
+- [[InvestigationsOfIndianaLakesIA_PML2327]]
 
 ## Ekman Dredge
 <!-- fm: auto_enriched: true -->
@@ -7266,6 +9025,36 @@ The author of a 1976 study that reported carp collected below Lahontan Reservoir
 > This paper reports quantitative and qualitative data on the bottom fauna (benthos) of [[Cultus Lake]], a deep, oligotrophic lake in southern British Columbia. The study used dredgings collected largely in 1932 as part of a limnological investigation of factors controlling [[Sockeye Salmon]]...
 > -- *[[TheBenthosOfCultusLake_16862]]*
 
+> This study describes the benthic macroinvertebrate community of a 100-m reach of [[Lateral 9.5 Canal]], an earthen irrigation canal in [[Mesa Arizona]] within the [[Phoenix Metropolitan Area]]. Sampling ran from November 1981 through November 1982. The community was dominated by non-insects,...
+> -- *[[BenthicInvertebratesOfAnEarthe_PML1451]]*
+
+> This baseline study by [[Paul C. Marsh]] and [[Carolyn R. Stinemetz]] (published in *California Fish and Game*, 1983) describes the benthic macroinvertebrate community of the [[Earthen Canal]] section of the [[Coachella Canal]]. The canal carries [[Colorado River]] water for irrigation in...
+> -- *[[BenthicInvertebratesOfTheEarth_PML1582]]*
+
+> This final report, prepared by John R. Baker and Larry J. Paulson of the [[Lake Head Limnological Research Center]] at the University of Nevada, Las Vegas, established a baseline inventory of aquatic resources in the unlined [[Coachella Canal]]. The study was funded by the [[Water and Power...
+> -- *[[AquaticResourceSurveyOfTheUnli_PML0161]]*
+
+> This study examines the occurrence and distribution of aquatic macroinvertebrates in three springbrooks in south-east Arizona, near Bylas, within the [[Sonoran Desert]]. Taxonomic richness was low at spring sources and increased in middle and lower reaches, which the authors attribute to harsh...
+> -- *[[DistributionOfAquaticMacroinve_PML1528]]*
+
+> This study quantifies seasonal and spatial variation in the densities and biomasses of two dominant benthic macroinvertebrate groups, [[Chironomidae]] (midge larvae) and [[Tubificidae]] (aquatic worms), in [[Roosevelt Lake]] and [[Apache Lake]] in the [[Salt River Reservoirs]] of central Arizona,...
+> -- *[[StandingCropsOfChironomidaeAnd_PML2205]]*
+
+> This appendix describes the aquatic habitats and fish assemblage of the Yuma Division of the lower [[Colorado River]], a reach of about 34 km of channel with backwaters, drains, and canals, including the inflow of the [[Gila River]]. Fish sampling by seine, hoop net, and gill net was combined with...
+> -- *[[AquaticHabitatsAndFishesOfTheL_PML1748]]*
+
+> This appendix describes the aquatic habitats, fish fauna, benthic invertebrates, aquatic vegetation, plankton-related pigments, and physical-chemical conditions of the [[Cibola Division]] of the [[Colorado River]], a channelized reach of roughly 37 km (the scanned length digit is uncertain) near...
+> -- *[[AquaticHabitatsAndFishesOfTheL_PML1746]]*
+
+> This is the fifth annual segment (1 July 1967 – 30 June 1968) of a multi-year [[Arizona Game and Fish Department]] study of the fishery created by [[Glen Canyon Dam]]. A [[Creel Census]] at [[Lee's Ferry]] was combined with limnological, plankton, bottom-fauna and fish-collection work, plus a...
+> -- *[[TailwaterFisheriesInvestigatio_PML2472]]*
+
+> This Bureau of Fisheries field report, prepared by M. J. Madsen (Temporary Assistant Biologist) and dated May 1955, surveys the streams and lakes of the [[Apache National Forest]] and [[Crook National Forest]] in east-central and southeastern Arizona. The survey was a reconnaissance, not a detailed...
+> -- *[[ABiologicalSurveyOfStreamsAndL_PML1407]]*
+
+> This appendix to a study report characterises the aquatic habitats, fish fauna, benthos, higher aquatic plants, pigments and physico-chemical conditions of the [[Limitrophe Division]] of the lower [[Colorado River]] and the surrounding [[Yuma Valley]], sampled in 1974–75. The river segment below...
+> -- *[[AquaticHabitatsAndFishesOfTheL_PML1749]]*
+
 ### Mentioned In
 - [[ChydoridCladoceraRemainsInSurf_12201]]
 - [[SamplingBenthosToEstimateProdu_12795]]
@@ -7291,12 +9080,27 @@ The author of a 1976 study that reported carp collected below Lahontan Reservoir
 - [[AnAnalysisOfTheFeedingHabitsOf_20289]]
 - [[EcologyAndPopulationDynamicsOf_20405]]
 - [[TheBenthosOfCultusLake_16862]]
+- [[BenthicInvertebratesOfAnEarthe_PML1451]]
+- [[BenthicInvertebratesOfTheEarth_PML1582]]
+- [[AquaticResourceSurveyOfTheUnli_PML0161]]
+- [[DistributionOfAquaticMacroinve_PML1528]]
+- [[StandingCropsOfChironomidaeAnd_PML2205]]
+- [[AquaticHabitatsAndFishesOfTheL_PML1748]]
+- [[AquaticHabitatsAndFishesOfTheL_PML1746]]
+- [[TailwaterFisheriesInvestigatio_PML2472]]
+- [[ABiologicalSurveyOfStreamsAndL_PML1407]]
+- [[AquaticHabitatsAndFishesOfTheL_PML1749]]
 
 ## Ekman Dredge Sampling
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This appendix reports a 1974–75 survey of fishes, benthos, higher aquatic plants, pigments, and physical-chemical conditions in the [[Palo Verde Division]] of the [[Lower Colorado River]]. The division is a channelized, nearly all-flowing reach of about 45 km. Sixteen fish kinds are known from it,...
+> -- *[[AquaticHabitatsAndFishesOfTheL_PML1745]]*
+
 ### Mentioned In
 - [[DifferencesInTheOccurrenceOfNy_1947]]
+- [[AquaticHabitatsAndFishesOfTheL_PML1745]]
 
 ## Ekman Grab
 
@@ -7327,6 +9131,18 @@ A hand-operated benthic sediment sampler. This study used a 232 cm² Ekman grab 
 
 ### Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
+
+## El Bolock and Koura 1960
+
+### Summary
+El Bolock and Koura (1960) is a source cited for spawning of Tilapia zillii in Egypt. It is cited alongside other Egyptian studies for the finding that spawning occurs at temperatures above 23.1°C. This comparison shows how Egyptian conditions differ from those in Southern California.
+
+### Context
+> This study by [[W. J. Hauser]] (Division of Biological Control, University of California, Riverside) combined laboratory experiments and field observations to define the thermal requirements of [[Tilapia Zillii]], an African cichlid proposed as a [[Biological Herbicide]] for aquatic weeds in...
+> -- *[[ThermalRequirementsOfTilapiaZi_PML0995]]*
+
+### Mentioned In
+- [[ThermalRequirementsOfTilapiaZi_PML0995]]
 
 ## El Campo
 
@@ -7465,6 +9281,12 @@ One of the five institutions that founded the Sustainable Development Initiative
 > This scanned, OCR-degraded archive combines several unrelated items rather than a single study. The main components are: a methods paper on identifying [[Hantavirus]] rodent reservoirs; a 1995 national [[Hantavirus Pulmonary Syndrome]] case update; a student's statistics and probability exercise...
 > -- *[[CoyotesEagle_20922]]*
 
+> A fisheries survey of [[Turkey Creek]] and nearby ponds in Cochise County, Arizona, was conducted November 14–15, 1997, by Brian Bagley and Patti Sowka of [[Arizona State University]]. Four fish species were collected. The survey was motivated by a recent report of [[Fathead Minnow]] in [[Lodge...
+> -- *[[TurkeyCreekFisheriesSurvey_PML1396]]*
+
+> This draft biological opinion (US Fish and Wildlife Service, Arizona Ecological Services Field Office, dated April 14, 1999; consultation AESO/SE 2-21-98-F-399) evaluates the effects of ongoing and long-term livestock grazing on five [[Coronado National Forest]] allotments (Seibold, Kunde,...
+> -- *[[DraftBiologicalOpinionOngoingA_PML2744]]*
+
 ### Mentioned In
 - [[MemorandumOfUnderstandingToEst_1995]]
 - [[ProposedMonitoringProtocolElCo_1999]]
@@ -7476,6 +9298,8 @@ One of the five institutions that founded the Sustainable Development Initiative
 - [[WestTurkeyCreekYaquiChubRestor_17126]]
 - [[WestTurkeyCreekWatershedRestor_18328]]
 - [[CoyotesEagle_20922]]
+- [[TurkeyCreekFisheriesSurvey_PML1396]]
+- [[DraftBiologicalOpinionOngoingA_PML2744]]
 
 ## El Coronado Ranch And Cattle Company
 <!-- fm: auto_enriched: true -->
@@ -7531,6 +9355,34 @@ El Doctor is a wetland area named after a small settlement on the northeastern C
 - [[TripReportSamplingOfMexicanPop_14780]]
 - [[WorkshopProceedings_18372]]
 
+## El Doctor Marsh
+
+### Summary
+El Doctor Marsh is a wetland that served as a wild source of desert pupfish. The source reports that 147 individuals from El Doctor Marsh stock were stocked into Bonita Creek in 2009, and monitoring had not detected their continued presence. The marsh is also listed among wild sources already planned for augmentation.
+
+### Context
+> This [[Biological Assessment]] was submitted by the [[Bureau Of Reclamation]] and the [[Bureau Of Land Management]] to the [[U.S. Fish And Wildlife Service]] (FWS). It describes a proposed second chemical renovation of a reach of [[Bonita Creek]] using the piscicide [[Rotenone]], followed by...
+> -- *[[BiologicalAssessmentEffectsOfR_PML2590]]*
+
+### Mentioned In
+- [[BiologicalAssessmentEffectsOfR_PML2590]]
+
+## El Doctor Marshes
+
+### Summary
+A wetland area in northern Sonora, Mexico, from which the stock of desert pupfish used at the Cibola refugium originated. The source says Arizona State University collected the fish there in the 1970s before they were moved to the Phoenix Zoo.
+
+### Context
+> This U.S. Fish and Wildlife Service report, prepared by Dr. C.O. Minckley of the [[Arizona Fishery Resources Office]] in Parker, Arizona, gives the first census of two constructed refugia populations of the [[Desert Pupfish]] (*[[Cyprinodon Macularius Macularius]]*), an endangered fish....
+> -- *[[PopulationEstimatesForRefugiaP_PML1783]]*
+
+> This U.S. Fish & Wildlife Service report by C.O. Minckley (Arizona Fishery Resources Office-Parker, September 2005) gives mark-recapture population estimates for two constructed refuge populations of the endangered [[Desert Pupfish]], *Cyprinodon macularius macularius*, sampled in July 2005. The...
+> -- *[[PopulationEstimatesForDesertPu_PML1786]]*
+
+### Mentioned In
+- [[PopulationEstimatesForRefugiaP_PML1783]]
+- [[PopulationEstimatesForDesertPu_PML1786]]
+
 ## El Doctor Wetlands
 
 ### Summary
@@ -7546,6 +9398,18 @@ The El Doctor Wetlands are spring-fed seeps (pozos) at the foot of the Gran Desi
 ### Mentioned In
 - [[CienegaDeSantaClaraARemnantWet_20932]]
 - [[OpportunitiesForEcologicalImpr_12940]]
+
+## El Dorado Canyon
+
+### Summary
+El Dorado Canyon is a location on or near Lake Mohave in the Colorado River Basin, listed in this source as one of several places where large numbers of razorback suckers gather to spawn between January and April. The note mentions it only as a spawning-aggregation site and does not describe any habitat measurements there.
+
+### Context
+> This Bureau of Reclamation study, conducted on February 16-17, 1982, examined the spawning habitat of the [[Razorback Sucker]] (*Xyrauchen texanus*), an endemic [[Colorado River Basin]] sucker that has persisted in [[Lake Mohave]] after the closure of [[Davis Dam]] in the early 1950s. A portion...
+> -- *[[HabitatSelectionOfSpawningRazo_PML1982]]*
+
+### Mentioned In
+- [[HabitatSelectionOfSpawningRazo_PML1982]]
 
 ## El Dorado City Lake
 
@@ -7570,6 +9434,18 @@ El Dorado County is a California county containing Echo Lake. This source identi
 
 ### Mentioned In
 - [[KokaneeInCalifornia_18108]]
+
+## El Dorado Landing
+
+### Summary
+One of the four main ports of entry to Lake Mohave, located on the Nevada side. The source lists it among the access points, and notes that El Dorado was a departure point where boats most often sought largemouth bass by 1953, and that El Dorado lies at the southern limit of the cold-water thermal zone.
+
+### Context
+> This 1955 completion report, prepared by Richard A. Wagner for the [[Arizona Game and Fish Department]] under the Wildlife Restoration Division, presents a basic survey of [[Lake Mohave]], a reservoir on the [[Colorado River]] formed by [[Davis Dam]] below [[Lake Mead]]. The work aimed to determine...
+> -- *[[BasicSurveyOfLakeMohave_PML2808]]*
+
+### Mentioned In
+- [[BasicSurveyOfLakeMohave_PML2808]]
 
 ## El Fuerte River
 <!-- fm: auto_enriched: true -->
@@ -7721,8 +9597,12 @@ A recurring climate pattern involving warming of Pacific Ocean waters that alter
 > This Federal Register notice, published June 3, 1996, sets out a joint policy by the [[Fish and Wildlife Service]] (Interior) and the [[National Marine Fisheries Service]] (Commerce), collectively "the Services." The policy addresses the conservation needs of species listed, or proposed for...
 > -- *[[NoticeOfPolicyForConservingSpe_11740]]*
 
+> This paper is a case study from the USDA Forest Service Technical Report RM-226 (1993), *Riparian Management: Common Threads and Shared Interests*, a Western Regional Conference held February 4-6, 1993, in Albuquerque, New Mexico. It examines the [[Little Colorado River]] in Arizona as a model for...
+> -- *[[RiparianManagementCommonThread_PML2495]]*
+
 ### Mentioned In
 - [[NoticeOfPolicyForConservingSpe_11740]]
+- [[RiparianManagementCommonThread_PML2495]]
 
 ## El Nino Southern Oscillation
 <!-- fm: auto_enriched: true -->
@@ -7796,9 +9676,13 @@ El Niño-Southern Oscillation (ENSO) is a recurring pattern of Pacific Ocean and
 > This *Journal of the North American Benthological Society* perspective piece by Molles and Dahm tests whether the [[El Niño-Southern Oscillation]] (ENSO) cycle predicts spring streamflow in two mountain rivers of New Mexico. Using long-term records from the [[Gila River]] (60 years) and [[Pecos...
 > -- *[[APerspectiveOnElNinoAndLaNinaG_16545]]*
 
+> This document is a reprint of a 1997 [[Science]] review by Botsford, Castilla and Peterson on the [[Management of Fisheries]] and [[Marine Ecosystem Management]]. It argues that the global marine fish catch is near its upper limit and that management has failed to prevent overfishing. The authors...
+> -- *[[TheManagementOfFisheriesAndMar_PML0257]]*
+
 ### Mentioned In
 - [[ClimateImpactsOnUrbanWaterReso_15418]]
 - [[APerspectiveOnElNinoAndLaNinaG_16545]]
+- [[TheManagementOfFisheriesAndMar_PML0257]]
 
 ## El Niño–Southern Oscillation
 
@@ -7823,6 +9707,18 @@ El Oasis is a location near the northeast end of Laguna Salada in the Colorado R
 
 ### Mentioned In
 - [[TripReportSamplingOfMexicanPop_14780]]
+
+## El Ojo Ranch
+
+### Summary
+The ranch headquarters near the Cajon Bonito in Sonora, Mexico, located about 130 km east of Agua Prieta along Highway 2 and then roughly 4 km south. It serves as the reference point for the collection site described in this report.
+
+### Context
+> This field report by [[C. O. Minckley]] documents a seine-based fish collection made on 18 July 2009 in the [[Cajon Bonito]], a northern tributary of the [[Yaqui River]] in [[Sonora]], Mexico. Fourteen seine hauls over roughly 1 km of stream yielded 102 individuals representing six native...
+> -- *[[AReportOnACollectionOfFishFrom_PML1791]]*
+
+### Mentioned In
+- [[AReportOnACollectionOfFishFrom_PML1791]]
 
 ## El Paso
 
@@ -7876,6 +9772,18 @@ A Blancan site with a subhumid, mesothermal climate. Aquatic snails point to a t
 ### Mentioned In
 - [[LateCenozoicMolluscanHistoryOf_21119]]
 
+## El Paso Metropolitan Area
+
+### Summary
+A metropolitan area on the U.S.-Mexico border in Texas that the source names among the four metropolitan areas dominating the study-area economy. It is part of the broader region considered in the economic analysis.
+
+### Context
+> This document is the cover letter and draft report of the [[Economic Consequences of Critical Habitat Designation]] for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered fish listed on July 20, 1994. The U.S. [[Fish and Wildlife Service]] (Service) proposed critical habitat along the main...
+> -- *[[ThePotentialEconomicConsequenc_PML2746]]*
+
+### Mentioned In
+- [[ThePotentialEconomicConsequenc_PML2746]]
+
 ## El Pilar Tank
 
 ### Summary
@@ -7885,8 +9793,12 @@ El Pilar Tank is a site where topminnows were lost, attributed to cold water tem
 > This Arizona Game and Fish Department (AGFD) technical report evaluates [[Gila Topminnow]] reintroduction sites in Arizona during the 1994-95 field season. Many reintroduced populations have failed, yet sites that are not formally declared "extirpated" still trigger [[Section 7 Consultation]]...
 > -- *[[GilaTopminnowExtirpationSitesI_19666]]*
 
+> This Arizona Game and Fish Department (AGFD) Technical Report, authored by David A. Weedman and Kirk L. Young (June 1995), evaluates [[Gila Topminnow]] reintroduction sites that have failed and determines which may be declared "extirpated." Since 1981, the [[Arizona Game And Fish Department]],...
+> -- *[[GilaTopminnowExtirpationSitesI_PML2851]]*
+
 ### Mentioned In
 - [[GilaTopminnowExtirpationSitesI_19666]]
+- [[GilaTopminnowExtirpationSitesI_PML2851]]
 
 ## El Pinacate Y Gran Desierto De Altar Biosphere Reserve
 <!-- fm: auto_enriched: true -->
@@ -8030,9 +9942,17 @@ El Vado Dam is a major water storage facility in the Rio Grande basin with a cap
 > This ECONorthwest draft report (February 1996), prepared for the [[U.S. Fish and Wildlife Service]] New Mexico Ecological Services Field Office, estimates the economic consequences of designating critical habitat for the endangered [[Rio Grande Silvery Minnow]] (RGSM). The Service listed the...
 > -- *[[ThePotentialEconomicConsequenc_15754]]*
 
+> This draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in Albuquerque, New Mexico, evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) under Section 4 of the [[Endangered Species Act]]. The...
+> -- *[[DraftEnvironmentalAssessmentDe_PML2745]]*
+
+> This document is the cover letter and draft report of the [[Economic Consequences of Critical Habitat Designation]] for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered fish listed on July 20, 1994. The U.S. [[Fish and Wildlife Service]] (Service) proposed critical habitat along the main...
+> -- *[[ThePotentialEconomicConsequenc_PML2746]]*
+
 ### Mentioned In
 - [[DraftEnvironmentalAssessmentDe_13207]]
 - [[ThePotentialEconomicConsequenc_15754]]
+- [[DraftEnvironmentalAssessmentDe_PML2745]]
+- [[ThePotentialEconomicConsequenc_PML2746]]
 
 ## El Zacate
 
@@ -8065,6 +9985,42 @@ A Mexican trout culture facility (Estación Piscícola 'El Zarco') where the aut
 - [[UnaManeraSencillaYEconomicaDeA_11373]]
 - [[PlanPiscicolaParaElEstadoDeMex_11376]]
 - [[InstructivoParaLaCriaDeTrucha_19193]]
+
+## El-Zarka 1956
+
+### Summary
+El-Zarka (1956) is a source cited for spawning of Tilapia zillii in Egypt. It is grouped with other Egyptian studies reporting that spawning occurs at temperatures above 23.1°C. The source uses it as a comparison point for the California populations.
+
+### Context
+> This study by [[W. J. Hauser]] (Division of Biological Control, University of California, Riverside) combined laboratory experiments and field observations to define the thermal requirements of [[Tilapia Zillii]], an African cichlid proposed as a [[Biological Herbicide]] for aquatic weeds in...
+> -- *[[ThermalRequirementsOfTilapiaZi_PML0995]]*
+
+### Mentioned In
+- [[ThermalRequirementsOfTilapiaZi_PML0995]]
+
+## El-Zarka 1961
+
+### Summary
+El-Zarka (1961) is a source cited for Lake Quarun in Egypt. It reports that the growing season for Tilapia zillii there begins when water temperatures exceed 19.9°C. The source uses this as a comparison with the California conditions studied.
+
+### Context
+> This study by [[W. J. Hauser]] (Division of Biological Control, University of California, Riverside) combined laboratory experiments and field observations to define the thermal requirements of [[Tilapia Zillii]], an African cichlid proposed as a [[Biological Herbicide]] for aquatic weeds in...
+> -- *[[ThermalRequirementsOfTilapiaZi_PML0995]]*
+
+### Mentioned In
+- [[ThermalRequirementsOfTilapiaZi_PML0995]]
+
+## El-Zarka 1962
+
+### Summary
+El-Zarka (1962) is a source cited for spawning of Tilapia zillii in Egypt. It is grouped with other Egyptian studies reporting that spawning occurs at temperatures above 23.1°C. The source uses it as a comparison point for the California populations.
+
+### Context
+> This study by [[W. J. Hauser]] (Division of Biological Control, University of California, Riverside) combined laboratory experiments and field observations to define the thermal requirements of [[Tilapia Zillii]], an African cichlid proposed as a [[Biological Herbicide]] for aquatic weeds in...
+> -- *[[ThermalRequirementsOfTilapiaZi_PML0995]]*
+
+### Mentioned In
+- [[ThermalRequirementsOfTilapiaZi_PML0995]]
 
 ## Elaeagnus angustifolia
 
@@ -8209,8 +10165,12 @@ Elasmobranchs are cartilaginous fishes, including sharks and rays. The source ex
 > This document is a provisional "working key" by Donald A. Thomson and William H. Eger (Department of Zoology, University of Arizona, July 1964) for identifying 66 fish families likely to occur in the shallow inshore waters of the [[Upper Gulf of California]], between [[Guaymas]] and [[Puerto...
 > -- *[[KeyToTheFamiliesOfTheInshoreTe_13333]]*
 
+> This chapter, by [[Robert A. Leidy]] and [[Peter B. Moyle]], appears in the edited volume *[[Conservation Biology for the Coming Decade]]* (1998). It reviews the status of the world's fish fauna as an indicator of aquatic biodiversity. The authors argue that aquatic ecosystems, especially...
+> -- *[[ConservationStatusOfTheWorldsF_PML1354]]*
+
 ### Mentioned In
 - [[KeyToTheFamiliesOfTheInshoreTe_13333]]
+- [[ConservationStatusOfTheWorldsF_PML1354]]
 
 ## Elasmopus Pocillimanus
 
@@ -8235,6 +10195,18 @@ This is a new amphipod species from São Tomé station T 26 (Ponta Furada), know
 
 ### Mentioned In
 - [[AmphipodesLittorauxDePrincipeE_15151]]
+
+## Elassoma
+
+### Summary
+Elassoma, the pygmy sunfishes, belong to the family Elassomatidae. In this study, protolarvae hatch with no more than 26 total myomeres (27–36 in the material examined), and their preanal length is usually below 41 percent of total length, which helps separate them from darters and other centrarchids.
+
+### Context
+> This paper, presented at the Third Symposium on Larval Fish (Bowling Green, Kentucky, February 1979) and authored by John V. Conner of the [[Louisiana State University]] School of Forestry and Wildlife Management, reviews the state of the art for identifying wild-caught larval sunfishes from...
+> -- *[[ProceedingsOfTheThirdSymposium_PML1100]]*
+
+### Mentioned In
+- [[ProceedingsOfTheThirdSymposium_PML1100]]
 
 ## Elassoma Evergladei
 
@@ -8299,6 +10271,18 @@ The elasticity index is a score the authors use to estimate how well a stream se
 ### Mentioned In
 - [[OpportunitiesForMaintenanceAnd_17327]]
 
+## Elastomer Dye
+
+### Summary
+Elastomer dye is a visible injectable colored marker used to tag fish. In this source, orange elastomer dye injected at the base of the dorsal fin or between the eyes was retained by 96% and 92% of juvenile Bonytail, respectively, after about a month, and the marks were easy to identify, so the authors recommended further field evaluation as a secondary mark for fish too small for PIT tags.
+
+### Context
+> This draft report, submitted to the [[Grand Canyon Monitoring and Research Center]] by the [[Arizona Game and Fish Department]] (author: Mike Childs, September 2002), evaluates several marking techniques for use on endangered [[Humpback Chub]] in the Little Colorado River. Hatchery-reared...
+> -- *[[EvaluationOfTaggingMortalityAn_PML0419]]*
+
+### Mentioned In
+- [[EvaluationOfTaggingMortalityAn_PML0419]]
+
 ## Elastomer Tagging
 
 ### Summary
@@ -8308,8 +10292,28 @@ Elastomer tagging is a marking technique using visible implant elastomer injecte
 > **Core Problem Addressed**: Explain the leptokurtic (high-peaked, long-tailed) movement distributions commonly observed in stream fish populations and test whether population heterogeneity in individual movement rates can generate these patterns. The study addresses why classic simple diffusion...
 > -- *[[ModelingDiffusiveSpreadInAHete_2000]]*
 
+> This document is a partly legible field-activity record and recovery-team agenda for the [[Little Colorado Spinedace]], a threatened Arizona cyprinid. Most of the first four pages is illegible scan text and was not extracted. The readable content covers May to July 2007 monitoring, collection, and...
+> -- *[[LittleColoradoSpinedaceRecover_PML1341]]*
+
+> This study uses a five-month mark-recapture experiment in [[Durant Creek]], a small temperate stream in Raleigh, North Carolina, to describe how four stream fish species move and to test a mechanistic explanation for the leptokurtic (peaked, long-tailed) movement distributions commonly seen in...
+> -- *[[ModelingDiffusiveSpreadInAHete_PML2376]]*
+
 ### Mentioned In
 - [[ModelingDiffusiveSpreadInAHete_2000]]
+- [[LittleColoradoSpinedaceRecover_PML1341]]
+- [[ModelingDiffusiveSpreadInAHete_PML2376]]
+
+## Elastomer Tags
+
+### Summary
+Elastomer tags are fluorescent dye marks injected under the skin, here into the head or dorsal musculature of suckers and chub, as a secondary mark for identifying fish. According to this manual, the dye comes in pink, green or yellow, the color must be recorded, and elastomer dye was first tested on suckers in spring 2003.
+
+### Context
+> This field manual, prepared by [[David Ward]] of the [[Arizona Game and Fish Department]] for the [[Grand Canyon Monitoring and Research Center]] (first issued November 2002, revised January 2006), sets out standardized procedures for handling, measuring, marking and recording fish during...
+> -- *[[StandardizedMethodsForHandling_PML2828]]*
+
+### Mentioned In
+- [[StandardizedMethodsForHandling_PML2828]]
 
 ## Elbe River
 
@@ -8348,8 +10352,12 @@ A group of elders consulted for this project who described the historical condit
 > This draft proposal, dated 6 May 1996, sets out a plan to restore the [[Middle Spring]] (S2) system at the [[Bylas Springs]] complex on the [[San Carlos Apache Reservation]] and to reintroduce [[Gila Topminnow]] of S2 lineage. The authors are staff of the [[U.S. Fish And Wildlife Service]] (Arizona...
 > -- *[[DraftProposalMiddleSpringSAndT_20270]]*
 
+> This proposal (28 May 1996) from the [[Arizona Fishery Resources Offices]], the [[U.S. Fish And Wildlife Service]] and the [[San Carlos Apache Tribe]] seeks to restore the spring system of S2 at [[Bylas Springs]] and reintroduce the endangered [[Sonoran Topminnow]], also called the Gila topminnow....
+> -- *[[MiddleSpringSAndTheEndangeredG_PML2715]]*
+
 ### Mentioned In
 - [[DraftProposalMiddleSpringSAndT_20270]]
+- [[MiddleSpringSAndTheEndangeredG_PML2715]]
 
 ## Eldorado Canyon
 <!-- fm: auto_enriched: true -->
@@ -8373,6 +10381,27 @@ Eldorado Canyon is a geographical location within the Lake Mead reservoir system
 > This field memorandum reports recapture data for hatchery-reared juvenile [[Razorback Sucker]]s released into [[Lake Mohave]] on the [[Colorado River]]. The 1992 year-class was reared at [[Yuma Cove]], partly moved to [[Davis Cove]], and released after [[PIT Tagging]]. Five tagged fish were...
 > -- *[[RecaptureDataForJuvenileRazorb_15472]]*
 
+> This report, prepared by Patti C. Marsh, examines the diet of [[Largemouth Bass]] in [[Lake Mohave]], a reservoir on the [[Colorado River]] straddling Nevada and Arizona. Stomach samples were collected during [[Creel Census]] activities at several access sites. The study found that aquatic insects,...
+> -- *[[InvestigationsOfFoodHabitsOfLa_PML1226]]*
+
+> This document set contains two items on endangered [[Bonytail Chub]] and [[Razorback Sucker]] in the [[Colorado River]] system. The first is a December 1986 fishery management letter reporting two razorback suckers caught with bonytail chubs in a golf course pond in Blythe, California, and planned...
+> -- *[[ReproductionAndPopulationBiolo_PML2101]]*
+
+> This technical protocol, prepared for the Native Fish Work Group (dated 01 February 1994), sets out procedures for capturing wild razorback sucker larvae from [[Lake Mohave]] on the Arizona–Nevada border and rearing them for stocking. The program addresses a population decline in an endangered...
+> -- *[[ProtocolForCaptureOfWildRazorb_PML1475]]*
+
+> This early fishery survey, prepared for the [[U.S. Fish and Wildlife Service]] and Stanford University, assesses the [[Colorado River]] below [[Boulder Dam]] after the dam was built. Dam-regulated water from the deep outlet of [[Lake Mead]] is cold and clear, which has turned roughly 25 to 30 miles...
+> -- *[[AFisherySurveyOfTheColoradoRiv_PML1914]]*
+
+> This technical research proposal, submitted in March 1981 to the [[Water and Power Resources Service]] (Lower Colorado River Region) by Larry J. Paulson, James E. Deacon and John P. Baker of the [[Lake Mead Limnological Research Center]] and the University of Nevada, Las Vegas, describes a...
+> -- *[[TheBiologyOfBonytailChubsAndRa_PML2096]]*
+
+> This 1963 *Desert Magazine* travel feature promotes [[Lake Mohave]], a 56-mile reach of the lower [[Colorado River]] between Arizona and southern Nevada. It covers recreational fishing, boating, and camping, and describes four resorts. It also recounts the lake's prehistoric and historic...
+> -- *[[MinesMinnowsAndMarinasOfLakeMo_PML2114]]*
+
+> This Arizona Game and Fish Department technical report (Federal Aid Project F-14-R, 1993–1995) investigates why the [[Hoover Dam]] tailwater lost its trophy [[Rainbow Trout]] fishery, which had been productive in the 1960s and early 1970s. The fishery is now a put-and-take system supported by...
+> -- *[[FactorsAffectingTheRainbowTrou_PML0121]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ArizonaNevadaCooperativeFisher_1961]]
@@ -8381,6 +10410,25 @@ Eldorado Canyon is a geographical location within the Lake Mead reservoir system
 - [[SummaryBiologicalOpinionOnUsFi_11657]]
 - [[AFisherySurveyOfTheColoradoRiv_16542]]
 - [[RecaptureDataForJuvenileRazorb_15472]]
+- [[InvestigationsOfFoodHabitsOfLa_PML1226]]
+- [[ReproductionAndPopulationBiolo_PML2101]]
+- [[ProtocolForCaptureOfWildRazorb_PML1475]]
+- [[AFisherySurveyOfTheColoradoRiv_PML1914]]
+- [[TheBiologyOfBonytailChubsAndRa_PML2096]]
+- [[MinesMinnowsAndMarinasOfLakeMo_PML2114]]
+- [[FactorsAffectingTheRainbowTrou_PML0121]]
+
+## Eldred Wilson
+
+### Summary
+An early geologist whose 1920s–1930s reconnaissance mapping is cited as key previous work on southwestern Arizona. The paper treats his work as foundational background for the region's geology.
+
+### Context
+> This Arizona Geological Society Digest paper (Volume XII, 1980) by Shafiquullah, Damon, Lynch, Reynolds, Rehrig and Raymond reports 174 [[Potassium-Argon Dating|K-Ar]] ages from 154 localities in southwestern Arizona and adjacent areas, combined with a synthesis of the region's geologic history....
+> -- *[[KarGeochronologyAndGeologicHis_PML2339]]*
+
+### Mentioned In
+- [[KarGeochronologyAndGeologicHis_PML2339]]
 
 ## Eldredge And Salthe
 
@@ -8406,9 +10454,29 @@ Electivity curves are a method for expressing habitat preference by comparing ho
 > This 1977 U.S. Fish and Wildlife Service report, prepared by Paul B. Holden of [[BIO/WEST Inc]] under the Federal Interagency Energy/Environmental Research and Development Program, examines the habitat use and movements of rare fishes in the [[Green River]] between Jensen and Green River, Utah,...
 > -- *[[HabitatRequirementsOfJuvenileC_19387]]*
 
+> This 1977 Fish and Wildlife Service report, prepared by Paul B. Holden of BIO/WEST, Inc. under an interagency agreement with the U.S. Environmental Protection Agency, examines the habitat use, movements and spawning areas of rare fishes in the Green River, Utah. The study focused on young...
+> -- *[[HabitatRequirementsOfJuvenileC_PML2647]]*
+
 ### Mentioned In
 - [[AStudyOfTheHabitatUseAndMoveme_20461]]
 - [[HabitatRequirementsOfJuvenileC_19387]]
+- [[HabitatRequirementsOfJuvenileC_PML2647]]
+
+## Electivity Index
+
+### Summary
+A measure of whether a predator eats a food item more or less often than its availability in the environment would predict, indicating positive or negative selection. This study used it to show, for example, that chironomid larvae were nearly always selected over simuliid larvae by the fishes.
+
+### Context
+> This 1988 study in *Copeia* by Greger and Deacon examines whether food competition is an important biotic interaction between one introduced and six native fishes in the lower mainstream [[Virgin River]], a temporally variable arid-southwest stream. Benthic and drift invertebrates were sampled at...
+> -- *[[FoodPartitioningAmongFishesOfT_PML0906]]*
+
+> This study, published in the *Great Basin Naturalist* (Vol. 45, No. 1, January 1985) by Vincent A. Lamarra, Marianne C. Lamarra and John G. Carter, quantifies the physical and biological environment of a suspected [[Colorado Squawfish]] spawning site at Yampa River mile 16.5. Field sampling in July...
+> -- *[[EcologicalInvestigationOfASusp_PML1312]]*
+
+### Mentioned In
+- [[FoodPartitioningAmongFishesOfT_PML0906]]
+- [[EcologicalInvestigationOfASusp_PML1312]]
 
 ## Electivity Indices
 
@@ -8459,6 +10527,42 @@ Electric barriers are devices that deter fish from passing through a waterway us
 - [[ElectricEel_1963]]
 - [[ElectricEel_14165]]
 - [[TheMostDreadedFishInTheAmazonR_15147]]
+
+## Electric Fish Barrier
+
+### Summary
+The electric fish barrier is a structure on the South Canal and the Tempe Canal designed to limit fish movement along the canal system. In this report, stations were sampled both below and above these barriers to compare fish composition. The report also notes a barrier at Granite Reef on the Arizona Canal, where a visual survey recorded 12 fish.
+
+### Context
+> This technical report by [[Paul C. Marsh]] of [[Arizona State University]] summarizes fish surveys of irrigation canals in central Arizona conducted in fall 1998 (October to December). It was submitted to the [[Bureau of Reclamation]], Phoenix Area Office, under a cooperative agreement, and forms...
+> -- *[[SummaryOfFishSurveysOfSaltRive_PML1499]]*
+
+> This report summarizes fish surveys conducted in October 1997 and January 1998 on canal systems in central Arizona. The work covered [[Salt River Project]] canals (the [[South Canal]] and [[Arizona Canal]]) and the [[Florence-Casa Grande Canal]], a [[U.S. Bureau of Reclamation]] facility. Sampling...
+> -- *[[SummaryOfFishSurveysOfSaltRive_PML1497]]*
+
+> This technical report summarizes fish surveys conducted by [[Arizona State University]] and the [[Bureau of Reclamation]] (BR) during fiscal year 2001 (1 October 2000 to 30 September 2001) under a long-term fish monitoring plan for the [[Gila River Basin]], Arizona. Sampling covered the [[Salt...
+> -- *[[FySummaryOfFishSurveysOfSaltRi_PML1505]]*
+
+> This technical report by Paul C. Marsh ([[Arizona State University]], Center for Environmental Studies) summarizes fish surveys conducted from 1995 to 1997 in canals operated by the [[Salt River Project]] (Arizona Canal and South Canal), the [[Central Arizona Project]], and the [[U.S. Bureau of...
+> -- *[[SummaryOfFishSurveysOfSaltRive_PML1492]]*
+
+> This technical report, prepared by [[Arizona State University]] (ASU) for the [[Bureau of Reclamation]] under a cooperative agreement, summarizes FY 1999 fish sampling in canals of the Gila River basin in central Arizona. Sampling covered four [[Salt River Project]] (SRP) canals, namely the...
+> -- *[[CentralArizonaProjectFishMonit_PML1498]]*
+
+> This report analyzes five years (2000–2004) of standardized fish monitoring data from the [[Central Arizona Project]] (CAP) canal system, interconnected regional canals, and selected reaches of the Gila, Salt, and San Pedro rivers. Prepared for the [[U.S. Bureau of Reclamation]] by Paul C. Marsh...
+> -- *[[AnalysisOfFishPopulationMonito_PML1401]]*
+
+> This Arizona Game and Fish Department (AGFD) Technical Report (No. 18, September 1995) by Brian R. Wright and Jeff A. Sorensen assesses whether the 61.4 km [[Arizona Canal]], part of the [[Salt River Project]] (SRP) canal system, can support a put-and-take sport fishery in metropolitan Phoenix....
+> -- *[[FeasibilityOfDevelopingAndMain_PML2922]]*
+
+### Mentioned In
+- [[SummaryOfFishSurveysOfSaltRive_PML1499]]
+- [[SummaryOfFishSurveysOfSaltRive_PML1497]]
+- [[FySummaryOfFishSurveysOfSaltRi_PML1505]]
+- [[SummaryOfFishSurveysOfSaltRive_PML1492]]
+- [[CentralArizonaProjectFishMonit_PML1498]]
+- [[AnalysisOfFishPopulationMonito_PML1401]]
+- [[FeasibilityOfDevelopingAndMain_PML2922]]
 
 ## Electric Fish Barriers
 
@@ -8531,8 +10635,12 @@ Electric fishing is a sampling method that uses an electrical current in the wat
 > In March 1990 a joint zoological survey of central and western [[Saudi Arabia]] sampled 28 freshwater localities between 8 and 28 March. The survey was a collaboration between the [[National Commission For Wildlife Conservation And Development]] (NCWCD, Riyadh) and the [[Senckenberg Research...
 > -- *[[ZoologicalSurveyInSaudiArabiaS_12464]]*
 
+> This FAO technical guideline, written by T.B. Bagenal (Freshwater Biological Association, Windermere) and W. Nellen (Institut für Meereskunde, Kiel), sets out methods for sampling the eggs, larvae and juveniles of freshwater fish. It notes that methods for adult fish were developed largely through...
+> -- *[[SamplingEggsLarvaeAndJuvenileF_PML0144]]*
+
 ### Mentioned In
 - [[ZoologicalSurveyInSaudiArabiaS_12464]]
+- [[SamplingEggsLarvaeAndJuvenileF_PML0144]]
 
 ## Electric Fishing Gear
 
@@ -8641,10 +10749,14 @@ A fishing device that uses an electric current to stun fish drawn toward a seine
 > This 1952 Illinois Natural History Survey Biological Notes report by R. Weldon Larimore tests whether [[Smallmouth Black Bass]] (*Micropterus dolomieu*) establish [[Home Pool]] territories in [[Jordan Creek]], a small stream in east-central Illinois. A [[Mark-Recapture]] census, followed by three...
 > -- *[[HomePoolsAndHomingBehaviorOfSm_20184]]*
 
+> This EPA Environmental Research Laboratory project summary, based on work from 1978 through 1980, examines how increasing agricultural land use alters the [[Benthic Macroinvertebrates]] and fish communities of small streams in [[Central Indiana]]. Fourteen stream segments spanned a range from...
+> -- *[[EffectsOfAgricultureOnStreamFa_PML0846]]*
+
 ### Mentioned In
 - [[FinalReportOnPopulationManipul_16102]]
 - [[ElectrofishingForPopulationSam_18840]]
 - [[HomePoolsAndHomingBehaviorOfSm_20184]]
+- [[EffectsOfAgricultureOnStreamFa_PML0846]]
 
 ## Electric Seine Sampling
 
@@ -8788,8 +10900,52 @@ An installation in the Salt River Project and Florence-Casa Grande canals that d
 > This report presents the 1997 results of fish monitoring in the Gila River Basin, Arizona, prepared by the [[Bureau Of Reclamation]] (Phoenix Area Office) for the [[U.S. Fish And Wildlife Service]] and the [[Arizona Game And Fish Department]]. The monitoring was required by a 1994 [[Biological...
 > -- *[[ResultsOfFishMonitoringOfSelec_15932]]*
 
+> This summary report, prepared by Paul C. Marsh of [[Arizona State University]]'s Center for Environmental Studies for the [[Bureau of Reclamation]] Phoenix Area Office under federal grant 6-FG-32-00480 (dated 21 February 1996), documents a 1995 fish survey of two canals operated by the [[Salt River...
+> -- *[[SurveyOfSaltRiverProjectCanals_PML1484]]*
+
+> This summary report to the [[Bureau of Reclamation]] documents a 1995 fish survey of two major irrigation canals operated by the [[Salt River Project]] (SRP) in the [[Phoenix Metropolitan Area]]: the [[Arizona Canal]] and the [[South Canal]]. Twenty-two fish species were collected or reliably...
+> -- *[[SurveyOfSaltRiverProjectCanals_PML1486]]*
+
+> This technical guide, prepared by Brian R. Kesner and Paul C. Marsh of [[Marsh & Associates]] for the [[Bureau of Reclamation]], explains how field fish-monitoring data from the [[Phoenix Area Office]] are entered, coded, and verified in the "CAP monitoring.mbd" [[Microsoft Access Database]]. It...
+> -- *[[DataEntryGuideForTheCentralAri_PML1402]]*
+
+> This document is a data entry guide for the [[Central Arizona Project]] (CAP) Fish Monitoring Program, prepared by Brian R. Kesner and Paul C. Marsh of Marsh & Associates, LLC for the [[U.S. Bureau of Reclamation]] under Contract Number R09PD32013. It accompanies a final report (June 14, 2010) on...
+> -- *[[DataEntryGuideForTheCentralAri_PML1276]]*
+
+> This technical report, prepared by the [[U.S. Bureau of Reclamation]] (Phoenix Area Office) for the [[U.S. Fish and Wildlife Service]] and the [[Arizona Game and Fish Department]], presents fish monitoring results for 1997 in target streams and canals of the Gila River Basin. The monitoring was...
+> -- *[[ResultsOfFishMonitoringOfSelec_PML0447]]*
+
+> This report presents the results of fish monitoring in selected streams and canals of the [[Gila River]] Basin, Arizona, during 1999 (with January 2000 sampling of the Salt River Project Arizona Canal). The work was required under a reasonable and prudent alternative in the [[Biological Opinion]]...
+> -- *[[ResultsOfFishMonitoringOfSelec_PML0435]]*
+
+> This report summarizes Sample Year (SY) 2010 fish surveys in four canal systems of the [[Gila River Basin]], Arizona: the [[Salt River Project]] Arizona (North) Canal (SRPN), the SRP South Canal (SRPS), the [[San Carlos Irrigation Project]] Florence-Casa Grande (FCG) Canal, and the [[Central...
+> -- *[[SampleYearSummaryOfFishSurveys_PML1554]]*
+
+> This paper evaluates the operation, maintenance, and effectiveness of [[Electrical Fish Barrier]] systems built to stop nonindigenous fishes from moving upstream out of the [[Central Arizona Project]] (CAP) canal into the [[Gila River Basin]]. Author Robert W. Clarkson (U.S. Bureau of Reclamation)...
+> -- *[[EffectivenessOfElectricalFishB_PML0451]]*
+
+> This 1996 summary report by Paul C. Marsh of [[Arizona State University]] documents fish occurrences in the [[Arizona Canal]] and [[South Canal]] of the [[Salt River Project]] (SRP) irrigation system in the [[Phoenix Metropolitan Area]]. The work was submitted to the [[Bureau of Reclamation]] under...
+> -- *[[SurveyOfSaltRiverProjectCanals_PML1485]]*
+
+> This final annual report summarizes fish sampling in selected waters of the [[Gila River Basin]], Arizona, during sample year (SY) 2009 (July 7, 2009 to January 11, 2010). The work was performed by Marsh & Associates, LLC, under [[Bureau of Reclamation]] Contract R09PD32013 as part of a long-term...
+> -- *[[CentralArizonaProjectFishMonit_PML1553]]*
+
+> This March 1998 report by [[Robert W. Clarkson]] of the [[U.S. Bureau of Reclamation]] presents fish monitoring results for 1995 and 1996 from canals and streams in the [[Gila River Basin]], Arizona. The monitoring was required by a 1994 [[Biological Opinion]] for the [[Central Arizona Project]]...
+> -- *[[ResultsOfFishMonitoringOfSelec_PML0446]]*
+
 ### Mentioned In
 - [[ResultsOfFishMonitoringOfSelec_15932]]
+- [[SurveyOfSaltRiverProjectCanals_PML1484]]
+- [[SurveyOfSaltRiverProjectCanals_PML1486]]
+- [[DataEntryGuideForTheCentralAri_PML1402]]
+- [[DataEntryGuideForTheCentralAri_PML1276]]
+- [[ResultsOfFishMonitoringOfSelec_PML0447]]
+- [[ResultsOfFishMonitoringOfSelec_PML0435]]
+- [[SampleYearSummaryOfFishSurveys_PML1554]]
+- [[EffectivenessOfElectricalFishB_PML0451]]
+- [[SurveyOfSaltRiverProjectCanals_PML1485]]
+- [[CentralArizonaProjectFishMonit_PML1553]]
+- [[ResultsOfFishMonitoringOfSelec_PML0446]]
 
 ## Electrical Fish Screening Device
 
@@ -8826,6 +10982,30 @@ Electrical fish shockers are devices that send current through water to stun fis
 
 ### Mentioned In
 - [[FishMortalityCausedByElectrica_18673]]
+
+## Electrical Fish Trap
+
+### Summary
+An electrical fish trap is a device that uses electric current to capture fish. In this report, one operated by the Fish and Wildlife Service was placed across the North Fork arm on June 18 and appeared to block squawfish migration, possibly diverting fish to spawn elsewhere or too late.
+
+### Context
+> This 1958 fisheries report documents the spawning habits, timing and movements of [[Squawfish]] (a predatory cyprinid described as a "rough fish") in [[Cascade Reservoir]], its tributaries and the nearby [[Payette Lake]] system in Idaho. It also summarizes a parallel study of [[Common Carp]]...
+> -- *[[AnInvestigationOfTheSpawningHa_PML1142]]*
+
+### Mentioned In
+- [[AnInvestigationOfTheSpawningHa_PML1142]]
+
+## Electrical Inventory
+
+### Summary
+A population survey method in which fish are stunned with an electrical shocker so they can be counted and measured. In this source, surveys used a 230-volt AC shocker in late June and September, covering 12–36% of the experimental area, and provided the total mortality estimates for the Fall Creek trout.
+
+### Context
+> This study tested whether the rearing conditions of hatchery brown trout (*Salmo trutta*) affect their survival after stocking in a natural stream. Fish grown at a normal hatchery rate were compared with fish whose growth was deliberately slowed by colder rearing water. Both groups were stocked in...
+> -- *[[EffectOfHatcheryRearingConditi_PML0673]]*
+
+### Mentioned In
+- [[EffectOfHatcheryRearingConditi_PML0673]]
 
 ## Electrical Shock Method
 
@@ -9282,6 +11462,561 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
 > -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
 
+> This two-part email thread (January 2000) between staff of the [[U.S. Fish and Wildlife Service]] and fish biologists at [[Arizona State University]] questions whether a [[Razorback Sucker]] record from [[Alamo Lake]] is documented elsewhere. A colleague, Ed Bianchi, recalls capturing adult...
+> -- *[[RazorbackWoes_PML2750]]*
+
+> This is a January 13, 1989 letter from the [[Nevada Department of Wildlife]] to the [[Dexter National Fish Hatchery]] in New Mexico. It requests notification of any native fish stocking carried out within the [[Colorado River System]] bordering Nevada, and reports the recapture of a single...
+> -- *[[BonytailChubStockingNotificati_PML1917]]*
+
+> This January 1991 memorandum from [[Frank Baucom]], a fish pathologist with the [[U.S. Fish and Wildlife Service]] in Phoenix, AZ, reports a post-mortem examination of a dead [[Humpback Chub]] collected from the [[Grand Canyon]]. The fish carried an internal transmitter with a trailing antenna. The...
+> -- *[[HumpbackChubMortality_PML1410]]*
+
+> This memorandum from the [[U.S. Fish and Wildlife Service]] Arizona Fishery Resources Office (Parker, AZ, dated 1 June 2006) reports two field operations on the lower [[Colorado River]] system. On 30 May 2006, a multi-agency crew electrofished [[Three Fingers Lake]] and recorded no fish captures....
+> -- *[[ReportOfElectrofishingActiviti_PML2763]]*
+
+> The fisheries group from the [[Bureau Of Reclamation]] (Boulder City office), assisted by Mike Burrell, carried out the annual Lake Mohave [[Bonytail Chub]] roundup from May 14 to 18, 2007. Both shorelines of the reservoir were sampled from Chalk Cliffs to about RM 29 using [[Trammel Netting]] and...
+> -- *[[LakeMohaveBonytailChubRoundup_PML1334]]*
+
+> This 1993 internal memorandum, dated 18 June 1993, sets out a draft protocol for collecting [[Bonytail]] from [[Lake Mohave]] for transfer to a hatchery. The author, a park-level fisheries staff member, addresses the timing of collection, fish health screening, hatchery transport, and gear...
+> -- *[[BonytailProtocol_PML1762]]*
+
+> This internal memorandum from the [[California Department of Fish and Game]] (dated January 31, 1974) reports a failed attempt to collect [[Razorback Sucker]] broodstock from [[Lake Mohave]] on October 6, 1973. Twenty-nine suckers were captured with [[Gill Net]]s, held in a [[Live Car]] in the...
+> -- *[[RazorbackSuckerRecoveryAttempt_PML2127]]*
+
+> This FY2004 annual project report from the [[Colorado River Recovery Program]] (Project 129) describes work by the [[Utah Division of Wildlife Resources]] to estimate the population of endangered [[Humpback Chub]] in [[Desolation Canyon]] and [[Gray Canyon]] on the [[Green River]], Utah. The...
+> -- *[[HumpbackChubPopulationEstimate_PML1161]]*
+
+> The [[Arizona Game and Fish Department]] Region III Fisheries Program surveyed about 0.7 mile of the [[Verde River]] upstream of the [[Granite Creek]] confluence, locally known as [[Stillman Lake]], on September 25, 2001. The survey tested whether the fish community there differed from the river...
+> -- *[[RegionIiiFisheriesSurveyOfTheV_PML0430]]*
+
+> This annual report from the [[Colorado River Recovery Program]] (Project 131) covers fiscal year 2003 work toward a second [[Population Estimate]] of [[Humpback Chub]] in the [[Black Rocks]] reach of the [[Colorado River]]. Robust population estimates are needed at regular intervals to track...
+> -- *[[PopulationEstimateOfHumpbackCh_PML1625]]*
+
+> This 1962 internal memorandum from a [[Fisheries Management]] biologist to the Regional Director summarizes fish collections made in the [[Green River]] within [[Dinosaur National Monument]] before and after a [[Rotenone]] eradication treatment. The collections were qualitative species surveys, not...
+> -- *[[FishCollectedBeforeAndAfterEra_PML0082]]*
+
+> This report, prepared by Patti C. Marsh, examines the diet of [[Largemouth Bass]] in [[Lake Mohave]], a reservoir on the [[Colorado River]] straddling Nevada and Arizona. Stomach samples were collected during [[Creel Census]] activities at several access sites. The study found that aquatic insects,...
+> -- *[[InvestigationsOfFoodHabitsOfLa_PML1226]]*
+
+> This FY 2000 annual report from the [[Colorado River Recovery Program]] describes the third year of a three-year study to develop procedures for monitoring population trends of the [[Humpback Chub]] in the [[Yampa River]] through [[Yampa Canyon]]. The [[U.S. Fish and Wildlife Service]] project team...
+> -- *[[HumpbackChubMonitoringInYampaC_PML1911]]*
+
+> This document is an email correspondence from [[Peter Reinthal]], Associate Curator at the [[University of Arizona]], transmitting raw fish count data from two sampling events on [[Aravaipa Creek]], Arizona: a spring 2003 survey (April 5–6) and a fall 2003 survey (September 27–28). Counts were...
+> -- *[[AravaipaSamplingNumbersSpring_PML2191]]*
+
+> This 1992 internal memorandum from the [[Arizona Game And Fish Department]] reports on a fish barrier built on [[Tule Creek]] as mitigation for the expanded [[New Waddell Dam]] and [[Lake Pleasant]]. A post-construction inspection on June 11, 1992 found the barrier sound except for its vertical...
+> -- *[[TuleCreekFishBarrierAndGreenSu_PML0107]]*
+
+> This U.S. Fish and Wildlife Service memorandum, dated 2 February 2004 and issued by the [[Arizona Fishery Resources Office]] in Parker, reports on two activities at [[Cibola National Wildlife Refuge]] (CNWR). The first was a routine maintenance check of the pupfish refuge pond, where a recurring...
+> -- *[[NativeFishWorkAtCibolaNational_PML2620]]*
+
+> This U.S. Fish and Wildlife Service memorandum, dated 2 February 2004 and issued by the [[Arizona Fishery Resources Office]] in Parker, Arizona, reports two activities at [[Cibola National Wildlife Refuge]] (CNWR). The first is a January 2004 maintenance check of a managed pond, which found little...
+> -- *[[NativeFishWorkAtCibolaNational_PML1784]]*
+
+> This introductory report, prepared by [[Terry Inman]] for [[Paul C. Marsh]] of the [[Arizona State University Center for Environmental Studies]] (Bio.310), describes the first systematic effort to document the crayfishes of Arizona. The state is unusual because it has no native crayfish species,...
+> -- *[[TheKnownCrayfishesOfArizonaASu_PML1151]]*
+
+> This memorandum, issued 9 November 2005 by the [[U.S. Fish and Wildlife Service]] Arizona Fishery Resources Office (Parker, AZ), reports the first of several planned fish salvage operations at [[High Levee Pond]] (HLP) on the [[Cibola National Wildlife Refuge]]. The salvage was conducted 24-26...
+> -- *[[ReportOnTheSalvageOfFishesFrom_PML1787]]*
+
+> This technical note, by John A. Lund of the [[Utah Division Of Wildlife Resources]] (Flaming Gorge Fisheries Investigations, Dutch John, Utah), evaluates the use of [[Electrofishing]] to collect trout data on the [[Green River]] below [[Flaming Gorge Dam]]. The note finds that daytime...
+> -- *[[ElectrofishingTechniquesOnTheG_PML1384]]*
+
+> This correspondence, dated November 2, 1992 (year partly garbled in the scan), is a letter from the [[Arizona Game and Fish Department]] Native Fish Program Manager to The Nature Conservancy's Verde Valley/Eassayampa River Preserve. It reports an October 26 sampling effort at Painted Rock, Arizona,...
+> -- *[[PalmLakeNativeFishStudies_PML0105]]*
+
+> This report reviews the first five years (1981–1985) of a proposed ten-year [[Razorback Sucker]] reintroduction program in Arizona. Under a [[Memorandum of Understanding]] signed in 1981 between the [[U.S. Fish and Wildlife Service]] and the [[Arizona Game and Fish Department]], nearly 9.5 million...
+> -- *[[RazorbackSuckerReintroductions_PML0092]]*
+
+> This FY 2001 annual report from the [[Colorado River Recovery Program]] covers Project 22a4, a three-year [[Humpback Chub]] monitoring study in [[Yampa Canyon]], [[Dinosaur National Monument]], run from 1998 to 2001 by G. B. Haines and Tim Modde of the [[U.S. Fish and Wildlife Service]] (Vernal,...
+> -- *[[HumpbackChubMonitoringInYampaC_PML0945]]*
+
+> The National Park Service (NPS), working with partners, planned a mid-June 2009 translocation of 300 juvenile [[Humpback Chub]] (*[[Gila Cypha]]*) from the [[Little Colorado River]] to [[Shinumo Creek]], a small clear tributary of the [[Colorado River]] inside [[Grand Canyon National Park]]. The...
+> -- *[[EndangeredHumpbackChubToBeTran_PML2033]]*
+
+> This Annual Project Report from the [[Colorado River Recovery Program]] (Project 131, FY 2004) describes work toward a second population estimate for [[Humpback Chub]] in the [[Black Rocks]] reach of the [[Colorado River]]. Robust population estimates at regular intervals are needed to judge how...
+> -- *[[PopulationEstimateOfHumpbackCh_PML1626]]*
+
+> This document is a two-paper excerpt from the Proceedings of the [[Desert Fishes Council]], Volume XXX (1998 Symposium), published November 15, 1999. Both papers concern native fishes of the American Southwest, with abstracts in English and Spanish. 1. **Growth of wild adult [[Razorback Sucker]]s...
+> -- *[[GrowthOfWildAdultRazorbackSuck_PML2072]]*
+
+> This annual report from the [[Colorado River Recovery Program]] covers Project 131, a second population estimate for [[Humpback Chub]] in the Black Rocks reach of the [[Colorado River]]. The project is led by [[Chuck McAda]] of the [[U.S. Fish and Wildlife Service]] (Grand Junction, Colorado)....
+> -- *[[PopulationEstimateOfHumpbackCh_PML1627]]*
+
+> This survey assessed the fish community of the unlined (earthen) reach of the [[Coachella Canal]] before the [[Coachella Valley Water District]] (CVWD) proposed concrete-lining the remaining 53.4 km (33.2 mi). The main goal was to determine whether the endangered [[Razorback Sucker]] (*Xyrauchen...
+> -- *[[SurveyOfFishesInTheUnlinedReac_PML0463]]*
+
+> These abstracts from the [[Desert Fishes Council]] 1992 proceedings cover four topics. A population genetics abstract models mitochondrial DNA diversity in a "Mohave" population, where the species is not named in the text. An electroshock study examines injury in [[Roundtail Chub]] (*Gila robusta*)...
+> -- *[[MonthlyPopulationEstimatesOfEn_PML0608]]*
+
+> This FY 2001 annual project report from the [[Colorado River Recovery Program]] describes the first of three planned years of sampling for an [[Endangered Species]] [[Humpback Chub]] population in Desolation/Gray Canyon on the [[Green River]], Utah. The work was run by the [[Utah Division of...
+> -- *[[HumpbackChubPopulationEstimate_PML1122]]*
+
+> This note summarizes a forwarded email thread and an attached research summary on the effects of the [[Picture Fire]] on fishes and stream habitat in the Tonto National Forest, Arizona. The fire burned approximately 12,500 acres between 6/17/2003 and 6/26/2003. Researchers from the [[Rocky Mountain...
+> -- *[[EffectsOfWildfireOnFishesAndAq_PML2229]]*
+
+> This FY2001 annual report from the [[Colorado River Recovery Program]] covers Project 25, the reintroduction of [[Bonytail]] (*Gila elegans*) into the Upper [[Colorado River Basin]]. The species is thought to be functionally extirpated from the basin. The project stocks hatchery-reared juveniles...
+> -- *[[BonytailReintroduction_PML1121]]*
+
+> This June 1987 draft protocol, prepared by the [[Colorado River Fishes Recovery Team]], directs field personnel to retain every wild [[Bonytail]] (*Gila elegans*) they encounter alive and move it to refugia. It sets out how to identify the species in the field, how to hold and transport a captured...
+> -- *[[ProtocolForHandlingAndTranspor_PML0344]]*
+
+> This file is a peer review package for manuscript F-14-89, "Spawning of Desert Sucker," by [[Jeffrey P. Hill]] and [[William J. Matter]], submitted to [[The Southwestern Naturalist]]. The package contains the reviewer evaluation form, the associate editor's cover letter, the reviewer's letter, and...
+> -- *[[SpawningOfDesertSucker_PML1058]]*
+
+> This memorandum from Sr. Staff Biologist [[Frank Baucom]] reports on Camp Five's part in an intensive, interagency sampling effort on [[Lake Mohave]] from March 5 to 13, 1988. The goal was to capture [[Bonytail Chub]] and tag [[Razorback Sucker]]. Camp Five worked the lower Lake Mohave reach from a...
+> -- *[[SummaryOfTripToSampleBonytailC_PML0180]]*
+
+> This report documents a fish survey of the [[Gila River]] within the [[Gila Wilderness Area]] in the [[Gila National Forest]], [[New Mexico]], conducted on 6-10 June and 18 August 1994. The survey was carried out by the [[U.S. Fish and Wildlife Service]] (New Mexico Ecological Services State...
+> -- *[[FisherySurveyOfTheGilaRiverWit_PML2424]]*
+
+> This FY2003 annual report from the [[Colorado River Recovery Program]] documents the third and final year of a three-year project to estimate the population of late juvenile/adult [[Humpback Chub]] (*Gila* spp.) in Desolation/Gray Canyons on the [[Green River]], Utah. The population estimate is...
+> -- *[[HumpbackChubPopulationEstimate_PML1160]]*
+
+> This report presents a brief fishery survey of the unlined (earthen) reach of the [[Coachella Canal]] in Imperial and Riverside Counties, California, conducted 1–5 April 2002 by Robert W. Clarkson (U.S. Bureau of Reclamation) and Paul C. Marsh (Arizona State University). The [[Coachella Valley...
+> -- *[[SurveyOfFishesInTheUnlinedReac_PML0429]]*
+
+> This U.S. Fish and Wildlife Service fishery management report, issued by the Cooperative Fishery Unit under Robert L. Inucdo (Fishery Management Biologist), describes a three-day fish sampling survey of the [[Green River]] and the [[Yampa River]] in Colorado and Utah, conducted October 11-13, 1953....
+> -- *[[FisheryManagementReportGreenRi_PML0837]]*
+
+> This FY 1999 annual report from the [[Colorado River Recovery Program]], prepared by the [[Utah Division of Wildlife Resources]] Moab Field Station, documents efforts to reestablish the functionally extirpated [[Bonytail]] (*Gila elegans*) in the [[Upper Colorado River Basin]]. Methods were...
+> -- *[[ColoradoRiverRecoveryProgramFy_PML1675]]*
+
+> This Arizona Cooperative Fishery Research Unit report (Research Paper Series, Number 77-2, University of Arizona, Tucson) describes the food habits of [[Threadfin Shad]] (*Dorosoma petenense*) in [[Deer Island Lake]], a small, shallow backwater of the [[Lower Colorado River]]. Monthly plankton...
+> -- *[[SomeObservationsOnTheFlexibleF_PML2281]]*
+
+> These two annual reports from the [[Colorado River Recovery Program]] (Project 22-A-3) cover the population estimate of [[Humpback Chub]] in Black Rocks, Colorado. The work was carried out under the [[Interagency Standardized Monitoring Program]] (ISMP), which since 1996 has monitored population...
+> -- *[[InteragencyStandardizedMonitor_PML2121]]*
+
+> This document is a Spanish-language conservation proposal and work plan for the [[Desert Pupfish]] ([[Cyprinodon Macularius]]), a small endemic fish of the Sonoran Desert. The plan targets remaining populations in [[Sonora]] and [[Baja California]], Mexico. It sets out a protection strategy, field...
+> -- *[[PlanDeRecuperacinDelPupoDelDes_PML1244]]*
+
+> This Colorado River Recovery Program annual report covers Project 133, which evaluates the [[Humpback Chub]] population of the [[Yampa River]]. The project tests whether the Yampa population also occupies [[Lodore Canyon]], [[Whirlpool Canyon]] and [[Split Mountain Canyon]], as the recovery goals...
+> -- *[[EvaluationOfYampaRiverHumpback_PML0813]]*
+
+> This FY2002 annual progress report from the [[Colorado River Recovery Program]] covers the second year of a three-year project to estimate the population of [[Humpback Chub]] in [[Desolation Canyon]] and [[Gray Canyon]] on the [[Green River]] in Utah. The work was led by J. Michael Hudson and Julie...
+> -- *[[HumpbackChubPopulationEstimate_PML1123]]*
+
+> This FY 2005 annual project report from the [[Upper Colorado River Recovery Program]] (Project 132) describes the third and final year of a three-year population estimate for the endangered [[Humpback Chub]] in [[Westwater Canyon]], Colorado River, Utah. The study was run by the [[Utah Division of...
+> -- *[[PopulationEstimateOfHumpbackCh_PML1167]]*
+
+> This FY 2003 annual report from the [[Colorado River Recovery Program]] (Project 132) documents the first of three years of work to estimate the population of endangered [[Humpback Chub]] (*Gila cypha*) in Westwater Canyon, [[Colorado River]], Utah. Population estimates are needed to meet recovery...
+> -- *[[PopulationEstimateOfHumpbackCh_PML0141]]*
+
+> This 1970 study, published in the *Journal of the Arizona Academy of Science*, evaluates the selectivity and efficiency of several commercial fishing devices in two central Arizona reservoirs, [[Apache Lake]] and [[Roosevelt Lake]], on the [[Salt River]]. Fieldwork ran from 1966 to 1968 and was...
+> -- *[[SelectivityAndEfficiencyOfSome_PML1212]]*
+
+> This report from the [[Lake Mohave Native Fish Work Group]] (NFWG) summarizes the [[Repatriation Program]] for endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]] from 1992 through December 1999. Hatchery- and backwater-reared juveniles were [[PIT Tagging|PIT-tagged]] and...
+> -- *[[EndangeredRazorbackSuckerReari_PML2074]]*
+
+> This FY2000 annual report from the [[Colorado River Recovery Program]] closes the [[Interagency Standardized Monitoring Program]] (ISMP), a standardized fish monitoring effort run by the [[Colorado Division Of Wildlife]] and led by principal investigator [[William R Elmblad]]. The program tracked...
+> -- *[[InteragencyStandardizedMonitor_PML0680]]*
+
+> This 1980 field report from the [[Fish and Wildlife Service]] (Vernal, Utah) describes the first season of a [[Radiotelemetry]] program tracking endangered [[Colorado Squawfish]] and [[Razorback Sucker]] in the Green River, Utah. Six Colorado squawfish and one razorback sucker were captured by...
+> -- *[[RadiotelemetryOfColoradoSquawf_PML2536]]*
+
+> This FY2004 annual report from the [[Colorado River Recovery Program]] (Project 132) covers the second year of a three-year population estimate of the endangered [[Humpback Chub]] in [[Westwater Canyon]], [[Colorado River]], Utah. The study also tracks [[Roundtail Chub]] and unidentified subadult...
+> -- *[[PopulationEstimateOfHumpbackCh_PML2540]]*
+
+> This 1985 technical report, prepared for the [[U.S. Fish and Wildlife Service]] Office of Endangered Species, documents a May 1985 field survey of the upper [[Salt River Basin]] and upper [[Gila River Basin]] in eastern Arizona. The survey tested suspected declines and widespread extirpation of two...
+> -- *[[ArizonaSurveyForSpikedaceMedaF_PML2179]]*
+
+> This FY2000 annual project report from the [[Colorado River Recovery Program]] covers the reintroduction of [[Bonytail]] (*Gila elegans*) to the Upper [[Colorado River Basin]]. The species is thought to be functionally extirpated there. The project stocks juvenile bonytail and tracks radio-tagged...
+> -- *[[BonytailReintroduction_PML0398]]*
+
+> This document combines two reconnaissance surveys of the [[Gila River]] and [[Salt River]] downstream of the [[Phoenix 91st Avenue Wastewater Treatment Plant]], Phoenix, Arizona. The first is a fish inventory at three sites (near [[Gillespie Dam]], [[Gila River at 115th Avenue Crossing|115th...
+> -- *[[ReconnaissanceOfSaltAndGilaRiv_PML0910]]*
+
+> This report summarizes fiscal year 2000 (1 October 1999 to 30 September 2000) fish sampling in three canal systems of the [[Gila River Basin]] in central Arizona. The work was done by [[Arizona State University]] (ASU) and the [[Bureau of Reclamation]] (BR) under a long-term fish monitoring plan....
+> -- *[[FySummaryOfFishSurveysOfSaltRi_PML1504]]*
+
+> This report, submitted to the [[U.S. Fish and Wildlife Service]] Office of Endangered Species in July 1995, documents a fish survey of the upper [[Salt River Basin]] and [[Gila River Basin]] in Arizona, conducted 19 to 24 May 1985. The survey tested suspected declines and widespread extirpation of...
+> -- *[[ArizonaSurveyForSpikedaceMedaF_PML2178]]*
+
+> This study by John N. Rinne quantifies the physical habitat used by the [[Loach Minnow]] (*Tiaroga cobitis*), a small, obligate riffle-dwelling cyprinid endemic to the [[Gila River Basin]] of Arizona and New Mexico. Habitat data (velocity, depth, substrate) were collected in [[Aravaipa Creek]]...
+> -- *[[PhysicalHabitatUseByLoachMinno_PML2214]]*
+
+> This study by Ward, Schultz & Matson (Environmental Biology of Fishes, 2003) tests whether differences in [[Swimming Performance]] explain why [[Nonnative Species|nonnative fishes]] are disproportionately removed by floods in southwestern U.S. streams. Laboratory [[Swim Tunnel]] tests on 8 native...
+> -- *[[DifferencesInSwimmingAbilityAn_PML2825]]*
+
+> This technical report summarizes fish surveys conducted by [[Arizona State University]] and the [[Bureau of Reclamation]] (BR) during fiscal year 2001 (1 October 2000 to 30 September 2001) under a long-term fish monitoring plan for the [[Gila River Basin]], Arizona. Sampling covered the [[Salt...
+> -- *[[FySummaryOfFishSurveysOfSaltRi_PML1505]]*
+
+> This study compares how [[Habitat Evaluation]] methods for small stream fishes perform in [[Aravaipa Creek]], Arizona, an upper [[Sonoran Desert]] stream. It tests two questions: whether physical habitat estimates from a point method match those from a [[Transect Method]], and whether the way fish...
+> -- *[[PhysicalHabitatEvaluationOfSma_PML2208]]*
+
+> This paper reports a [[Chemical Piscicide Treatment]] of Ord Creek in the [[White Mountains]] of east-central Arizona, carried out to remove introduced [[Brown Trout]] and [[Brook Trout]] and restore the threatened [[Arizona Trout]] (*Salmo apache*). The toxicant [[Antimycin A]] was used in August...
+> -- *[[ChemicalTreatmentOfOrdCreekApa_PML2235]]*
+
+> This paper estimates the annual production of stream-dwelling trout in Minnesota streams, with a focus on the production-to-biomass (P/B) ratio, a standard index of population turnover. Populations of [[Rainbow Trout]], [[Brown Trout]] and [[Brook Trout]] were sampled by [[Electrofishing]] in...
+> -- *[[AnnualProductionOfStreamTroutI_PML2841]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) project, led by Principal Investigator [[Benjamin Schleicher]] (Grand Junction Fish and Wildlife Conservation Office), documents overwinter survival and spatial distribution of wild-spawned [[Razorback Sucker]] in the [[San Juan River]]. The work followed...
+> -- *[[OverwinterSurvivalAndSpatialDi_PML2292]]*
+
+> This laboratory study, published in the *Transactions of the American Fisheries Society* (2008), tests whether gut content analysis can reliably detect predation on native fish larvae by small nonnative fishes. Five nonnative predator species were each fed a single larval [[Razorback Sucker]], a...
+> -- *[[DetectionOfLarvalRemainsAfterC_PML2310]]*
+
+> This April 14, 1986 interagency memorandum, written by Linda Blythe of the California Department of Fish and Game (Region 5) to the Fisheries Management Supervisor, documents the stocking of about 1.5 million hatchery-reared [[Razorback Sucker]] fry into the [[Lower Colorado River]] and proposes a...
+> -- *[[RazorbackSuckerReintroductionA_PML1368]]*
+
+> This short first-person account, signed by [[C.O. Minckley]] and dated 8 February 2008, describes a [[Razorback Sucker]] (*Xyrauchen texanus*) collected by [[Electrofishing]] at the mouth of the [[Paria River]] in May 1978. The specimen was preserved but was later lost through a logistical error:...
+> -- *[[RazorbackSuckerVoucherSpecimen_PML1790]]*
+
+> This document is a set of handwritten and typed field data sheets from fish surveys of [[Aravaipa Creek]] in [[Pinal County]], [[Arizona]]. Surveys were conducted on 3 August 2005 and 14 September 2005 by P.C. Marsh, R. Clarkson (OCR reads "Gfarkson") and J.A. Stefferud. The sampling was organized...
+> -- *[[AravaipaCreekAtConstructedFish_PML1542]]*
+
+> This 1991 study by [[Joseph N. Rinne]] (USDA Forest Service, Rocky Mountain Forest and Range Experiment Station, Tempe, Arizona), published in *The Southwestern Naturalist* 36(1):7–13, quantifies the physical habitat used by [[Spikedace]] ([[Meda Fulgida]]), a threatened cyprinid endemic to the...
+> -- *[[HabitatUseBySpikedaceMedaFulgi_PML2217]]*
+
+> This 1987 study in *The Southwestern Naturalist* (vol. 32, no. 3, pp. 351–356) reports a [[Mark-Recapture]] program on native and introduced fishes of the [[Gila River]] drainage in New Mexico and Arizona, run from April 1983 through May 1985 by the Arizona Game and Fish Department and the New...
+> -- *[[MovementsAndGrowthOfFishesInTh_PML0208]]*
+
+> This technical report, submitted by [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] in June 1998, analyzes capture-recapture data for wild adult [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], Arizona-Nevada. Using 1,141 usable capture-recapture pairs (CRPs) from...
+> -- *[[GrowthOfWildAdultRazorbackSuck_PML1575]]*
+
+> This Arizona Game and Fish Department performance report (Segment 3 of 5, July 1, 1996 to June 30, 1997) covers the [[Endangered Species Act]]-linked reintroduction and monitoring of two federally listed fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[AnnualPerformanceReportRazorba_PML0126]]*
+
+> This technical report, submitted by Paul C. Marsh to the [[Bureau of Reclamation]] (Phoenix Area Office), summarizes fish surveys in [[Central Arizona Project]]-related canals during fiscal year 2002 (1 October 2001 to 30 September 2002). Sampling followed the [[Long-Term Monitoring Plan]] for the...
+> -- *[[CentralArizonaProjectFishMonit_PML1508]]*
+
+> This chapter from the [[Manual of Fisheries Survey Methods II]] (Michigan Department of Natural Resources, Fisheries Special Report 25, January 2000) explains how to estimate the total number of fish in a discrete stream section by subsampling. It covers two approaches: [[Mark-and-Recapture...
+> -- *[[StreamFishPopulationEstimatesB_PML1374]]*
+
+> This U.S. [[Fish and Wildlife Service]] (FWS) study surveyed the fishes of the [[White River]] in Colorado and Utah during 1981, as part of a larger effort on the upper [[Colorado River Basin]]. The work was funded through a memorandum of understanding with the [[Bureau of Land Management]] (BLM)....
+> -- *[[WhiteRiverFishesStudy_PML0992]]*
+
+> This document combines a blank manuscript review form (journal form RM 1630-6, July 1979) with a research manuscript by John N. Rinne (USDA Forest Service, Rocky Mountain Forest and Range Experiment Station) and Erich Kroeger (Arizona State University). The review form is largely illegible and...
+> -- *[[PhysicalHabitatUsedBySpikedace_PML2231]]*
+
+> This technical report, prepared by [[Arizona State University]] (ASU) for the [[Bureau of Reclamation]] under a cooperative agreement, summarizes FY 1999 fish sampling in canals of the Gila River basin in central Arizona. Sampling covered four [[Salt River Project]] (SRP) canals, namely the...
+> -- *[[CentralArizonaProjectFishMonit_PML1498]]*
+
+> This memorandum from [[BIO-WEST]] (Logan, Utah) to the [[Bureau of Reclamation]] reports on a study of how capture, handling, and holding affect [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]] reach of the [[Colorado River]]. The memo was prepared for [[Glen Canyon Environmental Studies]]...
+> -- *[[FishHandlingImprovementGrandCa_PML2782]]*
+
+> This U.S. Fish and Wildlife Service memorandum (Fishery Management Biologist [[Robert L. Azevedo]], [[Bureau of Sport Fisheries and Wildlife]], Albuquerque, dated November 9, 1962) reports a fish sampling survey of the [[Green River]] within [[Dinosaur National Monument]] conducted September 24 to...
+> -- *[[DinosaurNationalMonumentGreenR_PML0083]]*
+
+> Webber and Beers (U.S. Fish and Wildlife Service, Colorado River Fish Project) tested whether passive instream flat-plate antennas (PIAs) could detect [[Razorback Sucker]]s tagged with [[Passive Integrated Transponder Tags]] (PIT tags) at a spawning site, [[Razorback Bar]], in the [[Green River]],...
+> -- *[[DetectingRazorbackSuckersUsing_PML2846]]*
+
+> This document combines two linked Minnesota fisheries studies. The first, a cost review by [[Robert E. Schumacher]] (Aquatic Biologist, Fisheries Research Unit, Special Publication No. 3, February 1955), compares [[Trout Feed Costs]] and feed efficiency at state trout rearing stations over five...
+> -- *[[ReviewOfComparativeTroutFeedCo_PML2313]]*
+
+> This report summarizes three years (1994–1996) of fish surveys on [[Fossil Creek]], a 14-mile perennial stream in north-central Arizona and a tributary of the [[Verde River]]. Surveys were run by the [[Arizona Game and Fish Department]] (Region II Fisheries) to determine the status of [[Roundtail...
+> -- *[[StatewideFisheriesInvestigatio_PML2241]]*
+
+> This 1995 field manual, issued by the [[Bureau Of Reclamation]] Phoenix Area Office, sets out [[Standard Operating Procedures]] for long-term monitoring of fish populations in rivers and streams of the [[Gila River Basin]], Arizona. It defines the field forms, station layout, sampling gears,...
+> -- *[[StandardOperatingProceduresFie_PML0444]]*
+
+> This study compares the distribution, recapture rates, and growth of [[Razorback Sucker]] (*Xyrauchen texanus*) stocked into the middle [[Green River]] by two routes: fish acclimated for a full growing season in [[Floodplain Wetlands]] that entered the river voluntarily as subadults, and subadults...
+> -- *[[ComparisonOfTheDistributionAnd_PML1905]]*
+
+> This document is a July 1992 Bureau of Reclamation memorandum from the [[Glen Canyon Environmental Studies]] (GCES) program, with a meeting notice for the [[Aquatic Coordination Team]] (ACT). The memo assesses whether the combined sampling, handling, tagging and surgery by several research groups...
+> -- *[[CumulativeEffectsOfResearchInd_PML2862]]*
+
+> This study by Robert Clarkson and W. L. Minckley (August 1980) measured fish standing crop (biomass and density) in [[Bonita Creek]], a small desert stream in Graham County, Arizona, from November 1977 to December 1978. The goal was to track community trends linked to the variability of a desert...
+> -- *[[UnusualFishStandingCropsInBoni_PML0455]]*
+
+> This study examines the parasites of seven native fishes in [[Aravaipa Creek]], a relatively undisturbed Arizona stream with almost no exotic fishes. Ten parasite species were recorded: six protozoans, one digenean, one cestode and two nematodes. The work focuses on host specificity, site...
+> -- *[[EcologicalNotesOnParasitesOfFi_PML1926]]*
+
+> This study describes the fish community of the [[Verde River]] in central Arizona across roughly 300 km, using two decades of [[Electrofishing]], seining and trammel netting data from the USDA Forest Service and the Arizona Game and Fish Department. The authors divide the river into four...
+> -- *[[FishCommunityStructureInTheVer_PML2228]]*
+
+> This 1961 field note by [[Minckley]] and [[Craddock]] (Department of Biology, University of Louisville) documents crayfish actively preying on fishes, a behaviour the authors note is rarely reported because crayfish are generally regarded as scavengers. The observations involve two crayfish...
+> -- *[[ActivePredationOfCrayfishOnFis_PML1864]]*
+
+> This 1985–1986 final report from the [[University of Arizona]] (School of Renewable Natural Resources) assesses whether [[Tilapia]] populations in the lower [[Colorado River]] area near Yuma, Arizona, could support a commercial fishery. Contaminant levels in fish flesh were judged the...
+> -- *[[EvaluationOfThePotentialOfTila_PML1605]]*
+
+> This document is a December 1991 package from the Biology Committee of the [[Upper Basin Endangered Fish Recovery Implementation Program]]. It asks Colorado River Basin researchers to share their experience with [[Electrofishing]], including observed injuries, and to recommend safer practices. The...
+> -- *[[RequestForInformationOnElectro_PML2405]]*
+
+> This study examines the status, life history, and microhabitat requirements of the [[Loach Minnow]] (*Tiaroga cobitis*) in the warmwater reaches of the [[Gila River]] and [[San Francisco River]] drainages of southwestern New Mexico. The species has declined sharply across its historic range, and by...
+> -- *[[HabitatAndBiologyOfTheLoachMin_PML2176]]*
+
+> Tyus and Karp (1990) studied the spawning behavior, movements, and habitat use of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Green River]] and lower [[Yampa River]] from 1987 to 1989. Using electrofishing, capture-recapture, and radiotelemetry, the authors documented ripe fish in...
+> -- *[[SpawningAndMovementsOfRazorbac_PML2521]]*
+
+> This first report from the [[New Mexico Department of Game and Fish]] documents a 1977 fish and aquatic habitat survey of the [[San Francisco River]] and its tributaries along the New Mexico–Arizona border. The survey was prepared by Richard Anderson (graduate student) and Paul Turner (Assistant...
+> -- *[[StreamSurveyOfTheSanFranciscoR_PML0055]]*
+
+> This memorandum, dated May 31, 1989, from the [[U.S. Fish And Wildlife Service]] (Phoenix, Arizona) to participants of "Camp Four," reports results of a second multi-agency sampling effort at [[Arrowhead Cove]], [[Lake Mohave]], held March 7–12, 1989. The effort aimed to capture [[Bonytail Chub]]...
+> -- *[[ResultsOfTheSecondMultiagencyS_PML2628]]*
+
+> This study examines how the body sizes of [[Smallmouth Bass]] (*Micropterus dolomieu*), a nonnative piscivore, relate to predation risk for native salmonids in the lower [[Yakima River]], Washington. Data were collected from 1998 to 2002 using electrofishing, [[Mark-Recapture Abundance...
+> -- *[[EffectsOfPredationByNonnativeS_PML0841]]*
+
+> This study compares [[Trammel Netting]] and [[Electrofishing]] for monitoring three native fishes of the mainstem [[Colorado River]] in [[Grand Canyon]]: the [[Humpback Chub]], [[Flannelmouth Sucker]] and [[Bluehead Sucker]]. Using 1992 and 1993 data from an 8 km reach, the author evaluated catch...
+> -- *[[ComparisonOfElectrofishingAndT_PML2093]]*
+
+> This study examines the microhabitat use and downstream movements of young-of-the-year [[European Grayling]] (*Thymallus thymallus*) during emergence and early growth in the [[River Suran]], a spawning tributary of the [[River Ain]] in France. Fry were sampled by [[Electrofishing]] and drift...
+> -- *[[MicrohabitatsAndDielDownstream_PML0172]]*
+
+> This technical report, prepared by the [[U.S. Bureau of Reclamation]] (Phoenix Area Office) for the [[U.S. Fish and Wildlife Service]] and the [[Arizona Game and Fish Department]], presents fish monitoring results for 1997 in target streams and canals of the Gila River Basin. The monitoring was...
+> -- *[[ResultsOfFishMonitoringOfSelec_PML0447]]*
+
+> This study tracks the fate of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae and juveniles stocked into backwaters of the [[Lower Colorado River]] in 1987, and estimates how much predation by non-native fishes reduced survival. Stocked larvae dispersed from release points within about two weeks,...
+> -- *[[DispersalAndPredationOnRazorba_PML1323]]*
+
+> This short communication by T. J. Kwak (Department of Fisheries and Wildlife, University of Minnesota, St Paul) describes Pop/Pro Modular Statistical Software, a set of portable C programs for estimating [[Fish Population Abundance]], [[Biomass]], [[Fish Production]] and the sampling variance of...
+> -- *[[ModularMicrocomputerSoftwareTo_PML1303]]*
+
+> Rinne (1992), published in *Ecology of Freshwater Fish*, quantifies the physical habitat (water depth, velocity and substrate) used by seven native fish species in [[Aravaipa Creek]], a perennial stream in the [[Sonoran Desert]] of southeastern Arizona. The study tests whether the species occupy...
+> -- *[[PhysicalHabitatUtilizationOfFi_PML2219]]*
+
+> This report presents the results of fish monitoring in selected streams and canals of the [[Gila River]] Basin, Arizona, during 1999 (with January 2000 sampling of the Salt River Project Arizona Canal). The work was required under a reasonable and prudent alternative in the [[Biological Opinion]]...
+> -- *[[ResultsOfFishMonitoringOfSelec_PML0435]]*
+
+> In April 2006, the [[Arizona Game And Fish Department]] (AGFD) and the [[US Fish And Wildlife Service]] (USFWS) surveyed fish in [[Nutrioso Creek]] and [[Rudd Creek]] to assess the native fish assemblage, with particular focus on the threatened [[Little Colorado Spinedace]]. The survey re-sampled...
+> -- *[[NutriosoCreekAndRuddCreekTripR_PML0384]]*
+
+> This 1990s survey, based on a [[Eagle Creek Fish Survey (1987)]] and earlier collections dating to 1950, documents the fish assemblage of Eagle Creek, a tributary of the [[Gila River]] in southeastern Arizona. The authors record at least 20 fish species, nine of them native (including a...
+> -- *[[FishesOfEagleCreekWithRecordsO_PML1539]]*
+
+> This final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fish Project documents a two-year (2003–2004) monitoring study of the endangered [[Humpback Chub]] (*Gila cypha*) in the Yampa River population within [[Dinosaur National Monument]]. The study aimed to define the...
+> -- *[[AdultAndJuvenileHumpbackChubMo_PML0812]]*
+
+> This report summarizes Sample Year (SY) 2010 fish surveys in four canal systems of the [[Gila River Basin]], Arizona: the [[Salt River Project]] Arizona (North) Canal (SRPN), the SRP South Canal (SRPS), the [[San Carlos Irrigation Project]] Florence-Casa Grande (FCG) Canal, and the [[Central...
+> -- *[[SampleYearSummaryOfFishSurveys_PML1554]]*
+
+> This report presents a general fishery reconnaissance survey of the [[Gila River]] in southwestern [[New Mexico]], conducted May 22–24, 1968. The survey was requested by the [[U.S. Forest Service]] because the proposed [[Hooker Dam]] and Reservoir would inundate the river, and the downstream area...
+> -- *[[FisheriesReconnaissanceSurveyG_PML1204]]*
+
+> This study by Karp and Tyus (1990, *Great Basin Naturalist* 50) assesses the distribution, habitat use, spawning and species associations of the federally endangered [[Humpback Chub]] (*Gila cypha*) in the [[Yampa River]] and [[Green River]] within [[Dinosaur National Monument]], Colorado and Utah,...
+> -- *[[HumpbackChubGilaCyphaInTheYamp_PML1264]]*
+
+> A May 1975 survey by [[California Department of Fish and Game]] staff examined fish and other aquatic life in irrigation drains operated by the [[Palo Verde Irrigation District]] (PVID), the [[Coachella Valley County Water District]] (CVCWD) and the [[Imperial Irrigation District]] (IID). Seven...
+> -- *[[AquaticResourcesAssessmentOfAg_PML1042]]*
+
+> This six-year study (2007–2012) tested whether annual mechanical removal of [[Nonnative Fishes]] by [[Electrofishing]] and seining could reduce nonnative predators and benefit native fishes in a 4.6-km reach of the West Fork [[Gila River]], southwest New Mexico. Results were mixed. Mass of [[Yellow...
+> -- *[[EfficacyOfMechanicallyRemoving_PML2173]]*
+
+> This study tracked five native fish species in [[Bonita Creek]], a desert stream within the [[Gila Box Riparian National Conservation Area]] in southeastern [[Arizona]], over 2005–2016. Four fixed sites were surveyed each spring by [[Electrofishing]], and [[Mesohabitat]] proportions were mapped...
+> -- *[[PopulationTrendsOfTheNativeFis_PML2942]]*
+
+> This 1996 field survey, reported in March 1997 by Paul C. Marsh of [[Arizona State University]] for the [[U.S. Bureau of Reclamation]], sampled the [[Black River]] drainage on land administered by the [[Apache-Sitgreaves National Forests]]. The study began as a general fisheries survey but was...
+> -- *[[StatusOfLoachMinnowInTheBlackR_PML1496]]*
+
+> This document combines a 1987 manuscript by [[John N. Rinne]] (USDA Forest Service, Rocky Mountain Forest and Range Experiment Station, Arizona State University) with a reviewer's letter dated 17 November 1987. The manuscript reports a 4-year case-history study (1982–1985) of [[Grazing Effects]] on...
+> -- *[[GrazingEffectsOnStreamHabitatA_PML2211]]*
+
+> This is a Bureau of Reclamation correspondence packet, dated around July 1970s (year not legible in scan), from the Regional Director to a cooperating agency regional office. It concerns an [[Environmental Impact Study]] of [[Lake Havasu]]. The letter invites representatives to observe planned...
+> -- *[[LakeHavasuUnderwaterObservatio_PML1387]]*
+
+> This is a first annual progress report from [[Arizona State University]] to the [[Arizona Game and Fish Department]] under contract G-70001. It addresses habitat interactions between the federally listed [[Spikedace]] and the introduced [[Red Shiner]] in streams of the [[Gila River Basin]]. The...
+> -- *[[AnalysisOfHabitatInterrelation_PML0614]]*
+
+> This study examined how physical habitat and biotic variables influence trout populations and aquatic macroinvertebrates in six first-order headwater streams of the [[Tonto National Forest]] in central Arizona. The streams were sampled from 1985 to 1987 as a pretreatment phase before a proposed...
+> -- *[[FactorsInfluencingSalmonidPopu_PML2210]]*
+
+> This technical report, prepared by Paul C. Marsh under a cooperative agreement with the [[Bureau of Reclamation]] (BR), summarizes fish sampling in three canal systems of the [[Gila River Basin]] in Arizona during fiscal year 2003 (October 2002 to September 2003). The surveyed waters were the...
+> -- *[[FySummaryOfFishSurveysOfSaltRi_PML1509]]*
+
+> This study examines the dispersal, distribution, body condition, forage availability, and diet of the endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) in the [[Colorado River]] of Utah and Colorado. Mark-recapture data collected from 1991 to 1995 show that adults generally moved upstream,...
+> -- *[[DispersalPatternsOfColoradoSqu_PML2059]]*
+
+> This final annual report summarizes fish sampling in selected waters of the [[Gila River Basin]], Arizona, during sample year (SY) 2009 (July 7, 2009 to January 11, 2010). The work was performed by Marsh & Associates, LLC, under [[Bureau of Reclamation]] Contract R09PD32013 as part of a long-term...
+> -- *[[CentralArizonaProjectFishMonit_PML1553]]*
+
+> This study by Gido and Propst (1999, *Copeia*) examines habitat use and interspecific association among native and nonnative fishes in [[Secondary Channels]] of the [[San Juan River]], which is a regulated tributary of the [[Colorado River]]. Most species and age classes used low-velocity habitats...
+> -- *[[HabitatUseAndAssociationOfNati_PML0863]]*
+
+> This paper is one chapter from the proceedings of a 1985 workshop, published by the [[U.S. Fish and Wildlife Service]] in 1988 as Biological Report 88(11), on developing and evaluating [[Habitat Suitability Criteria]]. Author [[Harold M. Tyus]] assesses [[Radiotelemetry]] as a way to collect...
+> -- *[[ProceedingsOfAWorkshopOnTheDev_PML0260]]*
+
+> This study assessed the status of the upper Colorado River population of the federally endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*, recently renamed [[Colorado Pikeminnow]]) by estimating adult numbers, measuring reproduction and recruitment, examining size-structure trends, and...
+> -- *[[StatusAndTrendsOfTheEndangered_PML2050]]*
+
+> This final report from the [[U.S. Fish and Wildlife Service]] estimates the size and structure of the [[Humpback Chub]] (*Gila cypha*) population in [[Black Rocks]], a short, deep-water reach of the [[Colorado River]]. Sampling took place in late summer to early fall of 1998, 1999 and 2000, using...
+> -- *[[PopulationSizeAndStructureOfHu_PML1623]]*
+
+> This study estimates the population of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the Green River, Utah and Colorado, using capture-recapture data collected from 1980 to 1988 by the [[U.S. Fish and Wildlife Service]] and the [[Utah Division of Wildlife Resources]]. The upper Green River...
+> -- *[[PopulationSizeAndStatusOfTheRa_PML1332]]*
+
+> This final report to the [[Recovery Implementation Program]] for Endangered Fishes of the Upper Colorado River Basin, prepared by John A. Hawkins of the [[Larval Fish Laboratory]] at [[Colorado State University]] (November 2002), assesses how often boat-mounted, pulsed-DC [[Electrofishing]] injures...
+> -- *[[XrayAssessmentOfElectrofishing_PML1002]]*
+
+> This study compares three aging structures ([[Scale Aging]], [[Opercular Bone]], and [[Otolith]] analysis) for [[Roundtail Chub]] (*[[Gila robusta]]*) collected from the [[Yampa River]] in [[Dinosaur National Monument]] during 1998, 1999, 2001, and 2002. It also describes age structure, mortality,...
+> -- *[[ComparisonOfAgingStructuresAnd_PML2267]]*
+
+> This study examines the introduced [[Channel Catfish]] (*[[Ictalurus Punctatus]]*) in the [[Green River]] (517 km sampled) and lower [[Yampa River]] (74 km sampled) in [[Dinosaur National Monument]], Colorado and Utah, in 1987 and 1988. The fish was most abundant in rocky canyon habitats with...
+> -- *[[AbundanceGrowthAndDietOfChanne_PML2524]]*
+
+> This document is a series of nine monthly monitoring memoranda (April through December 1991) issued by [[Arizona State University]] researchers (W. L. Minckley, Tony Velasco, Chris Reinus) to a group of interested agencies and organizations. They report fish sampling along [[Aravaipa Creek]] in...
+> -- *[[AravaipaCreekFishMonitoringMem_PML1846]]*
+
+> After roughly fifty years, [[Bonytail]] and [[Razorback Sucker]] were again producing young in the lower [[Colorado River]] basin. Biologists first detected reproduction at the isolated [[Cibola High Levee Pond]] (CHLP) in 1998, when both species had successfully spawned. CHLP had been stocked as a...
+> -- *[[CibolaHighLeveePondDraftAnnual_PML1946]]*
+
+> This methods paper, written by Harold Tyus and Richard Valdez of the [[U.S. Fish and Wildlife Service]] [[Colorado River Fisheries Project]], describes how the project studies two endangered cyprinids, the [[Colorado Squawfish]] and the [[Humpback Chub]], in the mainstem of the Upper Colorado and...
+> -- *[[FieldMethodologiesOfTheFishAnd_PML0067]]*
+
+> This methods paper addresses size-selective bias in [[Electrofishing]] surveys. Electrofishing captures a disproportionately large share of big fish, so [[Capture Probability]] varies with body length and the standard [[Chapman-Petersen Estimate]] tends to underestimate population size. The author...
+> -- *[[MeasuringAndCorrectingForSizeS_PML0050]]*
+
+> This survey documents the fish fauna of [[Hunter's Hole]], a set of interconnected backwater pools beside the [[Colorado River]] in Yuma County, Arizona. The data combine [[Electrofishing]] records from 1968 to 1974, [[Netting]] carried out in April 1974, fisherman interviews, and literature...
+> -- *[[FishesOfHuntersHoleYumaCountyA_PML1873]]*
+
+> This cooperative 1989 survey of [[Lake Mohave]] (Arizona-Nevada) sampled [[Bonytail]] (*Gila elegans*) and [[Razorback Sucker]] (*Xyrauchen texanus*) with four camps working different reaches of the lake. Objectives were to obtain bonytail broodstock for [[Dexter National Fish Hatchery]], recapture...
+> -- *[[BonytailrazorbackSuckerCoopera_PML1565]]*
+
+> This draft study plan sets out standardized protocols for collecting, tagging, sampling, culturing, handling, transporting, and disposing of [[Bonytail]], a threatened and endangered fish. It was prepared in response to a memorandum from the [[U.S. Fish and Wildlife Service]] Southwest Regional...
+> -- *[[BonytailStudyPlanForBiological_PML2690]]*
+
+> This report, prepared by Paul Inlarsh and Ira R. Adelman of the [[University Of Minnesota]] Department of Entomology, Fisheries and Wildlife, documents a 1978 fisheries survey of the [[Roseau River]] in northwestern Minnesota. The work was commissioned by the [[U.S. Army Corps Of Engineers]]...
+> -- *[[InvestigationOfTheRoseauRiverF_PML1446]]*
+
+> In late June 2006, the [[Arizona Game and Fish Department]] (AGFD, Region 1) surveyed five streams in the upper [[West Chevelon Creek]] and upper [[East Clear Creek]] drainages for potential stocking sites for the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a species listed as threatened...
+> -- *[[SurveyOfWestChevelonCreekAndUp_PML0381]]*
+
+> This Bureau of Reclamation memorandum (Applied Sciences Referral No. 86-2-2, dated March 20, 1986) summarizes the first two sampling trips (October 1985 and December 1985) of the [[Parker I Fishery Study]] on the highly modified [[Lower Colorado River]]. The study collected quantitative...
+> -- *[[ParkerIFisheryStudyDataSummary_PML1052]]*
+
+> This synthesis report by [[Finney and Haines]] (U.S. Fish and Wildlife Service, Colorado River Fish Project, March 2008) evaluates a three-year mechanical removal program for nonnative [[Northern Pike]] in a 37-mile reach of the [[Yampa River]] near Craig, Colorado. The work was funded by the...
+> -- *[[NorthernPikeRemovalSmallmouthB_PML0814]]*
+
+> This fisheries report by Paul C. Marsh and Ira R. Adelman (University of Minnesota) documents a fall 1978 survey of fish in the [[Roseau River]], Minnesota. The work was funded by the [[U.S. Army Corps Of Engineers]], which needed the data to supplement an [[Environmental Impact Statement]] for a...
+> -- *[[InvestigationOfTheRoseauRiverF_PML1516]]*
+
+> This methods study tests a [[Stomach Pumping]] technique that recovers gut contents from live [[Roundtail Chub]] (*Gila robusta*) without killing them. The authors use roundtail chub as a surrogate for the endangered [[Humpback Chub]] (*G. cypha*) and [[Bonytail Chub]] (*G. elegans*), which are...
+> -- *[[ANonlethalTechniqueToRecoverGu_PML2836]]*
+
+> This final report (October 2000) from the [[Arizona Game And Fish Department]] (AGFD), funded by the [[United States Bureau Of Reclamation]] under Cooperative Agreement No. 98-FG-32-0240, documents a two-year study of [[Roundtail Chub]] (*Gila robusta*) in the [[Lower Salt River]] and [[Lower Verde...
+> -- *[[PopulationCharacteristicsAndMo_PML0308]]*
+
+> This report, prepared by the California Department of Fish and Game Inland Fisheries Division (Region 5) under the Sport Fish Restoration Act (Job 2, Project F-4-D-4e), documents a survey of sport fish populations in the lower [[Colorado River]] and its associated backwaters conducted from...
+> -- *[[SurveyAndAnalysesOfTheSportFis_PML1005]]*
+
+> This 1989 cooperative report by the [[U.S. Fish and Wildlife Service]], the [[Bureau of Reclamation]] and the [[Arizona Game and Fish Department]] documents baseline fishery conditions at the Havasu Intake and Pumping Plant, a feature of the [[Central Arizona Project]], on [[Lake Havasu]]. Fish...
+> -- *[[LakeHavasuFisheryStudyACoopera_PML2670]]*
+
+> This note summarizes the appendices (A through E) of the Parker I Fishery Study, a one-year monitoring program on the [[Lower Colorado River]] between [[Parker Dam]] and [[Headgate Rock Dam]]. The study was prepared by Steven Hlebert and Stephen Grabowski of the Bureau of Reclamation's Division of...
+> -- *[[ParkerFisheryStudyOctoberOctob_PML1051]]*
+
+> This study characterizes trophic linkages between native and nonnative fishes in the upper [[Gila River]] basin of southwest New Mexico, one of the few unimpounded drainages west of the Continental Divide. Gut contents and stable isotopes (δ13C and δ15N) from six reaches were used to assess diet,...
+> -- *[[DietAndTrophicNicheOverlapOfNa_PML2130]]*
+
+> This final report (December 1990), prepared by the [[Coachella Valley Water District]] (CVWD), evaluates the operational use of [[Triploid Grass Carp]] stocked to control aquatic vegetation in the unlined 58 km reach of the [[Coachella Canal]], California. Nearly 15,000 triploid grass carp were...
+> -- *[[MonitoringProgramForOperationa_PML2500]]*
+
+> This Colorado Division of Wildlife final report covers the transition period of 1983–1984 in the monitoring of endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) and [[Humpback Chub]] (*Gila cypha*) in the [[Colorado River]] and [[Yampa River]]. Extensive sampling in 1981–1982 gave way to a...
+> -- *[[ColoradoSquawfishAndHumpbackCh_PML2654]]*
+
+> In May and June 2006, the [[Arizona Game and Fish Department]] (AGFD) and the [[U.S. Fish and Wildlife Service]] (USFWS) salvaged fish from a reach of [[Nutrioso Creek]] where drought had dried the stream. The reach was home to the [[Little Colorado Spinedace]], a federally [[Threatened Species]]...
+> -- *[[NutriosoCreekSpinedaceSalvager_PML0385]]*
+
+> This final report, prepared for the [[Bureau Of Reclamation]] by the [[Arizona Game And Fish Department]], analyzes fish and macrohabitat data collected from 1995 to 1999 on the [[Salt River]], [[Gila River]], and [[San Pedro River]] in the [[Gila River Basin]], Arizona. The work was motivated by...
+> -- *[[FishAndHabitatAssociationsInTh_PML0031]]*
+
+> This document is a compiled file of field notes, scheduling correspondence, a proposal routing form, a cover sheet, an annual report letter and a cooperative agreement modification relating to fish and habitat monitoring under the [[Central Arizona Project]] (CAP). Arizona State University (ASU)...
+> -- *[[AzgfdCapMonitoringOversightFie_PML2506]]*
+
+> This U.S. Bureau of Reclamation report, prepared by Steven Hiebert and Stephen Grabowski of the Division of Research and Laboratory Services (Denver), documents a year-long fishery and limnological survey of the [[Parker I Subdivision]] of the lower [[Colorado River]]. The study sampled seven...
+> -- *[[ParkerIFisheryStudyLowerColora_PML1053]]*
+
+> This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program, Technical Report 198, November 2002) presents fish monitoring and survey data from [[Aravaipa Creek]], a spring-fed, largely unaltered perennial stream in the Galiuro Mountains and a tributary of the...
+> -- *[[AravaipaCreekFishMonitoringAnd_PML2800]]*
+
+> This document is Appendix A of a final report on a survey of tributaries of the [[Verde River]] in Arizona, conducted for the [[U.S. Fish and Wildlife Service]] to assess habitat for the [[Loach Minnow]] (*Tiaroga cobitis*). Sampling ran from September 2000 to April 2002 at roughly 130 numbered...
+> -- *[[SurveyOfVerdeRiverDrainageAriz_PML0149]]*
+
+> This 1972 University of Nevada, Las Vegas master's thesis by C. O. Minckley estimates age, growth, condition and length-weight relationships of [[Largemouth Bass]] (*Micropterus salmoides*) in [[Lake Mead]], Nevada. Using scale-based aging on 876 fish from three locations and three collection...
+> -- *[[AgeAndGrowthObservationsOnTheL_PML1892]]*
+
+> This final report from the [[Larval Fish Laboratory]] at [[Colorado State University]] evaluates mechanical removal of nonnative [[Northern Pike]] from the [[Yampa River]], northwestern Colorado, for the [[Upper Colorado River Endangered Fish Recovery Program]] (Project No. 98a). Northern pike,...
+> -- *[[NorthernPikeManagementStudiesI_PML1000]]*
+
+> This study used [[Ultrasonic Telemetry]] to track 50 adult [[Largemouth Bass]] in [[Lucchetti Reservoir]], a 108-ha impoundment in southwestern [[Puerto Rico]], from January 1998 to June 1999. The authors sought to separate [[Fishing Mortality]] from [[Natural Mortality]] in a population with a...
+> -- *[[FishingAndNaturalMortalityOfAd_PML2838]]*
+
+> This first-year progress report from the [[Bureau Of Reclamation]] documents a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal carrying up to 3,000 cfs of [[Colorado River]] water from [[Lake Havasu]] toward central Arizona. The study was led by Reclamation with the...
+> -- *[[CentralArizonaProjectGraniteRe_PML1932]]*
+
+> This 1992 Arizona Game and Fish Department report assesses the distribution, abundance and habitat of the [[Little Colorado Spinedace]] ([[Lepidomeda Vittata]]), a federally listed threatened cyprinid, across [[East Clear Creek]] and its tributaries in the [[Coconino National Forest]] and...
+> -- *[[DistributionAbundanceAndHabita_PML0566]]*
+
+> This U.S. Fish and Wildlife Service final report (November 1989, Colorado River Fishery Project, Grand Junction) evaluates [[Grow-Out Ponds]] as a rearing tool for two endangered fishes of the upper [[Colorado River Basin]], the [[Colorado Squawfish]] and the [[Razorback Sucker]]. The study ran...
+> -- *[[ColoradoSquawfishAndRazorbackS_PML2057]]*
+
+> This document is a scanned, partly illegible research report comparing a **channelized** reach of the [[Little Sioux River]] in [[Iowa]] with an adjacent **unchannelized** reach. It compares physical habitat, water temperature and turbidity, benthic and drift invertebrates, and fish catches, and it...
+> -- *[[EffectsOfStreamChannelizationO_PML0988]]*
+
+> This report by [[Jerome A. Stefferud]] and [[Sally E. Stefferud]] summarizes 14 years (1990–2003) of annual spring fish monitoring in the [[San Pedro River]] and [[Babocomari River]] within the [[San Pedro Riparian National Conservation Area]] (SPRNCA) in southeastern Arizona. The work was...
+> -- *[[SystematicInvestigationsOfWarm_PML2447]]*
+
+> This Utah Division of Wildlife Resources final report (Publication 03-13, Upper Colorado River Endangered Fish Recovery Program, Project #25) evaluates the reintroduction of hatchery-reared [[Bonytail]] (*Gila elegans*) into the upper [[Colorado River]] Basin (UCRB) between 1996 and 2002. Bonytail...
+> -- *[[ReintroductionAndMonitoringOfH_PML0142]]*
+
+> This Arizona Game and Fish Department (AGFD) Region VI report, written by Jim Warnecke, Region VI Fisheries Specialist, documents a volunteer-supported project to install artificial fish habitat in [[Canyon Lake]], Maricopa County, Arizona, between February 1995 and March 1996. The project placed...
+> -- *[[CanyonLakeFishHabitatDevelopme_PML2833]]*
+
+> This final report (2000) from the Utah Division of Wildlife Resources, funded by the [[Recovery Implementation Program]] for Endangered Fish Species in the Upper Colorado River Basin, presents fish community monitoring from five annual trips (1992–1996) in Desolation and Gray Canyons of the [[Green...
+> -- *[[ReproductionAndRecruitmentOfGi_PML0406]]*
+
+> This document is a set of linked records for the 2015 sample year (SY 2015) of a long-term fish monitoring program in the [[Gila River Basin]], Arizona. It includes a draft final report by [[Marsh & Associates]] for the [[Bureau of Reclamation]], the request for proposal and statement of work, the...
+> -- *[[SummaryOfSampleYearFishSurveys_PML1546]]*
+
+> This Arizona Game and Fish Department Research Branch technical report (Technical Report No. 8, September 1991, Federal Aid Project F-14-R) by [[Robert W. Clarkson]] and [[Jeffrey R. Wilson]] tests the U.S. Forest Service [[Fish Habitat Relationship System]] (FHRS) for high-elevation trout streams...
+> -- *[[EvaluationOfTheUsForestService_PML0439]]*
+
+> This 2002 final report by [[Bob Burdick]] (U.S. Fish and Wildlife Service, Colorado River Fishery Project) describes a pilot study, funded by the [[Recovery Implementation Program]] for Endangered Fishes in the Upper Colorado River Basin, of whether sloped gravel-pit ponds on the floodplain can...
+> -- *[[EvaluatingTheUseOfSlopedGravel_PML0323]]*
+
+> This provisional draft, transmitted by the [[New Mexico Department Of Game And Fish]] in a December 20, 1989 cover letter, summarizes the 1987–1988 ichthyofaunal investigations of the [[San Juan River]] in New Mexico and Utah. The work was funded under a cooperative agreement with the [[Bureau Of...
+> -- *[[DraftSummaryReportOnTheIchthyo_PML2174]]*
+
+> This U.S. Fish and Wildlife Service final report (March 1999, Recovery Implementation Program Project No. 48, author Douglas B. Osmundson) examines why the [[Colorado Pikeminnow]] population in the upper [[Colorado River]] may be limited by carrying capacity. Electrofishing, body condition, diet...
+> -- *[[LongitudinalVariationInFishCom_PML2051]]*
+
+> This Utah Division of Wildlife Resources final report (Publication 03-5, December 2003) estimates adult [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*Gila robusta*) abundance in [[Westwater Canyon]] on the [[Colorado River]] for 1998-2000. The study was conducted under the [[Upper...
+> -- *[[PopulationEstimatesForHumpback_PML1120]]*
+
+> This Revision No. 2 plan (October 1996), prepared by the [[U.S. Fish and Wildlife Service]], the [[Arizona Game and Fish Department]], and the [[U.S. Bureau of Reclamation]], sets out a long-term program to monitor the presence, distribution, and abundance of non-native fishes, and changes in...
+> -- *[[LongtermMonitoringPlanForFishP_PML0445]]*
+
+> This Bureau of Reclamation progress report presents preliminary results of the 1988 fishery investigations in the [[Central Arizona Project]] (CAP) canal system. The study monitors fish losses from [[Lake Havasu]], documents the fish community establishing itself in the canal as it becomes...
+> -- *[[CentralArizonaProjectCanalSyst_PML1935]]*
+
+> This U.S. Fish and Wildlife Service final report (Osmundson and White, 2009) synthesizes three multi-year mark-recapture efforts (1991-1994, 1998-2000, 2003-2005) to assess the status of [[Colorado Pikeminnow]] (*Ptychocheilus lucius*) in the mainstem [[Upper Colorado River]], the second-largest...
+> -- *[[PopulationStatusAndTrendsOfCol_PML2055]]*
+
+> This U.S. Fish and Wildlife Service final report (Burdick, January 2008; Recovery Program Project 126) documents a three-year lethal removal of [[Smallmouth Bass]] by boat and raft [[Electrofishing]] in main channel habitats of the Upper [[Colorado River]] (Rifle to Beavertail Mountain, and...
+> -- *[[RemovalOfSmallmouthBassAndFour_PML0325]]*
+
+> This 1988 interim report, prepared by Steven P. Platania and Kevin R. Bestgen (Department of Biology, University of New Mexico) for the [[New Mexico Department of Game and Fish]] under a U.S. Bureau of Reclamation contract, documents a 1987 inventory of fishes in the New Mexico reach of the [[San...
+> -- *[[AnInterimReportOnTheFishesOfTh_PML2146]]*
+
+> This final report (Colorado River Recovery Implementation Program Project 115, March 2006) by the [[Larval Fish Laboratory]] at Colorado State University and the [[U.S. Fish and Wildlife Service]] evaluates how changes in [[Flaming Gorge Dam]] operations affected physical habitat and the fish...
+> -- *[[ResponseOfTheGreenRiverFishCom_PML0207]]*
+
+> This U.S. Geological Survey Open-File Report (multiagency: USGS, Bureau of Reclamation, Utah Division of Wildlife Resources, National Park Service) documents fish communities sampled in the reservoir/river interface zones of the [[Colorado River]] and [[San Juan River]] arms of [[Lake Powell]]...
+> -- *[[ExaminationOfNativeFishRecruit_PML1983]]*
+
+> This draft final report (May 1985), prepared by Paul C. Marsh and W. L. Minckley for the [[U.S. Bureau of Reclamation]] under contract 2-07-30-X0214, documents the physical, chemical and biological attributes of the 32.5-km Yuma Division of the [[Lower Colorado River]] from November 1982 to August...
+> -- *[[AquaticResourcesOfTheYumaDivis_PML1564]]*
+
+> This summary report, prepared by [[Carol A. Pacey]] and [[Paul C. Marsh]] of Arizona State University for the [[U.S. Geological Survey]] Biological Resources Division, covers the 18-month period from October 1, 1997 through May 31, 1999. It documents the management and analysis of Passive...
+> -- *[[LowerColoradoRiverNativeFishes_PML2075]]*
+
+> This final report from the [[Arizona Game and Fish Department]] (AGFD) documents a two-year (September 1987 to August 1989) pre-construction baseline survey of [[Lake Pleasant]], a warm monomictic reservoir northwest of Phoenix, Arizona. The study was funded under a cooperative agreement with the...
+> -- *[[PhaseIBaselineLimnologicalAndF_PML0103]]*
+
+> This U.S. Geological Survey Open File Report (2008-1245), prepared with the [[Bureau of Reclamation]] under the Multi-Species Conservation Program, evaluates methods for monitoring the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the riverine reach of the [[Colorado River]] near...
+> -- *[[TechniquesForMonitoringRazorba_PML1976]]*
+
+> This project completion report, issued by the [[New Mexico Department Of Game And Fish]] (Federal Aid Project F-1-R), describes a multi-year fisheries survey of the [[Gila River Drainage]] and [[Mimbres River Drainage]] in southwestern New Mexico. The survey aimed to inventory fish resources in...
+> -- *[[FisheriesSurveyOfTheGilaAndMim_PML1133]]*
+
+> This 1993 report, prepared for the [[Washington County Water Conservancy District]] by R. Craig Addley and Thomas B. Hardy of Natural Systems Engineering, documents the present distribution, abundance and status of the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a cyprinid minnow...
+> -- *[[TheCurrentDistributionAndStatu_PML0018]]*
+
+> This final report, submitted by Brian Bagley to the [[U.S. Fish and Wildlife Service]] under federal contract #22410-0-M525, describes a fisheries survey of Verde River tributaries conducted from August 2000 through July 2002. The survey targeted [[Loach Minnow]], a federally threatened cyprinid...
+> -- *[[SurveyOfVerdeRiverDrainageAriz_PML0150]]*
+
 ### Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -9414,6 +12149,203 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[TheGrowthOfDaceLeuciscusLeucis_17982]]
 - [[SavedByTheBarriers_20924]]
 - [[RemovalOfAdditionalBonytailChu_PML1771]]
+- [[RazorbackWoes_PML2750]]
+- [[BonytailChubStockingNotificati_PML1917]]
+- [[HumpbackChubMortality_PML1410]]
+- [[ReportOfElectrofishingActiviti_PML2763]]
+- [[LakeMohaveBonytailChubRoundup_PML1334]]
+- [[BonytailProtocol_PML1762]]
+- [[RazorbackSuckerRecoveryAttempt_PML2127]]
+- [[HumpbackChubPopulationEstimate_PML1161]]
+- [[RegionIiiFisheriesSurveyOfTheV_PML0430]]
+- [[PopulationEstimateOfHumpbackCh_PML1625]]
+- [[FishCollectedBeforeAndAfterEra_PML0082]]
+- [[InvestigationsOfFoodHabitsOfLa_PML1226]]
+- [[HumpbackChubMonitoringInYampaC_PML1911]]
+- [[AravaipaSamplingNumbersSpring_PML2191]]
+- [[TuleCreekFishBarrierAndGreenSu_PML0107]]
+- [[NativeFishWorkAtCibolaNational_PML2620]]
+- [[NativeFishWorkAtCibolaNational_PML1784]]
+- [[TheKnownCrayfishesOfArizonaASu_PML1151]]
+- [[ReportOnTheSalvageOfFishesFrom_PML1787]]
+- [[ElectrofishingTechniquesOnTheG_PML1384]]
+- [[PalmLakeNativeFishStudies_PML0105]]
+- [[RazorbackSuckerReintroductions_PML0092]]
+- [[HumpbackChubMonitoringInYampaC_PML0945]]
+- [[EndangeredHumpbackChubToBeTran_PML2033]]
+- [[PopulationEstimateOfHumpbackCh_PML1626]]
+- [[GrowthOfWildAdultRazorbackSuck_PML2072]]
+- [[PopulationEstimateOfHumpbackCh_PML1627]]
+- [[SurveyOfFishesInTheUnlinedReac_PML0463]]
+- [[MonthlyPopulationEstimatesOfEn_PML0608]]
+- [[HumpbackChubPopulationEstimate_PML1122]]
+- [[EffectsOfWildfireOnFishesAndAq_PML2229]]
+- [[BonytailReintroduction_PML1121]]
+- [[ProtocolForHandlingAndTranspor_PML0344]]
+- [[SpawningOfDesertSucker_PML1058]]
+- [[SummaryOfTripToSampleBonytailC_PML0180]]
+- [[FisherySurveyOfTheGilaRiverWit_PML2424]]
+- [[HumpbackChubPopulationEstimate_PML1160]]
+- [[SurveyOfFishesInTheUnlinedReac_PML0429]]
+- [[FisheryManagementReportGreenRi_PML0837]]
+- [[ColoradoRiverRecoveryProgramFy_PML1675]]
+- [[SomeObservationsOnTheFlexibleF_PML2281]]
+- [[InteragencyStandardizedMonitor_PML2121]]
+- [[PlanDeRecuperacinDelPupoDelDes_PML1244]]
+- [[EvaluationOfYampaRiverHumpback_PML0813]]
+- [[HumpbackChubPopulationEstimate_PML1123]]
+- [[PopulationEstimateOfHumpbackCh_PML1167]]
+- [[PopulationEstimateOfHumpbackCh_PML0141]]
+- [[SelectivityAndEfficiencyOfSome_PML1212]]
+- [[EndangeredRazorbackSuckerReari_PML2074]]
+- [[InteragencyStandardizedMonitor_PML0680]]
+- [[RadiotelemetryOfColoradoSquawf_PML2536]]
+- [[PopulationEstimateOfHumpbackCh_PML2540]]
+- [[ArizonaSurveyForSpikedaceMedaF_PML2179]]
+- [[BonytailReintroduction_PML0398]]
+- [[ReconnaissanceOfSaltAndGilaRiv_PML0910]]
+- [[FySummaryOfFishSurveysOfSaltRi_PML1504]]
+- [[ArizonaSurveyForSpikedaceMedaF_PML2178]]
+- [[PhysicalHabitatUseByLoachMinno_PML2214]]
+- [[DifferencesInSwimmingAbilityAn_PML2825]]
+- [[FySummaryOfFishSurveysOfSaltRi_PML1505]]
+- [[PhysicalHabitatEvaluationOfSma_PML2208]]
+- [[ChemicalTreatmentOfOrdCreekApa_PML2235]]
+- [[AnnualProductionOfStreamTroutI_PML2841]]
+- [[OverwinterSurvivalAndSpatialDi_PML2292]]
+- [[DetectionOfLarvalRemainsAfterC_PML2310]]
+- [[RazorbackSuckerReintroductionA_PML1368]]
+- [[RazorbackSuckerVoucherSpecimen_PML1790]]
+- [[AravaipaCreekAtConstructedFish_PML1542]]
+- [[HabitatUseBySpikedaceMedaFulgi_PML2217]]
+- [[MovementsAndGrowthOfFishesInTh_PML0208]]
+- [[GrowthOfWildAdultRazorbackSuck_PML1575]]
+- [[AnnualPerformanceReportRazorba_PML0126]]
+- [[CentralArizonaProjectFishMonit_PML1508]]
+- [[StreamFishPopulationEstimatesB_PML1374]]
+- [[WhiteRiverFishesStudy_PML0992]]
+- [[PhysicalHabitatUsedBySpikedace_PML2231]]
+- [[CentralArizonaProjectFishMonit_PML1498]]
+- [[FishHandlingImprovementGrandCa_PML2782]]
+- [[DinosaurNationalMonumentGreenR_PML0083]]
+- [[DetectingRazorbackSuckersUsing_PML2846]]
+- [[ReviewOfComparativeTroutFeedCo_PML2313]]
+- [[StatewideFisheriesInvestigatio_PML2241]]
+- [[StandardOperatingProceduresFie_PML0444]]
+- [[ComparisonOfTheDistributionAnd_PML1905]]
+- [[CumulativeEffectsOfResearchInd_PML2862]]
+- [[UnusualFishStandingCropsInBoni_PML0455]]
+- [[EcologicalNotesOnParasitesOfFi_PML1926]]
+- [[FishCommunityStructureInTheVer_PML2228]]
+- [[ActivePredationOfCrayfishOnFis_PML1864]]
+- [[EvaluationOfThePotentialOfTila_PML1605]]
+- [[RequestForInformationOnElectro_PML2405]]
+- [[HabitatAndBiologyOfTheLoachMin_PML2176]]
+- [[SpawningAndMovementsOfRazorbac_PML2521]]
+- [[StreamSurveyOfTheSanFranciscoR_PML0055]]
+- [[ResultsOfTheSecondMultiagencyS_PML2628]]
+- [[EffectsOfPredationByNonnativeS_PML0841]]
+- [[ComparisonOfElectrofishingAndT_PML2093]]
+- [[MicrohabitatsAndDielDownstream_PML0172]]
+- [[ResultsOfFishMonitoringOfSelec_PML0447]]
+- [[DispersalAndPredationOnRazorba_PML1323]]
+- [[ModularMicrocomputerSoftwareTo_PML1303]]
+- [[PhysicalHabitatUtilizationOfFi_PML2219]]
+- [[ResultsOfFishMonitoringOfSelec_PML0435]]
+- [[NutriosoCreekAndRuddCreekTripR_PML0384]]
+- [[FishesOfEagleCreekWithRecordsO_PML1539]]
+- [[AdultAndJuvenileHumpbackChubMo_PML0812]]
+- [[SampleYearSummaryOfFishSurveys_PML1554]]
+- [[FisheriesReconnaissanceSurveyG_PML1204]]
+- [[HumpbackChubGilaCyphaInTheYamp_PML1264]]
+- [[AquaticResourcesAssessmentOfAg_PML1042]]
+- [[EfficacyOfMechanicallyRemoving_PML2173]]
+- [[PopulationTrendsOfTheNativeFis_PML2942]]
+- [[StatusOfLoachMinnowInTheBlackR_PML1496]]
+- [[GrazingEffectsOnStreamHabitatA_PML2211]]
+- [[LakeHavasuUnderwaterObservatio_PML1387]]
+- [[AnalysisOfHabitatInterrelation_PML0614]]
+- [[FactorsInfluencingSalmonidPopu_PML2210]]
+- [[FySummaryOfFishSurveysOfSaltRi_PML1509]]
+- [[DispersalPatternsOfColoradoSqu_PML2059]]
+- [[CentralArizonaProjectFishMonit_PML1553]]
+- [[HabitatUseAndAssociationOfNati_PML0863]]
+- [[ProceedingsOfAWorkshopOnTheDev_PML0260]]
+- [[StatusAndTrendsOfTheEndangered_PML2050]]
+- [[PopulationSizeAndStructureOfHu_PML1623]]
+- [[PopulationSizeAndStatusOfTheRa_PML1332]]
+- [[XrayAssessmentOfElectrofishing_PML1002]]
+- [[ComparisonOfAgingStructuresAnd_PML2267]]
+- [[AbundanceGrowthAndDietOfChanne_PML2524]]
+- [[AravaipaCreekFishMonitoringMem_PML1846]]
+- [[CibolaHighLeveePondDraftAnnual_PML1946]]
+- [[FieldMethodologiesOfTheFishAnd_PML0067]]
+- [[MeasuringAndCorrectingForSizeS_PML0050]]
+- [[FishesOfHuntersHoleYumaCountyA_PML1873]]
+- [[BonytailrazorbackSuckerCoopera_PML1565]]
+- [[BonytailStudyPlanForBiological_PML2690]]
+- [[InvestigationOfTheRoseauRiverF_PML1446]]
+- [[SurveyOfWestChevelonCreekAndUp_PML0381]]
+- [[ParkerIFisheryStudyDataSummary_PML1052]]
+- [[NorthernPikeRemovalSmallmouthB_PML0814]]
+- [[InvestigationOfTheRoseauRiverF_PML1516]]
+- [[ANonlethalTechniqueToRecoverGu_PML2836]]
+- [[PopulationCharacteristicsAndMo_PML0308]]
+- [[SurveyAndAnalysesOfTheSportFis_PML1005]]
+- [[LakeHavasuFisheryStudyACoopera_PML2670]]
+- [[ParkerFisheryStudyOctoberOctob_PML1051]]
+- [[DietAndTrophicNicheOverlapOfNa_PML2130]]
+- [[MonitoringProgramForOperationa_PML2500]]
+- [[ColoradoSquawfishAndHumpbackCh_PML2654]]
+- [[NutriosoCreekSpinedaceSalvager_PML0385]]
+- [[FishAndHabitatAssociationsInTh_PML0031]]
+- [[AzgfdCapMonitoringOversightFie_PML2506]]
+- [[ParkerIFisheryStudyLowerColora_PML1053]]
+- [[AravaipaCreekFishMonitoringAnd_PML2800]]
+- [[SurveyOfVerdeRiverDrainageAriz_PML0149]]
+- [[AgeAndGrowthObservationsOnTheL_PML1892]]
+- [[NorthernPikeManagementStudiesI_PML1000]]
+- [[FishingAndNaturalMortalityOfAd_PML2838]]
+- [[CentralArizonaProjectGraniteRe_PML1932]]
+- [[DistributionAbundanceAndHabita_PML0566]]
+- [[ColoradoSquawfishAndRazorbackS_PML2057]]
+- [[EffectsOfStreamChannelizationO_PML0988]]
+- [[SystematicInvestigationsOfWarm_PML2447]]
+- [[ReintroductionAndMonitoringOfH_PML0142]]
+- [[CanyonLakeFishHabitatDevelopme_PML2833]]
+- [[ReproductionAndRecruitmentOfGi_PML0406]]
+- [[SummaryOfSampleYearFishSurveys_PML1546]]
+- [[EvaluationOfTheUsForestService_PML0439]]
+- [[EvaluatingTheUseOfSlopedGravel_PML0323]]
+- [[DraftSummaryReportOnTheIchthyo_PML2174]]
+- [[LongitudinalVariationInFishCom_PML2051]]
+- [[PopulationEstimatesForHumpback_PML1120]]
+- [[LongtermMonitoringPlanForFishP_PML0445]]
+- [[CentralArizonaProjectCanalSyst_PML1935]]
+- [[PopulationStatusAndTrendsOfCol_PML2055]]
+- [[RemovalOfSmallmouthBassAndFour_PML0325]]
+- [[AnInterimReportOnTheFishesOfTh_PML2146]]
+- [[ResponseOfTheGreenRiverFishCom_PML0207]]
+- [[ExaminationOfNativeFishRecruit_PML1983]]
+- [[AquaticResourcesOfTheYumaDivis_PML1564]]
+- [[LowerColoradoRiverNativeFishes_PML2075]]
+- [[PhaseIBaselineLimnologicalAndF_PML0103]]
+- [[TechniquesForMonitoringRazorba_PML1976]]
+- [[FisheriesSurveyOfTheGilaAndMim_PML1133]]
+- [[TheCurrentDistributionAndStatu_PML0018]]
+- [[SurveyOfVerdeRiverDrainageAriz_PML0150]]
+
+## Electrofishing Depletion Surveys
+
+### Summary
+A field method that estimates fish abundance by repeatedly sampling a stream section with electric current and tracking the decline in catch. Here it was used to survey 37 New Mexico Rio Grande cutthroat trout populations, giving densities from 166 to 13,545 fish per hectare with a median of 1250.
+
+### Context
+> This study presents a [[Monte Carlo Simulation]] procedure for estimating the [[Minimum Viable Population Size]] and the stream habitat area required to sustain a [[Rio Grande Cutthroat Trout]] population. Viability was defined as an extinction rate below 10% over 100 years and a long-term...
+> -- *[[EstimatingRequiredHabitatSizeF_PML0509]]*
+
+### Mentioned In
+- [[EstimatingRequiredHabitatSizeF_PML0509]]
 
 ## Electrofishing Protocol
 
@@ -9451,9 +12383,13 @@ Electrofishing is a sampling method that uses an electric current in the water t
 > This project report documents the redesign and repair of an irrigation diversion at [[Geronimo's Cave]] on the [[East Fork of the White River]], within the [[Fort Apache Indian Reservation]] in Arizona. The work was planned and carried out by the [[White Mountain Apache Tribe]] with the [[Arizona...
 > -- *[[FishPassageProjectGeronimosCav_21113]]*
 
+> This draft environmental assessment (EA), prepared in September 1990 by the [[Bureau of Reclamation]] (Yuma Projects Office), evaluates a proposed restoration of two off-channel backwaters, A-7 and C-5, on the [[Colorado River]] in the [[Palo Verde Division]]. The backwaters have silted in, lost...
+> -- *[[DraftEnvironmentalAssessmentRe_PML2572]]*
+
 ### Mentioned In
 - [[VernalCrfpElectrofishingSurvey_13058]]
 - [[FishPassageProjectGeronimosCav_21113]]
+- [[DraftEnvironmentalAssessmentRe_PML2572]]
 
 ## Electrofishing Survey Methods
 <!-- fm: auto_enriched: true -->
@@ -9545,8 +12481,12 @@ An electron capture detector is a gas chromatography detector that is sensitive 
 > This 1967 document (Pesticides Monitoring Journal, Vol. 1, No. 2) contains two linked studies of persistent chlorinated pesticides. The first, by [[Cole et al. 1967]] (Pennsylvania State University and the Pennsylvania Fish Commission), tested commercial trout feed from four manufacturers and...
 > -- *[[PesticidesInHatcheryTroutdiffe_17109]]*
 
+> This study by Petty, Huckins, Martin and Adornato (1995, *Chemosphere* 30(10)) used [[Semipermeable Membrane Device]] (SPMD) samplers to measure the bioavailable fraction of [[Organochlorine Pesticides]] in streams carrying [[Irrigation Drainwater]] in the [[Lugert-Altus Watershed]] of southwest...
+> -- *[[UseOfSemipermeableMembraneDevi_PML2120]]*
+
 ### Mentioned In
 - [[PesticidesInHatcheryTroutdiffe_17109]]
+- [[UseOfSemipermeableMembraneDevi_PML2120]]
 
 ## Electronarcosis
 
@@ -9559,6 +12499,18 @@ A state in which fish are temporarily stunned or anaesthetised by an electric fi
 
 ### Mentioned In
 - [[GermanCommercialElectricalFish_19946]]
+
+## Electronic Data Storage Tags
+
+### Summary
+Tags that record environmental and positional data on the animal for later retrieval. The review cites them as a source of movement data and notes that tags from cod supplied temperature, pressure and salinity readings.
+
+### Context
+> This review, by Patterson and co-authors and published in *Trends in Ecology and Evolution* (2008, vol. 23, no. 2), argues that [[State-Space Model]]s (SSMs) are the most promising analytical framework for individual animal movement. Movement data are stochastic and often subject to severe...
+> -- *[[StatespaceModelsOfIndividualAn_PML2091]]*
+
+### Mentioned In
+- [[StatespaceModelsOfIndividualAn_PML2091]]
 
 ## Electronic Databases
 
@@ -9621,6 +12573,15 @@ The practice of marking fish with an electronic identification device so individ
 > This 1985 critical commentary, published in the *Biological Journal of the Linnean Society*, rebuts [[Williamson 1981]], who interpreted changes in a [[Lake Turkana]] fossil sequence as [[Speciation]] events. The authors (Fryer, Greenwood & Peake) argue that the variability of freshwater...
 > -- *[[TheDemonstrationOfSpeciationIn_18885]]*
 
+> This study applies starch gel [[Electrophoresis]] to develop new [[Biochemical Genetic Markers]] for the [[Largemouth Bass]] (*Micropterus salmoides*), one of North America's most important sport fishes. The authors examined four hatchery stocks at the [[San Marcos National Fish Hatchery]] and...
+> -- *[[NewBiochemicalGeneticMarkersFo_PML2902]]*
+
+> This document is a set of three linked items concerning [[Lake Mohave]] on the [[Colorado River]] and its native fishes. The main item is a 1988 letter from Professor H. L. Minckley to George Dinuine of the [[U.S. Fish and Wildlife Service]] (USFWS) providing a background review of the reservoir's...
+> -- *[[LakeMohaveFisheriesAndRazorbac_PML1879]]*
+
+> This 1982 final report by Julian M. Humphries and Robert Rush Miller (Museum of Zoology, University of Michigan) examines the [[Headwater Catfish]] (*Ictalurus lupus*), one of the least known freshwater fishes of North America. The study tests whether *I. lupus* is a valid taxon separate from the...
+> -- *[[TaxonomicStatusEcologyAndDistr_PML1128]]*
+
 ### Mentioned In
 - [[LactateDehydrogenaseLdhIsozyme_1978]]
 - [[StatusOfThePecosGambusiaGambus_15733]]
@@ -9630,6 +12591,9 @@ The practice of marking fish with an electronic identification device so individ
 - [[NewBiochemicalGeneticMarkersFo_12075]]
 - [[PaperChromatogramsOfBodyMucusO_14532]]
 - [[TheDemonstrationOfSpeciationIn_18885]]
+- [[NewBiochemicalGeneticMarkersFo_PML2902]]
+- [[LakeMohaveFisheriesAndRazorbac_PML1879]]
+- [[TaxonomicStatusEcologyAndDistr_PML1128]]
 
 ## Electrophoresis (Allozyme Analysis)
 <!-- fm: auto_enriched: true -->
@@ -9646,8 +12610,12 @@ Electrophoretic analysis is a laboratory method for comparing proteins or enzyme
 > These minutes record the initial meeting of the reconvened [[Cui-ui]] Recovery Team, held August 2, 1989, in Reno, Nevada. Attendees were T. Strekal, W. Minckley, G. Scoppettone, G. Vinyard, and P. Wagner, with [[Robert Smith]] (Assistant Regional Director, Fish and Wildlife Enhancement) present at...
 > -- *[[MinutesCuiuiRecoveryTeamMeetin_13867]]*
 
+> This is a letter of November 1982 (the OCR date is partly garbled) from a researcher writing on behalf of the [[Desert Fishes Council]] to Dr. James E. Johnson of the [[U.S. Fish and Wildlife Service]]. It responds to a meeting on the [[Razorback Sucker]] stocking program for [[Lake Mojave]]. The...
+> -- *[[ReRazorbackSuckerStocking_PML0540]]*
+
 ### Mentioned In
 - [[MinutesCuiuiRecoveryTeamMeetin_13867]]
+- [[ReRazorbackSuckerStocking_PML0540]]
 
 ## Electrophoretic Genotyping
 
@@ -9658,14 +12626,27 @@ A laboratory method that separates proteins, usually enzymes, by electrical char
 > This study tests whether [[Electrophoretic Genotyping]] can be run on [[Non-Lethal Genetic Sampling|low-risk tissues]] (blood, fins, and scale epithelium) of [[Largemouth Bass]] (*[[Micropterus Salmoides]]*) instead of invasive liver biopsy or necropsy. The authors used [[Starch Gel...
 > -- *[[GeneticMarkerIdentificationInL_17427]]*
 
+> This study tests whether [[Electrophoretic Genotyping]] can be carried out on [[Largemouth Bass]] (*[[Micropterus Salmoides]]*) using low-risk tissues, so that fish can be genotyped without the loss of health or reproductive performance that invasive [[Fish Biopsy]] or necropsy causes. The authors...
+> -- *[[GeneticMarkerIdentificationInL_PML0367]]*
+
 ### Mentioned In
 - [[GeneticMarkerIdentificationInL_17427]]
+- [[GeneticMarkerIdentificationInL_PML0367]]
 
 ## Electrophoretic Identification
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This study compares two subspecies of [[Largemouth Bass]], the [[Northern Largemouth Bass]] (*Micropterus salmoides salmoides*) and the [[Florida Largemouth Bass]] (*M. s. floridanus*), together with their two reciprocal F1 hybrids, to assess their suitability for intensive aquaculture. Strains...
+> -- *[[AnAquaculturalEvaluationOfFlor_PML2908]]*
+
+> This 1986 study compares the physiological and survival responses of two electrophoretically identified [[Largemouth Bass]] subspecies, the [[Florida Largemouth Bass]] (*Micropterus salmoides floridanus*) and the [[Northern Largemouth Bass]] (*M. s. salmoides*), and their reciprocal F1 hybrids, to...
+> -- *[[DifferentialResponseToHandling_PML2907]]*
+
 ### Mentioned In
 - [[DifferentialResponseToHandling_1986]]
+- [[AnAquaculturalEvaluationOfFlor_PML2908]]
+- [[DifferentialResponseToHandling_PML2907]]
 
 ## Electrophoretic Population Genetics
 <!-- fm: auto_enriched: true -->
@@ -9732,9 +12713,34 @@ The electrosensory system is the sensory system that lets weakly electric fish d
 ## Electroshocking
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This memorandum, dated May 5, 1992, from [[Francisco J. Abarca]] (Native Fish Program Manager) to file, summarizes a response to reports of fish dying at [[Palm Lake]] in the [[Hassayampa River Preserve]], April 21–24, 1992. The team of [[Rob Bettaso]], [[Bruce Denova]] and [[David A. Weedman]]...
+> -- *[[SummaryOfEventsAtPalmLake_PML2853]]*
+
+> This study compares fish assemblages at two natural banks and two [[Revetment]] structures on the main stem of the [[Lower Mississippi River]] near Greenville, Mississippi, during 1979. Revetments are erosion-control structures built by the [[U.S. Army Corps Of Engineers]]. Sampling used [[Hoop...
+> -- *[[FishPopulationsAlongNaturalAnd_PML2112]]*
+
+> This report documents a second fish survey of lower [[Clear Creek]], a tributary of the [[Little Colorado River]] in Navajo County, Arizona, conducted August 17-19, 2005. It was prepared by Robert W. Clarkson (Bureau of Reclamation) and Paul C. Marsh (Arizona State University). The survey supported...
+> -- *[[FisheryResurveyOfLowerClearCre_PML0461]]*
+
+> This special report by the [[Arizona Game And Fish Department]] documents the monitoring of reintroduced [[Razorback Sucker]] and [[Colorado Squawfish]] in the [[Verde River]] and [[Salt River]], Arizona, from 1991 to 1993. A total of 3,552 razorback suckers and 15 Colorado squawfish were stocked...
+> -- *[[RazorbackSuckerXyrauchenTexanu_PML0513]]*
+
+> This study used [[Passive Integrated Transponder Tags]] (PIT tags) and [[Stationary Antennas]] to track individual habitat use, [[Turnover Rate|population turnover]], and [[Displacement]] in two common southwestern North American suckers, the [[Sonora Sucker]] (*Catostomus insignis*) and the...
+> -- *[[HowMobileAreFishPopulationsDie_PML0252]]*
+
+> This study presents a preliminary [[Index Of Biotic Integrity]] (IBI) built from [[Fish Assemblages]] in streams and small rivers of west-central Mexico. The index adapts North American IBI versions to regional conditions. It has 10 metrics that relate to environmental quality, ecosystem integrity,...
+> -- *[[IndexOfBioticIntegrityBasedOnF_PML1143]]*
+
 ### Mentioned In
 - [[RequestNotificationOfFishStock_1989_01_13]]
 - [[SeasonalVariationInWeightLengt_1977]]
+- [[SummaryOfEventsAtPalmLake_PML2853]]
+- [[FishPopulationsAlongNaturalAnd_PML2112]]
+- [[FisheryResurveyOfLowerClearCre_PML0461]]
+- [[RazorbackSuckerXyrauchenTexanu_PML0513]]
+- [[HowMobileAreFishPopulationsDie_PML0252]]
+- [[IndexOfBioticIntegrityBasedOnF_PML1143]]
 
 ## Electrostarch Company
 
@@ -9828,6 +12834,18 @@ Eleginus navaga (Navaga) is a mobile coastal Gadinae species characterized by an
 ### Mentioned In
 - [[MaterialsOnTheStructureOfTheFi_15061]]
 
+## Element Cycling
+
+### Summary
+The movement and transformation of chemical elements through an ecosystem, driven largely by redox reactions between reduced and oxidized forms. The source treats it as a system-level phenomenon and the central target of its model, which estimates how toxicants alter these cycles.
+
+### Context
+> This [[Environmental Protection Agency]] project summary, prepared by the [[Environmental Research Laboratory]] in Athens, Georgia (EPA-600/S3-83-084, November 1983), presents a strategy for modeling aquatic ecosystems so that the effects of toxic chemicals on [[Element Cycling]] and other...
+> -- *[[PredictionOfEcologicalEffectsO_PML1338]]*
+
+### Mentioned In
+- [[PredictionOfEcologicalEffectsO_PML1338]]
+
 ## Eleocharis
 
 ### Summary
@@ -9837,8 +12855,12 @@ Eleocharis is a genus of emergent aquatic sedges (spikerushes). In this source i
 > This 1973 taxonomic paper, published in the [[Publicaciones Biologicas]] series of the [[Universidad Autonoma de Nuevo Leon]], describes *[[Notropis Aguirrepequenoi]]* sp. nov., a cyprinid minnow endemic to the [[Rio Soto La Marina]] in [[Tamaulipas]], northeastern Mexico. The species was described...
 > -- *[[NotropisAguirrepequenoiEspecie_17516]]*
 
+> This study examines the occurrence and distribution of aquatic macroinvertebrates in three springbrooks in south-east Arizona, near Bylas, within the [[Sonoran Desert]]. Taxonomic richness was low at spring sources and increased in middle and lower reaches, which the authors attribute to harsh...
+> -- *[[DistributionOfAquaticMacroinve_PML1528]]*
+
 ### Mentioned In
 - [[NotropisAguirrepequenoiEspecie_17516]]
+- [[DistributionOfAquaticMacroinve_PML1528]]
 
 ## Eleocharis Carsonii
 
@@ -9863,6 +12885,18 @@ Common spike-rush, a wetland plant. In this tarn it formed patches at the edge o
 
 ### Mentioned In
 - [[TheFaunaInTheVegetationOfAMoor_19296]]
+
+## Eleocharis Sedges
+
+### Summary
+Eleocharis, or spikerushes, are low sedges that dominate the flora of ciénega habitats in this source. The authors describe ciénegas as having a depauperate flora characterized by these low sedges, and they appear in the plant checklist as among the most important ciénega taxa.
+
+### Context
+> This special issue of *Desert Plants* (Vol. 6, No. 3, 1984; issued early 1985) presents a historical and ecological review by [[Dean A. Hendrickson]] (Arizona State University) and [[W. L. Minckley]] (U.S. Fish and Wildlife Service and Arizona State University) of the **ciénega**, a spring-fed,...
+> -- *[[CienegasVanishingClimaxCommuni_PML1028]]*
+
+### Mentioned In
+- [[CienegasVanishingClimaxCommuni_PML1028]]
 
 ## Eleodes Grandicollis
 
@@ -9907,6 +12941,12 @@ Eleotridae is a family of small to medium-sized goby-like fishes found primarily
 > This 1984 *Journal of Fish Biology* study by B. D. Chang and W. Navas examines the natural life cycle of [[Dormitator Latifrons]], a food fish locally called "chame," in the [[Chone River Basin]] of [[Manabi Province]], Ecuador. Fieldwork was conducted in 1981 across upstream freshwater...
 > -- *[[SeasonalVariationsInGrowthCond_16095]]*
 
+> This study compares parasite communities of three exotic [[Poeciliidae]] species, [[Gambusia Holbrooki]], [[Xiphophorus Helleri]] and [[Xiphophorus Maculatus]], with those of 15 ecologically similar native freshwater fishes from Queensland, Australia. The central hypothesis was that poeciliids, as...
+> -- *[[RichnessPatternsInTheParasiteC_PML0618]]*
+
+> This study by Peter J. Unmack (Arizona State University, *Journal of Biogeography* 28: 1053–1089, 2001) examines the biogeographic patterns of Australia's obligate freshwater fishes. Using similarity coefficients, clustering, non-metric multidimensional scaling, parsimony analysis and drainage...
+> -- *[[BiogeographyOfAustralianFreshw_PML2549]]*
+
 ### Mentioned In
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
 - [[Goby_1963]]
@@ -9914,6 +12954,20 @@ Eleotridae is a family of small to medium-sized goby-like fishes found primarily
 - [[RioBravoFishDistribution_Unknown]]
 - [[EleotrisPictaAddedToTheFishFau_20054]]
 - [[SeasonalVariationsInGrowthCond_16095]]
+- [[RichnessPatternsInTheParasiteC_PML0618]]
+- [[BiogeographyOfAustralianFreshw_PML2549]]
+
+## Eleotris Picta
+
+### Summary
+Eleotris picta is an eleotrid fish that was a diurnal bottom feeder in the dry season. It ate mostly aquatic arthropods and took larger prey such as odonates and large mayfly nymphs. Gobiomorus dormitor replaced it in the wet season, occupying a similar niche.
+
+### Context
+> This study by Thomas M. Zaret and A. Stanley Rand tests the [[Competitive Exclusion Principle]] in a natural community of nine to twelve sympatric fish species from a lowland stream in Panama. Using [[Stomach Content Analysis]] from a dry-season and a wet-season collection, the authors measured...
+> -- *[[CompetitionInTropicalStreamFis_PML2944]]*
+
+### Mentioned In
+- [[CompetitionInTropicalStreamFis_PML2944]]
 
 ## Eleotris Pisonis
 <!-- fm: auto_enriched: true -->
@@ -9949,8 +13003,24 @@ Elephant Butte Dam was completed in 1916 and forms Elephant Butte Reservoir, whi
 > This 1994 status assessment documents the dramatic decline of native fish fauna in the [[Middle Rio Grande]] between Espanola and [[Elephant Butte Reservoir]], New Mexico. Of 45 fish species known historically, only 17 (38%) are native, with 6 (11%) endemic to the system. Seven native species have...
 > -- *[[FishFaunaOfTheMiddleRioGrandeS_15005]]*
 
+> This document is a 1993 U.S. Fish and Wildlife Service (Service) package on the proposed listing of the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species with [[Critical Habitat]] under the [[Endangered Species Act]]. It contains a cover letter to Dr. Paul Marsh of...
+> -- *[[EndangeredAndThreatenedWildlif_PML0752]]*
+
+> A 1994 final rule from the [[Fish And Wildlife Service]] lists the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the [[Endangered Species Act]]. The rule was published in the Federal Register on July 20, 1994 and took effect August 19, 1994. The species now...
+> -- *[[EndangeredAndThreatenedWildlif_PML0760]]*
+
+> This document is the cover letter and draft report of the [[Economic Consequences of Critical Habitat Designation]] for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered fish listed on July 20, 1994. The U.S. [[Fish and Wildlife Service]] (Service) proposed critical habitat along the main...
+> -- *[[ThePotentialEconomicConsequenc_PML2746]]*
+
+> This December 1978 Final Environmental Impact Statement (EIS) from the United States Section of the [[International Boundary and Water Commission]] (IBWC) evaluates how to restore and preserve the approximately 198.8-mile reach of the [[Rio Grande]] that forms the international boundary between...
+> -- *[[FinalEnvironmentalStatementRio_PML1140]]*
+
 ### Mentioned In
 - [[FishFaunaOfTheMiddleRioGrandeS_15005]]
+- [[EndangeredAndThreatenedWildlif_PML0752]]
+- [[EndangeredAndThreatenedWildlif_PML0760]]
+- [[ThePotentialEconomicConsequenc_PML2746]]
+- [[FinalEnvironmentalStatementRio_PML1140]]
 
 ## Elephant Butte Lake
 
@@ -10033,6 +13103,27 @@ Elephant Butte Reservoir is a large impoundment on the Rio Grande in New Mexico 
 > This final report to the [[Western Water Policy Review Advisory Commission]] (July 1997), prepared by Ernie Niemi (ECONorthwest) and Tom McGuckin (New Mexico State University), assesses competition for scarce water and related resources across the Upper Rio Grande Basin, from the Colorado...
 > -- *[[FinalReportwaterManagementStud_10852]]*
 
+> This document is a regulatory notice and cover correspondence from the [[U.S. Fish and Wildlife Service]] (Service), issued through the [[Federal Register]]. It extends the comment period on a proposal to list the [[Rio Grande Silvery Minnow]] (*[[Hybognathus Amarus]]*) as an endangered species...
+> -- *[[EndangeredAndThreatenedWildlif_PML0750]]*
+
+> This Environment-style research note reviews [[DDT]] and its breakdown products ([[DDD]] and [[DDE]]) in wildlife from New Mexico and Arizona, years after the 1972 ban on general use of DDT in the United States. Using U.S. Fish and Wildlife Service (FWS) national monitoring data, unpublished FWS...
+> -- *[[RecentDdtContaminationInNewMex_PML0432]]*
+
+> This document combines two sources. The first is the federal statute at 43 U.S.C. Chapter 40, the Reclamation States Emergency Drought Relief Act of 1991 (Public Law 102-250). The second is a set of 1996 materials on the New Mexico drought: a May 1996 briefing exchange, a May 28, 1996 memorandum...
+> -- *[[ReclamationStatesEmergencyDrou_PML2575]]*
+
+> A 1994 final rule from the [[Fish And Wildlife Service]] lists the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the [[Endangered Species Act]]. The rule was published in the Federal Register on July 20, 1994 and took effect August 19, 1994. The species now...
+> -- *[[EndangeredAndThreatenedWildlif_PML0760]]*
+
+> This U.S. Fish and Wildlife Service (FWS) proposed rule, published in the *Federal Register* on June 6, 2002, proposes to designate [[Critical Habitat]] for the [[Rio Grande Silvery Minnow]], a species federally listed as endangered under the [[Endangered Species Act]] (1973). The proposal covers...
+> -- *[[EndangeredAndThreatenedWildlif_PML0780]]*
+
+> The U.S. Fish and Wildlife Service's final rule (Federal Register, 19 February 2003) designates [[Critical Habitat]] for the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*), a federally listed endangered cyprinid. The designation covers approximately 157 river miles of the middle Rio Grande,...
+> -- *[[EndangeredAndThreatenedWildlif_PML0794]]*
+
+> This April 1996 cover letter from the [[U.S. Fish and Wildlife Service]] (New Mexico Ecological Services Field Office) and the attached February 1996 draft report by ECONorthwest assess the economic effects of designating critical habitat for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered...
+> -- *[[ThePotentialEconomicConsequenc_PML0659]]*
+
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[EndangeredAndThreatenedWildlif_1993_03_01]]
@@ -10048,6 +13139,13 @@ Elephant Butte Reservoir is a large impoundment on the Rio Grande in New Mexico 
 - [[WatershedResourcesAndProblemsO_19071]]
 - [[NaturalResourcesOfNewMexico_11513]]
 - [[FinalReportwaterManagementStud_10852]]
+- [[EndangeredAndThreatenedWildlif_PML0750]]
+- [[RecentDdtContaminationInNewMex_PML0432]]
+- [[ReclamationStatesEmergencyDrou_PML2575]]
+- [[EndangeredAndThreatenedWildlif_PML0760]]
+- [[EndangeredAndThreatenedWildlif_PML0780]]
+- [[EndangeredAndThreatenedWildlif_PML0794]]
+- [[ThePotentialEconomicConsequenc_PML0659]]
 
 ## Elephant Mountain
 
@@ -10125,6 +13223,22 @@ A test that incubates samples at 44.5°C in EC medium to select fecal coliforms.
 ### Mentioned In
 - [[SanitarySignificanceOfFecalCol_16953]]
 
+## Elevation
+
+### Summary
+Elevation is a habitat variable recorded in the WSA and used as a threshold in decision trees, since native ranges are limited by elevation. For example, Suckermouth Minnow occur below 1341 m in Wyoming, and the Horse Creek reach sat at 1319 m.
+
+### Context
+> This paper presents the [[Warmwater Stream Assessment]] (WSA), a process developed for the [[Wyoming Game and Fish Department]] (WGFD) to evaluate fish and habitat together in warmwater streams. The WSA has three components: reach selection with accumulation of existing information, fish and...
+> -- *[[ConcurrentAssessmentOfFishAndH_PML2184]]*
+
+> This first annual report, prepared by the [[Arizona Game And Fish Department]] for the [[U.S. Fish And Wildlife Service]], monitors introductions of the endangered [[Gila Topminnow]] onto [[USDA Forest Service]] lands in Arizona. In 1982, 64 sites on four National Forests were stocked under a...
+> -- *[[FactorsAffectingTheSuccessOfGi_PML0284]]*
+
+### Mentioned In
+- [[ConcurrentAssessmentOfFishAndH_PML2184]]
+- [[FactorsAffectingTheSuccessOfGi_PML0284]]
+
 ## Elevational Range Limits In Freshwater Fish
 <!-- fm: auto_enriched: true -->
 
@@ -10165,6 +13279,22 @@ Eley et al. 1967 conducted work on reservoir fish species that established 2.0 m
 
 ### Mentioned In
 - [[VerticalDistributionOfFishesRe_18202]]
+
+## Eley et al. (1967)
+
+### Summary
+A cited earlier source whose guidance this study followed in using 2.0 mg/L dissolved oxygen as a lower tolerance limit for fish distribution. The note uses it only for that threshold and does not report its other findings.
+
+### Context
+> This 1973 Arizona State University master's thesis by Peter Olof Bersell examines how fish are distributed with depth in two [[Salt River Reservoirs]], [[Roosevelt Lake]] and [[Apache Lake]]. Vertical gill nets were fished three times a year across transects in each reservoir, and multiple linear...
+> -- *[[VerticalDistributionOfFishesRe_PML0197]]*
+
+> This 1973 Arizona State University master's thesis by Peter Olof Bersell examines how fishes are distributed vertically in two linked central Arizona reservoirs, [[Roosevelt Lake]] and [[Apache Lake]], on the [[Salt River]]. Vertical vertical gill netting was carried out on five runs in Roosevelt...
+> -- *[[VerticalDistributionOfFishesRe_PML0198]]*
+
+### Mentioned In
+- [[VerticalDistributionOfFishesRe_PML0197]]
+- [[VerticalDistributionOfFishesRe_PML0198]]
 
 ## Elf Owl
 
@@ -10298,10 +13428,34 @@ Elimia is a genus of freshwater snails living in streams and rivers, primarily i
 > This Technical Completion Report (WRRI, January 1983) by [[Richard A. Cole]] and co-authors presents models and first-approximation coefficients for predicting how grazing animals mobilize dung and soil nutrients from western watersheds into downstream waters, particularly the hypolimnia of small...
 > -- *[[ModelingImpactsOnSmallReservoi_17114]]*
 
+> This review, by Patterson and co-authors and published in *Trends in Ecology and Evolution* (2008, vol. 23, no. 2), argues that [[State-Space Model]]s (SSMs) are the most promising analytical framework for individual animal movement. Movement data are stochastic and often subject to severe...
+> -- *[[StatespaceModelsOfIndividualAn_PML2091]]*
+
+> This paper reviews the status of [[Gray Wolf]] ([[Canis Lupus]]) restoration in Montana, Idaho, and Wyoming through 1 November 1998. Wolves were eliminated from the region by the 1930s and returned naturally from southwestern Canada. Following the [[Recovery Plan]] (1987), wolves were reintroduced...
+> -- *[[StatusOfGrayWolfRestorationInM_PML0169]]*
+
+> This USDA Forest Service review (edited by Jamison, Raish and Finch, Rocky Mountain Research Station) examines what is known about the relationships between domestic livestock grazing, riparian habitat and fishes in the southwestern United States, with emphasis on USFS Region 3 (R-3). The author...
+> -- *[[FishAndGrazingRelationshipsSou_PML2220]]*
+
+> Wildlife 2000 is the five-year strategic plan (1996–2000) of the [[Arizona Game and Fish Department]] and its Commission, approved on December 15, 1995. It sets goals, issues, strategies and objectives for three subprograms: Game Management, Sportfish Management, and Nongame and Endangered Wildlife...
+> -- *[[WildlifeWildlifeProgramStrateg_PML0116]]*
+
+> Wildlife 2006 is the six-year strategic plan (2001–2006) of the [[Arizona Game and Fish Department]] (Department) and the [[Arizona Game and Fish Commission]] (Commission) for the wildlife portion of their mission. It sets out nine general Challenges, shared Strategies, and goals, objectives and...
+> -- *[[WildlifeTheArizonaGameAndFishD_PML0132]]*
+
+> Wildlife 2000 is the five-year strategic plan of the [[Arizona Game and Fish Department]] for its wildlife program, approved by the [[Arizona Game and Fish Commission]] on December 15, 1995. It covers three subprograms: Game Management, Sportfish Management, and Nongame and Endangered Wildlife...
+> -- *[[WildlifeTheArizonaGameAndFishD_PML0117]]*
+
 ### Mentioned In
 - [[HighwayCoordination_1966]]
 - [[SelectedBibliographyOfWildlife_18466]]
 - [[ModelingImpactsOnSmallReservoi_17114]]
+- [[StatespaceModelsOfIndividualAn_PML2091]]
+- [[StatusOfGrayWolfRestorationInM_PML0169]]
+- [[FishAndGrazingRelationshipsSou_PML2220]]
+- [[WildlifeWildlifeProgramStrateg_PML0116]]
+- [[WildlifeTheArizonaGameAndFishD_PML0132]]
+- [[WildlifeTheArizonaGameAndFishD_PML0117]]
 
 ## Elk Creek
 <!-- fm: auto_enriched: true -->
@@ -10404,8 +13558,12 @@ Elkhead Creek is a tributary of the Yampa River in the Colorado River Basin. Thi
 > This document is a formal letter dated April 14, 1993, from the [[Colorado River Fishes Recovery Team]] to the Regional Director of the U.S. Fish and Wildlife Service, providing recommendations on the proposed rule to establish critical habitat for four endangered [[Colorado River]] fish species:...
 > -- *[[TheColoradoRiverFishesRecovery_11196]]*
 
+> This synthesis report by [[Finney and Haines]] (U.S. Fish and Wildlife Service, Colorado River Fish Project, March 2008) evaluates a three-year mechanical removal program for nonnative [[Northern Pike]] in a 37-mile reach of the [[Yampa River]] near Craig, Colorado. The work was funded by the...
+> -- *[[NorthernPikeRemovalSmallmouthB_PML0814]]*
+
 ### Mentioned In
 - [[TheColoradoRiverFishesRecovery_11196]]
+- [[NorthernPikeRemovalSmallmouthB_PML0814]]
 
 ## Elkhead Reservoir
 <!-- fm: auto_enriched: true -->
@@ -10423,12 +13581,28 @@ Elkhead Creek is a tributary of the Yampa River in the Colorado River Basin. Thi
 > This memorandum and meeting summary documents the April 14, 1988 [[Colorado River Management Group]] meeting held at the [[U.S. Fish and Wildlife Service]] Regional Office in Lakewood, Colorado. The meeting addressed funding, work plans, water rights acquisition, endangered fish propagation, and...
 > -- *[[SummaryaprilManagementGroupMee_20995]]*
 
+> This synthesis report by [[Finney and Haines]] (U.S. Fish and Wildlife Service, Colorado River Fish Project, March 2008) evaluates a three-year mechanical removal program for nonnative [[Northern Pike]] in a 37-mile reach of the [[Yampa River]] near Craig, Colorado. The work was funded by the...
+> -- *[[NorthernPikeRemovalSmallmouthB_PML0814]]*
+
+> This Colorado Division of Wildlife Job Progress Report (Federal Aid Project SE-3, May 1990, by Thomas P. Nesler) covers 1988-1989 field work on non-native gamefish in the [[Yampa River]] and [[Colorado River]]. The work tested whether non-native gamefish, mainly [[Northern Pike]], [[Channel...
+> -- *[[AquaticNongameResearchEndanger_PML2009]]*
+
+> This final report from the [[Larval Fish Laboratory]] at [[Colorado State University]] evaluates mechanical removal of nonnative [[Northern Pike]] from the [[Yampa River]], northwestern Colorado, for the [[Upper Colorado River Endangered Fish Recovery Program]] (Project No. 98a). Northern pike,...
+> -- *[[NorthernPikeManagementStudiesI_PML1000]]*
+
+> This U.S. Fish and Wildlife Service report (final, November 1995, prepared by Tim Moddel and George Smith under the [[Recovery Implementation Program]]) updates the 1990 interim flow recommendations for the [[Yampa River]], the last major unregulated tributary of the [[Upper Colorado River Basin]]....
+> -- *[[FlowRecommendationsForEndanger_PML1909]]*
+
 ### Mentioned In
 - [[InterestGroupParticipationInTh_1994_08_05]]
 - [[EvaluationOfALongtermPredatorR_2016]]
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
 - [[DraftRecoveryImplementationPro_11643]]
 - [[SummaryaprilManagementGroupMee_20995]]
+- [[NorthernPikeRemovalSmallmouthB_PML0814]]
+- [[AquaticNongameResearchEndanger_PML2009]]
+- [[NorthernPikeManagementStudiesI_PML1000]]
+- [[FlowRecommendationsForEndanger_PML1909]]
 
 ## Elkhorn Creek
 <!-- fm: auto_enriched: true -->
@@ -10610,6 +13784,30 @@ Elliott (1970) is cited as one of the earlier studies that tried to link inverte
 ### Mentioned In
 - [[MethodsOfMeasuringDriftForProd_12732]]
 
+## Elliott 1972
+
+### Summary
+Elliott 1972 is an earlier study of gastric evacuation that found exponential curves adequate, according to Persson. Persson also uses its multi-meal equation (Eqn 2) to estimate stomach contents after two or three meals, and the calculated values matched observed values reasonably well. The source cites it as a basis for both the model choice and the multi-meal calculation.
+
+### Context
+> This study by L. Persson (Institute of Limnology, University of Lund, Sweden; published in *Freshwater Biology*, 1981) examines how [[Water Temperature]] and [[Meal Size]] influence the rate of gastric evacuation in [[European Perch]] (*Perca fluviatilis*) fed on small fish, mainly [[Bleak]]...
+> -- *[[TheEffectsOfTemperatureAndMeal_PML2117]]*
+
+### Mentioned In
+- [[TheEffectsOfTemperatureAndMeal_PML2117]]
+
+## Elliott 1984
+
+### Summary
+A production study on trout cited by the authors as relevant background for estimating trout production. The source gives no specific findings from it.
+
+### Context
+> This paper estimates the annual production of stream-dwelling trout in Minnesota streams, with a focus on the production-to-biomass (P/B) ratio, a standard index of population turnover. Populations of [[Rainbow Trout]], [[Brown Trout]] and [[Brook Trout]] were sampled by [[Electrofishing]] in...
+> -- *[[AnnualProductionOfStreamTroutI_PML2841]]*
+
+### Mentioned In
+- [[AnnualProductionOfStreamTroutI_PML2841]]
+
 ## Elliott 1988
 <!-- fm: auto_enriched: true -->
 
@@ -10625,8 +13823,12 @@ This is the exponential gut evacuation model published by Elliott and Persson in
 > This study examines how [[Longfin Dace]] (*Agosia chrysogaster*), an omnivorous cyprinid of Sonoran Desert streams, feeds, how much it ingests daily, and how its nitrogen budget affects the stream ecosystem. Feeding was measured in [[Sycamore Creek]] on two dates, 24 May and 3 November 1983, when...
 > -- *[[FeedingDynamicsNitrogenBudgets_17778]]*
 
+> This study by Tharp and Grimm (Environmental Biology of Fishes, 1987) examines the feeding habits, diel feeding periodicity, daily ingestion, and nitrogen budgets of [[Longfin Dace]] (*Agosia chrysogaster*) in [[Sycamore Creek]], an intermittent [[Sonoran Desert]] stream. Sampling occurred in May...
+> -- *[[FeedingDynamicsNitrogenBudgets_PML0912]]*
+
 ### Mentioned In
 - [[FeedingDynamicsNitrogenBudgets_17778]]
+- [[FeedingDynamicsNitrogenBudgets_PML0912]]
 
 ## Elliott and Russert 1949
 
@@ -10653,6 +13855,18 @@ Elliott and Russert (1949) is a earlier study cited as a key reference on parasi
 ### Mentioned In
 - [[AModernApproachToTheStudyOfEst_1967_03_13]]
 
+## Elliott Coues
+
+### Summary
+Elliott Coues was a naturalist whose work at Fort Whipple, Arizona, in 1864 produced the first scientific papers on Southwestern wildlife beyond simple species descriptions. The chapter identifies him as a key collector and surveyor of the Inventory period. The authors later call for synthesis of work from Coues and other early investigators.
+
+### Context
+> This historical chapter, by David E. Brown, W. H. Minckley, and James P. Collins, traces how natural history and ecological knowledge of the American Southwest developed. The authors argue that the region's ecosystems are distinctive because of its geographic position at the junction of North...
+> -- *[[HistoricalBackgroundToSouthwes_PML0303]]*
+
+### Mentioned In
+- [[HistoricalBackgroundToSouthwes_PML0303]]
+
 ## Elliott Creek
 
 ### Summary
@@ -10665,6 +13879,18 @@ Elliott Creek is a stream in Cheboygan County, Michigan, where the lampricide Do
 ### Mentioned In
 - [[AttackOnTheSeaLamprey_16543]]
 
+## Elliott Morley
+
+### Summary
+UK Parliamentary Under-Secretary at DEFRA, who gave one of the opening addresses at the twenty-second EIFAC session. In his address he noted the Environment Agency's statutory duty to maintain, improve and develop fisheries.
+
+### Context
+> This FAO Fisheries Report (No. 681, 2002) records the proceedings of the Twenty-second Session of the [[European Inland Fisheries Advisory Commission]] (EIFAC), held in Windermere, United Kingdom, 12–19 June 2002, alongside a Symposium on [[Inland Fisheries Management and the Aquatic Environment]]....
+> -- *[[ReportOfTheTwentysecondSession_PML0671]]*
+
+### Mentioned In
+- [[ReportOfTheTwentysecondSession_PML0671]]
+
 ## Elliott S. Goldstein
 
 ### Summary
@@ -10676,6 +13902,22 @@ A collaborator named in the source for the proposed mitochondrial DNA restrictio
 
 ### Mentioned In
 - [[SystematicAnalysesOfColoradoRi_16488]]
+
+## Elliott Sober
+
+### Summary
+Philosopher and co-author with Steven Orzack of the 1993 critique of Levins's trade-off thesis. Their principle that no trade-off exists when one model is a special case of another is central to the counterexamples Odenbaugh addresses.
+
+### Context
+> This paper by philosopher Jay Odenbaugh (*Philosophy of Science* 70, December 2003, pp. 1496–1507) defends ecologist [[Richard Levins]]'s thesis that biologists building mathematical models must trade off generality, precision, and realism because biological systems are complex. [[Steven Orzack]]...
+> -- *[[ComplexSystemsTradeoffsAndTheo_PML2040]]*
+
+> This Commentary by [[Steven Hecht Orzack]] and [[Elliott Sober]] critically examines [[Richard Levins]]'s influential 1966 article on model building in population biology. Levins argued that model building involves a necessary trade-off among three desiderata: [[Generality]], [[Realism]] and...
+> -- *[[ACriticalAssessmentOfLevinssTh_PML2407]]*
+
+### Mentioned In
+- [[ComplexSystemsTradeoffsAndTheo_PML2040]]
+- [[ACriticalAssessmentOfLevinssTh_PML2407]]
 
 ## Ellipes Longicostatus
 
@@ -10788,6 +14030,18 @@ A former commissioner of the U.S. Bureau of Reclamation who described the Quail 
 ### Mentioned In
 - [[FleeAsDikeBurstsInSUtah_20836]]
 
+## Ellis et al.
+
+### Summary
+Ellis et al. is a cited literature source in this report, referenced for a general threshold of 3 to 5 ppm dissolved oxygen as the minimum level to which fish normally respond. The authors use this benchmark to help interpret the very low oxygen readings measured at Blue Springs.
+
+### Context
+> This preliminary progress report (1977), with a request for additional 1972 funding, describes a field study of whether [[Blue Springs]] in the [[Little Colorado River]] gorge restricts gene flow between two [[Speckled Dace]] ([[Rhinichthys Osculus]]) populations. The authors, [[Steven W....
+> -- *[[BlueSpringsMiLittleColoradoRiv_PML0372]]*
+
+### Mentioned In
+- [[BlueSpringsMiLittleColoradoRiv_PML0372]]
+
 ## Ellis Et Al. 1946
 <!-- fm: auto_enriched: true -->
 
@@ -10849,8 +14103,12 @@ Ellsworth Kolb was, with his brother Emery, a photographer who lived for years a
 > This early twentieth-century account by [[Ellsworth Kolb]] and [[Emery Kolb]] recounts their photographic journeys through the [[Grand Canyon]] and its tributaries, culminating in a 1911 boat trip from [[Green River]], Wyoming, to [[Needles]], California, which repeated [[Major John Wesley...
 > -- *[[ExperiencesInTheGrandCanyon_12612]]*
 
+> This is a 1914 *National Geographic Magazine* article (Vol. XXVI, No. 2, Washington, August 1914) by photographers [[Ellsworth Kolb]] and [[Emery Kolb]], known together as the [[Kolb Brothers]]. The article describes their photographic work in the [[Grand Canyon]], Arizona, and their river journeys...
+> -- *[[ExperiencesInTheGrandCanyon_PML1294]]*
+
 ### Mentioned In
 - [[ExperiencesInTheGrandCanyon_12612]]
+- [[ExperiencesInTheGrandCanyon_PML1294]]
 
 ## Elm
 <!-- fm: auto_enriched: true -->
@@ -10883,10 +14141,22 @@ Elmidae, or riffle beetles (Coleoptera), were found at all sampling stations in 
 > This 1969 report by Ball, Kevern and Linton, published in the *Publications of the Museum, Michigan State University, Biological Series* (Vol. 4, No. 4, pp. 105–160), is the second in a series on the ecology of the [[Red Cedar River]], a warm-water stream in south-central Michigan. It quantifies...
 > -- *[[TheRedCedarRiverReportIiBioeco_17304]]*
 
+> This study examines the diet, feeding behavior, size structure and reproductive condition of the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a small cyprinid fish endemic to the [[Colorado River Basin]] in eastern Arizona. Field collections from [[Nutrioso Creek]] were combined with...
+> -- *[[SeasonalDietOfLittleColoradoSp_PML2272]]*
+
+> This study examines the occurrence and distribution of aquatic macroinvertebrates in three springbrooks in south-east Arizona, near Bylas, within the [[Sonoran Desert]]. Taxonomic richness was low at spring sources and increased in middle and lower reaches, which the authors attribute to harsh...
+> -- *[[DistributionOfAquaticMacroinve_PML1528]]*
+
+> This study by [[Paul C. Marsh]] and [[Thomas F. Waters]] compares benthic invertebrates and invertebrate drift in two naturally forested-or-unmodified streams and two streams whose upstream catchments were altered by [[Agricultural Drainage]] and [[Stream Channelization]] in [[Southwestern...
+> -- *[[EffectsOfAgriculturalDrainageD_PML1584]]*
+
 ### Mentioned In
 - [[TheBiologyAndChemistryOfAWarmw_12927]]
 - [[WaterQualityRequirementsForElm_19002]]
 - [[TheRedCedarRiverReportIiBioeco_17304]]
+- [[SeasonalDietOfLittleColoradoSp_PML2272]]
+- [[DistributionOfAquaticMacroinve_PML1528]]
+- [[EffectsOfAgriculturalDrainageD_PML1584]]
 
 ## Elmore 1921
 <!-- fm: auto_enriched: true -->
@@ -10928,6 +14198,18 @@ Elmidae, or riffle beetles (Coleoptera), were found at all sampling stations in 
 > This survey by Symoens, Duvigneaud and Vanden Berghen (Bulletin de la Société Royale de Botanique de Belgique, 1951) reviews the calcareous tufas (travertines) of Belgium and the plants that build them. Tufa forms when [[Biogenic Decalcification]] occurs: photosynthesis strips dissolved calcium...
 > -- *[[ApercuSurLaVegetationDesTufsCa_15139]]*
 
+> This study by Alasdair Scott and Paul C. Marsh (Freshwater Biology, 1987) examines how juvenile [[Dace]], [[Roach]] and yearling [[Minnow]] select prey in flowing and still water. The three [[Cyprinidae]] species showed broadly similar feeding behaviour and prey preferences. Prey selection depended...
+> -- *[[PreySelectionByJuvenileCyprini_PML2323]]*
+
+> This report, prepared by Paul Inlarsh and Ira R. Adelman of the [[University Of Minnesota]] Department of Entomology, Fisheries and Wildlife, documents a 1978 fisheries survey of the [[Roseau River]] in northwestern Minnesota. The work was commissioned by the [[U.S. Army Corps Of Engineers]]...
+> -- *[[InvestigationOfTheRoseauRiverF_PML1446]]*
+
+> This fisheries report by Paul C. Marsh and Ira R. Adelman (University of Minnesota) documents a fall 1978 survey of fish in the [[Roseau River]], Minnesota. The work was funded by the [[U.S. Army Corps Of Engineers]], which needed the data to supplement an [[Environmental Impact Statement]] for a...
+> -- *[[InvestigationOfTheRoseauRiverF_PML1516]]*
+
+> This annual report, prepared by [[Northern Arizona University]] researchers (Blinn, Pradetto and Runck) for the [[Coconino National Forest]] in September 1994, documents a three-year study of a introduced population of [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a federally listed...
+> -- *[[AnnualReportOnSpawningReproduc_PML0239]]*
+
 ### Mentioned In
 - [[AnEcologicObservatio_1959]]
 - [[WeedControlPossibilitiesInMass_14648]]
@@ -10940,6 +14222,10 @@ Elmidae, or riffle beetles (Coleoptera), were found at all sampling stations in 
 - [[GreenMountainReservoirStudies_10811]]
 - [[APreliminaryStudyOfAnException_20741]]
 - [[ApercuSurLaVegetationDesTufsCa_15139]]
+- [[PreySelectionByJuvenileCyprini_PML2323]]
+- [[InvestigationOfTheRoseauRiverF_PML1446]]
+- [[InvestigationOfTheRoseauRiverF_PML1516]]
+- [[AnnualReportOnSpawningReproduc_PML0239]]
 
 ## Elodea Canadensis
 <!-- fm: auto_enriched: true -->
@@ -10974,6 +14260,18 @@ Elmidae, or riffle beetles (Coleoptera), were found at all sampling stations in 
 - [[SomeBasicDataForInvestigations_12176]]
 - [[AgeGrowthAndReproductionOfTheN_16235]]
 - [[ALimnologicalStudyOfFourLakesN_16404]]
+
+## Elodea nuttallii
+
+### Summary
+Elodea nuttallii (waterweed) is an aquatic plant that was one of four food choices offered to the grass carp × bighead carp hybrids in this study. The hybrids ranked it second in preference, after Najas guadalupensis and ahead of Ceratophyllum demersum. The plants were common in southern Illinois.
+
+### Context
+> Young, Monaghan, and Hartman (1983) compared the food preferences, feeding rates, and growth of an F1 hybrid of [[Grass Carp]] (female) × [[Bighead Carp]] (male) with those of pure grass carp. The hybrid was tested as a possible sterile alternative to grass carp for [[Aquatic Weed Control]]. The...
+> -- *[[FoodPreferencesFoodIntakeAndGr_PML2934]]*
+
+### Mentioned In
+- [[FoodPreferencesFoodIntakeAndGr_PML2934]]
 
 ## Elopidae
 <!-- fm: auto_enriched: true -->
@@ -11044,10 +14342,18 @@ Elops affinis, commonly known as ladyfish, is a fish species found in the lower 
 > This 1919 comparative anatomy paper by [[Carl L. Hubbs]], reprinted from the *Journal of Morphology* (Vol. 33, No. 1), consolidates evidence on the opercular series and branchiostegal rays across a wide range of fishes. Hubbs argues that these bones take one of two basic forms: a generalized type...
 > -- *[[AComparativeStudyOfTheBonesFor_19965]]*
 
+> This document is a compiled extract from the *Systematic Zoology* Baja California Symposium. It contains a short review item by Jay M. Savage (an Associate Professor of Biology, University of Southern California, Los Angeles), with a reference list on herpetofauna, followed by the main paper, "The...
+> -- *[[TheFreshwaterFishestheirOrigin_PML0829]]*
+
+> This symposium paper by W. L. Follett reviews the indigenous fishes recorded from fresh water in [[Baja California]]. It reports 29 species in 25 genera and 17 families. Nearly all are of marine affinity, and the only endemic species is [[Fundulus Lima]]. The author concludes that Baja California...
+> -- *[[TheFreshwaterFishesTheirOrigin_PML0830]]*
+
 ### Mentioned In
 - [[ReportToTheDesertFishesCouncil_13683]]
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
 - [[AComparativeStudyOfTheBonesFor_19965]]
+- [[TheFreshwaterFishestheirOrigin_PML0829]]
+- [[TheFreshwaterFishesTheirOrigin_PML0830]]
 
 ## Elops lacerta
 
@@ -11096,6 +14402,22 @@ Elops saurus is the Atlantic relative of Elops affinis (the ten-pounder) and is 
 ### Mentioned In
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
 - [[OnTheCranialOsteologyOfTheFish_14946]]
+
+## Eloy
+
+### Summary
+A town in central Arizona near the Brady Pumping Plant on the Central Arizona Project Canal. The source uses it as a reference point for the pre-1990 survey limit.
+
+### Context
+> This abstract describes fishery monitoring of the [[Central Arizona Project Canal System]], a roughly 335-mile conveyance that carries [[Colorado River]] water from [[Lake Havasu]] across Arizona to [[Tucson]]. The [[Bureau of Reclamation]] has surveyed fish communities since 1986 under a...
+> -- *[[FisheryInvestigationsOfTheCent_PML0334]]*
+
+> This Arizona Water Commission Project Bulletin (No. 24, August 1980), adapted from [[Wesley Peirce]]'s article in the [[Bureau of Geology and Mineral Technology]] *Fieldnotes* (June 1979), describes land subsidence and earth fissuring caused largely by [[Groundwater Withdrawal]]. Subsidence is...
+> -- *[[SubsidenceAndFissuringInArizon_PML2106]]*
+
+### Mentioned In
+- [[FisheryInvestigationsOfTheCent_PML0334]]
+- [[SubsidenceAndFissuringInArizon_PML2106]]
 
 ## Elsevier
 
@@ -11188,8 +14510,16 @@ Elves Chasm is a location in Grand Canyon between 131-172 miles below Glen Canyo
 > This memorandum and associated documents from the [[Glen Canyon Environmental Studies]] (GCES) summarize a December 1992 workshop on the proposed [[Multi-Level Intake Structure]] (MLIS) for [[Glen Canyon Dam]]. The primary objective is to evaluate whether selective withdrawal of warmer water from...
 > -- *[[GlenCanyonEnvironmentalStudies_19719]]*
 
+> This paper by [[Dennis M. Kubly]] and [[Gerald A. Cole]] (presented at the First Conference on Scientific Research in the National Parks, New Orleans, 1976) characterizes the major ionic chemistry of tributaries entering the [[Colorado River]] between [[Lee's Ferry]] and [[Lake Mead]], in the...
+> -- *[[TheChemistryOfTheColoradoRiver_PML1301]]*
+
+> This source is a six-page OCR scan of a site table, not a research narrative. It lists 29 named or river-mile sites, mostly [[Colorado River]] tributaries and mile markers, with "x" marks in columns that are not labelled in the scan. The text names no species, gives no sample sizes, and includes no...
+> -- *[[ContractBetweenTheNationalPark_PML0370]]*
+
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_19719]]
+- [[TheChemistryOfTheColoradoRiver_PML1301]]
+- [[ContractBetweenTheNationalPark_PML0370]]
 
 ## Elwha Dam
 
@@ -11247,6 +14577,18 @@ A USDA official who lent the Station a stoppered tin cylinder used to collect ri
 ### Mentioned In
 - [[TheRiverirrigatingWatersOfAriz_18776]]
 
+## Elwood Tank
+
+### Summary
+A stock-water tank on the San Carlos Reservation that the report rated among the three best waters for trout. It held a warm-water fish population that would need to be removed first.
+
+### Context
+> This 1963 fishery management report, issued by the [[Bureau of Sport Fisheries and Wildlife]] (Albuquerque, New Mexico) and signed by Fishery Management Biologist Richard J. Navarre, assesses the fish resources of the [[San Carlos Indian Reservation]]. Seventy stock-water tanks and the [[Black...
+> -- *[[FisheryManagementReportSanCarl_PML2622]]*
+
+### Mentioned In
+- [[FisheryManagementReportSanCarl_PML2622]]
+
 ## EM Algorithm
 
 ### Summary
@@ -11258,6 +14600,18 @@ The EM algorithm is an iterative maximum-likelihood procedure used to estimate c
 
 ### Mentioned In
 - [[GeneticMarkersAndMixedStockFis_13232]]
+
+## EMAP
+
+### Summary
+The Environmental Monitoring and Assessment Program, a U.S. Environmental Protection Agency survey that samples stream sites chosen at random along with biological, physical, and chemical measures. According to this source, the four-year western stream survey covers 12 states and supports regional and statewide estimates of stream biological integrity.
+
+### Context
+> This excerpt from the *Proceedings of the Desert Fishes Council*, Volume XXXIII (2000 Symposium, published November 13, 2001), contains three abstracts (bilingual, English and Spanish). The main document addresses the implementation of the 1994 [[Central Arizona Project]] (CAP) biological opinion,...
+> -- *[[ManagingNonnativeAquaticSpecie_PML2456]]*
+
+### Mentioned In
+- [[ManagingNonnativeAquaticSpecie_PML2456]]
 
 ## Embarras River
 
@@ -11527,6 +14881,42 @@ The Embrey Dam is a small dam on the Rappahannock River at Fredericksburg, Virgi
 - [[SettingOurRiversFree_17464]]
 - [[FarewellToTheNineteenthCentury_12345]]
 
+## Embryo Incubation
+
+### Summary
+The step after spawning in which egg-bearing tiles are removed daily, placed on edge in a dishpan with airstone aeration, and kept until hatching. The source notes that at 22-23°C embryos hatch in about 5 days, and that non-viable embryos are removed daily to limit fungal spread.
+
+### Context
+> This EPA Project Summary, prepared by [[Environmental Research Laboratory - Duluth]] (ERL-D) in Duluth, Minnesota, sets out the conditions and procedures used to culture research-quality [[Fathead Minnow]] embryos, larvae, juveniles, and adults for [[Toxicity Testing]]. The culture system has...
+> -- *[[GuidelinesForTheCultureOfPimep_PML0565]]*
+
+### Mentioned In
+- [[GuidelinesForTheCultureOfPimep_PML0565]]
+
+## Embryo Survival
+
+### Summary
+The proportion of fertilized eggs that survive development to hatching. Marsh measured embryo survival and hatch for four Colorado River species across six temperatures, finding that survival was highest near 20°C and that most or all embryos died at the extremes of 5, 10 and 30°C.
+
+### Context
+> This experimental study by Peter C. Marsh (1985) quantifies how [[Incubation Temperature]] affects [[Embryo Survival]] and hatching in four endemic "big river" fishes of the [[Colorado River]]: [[Razorback Sucker]], [[Bonytail Chub]], [[Humpback Chub]] and [[Colorado Squawfish]]. All four are near...
+> -- *[[EffectOfIncubationTemperatureO_PML1454]]*
+
+### Mentioned In
+- [[EffectOfIncubationTemperatureO_PML1454]]
+
+## Embryo-Larval Test
+
+### Summary
+A standardized toxicity test in which fish are exposed starting at the embryo stage and continuing through larval development. In this source, the protocol is evaluated as a proposed guideline for fathead minnows, running from embryos under 24 hours old to 28 days post hatch.
+
+### Context
+> This EPA Project Summary reports an evaluation of a proposed standard [[Embryo-Larval Test]] protocol for the [[Fathead Minnow]] (*[[Pimephales Promelas]]*). Four [[Flow-Through Bioassay]] tests were run, two each with [[Acenaphthene]] and [[Isophorone]]. The protocol was judged workable, with one...
+> -- *[[EvaluationOfAFatheadMinnowPime_PML1355]]*
+
+### Mentioned In
+- [[EvaluationOfAFatheadMinnowPime_PML1355]]
+
 ## Embryogenesis
 
 ### Summary
@@ -11538,6 +14928,18 @@ Embryogenesis is the process by which the embryo develops inside the egg. In thi
 
 ### Mentioned In
 - [[EggComponentsAndHatchlingLipid_19475]]
+
+## Embryonic Development
+
+### Summary
+Embryonic development is the sequence of changes an egg goes through from fertilization to hatching and swim-up. In this study, development rate rose with temperature: time to 50% hatch was about 420–556 h at 10 °C and 256–298 h at 15 °C, and swim-up took about three times longer at 10 °C than at 20 °C.
+
+### Context
+> This study examines whether the water temperatures found in [[Lake Mohave]] allow successful embryonic development and larval emergence in the [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*), an endangered catostomid of the [[Colorado River]]. The authors combined field collections of larvae from...
+> -- *[[EffectsOfAmbientLakeMohaveTemp_PML0665]]*
+
+### Mentioned In
+- [[EffectsOfAmbientLakeMohaveTemp_PML0665]]
 
 ## Embryonic Diapause
 <!-- fm: auto_enriched: true -->
@@ -11566,8 +14968,12 @@ The embryonic shield is the broad band of tissue in the fish blastoderm that nar
 > This 1928 experimental embryology paper by [[Leigh Hoadley]] tests when the teleost blastoderm of *[[Fundulus Heteroclitus]]* becomes committed to forming specific embryonic parts. Using glass-needle puncture and cell removal (a [[Defect Experiments]] approach), Hoadley removed single or multiple...
 > -- *[[OnTheLocalizationOfDevelopment_20411]]*
 
+> This study by [[William L. Minckley]] and [[Eric S. Gustafson]] (affiliated with [[Arizona State University]]) describes the embryonic, prolarval, postlarval, and early juvenile development of the [[Razorback Sucker]] (*Xyrauchen texanus*), a [[Catostomidae|catostomid]] native to the [[Colorado...
+> -- *[[EarlyDevelopmentOfTheRazorback_PML1876]]*
+
 ### Mentioned In
 - [[OnTheLocalizationOfDevelopment_20411]]
+- [[EarlyDevelopmentOfTheRazorback_PML1876]]
 
 ## Emerald Canyon
 
@@ -11588,8 +14994,32 @@ Emerald Canyon is a county-owned public golf course in Parker, Arizona, that pro
 > This document is an internal U.S. Fish and Wildlife Service (USFWS) memorandum reporting a **1994 stocking event** of hatchery-reared [[Bonytail]] (*Gila elegans*), an endangered cyprinid native to the Colorado River Basin. Fish produced from 1994 broodstock recruitment at the [[Dexter National F...
 > -- *[[BonytailStocking_1994_10_18]]*
 
+> This internal memorandum from the Parker [[Fish and Wildlife Office]] (dated 27 October 1994) reports the stocking of [[Bonytail Chub]] into four ponds at the [[Emerald Canyon Golf Course]]. The estimated total stocked was 27,396 fish. One pond received a second stocking in October, and the fish...
+> -- *[[StockingOfBonytailChubAtEmeral_PML1773]]*
+
+> This U.S. Fish and Wildlife Service report, prepared by the [[Arizona Fish and Wildlife Conservation Office]] in Parker, AZ, summarizes the stocking history, population estimates, and water quality monitoring for [[Razorback Sucker]] (RBS) and [[Bonytail Chub]] (BTC) in off-channel backwater...
+> -- *[[PopulationEstimatesAndWaterQua_PML2186]]*
+
+> This USGS Open-File Report (Mueller, 2007 annual report, 59 p.) documents the development phase of the [[Native Fish Sanctuary Project]], funded by the [[Bureau of Reclamation]] and run in partnership with the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], [[National Park...
+> -- *[[NativeFishSanctuaryProjectsanc_PML1963]]*
+
 ### Mentioned In
 - [[BonytailStocking_1994_10_18]]
+- [[StockingOfBonytailChubAtEmeral_PML1773]]
+- [[PopulationEstimatesAndWaterQua_PML2186]]
+- [[NativeFishSanctuaryProjectsanc_PML1963]]
+
+## Emerald Canyon Golf Course Ponds
+
+### Summary
+A named rearing site, listed as a golf course pond, and also appearing as the ECGC column in the stocking-by-location matrix. The source uses golf course ponds as stocking or holding sites, but gives no further detail on this one.
+
+### Context
+> This document is a multi-page compilation of fish stocking and rearing records, most likely from a reservoir management or hatchery program in the [[Lake Mohave]] and [[Lake Havasu]] area. The OCR text contains monthly stocking logs (1993–2006), stocking totals by location, a set of monitoring...
+> -- *[[FishStockingAndRearingRecordsL_PML2067]]*
+
+### Mentioned In
+- [[FishStockingAndRearingRecordsL_PML2067]]
 
 ## Emerald Creek Locality
 
@@ -11680,6 +15110,15 @@ The Emerald Shiner (*Notropis atherinoides*) is a small, silvery cyprinid minnow
 > This 1953 paper by [[Walter R. Crowe]], published by the [[Institute For Fisheries Research]] of the Michigan Department of Conservation, estimates the fish populations of [[Big Bear Lake]], a small, landlocked lake in Otsego County, Michigan. Using [[Mark-And-Recapture]] sampling with [[Trap Net]]...
 > -- *[[AnAnalysisOfTheFishPopulationO_18079]]*
 
+> This workshop paper by [[Darrel E. Snyder]] of the [[Larval Fish Laboratory]] (Colorado State University) argues that fish larvae are ecologically distinct organisms whose habitats, behaviors, and vulnerabilities differ from those of juveniles and adults. The larval period involves dramatic...
+> -- *[[FishLarvaeecologicallyDistinct_PML2404]]*
+
+> This Arizona Game and Fish Department report (Federal Aid in Sport Fish Restoration, Dingell-Johnson Project F-14-R-14, May 1986, by [[Richard Dreyer]] and William R. Persons) reviews the literature on 20 candidate [[Forage Fish]] species for [[Lake Mead]]. It was prepared because [[Striped Bass]]...
+> -- *[[ReviewOfPotentialForageFishInt_PML0640]]*
+
+> This Wildlife Monographs issue (September 1963, No. 11) is W. L. [[Minckley]]'s comprehensive study of Doe Run, a limestone spring stream in Meade County, Kentucky, that drains directly to the [[Ohio River]]. Sponsored jointly by the [[United States Atomic Energy Commission]] and the [[University...
+> -- *[[TheEcologyOfASpringStreamDoeRu_PML1812]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 - [[FishesOfDeepCreekRileyCountyKa_1968_04_26]]
@@ -11702,6 +15141,9 @@ The Emerald Shiner (*Notropis atherinoides*) is a small, silvery cyprinid minnow
 - [[AlewifeRainbowSmeltAndNativeFi_18073]]
 - [[AnAssessmentOfTheFishFaunaOfLa_19256]]
 - [[AnAnalysisOfTheFishPopulationO_18079]]
+- [[FishLarvaeecologicallyDistinct_PML2404]]
+- [[ReviewOfPotentialForageFishInt_PML0640]]
+- [[TheEcologyOfASpringStreamDoeRu_PML1812]]
 
 ## Emerald Sink
 
@@ -11769,6 +15211,18 @@ Submerged funnel traps (mouth area 0.25 m², set about 1 m above the substratum)
 ### Mentioned In
 - [[TheEcologyOfChironomidaeInStor_15509]]
 
+## Emergency Evacuation Plan
+
+### Summary
+A component of the 2003 Gila trout recovery plan, which requires one as part of the downlisting criteria. The rule notes that the plan was invoked in 2002, 2003 and 2004, which the source ties to threats such as wildfire and post-fire flooding. The source does not describe its specific procedures.
+
+### Context
+> This Federal Register final rule (71 FR 40657, July 18, 2006), issued by the [[U.S. Fish and Wildlife Service]] (Service), reclassifies the [[Gila Trout]] (*Oncorhynchus gilae*) from endangered to threatened under the [[Endangered Species Act]]. The Service finds the species no longer in danger of...
+> -- *[[EndangeredAndThreatenedWildlif_PML0798]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedWildlif_PML0798]]
+
 ## Emergency Listing
 
 ### Summary
@@ -11778,8 +15232,36 @@ Under the federal Endangered Species Act, the Secretary may list a species on an
 > This course presentation, given by Susan K. Hori of Paone Callahan McHolm & Winton LLP at the 16th Annual Water Law Conference (February 20, 1998, San Diego, California), summarizes the [[Endangered Species Act]] (federal) and the [[California Endangered Species Act]] (state). It explains how...
 > -- *[[HabitatConservationPlanDevelop_19918]]*
 
+> This document is a petition dated November 7, 2009, submitted to the [[U.S. Fish and Wildlife Service]] (FWS) by four biologists: Sally E. Stefferud, Jerome A. Stefferud, [[Paul C. Marsh]] and [[Thomas E. Dowling]]. It requests two actions for the [[Headwater Chub]], an endemic [[Cyprinidae]] fish...
+> -- *[[PetitionForListingPriorityRest_PML2451]]*
+
 ### Mentioned In
 - [[HabitatConservationPlanDevelop_19918]]
+- [[PetitionForListingPriorityRest_PML2451]]
+
+## Emergency Listing Provisions
+
+### Summary
+These are provisions under the Endangered Species Act that allow a species to be listed quickly when it faces a significant and imminent threat. The petitioners invoke them, under section 4(b) and 50 CFR 424, to request emergency endangered status for the Headwater Chub.
+
+### Context
+> This document is a petition dated November 7, 2009, submitted to the [[U.S. Fish and Wildlife Service]] (FWS) by four biologists: Sally E. Stefferud, Jerome A. Stefferud, [[Paul C. Marsh]] and [[Thomas E. Dowling]]. It requests two actions for the [[Headwater Chub]], an endemic [[Cyprinidae]] fish...
+> -- *[[PetitionForListingPriorityRest_PML2451]]*
+
+### Mentioned In
+- [[PetitionForListingPriorityRest_PML2451]]
+
+## Emergency Watershed Protection
+
+### Summary
+Emergency Watershed Protection (EWP) is a program of the Natural Resources Conservation Service that funds emergency measures to protect property and watersheds after natural disasters such as floods. In this source, the proposed Kellner jack and riprap bank-stabilization project in Beaver Dam Wash was to be carried out under EWP after high-water damage in March 1995. The biological opinion evaluates the effects of that project on woundfin and Virgin River chub.
+
+### Context
+> This U.S. Fish and Wildlife Service (Service) biological opinion, dated July 22, 1996, assesses the effects of a proposed [[Natural Resources Conservation Service]] (NRCS) bank stabilization project in [[Beaver Dam Wash]], Mohave County, Arizona. The project would place two lines of [[Kellner...
+> -- *[[BiologicalOpinionOnTheEffectsT_PML2708]]*
+
+### Mentioned In
+- [[BiologicalOpinionOnTheEffectsT_PML2708]]
 
 ## Emergency Watershed Protection Program
 <!-- fm: auto_enriched: true -->
@@ -11811,6 +15293,18 @@ Emergent plants are rooted in the bottom along shorelines, with stems and leaves
 
 ### Mentioned In
 - [[AquaticPlantsManagementAndCont_17108]]
+
+## Emerging Amphibian Diseases
+
+### Summary
+Infectious diseases that affect amphibians and are one of several hypothesized causes of amphibian decline. The source reviews them as an alternative explanation for montane frog declines, but the study's data point to trout predation as the more likely cause.
+
+### Context
+> This study tested whether introduced trout cause the decline of the [[Mountain Yellow-Legged Frog]] (*Rana muscosa*) in protected Sierra Nevada wilderness. Using an eight-year experiment (1996 to 2003) in the [[Sixty Lake Basin]], the author removed [[Introduced Trout]], mainly [[Rainbow Trout]]...
+> -- *[[ReversingIntroducedSpeciesEffe_PML2804]]*
+
+### Mentioned In
+- [[ReversingIntroducedSpeciesEffe_PML2804]]
 
 ## Emersion
 
@@ -11869,8 +15363,24 @@ Emery Kolb was, with his brother Ellsworth, a photographer who lived near the Br
 > This early twentieth-century account by [[Ellsworth Kolb]] and [[Emery Kolb]] recounts their photographic journeys through the [[Grand Canyon]] and its tributaries, culminating in a 1911 boat trip from [[Green River]], Wyoming, to [[Needles]], California, which repeated [[Major John Wesley...
 > -- *[[ExperiencesInTheGrandCanyon_12612]]*
 
+> This is a 1914 *National Geographic Magazine* article (Vol. XXVI, No. 2, Washington, August 1914) by photographers [[Ellsworth Kolb]] and [[Emery Kolb]], known together as the [[Kolb Brothers]]. The article describes their photographic work in the [[Grand Canyon]], Arizona, and their river journeys...
+> -- *[[ExperiencesInTheGrandCanyon_PML1294]]*
+
 ### Mentioned In
 - [[ExperiencesInTheGrandCanyon_12612]]
+- [[ExperiencesInTheGrandCanyon_PML1294]]
+
+## Emery's Landing
+
+### Summary
+Emery's Landing is a resort on the Nevada side of Lake Mohave, near Eldorado Canyon, operated by Murl Emery. The source notes that a cold water front lies near the chalk cliffs above it in summer and that it sits roughly a mile to a mile and a half north of the winter position of that front. It is also associated with Murl Emery's reports of good channel catfish catches.
+
+### Context
+> This promotional insert from a wildlife and sportsman's magazine series profiles [[Lake Mohave]], an artificial reservoir on the [[Colorado River]] between [[Davis Dam]] and [[Hoover Dam]]. It describes the lake's history, its fish community, angling conditions, resort facilities, and a planned...
+> -- *[[MarvelousLakeMohave_PML0079]]*
+
+### Mentioned In
+- [[MarvelousLakeMohave_PML0079]]
 
 ## Emex Australis
 
@@ -11883,6 +15393,18 @@ Emex australis (Three-Corner Jack) is an introduced weed with long, sharp spines
 
 ### Mentioned In
 - [[BotanicalNotesOnMoundSpringsAn_15134]]
+
+## Emigration
+
+### Summary
+Emigration is the movement of individuals out of a habitat patch. In the source, the emigration rate scales with patch edge (perimeter), so larger patches lose a smaller proportion of their individuals. Lower emigration rates make population growth easier to achieve in a patch.
+
+### Context
+> This note covers chapters 1 and 2 of [[An Illustrated Guide to Theoretical Ecology]] by Ted J. Case (Oxford University Press, 2000), together with the publisher's errata list. The chapters develop the mathematics of unrestricted population growth in discrete and continuous time, then extend the...
+> -- *[[AnIllustratedGuideToTheoretica_PML0391]]*
+
+### Mentioned In
+- [[AnIllustratedGuideToTheoretica_PML0391]]
 
 ## Emil A. C. Fritz
 
@@ -12004,6 +15526,18 @@ Emlen and Oring (1977) developed a framework for classifying and analyzing matin
 ### Mentioned In
 - [[SexualSelectionInTheCuatroCien_20108]]
 
+## Emlen et al. 1989
+
+### Summary
+Emlen et al. 1989 is a reference cited in the bulletin as the source of tests and theory showing that the INHASS approach can also be applied to plants. The source does not give further details of that work.
+
+### Context
+> This document combines two freshwater fisheries items. The first is a Department of the Interior bulletin describing the [[INHASS]] (Interaction Assessment) method, a statistical approach for evaluating how habitat and species interactions shape fish population growth. The method is illustrated...
+> -- *[[IntassProvidesANewApproachToHa_PML0410]]*
+
+### Mentioned In
+- [[IntassProvidesANewApproachToHa_PML0410]]
+
 ## Emlin Transects
 
 ### Summary
@@ -12089,6 +15623,18 @@ A species of oak (Quercus emoryi) whose acorns, called bellotas, were a wild pla
 ### Mentioned In
 - [[LanduseHistoryOfTheResearchRan_17224]]
 
+## Emory River
+
+### Summary
+The Emory River is a Tennessee River tributary in Tennessee where the Spotfin Chub still survives. The source lists it as one of only four systems where the species is extant.
+
+### Context
+> This 1984 *Bulletin of the Alabama Museum of Natural History* paper by Robert E. Jenkins and Noel M. Burkhead provides the first detailed description of the [[Spotfin Chub]] (*Hybopsis monacha*), a small cyprinid endemic to the [[Tennessee River]] drainage. The species had a wide historical range...
+> -- *[[DescriptionBiologyAndDistribut_PML1174]]*
+
+### Mentioned In
+- [[DescriptionBiologyAndDistribut_PML1174]]
+
 ## Empetrichthyidae
 <!-- fm: auto_enriched: true -->
 
@@ -12135,6 +15681,12 @@ Empetrichthys is a genus of small cyprinodont fish endemic to the Death Valley r
 > This study examines [[Crenichthys Baileyi]], a springfish endemic to a chain of isolated warm springs in the pluvial [[White River]] system of southeastern Nevada. Drying of the pluvial river and the species' obligate spring existence have isolated populations, and differing spring temperature and...
 > -- *[[TaxonomicStatusAndMorphologyOf_12034]]*
 
+> Robert Rush Miller (1950, *Evolution* 4: 155–163) examines speciation in six species of two cyprinodontid genera, [[Cyprinodon]] and [[Empetrichthys]], inhabiting the isolated spring, stream and lake remnants of the [[Death Valley System]] in the [[Great Basin]]. The paper argues that [[Population...
+> -- *[[SpeciationInFishesOfTheGeneraC_PML1696]]*
+
+> This annotated checklist by [[James E. Deacon]] and [[Jack E. Williams]] (Proceedings of the Biological Society of Washington, vol. 97, no. 1, 1984) records all fishes known from Nevada during historical times, both native and introduced, whether or not established. The list comprises 160 fishes...
+> -- *[[AnnotatedListOfTheFishesOfNeva_PML0537]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[ArtificialHybridizationOfCreni_14299]]
@@ -12144,6 +15696,8 @@ Empetrichthys is a genus of small cyprinodont fish endemic to the Death Valley r
 - [[OsteologyAndPhylogenyOfOviparo_11369]]
 - [[FundulusLariversiANewMioceneFo_16246]]
 - [[TaxonomicStatusAndMorphologyOf_12034]]
+- [[SpeciationInFishesOfTheGeneraC_PML1696]]
+- [[AnnotatedListOfTheFishesOfNeva_PML0537]]
 
 ## Empetrichthys Erdisi
 <!-- fm: auto_enriched: true -->
@@ -12164,11 +15718,15 @@ Empetrichthys latos, commonly known as the Pahrump poolfish, is a small endemic 
 > This 1967 field survey, published in the [[California-Nevada Section Transactions]] (1969), assessed the current status of the native fishes of the [[Death Valley System]], a formerly interconnected Pleistocene drainage in eastern California and southwestern Nevada. Of nine species in three...
 > -- *[[ConservationOfFishesOfTheDeath_15351]]*
 
+> This symposium contribution by [[Robert Rush Miller]] (University of Michigan, published in the *Age and Origin of Species* volume) asks how fast freshwater fishes evolve in nature. The author argues that the fauna of western North America is a useful test case because it is made up of relict,...
+> -- *[[SpeciationRatesInSomeFreshwate_PML1728]]*
+
 ### Mentioned In
 - [[BullfrogPredation_1985_11_27]]
 - [[LetterFromJamesEDeaconToClarkH_1975_04_17]]
 - [[ReproductionAndGrowthOfThePahr_15649]]
 - [[ConservationOfFishesOfTheDeath_15351]]
+- [[SpeciationRatesInSomeFreshwate_PML1728]]
 
 ## Empetrichthys Latos Latos
 <!-- fm: auto_enriched: true -->
@@ -12227,8 +15785,24 @@ A drainage in the Empire-Cienega area that contributes perennial habitat to the 
 > This U.S. Fish and Wildlife Service (USFWS) biological opinion, dated June 3, 1998 (file 2-21-98-F-373), evaluates the Bureau of Land Management's proposed [[Cienega Creek]] Stream Restoration Project on the [[Empire-Cienega Resource Conservation Area]] (RCA) in southeastern Arizona. The...
 > -- *[[FormalConsultationForTheCieneg_13201]]*
 
+> This memorandum, dated April 13, 2006 and addressed to interested parties, reports a translocation of [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from [[Cienega Creek]] to a spring at [[Empire Gulch]] in Arizona. Fish were collected on April 11, 2006 on the [[Bureau Of Land...
+> -- *[[GilaTopminnowStockingAtEmpireG_PML0136]]*
+
+> This internal update from Fishery Biologist Jeff Simms, dated August 5, 2005, reports on the [[Endangered Species Conservation Update|Tucson Field Office]] program for federally listed and sensitive aquatic species in southeastern Arizona. Work covers habitat construction, regulatory compliance...
+> -- *[[EndangeredSpeciesConservationU_PML2368]]*
+
+> This document is a revised proposed rule from the [[U.S. Fish And Wildlife Service]] (Department of the Interior) to list the [[Gila Chub]] as an endangered species under the [[Endangered Species Act]] and to designate about 211.9 stream miles (340.9 stream km) of [[Critical Habitat]]. It reopens...
+> -- *[[EndangeredAndThreatenedWildlif_PML0783]]*
+
+> This Arizona Game and Fish Department (AGFD) technical report documents monitoring and management of two endangered desert fishes, [[Gila Topminnow]] and [[Desert Pupfish]], on [[Bureau of Land Management]] (BLM) lands from October 2002 through October 2003. The work was funded through a BLM...
+> -- *[[GilaTopminnowAndDesertPupfishM_PML2803]]*
+
 ### Mentioned In
 - [[FormalConsultationForTheCieneg_13201]]
+- [[GilaTopminnowStockingAtEmpireG_PML0136]]
+- [[EndangeredSpeciesConservationU_PML2368]]
+- [[EndangeredAndThreatenedWildlif_PML0783]]
+- [[GilaTopminnowAndDesertPupfishM_PML2803]]
 
 ## Empire Mountains
 
@@ -12279,6 +15853,18 @@ A public and state land area of about 74,000 acres in Pima County, Arizona, near
 ### Mentioned In
 - [[FormalConsultationForTheCieneg_13201]]
 - [[RioYaquiFishesTwoRefugesSustai_15979]]
+
+## Empirical Limnology
+
+### Summary
+Empirical Limnology was a school of thought, associated with F.H. Rigler and R.H. Peters, that promoted predictive empirical relationships in lake science. The source says it focused attention on prediction but presented prediction too narrowly, and that it was controversial.
+
+### Context
+> This invited perspective argues that [[Prediction]] is a central, under-examined objective of aquatic science and should be treated as a standard for judging research progress. It traces the influence of the [[Empirical Limnology]] school (F.H. Rigler and R.H. Peters), which promoted predictive...
+> -- *[[PredictionAndTheAquaticScience_PML2062]]*
+
+### Mentioned In
+- [[PredictionAndTheAquaticScience_PML2062]]
 
 ## Emporia Country Club Lake
 
@@ -12367,6 +15953,18 @@ The enabling framework is the set of conditions governments need to create so aq
 
 ### Mentioned In
 - [[FaoAquacultureNewsletter_14368]]
+
+## Enallagma
+
+### Summary
+Enallagma is a genus of damselflies (Odonata) with aquatic nymphs. In this study, Enallagma sp. nymphs were among the most common odonates in Lake Mohave backwaters and were tested as predators of small larval razorback suckers, with small larvae surviving at 79% compared with 88% in controls.
+
+### Context
+> This study tests whether dragonfly and damselfly nymphs, common in the Arizona-Nevada backwaters of [[Lake Mohave]], are a significant cause of high larval mortality in the endangered [[Razorback Sucker]]. Two laboratory aquarium experiments (1992 and 1993) showed that odonate nymphs can destroy...
+> -- *[[PredationByOdonateNymphsOnLarv_PML1093]]*
+
+### Mentioned In
+- [[PredationByOdonateNymphsOnLarv_PML1093]]
 
 ## Enallagma Concisum
 <!-- fm: auto_enriched: true -->
@@ -12594,6 +16192,18 @@ Quercus polymorpha, a Fagaceae oak of the park. The source describes woodland of
 ### Mentioned In
 - [[FloraRepresentativaDeChipinque_18740]]
 
+## Enclosure Experiment
+
+### Summary
+A study design in which fish are stocked and monitored inside fenced or screened pens placed in a larger water body. This report used twelve 1/8-acre enclosures at the Baeser wetland, built with field fence, hardware cloth, mesh screen, and buried skirts, to test larval survival at different stocking densities with nonnative predators.
+
+### Context
+> This Utah Division of Wildlife Resources final report, prepared by Ronald E. Brunson and Kevin D. Christopherson (October 2005) for the [[Upper Colorado River Endangered Fish Recovery Program]], tests how many [[Razorback Sucker]] and [[Bonytail]] larvae must enter a reset [[Floodplain Wetland]]...
+> -- *[[LarvalRazorbackSuckerAndBonyta_PML0305]]*
+
+### Mentioned In
+- [[LarvalRazorbackSuckerAndBonyta_PML0305]]
+
 ## Enclosure Methods
 
 ### Summary
@@ -12629,6 +16239,30 @@ Encope micropora is a dark reddish-purple sand dollar without notches but with o
 
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+
+## Encounter History
+
+### Summary
+The record of how each marked animal was observed over time, such as captured, resighted, recovered or not seen. The paper uses encounter-history codes adapted from Pollock et al. (1990) to organize the trout data.
+
+### Context
+> This methods paper (Barker, *Biometrics* 53, June 1997) proposes a [[Joint Modeling Framework]] for mark-recapture studies in which marked animals are observed three ways: [[Live Recapture]], [[Tag-Resight Model|resighting without capture]] anywhere in the animal's range, and [[Tag-Recovery...
+> -- *[[JointModelingOfLiverecaptureTa_PML0174]]*
+
+### Mentioned In
+- [[JointModelingOfLiverecaptureTa_PML0174]]
+
+## Encounter Probability
+
+### Summary
+Encounter probability is the chance that a marked animal in the population is detected or recaptured during a sampling period. In this source, it was roughly 2–15% with trammel nets alone but rose above 90% in 2006 and 2007 once remote antennas were added. Higher values give more information for survival estimation.
+
+### Context
+> This feature article from the May 2010 issue of *Fisheries* (the journal of the [[American Fisheries Society]]) reports a case study on [[Lost River Sucker]] (*Deltistes luxatus*), an endangered catostomid in [[Upper Klamath Lake]], Oregon. Traditional [[Trammel Nets]] sampling yielded too few...
+> -- *[[ImprovingInferencesFromFisheri_PML1050]]*
+
+### Mentioned In
+- [[ImprovingInferencesFromFisheri_PML1050]]
 
 ## Encyclia
 
@@ -12704,6 +16338,18 @@ An Interior Department program whose report, cited in the article, found that 76
 ### Mentioned In
 - [[EconomyPoliticsThreatenSpecies_13976]]
 
+## Endangered and Threatened Wildlife
+
+### Summary
+The U.S. federal list, codified at 50 CFR 17.11 and 17.12, of wildlife species determined by the Fish and Wildlife Service to be Endangered or Threatened under the Endangered Species Act. According to this source, it also includes similarity-of-appearance species, with entries identified by common name, scientific name, and vertebrate population, and it is current as of October 31, 1996. The species tables in this scan are largely illegible, so specific species cannot be reliably drawn from it.
+
+### Context
+> This document is a special reprint of the U.S. federal [[Endangered and Threatened Wildlife]] list, compiled from [[Code of Federal Regulations]] Title 50, sections 17.11 and 17.12, and current as of October 31, 1996. It was prepared by the Division of Endangered Species of the [[Fish and Wildlife...
+> -- *[[EndangeredAndThreatenedWildlif_PML2713]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedWildlif_PML2713]]
+
 ## Endangered And Threatened Wildlife And Plants
 
 ### Summary
@@ -12715,6 +16361,18 @@ This refers to species officially listed under the Endangered Species Act as req
 
 ### Mentioned In
 - [[ParticipationOfStateAgenciesIn_21205]]
+
+## Endangered and Threatened Wildlife List
+
+### Summary
+The official federal list of animal and plant species protected as endangered or threatened under the Endangered Species Act. This notice is not an addition to that list. It describes candidate taxa that are being considered for possible future addition, and candidates receive no protection under the Act.
+
+### Context
+> This Federal Register notice (published November 21, 1991, Vol. 56, No. 225) from the [[U.S. Fish and Wildlife Service]] is a Proposed Rule that presents a revised compilation of native U.S. vertebrate and invertebrate animal taxa being considered as candidates for possible addition to the...
+> -- *[[EndangeredAndThreatenedWildlif_PML0742]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedWildlif_PML0742]]
 
 ## Endangered Catostomids Of The Upper Klamath Basin
 <!-- fm: auto_enriched: true -->
@@ -12766,6 +16424,9 @@ Endangered Colorado River fishes refer to native fish species in the Colorado Ri
 > This plan, prepared by [[Richard S Wydoski]] for the [[Recovery Implementation Program]] (RIP) in the Upper Colorado River Basin, is a reference guide for the captive propagation of the four [[Endangered Colorado River Fishes]]: [[Razorback Sucker]], [[Bonytail]], [[Humpback Chub]], and [[Colorado...
 > -- *[[CoordinatedHatcheryFacilityPla_11714]]*
 
+> This 1994 plan, prepared under the [[Recovery Implementation Program]] for Endangered Fishes in the Upper Colorado River Basin, is a joint U.S. Fish and Wildlife Service, state and Bureau of Reclamation effort. It establishes the need for captive-reared [[Endangered Colorado River Fishes]] (the...
+> -- *[[CoordinatedHatcheryFacilityPla_PML2925]]*
+
 ### Mentioned In
 - [[AquaticCoordinationTeamMeeting_1991_10_28]]
 - [[CaptureOfRazorbackSuckersIrrig_1987_02_12]]
@@ -12778,6 +16439,7 @@ Endangered Colorado River fishes refer to native fish species in the Colorado Ri
 - [[StomachPumpFeasibilityStudy_1991_04_02]]
 - [[SummaryOfManualSpawningOfRazor_1993_03_26]]
 - [[CoordinatedHatcheryFacilityPla_11714]]
+- [[CoordinatedHatcheryFacilityPla_PML2925]]
 
 ## Endangered Desert Fishes
 <!-- fm: auto_enriched: true -->
@@ -12827,17 +16489,33 @@ Endangered Fish Conservation refers to the scientific and management strategies 
 > This mixed archive combines four kinds of material: (1) a reprinted description of the new minnow [[Notropis Saladonis]] from the [[Rio Salado]] system of northeastern Mexico (Hubbs and Hubbs, *Copeia* 1958, no. 4, pp. 298–299); (2) a long series of handwritten and scanned field collection and...
 > -- *[[FieldNotesgMarshiDissections_16070]]*
 
+> This internal memorandum, dated 14 September 1993, from the [[Gila Taxonomy Project]] at the [[National Museum Of Natural History]] sets out a plan to salvage frozen tissue from Mohave bonytail specimens. The tissue is held at Dexter and at [[Arizona State University]]. Gary Carmichael and Jim...
+> -- *[[SalvageOfBonytailTissues_PML2440]]*
+
 ### Mentioned In
 - [[BonytailReceivedCaughtInLakeMo_15286]]
 - [[LetterToWLMinckleyOnGcesDataSu_1993_10_15]]
 - [[ReviewOfHumpbackChubPropagatio_1993_03_10]]
 - [[FieldNotesgMarshiDissections_16070]]
+- [[SalvageOfBonytailTissues_PML2440]]
 
 ## Endangered Fish Culture
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[FisheriesNews_1993_12_21]]
+
+## Endangered Fish Grow-Out Facility
+
+### Summary
+A proposed set of managed ponds on the Cibola National Wildlife Refuge where young Razorback Sucker and Bonytail Chub would be reared to a larger size before release into the Colorado River. The source describes it as the proposed action (Alternative A), with ponds built with a ditch and water control structures so they can be managed and drained.
+
+### Context
+> This document is a proposal and environmental assessment (partly illegible from scanning) for a [[Endangered Fish Grow-Out Facility]] at the [[Cibola National Wildlife Refuge]] in Arizona. The U.S. Fish and Wildlife Service, with the Arizona Game and Fish Department and the U.S. Bureau of...
+> -- *[[ProposedEndangeredFishGrowoutF_PML1591]]*
+
+### Mentioned In
+- [[ProposedEndangeredFishGrowoutF_PML1591]]
 
 ## Endangered Fish Habitat Requirements
 <!-- fm: auto_enriched: true -->
@@ -12887,8 +16565,12 @@ The four native minnow-family fishes protected in the upper Colorado River syste
 > This scheme was intended to standardize ranking of bottomland value for [[Endangered Fish Recovery]] purposes.
 > -- *[[ReconnaissanceSurveyAndInvento_1993]]*
 
+> This report, by Gordon Mueller (US Geological Survey, Denver) and Ed Wick (National Park Service, Fort Collins), evaluates whether the two lined ponds of the [[Lake Powell National Golf Course]] in Page, Arizona, can serve as a low-cost grow-out facility for endangered [[Razorback Sucker]] using...
+> -- *[[TestingOfGolfCoursePondsAtPage_PML1939]]*
+
 ### Mentioned In
 - [[ReconnaissanceSurveyAndInvento_1993]]
+- [[TestingOfGolfCoursePondsAtPage_PML1939]]
 
 ## Endangered Fish Recovery Implementation Program
 <!-- fm: auto_enriched: true -->
@@ -12984,6 +16666,18 @@ Endangered Fish Reintroduction is the process of deliberately returning extirpat
 
 ### Mentioned In
 - [[LetterToGeorgeDivineOnRazorbac_1996_06_25]]
+
+## Endangered Fish Research
+
+### Summary
+Research programs studying endangered fish in the Colorado River Basin. In this source, researchers use implanted electronic tags, routinely applied in this work, to track fish such as Colorado squawfish as they pass through the Redlands Fish Ladder.
+
+### Context
+> A U.S. Fish and Wildlife Service news release (July 23, 1997) reports that a fourth endangered [[Colorado Squawfish]] ascended the [[Redlands Fish Ladder]] on the [[Gunnison River]] near [[Grand Junction]], Colorado. The fish is the third endangered fish to use the ladder in two weeks and the...
+> -- *[[FourthEndangeredFishUsesGunnis_PML2729]]*
+
+### Mentioned In
+- [[FourthEndangeredFishUsesGunnis_PML2729]]
 
 ## Endangered Fish Species
 <!-- fm: auto_enriched: true -->
@@ -13100,10 +16794,22 @@ Endangered fish species are aquatic fauna populations officially designated by r
 > Gary K. Meffe's 1986 review in *Fisheries* (Vol. 11, No. 1) argues that [[Endangered Fishes]] management must incorporate [[Conservation Genetics]] from the outset of recovery programs. The paper is a primarily theoretical treatise. It identifies forces that erode genetic variation in small...
 > -- *[[ConservationGeneticsAndTheMana_20072]]*
 
+> This Arizona Game and Fish Department report (Federal Aid in Sport Fish Restoration, Dingell-Johnson Project F-14-R-14, May 1986, by [[Richard Dreyer]] and William R. Persons) reviews the literature on 20 candidate [[Forage Fish]] species for [[Lake Mead]]. It was prepared because [[Striped Bass]]...
+> -- *[[ReviewOfPotentialForageFishInt_PML0640]]*
+
+> This U.S. Fish and Wildlife Service Biological Report (No. 24, July 1994), authored by [[Jack A. Stanford]] of the Flathead Lake Biological Station, University of Montana, is an independent scientific review of the instream flow science used to justify flow recommendations for four [[Endangered...
+> -- *[[InstreamFlowsToAssistTheRecove_PML2437]]*
+
+> This 1985 study by [[John G. Carter]], [[Richard A. Valdez]], [[Ronald J. Ryel]] and [[Vincent A. Lamarra]] (Ecosystems Research Institute, Logan, Utah) quantified how the surface area of fish habitat types in a two-mile reach of the [[Upper Colorado River]] near Parachute, Colorado changes with...
+> -- *[[FisheriesHabitatDynamicsInTheU_PML0389]]*
+
 ### Mentioned In
 - [[LetterRegardingCommitteeQuesti_1993_02_26]]
 - [[ConceptualManagementPlanForHab_13899]]
 - [[ConservationGeneticsAndTheMana_20072]]
+- [[ReviewOfPotentialForageFishInt_PML0640]]
+- [[InstreamFlowsToAssistTheRecove_PML2437]]
+- [[FisheriesHabitatDynamicsInTheU_PML0389]]
 
 ## Endangered Fishes Of North America
 <!-- fm: auto_enriched: true -->
@@ -13230,6 +16936,18 @@ Endangered Freshwater Fish Conservation encompasses the scientific and managemen
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 
+## Endangered Populations
+
+### Summary
+This refers to populations that are rare within Utah even when the species is not endangered across its whole range. The report notes that fish ranges follow river systems rather than state lines, so a population can be locally at risk while the species as a whole is not.
+
+### Context
+> This report, reprinted from the *Proceedings of the Utah Academy of Sciences, Arts, and Letters* (vol. 51, part 2, 1974), catalogs the fish species and populations in Utah that are endangered, threatened, or of indeterminate status. It was prepared by the [[Utah Fishes Committee]] of the Bonneville...
+> -- *[[ThreatenedFishesOfUtah_PML1074]]*
+
+### Mentioned In
+- [[ThreatenedFishesOfUtah_PML1074]]
+
 ## Endangered Rare And Threatened Species
 
 ### Summary
@@ -13297,6 +17015,45 @@ An endangered species, in the context of fish science and conservation biology, 
 > This study tests whether [[Electrophoretic Genotyping]] can be run on [[Non-Lethal Genetic Sampling|low-risk tissues]] (blood, fins, and scale epithelium) of [[Largemouth Bass]] (*[[Micropterus Salmoides]]*) instead of invasive liver biopsy or necropsy. The authors used [[Starch Gel...
 > -- *[[GeneticMarkerIdentificationInL_17427]]*
 
+> This 1986 letter from the [[California Department of Fish and Game]] (Inland Fisheries Division) to the [[U.S. Fish and Wildlife Service]] (Endangered Species Office, Sacramento) reports that the state no longer considers it necessary to designate planned reintroductions of [[Bonytail]] and...
+> -- *[[LetterOnWithdrawalOfExperiment_PML2188]]*
+
+> This 1991 internal memorandum from the [[Arizona Fishery Resources Office]] (Pinetop, AZ) to the Regional Director in Albuquerque, NM, sets out the author's views on how [[Native Fish Handling Protocol|native fishes]] should be managed during surveys, collections, and hatchery work. The author...
+> -- *[[NativeFishHandlingProtocol_PML2694]]*
+
+> This FY 2001 annual project report from the [[Colorado River Recovery Program]] describes the first of three planned years of sampling for an [[Endangered Species]] [[Humpback Chub]] population in Desolation/Gray Canyon on the [[Green River]], Utah. The work was run by the [[Utah Division of...
+> -- *[[HumpbackChubPopulationEstimate_PML1122]]*
+
+> This short research note by [[Paul C. Marsh]] (Center for Environmental Studies and Department of Zoology, [[Arizona State University]]) reports the digestive tract contents of 34 preserved adult [[Razorback Sucker]] (*Xyrauchen texanus*) collected from [[Lake Mohave]], Arizona-Nevada. Contents...
+> -- *[[DigestiveTractContentsOfAdultR_PML1455]]*
+
+> Creger and Deacon tested how [[Woundfin]] (*Plagopterus argentissimus*), an endangered minnow, responded to different substrates and current speeds in an outdoor concrete stream at the [[University of Nevada Las Vegas]]. Woundfin spawned over rock substrate in a 0.6 to 0.9 m/sec current at 10 cm...
+> -- *[[ObservationsOnWoundfinSpawning_PML0905]]*
+
+> This study tests whether [[Electrophoretic Genotyping]] can be carried out on [[Largemouth Bass]] (*[[Micropterus Salmoides]]*) using low-risk tissues, so that fish can be genotyped without the loss of health or reproductive performance that invasive [[Fish Biopsy]] or necropsy causes. The authors...
+> -- *[[GeneticMarkerIdentificationInL_PML0367]]*
+
+> This USDA Forest Service Research Note (RM-382, February 1980) by [[John N. Rinne]], [[Bryce Rickel]], and [[Dean Hendrickson]] reports a newly discovered population of the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*), an [[Endangered Species]], in an intermittent stream in Redrock...
+> -- *[[ANewGilaTopminnowLocalityInSou_PML2236]]*
+
+> This document combines two linked pieces. The opening fragment reports perinatal mortality in zoo ungulates, with a focus on the [[Dorcas Gazelle]] herd at the [[Smithsonian National Zoological Park]]. The main article, by Chesser, Smith and Lehr Brisbin of the [[Savannah River Ecology...
+> -- *[[ManagementAndMaintenanceOfGene_PML0409]]*
+
+> This study by [[Douglas et al. 1990s Study|Douglas, Minckley, and Tyus]] tests whether field technicians with no specialized systematics training can separate morphologically similar [[Colorado River Chubs]] of the *Gila robusta* complex. Qualitative rankings of body-region features, scored from 1...
+> -- *[[QualitativeCharactersIdentific_PML0600]]*
+
+> This document is a reprint of a 1997 [[Science]] review by Botsford, Castilla and Peterson on the [[Management of Fisheries]] and [[Marine Ecosystem Management]]. It argues that the global marine fish catch is near its upper limit and that management has failed to prevent overfishing. The authors...
+> -- *[[TheManagementOfFisheriesAndMar_PML0257]]*
+
+> This source is a 1999 facility record (a funding or activity listing) for the [[Dexter National Fish Hatchery and Technology Center]]. It lists 16 line items covering 14 fish species that were "maintained as a refugium species" at the facility during 1999. Twelve items are [[Endangered Species]],...
+> -- *[[DnfhFyAnnualReport_PML2743]]*
+
+> This Master of Science study proposal, submitted in partial fulfillment of degree requirements, examines why [[Razorback Sucker]] (*Xyrauchen texanus*) fails to recruit in the [[Colorado River Basin]], particularly in [[Lake Mohave]]. The proposal argues that two factors may be involved: predation...
+> -- *[[LarvalRazorbackSuckerXyrauchen_PML1060]]*
+
+> This 1974 report, prepared for the [[U.S. Bureau of Reclamation]] under a cooperative agreement with the [[California Department of Fish and Game]], inventories fish, reptile, amphibian, mammal and bird resources, and recreational consumptive use, along the 49-mile [[Coachella Canal]] and adjacent...
+> -- *[[InventoryOfTheFishAndWildlifeR_PML2159]]*
+
 ### Mentioned In
 - [[BullfrogPredation_1985_11_27]]
 - [[EndangeredAndThreatenedWildlif_1993_03_16]]
@@ -13324,6 +17081,19 @@ An endangered species, in the context of fish science and conservation biology, 
 - [[FisheriesAndWildlifeResearch_13305]]
 - [[RareAndEndangeredVertebratesOf_17923]]
 - [[GeneticMarkerIdentificationInL_17427]]
+- [[LetterOnWithdrawalOfExperiment_PML2188]]
+- [[NativeFishHandlingProtocol_PML2694]]
+- [[HumpbackChubPopulationEstimate_PML1122]]
+- [[DigestiveTractContentsOfAdultR_PML1455]]
+- [[ObservationsOnWoundfinSpawning_PML0905]]
+- [[GeneticMarkerIdentificationInL_PML0367]]
+- [[ANewGilaTopminnowLocalityInSou_PML2236]]
+- [[ManagementAndMaintenanceOfGene_PML0409]]
+- [[QualitativeCharactersIdentific_PML0600]]
+- [[TheManagementOfFisheriesAndMar_PML0257]]
+- [[DnfhFyAnnualReport_PML2743]]
+- [[LarvalRazorbackSuckerXyrauchen_PML1060]]
+- [[InventoryOfTheFishAndWildlifeR_PML2159]]
 
 ## Endangered Species (Federal List)
 <!-- fm: auto_enriched: true -->
@@ -14716,6 +18486,1356 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This is the front matter, introduction and chapter sequence of *Biotic Communities of the American Southwest – United States and Mexico*, edited by [[David E. Brown]] and published as a companion to the 1:1,000,000 color map *Biotic Communities of the Southwest* ([[Brown and Lowe Map]], 1978/1980)....
 > -- *[[BioticCommunitiesOfTheAmerican_13023]]*
 
+> This is an interagency correspondence (memorandum with an attached species list) from the U.S. Fish and Wildlife Service's [[Dexter National Fish Hatchery]] in Dexter, New Mexico, to researchers at Arizona State University in Tempe. The hatchery manager, signed by Buckley L. Jensen, asks the...
+> -- *[[RequestForNativeFishesResearch_PML1188]]*
+
+> This U.S. Fish and Wildlife Service (Service) memorandum concerns a draft [[Biological Opinion]] on the [[Mimbres Resource Management Plan]] (RMP) for the [[Mimbres Resource Area]] in southwestern New Mexico. The opinion is prepared under Section 7 of the [[Endangered Species Act]] at the request...
+> -- *[[BiologicalOpinionOnTheMimbresR_PML2728]]*
+
+> This document is a March 13, 2009 email from [[Harold Tyus]], a senior research scientist at the University of Colorado at Boulder, to Robin Silver of the Native Fish Lab. Tyus argues that the endangered fishes of the Upper Colorado River Basin are in worse shape than before, and that the [[Upper...
+> -- *[[UpperBasinEndangeredFish_PML2539]]*
+
+> This is a resolution adopted by the [[Desert Fishes Council]] at its Tenth Annual Symposium in Las Cruces, New Mexico, on November 17, 1978, and dated February 1979. It responds to a request from the [[U.S. Fish and Wildlife Service]] for comment on the [[Colorado Squawfish]] [[Recovery Plan]] and...
+> -- *[[ResolutionRelativeToTheColorad_PML2285]]*
+
+> This annual report, submitted by [[William J. Matter]] of the [[University Of Arizona]] to the [[U.S. Fish And Wildlife Service]] under endangered species subpermit PRT-57681-1, covers work on the [[Gila Topminnow]]. Planned field trapping in [[Cienega Creek]] did not take place because no graduate...
+> -- *[[AnnualReportForUsFishAndWildli_PML1604]]*
+
+> This letter from the [[U.S. Fish And Wildlife Service]] (Arizona Ecological Services Field Office, dated July 24, 1997) informs interested parties of three final rules published in the [[Federal Register]] in July 1997 concerning endangered species in the Southwest. The rules cover a proposed...
+> -- *[[EndangeredSpeciesRegulatoryUpd_PML2727]]*
+
+> This AESFO Activity Reporting System (ARS) submission, prepared by Doug Duncan, documents a fish stocking effort in Arizona carried out by [[The Nature Conservancy]] (TNC), the [[Bureau of Land Management]] (BLM), and the [[Arizona Game and Fish Department]] (AGFD). A total of 150 [[Gila...
+> -- *[[AesfoActivityReportTopminnowAn_PML0019]]*
+
+> This 1986 letter from the [[California Department of Fish and Game]] (Inland Fisheries Division) to the [[U.S. Fish and Wildlife Service]] (Endangered Species Office, Sacramento) reports that the state no longer considers it necessary to designate planned reintroductions of [[Bonytail]] and...
+> -- *[[LetterOnWithdrawalOfExperiment_PML2188]]*
+
+> This Federal Register document is a regulatory notice, not a research report. Its main part is a U.S. Fish and Wildlife Service (FWS) notice withdrawing the [[Razorback Sucker]] (*Xyrauchen texanus*) listing proposal. The proposal was issued on April 24, 1978, to list the species as Threatened...
+> -- *[[EndangeredAndThreatenedWildlif_PML0716]]*
+
+> This [[Federal Register]] notice, published September 15, 1993 (Vol. 58, No. 177), is issued by the [[U.S. Fish and Wildlife Service]] (Service). It announces the availability of a [[Biological Support Document]] for the proposed designation of [[Critical Habitat]] for four endangered Colorado...
+> -- *[[EndangeredAndThreatenedWildlif_PML0748]]*
+
+> This 1985 letter from the [[Colorado River Wildlife Council]] (CRWC) to the Regional Director of the [[U.S. Fish and Wildlife Service]] (USFWS) raises concern about the rapid decline of the [[Razorback Sucker]] (*Xyrauchen texanus*). The largest known population, in [[Lake Mohave]], is estimated at...
+> -- *[[RazorbackSuckerManagementPropo_PML0349]]*
+
+> This document is a [[Federal Register]] notice from the [[U.S. Fish and Wildlife Service]] (the Service) announcing a public hearing on the proposed listing of two closely related fish, the [[Clover Valley Speckled Dace]] and the [[Independence Valley Speckled Dace]], as endangered under the...
+> -- *[[EndangeredAndThreatenedWildlif_PML0736]]*
+
+> A letter dated February 3, 1981, from the [[U.S. Fish and Wildlife Service]] Phoenix Area Office to Robert Jantzen, Director of the [[Arizona Game and Fish Department]], proposes a cooperative management agreement for the [[Razorback Sucker]] (*Xyrauchen texanus*) as an alternative to keeping the...
+> -- *[[RazorbackSuckerCooperativeMana_PML2627]]*
+
+> This document is a set of 1993 regulatory materials from the [[U.S. Fish And Wildlife Service]] (Service) concerning a petition to list the [[Virgin Spinedace]] as an endangered species under the [[Endangered Species Act]] of 1973, as amended. The Service issued a 90-day finding, published in the...
+> -- *[[NoticeOfDayFindingOnPetitionTo_PML0754]]*
+
+> This article summarizes the 1993 *State Expenditure Report* by the [[International Association of Fish and Wildlife Agencies]], the third annual report on state spending for federally listed threatened and endangered (T/E) species. The survey was mandated by a 1988 amendment to the [[Endangered...
+> -- *[[StateExpendituresOnFederallyLi_PML0492]]*
+
+> This short comment in *Environmental Ethics* (Vol. 28, pp. 333–334) responds to an argument, published in volume 27 (2005) of the same journal, that endangered [[Razorback Sucker]] populations should be allowed to go extinct rather than be sustained by human intervention. The argument holds that...
+> -- *[[RazorbackSuckerManagementAndTh_PML1275]]*
+
+> This July 26, 1983 letter from the Recovery Team Leader to Regional Director [[Galen Buterbaugh]] of the U.S. Fish and Wildlife Service, Denver, responds to comments on the draft recovery plans for the [[Colorado Squawfish]], [[Bonytail Chub]], and [[Humpback Chub]]. The team disputes several...
+> -- *[[RecoveryTeamResponseToDraftRec_PML0041]]*
+
+> This *Federal Register* extract (Vol. 58, No. 48, Monday, March 15, 1993) contains several agency notices. The main item is a correction by the [[Fish and Wildlife Service]] to the proposed critical habitat rule for four endangered [[Colorado River Fishes]]: the [[Razorback Sucker]], [[Colorado...
+> -- *[[EndangeredAndThreatenedWildlif_PML0747]]*
+
+> The [[U.S. Fish and Wildlife Service]] (Service) letter, dated March 30, 2007, requests new and substantial data to support a review and revision of the 2002 [[Recovery Goals]] for four endangered fishes of the [[Colorado River Basin]]. The Service plans to use the revised goals as guidance when...
+> -- *[[RecoveryGoalRevisionRequestFor_PML2644]]*
+
+> This commentary responds to [[Wayne and Jenks 1991]], which proposed a hybrid origin for the [[Red Wolf]] from [[Grey Wolf]] and [[Coyote]] parentage. The authors argue that the debate has confused two issues: (1) how genetic characters should be used to identify species and hybrids, and (2) the...
+> -- *[[UseOfGeneticCharactersInConser_PML0628]]*
+
+> The National Park Service (NPS), working with partners, planned a mid-June 2009 translocation of 300 juvenile [[Humpback Chub]] (*[[Gila Cypha]]*) from the [[Little Colorado River]] to [[Shinumo Creek]], a small clear tributary of the [[Colorado River]] inside [[Grand Canyon National Park]]. The...
+> -- *[[EndangeredHumpbackChubToBeTran_PML2033]]*
+
+> This March 9, 2005 letter from three members of the [[Apache Trout Recovery Team]] (Robert W. Clarkson, Jerry G. Ward, and Alex A. Puglisi) to Dale Hall, Regional Director of the [[U.S. Fish and Wildlife Service]] (Region 2), objects to the draft revision of the [[Apache Trout]] recovery plan. The...
+> -- *[[InadequaciesOfTheOngoingRevisi_PML0452]]*
+
+> This one-to-two-page U.S. Fish and Wildlife Service interoffice memorandum reports four [[Razorback Sucker]] (*Xyrauchen texanus*) captured in January 1986 near [[Parker Arizona]] and released in the main canal of the [[Colorado River]]. It was sent from the Fishery Management Biology project...
+> -- *[[RazorbackSuckers_PML2929]]*
+
+> This compiled record from the [[Desert Fishes Council]] and the [[Southwestern Fishes Council]] covers several 1975 activities in fish conservation. It includes an update on recovery team functioning, a presentation on the [[Endangered Species Act]] and [[Critical Habitat]], and a proposed list of...
+> -- *[[SouthwesternAndSoutheasternFis_PML0583]]*
+
+> This document is a correspondence file, not a research study. It contains a request from the [[Bureau Of Reclamation]] (Lower Colorado Regional Office) for peer review of the proposed Habitat Credit Performance Standards for the [[Lower Colorado River Multi-Species Conservation Program]] ([[LCR...
+> -- *[[RequestForPeerReviewOfThePropo_PML2592]]*
+
+> This scanned document is a fragmentary compilation of three items. It contains (1) a reference list for [[Goliath Frog]] biology and herpetological collecting in Cameroon, (2) a [[Fish and Wildlife Service]] proposed rule to add the Goliath frog (*[[Conraua Goliath]]*) to the Endangered and...
+> -- *[[EndangeredAndThreatenedWildlif_PML0744]]*
+
+> This Federal Register compilation (Vol. 55, No. 202/207, October 1990) is a set of agency notices rather than a research paper. Its fish-related content concerns two federally listed threatened cyprinids, the [[Loach Minnow]] and the [[Spikedace]], whose draft [[Recovery Plan]]s were made available...
+> -- *[[AvailabilityOfDraftRecoveryPla_PML0740]]*
+
+> This primer note reports the development of tetranucleotide [[Microsatellite Markers]] for the [[Lahontan Tui Chub]] (*Gila bicolor obesa*), a freshwater cyprinid from the western United States. From a [[(GATA)n Enriched Library]], 37 primer pairs were designed and 17 gave clearly resolved PCR...
+> -- *[[MicrosatelliteLociInTheLahonta_PML1677]]*
+
+> A memorandum from the [[U.S. Fish and Wildlife Service]] Region 2 Director asks the national Ecological Services office to add three sucker species to the [[Animal Candidate Review]] List under 50 CFR Part 17: the [[Sonora Sucker]], the [[Desert Sucker]], and the [[Little Colorado Sucker]]....
+> -- *[[AdditionsToAnimalCandidateRevi_PML2689]]*
+
+> This document is a February 2005 U.S. Fish and Wildlife Service (Service) correspondence and Federal Register notice announcing the availability of a draft [[Safe Harbor Agreement]] (SHA) and an application for an [[Enhancement of Survival Permit]] submitted by the Arizona Chapter of [[The Nature...
+> -- *[[NoticeOfAvailabilityOfDraftSaf_PML0797]]*
+
+> This 1980 annual report from [[Dexter National Fish Hatchery]] (Dexter NFH) describes the station's shift from warmwater sport fish production to the holding, propagation and rearing of rare, threatened and endangered southwestern fishes. In 1980 the station held 14 species and two hybrid chubs....
+> -- *[[AnnualReportDexterNationalFish_PML1180]]*
+
+> This document is a July 1981 letter from an ichthyologist (signature partly garbled by OCR, rendered as "E. Williams, Ph.D.") to Bill Loudermilk of the [[California Department of Fish and Game]], enclosing an earlier letter to Jim Johnson of the [[U.S. Fish and Wildlife Service]]. Both letters...
+> -- *[[RazorbackSuckerRecoveryWithout_PML2898]]*
+
+> This document is a March 30, 1995 fax transmittal and cover letter from the [[Central Arizona Water Conservation District]] (CAWCD) to Conrad Fjetland, Regional Director of the [[U.S. Fish and Wildlife Service]] (Service), Region 2, in Albuquerque. It submits formal comments and questions on the...
+> -- *[[CommentsAndQuestionsRegardingT_PML1987]]*
+
+> This Fish and Wildlife Service notice, published in the *Federal Register* on July 11, 1994, reports 90-day and 12-month findings on a petition to reclassify the [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) from threatened to endangered under the [[Endangered Species...
+> -- *[[EndangeredAndThreatenedWildlif_PML0763]]*
+
+> This document combines two items on native and endangered fishes of the [[Colorado River]] system. The first is the minutes of a [[Lower Basin Subcommittee]] meeting held March 13–14, 1981, covering backwater renovation at [[Lake Mohave]], a [[Bonytail Chub]] rearing and stocking plan, a [[Lower...
+> -- *[[LowerBasinSubcommitteeMeetingM_PML1797]]*
+
+> This Federal Register issue (Vol. 63, No. 57, pages 14378–14379) is a compilation of regulatory notices rather than a research paper. Its main item is a final rule from the [[Fish And Wildlife Service]] that removes designated [[Critical Habitat]] for the [[Mexican Spotted Owl]], [[Loach Minnow]]...
+> -- *[[FisheriesOfTheExclusiveEconomi_PML0789]]*
+
+> This 1988 memorandum from the [[U.S. Fish and Wildlife Service]] (Phoenix, Arizona) to the [[Bureau of Indian Affairs]] Phoenix Area Office addresses a formal [[Section 7 Consultation]] on the proposed [[Miner Flat Dam Project]] under the [[Endangered Species Act]]. The Service expects to concur...
+> -- *[[FormalSectionConsultationMiner_PML2666]]*
+
+> This draft Memorandum of Understanding (MOU), dated May 17, 1984, sets out a cooperative framework among the [[United States Fish and Wildlife Service]] (USFWS), the [[United States Bureau of Reclamation]], and the states of [[Colorado]], [[Utah]], and [[Wyoming]]. The parties aim to conserve...
+> -- *[[MemorandumOfUnderstanding_PML2633]]*
+
+> This March 11, 2005 memorandum from the [[Fish And Wildlife Service]] Mountain-Prairie Region, signed by [[Ralph O. Morgenweck]] and addressed to the Regional Directors of Regions 2 and 6, comments on a draft [[Genetic Policy]] for [[Endangered Species Act]] (ESA) activities. The Regional Director...
+> -- *[[PolicyOnGeneticsInEndangeredSp_PML1922]]*
+
+> This scoping report, issued in October 2004, announces a joint proposal by the [[Bureau of Reclamation]] and the [[Forest Service]] to restore native fish in the [[Blue River]] drainage of eastern Arizona. The agencies would eliminate nonnative predatory fish from 5 tributary streams of the upper...
+> -- *[[ProposalForNativeFishRestorati_PML2604]]*
+
+> This note covers two linked documents: the agenda and field updates from the [[Little Colorado Spinedace]] Recovery Team meeting held July 25, 2008, at the [[Black Mesa Ranger District]] in Arizona, and a July 14, 2008 letter from the [[U.S. Fish and Wildlife Service]] (Service) responding to the...
+> -- *[[LcSpinedaceRecoveryMeeting_PML1343]]*
+
+> A news article in the *Endangered Species Technical Bulletin* (Vol. XIX, No. 1, 1994) by Connie Young describes a new five-year [[Recovery Plan]] for four endangered fishes endemic to the [[Colorado River Basin]]. The plan was completed in 1993 by the [[U.S. Fish and Wildlife Service]] (FWS). It...
+> -- *[[NewPlanOutlinesStepsToRecoverE_PML2937]]*
+
+> This U.S. Geological Survey Research Information Bulletin (1994) evaluates whether inorganic contaminants in irrigation water threaten three endangered fishes of the [[Green River]] in Utah: [[Colorado Squawfish]], [[Razorback Sucker]], and [[Bonytail]]. The work followed a Department of the...
+> -- *[[EndangeredFishInTheGreenRiverO_PML0682]]*
+
+> This document is a regulatory notice and cover correspondence from the [[U.S. Fish and Wildlife Service]] (Service), issued through the [[Federal Register]]. It extends the comment period on a proposal to list the [[Rio Grande Silvery Minnow]] (*[[Hybognathus Amarus]]*) as an endangered species...
+> -- *[[EndangeredAndThreatenedWildlif_PML0750]]*
+
+> This U.S. Fish and Wildlife Service report (Arizona Fishery Resources Office, Parker; June 2006) documents a May 2006 netting effort on [[Lake Mohave]] to collect wild [[Bonytail Chub]] (*Gila elegans*) for the [[Broodstock Management|broodstock]] at the [[Willow Beach National Fish Hatchery]]....
+> -- *[[BonytailRoundupReportLakeMohav_PML1805]]*
+
+> This annual report from the [[Arizona Game and Fish Department]] covers fiscal year (FY) 2011 (July 1, 2010 to June 30, 2011) under the statewide [[Safe Harbor Agreement]] (SHA) for [[Gila Topminnow]] and [[Desert Pupfish]]. The agreement was signed by the Department and the [[US Fish and Wildlife...
+> -- *[[SectionAaPermitAnnualReport_PML0139]]*
+
+> This August 7, 1997 letter from the [[U.S. Fish And Wildlife Service]] (Arizona Ecological Services Field Office) transmits the final determination on extirpation of stocked populations of [[Gila Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) at sites in...
+> -- *[[SitesDeclaredExtirpatedForGila_PML2726]]*
+
+> This U.S. Fish and Wildlife Service letter, dated January 1992 and sent from the Utah Field Office, summarizes the December 1991 meeting of the [[Colorado River Fishes Recovery Team]] and requests information for establishing [[Critical Habitat]] for the [[Razorback Sucker]], a federally listed...
+> -- *[[RazorbackSuckerCriticalHabitat_PML2687]]*
+
+> This document is a law review-style analysis (reproduced in a 2014 email, with OCR artifacts) of the [[Upper Colorado River Endangered Fish Recovery Program]] ("Recovery Program"), a cooperative effort to recover four endangered native fishes of the [[Upper Colorado River Basin]]: [[Bonytail...
+> -- *[[TheUpperColoradoRiverEndangere_PML2491]]*
+
+> This U.S. Fish and Wildlife Service Ecological Services trip report, dated September 1988, documents a two-day field survey of the [[Loach Minnow]] (*Tiaroga cobitis*) in the [[White River]] drainage on the [[White Mountain Apache Reservation]], Arizona. The visit supported a [[Section 7...
+> -- *[[TripReportWhiteRiverSeptember_PML2667]]*
+
+> This 1991 policy essay by [[Stephen J. O'Brien]] and [[Ernst Mayr]] argues that the [[Endangered Species Act]] (ESA) of 1973 is being misapplied because of unclear taxonomy and the treatment of hybrids. The authors examine four ESA-listed taxa, the [[Florida Panther]], [[Gray Wolf]], [[Red Wolf]],...
+> -- *[[BureaucraticMischiefRecognizin_PML2035]]*
+
+> This document is a 1989 letter from the [[Fish And Wildlife Service]] Regional Director to Tom Pitts, a consultant, explaining why the Service, not the [[Recovery Implementation Committee]], holds ultimate authority for setting recovery goals for three endangered Colorado River fishes: the...
+> -- *[[RecoveryAuthorityAndRecoveryGo_PML0347]]*
+
+> This excerpt from [[Life On The Edge]], Volume 1: Wildlife, profiles the [[Razorback Sucker]], a long-lived endangered fish of the [[Colorado River]] basin. It is listed as endangered by both federal and state agencies. The text covers the species' biology, habitat needs, spawning behavior, range,...
+> -- *[[RazorbackSucker_PML1435]]*
+
+> This document is a cover letter dated July 6, 1994, from the [[U.S. Fish and Wildlife Service]] (FWS) Utah Field Office, signed by Assistant Field Supervisor Robert D. Williams. It encloses a [[Federal Register]] notice concerning the proposed listing of the [[Virgin Spinedace]] as a threatened...
+> -- *[[VirginSpinedaceProposedListing_PML0766]]*
+
+> This document is a set of administrative correspondence from the [[U.S. Fish and Wildlife Service]] (USFWS) Albuquerque regional office. It covers the federal permit issued under the [[Endangered Species Act]] (16 USC 1539(a), regulations at [[50 CFR 17.22]]) that authorizes [[Arizona State...
+> -- *[[FederalFishAndWildlifePermitPr_PML2417]]*
+
+> This commentary by [[Robert K. Wayne]] (Institute of Zoology, London) responds to [[Dowling et al. (1992)]], who argued that the [[Red Wolf]] (*Canis rufus*) is a distinct taxon that merits protection under the [[Endangered Species Act]]. Wayne contends that the red wolf's status is not supported...
+> -- *[[OnTheUseOfMorphologicAndMolecu_PML2843]]*
+
+> This U.S. Fish and Wildlife Service report (Arizona Fishery Resources Office, Parker, June 2005; prepared by C.O. Minckley and Mitch Thorson) describes a one-week trammel-net effort to collect wild [[Bonytail]] (*Gila elegans*) from [[Lake Mohave]] between 16 and 20 May 2005. The goal was to...
+> -- *[[BonytailRoundupReportLakeMohav_PML1806]]*
+
+> This 1984 correspondence packet, a letter from [[Paul C. Marsh]] (Arizona State University, Center for Environmental Studies) to [[Linda Ulmer]] of the California Department of Fish and Game, encloses comments on the draft [[Upper Basin Management Plan]] for the [[Colorado River]]. The enclosure is...
+> -- *[[CommentsOnUpperBasinManagement_PML1427]]*
+
+> This document is a conference proceedings paper from the symposia *Restoring Native Fish Populations and Habitats with a Hatchery Revival* (Las Vegas, Nevada, 1998 and 1999), published by the [[U.S. Fish And Wildlife Service]] Southwest Region in 2005. It describes how [[Willow Beach National Fish...
+> -- *[[RestoringNaturalFunctionAndNat_PML0809]]*
+
+> This document, a bilingual (English and Spanish) U.S. Fish and Wildlife Service paper by James E. Johnson, Endangered Species Biologist, describes the first year (1981) of an effort to reintroduce the endangered [[Razorback Sucker]] into historic habitats of the [[Colorado River Basin]] in Arizona....
+> -- *[[ReintroducingTheNativeRazorbac_PML1220]]*
+
+> This Arizona Game and Fish Department (AGFD) Heritage Data Management species abstract covers the [[Bonytail Chub]] (*[[Gila elegans]]*), a cyprinid once widespread across the [[Colorado River Basin]]. The species is now restricted to a few isolated populations, and it is federally listed as...
+> -- *[[ClassificationNomenclatureDesc_PML0134]]*
+
+> This document is a Memorandum of Agreement (MOA) among the [[U.S. Fish and Wildlife Service]], the [[National Park Service]] (Glen Canyon National Recreation Area), and the [[Utah Division of Wildlife Resources]], with the [[Arizona Department of Game and Fish]] also involved. It sets conditions...
+> -- *[[MemorandumOfAgreementAmongUsDe_PML2555]]*
+
+> This magazine-style article describes the [[Fish Health Centers]] operated by the [[U.S. Fish and Wildlife Service]] (USFWS). The centers began as low-budget laboratories that monitored and certified the health of fish raised in federal hatcheries and advised states, tribes, and private...
+> -- *[[FishHealthCenters_PML0917]]*
+
+> This is an FGDC-standard metadata record for a vector GIS dataset mapping [[Critical Habitat]] for the [[Bonytail Chub]] (*[[Gila Elegans]]*). The dataset was produced by the [[U.S. Fish And Wildlife Service]] (USFWS), Region 2, with a publication date of 2003. It consists of seven polygons...
+> -- *[[BonytailChubCriticalHabitat_PML2757]]*
+
+> This document is a compilation of abstracts from the 24th Annual Researchers Meeting of the [[Upper Colorado River Endangered Fish Recovery Program]], held January 15–16, 2003, in Grand Junction, Colorado. The abstracts cover recovery of endangered [[Razorback Sucker]] and [[Bonytail]] across the...
+> -- *[[StatusReportOnCibolaHighLeveeP_PML1969]]*
+
+> This document is a set of proceedings and meeting minutes from the [[Colorado River Wildlife Council]] (with its Great Basin and Lahontan counterparts) on the status and management of native desert fishes. It reports state and federal status updates by region: the [[Lower Colorado River]], the...
+> -- *[[DesertFishStatusReportsAndMana_PML0582]]*
+
+> This 1999 proposal, submitted by Michael A. Martinez of the [[U.S. Fish and Wildlife Service]] (Phoenix, Arizona), requests funding for a population ecology study of the [[Page Springsnail]] (*Pyrgulopsis morrisoni*), a freshwater gastropod endemic to the Verde River drainage of central Arizona....
+> -- *[[PageSpringsnailStudyProposal_PML1593]]*
+
+> This working paper, an edited talk by Curt Brown of the [[Bureau of Reclamation]], argues that endangered species and water conflicts in the American West are usually managed "at the brink" of extinction, resource exhaustion, or full allocation, and that the prevailing [[Legal-Regulatory Model]] of...
+> -- *[[HandlingConfrontationNegotiate_PML0299]]*
+
+> This letter, published in *Conservation Biology* (Vol. 6, No. 4, December 1992), is a rejoinder by [[Douglas]], [[Marsh]], [[DeMarais]], [[Dowling]] and [[Minckley]] to critiques of their earlier letter. The authors focus on two linked issues: (1) how molecular characters should be used to identify...
+> -- *[[ResponseToNowakPhillipsAndWayn_PML0622]]*
+
+> This letter is a rejoinder by [[Dowling]], [[Minckley]], [[Douglas]], [[Marsh]], and [[DeMarais]] to replies from [[Wayne]] (1992), [[Nowak]] (1992), and [[Phillips]] and [[Henry]] (1992). The original dispute concerns the taxonomic status and possible hybrid origin of the [[Red Wolf]] (*Canis...
+> -- *[[ResponseToNowakPhillipsAndHenr_PML0627]]*
+
+> This study describes putative hybrids between the [[Sonora Chub]] ([[Gila Ditaenia]]) and an apparently undescribed congener, [[Gila Sp]], in the [[Río de la Concepción Basin]] of Sonora, Mexico. Hybridization appears localized and does not seem to threaten the genetic integrity of *G. ditaenia*,...
+> -- *[[HybridizationInNativeCyprinidF_PML0556]]*
+
+> This study tested whether [[Rainbow Trout]] predation shapes the behavior, habitat use, and geographic distribution of the [[Little Colorado Spinedace]], a threatened native cyprinid of northern Arizona. In field enclosures in [[Nutrioso Creek]], trout caused significantly greater loss of...
+> -- *[[EffectsOfRainbowTroutPredation_PML0238]]*
+
+> This document is a Federal Register extract (Vol. 58, No. 34, Tuesday, February 23, 1993) containing several unrelated public notices. The main aquatic item is a notice from the [[Fish and Wildlife Service]] (U.S. Department of the Interior) announcing a draft recovery plan for the [[Lahontan...
+> -- *[[NoticeOfAvailabilityOfDraftRec_PML0749]]*
+
+> This 1981 study by Roger L. Hamman, of the [[U.S. Fish and Wildlife Service]] at [[Willow Beach National Fish Hatchery]], describes the first hatchery spawning and culture of the endangered [[Humpback Chub]] (*Gila cypha*). Wild adults from the [[Little Colorado River]] and the [[Colorado River]]...
+> -- *[[SpawningAndCultureOfHumpbackCh_PML0984]]*
+
+> This 1993 letter from [[Arizona State University]] zoologist to the [[Bureau of Reclamation]] (Arizona Projects Office) presents an "issue paper" on opportunities to enhance native fishes along the [[Lower Colorado River]]. The author states it is not a proposal for action, but a set of...
+> -- *[[OpportunitiesForEnhancingNativ_PML1849]]*
+
+> The U.S. [[Fish and Wildlife Service]] (Interior) proposes to reclassify the [[Gila Topminnow]], a subspecies endemic to the [[Gila River]] drainage of New Mexico and Arizona, from **endangered** to **threatened** status under the [[Endangered Species Act]] of 1973. The species was originally...
+> -- *[[ReclassificationOfTheGilaTopmi_PML2661]]*
+
+> This document is a status and recovery review of the [[June Sucker]] (*Chasmistes liorus*), a midwater planktivorous sucker endemic to [[Utah Lake]], Utah. Its opening page is the abstract of a separate paper by Robert J. Behnke on flow management for endangered fishes in the [[Colorado River...
+> -- *[[StatusOfTheJuneSuckerChasmiste_PML0575]]*
+
+> This study compares four structures for estimating the age of the federally endangered [[Colorado Pikeminnow]] (*Ptychocheilus lucius*): scales, [[Vertebral Centra]], [[Whole Otoliths]], and [[Sectioned Otoliths]]. Ages were estimated from 48 fish captured in the [[Green River Basin]] of Colorado...
+> -- *[[ComparisonOfFourTechniquesForA_PML1004]]*
+
+> This document is a U.S. [[Fish and Wildlife Service]] (Service) notice, with a cover memorandum dated March 17, 1993, announcing a 90-day finding on a petition to list the [[Cactus Ferruginous Pygmy-Owl]] (*[[Glaucidium Brasilianum Cactorum]]*) as an endangered species under the [[Endangered...
+> -- *[[NoticeOfPetitionFindingAndStat_PML0746]]*
+
+> This document is a cover letter (dated February 10, 1999) and an agency article describing a completed [[Habitat Restoration]] and reintroduction project for the endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis*). The work took place at the [[Bylas Springs Complex]] on the [[San Carlos...
+> -- *[[NewFishHabitatRestorationAndPa_PML2737]]*
+
+> This document is a manuscript by Charles R. Berry, Jr., submitted with a cover letter to peer reviewer Dr. Paul C. Marsh (Center for Environmental Studies, Arizona State University). The cover letter is from the [[South Dakota Cooperative Fish & Wildlife Research Unit]], South Dakota State...
+> -- *[[EffectsOfColdShockOnColoradoSq_PML0196]]*
+
+> This study documents the population status of the [[Flannelmouth Sucker]] (*Catostomus latipinnis*) in the lower [[Colorado River]] below [[Davis Dam]]. A single 1976 stocking of 611 adult fish, made by the [[Arizona Game and Fish Department]] for black fly abatement, produced a self-sustaining...
+> -- *[[ReintroductionOfTheFlannelmout_PML1972]]*
+
+> This paper, by [[David Policansky]] and [[John J. Magnuson]] (Ecological Applications, 1998 Special Issue), argues that [[Genetic Diversity]] deserves far more weight in [[Ecosystem Management]] of fisheries than it usually receives. The authors use [[Pacific Salmon]] of the Pacific Northwest as a...
+> -- *[[GeneticsMetapopulationsAndEcos_PML2148]]*
+
+> This paper reports a [[Chemical Piscicide Treatment]] of Ord Creek in the [[White Mountains]] of east-central Arizona, carried out to remove introduced [[Brown Trout]] and [[Brook Trout]] and restore the threatened [[Arizona Trout]] (*Salmo apache*). The toxicant [[Antimycin A]] was used in August...
+> -- *[[ChemicalTreatmentOfOrdCreekApa_PML2235]]*
+
+> This Federal Register notice (Volume 65, Number 134, July 12, 2000) announces that the [[Bureau Of Reclamation]] and the [[Fish And Wildlife Service]] will jointly prepare an Environmental Impact Statement/Environmental Impact Report (EIS/EIR) for a proposed [[Multi-Species Conservation Program]]...
+> -- *[[SupplementalNoticeOfIntentToPr_PML0776]]*
+
+> This scanned page from the [[Federal Register]] (Vol. 48, No. 76, Tuesday, April 19, 1983) contains several unrelated notices rather than a single research study. The most relevant to aquatic conservation is a draft set of guidelines from the [[Fish and Wildlife Service]] for ranking species for...
+> -- *[[FederalRegisterNoticesAprilEnd_PML0718]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) quarterly report from the [[Arizona Fisheries Resource Office]] in Parker, Arizona, covers the [[Achii Hanyo]] captive-propagation facility for endangered [[Bonytail Chub]] from February to April 2000. The facility aims to produce large numbers of [[Big...
+> -- *[[AchiiHanyoQuarterlyActivitiesR_PML1782]]*
+
+> This study by Petty, Huckins, Martin and Adornato (1995, *Chemosphere* 30(10)) used [[Semipermeable Membrane Device]] (SPMD) samplers to measure the bioavailable fraction of [[Organochlorine Pesticides]] in streams carrying [[Irrigation Drainwater]] in the [[Lugert-Altus Watershed]] of southwest...
+> -- *[[UseOfSemipermeableMembraneDevi_PML2120]]*
+
+> This Final Rule, published by the [[Fish and Wildlife Service]] (Department of the Interior) in the *Federal Register* on March 8, 1994 (Vol. 59, No. 45; 50 CFR Part 17; RIN 1018-AE04), designates [[Critical Habitat]] for the [[Spikedace]], a threatened freshwater minnow of the American Southwest....
+> -- *[[EndangeredAndThreatenedWildlif_PML0756]]*
+
+> This document is a compilation of Federal Register notices and a U.S. Fish and Wildlife Service (USFWS) letter dated April 4, 2001. Its main subject is the proposed redesignation of [[Critical Habitat]] for the endangered [[Rio Grande Silvery Minnow]]. The redesignation follows a November 2000 New...
+> -- *[[EndangeredAndThreatenedWildlif_PML0779]]*
+
+> This order from the [[United States District Court for the District of Arizona]] (Case No. 04-CV-636-PHX-FJM, dated January 2006) resolves cross-motions for summary judgment in a citizen suit by Grand Canyon Trust and others against the [[United States Fish and Wildlife Service]] (FWS) and the...
+> -- *[[HumpbackChubRecoveryPlanLitiga_PML0899]]*
+
+> This *Federal Register* notice (Vol. 50, No. 181, Wednesday, September 18, 1985, Proposed Rules, 50 CFR Part 17) was issued by the [[U.S. Fish and Wildlife Service]] (Department of the Interior) under the [[Endangered Species Act]] of 1973, as amended. It is a notice of review that identifies...
+> -- *[[EndangeredAndThreatenedWildlif_PML0728]]*
+
+> This paper, by Robert Rush Miller of the [[Museum of Zoology]] at the University of Michigan, presents the first attempt to list the native threatened freshwater fishes of each U.S. state. Threatened fishes are listed for 49 of the 50 states; only Rhode Island has none. The list was compiled by the...
+> -- *[[ThreatenedFreshwaterFishesOfTh_PML1732]]*
+
+> This document is a compilation of Federal Register notices from late November to December 1995, reproduced from a low-quality OCR scan. Several passages are garbled, so figures and dates are reported as they appear and should be verified against the original. The notices cover three areas: 1....
+> -- *[[DraftPolicyForConservingSpecie_PML0767]]*
+
+> This 1987 procedures manual, prepared by the [[Nongame Branch]] of the [[Arizona Game and Fish Department]] (AGFD), sets out how the Department plans and approves [[Re-establishment Projects]] for nongame wildlife and species listed as threatened or endangered in Arizona. It implements an [[Arizona...
+> -- *[[ProceduresForNongameWildlifeAn_PML0094]]*
+
+> This taxonomic review addresses the long-debated classification of chubs of the genus [[Gila]] in the [[Gila River Basin]] of Arizona, New Mexico, and Sonora, Mexico. The authors recognize three full species: [[Gila Robusta]], [[Gila Intermedia]], and [[Gila Nigra]]. They argue that G. nigra may...
+> -- *[[TaxonomyOfChubsTeleosteiCyprin_PML1898]]*
+
+> This paper summarizes the status of endangered and threatened fish in the Yampa and Green rivers of [[Dinosaur National Monument]]. It draws on a literature review and on research by the [[Utah Cooperative Fishery Research Unit]]. The four endemic fish of the [[Upper Colorado River]] system...
+> -- *[[ThreatenedAndEndangeredFishInT_PML2336]]*
+
+> This report documents a backpack electrofishing survey of [[Corduroy Creek]] in [[Gila County]] and [[Navajo County]], Arizona, conducted 29–31 August 1991. The survey was commissioned because the [[Arizona Department of Transportation]] proposed realigning [[U.S. Highway 60]] adjacent to the...
+> -- *[[LoachMinnowAndSpikedaceSurveyO_PML1599]]*
+
+> This student species account reviews the [[Desert Pupfish]] (*[[Cyprinodon Macularius]]*), a small cyprinodontid fish of the [[Sonoran Desert]] region. The document covers morphology, historical and current distribution, environmental tolerances, territorial and spawning behavior, growth, diet,...
+> -- *[[SpeciesAccountCyprinodonMacula_PML2291]]*
+
+> The [[U.S. Fish And Wildlife Service]] issued a final rule determining the [[Bonytail Chub]] (*Gila elegans*) to be an Endangered species under the [[Endangered Species Act]] of 1973, as amended. The fish has been extirpated from most of its historical range in the [[Colorado River Basin]], no...
+> -- *[[BonytailChubDeterminationAsAnE_PML0715]]*
+
+> This Arizona Game and Fish Department performance report (Segment 3 of 5, July 1, 1996 to June 30, 1997) covers the [[Endangered Species Act]]-linked reintroduction and monitoring of two federally listed fishes, [[Razorback Sucker]] (*Xyrauchen texanus*) and [[Colorado Squawfish]] (*Ptychocheilus...
+> -- *[[AnnualPerformanceReportRazorba_PML0126]]*
+
+> This paper, published in the [[Journal of Fish and Wildlife Management]] in December 2015, tests whether larval [[Bonytail]] (*[[Gila Elegans]]*), an endangered fish, show positive phototaxis (movement toward light). The authors note that bonytail recruitment is poor in the wild, which limits...
+> -- *[[PositivePhototaxisInLarvalBony_PML1601]]*
+
+> The U.S. Fish and Wildlife Service (the Service) proposes to acquire approximately 1360 acres of upland, riparian, and aquatic habitat in [[Leslie Canyon]], Swisshelm Mountains, Cochise County, Arizona, and add it to the [[National Wildlife Refuge System]] as Leslie Canyon National Wildlife Refuge....
+> -- *[[DraftEnvironmentalAssessmentLe_PML2664]]*
+
+> This annual report by the [[Arizona Game and Fish Department]] (AGFD), prepared for the [[U.S. Fish and Wildlife Service]] (USFWS), summarizes the 1985 reintroduction and monitoring of [[Colorado Squawfish]] in the [[Salt River]] and [[Verde River]], Arizona. More than 96,000 fingerlings and 442...
+> -- *[[ReintroductionAndMonitoringOfC_PML0282]]*
+
+> This Federal Register compilation (Vol. 55, No. 144, July 26, 1990) is a multi-item public notice bundle, mostly covering land and resource administration. Its only item directly about fish is a U.S. [[Fish and Wildlife Service]] notice seeking public comment on a draft [[Recovery Plan]] for 12...
+> -- *[[AshMeadowsEndangeredSpeciesRec_PML0741]]*
+
+> This report documents a second fish survey of lower [[Clear Creek]], a tributary of the [[Little Colorado River]] in Navajo County, Arizona, conducted August 17-19, 2005. It was prepared by Robert W. Clarkson (Bureau of Reclamation) and Paul C. Marsh (Arizona State University). The survey supported...
+> -- *[[FisheryResurveyOfLowerClearCre_PML0461]]*
+
+> This letter, by [[Dowling]], [[Minckley]], [[Douglas]], [[Marsh]], and [[DeMarais]] (Arizona State University), responds to critiques of their earlier letter on the taxonomic status of the [[Red Wolf]] (*Canis rufus*). The authors argue that molecular data, especially [[Mitochondrial DNA]] (mtDNA),...
+> -- *[[UseOfMolecularCharactersInCons_PML0629]]*
+
+> This 1984 correspondence packet, compiled by the [[Lower Basin Native Fishes Subcommittee]] of the [[Colorado River Fishes Recovery Team]], transmits comments and recommendations on the draft [[Upper Basin Action Plan]] to the [[U.S. Fish and Wildlife Service]] (USFWS) Region 6. The subcommittee,...
+> -- *[[CommentsOnUpperBasinManagement_PML2432]]*
+
+> This document is a 1990 proposal from the [[Arizona Game and Fish Department]] (AGFD) to monitor and research two endangered native fishes, the [[Humpback Chub]] and the [[Razorback Sucker]], in the Colorado River and [[Little Colorado River]] within [[Grand Canyon National Park]], Arizona. It was...
+> -- *[[GrandCanyonHumpbackChubAndRazo_PML1027]]*
+
+> This proposal, prepared by [[Robert W. Clarkson]] (Bureau of Reclamation, Phoenix Area Office) and [[Shaula Hedwall]] (U.S. Fish and Wildlife Service, Arizona Ecological Services), argues that non-native aquatic species are the most important obstacle to conserving native fishes and aquatic...
+> -- *[[ProposalToDevelopNewAquaticInv_PML0462]]*
+
+> This popular-science article, written by [[Hans Stuart]] and J.E. (Jim) Johnson for the [[U.S. Fish and Wildlife Service]] (FWS), describes how the [[Dexter National Fish Hatchery]] in eastern New Mexico is used to hold, propagate, and study rare Southwestern fishes. Dexter's mission changed in...
+> -- *[[ARefugeForSouthwesternFishes_PML2476]]*
+
+> This experimental study by Peter C. Marsh (1985) quantifies how [[Incubation Temperature]] affects [[Embryo Survival]] and hatching in four endemic "big river" fishes of the [[Colorado River]]: [[Razorback Sucker]], [[Bonytail Chub]], [[Humpback Chub]] and [[Colorado Squawfish]]. All four are near...
+> -- *[[EffectOfIncubationTemperatureO_PML1454]]*
+
+> This preliminary progress report, prepared by the [[Arizona Game and Fish Department]] for the [[Bureau of Reclamation]] under a [[Cooperative Agreement]], tracks [[Razorback Sucker]] (*Xyrauchen texanus*) released into the [[Imperial Division]] of the [[Lower Colorado River]]. The study used...
+> -- *[[LowerColoradoRiverEndangeredFi_PML0265]]*
+
+> This 1993 study by [[Carmichael]] and colleagues assessed the extent and direction of interspecific hybridization between [[Apache Trout]] (*Oncorhynchus apache*), [[Rainbow Trout]] (*Oncorhynchus mykiss*), and [[Cutthroat Trout]] (*Oncorhynchus clarki*) across the historical range of Apache trout...
+> -- *[[IntrogressionAmongApacheCutthr_PML0369]]*
+
+> This excerpt from *Science* (Vol. 270, 22 October 1995) combines three items. The main feature is a policy essay by [[Naiman]], [[Magnuson]], [[McKnight]], [[Stanford]] and [[Karr]] on the state of U.S. [[Freshwater Ecosystems]]. It argues that current laws and programs are fragmented and...
+> -- *[[FreshwaterEcosystemsAndTheirMa_PML1997]]*
+
+> This invited editorial by [[Gary K. Meffe]] (Savannah River Ecology Laboratory, University of Georgia) argues that the erosion of genetic diversity in fishes is a largely invisible but serious conservation problem, and that current knowledge of conserving fish gene pools is limited. The author...
+> -- *[[ConservingFishGenomesPhilosoph_PML1666]]*
+
+> This laboratory study compares how larval [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered fish endemic to the [[Colorado River Basin]], and [[Northern Hog Sucker]] (*Hypentelium nigricans*), a species from the predator-rich [[Mississippi River Basin]], recognize and avoid a predator. Both...
+> -- *[[PredatorRecognitionAndAvoidanc_PML1223]]*
+
+> This report by Buddy L. Jensen of the [[U.S. Fish and Wildlife Service]] describes captive culture of imperiled desert and Colorado River fishes at [[Dexter National Fish Hatchery]] (Dexter NFH), New Mexico. Habitat alteration by dams, flow regulation and groundwater decline has driven steady...
+> -- *[[CultureTechniquesForSelectedCo_PML1184]]*
+
+> This document is a 1993 report from [[Arizona State University]]'s Department of Zoology to the [[Coconino National Forest]] on mitochondrial DNA (mtDNA) variation in the [[Little Colorado Spinedace]] (*[[Lepidomeda Vittata]]*), a federally threatened cyprinid. The study found substantial...
+> -- *[[MitochondrialDnaVariationWithi_PML2504]]*
+
+> This document is a U.S. Fish and Wildlife Service (Service) Negative Declaration and Final Environmental Assessment (May 1988) for acquiring approximately 1,360 acres of upland, riparian, and aquatic habitat in [[Leslie Canyon]], Swisshelm Mountains, Cochise County, Arizona, for inclusion in the...
+> -- *[[FinalEnvironmentalAssessmentLe_PML2665]]*
+
+> This study tests how sensitive two endangered fishes, the [[Colorado Pikeminnow]] (*Ptychocheilus lucius*) and the [[Razorback Sucker]] (*Xyrauchen texanus*), are to [[Un-ionized Ammonia]] (NH3). Both species are native to the Upper Colorado River, where [[Groundwater Contamination]] from the...
+> -- *[[ChronicToxicityOfUnionizedAmmo_PML0704]]*
+
+> This conference paper, presented at the National Symposium on Endangered Fishes of India (25-26 April 1992, Allahabad, Uttar Pradesh), is authored by [[Buddy L. Jensen]], Director of the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC), a U.S. Fish and Wildlife Service...
+> -- *[[FishRefugiaAndCaptivePropagati_PML1197]]*
+
+> This draft paper asks whether designating [[Critical Habitat]] under the [[Endangered Species Act]] (ESA) improves the [[Recovery Plan]] process for listed species. The authors reviewed 135 recovery plans covering 181 listed species, a review conducted during the first half of 1999 by a...
+> -- *[[CriticalRoleForCriticalHabitat_PML1066]]*
+
+> This document is a public scoping notice issued jointly by the [[Bureau Of Reclamation]] (Phoenix Area Office) and the [[Bureau Of Land Management]] (Safford Field Office). It announces a proposal to build a steel-reinforced concrete fish barrier in a remote reach of [[Hot Springs Canyon]],...
+> -- *[[ProposedFishBarrierHotSpringsC_PML2588]]*
+
+> This is a multi-page *Federal Register* notice from **Friday, July 1, 1994** (Vol. 59, No. 126, Notices). It was published jointly by the [[U.S. Fish and Wildlife Service]] (FWS) and the [[NOAA National Marine Fisheries Service]] (NMFS). It contains several **policy statements** under the...
+> -- *[[EndangeredAndThreatenedWildlif_PML0762]]*
+
+> This draft document, prepared by the Western Division Endangered Species Committee of the [[American Fisheries Society]], presents a standardized protocol for introducing threatened and endangered fishes. Introductions are a common component of recovery programs for these species, with...
+> -- *[[AmericanFisheriesSocietyProtoc_PML2894]]*
+
+> This U.S. Fish and Wildlife Service notice, dated September 4, 1992 and published in the *Federal Register* (Vol. 57, No. 170, September 1, 1992), announces a 90-day petition finding and a status review for the [[Southwestern Willow Flycatcher]] (*Empidonax traillii extimus*). A petition to list...
+> -- *[[NoticeOfPetitionFindingAndStat_PML0745]]*
+
+> This 1979 Utah Cooperative Fishery Research Unit article, written by [[Charles R. Berry Jr.]], describes Utah's rare native fishes of the [[Colorado River Basin]]. The species share unusual traits such as humped backs, bony tails, spines and large body size. The article traces their historical...
+> -- *[[HumpbacksAndBonyTailsUtahsRare_PML0194]]*
+
+> This paper, from the *Proceedings of the First Conference on Scientific Research in the National Parks* (New Orleans, November 9–12, 1976; published as NPS Transactions and Proceedings Series No. 5, 1979), summarizes the status of endangered and threatened fish in the Yampa and Green Rivers within...
+> -- *[[EndangeredAndThreatenedFishInT_PML2335]]*
+
+> This document is a news-style feature (OCR-scanned, partly garbled) covering two linked western water problems. The first is groundwater contamination and overpumping in the [[Albuquerque Aquifer]] area of the [[Rio Grande Basin]], including the [[San Jose Groundwater Contamination]] site. The...
+> -- *[[FishRecovery_PML1055]]*
+
+> In March 1992, a series of accidents at the federal [[Dexter National Fish Hatchery]] in Dexter, New Mexico, killed most of the endangered fish that had been captured in Colorado for the [[Recovery Implementation Program]]. The losses involved [[Razorback Sucker]], [[Colorado Squawfish]] and...
+> -- *[[EndangeredFishDieAtHatchery_PML2686]]*
+
+> This paper, by Minckley, Buth and Hayden, documents how a broodstock of the critically endangered [[Bonytail Chub]] (*Gila elegans*) was founded from wild fish caught in [[Lake Mohave]], and evaluates genetic variation in the hatchery-produced stock. Allozyme analysis of 24 volunteer F2 juveniles...
+> -- *[[OriginOfBroodstockAndAllozymeV_PML1881]]*
+
+> This article reports on the collapse of [[Striped Bass]] (striper) stocks along the U.S. Atlantic coast and the policy response in the early 1980s. Recreational and commercial anglers, state and federal biologists, and conservation groups debated a federal moratorium on striped bass possession,...
+> -- *[[StripedBass_PML0473]]*
+
+> This document is a regulatory text, not a research study. It reproduces Part 330 of Title 33 of the Code of Federal Regulations, published in the [[Federal Register]] on November 13, 1988. It governs the [[Army Corps Of Engineers]] Nationwide Permit (NWP) program, which pre-authorizes certain...
+> -- *[[NationwidePermits_PML0732]]*
+
+> The U.S. Fish and Wildlife Service (Service) published a proposed rule on October 27, 2010, to designate approximately 796 miles of streams and rivers in central and eastern Arizona and western New Mexico as [[Critical Habitat]] under the [[Endangered Species Act]] for the federally threatened...
+> -- *[[CriticalHabitatProposedForTwoS_PML2765]]*
+
+> This essay, presented as a retrospective by a California fishery biologist (Edwin P. Pister), traces how [[Aldo Leopold]]'s book *A Sand County Almanac* reshaped one manager's approach to aquatic resource management in the eastern Sierra Nevada and Death Valley regions. The author argues that...
+> -- *[[APilgrimsProgressFromGroupAToG_PML2140]]*
+
+> This policy-focused study evaluates [[Consensus-Based Management]] through the [[Colorado River Recovery Implementation Program]], a multi-stakeholder plan created in 1987 to allow continued water development in the Upper Colorado River Basin while recovering four endangered native fishes. The...
+> -- *[[ConsensusVersusConservationInT_PML0293]]*
+
+> Gregory and Deacon analyze roughly 17 years of native fish data, supplemented by historical records, to document declines in the distribution and abundance of the native fish community of the [[Virgin River]] Drainage. The river rises in southwestern Utah, crosses northwestern Arizona, and enters...
+> -- *[[HumanInducedChangesToNativeFis_PML0907]]*
+
+> Tyus and Karp (1990) studied the spawning behavior, movements, and habitat use of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Green River]] and lower [[Yampa River]] from 1987 to 1989. Using electrofishing, capture-recapture, and radiotelemetry, the authors documented ripe fish in...
+> -- *[[SpawningAndMovementsOfRazorbac_PML2521]]*
+
+> This special report by the [[Arizona Game And Fish Department]] documents the monitoring of reintroduced [[Razorback Sucker]] and [[Colorado Squawfish]] in the [[Verde River]] and [[Salt River]], Arizona, from 1991 to 1993. A total of 3,552 razorback suckers and 15 Colorado squawfish were stocked...
+> -- *[[RazorbackSuckerXyrauchenTexanu_PML0513]]*
+
+> This 1995 study by [[Steven J. Hamilton]] (Yankton Field Research Station, National Biological Survey) measured the 96-hr acute toxicity of seven inorganic contaminants to early life stages of three federally endangered fishes of the [[Green River]]: [[Colorado Squawfish]], [[Razorback Sucker]],...
+> -- *[[HazardAssessmentOfInorganicsTo_PML0959]]*
+
+> This study by [[Dowling]], [[Minckley]], and [[Marsh]] (Copeia, 1996) examined geographic structuring of genetic variation in the endangered [[Razorback Sucker]], a catostomid fish endemic to the [[Colorado River Basin]] of western North America. Mitochondrial DNA (mtDNA) from 143 specimens was...
+> -- *[[MitochondrialDnaDiversityWithi_PML0621]]*
+
+> This document is the 1991 annual index (Volume XVI) of the [[Endangered Species Technical Bulletin]], published by the U.S. Department of the Interior, Fish and Wildlife Service. It is not a research paper. It is a dated subject and species index that points to bulletin items on listings, recovery...
+> -- *[[EndangeredSpeciesTechnicalBull_PML2678]]*
+
+> This paper describes an active management program to maintain the [[Razorback Sucker]] (*Xyrauchen texanus*), an Endangered catostomid, in [[Lake Mohave]], a regulated reservoir on the [[Colorado River Basin]] formed by [[Davis Dam]] on the Arizona-Nevada border. Lake Mohave holds the last large...
+> -- *[[AProgramForMaintainingTheRazor_PML1954]]*
+
+> This annual report from [[Dexter National Fish Hatchery]] (Dexter NFH), a U.S. Fish and Wildlife Service facility in southeastern New Mexico, covers fiscal year 1990. The station's mission centers on refuge, study and propagation of imperiled warmwater fishes of the Southwest, particularly those...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2671]]*
+
+> This essay by [[Charles F. Wilkinson]] traces how western United States water law developed from the [[Gold Rush]] mining camps to the present and argues that the system is in transition. It describes how [[Prior Appropriation Doctrine]] and [[Riparian Doctrine]] shaped allocation, how [[Winters...
+> -- *[[WesternWaterLawInTransition_PML2891]]*
+
+> The document is an October 2000 update, published by the [[Colorado Water Congress]] and written by Upper Basin water users' representative [[Tom Pitts]], on the [[Upper Colorado River Endangered Fish Recovery Program]]. The Program was established by a Cooperative Agreement signed in January 1988...
+> -- *[[UpdateTheUpperColoradoRiverEnd_PML2145]]*
+
+> This presentation, given to the Arizona Riparian Council in October 1994 by an Arizona Game and Fish Department biologist, summarizes the status, biology, and conservation of the [[Gila Topminnow]] (*[[Poeciliopsis Occidentalis]]* subsp. *occidentalis*), a small live-bearing fish native to the...
+> -- *[[TheGilaTopminnowInSouthernAriz_PML2856]]*
+
+> This document is a January 1993 issue of [[Natural History]] magazine. Most of its articles concern non-fish topics such as praying mantises, beetles, and natural history essays. Its one fish-focused item is a first-person essay, "Species in a Bucket," by retired fishery biologist [[Phil Pister]]....
+> -- *[[SpeciesInABucket_PML2141]]*
+
+> This Wyoming Game and Fish Department administrative report (Johnson and Oberholtzer, February 1987; projects 5086-13-8601 and 4486-13-860I) investigated whether [[Colorado Squawfish]], a federally threatened or endangered species, still persists in Wyoming. The species had not been documented in...
+> -- *[[InvestigationIntoPossibleOccur_PML1225]]*
+
+> This scanned compilation (OCR text, with some English and Spanish versions) gathers five items on endangered western North American freshwater fishes, mainly from the 1980s. It contains a 1986 resolution from the [[Desert Fishes Council]] calling for [[Endangered Species Act]] protection for the...
+> -- *[[ResolutionRelativeToTheProtect_PML0578]]*
+
+> This document presents proposed [[American Fisheries Society]] guidelines for introducing threatened and endangered fishes, circulated for comment before submission for approval at the 1989 Spring meeting. Introductions are a common feature of [[Recovery Plan]] programs, with more than 80% of...
+> -- *[[AmericanFisheriesSocietyGuidel_PML2897]]*
+
+> This study examines spawning timing, movements, and habitat use of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the upper [[Green River]] and lower [[Yampa River]] of Utah and Colorado, using electrofishing, [[Capture-Recapture]] records, and [[Radiotelemetry]] from 1987 to 1989. Ripe fish...
+> -- *[[SpawningAndMovementsOfRazorbac_PML2416]]*
+
+> This document is a sworn declaration (dated October 2000) by fisheries biologist [[Robert W. Clarkson]] of the [[Bureau of Reclamation]] (BOR), filed in consolidated federal litigation over the [[Central Arizona Project]] (CAP). The declarant addresses whether the nonnative [[Red Shiner]]...
+> -- *[[DeclarationOfRobertWClarkson_PML0449]]*
+
+> This paper is a case study from the USDA Forest Service Technical Report RM-226 (1993), *Riparian Management: Common Threads and Shared Interests*, a Western Regional Conference held February 4-6, 1993, in Albuquerque, New Mexico. It examines the [[Little Colorado River]] in Arizona as a model for...
+> -- *[[RiparianManagementCommonThread_PML2495]]*
+
+> This 1976 [[Federal Register]] final rule, issued by the [[U.S. Fish and Wildlife Service]] (dated June 1, 1976; published June 14, 1976), determines 159 taxa of U.S. and foreign vertebrates and invertebrates to be Endangered under Section 4 of the [[Endangered Species Act]] of 1973. All 159 taxa...
+> -- *[[EndangeredStatusForTaxaOfAnima_PML0712]]*
+
+> This document is a set of 1984 U.S. regulatory materials, including an Arizona Clearinghouse notice, a U.S. Fish and Wildlife Service (USFWS) cover letter, and a *Federal Register* proposed rule (Vol. 49, No. 110, June 6, 1984). It proposes listing the [[Sonora Chub]] (*Gila ditaenia*) as a...
+> -- *[[EndangeredAndThreatenedWildlif_PML0722]]*
+
+> This American Fisheries Society (AFS) document, prepared by the Western Division Endangered Species Committee and a group of co-authors led by [[Jack E. Williams]], presents standardized guidelines for translocating threatened and endangered fishes. More than 90% of listed fishes have been subject...
+> -- *[[AmericanFisheriesSocietyGuidel_PML2895]]*
+
+> This OCR-degraded excerpt comes from *[[Life On The Edge]]: A Guide to California's Endangered Natural Resources, Volume I: Wildlife* (1994), a book by Carl G. Thelander and Margo Crabtree published by [[Biosystems Books]] and distributed by [[Heyday Books]]. The visible content is the front matter...
+> -- *[[RazorbackSucker_PML1436]]*
+
+> This paper, presented at the 15th International Symposium on Biotelemetry (Juneau, Alaska, May 1999; published 2000), reviews the radiotelemetry equipment and surgical techniques used by the [[U.S. Fish and Wildlife Service]] [[Colorado River Fishery Project]] on large-river native fishes of the...
+> -- *[[OverviewOfTelemetryEquipmentAn_PML0322]]*
+
+> This article by [[Timothy Male]], [[Michael J. Bean]], and [[Scott Walsh]] (Environmental Defense) argues that the [[Endangered Species Act]] (ESA) lacks quantitative metrics for judging whether it is achieving species recovery. The authors propose a family of **[[Recovery Index]]** measures, built...
+> -- *[[ARecoveryIndexDevelopingNewMet_PML1412]]*
+
+> This document is a cover letter and two annual activity reports (December 1991–November 1992 and December 1992–November 1993) filed by the [[Arizona Game And Fish Department]] (AGFD) as a subpermittee of the [[U.S. Fish And Wildlife Service]] (USFWS) Region 2 [[Blanket Permit PRT-676811]] under the...
+> -- *[[ReportOnPrtActivityFromDecembe_PML2359]]*
+
+> This paper by [[Propst]] and colleagues reviews the conservation history and status of the [[Gila Trout]] (*Oncorhynchus gilae*), a threatened salmonid of the [[Gila River]] drainage in New Mexico and Arizona. Once widespread in suitable habitat, the species was restricted to a few remote headwater...
+> -- *[[ConservationAndStatusOfGilaTro_PML2177]]*
+
+> This document is a 1993 U.S. Fish and Wildlife Service (Service) package on the proposed listing of the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species with [[Critical Habitat]] under the [[Endangered Species Act]]. It contains a cover letter to Dr. Paul Marsh of...
+> -- *[[EndangeredAndThreatenedWildlif_PML0752]]*
+
+> This document is a 1995 Federal Register proposed rule and a covering memorandum. Together they describe proposed **joint counterpart regulations** under the [[Endangered Species Act]] (ESA) for [[Section 7 Consultation]]. The rule would give the [[Forest Service]] (USFS) and [[Bureau of Land...
+> -- *[[EndangeredAndThreatenedSpecies_PML0770]]*
+
+> This World River Conference proceeding (1997) reviews the decline of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Colorado River]] basin and the restoration efforts undertaken since the 1960s. The river has been heavily regulated by dams and water diversions, and native fishes have...
+> -- *[[RestorationOfTheRazorbackSucke_PML1937]]*
+
+> This document is a fragment of the *Federal Register* (Vol. 63, No. 62, April 1, 1998, Proposed Rules) issued by the [[U.S. Fish and Wildlife Service]] (Service) under the [[Endangered Species Act]] of 1973. It contains two proposed listing rules for plants: - **Chiricahua dock (*Rumex...
+> -- *[[EndangeredAndThreatenedWildlif_PML0774]]*
+
+> Rinne (1992), published in *Ecology of Freshwater Fish*, quantifies the physical habitat (water depth, velocity and substrate) used by seven native fish species in [[Aravaipa Creek]], a perennial stream in the [[Sonoran Desert]] of southeastern Arizona. The study tests whether the species occupy...
+> -- *[[PhysicalHabitatUtilizationOfFi_PML2219]]*
+
+> This policy critique examines whether [[Consensus-Based Management]] protects endangered fishes, using the [[Upper Colorado River Recovery Program]] as a case study. The authors argue that the Program has delivered real gains in water development and stakeholder inclusion, but has failed the...
+> -- *[[DoesConsensusCompromiseConserv_PML0292]]*
+
+> This 1985 informational bulletin from the [[California Department of Fish and Game]] (CDFG), Region 5, sets out a [[Management Plan]] for the [[Razorback Sucker]] (*Xyrauchen texanus*), a State-listed endangered fish. The species was once abundant across the [[Colorado River]] drainage but has...
+> -- *[[ManagementPlanForTheRazorbackS_PML0399]]*
+
+> This Management Brief, published in the [[North American Journal of Fisheries Management]] (1999), evaluates whether nonlethal invasive tissue sampling (fin, muscle, and liver) can be used on fish without significant harm. Techniques were first developed on hatchery [[Rainbow Trout]] and then...
+> -- *[[EffectsOfInvasiveTissueCollect_PML2527]]*
+
+> This final report from the [[U.S. Fish and Wildlife Service]] Colorado River Fish Project documents a two-year (2003–2004) monitoring study of the endangered [[Humpback Chub]] (*Gila cypha*) in the Yampa River population within [[Dinosaur National Monument]]. The study aimed to define the...
+> -- *[[AdultAndJuvenileHumpbackChubMo_PML0812]]*
+
+> This study tested whether site acclimation and rearing environment affect the postrelease dispersal of hatchery-reared [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). Dispersal from the stocking sites was rapid and declined over time in all tests. Downstream drift was greatest from a small...
+> -- *[[FactorsInfluencingPoststocking_PML1970]]*
+
+> This position paper, prepared for the 2nd North American Symposium on Wolves, reviews the long-running taxonomic debate over the endangered [[Red Wolf]] (*Canis rufus*). Authors from the [[U.S. Fish and Wildlife Service]] (USFWS) and the Point Defiance Zoo and Aquarium conclude that the red wolf is...
+> -- *[[TheOriginAndFateOfTheRedWolf_PML2032]]*
+
+> This review, written by John N. Rinne of the [[Rocky Mountain Research Station]] and Arizona State University, examines the status and management of the native fish fauna of the arid American Southwest in relation to the levels of [[Biodiversity]] (genetic, species, ecosystem, and landscape). The...
+> -- *[[BiodiversityAndNativeFishManag_PML2198]]*
+
+> This document is a critical public review of a draft [[Recovery Implementation Program]] for four rare and endangered native fishes of the [[Upper Colorado River Basin]]. The reviewer concludes that the draft is not a recovery program in substance. It provides a mechanism for [[Water Development]]...
+> -- *[[DraftCommentsOnTheRecoveryImpl_PML1560]]*
+
+> This Federal Register proposed rule (Vol. 50, No. 117, June 18, 1985), issued by the [[U.S. Fish and Wildlife Service]] under the Department of the Interior, proposes to list the [[Loach Minnow]] (*Tiaroga cobitis*) as a threatened species under the [[Endangered Species Act]] of 1973, as amended,...
+> -- *[[ProposalToDetermineTheLoachMin_PML0725]]*
+
+> This memorandum and attached biological opinion, issued by the U.S. Fish and Wildlife Service in June 1990, evaluates a proposal to reintroduce juvenile [[Colorado Squawfish]] (*Ptychocheilus lucius*), a federally listed endangered species, into the [[Colorado River]] mainstream between [[Headgate...
+> -- *[[IntraserviceSectionConsultatio_PML1684]]*
+
+> This study asks whether [[Academic Conservation Biology]] has a measurable effect on the content of U.S. [[Recovery Plan]]s for threatened and endangered species, which are mandated under the [[Endangered Species Act]]. The authors analyzed a national database of 136 approved plans covering 181...
+> -- *[[TheInfluenceOfTheAcademicConse_PML2465]]*
+
+> This document is a [[Federal Register]] final rule issued by the [[U.S. Fish and Wildlife Service]] on August 31, 1984 (Vol. 49, No. 171), together with a cover letter to the [[Arizona State Clearinghouse]] and a Standard Form 424 (federal assistance application cover sheet). The rule lists three...
+> -- *[[DeterminationOfEndangeredAndTh_PML0720]]*
+
+> This partial literature review, prepared by the [[Colorado Division of Wildlife]] in 1977 and updated by an addendum in December 1978, covers the status, natural history, and life history of four fish species endemic to the [[Colorado River Basin]]: the [[Colorado Squawfish]], [[Bonytail Chub]],...
+> -- *[[APartialReviewOfLiteratureOnTh_PML1088]]*
+
+> This study by [[Widmer]] and colleagues measures the upper thermal tolerance of the [[Loach Minnow]] (*Rhinichthys cobitis*), a small, benthic stream fish listed as threatened under the [[Endangered Species Act]] in 1986. Four laboratory methods were compared: the [[Lethal Thermal Method]] (LTM),...
+> -- *[[UpperTemperatureToleranceOfLoa_PML2887]]*
+
+> This document is a cover letter and the interim (March 10, 1994) Procedures for Stocking Nonnative Fish Species in the [[Upper Colorado River Basin]], excluding the San Juan River Basin. The procedures were developed jointly by the [[U.S. Fish and Wildlife Service]] (Service) and the States of...
+> -- *[[InterimProceduresForStockingNo_PML2701]]*
+
+> This Utah Division of Wildlife Resources (UDWR) final report (Publication Number 05-08, June 2004) documents three years of spring electrofishing (2001–2003) on the [[Lower Green River]] to estimate adult populations, distribution, and life history of [[Flannelmouth Sucker]] (*Catostomus...
+> -- *[[PopulationTrendsAndDistributio_PML0143]]*
+
+> This is an internal U.S. Fish and Wildlife Service memorandum (April 1998, date partly illegible in the scan) from the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFHTC) to Region 2 management. It presents an issue paper on the [[Bonytail Chub]] recovery program, following a...
+> -- *[[BonytailChubRecoveryProgramIss_PML1383]]*
+
+> This study by Karp and Tyus (1990, *Great Basin Naturalist* 50) assesses the distribution, habitat use, spawning and species associations of the federally endangered [[Humpback Chub]] (*Gila cypha*) in the [[Yampa River]] and [[Green River]] within [[Dinosaur National Monument]], Colorado and Utah,...
+> -- *[[HumpbackChubGilaCyphaInTheYamp_PML1264]]*
+
+> This study by Modde, Burnham, and Wick (1996, *Conservation Biology* 10(1):110–119) assesses the status of the [[Razorback Sucker]] (*Xyrauchen texanus*) in the middle [[Green River]]. The authors analyzed capture data from 1975 to 1992, with population estimates covering 1980–1992. The population...
+> -- *[[PopulationStatusOfTheRazorback_PML0340]]*
+
+> This document is a compilation of Desert Fishes Council papers and related items (1985–1986) on the recovery of native fishes in the American Southwest. It covers the reintroduction of [[Colorado Squawfish]] and [[Woundfin]] into Arizona under the new experimental listing category of the...
+> -- *[[IntroducingTheNativesColoradoS_PML0577]]*
+
+> This document is a September 30, 1997 package from the [[Arizona Game And Fish Department]] (Wildlife Management Division) to the Commission. It covers proposed changes to [[Commission Order 40]] (Fish), which sets open seasons, open areas, and bag and possession limits for 1998. It includes a...
+> -- *[[ProposedFishingRegulationSurve_PML1168]]*
+
+> This study by [[Bradford and Gurtin]] (Arizona Game and Fish Department, North American Journal of Fisheries Management, 2000) examined how hatchery-reared adult [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid, used available aquatic habitat in the Imperial Division of the...
+> -- *[[HabitatUseByHatcheryrearedAdul_PML0267]]*
+
+> This 1994 *Copeia* study tests whether the invasive [[Red Shiner]] (*Cyprinella lutrensis*) is actively displacing the threatened [[Spikedace]] (*Meda fulgida*) in the [[Gila River Basin]]. The authors compared habitat use by each species when allopatric, allotopic, and syntopic across six stream...
+> -- *[[IndigenousFishesOfWesternNorth_PML1144]]*
+
+> This Federal Register proposed rule (May 22, 1985), circulated through the [[Arizona State Clearinghouse]] and accompanied by a cover letter from the [[U.S. Fish and Wildlife Service]], proposes listing the [[Little Colorado Spinedace]] (*Lepidomeda vittata*) as a threatened species under the...
+> -- *[[EndangeredAndThreatenedWildlif_PML0727]]*
+
+> This paper by Harold M. Tyus of the [[U.S. Fish and Wildlife Service]] argues that instream flow decisions for four federally listed [[Endangered Species Act]] fishes of the Colorado River should aim at recovery rather than mere survival. The four species are [[Colorado Squawfish]], [[Humpback...
+> -- *[[AnInstreamFlowPhilosophyForRec_PML2538]]*
+
+> This is a Federal Register notice (Vol. 65, No. 183, September 20, 2000, pp. 56917–56921) announcing the final joint policy of the [[Fish and Wildlife Service]] (FWS) and the [[National Marine Fisheries Service]] (NMFS) on [[Controlled Propagation]] of species listed under the [[Endangered Species...
+> -- *[[PolicyRegardingControlledPropa_PML0778]]*
+
+> This study argues that the [[Shortnose Sturgeon]] (*Acipenser brevirostrum*) population of the [[Hudson River Estuary]], New York, meets government and scientific criteria for recovery and merits delisting under the [[Endangered Species Act]]. The authors combined field sampling from 1994 to 1997...
+> -- *[[RecoveryOfAUsEndangeredFish_PML0158]]*
+
+> This pair of *Science* Perspectives essays from 1991 argues that conservation policy, reserve design, and species listing are failing to keep pace with the global loss of biodiversity. The first piece, "Conservation: Tactics for a Constant Crisis," describes a [[Biospatial Hierarchy]] of...
+> -- *[[ConservationTacticsForAConstan_PML2410]]*
+
+> This paper by [[Leah R. Gerber]] and [[Cheryl B. Schultz]] (National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara) examines how the authorship of [[Endangered Species Act]] (ESA) [[Recovery Plan]]s relates to the use of biological information in them. Using...
+> -- *[[AuthorshipAndTheUseOfBiologica_PML0858]]*
+
+> This review by Stephen J. Nicola (Senior Fishery Biologist, Endangered Species Program, Inland Fisheries Branch, California Department of Fish and Game) traces how water development on the [[Lower Colorado River]] altered the river and its fishes. The river's native fishes were adapted to a...
+> -- *[[FisheriesProblemsAssociatedWit_PML2024]]*
+
+> This USFWS Arizona Fisheries Resource Office report (October 2006), prepared by C.O. Minckley and T. Thorson, estimates population sizes of the [[Desert Pupfish]] (*Cyprinodon macularius macularius*) in artificial refuge ponds on [[Cibola National Wildlife Refuge]] (CNWR) and [[Imperial National...
+> -- *[[RefugePopulationEstimatesAtImp_PML1807]]*
+
+> This document is a scientific review, published in a Forest Service format, that asks whether threatened and endangered native fishes in [[Arizona]] are better protected through [[Single Species Management]] or through [[Multiple Species Management]] at the river-basin or community level. The...
+> -- *[[SingleVersusMultipleSpeciesMan_PML2221]]*
+
+> This document is the **Literature Cited** section of a 1986 final report on revegetation work in riparian habitat, prepared for the Department of Fish and Game and associated with a 25-acre plot project. The OCR text is badly degraded, so the title and author block are only partly legible. The...
+> -- *[[LiteratureCited_PML2041]]*
+
+> This Endangered Species Bulletin article (1997) by Linda Andreasen, a Fishery Biologist with the U.S. Fish and Wildlife Service (FWS) Division of Fish Hatcheries, and Buddy Jensen, Manager of the [[Dexter National Fish Hatchery and Technology Center]], describes how one facility shifted from...
+> -- *[[DexterNationalFishHatcheryAndT_PML0053]]*
+
+> This 1985 *Federal Register* proposed rule, issued by the [[U.S. Fish And Wildlife Service]] (Albuquerque Regional Office), proposes listing the [[Spikedace]] ([[Meda Fulgida]]) as a **threatened** species under the [[Endangered Species Act]] of 1973. It also proposes [[Critical Habitat]] in...
+> -- *[[ProposalToDetermineSpikedaceAn_PML0726]]*
+
+> This document is a 1979 U.S. National Marine Fisheries Service package under the [[National Environmental Policy Act]] concerning a final rule to list the [[Totoaba]] (*Cynoscion macdonaldi*) as an endangered species under Section 4 of the [[Endangered Species Act]] of 1973. It contains a Finding...
+> -- *[[EnvironmentalAssessmentConside_PML1688]]*
+
+> This Final Rule from the [[U.S. Fish and Wildlife Service]] (Federal Register, Vol. 52, No. 179, September 18, 1987) determines the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a small cyprinid endemic to east-central Arizona, to be a threatened species under the [[Endangered Species Act]]...
+> -- *[[FinalRuleToDetermineLepidomeda_PML0735]]*
+
+> This Fiscal Year 1989 annual report from the [[Dexter National Fish Hatchery]] in Dexter, New Mexico, documents the station's role in propagating, holding, and reintroducing imperiled freshwater fishes of the American Southwest. The hatchery, established under the White Act of 1931, shifted into...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2668]]*
+
+> This essay argues that formal evaluation of [[Conservation Program Evaluation|conservation programs]] is rare but increasingly important for improving their effectiveness. The authors, a team of conservation scientists and managers from zoological, governmental, academic and NGO institutions,...
+> -- *[[ImprovingTheEvaluationOfConser_PML1283]]*
+
+> This U.S. Fish and Wildlife Service document, by Eddy L. Jensen, describes how captive culture at the [[Dexter National Fish Hatchery]] (Dexter NFH) supports recovery of endangered and threatened native fishes of the Southwest. Since 1979 the facility has held and propagated many species, with up...
+> -- *[[TheRoleOfFishCultureInEndanger_PML1189]]*
+
+> The endangered [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) has declined sharply in distribution and abundance over recent decades. In the United States it now survives only in a few isolated localities in southern Arizona. The authors attribute the decline to habitat destruction and to the...
+> -- *[[FactorsResultingInDeclineOfThe_PML1670]]*
+
+> A 1994 final rule from the [[Fish And Wildlife Service]] lists the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the [[Endangered Species Act]]. The rule was published in the Federal Register on July 20, 1994 and took effect August 19, 1994. The species now...
+> -- *[[EndangeredAndThreatenedWildlif_PML0760]]*
+
+> This perspective article argues that [[Pacific Salmon]] (*Oncorhynchus* spp.) in the [[Pacific Northwest]] have declined regionally and gone locally extinct mainly because of freshwater habitat destruction and overfishing. Current management focuses on [[Habitat Restoration]] and stricter fishery...
+> -- *[[ManagingTheDeclineOfPacificSal_PML2939]]*
+
+> This is a formal public comment letter, dated January 10, 1994, from the [[Sierra Club Legal Defense Fund]] to the U.S. Fish and Wildlife Service (FWS) on the proposed rule designating [[Critical Habitat]] for four endangered Colorado River fishes: the [[Bonytail Chub]], [[Razorback Sucker]],...
+> -- *[[ReProposedRuleDesignatingCriti_PML2362]]*
+
+> This final rule, published in the [[Federal Register]] on March 8, 1994 and effective April 7, 1994, designates [[Critical Habitat]] for the [[Loach Minnow]] (*Tiaroga cobitis*), a small, slender, endangered freshwater fish of the [[Gila River]] basin in [[Arizona]] and [[New Mexico]]. The rule was...
+> -- *[[EndangeredAndThreatenedWildlif_PML0761]]*
+
+> This December 1995 review by Gary Schiffmiller (University of New Mexico) documents a rapid, unprecedented decline in the abundance, diversity, and distribution of native freshwater fishes in western North America. Western species account for a disproportionate share of threatened and extinct North...
+> -- *[[TheDeclineInAbundanceDiversity_PML2290]]*
+
+> This study compares early life-stage chronic toxicity of [[Copper]] and [[Pentachlorophenol]] (PCP) in two federally listed fishes, the endangered [[Fountain Darter]] and the threatened [[Spotfin Chub]], with two commonly tested surrogate species, the [[Fathead Minnow]] and the [[Rainbow Trout]]....
+> -- *[[AssessingContaminantSensitivit_PML0199]]*
+
+> This study by [[Dwyer et al.]] (Archives of Environmental Contamination and Toxicology, 2005, vol. 48, pp. 143–154) tests whether toxicity data from common laboratory species can protect federally and state-listed aquatic species. Three standard test species ([[Fathead Minnow]], [[Sheepshead...
+> -- *[[AssessingContaminantSensitivit_PML0647]]*
+
+> This BioScience feature (December 2001) by Jeffrey P. Cohn examines efforts to restore [[Riparian Habitat]] and native fish along the [[Colorado River]] after more than a century of dam building, diversion, and flow regulation. The river is now among the most controlled in the world, and its...
+> -- *[[ResurrectingTheDammedALookAtCo_PML0471]]*
+
+> This U.S. Fish and Wildlife Service report, prepared at [[Dexter National Fish Hatchery]] (NFH) in New Mexico, documents two years (1981 and 1982) of induced spawning, egg incubation, and fry rearing trials for the endangered [[Razorback Sucker]]. Broodstock came from [[Lake Mohave]]. The work...
+> -- *[[SpawningAndHatchingOfTheRazorb_PML1157]]*
+
+> This critique by Michael K. Young and Amy L. Harig, published in [[Conservation Biology]] (Volume 15, No. 6, December 2001), evaluates the recovery of the [[Greenback Cutthroat Trout]] (*Oncorhynchus clarkii stomias*) under the [[Endangered Species Act]] (ESA). Although the subspecies' population...
+> -- *[[ACritiqueOfTheRecoveryOfGreenb_PML2935]]*
+
+> This study uses [[Occupancy Modeling]] to quantify the decline of three endemic [[Desert Fishes]] of the [[Colorado River Basin]] in Utah: [[Flannelmouth Sucker]], [[Bluehead Sucker]], and [[Roundtail Chub]]. The three species are managed together as a "three species" complex, though their status...
+> -- *[[AnOccupancybasedQuantification_PML0315]]*
+
+> This *Fisheries* (Vol. 11, No. 1, January–February 1986) synthesis by [[Gary K. Meffe]] argues that recovery programs for [[Endangered Species Act]]-listed fishes must incorporate [[Conservation Genetics]] from the outset. Management of endangered fishes is described as new and largely...
+> -- *[[ConservationGeneticsAndTheMana_PML1665]]*
+
+> This Federal Register rule (Vol. 59, No. 240, 15 December 1994, Part IX, Department of the Interior, [[U.S. Fish and Wildlife Service]]) withdraws the June 1993 proposal to list the [[Alabama Sturgeon]] (*Scaphirhynchus suttkusi*) as endangered under the [[Endangered Species Act]] and to designate...
+> -- *[[EndangeredAndThreatenedSpecies_PML0755]]*
+
+> This study uses [[Allozyme Electrophoresis]] to compare the genetic structure of captive and wild stocks of three federally listed endangered desert fishes maintained at the [[Dexter National Fish Hatchery]]: the [[Leon Springs Pupfish]], the [[Comanche Springs Pupfish]], and the [[Pecos...
+> -- *[[GeneticComparisonsOfHatcheryAn_PML0660]]*
+
+> This annual report from the [[Dexter National Fish Hatchery]] and Technology Center (Dexter NFH & TC), Dexter, New Mexico, covers fiscal year 1992. The station, run by the U.S. Fish and Wildlife Service (Service), serves as a refuge, study site and production facility for imperiled native fishes of...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2681]]*
+
+> This annual report from the [[Dexter National Fish Hatchery]] and Technology Center (Dexter NFH & TC), operated by the [[Fish and Wildlife Service]] (FWS), covers fiscal year 1992 (FY 92). The station is a federal refuge, study and production facility for imperiled native fishes of the American...
+> -- *[[AnnualReportFiscalYearDexterNa_PML1195]]*
+
+> This biological assessment, prepared by Paul C. Marsh (Arizona State University, Center for Environmental Studies) on 18 January 1995, evaluates potential impacts of constructing and operating the [[McAlister Intake Facility]] (Great Life Subdivision) at [[Telephone Cove]] in [[Lake Mohave]]. It...
+> -- *[[BiologicalAssessmentOfTheImpac_PML1477]]*
+
+> This is the Fiscal Year 1991 annual report of the [[Dexter National Fish Hatchery]] in New Mexico. It was designated a Technology Center during FY 91, one of only five in the [[U.S. Fish and Wildlife Service]]. The station is a refuge, research and propagation facility for imperiled fishes of the...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2677]]*
+
+> This document is a 1985 U.S. Fish and Wildlife Service (FWS) package requesting public and agency comment on the five-year review of species listed under the [[Endangered Species Act]]. It consists of a cover letter to regional cooperators, an internal comment routing sheet, and a *Federal...
+> -- *[[EndangeredAndThreatenedWildlif_PML0723]]*
+
+> This final report from the [[U.S. Fish and Wildlife Service]] estimates the size and structure of the [[Humpback Chub]] (*Gila cypha*) population in [[Black Rocks]], a short, deep-water reach of the [[Colorado River]]. Sampling took place in late summer to early fall of 1998, 1999 and 2000, using...
+> -- *[[PopulationSizeAndStructureOfHu_PML1623]]*
+
+> This perspective paper by [[Haig et al. 2006]] in *Conservation Biology* examines how taxonomic uncertainty, particularly around subspecies, complicates listings under the [[Endangered Species Act]] (ESA). Although roughly one-quarter of ESA-listed taxa are subspecies, the authors find no...
+> -- *[[TaxonomicConsiderationsInListi_PML0944]]*
+
+> This document is a special reprint of the U.S. federal regulations at [[Code Of Federal Regulations]] Title 50, sections 17.11 and 17.12. It was produced by the [[U.S. Fish And Wildlife Service]] (Department of the Interior) and is current as of January 1, 1986. Sections 17.11 and 17.12 form the...
+> -- *[[EndangeredAndThreatenedWildlif_PML2657]]*
+
+> This 1982 review by [[James E. Johnson]] and [[John N. Rinne]], published in the American Fisheries Society bulletin *Fisheries* (Vol. 7, No. 3), argues that the native fishes of the American Southwest are in severe, continuing decline due to habitat loss. It reviews the [[Endangered Species Act]]...
+> -- *[[TheEndangeredSpeciesActAndSout_PML1213]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) position paper, a synthesis of current biological information dated March 2000 and authored by [[Douglas B. Osmundson]] of the [[Colorado River Fishery Project]], argues that the quality and quantity of habitat in the [[15-Mile Reach]] of the upper...
+> -- *[[ImportanceOfTheMileReachToColo_PML2052]]*
+
+> This biological assessment, prepared by Paul C. Marsh (Arizona State University, Center for Environmental Studies) for Stovall Engineers, Inc. and the [[National Park Service]] (Lake Mead National Recreation Area), evaluates potential effects of constructing and operating the [[McAlister Intake...
+> -- *[[BiologicalAssessmentOfTheImpac_PML1478]]*
+
+> This U.S. Fish & Wildlife Service memorandum (Region 2, Albuquerque, October 3, 1980) concerns the review and revision of a draft [[Razorback Sucker]] management plan. The species was not formally listed under the [[Endangered Species Act]], so no recovery team or official recovery plan existed; an...
+> -- *[[ReviewOfTheOldDraftRazorbackSu_PML1872]]*
+
+> This U.S. Fish and Wildlife Service (Service) biological opinion, dated July 2, 1996, responds to a formal consultation request from the [[U.S. Army Corps of Engineers]] (received June 24, 1996) under Section 7 of the [[Endangered Species Act]]. The proposed action is repair of erosion damage to...
+> -- *[[BiologicalOpinionOnTheProposed_PML2707]]*
+
+> This study assesses whether [[Recovery Plan|recovery plans]] for federally listed endangered species are internally consistent, meaning their recommendations stay aligned across the planning process. The authors built a database of recovery plans and answered nine questions grouped into three topic...
+> -- *[[EvaluatingTheInternalConsisten_PML0276]]*
+
+> This 1985 report by James E. Brooks of the [[U.S. Fish and Wildlife Service]] summarizes monitoring of natural and introduced populations of the [[Sonoran Topminnow]], a small live-bearing freshwater fish listed as endangered under the [[Endangered Species Act]]. The report tests whether habitat...
+> -- *[[StatusOfNaturalAndIntroducedSo_PML0283]]*
+
+> This quarterly report from the [[U.S. Fish and Wildlife Service]] Parker Fisheries Resource Office covers the first operational quarter of the [[Achii Hanyo]] project, which renovates a commercial fish hatchery to rear large numbers of endangered [[Bonytail Chub]] for the [[Lower Colorado River]]....
+> -- *[[AchiiHanyoQuarterlyActivitiesR_PML1781]]*
+
+> This is a 2001 policy and legal analysis by [[Holly Doremus]] and [[Joel Pagel]] published in *Conservation Biology* as part of a special section on the [[Endangered Species Act]] (ESA). The authors argue that [[Delisting]] (removing species from the protected list) requires evaluating not only...
+> -- *[[WhyListingMayBeForeverPerspect_PML0596]]*
+
+> This U.S. Fish and Wildlife Service report, prepared by Marie Sullivan (Arizona Ecological Services Office, Phoenix) in March 1995, reviews the historical and recent distribution of [[Speckled Dace]] (*Rhinichthys osculus*) along [[Sonoita Creek]] in Santa Cruz County, Arizona. It assesses the...
+> -- *[[DistributionOfSpeckledDaceRhin_PML2479]]*
+
+> This laboratory study by [[Hamilton and Buhl]] (1997, *Environmental Toxicology and Water Quality*) measured 96-h acute toxicity of five individual inorganics (arsenate, copper, selenate, selenite, zinc) and five environmentally derived inorganic mixtures to larval [[Colorado Squawfish]] and...
+> -- *[[HazardAssessmentOfInorganicsIn_PML0961]]*
+
+> This study compares three aging structures ([[Scale Aging]], [[Opercular Bone]], and [[Otolith]] analysis) for [[Roundtail Chub]] (*[[Gila robusta]]*) collected from the [[Yampa River]] in [[Dinosaur National Monument]] during 1998, 1999, 2001, and 2002. It also describes age structure, mortality,...
+> -- *[[ComparisonOfAgingStructuresAnd_PML2267]]*
+
+> This 1983 review by W. L. [[Minckley]] (Arizona State University) assesses the status of the [[Razorback Sucker]], an endemic "big-river" fish of the [[Colorado River Basin]]. The lower basin population is reduced to scattered individuals outside [[Lake Mohave]], where large adults persist but no...
+> -- *[[StatusOfTheRazorbackSuckerXyra_PML1832]]*
+
+> This document is a scanned, heavily degraded federal proposed rule (Federal Register format, apparently dated April 1978) concerning the [[Razorback Sucker]] (*Xyrauchen texanus*), a fish of the [[Colorado River Basin]]. Its text refers to the species' decline and to a proposal to list it under the...
+> -- *[[ProposedListingForBonytailChub_PML0714]]*
+
+> This 1994 [[Federal Register]] proposed rule from the [[Fish And Wildlife Service]] (FWS) would reclassify the [[Bald Eagle]] from endangered to threatened across most of the [[Lower 48 States]] under the [[Endangered Species Act]] of 1973. The bald eagle would stay endangered in the southwestern...
+> -- *[[EndangeredAndThreatenedWildlif_PML0765]]*
+
+> This Federal Register final rule, issued by the [[U.S. Fish and Wildlife Service]] (Interior Department), lists the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the [[Endangered Species Act]] and designates [[Critical Habitat]] in Imperial County, California, and Pima...
+> -- *[[EndangeredAndThreatenedWildlif_PML0729]]*
+
+> This simulation study compares two [[Capture-Mark-Recapture]] approaches for estimating juvenile [[Steelhead]] survival in tributary streams: the traditional [[Cormack-Jolly-Seber Model]] (CJS) and the [[Barker Model]], which can incorporate [[Resight Data]] from [[PIT Tag]] interrogation sites....
+> -- *[[ComparisonOfTributarySurvivalE_PML0483]]*
+
+> This first annual report of the [[Windy-Gap Study]] was prepared by the [[U.S. Fish And Wildlife Service]] under a cooperative agreement with the Northern Colorado Water Conservancy District (Municipal Subdistrict). It is part of the [[Colorado River Fishery Project]] (CRFP), which studies...
+> -- *[[WindygapFishesStudyFirstAnnual_PML1724]]*
+
+> This Fiscal Year 1991 annual report from the [[Dexter National Fish Hatchery]] and Technology Center (Dexter, New Mexico) documents the culture, holding, spawning and distribution of imperiled freshwater fishes of the American Southwest. Dexter was designated a Technology Center in FY91, one of...
+> -- *[[AnnualReportFiscalYearDexterNa_PML1194]]*
+
+> This Arizona Game and Fish Department (AGFD) packet, dated July–September 1997, concerns a proposed set of [[Reintroduction Guidelines]] for federally listed aquatic species, prompted by the [[Gila Topminnow]] and [[Desert Pupfish]] stocking program. The Commission was asked to approve the...
+> -- *[[ProposedDepartmentGuidelinesFo_PML0125]]*
+
+> This chapter, published in the proceedings of a 1985 American Fisheries Society symposium on fish culture in fisheries management, examines how artificial propagation in [[Hatchery]] facilities can help recover threatened and endangered fishes, mainly in the American Southwest. The authors, all...
+> -- *[[TheRoleOfHatcheriesInTheManage_PML2227]]*
+
+> This document is a technical evaluation by R.A. Valdez (October 1994, revised December 1994) of the [[Fishes of the Lower Colorado River]], compiled as an appendix to a [[Bureau of Reclamation]] biological assessment. It reviews the historical and current ichthyofauna, the status of federally...
+> -- *[[AnEvaluationOfTheFishesOfTheLo_PML2574]]*
+
+> This study tests whether the [[Rio Grande Sucker]] (*Pantosteus plebeius*) was recently introduced by humans into the [[Gila River Basin]] of New Mexico or is native there. Earlier surveys lacked the species, and it was first recorded in Sapillo Creek in 1949 and the San Francisco River in 1953,...
+> -- *[[RioGrandeSuckerPantosteusPlebe_PML2515]]*
+
+> This 1978 Federal Register proposed rule, issued by the [[U.S. Fish and Wildlife Service]] (dated April 13, 1978, signed by Director Lynn A. Greenwalt), proposes to list the [[Bonytail Chub]] (*Gila elegans*) as Endangered and the [[Razorback Sucker]] (*Xyrauchen texanus*) as Threatened under the...
+> -- *[[ProposedEndangeredStatusForThe_PML0713]]*
+
+> This 1997 draft white paper, written by consulting ecologist Dr. Shawn Smallwood for the Spirit of the Sage Council and the National Endangered Species Network, argues that the proposed [[No Surprises Policy]] under the [[Endangered Species Act]] would weaken species protection by limiting the use...
+> -- *[[ScienceMissingInTheNoSurprises_PML2381]]*
+
+> This *Federal Register* notice (Vol. 62, No. 182, September 19, 1997) is the U.S. Fish and Wildlife Service's annual review of plant and animal taxa that are candidates for, or have been proposed for, listing as endangered or threatened under the [[Endangered Species Act]] of 1973. It is a...
+> -- *[[EndangeredAndThreatenedSpecies_PML0773]]*
+
+> This 1993 Annual Report from the [[Arizona Fishery Resources Office]] (U.S. Fish and Wildlife Service) documents the first year of a long-term monitoring program on the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis occidentalis*) isolated in three small springs of the [[Bylas Springs Complex]]...
+> -- *[[BylasSpringsAndTheEndangeredSo_PML1361]]*
+
+> This BioScience policy article (Rohlf, Carroll and Hartl, July 2014) argues that the term [[Conservation-Reliant Species]] has been defined so broadly, and so entangled with legal and policy questions under the [[Endangered Species Act]], that it has lost usefulness as a scientific concept. The...
+> -- *[[ConservationreliantSpeciesTowa_PML2256]]*
+
+> This BioScience perspective (Rohlf, Carroll and Hartl, 2014) argues that the term [[Conservation-Reliant Species]] has become so broadly applied that it has lost practical value and has become entangled with legal and policy questions under the [[Endangered Species Act]] (ESA). The authors propose...
+> -- *[[ConservationreliantSpeciesTowa_PML2257]]*
+
+> This document is a Federal Register package (May 3, 2006) containing three items. Two are FCC radio-channel allotment notices (Kentucky and Tennessee FM tables), which contain no biological content. The substantive item is a [[Fish and Wildlife Service]] (USFWS) 12-month finding on a petition to...
+> -- *[[EndangeredAndThreatenedWildlif_PML0785]]*
+
+> This review, by [[John N. Rinne]] of the Rocky Mountain Forest and Range Experiment Station (Arizona State University, Tempe), evaluates whether selected physical stream habitat features ([[Sedimentation]]) and aquatic biota ([[Aquatic Macroinvertebrates]] and [[Trout]] populations) can reliably...
+> -- *[[TheUtilityOfHabitatAndBiotaFor_PML2212]]*
+
+> This document is a proposed rule from the [[U.S. Fish And Wildlife Service]], published in the [[Federal Register]] in 1984. It proposes to determine the [[Desert Pupfish]] (*Cyprinodon macularius*) to be an endangered species under the [[Endangered Species Act]] and to designate four areas as...
+> -- *[[DesertPupfishCyprinodonMacular_PML0719]]*
+
+> This document comprises a U.S. Fish and Wildlife Service cover letter (September 7, 1989) and the Federal Register final rule, published August 24, 1989 (effective September 28, 1989), that lists the [[Virgin River Chub]] (*Gila robusta seminuda*) as an endangered species under the [[Endangered...
+> -- *[[DeterminationOfEndangeredStatu_PML0738]]*
+
+> This commentary by [[W. L. Minckley]] compiles the fish fauna of the [[Colorado River]] downstream of [[Davis Dam]], its [[Colorado River Delta]], and the uppermost [[Sea Of Cortez]]. The list records 126 taxa: 45 freshwater species (8 native, 37 non-native) and 81 marine species, all native. Every...
+> -- *[[FishesOfTheLowermostColoradoRi_PML1863]]*
+
+> This peer-reviewed paper by [[W. L. Minckley]] (Arizona State University) reviews experiences with [[Translocation]] of imperiled freshwater fishes in the western United States. It presents the political and biological hurdles of moving fishes to new or restored sites, outlines guidelines adapted...
+> -- *[[TranslocationAsAToolForConserv_PML1851]]*
+
+> This feasibility report, prepared by the [[Bureau of Reclamation]] (Phoenix Area Office) with the [[Tonto National Forest]] and the [[U.S. Fish and Wildlife Service]], evaluates a reinforced-concrete [[Fish Barrier]] on [[Rock Creek]] in Gila County, Arizona. The barrier would keep [[Nonnative...
+> -- *[[RockCreekFishBarrierFeasibilit_PML2197]]*
+
+> This draft environmental assessment (EA), prepared in September 1990 by the [[Bureau of Reclamation]] (Yuma Projects Office), evaluates a proposed restoration of two off-channel backwaters, A-7 and C-5, on the [[Colorado River]] in the [[Palo Verde Division]]. The backwaters have silted in, lost...
+> -- *[[DraftEnvironmentalAssessmentRe_PML2572]]*
+
+> This 1986 *Federal Register* proposed rule, issued by the U.S. [[Fish And Wildlife Service]] (Department of the Interior), proposes listing the [[Virgin River Chub]] (*Gila robusta seminuda*) as an endangered species under the [[Endangered Species Act]] of 1973, as amended, and designating its...
+> -- *[[ProposedListingOfVirginRiverCh_PML0733]]*
+
+> This compiled document contains four items on endangered fishes of the [[Colorado River Basin]]: 1. A 1981 U.S. Fish and Wildlife Service paper by James E. Johnson on the reintroduction of [[Razorback Sucker]] (*Xyrauchen texanus*) into historic habitat in Arizona's [[Gila River Basin]], undertaken...
+> -- *[[ReintroducingTheNativeFishesRa_PML0573]]*
+
+> This 1984 U.S. Fish and Wildlife Service recovery plan addresses the [[Bonytail Chub]] (*Gila elegans*), a large-river cyprinid of the [[Colorado River Basin]] listed as endangered on April 23, 1980. The species was listed without designated critical habitat because reproducing populations were...
+> -- *[[RecoveryPlanForTheEndangeredBo_PML2769]]*
+
+> This second revision of the [[Apache Trout Recovery Plan]], approved March 5, 1998 by the [[U.S. Fish and Wildlife Service]] (USFWS), addresses *Oncorhynchus apache*, a [[Salmonidae|salmonid]] listed as threatened. The plan was prepared by the [[Apache Trout Recovery Team]] with members from the...
+> -- *[[ApacheTroutOncorhynchusApacheR_PML2031]]*
+
+> This document is a revised proposed rule from the [[U.S. Fish And Wildlife Service]] (Department of the Interior) to list the [[Gila Chub]] as an endangered species under the [[Endangered Species Act]] and to designate about 211.9 stream miles (340.9 stream km) of [[Critical Habitat]]. It reopens...
+> -- *[[EndangeredAndThreatenedWildlif_PML0783]]*
+
+> This review (Cooke et al., *Biological Conservation* 121, 317–331, 2005) uses regional [[Case Studies]] to examine threats, conservation strategies and prognosis for suckers, a diverse freshwater family of at least 76 species, most of them North American. Suckers are a model "non-game" family: they...
+> -- *[[ThreatsConservationStrategiesA_PML0493]]*
+
+> This concepts-and-questions paper argues that the [[Endangered Species Act]] (ESA) needs a more nuanced definition of "recovery." The authors contend that many listed species will not be fully independent of management even after delisting. Human pressures such as habitat loss, disruption of...
+> -- *[[RecoveryOfImperiledSpeciesUnde_PML2325]]*
+
+> Scott et al. argue that the [[Endangered Species Act]] (ESA) needs a more realistic definition of "recovery." Many listed species cannot be delisted unless they keep receiving active management, so the authors propose treating recovery as a continuum rather than a simple recovered/not-recovered...
+> -- *[[RecoveryOfImperiledSpeciesUnde_PML2324]]*
+
+> This BioScience article (March 2003, Vol. 53 No. 3) by [[Minckley]], Marsh, Deacon, Dowling, Hedrick, Matthews and Mueller proposes a science-based management plan for the four federally endangered "big-river" fishes of the lower [[Colorado River]]: [[Humpback Chub]], [[Bonytail]], [[Colorado...
+> -- *[[AConservationPlanForNativeFish_PML1890]]*
+
+> In late March 1992, a sequence of failures at the [[Dexter National Fish Hatchery]] and Technology Center in New Mexico killed most of the endangered upper Colorado River fish held there for [[Recovery Program]] broodstock. The documents are internal [[U.S. Fish and Wildlife Service]] memoranda, a...
+> -- *[[FishLossAccidentAtDexterNfh_PML1196]]*
+
+> This document is a draft policy framework, dated December 10, 1993 and revised for a January 5, 1994 meeting, that governs the stocking of nonnative fishes in the Upper Colorado River Basin. It was developed by consensus among the [[U.S. Fish and Wildlife Service]] and the fish and wildlife...
+> -- *[[ProceduresForStockingNonnative_PML0958]]*
+
+> This review by [[Robert R. Miller]], [[James D. Williams]] and [[Jack E. Williams]] (*Fisheries*, Vol. 14, Nos. 5-6, 1989) compiles a comprehensive list of recently extinct North American fishes and gives a detailed account of each extinction. The authors document **40 taxa**, comprising **27...
+> -- *[[ExtinctionsOfNorthAmericanFish_PML1718]]*
+
+> This document is a 1988 agency review draft of the Bonytail Chub Recovery Plan, prepared by the Colorado River Fishes Recovery Team for U.S. Fish and Wildlife Service (Region 6), together with a cover letter of 5 September 1988 from [[Paul C. Marsh]], Arizona State University Center for...
+> -- *[[BonytailChubGilaElegansRecover_PML0481]]*
+
+> This Arizona Game and Fish Department (AGFD) Technical Guidance Bulletin No. 2 (June 2000), funded under Federal Aid in Sportfish Restoration Project F-14-R, examines how nonnative trout affect the federally threatened [[Little Colorado Spinedace]] (*Lepidomeda vittata*). The study addresses...
+> -- *[[InteractionsAmongTroutAndLittl_PML2251]]*
+
+> This laboratory study, conducted by [[Scott A. Bonar]], [[Cori J. Carveth]], and [[Ann M. Widmer]] with [[Jeff Simms]] of the [[Bureau of Land Management]], measured the upper thermal tolerance of two endangered southwestern cyprinids, [[Loach Minnow]] (*Tiaroga cobitis*) and [[Spikedace]] (*Meda...
+> -- *[[UpperTemperatureToleranceOfLoa_PML0248]]*
+
+> This document is a set of correspondence and review materials from October 1987 concerning a U.S. Fish and Wildlife Service proposal to reintroduce an endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the lower [[Colorado River]] between [[Parker Dam]] and [[Imperial Dam]] as a...
+> -- *[[CommentsAndProposalsOnTheNones_PML0734]]*
+
+> This Final Rule, published by the [[U.S. Fish and Wildlife Service]] in the *Federal Register* on March 21, 1994 (59 FR 13374), designates critical habitat for four endangered fishes of the [[Colorado River Basin]]: the [[Razorback Sucker]], [[Colorado Squawfish]], [[Humpback Chub]], and [[Bonytail...
+> -- *[[EndangeredAndThreatenedWildlif_PML0757]]*
+
+> This chapter, a book chapter by Harold M. Tyus, reviews the life cycle, status, and management options for the [[Colorado Squawfish]] (*Ptychocheilus lucius*), the largest minnow native to North America. The species has been extirpated from most of the lower [[Colorado River]] basin and survives in...
+> -- *[[EcologyAndManagementOfColorado_PML2533]]*
+
+> This annual report for Fiscal Year 2001 covers the [[Dexter National Fish Hatchery]] and Technology Center in the Pecos River Valley of southeastern New Mexico. The facility functions as a refugium and recovery center for imperiled fishes of the American Southwest, holding 16 listed species and one...
+> -- *[[AnnualReportFiscalYearDexterNa_PML2759]]*
+
+> This formal Section 7 consultation under the [[Endangered Species Act]] (1973) evaluates the U.S. [[Fish and Wildlife Service]] (Service) program to stock hatchery-raised catchable [[Rainbow Trout]] (eight to ten inches) and [[Channel Catfish]] into reservoirs and river reaches of the Lower...
+> -- *[[BiologicalOpinionOnStockingOfR_PML2697]]*
+
+> The U.S. Fish and Wildlife Service issued a [[Biological Opinion]] dated November 1, 1996 (letter of November 7, 1996) on a project funded by the [[Federal Emergency Management Agency]] (FEMA) to repair flood damage from 1993 on the Aravaipa Creek road in Pinal County, Arizona. The project includes...
+> -- *[[BiologicalOpinionForBridgeCons_PML2709]]*
+
+> This Utah Division of Wildlife Resources final report (September 2005), prepared for the [[Upper Colorado River Basin Endangered Fish Recovery Program]], estimates the adult population of [[Humpback Chub]] (*Gila cypha*) in [[Desolation Canyon]] and [[Gray Canyon]] on the [[Green River]] for...
+> -- *[[PopulationEstimateForHumpbackC_PML1159]]*
+
+> This 1996 fish management plan, prepared jointly by the National Park Service (NPS), the Utah Division of Wildlife Resources (UDWR), and the Arizona Game and Fish Department (AGFD), sets a five-year framework for fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses Lake...
+> -- *[[GlenCanyonNationalRecreationAr_PML2776]]*
+
+> This document is a final rule issued by the [[Fish and Wildlife Service]] (U.S. Department of the Interior), published in the *Federal Register* on January 26, 2000 (Vol. 65, No. 17; RIN 1018-AD23; 50 CFR part 17). It designates [[Critical Habitat]] for two endangered cyprinid fishes, the...
+> -- *[[EndangeredAndThreatenedWildlif_PML0791]]*
+
+> This 1993 annual report from the [[Dexter National Fish Hatchery]] and Technology Center (Dexter NFH & TC), in Dexter, New Mexico, covers station operations, staffing, culture results, health problems, cooperation, outreach, facilities, and future needs for the [[Fish and Wildlife Service]]...
+> -- *[[DexterNationalFishHatcheryAndT_PML1198]]*
+
+> This study tests whether [[River Regulation]] reduces the food base of the endangered [[Colorado Pikeminnow]] (*Ptychocheilus lucius*) in the upper [[Colorado River]] through fine-sediment accumulation in the riverbed. Sampling across a 373-km study area divided into 11 strata, the authors found...
+> -- *[[FlowsedimentbiotaRelationsImpl_PML2060]]*
+
+> This Arizona Game and Fish Department (AGFD) Technical Report 100, a draft by [[David A. Weedman]] and [[Kirk L. Young]], reviews [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites across Arizona and provisionally declares a large number of them extirpated. The...
+> -- *[[GilaTopminnowSitesInArizonaPro_PML2858]]*
+
+> This review by Carlson and Muth (1989), published in the *Proceedings of the International Large River Symposium*, treats the [[Colorado River]] as a single holistic ecosystem and summarizes its ecology and management. The river, once free-flowing and characterized by extreme flow and...
+> -- *[[TheColoradoRiverLifelineOfTheA_PML0363]]*
+
+> This Federal Register notice from the [[Fish and Wildlife Service]] (the Service) updates its list of native U.S. plant and animal taxa regarded as candidates for listing under the [[Endangered Species Act]] of 1973, as amended. The notice does not report new field research. Its purpose is to give...
+> -- *[[EndangeredAndThreatenedWildlif_PML0771]]*
+
+> This paper reviews the status of [[Gray Wolf]] ([[Canis Lupus]]) restoration in Montana, Idaho, and Wyoming through 1 November 1998. Wolves were eliminated from the region by the 1930s and returned naturally from southwestern Canada. Following the [[Recovery Plan]] (1987), wolves were reintroduced...
+> -- *[[StatusOfGrayWolfRestorationInM_PML0169]]*
+
+> This 1993 Federal Register proposed rule from the [[U.S. Fish And Wildlife Service]] (Service) proposes listing the [[Southwestern Willow Flycatcher]] (*Empidonax traillii extimus*) as an endangered species under the [[Endangered Species Act]] of 1973, and designating its critical habitat. The...
+> -- *[[EndangeredAndThreatenedWildlif_PML0753]]*
+
+> This Arizona State University master's thesis (Anthony Lawrence Velasco, December 1997) tests whether the spatial distribution of native fishes in [[Aravaipa Creek]], a desert stream in southeastern Arizona, tracks variance in stream discharge. It combines a decades-long fish dataset ([[Minckley...
+> -- *[[FishPopulationResponseToVarian_PML2791]]*
+
+> The [[Bureau Of Reclamation]] (Phoenix Area Office) issued a March 2009 scoping notice for an [[Environmental Assessment]] (EA) under the [[National Environmental Policy Act]] on a proposed [[Native Fish Restoration]] project in the lower Blue River, Greenlee County, Arizona. The project would...
+> -- *[[LowerBlueRiverNativeFishRestor_PML2587]]*
+
+> This U.S. Fish and Wildlife Service final rule (Federal Register, January 26, 2000; effective February 25, 2000) designates [[Critical Habitat]] for two endangered cyprinid fishes, the [[Woundfin]] and the [[Virgin River Chub]], under the [[Endangered Species Act]]. The designation covers 140.1 km...
+> -- *[[EndangeredAndThreatenedWildlif_PML0792]]*
+
+> This revised recovery plan, published by the [[U.S. Fish and Wildlife Service]] in Portland, Oregon, sets out the strategy for recovering the [[Cui-ui]] (*Chasmistes cujus*), an endangered sucker endemic to the [[Truckee River]] and [[Pyramid Lake]] system in Nevada. The goal is to restore a...
+> -- *[[CuiuiRecoveryPlanRevision_PML2651]]*
+
+> This report, reprinted from the *Proceedings of the Utah Academy of Sciences, Arts, and Letters* (vol. 51, part 2, 1974), catalogs the fish species and populations in Utah that are endangered, threatened, or of indeterminate status. It was prepared by the [[Utah Fishes Committee]] of the Bonneville...
+> -- *[[ThreatenedFishesOfUtah_PML1074]]*
+
+> This study evaluates whether [[Critical Habitat]] designation under the [[Endangered Species Act]] (ESA) has influenced the content and quality of [[Recovery Plans]] for listed species in the United States. The authors compared recovery plans for species with and without designated critical...
+> -- *[[ACriticalRoleForCriticalHabita_PML1065]]*
+
+> This document is a 1994 package from the [[United States Fish and Wildlife Service]] (Service) concerning the [[Virgin Spinedace]], a small endemic minnow of the [[Virgin River Basin]]. It contains a cover letter, the Federal Register proposed rule (*Federal Register*, Vol. 59, No. 95, May 18,...
+> -- *[[EndangeredAndThreatenedWildlif_PML0764]]*
+
+> This [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (Arizona Ecological Services Field Office) on December 2, 1998 concludes formal [[Section 7 Consultation]] on reconstruction of a hardened low-water crossing on [[Forest Road 281]] at the Blue Box, upper Blue River,...
+> -- *[[BiologicalOpinionSummaryBlueRi_PML2734]]*
+
+> This annual report from the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC), Dexter, New Mexico, covers Fiscal Year 1994. The station maintained, cultured and distributed imperiled fishes of the American Southwest and northwestern Mexico, with 14 threatened or endangered...
+> -- *[[DexterNationalFishHatcheryAndT_PML2699]]*
+
+> This packet centers on the U.S. Fish and Wildlife Service's (FWS) draft and final rule to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]] (ESA), without designating [[Critical Habitat]]. The rule states that the species occupies...
+> -- *[[RazorbackSuckerDraftFinalRule_PML2673]]*
+
+> This document is a Federal Register final rule (Vol. 63, No. 35, February 23, 1998) issued jointly by the [[Fish and Wildlife Service]] (FWS, Department of the Interior) and the [[National Marine Fisheries Service]] (NMFS, Department of Commerce). It adopts the [[No Surprises Policy]] under the...
+> -- *[[EndangeredAndThreatenedWildlif_PML0790]]*
+
+> This [[Biological Opinion]] issued by the [[U.S. Fish and Wildlife Service]] (Arizona Ecological Services Field Office) on October 14, 1997, addresses a formal [[Section 7 Consultation]] under the [[Endangered Species Act]] on the realignment of about 1,400 feet of [[Forest Road 281]] near the...
+> -- *[[BiologicalOpinionSummaryBlueRi_PML2615]]*
+
+> This final report, prepared for the [[Bureau of Reclamation]] under a cooperative agreement with the [[Arizona Game and Fish Department]] (authors Anne E. Kretschmann and Laura L. Leslie, dated October 13, 2006), assesses the status of endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in...
+> -- *[[RazorbackSuckerXyrauchenTexanu_PML1296]]*
+
+> This document is a cover memorandum and draft technical report from the [[Arizona Game and Fish Department]] (AGFD), dated February 1997. It provides a provisional extirpation review of 26 [[Gila Topminnow]] reintroduction sites in Arizona, based on the 1996–97 field season and historical records...
+> -- *[[GilaTopminnowSitesInArizonaPro_PML0124]]*
+
+> This report, a 1994 final economic study by [[David S. Brookshire]], [[Michael McKee]] and [[Gary Watts]] (University of New Mexico and Watts and Associates), estimates the incremental economic impacts of designating critical habitat for four endangered Colorado River fishes: the [[Razorback...
+> -- *[[EconomicAnalysisOfCriticalHabi_PML0288]]*
+
+> This document is a annotated-style reference bibliography, prepared June 1995 by Terry C. Inman, [[Paul C. Marsh]] and [[Wendell L. Minckley]] of Arizona State University's Center for Environmental Studies and Department of Zoology. It was commissioned by the U.S. Fish and Wildlife Service (Parker,...
+> -- *[[ABibliographyOfTheFederallyEnd_PML1153]]*
+
+> This draft Environmental Assessment (EA) from the USDA Forest Service evaluates whether to issue a 10-year livestock grazing permit to R., R., and B. Drachman on the [[Alpine Allotment]] (about 8,000 acres) within the [[Apache-Sitgreaves National Forests]], Arizona. Three alternatives are analyzed:...
+> -- *[[EnvironmentalAssessmentForTheI_PML2602]]*
+
+> This document is a annotated-style bibliography of the literature on the federally endangered [[Bonytail Chub]] (*Gila elegans*), prepared by Terry C. Inman, Paul C. Marsh and W.L. Minckley at Arizona State University for the U.S. Fish and Wildlife Service and ASU Hayden Library Special Collections...
+> -- *[[ABibliographyOfTheFederallyEnd_PML1154]]*
+
+> This Arizona Game and Fish Department (AGFD) Technical Report, authored by David A. Weedman and Kirk L. Young (June 1995), evaluates [[Gila Topminnow]] reintroduction sites that have failed and determines which may be declared "extirpated." Since 1981, the [[Arizona Game And Fish Department]],...
+> -- *[[GilaTopminnowExtirpationSitesI_PML2851]]*
+
+> This Federal Register final rule (71 FR 40657, July 18, 2006), issued by the [[U.S. Fish and Wildlife Service]] (Service), reclassifies the [[Gila Trout]] (*Oncorhynchus gilae*) from endangered to threatened under the [[Endangered Species Act]]. The Service finds the species no longer in danger of...
+> -- *[[EndangeredAndThreatenedWildlif_PML0798]]*
+
+> This document comprises a draft and a final Environmental Assessment (EA) prepared by the [[U.S. Fish and Wildlife Service]] (Denver, Colorado; Michael Stempel and Richard Wydoski), dated March 7, 1995 (draft) and June 8, 1995 (final). It evaluates options for disposing of surplus captive-reared...
+> -- *[[FinalEnvironmentalAssessmentDi_PML2458]]*
+
+> This Arizona Game and Fish Department publication, approved by the [[Arizona Game and Fish Commission]] at a public meeting on July 21, 1988, presents the state's official Threatened Native Wildlife (TNW) list. The list covers 116 taxa (species or subspecies) across fish, amphibians, reptiles,...
+> -- *[[ThreatenedNativeWildlifeInAriz_PML0097]]*
+
+> This U.S. Fish and Wildlife Service proposed rule (*Federal Register*, December 10, 1999) proposes designating [[Critical Habitat]] under the [[Endangered Species Act]] for the [[Spikedace]] (*Meda fulgida*) and the [[Loach Minnow]] (*Tiaroga cobitis*), two threatened freshwater fishes of the Gila...
+> -- *[[EndangeredAndThreatenedWildlif_PML0775]]*
+
+> This U.S. Fish and Wildlife Service Biological Report (No. 89(14), July 1989) by [[Harold M. Tyus]] and Catherine A. Karp evaluates the habitat use, potential limiting factors, and general streamflow needs of four federally rare fishes in the [[Yampa River]], Colorado: [[Colorado Squawfish]],...
+> -- *[[HabitatUseAndStreamflowNeedsOf_PML2520]]*
+
+> This 2001–2003 final report, prepared by [[Heather L. Parmeter]] and [[Steven P. Platania]] for the [[U.S. Bureau of Reclamation]] (Phoenix Area Office) under Federal Grants 01-FG-32-0030 and 03-FG-32-0020, aimed to develop laboratory propagation techniques for [[Spikedace]] and to advise on...
+> -- *[[CaptivePropagationAndRearingOf_PML2088]]*
+
+> The source is a packet of three related items. Its core is a 2016 peer-style study, [[Carter et al. 2016]], that tested whether the [[Minckley and DeMarais Key]] can reliably separate three chubs of the [[Gila Robusta Complex]]: [[Gila Robusta]], [[Gila Nigra]] and [[Gila Intermedia]]. The packet...
+> -- *[[GilaRobustaComplexSpeciesClass_PML0390]]*
+
+> This document is a scanned, partly illegible compilation of 1988 Federal Register pages (Vol. 53, No. 137, Monday, July 18, 1988, plus related rules) issued by the [[U.S. Fish and Wildlife Service]] under the [[Endangered Species Act]] of 1973. It covers three listing actions: - **Klamath Basin...
+> -- *[[EndangeredAndThreatenedWildlif_PML0737]]*
+
+> This lead paper introduces a collaborative, systematic review of [[Recovery Plans]] prepared under the [[Endangered Species Act]] (ESA). The project was initiated in 1998 by [[Dee Boersma]], then president of the [[Society for Conservation Biology]] (SCB), and was carried out in partnership with...
+> -- *[[AComprehensiveReviewOfEndanger_PML1064]]*
+
+> This 1992 Arizona Game and Fish Department report assesses the distribution, abundance and habitat of the [[Little Colorado Spinedace]] ([[Lepidomeda Vittata]]), a federally listed threatened cyprinid, across [[East Clear Creek]] and its tributaries in the [[Coconino National Forest]] and...
+> -- *[[DistributionAbundanceAndHabita_PML0566]]*
+
+> This document is a compilation of public comments and a Federal notice concerning a petition to list a [[Distinct Population Segment]] of the [[Roundtail Chub]] (*Gila robusta*) in the Lower Colorado River basin and to list the [[Headwater Chub]] (*Gila nigra*) as endangered or threatened under the...
+> -- *[[CommentsOnTheJulyDayFindingOnA_PML0795]]*
+
+> This compiled regional annual report from the Arizona Game and Fish Department spans roughly 1972 to 1982 and covers Regions II, III and IV. Its main subject is wildlife and fisheries management across the [[Colorado River]] valley, though the text is broad and addresses game species (antelope,...
+> -- *[[ArizonaGameAndFishDepartmentAn_PML0089]]*
+
+> This draft Environmental Assessment, prepared by the [[U.S. Fish and Wildlife Service]] in Albuquerque, New Mexico, evaluates the designation of critical habitat for the endangered [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) under Section 4 of the [[Endangered Species Act]]. The...
+> -- *[[DraftEnvironmentalAssessmentDe_PML2745]]*
+
+> This review, by W. L. Minckley of the Department of Zoology and Center for Environmental Studies, Arizona State University, evaluates translocation (moving fishes between natural sites, or from nature to propagation facilities and back) as a conservation tool for imperiled freshwater fishes of the...
+> -- *[[TranslocationAsAToolInConservi_PML1853]]*
+
+> This document combines a 1994 Environmental Assessment (EA), a November 15, 1995 Federal Register proposed rule, and a November 20, 1995 U.S. Fish and Wildlife Service cover letter. Together they propose reintroducing captive-raised [[Black-Footed Ferret]]s into the [[Aubrey Valley]] Management...
+> -- *[[EnvironmentalAssessmentBlackfo_PML0768]]*
+
+> This document is a regulatory reproduction of the U.S. Fish and Wildlife Service's List of Endangered and Threatened Wildlife and Plants, codified at 50 CFR 17.11 (wildlife) and 17.12 (plants). It is taken from the *Environment Reporter* (Bureau of National Affairs), with a publication stamp of...
+> -- *[[ListOfEndangeredAndThreatenedW_PML2652]]*
+
+> This final rule, published in the *Federal Register* on October 23, 1991 (effective November 22, 1991), lists the [[Razorback Sucker]] as an endangered species under the [[Endangered Species Act]] of 1973, as amended. The species persists in limited numbers across the [[Colorado River Basin]], with...
+> -- *[[EndangeredAndThreatenedWildlif_PML0743]]*
+
+> This review argues that conservation decisions are often based on the mistaken belief that "no statistically significant difference between two groups means the groups are the same." The authors illustrate the problem with the listing debate over the [[Preble's Meadow Jumping Mouse]], a federally...
+> -- *[[StatisticalInferenceTypeIiErro_PML0289]]*
+
+> This document compiles a study of the [[Colorado River Gila Complex]] (genus *Gila*, family Cyprinidae) combining two genetic approaches. The main part is a protein electrophoresis study (allozymes) of 23 presumptive loci in about 94 Gila from the [[Upper Colorado River Basin]] and 63 from the...
+> -- *[[BiochemicalGeneticsOfTheColora_PML2265]]*
+
+> This document is a reproduced compilation of the United States [[Endangered Species Act]] of 1973 (Pub. L. 93-205, 87 Stat. 884, codified at 16 U.S.C. §§ 1531 et seq.), with its amendments through 1988, as published by the Bureau of National Affairs. It is a legal text rather than a research study....
+> -- *[[EndangeredSpeciesActOf_PML2645]]*
+
+> This document is the full statutory text of the [[Endangered Species Act]] of 1973 as amended through Public Law 100-707 (1988), reproduced from the Environment Reporter compilation. It is a legal instrument rather than a research study. It defines the federal framework for listing endangered and...
+> -- *[[EndangeredSpeciesActOf_PML0327]]*
+
+> This final report (24 March 2003) presents a Genetics Management Plan (GMP) for the endangered razorback sucker (*Xyrauchen texanus*) and Colorado pikeminnow (*Ptychocheilus lucius*) in the [[San Juan River]] Basin. Prepared for the [[San Juan River Recovery Implementation Program]] (SJRIP) by...
+> -- *[[GeneticsManagementPlanForTheEn_PML0514]]*
+
+> This document is a compiled record for a 2005 U.S. Fish and Wildlife Service (Service) proposal to reclassify the [[Gila Trout]] (*Oncorhynchus gilae*) from endangered to threatened under the [[Endangered Species Act]], together with a section 4(d) special rule allowing recreational angling in New...
+> -- *[[GilaTroutReclassificationPropo_PML0796]]*
+
+> This paper evaluates how [[Monitoring]] is incorporated into [[Recovery Plan]]s for 181 species listed as threatened or endangered under the [[Endangered Species Act]] (ESA) of the United States. The authors assessed both the monitoring tasks proposed in each plan and whether those tasks were...
+> -- *[[AnAssessmentOfMonitoringEffort_PML0357]]*
+
+> This U.S. Fish and Wildlife Service report, prepared under the [[Flaming Gorge Studies Program]] (1991), synthesizes sixteen-plus studies of four federally listed or imperiled Colorado River fishes: [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail Chub]], and [[Razorback Sucker]]. It evaluates...
+> -- *[[HabitatUseAndStreamflowNeedsOf_PML2522]]*
+
+> The U.S. Fish and Wildlife Service issued a final rule listing the [[Southwestern Willow Flycatcher]] (*Empidonax traillii extimus*) as an endangered species under the [[Endangered Species Act]] of 1973, as amended. The rule takes effect 29 March 1995. The Service found that the subspecies is...
+> -- *[[FinalRuleDeterminingEndangered_PML0769]]*
+
+> This 2000 final report from the [[Utah Division of Wildlife Resources]] assesses backwater nursery habitat use by young-of-the-year (YOY) [[Chubs]] (*Gila* spp.) and [[Colorado Pikeminnow]] in [[Desolation Canyon]] and [[Gray Canyon]] of the Green River, Utah, during 1994–1996. The work was funded...
+> -- *[[BackwaterUseByYoungoftheyearCh_PML0534]]*
+
+> This draft Environmental Assessment (EA) by the USDA Forest Service, Southwestern Region, evaluates whether to issue a 10-year livestock grazing permit to W. Wiltbank (and to analyze E. Wiltbank's co-permit) on the [[Sprucedale-Reno Allotment]] of the [[Apache-Sitgreaves National Forests]], Alpine...
+> -- *[[EnvironmentalAssessmentForTheI_PML2603]]*
+
+> This Federal Register proposed rule, issued by the [[U.S. Fish And Wildlife Service]] (Service) on February 6, 1996, withdraws two earlier proposals concerning the [[Virgin Spinedace]] (*Lepidomeda mollispinis mollispinis*), a small cyprinid endemic to the [[Virgin River Drainage]] of the...
+> -- *[[EndangeredAndThreatenedWildlif_PML0772]]*
+
+> This feature article from the May 2010 issue of *Fisheries* (the journal of the [[American Fisheries Society]]) reports a case study on [[Lost River Sucker]] (*Deltistes luxatus*), an endangered catostomid in [[Upper Klamath Lake]], Oregon. Traditional [[Trammel Nets]] sampling yielded too few...
+> -- *[[ImprovingInferencesFromFisheri_PML1050]]*
+
+> This U.S. EPA-funded final report, prepared by the [[National Biological Service]] Midwest Science Center, tests whether the standard surrogate species used in aquatic toxicity assessments, [[Rainbow Trout]] (coldwater) and [[Fathead Minnow]] (warmwater), adequately protect federally listed fishes....
+> -- *[[UseOfSurrogateSpeciesInAssessi_PML0646]]*
+
+> This document combines two conservation papers. The first is a symposium paper on the [[Colorado Squawfish]] (*[[Ptychocheilus Lucius]]*), an endangered freshwater cyprinid of the [[Colorado River Basin]]. Radiotelemetry work showed that the species undertakes long-distance spawning migrations, and...
+> -- *[[LossOfStreamPassageAsAFactorIn_PML2528]]*
+
+> This final report by the [[U.S. Fish And Wildlife Service]] summarizes shoreline electrofishing data from the [[Interagency Standardized Monitoring Program]] (ISMP), which tracked relative abundance of subadult and adult [[Colorado Pikeminnow]] (*Ptychocheilus lucius*), a large piscivorous cyprinid...
+> -- *[[SubadultAndAdultColoradoPikemi_PML1624]]*
+
+> This Master's thesis from [[Arizona State University]] (1993) compares patterns of genetic variation in three small cyprinid minnows native to the lower [[Colorado River Drainage]]: [[Loach Minnow]] (*Tiaroga cobitis*), [[Spikedace]] (*Meda fulgida*), and [[Longfin Dace]] (*Agosia chrysogaster*)....
+> -- *[[PatternsOfGeneticVariationInTh_PML2503]]*
+
+> This plan, prepared in January 2008 for the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP), describes the design, construction, planting, monitoring and management of the Imperial Ponds Conservation Area on [[Imperial National Wildlife Refuge]] in Arizona. The LCR MSCP is a...
+> -- *[[LowerColoradoRiverMultispecies_PML2563]]*
+
+> This document is a legal article from the *Pace Environmental Law Review* (Vol. 11, 1993, pp. 62–63 legible), titled "Of Razorbacks and Reservoirs." It is a legal analysis, not a field study. Much of the scanned text is OCR-corrupted, so the summary relies on the legible passages (roughly pages...
+> -- *[[OfRazorbacksAndReservoirsTheEn_PML0244]]*
+
+> This document is a 1992 compilation of the U.S. federal regulations at 50 CFR §17.11 (Endangered and Threatened Wildlife) and §17.12 (Endangered and Threatened Plants), prepared by the Division of Endangered Species of the [[U.S. Fish and Wildlife Service]]. It is a regulatory reference rather than...
+> -- *[[EndangeredAndThreatenedWildlif_PML2682]]*
+
+> This document is a set of linked records for the 2015 sample year (SY 2015) of a long-term fish monitoring program in the [[Gila River Basin]], Arizona. It includes a draft final report by [[Marsh & Associates]] for the [[Bureau of Reclamation]], the request for proposal and statement of work, the...
+> -- *[[SummaryOfSampleYearFishSurveys_PML1546]]*
+
+> The document is a bundle of Federal Register materials dated December 19, 1994. Its centerpiece is the U.S. Fish and Wildlife Service (Service) final rule designating [[Critical Habitat]] for the threatened [[Delta Smelt]] (*Hypomesus transpacificus*) under the [[Endangered Species Act]] (ESA) in...
+> -- *[[TrimedSpecialtiesIncFilingOfPe_PML0758]]*
+
+> This U.S. Fish and Wildlife Service final rule (Federal Register, Vol. 51, No. 208, 28 October 1986) lists the [[Loach Minnow]] (*Tiaroga cobitis*) as a threatened species under the [[Endangered Species Act]] of 1973, as amended. The species has been reduced to roughly 380 km of occupied stream,...
+> -- *[[DeterminationOfThreatenedStatu_PML0730]]*
+
+> This U.S. Fish and Wildlife Service final report (July 2002) analyzes capture-recapture data for the endangered [[Colorado Pikeminnow]] (*Ptychocheilus lucius*), an endemic cyprinid of the [[Colorado River Basin]], collected in 1991–1994 and 1998–2000. Using closed-model abundance estimation...
+> -- *[[PopulationDynamicsOfColoradoPi_PML2054]]*
+
+> This Arizona Game and Fish Department Technical Report (NGTR 192, April 2002) is an interim conservation plan for the federally endangered [[Kanab Ambersnail]] and related *Oxyloma* populations in Arizona and Utah. The plan stands in for a revised [[Recovery Plan]] (1995) that the authors consider...
+> -- *[[InterimConservationPlanForOxyl_PML2409]]*
+
+> This document is the front matter, table of contents, copyright and cataloging block, and literature-cited section of *Fishes of the Great Basin: A Natural History* by [[William F. Sigler]] and John W. Sigler (University of Nevada Press, 1987). It also contains one complete species account, for the...
+> -- *[[FishesOfTheGreatBasinANaturalH_PML2363]]*
+
+> This final issue of the [[Natural Resources Law Memo]] (Issue 50, August 1990), published by the [[Natural Resources Law Institute]] at Lewis and Clark Law School, reviews a decade of law and policy affecting the recovery of anadromous fish, principally [[Pacific Salmon]] and [[Steelhead Trout]],...
+> -- *[[AnadromousFishLawMemoIssue_PML2000]]*
+
+> This report documents a 1996–1998 study at the [[Alchesay-Williams Creek National Fish Hatchery]] (Alchesay Unit, Whiteriver, Arizona) to develop a repeatable artificial propagation protocol for the threatened [[Loach Minnow]]. Sixty-four wild fish were collected on 06/11/96 from two sites on the...
+> -- *[[ArtificialPropagationOfLoachMi_PML0530]]*
+
+> This Federal Register notice (published November 21, 1991, Vol. 56, No. 225) from the [[U.S. Fish and Wildlife Service]] is a Proposed Rule that presents a revised compilation of native U.S. vertebrate and invertebrate animal taxa being considered as candidates for possible addition to the...
+> -- *[[EndangeredAndThreatenedWildlif_PML0742]]*
+
+> This Arizona Game and Fish Department (AGFD) technical report, authored by Jeremy B. Voeltz and Robert H. Bettaso (December 2003), summarizes the status of two endangered fishes, the [[Gila Topminnow]] and the [[Desert Pupfish]], based on monitoring from 1998 through 2003. Both species declined...
+> -- *[[StatusOfTheGilaTopminnowAndDes_PML2802]]*
+
+> [[Bureau of Reclamation]] (Lower Colorado Region) assessed [[Butler Lake]], a 43-acre (17.2 ha) isolated floodplain lake on the [[Imperial National Wildlife Refuge]] (INWR), as a potential native fish refugium. In its current state the lake supports few fish or aquatic birds because it is in an...
+> -- *[[PreliminaryHabitatAssessmentEs_PML2580]]*
+
+> The document is a compilation of U.S. federal material on the Endangered Species Act of 1973 (ESA), as amended in 1982. It contains three components: (1) the statutory text of ESA sections on experimental populations (Section 10(j)), penalties and enforcement (Section 11), and authorization of...
+> -- *[[ExperimentalPopulations_PML0721]]*
+
+> This document is a set of Arizona Game and Fish Department (AGFD) materials for a 1998 expert meeting and a draft watershed-scale fisheries management plan for the [[Little Colorado River]] (LCR) basin. The plan aims to reconcile native fish conservation with sportfish recreation. It asks experts...
+> -- *[[EstablishingNativeFishNeedsInT_PML0128]]*
+
+> The U.S. Fish and Wildlife Service (FWS) published a final rule in the Federal Register on July 1, 1986 (effective July 31, 1986) listing the [[Spikedace]] (*Meda fulgida*) as a threatened species under the [[Endangered Species Act]] of 1973, as amended. The species has been eliminated from more...
+> -- *[[EndangeredAndThreatenedWildlif_PML0731]]*
+
+> This [[Fish and Wildlife Service]] biological opinion, dated December 21, 1998, evaluates the proposed issuance of a [[NPDES Permit]] by the [[Environmental Protection Agency]] (EPA) to the privately owned [[Blue River Fish Hatchery]] in Greenlee County, Arizona. The consultation covers two listed...
+> -- *[[BiologicalOpinionSummaryBlueRi_PML2733]]*
+
+> This draft biological opinion (US Fish and Wildlife Service, Arizona Ecological Services Field Office, dated April 14, 1999; consultation AESO/SE 2-21-98-F-399) evaluates the effects of ongoing and long-term livestock grazing on five [[Coronado National Forest]] allotments (Seibold, Kunde,...
+> -- *[[DraftBiologicalOpinionOngoingA_PML2744]]*
+
+> This U.S. Fish and Wildlife Service recovery plan for the [[Spikedace]], a threatened minnow endemic to the [[Gila River Basin]] of Arizona and New Mexico, was prepared by Paul C. Marsh of Arizona State University for Region 2 (Albuquerque, New Mexico). The species has been extirpated from most of...
+> -- *[[SpikedaceMedaFulgidaRecoveryPl_PML1469]]*
+
+> This methodological review (Anderson, White and Burnham, *Environmental and Ecological Statistics*, 1995) presents three empirical approaches to [[Risk Assessment]] in field studies of free-ranging vertebrates. The first uses statistical inference on recruitment or mortality from...
+> -- *[[SomeSpecializedRiskAssessmentM_PML0056]]*
+
+> This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program, Technical Report 81, June 1995) summarizes six years (1988–1994) of data from the [[Fall Fish Count]] (FFC), a volunteer-based survey of fish communities in Arizona streams. The FFC yielded collections...
+> -- *[[FallFishCountSummary_PML0119]]*
+
+> The U.S. Fish and Wildlife Service (Service), published in the Federal Register on December 20, 2005 (Vol. 70, No. 243), proposes to designate approximately 633 river miles (1018.7 km) of [[Critical Habitat]] for the [[Spikedace]] (*Meda fulgida*) and the [[Loach Minnow]] (*Tiaroga cobitis*), both...
+> -- *[[EndangeredAndThreatenedWildlif_PML0784]]*
+
+> This document is a compiled text of the [[Endangered Species Act]] of 1973 as amended, printed for the Senate Committee on Environment and Public Works (cover date garbled in the scan, likely February 1983). It incorporates the Endangered Species Act Amendments of 1978 and the 1982 amendments...
+> -- *[[TheEndangeredSpeciesActAsAmend_PML2433]]*
+
+> The document is a U.S. Fish and Wildlife Service (Service) proposed rule, published in the Federal Register on January 29, 1993, to designate critical habitat under the [[Endangered Species Act]] for four endangered fishes of the [[Colorado River Basin]]: the [[Razorback Sucker]], [[Colorado...
+> -- *[[EndangeredAndThreatenedWildlif_PML0751]]*
+
+> This document is a special reprint of the U.S. federal [[Endangered and Threatened Wildlife]] list, compiled from [[Code of Federal Regulations]] Title 50, sections 17.11 and 17.12, and current as of October 31, 1996. It was prepared by the Division of Endangered Species of the [[Fish and Wildlife...
+> -- *[[EndangeredAndThreatenedWildlif_PML2713]]*
+
+> This Arizona Game and Fish Department contract report (Contract Report No. 4, Phase III of a multi-phase study, May 2000) examines how [[Hatchery-Reared Adult Razorback Sucker]]s use the [[Imperial Division]] of the lower [[Colorado River]]. Sixty-two adults (413–553 mm TL) were implanted with...
+> -- *[[HabitatUseAndAssociatedHabitat_PML0924]]*
+
+> This document is a petition dated November 7, 2009, submitted to the [[U.S. Fish and Wildlife Service]] (FWS) by four biologists: Sally E. Stefferud, Jerome A. Stefferud, [[Paul C. Marsh]] and [[Thomas E. Dowling]]. It requests two actions for the [[Headwater Chub]], an endemic [[Cyprinidae]] fish...
+> -- *[[PetitionForListingPriorityRest_PML2451]]*
+
+> This document is a 1987 environmental assessment (EA) by SWCA, Inc. for the [[Salt River Project]] (SRP) on public-safety modifications to the [[Roosevelt Diversion Dam]] on the Salt River, Gila County, Arizona. The dam had caused five fatalities and five injuries since 1979, all...
+> -- *[[LetterRegardingDraftEnvironmen_PML2426]]*
+
+> This 1992 memorandum from the [[Fish and Wildlife Service]] (Region 2, Fishery Resources, Phoenix Ecological Services Office) transmits intra-Service [[Section 7 Consultation]] evaluations under the [[Endangered Species Act]] for ongoing recreational fish stocking in Arizona. Rather than evaluating...
+> -- *[[IntraserviceSectionEvaluationO_PML2683]]*
+
+> This document is a 1985 package from the [[U.S. Fish and Wildlife Service]] (FWS) on recovering endangered fishes of the [[Upper Colorado River Basin]]. It contains a cover correspondence letter (May 1985), an internal memorandum on a task force review, a draft "Preliminary Conceptual Approach to...
+> -- *[[PreliminaryConceptualApproachT_PML2655]]*
+
+> This long-form magazine feature examines how the [[Endangered Species Act]] (ESA) of 1973 operates in practice, using the Oregon silverspot butterfly (*Speyeria zerene hippolyta*) as its central case. A proposed $100 million golf resort at Gearhart, Oregon, was halted by the butterfly's presence....
+> -- *[[TheButterflyProblem_PML1414]]*
+
+> This Bureau of Reclamation memorandum transmits the Preliminary Findings Report (PFR) on a proposed dual-purpose [[Lower Virgin River Project]], prepared jointly with the [[Las Vegas Valley Water District]] (LVVWD). The project would divert saline water from the lower [[Virgin River]] in Nevada,...
+> -- *[[LowerVirginRiverProjectPrelimi_PML2608]]*
+
+> This 1987 monograph by [[Dwight W. Taylor]] (Oregon State University), published by the [[New Mexico Bureau of Mines & Mineral Resources]], systematically treats the freshwater molluscs of New Mexico and adjacent areas. It describes new species, redescribes known ones, and uses their distributions...
+> -- *[[FreshwaterMolluscsFromNewMexic_PML2492]]*
+
+> This report, prepared by Carol A. Pacey and Paul C. Marsh of [[Arizona State University]] for the [[Bureau Of Reclamation]] (Lower Colorado Region) under Order Number 1425-98-PG-30-07540 (8 June 1998), is a preliminary step toward a long-term research program on the stranding of [[Bonytail Chub]]...
+> -- *[[ComprehensiveLiteratureSearchR_PML2071]]*
+
+> This Utah Division of Wildlife Resources final report (Publication 03-5, December 2003) estimates adult [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*Gila robusta*) abundance in [[Westwater Canyon]] on the [[Colorado River]] for 1998-2000. The study was conducted under the [[Upper...
+> -- *[[PopulationEstimatesForHumpback_PML1120]]*
+
+> This U.S. Fish and Wildlife Service (Service) document, dated May 1990, sets out the [[Recovery Planning Policy]] and procedures used to plan and coordinate the recovery of species listed under the [[Endangered Species Act]]. It revises and supersedes earlier recovery-planning guidance in response...
+> -- *[[PolicyAndGuidelinesForPlanning_PML2554]]*
+
+> The U.S. Fish and Wildlife Service (Service) issued a final rule, effective April 25, 2000, designating critical habitat under the [[Endangered Species Act]] of 1973 for the [[Spikedace]] (*Meda fulgida*) and the [[Loach Minnow]] (*Tiaroga cobitis*). The designation totals approximately 1,448 km...
+> -- *[[EndangeredAndThreatenedWildlif_PML0777]]*
+
+> This document combines a critical review letter by [[Vernal CRFP]] biologists (Tim Modde, Bruce Haines and Chris Kitchen) with the Draft 2 recovery goals for four endangered [[Colorado River Basin]] fishes, prepared for the [[Upper Colorado River Recovery Program]] (May 2000). The letter objects to...
+> -- *[[RecoveryGoalsForTheFourColorad_PML2486]]*
+
+> This 1983 report by [[Paul R. Turner]] and [[Robert J. Tafanelli]] (New Mexico State University) evaluates the instream flow needs of native fishes in [[Aravaipa Creek]], Arizona, using the [[Incremental Methodology]] (IFG4 hydraulic simulation and probability-of-use curves). The study concentrated...
+> -- *[[EvaluationOfTheInstreamFlowReq_PML2516]]*
+
+> This document is the draft-stage Humpback Chub ([[Gila Cypha]]) Recovery Plan, prepared by the [[Colorado River Fishes Recovery Team]] in 1978 under the [[U.S. Fish and Wildlife Service]] and the [[Endangered Species Act]]. The plan's goal is to restore and maintain a minimum of five...
+> -- *[[HumpbackChubRecoveryPlan_PML0042]]*
+
+> This document comprises a 1994 U.S. Fish and Wildlife Service (Service) letter and the Federal Register notice of review (50 CFR Part 17, Vol. 59, No. 219, November 15, 1994) for the [[Animal Candidate Review]] under the [[Endangered Species Act]]. The notice compiles native U.S. animal taxa, and a...
+> -- *[[EndangeredAndThreatenedWildlif_PML0759]]*
+
+> This U.S. Fish and Wildlife Service (FWS) proposed rule, published in the *Federal Register* on June 6, 2002, proposes to designate [[Critical Habitat]] for the [[Rio Grande Silvery Minnow]], a species federally listed as endangered under the [[Endangered Species Act]] (1973). The proposal covers...
+> -- *[[EndangeredAndThreatenedWildlif_PML0780]]*
+
+> This draft Fish and Wildlife Coordination Act (FWCA) report, prepared by the U.S. Fish and Wildlife Service (Service) for the [[Bureau of Reclamation]] Arizona Projects Office, assesses impacts to fish and wildlife resources from proposed [[Central Arizona Project]] (CAP) water exchanges and...
+> -- *[[FishAndWildlifeCoordinationAct_PML2669]]*
+
+> This annual report covers Fiscal Year 2002 (October 1, 2001 to September 30, 2002) at the [[Dexter National Fish Hatchery]] & Technology Center in southeastern New Mexico. The station is a U.S. Fish and Wildlife Service facility devoted to the refugium holding, culture, research and reintroduction...
+> -- *[[DexterNationalFishHatcheryTech_PML2755]]*
+
+> This Arizona Cooperative Fish and Wildlife Research Unit report (Bonar, Leslie and Velez, January 2004) examines how introduced fishes prey on native fishes in the [[Verde River]], a perennial desert river in the [[Gila River Basin]]. Fieldwork ran monthly from March 2002 to January 2003 at 12...
+> -- *[[InfluenceOfSpeciesSizeClassEnv_PML0247]]*
+
+> This document is a compilation of U.S. Fish and Wildlife Service (FWS) correspondence, draft and final biological opinions (BOs), internal dissent memoranda, and one grazing consultation, all concerning the effects of non-native fish stocking and land management on federally listed fishes in...
+> -- *[[IntraserviceSectionEvaluations_PML2696]]*
+
+> This document is a compilation of internal U.S. Fish and Wildlife Service (FWS) materials, Solicitor's Office opinions, a hybrid review group report, a Federal Register draft, and supporting scientific papers and case studies. Together they address whether hybrids of species, subspecies, or...
+> -- *[[ReviewOfDraftPolicyOnProtectio_PML2679]]*
+
+> This 1989 final report to the [[Arizona Game and Fish Department]], prepared by Paul C. Marsh, Francisco J. Abarca, Michael E. Douglas and W. L. Minckley at Arizona State University, examines whether the introduced [[Red Shiner]] (*Cyprinella lutrensis*) contributes to the decline of two native...
+> -- *[[SpikedaceMedaFulgidaAndLoachMi_PML1515]]*
+
+> This final report, prepared by Paul C. Marsh, Francisco J. Abarca, Michael E. Douglas and J. L. Minckley of [[Arizona State University]] for the [[Arizona Game and Fish Department]] (AZGF), [[New Mexico Department of Game and Fish]] (NMGF) and the [[U.S. Fish and Wildlife Service]] (FWS) (31 August...
+> -- *[[SpikedaceMedaFulgidaAndLoachMi_PML1424]]*
+
+> This final report from BIO-WEST, Inc. (Holden, Golden and Zucker, April 2001) analyzes a 24-year monitoring database for the [[Woundfin]] (*Plagopterus argentissimus*), an endangered cyprinid of the [[Virgin River]] system in Utah, Arizona and Nevada. The study was commissioned to answer why native...
+> -- *[[AnEvaluationOfChangesInWoundfi_PML1084]]*
+
+> This U.S. Fish and Wildlife Service Biological Report (No. 24, July 1994), authored by [[Jack A. Stanford]] of the Flathead Lake Biological Station, University of Montana, is an independent scientific review of the instream flow science used to justify flow recommendations for four [[Endangered...
+> -- *[[InstreamFlowsToAssistTheRecove_PML2437]]*
+
+> This USDA Forest Service technical document (Gen. Tech. Rep. RMRS-GTR-53, 2000) by [[Andrew J. Loftus]] and [[Curtis H. Flather]] supports the 2000 [[RPA Assessment]] required under the Renewable Resources Planning Act of 1974. It reviews national trends in water quality, habitat, fish and aquatic...
+> -- *[[FishAndOtherAquaticResourceTre_PML1375]]*
+
+> This December 1988 issue of [[Wildlife Views]], published by the [[Arizona Game And Fish Department]], is a magazine compilation rather than a research report. Its central theme is the proposed revision of the state's [[Live Wildlife Regulations]], which govern the possession of native and exotic...
+> -- *[[AThreatMoreRealThanImagined_PML2930]]*
+
+> The Condor Canyon Habitat Management Plan (HMP), prepared by the [[Bureau of Land Management]] (BLM) Caliente Resource Area in 1989, aims to maintain or improve habitat for the federally threatened [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*). The plan covers roughly 4 stream miles...
+> -- *[[CondorCanyonHabitatManagementP_PML0918]]*
+
+> This 1998 Bureau of Land Management (BLM) package from the [[Safford Field Office]] contains the 15-year [[Gila Box Management Plan]] for the [[Gila Box Riparian National Conservation Area]] (RNCA) in Arizona, together with [[Environmental Assessment]] AZ-M0-08-03, a [[Finding of No Significant...
+> -- *[[GilaBoxRiparianNationalConserv_PML2561]]*
+
+> This USDA Forest Service Rocky Mountain Research Station monograph (General Technical Report RMRS-GTR-174, September 2006) reviews the tradeoff managers face when using [[Movement Barriers]] to keep [[Nonnative Salmonids]] out of native salmonid habitat. Native salmonids are increasingly confined...
+> -- *[[StrategiesForConservingNativeS_PML0711]]*
+
+> This 1993 report by Jack A. Stanford, prepared for the [[Instream Flow Subcommittee]] of the [[Recovery Implementation Program]] and the [[U.S. Fish and Wildlife Service]], reviews the ecological science behind instream flow recommendations for four endangered big-river fishes of the Upper Colorado...
+> -- *[[InstreamFlowsToAssistTheRecove_PML2436]]*
+
+> This note covers two linked proposed rules published by the [[U.S. Fish and Wildlife Service]] on January 25, 2013 (Federal Register Vol. 78, No. 17): a proposal to list the [[Zuni Bluehead Sucker]] (*Catostomus discobolus yarrowi*) as an endangered species under the [[Endangered Species Act]], and...
+> -- *[[ZuniBlueheadSuckerProposedEnda_PML0800]]*
+
+> This document bundles a 2007 Federal Register notice, a formal comment letter from fishery scientist Paul C. Marsh, a second comment letter from [[Robert W. Clarkson]] (a Recovery Team member), and the full Draft Second Revision of the [[Apache Trout Recovery Plan]] issued by the [[U.S. Fish and...
+> -- *[[NoticeOfAvailabilityOfTheDraft_PML0786]]*
+
+> This 2004 report by the [[Desert Fishes Team]] reviews the status of seven native warm-water fishes of the [[Gila River Basin]] (Arizona, New Mexico, and Sonora) that are not listed under the federal [[Endangered Species Act]]. The species are [[Longfin Dace]], [[Sonora Sucker]], [[Flannelmouth...
+> -- *[[StatusOfUnlistedNativeFishesOf_PML0568]]*
+
+> This thesis by Yvette K. Converse (Utah State University, 1996; Major Professor Charles P. Hawkins) examines habitat use by subadult [[Humpback Chub]] (*Gila cypha*) along 24 km of the [[Colorado River]] in [[Grand Canyon]]. The study tested three objectives: (1) geomorphic differences among...
+> -- *[[AGeomorphicAssessmentOfSubadul_PML0490]]*
+
+> This document is a 1982 republication by the [[U.S. Fish and Wildlife Service]] (with the [[National Marine Fisheries Service]] for marine species) of the federal lists of wildlife and plants determined to be Endangered or Threatened under the [[Endangered Species Act]] of 1973, codified at 50 CFR...
+> -- *[[EndangeredAndThreatenedWildlif_PML0717]]*
+
+> This Federal Register proposed rule (U.S. Fish and Wildlife Service, July 7, 2009) announces a 12-month finding on a 2003 [[Center For Biological Diversity]] petition to list a distinct population segment (DPS) of [[Roundtail Chub]] (*Gila robusta*) in the [[Lower Colorado River Basin]] under the...
+> -- *[[EndangeredAndThreatenedWildlif_PML2610]]*
+
+> This is the 1993 draft U.S. Fish and Wildlife Service (Region 2) recovery plan for the [[Desert Pupfish]], *Cyprinodon macularius*, listed as endangered throughout its range. Prepared by Paul C. Marsh (Arizona State University) and Donald W. Sada (Bishop, California), with assistance from the...
+> -- *[[DesertPupfishRecoveryPlan_PML1579]]*
+
+> The U.S. Fish and Wildlife Service's final rule (Federal Register, 19 February 2003) designates [[Critical Habitat]] for the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*), a federally listed endangered cyprinid. The designation covers approximately 157 river miles of the middle Rio Grande,...
+> -- *[[EndangeredAndThreatenedWildlif_PML0794]]*
+
+> This compilation reproduces a set of U.S. Federal Register documents issued in February through June 1996 (with a December 1996 follow-up) by the [[U.S. Fish and Wildlife Service]] (FWS) and the [[National Marine Fisheries Service]] (NMFS, NOAA). Together they set out administrative policy under...
+> -- *[[ProposedPolicyOnTheTreatmentOf_PML0801]]*
+
+> This report, summarized from a U.S. Fish and Wildlife Service (USFWS) study by Dr. Jim Caudill (Division of Economics, December 2005), estimates the recreational and economic value of [[Rainbow Trout]] produced and stocked by [[National Fish Hatchery System]] (NFHS) facilities in fiscal year 2004....
+> -- *[[EconomicEffectsOfRainbowTroutS_PML0395]]*
+
+> This final rule from the [[U.S. Fish and Wildlife Service]] designates critical habitat for the [[Spikedace]] (*Meda fulgida*) and [[Loach Minnow]] (*Tiaroga cobitis*) under the [[Endangered Species Act]]. Approximately 522.2 river miles (840.4 km) are designated across five stream complexes in...
+> -- *[[EndangeredAndThreatenedWildlif_PML0799]]*
+
+> This Colorado State University [[Larval Fish Laboratory]] report examines how spawning timing and relative abundance of [[Yampa River]] fishes relate to river discharge and water temperature. The study covers native and nonnative species, with emphasis on [[Colorado Squawfish]], [[Humpback Chub]],...
+> -- *[[AssociationsAmongFlowAndTemper_PML1992]]*
+
+> This biological report, prepared by [[EnviroNet Inc]] for [[Arizona Public Service]] in October 1998, supports the [[Federal Energy Regulatory Commission]] (FERC) relicensing of the [[Childs & Irving Hydroelectric Plant]] on [[Fossil Creek]], about 5 miles southwest of Strawberry, Arizona. It...
+> -- *[[ChildsIrvingHydroelectricPlant_PML0685]]*
+
+> This biological report, prepared by [[EnviroNet Inc]] for [[Arizona Public Service]] (APS) in October 1998, supports the [[Federal Energy Regulatory Commission]] (FERC) relicensing of the [[Childs and Irving Hydroelectric Plants]] (Project No. 2069-003) on [[Fossil Creek]], Arizona. It addresses...
+> -- *[[ChildsIrvingHydroelectricPlant_PML0686]]*
+
+> This document is a biological assessment (BA) prepared by the [[Bureau of Reclamation]] (Reclamation) with the [[U.S. Fish and Wildlife Service]] (FWS) for routine operation and maintenance (O&M) of the lower Colorado River over a five-year consultation period under Section 7 of the [[Endangered...
+> -- *[[DescriptionOfOperationsAndSens_PML2577]]*
+
+> This U.S. Fish and Wildlife Service proposed rule, published in the *Federal Register* on October 28, 2010 (Vol. 75, No. 208), proposes to reclassify the [[Spikedace]] (*Meda fulgida*) and the [[Loach Minnow]] (*Tiaroga cobitis*) from threatened to endangered under the [[Endangered Species Act]],...
+> -- *[[EndangeredAndThreatenedWildlif_PML2766]]*
+
+> This conference presentation argues that the recovery of the endangered [[Gila Topminnow]] in [[Redrock Canyon]] is being constrained by the way [[Section 7 Consultation]] under the [[Endangered Species Act]] has been applied over roughly three decades. The author holds that Redrock Canyon is well...
+> -- *[[CanConservationBeAchievedThrou_PML2457]]*
+
+> This study tested artificial diets for rearing [[Razorback Sucker]] (*Xyrauchen texanus*) fry from hatching to juvenile size. The work was conducted at the [[Ouray National Fish Hatchery]] and was published in *Journal of Applied Aquaculture* (1992). Because the species is protected and its wild...
+> -- *[[AnEvaluationOfFeedsForRaisingR_PML2338]]*
+
+> This 1997 report, edited by [[Wendell L. Minckley]] at Arizona State University for the Western Water Policy Review Advisory Commission, compiles five independent scientific chapters and a synthesis on the condition of surface waters in the American West. The contributors unanimously conclude that...
+> -- *[[AquaticEcosystemsSymposiumARep_PML1854]]*
+
+> This Biological Assessment (BA), prepared by the [[Bureau of Reclamation]] (Lower Colorado Region) for the [[U.S. Fish and Wildlife Service]] (FWS) and the [[Lower Colorado River Multi-Species Conservation Program]], evaluates routine ongoing and projected operations and maintenance of the mainstem...
+> -- *[[DescriptionAndAssessmentOfOper_PML2576]]*
+
+> This Section 7 consultation under the [[Endangered Species Act]] (dated June 1994, reference 2-21-94-F-244) evaluates a U.S. Fish and Wildlife Service (Service) program to stock catchable (8–10 inch) [[Rainbow Trout]] from [[Willow Beach National Fish Hatchery]] and [[Channel Catfish]] into...
+> -- *[[BiologicalOpinionOnTheStocking_PML2698]]*
+
+> This 1994 plan, prepared under the [[Recovery Implementation Program]] for Endangered Fishes in the Upper Colorado River Basin, is a joint U.S. Fish and Wildlife Service, state and Bureau of Reclamation effort. It establishes the need for captive-reared [[Endangered Colorado River Fishes]] (the...
+> -- *[[CoordinatedHatcheryFacilityPla_PML2925]]*
+
+> This April 1996 cover letter from the [[U.S. Fish and Wildlife Service]] (New Mexico Ecological Services Field Office) and the attached February 1996 draft report by ECONorthwest assess the economic effects of designating critical habitat for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered...
+> -- *[[ThePotentialEconomicConsequenc_PML0659]]*
+
+> This is the fifth biennial report of the California Department of Fish and Game on the status of state-listed endangered and rare fish and wildlife, prepared under the California Species Preservation Act. It covers 63 forms of fish and wildlife (the list was 43 in 1971), describes their current...
+> -- *[[AtTheCrossroadsAReportOnTheSta_PML0400]]*
+
+> This proceedings volume, published by the [[Western Division American Fisheries Society]] in December 1982, compiles papers from a 1981 symposium on the rare and endangered fishes of the [[Upper Colorado River Basin]]. The contributions cover fish distribution and status, energy and water...
+> -- *[[FishesOfTheUpperColoradoRiverS_PML1722]]*
+
+> This document is the cover letter and draft report of the [[Economic Consequences of Critical Habitat Designation]] for the [[Rio Grande Silvery Minnow]] (RGSM), an endangered fish listed on July 20, 1994. The U.S. [[Fish and Wildlife Service]] (Service) proposed critical habitat along the main...
+> -- *[[ThePotentialEconomicConsequenc_PML2746]]*
+
+> Arizona Game and Fish Department (AGFD) Technical Report 146 (July 2001, edited by Kirk L. Young, E. Patricia Lopez and David B. Dorum) presents a reach-level management plan for the [[Little Colorado River]] watershed. It integrates management of threatened native fishes and recreational...
+> -- *[[IntegratedFisheriesManagementP_PML2932]]*
+
+> This compiled document is a set of U.S. Fish and Wildlife Service (Service) policy drafts, guidelines and supporting material for the controlled propagation of imperiled fish species within the [[National Fish Hatchery System]] (NFHS), with a focus on Region 6 (Mountain-Prairie). It covers the...
+> -- *[[GuidelinesForDirectingControll_PML2714]]*
+
+> This document is the 1997 report of the Aquatic Ecosystems Symposium, edited by [[Wendell L. Minckley]] for the Western Water Policy Review Advisory Commission. It compiles five independent contributions and an introduction and synthesis addressing the sustainability of western US aquatic systems....
+> -- *[[AquaticEcosystemsSymposiumARep_PML1856]]*
+
+> This document is the 1990 *Federal Register* proposed rule (Vol. 55, No. 99, May 22, 1990) by the U.S. Fish and Wildlife Service (Service) to list the [[Razorback Sucker]] (*Xyrauchen texanus*) as an endangered species under the [[Endangered Species Act]] of 1973. It is accompanied by the species...
+> -- *[[EndangeredAndThreatenedWildlif_PML0788]]*
+
+> This document is a correspondence and briefing record from the [[U.S. Fish and Wildlife Service]] (Region 2 and Arizona Ecological Services Field Office), covering roughly January to May 2006. It traces the preparation, internal review, and publication of a 12-month finding on a 2003 petition from...
+> -- *[[MonthFindingOnPetitionToListRo_PML2638]]*
+
+> This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its Endemic Species Committees, reviews the 34 endemic fish species of the Colorado River drainage and assesses each species' status in the seven member states. It is an educational booklet intended to...
+> -- *[[EndemicFishesOfTheColoradoRive_PML2238]]*
+
+> This document is a compilation of the U.S. Fish and Wildlife Service (FWS) proposed rule, published 9 August 2002 in the *Federal Register* (67 FR 51948), to list the [[Gila Chub]] (*Gila intermedia*) as endangered under the [[Endangered Species Act]] with designated [[Critical Habitat]]. It also...
+> -- *[[EndangeredAndThreatenedWildlif_PML0781]]*
+
+> This report, prepared by the [[Utah Cooperative Fishery Research Unit]] at Utah State University for the [[Bureau of Land Management]] (contract YA-512-C26-257) with the Utah Division of Wildlife Resources, surveys the fish, invertebrates, water quality and habitat of streams on federal coal-lease...
+> -- *[[ASurveyOfEndangeredThreatenedA_PML1629]]*
+
+> This June 2007 report from the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP) documents the program's FY2006 accomplishments, FY2008 work plan and budget, and associated compliance reporting. The LCR MSCP is a 50-year partnership of federal agencies, states, water and power...
+> -- *[[LowerColoradoRiverMultispecies_PML1345]]*
+
+> This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program Technical Report 186, January 2002, by Jeremy B. Voeltz) assesses the current status of the [[Roundtail Chub]] (*Gila robusta*) and the [[Headwater Chub]] (*Gila nigra*) in the lower [[Colorado River...
+> -- *[[RoundtailChubGilaRobustaStatus_PML2798]]*
+
+> This U.S. Fish and Wildlife Service (Service) Biological and Conference Opinion (BO), transmitted to the Bureau of Reclamation (Reclamation) in 1997, assesses the effects of Reclamation's continuing operations and maintenance of the [[Lower Colorado River]] from [[Lake Mead]] to the Southerly...
+> -- *[[BiologicalAndConferenceOpinion_PML2630]]*
+
+> The document is a compilation of U.S. Fish and Wildlife Service (FWS) regulatory material on species listed under the [[Endangered Species Act]] of 1973, as amended. It contains three main components. First, a 1989 Notice of Review (Federal Register, Vol. 54, No. 4, January 6, 1989) that revises...
+> -- *[[EndangeredAndThreatenedWildlif_PML0739]]*
+
+> This U.S. Fish & Wildlife Service annual report for fiscal year 2003 documents the activities of the [[Dexter National Fish Hatchery and Technology Center]] in Dexter, New Mexico. The Center propagates and maintains imperiled native fishes of the American Southwest, conducts applied research in...
+> -- *[[DexterNationalFishHatcheryAndT_PML2758]]*
+
+> This Arizona Game and Fish Department Technical Report (NGTR 146, August 1999, edited by Kirk L. Young and E. Patricia Lopez) presents an integrated fisheries management plan for the [[Little Colorado River Basin]], a 27,089 mi² (70,160 km²) watershed on the [[Colorado Plateau]]. It is a pilot...
+> -- *[[IntegratedFisheriesManagementP_PML0129]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -15458,6 +20578,456 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[VoodooFishManagement_16338]]
 - [[TheDamDilemmaSalmonReservoirsA_21212]]
 - [[BioticCommunitiesOfTheAmerican_13023]]
+- [[RequestForNativeFishesResearch_PML1188]]
+- [[BiologicalOpinionOnTheMimbresR_PML2728]]
+- [[UpperBasinEndangeredFish_PML2539]]
+- [[ResolutionRelativeToTheColorad_PML2285]]
+- [[AnnualReportForUsFishAndWildli_PML1604]]
+- [[EndangeredSpeciesRegulatoryUpd_PML2727]]
+- [[AesfoActivityReportTopminnowAn_PML0019]]
+- [[LetterOnWithdrawalOfExperiment_PML2188]]
+- [[EndangeredAndThreatenedWildlif_PML0716]]
+- [[EndangeredAndThreatenedWildlif_PML0748]]
+- [[RazorbackSuckerManagementPropo_PML0349]]
+- [[EndangeredAndThreatenedWildlif_PML0736]]
+- [[RazorbackSuckerCooperativeMana_PML2627]]
+- [[NoticeOfDayFindingOnPetitionTo_PML0754]]
+- [[StateExpendituresOnFederallyLi_PML0492]]
+- [[RazorbackSuckerManagementAndTh_PML1275]]
+- [[RecoveryTeamResponseToDraftRec_PML0041]]
+- [[EndangeredAndThreatenedWildlif_PML0747]]
+- [[RecoveryGoalRevisionRequestFor_PML2644]]
+- [[UseOfGeneticCharactersInConser_PML0628]]
+- [[EndangeredHumpbackChubToBeTran_PML2033]]
+- [[InadequaciesOfTheOngoingRevisi_PML0452]]
+- [[RazorbackSuckers_PML2929]]
+- [[SouthwesternAndSoutheasternFis_PML0583]]
+- [[RequestForPeerReviewOfThePropo_PML2592]]
+- [[EndangeredAndThreatenedWildlif_PML0744]]
+- [[AvailabilityOfDraftRecoveryPla_PML0740]]
+- [[MicrosatelliteLociInTheLahonta_PML1677]]
+- [[AdditionsToAnimalCandidateRevi_PML2689]]
+- [[NoticeOfAvailabilityOfDraftSaf_PML0797]]
+- [[AnnualReportDexterNationalFish_PML1180]]
+- [[RazorbackSuckerRecoveryWithout_PML2898]]
+- [[CommentsAndQuestionsRegardingT_PML1987]]
+- [[EndangeredAndThreatenedWildlif_PML0763]]
+- [[LowerBasinSubcommitteeMeetingM_PML1797]]
+- [[FisheriesOfTheExclusiveEconomi_PML0789]]
+- [[FormalSectionConsultationMiner_PML2666]]
+- [[MemorandumOfUnderstanding_PML2633]]
+- [[PolicyOnGeneticsInEndangeredSp_PML1922]]
+- [[ProposalForNativeFishRestorati_PML2604]]
+- [[LcSpinedaceRecoveryMeeting_PML1343]]
+- [[NewPlanOutlinesStepsToRecoverE_PML2937]]
+- [[EndangeredFishInTheGreenRiverO_PML0682]]
+- [[EndangeredAndThreatenedWildlif_PML0750]]
+- [[BonytailRoundupReportLakeMohav_PML1805]]
+- [[SectionAaPermitAnnualReport_PML0139]]
+- [[SitesDeclaredExtirpatedForGila_PML2726]]
+- [[RazorbackSuckerCriticalHabitat_PML2687]]
+- [[TheUpperColoradoRiverEndangere_PML2491]]
+- [[TripReportWhiteRiverSeptember_PML2667]]
+- [[BureaucraticMischiefRecognizin_PML2035]]
+- [[RecoveryAuthorityAndRecoveryGo_PML0347]]
+- [[RazorbackSucker_PML1435]]
+- [[VirginSpinedaceProposedListing_PML0766]]
+- [[FederalFishAndWildlifePermitPr_PML2417]]
+- [[OnTheUseOfMorphologicAndMolecu_PML2843]]
+- [[BonytailRoundupReportLakeMohav_PML1806]]
+- [[CommentsOnUpperBasinManagement_PML1427]]
+- [[RestoringNaturalFunctionAndNat_PML0809]]
+- [[ReintroducingTheNativeRazorbac_PML1220]]
+- [[ClassificationNomenclatureDesc_PML0134]]
+- [[MemorandumOfAgreementAmongUsDe_PML2555]]
+- [[FishHealthCenters_PML0917]]
+- [[BonytailChubCriticalHabitat_PML2757]]
+- [[StatusReportOnCibolaHighLeveeP_PML1969]]
+- [[DesertFishStatusReportsAndMana_PML0582]]
+- [[PageSpringsnailStudyProposal_PML1593]]
+- [[HandlingConfrontationNegotiate_PML0299]]
+- [[ResponseToNowakPhillipsAndWayn_PML0622]]
+- [[ResponseToNowakPhillipsAndHenr_PML0627]]
+- [[HybridizationInNativeCyprinidF_PML0556]]
+- [[EffectsOfRainbowTroutPredation_PML0238]]
+- [[NoticeOfAvailabilityOfDraftRec_PML0749]]
+- [[SpawningAndCultureOfHumpbackCh_PML0984]]
+- [[OpportunitiesForEnhancingNativ_PML1849]]
+- [[ReclassificationOfTheGilaTopmi_PML2661]]
+- [[StatusOfTheJuneSuckerChasmiste_PML0575]]
+- [[ComparisonOfFourTechniquesForA_PML1004]]
+- [[NoticeOfPetitionFindingAndStat_PML0746]]
+- [[NewFishHabitatRestorationAndPa_PML2737]]
+- [[EffectsOfColdShockOnColoradoSq_PML0196]]
+- [[ReintroductionOfTheFlannelmout_PML1972]]
+- [[GeneticsMetapopulationsAndEcos_PML2148]]
+- [[ChemicalTreatmentOfOrdCreekApa_PML2235]]
+- [[SupplementalNoticeOfIntentToPr_PML0776]]
+- [[FederalRegisterNoticesAprilEnd_PML0718]]
+- [[AchiiHanyoQuarterlyActivitiesR_PML1782]]
+- [[UseOfSemipermeableMembraneDevi_PML2120]]
+- [[EndangeredAndThreatenedWildlif_PML0756]]
+- [[EndangeredAndThreatenedWildlif_PML0779]]
+- [[HumpbackChubRecoveryPlanLitiga_PML0899]]
+- [[EndangeredAndThreatenedWildlif_PML0728]]
+- [[ThreatenedFreshwaterFishesOfTh_PML1732]]
+- [[DraftPolicyForConservingSpecie_PML0767]]
+- [[ProceduresForNongameWildlifeAn_PML0094]]
+- [[TaxonomyOfChubsTeleosteiCyprin_PML1898]]
+- [[ThreatenedAndEndangeredFishInT_PML2336]]
+- [[LoachMinnowAndSpikedaceSurveyO_PML1599]]
+- [[SpeciesAccountCyprinodonMacula_PML2291]]
+- [[BonytailChubDeterminationAsAnE_PML0715]]
+- [[AnnualPerformanceReportRazorba_PML0126]]
+- [[PositivePhototaxisInLarvalBony_PML1601]]
+- [[DraftEnvironmentalAssessmentLe_PML2664]]
+- [[ReintroductionAndMonitoringOfC_PML0282]]
+- [[AshMeadowsEndangeredSpeciesRec_PML0741]]
+- [[FisheryResurveyOfLowerClearCre_PML0461]]
+- [[UseOfMolecularCharactersInCons_PML0629]]
+- [[CommentsOnUpperBasinManagement_PML2432]]
+- [[GrandCanyonHumpbackChubAndRazo_PML1027]]
+- [[ProposalToDevelopNewAquaticInv_PML0462]]
+- [[ARefugeForSouthwesternFishes_PML2476]]
+- [[EffectOfIncubationTemperatureO_PML1454]]
+- [[LowerColoradoRiverEndangeredFi_PML0265]]
+- [[IntrogressionAmongApacheCutthr_PML0369]]
+- [[FreshwaterEcosystemsAndTheirMa_PML1997]]
+- [[ConservingFishGenomesPhilosoph_PML1666]]
+- [[PredatorRecognitionAndAvoidanc_PML1223]]
+- [[CultureTechniquesForSelectedCo_PML1184]]
+- [[MitochondrialDnaVariationWithi_PML2504]]
+- [[FinalEnvironmentalAssessmentLe_PML2665]]
+- [[ChronicToxicityOfUnionizedAmmo_PML0704]]
+- [[FishRefugiaAndCaptivePropagati_PML1197]]
+- [[CriticalRoleForCriticalHabitat_PML1066]]
+- [[ProposedFishBarrierHotSpringsC_PML2588]]
+- [[EndangeredAndThreatenedWildlif_PML0762]]
+- [[AmericanFisheriesSocietyProtoc_PML2894]]
+- [[NoticeOfPetitionFindingAndStat_PML0745]]
+- [[HumpbacksAndBonyTailsUtahsRare_PML0194]]
+- [[EndangeredAndThreatenedFishInT_PML2335]]
+- [[FishRecovery_PML1055]]
+- [[EndangeredFishDieAtHatchery_PML2686]]
+- [[OriginOfBroodstockAndAllozymeV_PML1881]]
+- [[StripedBass_PML0473]]
+- [[NationwidePermits_PML0732]]
+- [[CriticalHabitatProposedForTwoS_PML2765]]
+- [[APilgrimsProgressFromGroupAToG_PML2140]]
+- [[ConsensusVersusConservationInT_PML0293]]
+- [[HumanInducedChangesToNativeFis_PML0907]]
+- [[SpawningAndMovementsOfRazorbac_PML2521]]
+- [[RazorbackSuckerXyrauchenTexanu_PML0513]]
+- [[HazardAssessmentOfInorganicsTo_PML0959]]
+- [[MitochondrialDnaDiversityWithi_PML0621]]
+- [[EndangeredSpeciesTechnicalBull_PML2678]]
+- [[AProgramForMaintainingTheRazor_PML1954]]
+- [[AnnualReportFiscalYearDexterNa_PML2671]]
+- [[WesternWaterLawInTransition_PML2891]]
+- [[UpdateTheUpperColoradoRiverEnd_PML2145]]
+- [[TheGilaTopminnowInSouthernAriz_PML2856]]
+- [[SpeciesInABucket_PML2141]]
+- [[InvestigationIntoPossibleOccur_PML1225]]
+- [[ResolutionRelativeToTheProtect_PML0578]]
+- [[AmericanFisheriesSocietyGuidel_PML2897]]
+- [[SpawningAndMovementsOfRazorbac_PML2416]]
+- [[DeclarationOfRobertWClarkson_PML0449]]
+- [[RiparianManagementCommonThread_PML2495]]
+- [[EndangeredStatusForTaxaOfAnima_PML0712]]
+- [[EndangeredAndThreatenedWildlif_PML0722]]
+- [[AmericanFisheriesSocietyGuidel_PML2895]]
+- [[RazorbackSucker_PML1436]]
+- [[OverviewOfTelemetryEquipmentAn_PML0322]]
+- [[ARecoveryIndexDevelopingNewMet_PML1412]]
+- [[ReportOnPrtActivityFromDecembe_PML2359]]
+- [[ConservationAndStatusOfGilaTro_PML2177]]
+- [[EndangeredAndThreatenedWildlif_PML0752]]
+- [[EndangeredAndThreatenedSpecies_PML0770]]
+- [[RestorationOfTheRazorbackSucke_PML1937]]
+- [[EndangeredAndThreatenedWildlif_PML0774]]
+- [[PhysicalHabitatUtilizationOfFi_PML2219]]
+- [[DoesConsensusCompromiseConserv_PML0292]]
+- [[ManagementPlanForTheRazorbackS_PML0399]]
+- [[EffectsOfInvasiveTissueCollect_PML2527]]
+- [[AdultAndJuvenileHumpbackChubMo_PML0812]]
+- [[FactorsInfluencingPoststocking_PML1970]]
+- [[TheOriginAndFateOfTheRedWolf_PML2032]]
+- [[BiodiversityAndNativeFishManag_PML2198]]
+- [[DraftCommentsOnTheRecoveryImpl_PML1560]]
+- [[ProposalToDetermineTheLoachMin_PML0725]]
+- [[IntraserviceSectionConsultatio_PML1684]]
+- [[TheInfluenceOfTheAcademicConse_PML2465]]
+- [[DeterminationOfEndangeredAndTh_PML0720]]
+- [[APartialReviewOfLiteratureOnTh_PML1088]]
+- [[UpperTemperatureToleranceOfLoa_PML2887]]
+- [[InterimProceduresForStockingNo_PML2701]]
+- [[PopulationTrendsAndDistributio_PML0143]]
+- [[BonytailChubRecoveryProgramIss_PML1383]]
+- [[HumpbackChubGilaCyphaInTheYamp_PML1264]]
+- [[PopulationStatusOfTheRazorback_PML0340]]
+- [[IntroducingTheNativesColoradoS_PML0577]]
+- [[ProposedFishingRegulationSurve_PML1168]]
+- [[HabitatUseByHatcheryrearedAdul_PML0267]]
+- [[IndigenousFishesOfWesternNorth_PML1144]]
+- [[EndangeredAndThreatenedWildlif_PML0727]]
+- [[AnInstreamFlowPhilosophyForRec_PML2538]]
+- [[PolicyRegardingControlledPropa_PML0778]]
+- [[RecoveryOfAUsEndangeredFish_PML0158]]
+- [[ConservationTacticsForAConstan_PML2410]]
+- [[AuthorshipAndTheUseOfBiologica_PML0858]]
+- [[FisheriesProblemsAssociatedWit_PML2024]]
+- [[RefugePopulationEstimatesAtImp_PML1807]]
+- [[SingleVersusMultipleSpeciesMan_PML2221]]
+- [[LiteratureCited_PML2041]]
+- [[DexterNationalFishHatcheryAndT_PML0053]]
+- [[ProposalToDetermineSpikedaceAn_PML0726]]
+- [[EnvironmentalAssessmentConside_PML1688]]
+- [[FinalRuleToDetermineLepidomeda_PML0735]]
+- [[AnnualReportFiscalYearDexterNa_PML2668]]
+- [[ImprovingTheEvaluationOfConser_PML1283]]
+- [[TheRoleOfFishCultureInEndanger_PML1189]]
+- [[FactorsResultingInDeclineOfThe_PML1670]]
+- [[EndangeredAndThreatenedWildlif_PML0760]]
+- [[ManagingTheDeclineOfPacificSal_PML2939]]
+- [[ReProposedRuleDesignatingCriti_PML2362]]
+- [[EndangeredAndThreatenedWildlif_PML0761]]
+- [[TheDeclineInAbundanceDiversity_PML2290]]
+- [[AssessingContaminantSensitivit_PML0199]]
+- [[AssessingContaminantSensitivit_PML0647]]
+- [[ResurrectingTheDammedALookAtCo_PML0471]]
+- [[SpawningAndHatchingOfTheRazorb_PML1157]]
+- [[ACritiqueOfTheRecoveryOfGreenb_PML2935]]
+- [[AnOccupancybasedQuantification_PML0315]]
+- [[ConservationGeneticsAndTheMana_PML1665]]
+- [[EndangeredAndThreatenedSpecies_PML0755]]
+- [[GeneticComparisonsOfHatcheryAn_PML0660]]
+- [[AnnualReportFiscalYearDexterNa_PML2681]]
+- [[AnnualReportFiscalYearDexterNa_PML1195]]
+- [[BiologicalAssessmentOfTheImpac_PML1477]]
+- [[AnnualReportFiscalYearDexterNa_PML2677]]
+- [[EndangeredAndThreatenedWildlif_PML0723]]
+- [[PopulationSizeAndStructureOfHu_PML1623]]
+- [[TaxonomicConsiderationsInListi_PML0944]]
+- [[EndangeredAndThreatenedWildlif_PML2657]]
+- [[TheEndangeredSpeciesActAndSout_PML1213]]
+- [[ImportanceOfTheMileReachToColo_PML2052]]
+- [[BiologicalAssessmentOfTheImpac_PML1478]]
+- [[ReviewOfTheOldDraftRazorbackSu_PML1872]]
+- [[BiologicalOpinionOnTheProposed_PML2707]]
+- [[EvaluatingTheInternalConsisten_PML0276]]
+- [[StatusOfNaturalAndIntroducedSo_PML0283]]
+- [[AchiiHanyoQuarterlyActivitiesR_PML1781]]
+- [[WhyListingMayBeForeverPerspect_PML0596]]
+- [[DistributionOfSpeckledDaceRhin_PML2479]]
+- [[HazardAssessmentOfInorganicsIn_PML0961]]
+- [[ComparisonOfAgingStructuresAnd_PML2267]]
+- [[StatusOfTheRazorbackSuckerXyra_PML1832]]
+- [[ProposedListingForBonytailChub_PML0714]]
+- [[EndangeredAndThreatenedWildlif_PML0765]]
+- [[EndangeredAndThreatenedWildlif_PML0729]]
+- [[ComparisonOfTributarySurvivalE_PML0483]]
+- [[WindygapFishesStudyFirstAnnual_PML1724]]
+- [[AnnualReportFiscalYearDexterNa_PML1194]]
+- [[ProposedDepartmentGuidelinesFo_PML0125]]
+- [[TheRoleOfHatcheriesInTheManage_PML2227]]
+- [[AnEvaluationOfTheFishesOfTheLo_PML2574]]
+- [[RioGrandeSuckerPantosteusPlebe_PML2515]]
+- [[ProposedEndangeredStatusForThe_PML0713]]
+- [[ScienceMissingInTheNoSurprises_PML2381]]
+- [[EndangeredAndThreatenedSpecies_PML0773]]
+- [[BylasSpringsAndTheEndangeredSo_PML1361]]
+- [[ConservationreliantSpeciesTowa_PML2256]]
+- [[ConservationreliantSpeciesTowa_PML2257]]
+- [[EndangeredAndThreatenedWildlif_PML0785]]
+- [[TheUtilityOfHabitatAndBiotaFor_PML2212]]
+- [[DesertPupfishCyprinodonMacular_PML0719]]
+- [[DeterminationOfEndangeredStatu_PML0738]]
+- [[FishesOfTheLowermostColoradoRi_PML1863]]
+- [[TranslocationAsAToolForConserv_PML1851]]
+- [[RockCreekFishBarrierFeasibilit_PML2197]]
+- [[DraftEnvironmentalAssessmentRe_PML2572]]
+- [[ProposedListingOfVirginRiverCh_PML0733]]
+- [[ReintroducingTheNativeFishesRa_PML0573]]
+- [[RecoveryPlanForTheEndangeredBo_PML2769]]
+- [[ApacheTroutOncorhynchusApacheR_PML2031]]
+- [[EndangeredAndThreatenedWildlif_PML0783]]
+- [[ThreatsConservationStrategiesA_PML0493]]
+- [[RecoveryOfImperiledSpeciesUnde_PML2325]]
+- [[RecoveryOfImperiledSpeciesUnde_PML2324]]
+- [[AConservationPlanForNativeFish_PML1890]]
+- [[FishLossAccidentAtDexterNfh_PML1196]]
+- [[ProceduresForStockingNonnative_PML0958]]
+- [[ExtinctionsOfNorthAmericanFish_PML1718]]
+- [[BonytailChubGilaElegansRecover_PML0481]]
+- [[InteractionsAmongTroutAndLittl_PML2251]]
+- [[UpperTemperatureToleranceOfLoa_PML0248]]
+- [[CommentsAndProposalsOnTheNones_PML0734]]
+- [[EndangeredAndThreatenedWildlif_PML0757]]
+- [[EcologyAndManagementOfColorado_PML2533]]
+- [[AnnualReportFiscalYearDexterNa_PML2759]]
+- [[BiologicalOpinionOnStockingOfR_PML2697]]
+- [[BiologicalOpinionForBridgeCons_PML2709]]
+- [[PopulationEstimateForHumpbackC_PML1159]]
+- [[GlenCanyonNationalRecreationAr_PML2776]]
+- [[EndangeredAndThreatenedWildlif_PML0791]]
+- [[DexterNationalFishHatcheryAndT_PML1198]]
+- [[FlowsedimentbiotaRelationsImpl_PML2060]]
+- [[GilaTopminnowSitesInArizonaPro_PML2858]]
+- [[TheColoradoRiverLifelineOfTheA_PML0363]]
+- [[EndangeredAndThreatenedWildlif_PML0771]]
+- [[StatusOfGrayWolfRestorationInM_PML0169]]
+- [[EndangeredAndThreatenedWildlif_PML0753]]
+- [[FishPopulationResponseToVarian_PML2791]]
+- [[LowerBlueRiverNativeFishRestor_PML2587]]
+- [[EndangeredAndThreatenedWildlif_PML0792]]
+- [[CuiuiRecoveryPlanRevision_PML2651]]
+- [[ThreatenedFishesOfUtah_PML1074]]
+- [[ACriticalRoleForCriticalHabita_PML1065]]
+- [[EndangeredAndThreatenedWildlif_PML0764]]
+- [[BiologicalOpinionSummaryBlueRi_PML2734]]
+- [[DexterNationalFishHatcheryAndT_PML2699]]
+- [[RazorbackSuckerDraftFinalRule_PML2673]]
+- [[EndangeredAndThreatenedWildlif_PML0790]]
+- [[BiologicalOpinionSummaryBlueRi_PML2615]]
+- [[RazorbackSuckerXyrauchenTexanu_PML1296]]
+- [[GilaTopminnowSitesInArizonaPro_PML0124]]
+- [[EconomicAnalysisOfCriticalHabi_PML0288]]
+- [[ABibliographyOfTheFederallyEnd_PML1153]]
+- [[EnvironmentalAssessmentForTheI_PML2602]]
+- [[ABibliographyOfTheFederallyEnd_PML1154]]
+- [[GilaTopminnowExtirpationSitesI_PML2851]]
+- [[EndangeredAndThreatenedWildlif_PML0798]]
+- [[FinalEnvironmentalAssessmentDi_PML2458]]
+- [[ThreatenedNativeWildlifeInAriz_PML0097]]
+- [[EndangeredAndThreatenedWildlif_PML0775]]
+- [[HabitatUseAndStreamflowNeedsOf_PML2520]]
+- [[CaptivePropagationAndRearingOf_PML2088]]
+- [[GilaRobustaComplexSpeciesClass_PML0390]]
+- [[EndangeredAndThreatenedWildlif_PML0737]]
+- [[AComprehensiveReviewOfEndanger_PML1064]]
+- [[DistributionAbundanceAndHabita_PML0566]]
+- [[CommentsOnTheJulyDayFindingOnA_PML0795]]
+- [[ArizonaGameAndFishDepartmentAn_PML0089]]
+- [[DraftEnvironmentalAssessmentDe_PML2745]]
+- [[TranslocationAsAToolInConservi_PML1853]]
+- [[EnvironmentalAssessmentBlackfo_PML0768]]
+- [[ListOfEndangeredAndThreatenedW_PML2652]]
+- [[EndangeredAndThreatenedWildlif_PML0743]]
+- [[StatisticalInferenceTypeIiErro_PML0289]]
+- [[BiochemicalGeneticsOfTheColora_PML2265]]
+- [[EndangeredSpeciesActOf_PML2645]]
+- [[EndangeredSpeciesActOf_PML0327]]
+- [[GeneticsManagementPlanForTheEn_PML0514]]
+- [[GilaTroutReclassificationPropo_PML0796]]
+- [[AnAssessmentOfMonitoringEffort_PML0357]]
+- [[HabitatUseAndStreamflowNeedsOf_PML2522]]
+- [[FinalRuleDeterminingEndangered_PML0769]]
+- [[BackwaterUseByYoungoftheyearCh_PML0534]]
+- [[EnvironmentalAssessmentForTheI_PML2603]]
+- [[EndangeredAndThreatenedWildlif_PML0772]]
+- [[ImprovingInferencesFromFisheri_PML1050]]
+- [[UseOfSurrogateSpeciesInAssessi_PML0646]]
+- [[LossOfStreamPassageAsAFactorIn_PML2528]]
+- [[SubadultAndAdultColoradoPikemi_PML1624]]
+- [[PatternsOfGeneticVariationInTh_PML2503]]
+- [[LowerColoradoRiverMultispecies_PML2563]]
+- [[OfRazorbacksAndReservoirsTheEn_PML0244]]
+- [[EndangeredAndThreatenedWildlif_PML2682]]
+- [[SummaryOfSampleYearFishSurveys_PML1546]]
+- [[TrimedSpecialtiesIncFilingOfPe_PML0758]]
+- [[DeterminationOfThreatenedStatu_PML0730]]
+- [[PopulationDynamicsOfColoradoPi_PML2054]]
+- [[InterimConservationPlanForOxyl_PML2409]]
+- [[FishesOfTheGreatBasinANaturalH_PML2363]]
+- [[AnadromousFishLawMemoIssue_PML2000]]
+- [[ArtificialPropagationOfLoachMi_PML0530]]
+- [[EndangeredAndThreatenedWildlif_PML0742]]
+- [[StatusOfTheGilaTopminnowAndDes_PML2802]]
+- [[PreliminaryHabitatAssessmentEs_PML2580]]
+- [[ExperimentalPopulations_PML0721]]
+- [[EstablishingNativeFishNeedsInT_PML0128]]
+- [[EndangeredAndThreatenedWildlif_PML0731]]
+- [[BiologicalOpinionSummaryBlueRi_PML2733]]
+- [[DraftBiologicalOpinionOngoingA_PML2744]]
+- [[SpikedaceMedaFulgidaRecoveryPl_PML1469]]
+- [[SomeSpecializedRiskAssessmentM_PML0056]]
+- [[FallFishCountSummary_PML0119]]
+- [[EndangeredAndThreatenedWildlif_PML0784]]
+- [[TheEndangeredSpeciesActAsAmend_PML2433]]
+- [[EndangeredAndThreatenedWildlif_PML0751]]
+- [[EndangeredAndThreatenedWildlif_PML2713]]
+- [[HabitatUseAndAssociatedHabitat_PML0924]]
+- [[PetitionForListingPriorityRest_PML2451]]
+- [[LetterRegardingDraftEnvironmen_PML2426]]
+- [[IntraserviceSectionEvaluationO_PML2683]]
+- [[PreliminaryConceptualApproachT_PML2655]]
+- [[TheButterflyProblem_PML1414]]
+- [[LowerVirginRiverProjectPrelimi_PML2608]]
+- [[FreshwaterMolluscsFromNewMexic_PML2492]]
+- [[ComprehensiveLiteratureSearchR_PML2071]]
+- [[PopulationEstimatesForHumpback_PML1120]]
+- [[PolicyAndGuidelinesForPlanning_PML2554]]
+- [[EndangeredAndThreatenedWildlif_PML0777]]
+- [[RecoveryGoalsForTheFourColorad_PML2486]]
+- [[EvaluationOfTheInstreamFlowReq_PML2516]]
+- [[HumpbackChubRecoveryPlan_PML0042]]
+- [[EndangeredAndThreatenedWildlif_PML0759]]
+- [[EndangeredAndThreatenedWildlif_PML0780]]
+- [[FishAndWildlifeCoordinationAct_PML2669]]
+- [[DexterNationalFishHatcheryTech_PML2755]]
+- [[InfluenceOfSpeciesSizeClassEnv_PML0247]]
+- [[IntraserviceSectionEvaluations_PML2696]]
+- [[ReviewOfDraftPolicyOnProtectio_PML2679]]
+- [[SpikedaceMedaFulgidaAndLoachMi_PML1515]]
+- [[SpikedaceMedaFulgidaAndLoachMi_PML1424]]
+- [[AnEvaluationOfChangesInWoundfi_PML1084]]
+- [[InstreamFlowsToAssistTheRecove_PML2437]]
+- [[FishAndOtherAquaticResourceTre_PML1375]]
+- [[AThreatMoreRealThanImagined_PML2930]]
+- [[CondorCanyonHabitatManagementP_PML0918]]
+- [[GilaBoxRiparianNationalConserv_PML2561]]
+- [[StrategiesForConservingNativeS_PML0711]]
+- [[InstreamFlowsToAssistTheRecove_PML2436]]
+- [[ZuniBlueheadSuckerProposedEnda_PML0800]]
+- [[NoticeOfAvailabilityOfTheDraft_PML0786]]
+- [[StatusOfUnlistedNativeFishesOf_PML0568]]
+- [[AGeomorphicAssessmentOfSubadul_PML0490]]
+- [[EndangeredAndThreatenedWildlif_PML0717]]
+- [[EndangeredAndThreatenedWildlif_PML2610]]
+- [[DesertPupfishRecoveryPlan_PML1579]]
+- [[EndangeredAndThreatenedWildlif_PML0794]]
+- [[ProposedPolicyOnTheTreatmentOf_PML0801]]
+- [[EconomicEffectsOfRainbowTroutS_PML0395]]
+- [[EndangeredAndThreatenedWildlif_PML0799]]
+- [[AssociationsAmongFlowAndTemper_PML1992]]
+- [[ChildsIrvingHydroelectricPlant_PML0685]]
+- [[ChildsIrvingHydroelectricPlant_PML0686]]
+- [[DescriptionOfOperationsAndSens_PML2577]]
+- [[EndangeredAndThreatenedWildlif_PML2766]]
+- [[CanConservationBeAchievedThrou_PML2457]]
+- [[AnEvaluationOfFeedsForRaisingR_PML2338]]
+- [[AquaticEcosystemsSymposiumARep_PML1854]]
+- [[DescriptionAndAssessmentOfOper_PML2576]]
+- [[BiologicalOpinionOnTheStocking_PML2698]]
+- [[CoordinatedHatcheryFacilityPla_PML2925]]
+- [[ThePotentialEconomicConsequenc_PML0659]]
+- [[AtTheCrossroadsAReportOnTheSta_PML0400]]
+- [[FishesOfTheUpperColoradoRiverS_PML1722]]
+- [[ThePotentialEconomicConsequenc_PML2746]]
+- [[IntegratedFisheriesManagementP_PML2932]]
+- [[GuidelinesForDirectingControll_PML2714]]
+- [[AquaticEcosystemsSymposiumARep_PML1856]]
+- [[EndangeredAndThreatenedWildlif_PML0788]]
+- [[MonthFindingOnPetitionToListRo_PML2638]]
+- [[EndemicFishesOfTheColoradoRive_PML2238]]
+- [[EndangeredAndThreatenedWildlif_PML0781]]
+- [[ASurveyOfEndangeredThreatenedA_PML1629]]
+- [[LowerColoradoRiverMultispecies_PML1345]]
+- [[RoundtailChubGilaRobustaStatus_PML2798]]
+- [[BiologicalAndConferenceOpinion_PML2630]]
+- [[EndangeredAndThreatenedWildlif_PML0739]]
+- [[DexterNationalFishHatcheryAndT_PML2758]]
+- [[IntegratedFisheriesManagementP_PML0129]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->
@@ -15608,6 +21178,18 @@ The Endangered Species Act of 1973 is a landmark federal legislation that provid
 > This 1977 *FRONTIERS* article by [[James D. Williams]] and Dona K. Finnley reviews the decline of native American fishes and the legal and scientific efforts to protect them. It traces habitat loss, pollution, overfishing and nonnative species as the main threats, and it documents the extinction of...
 > -- *[[OurVanishingFishesCanTheyBeSav_12002]]*
 
+> This special section of the [[American Fisheries Society]] (AFS) journal *Fisheries* (Vol. 4, No. 2, March-April 1979) presents the 1979 AFS Endangered Species Committee list of native North American fishes considered endangered (E), threatened (T), or of special concern (SC). The list was compiled...
+> -- *[[EndangeredThreatenedOrOfSpecia_PML0538]]*
+
+> This 1976 Bureau of Land Management (BLM) Technical Note, written by James E. Johnson of the [[Colorado State Office]], reviews the status of endangered and threatened fishes in Colorado. It covers four [[Cutthroat Trout]] subspecies of the genus *Salmo* and four native minnows and suckers of the...
+> -- *[[StatusOfEndangeredAndThreatene_PML1217]]*
+
+> This 1977 *Frontiers* feature (Summer 1977 issue) reviews the decline of North American freshwater and estuarine fishes and the legal and scientific response to it. It traces US wildlife protection from early legislation around 1900 through the [[Endangered Species Preservation Act of 1966]] to the...
+> -- *[[OurVanishingFishesCanTheyBeSav_PML2893]]*
+
+> This 1977 status report, prepared for the [[Colorado River Wildlife Council]] by its Endemic Species Committees, reviews the status of 34 native fish taxa of the Colorado River system across seven western states. Its stated purpose is educational: to make readers aware that many endemic species...
+> -- *[[EndemicFishesOfTheColoradoRive_PML0064]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[CorrespondenceRegardingExperim_1986_07_25]]
@@ -15637,6 +21219,10 @@ The Endangered Species Act of 1973 is a landmark federal legislation that provid
 - [[RecoveryPlanForGilaTroutSalmoG_16985]]
 - [[NongameFishIntroductionsOnPubl_18241]]
 - [[OurVanishingFishesCanTheyBeSav_12002]]
+- [[EndangeredThreatenedOrOfSpecia_PML0538]]
+- [[StatusOfEndangeredAndThreatene_PML1217]]
+- [[OurVanishingFishesCanTheyBeSav_PML2893]]
+- [[EndemicFishesOfTheColoradoRive_PML0064]]
 
 ## Endangered Species Act Permitting
 <!-- fm: auto_enriched: true -->
@@ -15752,12 +21338,36 @@ Section 7 Consultation under the Endangered Species Act is a mandatory interagen
 > This American Fisheries Society (AFS) review, published in *Fisheries* (Vol. 18, No. 9, September 1993), lists all native freshwater mussels of the families [[Margaritiferidae]] and [[Unionidae]] in the United States and Canada. It gives state and provincial distributions, reviews the conservation...
 > -- *[[ConservationStatusOfFreshwater_12010]]*
 
+> This excerpt from the *Proceedings of the Desert Fishes Council*, 1994 Symposium Volume (published 1995), contains three abstracts on endangered freshwater fishes of western North America. The first is a genetic study of [[Razorback Sucker]] hatchery propagation at [[Dexter National Fish...
+> -- *[[AGeneticAnalysisOfArtificialPr_PML0641]]*
+
+> This document is a set of proceedings and meeting minutes from the [[Colorado River Wildlife Council]] (with its Great Basin and Lahontan counterparts) on the status and management of native desert fishes. It reports state and federal status updates by region: the [[Lower Colorado River]], the...
+> -- *[[DesertFishStatusReportsAndMana_PML0582]]*
+
+> This study tested whether [[Rainbow Trout]] predation shapes the behavior, habitat use, and geographic distribution of the [[Little Colorado Spinedace]], a threatened native cyprinid of northern Arizona. In field enclosures in [[Nutrioso Creek]], trout caused significantly greater loss of...
+> -- *[[EffectsOfRainbowTroutPredation_PML0238]]*
+
+> This 1972 paper by [[Robert Rush Miller]], published in the *Transactions of the American Fisheries Society* (vol. 101, no. 2, pp. 239–252), is the first national compilation of threatened native freshwater fishes of the United States. It lists threatened taxa for 49 of the 50 states; [[Rhode...
+> -- *[[ThreatenedFreshwaterFishesOfTh_PML1731]]*
+
+> This document is the full statutory text of the [[Endangered Species Act]] of 1973 as amended through Public Law 100-707 (1988), reproduced from the Environment Reporter compilation. It is a legal instrument rather than a research study. It defines the federal framework for listing endangered and...
+> -- *[[EndangeredSpeciesActOf_PML0327]]*
+
+> This document is a compiled text of the [[Endangered Species Act]] of 1973 as amended, printed for the Senate Committee on Environment and Public Works (cover date garbled in the scan, likely February 1983). It incorporates the Endangered Species Act Amendments of 1978 and the 1982 amendments...
+> -- *[[TheEndangeredSpeciesActAsAmend_PML2433]]*
+
 ### Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[FishesOfNorthAmericaEndangered_12741]]
 - [[UsBureauOfReclamationsOngoingI_18968]]
 - [[EconomyPoliticsThreatenSpecies_13976]]
 - [[ConservationStatusOfFreshwater_12010]]
+- [[AGeneticAnalysisOfArtificialPr_PML0641]]
+- [[DesertFishStatusReportsAndMana_PML0582]]
+- [[EffectsOfRainbowTroutPredation_PML0238]]
+- [[ThreatenedFreshwaterFishesOfTh_PML1731]]
+- [[EndangeredSpeciesActOf_PML0327]]
+- [[TheEndangeredSpeciesActAsAmend_PML2433]]
 
 ## Endangered Species Conservation
 <!-- fm: auto_enriched: true -->
@@ -15772,12 +21382,16 @@ Endangered Species Conservation in fish science refers to the integrated managem
 > This 1988-89 research assistantship application by W. L. Minckley proposes a systematic study of cyprinid fishes in the genus [[Gila]], focusing on cladistic analysis to understand evolutionary relationships and their connection to geological history. The project addresses approximately 30 extant...
 > -- *[[ResearchAssistantshipRequestSy_13746]]*
 
+> Miller and Fuiman (1987, *Copeia*) describe *Cyprinodon macularius eremus* as a new subspecies of the [[Desert Pupfish]] (*C. macularius*) endemic to the spring-fed pond at [[Quitobaquito Springs]] in [[Organ Pipe Cactus National Monument]], Arizona. Morphometric and meristic analyses separate the...
+> -- *[[DescriptionAndConservationStat_PML1702]]*
+
 ### Mentioned In
 - [[AllDriedUpCriticalHabitatProte_18302]]
 - [[LakeMohaveSamplingForBonytailA_1993_12_04]]
 - [[SantaClaraSloughSurveys_1992_09_08]]
 - [[SummaryOfDesertPupfishIntroduc_1988_12_16]]
 - [[ResearchAssistantshipRequestSy_13746]]
+- [[DescriptionAndConservationStat_PML1702]]
 
 ## Endangered Species Conservation Act
 <!-- fm: auto_enriched: true -->
@@ -15786,8 +21400,12 @@ Endangered Species Conservation in fish science refers to the integrated managem
 > - **Thermal tolerance**: Critical thermal maxima (CTM) for *C. diabolis*, *C. milleri*, and *C. nevadensis* populations range ~42–44°C (Brown & Feldmeth 1971; Otto & Gerking 1973; James 1968); long-term survival limit ~38°C; low-temperature tolerance ~2°C. - **Diel activity**: *C. n. nevadensis* ...
 > -- *[[ResearchOnEndangeredFishesInTh_14023]]*
 
+> This review, written by John N. Rinne of the [[Rocky Mountain Research Station]] and Arizona State University, examines the status and management of the native fish fauna of the arid American Southwest in relation to the levels of [[Biodiversity]] (genetic, species, ecosystem, and landscape). The...
+> -- *[[BiodiversityAndNativeFishManag_PML2198]]*
+
 ### Mentioned In
 - [[ResearchOnEndangeredFishesInTh_14023]]
+- [[BiodiversityAndNativeFishManag_PML2198]]
 
 ## Endangered Species Conservation Act of 1969
 
@@ -15800,6 +21418,18 @@ This 1969 law banned illegal trade in endangered animals and restricted their im
 
 ### Mentioned In
 - [[OurVanishingFishesCanTheyBeSav_12002]]
+
+## Endangered Species Conservation Update
+
+### Summary
+This is the August 5, 2005 internal status memo from fishery biologist Jeff Simms for the BLM Tucson Field Office. It reports on the office's work for federally listed and sensitive aquatic species in southeastern Arizona, covering habitat construction, regulatory compliance, spring inventories, and drought effects. It is a status update rather than a research paper.
+
+### Context
+> This internal update from Fishery Biologist Jeff Simms, dated August 5, 2005, reports on the [[Endangered Species Conservation Update|Tucson Field Office]] program for federally listed and sensitive aquatic species in southeastern Arizona. Work covers habitat construction, regulatory compliance...
+> -- *[[EndangeredSpeciesConservationU_PML2368]]*
+
+### Mentioned In
+- [[EndangeredSpeciesConservationU_PML2368]]
 
 ## Endangered Species Flow Management
 <!-- fm: auto_enriched: true -->
@@ -15824,14 +21454,34 @@ This 1969 law banned illegal trade in endangered animals and restricted their im
 > This document is not a primary scientific research paper but an internal 1993 memorandum from the U.S. Fish and Wildlife Service (Region 2, Albuquerque, NM) addressing a procedural and philosophical dispute over **fish taxonomic nomenclature**. The memo advises that the Service should not interve...
 > -- *[[ControversialTaxonomicNamesOfF_1993_08_05]]*
 
+> This document compiles two hatchery-focused studies. The first, a 1985 pond culture trial at [[Dexter National Fish Hatchery]], measured survival of [[Razorback Sucker]] (*Xyrauchen texanus*) from swim-up fry through fingerlings in earthen ponds. Survival was high at every stage, and the authors...
+> -- *[[SurvivalOfRazorbackSuckersCult_PML0977]]*
+
+> This study tests whether [[Gila Seminuda]], a cyprinid fish from the [[Virgin River]] (Arizona-Nevada-Utah), arose through [[Introgressive Hybridization]] between [[Gila Robusta Robusta]] and [[Gila Elegans]]. Morphology, allozymes and [[Mitochondrial DNA]] (mtDNA) were compared. The authors...
+> -- *[[OriginOfGilaSeminudaTeleosteiC_PML0560]]*
+
+> This USFWS project report (June 29, 2000) documents the renovation of Spring S1, known as "Tusidugihalen" ("Hot Spring"), at [[Bylas Springs]] on the [[San Carlos Apache Reservation]]. The goal was to restore habitat for the endangered [[Gila Topminnow]] by removing invasive [[Mosquitofish]] and...
+> -- *[[TusidugihalenHotSpringSAndTheE_PML2294]]*
+
+> Minckley and Deacon (1968, *Science*) examine the concept of "endangered species" using freshwater fishes of the American Southwest as examples. They argue that a species' status can only be objectively defined by its ability to maintain populations in nature, which requires continuously available...
+> -- *[[SouthwesternFishesAndTheEnigma_PML1753]]*
+
 ### Mentioned In
 - [[ControversialTaxonomicNamesOfF_1993_08_05]]
+- [[SurvivalOfRazorbackSuckersCult_PML0977]]
+- [[OriginOfGilaSeminudaTeleosteiC_PML0560]]
+- [[TusidugihalenHotSpringSAndTheE_PML2294]]
+- [[SouthwesternFishesAndTheEnigma_PML1753]]
 
 ## Endangered Species Management
 <!-- fm: auto_enriched: true -->
 
 ### Summary
 Endangered Species Management in fish science encompasses the integrated strategies and interventions employed to prevent extinction and promote recovery of fish populations facing severe population decline or habitat loss. This approach combines genetic monitoring, habitat restoration, captive breeding programs, and population viability analysis to maintain genetic diversity and ensure long-term survival of threatened aquatic species, particularly in isolated or fluctuating environments like desert pupfish populations. Effective endangered fish management requires coordinated efforts across natural and artificial habitats, balancing conservation genetics with ecological restoration to sustain viable populations in the face of environmental pressures and anthropogenic disturbance.
+
+### Context
+> This study by Garrigan, Marsh and Dowling (Arizona State University) applies a [[Coalescent Theory|coalescent]] maximum likelihood estimator of [[Long-Term Effective Population Size]] (N_e) to mitochondrial DNA (mtDNA) from three federally endangered [[Colorado River Basin]] fishes: [[Humpback...
+> -- *[[LongtermEffectivePopulationSiz_PML0849]]*
 
 ### Mentioned In
 - [[Allozymic variation in desert pupfish from natural and artificial habitats genetic conservation in fluctuating populatio]]
@@ -15840,6 +21490,19 @@ Endangered Species Management in fish science encompasses the integrated strateg
 - [[MemorandumOnDesertFishesRecove_1986_03_18]]
 - [[MhcVariationInTheEndangeredGil_20763]]
 - [[ReAsuTopminnowPopulations_12698]]
+- [[LongtermEffectivePopulationSiz_PML0849]]
+
+## Endangered Species Mitigation Fund
+
+### Summary
+A funding source that paid for the work behind this draft conservation plan, according to the source. The source notes that future work depends on securing additional funds beyond this support.
+
+### Context
+> This draft plan from the [[Utah Division Of Wildlife Resources]] (Division) addresses documented population declines in three large-river cypriniform fishes of the [[Colorado River Basin]]: [[Roundtail Chub]] (*Gila robusta*), [[Bluehead Sucker]] (*Catostomus discobolus*) and [[Flannelmouth...
+> -- *[[DraftConservationAndManagement_PML2775]]*
+
+### Mentioned In
+- [[DraftConservationAndManagement_PML2775]]
 
 ## Endangered Species Monitoring
 <!-- fm: auto_enriched: true -->
@@ -15866,10 +21529,22 @@ A federal permit authorizing work that would otherwise be prohibited for listed 
 > This is an administrative letter from the [[U.S. Fish and Wildlife Service]] (Division of Endangered Species/Permits, Ecological Services, Region 2) to Dr. James P. Collins, Chair of the Department of Zoology at [[Arizona State University]]. It acknowledges receipt of an application for an...
 > -- *[[ResponseToRecentApplicationFor_20652]]*
 
+> This U.S. Fish and Wildlife Service memorandum from the Area Manager of the [[Phoenix Resource Area]] to the Regional Director, Region 2, reports 1993 inventory and monitoring of three endangered or sensitive species under [[Endangered Species Permit]] PRT-676811: the [[Gila Topminnow]], the...
+> -- *[[AnnualEndangeredSpeciesSubperm_PML0015]]*
+
+> This U.S. Fish and Wildlife Service memorandum sets out a field protocol for collecting wild [[Bonytail Chub]] (BTC) from [[Lake Mohave]] during the week of May 12-18, 1996. The goal is to secure wild fish as potential [[Broodstock]]. Collected fish are to be transported to the [[Willow Beach...
+> -- *[[ProtocolBonytailChubCollection_PML2719]]*
+
+> This draft study plan sets out standardized protocols for collecting, tagging, sampling, culturing, handling, transporting, and disposing of [[Bonytail]], a threatened and endangered fish. It was prepared in response to a memorandum from the [[U.S. Fish and Wildlife Service]] Southwest Regional...
+> -- *[[BonytailStudyPlanForBiological_PML2690]]*
+
 ### Mentioned In
 - [[SectionAuthorizationToSampleEn_19037]]
 - [[AnnualReportToUsFishAndWildlif_18988]]
 - [[ResponseToRecentApplicationFor_20652]]
+- [[AnnualEndangeredSpeciesSubperm_PML0015]]
+- [[ProtocolBonytailChubCollection_PML2719]]
+- [[BonytailStudyPlanForBiological_PML2690]]
 
 ## Endangered Species Preservation
 <!-- fm: auto_enriched: true -->
@@ -15901,6 +21576,18 @@ A law from the 1966–1970 legislative timeline that the report describes as par
 - [[TheRightToExist_11512]]
 - [[ThreatenedFreshwaterFishesOfTh_15355]]
 
+## Endangered Species Preservation Act 1966
+
+### Summary
+A U.S. federal law passed in 1966 that the source describes as the first concerted federal effort to protect native fauna. The paper cites it as part of the post-1963 movement to recognize and protect threatened native wildlife, including fishes.
+
+### Context
+> This 1972 paper by [[Robert Rush Miller]], published in the *Transactions of the American Fisheries Society* (vol. 101, no. 2, pp. 239–252), is the first national compilation of threatened native freshwater fishes of the United States. It lists threatened taxa for 49 of the 50 states; [[Rhode...
+> -- *[[ThreatenedFreshwaterFishesOfTh_PML1731]]*
+
+### Mentioned In
+- [[ThreatenedFreshwaterFishesOfTh_PML1731]]
+
 ## Endangered Species Preservation Act of 1966
 
 ### Summary
@@ -15913,9 +21600,13 @@ A 1966 United States federal law aimed at protecting endangered species and thei
 > This 1977 *FRONTIERS* article by [[James D. Williams]] and Dona K. Finnley reviews the decline of native American fishes and the legal and scientific efforts to protect them. It traces habitat loss, pollution, overfishing and nonnative species as the main threats, and it documents the extinction of...
 > -- *[[OurVanishingFishesCanTheyBeSav_12002]]*
 
+> This 1977 *Frontiers* feature (Summer 1977 issue) reviews the decline of North American freshwater and estuarine fishes and the legal and scientific response to it. It traces US wildlife protection from early legislation around 1900 through the [[Endangered Species Preservation Act of 1966]] to the...
+> -- *[[OurVanishingFishesCanTheyBeSav_PML2893]]*
+
 ### Mentioned In
 - [[LowerGilaRiverBiologicalInvent_18262]]
 - [[OurVanishingFishesCanTheyBeSav_12002]]
+- [[OurVanishingFishesCanTheyBeSav_PML2893]]
 
 ## Endangered Species Program
 <!-- fm: auto_enriched: true -->
@@ -15936,6 +21627,12 @@ The Endangered Species Program refers to coordinated federal conservation initia
 > This document is an amended Section 6 project job description and related correspondence from the [[Arizona Game And Fish Department]] to the [[U.S. Fish And Wildlife Service]] (USFWS). It amends Project E5-3, Job 7, Segment 3, which covers survey, monitoring, and reintroduction of threatened and...
 > -- *[[SectionAuthorizationToSampleEn_19037]]*
 
+> This 1980 letter from the [[Willow Beach National Fish Hatchery]], part of the [[U.S. Fish and Wildlife Service]], asks the agency's Endangered Species Office in Sacramento, California, to estimate the age of a [[Bonytail Chub]] (*[[Gila elegans]]*). The fish was collected from [[Lake Mohave]] in...
+> -- *[[BonytailChubScaleAgingRequest_PML0970]]*
+
+> This January 1991 research proposal by Michael D. Yard of the [[Glen Canyon Environmental Studies]] (GCES) program, submitted to David L. Wegner, Program Manager, defines a methodology for testing how light illumination shapes the temporal and spatial behavior of [[Humpback Chub]] (*Gila cypha*) in...
+> -- *[[PhotometricAnalysisOfAmbientSu_PML2927]]*
+
 ### Mentioned In
 - [[CancellationOfNextMeeting_1986_07_14]]
 - [[EndangeredSpeciesProgramReview_1991_11_08]]
@@ -15944,6 +21641,8 @@ The Endangered Species Program refers to coordinated federal conservation initia
 - [[StudiesOnTheRazorbackSuckerXyr_1974_06_18]]
 - [[PlanningEffortNearItsConclusio_11515]]
 - [[SectionAuthorizationToSampleEn_19037]]
+- [[BonytailChubScaleAgingRequest_PML0970]]
+- [[PhotometricAnalysisOfAmbientSu_PML2927]]
 
 ## Endangered Species Project
 
@@ -15995,6 +21694,15 @@ Endangered Species Recovery in fish science refers to the coordinated management
 > This August 28, 1997 letter from four conservation groups to [[Utah Department of Natural Resources]] Director Ted Stewart responds to the [[Virgin River Basin Integrated Resource Management and Recovery Program]]. The groups welcome the Program's mission to recover endangered species and enhance...
 > -- *[[VirginRiverBasinIntegratedReso_19196]]*
 
+> This document is a partly garbled email exchange (OCR scan) between a U.S. Fish and Wildlife Service staff member, Chuck McAda, and a colleague, Carol. It concerns compiling [[Bonytail]] (*Gila elegans*) stocking records. The sender has tables of stocking data from 1996 to 2004 and is preparing a...
+> -- *[[ReBonytailStockings_PML1628]]*
+
+> This document is a set of administrative correspondence from the [[U.S. Fish and Wildlife Service]] (USFWS) Albuquerque regional office. It covers the federal permit issued under the [[Endangered Species Act]] (16 USC 1539(a), regulations at [[50 CFR 17.22]]) that authorizes [[Arizona State...
+> -- *[[FederalFishAndWildlifePermitPr_PML2417]]*
+
+> This 1981 study by Roger L. Hamman, of the [[U.S. Fish and Wildlife Service]] at [[Willow Beach National Fish Hatchery]], describes the first hatchery spawning and culture of the endangered [[Humpback Chub]] (*Gila cypha*). Wild adults from the [[Little Colorado River]] and the [[Colorado River]]...
+> -- *[[SpawningAndCultureOfHumpbackCh_PML0984]]*
+
 ### Mentioned In
 - [[Gila Topminnow Reintroduction_1996_07_25]]
 - [[GrowoutPondsUsefulForColoradoS_13321]]
@@ -16007,6 +21715,9 @@ Endangered Species Recovery in fish science refers to the coordinated management
 - [[EvaluationOfALongtermPredatorR_2016_X-6cf6a615]]
 - [[LongtermMonitoringOfADesertFis_2021]]
 - [[VirginRiverBasinIntegratedReso_19196]]
+- [[ReBonytailStockings_PML1628]]
+- [[FederalFishAndWildlifePermitPr_PML2417]]
+- [[SpawningAndCultureOfHumpbackCh_PML0984]]
 
 ## Endangered Species Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -16015,9 +21726,13 @@ Endangered Species Recovery in fish science refers to the coordinated management
 > - The **[[Colorado River Fishes Recovery Team]]** was led by **Jim St. Amant** (California Dept. of Fish & Game). - Core membership spanned five states' wildlife agencies: - **David Buck** — Nevada Dept. of Fish & Game - **Dean Hendrickson** — Arizona Game & Fish Dept. - **Randy Radant** — Utah D...
 > -- *[[CrfrtMemberRoster_1989_01_17]]*
 
+> This Federal Register compilation (August 2002) is a bundle of agency notices. Only one item is ecological: the [[U.S. Fish and Wildlife Service]] (FWS) announcement of the availability of [[Recovery Goals]] for four endangered fishes of the [[Colorado River Basin]]: [[Humpback Chub]],...
+> -- *[[NoticeOfAvailabilityOfRecovery_PML0782]]*
+
 ### Mentioned In
 - [[CrfrtMemberRoster_1989_01_17]]
 - [[LetterAndAgendaForTheFirstCuiU_1989_07_13]]
+- [[NoticeOfAvailabilityOfRecovery_PML0782]]
 
 ## Endangered Species Recovery Planning
 <!-- fm: auto_enriched: true -->
@@ -16139,8 +21854,13 @@ Scientific work focused on species at risk of extinction. The source notes that 
 ## Endangered Species Subpermit
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is a December 1992 cover letter and annual report submitted by [[William J. Matter]] and Robert Forrest of the [[University of Arizona]] to the [[U.S. Fish and Wildlife Service]] (Regional Director John G. Rogers). It covers activities under [[Endangered Species Subpermit]] PRT-676811...
+> -- *[[AnnualReportForUsFishAndWildli_PML1603]]*
+
 ### Mentioned In
 - [[SectionComplianceLetterOnTheCo_1991_02_25]]
+- [[AnnualReportForUsFishAndWildli_PML1603]]
 
 ## Endangered Species Subpermit Prt-676811
 <!-- fm: auto_enriched: true -->
@@ -16152,6 +21872,30 @@ Scientific work focused on species at risk of extinction. The source notes that 
 ### Mentioned In
 - [[AnnualReportOnGilaTopminnowAct_1993_11_30]]
 - [[EndangeredSpeciesPermitRenewal_20638]]
+
+## Endangered Species Tax Check-Off
+
+### Summary
+A Department of Fish and Game program, referred to in the memo as a "tax check-off," through which the public contributes funds to endangered species recovery work. The memo says the program paid for the razorback sucker effort and asks that its accomplishments be publicized.
+
+### Context
+> This internal memo from the California Department of Fish and Game's Endangered Species project, dated June 1986 (exact day partly illegible in the scan), announces the planned reintroduction of [[Razorback Sucker]] into the [[Colorado River]] in September of that year. The Department was raising...
+> -- *[[RazorbackSuckerTaxCheckoffProj_PML1646]]*
+
+### Mentioned In
+- [[RazorbackSuckerTaxCheckoffProj_PML1646]]
+
+## Endangered Species Technical Bulletin
+
+### Summary
+A U.S. Fish and Wildlife Service publication series on endangered and threatened species. This source is the 1991 annual index (Volume XVI), which lists dated bulletin items on listings, recovery plans, captive propagation, habitat protection, and policy. It is an index, not a research paper, and gives no population data for fishes.
+
+### Context
+> This document is the 1991 annual index (Volume XVI) of the [[Endangered Species Technical Bulletin]], published by the U.S. Department of the Interior, Fish and Wildlife Service. It is not a research paper. It is a dated subject and species index that points to bulletin items on listings, recovery...
+> -- *[[EndangeredSpeciesTechnicalBull_PML2678]]*
+
+### Mentioned In
+- [[EndangeredSpeciesTechnicalBull_PML2678]]
 
 ## Endangered Species Update
 
@@ -16170,6 +21914,22 @@ A publication of the School of Natural Resources at the University of Michigan t
 
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_1991_04_20]]
+
+## Endangered Status
+
+### Summary
+The U.S. Department of the Interior lists the Gila Topminnow as endangered. The note cites this status to highlight the species' sharp decline in range due to habitat destruction and introduced exotic fishes, which makes the newly found Arizona population significant.
+
+### Context
+> This *Southwestern Naturalist* notes section (May 1982, vol. 27, no. 2) contains three short reports. The first documents [[Rainbow Smelt]] (*Osmerus mordax*) juveniles in the [[Mississippi River]] of Arkansas and Tennessee, a range extension that raises questions about how a cold-water...
+> -- *[[DescriptionOfANewTopminnowPopu_PML1672]]*
+
+> This document is a 1992 compilation of the U.S. federal regulations at 50 CFR §17.11 (Endangered and Threatened Wildlife) and §17.12 (Endangered and Threatened Plants), prepared by the Division of Endangered Species of the [[U.S. Fish and Wildlife Service]]. It is a regulatory reference rather than...
+> -- *[[EndangeredAndThreatenedWildlif_PML2682]]*
+
+### Mentioned In
+- [[DescriptionOfANewTopminnowPopu_PML1672]]
+- [[EndangeredAndThreatenedWildlif_PML2682]]
 
 ## Endangered Suckers
 <!-- fm: auto_enriched: true -->
@@ -16279,6 +22039,30 @@ Endemic fishes are species found naturally in only one restricted area. This sou
 ### Mentioned In
 - [[PhilosophyOfTransplantingitsFu_14444]]
 
+## Endemic Isopods
+
+### Summary
+Small aquatic crustaceans found only in the Cuatro Ciénegas Basin. The source reports four endemic isopod species from permanent waters, including Speocirolana thermydronis, which is part of the basin's highly distinctive crustacean fauna.
+
+### Context
+> This 1969 monograph (Texas Western Press Science Series No. 2, by W. L. Minckley) provides a comprehensive synthesis of the physiography, climate, vegetation, aquatic habitats, geology, drainage history and aquatic fauna of the [[Cuatro Ciénegas Basin]] in northern [[Coahuila]], Mexico. The basin...
+> -- *[[EnvironmentsOfTheBolsonOfCuatr_PML1687]]*
+
+### Mentioned In
+- [[EnvironmentsOfTheBolsonOfCuatr_PML1687]]
+
+## Endemic Snails
+
+### Summary
+Highly endemic aquatic snails of the Cuatro Ciénegas Basin. The source notes that Taylor (1966) described them, including Mexipyrgus species, and suggests they may have diverged over 2 to 9 million years; about 12 new endemic species in five new genera are listed.
+
+### Context
+> This 1969 monograph (Texas Western Press Science Series No. 2, by W. L. Minckley) provides a comprehensive synthesis of the physiography, climate, vegetation, aquatic habitats, geology, drainage history and aquatic fauna of the [[Cuatro Ciénegas Basin]] in northern [[Coahuila]], Mexico. The basin...
+> -- *[[EnvironmentsOfTheBolsonOfCuatr_PML1687]]*
+
+### Mentioned In
+- [[EnvironmentsOfTheBolsonOfCuatr_PML1687]]
+
 ## Endemic Southwestern Fishes
 <!-- fm: auto_enriched: true -->
 
@@ -16328,8 +22112,12 @@ Committees under the Prohibited and Protected Fishes, Amphibians and Reptiles Co
 > This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its [[Endemic Species Committees]], lists the endemic fishes of the Colorado River system and describes their status state by state across seven states: Arizona, California, Colorado, Nevada, New Mexico,...
 > -- *[[EndemicFishesOfTheColoradoRive_17181]]*
 
+> This 1977 status report, prepared for the [[Colorado River Wildlife Council]] by its Endemic Species Committees, reviews the status of 34 native fish taxa of the Colorado River system across seven western states. Its stated purpose is educational: to make readers aware that many endemic species...
+> -- *[[EndemicFishesOfTheColoradoRive_PML0064]]*
+
 ### Mentioned In
 - [[EndemicFishesOfTheColoradoRive_17181]]
+- [[EndemicFishesOfTheColoradoRive_PML0064]]
 
 ## Endemic Species Vulnerability
 <!-- fm: auto_enriched: true -->
@@ -16404,6 +22192,24 @@ Endemism in fish science refers to the occurrence of fish species or populations
 > This revision by [[Robert Hershler]] describes 12 species in nine genera of hydrobiid snails from the isolated spring system of [[Cuatro Ciénegas Basin]], Coahuila, México. Snails were collected from 103 localities. One new genus ([[Mexistiobia]]) and three new species are described. The six...
 > -- *[[SystematicRevisionOfTheHydrobi_16715]]*
 
+> This preliminary survey documents helminth parasites of selected vertebrates from the [[Cuatro Cienegas]] valley in [[Coahuila]], Mexico. It is based on specimens collected in 1973–1974 and 1983. The study focuses on the endemic [[Cichlasoma]] species complex, whose three cryptic, sympatric species...
+> -- *[[PreliminarySurveyOfParasitesOf_PML1592]]*
+
+> Rogers Spring, a desert spring in Clark County, Nevada, has received at least 14 fish introductions since the 1930s, including cyprinids, a clariid, poeciliids and cichlids, most of them aquarium species. The spring is inside the [[Lake Mead National Recreation Area]] and drains to [[Lake Mead]]....
+> -- *[[FishIntroductionsInTheAmerican_PML0502]]*
+
+> This paper argues that springs and [[Ciénegas]] (riparian marshes), although they cover only a small fraction of surface water in the arid American Southwest, are critical to the evolution, endemism and persistence of the region's native fishes. The author, [[Gary K. Meffe]], compiled distribution...
+> -- *[[FishUtilizationOfSpringsAndCin_PML1668]]*
+
+> This review article examines how the size of a geographic area relates to the percentage of [[Endemism]] found within it. Anderson argues that the correlation between area and endemism must be positive, and that larger areas generally show higher degrees of endemism. The paper first addresses a...
+> -- *[[AreaAndEndemism_PML0058]]*
+
+> This Master of Science study proposal, submitted in partial fulfillment of degree requirements, examines why [[Razorback Sucker]] (*Xyrauchen texanus*) fails to recruit in the [[Colorado River Basin]], particularly in [[Lake Mohave]]. The proposal argues that two factors may be involved: predation...
+> -- *[[LarvalRazorbackSuckerXyrauchen_PML1060]]*
+
+> This paper by W. L. Minckley (Arizona State University) uses repeat photography to document ecological change in the [[Cuatro Ciénegas Basin]], a small, isolated desert valley in Coahuila, Mexico. Paired photographs from an August 1960 visit were compared with photographs of the same sites taken in...
+> -- *[[ThreeDecadesNearCuatroCinegasM_PML1850]]*
+
 ### Mentioned In
 - [[BiotaOfCuatroCienegasCoahuilaM_17006]]
 - [[CuatroCienegasProposal_1996_01_08]]
@@ -16418,6 +22224,12 @@ Endemism in fish science refers to the occurrence of fish species or populations
 - [[GeneticApproachesToConservatio_20081]]
 - [[TheEndangeredSpeciesActAndSout_19785]]
 - [[SystematicRevisionOfTheHydrobi_16715]]
+- [[PreliminarySurveyOfParasitesOf_PML1592]]
+- [[FishIntroductionsInTheAmerican_PML0502]]
+- [[FishUtilizationOfSpringsAndCin_PML1668]]
+- [[AreaAndEndemism_PML0058]]
+- [[LarvalRazorbackSuckerXyrauchen_PML1060]]
+- [[ThreeDecadesNearCuatroCinegasM_PML1850]]
 
 ## Endemism In Desert Aquatic Systems
 <!-- fm: auto_enriched: true -->
@@ -16454,6 +22266,18 @@ Endocrine activity refers to hormone-driven control of reproductive development.
 
 ### Mentioned In
 - [[TheRelationshipBetweenFoodSupp_17197]]
+
+## Endogenous Feeding
+
+### Summary
+Endogenous feeding is the early stage in which a fish larva draws nutrition from its internal yolk reserves rather than eating external food. In this source, field-caught Lake Mohave razorback sucker larvae showed reduced or absorbed yolk sacs, suggesting they were leaving this stage.
+
+### Context
+> This laboratory study tests whether food limitation contributes to the failure of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae to recruit into the adult population of [[Lake Mohave]], Arizona-Nevada. Adults are common and reproduce annually, yet larvae disappear at about 10.6 mm total length...
+> -- *[[FoodLimitedSurvivalOfLarvalRaz_PML2086]]*
+
+### Mentioned In
+- [[FoodLimitedSurvivalOfLarvalRaz_PML2086]]
 
 ## Endomeiosis
 
@@ -16654,6 +22478,12 @@ Endrin is a highly toxic organochlorine insecticide that poses severe risks to f
 > This 1968 review by Donald W. Johnson of the [[Arizona State University]] Department of Zoology surveys the literature on pesticide interactions in aquatic habitats, with emphasis on effects on fishes. The author argues that research to date has focused on acute, directly lethal effects, measured...
 > -- *[[PesticidesAndFishesaReviewOfSe_19749]]*
 
+> This study by Petty, Huckins, Martin and Adornato (1995, *Chemosphere* 30(10)) used [[Semipermeable Membrane Device]] (SPMD) samplers to measure the bioavailable fraction of [[Organochlorine Pesticides]] in streams carrying [[Irrigation Drainwater]] in the [[Lugert-Altus Watershed]] of southwest...
+> -- *[[UseOfSemipermeableMembraneDevi_PML2120]]*
+
+> This compiled symposium, edited by Paul H. Eschmeyer and published by the [[North Central Division]] of the [[American Fisheries Society]] (Special Publication No. 4, May 1975), presents papers from a 1973 session at the 35th Midwest Fish and Wildlife Conference in St. Louis. It reviews the use of...
+> -- *[[RehabilitationOfFishPopulation_PML0692]]*
+
 ### Mentioned In
 - [[DisappearanceOfEndrinFromFishA_12936]]
 - [[DynamicsOfEndrinUptakeAndRelea_16344]]
@@ -16667,6 +22497,8 @@ Endrin is a highly toxic organochlorine insecticide that poses severe risks to f
 - [[OrganochlorineInsecticideResid_16625]]
 - [[ChronicEffectsOfEndrinOnBluntn_15437]]
 - [[PesticidesAndFishesaReviewOfSe_19749]]
+- [[UseOfSemipermeableMembraneDevi_PML2120]]
+- [[RehabilitationOfFishPopulation_PML0692]]
 
 ## Endrin Toxicity
 <!-- fm: auto_enriched: true -->
@@ -16722,6 +22554,18 @@ The energy balance equation describes how surface temperature is controlled by t
 ### Mentioned In
 - [[TheRoleOfGroundwaterInTheImpac_20105]]
 
+## Energy Budget
+
+### Summary
+An energy budget accounts for how heat entering and leaving a body of water is balanced over time, including storage, evaporation and other losses. In this source, an annual energy budget was used to estimate Lake Mead's evaporation, with energy storage found to be nearly uniform across the lake's regions.
+
+### Context
+> This OCR-degraded technical report (U.S. Bureau of Reclamation and related agencies, 1948-1949 field program) documents twelve oceanographic cruises on [[Lake Mead]], the reservoir formed by [[Hoover Dam]] on the [[Colorado River]]. The study describes seasonal temperature and salinity structure,...
+> -- *[[PhysicalLimnologyOfLakeMead_PML0054]]*
+
+### Mentioned In
+- [[PhysicalLimnologyOfLakeMead_PML0054]]
+
 ## Energy Budget Method
 
 ### Summary
@@ -16733,6 +22577,18 @@ A method that estimates evaporation from the lake's heat budget, accounting for 
 
 ### Mentioned In
 - [[WaterBalanceOfTheGreatLakesSys_13840]]
+
+## Energy Charge
+
+### Summary
+Energy charge is a measure of the cell's available energy, based on the balance of adenine nucleotides such as ATP, ADP, and AMP. The chapter lists its regulation under metabolic adaptations to flooding, but the extracted text provides no specific data.
+
+### Context
+> This document is Chapter 8, "Adaptations to Flooding with Fresh Water," by Donald D. Hook of the Department of Forestry, Clemson University, South Carolina. It is a book chapter from *Flooding and Plant Growth* (Academic Press, 1984). It concerns plants rather than fish. Most of the body text is...
+> -- *[[AdaptationsToFloodingWithFresh_PML1085]]*
+
+### Mentioned In
+- [[AdaptationsToFloodingWithFresh_PML1085]]
 
 ## Energy Content
 
@@ -16774,6 +22630,18 @@ The view that eye and pigment reduction is directly selected because it saves en
 ### Mentioned In
 - [[WhyAllCaveAnimalsDoNotLookAlik_19015]]
 
+## Energy Efficiency
+
+### Summary
+Energy efficiency means getting the same useful service from less energy input. The source notes that low-income countries use more energy per dollar of GDP than high-income countries. It also cites developing economies adopting efficient technologies, such as high-voltage direct-current cables in China, India, Brazil, and the Philippines.
+
+### Context
+> This review (a Science feature, vol. 302, 28 November 2003) examines the global energy system, its distribution across countries, its links to economic development, and its environmental consequences. Fossil fuels supply about 95% of primary energy use, and reserves of oil, coal, and gas remain...
+> -- *[[EnergyResourcesAndGlobalDevelo_PML0426]]*
+
+### Mentioned In
+- [[EnergyResourcesAndGlobalDevelo_PML0426]]
+
 ## Energy Flow
 
 ### Summary
@@ -16798,6 +22666,54 @@ The transfer of energy from primary producers through herbivores and higher trop
 ### Mentioned In
 - [[EffectsOfCopepodGrazingOnTwoNa_20639]]
 
+## Energy Information Administration
+
+### Summary
+The Energy Information Administration is a statistical agency that publishes energy data, which is a U.S. government body. This source draws on its statistics for the energy-use and reserve figures it reports. The note does not describe any findings specific to the agency itself.
+
+### Context
+> This review (a Science feature, vol. 302, 28 November 2003) examines the global energy system, its distribution across countries, its links to economic development, and its environmental consequences. Fossil fuels supply about 95% of primary energy use, and reserves of oil, coal, and gas remain...
+> -- *[[EnergyResourcesAndGlobalDevelo_PML0426]]*
+
+### Mentioned In
+- [[EnergyResourcesAndGlobalDevelo_PML0426]]
+
+## Energy Research and Development Administration
+
+### Summary
+A U.S. federal agency that supported this study. The work was conducted at its Savannah River Plant site near Aiken, South Carolina, which the authors treat as the setting of the fish's cold, seasonally variable stream habitat.
+
+### Context
+> This study measures the upper thermal limits of stream [[Cyprinidae|cyprinid]] minnows, mainly the [[Yellowfin Shiner]] and [[Dusky Shiner]], with a small comparison group of [[Creek Chub]]. The authors used the [[Critical Thermal Maximum]] (CTM), defined as the temperature at which fish lose...
+> -- *[[ThermalToleranceOfStreamCyprin_PML1644]]*
+
+### Mentioned In
+- [[ThermalToleranceOfStreamCyprin_PML1644]]
+
+## Energy Resources
+
+### Summary
+Energy resources are the fuels and power sources that societies use, including fossil fuels, hydroelectric, nuclear, and renewables. This review assesses their global availability, consumption, and environmental costs. It reports that fossil fuels supply about 95% of primary energy, and that reserves are concentrated in a few countries.
+
+### Context
+> This review (a Science feature, vol. 302, 28 November 2003) examines the global energy system, its distribution across countries, its links to economic development, and its environmental consequences. Fossil fuels supply about 95% of primary energy use, and reserves of oil, coal, and gas remain...
+> -- *[[EnergyResourcesAndGlobalDevelo_PML0426]]*
+
+### Mentioned In
+- [[EnergyResourcesAndGlobalDevelo_PML0426]]
+
+## Enforcement Patrols
+
+### Summary
+Patrols by wildlife officers that check anglers for licenses, legal catch, and compliance with fishing rules. At Alamo Lake in August 1989, eight patrols by four officers totaling 44 hours contacted 164 anglers. The authors credited patrols, together with I&E and word of mouth, for high awareness of the slot limit.
+
+### Context
+> A one-week intensive enforcement study by the [[Arizona Game and Fish Department]] (Region 4) was conducted at [[Alamo Lake]], La Paz County, Arizona, from August 6 to 13, 1989. It re-tested angler awareness of and compliance with the [[Slot Size Limit]] on [[Largemouth Bass]] (12 to 16 inches, in...
+> -- *[[SubsequentialAnglerAwarenessOf_PML0099]]*
+
+### Mentioned In
+- [[SubsequentialAnglerAwarenessOf_PML0099]]
+
 ## Engaeus
 <!-- fm: auto_enriched: true -->
 
@@ -16810,6 +22726,18 @@ The transfer of energy from primary producers through herbivores and higher trop
 
 ### Mentioned In
 - [[TheFreshwaterCrayfishesOfSouth_1971_06_30]]
+
+## Engel-Wilson and Ohmart
+
+### Summary
+Engel-Wilson and Ohmart (1978) is the 1977–78 baseline study of riparian vegetation and terrestrial vertebrates along the Rio Grande between Fort Quitman and Presidio, Texas. This 1993 report reassesses that same reach and compares its findings with the earlier data to show changes in birds, mammals and vegetation.
+
+### Context
+> This 1993 report, prepared by Robert D. Ohmart, Paul C. Marsh, Scott Gende and Anthony Zamora of the [[Center for Environmental Studies]] at Arizona State University for the U.S. Section of the [[International Boundary and Water Commission]] (contract IBWC-91-29), reassesses riparian vegetation and...
+> -- *[[ReassessmentOfVegetationAndTer_PML2043]]*
+
+### Mentioned In
+- [[ReassessmentOfVegetationAndTer_PML2043]]
 
 ## Engelmann Hedgehog Cactus
 
@@ -17034,8 +22962,13 @@ Feeding in which a scorpion consumes a large share of prey biomass in one meal a
 ## Engraulididae
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This is Part 1 of Volume 7 of the [[FAO Species Catalogue]] series, an illustrated and annotated taxonomic synopsis of the clupeoid fishes (herrings, sardines, pilchards, sprats, shads, anchovies and wolf-herrings) that enter marine fisheries. Authored by [[Peter J. P. Whitehead]] and published by...
+> -- *[[ClupeoidFishesOfTheWorldSubord_PML2881]]*
+
 ### Mentioned In
 - [[InfluenceOfLandMassesOnTheDist_14157]]
+- [[ClupeoidFishesOfTheWorldSubord_PML2881]]
 
 ## Engraulis chirostomus
 
@@ -17081,6 +23014,18 @@ Engraulis mordax (anchovy) was successfully reared by Lasker et al. (1970) who a
 - [[AdditionalFishRemainsMostlyOto_16430]]
 - [[TheMarineFishFaunaBasedPrimari_16431]]
 
+## Engstrom-Heg and Loeb 1971
+
+### Summary
+A study cited for comparison with Rinne's results after rotenone renovation. Rinne notes that post-renovation responses vary, with recolonization or spawning cycles, rather than simple growth, driving size changes in some cases.
+
+### Context
+> This study tracks population structure, size, condition and standing crop (biomass) of three minnow species in [[Seven-Springs Wash]], a small tributary of [[Cave Creek]] in the [[Sonoran Desert]] of central Arizona, from 1969 to 1971. Population changes were driven by two factors: a 1968 flood...
+> -- *[[ChangesInMinnowPopulationsInAS_PML2202]]*
+
+### Mentioned In
+- [[ChangesInMinnowPopulationsInAS_PML2202]]
+
 ## Enhancement Hatcheries
 
 ### Summary
@@ -17092,6 +23037,18 @@ Enhancement hatcheries are facilities that rear fish for release to supplement w
 
 ### Mentioned In
 - [[UseOfHatcheryFishInEnhancement_14332]]
+
+## Enhancement of Survival Permit
+
+### Summary
+An enhancement of survival permit is a permit issued under Section 10(a)(1)(A) of the Endangered Species Act that authorizes activities which help conserve listed species. In this source, TNC applied for one with a 20-year term to cover its Aravaipa Property under the draft Safe Harbor Agreement. Public comment on the application was invited by the U.S. Fish and Wildlife Service.
+
+### Context
+> This document is a February 2005 U.S. Fish and Wildlife Service (Service) correspondence and Federal Register notice announcing the availability of a draft [[Safe Harbor Agreement]] (SHA) and an application for an [[Enhancement of Survival Permit]] submitted by the Arizona Chapter of [[The Nature...
+> -- *[[NoticeOfAvailabilityOfDraftSaf_PML0797]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftSaf_PML0797]]
 
 ## Enheptin
 
@@ -17336,6 +23293,18 @@ Enrique Rioja was the researcher who originally described this Mexican cave isop
 - [[NewEntocytheridOstracodsFromTe_20423]]
 - [[NuevaEspecieDeChirostomaCaptur_11785]]
 
+## Enrofloxacin
+
+### Summary
+A fluoroquinolone antibacterial that had the best pharmacokinetic profile in this study. It showed 55.5% oral bioavailability in medicated feed, a 34.2 h elimination half-life, and the highest dose-normalized peak plasma concentration. The authors considered it the most promising candidate for clinical trials.
+
+### Context
+> This study by [[Martinsen and Horsberg]] (Norwegian College of Veterinary Medicine, Oslo) compared the single-dose pharmacokinetics of four [[Quinolone Antimicrobials]] in [[Atlantic Salmon]] (*Salmo salar*) postsmolts held in seawater at 10.2 ± 0.2 °C. The agents were [[Oxolinic Acid]],...
+> -- *[[ComparativeSingledosePharmacok_PML1596]]*
+
+### Mentioned In
+- [[ComparativeSingledosePharmacok_PML1596]]
+
 ## Ensatina Rassenkreis
 
 ### Summary
@@ -17375,6 +23344,30 @@ An Ensatina rassenkreis is a ring of geographically varying subspecies of salama
 ### Mentioned In
 - [[AKeyToTheSnooksGenusCentropomu_17270]]
 
+## Entamoeba Histolytica
+
+### Summary
+An intestinal amoeba that is the agent of amoebiasis, estimated to infect about 400 million people worldwide. It is spread by the fecal-oral route through food, water and person-to-person contact, and can cause dysentery, liver abscess and other serious complications. In this source, amoebas were the second most common group in the patient sample, and several stool samples may be needed for diagnosis.
+
+### Context
+> This article by Dr. Omar M. Amin, a parasitologist at [[Arizona State University]], is the first part of a series on parasites written for non-specialist readers. It reports a clinical survey of 188 patients examined at the [[Phoenix Diagnostic And Educational Laboratory]] between June and July...
+> -- *[[RelationshipsInParasitology_PML0044]]*
+
+### Mentioned In
+- [[RelationshipsInParasitology_PML0044]]
+
+## Entanglement Net
+
+### Summary
+An entanglement net is a passive fishing gear that catches fish by their gills or body in its mesh. In this survey, seven were deployed across the park's three ponds, set overnight on 6 April 1995 and retrieved the next morning.
+
+### Context
+> This memorandum from [[Arizona State University]]'s Center for Environmental Studies reports a fish survey of the [[ASU Research Park]] in [[Tempe Arizona]], conducted 6–7 April 1995 by Brian Bagley, Terry Inman and Patti Sowka. Seven entanglement nets sampled the park's three ponds overnight. The...
+> -- *[[TripReportForTheAprilSurveyOfT_PML0152]]*
+
+### Mentioned In
+- [[TripReportForTheAprilSurveyOfT_PML0152]]
+
 ## Entanglement Net Sampling
 <!-- fm: auto_enriched: true -->
 
@@ -17398,6 +23391,30 @@ Entanglement netting was one of the two capture methods used in this survey, alo
 
 ### Mentioned In
 - [[FishSamplingAtAsuKarstenGolfCo_19457]]
+
+## Entangling Nets
+
+### Summary
+Gill nets and trammel nets that catch fish by entangling them. The report judged them ineffective and impractical in the drainage canals and likely to catch many non-target species in the main rivers.
+
+### Context
+> This 1985–1986 final report from the [[University of Arizona]] (School of Renewable Natural Resources) assesses whether [[Tilapia]] populations in the lower [[Colorado River]] area near Yuma, Arizona, could support a commercial fishery. Contaminant levels in fish flesh were judged the...
+> -- *[[EvaluationOfThePotentialOfTila_PML1605]]*
+
+### Mentioned In
+- [[EvaluationOfThePotentialOfTila_PML1605]]
+
+## Enteric Redmouth Disease
+
+### Summary
+A bacterial disease of fish that the source lists among the threats Fish Health Centers can diagnose and, in some cases, treat in federal hatchery fish. The article gives no further details on its effects or distribution.
+
+### Context
+> This magazine-style article describes the [[Fish Health Centers]] operated by the [[U.S. Fish and Wildlife Service]] (USFWS). The centers began as low-budget laboratories that monitored and certified the health of fish raised in federal hatcheries and advised states, tribes, and private...
+> -- *[[FishHealthCenters_PML0917]]*
+
+### Mentioned In
+- [[FishHealthCenters_PML0917]]
 
 ## Enteromius
 
@@ -17516,6 +23533,18 @@ Entomology (Zol 354) was proposed as a lecture/laboratory course with field trip
 
 ### Mentioned In
 - [[DraftEvaluationOfPotentialsFor_15827]]
+
+## Entomology Lab
+
+### Summary
+The internal research unit that produced this report on the caddisfly survey. The report documents field visits and interviews along the Colorado River near Parker and Ehrenberg, Arizona, and across the river in California.
+
+### Context
+> This internal report from the [[Entomology Lab]] documents a survey of caddisfly (Trichoptera) swarms along the [[Colorado River]] near Parker and Ehrenberg, Arizona, and across the river in California. Residents reported nuisance swarms, and the survey team inspected trailer parks, a...
+> -- *[[ReportFromTheEntomologyLabReTh_PML0834]]*
+
+### Mentioned In
+- [[ReportFromTheEntomologyLabReTh_PML0834]]
 
 ## Entomostraca
 <!-- fm: auto_enriched: true -->
@@ -17687,6 +23716,18 @@ The Pacific lamprey, a large parasitic and anadromous species that ranges along 
 ### Mentioned In
 - [[ANewNonparasiticSpeciesOfLampr_13180]]
 
+## Entrada Salt Wash
+
+### Summary
+The second saline wash in the Dirty Devil River Unit plan, with 25,000 to 35,000 mg/L total dissolved solids and a subsurface flow of 0.15 to 0.25 cfs. The plan would use ten wells feeding a common pipeline, with injection into the Coconino Sandstone at about 4,400 feet depth. Its use would require about 10 acres of land.
+
+### Context
+> This December 1984 biological assessment evaluates the potential effects of the proposed [[Dirty Devil River Unit]] on federally protected species in south-central Utah. The unit is a salinity-control project intended to reduce the roughly 155,000 tons of salt the [[Dirty Devil River]] delivers...
+> -- *[[EndangeredSpeciesBiologicalAss_PML2568]]*
+
+### Mentioned In
+- [[EndangeredSpeciesBiologicalAss_PML2568]]
+
 ## Entrainment
 
 ### Summary
@@ -17714,6 +23755,30 @@ The drawing of fish, especially small ones, through an intake and into the cooli
 > This chapter, the introduction to a state-of-the-art review by [[Charles H. Hocutt]] (Academic Press, 1980, *Power Plants: Effects on Fish and Shellfish Behavior*), frames why the behavior of aquatic organisms near power plants matters. Fish and shellfish behavior toward stimuli created or altered...
 > -- *[[Introduction_20429]]*
 
+> This EPA Project Summary (EPA-600/S3-84-017, March 1984) reports a multi-year survey of [[Larval Fish]] distribution, abundance and [[Entrainment]] by steam-generating power plants in the [[Western Basin]] and [[Central Basin]] of [[Lake Erie]]. Conducted by researchers at The Ohio State University...
+> -- *[[DistributionAbundanceAndEntrai_PML0494]]*
+
+> This workshop paper by [[Darrel E. Snyder]] of the [[Larval Fish Laboratory]] (Colorado State University) argues that fish larvae are ecologically distinct organisms whose habitats, behaviors, and vulnerabilities differ from those of juveniles and adults. The larval period involves dramatic...
+> -- *[[FishLarvaeecologicallyDistinct_PML2404]]*
+
+> This EPA-sponsored study by Dennis W. Rondorf and James F. Kitchell examines how thermal discharge from the [[Columbia Generating Station]] cooling lake (Lake Columbia, Wisconsin) alters fish populations, spawning timing, and larval distribution. The study is organized around three objectives:...
+> -- *[[ReproductionAndDistributionOfF_PML2260]]*
+
+> This interim progress report (dated 01 May 1999) from [[Arizona State University]] and the [[U.S. Geological Survey]] tracks the post-release movements, habitat use, and possible [[Entrainment]] of 20 hatchery-reared, sub-adult [[Razorback Sucker]] released below [[Parker Dam]] on 20 August 1998....
+> -- *[[MovementsOfSubadultRazorbackSu_PML1549]]*
+
+> This interim progress report, prepared by Paul C. Marsh and Brian R. Kesner of the [[Arizona State University]] Department of Biology (15 October 1999), documents a radio-telemetry study of sub-adult [[Razorback Sucker]]s released into [[Lake Havasu]] on the lower [[Colorado River]]. The study...
+> -- *[[MovementsOfSubadultRazorbackSu_PML1550]]*
+
+> This interim progress report (Report 3) presents a 2000 radiotelemetry study of hatchery-reared, sub-adult [[Razorback Sucker]] released into the regulated [[Colorado River]] below [[Parker Dam]]. The study tracked the dispersal, habitat use, and potential [[Entrainment]] of stocked fish within a...
+> -- *[[MovementsOfSubadultRazorbackSu_PML1552]]*
+
+> This 1989 cooperative report by the [[U.S. Fish and Wildlife Service]], the [[Bureau of Reclamation]] and the [[Arizona Game and Fish Department]] documents baseline fishery conditions at the Havasu Intake and Pumping Plant, a feature of the [[Central Arizona Project]], on [[Lake Havasu]]. Fish...
+> -- *[[LakeHavasuFisheryStudyACoopera_PML2670]]*
+
+> This Tennessee Valley Authority (TVA) Technical Note (No. 819, December 1976) by [[Jacob Hogue]], [[Robert Wallus]] and [[Larry K. Kay]] is a preliminary illustrated guide for identifying fish larvae (prolarvae and postlarvae) collected in the [[Tennessee River]] reservoir system. It provides a...
+> -- *[[PreliminaryGuideToTheIdentific_PML1070]]*
+
 ### Mentioned In
 - [[FishProtectiveDevicesACompilat_11796]]
 - [[TheEndangeredSpeciesActNewWeap_19657]]
@@ -17722,6 +23787,14 @@ The drawing of fish, especially small ones, through an intake and into the cooli
 - [[ReviewOfGlenCanyonEnvironmenta_15187]]
 - [[AquaticEcologyStudiesOfTwinLak_11484]]
 - [[Introduction_20429]]
+- [[DistributionAbundanceAndEntrai_PML0494]]
+- [[FishLarvaeecologicallyDistinct_PML2404]]
+- [[ReproductionAndDistributionOfF_PML2260]]
+- [[MovementsOfSubadultRazorbackSu_PML1549]]
+- [[MovementsOfSubadultRazorbackSu_PML1550]]
+- [[MovementsOfSubadultRazorbackSu_PML1552]]
+- [[LakeHavasuFisheryStudyACoopera_PML2670]]
+- [[PreliminaryGuideToTheIdentific_PML1070]]
 
 ## Entrainment (Fish Mortality)
 <!-- fm: auto_enriched: true -->
@@ -17744,6 +23817,18 @@ Entrainment studies monitored fish and organisms drawn into the Mt. Elbert power
 
 ### Mentioned In
 - [[EffectsOfOperatingTheMtElbertP_12650]]
+
+## Entrapment And Entanglement
+
+### Summary
+A group of passive gears, including gill, trammel, hoop, fyke, trap, and minnow-trap nets, plus shock/gill combinations, with 19 gear codes in total. The manual requires recording mesh size, net dimensions, and hours soaked for each deployment.
+
+### Context
+> This 1995 field manual, issued by the [[Bureau Of Reclamation]] Phoenix Area Office, sets out [[Standard Operating Procedures]] for long-term monitoring of fish populations in rivers and streams of the [[Gila River Basin]], Arizona. It defines the field forms, station layout, sampling gears,...
+> -- *[[StandardOperatingProceduresFie_PML0444]]*
+
+### Mentioned In
+- [[StandardOperatingProceduresFie_PML0444]]
 
 ## Entrerriense Transgression
 
@@ -17780,6 +23865,22 @@ EnviroAtlas is a geospatial database that provides ecosystem service and environ
 
 ### Mentioned In
 - [[MultiscaleThreatAssessmentOfRi_2022]]
+
+## EnviroNet Inc
+
+### Summary
+EnviroNet Inc is the environmental consulting firm that prepared this 1998 biological report on the razorback sucker for the Childs & Irving hydroelectric relicensing. The report was prepared for Arizona Public Service and the Federal Energy Regulatory Commission.
+
+### Context
+> This biological report, prepared by [[EnviroNet Inc]] for [[Arizona Public Service]] in October 1998, supports the [[Federal Energy Regulatory Commission]] (FERC) relicensing of the [[Childs & Irving Hydroelectric Plant]] on [[Fossil Creek]], about 5 miles southwest of Strawberry, Arizona. It...
+> -- *[[ChildsIrvingHydroelectricPlant_PML0685]]*
+
+> This biological report, prepared by [[EnviroNet Inc]] for [[Arizona Public Service]] (APS) in October 1998, supports the [[Federal Energy Regulatory Commission]] (FERC) relicensing of the [[Childs and Irving Hydroelectric Plants]] (Project No. 2069-003) on [[Fossil Creek]], Arizona. It addresses...
+> -- *[[ChildsIrvingHydroelectricPlant_PML0686]]*
+
+### Mentioned In
+- [[ChildsIrvingHydroelectricPlant_PML0685]]
+- [[ChildsIrvingHydroelectricPlant_PML0686]]
 
 ## Environmental Alteration
 
@@ -17832,6 +23933,48 @@ A draft Environmental Assessment (EA) for Roosevelt Diversion Dam modifications 
 > This draft [[Environmental Assessment]], prepared by the [[U.S. Fish and Wildlife Service]] (Ecological Services, Grand Junction, Colorado; dated April 30, 1996), evaluates procedures that would guide future stocking of nonnative fishes in the [[Upper Colorado River Basin]]. The stated goal is to...
 > -- *[[DraftEnvironmentalAssessmentFo_19335]]*
 
+> This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of...
+> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
+
+> This note summarizes two public scoping letters submitted in November 2010 on the proposed construction of a [[Fish Barrier]] in [[Redfield Canyon]], Graham County, Arizona. The [[Bureau Of Reclamation]] is preparing an [[Environmental Assessment]] (EA) for the project. The first letter, from fish...
+> -- *[[NoticeOfPublicScopingForPrepar_PML2595]]*
+
+> This scoping report, issued in October 2004, announces a joint proposal by the [[Bureau of Reclamation]] and the [[Forest Service]] to restore native fish in the [[Blue River]] drainage of eastern Arizona. The agencies would eliminate nonnative predatory fish from 5 tributary streams of the upper...
+> -- *[[ProposalForNativeFishRestorati_PML2604]]*
+
+> This note covers two linked documents. The first is an Arizona State Clearinghouse review request sent to state agencies, which asks whether a proposed project is consistent with agency goals, duplicates other programs, and complies with applicable laws. The second, and the main substance, is a...
+> -- *[[FindingOfNoSignificantImpactCe_PML2569]]*
+
+> This document is a 1995 [[Decision Notice]] and [[Finding of No Significant Impact]] (FONSI) from the USDA Forest Service, [[Apache-Sitgreaves National Forests]], covering habitat improvement for the [[Apache Trout]] on nine Apache trout streams. The Forest Supervisor selected a modified version of...
+> -- *[[DecisionNoticeAndFindingOfNoSi_PML2702]]*
+
+> This document is a regulatory guidance item, not a fisheries or ecological study. It combines two parts: the public involvement provisions of the [[National Environmental Policy Act]] (NEPA) implementing regulations (Section 1506.6), and a set of questions and answers issued by the [[Council on...
+> -- *[[QuestionsAndAnswersOnNationalE_PML2716]]*
+
+> This 1998 letter and enclosed rebuttal by [[James Deacon]], a Distinguished Professor at the University of Nevada, Las Vegas, responds to a draft report by the [[Washington County Water Conservancy District]] (WCWCD), "The Facts About the History and Operation of the Quail Creek Project" (dated 14...
+> -- *[[ResponseToTheFactsAboutTheHist_PML0550]]*
+
+> This document is a public scoping notice issued jointly by the [[Bureau Of Reclamation]] (Phoenix Area Office) and the [[Bureau Of Land Management]] (Safford Field Office). It announces a proposal to build a steel-reinforced concrete fish barrier in a remote reach of [[Hot Springs Canyon]],...
+> -- *[[ProposedFishBarrierHotSpringsC_PML2588]]*
+
+> This document is a public comment letter from [[Jerome A. Stefferud]] and [[Sally E. Stefferud]], dated April 19, 2010, responding to the draft [[Environmental Assessment]] (EA) for a [[Nonnative Fish Barrier]] on [[Lime Creek]] in the [[Tonto National Forest]]. The barrier would block upstream...
+> -- *[[LimeCreekFishBarrierEaComments_PML2449]]*
+
+> This document is a set of correspondence and review materials from October 1987 concerning a U.S. Fish and Wildlife Service proposal to reintroduce an endangered [[Colorado Squawfish]] (*Ptychocheilus lucius*) into the lower [[Colorado River]] between [[Parker Dam]] and [[Imperial Dam]] as a...
+> -- *[[CommentsAndProposalsOnTheNones_PML0734]]*
+
+> The [[Bureau Of Reclamation]] (Phoenix Area Office) issued a March 2009 scoping notice for an [[Environmental Assessment]] (EA) under the [[National Environmental Policy Act]] on a proposed [[Native Fish Restoration]] project in the lower Blue River, Greenlee County, Arizona. The project would...
+> -- *[[LowerBlueRiverNativeFishRestor_PML2587]]*
+
+> This document is a 1987 environmental assessment (EA) by SWCA, Inc. for the [[Salt River Project]] (SRP) on public-safety modifications to the [[Roosevelt Diversion Dam]] on the Salt River, Gila County, Arizona. The dam had caused five fatalities and five injuries since 1979, all...
+> -- *[[LetterRegardingDraftEnvironmen_PML2426]]*
+
+> The Condor Canyon Habitat Management Plan (HMP), prepared by the [[Bureau of Land Management]] (BLM) Caliente Resource Area in 1989, aims to maintain or improve habitat for the federally threatened [[Big Spring Spinedace]] (*Lepidomeda mollispinis pratensis*). The plan covers roughly 4 stream miles...
+> -- *[[CondorCanyonHabitatManagementP_PML0918]]*
+
+> This 1998 Bureau of Land Management (BLM) package from the [[Safford Field Office]] contains the 15-year [[Gila Box Management Plan]] for the [[Gila Box Riparian National Conservation Area]] (RNCA) in Arizona, together with [[Environmental Assessment]] AZ-M0-08-03, a [[Finding of No Significant...
+> -- *[[GilaBoxRiparianNationalConserv_PML2561]]*
+
 ### Mentioned In
 - [[CommentsOnEnvironmentalAssessm_11570]]
 - [[ResultsOfMarchAndMeetingsConce_15024]]
@@ -17844,6 +23987,20 @@ A draft Environmental Assessment (EA) for Roosevelt Diversion Dam modifications 
 - [[GilaBoxManagementPlanEnvironme_11470]]
 - [[DraftwildernessManagementPlanA_11565]]
 - [[DraftEnvironmentalAssessmentFo_19335]]
+- [[StatusReportOnTheLowerColorado_PML1780]]
+- [[NoticeOfPublicScopingForPrepar_PML2595]]
+- [[ProposalForNativeFishRestorati_PML2604]]
+- [[FindingOfNoSignificantImpactCe_PML2569]]
+- [[DecisionNoticeAndFindingOfNoSi_PML2702]]
+- [[QuestionsAndAnswersOnNationalE_PML2716]]
+- [[ResponseToTheFactsAboutTheHist_PML0550]]
+- [[ProposedFishBarrierHotSpringsC_PML2588]]
+- [[LimeCreekFishBarrierEaComments_PML2449]]
+- [[CommentsAndProposalsOnTheNones_PML0734]]
+- [[LowerBlueRiverNativeFishRestor_PML2587]]
+- [[LetterRegardingDraftEnvironmen_PML2426]]
+- [[CondorCanyonHabitatManagementP_PML0918]]
+- [[GilaBoxRiparianNationalConserv_PML2561]]
 
 ## Environmental Assessment Checklist
 
@@ -17884,8 +24041,16 @@ An existing journal from Guelph that the source names as one of the two earlier 
 > This is the inaugural review in the periodical [[Guelph Ichthyology Reviews]] (Number 1, September 1990), written by [[Eugene K. Balon]] of the [[Institute of Ichthyology]], University of Guelph. A foreword by David L.G. Noakes introduces the new Institute, founded in June 1990 on the [[Axelrod...
 > -- *[[EpigenesisOfAnEpigeneticistThe_17306]]*
 
+> This laboratory study by Jeanette Carpenter (U.S. Geological Survey, Fort Collins Science Center; published in [[Environmental Biology of Fishes]], 2005) tests whether the introduced [[Virile Crayfish]] (*Orconectes virilis*) reduces the growth of two native Colorado River basin fishes through...
+> -- *[[CompetitionForFoodBetweenAnInt_PML0376]]*
+
+> This invited editorial, published in [[Environmental Biology of Fishes]] (1999), argues that biologists, especially university researchers, have a professional obligation to take part in the conservation of fishes and their habitats. The author, a retired state agency fishery biologist with nearly...
+> -- *[[ProfessionalObligationsInTheCo_PML2142]]*
+
 ### Mentioned In
 - [[EpigenesisOfAnEpigeneticistThe_17306]]
+- [[CompetitionForFoodBetweenAnInt_PML0376]]
+- [[ProfessionalObligationsInTheCo_PML2142]]
 
 ## Environmental Contaminant Evaluation
 
@@ -18025,6 +24190,18 @@ Environmental Engineering Program is an academic program at the University of Ar
 ### Mentioned In
 - [[ArizonaEnvironmentalAndResourc_17454]]
 
+## Environmental Enrichment
+
+### Summary
+Environmental enrichment means giving hatchery fish more natural conditions before release, such as submerged structure, cover, natural flow and dark backgrounds, instead of featureless tanks. The source reports that brief exposure to naturalistic outdoor ponds improved survival, with brown trout reared outdoors surviving better after release than standard hatchery fish. It also notes that steelhead given in-water structure and overhead cover reached higher social rank and growth rate.
+
+### Context
+> This review examines why hatchery-reared fish released for fisheries restocking and endangered-species recovery so often fail to survive in the wild. The authors argue that fisheries scientists have known of behavioural deficits in hatchery fish and poor post-release survival for over a century,...
+> -- *[[TheFutureOfStockEnhancementsLe_PML0301]]*
+
+### Mentioned In
+- [[TheFutureOfStockEnhancementsLe_PML0301]]
+
 ## Environmental Ethics
 <!-- fm: auto_enriched: true -->
 
@@ -18035,9 +24212,25 @@ Environmental Engineering Program is an academic program at the University of Ar
 > No direct ecological data is presented. However, contextual inference from the organizational mission indicates a thematic focus on: - **[[Desert Fishes]]** as a conservation-priority taxon group - **[[Desert Ecosystems]]** of the American West as the relevant habitat - Emphasis on **[[Conservati...
 > -- *[[LetterToStephenFCoxOfTheUniver_11140]]*
 
+> This invited editorial, published in [[Environmental Biology of Fishes]] (1999), argues that biologists, especially university researchers, have a professional obligation to take part in the conservation of fishes and their habitats. The author, a retired state agency fishery biologist with nearly...
+> -- *[[ProfessionalObligationsInTheCo_PML2142]]*
+
 ### Mentioned In
 - [[EmphasisOnEnvironmentalValues_14857]]
 - [[LetterToStephenFCoxOfTheUniver_11140]]
+- [[ProfessionalObligationsInTheCo_PML2142]]
+
+## Environmental Fate
+
+### Summary
+What the environment does to a chemical, such as its transport and transformation. The source distinguishes this question from ecological effects, which ask what the chemical does to the environment.
+
+### Context
+> This [[Environmental Protection Agency]] project summary, prepared by the [[Environmental Research Laboratory]] in Athens, Georgia (EPA-600/S3-83-084, November 1983), presents a strategy for modeling aquatic ecosystems so that the effects of toxic chemicals on [[Element Cycling]] and other...
+> -- *[[PredictionOfEcologicalEffectsO_PML1338]]*
+
+### Mentioned In
+- [[PredictionOfEcologicalEffectsO_PML1338]]
 
 ## Environmental Flows
 
@@ -18050,6 +24243,18 @@ Environmental flows are the flow regimes that rivers need to maintain their ecol
 
 ### Mentioned In
 - [[DischargeVariabilityAndTheDeve_18725]]
+
+## Environmental Fluid Dynamics Program
+
+### Summary
+An ASU program that administratively supported this multidisciplinary initiative and co-sponsored its 1996 workshop on geophysical fluid dynamics and turbulence. The report describes it as the home base for the research on environmental transport and ecosystem responses.
+
+### Context
+> This progress report covers the second year (1995–1996) of a multidisciplinary grant at [[Arizona State University]] (ASU), initiated March 1, 1995 and run through the [[Environmental Fluid Dynamics Program]]. The initiative was designed to link researchers working on environmental transport...
+> -- *[[SecondYearProgressReportOnTheM_PML0803]]*
+
+### Mentioned In
+- [[SecondYearProgressReportOnTheM_PML0803]]
 
 ## Environmental Groups
 
@@ -18078,8 +24283,13 @@ A field of history that treats human economies, cultures and ecological processe
 ## Environmental Impact Assessment
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This review evaluates [[Perspectives In Running Water Ecology]], an edited volume by Maurice A. Lock and David D. Williams (Plenum Press, New York, 430 pages). The volume is dedicated to [[H. B. Noel Hynes]], a renowned stream ecologist whose work shaped the field. The reviewer describes it as a...
+> -- *[[BookReviewPerspectivesInRunnin_PML1452]]*
+
 ### Mentioned In
 - [[ModificationsOfTemperatureAvoi_20110]]
+- [[BookReviewPerspectivesInRunnin_PML1452]]
 
 ## Environmental Impact Review
 
@@ -18156,6 +24366,33 @@ An Environmental Impact Statement (EIS) is a formal environmental assessment doc
 > This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
 > -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
 
+> This note covers two linked documents. The first is an Arizona State Clearinghouse review request sent to state agencies, which asks whether a proposed project is consistent with agency goals, duplicates other programs, and complies with applicable laws. The second, and the main substance, is a...
+> -- *[[FindingOfNoSignificantImpactCe_PML2569]]*
+
+> This document is a cover memorandum and draft minutes from the [[Recovery Team]] for endangered Colorado River fishes. The team met in Las Vegas, Nevada, on June 21–23, 1983, at the offices of the Nevada Department of Wildlife. The memo is from Team Leader J. A. St. Amant to team members and asks...
+> -- *[[ColoradoRiverFishesRecoveryTea_PML0038]]*
+
+> This document is a compilation of Federal Register notices and a U.S. Fish and Wildlife Service (USFWS) letter dated April 4, 2001. Its main subject is the proposed redesignation of [[Critical Habitat]] for the endangered [[Rio Grande Silvery Minnow]]. The redesignation follows a November 2000 New...
+> -- *[[EndangeredAndThreatenedWildlif_PML0779]]*
+
+> This document is a compilation of Federal Register notices from late November to December 1995, reproduced from a low-quality OCR scan. Several passages are garbled, so figures and dates are reported as they appear and should be verified against the original. The notices cover three areas: 1....
+> -- *[[DraftPolicyForConservingSpecie_PML0767]]*
+
+> This is a formal public comment letter, dated 12 March 1993, from [[Paul C. Marsh]], Research Professor at the [[Arizona State University]] Center for Environmental Studies, on the draft [[Environmental Impact Statement]] (EIS) prepared by the [[Bureau of Reclamation]] for the operation of [[Glen...
+> -- *[[CommentsOnTheDraftEnvironmenta_PML1558]]*
+
+> This fisheries report by Paul C. Marsh and Ira R. Adelman (University of Minnesota) documents a fall 1978 survey of fish in the [[Roseau River]], Minnesota. The work was funded by the [[U.S. Army Corps Of Engineers]], which needed the data to supplement an [[Environmental Impact Statement]] for a...
+> -- *[[InvestigationOfTheRoseauRiverF_PML1516]]*
+
+> This paper reviews the status of [[Gray Wolf]] ([[Canis Lupus]]) restoration in Montana, Idaho, and Wyoming through 1 November 1998. Wolves were eliminated from the region by the 1930s and returned naturally from southwestern Canada. Following the [[Recovery Plan]] (1987), wolves were reintroduced...
+> -- *[[StatusOfGrayWolfRestorationInM_PML0169]]*
+
+> This first-year progress report from the [[Bureau Of Reclamation]] documents a fishery investigation of the [[Granite Reef Aqueduct]], a concrete-lined canal carrying up to 3,000 cfs of [[Colorado River]] water from [[Lake Havasu]] toward central Arizona. The study was led by Reclamation with the...
+> -- *[[CentralArizonaProjectGraniteRe_PML1932]]*
+
+> This U.S. Fish and Wildlife Service (FWS) proposed rule, published in the *Federal Register* on June 6, 2002, proposes to designate [[Critical Habitat]] for the [[Rio Grande Silvery Minnow]], a species federally listed as endangered under the [[Endangered Species Act]] (1973). The proposal covers...
+> -- *[[EndangeredAndThreatenedWildlif_PML0780]]*
+
 ### Mentioned In
 - [[NotesOfTheBriefingHeldNovember_11848]]
 - [[ReviewOfTheDraftFederalLongter_19498]]
@@ -18176,6 +24413,31 @@ An Environmental Impact Statement (EIS) is a formal environmental assessment doc
 - [[BuyingAGilaMonster_19074]]
 - [[ALeesFerryTalePowerPoliticsAnd_20673]]
 - [[DraftEnvironmentalAssessmentSa_PML2656]]
+- [[FindingOfNoSignificantImpactCe_PML2569]]
+- [[ColoradoRiverFishesRecoveryTea_PML0038]]
+- [[EndangeredAndThreatenedWildlif_PML0779]]
+- [[DraftPolicyForConservingSpecie_PML0767]]
+- [[CommentsOnTheDraftEnvironmenta_PML1558]]
+- [[InvestigationOfTheRoseauRiverF_PML1516]]
+- [[StatusOfGrayWolfRestorationInM_PML0169]]
+- [[CentralArizonaProjectGraniteRe_PML1932]]
+- [[EndangeredAndThreatenedWildlif_PML0780]]
+
+## Environmental Impact Study
+
+### Summary
+A formal assessment of how a proposed project or existing development may affect the environment. In this source, the Lake Havasu Environmental Impact Study examined the lake's aquatic resources, and this trip report is one of its followup surveys.
+
+### Context
+> This Bureau of Reclamation trip report, dated August 28, 1972, documents a followup survey of [[Lake Havasu]] conducted August 16–18, 1972, as part of an [[Environmental Impact Study]] of the lake's aquatic resources. Five of the originally investigated coves were resurveyed by [[Scuba Diving...
+> -- *[[FollowupSurveyLakeHavasuAquati_PML2259]]*
+
+> This is a Bureau of Reclamation correspondence packet, dated around July 1970s (year not legible in scan), from the Regional Director to a cooperating agency regional office. It concerns an [[Environmental Impact Study]] of [[Lake Havasu]]. The letter invites representatives to observe planned...
+> -- *[[LakeHavasuUnderwaterObservatio_PML1387]]*
+
+### Mentioned In
+- [[FollowupSurveyLakeHavasuAquati_PML2259]]
+- [[LakeHavasuUnderwaterObservatio_PML1387]]
 
 ## Environmental Justice
 
@@ -18215,10 +24477,42 @@ A federal policy concept requiring agencies to avoid disproportionate adverse ef
 > This book chapter by [[Robert M. Hughes]], [[Steven A. Heiskary]], [[William J. Matthews]] and [[Chris O. Yoder]] evaluates whether [[Ecoregions]] provide a useful geographic framework for biological monitoring of lakes and streams. The authors compare ecoregions with [[Fish Faunal Regions]],...
 > -- *[[UseOfEcoregionsInBiologicalMon_14503]]*
 
+> This excerpt from the *Proceedings of the Desert Fishes Council*, Volume XXXIII (2000 Symposium, published November 13, 2001), contains three abstracts (bilingual, English and Spanish). The main document addresses the implementation of the 1994 [[Central Arizona Project]] (CAP) biological opinion,...
+> -- *[[ManagingNonnativeAquaticSpecie_PML2456]]*
+
 ### Mentioned In
 - [[ResignationLetterDesertFishesR_1990_05_04]]
 - [[TheStrategyAndDesignOfTheEffec_15485]]
 - [[UseOfEcoregionsInBiologicalMon_14503]]
+- [[ManagingNonnativeAquaticSpecie_PML2456]]
+
+## Environmental Monitoring Systems Laboratory
+
+### Summary
+The U.S. Environmental Protection Agency laboratory in Las Vegas, Nevada, that issued this report (EPA-600/S3-80-100) as part of its phytoplankton water quality work. The source credits it as the agency lab behind the study.
+
+### Context
+> This EPA [[Environmental Monitoring Systems Laboratory]] project summary (EPA-600/S3-80-100, February 1981) presents environmental data for freshwater algae linked to water quality problems in lakes. The work covers species and genera associated with six problem categories: [[Eutrophication]],...
+> -- *[[PhytoplanktonWaterQualityRelat_PML2493]]*
+
+> This EPA Project Summary reports on the field operations of the [[Pilot Survey]] for Phase I of the [[National Stream Survey]] (NSS), a component of the [[National Surface Water Survey]] (NSWS). The NSWS supports the [[National Acid Precipitation Assessment Program]] by assessing the chemical...
+> -- *[[NationalSurfaceWaterSurveyNati_PML1285]]*
+
+> This U.S. Environmental Protection Agency (EPA) Project Summary, published September 1988 as EPA/600/S4-88/023, reports field operations of the [[National Stream Survey]] (NSS). The NSS was a synoptic chemical survey of streams in the [[Mid-Atlantic Region]] and southeastern United States that were...
+> -- *[[NationalStreamSurveyPhaseIFiel_PML0943]]*
+
+> This EPA Project Summary describes the [[Quality Assurance Program]] for the Phase I synoptic chemistry component of the [[Western Lake Survey]] (WLS-I), part of the [[National Surface Water Survey]]. The survey was built to assess the effects of acidic deposition on lake water chemistry in the...
+> -- *[[NationalSurfaceWaterSurveyWest_PML2365]]*
+
+> This U.S. Environmental Protection Agency manual (EPA/600/S4-89/001, second edition, 1990) describes standardized short-term chronic toxicity tests for [[Effluent]] and [[Receiving Water]] samples using freshwater organisms. It supports [[NPDES Permit]] compliance and related water-quality...
+> -- *[[ShorttermMethodsForEstimatingT_PML2847]]*
+
+### Mentioned In
+- [[PhytoplanktonWaterQualityRelat_PML2493]]
+- [[NationalSurfaceWaterSurveyNati_PML1285]]
+- [[NationalStreamSurveyPhaseIFiel_PML0943]]
+- [[NationalSurfaceWaterSurveyWest_PML2365]]
+- [[ShorttermMethodsForEstimatingT_PML2847]]
 
 ## Environmental Planning
 
@@ -18320,6 +24614,45 @@ The Environmental Protection Agency (EPA) serves as a critical federal regulator
 > This Spring 1991 issue of the [[Trout Unlimited]] newsletter is a mixed advocacy publication. Its lead article, "Voodoo Fish Management," argues that wild Columbia River salmon have declined by about 97 percent, that habitat destruction (dams, logging, livestock grazing and beaver loss) is the root...
 > -- *[[VoodooFishManagement_16338]]*
 
+> This EPA Project Summary reports an evaluation of a proposed standard [[Embryo-Larval Test]] protocol for the [[Fathead Minnow]] (*[[Pimephales Promelas]]*). Four [[Flow-Through Bioassay]] tests were run, two each with [[Acenaphthene]] and [[Isophorone]]. The protocol was judged workable, with one...
+> -- *[[EvaluationOfAFatheadMinnowPime_PML1355]]*
+
+> This [[Environmental Protection Agency]] project summary reports an extensive literature review of stock size and production in stream-dwelling [[Salmonidae]] populations. Its aims were to compile data on the magnitude of natural variation in population size, relate that variation to environmental...
+> -- *[[NaturalVariationInAbundanceOfS_PML0950]]*
+
+> This Federal Register issue (Vol. 63, No. 57, pages 14378–14379) is a compilation of regulatory notices rather than a research paper. Its main item is a final rule from the [[Fish And Wildlife Service]] that removes designated [[Critical Habitat]] for the [[Mexican Spotted Owl]], [[Loach Minnow]]...
+> -- *[[FisheriesOfTheExclusiveEconomi_PML0789]]*
+
+> This EPA Project Summary reports on the field operations of the [[Pilot Survey]] for Phase I of the [[National Stream Survey]] (NSS), a component of the [[National Surface Water Survey]] (NSWS). The NSWS supports the [[National Acid Precipitation Assessment Program]] by assessing the chemical...
+> -- *[[NationalSurfaceWaterSurveyNati_PML1285]]*
+
+> The [[Ware River Intensive Watershed Study]] was an [[Environmental Protection Agency]] (EPA) project, conducted through the [[Chesapeake Bay Program]] and carried out by researchers at the [[Virginia Institute of Marine Science]]. It measured how runoff from four small catchments (forested,...
+> -- *[[WareRiverIntensiveWatershedStu_PML0057]]*
+
+> This [[Environmental Protection Agency]] Project Summary, prepared by the [[Atmospheric Research and Exposure Assessment Laboratory]] (Research Triangle Park, NC), describes the seasonal and annual variability of temperature and precipitation across the contiguous United States for 1895–1985. It is...
+> -- *[[AClimatologyOfTemperatureAndPr_PML0662]]*
+
+> This [[Environmental Protection Agency]] project summary, prepared by the [[Environmental Research Laboratory]] in Athens, Georgia (EPA-600/S3-83-084, November 1983), presents a strategy for modeling aquatic ecosystems so that the effects of toxic chemicals on [[Element Cycling]] and other...
+> -- *[[PredictionOfEcologicalEffectsO_PML1338]]*
+
+> This EPA project summary, issued in July 1982 by the [[Environmental Protection Agency]] (Environmental Research Laboratory, Narragansett, Rhode Island), describes the development of a laboratory culture protocol for [[Striped Bass]] (*[[Morone Saxatilis]]*). The goal was a reliable supply of test...
+> -- *[[DevelopmentOfTechniquesAndMeth_PML2253]]*
+
+> This EPA Environmental Research Laboratory project summary, based on work from 1978 through 1980, examines how increasing agricultural land use alters the [[Benthic Macroinvertebrates]] and fish communities of small streams in [[Central Indiana]]. Fourteen stream segments spanned a range from...
+> -- *[[EffectsOfAgricultureOnStreamFa_PML0846]]*
+
+> This progress report covers the second year (1995–1996) of a multidisciplinary grant at [[Arizona State University]] (ASU), initiated March 1, 1995 and run through the [[Environmental Fluid Dynamics Program]]. The initiative was designed to link researchers working on environmental transport...
+> -- *[[SecondYearProgressReportOnTheM_PML0803]]*
+
+> The document is a bundle of Federal Register materials dated December 19, 1994. Its centerpiece is the U.S. Fish and Wildlife Service (Service) final rule designating [[Critical Habitat]] for the threatened [[Delta Smelt]] (*Hypomesus transpacificus*) under the [[Endangered Species Act]] (ESA) in...
+> -- *[[TrimedSpecialtiesIncFilingOfPe_PML0758]]*
+
+> This [[Fish and Wildlife Service]] biological opinion, dated December 21, 1998, evaluates the proposed issuance of a [[NPDES Permit]] by the [[Environmental Protection Agency]] (EPA) to the privately owned [[Blue River Fish Hatchery]] in Greenlee County, Arizona. The consultation covers two listed...
+> -- *[[BiologicalOpinionSummaryBlueRi_PML2733]]*
+
+> This report (Part 2 of a three-part study, FWS/OBS-77/62, September 1977) evaluates the status, life history, and habitat requirements of the endangered and threatened fishes of the [[Upper Colorado River Basin]]. It was prepared by Ecology Consultants, Inc. with co-authors from Colorado State...
+> -- *[[AnEvaluationOfTheStatusLifeHis_PML1242]]*
+
 ### Mentioned In
 - [[DuesDonationsAndTheGreatestSym_1980_11_12]]
 - [[InterimFlowsForGlenCanyonDam_1991_03_06]]
@@ -18341,6 +24674,43 @@ The Environmental Protection Agency (EPA) serves as a critical federal regulator
 - [[DredgingUpDollarsForTheUpperMi_17467]]
 - [[BuyingAGilaMonster_19074]]
 - [[VoodooFishManagement_16338]]
+- [[EvaluationOfAFatheadMinnowPime_PML1355]]
+- [[NaturalVariationInAbundanceOfS_PML0950]]
+- [[FisheriesOfTheExclusiveEconomi_PML0789]]
+- [[NationalSurfaceWaterSurveyNati_PML1285]]
+- [[WareRiverIntensiveWatershedStu_PML0057]]
+- [[AClimatologyOfTemperatureAndPr_PML0662]]
+- [[PredictionOfEcologicalEffectsO_PML1338]]
+- [[DevelopmentOfTechniquesAndMeth_PML2253]]
+- [[EffectsOfAgricultureOnStreamFa_PML0846]]
+- [[SecondYearProgressReportOnTheM_PML0803]]
+- [[TrimedSpecialtiesIncFilingOfPe_PML0758]]
+- [[BiologicalOpinionSummaryBlueRi_PML2733]]
+- [[AnEvaluationOfTheStatusLifeHis_PML1242]]
+
+## Environmental Protection Agency Region 5
+
+### Summary
+EPA Region 5 is the regional office covering the North Central United States, which includes Ohio. The source places its study area within this region and notes that the ERAPT fish database covers fishes of this region.
+
+### Context
+> This EPA Project Summary (EPA/600/S3-86/019, April 1986) describes the [[Environmental Requirements and Pollution Tolerance]] (ERAPT) system, a computerized retrieval and analysis tool for environmental information on aquatic organisms. The system predicts environmental conditions from the...
+> -- *[[AComputerizedSystemForTheEvalu_PML0533]]*
+
+### Mentioned In
+- [[AComputerizedSystemForTheEvalu_PML0533]]
+
+## Environmental Requirements and Pollution Tolerance
+
+### Summary
+ERAPT is a computerized system described in this EPA project summary for retrieving and analyzing environmental requirements and pollution tolerance data for aquatic organisms. It predicts habitat conditions from the organisms present and flags possible identification or data errors. The source reports it was validated against Ohio field survey data with a 95% successful prediction rate.
+
+### Context
+> This EPA Project Summary (EPA/600/S3-86/019, April 1986) describes the [[Environmental Requirements and Pollution Tolerance]] (ERAPT) system, a computerized retrieval and analysis tool for environmental information on aquatic organisms. The system predicts environmental conditions from the...
+> -- *[[AComputerizedSystemForTheEvalu_PML0533]]*
+
+### Mentioned In
+- [[AComputerizedSystemForTheEvalu_PML0533]]
 
 ## Environmental Research Laboratory
 
@@ -18351,8 +24721,84 @@ The Environmental Research Laboratory of the University of Arizona was one of th
 > This field report documents the first comprehensive biological and hydrological survey of [[Cienega de Santa Clara]], a wetland in the [[Colorado River Delta]] in northwestern [[Sonora]], [[Mexico]], conducted October 13-18, 1992. The multi-institutional team assessed fish populations, avifauna,...
 > -- *[[FieldReportNoStudyOfCienegaDeS_16073]]*
 
+> This EPA Project Summary (EPA-600/S3-84-099, December 1984) announces the [[ORD Guidelines]] for deriving [[Site-Specific Water Quality Criteria]] by modifying [[National Water Quality Criteria]]. The guidelines were produced by the Office of Research and Development (ORD) and authored by Anthony...
+> -- *[[GuidelinesForDerivingNumerical_PML0364]]*
+
+> This EPA Project Summary (EPA-600/S3-84-017, March 1984) reports a multi-year survey of [[Larval Fish]] distribution, abundance and [[Entrainment]] by steam-generating power plants in the [[Western Basin]] and [[Central Basin]] of [[Lake Erie]]. Conducted by researchers at The Ohio State University...
+> -- *[[DistributionAbundanceAndEntrai_PML0494]]*
+
+> This EPA Environmental Research Laboratory project summary, prepared by J. Hesson and J. K. Robertson of the [[United States Military Academy]] Science Research Laboratory, tests whether the [[Water Quality Assessment Methodology]] (WOAM) can screen nonpoint-source pollution in a small, mostly...
+> -- *[[ApplicationOfWaterQualityModel_PML1049]]*
+
+> This [[Environmental Protection Agency]] project summary, prepared by the [[Environmental Research Laboratory]] in Athens, Georgia (EPA-600/S3-83-084, November 1983), presents a strategy for modeling aquatic ecosystems so that the effects of toxic chemicals on [[Element Cycling]] and other...
+> -- *[[PredictionOfEcologicalEffectsO_PML1338]]*
+
+> This EPA Project Summary (EPA/600/S3-89/01, August 1989) describes a [[Data Acquisition And Control System]] (DAC) built to automate physiological measurements and sample control in [[Rainbow Trout]] (*Salmo gairdneri*) exposed to lethal concentrations of toxicants. A microcomputer running...
+> -- *[[AnAutomatedMonitoringSystemFor_PML0365]]*
+
+> This EPA Project Summary describes the [[Quality Assurance Program]] for the Phase I synoptic chemistry component of the [[Western Lake Survey]] (WLS-I), part of the [[National Surface Water Survey]]. The survey was built to assess the effects of acidic deposition on lake water chemistry in the...
+> -- *[[NationalSurfaceWaterSurveyWest_PML2365]]*
+
+> This U.S. Environmental Protection Agency (EPA) document, prepared by the [[Environmental Research Laboratory]] in Duluth, Minnesota, revises the national aquatic life criteria for [[Chloride]] in freshwater. It was issued under Section 304(a)(1) of the [[Clean Water Act]] as a non-regulatory...
+> -- *[[AmbientWaterQualityCriteriaFor_PML0687]]*
+
+> This U.S. Environmental Protection Agency (EPA) document, produced by the [[Environmental Research Laboratory]] in Duluth, Minnesota and Narragansett, Rhode Island, revises the national aquatic life criteria for [[Arsenic]] under Section 304(a) of the [[Clean Water Act]]. It compiles acute and...
+> -- *[[AmbientWaterQualityCriteriaFor_PML2611]]*
+
 ### Mentioned In
 - [[FieldReportNoStudyOfCienegaDeS_16073]]
+- [[GuidelinesForDerivingNumerical_PML0364]]
+- [[DistributionAbundanceAndEntrai_PML0494]]
+- [[ApplicationOfWaterQualityModel_PML1049]]
+- [[PredictionOfEcologicalEffectsO_PML1338]]
+- [[AnAutomatedMonitoringSystemFor_PML0365]]
+- [[NationalSurfaceWaterSurveyWest_PML2365]]
+- [[AmbientWaterQualityCriteriaFor_PML0687]]
+- [[AmbientWaterQualityCriteriaFor_PML2611]]
+
+## Environmental Research Laboratory - Duluth
+
+### Summary
+The EPA laboratory in Duluth, Minnesota, where fathead minnows have been cultured for toxicity testing since 1967. This source was prepared there and describes the culture system the lab uses to supply embryos, larvae, and juveniles for research.
+
+### Context
+> This EPA Project Summary, prepared by [[Environmental Research Laboratory - Duluth]] (ERL-D) in Duluth, Minnesota, sets out the conditions and procedures used to culture research-quality [[Fathead Minnow]] embryos, larvae, juveniles, and adults for [[Toxicity Testing]]. The culture system has...
+> -- *[[GuidelinesForTheCultureOfPimep_PML0565]]*
+
+### Mentioned In
+- [[GuidelinesForTheCultureOfPimep_PML0565]]
+
+## Environmental Research Laboratory Duluth
+
+### Summary
+The U.S. EPA laboratory in Duluth, Minnesota, that conducted this evaluation as part of a larger multi-laboratory study. It produced the report EPA-600/3-83-062 in 1983.
+
+### Context
+> This EPA Project Summary reports an evaluation of a proposed standard [[Embryo-Larval Test]] protocol for the [[Fathead Minnow]] (*[[Pimephales Promelas]]*). Four [[Flow-Through Bioassay]] tests were run, two each with [[Acenaphthene]] and [[Isophorone]]. The protocol was judged workable, with one...
+> -- *[[EvaluationOfAFatheadMinnowPime_PML1355]]*
+
+### Mentioned In
+- [[EvaluationOfAFatheadMinnowPime_PML1355]]
+
+## Environmental Resistance
+
+### Summary
+The view that abiotic conditions, rather than biological interactions, set the limits on invasion and establishment. The paper presents it as an alternative explanation to biotic resistance for nonnative fish distributions.
+
+### Context
+> This study tests whether [[Ecological Niche Theory]] combined with the [[Winemiller-Rose Model]] of [[Life-History Strategies]] can explain long-term patterns of nonnative fish spread and native fish range contraction in the [[Colorado River Basin]] over roughly 150 years. The authors compiled 22...
+> -- *[[LifehistoryStrategiesPredictFi_PML2044]]*
+
+> This study tests whether [[Ecological Niche Theory]] combined with the [[Winemiller and Rose Model]] of fish [[Life-History Theory]] can explain long-term patterns of nonnative fish spread and native fish range contraction in the [[Colorado River Basin]] over roughly 150 years. The authors compiled...
+> -- *[[LifehistoryStrategiesPredictFi_PML2045]]*
+
+> This USDA Forest Service Rocky Mountain Research Station monograph (General Technical Report RMRS-GTR-174, September 2006) reviews the tradeoff managers face when using [[Movement Barriers]] to keep [[Nonnative Salmonids]] out of native salmonid habitat. Native salmonids are increasingly confined...
+> -- *[[StrategiesForConservingNativeS_PML0711]]*
+
+### Mentioned In
+- [[LifehistoryStrategiesPredictFi_PML2044]]
+- [[LifehistoryStrategiesPredictFi_PML2045]]
+- [[StrategiesForConservingNativeS_PML0711]]
 
 ## Environmental Science Center
 
@@ -18365,6 +24811,18 @@ A facility about 15 miles from Tulane's campus, on the west bank of the Mississi
 
 ### Mentioned In
 - [[TypeSpecimensOfFishesInTheTula_15049]]
+
+## Environmental Sciences Section
+
+### Summary
+The unit of the E&R Center that conducted the Parker I fishery study, per this source. It carried out the field sampling and data collection described in the 1986 memorandum.
+
+### Context
+> This Bureau of Reclamation memorandum (Applied Sciences Referral No. 86-2-2, dated March 20, 1986) summarizes the first two sampling trips (October 1985 and December 1985) of the [[Parker I Fishery Study]] on the highly modified [[Lower Colorado River]]. The study collected quantitative...
+> -- *[[ParkerIFisheryStudyDataSummary_PML1052]]*
+
+### Mentioned In
+- [[ParkerIFisheryStudyDataSummary_PML1052]]
 
 ## Environmental Sex Determination
 
@@ -18385,8 +24843,24 @@ A process in which environmental conditions, such as temperature, rather than ge
 > 1. **Species status (1991)**: Bonytail chub is virtually extirpated in the wild except for an aging (~50-year-old) remnant population in Lake Mojave. Razorback sucker shows documented spawning but no successful recruitment; only ~1,000 old individuals remain in the Green River, with Lake Mojave f...
 > -- *[[SummaryOfPopulationViabilityAn_1991_03_26]]*
 
+> This theoretical population biology paper derives stochastic versions of single-species, discrete-generation population models with first-order density feedback. It separates [[Demographic Stochasticity]] from [[Environmental Stochasticity]] and shows that the form of the variance depends on the...
+> -- *[[StochasticAnaloguesOfDetermini_PML2467]]*
+
 ### Mentioned In
 - [[SummaryOfPopulationViabilityAn_1991_03_26]]
+- [[StochasticAnaloguesOfDetermini_PML2467]]
+
+## Environmental Variance
+
+### Summary
+Environmental variance is the temporal variability in population growth rate λ. The source states that higher variance lowers the geometric mean growth rate, which governs long-term persistence, even when the arithmetic mean exceeds 1. Small populations therefore face a greater chance of extinction.
+
+### Context
+> This note covers chapters 1 and 2 of [[An Illustrated Guide to Theoretical Ecology]] by Ted J. Case (Oxford University Press, 2000), together with the publisher's errata list. The chapters develop the mathematics of unrestricted population growth in discrete and continuous time, then extend the...
+> -- *[[AnIllustratedGuideToTheoretica_PML0391]]*
+
+### Mentioned In
+- [[AnIllustratedGuideToTheoretica_PML0391]]
 
 ## Environmentally Cued Polymorphism
 
@@ -18412,11 +24886,35 @@ A Caspian coastal lagoon in northern Iran where the source reports major Grass C
 ### Mentioned In
 - [[ExoticFishSpeciesInTheFreshWat_15972]]
 
+## Enzyme Immunoassay
+
+### Summary
+An antibody-based laboratory test that detects specific proteins, here used as an antigen-capture enzyme immunoassay (EIA) to detect mosquito larval prey antigen in predator guts. The source reports it reliably detected nanogram amounts of larval protein and agreed with known feeding histories in a blind field trial.
+
+### Context
+> This study tests whether an [[Enzyme Immunoassay]] (EIA) based on antigen capture can detect mosquito larval prey in the guts of aquatic insect predators. The work targets predators from rice fields in California's Central Valley, namely [[Notonectidae]], [[Belostomatidae]] and [[Coenagrionidae]],...
+> -- *[[EvaluationOfPredatorpreyRelati_PML2307]]*
+
+### Mentioned In
+- [[EvaluationOfPredatorpreyRelati_PML2307]]
+
 ## Enzyme Polymorphism
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[LactateDehydrogenaseLdhIsozyme_1978]]
+
+## Enzyme Studies
+
+### Summary
+Enzyme studies examine the proteins that catalyze biochemical reactions in tissues. This memo lists enzyme work as a goal of the salvage, because enzyme quality depends on keeping tissue frozen and minimizing thawing. The document does not report any enzyme results.
+
+### Context
+> This internal memorandum, dated 14 September 1993, from the [[Gila Taxonomy Project]] at the [[National Museum Of Natural History]] sets out a plan to salvage frozen tissue from Mohave bonytail specimens. The tissue is held at Dexter and at [[Arizona State University]]. Gary Carmichael and Jim...
+> -- *[[SalvageOfBonytailTissues_PML2440]]*
+
+### Mentioned In
+- [[SalvageOfBonytailTissues_PML2440]]
 
 ## Enzyme-Linked Immunosorbent Assay
 
@@ -18520,6 +25018,30 @@ The Environmental Protection Agency's pesticide program accounted for 169 of the
 - [[ForConservingListedSpeciesTalk_15635]]
 - [[AdverseBiologicalOpinionIndian_15638]]
 
+## EPA Action Levels
+
+### Summary
+Federal contaminant thresholds for fish flesh used as a benchmark in this study. No measured value in the tilapia samples exceeded the EPA action levels or the related National Academy guidelines cited by the authors.
+
+### Context
+> This 1985–1986 final report from the [[University of Arizona]] (School of Renewable Natural Resources) assesses whether [[Tilapia]] populations in the lower [[Colorado River]] area near Yuma, Arizona, could support a commercial fishery. Contaminant levels in fish flesh were judged the...
+> -- *[[EvaluationOfThePotentialOfTila_PML1605]]*
+
+### Mentioned In
+- [[EvaluationOfThePotentialOfTila_PML1605]]
+
+## EPA Acute Toxicity Test Methods
+
+### Summary
+These are the standard EPA procedures for short-term acute toxicity testing of aquatic organisms, which the authors followed along with ASTM (1988) methods. In this study, they meant static 96-hour exposures in 15 L glass jars at six concentrations, with three replicates and 10 fish per replicate. The results were used to estimate LC50 values for each chemical and species.
+
+### Context
+> This U.S. EPA-funded final report, prepared by the [[National Biological Service]] Midwest Science Center, tests whether the standard surrogate species used in aquatic toxicity assessments, [[Rainbow Trout]] (coldwater) and [[Fathead Minnow]] (warmwater), adequately protect federally listed fishes....
+> -- *[[UseOfSurrogateSpeciesInAssessi_PML0646]]*
+
+### Mentioned In
+- [[UseOfSurrogateSpeciesInAssessi_PML0646]]
+
 ## EPA Baseline Survey
 
 ### Summary
@@ -18544,6 +25066,18 @@ U.S. Environmental Protection Agency water quality benchmarks for protecting fre
 ### Mentioned In
 - [[LimnologyOfAPrairieReservoirAN_11701]]
 
+## EPA Monticello Field Station
+
+### Summary
+The EPA Monticello Field Station is a U.S. Environmental Protection Agency research facility in Monticello, Minnesota. According to the source, it is where the experimental stream channels were built and where the automated radio-tracking system was field tested with walleyes.
+
+### Context
+> This EPA project summary describes the development and field testing of an automated radio-telemetry system, the [[Monticello Remote Sensing System]] (MRSS), for tracking fish in outdoor [[Experimental Channels]] at the [[EPA Monticello Field Station]] in Minnesota. The system uses a...
+> -- *[[AutomaticRadioTrackingOfFishIn_PML1302]]*
+
+### Mentioned In
+- [[AutomaticRadioTrackingOfFishIn_PML1302]]
+
 ## EPA National Eutrophication Survey
 
 ### Summary
@@ -18555,6 +25089,18 @@ A 1975 EPA survey that assessed nutrient enrichment in lakes and reservoirs. The
 
 ### Mentioned In
 - [[LimnologyOfTheUpperNorthPlatte_20516]]
+
+## EPA Priority Pollutant Monitoring
+
+### Summary
+An EPA-linked monitoring approach for toxic pollutants in fish tissue. The authors said their sampling design followed it, together with the U.S. Fish and Wildlife Service Resource Contaminant Assessment method.
+
+### Context
+> This 1985–1986 final report from the [[University of Arizona]] (School of Renewable Natural Resources) assesses whether [[Tilapia]] populations in the lower [[Colorado River]] area near Yuma, Arizona, could support a commercial fishery. Contaminant levels in fish flesh were judged the...
+> -- *[[EvaluationOfThePotentialOfTila_PML1605]]*
+
+### Mentioned In
+- [[EvaluationOfThePotentialOfTila_PML1605]]
 
 ## Epa Priority Pollutant Monitoring Program
 <!-- fm: auto_enriched: true -->
@@ -18707,6 +25253,18 @@ Ephemera vulgata is one of the three British Ephemera mayflies. In this paper it
 - [[AComparisonOfTheNymphsOfTheBri_19285]]
 - [[AKeyToTheNymphsOfTheBritishSpe_19290]]
 
+## Ephemeral Backwaters
+
+### Summary
+Temporary pools in Lake Mohave that filled as the reservoir rose in late winter and spring and dried as levels fell in fall. The source says the NFWG used these in 1994 because they gave fish enough water to grow through the season, allowed harvest during the drawdown, and dried out to remove non-native fish and limit visitor access.
+
+### Context
+> This document is a faxed progress report (15 pages, Lower Colorado Region, [[Bureau Of Reclamation]]) from the [[Native Fish Work Group]] (NFWG) describing efforts to rescue the aging adult population of [[Razorback Sucker]] in [[Lake Mohave]]. The group rears wild-collected larvae and juveniles in...
+> -- *[[LakeMohaveRazorbackSuckerReari_PML0331]]*
+
+### Mentioned In
+- [[LakeMohaveRazorbackSuckerReari_PML0331]]
+
 ## Ephemeral Crustaceans
 
 ### Summary
@@ -18756,8 +25314,12 @@ Shallow, temporary lake basins that fill after rain and dry out, common on the L
 > - **Habitat**: Both species occupy [[Lake Mohave]], a reservoir on the Colorado River, with adult RBS showing strong shoreline affinity — typically remaining within 100 meters of shore despite large home ranges. - **Movement Ecology**: - Adult RBS exhibited high mobility, with one individual trav...
 > -- *[[MinutesToNativeFishWorkGroupMe_19039]]*
 
+> This memorandum from the [[Willow Beach National Fish Hatchery]] records a coordination meeting held on December 5, 1995, between the [[U.S. Fish and Wildlife Service]] (FWS) and the [[Bureau of Reclamation]] (BOR). The meeting set the FY-1996 plan for rearing [[Razorback Sucker]] (RBS) and...
+> -- *[[FyNativeFishRearingCoordinatio_PML2722]]*
+
 ### Mentioned In
 - [[MinutesToNativeFishWorkGroupMe_19039]]
+- [[FyNativeFishRearingCoordinatio_PML2722]]
 
 ## Ephemeral Pool Breeding
 <!-- fm: auto_enriched: true -->
@@ -18809,11 +25371,15 @@ Streams that carry water only during spring snowmelt (roughly February to June, 
 > This paper tests a simple [[Ordination Method]] for assessing stressed benthic macroinvertebrate communities in the [[New River]] near [[Pearisburg Virginia]], downstream of a [[Synthetic Fibers Plant]]. The method plots total numbers of specimens against total numbers of taxa, treating standing...
 > -- *[[AssessmentOfAStressedMacroinve_20426]]*
 
+> This Wildlife Monographs issue (September 1963, No. 11) is W. L. [[Minckley]]'s comprehensive study of Doe Run, a limestone spring stream in Meade County, Kentucky, that drains directly to the [[Ohio River]]. Sponsored jointly by the [[United States Atomic Energy Commission]] and the [[University...
+> -- *[[TheEcologyOfASpringStreamDoeRu_PML1812]]*
+
 ### Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[SomeEffectsOfRotenoneTreatment_1969]]
 - [[FilterfeedingInsectDistributio_18115]]
 - [[AssessmentOfAStressedMacroinve_20426]]
+- [[TheEcologyOfASpringStreamDoeRu_PML1812]]
 
 ## Ephemerella Doddsi
 
@@ -18827,9 +25393,13 @@ A mayfly species (family Ephemerellidae) that was sampled in Nash Fork Creek. It
 > This study proposes a classification of small streams in [[Idaho]] for use in a [[Natural Areas]] programme. It describes five stream types: [[Ephemeral Streams]], [[Spring Streams]], and three types of [[Permanent Streams]] ([[Type 1 Streams]], [[Type 2 Streams]], [[Type 3 Streams]]). Types are...
 > -- *[[StreamTypesInIdahoAnApproachTo_20533]]*
 
+> This U.S. Forest Service report, prepared under contract for the [[Intermountain Region]] by [[Robert N. Winget]] (Brigham Young University) and [[Fred A. Mangum]] (Uinta National Forest), presents the **[[Biotic Condition Index]] (BCI)**, a stream-management tool that combines aquatic...
+> -- *[[BioticConditionIndexIntegrated_PML2913]]*
+
 ### Mentioned In
 - [[SomeEffectsOfSpringSnowmeltRun_11294]]
 - [[StreamTypesInIdahoAnApproachTo_20533]]
+- [[BioticConditionIndexIntegrated_PML2913]]
 
 ## Ephemerella Grandis
 <!-- fm: auto_enriched: true -->
@@ -18841,9 +25411,13 @@ A mayfly species (family Ephemerellidae) that was sampled in Nash Fork Creek. It
 > This one-year study (June 1972 to May 1973) by [[James V. Ward]] examined the [[South Platte River]] below [[Cheesman Dam]] in Colorado. Water released from the [[Hypolimnial Release]] outlet of [[Cheesman Lake]] made the river warmer in winter, cooler in summer, less variable in temperature, and...
 > -- *[[ATemperaturestressedEcosystemB_14874]]*
 
+> This U.S. Forest Service report, prepared under contract for the [[Intermountain Region]] by [[Robert N. Winget]] (Brigham Young University) and [[Fred A. Mangum]] (Uinta National Forest), presents the **[[Biotic Condition Index]] (BCI)**, a stream-management tool that combines aquatic...
+> -- *[[BioticConditionIndexIntegrated_PML2913]]*
+
 ### Mentioned In
 - [[EffectsOfThermalConstancyAndSe_1976]]
 - [[ATemperaturestressedEcosystemB_14874]]
+- [[BioticConditionIndexIntegrated_PML2913]]
 
 ## Ephemerella Ignita
 
@@ -19010,6 +25584,21 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 > This study examines the diet of the [[Southern Channel Catfish]] (*Ictalurus lacustris punctatus*) in a short reach of the [[Des Moines River]] in Iowa. Stomachs from 912 fish (769 containing food) were collected from September 1940 to October 1941 and analyzed by volume, frequency of occurrence,...
 > -- *[[FoodHabitsOfTheSouthernChannel_17255]]*
 
+> This study examines the diet, feeding behavior, size structure and reproductive condition of the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a small cyprinid fish endemic to the [[Colorado River Basin]] in eastern Arizona. Field collections from [[Nutrioso Creek]] were combined with...
+> -- *[[SeasonalDietOfLittleColoradoSp_PML2272]]*
+
+> This EPA Project Summary (EPA/600/S3-86/019, April 1986) describes the [[Environmental Requirements and Pollution Tolerance]] (ERAPT) system, a computerized retrieval and analysis tool for environmental information on aquatic organisms. The system predicts environmental conditions from the...
+> -- *[[AComputerizedSystemForTheEvalu_PML0533]]*
+
+> This study measured the effects of a [[Flash Flood]] on a 122 m reach of the [[North Fork Cave Creek]] in the [[Chiricahua Mountains]] (Chihuahuan Desert, Arizona). Substrate, [[Organic Detritus]], and aquatic animal richness and abundance were sampled 8 to 16 days before and within 7 days after a...
+> -- *[[BioticAndAbioticEffectsOfFlash_PML1390]]*
+
+> This 1978 Master of Science thesis by Donald Clifford Schreiber, from Arizona State University, examines the food habits of seven native fish species in [[Aravaipa Creek]], Arizona, sampled over a one-year period (1975–76). Food availability was estimated from benthic invertebrate samples and...
+> -- *[[FeedingInterrelationshipsOfFis_PML2355]]*
+
+> This M.S. thesis (August 1976) describes the life history of an isolated population of the [[Roundtail Chub]], [[Gila Robusta Grahami]], in the headwaters of [[Fossil Creek]], a spring-fed tributary of the [[Verde River]] in central Arizona. The study combined monthly collections (540 specimens...
+> -- *[[LifeHistoryOfTheRoundtailChubG_PML2014]]*
+
 ### Mentioned In
 - [[AListOfTheMayfliesEphemeropter_1970]]
 - [[ComparativeEcologyOfNotropisAl_14679]]
@@ -19048,6 +25637,23 @@ Ephemeroptera, commonly known as mayflies, is an order of aquatic insects whose 
 - [[BerichtUverDieWanderversammlun_20486]]
 - [[ThePlecopteraOfAHeadwaterStrea_16505]]
 - [[FoodHabitsOfTheSouthernChannel_17255]]
+- [[SeasonalDietOfLittleColoradoSp_PML2272]]
+- [[AComputerizedSystemForTheEvalu_PML0533]]
+- [[BioticAndAbioticEffectsOfFlash_PML1390]]
+- [[FeedingInterrelationshipsOfFis_PML2355]]
+- [[LifeHistoryOfTheRoundtailChubG_PML2014]]
+
+## Ephemeropteran
+
+### Summary
+Ephemeropterans are mayflies, aquatic insect larvae that serve as prey for fish. In this source, fish 6–10 cm long ate more ephemeropterans than fish 15 cm and larger, and seasonal prey use shifted with availability.
+
+### Context
+> This study by Ken C. Harper of the [[White Mountain Apache Tribe]] Division of Wildlife and Natural Resources examines the life history, reproduction, growth, diet, and population structure of [[Arizona Trout]] (*[[Salmo Apache]]*), an endangered native salmonid of Arizona and New Mexico. Field...
+> -- *[[BiologyOfASouthwesternSalmonid_PML0991]]*
+
+### Mentioned In
+- [[BiologyOfASouthwesternSalmonid_PML0991]]
 
 ## Ephippium
 <!-- fm: auto_enriched: true -->
@@ -19136,6 +25742,18 @@ Epiboly is the spreading of the blastoderm over the yolk, described in the sourc
 - [[TheCellularBasisOfFundulusEpib_13400]]
 - [[SomeEffectsOfXirradiationOfDif_12144]]
 
+## Epiconcretic Algae
+
+### Summary
+Epiconcretic algae are algae that grow attached to concrete surfaces. In this study of the Arizona Canal, they were chiefly Cladophora glomerata plus an attached diatom assemblage, and their community was strongly autotrophic (mean PG/R 2.84), making them a main primary producer on the canal's concrete sidewalls and floor.
+
+### Context
+> This study measures whole-ecosystem metabolism in the [[Arizona Canal]], a concrete-lined irrigation canal in central Arizona, using diel changes in [[Dissolved Oxygen]] over a 12-km reach (stations A to E). Measurements were taken in June, July, September and November 1983. The canal behaves as a...
+> -- *[[MetabolismOfAnAridRegionCanalE_PML1438]]*
+
+### Mentioned In
+- [[MetabolismOfAnAridRegionCanalE_PML1438]]
+
 ## Epicordulia Princeps
 <!-- fm: auto_enriched: true -->
 
@@ -19213,6 +25831,9 @@ The idea that epidermal cells contribute to the formation of dermal structures s
 > This study used bottom trawling where the [[Thermocline]] met the lake bottom near Grand Haven, Michigan, to compare the thermal distribution of fishes in [[Lake Michigan]] between 1977 and 1979. Between the two surveys, the native [[Bloater]] (*Coregonus hoyi*) rose from less than 1% to about 42%...
 > -- *[[ThermalHabitatShiftsByFishesAt_18075]]*
 
+> This study examines larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], Arizona-Nevada. The lake's adult population is large and old, with no evidence of recruitment for several decades. Adults still spawn successfully and produce larvae, but few larvae were found in open water,...
+> -- *[[LarvalRazorbackSuckerXyrauchen_PML1322]]*
+
 ### Mentioned In
 - [[PotentialUseOfHydroelectricFac_11245]]
 - [[TheLimnologyPrimaryProductionA_14690]]
@@ -19221,6 +25842,19 @@ The idea that epidermal cells contribute to the formation of dermal structures s
 - [[ArtificialDestratificationOfEl_16318]]
 - [[ToxapheneChlorinatedCampheneAs_18891]]
 - [[ThermalHabitatShiftsByFishesAt_18075]]
+- [[LarvalRazorbackSuckerXyrauchen_PML1322]]
+
+## Epilithic Periphyton
+
+### Summary
+Epilithic periphyton is the community of algae and microorganisms that grows attached to rocks in the water. In this source it is named as a component of the tailwater food base that may be affected by daily flow fluctuation and release withdrawal regimes from Glen Canyon Dam.
+
+### Context
+> This Arizona Game and Fish Department draft final report (March 1995) describes physical-chemical conditions and zooplankton density and composition in the [[Lake Powell]] forebay and the [[Glen Canyon Dam]] tailwater to [[Lee's Ferry]] (about 25 km downstream). Sampling covered the [[Interim Flow...
+> -- *[[WaterChemistryAndZooplanktonIn_PML0077]]*
+
+### Mentioned In
+- [[WaterChemistryAndZooplanktonIn_PML0077]]
 
 ## Epilithon
 
@@ -19293,6 +25927,18 @@ The epiphysial bar is a cartilaginous bar in the orbitotemporal region of the ch
 
 ### Mentioned In
 - [[DevelopmentOfTheSkullOfCatfish_14691]]
+
+## Epiphytic Diatoms
+
+### Summary
+Epiphytic diatoms are single-celled algae that grow attached to surfaces such as Cladophora filaments. This review reports that diatoms on Cladophora shifted within two weeks of exposure to warmer water: at 18 and 21 °C the species were smaller and grew closer to the substrate, replacing larger upright, light-shielding forms common in cold tailwaters. The shift threshold lay between 12 and 18 °C, and because grazers prefer upright diatoms, the change could affect macroinvertebrates below the dam.
+
+### Context
+> This draft literature review, prepared by Richard A. Lechleitner, assesses how water temperature governs the survival, growth, reproduction and life cycles of organisms in the [[Colorado River]] below [[Glen Canyon Dam]] and in the [[Grand Canyon]]. The dam releases cold water from the hypolimnion...
+> -- *[[LiteratureReviewOfTheThermalRe_PML1352]]*
+
+### Mentioned In
+- [[LiteratureReviewOfTheThermalRe_PML1352]]
 
 ## Epiphytic Orchid Water Relations
 <!-- fm: auto_enriched: true -->
@@ -19377,6 +26023,18 @@ Epischura nevadensis is a pelagic calanoid copepod, a small crustacean zooplankt
 ### Mentioned In
 - [[TheFoodAndTheFoodSupplyOfSocke_16846]]
 
+## Episodes Pilot Survey
+
+### Summary
+The Episodes Pilot Survey was a component of the National Stream Survey that ran on a subset of Phase I streams and sampled during rain events instead of routine conditions. Its aims were a preliminary look at the frequency, duration, and character of storm episodes in the mid-Atlantic and an evaluation of sampling designs. Only nine episode streams were sampled during six rain events because of an unusually dry spring.
+
+### Context
+> This U.S. Environmental Protection Agency (EPA) Project Summary, published September 1988 as EPA/600/S4-88/023, reports field operations of the [[National Stream Survey]] (NSS). The NSS was a synoptic chemical survey of streams in the [[Mid-Atlantic Region]] and southeastern United States that were...
+> -- *[[NationalStreamSurveyPhaseIFiel_PML0943]]*
+
+### Mentioned In
+- [[NationalStreamSurveyPhaseIFiel_PML0943]]
+
 ## Episodic Response Project
 
 ### Summary
@@ -19447,6 +26105,18 @@ Epithelantha micromeris is a small button cactus of the Chihuahuan Desert. This 
 ### Mentioned In
 - [[VegetationAndFloraOfTheBolsonO_11096]]
 
+## Epithelioma Papulosum Cyprini
+
+### Summary
+Epithelioma papulosum cyprini (EPC) is a fish cell line used to grow viruses in the laboratory. In this study, virus recovered from the positive largemouth bass grew in EPC cell culture, which confirmed that the infection was live at day 10.
+
+### Context
+> This short communication examines whether [[Ranavirus]] strains carried by the [[Tiger Salamander]] bait trade can infect freshwater sport fish, using [[Largemouth Bass]] as the test host. Wildlife trade moves pathogens out of their native ranges, a process termed [[Pathogen Pollution]]. In a...
+> -- *[[PathogenHostSwitchingInCommerc_PML2126]]*
+
+### Mentioned In
+- [[PathogenHostSwitchingInCommerc_PML2126]]
+
 ## Epithemia sorex
 
 ### Summary
@@ -19482,6 +26152,18 @@ Epizoanthus gabrieli is a very small zoanthid (soft coral) with many fine banded
 
 ### Mentioned In
 - [[AFieldGuideToSomeOfTheInverteb_11179]]
+
+## Epizootic Haematopoietic Necrosis Virus
+
+### Summary
+A viral disease of fish. The source lists diseases, including this virus, among the eight key threats to native fish in the Basin, but gives no further detail about its impacts.
+
+### Context
+> The [[Native Fish Strategy]] is a ten-year framework, published by the [[Murray-Darling Basin Commission]] (MDBC) in May 2003, for rehabilitating native fish communities across the [[Murray-Darling Basin]]. Its overall goal is to return native fish populations to **60 per cent of estimated...
+> -- *[[NativeFishStrategyForTheMurray_PML1988]]*
+
+### Mentioned In
+- [[NativeFishStrategyForTheMurray_PML1988]]
 
 ## Epizootic Mortality
 
@@ -19574,6 +26256,18 @@ Eptatretus stouti, cited in the source as Bdellostoma stouti, is a hagfish. The 
 ### Mentioned In
 - [[ANewGenusOfTheFamilyVespertili_1931_04_21]]
 
+## Eptindex
+
+### Summary
+A macroinvertebrate-based metric that the researchers planned to use to report the processed invertebrate samples from the study. The source does not give its calculation or results.
+
+### Context
+> This note summarizes a forwarded email thread and an attached research summary on the effects of the [[Picture Fire]] on fishes and stream habitat in the Tonto National Forest, Arizona. The fire burned approximately 12,500 acres between 6/17/2003 and 6/26/2003. Researchers from the [[Rocky Mountain...
+> -- *[[EffectsOfWildfireOnFishesAndAq_PML2229]]*
+
+### Mentioned In
+- [[EffectsOfWildfireOnFishesAndAq_PML2229]]
+
 ## Equatorial Counter-Current
 <!-- fm: auto_enriched: true -->
 
@@ -19650,6 +26344,22 @@ The equilibrium hypothesis holds that deterministic processes such as competitio
 ### Mentioned In
 - [[AssemblageStructuresOfSmallCry_19258]]
 
+## Equilibrium Strategy
+
+### Summary
+One endpoint of the Winemiller-Rose model, describing fishes of moderate size and maturation age that have low fecundity but high juvenile survival through parental care and live in constant environments. Bullheads, channel catfish and smallmouth bass are examples of nonnatives in this group in the study.
+
+### Context
+> This study tests whether [[Ecological Niche Theory]] combined with the [[Winemiller-Rose Model]] of [[Life-History Strategies]] can explain long-term patterns of nonnative fish spread and native fish range contraction in the [[Colorado River Basin]] over roughly 150 years. The authors compiled 22...
+> -- *[[LifehistoryStrategiesPredictFi_PML2044]]*
+
+> This study tests whether [[Ecological Niche Theory]] combined with the [[Winemiller and Rose Model]] of fish [[Life-History Theory]] can explain long-term patterns of nonnative fish spread and native fish range contraction in the [[Colorado River Basin]] over roughly 150 years. The authors compiled...
+> -- *[[LifehistoryStrategiesPredictFi_PML2045]]*
+
+### Mentioned In
+- [[LifehistoryStrategiesPredictFi_PML2044]]
+- [[LifehistoryStrategiesPredictFi_PML2045]]
+
 ## Equilibrium Theory
 
 ### Summary
@@ -19686,6 +26396,18 @@ The name proposed by the authors for the disease caused by the rickettsial agent
 ### Mentioned In
 - [[TwomillionyearRecordOfDeuteriu_12118]]
 
+## Equisetum
+
+### Summary
+A genus of horsetail plants, which have jointed, hollow stems and grow in wet soil and along streams. In this source, Equisetum is one of the riparian plants that becomes prominent farther upstream in Hot Springs Canyon, alongside deergrass, seepwillow, and watercress.
+
+### Context
+> A February 2, 2000 field reconnaissance by [[Sally Stefferud]], [[Rob Clarkson]] (Bureau of Reclamation), and [[Paul Marsh]] (Arizona State University) assessed [[Hot Springs Canyon]] as a possible site for a fish barrier. The team hiked from the lower canyon upstream to a turnaround point near the...
+> -- *[[TripReportForHotSpringsCanyonF_PML2453]]*
+
+### Mentioned In
+- [[TripReportForHotSpringsCanyonF_PML2453]]
+
 ## Equisetum X ferrissii
 
 ### Summary
@@ -19697,6 +26419,30 @@ Equisetum X ferrissii (Ferris' horsetail) is a plant species found in dry marshe
 
 ### Mentioned In
 - [[TransitionMonitoringForRiparia_17903]]
+
+## Equivalence Testing
+
+### Summary
+A statistical approach that reverses the usual hypotheses, setting the null as a meaningful difference between groups and testing whether they are equivalent. It requires researchers to specify a minimum difference (Δ) in advance. The source presents it as a better alternative that, when properly applied, can keep the Type II error risk at 5% or less.
+
+### Context
+> This review argues that conservation decisions are often based on the mistaken belief that "no statistically significant difference between two groups means the groups are the same." The authors illustrate the problem with the listing debate over the [[Preble's Meadow Jumping Mouse]], a federally...
+> -- *[[StatisticalInferenceTypeIiErro_PML0289]]*
+
+### Mentioned In
+- [[StatisticalInferenceTypeIiErro_PML0289]]
+
+## Equivalent Adult Approach
+
+### Summary
+A method used in this study to translate larval entrainment losses into their likely effect on adult populations. The source says it was applied to yellow perch and emerald shiner, using enough 1975 and 1976 collection data to estimate the impact. The source does not give the calculation details or results beyond this.
+
+### Context
+> This EPA Project Summary (EPA-600/S3-84-017, March 1984) reports a multi-year survey of [[Larval Fish]] distribution, abundance and [[Entrainment]] by steam-generating power plants in the [[Western Basin]] and [[Central Basin]] of [[Lake Erie]]. Conducted by researchers at The Ohio State University...
+> -- *[[DistributionAbundanceAndEntrai_PML0494]]*
+
+### Mentioned In
+- [[DistributionAbundanceAndEntrai_PML0494]]
 
 ## Equivalent-Latitude Concept
 
@@ -20122,10 +26868,14 @@ Eric S. Gustafson is the author of this 1974 U.S. Fish and Wildlife Service tech
 > This 1975 final report to the U.S. Fish and Wildlife Service, prepared by [[Eric S. Gustafson]] and [[W. L. Minckley]] at the [[Lower Colorado River Basin Research Laboratory]], Arizona State University, covers the first-year task of a planned five-year life history study of the [[Razorback...
 > -- *[[EarlyDevelopmentAdultSexualDim_17842]]*
 
+> This study by [[William L. Minckley]] and [[Eric S. Gustafson]] (affiliated with [[Arizona State University]]) describes the embryonic, prolarval, postlarval, and early juvenile development of the [[Razorback Sucker]] (*Xyrauchen texanus*), a [[Catostomidae|catostomid]] native to the [[Colorado...
+> -- *[[EarlyDevelopmentOfTheRazorback_PML1876]]*
+
 ### Mentioned In
 - [[SexualDimorphismInTheAdultRazo_17843]]
 - [[ResearchProposalOutlineEffects_11729]]
 - [[EarlyDevelopmentAdultSexualDim_17842]]
+- [[EarlyDevelopmentOfTheRazorback_PML1876]]
 
 ## Eric Zugmayer
 
@@ -20241,6 +26991,9 @@ Ericymba buccata, commonly known as the silverjaw minnow, is a small cyprinid fi
 > This 1978 survey by Smith, Taylor and Grimshaw documents the fish fauna of the [[Raisin River]] drainage in southeastern Michigan. The basin has been heavily altered by industrial, urban and agricultural change. Sampling at 160 localities between June 15 and October 31, 1978 yielded 50,345...
 > -- *[[EcologicalSurveyOfFishesInTheR_21164]]*
 
+> This Copeia (1981, No. 1) document combines two papers. The main paper by Baker and Ross examines how eight co-occurring cyprinid minnows of the upper [[Black Creek]] system in southern Mississippi partition their resources. The authors find that spatial segregation, mainly by stream size, vertical...
+> -- *[[SpatialAndTemporalResourceUtil_PML0164]]*
+
 ### Mentioned In
 - [[AReassessmentOfTheDistribution_1980]]
 - [[TheAgeAndGrowthOfTheSilverjawM_14844]]
@@ -20248,6 +27001,7 @@ Ericymba buccata, commonly known as the silverjaw minnow, is a small cyprinid fi
 - [[TheFishesOfChampaignCountyIlli_12724]]
 - [[TheVisualCellsOfEricymbaBuccat_16572]]
 - [[EcologicalSurveyOfFishesInTheR_21164]]
+- [[SpatialAndTemporalResourceUtil_PML0164]]
 
 ## Erie
 
@@ -20315,6 +27069,18 @@ An arachnologist honored in the scientific name of Vejovis waeringi, which the s
 
 ### Mentioned In
 - [[NewScorpionsBelongingToTheEust_12055]]
+
+## Erimystax
+
+### Summary
+Erimystax is a genus of small cyprinid minnows, placed in the subgenus of Hybopsis that includes the Spotfin Chub. The source notes that morphological evidence links the Spotfin Chub to Erimystax, though its exact phylogenetic placement remains uncertain in the authors' view.
+
+### Context
+> This 1984 *Bulletin of the Alabama Museum of Natural History* paper by Robert E. Jenkins and Noel M. Burkhead provides the first detailed description of the [[Spotfin Chub]] (*Hybopsis monacha*), a small cyprinid endemic to the [[Tennessee River]] drainage. The species had a wide historical range...
+> -- *[[DescriptionBiologyAndDistribut_PML1174]]*
+
+### Mentioned In
+- [[DescriptionBiologyAndDistribut_PML1174]]
 
 ## Erimyzon
 <!-- fm: auto_enriched: true -->
@@ -20435,6 +27201,18 @@ Eriocheir sinensis, the Chinese mitten crab, breeds in the sea but travels far u
 
 ### Mentioned In
 - [[AKeyToTheBritishSpeciesSpecies_14576]]
+
+## Eriophorum Angustifolium
+
+### Summary
+Cotton-grass, a bog plant studied here as one of three species. Its oxygen release was confined to the first centimetre of the root tip, and the source suggests it is more sensitive to reducing conditions than Menyanthes trifoliata.
+
+### Context
+> This document is a freshwater-ecology study of how [[Bog Plants]] survive in waterlogged, oxygen-poor peat. It draws on [[Armstrong Model|Armstrong's]] work (1964, 1967) and a later review and response dated 23 January 1973. The core claim is that wetland plants pump [[Oxygen Diffusion|oxygen]]...
+> -- *[[FieldObservationsRelatingToThe_PML0070]]*
+
+### Mentioned In
+- [[FieldObservationsRelatingToThe_PML0070]]
 
 ## Eriopisa
 
@@ -20567,6 +27345,18 @@ Ernest C. Frank is one of the three authors of this 1975 USDA Forest Service Gen
 
 ### Mentioned In
 - [[AComprehensiveClassificationOf_17079]]
+
+## Ernest Lachner
+
+### Summary
+An ichthyologist named in the source as one of the key contributors to the bibliography's general and regional sections. The note does not describe his specific publications.
+
+### Context
+> This document is a state-by-state bibliography of ichthyological literature for the United States, produced by the [[Smithsonian Institution]]'s [[Division of Fishes]] at the [[National Museum of Natural History]] in Washington, D.C. The cover page is signed by Paul C. Marsh and states that it was...
+> -- *[[SelectedListOfPublicationsOnFi_PML0880]]*
+
+### Mentioned In
+- [[SelectedListOfPublicationsOnFi_PML0880]]
 
 ## Ernest Rousseau
 
@@ -20706,6 +27496,15 @@ Ernst Mayr was a leader in the Evolutionary Synthesis and made important concept
 > This 1978 *Herp Review* profile describes the herpetological research and teaching strength of the [[Department of Zoology]] at [[Arizona State University]] (ASU) in [[Tempe]], Arizona. It traces the university's institutional history from its founding as a territorial normal school in 1885 to its...
 > -- *[[HerpetologyAtArizonaStateUnive_18796]]*
 
+> This 1991 policy essay by [[Stephen J. O'Brien]] and [[Ernst Mayr]] argues that the [[Endangered Species Act]] (ESA) of 1973 is being misapplied because of unclear taxonomy and the treatment of hybrids. The authors examine four ESA-listed taxa, the [[Florida Panther]], [[Gray Wolf]], [[Red Wolf]],...
+> -- *[[BureaucraticMischiefRecognizin_PML2035]]*
+
+> This review by Thomas E. Dowling and Carol L. Secor, published in the *Annual Review of Ecology and Systematics* (1997), reassesses whether [[Hybridization]] and [[Introgression]] have meaningfully driven animal diversification. Plant evolutionists have long credited these processes with generating...
+> -- *[[TheRoleOfHybridizationAndIntro_PML0631]]*
+
+> This review by [[Rosamary Lowe]] (McConnell), of the East African Fisheries Research Organization, Jinja, Uganda, collates field observations from 1945 to 1966 on Tilapia species in East and Central Africa and compares them with published aquarium and field work from West Africa, the Congo and...
+> -- *[[BreedingBehaviourPatternsAndEc_PML1639]]*
+
 ### Mentioned In
 - [[DevelopmentOfSupportForAResear_17152]]
 - [[BureaucraticMischiefRecognizin_10900]]
@@ -20713,6 +27512,9 @@ Ernst Mayr was a leader in the Evolutionary Synthesis and made important concept
 - [[ReproductiveIsolationBetweenTh_15911]]
 - [[IntrinsicAndExtrinsicFactorsIn_13837]]
 - [[HerpetologyAtArizonaStateUnive_18796]]
+- [[BureaucraticMischiefRecognizin_PML2035]]
+- [[TheRoleOfHybridizationAndIntro_PML0631]]
+- [[BreedingBehaviourPatternsAndEc_PML1639]]
 
 ## Ernst Roloff
 
@@ -20773,6 +27575,18 @@ Erodium hirtum, the hairy storksbill, is a desert plant of the Negev. The source
 
 ### Mentioned In
 - [[GeomorphologischeProzesseUndPr_18637]]
+
+## Eromanga Basin
+
+### Summary
+The Eromanga Basin is a sedimentary basin in eastern Australia that overlies and is closely associated with the Great Artesian Basin. This source cites it as a related region in its references, without reporting findings about it.
+
+### Context
+> This document is a scanned, heavily degraded bibliography (pp. 15–16 of a larger work, with the running head "M.A. Habermehl, The Great Artesian Basin") on groundwater hydrology and geology of the [[Great Artesian Basin]] in Australia. It contains no fish or aquatic species data. Its content is a...
+> -- *[[TheGreatArtesianBasinAustralia_PML0938]]*
+
+### Mentioned In
+- [[TheGreatArtesianBasinAustralia_PML0938]]
 
 ## EROS Program
 
@@ -20940,6 +27754,18 @@ The practice of quantifying how errors in input data (such as omission and commi
 ### Mentioned In
 - [[SpatialErrorAnalysisOfSpeciesR_12738]]
 
+## Errors-In-Variables Method
+
+### Summary
+The EV method estimates state-space model parameters by maximizing a joint likelihood over both parameters and unobserved population states, treating states as fixed unknowns. This source shows that EV is not a classical likelihood: its parameter estimates are asymptotically biased, it tends to underestimate error variances, and its likelihood-based confidence intervals have poor coverage. In simulations on autoregressive and Schaefer-type models, EV performed worse than the integrated likelihood approaches the authors propose.
+
+### Context
+> This methodological paper addresses how to estimate parameters of fisheries population models when both process error (true population fluctuations) and observation error (survey noise) are present. The authors show that the widely used [[Errors-In-Variables Method]] (EV), which maximizes a joint...
+> -- *[[StatespaceLikelihoodsForNonlin_PML1056]]*
+
+### Mentioned In
+- [[StatespaceLikelihoodsForNonlin_PML1056]]
+
 ## Erry A. Deiter
 
 ### Summary
@@ -20951,6 +27777,30 @@ Erry A. Deiter is the District Ranger of the Sierra Vista Ranger District, and t
 
 ### Mentioned In
 - [[ReRedrockCanyonActionPlanCoron_12858]]
+
+## ERS-1
+
+### Summary
+The European Remote Sensing satellite that carried the SAR instrument supplying data to the Sea-Ice Workstation. This source describes its SAR as the basis for the SAR Swath Predictor and for ice products, and notes that its coverage alone is insufficient for all-weather sea-ice monitoring.
+
+### Context
+> This paper describes the development of the Sea-Ice Workstation (SIWS), a prototype software system for automated retrieval of sea-ice information from satellite data. The project was commissioned by the UK's [[Defence Research Agency]] under the [[British National Space Centre]] and led by Earth...
+> -- *[[DevelopmentOfASeaiceWorkstatio_PML0242]]*
+
+### Mentioned In
+- [[DevelopmentOfASeaiceWorkstatio_PML0242]]
+
+## Ers-1 Sar
+
+### Summary
+ERS-1 is a satellite synthetic aperture radar system that this study compared against other SAR and optical sensors. The source lists it at 5.7 cm wavelength, VV polarization, and 25 m resolution, with an image from 13 July 1992. It was used alone and in combination with JERS-1 and Landsat-TM to classify Prudhoe Bay tundra.
+
+### Context
+> This study compares the information content of three synthetic aperture radar (SAR) satellite systems ([[Almaz Sar]], [[Ers-1 Sar]], [[Jers-1 Sar]]) with multispectral [[Landsat-Tm]] imagery for mapping [[Wet Tundra]] habitats in the [[Prudhoe Bay Oil Field]] on Alaska's Arctic coastal plain. Using...
+> -- *[[ComparativeEvaluationOfAlmazEr_PML0598]]*
+
+### Mentioned In
+- [[ComparativeEvaluationOfAlmazEr_PML0598]]
 
 ## Erskine Creek
 
@@ -21027,6 +27877,18 @@ Molecules on the surface of red blood cells that can be detected by antibodies i
 
 ### Mentioned In
 - [[EvaluationOfAnElectronicMethod_14437]]
+
+## Erythrocyte Nuclear Volume
+
+### Summary
+A ploidy-identification method based on measuring the size of the nucleus in red blood cells, which scales with chromosome set number. The source lists it among accurate but slow and often lethal methods for confirming ploidy in hybrids, the alternative to the morphological approach tested in the study.
+
+### Context
+> This 1983 study tests whether external morphology can separate diploid from triploid [[Grass Carp]] x [[Bighead Carp]] hybrids. Such hybrids were proposed for [[Biological Control]] of aquatic weeds because triploids should be sterile. Diploids, however, may be fertile and are more often deformed....
+> -- *[[PloidyOfHybridsBetweenGrassCar_PML0184]]*
+
+### Mentioned In
+- [[PloidyOfHybridsBetweenGrassCar_PML0184]]
 
 ## Erythrocyte Pooling
 <!-- fm: auto_enriched: true -->
@@ -21130,6 +27992,18 @@ ESA (Endangered Species Act) recovery efforts for native salmonids in the Box Ca
 
 ### Mentioned In
 - [[MechanicalSuppressionOfInvasiv_2024]]
+
+## ESA Section 7 Consultation
+
+### Summary
+The provision of the Endangered Species Act that requires federal agencies to consult with the U.S. Fish and Wildlife Service or the National Marine Fisheries Service on actions that may affect listed species. The source notes that the two services developed a jointly produced handbook for this consultation process under the Joint Policy.
+
+### Context
+> This April 1999 review, published by the Oregon Department of Fish and Wildlife with the National Marine Fisheries Service, examines how federal policy balances the conservation of endangered and threatened species against recreational fishing. It centres on [[Executive Order 12962]] (1995), which...
+> -- *[[AReviewOfTheFederalPolicyForCo_PML1339]]*
+
+### Mentioned In
+- [[AReviewOfTheFederalPolicyForCo_PML1339]]
 
 ## Escabrosa Limestone
 
@@ -21282,6 +28156,15 @@ Escalante Refuge is a location on the Gunnison River where the Colorado River Re
 > This report, transmitted on 2 April 2001 by Harold M. Tyus of the [[Cooperative Institute for Research in Environmental Sciences]] to the [[Upper Colorado River Endangered Fish Recovery Program]], evaluates how tributary streams contribute to the recovery of four endangered "Big River" fishes:...
 > -- *[[AnEvaluationOfTheRoleOfTributa_13051]]*
 
+> This 1976 *Great Basin Naturalist* paper by John T. Polhemus and Martin S. Polhemus reports the aquatic and semiaquatic Heteroptera (true bugs) collected from 13 localities in [[Marble Canyon]] and the [[Grand Canyon]] in late May and June 1972. The authors list 14 species, compare the fauna with...
+> -- *[[AquaticAndSemiaquaticHeteropte_PML2147]]*
+
+> This annual report from the [[Bureau of Reclamation]] and the [[U.S. Geological Survey]] documents the first year (fall 1995 to October 1996) of a sonic telemetry study of [[Razorback Sucker]] movements in the lower [[San Juan River]], Utah. The study tracked 34 hatchery-reared, three-year-old fish...
+> -- *[[AnnualReportOfRazorbackSuckerT_PML1263]]*
+
+> This Utah Department of Fish and Game completion report (Federal Aid Project F-4-B-5, Bulletin 60-3, dated September 12, 1960) documents pre-impoundment ecological surveys of the [[Colorado River]] in the [[Glen Canyon]] area and the [[Green River]] above the planned [[Flaming Gorge Reservoir]]....
+> -- *[[PreimpoundmentInvestigationsOf_PML1642]]*
+
 ### Mentioned In
 - [[TechnicalReportAnalyzingTheImp_14024]]
 - [[ReservoirFisheriesInvestigatio_14589]]
@@ -21291,6 +28174,21 @@ Escalante Refuge is a location on the Gunnison River where the Colorado River Re
 - [[GlenCanyonReservoirPostimpound_14587]]
 - [[LatePleistoceneAndRecentErosio_17546]]
 - [[AnEvaluationOfTheRoleOfTributa_13051]]
+- [[AquaticAndSemiaquaticHeteropte_PML2147]]
+- [[AnnualReportOfRazorbackSuckerT_PML1263]]
+- [[PreimpoundmentInvestigationsOf_PML1642]]
+
+## Escalante Spawning Bar
+
+### Summary
+The Escalante Spawning Bar is a site in the middle Green River that is the primary known spawning location for razorback sucker in that reach. In this study, most recaptures clustered near river kilometer 504, which the authors describe as a well-documented spawning site. Both acclimated and non-acclimated stocked fish were captured there during the 2000 and 2001 spawning seasons.
+
+### Context
+> This study compares the distribution, recapture rates, and growth of [[Razorback Sucker]] (*Xyrauchen texanus*) stocked into the middle [[Green River]] by two routes: fish acclimated for a full growing season in [[Floodplain Wetlands]] that entered the river voluntarily as subadults, and subadults...
+> -- *[[ComparisonOfTheDistributionAnd_PML1905]]*
+
+### Mentioned In
+- [[ComparisonOfTheDistributionAnd_PML1905]]
 
 ## Escalante State Wildlife Area
 
@@ -21307,10 +28205,14 @@ Escalante State Wildlife Area was one of five priority sites selected for detail
 > This conceptual management plan, prepared by Bob D. Burdick for the [[Recovery Implementation Program]] (June 1994), proposes restoring floodplain connectivity at two bottomland sites in the [[Escalante State Wildlife Area]] on the [[Gunnison River]], downstream of Delta, Colorado. The plan argues...
 > -- *[[ConceptualManagementPlanForHab_13899]]*
 
+> A news article in the *Endangered Species Technical Bulletin* (Vol. XIX, No. 1, 1994) by Connie Young describes a new five-year [[Recovery Plan]] for four endangered fishes endemic to the [[Colorado River Basin]]. The plan was completed in 1993 by the [[U.S. Fish and Wildlife Service]] (FWS). It...
+> -- *[[NewPlanOutlinesStepsToRecoverE_PML2937]]*
+
 ### Mentioned In
 - [[ReReviewOfFloodedBottomLandRes_13862]]
 - [[ReconnaissanceInventoryAndPrio_14383]]
 - [[ConceptualManagementPlanForHab_13899]]
+- [[NewPlanOutlinesStepsToRecoverE_PML2937]]
 
 ## Escalante Wetland
 
@@ -21572,6 +28474,18 @@ A 1942 study by Eschmeyer that used a doubled-boat-count method to estimate fish
 ### Mentioned In
 - [[ResponsesOfFishPopulationsInTh_1983]]
 
+## Eschmeyer and Clark 1939
+
+### Summary
+A study cited for comparison with Rinne's results. Rinne uses it to show that post-renovation responses differ between systems, with size changes sometimes driven by recolonization or spawning cycles rather than growth alone.
+
+### Context
+> This study tracks population structure, size, condition and standing crop (biomass) of three minnow species in [[Seven-Springs Wash]], a small tributary of [[Cave Creek]] in the [[Sonoran Desert]] of central Arizona, from 1969 to 1971. Population changes were driven by two factors: a 1968 flood...
+> -- *[[ChangesInMinnowPopulationsInAS_PML2202]]*
+
+### Mentioned In
+- [[ChangesInMinnowPopulationsInAS_PML2202]]
+
 ## Eschmeyer and Haslbauer
 
 ### Summary
@@ -21595,6 +28509,18 @@ A 1945 study cited in this source that addressed a year-round open season for sa
 
 ### Mentioned In
 - [[AgeAndGrowthOfTheSaugerStizost_20702]]
+
+## Eschmeyer Catalog of Fishes
+
+### Summary
+The Eschmeyer Catalog of Fishes is a standard taxonomic reference listing fish names and their nomenclature. Unmack follows its 1998 edition for species names in this study. It is cited as the nomenclatural authority for the fauna analysed.
+
+### Context
+> This study by Peter J. Unmack (Arizona State University, *Journal of Biogeography* 28: 1053–1089, 2001) examines the biogeographic patterns of Australia's obligate freshwater fishes. Using similarity coefficients, clustering, non-metric multidimensional scaling, parsimony analysis and drainage...
+> -- *[[BiogeographyOfAustralianFreshw_PML2549]]*
+
+### Mentioned In
+- [[BiogeographyOfAustralianFreshw_PML2549]]
 
 ## Eschmeyer et al. (1944)
 
@@ -21700,6 +28626,18 @@ A high inland plateau in central Iran where the survey sampled groundwater wells
 ### Mentioned In
 - [[AdditionalNotesAndDiscussionOf_1977_09_01]]
 
+## Esocid Literature
+
+### Summary
+The body of published research on fishes of the family Esocidae, which includes pike and muskellunge. In this source, Region V planned to review it to evaluate pike vulnerability and the management range, and the reviewed literature was noted as showing low or no success for partial or total pike removal.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) correspondence, dated November 29, 1999 and December 3, 1999, sets out the process, timeline, and candidate management alternatives for [[Northern Pike]] established in [[Parker Canyon Lake]]. The pike population resulted from illegal, unauthorized...
+> -- *[[ParkerCanyonLakeNorthernPikeDe_PML0130]]*
+
+### Mentioned In
+- [[ParkerCanyonLakeNorthernPikeDe_PML0130]]
+
 ## Esocidae
 <!-- fm: auto_enriched: true -->
 
@@ -21752,6 +28690,9 @@ Esocidae is a family of freshwater and estuarine fishes commonly known as pikes,
 > This Royal Ontario Museum Life Sciences Miscellaneous Publication (1973), compiled by [[E. J. Crossman]] and [[G. E. Lewis]], is an annotated bibliography of the [[Chain Pickerel]] (*Esox niger*), a freshwater pike of eastern and southern North America. The document contains 630 references, of...
 > -- *[[AnAnnotatedBibliographyOfTheCh_18064]]*
 
+> This document is the front matter and reference body of the proceedings of a workshop on the identification of Great Lakes fish eggs and larvae, edited by John Bonnell, sponsored by the [[National Power Plant Team]] and the [[U.S. Fish and Wildlife Service]], and published in Ann Arbor, Michigan,...
+> -- *[[GreatLakesFishEggAndLarvaeIden_PML2646]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[ConservationStatusOfTheNorthAm_1990]]
@@ -21777,6 +28718,7 @@ Esocidae is a family of freshwater and estuarine fishes commonly known as pikes,
 - [[SurfacePitsInTheFamilyEsocidae_20137]]
 - [[HybridizationInTheFamilyEsocid_18053]]
 - [[AnAnnotatedBibliographyOfTheCh_18064]]
+- [[GreatLakesFishEggAndLarvaeIden_PML2646]]
 
 ## Esocoidei
 <!-- fm: auto_enriched: true -->
@@ -22118,6 +29060,18 @@ A granite assigned to the Wilderness Suite of about 44–50 m.y. The source list
 ### Mentioned In
 - [[EvidenceForMultipleIntrusionAn_17916]]
 
+## Esplanade Sandstone
+
+### Summary
+A sandstone unit within the Supai Group in Grand Canyon. The report identifies it as a failure-prone source rock, and the 1984 Monument Creek flow began as an avalanche from it.
+
+### Context
+> This U.S. Geological Survey open-file report, prepared with the [[U.S. Bureau of Reclamation]] and authored by Robert H. Webb (September 1987), documents how [[Debris Flow]] events in small tributary canyons deliver large volumes of coarse sediment to the [[Colorado River]] in [[Grand Canyon...
+> -- *[[DebrisFlowsFromTributariesOfTh_PML2845]]*
+
+### Mentioned In
+- [[DebrisFlowsFromTributariesOfTh_PML2845]]
+
 ## ESPN
 
 ### Summary
@@ -22141,6 +29095,30 @@ A target study site (river mile 60.7–60.8) in Grand Canyon, immediately above 
 
 ### Mentioned In
 - [[ProtocolForQuantifyingAdultHum_13651]]
+
+## Esquerra Family
+
+### Summary
+The Esquerra family were ranchers who homesteaded near the Kohen Ranch around 1870 in the Bill Williams area. Ramon Esquerra dug an irrigation ditch and grew a wide range of crops, and his grandson Joe Padilla later recalled that Razorbacks and Bonytails were caught in flood pools near the ranch.
+
+### Context
+> This document is an archival compilation sent by Chuck Minckley to Paul Marsh on June 5, 2007, for preservation. It gathers historical travel accounts, oral histories, ranch and mining records, flood and flow logs, and refuge annual notes for the [[Bill Williams River]] and its delta. It covers...
+> -- *[[BillWilliamsHistoricalInformat_PML0235]]*
+
+### Mentioned In
+- [[BillWilliamsHistoricalInformat_PML0235]]
+
+## ESRI ArcCatalog
+
+### Summary
+A geographic information system software catalog tool made by ESRI for managing spatial datasets. The source lists ArcCatalog 8.3.0.800 as the native software environment for this dataset.
+
+### Context
+> This is an FGDC-standard metadata record for a vector GIS dataset mapping [[Critical Habitat]] for the [[Bonytail Chub]] (*[[Gila Elegans]]*). The dataset was produced by the [[U.S. Fish And Wildlife Service]] (USFWS), Region 2, with a publication date of 2003. It consists of seven polygons...
+> -- *[[BonytailChubCriticalHabitat_PML2757]]*
+
+### Mentioned In
+- [[BonytailChubCriticalHabitat_PML2757]]
 
 ## Esrom Lake
 <!-- fm: auto_enriched: true -->
@@ -22191,9 +29169,13 @@ Essential habitat, as used in this source, refers to the stream and lake areas t
 > This 1981 policy document from the [[U.S. Fish and Wildlife Service]] (FWS) sets out the procedures for preparing, reviewing, funding, and implementing recovery plans for species listed under the [[Endangered Species Act]] of 1973, as amended. It covers fish, wildlife, and plants. The guidelines...
 > -- *[[EndangeredAndThreatenedSpecies_11911]]*
 
+> The Cui-ui Recovery Plan, prepared by the [[Cui-ui Recovery Team]] and published by the [[U.S. Fish and Wildlife Service]] in December 1977, sets out a strategy to downlist the [[Cui-ui]] (*Chasmistes cujus*), an endemic [[Sucker]] of [[Pyramid Lake]], Nevada, from endangered to threatened. The...
+> -- *[[CuiuiRecoveryPlan_PML2180]]*
+
 ### Mentioned In
 - [[StatusAndProposedManagementOfT_13934]]
 - [[EndangeredAndThreatenedSpecies_11911]]
+- [[CuiuiRecoveryPlan_PML2180]]
 
 ## Essequibo Basin
 
@@ -22249,9 +29231,25 @@ One of five Adirondack counties in New York where ponds were reclaimed under the
 > This paper presents a primer on colonisation theory and applies it to invasive fishes in the [[Great Fish River]], South Africa. It aims to (a) characterise successful invader species in aquatic systems and (b) identify habitat properties that make a system susceptible to invasion. The authors also...
 > -- *[[ColonisationTheoryAndInvasiveB_20200]]*
 
+> This terminology paper, by [[Paul L. Shafland]] and [[William M. Lewis]], was adopted by the [[American Fisheries Society]] (AFS) [[Exotic Fish Section]] at its annual business meeting on 18 August 1983 in Milwaukee, Wisconsin. It responds to a recognized lack of consensus on the terms used for...
+> -- *[[TerminologyAssociatedWithIntro_PML2342]]*
+
 ### Mentioned In
 - [[TerminologyAssociatedWithIntro_11384]]
 - [[ColonisationTheoryAndInvasiveB_20200]]
+- [[TerminologyAssociatedWithIntro_PML2342]]
+
+## Estabrook and Rogers
+
+### Summary
+Estabrook and Rogers (1966) are the source of the numerical taxonomy method used in this study, which computes similarity values among specimens and clusters them. The paper follows their approach in the Taximetrics analysis of Gila specimens.
+
+### Context
+> This issue excerpt contains two papers. The main paper (Holden and Stalnaker, 1970) studies the systematics of the subgenus [[Gila]] in the [[Colorado River Basin]] using numerical taxonomy ([[Taximetrics]]) on 309 specimens. The authors conclude that the [[Roundtail Chub]] (*Gila robusta*) and...
+> -- *[[SystematicStudiesOfTheCyprinid_PML1071]]*
+
+### Mentioned In
+- [[SystematicStudiesOfTheCyprinid_PML1071]]
 
 ## Estacion de Biologia Chamela
 
@@ -22431,6 +29429,18 @@ Esthwaite Water is a eutrophic lake in the English Lake District that has served
 - [[PrimaryProductionAndPeriodicit_16257]]
 - [[AKeyToTheBritishFreshwaterCycl_20631]]
 
+## Estimation and Confidence Intervals
+
+### Summary
+An approach that estimates the size of an effect along with a range of plausible values, rather than only testing whether an effect is zero. Johnson recommends it as more informative than P-values, noting that a 95% interval including zero corresponds to P > 0.05.
+
+### Context
+> This methodological essay by Douglas H. Johnson (U.S. Geological Survey, Northern Prairie Wildlife Research Center) argues that [[Statistical Hypothesis Testing]] adds little value to wildlife research and is frequently misused and misinterpreted. The paper was prompted by a 1998 symposium at The...
+> -- *[[TheInsignificanceOfStatistical_PML1207]]*
+
+### Mentioned In
+- [[TheInsignificanceOfStatistical_PML1207]]
+
 ## Estivation
 
 ### Summary
@@ -22479,6 +29489,18 @@ Estuaries are transitional aquatic ecosystems where rivers meet and mix with oce
 - [[TheToleranceOfGrassCarpCtenoph_18024]]
 - [[DissolvedOxygenCriteriaForTheP_19073]]
 - [[NotesOnSomeEuryhalineGammarids_12806]]
+
+## Estuarine Acclimation
+
+### Summary
+The practice of gradually moving juvenile salmon from fresh water into salt or brackish water before release. In this study, a 5-day conversion to 75 percent sea water gave the highest return of 0.75 percent, and the authors considered it a useful hatchery step for fall chinook, though longer sea-water rearing did not help.
+
+### Context
+> This study by the [[Washington State Department of Fisheries]] tested whether the length and salinity of a pre-release sea-water phase improved the survival of hatchery-reared [[Chinook Salmon]] (fall-migrating, "[[Fall Chinook]]") planted as juveniles in the [[Samish River]] estuary. Roughly...
+> -- *[[RearingMethodsAndTheReturnOfFa_PML0675]]*
+
+### Mentioned In
+- [[RearingMethodsAndTheReturnOfFa_PML0675]]
 
 ## Estuarine Areas
 
@@ -22629,6 +29651,18 @@ Estuarine fish ecology is the study of fish populations, communities, and ecolog
 ### Mentioned In
 - [[AnEvaluationOfStripedBassAngli_1969]]
 
+## Estuarine Nursery Grounds
+
+### Summary
+Estuarine areas, here the Indian River in Delaware, where juvenile menhaden were sampled. The source reports that young-of-the-year scales from this area showed no ring markings through their first summer, so the first ring forms later in life.
+
+### Context
+> This U.S. Fish and Wildlife Service Fishery Bulletin (Volume 60, Bulletin 171, 1960) by [[June and Rothschild]] tests whether recognizable rings on the scales of [[Atlantic Menhaden]] (*Brevoortia tyrannus*) are reliable age marks. Scale samples from commercial and survey catches along the...
+> -- *[[DeterminingAgeOfAtlanticMenhad_PML1247]]*
+
+### Mentioned In
+- [[DeterminingAgeOfAtlanticMenhad_PML1247]]
+
 ## Estuarine Nursery Habitat
 <!-- fm: auto_enriched: true -->
 
@@ -22685,6 +29719,30 @@ A water-type code in the report's coding key, referring to waters where rivers m
 ### Mentioned In
 - [[FishDistributionPercentByProgr_19583]]
 
+## Estuarine-Deltaic Facies Model
+
+### Summary
+A depositional framework for river mouths where fresh and marine waters mix, here applied to the Bouse embayment. The source interprets the basal Bouse limestone as freshwater, consistent with a salt-wedge estuary. This model is used to explain the contrast between freshwater Bouse deposits and marine Imperial Formation rocks.
+
+### Context
+> This paper reconstructs the early drainage history of the [[Colorado River]] by arguing that Upper Paleocene to Middle Miocene fluvial-deltaic rocks in the [[Los Angeles Basin]] and [[Ventura Basin]] were deposited by an ancestral Colorado river (a "paleoriver") before roughly 300 km of dextral...
+> -- *[[PaleoceneToHolocenePaleodeltas_PML1099]]*
+
+### Mentioned In
+- [[PaleoceneToHolocenePaleodeltas_PML1099]]
+
+## Estuarine-Dependent Fish
+
+### Summary
+Estuarine-dependent fish are species that rely on estuaries for some or all of their life cycle, such as for nursery or feeding habitat. In this source, the concept is linked to the authors' field system of juvenile common snook at their research site. That system motivated the study, where initial survival and detection estimates were near 0.9.
+
+### Context
+> This methodological simulation study examines how [[Survival Estimation]] should be performed when mark-resighting data are collected continuously (e.g., [[Acoustic Telemetry]] receivers or [[PIT Tag]] antennae) but analysed with discrete-time models. The authors simulated a population whose...
+> -- *[[ApparentSurvivalEstimationFrom_PML0171]]*
+
+### Mentioned In
+- [[ApparentSurvivalEstimationFrom_PML0171]]
+
 ## Estuary
 
 ### Summary
@@ -22730,8 +29788,28 @@ Ethyl alcohol, used here at 95% concentration to extract phytopigments from peri
 > This 1960 methods paper by [[Alfred R. Grzenda]] and [[Morris L. Brehmer]] (Michigan State University) presents two techniques for collecting and estimating stream [[Periphyton]] production using artificial substrata. Periphyton was grown on 1.4 dm² [[Plexiglass Plates]] mounted on a horizontal...
 > -- *[[AQuantitativeMethodForTheColle_17810]]*
 
+> This report presents part of an ongoing study of the diet of [[Bonytail Chub]] (*[[Gila Elegans]]*) in the [[Cibola High Levee Pond]], a small, reclaimed remnant of the [[Lower Colorado River]] on the [[Cibola National Wildlife Refuge]]. Using non-lethal stomach flushing on 72 fish collected at...
+> -- *[[BonytailChubFoodsAndFeedingHab_PML1580]]*
+
 ### Mentioned In
 - [[AQuantitativeMethodForTheColle_17810]]
+- [[BonytailChubFoodsAndFeedingHab_PML1580]]
+
+## Ethelwynn Trewavas
+
+### Summary
+Ethelwynn Trewavas was a British ichthyologist known for her work on cichlid fishes at the British Museum (Natural History). According to the source, she verified the identification of the Bard Valley tilapia.
+
+### Context
+> This scanned document is a compilation of short notes and reference pages from a California Fish and Game publication (late 1960s), with a few partly illegible pages. It covers four topics: (1) the establishment of [[Mozambique Tilapia]] in drains of Bard Valley, Imperial County; (2) a [[Scrub...
+> -- *[[EstablishmentOfTilapiaMossambi_PML1089]]*
+
+> This review by [[Rosamary Lowe]] (McConnell), of the East African Fisheries Research Organization, Jinja, Uganda, collates field observations from 1945 to 1966 on Tilapia species in East and Central Africa and compares them with published aquarium and field work from West Africa, the Congo and...
+> -- *[[BreedingBehaviourPatternsAndEc_PML1639]]*
+
+### Mentioned In
+- [[EstablishmentOfTilapiaMossambi_PML1089]]
+- [[BreedingBehaviourPatternsAndEc_PML1639]]
 
 ## Etheostoma
 <!-- fm: auto_enriched: true -->
@@ -23382,10 +30460,14 @@ The swamp darter, a North American darter in the subgenus Oligocephalus. The sou
 > This Occasional Paper by [[Lawrence M. Pace]] (University of Kansas Museum of Natural History, 1981) redescribes the [[Conchos Darter]], *Etheostoma australe*, a small percid endemic to the [[Rio Conchos]] system of Chihuahua and Durango, Mexico. The redescription is based on a series of 26...
 > -- *[[RedescriptionOfEtheostomaAustr_18386]]*
 
+> This taxonomic paper, published in *Ichthyological Exploration of Freshwaters* (Vol. 8, No. 2, 1997) by Steven M. Norris and W. L. Minckley, describes two new darters of the subgenus [[Oligocephalus]] from streams of the Chihuahuan Desert in central Coahuila, Mexico. Both species occur within or...
+> -- *[[TwoNewSpeciesOfEtheostomaOstei_PML2029]]*
+
 ### Mentioned In
 - [[AClassificationOfTexasAquaticC_15773]]
 - [[CompositionAndDerivationOfTheN_15363]]
 - [[RedescriptionOfEtheostomaAustr_18386]]
+- [[TwoNewSpeciesOfEtheostomaOstei_PML2029]]
 
 ## Etheostoma Histrio
 <!-- fm: auto_enriched: true -->
@@ -23845,6 +30927,9 @@ Etheostoma radiosum, commonly known as the orangebelly darter, is a small benthi
 > This 1968 monograph by Donald A. Distler (University of Kansas Science Bulletin, vol. 48, no. 5, pp. 143–208) revises the [[Orangethroat Darter]], *Etheostoma spectabile* (Agassiz), a small bottom-dwelling percid. It combines range mapping, morphometric and meristic variation, laboratory breeding...
 > -- *[[DistributionAndVariationOfEthe_19031]]*
 
+> This systematic study by Matthews and Gelwick (Copeia, 1988, No. 3) re-examines the taxonomy of the [[Orangebelly Darter]] ([[Etheostoma Radiosum]]). The species was previously split into three subspecies by [[Moore and Rigney]] (1952). The authors' discovery of [[Washita River]] populations...
+> -- *[[VariationAndSystematicsOfEtheo_PML1614]]*
+
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
 - [[AClassificationOfTexasAquaticC_15773]]
@@ -23854,6 +30939,7 @@ Etheostoma radiosum, commonly known as the orangebelly darter, is a small benthi
 - [[GeographicVariationsInSurvival_14227]]
 - [[GeneticDifferentiationAmongSub_18497]]
 - [[DistributionAndVariationOfEthe_19031]]
+- [[VariationAndSystematicsOfEtheo_PML1614]]
 
 ## Etheostoma Radiosum Cyanorum
 
@@ -23864,8 +30950,36 @@ Etheostoma radiosum cyanorum, the Orangethroat Darter, is a small percid darter 
 > This 1958 laboratory study examines the breeding behavior, egg development, larval morphology and hybridization of two darters, [[Etheostoma Radiosum Cyanorum]] and [[Etheostoma Spectabile]]. Using breeding tanks in which all four possible mating combinations were tested, the author shows that the...
 > -- *[[BehaviorAndHybridizationOfTwoS_20335]]*
 
+> This systematic study by Matthews and Gelwick (Copeia, 1988, No. 3) re-examines the taxonomy of the [[Orangebelly Darter]] ([[Etheostoma Radiosum]]). The species was previously split into three subspecies by [[Moore and Rigney]] (1952). The authors' discovery of [[Washita River]] populations...
+> -- *[[VariationAndSystematicsOfEtheo_PML1614]]*
+
 ### Mentioned In
 - [[BehaviorAndHybridizationOfTwoS_20335]]
+- [[VariationAndSystematicsOfEtheo_PML1614]]
+
+## Etheostoma Radiosum Paludosum
+
+### Summary
+Etheostoma radiosum paludosum is one of the three subspecies of the Orangebelly Darter, first recognized by Moore and Rigney (1952) from the Kiamichi and Boggy systems. This source recommends keeping it and assigning it the Washita River populations, which makes it a polytopic subspecies in three non-adjacent Red River tributaries. It is characterized by a distal dorsal fin band broken into spots by red-orange coloration in nuptial males.
+
+### Context
+> This systematic study by Matthews and Gelwick (Copeia, 1988, No. 3) re-examines the taxonomy of the [[Orangebelly Darter]] ([[Etheostoma Radiosum]]). The species was previously split into three subspecies by [[Moore and Rigney]] (1952). The authors' discovery of [[Washita River]] populations...
+> -- *[[VariationAndSystematicsOfEtheo_PML1614]]*
+
+### Mentioned In
+- [[VariationAndSystematicsOfEtheo_PML1614]]
+
+## Etheostoma Radiosum Radiosum
+
+### Summary
+Etheostoma radiosum radiosum is the nominal subspecies of the Orangebelly Darter, associated in this source with the Ouachita and Little River systems. The authors recommend continuing to recognize it, but they find no support for a separate Little River subspecies. Its males have an unbroken blue distal band on the spinous dorsal fin, unlike the spotted pattern of E. r. paludosum.
+
+### Context
+> This systematic study by Matthews and Gelwick (Copeia, 1988, No. 3) re-examines the taxonomy of the [[Orangebelly Darter]] ([[Etheostoma Radiosum]]). The species was previously split into three subspecies by [[Moore and Rigney]] (1952). The authors' discovery of [[Washita River]] populations...
+> -- *[[VariationAndSystematicsOfEtheo_PML1614]]*
+
+### Mentioned In
+- [[VariationAndSystematicsOfEtheo_PML1614]]
 
 ## Etheostoma Rafinesquei
 
@@ -24496,6 +31610,18 @@ Etheostomatinae is a subfamily of small benthic percid fishes commonly known as 
 - [[SystematicSignificanceOfBreedi_17132]]
 - [[CatalogOfTypeSpecimensOfTheDar_17140]]
 
+## Etheostomidae
+
+### Summary
+The family of darters, small freshwater perch-like fishes. Girard notes that this group is restricted to fresh waters of the northern western hemisphere and that its natural affinities need future anatomical study.
+
+### Context
+> This is the fish section of the report of the [[United States and Mexican Boundary Survey]], written by [[Charles Girard]], M.D., and published under Lt. Col. W. H. Emory, U.S. Commissioner. It presents taxonomic descriptions of fishes collected during the survey, mainly from 1851 to 1855, across...
+> -- *[[IchthyologyOfTheBoundary_PML0874]]*
+
+### Mentioned In
+- [[IchthyologyOfTheBoundary_PML0874]]
+
 ## Ethiopia
 <!-- fm: auto_enriched: true -->
 
@@ -24591,8 +31717,13 @@ A behavioral barrier in which species fail to recognize each other as mates, usu
 ## Ethology
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1969 study by Murray Itzkowitz and W. L. Minckley in the *Great Basin Naturalist* describes the courtship, spawning, and territorial behavior of the [[Cyprinodon Atrorus]] pupfish. The fish came from [[Cuatro Ciénegas]], Coahuila, Mexico, and were observed in a [[Semi-Natural Pond]] in [[Tempe...
+> -- *[[QualitativeBehaviorOfAPupfish_PML1158]]*
+
 ### Mentioned In
 - [[FanningInFishesAsAMe_15583]]
+- [[QualitativeBehaviorOfAPupfish_PML1158]]
 
 ## Ethology And Behavioral Ecology Of Fishes
 
@@ -24605,6 +31736,18 @@ A biennial conference held at Illinois State University, where Stiles and Lindqu
 
 ### Mentioned In
 - [[PrefacePapersFromASymposiumOnT_20339]]
+
+## Ethyl Alcohol
+
+### Summary
+Ethyl alcohol (ethanol) is a preservative used for plankton and larval fish samples. The source states that 70% ethanol causes shrinkage, distortion, and evaporation problems, and that the authors consider it more expensive than formalin. For that reason, they strongly recommend formalin over ethanol.
+
+### Context
+> This document is a compiled technical publication (National Marine Fisheries Service, Middle Atlantic Coastal Fisheries Center, Technical Publication No. 1, published August 1973). It assembles proceedings from a June 1968 workshop on [[Fish Eggs and Larvae]] held at Bears Bluff Laboratories,...
+> -- *[[EggLarvalAndJuvenileStagesOfFi_PML2026]]*
+
+### Mentioned In
+- [[EggLarvalAndJuvenileStagesOfFi_PML2026]]
 
 ## Ethynyl Testosterone
 
@@ -24741,11 +31884,23 @@ Etter Pond is an off-channel floodplain habitat in the Upper Colorado River Basi
 > This working draft of a final report to the [[U.S. Bureau of Reclamation]] (Award # O0-FC-40-09610) by Donald G. Buth and collaborators at UCLA evaluates allozyme (protein electrophoresis) variation in the [[Razorback Sucker]], a declining endemic of the [[Colorado River Basin]]. The study had two...
 > -- *[[WorkingDraftallozymeDivergence_14115]]*
 
+> This 1996 letter from [[Paul C. Marsh]] to the [[U.S. Fish and Wildlife Service]] reports three breeding seasons (1992–1994) of [[Razorback Sucker]] experiments in the [[Yuma Cove]] backwater of [[Lake Mohave]]. The experiments tested methods for producing young fish for [[Repatriation]] under the...
+> -- *[[RazorbackSuckerRepatriationGen_PML1432]]*
+
+> This revised 2001 plan from the [[Colorado Division of Wildlife]] sets out restoration stocking for three endangered Colorado River fishes: [[Razorback Sucker]], [[Bonytail]] and [[Colorado Pikeminnow]]. [[Humpback Chub]] is discussed but stocking is not anticipated at this time. The plan links...
+> -- *[[StockingPlanForEndangeredColor_PML2007]]*
+
+> This Recovery Program final report (Project Number 50, February 2003) by [[Bob Burdick]] of the U.S. Fish and Wildlife Service's Colorado River Fishery Project evaluates whether stocking can restore [[Razorback Sucker]] (*Xyrauchen texanus*), an endangered catostomid, in the Upper Colorado River...
+> -- *[[MonitoringAndEvaluatingVarious_PML0324]]*
+
 ### Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[FirstMeetingOfGeneticsPanel_1993_11_10]]
 - [[LetterToDrThomasDowlingOnRazor_1992_04_15]]
 - [[WorkingDraftallozymeDivergence_14115]]
+- [[RazorbackSuckerRepatriationGen_PML1432]]
+- [[StockingPlanForEndangeredColor_PML2007]]
+- [[MonitoringAndEvaluatingVarious_PML0324]]
 
 ## Eubasilissa
 
@@ -24845,6 +32000,18 @@ Eucalyptus regnans is a very tall eucalypt tree native to south-eastern Australi
 ### Mentioned In
 - [[APreliminaryListOfStonefliesPl_16849]]
 
+## Eucha Lake
+
+### Summary
+A reservoir in Oklahoma used here as one of several comparison sites for channel catfish growth. The source lists it alongside Little River and other study areas, though the scanned values for it are partly illegible.
+
+### Context
+> This study examines the age, growth, length-weight relationship, and condition factor of [[Channel Catfish]] (*Ictalurus punctatus*) in the [[Coachella Canal]], a large earthen canal in southeastern California. Fish ranged from 75 to 575 mm total length and from age 0 to 5 years. Average annual...
+> -- *[[AgeAndGrowthOfChannelCatfishIn_PML1633]]*
+
+### Mentioned In
+- [[AgeAndGrowthOfChannelCatfishIn_PML1633]]
+
 ## Eucidaris thouarsii
 
 ### Summary
@@ -24902,8 +32069,12 @@ An amphipod crustacean keyed in the source. Its only recorded locality in the do
 > This document is a dichotomous identification key to amphipod crustaceans (order [[Amphipoda]]) of [[Oklahoma]], not a fish study. It separates the state's keyed species by antennal structure, accessory flagellum, uropod proportions, eye presence, and gnathopod (second pereiopod) armature. The key...
 > -- *[[AKeyToTheSpeciesOfAmphipodaOfO_19322]]*
 
+> This 1928 Indiana Division of Fish and Game publication (Publication No. 77) reports a quantitative survey of the benthic invertebrates of [[Lake Wawasee]] (Turkey Lake), Kosciusko County, Indiana. The work was based on two summers of field collections in 1926, carried out to support the state's...
+> -- *[[InvestigationsOfIndianaLakesIA_PML2327]]*
+
 ### Mentioned In
 - [[AKeyToTheSpeciesOfAmphipodaOfO_19322]]
+- [[InvestigationsOfIndianaLakesIA_PML2327]]
 
 ## Eucrangonyx Shoemakeri
 
@@ -25082,9 +32253,13 @@ A scientist who advised the editors on editorial procedures for the symposium pa
 > This is the inaugural review in the periodical [[Guelph Ichthyology Reviews]] (Number 1, September 1990), written by [[Eugene K. Balon]] of the [[Institute of Ichthyology]], University of Guelph. A foreword by David L.G. Noakes introduces the new Institute, founded in June 1990 on the [[Axelrod...
 > -- *[[EpigenesisOfAnEpigeneticistThe_17306]]*
 
+> This reprinted 1984 essay by [[Eugene K. Balon]] (University of Guelph) argues for a saltatory model of fish ontogeny, in which development proceeds through discrete steady states separated by rapid transitions called thresholds, rather than through gradual change. The paper refines the [[Theory of...
+> -- *[[ReflectionsOnSomeDecisiveEvent_PML0166]]*
+
 ### Mentioned In
 - [[PrefacePapersFromASymposiumOnT_20339]]
 - [[EpigenesisOfAnEpigeneticistThe_17306]]
+- [[ReflectionsOnSomeDecisiveEvent_PML0166]]
 
 ## Eugene Knoder
 <!-- fm: auto_enriched: true -->
@@ -25259,6 +32434,18 @@ Eulachon (Thaleichthys pacificus) is an anadromous fish species found in the Kla
 - [[ChecklistOfTheFreshwaterFishes_20621]]
 - [[ACheckListOfTheFreshwaterAndAn_11395]]
 
+## Eulerian Perspective
+
+### Summary
+An approach that describes movement at the population level, looking at how the density or spread of a population changes at fixed locations over time. The study uses it to examine how the variance of the population's spatial distribution grew through time.
+
+### Context
+> This study uses a five-month mark-recapture experiment in [[Durant Creek]], a small temperate stream in Raleigh, North Carolina, to describe how four stream fish species move and to test a mechanistic explanation for the leptokurtic (peaked, long-tailed) movement distributions commonly seen in...
+> -- *[[ModelingDiffusiveSpreadInAHete_PML2376]]*
+
+### Mentioned In
+- [[ModelingDiffusiveSpreadInAHete_PML2376]]
+
 ## Eulimnadia Antillarum
 
 ### Summary
@@ -25325,6 +32512,18 @@ The Steller sea lion is a marine mammal. This source lists it as an endangered o
 ### Mentioned In
 - [[SomeAustralianPlecopteranNymph_1964]]
 
+## Euomus
+
+### Summary
+Euomus is a genus of extinct minnows (family Cyprinidae) erected in this paper for Euomus navaho, known from Middle Pliocene deposits of the Bidahochi Formation in Arizona. The genus is diagnosed mainly from its cleithrum, whose mesial wing is deflected posteriorly into a high ridge, unlike other American minnows. The authors suggest it had sucker-like feeding habits.
+
+### Context
+> This document contains two Copeia contributions. The main paper, by Uyeno and Miller, describes four cyprinid (minnow) species from the Middle Pliocene [[Bidahochi Formation]] of northeastern Arizona. Three of the four are new, including a new genus, [[Euomus]]. The fossils are dated at 4.1 million...
+> -- *[[MiddlePlioceneCyprinidFishesFr_PML2777]]*
+
+### Mentioned In
+- [[MiddlePlioceneCyprinidFishesFr_PML2777]]
+
 ## Eupatorium betonicifolium
 
 ### Summary
@@ -25376,6 +32575,42 @@ A spurge (Euphorbiaceae) named in honor of D. J. Pinkava and listed in the sourc
 
 ### Mentioned In
 - [[VegetationAndFloraOfTheBolsonO_11097]]
+
+## Euphorbiaceae
+
+### Summary
+Euphorbiaceae, the spurge family, is one of the families with notable species richness in the Cuatro Ciénegas catalogue. Pinkava's 1984 paper lists it among the families with many species in the region's flora.
+
+### Context
+> This paper, Part IV of a series by [[Donald J. Pinkava]] (Department of Botany & Microbiology, [[Arizona State University]]), summarizes the vegetation and vascular flora of the [[Cuatro Ciénegas Basin]] (Bolsón de Cuatro Ciénegas) in [[Chihuahuan Desert]] Coahuila, Mexico. The study area covers...
+> -- *[[VegetationAndFloraOfTheBolsonO_PML2138]]*
+
+### Mentioned In
+- [[VegetationAndFloraOfTheBolsonO_PML2138]]
+
+## Euphotic Zone
+
+### Summary
+The upper layer of a water body that receives enough light for photosynthesis. In this study the euphotic zone was identified as the most important control on fish distribution, with its depth lying near but below the thermocline and the 2.0 mg/l oxygen limit. Apache Lake's euphotic zone was roughly twice as thick as Roosevelt Lake's because Roosevelt is more turbid.
+
+### Context
+> This study by Rinne, Minckley and Bersell (1981, *Hydrobiologia* 80: 31-42) examines what controls the vertical and horizontal distribution of fishes in two multi-purpose [[Desert Reservoirs]] on the Salt River, Central Arizona: [[Roosevelt Lake]] and [[Apache Lake]]. Sampling ran from summer 1970...
+> -- *[[FactorsInfluencingFishDistribu_PML2234]]*
+
+> This study, by [[J.C. Priscu]], [[J. Verduin]] and [[J.E. Deacon]], examines what happens to organic material produced within [[Lake Mohave]], a 115.3 km² multipurpose impoundment on the lower [[Colorado River]]. The authors combined vertical light extinction, hypolimnetic nitrogen accumulation and...
+> -- *[[TheFateOfBiogenicSuspensoidsIn_PML2165]]*
+
+> This 1973 Arizona State University master's thesis by Peter Olof Bersell examines how fish are distributed with depth in two [[Salt River Reservoirs]], [[Roosevelt Lake]] and [[Apache Lake]]. Vertical gill nets were fished three times a year across transects in each reservoir, and multiple linear...
+> -- *[[VerticalDistributionOfFishesRe_PML0197]]*
+
+> This 1973 Arizona State University master's thesis by Peter Olof Bersell examines how fishes are distributed vertically in two linked central Arizona reservoirs, [[Roosevelt Lake]] and [[Apache Lake]], on the [[Salt River]]. Vertical vertical gill netting was carried out on five runs in Roosevelt...
+> -- *[[VerticalDistributionOfFishesRe_PML0198]]*
+
+### Mentioned In
+- [[FactorsInfluencingFishDistribu_PML2234]]
+- [[TheFateOfBiogenicSuspensoidsIn_PML2165]]
+- [[VerticalDistributionOfFishesRe_PML0197]]
+- [[VerticalDistributionOfFishesRe_PML0198]]
 
 ## Euphrates and Tigris
 
@@ -25484,6 +32719,42 @@ The Eurasian beaver (Castor fiber, written Castor faber in the source) is a larg
 ### Mentioned In
 - [[NoteSurLesTufsCalcairesDeLaVal_15138]]
 
+## Eurasian Bittern
+
+### Summary
+A bird species, listed as red-listed, that depends on reedbed habitats. The report notes that fish populations in UK reedbeds are a food resource for it, and that around 20 breeding males were reported in the UK. At Minsmere, roach sometimes became dominant after reedbed rehabilitation, which may reduce the food available to bitterns.
+
+### Context
+> This FAO Fisheries Report (No. 681, Supplement) records the proceedings of a symposium on [[Inland Fisheries Management]] and the aquatic environment, held in [[Windermere]], United Kingdom, from 12 to 15 June 2002. It ran alongside the Twenty-second Session of the [[European Inland Fisheries...
+> -- *[[ReportOfTheSymposiumOnInlandFi_PML0667]]*
+
+### Mentioned In
+- [[ReportOfTheSymposiumOnInlandFi_PML0667]]
+
+## Eurasian Griffon Vulture
+
+### Summary
+A large Old World vulture of Europe and Asia, the species of a reintroduction program in France. The source says griffon releases there were far less problematic than condor releases, with adult mortality of about 12% per year, mainly from power-line electrocutions, and the wild population grew through natural reproduction.
+
+### Context
+> This paper (Meretsky, Snyder, Beissinger, Clendenen and Wiley, *Conservation Biology* 14(4), August 2000) examines why reintroduced [[California Condor]] populations have failed to become self-sustaining. The authors build a simple female-based, age-structured deterministic model of the historic...
+> -- *[[DemographyOfTheCaliforniaCondo_PML1679]]*
+
+### Mentioned In
+- [[DemographyOfTheCaliforniaCondo_PML1679]]
+
+## Eurasian Lynx
+
+### Summary
+A medium-sized wild cat (Lynx lynx) of Eurasia. The source reports that work on this species integrated habitat evaluation with population modeling (Kramer-Schadt et al. 2005) as part of reintroduction planning.
+
+### Context
+> This review article argues that [[Reintroduction Biology]] should be built on rigorous, hypothesis-driven science rather than intuition and guesswork. The authors classified 454 papers into one of six categories, finding that research on genetics and habitat requirements was increasingly common,...
+> -- *[[DevelopingTheScienceOfReintrod_PML2334]]*
+
+### Mentioned In
+- [[DevelopingTheScienceOfReintrod_PML2334]]
+
 ## Eurasian Milfoil
 <!-- fm: auto_enriched: true -->
 
@@ -25503,6 +32774,18 @@ The Eurasian beaver (Castor fiber, written Castor faber in the source) is a larg
 ### Mentioned In
 - [[TheBiologicalEffectsOfSyntheti_1962]]
 - [[ToxicityToRainbowTroutAndMinno_17797]]
+
+## Eurasian Otter
+
+### Summary
+The Eurasian otter is a semi-aquatic mammal that hunts fish and other prey in freshwater habitats. The source only notes that an otter was seen in the study area, and it does not report any evidence that otters preyed on the tagged pike.
+
+### Context
+> This study tested whether [[Passive Integrated Transponder]] (PIT) technology can track the fate of hatchery-reared young-of-the-year (YOY) [[Northern Pike]] released into a naturally flooded grassland in the [[Brière Marsh]], France, during May–June 2005. Of 192 PIT-tagged fish released, 19.3%...
+> -- *[[UsingPitTechnologyToStudyTheFa_PML0519]]*
+
+### Mentioned In
+- [[UsingPitTechnologyToStudyTheFa_PML0519]]
 
 ## Eurasian Perch
 
@@ -25529,8 +32812,36 @@ Eurasian Watermilfoil (Myriophyllum spicatum) is an aquatic plant species. In th
 > This 1985 study investigated the early life history and ecology of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae in [[Lake Mohave]], Arizona-Nevada, to determine causes of recruitment failure in the only substantial remaining population of this endemic Colorado River species. Adult suckers...
 > -- *[[EarlyLifeHistoryOfRazorbackSuc_12707]]*
 
+> This 1974 preliminary report by [[William J. Hauser]], Assistant Research Biologist at the [[University Of California-Riverside]], was sent under a cover letter dated 15 October 1974 to three Southern California irrigation districts. It evaluates whether [[Grass Carp]] can control nuisance aquatic...
+> -- *[[PreliminaryReportOnTheAbilityO_PML0994]]*
+
+> This EPA Environmental Research Laboratory project summary (EPA-600/3-83-098, December 1983) reports a four-year study by J. V. Shireman, W. T. Haller, D. E. Colle, C. E. Watkins II, D. F. DuRant, and D. E. Canfield (University of Florida) on the physical, chemical and biological effects of...
+> -- *[[EcologicalImpactOfIntegratedCh_PML2350]]*
+
+> This document is a multi-part extract, likely from a 1970s conference or policy publication. It contains three components. The first is a continuation of an American Fisheries Society (AFS) statement on water quality standards for chronic pollution effects in fish. The second is a technical paper...
+> -- *[[TilapiaAManagementToolForBiolo_PML1103]]*
+
+> This Bureau of Reclamation memorandum (Applied Sciences Referral No. 86-2-2, dated March 20, 1986) summarizes the first two sampling trips (October 1985 and December 1985) of the [[Parker I Fishery Study]] on the highly modified [[Lower Colorado River]]. The study collected quantitative...
+> -- *[[ParkerIFisheryStudyDataSummary_PML1052]]*
+
+> This final report (December 1990), prepared by the [[Coachella Valley Water District]] (CVWD), evaluates the operational use of [[Triploid Grass Carp]] stocked to control aquatic vegetation in the unlined 58 km reach of the [[Coachella Canal]], California. Nearly 15,000 triploid grass carp were...
+> -- *[[MonitoringProgramForOperationa_PML2500]]*
+
+> This 1975 annual report from the [[University Of California Riverside]] and the [[Biological Control Project]] evaluates the use of [[Tilapia Zillii]] as a biological herbicide for aquatic weed control in irrigation canals of the Lower Colorado River Basin. Fish were stocked in canals and drains...
+> -- *[[BiologicalControlOfAquaticWeed_PML0996]]*
+
+> This 1974 report, prepared for the [[U.S. Bureau of Reclamation]] under a cooperative agreement with the [[California Department of Fish and Game]], inventories fish, reptile, amphibian, mammal and bird resources, and recreational consumptive use, along the 49-mile [[Coachella Canal]] and adjacent...
+> -- *[[InventoryOfTheFishAndWildlifeR_PML2159]]*
+
 ### Mentioned In
 - [[EarlyLifeHistoryOfRazorbackSuc_12707]]
+- [[PreliminaryReportOnTheAbilityO_PML0994]]
+- [[EcologicalImpactOfIntegratedCh_PML2350]]
+- [[TilapiaAManagementToolForBiolo_PML1103]]
+- [[ParkerIFisheryStudyDataSummary_PML1052]]
+- [[MonitoringProgramForOperationa_PML2500]]
+- [[BiologicalControlOfAquaticWeed_PML0996]]
+- [[InventoryOfTheFishAndWildlifeR_PML2159]]
 
 ## Eureka
 
@@ -25563,6 +32874,18 @@ Eureka is a port city on the northern California coast, one of the main landing 
 ### Mentioned In
 - [[RequestForARulingToCorrectHomo_17135]]
 - [[TheGlobalHistoricalClimatology_12377]]
+
+## European Badger
+
+### Summary
+The European badger is a latrine-using mammal that accumulates feces at shared sites. The source cites it as an example of a species where a single sampling period at latrines can give a representative sample of the population, if all individuals have an equal chance of defecating there.
+
+### Context
+> This simulation study asks whether population size can be estimated reliably from noninvasively collected genetic samples (hair, feces) taken in a **single sampling session**, instead of the multiple sessions required by [[Capture-Mark-Recapture]] (CMR). Using the [[GEMINI Software]] to simulate a...
+> -- *[[EstimatingPopulationSizeWithNo_PML2119]]*
+
+### Mentioned In
+- [[EstimatingPopulationSizeWithNo_PML2119]]
 
 ## European Bullhead
 
@@ -25620,6 +32943,18 @@ The European Catfish (*Silurus glanis*) was not reported from the Orontes in ear
 ### Mentioned In
 - [[DieVerbreitungSyrischerSubwass_12459]]
 
+## European Commission
+
+### Summary
+The European Commission is the executive body of the European Union. This source says it co-sponsored the 2001 Ad Hoc EIFAC/EC Working Party on market perspectives for European freshwater aquaculture alongside the European Inland Fisheries Advisory Commission.
+
+### Context
+> This report from the [[EIFAC]] Ad Hoc Working Party on Market Perspectives of European Freshwater Aquaculture (Brussels, 14–16 May 2001) reviews the state of freshwater aquaculture across the EIFAC region. It focuses on marketing problems and offers strategic advice to governments, investors,...
+> -- *[[ReportOfTheAdHocEifacecWorking_PML0670]]*
+
+### Mentioned In
+- [[ReportOfTheAdHocEifacecWorking_PML0670]]
+
 ## European Corn Borer
 
 ### Summary
@@ -25631,6 +32966,22 @@ The European corn borer is the caterpillar of a moth that is a pest of crops suc
 
 ### Mentioned In
 - [[PropagationOfMinnowsAndOtherBa_19046]]
+
+## European Dipper
+
+### Summary
+Cinclus cinclus, a small aquatic songbird of the family Cinclidae. In this source it is only cited for its flood years, which may define distinct survival periods in analysis. The source does not report any survival estimates for this species.
+
+### Context
+> This methods text explains [[Known Fate Models]], a class of survival models in which the fate (alive or dead) of every marked animal is known at each sampling occasion. Because sampling probabilities are assumed to equal 1, the models estimate interval survival probability (S) with high precision...
+> -- *[[ModelsWhereTheFateOfEveryIndiv_PML1913]]*
+
+> This monograph (Lebreton et al., *Ecological Monographs* 62(1), 1992) synthesizes capture-recapture and resighting models for estimating animal survival rates from individually marked animals. It presents a unified framework built on the [[Cormack-Jolly-Seber Model]] (CJS), extends it to multiple...
+> -- *[[ModelingSurvivalAndTestingBiol_PML1350]]*
+
+### Mentioned In
+- [[ModelsWhereTheFateOfEveryIndiv_PML1913]]
+- [[ModelingSurvivalAndTestingBiol_PML1350]]
 
 ## European Eel
 <!-- fm: auto_enriched: true -->
@@ -25687,6 +33038,15 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 > This translated paper (originally by [[L. S. Berg]], 1934; translated by W. E. Ricker, 1959) reviews **seasonal races** within anadromous fishes: intraspecific groups that differ in the time they enter fresh water and the time they spawn. Berg calls the early-entering, same-year-spawning group...
 > -- *[[VernalAndHiemalRacesAmongAnadr_18184]]*
 
+> This review condenses the 1982 [[EIFAC]] symposium on stock enhancement, held in Budapest, Hungary, in conjunction with the twelfth session of the European Inland Fisheries Advisory Commission. The symposium examined two linked practices: stocking native fishes and introducing exotic species. Its...
+> -- *[[StockEnhancementInTheManagemen_PML2872]]*
+
+> This report from the Eleventh Session of the Joint [[EIFAC]]/[[ICES]] Working Group on Eels (Silkeborg, Denmark, 20–24 September 1999) reviews the status of the [[European Eel]] (*Anguilla anguilla*) across its range. The group concluded that eel yields are declining throughout Europe, that [[Glass...
+> -- *[[ReportOfTheEleventhSessionOfTh_PML0669]]*
+
+> This FAO Fisheries Report (No. 681, 2002) records the proceedings of the Twenty-second Session of the [[European Inland Fisheries Advisory Commission]] (EIFAC), held in Windermere, United Kingdom, 12–19 June 2002, alongside a Symposium on [[Inland Fisheries Management and the Aquatic Environment]]....
+> -- *[[ReportOfTheTwentysecondSession_PML0671]]*
+
 ### Mentioned In
 - [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 - [[BookReviewOfAbyssTheDeepSeaAnd_14170]]
@@ -25706,6 +33066,9 @@ The European Eel (Anguilla anguilla) is a catadromous fish species that undertak
 - [[DieVerbreitungSyrischerSubwass_12459]]
 - [[CriteriaForTheSelectionOfImpor_19358]]
 - [[VernalAndHiemalRacesAmongAnadr_18184]]
+- [[StockEnhancementInTheManagemen_PML2872]]
+- [[ReportOfTheEleventhSessionOfTh_PML0669]]
+- [[ReportOfTheTwentysecondSession_PML0671]]
 
 ## European Flounder
 <!-- fm: auto_enriched: true -->
@@ -25730,8 +33093,12 @@ The European grayling (Thymallus thymallus) is a grayling species in the Salmoni
 > This study analyzes the diet of [[Montana Grayling]] (*Thymallus montanus*) introduced into [[Ford Lake]], a small landlocked lake in northern Michigan, after stocking in fall 1936. The work was motivated by the probable extinction of the native [[Michigan Grayling]] (*Thymallus tricolor*) and the...
 > -- *[[FeedingHabitsOfTheMontanaGrayl_20280]]*
 
+> This study examines the microhabitat use and downstream movements of young-of-the-year [[European Grayling]] (*Thymallus thymallus*) during emergence and early growth in the [[River Suran]], a spawning tributary of the [[River Ain]] in France. Fry were sampled by [[Electrofishing]] and drift...
+> -- *[[MicrohabitatsAndDielDownstream_PML0172]]*
+
 ### Mentioned In
 - [[FeedingHabitsOfTheMontanaGrayl_20280]]
+- [[MicrohabitatsAndDielDownstream_PML0172]]
 
 ## European Hake
 
@@ -25773,6 +33140,18 @@ European Hake is a demersal fish species found in the Eastern Central Atlantic a
 > FAO Aquaculture Newsletter No. 20 (December 1998) is a multi-topic issue. It covers the policy framework for sustainable aquaculture, the integration of fisheries with agriculture, corrected statistics for Chinese aquaculture, water-resource allocation for inland fisheries, the risks and benefits...
 > -- *[[FaoAquacultureNewsletter_14368]]*
 
+> This report from the [[EIFAC]] Ad Hoc Working Party on Market Perspectives of European Freshwater Aquaculture (Brussels, 14–16 May 2001) reviews the state of freshwater aquaculture across the EIFAC region. It focuses on marketing problems and offers strategic advice to governments, investors,...
+> -- *[[ReportOfTheAdHocEifacecWorking_PML0670]]*
+
+> This document is EIFAC Technical Paper No. 1 (1964) from the [[European Inland Fisheries Advisory Commission]] (EIFAC), prepared by a Working Party on Water Quality Criteria for European Freshwater Fish and published by the [[Food and Agriculture Organization]] (FAO) of the United Nations, Rome. It...
+> -- *[[WaterQualityCriteriaForEuropea_PML0668]]*
+
+> This FAO Fisheries Report (No. 681, 2002) records the proceedings of the Twenty-second Session of the [[European Inland Fisheries Advisory Commission]] (EIFAC), held in Windermere, United Kingdom, 12–19 June 2002, alongside a Symposium on [[Inland Fisheries Management and the Aquatic Environment]]....
+> -- *[[ReportOfTheTwentysecondSession_PML0671]]*
+
+> This FAO Fisheries Report (No. 681, Supplement) records the proceedings of a symposium on [[Inland Fisheries Management]] and the aquatic environment, held in [[Windermere]], United Kingdom, from 12 to 15 June 2002. It ran alongside the Twenty-second Session of the [[European Inland Fisheries...
+> -- *[[ReportOfTheSymposiumOnInlandFi_PML0667]]*
+
 ### Mentioned In
 - [[EffectsOfElectricCurrentOnFish_20855]]
 - [[AnIndexedListOfFaoPublications_16312]]
@@ -25782,6 +33161,10 @@ European Hake is a demersal fish species found in the Eastern Central Atlantic a
 - [[StrategiesForReducingRisksFrom_17628]]
 - [[TheOccurrenceOfSewageFungusInR_18112]]
 - [[FaoAquacultureNewsletter_14368]]
+- [[ReportOfTheAdHocEifacecWorking_PML0670]]
+- [[WaterQualityCriteriaForEuropea_PML0668]]
+- [[ReportOfTheTwentysecondSession_PML0671]]
+- [[ReportOfTheSymposiumOnInlandFi_PML0667]]
 
 ## European Minnow
 
@@ -25856,6 +33239,15 @@ The European perch (Perca fluviatilis) is a freshwater fish species native to Eu
 > This 1979 study by P. L. Cadwallader, published in the *Australian Journal of Ecology*, documents the distribution of fish in the Seven Creeks River system, a tributary of the [[Goulburn River]] in the [[Murray-Darling Basin]]. A 1975-76 survey at sixty collecting stations recorded seventeen...
 > -- *[[DistributionOfNativeAndIntrodu_17321]]*
 
+> This study, presented at the Fifth Conference on Fish Telemetry in Europe (Ustica, Italy, 2002; published by FAO/COISPA, 2005), examines whether [[Artificial Fish Refuges]] reduce the predation pressure exerted by [[Great Cormorant]] (*Phalacrocorax carbo*) on freshwater coarse fish in England....
+> -- *[[HabitatUseByRoachRutilusRutilu_PML2276]]*
+
+> This study by L. Persson (Institute of Limnology, University of Lund, Sweden; published in *Freshwater Biology*, 1981) examines how [[Water Temperature]] and [[Meal Size]] influence the rate of gastric evacuation in [[European Perch]] (*Perca fluviatilis*) fed on small fish, mainly [[Bleak]]...
+> -- *[[TheEffectsOfTemperatureAndMeal_PML2117]]*
+
+> This paper, by C. Kipling and E. D. Le Cren of the [[Freshwater Biological Association]] (Ambleside, Cumbria), reviews four decades of marking experiments on three fish species in [[Windermere]]: [[European Perch]], [[Northern Pike]] and [[Arctic Charr]]. Individual fish were marked with numbered...
+> -- *[[MarkrecaptureExperimentsOnFish_PML1279]]*
+
 ### Mentioned In
 - [[EffectsOfAntimycinAOnTissueRes_11530]]
 - [[SeasonalVariationsInTheGrowthH_15086]]
@@ -25871,6 +33263,9 @@ The European perch (Perca fluviatilis) is a freshwater fish species native to Eu
 - [[ExperimentalDeterminationOfFoo_19792]]
 - [[GrowthAndMortalityOfZebraFishB_17989]]
 - [[DistributionOfNativeAndIntrodu_17321]]
+- [[HabitatUseByRoachRutilusRutilu_PML2276]]
+- [[TheEffectsOfTemperatureAndMeal_PML2117]]
+- [[MarkrecaptureExperimentsOnFish_PML1279]]
 
 ## European Plaice
 <!-- fm: auto_enriched: true -->
@@ -25891,12 +33286,32 @@ The European perch (Perca fluviatilis) is a freshwater fish species native to Eu
 > This synthesis by T. B. Bagenal compiles roughly 30 years of work on the fecundity (number of ripening eggs prior to spawning) of the [[European Plaice]] across most of its geographical range. Fecundity is lowest in the Southern Bight of the [[North Sea]], rises in all directions from there, and is...
 > -- *[[TheEcologicalAndGeographicalAs_17195]]*
 
+> This experimental study tested whether species-specific [[TaqMan Real-Time PCR]] probes can detect prey DNA from fish eggs and larvae after ingestion by a teleost predator, the [[Whiting]] (*Merlangius merlangus*). Prey were [[Atlantic Cod]] (*Gadus morhua*) eggs and yolk-sac larvae, and [[European...
+> -- *[[EffectivenessOfTaqmanProbesFor_PML1132]]*
+
+> This FAO Fisheries Report (No. 161, restricted distribution, October 1973) is the proceedings-style record of the International Symposium on the Early Life History of Fish, held at [[Dunstaffnage Marine Research Laboratory]], Oban, Scotland, 17–23 May 1973. It was organized by IABO (International...
+> -- *[[ReportOfTheInternationalSympos_PML0708]]*
+
 ### Mentioned In
 - [[StomachContentsOfAdultStarryFl_15271]]
 - [[VariationsInTheFecundityOfPike_1969]]
 - [[TheDevelopmentOfAVinylPlasticS_14114]]
 - [[ProblemsInThePhysiologicalMoni_20869]]
 - [[TheEcologicalAndGeographicalAs_17195]]
+- [[EffectivenessOfTaqmanProbesFor_PML1132]]
+- [[ReportOfTheInternationalSympos_PML0708]]
+
+## European Rabbit
+
+### Summary
+The European rabbit is an introduced species in Australia, where it has become a serious pest. The source discusses its populations on Wardang Island and the mainland near Point Pearce, South Australia, as targets of biocontrol with viruses.
+
+### Context
+> This excerpt from *Science* (Vol. 270, 22 October 1995) combines three items. The main feature is a policy essay by [[Naiman]], [[Magnuson]], [[McKnight]], [[Stanford]] and [[Karr]] on the state of U.S. [[Freshwater Ecosystems]]. It argues that current laws and programs are fragmented and...
+> -- *[[FreshwaterEcosystemsAndTheirMa_PML1997]]*
+
+### Mentioned In
+- [[FreshwaterEcosystemsAndTheirMa_PML1997]]
 
 ## European Salmon
 
@@ -25955,8 +33370,12 @@ An introduced bird from Europe. The source says it competes with native birds fo
 > This handbook, issued by the [[New Mexico Department Of Game And Fish]] in 1979 and written by John P. Hubbard, Marshall C. Conway, Howard Campbell, Gregory Schmitt and Michael D. Hatch, documents the 93 animal species listed as endangered in New Mexico under the [[Wildlife Conservation Act]]...
 > -- *[[HandbookOfSpeciesEndangeredInN_19959]]*
 
+> This methodological review (Anderson, White and Burnham, *Environmental and Ecological Statistics*, 1995) presents three empirical approaches to [[Risk Assessment]] in field studies of free-ranging vertebrates. The first uses statistical inference on recruitment or mortality from...
+> -- *[[SomeSpecializedRiskAssessmentM_PML0056]]*
+
 ### Mentioned In
 - [[HandbookOfSpeciesEndangeredInN_19959]]
+- [[SomeSpecializedRiskAssessmentM_PML0056]]
 
 ## European Sturgeon
 
@@ -25967,8 +33386,24 @@ The European sturgeon (Acipenser sturio) is the only sturgeon species in western
 > This U.S. Fish and Wildlife Service, Bureau of Commercial Fisheries leaflet (Fishery Leaflet 526, September 1961, by Lola T. Dees) is a general overview of the [[Sturgeon]] family, Acipenseridae. It covers morphology, life history, feeding, reproduction, behavior, the causes of population decline,...
 > -- *[[Sturgeons_12753]]*
 
+> This chapter, by [[Robert A. Leidy]] and [[Peter B. Moyle]], appears in the edited volume *[[Conservation Biology for the Coming Decade]]* (1998). It reviews the status of the world's fish fauna as an indicator of aquatic biodiversity. The authors argue that aquatic ecosystems, especially...
+> -- *[[ConservationStatusOfTheWorldsF_PML1354]]*
+
 ### Mentioned In
 - [[Sturgeons_12753]]
+- [[ConservationStatusOfTheWorldsF_PML1354]]
+
+## European Union
+
+### Summary
+The European Union is a political and economic union of European states. This source notes that Poland's decline in marine catches gave it a reason to expand freshwater farming before accession to the EU.
+
+### Context
+> This report from the [[EIFAC]] Ad Hoc Working Party on Market Perspectives of European Freshwater Aquaculture (Brussels, 14–16 May 2001) reviews the state of freshwater aquaculture across the EIFAC region. It focuses on marketing problems and offers strategic advice to governments, investors,...
+> -- *[[ReportOfTheAdHocEifacecWorking_PML0670]]*
+
+### Mentioned In
+- [[ReportOfTheAdHocEifacecWorking_PML0670]]
 
 ## Eurybiont
 
@@ -26112,9 +33547,13 @@ Eurycercus is a genus of water fleas (cladocerans). The source lists it among th
 > This study by W. J. P. Smyly, of the [[Freshwater Biological Association]], examines the distribution and seasonal abundance of [[Entomostraca]] (small freshwater crustaceans in the orders [[Copepoda]], [[Cladocera]] and [[Ostracoda]]) in three small moorland ponds on Claife Heights near...
 > -- *[[DistributionAndSeasonalAbundan_21217]]*
 
+> This study by Alasdair Scott and Paul C. Marsh (Freshwater Biology, 1987) examines how juvenile [[Dace]], [[Roach]] and yearling [[Minnow]] select prey in flowing and still water. The three [[Cyprinidae]] species showed broadly similar feeding behaviour and prey preferences. Prey selection depended...
+> -- *[[PreySelectionByJuvenileCyprini_PML2323]]*
+
 ### Mentioned In
 - [[ANoteOnTheNumberOfEggsInTheEph_1956]]
 - [[DistributionAndSeasonalAbundan_21217]]
+- [[PreySelectionByJuvenileCyprini_PML2323]]
 
 ## Euryhaline
 <!-- fm: auto_enriched: true -->
@@ -26136,6 +33575,9 @@ Euryhaline fish are species capable of surviving and reproducing across a wide r
 > This study documents scale-eating (lepidophagy) in [[Terapon Jarbua]], a marine teleost up to 25 cm long that is common in the estuaries of the tropical and subtropical Indian Ocean. Fish scales removed from living fish were the most important food item, and the authors state that this niche had...
 > -- *[[ScaleeatingHabitsOfTheMarineTe_12239]]*
 
+> This short experimental paper by J. Chervinski and A. Yashouv of the [[Fish Culture Research Station]] (Dor, Israel) reports the first trial of [[Tilapia Aurea]] growth in seawater ponds. The authors asked whether this freshwater-origin cichlid could be cultured in full-strength seawater, either as...
+> -- *[[PreliminaryExperimentsOnGrowth_PML0412]]*
+
 ### Mentioned In
 - [[EffectOfActivitySalinityAndTem_1969]]
 - [[NocturnalTerrestrialHabitsOfTh_1955_08_19]]
@@ -26143,6 +33585,7 @@ Euryhaline fish are species capable of surviving and reproducing across a wide r
 - [[RecordsOfMenidiaBery_13348]]
 - [[WaterAndSodiumMoveme_19754]]
 - [[ScaleeatingHabitsOfTheMarineTe_12239]]
+- [[PreliminaryExperimentsOnGrowth_PML0412]]
 
 ## Euryhaline Species
 <!-- fm: auto_enriched: true -->
@@ -26184,6 +33627,18 @@ Euryhaline fish are species capable of surviving and reproducing across a wide r
 - [[TheDistributionOfTheFreshwater_1979]]
 - [[MisidaceiCavernicoliItalianiCr_11251]]
 - [[NotesOnTheEcologyOfAphaniusDis_20948]]
+
+## Euryplastic Fish
+
+### Summary
+A research concept, referred to in this source, for studying how organisms respond to combined environmental factors rather than single factors alone. The source says this study is part of a wider programme built on the idea. The source does not give further detail on the concept.
+
+### Context
+> This laboratory study by [[Otto Kinne]] and Eva Maria Kinne examines how embryonic development in the euryhaline teleost [[Cyprinodon Macularius]] (desert pupfish) responds to combined changes in temperature, salinity and dissolved oxygen. Eggs were transferred about 4 hours after oviposition into...
+> -- *[[RatesOfDevelopmentInEmbryosOfA_PML1278]]*
+
+### Mentioned In
+- [[RatesOfDevelopmentInEmbryosOfA_PML1278]]
 
 ## Eurystheus Longicanthus
 
@@ -26315,6 +33770,18 @@ Eustoma exaltatum is a wetland herb in the gentian family. In this source it is 
 ### Mentioned In
 - [[VegetationAndFloraOfTheBolsonO_11096]]
 
+## Eut Spring
+
+### Summary
+A spring site in Arizona that dries occasionally. The report recommends researching its water permanence before any restocking with Gila Topminnow is considered, with augmentation as a possible future option.
+
+### Context
+> This Arizona Game and Fish Department (AGFD) Technical Report, authored by David A. Weedman and Kirk L. Young (June 1995), evaluates [[Gila Topminnow]] reintroduction sites that have failed and determines which may be declared "extirpated." Since 1981, the [[Arizona Game And Fish Department]],...
+> -- *[[GilaTopminnowExtirpationSitesI_PML2851]]*
+
+### Mentioned In
+- [[GilaTopminnowExtirpationSitesI_PML2851]]
+
 ## Euthyneura
 
 ### Summary
@@ -26356,8 +33823,16 @@ Eutrophic lakes are nutrient-rich lakes with dense algal populations. Their surf
 > This 1967 review by [[J. W. G. Lund]] of the Freshwater Biological Association argues that understanding the ecology of [[Planktonic Algae]] is essential to understanding the ecology of a lake as a whole. It covers algal productivity and biomass estimates, the transfer of energy from primary to...
 > -- *[[PlanktonicAlgaeAndTheEcologyOf_16259]]*
 
+> This EPA Project Summary, prepared by the [[U.S. Environmental Protection Agency]] Environmental Monitoring Systems Laboratory in Las Vegas, Nevada (EPA-600/S3-81-001, February 1981), argues that lake trophic classifications based only on [[Total Phosphorus]] are unreliable. Using data from 757...
+> -- *[[ModificationsOfModelsPredictin_PML1045]]*
+
+> This reprinted paper by [[William J. McConnell]] (*Limnology and Oceanography*, Vol. 10, No. 4, October 1965, pp. 539–543) tests how the growth of a herbivorous fish relates to the rate of [[Gross Photosynthesis]] in experimental [[Microcosm Experiments]]. The study uses [[Tilapia Mossambica]]...
+> -- *[[RelationshipOfHerbivoreGrowthT_PML1636]]*
+
 ### Mentioned In
 - [[PlanktonicAlgaeAndTheEcologyOf_16259]]
+- [[ModificationsOfModelsPredictin_PML1045]]
+- [[RelationshipOfHerbivoreGrowthT_PML1636]]
 
 ## Eutrophic Wetland
 <!-- fm: auto_enriched: true -->
@@ -26484,6 +33959,39 @@ Eutrophication is the process of nutrient enrichment (particularly nitrogen and 
 > This MedWet publication (number 7, Tour du Valat, 1996) by [[Peter Maitland]] and [[Alain Crivelli]] reviews the biology, diversity, threats and conservation options for freshwater fish of the north Mediterranean region. It argues that freshwater fish are among the most threatened vertebrates, that...
 > -- *[[ConservationOfFreshwaterFish_19360]]*
 
+> This U.S. Fish and Wildlife Service memorandum, dated 2 February 2004 and issued by the [[Arizona Fishery Resources Office]] in Parker, reports on two activities at [[Cibola National Wildlife Refuge]] (CNWR). The first was a routine maintenance check of the pupfish refuge pond, where a recurring...
+> -- *[[NativeFishWorkAtCibolaNational_PML2620]]*
+
+> This EPA [[Environmental Monitoring Systems Laboratory]] project summary (EPA-600/S3-80-100, February 1981) presents environmental data for freshwater algae linked to water quality problems in lakes. The work covers species and genera associated with six problem categories: [[Eutrophication]],...
+> -- *[[PhytoplanktonWaterQualityRelat_PML2493]]*
+
+> This EPA Project Summary, prepared by the [[U.S. Environmental Protection Agency]] Environmental Monitoring Systems Laboratory in Las Vegas, Nevada (EPA-600/S3-81-001, February 1981), argues that lake trophic classifications based only on [[Total Phosphorus]] are unreliable. Using data from 757...
+> -- *[[ModificationsOfModelsPredictin_PML1045]]*
+
+> This experimental study tests how grazing by the omnivorous fish [[Oreochromis Aureus]] (blue tilapia) at two stocking densities affects phytoplankton abundance, biomass and community composition. The experiment ran for 15 weeks in five outdoor [[Solar Silos]] (free-standing, mixed microcosms). The...
+> -- *[[BioticEffectsOfGrazingByTilapi_PML2129]]*
+
+> This paper by [[Wendell L. Minckley]], an Arizona State University zoologist, is an ecologist's introduction to the complexity of man-environment interactions, published in the 1970 volume *Water Resource Systems* from the [[Arizona State University]] Water Resource Systems program. It argues that...
+> -- *[[ExploitationAndEnvironmentalQu_PML1820]]*
+
+> This study by Robert Clarkson and W. L. Minckley (August 1980) measured fish standing crop (biomass and density) in [[Bonita Creek]], a small desert stream in Graham County, Arizona, from November 1977 to December 1978. The goal was to track community trends linked to the variability of a desert...
+> -- *[[UnusualFishStandingCropsInBoni_PML0455]]*
+
+> This December 1995 review by Gary Schiffmiller (University of New Mexico) documents a rapid, unprecedented decline in the abundance, diversity, and distribution of native freshwater fishes in western North America. Western species account for a disproportionate share of threatened and extinct North...
+> -- *[[TheDeclineInAbundanceDiversity_PML2290]]*
+
+> This 1970 journal article, authored by Darrell L. King (Associate Professor of Civil Engineering, University of Missouri-Columbia), argues that carbon availability, rather than only nitrogen and phosphorus, is a major and under-recognized limit on algal photosynthesis and therefore on...
+> -- *[[TheRoleOfCarbonInEutrophicatio_PML1277]]*
+
+> This report from the [[Arizona Cooperative Fishery Research Unit]] (University of Arizona, Tucson) examines whether [[Typha latifolia]] (broadleaf cattail) supports the sport fishery of [[Imperial Reservoir]], a eutrophic, partly brackish reservoir on the [[Lower Colorado River]] in Arizona and...
+> -- *[[TheEcologyOfTyphaLatifoliaInIm_PML0952]]*
+
+> [[Bureau of Reclamation]] (Lower Colorado Region) assessed [[Butler Lake]], a 43-acre (17.2 ha) isolated floodplain lake on the [[Imperial National Wildlife Refuge]] (INWR), as a potential native fish refugium. In its current state the lake supports few fish or aquatic birds because it is in an...
+> -- *[[PreliminaryHabitatAssessmentEs_PML2580]]*
+
+> This final report from the [[Arizona Game and Fish Department]] (AGFD) documents a two-year (September 1987 to August 1989) pre-construction baseline survey of [[Lake Pleasant]], a warm monomictic reservoir northwest of Phoenix, Arizona. The study was funded under a cooperative agreement with the...
+> -- *[[PhaseIBaselineLimnologicalAndF_PML0103]]*
+
 ### Mentioned In
 - [[AcclimationOfRainbowTroutToHig_15535]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -26540,6 +34048,17 @@ Eutrophication is the process of nutrient enrichment (particularly nitrogen and 
 - [[FaoAquacultureNewsletter_14368]]
 - [[EffectsOfAgriculturalPollutant_17361]]
 - [[ConservationOfFreshwaterFish_19360]]
+- [[NativeFishWorkAtCibolaNational_PML2620]]
+- [[PhytoplanktonWaterQualityRelat_PML2493]]
+- [[ModificationsOfModelsPredictin_PML1045]]
+- [[BioticEffectsOfGrazingByTilapi_PML2129]]
+- [[ExploitationAndEnvironmentalQu_PML1820]]
+- [[UnusualFishStandingCropsInBoni_PML0455]]
+- [[TheDeclineInAbundanceDiversity_PML2290]]
+- [[TheRoleOfCarbonInEutrophicatio_PML1277]]
+- [[TheEcologyOfTyphaLatifoliaInIm_PML0952]]
+- [[PreliminaryHabitatAssessmentEs_PML2580]]
+- [[PhaseIBaselineLimnologicalAndF_PML0103]]
 
 ## Eutrophy
 
@@ -26564,6 +34083,18 @@ Evadne is a genus of Cladocera. The source names it as one of only three marine 
 
 ### Mentioned In
 - [[AKeyToTheBritishSpeciesOfFresh_11322]]
+
+## Evaluation
+
+### Summary
+Evaluation, in this source, means assessing whether conservation activities actually worked and which approaches are cost-effective. Kleiman found that only about 8% of the sampled 2002 abstracts reported evaluation of activities. She recommends that organizations use evaluation results to guide future work rather than treating criticism as failure.
+
+### Context
+> This commentary by [[Devra G. Kleiman]] examines the balance of activities presented at the 2002 meeting of the [[Society for Conservation Biology]] (SCB) in Canterbury. The author argues that, despite frequent references to [[Adaptive Management]], conservation biology focuses more on defining...
+> -- *[[StrikingABalance_PML1284]]*
+
+### Mentioned In
+- [[StrikingABalance_PML1284]]
 
 ## Evans
 
@@ -26639,11 +34170,15 @@ Evaporation is the process by which water leaves a surface as vapor, here strong
 > This 1941 hydrological study by H. M. Babcock and E. M. Cushing, of the [[U.S. Geological Survey]], examines how flash floods in [[Queen Creek]], a typical large desert wash in [[Pinal County]], [[Arizona]], recharge the underlying [[Alluvium]] aquifer. The work supported a proposed flood-control...
 > -- *[[RechargeToGroundwaterFromFlood_17190]]*
 
+> This report, published in January 1953 by the [[California Department of Fish and Game]] Bureau of Fish Conservation, assesses how [[Channelization]] of the lower [[Colorado River]] reduced its value as a game fish habitat. Dam construction in 1936 to 1938 ([[Hoover Dam]], [[Parker Dam]], and...
+> -- *[[TheEffectOfChannelizationOnThe_PML0189]]*
+
 ### Mentioned In
 - [[EvolutionOfWaterCompositionInT_16819]]
 - [[TheHydrologicHistoryOfTheSanCa_12556]]
 - [[CTheThermomineralSprings_20133]]
 - [[RechargeToGroundwaterFromFlood_17190]]
+- [[TheEffectOfChannelizationOnThe_PML0189]]
 
 ## Evaporation and Transpiration
 
@@ -26656,6 +34191,18 @@ The loss of water to the atmosphere from open surfaces (evaporation) and from pl
 
 ### Mentioned In
 - [[RechargeToGroundwaterFromFlood_17190]]
+
+## Evaporation Ponds
+
+### Summary
+Brine disposal facilities planned for the project, consisting of 53 individual ponds of 20 acres each. The report identifies a concern that these ponds could attract waterfowl.
+
+### Context
+> This Bureau of Reclamation memorandum transmits the Preliminary Findings Report (PFR) on a proposed dual-purpose [[Lower Virgin River Project]], prepared jointly with the [[Las Vegas Valley Water District]] (LVVWD). The project would divert saline water from the lower [[Virgin River]] in Nevada,...
+> -- *[[LowerVirginRiverProjectPrelimi_PML2608]]*
+
+### Mentioned In
+- [[LowerVirginRiverProjectPrelimi_PML2608]]
 
 ## Evaporation-Precipitation Ratio
 
@@ -26723,6 +34270,9 @@ Evapotranspiration is the combined loss of water to the atmosphere through evapo
 > This study by [[Campbell]] and [[Green]] examines the composition, distribution, and community structure of stream-channel vegetation along [[Sycamore Creek]], a 42-mile, semiarid stream in central [[Arizona]] that drains the [[Mazatzal Mountains]] and joins the [[Verde River]]. Using 402 randomly...
 > -- *[[PerpetualSuccessionOfStreamcha_17347]]*
 
+> This EPA Environmental Research Laboratory project summary (EPA-600/S3-80-087, July 1981) reports a three-year study of how [[Agricultural Land Development]] affects hydrology and runoff water quality on high organic soils in the [[North Carolina Tidewater Region]]. The study was carried out by R....
+> -- *[[EffectOfAgriculturalLandDevelo_PML2375]]*
+
 ### Mentioned In
 - [[WhereToFindWaterExpertiseAtSta_13523]]
 - [[WildlifeConflictsInRiparianMan_17945]]
@@ -26734,6 +34284,7 @@ Evapotranspiration is the combined loss of water to the atmosphere through evapo
 - [[PluvialLakesAndEstimatedPluvia_15268]]
 - [[LongtermStreamflowRecordsRecon_14346]]
 - [[PerpetualSuccessionOfStreamcha_17347]]
+- [[EffectOfAgriculturalLandDevelo_PML2375]]
 
 ## Evarra
 
@@ -26935,6 +34486,9 @@ Everglades National Park is a protected area in southeastern Florida where Natio
 > This feature article by Jon R. Luoma examines whether [[Captive Breeding]] can pull endangered animals back from extinction, and what is lost when wild populations are replaced by animals in cages. The central paradox is that [[Black-footed Ferret]] numbers rebounded in captivity while no ferret...
 > -- *[[BornToBeWildCaptiveBreedingCan_16272]]*
 
+> This review by [[Courtenay]] and Robins examines the introduction of non-native fishes into North American waters, focusing on the procedures used to evaluate them and how those procedures have been modified, neglected, or ignored. The authors argue that many introductions were made without...
+> -- *[[FishIntroductionsGoodManagemen_PML0506]]*
+
 ### Mentioned In
 - [[FishIntroductionsGoodManagemen_17630]]
 - [[TwoNewArgulidsCopepodaBranchur_18010]]
@@ -26944,6 +34498,7 @@ Everglades National Park is a protected area in southeastern Florida where Natio
 - [[RangeExpansionAndEnvironmental_17623]]
 - [[ExoticFishesInFreshAndBrackish_17621]]
 - [[BornToBeWildCaptiveBreedingCan_16272]]
+- [[FishIntroductionsGoodManagemen_PML0506]]
 
 ## Everglades Restoration
 
@@ -27013,6 +34568,18 @@ Everhart et al. (1953) is a lake inventory cited by the report, covering most of
 ### Mentioned In
 - [[MedomakRiverDrainageFishManage_18810]]
 
+## Everhart and Youngs
+
+### Summary
+Everhart and Youngs (1981) is a set of population estimation formulae. The authors applied them, together with depletion sampling, to estimate fish populations from electrofishing catches in the Clifton District streams.
+
+### Context
+> This draft final report, prepared by the [[Arizona Game and Fish Department]] (AGFD) for the USDA Forest Service in December 1988, surveys fish communities and riparian habitat on 14 grazing allotments within the [[Clifton Ranger District]] of the [[Apache-Sitgreaves National Forest]]. Twenty-four...
+> -- *[[AFishAndRiparianSurveyOfTheCli_PML2085]]*
+
+### Mentioned In
+- [[AFishAndRiparianSurveyOfTheCli_PML2085]]
+
 ## Everhart And Youngs 1981
 
 ### Summary
@@ -27043,11 +34610,15 @@ Evermann is an author of a 19th-century taxonomic description cited in the bibli
 > Schreck and Behnke (1971) revise the five endemic trout names described from the upper [[Kern River]] drainage of the southern [[Sierra Nevada]] into two subspecies of *Salmo aguabonita*: *S. a. aguabonita* ([[California Golden Trout]]) and *S. a. gilberti* ([[Kern River Trout]]). The authors argue...
 > -- *[[TroutsOfTheUpperKernRiverBasin_20602]]*
 
+> This document is the front matter and References section (Section VII) of a final report titled *Aquatic Habitats and Fishes of the Lower Colorado River, Southwestern United States*. W. L. Minckley of the Arizona State University Department of Zoology and Center for Environmental Studies prepared...
+> -- *[[AquaticHabitatsAndFishesOfTheL_PML1893]]*
+
 ### Mentioned In
 - [[PreliminaryBibliographyOnFishI_12265]]
 - [[TheFishesOfTheUpperGuadalupeRi_14256]]
 - [[HybridizationInNatureBetweenSp_14308]]
 - [[TroutsOfTheUpperKernRiverBasin_20602]]
+- [[AquaticHabitatsAndFishesOfTheL_PML1893]]
 
 ## Evermann 1906
 
@@ -27064,8 +34635,13 @@ An earlier source cited by the authors for the transplant history: 12 golden tro
 ## Evermann And Clark
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This document is a revised official checklist of the freshwater and anadromous fishes of California, prepared by [[Shapovalov and Dill]] for the [[California Department of Fish and Game]]. It follows a 1950 original edition and aims to (1) provide an accurate inventory as the first step toward a...
+> -- *[[ARevisedCheckListOfTheFreshwat_PML2344]]*
+
 ### Mentioned In
 - [[SalmoRoseiNotAValidSpecies_12861]]
+- [[ARevisedCheckListOfTheFreshwat_PML2344]]
 
 ## Evermann and Clark 1921
 
@@ -27131,9 +34707,13 @@ The 1894 checklist of Colorado River fishes that Gilbert and Scofield used as th
 > This is the first published checklist of the fish fauna of [[Arizona]], compiled by Robert Rush Miller (University of Michigan) and Charles H. Lowe (University of Arizona). It is based on fieldwork and a review of the literature, and it covers both native species and species introduced by agencies...
 > -- *[[AnAnnotatedCheckListOfTheFishe_15394]]*
 
+> This check list, by [[Robert Rush Miller]] and [[Charles H. Lowe]], is the first comprehensive inventory of the fishes known to occur in Arizona waters. It covers both native and introduced species, compiled from a review of the literature and museum records. The authors report **68 species**, of...
+> -- *[[FishesOfArizona_PML1690]]*
+
 ### Mentioned In
 - [[NotesOnACollectionOfFishesFrom_16994]]
 - [[AnAnnotatedCheckListOfTheFishe_15394]]
+- [[FishesOfArizona_PML1690]]
 
 ## Eversole
 
@@ -27170,6 +34750,18 @@ A distinction adopted from Waddington (1956): evocation is a non-specific call f
 
 ### Mentioned In
 - [[DevelopmentAndEvolutionOfSkele_21041]]
+
+## Evoland
+
+### Summary
+An agent-based or tradeoff modeling tool mentioned in the source as an example of the modeling options available for assessing flow effects. The source references its use in the Willamette Basin but gives no further description.
+
+### Context
+> This document is the raw working record (presentation notes, transcripts, planning memos, correspondence, panelist bios, and draft reports) of the [[2009 Gila Science Forum]] held 3 June 2009 at Western New Mexico University, Silver City. Six panelists addressed four questions on the potential...
+> -- *[[GilaScienceForumPaulCMarshPres_PML1513]]*
+
+### Mentioned In
+- [[GilaScienceForumPaulCMarshPres_PML1513]]
 
 ## Evolution
 
@@ -27208,6 +34800,21 @@ An Evolutionarily Significant Unit (ESU) is a population or group of populations
 > This review, by [[Richard L. Mayden]] and [[Robert M. Wood]] in the American Fisheries Society Symposium 17 (1995), argues that accurate recognition of biodiversity depends on [[Phylogenetic Systematics]] and an appropriate [[Species Concept]]. The authors contend that most species concepts in use...
 > -- *[[SystematicsSpeciesConceptsAndT_15240]]*
 
+> This paper, by [[David Policansky]] and [[John J. Magnuson]] (Ecological Applications, 1998 Special Issue), argues that [[Genetic Diversity]] deserves far more weight in [[Ecosystem Management]] of fisheries than it usually receives. The authors use [[Pacific Salmon]] of the Pacific Northwest as a...
+> -- *[[GeneticsMetapopulationsAndEcos_PML2148]]*
+
+> This experimental study tests whether [[Inbreeding Depression]] and [[Outbreeding Depression]] affect fitness in the endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) across four surviving populations in Arizona. Using replicated sib (inbred), between-population (outbred) and...
+> -- *[[TestingForInbreedingAndOutbree_PML2347]]*
+
+> This perspective article argues that [[Pacific Salmon]] (*Oncorhynchus* spp.) in the [[Pacific Northwest]] have declined regionally and gone locally extinct mainly because of freshwater habitat destruction and overfishing. Current management focuses on [[Habitat Restoration]] and stricter fishery...
+> -- *[[ManagingTheDeclineOfPacificSal_PML2939]]*
+
+> This review by W.L. Minckley synthesizes the ecology of the endangered [[Gila Topminnow]] (*Poeciliopsis occidentalis*) and proposes recovery actions. The author argues that the species historically persisted through cycles of expansion during wet periods and retreat into [[Population Refugia]]...
+> -- *[[EcologicalReviewAndManagementR_PML1861]]*
+
+> This study by [[Philip W. Hedrick]] and [[Karen M. Parker]] (Arizona State University) uses molecular markers to characterize the genetic structure of endangered [[Gila Topminnow]] and [[Yaqui Topminnow]] populations in Arizona. The authors sampled nine additional Gila topminnow populations and two...
+> -- *[[GeneticCharacterizationOfSonor_PML1024]]*
+
 ### Mentioned In
 - [[Bureaucratic Mischief Recognizing Endangered Species and Subspecies]]
 - [[PacificSalmonAndArtificialProp_19840]]
@@ -27216,6 +34823,11 @@ An Evolutionarily Significant Unit (ESU) is a population or group of populations
 - [[DraftRevisedRecoveryPlanForGil_16930]]
 - [[DesertAquaticEcosystemsAndTheG_20492]]
 - [[SystematicsSpeciesConceptsAndT_15240]]
+- [[GeneticsMetapopulationsAndEcos_PML2148]]
+- [[TestingForInbreedingAndOutbree_PML2347]]
+- [[ManagingTheDeclineOfPacificSal_PML2939]]
+- [[EcologicalReviewAndManagementR_PML1861]]
+- [[GeneticCharacterizationOfSonor_PML1024]]
 
 ## Evolutionarily Significant Units
 
@@ -27238,12 +34850,24 @@ Evolutionarily Significant Units (ESUs) are groups designated by the National Ma
 > This report, dated December 30, 1994, was produced by the National Fish Hatchery Review Panel for the [[U.S. Fish And Wildlife Service]] (Service). The Panel was funded by the National Fish and Wildlife Foundation, contracted through The Conservation Fund, and co-chaired by Dr. Robert Putz and Dr....
 > -- *[[ReportOfTheNationalFishHatcher_18795]]*
 
+> This study by [[Hedrick]], [[Parker]] and [[Lee]] (Arizona State University, *Molecular Ecology*, 2001) tests whether neutral [[Microsatellite Loci]] and a major histocompatibility gene ([[Major Histocompatibility Complex]], MHC) identify the same population structure in endangered [[Gila...
+> -- *[[UsingMicrosatelliteAndMhcVaria_PML1026]]*
+
+> This Arizona State University honors thesis (Jeffery Chow, May 2000) uses mitochondrial DNA (mtDNA) cytochrome b sequences and single-stranded conformational polymorphism (SSCP) screening to assess genetic distinctiveness among [[Speckled Dace]] populations, focusing on Nevada. The study addresses...
+> -- *[[MitochondrialDnaDiversityWithi_PML0425]]*
+
+> This revised [[Genetics Management Plan]] from the U.S. Fish and Wildlife Service (Region 6, Denver, June 21, 1999) guides the [[Recovery Implementation Program]] for four endangered fishes of the Upper Colorado River Basin: [[Razorback Sucker]], [[Bonytail]], [[Humpback Chub]], and [[Colorado...
+> -- *[[GeneticsManagementPlanForEndan_PML0523]]*
+
 ### Mentioned In
 - [[ExecutiveSummary_18726]]
 - [[ReportOfTheNationalFishHatcher_20169]]
 - [[ReportOfTheNationalFishHatcher_20170]]
 - [[GeneticCharacterizationOfSonor_16959]]
 - [[ReportOfTheNationalFishHatcher_18795]]
+- [[UsingMicrosatelliteAndMhcVaria_PML1026]]
+- [[MitochondrialDnaDiversityWithi_PML0425]]
+- [[GeneticsManagementPlanForEndan_PML0523]]
 
 ## Evolutionary Allometry
 
@@ -27304,6 +34928,18 @@ The study of how natural selection and local adaptation shape the genetic traits
 ### Mentioned In
 - [[LahontanCutthroatTroutAMegafis_18155]]
 
+## Evolutionary History
+
+### Summary
+Evolutionary history refers to the phylogenetic lineage that shapes a species' traits. In this source, the authors conclude that stream fish assemblages in the upper Roanoke River drainage are structured more by evolutionary history and phylogeny than by convergent adaptation to environmental niches. Ecomorphological patterns were therefore valid mainly for comparisons within families.
+
+### Context
+> Douglas and Matthews (1992, *Oikos* 65:213–224) test whether body morphology can serve as an index of stream fish assemblage structure, using [[Ecomorphology]] data from 17 fish species in five families collected in the upper [[Roanoke River]] drainage, Virginia. Morphology was compared with...
+> -- *[[DoesMorphologyPredictEcologyHy_PML0604]]*
+
+### Mentioned In
+- [[DoesMorphologyPredictEcologyHy_PML0604]]
+
 ## Evolutionary Paleoecology
 
 ### Summary
@@ -27326,9 +34962,17 @@ The study of how ecology and evolution of organisms are reconstructed from the f
 > This review, by [[Richard L. Mayden]] and [[Robert M. Wood]] in the American Fisheries Society Symposium 17 (1995), argues that accurate recognition of biodiversity depends on [[Phylogenetic Systematics]] and an appropriate [[Species Concept]]. The authors contend that most species concepts in use...
 > -- *[[SystematicsSpeciesConceptsAndT_15240]]*
 
+> Burr and Mayden (1999) describe a new North American catostomid sucker, [[Southeastern Blue Sucker]] (*Cycleptus meridionalis*), from Gulf Slope drainages between the Mobile Basin, Alabama, and the Pearl River, Louisiana. The paper also reviews the distribution, biology, and conservation status of...
+> -- *[[ANewSpeciesOfCycleptusCyprinif_PML0341]]*
+
+> This document is a compilation of internal U.S. Fish and Wildlife Service (FWS) materials, Solicitor's Office opinions, a hybrid review group report, a Federal Register draft, and supporting scientific papers and case studies. Together they address whether hybrids of species, subspecies, or...
+> -- *[[ReviewOfDraftPolicyOnProtectio_PML2679]]*
+
 ### Mentioned In
 - [[ImperiledAquaticResourcesGeneP_14905]]
 - [[SystematicsSpeciesConceptsAndT_15240]]
+- [[ANewSpeciesOfCycleptusCyprinif_PML0341]]
+- [[ReviewOfDraftPolicyOnProtectio_PML2679]]
 
 ## Evolutionary Synthesis
 
@@ -27405,11 +35049,15 @@ Ex situ conservation refers to the protection and management of fish species out
 > - Introductions were carried out through multi-agency collaboration, primarily involving the **Bureau of Land Management (BLM)**, **Arizona Game and Fish Department (AGFD)**, **U.S. Fish and Wildlife Service (FWS)**, the **University of Arizona**, **Arizona State University**, and the **Arizona-S...
 > -- *[[SummaryOfDesertPupfishIntroduc_1988_12_16]]*
 
+> This pair of *Science* Perspectives essays from 1991 argues that conservation policy, reserve design, and species listing are failing to keep pace with the global loss of biodiversity. The first piece, "Conservation: Tactics for a Constant Crisis," describes a [[Biospatial Hierarchy]] of...
+> -- *[[ConservationTacticsForAConstan_PML2410]]*
+
 ### Mentioned In
 - [[ApplicationForScientificCollec_13805]]
 - [[AuthorizationLetterForGilaTopm_1990_11_21]]
 - [[CryopreservationAsAToolForGeno_13953]]
 - [[SummaryOfDesertPupfishIntroduc_1988_12_16]]
+- [[ConservationTacticsForAConstan_PML2410]]
 
 ## Ex Situ Fish Conservation
 <!-- fm: auto_enriched: true -->
@@ -27454,6 +35102,30 @@ The Exceptional Sucker (Catostomus generosus) is a catostomid fish from the Utah
 - [[SuckersOfUtahLake_17542]]
 - [[NativePiscifaunaOfUtahLake_17541]]
 
+## Excess Fish Disposition Policy
+
+### Summary
+A 1995 policy (Stemple and Wydoski 1995) governing fish produced beyond Program stocking needs. The source lists its options: distributing excess larvae to riverside ponds, releasing tagged juveniles into floodplain wetlands, and offering excess razorback sucker and Colorado pikeminnow to the San Juan Program, with bonytail divided among three Upper Colorado populations.
+
+### Context
+> This March 2003 addendum, prepared for the [[Upper Colorado River Endangered Fish Recovery Program]] by T.P. Nesler, K. Christopherson, J.M. Hudson, C.W. McAda, F. Pfitzer, and T.E. Czapla, merges the separate [[Colorado Stocking Plan]] and [[Utah Stocking Plan]] into one integrated plan for three...
+> -- *[[AnIntegratedStockingPlanForRaz_PML2010]]*
+
+### Mentioned In
+- [[AnIntegratedStockingPlanForRaz_PML2010]]
+
+## Excess Fish Policy
+
+### Summary
+The Excess Fish Policy governs the handling of surplus hatchery fish in this program. In 2003, about 30,000 wild-spawned bonytail chub (20–100 mm) were destroyed under this policy, with Biology Committee concurrence, because their parentage could not be traced.
+
+### Context
+> This FY 2003 annual report from the [[Colorado River Recovery Program]] covers Project 29c, the operation and maintenance of the [[Wahweap State Fish Hatchery]] at Big Water, Utah. The hatchery rears [[Bonytail]] for stocking in the Upper Colorado River Basin and maintains the Upper Basin's backup...
+> -- *[[WahweapOperationAndMaintenance_PML0268]]*
+
+### Mentioned In
+- [[WahweapOperationAndMaintenance_PML0268]]
+
 ## Exchange Coefficient
 
 ### Summary
@@ -27488,6 +35160,18 @@ Excitement is an agitated, irregular state in a fish that raises its oxygen cons
 ### Mentioned In
 - [[SomeExperimentsOnTheOxygenCons_19029]]
 
+## Exclosure Fence
+
+### Summary
+The exclosure fence was a 5.3-acre fence built to protect the developing riparian habitat at Big Spring. The 1990 storm blew it open, and the source gives its construction year as 1980, a date the author flags for checking against the original document.
+
+### Context
+> This memorandum, issued by [[Jeffrey R. Simms]], Fishery Biologist at the [[Bureau Of Land Management]] [[Safford District]] Office, reports flood damage to the reintroduced [[Gila Topminnow]] population at [[Big Spring]], Graham County, Arizona. A storm on August 21, 1990 caused flooding that...
+> -- *[[ReportOfFloodDamageToBigSpring_PML2367]]*
+
+### Mentioned In
+- [[ReportOfFloodDamageToBigSpring_PML2367]]
+
 ## Exclusive Economic Zone
 
 ### Summary
@@ -27503,10 +35187,30 @@ A maritime zone, commonly extending up to 200 miles from a coast, in which a coa
 > This Worldwatch Paper (No. 120, July 1994, by [[Peter Weber]]) argues that world marine fisheries have reached or passed their biological and economic limits. Global marine catch peaked in 1989 (about 82 million tons) and has since stagnated. Overfishing is identified as the primary cause of...
 > -- *[[NetLossFishJobsAndTheMarineEnv_19658]]*
 
+> This *Federal Register* extract (Vol. 58, No. 48, Monday, March 15, 1993) contains several agency notices. The main item is a correction by the [[Fish and Wildlife Service]] to the proposed critical habitat rule for four endangered [[Colorado River Fishes]]: the [[Razorback Sucker]], [[Colorado...
+> -- *[[EndangeredAndThreatenedWildlif_PML0747]]*
+
+> This FAO Fisheries Circular (No. 966, Rome, 2001, 39 p.) by [[Gudrun Petursdottir]], [[Olafur Hannibalsson]] and [[Jeremy Turner]] argues that fishermen's safety should be built into the general management of fisheries in every country rather than treated as a separate, largely voluntary maritime...
+> -- *[[SafetyAtSeaAsAnIntegralPartOfF_PML0706]]*
+
 ### Mentioned In
 - [[StrategyForFisheriesManagement_18774]]
 - [[StockAssessmentWhy_17822]]
 - [[NetLossFishJobsAndTheMarineEnv_19658]]
+- [[EndangeredAndThreatenedWildlif_PML0747]]
+- [[SafetyAtSeaAsAnIntegralPartOfF_PML0706]]
+
+## Exclusive Economic Zones
+
+### Summary
+Zones extending 200 nautical miles from a coast in which a state has jurisdiction over natural resources. The source notes that most fisheries yield (about 90%) is taken within these zones, and that most nations adopted them after the 1970s Cod Wars.
+
+### Context
+> This policy perspective argues that the [[Freedom Of The Seas]] principle, rooted in [[Mare Liberum]], still shapes how fisheries are governed. The authors contend that treating marine resources as an open commons leads inevitably to overexploitation, and that national fisheries management,...
+> -- *[[FromMareLiberumToMareReservaru_PML2273]]*
+
+### Mentioned In
+- [[FromMareLiberumToMareReservaru_PML2273]]
 
 ## Exclusivity
 <!-- fm: auto_enriched: true -->
@@ -27574,9 +35278,17 @@ A federal executive order on Floodplain Management that the report reviews as on
 > This Bureau of Land Management (BLM) document, issued January 1998 by the [[Safford Field Office]], contains the final 15-year management plan, [[Environmental Assessment]] (EA No. AZ-040-08-03), and Finding of No Significant Impact/Decision Record for the [[Gila Box Riparian National Conservation...
 > -- *[[GilaBoxManagementPlanEnvironme_11470]]*
 
+> This document is a regulatory guidance item, not a fisheries or ecological study. It combines two parts: the public involvement provisions of the [[National Environmental Policy Act]] (NEPA) implementing regulations (Section 1506.6), and a set of questions and answers issued by the [[Council on...
+> -- *[[QuestionsAndAnswersOnNationalE_PML2716]]*
+
+> This draft environmental assessment (EA), prepared by the [[United States Section of the International Boundary and Water Commission]] (US Section, IBWC) in April 1983, evaluates the completed segments of the US part of the [[Rio Grande Boundary Preservation Project]]. The 199-river-mile reach runs...
+> -- *[[DraftEnvironmentalAssessmentOf_PML1141]]*
+
 ### Mentioned In
 - [[FinalReportAndRecommendationsO_17455]]
 - [[GilaBoxManagementPlanEnvironme_11470]]
+- [[QuestionsAndAnswersOnNationalE_PML2716]]
+- [[DraftEnvironmentalAssessmentOf_PML1141]]
 
 ## Executive Order 11990
 
@@ -27593,10 +35305,30 @@ A federal executive order on Protection of Wetlands that the report reviews as a
 > This U.S. Forest Service Draft Environmental Impact Statement (DEIS, October 1986) evaluates land-allocation options for a 3,500-acre high-elevation area at the summit of [[Mt. Graham]] in the [[Pinaleno Mountains]], Coronado National Forest. [[Steward Observatory]] (University of Arizona) proposed...
 > -- *[[DraftEnvironmentalImpactStatem_11497]]*
 
+> This document is a regulatory guidance item, not a fisheries or ecological study. It combines two parts: the public involvement provisions of the [[National Environmental Policy Act]] (NEPA) implementing regulations (Section 1506.6), and a set of questions and answers issued by the [[Council on...
+> -- *[[QuestionsAndAnswersOnNationalE_PML2716]]*
+
+> This draft environmental assessment (EA), prepared by the [[United States Section of the International Boundary and Water Commission]] (US Section, IBWC) in April 1983, evaluates the completed segments of the US part of the [[Rio Grande Boundary Preservation Project]]. The 199-river-mile reach runs...
+> -- *[[DraftEnvironmentalAssessmentOf_PML1141]]*
+
 ### Mentioned In
 - [[FinalReportAndRecommendationsO_17455]]
 - [[GilaBoxManagementPlanEnvironme_11470]]
 - [[DraftEnvironmentalImpactStatem_11497]]
+- [[QuestionsAndAnswersOnNationalE_PML2716]]
+- [[DraftEnvironmentalAssessmentOf_PML1141]]
+
+## Executive Order 11999
+
+### Summary
+Executive Order 11999 is a federal order requiring agencies to evaluate the effects of their actions on floodplains. In this source, Reclamation evaluated floodplain impacts of the Interconnection under this order and found that no wetlands would be affected. A Section 404 permit from the U.S. Army Corps of Engineers was still required before construction.
+
+### Context
+> This note covers two linked documents. The first is an Arizona State Clearinghouse review request sent to state agencies, which asks whether a proposed project is consistent with agency goals, duplicates other programs, and complies with applicable laws. The second, and the main substance, is a...
+> -- *[[FindingOfNoSignificantImpactCe_PML2569]]*
+
+### Mentioned In
+- [[FindingOfNoSignificantImpactCe_PML2569]]
 
 ## Executive Order 12906
 
@@ -27638,6 +35370,12 @@ Executive Order 12962 is a 1995 presidential directive that mandates the Federal
 > This draft [[Environmental Assessment]], prepared by the [[U.S. Fish and Wildlife Service]] (Ecological Services, Grand Junction, Colorado; dated April 30, 1996), evaluates procedures that would guide future stocking of nonnative fishes in the [[Upper Colorado River Basin]]. The stated goal is to...
 > -- *[[DraftEnvironmentalAssessmentFo_19335]]*
 
+> This April 1999 review, published by the Oregon Department of Fish and Wildlife with the National Marine Fisheries Service, examines how federal policy balances the conservation of endangered and threatened species against recreational fishing. It centres on [[Executive Order 12962]] (1995), which...
+> -- *[[AReviewOfTheFederalPolicyForCo_PML1339]]*
+
+> This 1996 fish management plan, prepared jointly by the National Park Service (NPS), the Utah Division of Wildlife Resources (UDWR), and the Arizona Game and Fish Department (AGFD), sets a five-year framework for fisheries within [[Glen Canyon National Recreation Area]]. The plan addresses Lake...
+> -- *[[GlenCanyonNationalRecreationAr_PML2776]]*
+
 ### Mentioned In
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
 - [[MemorandumOnRegionalStakeholde_1996_09_12]]
@@ -27645,6 +35383,20 @@ Executive Order 12962 is a 1995 presidential directive that mandates the Federal
 - [[NoticeOfPolicyForConservingSpe_11740]]
 - [[DraftPolicyForConservingSpecie_11730]]
 - [[DraftEnvironmentalAssessmentFo_19335]]
+- [[AReviewOfTheFederalPolicyForCo_PML1339]]
+- [[GlenCanyonNationalRecreationAr_PML2776]]
+
+## Executive Order 13112
+
+### Summary
+A federal executive order dated February 3, 1999, on invasive species. It defines invasive species as alien species whose introduction causes or is likely to cause economic, environmental, or human health harm, and requires federal agencies to prevent introductions, control populations, and restore native species and habitats. It also establishes an Invasive Species Council and calls for a National Invasive Species Management Plan within 18 months.
+
+### Context
+> This April 1999 review, published by the Oregon Department of Fish and Wildlife with the National Marine Fisheries Service, examines how federal policy balances the conservation of endangered and threatened species against recreational fishing. It centres on [[Executive Order 12962]] (1995), which...
+> -- *[[AReviewOfTheFederalPolicyForCo_PML1339]]*
+
+### Mentioned In
+- [[AReviewOfTheFederalPolicyForCo_PML1339]]
 
 ## Executive Order 89-16
 
@@ -27657,6 +35409,18 @@ The Arizona executive order under which the Governor's Riparian Habitat Task For
 
 ### Mentioned In
 - [[FinalReportAndRecommendationsO_17455]]
+
+## Executive Order No. 11296
+
+### Summary
+An order issued August 10, 1966, directing federal agencies to evaluate flood hazards for federally owned or financed buildings, roads and facilities. It also directed them to share available flood-hazard information with state and local agencies. The report lists it among the authorities behind its preparation.
+
+### Context
+> This 1969 technical report from the [[Bureau of Reclamation]] (Region 3) maps flood-prone land along about 42 miles of the lower [[Colorado River]] in the Mohave Valley, from [[Davis Dam]] to Topock, Arizona. It is a flood-hazard planning document, not a biological study. It is intended to support...
+> -- *[[FloodPlainInformationColoradoR_PML2566]]*
+
+### Mentioned In
+- [[FloodPlainInformationColoradoR_PML2566]]
 
 ## Executive Review Committee
 
@@ -27706,6 +35470,18 @@ Exequiel Ezcurra received a 1994 Society for Conservation Biology award for his 
 ### Mentioned In
 - [[SocietyForConservationBiologyN_17497]]
 
+## Exercise Conditioning
+
+### Summary
+Exercise conditioning here means holding fish in flowing water for a period before testing or stocking them. In this study, 10 days of exercise raised the failure velocity of all four species, bringing hatchery fish close to wild levels. The authors recommend evaluating it as a pre-stocking step to improve survival of repatriated fish.
+
+### Context
+> This experimental study by [[Ward and Hilwig]] (2004) tests whether [[Exercise Conditioning]] in flowing water can restore the swimming performance of endangered fish reared in standing water at hatcheries. Four [[Native Fish of the Colorado River Basin]] were compared: [[Flannelmouth Sucker]],...
+> -- *[[EffectsOfHoldingEnvironmentAnd_PML2826]]*
+
+### Mentioned In
+- [[EffectsOfHoldingEnvironmentAnd_PML2826]]
+
 ## Exhibit Island
 
 ### Summary
@@ -27741,6 +35517,18 @@ Exocoetidae is a family of pelagic bony fishes inhabiting the Gulf of California
 
 ### Mentioned In
 - [[AClassificationOfTheFishesOfTh_14438]]
+
+## Exogenous Feeding
+
+### Summary
+Exogenous feeding is the stage in which a larva must capture and eat food from its environment once its yolk reserves are used up. The authors argue that the transition from endogenous to exogenous feeding is the period when razorback sucker larvae are most at risk of starvation, and their experiments used Artemia nauplii as the food source.
+
+### Context
+> This laboratory study tests whether food limitation contributes to the failure of [[Razorback Sucker]] (*Xyrauchen texanus*) larvae to recruit into the adult population of [[Lake Mohave]], Arizona-Nevada. Adults are common and reproduce annually, yet larvae disappear at about 10.6 mm total length...
+> -- *[[FoodLimitedSurvivalOfLarvalRaz_PML2086]]*
+
+### Mentioned In
+- [[FoodLimitedSurvivalOfLarvalRaz_PML2086]]
 
 ## Exoglossum
 <!-- fm: auto_enriched: true -->
@@ -27848,6 +35636,18 @@ Fish and other aquatic organisms that are non-native to an area and can harm loc
 ### Mentioned In
 - [[IssuesToBeAddressedInPanelRepo_20168]]
 
+## Exotic Cichlids
+
+### Summary
+Exotic cichlids are non-native cichlid fishes introduced to North American waters, including the arid Southwest. The source reports that cichlids introduced to unregulated streams invariably disappeared after floods, and that exotic cichlids helped drive the decline of the Desert Pupfish alongside Western Mosquitofish.
+
+### Context
+> This paper, by Minckley and colleagues (Arizona State University and the Savannah River Ecology Laboratory), examines how flash flooding structures fish communities in the arid mountainous streams of Arizona and western New Mexico. Non-native fishes introduced into unregulated streams are often...
+> -- *[[DifferentialSelectionByFloodin_PML1841]]*
+
+### Mentioned In
+- [[DifferentialSelectionByFloodin_PML1841]]
+
 ## Exotic Fish
 
 ### Summary
@@ -27857,8 +35657,12 @@ Non-native fish species introduced into a water body outside their natural range
 > A letter dated October 30, 1989, from the [[Bureau of Reclamation]] (Lower Colorado Regional Office) to [[Arizona State University]], the [[Fish and Wildlife Service]], and the [[National Park Service]] requests help in developing an interagency proposal. The proposal would examine the feasibility...
 > -- *[[RequestForAssistanceInDevelopi_20977]]*
 
+> This terminology paper, by [[Paul L. Shafland]] and [[William M. Lewis]], was adopted by the [[American Fisheries Society]] (AFS) [[Exotic Fish Section]] at its annual business meeting on 18 August 1983 in Milwaukee, Wisconsin. It responds to a recognized lack of consensus on the terms used for...
+> -- *[[TerminologyAssociatedWithIntro_PML2342]]*
+
 ### Mentioned In
 - [[RequestForAssistanceInDevelopi_20977]]
+- [[TerminologyAssociatedWithIntro_PML2342]]
 
 ## Exotic Fish Exclusion
 
@@ -27875,8 +35679,13 @@ This is a strategy for keeping non-native fish out of a stream reach, here by bl
 ## Exotic Fish Exclusion Structures
 <!-- fm: auto_enriched: true -->
 
+### Context
+> This 1995 report, prepared by Brian E. Bagley, [[Paul C. Marsh]], and W.L. Minckley of Arizona State University for the [[Bureau of Reclamation]] (Phoenix Area Office), reviews the literature on the swimming and leaping capabilities of non-native fishes. The goal is to inform the design of [[Exotic...
+> -- *[[SwimmingAbilityOfNonnativeFish_PML0156]]*
+
 ### Mentioned In
 - [[SwimmingAbilityOfNonNativeFish_1995_06_10]]
+- [[SwimmingAbilityOfNonnativeFish_PML0156]]
 
 ## Exotic Fish Introduction
 
@@ -27887,8 +35696,12 @@ The introduction of non-native fishes such as common carp, largemouth bass, and 
 > This paper reports changes in freshwater fish community composition at nine Mexican localities marginal to arid zones, documented over roughly 70 years or less. Comparisons are drawn between early collections by [[Seth E. Meek]] (1901–1904) and later surveys from 1960 to 1973. Most changes are...
 > -- *[[CambiosDeComposicionDeEspecies_17515]]*
 
+> Minckley and Deacon (1968, *Science*) examine the concept of "endangered species" using freshwater fishes of the American Southwest as examples. They argue that a species' status can only be objectively defined by its ability to maintain populations in nature, which requires continuously available...
+> -- *[[SouthwesternFishesAndTheEnigma_PML1753]]*
+
 ### Mentioned In
 - [[CambiosDeComposicionDeEspecies_17515]]
+- [[SouthwesternFishesAndTheEnigma_PML1753]]
 
 ## Exotic Fish Introduction Impacts
 <!-- fm: auto_enriched: true -->
@@ -27929,8 +35742,12 @@ Exotic fish removal is an action proposed under Alternatives B, C, and D in this
 > This document is a 1994 public-comment letter and attachment package from the [[Tonto National Forest]] (Forest Supervisor Charles R. Bazan). It presents draft management objectives, evaluation criteria, mitigation standards, and five draft alternatives for the Picketpost Mountain/Arnett Creek...
 > -- *[[DraftManagementObjectivesAndDr_15660]]*
 
+> This note summarizes annual activity reports (1991–1994) of the [[Native Fish Work Group]] (NFWG), a multi-agency ad hoc team formed by mutual consent in 1990 to rebuild the wild adult population of [[Razorback Sucker]] in [[Lake Mohave]]. The main method was on-site rearing and stocking of young...
+> -- *[[SummaryOfNativeFishWorkGroupAc_PML2018]]*
+
 ### Mentioned In
 - [[DraftManagementObjectivesAndDr_15660]]
+- [[SummaryOfNativeFishWorkGroupAc_PML2018]]
 
 ## Exotic Fish Section
 <!-- fm: auto_enriched: true -->
@@ -27939,8 +35756,12 @@ Exotic fish removal is an action proposed under Alternatives B, C, and D in this
 > This 1984 report, adopted by the American Fisheries Society (AFS) [[Exotic Fish Section]] at its 1983 Milwaukee business meeting, addresses the lack of standardized terminology for describing [[Introduced Species|introduced organisms]] in fisheries science. Authored by Paul L. Shafland and Willia...
 > -- *[[TerminologyAssociatedWithIntro_11384]]*
 
+> This terminology paper, by [[Paul L. Shafland]] and [[William M. Lewis]], was adopted by the [[American Fisheries Society]] (AFS) [[Exotic Fish Section]] at its annual business meeting on 18 August 1983 in Milwaukee, Wisconsin. It responds to a recognized lack of consensus on the terms used for...
+> -- *[[TerminologyAssociatedWithIntro_PML2342]]*
+
 ### Mentioned In
 - [[TerminologyAssociatedWithIntro_11384]]
+- [[TerminologyAssociatedWithIntro_PML2342]]
 
 ## Exotic Fish Species
 <!-- fm: auto_enriched: true -->
@@ -27952,16 +35773,88 @@ Exotic fish removal is an action proposed under Alternatives B, C, and D in this
 > This 1983 faunistic paper by [[Dean A. Hendrickson]] (Arizona State University) reports previously unpublished freshwater fish distribution records from Pacific drainages of Mexico, based on collections made in July 1980 and January 1981. The records are drawn from 30 numbered localities, with...
 > -- *[[DistributionRecordsOfNativeAnd_16636]]*
 
+> This Final Rule from the [[U.S. Fish and Wildlife Service]] (Federal Register, Vol. 52, No. 179, September 18, 1987) determines the [[Little Colorado Spinedace]] (*Lepidomeda vittata*), a small cyprinid endemic to east-central Arizona, to be a threatened species under the [[Endangered Species Act]]...
+> -- *[[FinalRuleToDetermineLepidomeda_PML0735]]*
+
+> This study analyzes a 30-year spring-sampling database (1963 onward, with analyses restricted to 1970/1975–2000) of the native fish assemblage of [[Aravaipa Creek]], a Sonoran Desert stream in Arizona. The authors asked whether long-term directional change occurred in community composition, whether...
+> -- *[[VariabilityAndDynamicsOfADeser_PML0653]]*
+
+> This compilation of California Department of Fish and Game (CDFG) and cooperating agency documents (1986 to 1991) reviews the status of the [[Razorback Sucker]], a large catostomid endemic to the [[Colorado River Basin]]. The species was listed as endangered; the 1987 five-year status review...
+> -- *[[FiveYearStatusReportRazorbackS_PML2189]]*
+
+> This May 1993 report by David F. Gori of [[The Nature Conservancy]] (Arizona chapter), submitted to the [[Coronado National Forest]], describes a seine-based survey and the establishment of permanent monitoring stations for native fishes in Arizona's southeastern desert streams. Its goals were to...
+> -- *[[MonitoringNativeFishPopulation_PML0889]]*
+
+> This U.S. Fish and Wildlife Service final rule (Federal Register, Vol. 51, No. 208, 28 October 1986) lists the [[Loach Minnow]] (*Tiaroga cobitis*) as a threatened species under the [[Endangered Species Act]] of 1973, as amended. The species has been reduced to roughly 380 km of occupied stream,...
+> -- *[[DeterminationOfThreatenedStatu_PML0730]]*
+
 ### Mentioned In
 - [[DoWeReallyUnderstandOurRiversO_14910]]
 - [[AFisheryInventoryWithEmphasisO_16213]]
 - [[DistributionRecordsOfNativeAnd_16636]]
+- [[FinalRuleToDetermineLepidomeda_PML0735]]
+- [[VariabilityAndDynamicsOfADeser_PML0653]]
+- [[FiveYearStatusReportRazorbackS_PML2189]]
+- [[MonitoringNativeFishPopulation_PML0889]]
+- [[DeterminationOfThreatenedStatu_PML0730]]
+
+## Exotic Fish Symposium
+
+### Summary
+The 1981 American Fisheries Society Exotic Fish Symposium held in Albuquerque, New Mexico. Its participants agreed that terms for introduced fishes needed clarification, which led to this terminology paper.
+
+### Context
+> This terminology paper, by [[Paul L. Shafland]] and [[William M. Lewis]], was adopted by the [[American Fisheries Society]] (AFS) [[Exotic Fish Section]] at its annual business meeting on 18 August 1983 in Milwaukee, Wisconsin. It responds to a recognized lack of consensus on the terms used for...
+> -- *[[TerminologyAssociatedWithIntro_PML2342]]*
+
+### Mentioned In
+- [[TerminologyAssociatedWithIntro_PML2342]]
 
 ## Exotic Fish Symposium 1981
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[TerminologyAssociatedWithIntro_11384]]
+
+## Exotic Fishes
+
+### Summary
+Exotic fishes are species introduced into a waterbody from outside their native range. In this source, the species marked with an asterisk in the tables were identified as exotics, including Carp, Channel Catfish, and Brown Trout. They form part of a mixed fish assemblage alongside native Colorado River Basin fishes in the Green River.
+
+### Context
+> This 1962 internal memorandum from a [[Fisheries Management]] biologist to the Regional Director summarizes fish collections made in the [[Green River]] within [[Dinosaur National Monument]] before and after a [[Rotenone]] eradication treatment. The collections were qualitative species surveys, not...
+> -- *[[FishCollectedBeforeAndAfterEra_PML0082]]*
+
+> G. K. Meffe (1990), writing in the *Journal of Fish Biology* (Supplement A), argues that the long-term survival of rare fishes depends partly on maintaining enough genetic variation within populations for natural selection and continued evolutionary adaptation. The paper uses the critically...
+> -- *[[GeneticApproachesToConservatio_PML1669]]*
+
+> This review by [[Stephen T Ross]] (University of Southern Mississippi) asks whether the introduction of [[Exotic Fishes]] and transplanted native species can reveal the processes that structure [[Stream Fish Assemblages]]. The author treats unplanned introductions as natural experimental...
+> -- *[[MechanismsStructuringStreamFis_PML2269]]*
+
+> This Federal Register final rule, issued by the [[U.S. Fish and Wildlife Service]] (Interior Department), lists the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the [[Endangered Species Act]] and designates [[Critical Habitat]] in Imperial County, California, and Pima...
+> -- *[[EndangeredAndThreatenedWildlif_PML0729]]*
+
+> This 1978 study by [[Paul C. Marsh]] and J. N. Cross, published in the *Great Basin Naturalist*, describes the distribution, ecology and status of the [[Virgin River Roundtail Chub]], a native cyprinid of the [[Virgin River]] in Utah, Arizona and Nevada. The chub occurred in about half of...
+> -- *[[StatusAndEcologyOfTheVirginRiv_PML0515]]*
+
+### Mentioned In
+- [[FishCollectedBeforeAndAfterEra_PML0082]]
+- [[GeneticApproachesToConservatio_PML1669]]
+- [[MechanismsStructuringStreamFis_PML2269]]
+- [[EndangeredAndThreatenedWildlif_PML0729]]
+- [[StatusAndEcologyOfTheVirginRiv_PML0515]]
+
+## Exotic Game Fish Introductions
+
+### Summary
+Exotic game fish introductions are the recent stocking of non-native sport fish into water bodies. In this study, rainbow trout, white bass, a white bass-striped bass hybrid, and largemouth bass were introduced into three non-predator sites (Rush Lake, Big Spring, and Locomotive Springs). The authors propose these introductions as natural experiments that could help determine whether life-history differences have a proximate or genetic basis, since reciprocal transplant experiments are impractical for a long-lived species.
+
+### Context
+> This study examines how [[Predation]] shapes the [[Life-History Evolution]] of [[Utah Chub]] (*Gila atraria*) across eight isolated populations in the [[Bonneville Basin]] and upper [[Snake River Drainage]]. Four populations coexist with the predatory [[Cutthroat Trout]] and four do not....
+> -- *[[EffectsOfPredationOnLifeHistor_PML1211]]*
+
+### Mentioned In
+- [[EffectsOfPredationOnLifeHistor_PML1211]]
 
 ## Exotic Invasions
 
@@ -28009,6 +35902,24 @@ Exotic species in fish science refers to fish or other aquatic organisms that ha
 > This paper presents a primer on colonisation theory and applies it to invasive fishes in the [[Great Fish River]], South Africa. It aims to (a) characterise successful invader species in aquatic systems and (b) identify habitat properties that make a system susceptible to invasion. The authors also...
 > -- *[[ColonisationTheoryAndInvasiveB_20200]]*
 
+> This October 20, 2004 press release announces a $750,000 grant to the [[Arizona Game and Fish Department]] (AZGFD) for the purchase and protection of habitat for the endangered [[Gila Topminnow]] in Coal Mine Canyon, [[Santa Cruz County]], Arizona. The grant comes from the [[U.S. Fish and Wildlife...
+> -- *[[GrantAwardedForEndangeredSpeci_PML1676]]*
+
+> This pair of *Science* Perspectives essays from 1991 argues that conservation policy, reserve design, and species listing are failing to keep pace with the global loss of biodiversity. The first piece, "Conservation: Tactics for a Constant Crisis," describes a [[Biospatial Hierarchy]] of...
+> -- *[[ConservationTacticsForAConstan_PML2410]]*
+
+> This document is a 1968 *Science* article by [[W. L. Minckley]] and [[James E. Deacon]] on the decline of native freshwater fishes in the American Southwest. The authors argue that declines are driven mainly by habitat change from water diversion, impoundment, groundwater pumping and [[Exotic...
+> -- *[[SouthwesternFishesAndTheEnigma_PML1869]]*
+
+> This study uses a 30-year record from [[Aravaipa Creek]], Arizona, to test how well different metrics detect long-term change in a native desert stream fish assemblage, and what environmental drivers explain that change. The creek is intrinsically variable, with [[Flash Floods]] and temperature...
+> -- *[[VariabilityAndDynamicsOfADeser_PML0654]]*
+
+> This is a 2001 policy and legal analysis by [[Holly Doremus]] and [[Joel Pagel]] published in *Conservation Biology* as part of a special section on the [[Endangered Species Act]] (ESA). The authors argue that [[Delisting]] (removing species from the protected list) requires evaluating not only...
+> -- *[[WhyListingMayBeForeverPerspect_PML0596]]*
+
+> This review (Cooke et al., *Biological Conservation* 121, 317–331, 2005) uses regional [[Case Studies]] to examine threats, conservation strategies and prognosis for suckers, a diverse freshwater family of at least 76 species, most of them North American. Suckers are a model "non-game" family: they...
+> -- *[[ThreatsConservationStrategiesA_PML0493]]*
+
 ### Mentioned In
 - [[CuatroCienegasProposal_1996_01_08]]
 - [[LetterSolicitingCommentsOnRegu_1973_06_12]]
@@ -28018,6 +35929,12 @@ Exotic species in fish science refers to fish or other aquatic organisms that ha
 - [[CodesOfPracticeAndManualOfProc_13433]]
 - [[BFishOfTheColoradoSystem_14709]]
 - [[ColonisationTheoryAndInvasiveB_20200]]
+- [[GrantAwardedForEndangeredSpeci_PML1676]]
+- [[ConservationTacticsForAConstan_PML2410]]
+- [[SouthwesternFishesAndTheEnigma_PML1869]]
+- [[VariabilityAndDynamicsOfADeser_PML0654]]
+- [[WhyListingMayBeForeverPerspect_PML0596]]
+- [[ThreatsConservationStrategiesA_PML0493]]
 
 ## Exotic Species Hypothesis
 
@@ -28053,6 +35970,12 @@ Exotic species introduction refers to the deliberate or accidental translocation
 > A news item reports that [[Robert Pennel]], of Houghton Lake and Dimondale, caught a [[Piranha]], an exotic South American fish, while fishing for [[Walleye]] off [[Long Point]] on [[Houghton Lake]]. The fish was identified at [[Betty's Pet and Garden Center]] after a [[Department of Natural...
 > -- *[[UnusualFishIdentifiedAsPiranha_15529]]*
 
+> This paper documents the first confirmed record of a free-swimming, healthy Mediterranean [[Gilt-Head Seabream]] (*Sparus aurata* Linnaeus, 1758) in the [[Gulf of California]], Mexico. The fish was captured on 3 October 2007 in [[Bahía de La Paz]] during experimental fishing. The individual most...
+> -- *[[OnTheFirstRecordOfAPotentially_PML0165]]*
+
+> This review by Thomas E. Dowling and Carol L. Secor, published in the *Annual Review of Ecology and Systematics* (1997), reassesses whether [[Hybridization]] and [[Introgression]] have meaningfully driven animal diversification. Plant evolutionists have long credited these processes with generating...
+> -- *[[TheRoleOfHybridizationAndIntro_PML0631]]*
+
 ### Mentioned In
 - [[CorrespondenceRegardingImporta_1984_08_02]]
 - [[DorosomaPetenenseGüntherNuevoR_13094]]
@@ -28065,6 +35988,8 @@ Exotic species introduction refers to the deliberate or accidental translocation
 - [[TemperatureTolerance_1970]]
 - [[IntroductionOfExoticFishesInto_18058]]
 - [[UnusualFishIdentifiedAsPiranha_15529]]
+- [[OnTheFirstRecordOfAPotentially_PML0165]]
+- [[TheRoleOfHybridizationAndIntro_PML0631]]
 
 ## Exotic Species Introduction Effects
 <!-- fm: auto_enriched: true -->
@@ -28094,6 +36019,18 @@ Exotic species introduction refers to the deliberate or accidental translocation
 
 ### Mentioned In
 - [[CommentsOnNationalFishHatchery_1994_05_24]]
+
+## Exotic Species Invasions
+
+### Summary
+Exotic species invasions are the introduction and spread of non-native species that harm native ones, and they are cited in this source as one of the common threats to endangered species. The paper mentions them as an example of threats that recovery plans must identify and address, but it does not analyze them in detail.
+
+### Context
+> This study assesses whether [[Recovery Plan|recovery plans]] for federally listed endangered species are internally consistent, meaning their recommendations stay aligned across the planning process. The authors built a database of recovery plans and answered nine questions grouped into three topic...
+> -- *[[EvaluatingTheInternalConsisten_PML0276]]*
+
+### Mentioned In
+- [[EvaluatingTheInternalConsisten_PML0276]]
 
 ## Exotic Species Management
 <!-- fm: auto_enriched: true -->
@@ -28141,6 +36078,18 @@ A book advertised in the booklet, described there as 892 pages with almost 600 c
 ### Mentioned In
 - [[AResponseToTheProposalToIntrod_1987]]
 
+## Expansive Demolition Agents
+
+### Summary
+Non-explosive chemical products that expand within drill holes in rock to fracture it. This source discusses them for rock excavation on the North Thorne River, Alaska, noting that drill-hole planning and fracturing time strongly affect project scheduling. The author concludes they are most useful where small volumes of material must be fractured and excavated.
+
+### Context
+> This document is a pair of short management briefs. The first reports a field test of a [[Surgical Skin Stapler]] to close incisions in [[Striped Bass]] implanted with [[Ultrasonic Telemetry]] transmitters. Stapling shortened the closure step and was associated with lower post-surgical mortality...
+> -- *[[UseOfASurgicalSkinStaplerToQui_PML1985]]*
+
+### Mentioned In
+- [[UseOfASurgicalSkinStaplerToQui_PML1985]]
+
 ## Experimental Animal Models
 <!-- fm: auto_enriched: true -->
 
@@ -28162,6 +36111,18 @@ The Experimental Aquaculture Station of Rio Caldo is a fish culture facility in 
 
 ### Mentioned In
 - [[TheUseOfPoultryByproductAndHyd_19186]]
+
+## Experimental Channels
+
+### Summary
+Experimental channels are outdoor riffle-and-pool stream sections used to study fish under controlled conditions. In this source, the channels were built at the EPA Monticello field station and fed at 270 gal/min, with antennas buried in the channel bed. They served as the setting where the radio-tracking system located walleyes in pools and riffles.
+
+### Context
+> This EPA project summary describes the development and field testing of an automated radio-telemetry system, the [[Monticello Remote Sensing System]] (MRSS), for tracking fish in outdoor [[Experimental Channels]] at the [[EPA Monticello Field Station]] in Minnesota. The system uses a...
+> -- *[[AutomaticRadioTrackingOfFishIn_PML1302]]*
+
+### Mentioned In
+- [[AutomaticRadioTrackingOfFishIn_PML1302]]
 
 ## Experimental Components Analysis
 
@@ -28190,8 +36151,12 @@ A one-week controlled high-flow release from Glen Canyon Dam conducted March 22 
 > This Final Report (February 1998), prepared by Duncan T. Patten for the [[Bureau of Reclamation]] and the [[Grand Canyon Monitoring and Research Center]] under Cooperative Agreement 1425-96-FC-81-05003, evaluates research funded by [[Glen Canyon Environmental Studies]] (GCES) Phases I and II. It...
 > -- *[[IntegrationAndEvaluationOfGlen_18447]]*
 
+> This Arizona Game and Fish Department report (December 1996) evaluates the ecological effects of the 1996 [[Experimental Flood]] released from [[Glen Canyon Dam]] on the [[Colorado River]] in Grand Canyon. The flood was a beach/habitat-building test: about 1,274 m³/s (45,000 cfs) for seven days (27...
+> -- *[[TheEffectsOfAnExperimentalFloo_PML0120]]*
+
 ### Mentioned In
 - [[IntegrationAndEvaluationOfGlen_18447]]
+- [[TheEffectsOfAnExperimentalFloo_PML0120]]
 
 ## Experimental Gill Net
 <!-- fm: auto_enriched: true -->
@@ -28259,6 +36224,18 @@ The 1945-authorized Michigan program that designated selected lakes and streams 
 ### Mentioned In
 - [[TwoYearsOfFishingInLakesWithLi_18674]]
 
+## Experimental Nonessential Designation
+
+### Summary
+This is a regulatory tool under the Endangered Species framework that the U.S. Fish and Wildlife Service proposed for reintroducing the Bonytail Chub into rivers such as the Gila, Salt, and Verde. According to the source, it removes most endangered-species responsibilities and legal protections, which the Service judged would reduce agency objections. The Service called it the best chance available at that time to begin recovery, despite its limited protection.
+
+### Context
+> This 1986 letter from the [[U.S. Fish And Wildlife Service]] (Region 2), signed by Acting Regional Director R.D. Earnest, responds to a meeting with [[Temple Reynolds]], Director of the [[Arizona Game And Fish Department]]. It concerns recovery efforts for several endangered fish in Arizona, with...
+> -- *[[BonytailChubReintroductionUnde_PML0649]]*
+
+### Mentioned In
+- [[BonytailChubReintroductionUnde_PML0649]]
+
 ## Experimental Nonessential Population
 <!-- fm: auto_enriched: true -->
 
@@ -28269,9 +36246,29 @@ The 1945-authorized Michigan program that designated selected lakes and streams 
 > - **Policy Conclusions**: - The Department supports withdrawal of the 1987 proposed rule for the Lower Colorado River but maintains that [[Experimental Nonessential Population]] designations remain a valid and useful conservation and research tool. - The Department intends to focus squawfish spor...
 > -- *[[WithdrawalOfProposedRuleForExp_1993_12_10]]*
 
+> This Arizona Game and Fish Department (AGFD) packet, dated July–September 1997, concerns a proposed set of [[Reintroduction Guidelines]] for federally listed aquatic species, prompted by the [[Gila Topminnow]] and [[Desert Pupfish]] stocking program. The Commission was asked to approve the...
+> -- *[[ProposedDepartmentGuidelinesFo_PML0125]]*
+
+> This U.S. Fish and Wildlife Service (USFWS) plan, prepared by a team appointed in 1999 by the Region 2 Regional Director, is the [[Lower Colorado River Management Plan]] (LCRMP) for the "big-river fishes." It supplements the existing recovery plans for four federally endangered species:...
+> -- *[[ManagementPlanForTheBigriverFi_PML2635]]*
+
 ### Mentioned In
 - [[GilaTroutAndChihuahuaChubRecov_1997_01_16]]
 - [[WithdrawalOfProposedRuleForExp_1993_12_10]]
+- [[ProposedDepartmentGuidelinesFo_PML0125]]
+- [[ManagementPlanForTheBigriverFi_PML2635]]
+
+## Experimental Nonessential Rules
+
+### Summary
+A federal regulatory framework under the U.S. Endangered Species Act that allows a species to be reintroduced as an experimental population with relaxed protections. In this source, the Arizona Game and Fish Department agrees that reintroducing bonytail chub under these rules is the course of action for beginning recovery in Arizona. The letter does not describe the rules' specific provisions.
+
+### Context
+> This April 26, 1988 letter from Temple A. Reynolds, Director of the [[Arizona Game and Fish Department]], to Michael J. Spear, Regional Director of the [[U.S. Fish and Wildlife Service]], states the department's agreement with a course of action to reintroduce [[Bonytail Chub]] in Arizona under...
+> -- *[[LetterOnExperimentalReintroduc_PML1228]]*
+
+### Mentioned In
+- [[LetterOnExperimentalReintroduc_PML1228]]
 
 ## Experimental Population
 <!-- fm: auto_enriched: true -->
@@ -28283,10 +36280,22 @@ The 1945-authorized Michigan program that designated selected lakes and streams 
 > This document is an internal, pre-decisional package from the [[U.S. Fish and Wildlife Service]] (FWS) on how the [[Endangered Species Act]] (ESA) should treat hybrids. It contains a draft National Policy Issuance, a draft Federal Register notice, a November 1990 working group report, and a series...
 > -- *[[ReviewOfDraftPolicyProtectionO_11697]]*
 
+> This 1986 letter from the [[California Department of Fish and Game]] (Inland Fisheries Division) to the [[U.S. Fish and Wildlife Service]] (Endangered Species Office, Sacramento) reports that the state no longer considers it necessary to designate planned reintroductions of [[Bonytail]] and...
+> -- *[[LetterOnWithdrawalOfExperiment_PML2188]]*
+
+> This document is a special reprint of the U.S. federal regulations at [[Code Of Federal Regulations]] Title 50, sections 17.11 and 17.12. It was produced by the [[U.S. Fish And Wildlife Service]] (Department of the Interior) and is current as of January 1, 1986. Sections 17.11 and 17.12 form the...
+> -- *[[EndangeredAndThreatenedWildlif_PML2657]]*
+
+> This paper reviews the status of [[Gray Wolf]] ([[Canis Lupus]]) restoration in Montana, Idaho, and Wyoming through 1 November 1998. Wolves were eliminated from the region by the 1930s and returned naturally from southwestern Canada. Following the [[Recovery Plan]] (1987), wolves were reintroduced...
+> -- *[[StatusOfGrayWolfRestorationInM_PML0169]]*
+
 ### Mentioned In
 - [[ForestServiceResponseToPropose_1990_07_23]]
 - [[InteragencyCooperativePolicyFo_1994_04_12]]
 - [[ReviewOfDraftPolicyProtectionO_11697]]
+- [[LetterOnWithdrawalOfExperiment_PML2188]]
+- [[EndangeredAndThreatenedWildlif_PML2657]]
+- [[StatusOfGrayWolfRestorationInM_PML0169]]
 
 ## Experimental Population Designation
 <!-- fm: auto_enriched: true -->
@@ -28294,6 +36303,18 @@ The 1945-authorized Michigan program that designated selected lakes and streams 
 ### Mentioned In
 - [[CommentsOnProposedExperimental_1987_10_07]]
 - [[EstablishmentOfASportFisheryFo_1986_07_31]]
+
+## Experimental Population Guidelines
+
+### Summary
+Experimental Population Guidelines are rules under the federal Endangered Species Act that allow releases of a species outside its historic range. According to this source, such experimental releases are permitted only under these guidelines and require Arizona Game and Fish Commission approval. The manual does not describe the guidelines' specific provisions.
+
+### Context
+> This 1987 procedures manual, prepared by the [[Nongame Branch]] of the [[Arizona Game and Fish Department]] (AGFD), sets out how the Department plans and approves [[Re-establishment Projects]] for nongame wildlife and species listed as threatened or endangered in Arizona. It implements an [[Arizona...
+> -- *[[ProceduresForNongameWildlifeAn_PML0094]]*
+
+### Mentioned In
+- [[ProceduresForNongameWildlifeAn_PML0094]]
 
 ## Experimental Populations
 
@@ -28304,8 +36325,24 @@ Populations of listed species deliberately introduced into areas outside their h
 > This U.S. Fish and Wildlife Service (FWS) document, issued from the Phoenix Ecological Services Office in October 1991, is a question-and-answer guide on how the [[Forest Service]] (USFS) must handle [[Livestock Grazing Management]] under Section 7 of the [[Endangered Species Act]] (ESA). It covers...
 > -- *[[UsForestServiceLivestockGrazin_11591]]*
 
+> This document is a 1992 compilation of the U.S. federal regulations at 50 CFR §17.11 (Endangered and Threatened Wildlife) and §17.12 (Endangered and Threatened Plants), prepared by the Division of Endangered Species of the [[U.S. Fish and Wildlife Service]]. It is a regulatory reference rather than...
+> -- *[[EndangeredAndThreatenedWildlif_PML2682]]*
+
 ### Mentioned In
 - [[UsForestServiceLivestockGrazin_11591]]
+- [[EndangeredAndThreatenedWildlif_PML2682]]
+
+## Experimental Stocking
+
+### Summary
+One of three stocking categories in the plan, alongside supplemental stocking and augmentation/restoration. The source lists it as a category of fish need for the 1993-1998 period, with research-oriented releases of endangered fish but does not give detailed targets for it beyond the overall stocking tables.
+
+### Context
+> This October 1992 draft, issued by the [[U.S. Fish and Wildlife Service]] (Mountain-Prairie Region) through its Propagation Coordinator, J. Holt Williamson, is a skeletal draft operational [[Artificial Propagation]] plan for four endangered fishes of the [[Upper Colorado River Basin]]: [[Razorback...
+> -- *[[ArtificialPropagationPlanFishN_PML2904]]*
+
+### Mentioned In
+- [[ArtificialPropagationPlanFishN_PML2904]]
 
 ## Experimental Stocking of Razorback Sucker
 
@@ -28341,6 +36378,18 @@ An outdoor concrete stream used to hold Hiko White River springfish under natura
 ### Mentioned In
 - [[ASimpleSystemOfReplicatedRecir_15208]]
 
+## Experimental Stream Sections
+
+### Summary
+Defined reaches of Convict Creek in which the hatchery rainbow trout were planted and tracked. Survival and losses were tabulated separately for these sections across the seasonal trials, from 1950 to 1956.
+
+### Context
+> This document is a scientific report, evidently published in a California fisheries journal, on the survival and condition of [[Rainbow Trout]] (*Oncorhynchus mykiss*) stocked in [[Convict Creek]], California. Hatchery fish of catchable size were planted in experimental stream sections and tracked...
+> -- *[[ASixyearStudyOfTheSurvivalAndV_PML2025]]*
+
+### Mentioned In
+- [[ASixyearStudyOfTheSurvivalAndV_PML2025]]
+
 ## Experimental Stream Tank
 
 ### Summary
@@ -28364,6 +36413,18 @@ Replicated outdoor stream channels built from fiberglass modules, each with thre
 
 ### Mentioned In
 - [[PotentialEstablishmentOfRedShi_15211]]
+
+## Expert Panel
+
+### Summary
+A group whose assessment is used in the Strategy to estimate the status of native fish. The source reports that the panel concluded abundance and diversity are at roughly 10 per cent of their level 200 years ago and are still declining.
+
+### Context
+> The [[Native Fish Strategy]] is a ten-year framework, published by the [[Murray-Darling Basin Commission]] (MDBC) in May 2003, for rehabilitating native fish communities across the [[Murray-Darling Basin]]. Its overall goal is to return native fish populations to **60 per cent of estimated...
+> -- *[[NativeFishStrategyForTheMurray_PML1988]]*
+
+### Mentioned In
+- [[NativeFishStrategyForTheMurray_PML1988]]
 
 ## Exploitation
 
@@ -28389,9 +36450,13 @@ Indirect competition in which individuals use a shared resource so that others h
 > This review, published in the *Annual Review of Ecology and Systematics* (Volume 6, 1975) by Robert K. Colwell and Eduardo R. Fuentes, synthesizes experimental studies of how biotic interactions shape the [[Ecological Niche]] of populations within co-evolved communities. The authors restrict scope...
 > -- *[[ExperimentalStudiesOfTheNiche_17451]]*
 
+> This Oikos forum (1984, vol. 42, no. 3) is a multi-author exchange on whether one large nature reserve or several small reserves of equal total area better conserve species, the "SLOSS" question. The lead piece by [[Edwin O. Willis]] defends the [[Anti-Dismemberment Hypothesis]], which holds that...
+> -- *[[ConservationSubdivisionOfReser_PML2910]]*
+
 ### Mentioned In
 - [[ThermalHabitatShiftsByFishesAt_18075]]
 - [[ExperimentalStudiesOfTheNiche_17451]]
+- [[ConservationSubdivisionOfReser_PML2910]]
 
 ## Exploitation Curve
 
@@ -28405,11 +36470,35 @@ A curve showing how quickly stocked fish are caught after planting. The source s
 ### Mentioned In
 - [[EvaluationOfTheAndCatchableTro_15816]]
 
+## Exploitation Rate
+
+### Summary
+The exploitation rate is the proportion of a fish stock that is removed by fishing over a given period, a key quantity in assessing whether a fishery is sustainable. This source contains a garbled fragment that appears to read "rate of exploitation," suggesting such a calculation is discussed, but no values or methods are legible in the document.
+
+### Context
+> The source is a scanned multi-page document of which almost all text is unrecoverable. The OCR output consists mainly of fragmented characters, table grids, and rotated figure labels. Only a few short phrases can be read with confidence, and they point to a fisheries-analysis or stock-assessment...
+> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+
+### Mentioned In
+- [[IllegibleScannedFisheriesDocum_PML0693]]
+
 ## Exploitative Competition
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
+
+## Explosive Fishing
+
+### Summary
+A destructive method of catching reef fish by detonating explosives to stun or kill fish. The source reports that it was used at Sumilon in 1984-85, alongside Muro-Ami, and was associated with marked changes in the family and trophic structure of the reserve community.
+
+### Context
+> This study examined how fishing affected the density, biomass, species richness and family/trophic structure of the [[Coral Reef Fish]] community at two central Philippine islands, [[Sumilon Island]] and [[Apo Island]], from 1983 to 1993. Differing histories of [[Marine Reserves]] and fished areas...
+> -- *[[NaturalFishingExperimentsInMar_PML2275]]*
+
+### Mentioned In
+- [[NaturalFishingExperimentsInMar_PML2275]]
 
 ## Explosives
 
@@ -28422,6 +36511,54 @@ Chemical materials designed to produce rapid release of energy, used here for bl
 
 ### Mentioned In
 - [[IndictedInBlastingOfFallsOnSal_20914]]
+
+## Exponential Decay Model
+
+### Summary
+The Exponential Decay Model describes gastric evacuation as a steady proportional loss of stomach contents over time, governed by an instantaneous evacuation rate. Persson found it gave good fits (mostly R² of 0.75–0.97) for perch fed fish larvae at most meal sizes. The model was used to support estimating food consumption in perch populations, though large meals needed an added lag term.
+
+### Context
+> This study by L. Persson (Institute of Limnology, University of Lund, Sweden; published in *Freshwater Biology*, 1981) examines how [[Water Temperature]] and [[Meal Size]] influence the rate of gastric evacuation in [[European Perch]] (*Perca fluviatilis*) fed on small fish, mainly [[Bleak]]...
+> -- *[[TheEffectsOfTemperatureAndMeal_PML2117]]*
+
+### Mentioned In
+- [[TheEffectsOfTemperatureAndMeal_PML2117]]
+
+## Exponential Family
+
+### Summary
+The exponential family is a class of probability distributions that GLMs use for the random component. The source lists normal, binomial, Poisson, gamma and negative binomial distributions as members. It notes that binary responses are usually binomial and count responses usually Poisson.
+
+### Context
+> This textbook chapter (from a biostatistics text, p. 437–446 in the source pagination) explains why [[Generalized Linear Models]] (GLMs) are needed when response variables are not normally distributed. It covers the three components of a GLM, the [[Logit Link Function]] used in [[Logistic...
+> -- *[[GeneralizedLinearModelsAndLogi_PML2183]]*
+
+### Mentioned In
+- [[GeneralizedLinearModelsAndLogi_PML2183]]
+
+## Exponential Growth
+
+### Summary
+Exponential growth is unrestricted growth in continuous time, described by dN/dt = rN with solution N(t) = N₀e^(rt). The source says it is only approximated for a limited time, such as when a species is introduced to a new place with abundant resources and few enemies. Worked examples include a rabbit introduction and the doubling of lily pads in a pond.
+
+### Context
+> This note covers chapters 1 and 2 of [[An Illustrated Guide to Theoretical Ecology]] by Ted J. Case (Oxford University Press, 2000), together with the publisher's errata list. The chapters develop the mathematics of unrestricted population growth in discrete and continuous time, then extend the...
+> -- *[[AnIllustratedGuideToTheoretica_PML0391]]*
+
+### Mentioned In
+- [[AnIllustratedGuideToTheoretica_PML0391]]
+
+## Exponential Growth Model
+
+### Summary
+A population model, dN/dt = rN, in which growth rate is proportional to population size with no density limit. Orzack and Sober use it as a limiting case of the logistic model as N approaches zero, so the logistic model is at least as general and realistic.
+
+### Context
+> This paper by philosopher Jay Odenbaugh (*Philosophy of Science* 70, December 2003, pp. 1496–1507) defends ecologist [[Richard Levins]]'s thesis that biologists building mathematical models must trade off generality, precision, and realism because biological systems are complex. [[Steven Orzack]]...
+> -- *[[ComplexSystemsTradeoffsAndTheo_PML2040]]*
+
+### Mentioned In
+- [[ComplexSystemsTradeoffsAndTheo_PML2040]]
 
 ## Exponential Population Decline Model
 <!-- fm: auto_enriched: true -->
@@ -28477,6 +36614,30 @@ Extensional tectonism is crustal stretching that opens fractures and fissures in
 ### Mentioned In
 - [[TectonicSpeleogenesisOfDevilsH_14959]]
 
+## External Antenna Transmitter
+
+### Summary
+An external antenna transmitter is a radio tag with its antenna sticking out from the fish's body, used to track where the fish goes. In this study it was the more frequently used of the two transmitter types, a cylindrical unit weighing 109 g in air. It was the transmitter type used for most of the tracking work in the 1988 Green River bonytail chub study.
+
+### Context
+> This 1988 annual report from the [[Utah Division Of Wildlife Resources]] documents the first year of a radio telemetry study of hatchery-reared [[Bonytail Chub]] (*Gila elegans*) stocked into the [[Green River]] in Utah. Of 39 fish released in 1988, 33 died and 4 survived. Radio contact was...
+> -- *[[RadioTelemetryMonitoringOfStoc_PML0404]]*
+
+### Mentioned In
+- [[RadioTelemetryMonitoringOfStoc_PML0404]]
+
+## External Evaluation
+
+### Summary
+Review of a program by outside peer reviewers, which the source recommends roughly every five years. The source notes that outside reviewers are less exposed to rewards or sanctions, groupthink, conflicts of interest and peer pressure, and suggests funding agencies formally manage these reports.
+
+### Context
+> This essay argues that formal evaluation of [[Conservation Program Evaluation|conservation programs]] is rare but increasingly important for improving their effectiveness. The authors, a team of conservation scientists and managers from zoological, governmental, academic and NGO institutions,...
+> -- *[[ImprovingTheEvaluationOfConser_PML1283]]*
+
+### Mentioned In
+- [[ImprovingTheEvaluationOfConser_PML1283]]
+
 ## External Limiting Membrane
 
 ### Summary
@@ -28496,9 +36657,17 @@ The external limiting membrane is a layer in the retina that marks the boundary 
 > This 1991 supplement to the *Texas Journal of Science* by Huss, Edwards, and Garrett provides an annotated checklist of 247 fish species in 45 families recorded from Texas waters, together with dichotomous keys to families, genera and species. Of the 247 species, roughly two-thirds are exclusively...
 > -- *[[AnAnnotatedChecklistOfTheFresh_14250]]*
 
+> This document is a 1985 U.S. Fish and Wildlife Service (FWS) package requesting public and agency comment on the five-year review of species listed under the [[Endangered Species Act]]. It consists of a cover letter to regional cooperators, an internal comment routing sheet, and a *Federal...
+> -- *[[EndangeredAndThreatenedWildlif_PML0723]]*
+
+> This document is a 1992 compilation of the U.S. federal regulations at 50 CFR §17.11 (Endangered and Threatened Wildlife) and §17.12 (Endangered and Threatened Plants), prepared by the Division of Endangered Species of the [[U.S. Fish and Wildlife Service]]. It is a regulatory reference rather than...
+> -- *[[EndangeredAndThreatenedWildlif_PML2682]]*
+
 ### Mentioned In
 - [[ExhibitOutlineWhatIsBiodiversi_1993_05_28]]
 - [[AnAnnotatedChecklistOfTheFresh_14250]]
+- [[EndangeredAndThreatenedWildlif_PML0723]]
+- [[EndangeredAndThreatenedWildlif_PML2682]]
 
 ## Extinction And Management Of Southwestern Desert Fishes
 <!-- fm: auto_enriched: true -->
@@ -28518,6 +36687,18 @@ The grouping of a species by how its population dynamics affect extinction risk.
 ### Mentioned In
 - [[CharacterizingExtinctionRisksF_16299]]
 
+## Extinction Rate
+
+### Summary
+Extinction rate is the frequency at which populations disappear over a period of observation. In this source it is compared against population variability: of 35 correlations, most showed that higher variability went with lower extinction rates, the reverse of the simple expectation. Pimm notes that above a threshold of about eight individuals, the usual pattern of more variability with more extinction risk holds.
+
+### Context
+> This Trends in Ecology & Evolution essay by [[Stuart Pimm]] examines why some species are rare, how year-to-year population variability relates to [[Extinction Rate|extinction risk]], and why the usual expectation (more variable populations go extinct faster) does not hold in simple form. Pimm...
+> -- *[[LifeOnAnIntermittentEdge_PML2135]]*
+
+### Mentioned In
+- [[LifeOnAnIntermittentEdge_PML2135]]
+
 ## Extinction Rates
 <!-- fm: auto_enriched: true -->
 
@@ -28533,8 +36714,12 @@ The probability that a population or species will die out over a given time. The
 > This Insight essay by Dunham, Peacock, Tracy, Nielsen and Vinyard (Conservation Ecology, 1999) asks whether patterns of neutral [[Neutral Genetic Variation]] can help assess [[Extinction Risk]]. The authors compare the major classes of extinction risk assessment, namely [[Population Viability...
 > -- *[[AssessingExtinctionRiskIntegra_19164]]*
 
+> This USDA Forest Service Rocky Mountain Research Station monograph (General Technical Report RMRS-GTR-174, September 2006) reviews the tradeoff managers face when using [[Movement Barriers]] to keep [[Nonnative Salmonids]] out of native salmonid habitat. Native salmonids are increasingly confined...
+> -- *[[StrategiesForConservingNativeS_PML0711]]*
+
 ### Mentioned In
 - [[AssessingExtinctionRiskIntegra_19164]]
+- [[StrategiesForConservingNativeS_PML0711]]
 
 ## Extinction Vortex
 <!-- fm: auto_enriched: true -->
@@ -28543,9 +36728,13 @@ The probability that a population or species will die out over a given time. The
 > This essay by [[Hedrick]], [[Lacy]], [[Allendorf]] and [[Soulé]] (*Conservation Biology* 10(5), October 1996) responds to [[Caughley]]'s (1994) review of conservation biology. Caughley described two approaches: the [[Small Population Paradigm]] and the [[Declining Population Paradigm]]. The authors...
 > -- *[[DirectionsInConservationBiolog_20766]]*
 
+> This August 1992 draft by Michael Gilpin and Andrew Soulé (University of California, San Diego) for comment and discussion, not citation, examines how [[Population Genetics]] bears on the viability and recovery of the [[Colorado Squawfish]]. The authors state that very little is known empirically...
+> -- *[[TheGeneticsOfTheColoradoSquawf_PML0870]]*
+
 ### Mentioned In
 - [[DraftMeetingSummaryPopulationV_1991_03_07]]
 - [[DirectionsInConservationBiolog_20766]]
+- [[TheGeneticsOfTheColoradoSquawf_PML0870]]
 
 ## Extirpation
 
@@ -28559,9 +36748,13 @@ Extirpation is the local disappearance of a species from a particular area while
 > This *Denver Post* outdoors article (dated January 26; the year is not stated, but it references events through March 1992) reports a dispute between the [[Colorado Division Of Wildlife]] (DOW) and the [[U.S. Fish And Wildlife Service]] (USFWS) over stocking non-native game fish on the Western...
 > -- *[[StockExchangesStateFederalOffi_20494]]*
 
+> This 1982 document is the [[Arizona Game And Fish Department]]'s list of threatened native wildlife, approved by the Arizona Game and Fish Commission on 10 December 1982. It was first developed in 1975 and revised in 1978. The list covers 93 species and subspecies, grouped by the degree of threat...
+> -- *[[ThreatenedNativeWildlifeInAriz_PML0091]]*
+
 ### Mentioned In
 - [[DistributionBiologyAndStatusOf_18205]]
 - [[StockExchangesStateFederalOffi_20494]]
+- [[ThreatenedNativeWildlifeInAriz_PML0091]]
 
 ## Extirpation Criteria
 
@@ -28572,8 +36765,16 @@ The standards used to decide whether a stocked population of Gila topminnow or d
 > A letter dated January 15, 1999, from the [[US Fish And Wildlife Service]] Arizona Ecological Services Field Office transmits the final decision on the extirpation of stocked populations of [[Gila Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) at nine...
 > -- *[[SitesDeclaredExtirpatedForGila_11758]]*
 
+> This August 7, 1997 letter from the [[U.S. Fish And Wildlife Service]] (Arizona Ecological Services Field Office) transmits the final determination on extirpation of stocked populations of [[Gila Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) at sites in...
+> -- *[[SitesDeclaredExtirpatedForGila_PML2726]]*
+
+> This Arizona Game and Fish Department (AGFD) Technical Report 100, a draft by [[David A. Weedman]] and [[Kirk L. Young]], reviews [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) reintroduction sites across Arizona and provisionally declares a large number of them extirpated. The...
+> -- *[[GilaTopminnowSitesInArizonaPro_PML2858]]*
+
 ### Mentioned In
 - [[SitesDeclaredExtirpatedForGila_11758]]
+- [[SitesDeclaredExtirpatedForGila_PML2726]]
+- [[GilaTopminnowSitesInArizonaPro_PML2858]]
 
 ## Extracellular Organic Products
 
@@ -28586,6 +36787,18 @@ Extracellular organic products are compounds that phytoplankton release into the
 
 ### Mentioned In
 - [[PartialBibliographyOfInterestT_18238]]
+
+## Extractable Aluminum
+
+### Summary
+Extractable aluminum is a trace metal measured in lake waters, and it was one of the low-concentration analytes that was often near detection limits. The report found all detectability data met DQOs and contamination was not significant, but accuracy could not be estimated because extractable Al species were unstable in the synthetic audit solution. The authors recommend alternative methods for future surveys.
+
+### Context
+> This EPA Project Summary describes the [[Quality Assurance Program]] for the Phase I synoptic chemistry component of the [[Western Lake Survey]] (WLS-I), part of the [[National Surface Water Survey]]. The survey was built to assess the effects of acidic deposition on lake water chemistry in the...
+> -- *[[NationalSurfaceWaterSurveyWest_PML2365]]*
+
+### Mentioned In
+- [[NationalSurfaceWaterSurveyWest_PML2365]]
 
 ## Extraction Waste
 
@@ -28653,6 +36866,18 @@ A study cited in the source as having found Chloroperla torrentium nymphs late i
 ### Mentioned In
 - [[ThePlecopteraOfAHeadwaterStrea_16505]]
 
+## Exuma Cays Land and Sea Park
+
+### Summary
+A marine protected area in the Bahamas that the source cites as a recent example of empirical work on how movement affects reserve success. It is presented as a case where the role of fish movement was actually studied.
+
+### Context
+> This synthesis paper, published in *Ecological Applications* (Supplement, 2003), distills existing theoretical and modeling results into general principles for designing [[Marine Reserves]]. The authors, from the University of California, Davis and the University of Pisa, note that marine reserve...
+> -- *[[PrinciplesForTheDesignOfMarine_PML0256]]*
+
+### Mentioned In
+- [[PrinciplesForTheDesignOfMarine_PML0256]]
+
 ## Exxon Valdez
 
 ### Summary
@@ -28676,6 +36901,42 @@ The Exxon Valdez oil spill raised questions in the article about long-term impac
 
 ### Mentioned In
 - [[TurnerOutlinesPlansForFwsJob_20783]]
+
+## Eyak River
+
+### Summary
+The Eyak River is a river basin on the western side of the Copper River Delta, and one of the two western basins where the 1987 survey took sites. The source notes that the youngest terrain of Eyak Slough was colonized by only four plant species, mainly Carex lyngbyei. Plant species diversity was generally lower here than at Martin River.
+
+### Context
+> This U.S. Forest Service General Technical Report (PNW-GTR-282, 1991), edited by [[Mason D. Bryant]], summarizes a two-week synoptic survey of the wetlands of the [[Copper River Delta]], Alaska, conducted 20–31 July 1987. An interdisciplinary team examined geomorphology, water chemistry and...
+> -- *[[TheCopperRiverDeltaPulseStudyA_PML2612]]*
+
+### Mentioned In
+- [[TheCopperRiverDeltaPulseStudyA_PML2612]]
+
+## Eye and Vitreous Humor Sampling
+
+### Summary
+Obtaining genetic material from fish eyes, either by removing the whole eye or by extracting vitreous humor. Over 60% of standard locus products could be scored from eye tissue in the authors' studies. Vitreous sampling is gentler, with Seeb et al. taking 0.5 ml from chum salmon eyes without measurable harm, but it is impractical for small fish.
+
+### Context
+> This book chapter, by Morizot, [[Schmidt]], [[Carmichael]], [[Stock]] and Williamson, evaluates whether genetic data (chiefly allozyme and other protein markers) can be obtained from fishes without killing them. It introduces the term **[[Minimally Invasive Tissue Sampling]]** and compares...
+> -- *[[MinimallyInvasiveTissueSamplin_PML1923]]*
+
+### Mentioned In
+- [[MinimallyInvasiveTissueSamplin_PML1923]]
+
+## Eye Fluke Disease
+
+### Summary
+Eye fluke disease is a parasitic condition of fish. This source mentions it only as an example of specialized studies that require head removal, which snout tagging is compatible with.
+
+### Context
+> This short technical note by [[Charles Berry]] of the [[Utah Cooperative Fishery Unit]] at [[Utah State University]] describes the use of a [[Coded Wire Tag]] injected into the snout of fingerling fish as a method for individual or group identification in inland fisheries. Coded wire tagging had...
+> -- *[[CodedWireSnoutTagForInlandFish_PML0195]]*
+
+### Mentioned In
+- [[CodedWireSnoutTagForInlandFish_PML0195]]
 
 ## Eye Flukes
 
@@ -28757,3 +37018,15 @@ A Mexican geologist cited by Gálvez, whose work helps support the tentative ass
 
 ### Mentioned In
 - [[AlgunasExploracionesEnElDistri_16900]]
+
+## EzRAD Protocol
+
+### Summary
+EzRAD is a reduced-representation sequencing protocol used to generate genomic data from tissue samples. In this study, DNA was digested with the restriction enzyme DpnII and the libraries were sequenced on an Illumina MiSeq.
+
+### Context
+> This report, submitted to the Joint ASIH-AFS Committee on Names of Fishes, re-examines the [[Gila Robusta]] species complex of the [[Lower Colorado River Basin]]. Recent treatments recognize three species: [[Gila Robusta]], [[Gila Intermedia]], and [[Gila Nigra]]. The authors combine a historical...
+> -- *[[RevisionOfTheGilaRobustaTeleos_PML0498]]*
+
+### Mentioned In
+- [[RevisionOfTheGilaRobustaTeleos_PML0498]]
