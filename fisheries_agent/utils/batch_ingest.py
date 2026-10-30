@@ -30,9 +30,11 @@ import json
 import os
 import re
 import shutil
+import socket
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -52,6 +54,8 @@ BATCH_DISCOUNT = 0.5
 MIN_TEXT_CHARS = 50  # fewer letters/digits than this: nothing to summarize, so the document fails instead of being sent
 MAX_BATCH_BYTES = 150_000_000  # Anthropic's limit is 256 MB per batch
 MAX_TRIES = 3  # submissions per request before it counts as failed (errors, expiry)
+NET_RETRY_DELAYS = (10, 30, 60, 120, 300)  # seconds between retries on network errors (last one repeats)
+NET_RETRY_MAX_SECONDS = 45 * 60  # give up after this long offline; a rerun resumes from saved state
 
 
 def _now() -> str:
@@ -60,6 +64,24 @@ def _now() -> str:
 
 def _say(msg: str) -> None:
     print(f"[{datetime.now().strftime('%H:%M')}] {msg}", flush=True)
+
+
+def _network_up() -> bool:
+    """Cheap check: can we resolve and reach the API host? (No key, no payload.)"""
+    host = urllib.parse.urlsplit(API_BASE).hostname or "api.anthropic.com"
+    try:
+        socket.create_connection((host, 443), timeout=10).close()
+        return True
+    except OSError:
+        return False
+
+
+def _wait_for_network(delay: int) -> None:
+    """Sleep `delay` seconds, then poll every 15 s (up to another `delay`) until the API host is reachable."""
+    time.sleep(delay)
+    deadline = time.monotonic() + delay
+    while not _network_up() and time.monotonic() < deadline:
+        time.sleep(15)
 
 
 # ------------------------------------------------------------------ batch API
@@ -76,22 +98,35 @@ class BatchAPI:
         data = json.dumps(body).encode("utf-8") if body is not None else None
         req = urllib.request.Request(url, data=data, method=method, headers={
             "x-api-key": self._key, "anthropic-version": API_VERSION, "content-type": "application/json"})
-        for attempt in range(4):
+        http_attempt = 0
+        net_attempt = 0
+        net_started = None
+        while True:
             try:
                 with urllib.request.urlopen(req, timeout=300) as r:
                     payload = r.read()
+                if net_started is not None:
+                    _say(f"Network back after {int(time.monotonic() - net_started)}s; continuing.")
                 return payload if raw else json.loads(payload)
             except urllib.error.HTTPError as e:
                 detail = e.read().decode("utf-8", "replace")[:400].replace(self._key, "[key]")
-                if e.code in (429, 500, 502, 503, 504, 529) and attempt < 3:
-                    time.sleep(20 * (attempt + 1))
+                if e.code in (429, 500, 502, 503, 504, 529) and http_attempt < 3:
+                    http_attempt += 1
+                    time.sleep(20 * http_attempt)
                     continue
                 raise RuntimeError(f"Anthropic batch API {method} {url.rsplit('/v1/', 1)[-1]} failed ({e.code}): {detail}")
-            except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
-                if attempt < 3:
-                    time.sleep(30 * (attempt + 1))
-                    continue
-                raise RuntimeError(f"Anthropic batch API unreachable: {e}")
+            except (urllib.error.URLError, TimeoutError, ConnectionError, OSError) as e:
+                # Network blips (Wi-Fi drop, DNS failure, sleep): wait it out instead of killing a long run.
+                if net_started is None:
+                    net_started = time.monotonic()
+                waited = time.monotonic() - net_started
+                if waited >= NET_RETRY_MAX_SECONDS:
+                    raise RuntimeError(f"Anthropic batch API unreachable for {int(waited // 60)} min, giving up "
+                                       f"(rerun to resume): {e}")
+                delay = NET_RETRY_DELAYS[min(net_attempt, len(NET_RETRY_DELAYS) - 1)]
+                net_attempt += 1
+                _say(f"Network problem ({getattr(e, 'reason', e)}); retrying in {delay}s (attempt {net_attempt}).")
+                _wait_for_network(delay)
 
     def create(self, requests: list) -> dict:
         return self._call("POST", f"{API_BASE}/v1/messages/batches", {"requests": requests})
