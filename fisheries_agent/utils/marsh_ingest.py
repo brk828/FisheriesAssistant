@@ -101,7 +101,7 @@ A copyright notice from a journal, society or commercial publisher means "publis
 
 META_HEAD_CHARS = 6000
 META_TAIL_CHARS = 1500
-META_MAX_TOKENS = 700
+META_MAX_TOKENS = 1200
 _COPYRIGHT = re.compile(r"(?:©|\(c\)\s*\d{4}|copyright|all rights reserved|reprinted (?:with|by) permission)", re.I)
 
 
@@ -251,12 +251,25 @@ def meta_user(file_name: str, ex: dict) -> str:
     return "\n".join(parts)
 
 
+def _loose_fields(text: str) -> dict:
+    """Field-by-field fallback for a reply that is not valid JSON (e.g. an unescaped quote in a copied notice)."""
+    out = {}
+    for key in ("title", "authors", "year", "publication", "document_type", "category", "copyright_notice", "confidence", "reason"):
+        m = re.search(rf'"{key}"\s*:\s*"(.*?)"\s*(?:,\s*\n?\s*"[a-z_]+"\s*:|\}})', text, re.S)
+        if m:
+            out[key] = m.group(1).replace('\\"', '"')
+    return out
+
+
 def parse_meta(text: str) -> dict:
-    m = re.search(r"\{.*\}", text or "", re.S)
+    text = re.sub(r"^```(?:json)?\s*|\s*```\s*$", "", (text or "").strip())
+    m = re.search(r"\{.*\}", text, re.S)
     try:
         data = json.loads(m.group(0)) if m else {}
     except json.JSONDecodeError:
-        return {}
+        data = {}
+    if not isinstance(data, dict) or not data.get("category"):
+        data = _loose_fields(text)
     clean = lambda k: re.sub(r"\s+", " ", str(data.get(k) or "")).strip()
     year = re.search(r"\b(1[6-9]\d\d|20\d\d)\b", clean("year"))
     return {"title": clean("title"), "authors": clean("authors"), "year": year.group(1) if year else "",
@@ -408,7 +421,13 @@ class MarshRunner(Runner):
         text = "".join(b.get("text", "") for b in msg.get("content", []) if b.get("type") == "text")
         meta = parse_meta(text)
         if not meta.get("category"):
-            return self._retry(item, "unreadable reply")
+            raw = CACHE_DIR / f"{doc['mid']}_catalog_reply_{doc.get('meta_tries', 0)}.txt"  # kept for diagnosis (gitignored)
+            try:
+                raw.parent.mkdir(parents=True, exist_ok=True)
+                raw.write_text(f"stop_reason: {msg.get('stop_reason')}\n\n{text}", encoding="utf-8")
+            except OSError:
+                pass
+            return self._retry(item, f"unreadable reply (stop_reason {msg.get('stop_reason')}; saved to {raw.name})")
         doc["meta"] = meta
         self._maybe_write(doc)
 
