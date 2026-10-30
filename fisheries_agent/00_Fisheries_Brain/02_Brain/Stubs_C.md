@@ -16071,6 +16071,9 @@ Catostomus bernardini is a native sucker species (Family Catostomidae) endemic t
 > This is a draft management plan (*Proyecto de Plan de Manejo*, October 1994) for the proposed Zona de Protección de Flora y Fauna Silvestres y Acuáticas [[Sierra San Luis]], a 59,000 ha protected area on the northern edge of the [[Sierra Madre Occidental]] straddling the Sonora–Chihuahua border...
 > -- *[[ProyectoDePlanDeManejo_19306]]*
 
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
 ### Mentioned In
 - [[EcologicalObservationsOfNative_1988]]
 - [[ItineraryForRioYaquiFishesCapt_1987_09_14]]
@@ -16080,6 +16083,19 @@ Catostomus bernardini is a native sucker species (Family Catostomidae) endemic t
 - [[SkyIslandAquaticResourcesHabit_15003]]
 - [[ObservacionesSobreLaIctiofauna_17369]]
 - [[ProyectoDePlanDeManejo_19306]]
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
+
+## Catostomus Cahita
+
+### Summary
+Catostomus cahita, the Cahita sucker, is a freshwater catostomid described in this paper as a new species. It is widely distributed in the southern and southeastern Rio Yaqui and upper Rio Mayo basins in Chihuahua, Mexico, from high-elevation streams down into lower Sinaloan Thornscrub. The authors distinguish it by small lips, a horizontal mouth, and pharyngeal tooth counts of 29 to 32 per arch.
+
+### Context
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
+### Mentioned In
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Catostomus Catostomus
 <!-- fm: auto_enriched: true -->
@@ -16529,6 +16545,18 @@ Catostomus latipinnis, commonly known as the flannelmouth sucker, is a native cy
 - [[NotesOnACollectionOfFishesFrom_16994]]
 - [[ExpandedListOfDesiderataForBwp_15365]]
 - [[EcologicalStudiesOfTheFloraAnd_18743]]
+
+## Catostomus Leopoldi
+
+### Summary
+Catostomus leopoldi, the Bavispe sucker, is a freshwater catostomid described in this paper as a new species. It is known from headwater streams of the Rio de Bavispe in the Rio Yaqui basin, Chihuahua, Mexico, mostly above 2000 m. The authors distinguish it by large, elliptical lips, a completely cleft lower lip, and low pharyngeal tooth counts (34 to 39 per arch).
+
+### Context
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
+### Mentioned In
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Catostomus Macrocheilus
 <!-- fm: auto_enriched: true -->
@@ -18773,6 +18801,9 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 > This 1999 final draft, prepared for the [[Commission for Environmental Cooperation]] (CEC) Secretariat by an interdisciplinary San Pedro Expert Study Team, assesses how base water flows can be maintained to sustain the riparian corridor of the upper San Pedro River. The corridor is a critical...
 > -- *[[SustainingAndEnhancingRiparian_20514]]*
 
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
 ### Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
 - [[CentralArizonaProjectCompletio_1967_03_31]]
@@ -18883,6 +18914,7 @@ The Central Arizona Project (CAP) is a large-scale water delivery system that di
 - [[OurMostPreciousResourceWater_17371]]
 - [[TheColoradoRiverInstabilityAnd_19189]]
 - [[SustainingAndEnhancingRiparian_20514]]
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## Central Arizona Project Canal
 
@@ -23448,6 +23480,9 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This multi-author University of Utah publication (Anthropological Papers No. 40, Glen Canyon Series No. 7, June 1959) documents pre-impoundment ecological baseline studies in [[Glen Canyon]], the canyon of the [[Colorado River]] that was to be flooded by the [[Glen Canyon Reservoir]], a unit of the...
 > -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
 
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AComparisonOfProductionOfAlbin_18664]]
@@ -24101,6 +24136,7 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[FishPopulationsFollowingADroug_13991]]
 - [[SelectiveBreedingProgrammesFor_13481]]
 - [[EcologicalStudiesOfTheFloraAnd_20822]]
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## Channel Catfish Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -50096,6 +50132,9 @@ The Colorado River is a major southwestern North American river system that serv
 > This multi-author University of Utah publication (Anthropological Papers No. 40, Glen Canyon Series No. 7, June 1959) documents pre-impoundment ecological baseline studies in [[Glen Canyon]], the canyon of the [[Colorado River]] that was to be flooded by the [[Glen Canyon Reservoir]], a unit of the...
 > -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
 
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
@@ -51038,6 +51077,7 @@ The Colorado River is a major southwestern North American river system that serv
 - [[SpawningMovementAndPopulationS_12137]]
 - [[EndangeredAquaticEcosystemsInN_12035]]
 - [[EcologicalStudiesOfTheFloraAnd_20822]]
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
 
 ## Colorado River (Texas)
 <!-- fm: auto_enriched: true -->
@@ -57070,6 +57110,12 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This multi-author University of Utah publication (Anthropological Papers No. 40, Glen Canyon Series No. 7, June 1959) documents pre-impoundment ecological baseline studies in [[Glen Canyon]], the canyon of the [[Colorado River]] that was to be flooded by the [[Glen Canyon Reservoir]], a unit of the...
 > -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -57708,6 +57754,8 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[SpawningMovementAndPopulationS_12137]]
 - [[EndangeredAquaticEcosystemsInN_12035]]
 - [[EcologicalStudiesOfTheFloraAnd_20822]]
+- [[AnnualNarrativeReportFy_PML1181]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Colorado Squawfish Habitat Use
 
@@ -59375,6 +59423,9 @@ The Comanche Springs Pupfish (*Cyprinodon* sp.) is a critically endangered cypri
 > This Fisheries bulletin article by [[James E. Johnson]] and [[John N. Rinne]] (Fisheries, Vol. 7, No. 4, July-August 1982) reviews the status of native fishes of the American Southwest under the [[Endangered Species Act]] of 1973. The authors argue that the region's fauna, marked by high endemism...
 > -- *[[TheEndangeredSpeciesActAndSout_19785]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[AspectsOfTheThermalEcologyOfCy_13860]]
 - [[DraftConservationAgreementForT_1998_12_28]]
@@ -59393,6 +59444,7 @@ The Comanche Springs Pupfish (*Cyprinodon* sp.) is a critically endangered cypri
 - [[PreliminaryListOfRareRestricte_15342]]
 - [[GeneticComparisonsOfHatcheryAn_15755]]
 - [[TheEndangeredSpeciesActAndSout_19785]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## Combination Fishway
 
@@ -68963,6 +69015,18 @@ Corona de San Pedro (Cornus florida, Cornaceae) is an ornamental tree that can r
 ### Mentioned In
 - [[FloraRepresentativaDeChipinque_18741]]
 
+## Corona Discharge
+
+### Summary
+Corona discharge is an electrical method used to generate ozone from oxygen or air. The source notes that ozone for water treatment is usually produced on site this way, as part of the gas feed and generator stage of an ozone system.
+
+### Context
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
+### Mentioned In
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
+
 ## Coronado Expedition
 
 ### Summary
@@ -69418,6 +69482,18 @@ The statistical method used to relate first-year sauger growth to each environme
 ### Mentioned In
 - [[TheInfluenceOfCertainEnvironme_20701]]
 - [[LongtermStreamflowRecordsRecon_14346]]
+
+## Correlational Study
+
+### Summary
+A correlational study examines whether variables such as animal location and habitat conditions are related, to test a stated hypothesis. The source notes it can reveal relationships, such as animals moving into cooler forest as temperatures rise, but cannot establish cause and effect because confounding factors may be at work.
+
+### Context
+> This document is a chapter on the design of [[Radio-Tracking]] studies in wildlife research. It argues that radio-tracking is often used in poorly conceived, purely descriptive studies, and that the technique's real value lies in testing explicit hypotheses through the [[Scientific Method]]. The...
+> -- *[[DesignOfRadiotrackingStudies_PML0001]]*
+
+### Mentioned In
+- [[DesignOfRadiotrackingStudies_PML0001]]
 
 ## Correlative Rights
 
@@ -72027,6 +72103,9 @@ The Coyote (Canis latrans) is a native carnivore found in desert ecosystems. Thi
 > This document compiles three letters published in *Nature* in June 1991 (vol. 351, 13 June; vol. 354, 13 June). It contains no fish, aquatic, or marine data. The three studies are: 1. **Male cooperation in lions.** Analysis of [[Kinship]] and paternity in [[African Lion]] coalitions in the...
 > -- *[[MitochondrialDnaAnalysisImplyi_19641]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[PapagoParkMilitaryReservationB_13351]]
 - [[GilasanFranciscoRiversResource_18256]]
@@ -72036,6 +72115,7 @@ The Coyote (Canis latrans) is a native carnivore found in desert ecosystems. Thi
 - [[AnAnnotatedCheckListOfTheVerte_15917]]
 - [[AnExplosionOfGreen_12326]]
 - [[MitochondrialDnaAnalysisImplyi_19641]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Coyote Control
 
@@ -79701,6 +79781,18 @@ In this handbook, 'current herbicides' refers to the section describing the chem
 
 ### Mentioned In
 - [[HerbicideManualForNoncroplandW_19157]]
+
+## Current State of Knowledge
+
+### Summary
+The current state of knowledge refers to the existing body of research on a question before a new study begins. The source recommends reviewing it early in study planning, before formulating specific hypotheses and collecting data.
+
+### Context
+> This document is a chapter on the design of [[Radio-Tracking]] studies in wildlife research. It argues that radio-tracking is often used in poorly conceived, purely descriptive studies, and that the technique's real value lies in testing explicit hypotheses through the [[Scientific Method]]. The...
+> -- *[[DesignOfRadiotrackingStudies_PML0001]]*
+
+### Mentioned In
+- [[DesignOfRadiotrackingStudies_PML0001]]
 
 ## Current Vegetation Survey
 <!-- fm: auto_enriched: true -->

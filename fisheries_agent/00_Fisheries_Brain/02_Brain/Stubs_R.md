@@ -812,6 +812,18 @@ Radio-iodine (I-131) is a radioactive isotope of iodine with an 8.0-day half-lif
 ### Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 
+## Radio-Tracking
+
+### Summary
+Radio-tracking is a method in which animals are fitted with radio transmitters so researchers can locate them repeatedly over time. According to this source, it is widely used in wildlife studies, but it often yields only descriptive natural-history information unless it is tied to explicit hypotheses.
+
+### Context
+> This document is a chapter on the design of [[Radio-Tracking]] studies in wildlife research. It argues that radio-tracking is often used in poorly conceived, purely descriptive studies, and that the technique's real value lies in testing explicit hypotheses through the [[Scientific Method]]. The...
+> -- *[[DesignOfRadiotrackingStudies_PML0001]]*
+
+### Mentioned In
+- [[DesignOfRadiotrackingStudies_PML0001]]
+
 ## Radioactive Contamination
 
 ### Summary
@@ -3696,6 +3708,9 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > This FAO Fisheries Technical Paper (No. 352, 1995, 122 p.), written by Douglas Tave of Urania Unlimited (Coos Bay, Oregon, USA), is a practical manual for [[Extension Agents]] and aquaculturists on designing [[Selective Breeding]] programmes to improve cultured food fish on medium-sized farms,...
 > -- *[[SelectiveBreedingProgrammesFor_13481]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ACreelCensusOfLakesInDistrictI_1959_01_15]]
@@ -4493,6 +4508,7 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[LosPecesDelValleDeMexico_13132]]
 - [[ALeesFerryTalePowerPoliticsAnd_20673]]
 - [[SelectiveBreedingProgrammesFor_13481]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Rainbow Trout Association
 <!-- fm: auto_enriched: true -->
@@ -8799,6 +8815,18 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This 1985 paper by the Endangered Species Committee of the [[Desert Fishes Council]] (Williams, Bowman, Brooks, Echelle, Edwards, Hendrickson and Landye) identifies endangered aquatic ecosystems across the [[Great Basin Desert|Great Basin]], [[Mojave Desert|Mohave]], [[Sonoran Desert|Sonoran]] and...
 > -- *[[EndangeredAquaticEcosystemsInN_12035]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -9993,6 +10021,10 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[CinegasvanishingClimaxCommunit_16637]]
 - [[SpawningMovementAndPopulationS_12137]]
 - [[EndangeredAquaticEcosystemsInN_12035]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -13799,6 +13831,9 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 > This 1985 paper by the Endangered Species Committee of the [[Desert Fishes Council]] (Williams, Bowman, Brooks, Echelle, Edwards, Hendrickson and Landye) identifies endangered aquatic ecosystems across the [[Great Basin Desert|Great Basin]], [[Mojave Desert|Mohave]], [[Sonoran Desert|Sonoran]] and...
 > -- *[[EndangeredAquaticEcosystemsInN_12035]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AdditionalStudiesToFacilitateE_1993]]
@@ -14203,6 +14238,7 @@ The Red Shiner is a small, invasive cyprinid fish native to the central United S
 - [[FishesOfTheBigBlueRiverBasinKa_18551]]
 - [[FishPopulationsFollowingADroug_13991]]
 - [[EndangeredAquaticEcosystemsInN_12035]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Red Shiner Eradication
 
@@ -14765,6 +14801,9 @@ Redbelly Tilapia is a cichlid species that appears in aquatic monitoring studies
 > This book chapter by Salvador Contreras-B. and Marco A. Escalante-C. reviews the introduction, distribution, status and known impacts of nonnative fishes in Mexico. The authors compile **55 exotic fishes**: **26 of foreign origin** and **29 transplants** (fishes moved within Mexico or from a...
 > -- *[[DistributionAndKnownImpactsOfE_17531]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[AsuResearchParkYoungOfYearFish_1993_08_02]]
 - [[FishSamplingAtAsuResearchParkA_19405]]
@@ -14777,6 +14816,7 @@ Redbelly Tilapia is a cichlid species that appears in aquatic monitoring studies
 - [[SummaryBiologicalOpinionOnTran_11705]]
 - [[VulnerabilityOfRedbellyTilapia_18242]]
 - [[DistributionAndKnownImpactsOfE_17531]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Redbook
 
@@ -26636,12 +26676,16 @@ The Rio Grande Embayment is a region of Texas and Mexico where the subspecies ar
 > This [[Recovery Plan]] was prepared by the [[Rio Grande Fishes Recovery Team]] (dated November 16, 1981) for the [[Pecos Gambusia]], a small livebearing fish listed as endangered under the [[Endangered Species Act]] in 1970. The stated ultimate goal is to secure survival of the species so that it...
 > -- *[[PecosGambusiaGambusiaNobilis_13304]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[RecommendationForAppointmentOf_1984_10_21]]
 - [[CvForNewProposal_17525]]
 - [[ComancheSpringsPupfishCyprinod_13298]]
 - [[BigBendGambusia_13310]]
 - [[PecosGambusiaGambusiaNobilis_13304]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## Rio Grande Floodway
 
@@ -28701,6 +28745,9 @@ The Rio Yaqui Basin is a desert aquatic system in the southwestern United States
 > This survey, conducted in spring and summer 1978 and combined with a review of literature and museum specimens, documents the fish fauna of the [[Rio Yaqui Basin]] in northwestern Mexico and its small United States portion. The drainage, covering about 73,000 km², supports 35 native fish species in...
 > -- *[[FishesOfTheRioYaquiBasinMexico_16633]]*
 
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
 ### Mentioned In
 - [[AttachedDraftListOfSpeciesAssi_14772]]
 - [[ConfirmationOfReceipt_1986_07_25]]
@@ -28731,6 +28778,7 @@ The Rio Yaqui Basin is a desert aquatic system in the southwestern United States
 - [[KeysToNativeAndIntroducedFishe_18582]]
 - [[LongfinSonoraChubChihuahuaChub_13688]]
 - [[FishesOfTheRioYaquiBasinMexico_16633]]
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Rio Yaqui Drainage
 <!-- fm: auto_enriched: true -->

@@ -713,6 +713,17 @@
   "timestamp": "2026-10-28T23:01:06+00:00",
   "via": "anthropic-batch"
  },
+ "02f0a3216b64670e3a914c7d78b4a51bb53ded8984a875099c1bb961f7ad5b51": {
+  "citation_source": "llm",
+  "file": "Marsh P.C. 1994. Rearing native colorado river fishes in golf course ponds.pdf",
+  "library": "Marsh Library",
+  "method": "mixed",
+  "note": "RearingNativeColoradoRiverFish_PML1476.md",
+  "source_id": "PML1476",
+  "status": "done",
+  "timestamp": "2026-10-30T00:08:29+00:00",
+  "via": "anthropic-batch"
+ },
  "02f7e556d4bc6e02cdee29159886b87d6e70d2962767fbb99c54ba9d92745ac0": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -7709,6 +7720,17 @@
   "status": "done",
   "timestamp": "2026-10-17T05:19:22+00:00"
  },
+ "24c8ddc9232b740f98aefaf919274fa611fb434a33879afd69ba5430237bcc26": {
+  "citation_source": "llm",
+  "file": "USFWS. 1986. Draft EA Salt and Gila Rivers.pdf",
+  "library": "Marsh Library",
+  "method": "mixed",
+  "note": "DraftEnvironmentalAssessmentSa_PML2656.md",
+  "source_id": "PML2656",
+  "status": "done",
+  "timestamp": "2026-10-30T00:08:26+00:00",
+  "via": "anthropic-batch"
+ },
  "24d82cf2c7eb2b15c2b1eca339339ca115931913bc76d27dce0ef92d913ad518": {
   "citation_source": "minckley-sheet",
   "file": "13520.pdf",
@@ -14638,6 +14660,17 @@
   "timestamp": "2026-10-28T16:45:49+00:00",
   "via": "anthropic-batch"
  },
+ "4541f49d886ef3327a1c1aa516677884bdf17cab2bdf29216512152f07b865a2": {
+  "citation_source": "llm",
+  "file": "Minckley C.O. 1994. removal of additional BTC and RBS.pdf",
+  "library": "Marsh Library",
+  "method": "text",
+  "note": "RemovalOfAdditionalBonytailChu_PML1771.md",
+  "source_id": "PML1771",
+  "status": "done",
+  "timestamp": "2026-10-30T00:08:31+00:00",
+  "via": "anthropic-batch"
+ },
  "4546700cf5df4051dcf47c6263ddb2ebecb961128ada7ee0500dcda44c8d9b72": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -17532,6 +17565,17 @@
   "timestamp": "2026-10-28T19:50:53+00:00",
   "via": "anthropic-batch"
  },
+ "520addfeb1677ea6b3711fd3ba1f915fb4dea96930b5e5992bcc3b519492a7cf": {
+  "citation_source": "llm",
+  "file": "1986. Analysis of wildlife radio tracking data, design of radio tracking studies.pdf",
+  "library": "Marsh Library",
+  "method": "mixed",
+  "note": "DesignOfRadiotrackingStudies_PML0001.md",
+  "source_id": "PML0001",
+  "status": "done",
+  "timestamp": "2026-10-30T00:08:27+00:00",
+  "via": "anthropic-batch"
+ },
  "520f8707598cb05e2c71d437c83cb078008a04d8a582c892c88ec5b80c1e9de1": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -19407,6 +19451,17 @@
   "source_id": "X-5a8c4313",
   "status": "done",
   "timestamp": "2026-10-28T16:54:34+00:00",
+  "via": "anthropic-batch"
+ },
+ "5a9b3f410c7ec40c17af631c7308ba6c5cb4d27bdaf985d19c53cf035ce26be1": {
+  "citation_source": "llm",
+  "file": "Brown 1878. Fishing for Speckled Mountain Beauties in Old Newspapers and Journals.pdf",
+  "library": "Marsh Library",
+  "method": "mixed",
+  "note": "FishingForSpeckledMountainBeau_PML0296.md",
+  "source_id": "PML0296",
+  "status": "done",
+  "timestamp": "2026-10-30T00:08:30+00:00",
   "via": "anthropic-batch"
  },
  "5aa23ef1275378a7307048ca7003b47b9d04b43c2df537a92fc9a313d1084821": {
@@ -26309,6 +26364,17 @@
   "status": "done",
   "timestamp": "2026-10-19T23:41:19+00:00"
  },
+ "7b6de7217c88333d885d4aafb6b89e09250de4f86022a786885c142690dddd34": {
+  "citation_source": "llm",
+  "file": "Gordon Mueller, Horn M.J. Joe Kahl Jr. Thomas Burke. Marsh P.C. 1992. Capture rates of Razorback Sucker in lake mohave using larval fish traps.pdf",
+  "library": "Marsh Library",
+  "method": "text",
+  "note": "CaptureRatesOfRazorbackSuckerX_PML0886.md",
+  "source_id": "PML0886",
+  "status": "done",
+  "timestamp": "2026-10-30T00:08:28+00:00",
+  "via": "anthropic-batch"
+ },
  "7b6df362f00791d63d1f134fbfa91c9765639b220e9c69c69d2254243ac40328": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -26747,6 +26813,17 @@
   "source_id": "X-7df5c7f8",
   "status": "done",
   "timestamp": "2026-10-28T19:24:59+00:00",
+  "via": "anthropic-batch"
+ },
+ "7df80ed99c95c5f008ac1e11dc5900ad353ddbd41b6001359c39809e5de25681": {
+  "citation_source": "llm",
+  "file": "Siebert D.J. et al 1986. two new castomid fishes from northern sierra madre.pdf",
+  "library": "Marsh Library",
+  "method": "mixed",
+  "note": "TwoNewCatostomidFishesCyprinif_PML2361.md",
+  "source_id": "PML2361",
+  "status": "done",
+  "timestamp": "2026-10-30T00:08:27+00:00",
   "via": "anthropic-batch"
  },
  "7e0d1848c94b9b0287d0a55f0b356c0c22929b6040ffb207228c5fb594a914c0": {
@@ -35931,6 +36008,17 @@
   "status": "done",
   "timestamp": "2026-10-21T06:50:56+00:00"
  },
+ "a8b9f82216bc0fef01a4f9fce655ecbb3673dc14aa6f8dc7c49852202c7bd600": {
+  "citation_source": "llm",
+  "file": "Jensen B.L. 1981. Annual report DNFH.pdf",
+  "library": "Marsh Library",
+  "method": "text",
+  "note": "AnnualNarrativeReportFy_PML1181.md",
+  "source_id": "PML1181",
+  "status": "done",
+  "timestamp": "2026-10-30T00:08:28+00:00",
+  "via": "anthropic-batch"
+ },
  "a8c393b7f1814e1fa8d689bb26993159ed7948fd9c491c971c4ba81e792cc4e8": {
   "citation_source": "minckley-sheet",
   "doc_type": "",
@@ -36727,6 +36815,17 @@
   "source_id": "X-ac75abb0",
   "status": "done",
   "timestamp": "2026-10-22T05:03:46+00:00"
+ },
+ "ac918b4764cd124fc3d9c2412c66adcc606c6c19b54cc3fabf4a142b9f994c94": {
+  "citation_source": "llm",
+  "file": "Pacey C.A. 2001. Ozone.pdf",
+  "library": "Marsh Library",
+  "method": "mixed",
+  "note": "OzoneDisinfectionAndAquaticTox_PML2066.md",
+  "source_id": "PML2066",
+  "status": "done",
+  "timestamp": "2026-10-30T00:18:51+00:00",
+  "via": "anthropic-batch"
  },
  "ac92ca8f037a49c398a63edabf831695a6362206d48ebf5689134570c1052727": {
   "citation_source": "minckley-sheet",

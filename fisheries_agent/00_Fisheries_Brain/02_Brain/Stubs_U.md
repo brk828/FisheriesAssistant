@@ -618,6 +618,9 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 > This *Salt Lake Tribune* news report (January 2, 1989) covers the failure of the [[Quail Creek Dike]] at [[Quail Creek Reservoir]] in Washington County, Utah. The dike burst early on Sunday, January 1, 1989, releasing floodwater into the [[Virgin River]] and forcing about 1,500 people to flee. The...
 > -- *[[FleeAsDikeBurstsInSUtah_20836]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[CooperativeAgreementForResearc_1993]]
 - [[ImplementationPlanMudSpringsGi_1996_07_18]]
@@ -692,6 +695,7 @@ The U.S. Bureau of Reclamation is a federal agency responsible for managing wate
 - [[EnvironmentalBattleBrewingOnCo_13923]]
 - [[IndexOfTheProceedingsOfTheDese_12025]]
 - [[FleeAsDikeBurstsInSUtah_20836]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## U.S. Bureau Of Sport Fisheries And Wildlife
 <!-- fm: auto_enriched: true -->

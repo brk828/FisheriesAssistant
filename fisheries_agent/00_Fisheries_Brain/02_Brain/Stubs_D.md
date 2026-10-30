@@ -9777,6 +9777,18 @@ A watershed management effort in the Deschutes Basin, cited as an example of mul
 ### Mentioned In
 - [[HistoryOfYearlingKingSalmonMar_14888]]
 
+## Descriptive Study
+
+### Summary
+A descriptive study documents what animals do, where they go, and which habitats they use, often reporting the proportion of time spent in each habitat. The source says it tells the investigator where an animal is but not why, so it provides natural-history information rather than explanation.
+
+### Context
+> This document is a chapter on the design of [[Radio-Tracking]] studies in wildlife research. It argues that radio-tracking is often used in poorly conceived, purely descriptive studies, and that the technique's real value lies in testing explicit hypotheses through the [[Scientific Method]]. The...
+> -- *[[DesignOfRadiotrackingStudies_PML0001]]*
+
+### Mentioned In
+- [[DesignOfRadiotrackingStudies_PML0001]]
+
 ## Descy
 
 ### Summary
@@ -15319,6 +15331,12 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This chapter, from the volume *Battle Against Extinction: Native Fish Management in the American West* (edited by W. L. Minckley and James E. Deacon, University of Arizona Press, 1991), describes the use of captive propagation and refugia to protect imperiled western North American fishes. It...
 > -- *[[HatcheriesForEndangeredFreshwa_19790]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -15637,6 +15655,8 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[AgeEstimationForRazorbackSucke_12257]]
 - [[ConservationGeneticsAndTheMana_20072]]
 - [[HatcheriesForEndangeredFreshwa_19790]]
+- [[AnnualNarrativeReportFy_PML1181]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Dexter National Fish Hatchery & Technology Center
 <!-- fm: auto_enriched: true -->
@@ -17854,6 +17874,18 @@ Dillard (1965) reported bowfin at 26.2°C with an average daily ration of 6.48 p
 
 ### Mentioned In
 - [[RateOfDigestionInTheBowfin_20364]]
+
+## Dillon Wallace
+
+### Summary
+Wallace was a visiting angler who, in 1910, fished the West Fork of the White River on the Fort Apache Indian Reservation with guide John Lewis. At an elevation above 9,000 feet, they caught fish 8 to 12 inches long.
+
+### Context
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
+### Mentioned In
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Dilution Effect
 

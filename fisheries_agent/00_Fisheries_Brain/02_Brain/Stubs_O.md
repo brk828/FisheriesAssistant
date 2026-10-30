@@ -367,6 +367,9 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > This methods note describes a simple, inexpensive device and procedure for quantitatively sampling [[Periphyton]] (attached algae and microorganisms) on intact, submerged [[Sedimentary Substrates]] in shallow flowing water. A [[Peristaltic Pump]] evacuates the periphyton mat from a sharpened pipe...
 > -- *[[APortablePumpSamplerForLoticPe_20988]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -387,6 +390,7 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[EvaluationOfTheAndCatchableTro_15816]]
 - [[PetitionToDesignateCriticalHab_20448]]
 - [[APortablePumpSamplerForLoticPe_20988]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Oak Creek Canyon
 
@@ -897,6 +901,18 @@ Radiation exposure received by workers in their jobs. The paper budgets it at 15
 
 ### Mentioned In
 - [[ResearchInTheRadioactiveContam_14606]]
+
+## Occupational Safety and Health Administration
+
+### Summary
+The U.S. federal agency that sets workplace safety standards. The source cites its exposure limit of 0.1 ppm ozone as an eight-hour shift limit, which the off-gas destruct unit must meet in ozone treatment plants.
+
+### Context
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
+### Mentioned In
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## Ocean Basin
 <!-- fm: auto_enriched: true -->
@@ -3605,6 +3621,9 @@ Oklahoma State University was the institution where this research on fish bioass
 > This study describes the cephalic and trunk lateral-line system of the [[Rio Grande Perch]], *Cichlasoma cyanoguttatum*, the only member of the [[Cichlidae]] known to occur naturally in the continental United States. Branson (1961) combines external morphology, osteology, histology, and...
 > -- *[[TheLaterallineSystemInTheRioGr_12897]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[TheSuitabilitiesAndRelativeRes_19185]]
 - [[EvaluationAndRelativeResistanc_19097]]
@@ -3617,6 +3636,7 @@ Oklahoma State University was the institution where this research on fish bioass
 - [[AComparativeStudyOfTheWeberian_10836]]
 - [[ReproductiveColorChangesInTheP_20961]]
 - [[TheLaterallineSystemInTheRioGr_12897]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## Oklahoma State University Museum of Zoology
 
@@ -13490,10 +13510,14 @@ A snail genus whose modal shell measurements are given in Table I alongside Pseu
 > This 1982 study examines why live [[Freshwater Drum]] (*Aplodinotus grunniens*) die after being hauled from [[Lake Erie]] to pay-fishing ponds, and which measures reduce that loss. The species is abundant in Lake Erie but underused, with only about 15% of its 11.3-million-kilogram maximum...
 > -- *[[CausesAndControlsOfFreshwaterD_19746]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[DrugSensitivityOfChondrococcus_1969]]
 - [[AgeDeterminationMethodsForFish_16137]]
 - [[CausesAndControlsOfFreshwaterD_19746]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## Oxytetracycline Marking
 

@@ -5693,6 +5693,9 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 > This document is a set of 1993 agency records on the [[Razorback Sucker]] (*Xyrauchen texanus*), an imperiled native catostomid. It contains three items: an internal memo summarizing capture and recapture data from [[Lake Mead]], a letter requesting information on a captive population and on...
 > -- *[[RazorbackCaptureOnLakeMead_16604]]*
 
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[FishAndWildlifeServiceReviewOf_1990_09_11]]
@@ -5737,6 +5740,7 @@ The Native Fish Work Group (NFWG) is an interagency collaborative body, primaril
 - [[AccomplishmentsOfTheNativeFish_20978]]
 - [[NativeFishWorkGroupAnnualRepor_13921]]
 - [[RazorbackCaptureOnLakeMead_16604]]
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
 
 ## Native Fish Working Group
 <!-- fm: auto_enriched: true -->

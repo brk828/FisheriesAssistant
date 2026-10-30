@@ -9902,6 +9902,18 @@ The stabilizing effect of living underground on temperature. The author states t
 ### Mentioned In
 - [[BurrowingActivitiesOfTheScorpi_12045]]
 
+## Thermal Cover
+
+### Summary
+Thermal cover is habitat that offers animals relief from high temperatures, such as dense forest that stays cooler than open ground. In the source's illustrative example, ungulates shift into forest as air temperatures rise, which is the hypothesized reason for habitat selection.
+
+### Context
+> This document is a chapter on the design of [[Radio-Tracking]] studies in wildlife research. It argues that radio-tracking is often used in poorly conceived, purely descriptive studies, and that the technique's real value lies in testing explicit hypotheses through the [[Scientific Method]]. The...
+> -- *[[DesignOfRadiotrackingStudies_PML0001]]*
+
+### Mentioned In
+- [[DesignOfRadiotrackingStudies_PML0001]]
+
 ## Thermal Discharge
 
 ### Summary

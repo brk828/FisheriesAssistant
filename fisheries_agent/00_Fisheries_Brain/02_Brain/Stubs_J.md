@@ -476,6 +476,18 @@ J. R. Thompson is a co-author of this 1975 USDA Forest Service report on Black M
 - [[HydrologyOfBlackMesaWatersheds_18816]]
 - [[OtolithbasedGeneraAndLineagesO_18845]]
 
+## J. R. W. Hitchcock
+
+### Summary
+Hitchcock was one of the earliest railroad-era fly-fishing tourists in Arizona. He fished Oak Creek in 1885 and published an account in Outing magazine, describing the local trout as very dark, nearly black, finely spotted, and longer in proportion to weight than Eastern brook trout.
+
+### Context
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
+### Mentioned In
+- [[FishingForSpeckledMountainBeau_PML0296]]
+
 ## J. S. Dendy
 
 ### Summary

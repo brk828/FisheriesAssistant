@@ -2544,6 +2544,18 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[Fishes_17742]]
 - [[FactorsResultingInDeclineOfThe_20068]]
 
+## Yaqui Trout
+
+### Summary
+Yaqui trout (Salmo sp.) is a native salmonid of the Rio Yaqui system. In this source it is listed as present at two localities where Catostomus leopoldi was collected, and it shares high-elevation streams with C. cahita.
+
+### Context
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
+### Mentioned In
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
+
 ## Yaqui Watershed
 
 ### Summary
@@ -2623,6 +2635,18 @@ Cited with Wedemeyer for clinical stress assessment protocols that the authors p
 
 ### Mentioned In
 - [[ProblemsInThePhysiologicalMoni_20869]]
+
+## Yavapai
+
+### Summary
+The Yavapai are an Indigenous people of central Arizona. The source notes that, along with the Apache, they had little interest in recreational fishing in the early settler period, when Arizona's high streams held abundant native trout.
+
+### Context
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
+### Mentioned In
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Yavapai County
 
@@ -4118,6 +4142,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This Natural Resources Institute Special Report (No. 4), by [[William Dovel]], synthesizes eleven years (1960 to 1968) of plankton-net sampling of fish eggs and larvae in the upper [[Chesapeake Bay]] and its tributaries, including the [[Patuxent River]], [[Magothy River]], [[Susquehanna River]] and...
 > -- *[[FishEggsAndLarvaeOfTheUpperChe_19101]]*
 
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -4316,6 +4343,7 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[LifeCycleAndEcologyOfGammarusF_15946]]
 - [[ProductiveCapacityOfCanadianFi_16874]]
 - [[FishEggsAndLarvaeOfTheUpperChe_19101]]
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## Yellow Pike Perch
 
@@ -6232,6 +6260,9 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 > This 1997 final report, prepared by [[Sonoran Institute]] researchers for [[Defenders of Wildlife]] and the [[National Park Service]] US/Mexico Affairs Office, assesses the ecological condition of the [[Lower Colorado River]] from Parker Dam to the [[Colorado River Delta]] and evaluates past...
 > -- *[[OpportunitiesForEcologicalImpr_12940]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[CommentsOnTheBiologicalAndConf_1997_07_10]]
@@ -6275,6 +6306,7 @@ The Yuma Clapper Rail is a federally endangered bird species that inhabits wetla
 - [[ProposedProjectsForFundingFisc_19818]]
 - [[EnvironmentalIssuesInTheColora_18631]]
 - [[OpportunitiesForEcologicalImpr_12940]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
 
 ## Yuma Clapper Rail Recovery Plan
 
@@ -6379,6 +6411,9 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 > This field memorandum reports recapture data for hatchery-reared juvenile [[Razorback Sucker]]s released into [[Lake Mohave]] on the [[Colorado River]]. The 1992 year-class was reared at [[Yuma Cove]], partly moved to [[Davis Cove]], and released after [[PIT Tagging]]. Five tagged fish were...
 > -- *[[RecaptureDataForJuvenileRazorb_15472]]*
 
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[BarrierNetbermBurkePainter_15471]]
@@ -6418,6 +6453,7 @@ Yuma Cove is a managed backwater habitat within Lake Mohave in the Lower Colorad
 - [[AccomplishmentsOfTheNativeFish_20978]]
 - [[NativeFishWorkGroupAnnualRepor_13921]]
 - [[RecaptureDataForJuvenileRazorb_15472]]
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
 
 ## Yuma Cove Backwater
 

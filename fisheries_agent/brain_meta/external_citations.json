@@ -395,6 +395,96 @@
   "type": "Other",
   "year": "1994"
  },
+ "PML0001": {
+  "authors": "",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "Analysis of Wildlife Radio-Tracking Data",
+  "title": "Design of Radio-Tracking Studies",
+  "type": "Book Chapter",
+  "year": "1986"
+ },
+ "PML0296": {
+  "authors": "David E. Brown",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "Arizona Wildlife Views, Arizona Game and Fish Department, September-October 2003, pp. 72-73",
+  "title": "Fishing for Speckled Mountain Beauties in Old Newspapers and Journals",
+  "type": "Magazine Article",
+  "year": "2003"
+ },
+ "PML0886": {
+  "authors": "G. Mueller, M. Horn, J. Kahl, T. Burke, P. Marsh",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "Native Fish Work Group 1992 Annual Report, Appendix C; U.S. Bureau of Reclamation",
+  "title": "Capture rates of razorback sucker (Xyrauchen texanus) in Lake Mohave, Arizona-Nevada, using larval fish traps equipped with different light intensities and baits",
+  "type": "Report",
+  "year": "1992"
+ },
+ "PML1181": {
+  "authors": "B. L. Jensen",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "U.S. Fish and Wildlife Service, Dexter National Fish Hatchery",
+  "title": "Annual Narrative Report - FY 1981",
+  "type": "Report",
+  "year": "1981"
+ },
+ "PML1476": {
+  "authors": "P. C. Marsh",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "Arizona State University, Center for Environmental Studies; submitted to U.S. Bureau of Reclamation, Lower Colorado Region (Order 1425-4-PG-30-06810)",
+  "title": "Rearing native Colorado River fishes in golf course ponds",
+  "type": "Report",
+  "year": "1994"
+ },
+ "PML1771": {
+  "authors": "C. Minckley",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "U.S. Fish and Wildlife Service, Parker, Arizona",
+  "title": "Removal of additional bonytail chubs and razorback suckers from Palm Lake",
+  "type": "Memo",
+  "year": "1994"
+ },
+ "PML2066": {
+  "authors": "Pacey",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "",
+  "title": "Ozone Disinfection and Aquatic Toxicity: EPA Guidance, Vendor Data and Correspondence (2001)",
+  "type": "",
+  "year": "2001"
+ },
+ "PML2361": {
+  "authors": "D. J. Siebert, W. L. Minckley",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "American Museum Novitates, no. 2849, pp. 1-17",
+  "title": "Two New Catostomid Fishes (Cypriniformes) from the Northern Sierra Madre Occidental of Mexico",
+  "type": "Journal Article",
+  "year": "1986"
+ },
+ "PML2656": {
+  "authors": "U.S. Fish and Wildlife Service",
+  "citation_source": "llm",
+  "doi": "",
+  "library": "Marsh Library",
+  "publication": "U.S. Fish and Wildlife Service, Region 2",
+  "title": "Draft Environmental Assessment, Salt and Gila Rivers, Ninety-first Avenue to Gillespie Dam, Pilot Channel, Maricopa County, Arizona",
+  "type": "Report",
+  "year": "1986"
+ },
  "PanelDiscussionInvitationOnMan_1992_06_19": {
   "authors": "Trout Unlimited, Arizona State Council",
   "citation_source": "note-llm",

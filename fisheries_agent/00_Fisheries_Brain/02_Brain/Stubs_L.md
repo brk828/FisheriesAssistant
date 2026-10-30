@@ -6495,6 +6495,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > McCarthy and Minckley (1987) evaluated seven bony structures for age estimation in the [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Lake Mohave]], Arizona and Nevada. Only [[Sectioned Otoliths]] gave reliable ages, especially for large, old fish. Seventy wild-caught fish were estimated at 24...
 > -- *[[AgeEstimationForRazorbackSucke_12257]]*
 
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -6624,6 +6627,7 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[ImpactsOfASevereSustainedDroug_20630]]
 - [[NaturalHybridizationBetweenThe_15868]]
 - [[AgeEstimationForRazorbackSucke_12257]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Lake Havasu City
 
@@ -10106,6 +10110,15 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This paper by W. L. Minckley, from the 1990 [[Colorado River Ecology and Dam Management]] symposium proceedings, argues that the highly endemic fish fauna of the Colorado River downstream from [[Glen Canyon Dam]] has been largely extirpated. Dams, diversion and regulation stabilized the river,...
 > -- *[[NativeFishesOfTheGrandCanyonRe_13817]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -10491,6 +10504,9 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[MassHybridizationBetweenTwoGen_14281]]
 - [[HatcheriesForEndangeredFreshwa_19790]]
 - [[NativeFishesOfTheGrandCanyonRe_13817]]
+- [[AnnualNarrativeReportFy_PML1181]]
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Lake Mohave Backwater Network
 <!-- fm: auto_enriched: true -->
@@ -25941,6 +25957,18 @@ Lees Ferry, Arizona is the geographic dividing point that separates the Colorado
 ### Mentioned In
 - [[BiologicalOpinionForLakeHavasu_11704]]
 
+## Leetown, West Virginia
+
+### Summary
+Leetown is a location in West Virginia that hosts the National Fisheries Center. According to this source, Hatchery Manager Jensen attended the Fish Hatchery Managers Course there during fiscal year 1981.
+
+### Context
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
+### Mentioned In
+- [[AnnualNarrativeReportFy_PML1181]]
+
 ## Lefroyia bermudensis
 
 ### Summary
@@ -29929,6 +29957,9 @@ Lernaea cyprinacea, commonly known as the anchor worm, is a parasitic copepod th
 > This systematic paper by [[Geoffrey Fryer]] reports parasitic crustaceans (Copepoda and Branchiura) recovered from African freshwater fishes. The material comes mainly from the Belgian expeditions to [[Lake Tanganyika]] (1945-1947) and to [[Lake Kivu]], [[Lake Edward]] and [[Lake Albert]]...
 > -- *[[CrustaceanParasitesOfAfricanFr_18876]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[FishSamplingAtAsuKarstenGolfCo_1990_05_12]]
 - [[LernaeidsAndLernaeop_1959]]
@@ -29941,6 +29972,7 @@ Lernaea cyprinacea, commonly known as the anchor worm, is a parasitic copepod th
 - [[DiseaseSurveyOfTheColoradoRive_16455]]
 - [[LernaeidsAndLernaeopodidsArthr_14494]]
 - [[CrustaceanParasitesOfAfricanFr_18876]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Lernaea Cyprinaceae
 <!-- fm: auto_enriched: true -->
@@ -32546,6 +32578,18 @@ Light penetration is how deeply light travels through water, which controls the 
 ### Mentioned In
 - [[PartialBibliographyOfInterestT_18238]]
 - [[AnalineDyeInAquaticWeedControl_15796]]
+
+## Light Trap
+
+### Summary
+A passive sampling device that uses a light source to attract phototactic fish or invertebrates into a enclosure for capture. In this source, modified clear-PVC light traps were tested for catching razorback sucker larvae in Lake Mohave, with 12-W and 55-W halogen lights outperforming chemical light sticks and dog-food baits.
+
+### Context
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
+### Mentioned In
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
 
 ## Light Trap Sampling
 <!-- fm: auto_enriched: true -->
@@ -36186,6 +36230,9 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 > This 1993 University of Arizona master's thesis examines the [[Flannelmouth Sucker]] (*Catostomus latipinnis*) in the [[Paria River]], a turbid, flash-flood-prone tributary entering the [[Colorado River]] about 25 km below [[Glen Canyon Dam]]. The study combined seine, hoop-net and PIT-tag sampling...
 > -- *[[SpawningMovementAndPopulationS_12137]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfTheFishOfT_18499]]
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
@@ -36521,6 +36568,7 @@ The Little Colorado River is a critical tributary of the Colorado River in the s
 - [[BuildingAndRebuildingTheRiver_18937]]
 - [[NativeFishesOfTheGrandCanyonRe_13817]]
 - [[SpawningMovementAndPopulationS_12137]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Little Colorado River (Lcr)
 <!-- fm: auto_enriched: true -->
@@ -43562,6 +43610,18 @@ The Los Angeles Aqueduct is a water conveyance system that contributed to the de
 - [[RareAndEndangeredFish_15354]]
 - [[ManagementOfTheOwensPupfishCyp_15399]]
 - [[DesertFishesAndTheirHabitats_18602]]
+
+## Los Angeles Aqueduct Filtration Plant
+
+### Summary
+A large drinking water treatment plant in California that uses ozone as part of its treatment. According to plant engineer Don Christie, it treats 600 MGD, has about 19,000 lb/day of installed ozone capacity, and uses a typical ozone dose of about 1.2 mg/L. The source also gives its capital cost as $13.4 million and its annual operating costs, and it served as the main cost reference point for the canal feasibility study.
+
+### Context
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
+### Mentioned In
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## Los Angeles Basin
 <!-- fm: auto_enriched: true -->

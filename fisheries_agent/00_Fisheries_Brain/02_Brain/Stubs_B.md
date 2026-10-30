@@ -1016,9 +1016,13 @@ The badger is a burrowing mammal that is predaceous and lies in ambush for groun
 > This report, written by [[Witmer Stone]] with field notes by [[Samuel N. Rhoads]], documents a February 1905 collection of 258 bird specimens and 117 mammal specimens from the [[Colorado Delta]] in northwestern Lower California. The expedition was made for the [[Academy of Natural Sciences of...
 > -- *[[OnACollectionOfBirdsAndMamalsF_14597]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[TheFunctionalSignificanceOfThe_15589]]
 - [[OnACollectionOfBirdsAndMamalsF_14597]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Badger Knoll
 
@@ -7465,6 +7469,18 @@ The Basin and Range Province is a physiographic and tectonic region characterize
 - [[TheAmericanSouthwestAndMiddleA_17096]]
 - [[EvidenceForMultipleIntrusionAn_17916]]
 - [[TheColoradoRiverInstabilityAnd_19189]]
+
+## Basin And Range Topography
+
+### Summary
+Basin and Range topography is the landscape of alternating fault-bounded mountain ranges and valleys in the southwestern North American interior. The source states it developed between 27 and 7 million years ago around the Sierra Madre Occidental, giving montane fish habitats a long history of availability. The authors connect this tectonic history to the distributions of ancestral catostomids.
+
+### Context
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
+### Mentioned In
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Basin And Range Uplift
 
@@ -14884,6 +14900,9 @@ The Big Bend Gambusia is a small cyprinodontid fish species endemic to the Big B
 > This 1961 review by [[Robert Rush Miller]] of the University of Michigan Museum of Zoology documents how the freshwater fish fauna of the arid American Southwest changed over roughly the past 100 years. The paper argues that modern human activity, rather than climate, is the chief driver of these...
 > -- *[[ManAndTheChangingFishFaunaOfTh_15337]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[FishDistributionNumbersAndWeig_1992]]
@@ -14900,6 +14919,7 @@ The Big Bend Gambusia is a small cyprinodontid fish species endemic to the Big B
 - [[TranslocationAsAToolForConserv_15818]]
 - [[TranslocationAsAToolForConserv_15829]]
 - [[ManAndTheChangingFishFaunaOfTh_15337]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## Big Bend International Peace Park
 
@@ -15679,9 +15699,13 @@ A roughly 235 km Ozark stream draining about 1600 km² of the Meramec River syst
 > - **Habitat**: The management plan targets the **[[Lower Colorado River]]**, distinguishing it ecologically and managerially from the **Upper Colorado River Basin**, which has separate endangered fish management needs. - **Geographic Scope**: Proposed stakeholder workshops were planned for **Yuma...
 > -- *[[LowerColoradoRiverBigRiverFish_1995_02_17]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[FirstAnnualMeeting_1993_11_30]]
 - [[LowerColoradoRiverBigRiverFish_1995_02_17]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Big Rock Creek
 <!-- fm: auto_enriched: true -->
@@ -23038,6 +23062,9 @@ The Black River refers to a cold-water montane stream drainage system in Arizona
 > This study documents the fish fauna of [[Eagle Creek]], a second-order stream in eastern Arizona that still supports much of its original native fish community. The stream holds 20 recorded species: 9 native (including the reintroduced [[Razorback Sucker]]) and 11 non-native. The paper reports the...
 > -- *[[FishesOfEagleCreekArizonaWithR_17041]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1960_09_04]]
 - [[AManipulationOfEnvironmentalCo_1959_01_15]]
@@ -23081,6 +23108,7 @@ The Black River refers to a cold-water montane stream drainage system in Arizona
 - [[AmbloplitesConstellatusANewSpe_16046]]
 - [[TheDevelopmentOfTheFishPopulat_18449]]
 - [[FishesOfEagleCreekArizonaWithR_17041]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Black River (Arizona)
 <!-- fm: auto_enriched: true -->
@@ -28593,6 +28621,9 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > This monograph by John D. Hopkirk, a contribution from the [[Museum Of Vertebrate Zoology]] (University of California), examines the freshwater fishes of the [[Clear Lake Basin]] and surrounding [[Clear Lake Region]]. Of the fourteen fish species native to the basin, five (36 percent) are endemic...
 > -- *[[EndemismInFishesOfTheClearLake_19916]]*
 
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -29110,6 +29141,7 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[LosPecesDelValleDeMexico_13132]]
 - [[FactorsAffectingGrowthAndProdu_18983]]
 - [[EndemismInFishesOfTheClearLake_19916]]
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## Bluegill Bream
 
@@ -30444,6 +30476,18 @@ The Blytheville Arch is a structural feature cited in the review in connection w
 
 ### Mentioned In
 - [[GeomorphicAndSedimentaryRespon_20455]]
+
+## BMGC Ponds
+
+### Summary
+The BMGC Ponds in Blythe, California, are an approximately 140-acre golf course pond complex with three lined lakes, filled from a local aquifer and not aerated. The report describes the native fish program there as largely failed: stocked bonytail and razorback suckers suffered a fish kill, monitoring was sporadic, and no sampling records exist after 1989. Tilapia stocked in 1984 produced stunted cohorts.
+
+### Context
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
+### Mentioned In
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Bo Ginn
 <!-- fm: auto_enriched: true -->
@@ -33124,6 +33168,9 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This chapter, by John W. Sigler and William F. Sigler, is an annotated checklist of every fish species and subspecies known to occur naturally or through stocking in the [[Great Basin]] and [[Colorado Plateau]], excluding the Gila River Basin. It catalogues 190 taxa, of which 109 (57%) are native...
 > -- *[[FishesOfTheGreatBasinAndTheCol_20654]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -33424,6 +33471,7 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[EvolutionOfACooperativeRecover_20858]]
 - [[TheLowerColoradoRiverEcoregion_16225]]
 - [[FishesOfTheGreatBasinAndTheCol_20654]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Bonytail Chub
 <!-- fm: auto_enriched: true -->
@@ -34314,6 +34362,9 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 > This is the front matter, introduction and chapter sequence of *Biotic Communities of the American Southwest – United States and Mexico*, edited by [[David E. Brown]] and published as a companion to the 1:1,000,000 color map *Biotic Communities of the Southwest* ([[Brown and Lowe Map]], 1978/1980)....
 > -- *[[BioticCommunitiesOfTheAmerican_13023]]*
 
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[ANonLethalStomachPumpingTechni_14917]]
 - [[ANonlethalTechniqueToRecoverGu_1994]]
@@ -34867,6 +34918,7 @@ The Bonytail Chub (Gila elegans) is a native cyprinid fish endemic to the Colora
 - [[EcologicalStudiesOfTheFloraAnd_18743]]
 - [[SpawningMovementAndPopulationS_12137]]
 - [[BioticCommunitiesOfTheAmerican_13023]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Bonytail Chub Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -45354,6 +45406,18 @@ Bryozoans are small colonial aquatic invertebrates that form encrusting or branc
 ### Mentioned In
 - [[AnnualReportOnRazorbackSuckerM_1990_11_26]]
 
+## Bubble Diffuser Contactor
+
+### Summary
+A type of ozone contactor, the vessel where ozone gas is mixed into water, in which ozone is released as bubbles through diffusers. The EPA guidance lists it among the contactor designs considered, alongside injector and turbine mixer designs. The source does not give detailed performance data for it.
+
+### Context
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
+### Mentioned In
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
+
 ## Bubble Nest
 
 ### Summary
@@ -49960,6 +50024,9 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 > This multi-author University of Utah publication (Anthropological Papers No. 40, Glen Canyon Series No. 7, June 1959) documents pre-impoundment ecological baseline studies in [[Glen Canyon]], the canyon of the [[Colorado River]] that was to be flooded by the [[Glen Canyon Reservoir]], a unit of the...
 > -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
 
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -50346,6 +50413,7 @@ The Bureau of Reclamation is the primary U.S. federal agency responsible for man
 - [[CanWeSaveAmericasPacificSalmon_16941]]
 - [[TheColoradoRiverInstabilityAnd_19189]]
 - [[EcologicalStudiesOfTheFloraAnd_20822]]
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
 
 ## Bureau Of Reclamation (Br-Gces)
 <!-- fm: auto_enriched: true -->

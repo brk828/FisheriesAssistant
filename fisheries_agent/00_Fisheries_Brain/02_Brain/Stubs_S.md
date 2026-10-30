@@ -5197,6 +5197,9 @@ Salt Cedar (Tamarix ramosissima) is an introduced riparian plant species that co
 > This U.S. Geological Survey study by Richard Hereford examines how climate-driven discharge changes shaped the channel and flood plain of the [[Little Colorado River]] in northern Arizona during the twentieth century. The paper is a geomorphology and sedimentology study, not a fish or...
 > -- *[[ClimateAndEphemeralstreamProce_16708]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
 ### Mentioned In
 - [[StreamflowNeedsOfRareAndEndang_14141]]
 - [[SanPedroRiverWildlifeUpdateveg_21107]]
@@ -5217,6 +5220,7 @@ Salt Cedar (Tamarix ramosissima) is an introduced riparian plant species that co
 - [[TheEffectOfSalineSeepsAndRestr_17693]]
 - [[BuyingAGilaMonster_19074]]
 - [[ClimateAndEphemeralstreamProce_16708]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
 
 ## Salt Creek
 <!-- fm: auto_enriched: true -->
@@ -5965,6 +5969,12 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > This is a 1985 monograph by geographer and fluvial geomorphologist William L. Graf, published by the [[Association of American Geographers]] as part of its Resource Publications in Geography series. It argues that the Colorado River Basin is an unstable, arid-region human-environmental system, and...
 > -- *[[TheColoradoRiverInstabilityAnd_19189]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -6136,6 +6146,8 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[HiddenCanyonsOfTheMogollonRim_12409]]
 - [[LargeWoodyDebrisInHotdesertStr_15894]]
 - [[TheColoradoRiverInstabilityAnd_19189]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Salt River Basin
 
@@ -6395,6 +6407,18 @@ The Salt River Project (SRP) refers to a water management infrastructure and uti
 - [[DamGeneratorsOnSaltCalledThrea_18260]]
 - [[FishesOfThePhoenixMetropolitan_17023]]
 - [[ReconstructedStreamFlowForTheS_21180]]
+
+## Salt River Project Canal
+
+### Summary
+The Salt River Project (SRP) Canal is the water source for the ASU Research Park and ASU Golf Course ponds in Tempe, Arizona. The report notes that red shiners invaded the research park via this canal. It also supplied water alongside city water to the golf course ponds.
+
+### Context
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
+### Mentioned In
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Salt River Project Canal System
 <!-- fm: auto_enriched: true -->
@@ -8207,10 +8231,14 @@ The San Andreas Transform is the strike-slip fault system along the California c
 > This chapter by [[W. L. Minckley]], [[Dean A. Hendrickson]] and [[Carl E. Bond]] reviews the zoogeography of freshwater fishes across western North America, from the [[Continental Divide]] to the Pacific and from the [[Columbia River Basin]] south to the Rio Grande de Santiago Basin in Mexico. The...
 > -- *[[GeographyOfWesternNorthAmerica_15412]]*
 
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
 ### Mentioned In
 - [[CenozoicPlateTectonicSettingOf_12849]]
 - [[NewKarDatesFromBasaltsAndTheEv_11360]]
 - [[GeographyOfWesternNorthAmerica_15412]]
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## San Andres Limestone
 
@@ -11609,11 +11637,15 @@ A small federally endangered livebearing fish, Gambusia georgei, found only in t
 > This review by [[Robert R. Miller]], James D. Williams, and Jack E. Williams documents the extinction of 3 genera, 27 species and 13 subspecies (40 taxa in total) of North American freshwater fishes during the past 100 years. The paper's stated purpose is to provide a comprehensive list of recently...
 > -- *[[ExtinctionsOfNorthAmericanFish_15379]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[SanMarcosRiver_13312]]
 - [[TheSanMarcosRecoveryPlanForSan_15776]]
 - [[AnAnnotatedChecklistOfTheFresh_14250]]
 - [[ExtinctionsOfNorthAmericanFish_15379]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## San Marcos Hatchery
 
@@ -11681,9 +11713,13 @@ The team that prepared this draft recovery plan for the U.S. Fish and Wildlife S
 > This U.S. Fish and Wildlife Service recovery plan, prepared by the [[San Marcos Recovery Team]], addresses four federally listed species of the [[San Marcos River Ecosystem]]: the [[San Marcos Gambusia]] (*Gambusia georgei*), the [[Fountain Darter]] (*Etheostoma fonticola*), the [[San Marcos...
 > -- *[[TheSanMarcosRecoveryPlanForSan_15776]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[SanMarcosRiver_13312]]
 - [[TheSanMarcosRecoveryPlanForSan_15776]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## San Marcos River
 <!-- fm: auto_enriched: true -->
@@ -20516,6 +20552,18 @@ The approach promoted in the source of managing fisheries through inventories, f
 ### Mentioned In
 - [[LineCutsFromPencilSketches_12400]]
 
+## Scientific Method
+
+### Summary
+The scientific method is a structured approach of defining a problem, forming testable hypotheses, designing tests, collecting data, and drawing conclusions. The source argues that applying it to radio-tracking planning is the key safeguard against poorly conceived, purely descriptive studies.
+
+### Context
+> This document is a chapter on the design of [[Radio-Tracking]] studies in wildlife research. It argues that radio-tracking is often used in poorly conceived, purely descriptive studies, and that the technique's real value lies in testing explicit hypotheses through the [[Scientific Method]]. The...
+> -- *[[DesignOfRadiotrackingStudies_PML0001]]*
+
+### Mentioned In
+- [[DesignOfRadiotrackingStudies_PML0001]]
+
 ## Scientific Methodology
 
 ### Summary
@@ -24034,8 +24082,12 @@ Section 404 is the provision of the Clean Water Act that regulates the discharge
 > This Bureau of Reclamation memorandum (April 1990) summarizes two March 1990 meetings of the [[Native Fish Work Group]] on a proposed on-site backwater rearing facility at [[Lake Mohave]]. The group aims to protect the [[Razorback Sucker]] population, which is judged to be at risk of extirpation...
 > -- *[[ResultsOfMarchAndMeetingsConce_15024]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
 ### Mentioned In
 - [[ResultsOfMarchAndMeetingsConce_15024]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
 
 ## Section 404 Permit Program
 
@@ -33946,6 +33998,9 @@ The Sierra Madre Occidental is a major physiographic and tectonic province in no
 > This is a 1994 draft management plan (*Proyecto de Plan de Manejo*) for the proposed Zona de Protección de Flora y Fauna Silvestres y Acuáticas "[[Sierra San Luis]]," a 59,000 ha protected area on the northern edge of the [[Sierra Madre Occidental]] straddling the municipalities of Agua Prieta...
 > -- *[[ProyectoDePlanDeManejoReservaD_17430]]*
 
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
 ### Mentioned In
 - [[MiseEnÉvidenceDUnGraniteSubvol_1981_12_14]]
 - [[ProbableOriginOfSomeDisjunctFi_15303]]
@@ -33971,6 +34026,7 @@ The Sierra Madre Occidental is a major physiographic and tectonic province in no
 - [[FishesOfTheRioYaquiBasinMexico_16633]]
 - [[ProyectoDePlanDeManejo_19306]]
 - [[ProyectoDePlanDeManejoReservaD_17430]]
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Sierra Madre Occidental Freshwater Fish Fauna
 <!-- fm: auto_enriched: true -->
@@ -36769,9 +36825,13 @@ Sinaloan Thornscrub is a lowland vegetation type of dry, thorny, mostly deciduou
 > This is the front matter, introduction and chapter sequence of *Biotic Communities of the American Southwest – United States and Mexico*, edited by [[David E. Brown]] and published as a companion to the 1:1,000,000 color map *Biotic Communities of the Southwest* ([[Brown and Lowe Map]], 1978/1980)....
 > -- *[[BioticCommunitiesOfTheAmerican_13023]]*
 
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
 ### Mentioned In
 - [[FishesOfTheRioYaquiBasinMexico_16633]]
 - [[BioticCommunitiesOfTheAmerican_13023]]
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Sincil Dike
 
@@ -43224,6 +43284,9 @@ The Socorro Isopod (Thermosphaeroma thermophilus) is a crustacean species that w
 > This handbook, issued by the [[New Mexico Department Of Game And Fish]] in 1979 and written by John P. Hubbard, Marshall C. Conway, Howard Campbell, Gregory Schmitt and Michael D. Hatch, documents the 93 animal species listed as endangered in New Mexico under the [[Wildlife Conservation Act]]...
 > -- *[[HandbookOfSpeciesEndangeredInN_19959]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_11553]]
 - [[CurrentStatusOfEndangeredThrea_12695]]
@@ -43232,6 +43295,7 @@ The Socorro Isopod (Thermosphaeroma thermophilus) is a crustacean species that w
 - [[EndangeredAndThreatenedFishAnd_11507]]
 - [[EndangeredAndThreatenedSpecies_11630]]
 - [[HandbookOfSpeciesEndangeredInN_19959]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## Sod
 <!-- fm: auto_enriched: true -->
@@ -57142,6 +57206,18 @@ The Spotfin Shiner (*Notropis spilopterus*) is a small cyprinid fish characteriz
 ### Mentioned In
 - [[BirdsOfTheMoundSpringsAndBores_17193]]
 
+## Spotlight Sampling
+
+### Summary
+A field method in which a bright light is shone on the water surface at night to locate and net or count fish, usually larvae. The source notes that prior razorback sucker larval sampling in Lake Mohave relied on spotlight sampling and dip nets, and that light traps had not been effective for catostomids before this work.
+
+### Context
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
+### Mentioned In
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
+
 ## Spottail Darter
 <!-- fm: auto_enriched: true -->
 
@@ -59288,6 +59364,9 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 > This 1937 study by [[William E. Ricker]] (Pacific Biological Station) analyses the stomach contents of several hundred [[Sockeye Salmon]] from [[Cultus Lake]], British Columbia, to determine how young fish relate to the lake's plankton supply. Fingerlings feed almost exclusively on pelagic...
 > -- *[[TheFoodAndTheFoodSupplyOfSocke_16846]]*
 
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
 - [[LetterToDrWendellMinckleyOnRaz_1975_05_02]]
@@ -59307,6 +59386,7 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 - [[UtilizationOfTheMountainWhitef_16884]]
 - [[TheBenthosOfCultusLake_16862]]
 - [[TheFoodAndTheFoodSupplyOfSocke_16846]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Squawfish Recovery Team
 
@@ -61181,6 +61261,18 @@ Stanley Pool is a lake-like enlargement of the Congo River in Central Africa. Th
 
 ### Mentioned In
 - [[NannochromisNudiceps_16844]]
+
+## Stanley Sykes
+
+### Summary
+Sykes arrived in Arizona in 1896 and reported native trout as long as 16 inches in Oak Creek. He later observed that introduced rainbow trout were displacing natives through competition and hybridization.
+
+### Context
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
+### Mentioned In
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Stanley V. Gregory
 

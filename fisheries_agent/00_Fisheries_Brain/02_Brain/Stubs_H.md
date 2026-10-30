@@ -6603,6 +6603,9 @@ The Hassayampa River Preserve is a riparian conservation area in Arizona's Sonor
 > This 1997 study in *Wetlands* examines how large floods reshape riverine marsh and riparian vegetation along the free-flowing [[Hassayampa River]] in central Arizona. Riverine marsh expanded fivefold, from 2% to 9% of the floodplain-channel area, after the severe [[1993 Flood]]. Floodwaters eroded...
 > -- *[[MarshDevelopmentAfterLargeFloo_14636]]*
 
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[BonytailFromHassayampaRiverPre_20126]]
 - [[DocumentsRelatingToSubpermitRe_13803]]
@@ -6618,6 +6621,7 @@ The Hassayampa River Preserve is a riparian conservation area in Arizona's Sonor
 - [[PalmLakeMeetingjanuary_20906]]
 - [[PalmLakenativeFishStatus_20905]]
 - [[MarshDevelopmentAfterLargeFloo_14636]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Hassell Model
 
@@ -17607,6 +17611,9 @@ This is a 1952 publication by Larimore cited in the source for marked-fish evide
 > This study by G. J. S. Craik (1981, *Canadian Journal of Zoology* 59: 598–604) tests whether homing performance in the intertidal sculpin [[Oligocottus Maculosus]] changes with age and body length. The author reciprocally transplanted fish between two groups of [[Tidepool]] pools at [[First...
 > -- *[[TheEffectsOfAgeAndLengthOnHomi_17985]]*
 
+> This document is a chapter on the design of [[Radio-Tracking]] studies in wildlife research. It argues that radio-tracking is often used in poorly conceived, purely descriptive studies, and that the technique's real value lies in testing explicit hypotheses through the [[Scientific Method]]. The...
+> -- *[[DesignOfRadiotrackingStudies_PML0001]]*
+
 ### Mentioned In
 - [[TetheredNomadismAndWaterTerrit_13512]]
 - [[SmallmouthBassMicropterusDolom_X-013f4e27]]
@@ -17615,6 +17622,7 @@ This is a 1952 publication by Larimore cited in the source for marked-fish evide
 - [[TheRestrictedMovementOfFishPop_16965]]
 - [[SummerHomeRangeMovementsAndHab_20780]]
 - [[TheEffectsOfAgeAndLengthOnHomi_17985]]
+- [[DesignOfRadiotrackingStudies_PML0001]]
 
 ## Home Range Analysis
 

@@ -3771,6 +3771,9 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This review by [[John N. Rinne]] of the [[Rocky Mountain Research Station]] examines the relationships between [[Livestock Grazing]] and fishes in the western and southwestern United States. The author finds that the direct effects of grazing on vegetation are well documented, but the indirect...
 > -- *[[FishAndGrazingRelationshipsThe_15009]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -3976,6 +3979,7 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[ReconstructedStreamFlowForTheS_21180]]
 - [[PerpetualSuccessionOfStreamcha_17347]]
 - [[FishAndGrazingRelationshipsThe_15009]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Verde River Aquatic Ecology
 

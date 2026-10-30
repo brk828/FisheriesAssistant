@@ -4405,6 +4405,9 @@ Palm Lake is an artificial impounded reservoir located within the Hassayampa Riv
 > This 1989 correspondence from the U.S. Fish and Wildlife Service Ecological Services office documents a proposal to reclassify the [[Gila Topminnow]] (*Poeciliopsis occidentalis occidentalis*) from endangered to threatened status. The proposal is based on successful reintroduction efforts by the...
 > -- *[[DraftProposedCriteriaForDesign_14776]]*
 
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[HassayampaLakeRenova_16653]]
 - [[PalmLakeNativeFishRenovationPr_1987_06_29]]
@@ -4415,6 +4418,7 @@ Palm Lake is an artificial impounded reservoir located within the Hassayampa Riv
 - [[PalmLakeMeetingjanuary_20906]]
 - [[PalmLakenativeFishStatus_20905]]
 - [[DraftProposedCriteriaForDesign_14776]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Palm Spring Formation
 <!-- fm: auto_enriched: true -->
@@ -5760,12 +5764,16 @@ Pantosteus plebeius, commonly known as the bluehead sucker, is a North American 
 > This Master's thesis by Bruce Douglas DeMarais (Arizona State University, May 1986) investigates morphological and meristic variation among populations of the cyprinid genus [[Gila]] in the lower [[Colorado River Basin]], with emphasis on [[Gila intermedia]], [[Gila robusta robusta]], and...
 > -- *[[MorphologicalVariationInGilaPi_12778]]*
 
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
 ### Mentioned In
 - [[ANewCatostomidFishFromTheColum_14467]]
 - [[DistributionAndStatusOfTheChih_1990_04_11]]
 - [[SerumHaptoglobinsInSomeNorthAm_1966]]
 - [[DrafInfluenceOfHybridizationOn_11330]]
 - [[MorphologicalVariationInGilaPi_12778]]
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Pantosteus Plebius
 
@@ -15440,6 +15448,9 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 > This National Geographic feature (July 1997), written by Michael E. Long with photographs by Peter Essick, describes how [[Glen Canyon Dam]], completed in 1963 on the [[Colorado River]], transformed the river below it and the surrounding [[Grand Canyon]] ecosystem. The article combines a dory trip...
 > -- *[[TheGrandManagedCanyon_16194]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
 ### Mentioned In
 - [[BiologicalAssessmentOfTheSpike_1988_10_24]]
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -15511,6 +15522,7 @@ The Peregrine Falcon appears in these fisheries and conservation documents as a 
 - [[ProtectingBiodiversity_17184]]
 - [[BornToBeWildCaptiveBreedingCan_16272]]
 - [[TheGrandManagedCanyon_16194]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
 
 ## Peregrine Fund
 
@@ -18972,6 +18984,9 @@ Pharyngeal pockets are one of the structures the note lists within the buccal-ph
 > This paper formally describes three previously unnamed shiners of the genus [[Notropis]] from eastern Texas: *Notropis oxyrhynchus* (Sharpnose Shiner), *N. brazosensis* (Brazos Shiner) and *N. potteri* (Chub Shiner). The authors, [[Carl L. Hubbs]] and [[Kelshaw Bonham]], state that the species had...
 > -- *[[NewCyprinidFishesOfTheGenusNot_14294]]*
 
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
 ### Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[FishRemainsFromHumanCoprolites_18767]]
@@ -18983,6 +18998,7 @@ Pharyngeal pockets are one of the structures the note lists within the buccal-ph
 - [[ConsideracionesSobreElGeneroNo_17601]]
 - [[TheTilapiasOfKenyaColony_12154]]
 - [[NewCyprinidFishesOfTheGenusNot_14294]]
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Pharyngeal Teeth (Cyprinid Taxonomy)
 <!-- fm: auto_enriched: true -->
@@ -20856,9 +20872,13 @@ Phototaxis is a directed movement toward or away from a light source. In this st
 > This species profile from the *Arizona Riparian Council* (Vol. 8, No. 3, 1995) by [[Paul C. Marsh]] and [[W. L. Minckley]] describes the [[Razorback Sucker]], a long-lived fish endemic to the [[Colorado River Basin]]. The species has declined sharply because of dams, water diversions, and...
 > -- *[[RazorbackSuckerXyrauchenTexanu_17007]]*
 
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
 ### Mentioned In
 - [[TheRoleOfResponsesToLightInThe_14495]]
 - [[RazorbackSuckerXyrauchenTexanu_17007]]
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
 
 ## Phoxinus
 
@@ -23775,6 +23795,18 @@ The Pilon River is a waterway where Channel Catfish populations were studied for
 ### Mentioned In
 - [[AbstractsFromTheDesertFishesCo_15019]]
 
+## Pilot Channel
+
+### Summary
+A proposed channel about 36 miles long, to be built inside the existing 1,000-foot cleared corridor of the Salt and Gila rivers from 91st Avenue to Gillespie Dam. Its purpose is to direct low flows within the cleared area and reduce flood damage to nearby farmland and property. The draft assessment evaluates its ecological and fish impacts, with a design capacity of 11,000 cfs and an average depth of 3 feet.
+
+### Context
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
+
 ## Pilot Knob
 
 ### Summary
@@ -26447,6 +26479,9 @@ Pit tagging is a non-lethal fish identification and tracking method that involve
 > This working draft of a final report to the [[U.S. Bureau of Reclamation]] (Award # O0-FC-40-09610) by Donald G. Buth and collaborators at UCLA evaluates allozyme (protein electrophoresis) variation in the [[Razorback Sucker]], a declining endemic of the [[Colorado River Basin]]. The study had two...
 > -- *[[WorkingDraftallozymeDivergence_14115]]*
 
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
 - [[DetermineStatusOfColoradoSquaw_11150]]
@@ -26470,6 +26505,7 @@ Pit tagging is a non-lethal fish identification and tracking method that involve
 - [[FiscalYearDraftAnnualReportRec_21032]]
 - [[RecaptureDataForJuvenileRazorb_15472]]
 - [[WorkingDraftallozymeDivergence_14115]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Pit Tagging In Fisheries Research
 <!-- fm: auto_enriched: true -->

@@ -2563,6 +2563,9 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 > This multi-author University of Utah publication (Anthropological Papers No. 40, Glen Canyon Series No. 7, June 1959) documents pre-impoundment ecological baseline studies in [[Glen Canyon]], the canyon of the [[Colorado River]] that was to be flooded by the [[Glen Canyon Reservoir]], a unit of the...
 > -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
 
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
 ### Mentioned In
 - [[AbundanceDistributionAndPisciv_13062]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -2821,6 +2824,7 @@ The fathead minnow (*Pimephales promelas*) is a small cyprinid fish native to No
 - [[FishesOfTheSmokyHillRiverKansa_14672]]
 - [[SelectiveBreedingProgrammesFor_13481]]
 - [[EcologicalStudiesOfTheFloraAnd_20822]]
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## Fathead Minnow Selenium Exposure
 
@@ -7894,6 +7898,12 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 > This 1977 *FRONTIERS* article by [[James D. Williams]] and Dona K. Finnley reviews the decline of native American fishes and the legal and scientific efforts to protect them. It traces habitat loss, pollution, overfishing and nonnative species as the main threats, and it documents the extinction of...
 > -- *[[OurVanishingFishesCanTheyBeSav_12002]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -8078,6 +8088,8 @@ The Fish and Wildlife Service (FWS) is a federal agency responsible for managing
 - [[IntroducedAndTranslocatedFishe_18622]]
 - [[AnAppraisalOfTheTwentysecondNo_20292]]
 - [[OurVanishingFishesCanTheyBeSav_12002]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Fish and Wildlife Service Overhead Charge
 
@@ -17028,6 +17040,18 @@ A federal act of Congress that authorized the construction of Keystone Dam. The 
 ### Mentioned In
 - [[AStudyOfFishesOfTheArkansasAnd_20347]]
 
+## Flood Control District of Maricopa County
+
+### Summary
+The local agency (abbreviated FCD) that proposes the Pilot Channel and performs periodic maintenance clearing in the Salt and Gila river corridor. The source says it wants the channel to reduce flood damage to public and private property. It also participated in the 1985 coordination meetings and applied for the Section 404 permit.
+
+### Context
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
+
 ## Flood Control Project
 
 ### Summary
@@ -18660,9 +18684,13 @@ A study by Floyd cited as the validation of the quatrefoil trap in a Kentucky st
 > This document is a set of 1993 agency records on the [[Razorback Sucker]] (*Xyrauchen texanus*), an imperiled native catostomid. It contains three items: an internal memo summarizing capture and recapture data from [[Lake Mead]], a letter requesting information on a captive population and on...
 > -- *[[RazorbackCaptureOnLakeMead_16604]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[LowerColoradoRiverEndangeredFi_12878]]
 - [[RazorbackCaptureOnLakeMead_16604]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Floyd's Fork Creek
 
@@ -21406,6 +21434,9 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 > This study used 10 diagnostic [[Isozyme Electrophoresis|isozyme]] loci to measure hybridization between [[Apache Trout]] (*Oncorhynchus apache*), [[Rainbow Trout]] (*O. mykiss*) and [[Cutthroat Trout]] (*O. clarki*) across the species' historical range in Arizona. The authors analysed 645 fish from...
 > -- *[[IntrogressionAmongApacheCutthr_17429]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[CryopreservationAsAToolForGeno_13953]]
 - [[ProposalForTheHatchingRearingA_14816]]
@@ -21434,6 +21465,7 @@ The Fort Apache Indian Reservation in Arizona is a significant geographic and ad
 - [[ProgressReportBlackAndSaltRive_19598]]
 - [[NativeSouthwesternUsaTroutsSta_14996]]
 - [[IntrogressionAmongApacheCutthr_17429]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Fort Apache Indian Reservation Fisheries Management
 <!-- fm: auto_enriched: true -->
@@ -22645,6 +22677,9 @@ The Fountain Darter (*Etheostoma fonticola*) is a small, endangered percid fish 
 > This 1978 bulletin of the [[Alabama Museum of Natural History]] (Number 4, 53 pages) by Brooks M. Burr, based on a dissertation at the University of Illinois, revises the darter subgenus [[Microperca]] (genus [[Etheostoma]], family [[Percidae]]). The subgenus contains three species: [[Cypress...
 > -- *[[SystematicsOfThePercidFishesOf_14046]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyProtoc_12011]]
 - [[DistributionOfAnUndescribedDig_1999_12_14]]
@@ -22661,6 +22696,7 @@ The Fountain Darter (*Etheostoma fonticola*) is a small, endangered percid fish 
 - [[ProtectedFishesOfTheUnitedStat_19777]]
 - [[ReviewPrinciplesOfPaleoecology_15343]]
 - [[SystematicsOfThePercidFishesOf_14046]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## Fouquieria
 

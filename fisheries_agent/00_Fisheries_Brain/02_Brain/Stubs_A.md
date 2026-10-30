@@ -22768,9 +22768,13 @@ The Apache occupied the Aravaipa Creek area from the 1700s through the 1870s, re
 > This hydrologic report documents groundwater conditions in the [[San Bernardino Valley]] basin, located in southeastern [[Arizona]] (Cochise County) and southwestern [[New Mexico]] (Hidalgo County), encompassing 387 square miles in Arizona. The basin contains the [[San Bernardino Ranch]] area and a...
 > -- *[[MapsShowingGroundwaterConditio_11421]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[ReportOnTheSurveyOfTheMammalsO_11840]]
 - [[MapsShowingGroundwaterConditio_11421]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Apache Box
 
@@ -23363,6 +23367,9 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 > *Forests Forever!* is a 1996 citizens' policy document issued by the [[Southwest Forest Alliance]], a coalition of more than 50 environmental groups in Arizona and New Mexico. It argues that the region's forests, woodlands and wetlands have been degraded by a century of logging, grazing, mining,...
 > -- *[[ForestsForeverAPlanToRestoreEc_11811]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[AnAnalysisOfFHybridsBetweenApa_1984_09_24]]
 - [[AnalysisOfApacheTroutPopulatio_15424]]
@@ -23502,6 +23509,7 @@ The Apache Trout (Oncorhynchus apache) is an endangered endemic salmonid species
 - [[HatcheriesForEndangeredFreshwa_19790]]
 - [[FishesOfNorthAmericaEndangered_12023]]
 - [[ForestsForeverAPlanToRestoreEc_11811]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Apache Trout Recovery Plan
 <!-- fm: auto_enriched: true -->
@@ -30594,6 +30602,9 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 > This study documents the full spawning season of the [[Razorback Sucker]] in [[Lake Mohave]], the largest remaining population of the species in the [[Colorado River]] system. Using monthly visual surveys, [[Trammel Netting]] of ripe adults, and [[Larval Sampling]] during 1982 and 1983, the authors...
 > -- *[[SpawningSeasonOfTheRazorbackSu_17763]]*
 
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
 ### Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
 - [[LakeMohaveSamplingMay_1991_06_02]]
@@ -30610,6 +30621,7 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 - [[TheEcologyOfRazorbackSuckerLar_14369]]
 - [[FeedingAndFateOfWildLarvalRazo_17031]]
 - [[SpawningSeasonOfTheRazorbackSu_17763]]
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
 
 ## Arizona Bell's Vireo
 
@@ -31259,9 +31271,13 @@ The Arizona Fish Commission was a territorial agency established approximately f
 > This is the third annual report of the [[Arizona Fish Commission]], submitted by business manager J. H. Taggart to Governor [[Frederick A. Tritle]] of the Territory of Arizona. It covers the commission's efforts to obtain and distribute fish, chiefly [[Common Carp]], and its introduction of...
 > -- *[[ToHisExcellencyFrederickATritl_13445]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[ToHisExcellencyFrederickATritl_13446]]
 - [[ToHisExcellencyFrederickATritl_13445]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Arizona Fish Farms
 
@@ -32511,6 +32527,9 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > This Autumn 1991 Trout Unlimited feature traces the history of the [[Colorado River]] at [[Lee's Ferry]], Arizona, and argues that the [[Lee's Ferry Fishery]], a wild and stocked [[Rainbow Trout]] tailwater, is being degraded by the peaking-power operations of [[Glen Canyon Dam]]. The article...
 > -- *[[ALeesFerryTalePowerPoliticsAnd_20673]]*
 
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -32995,6 +33014,7 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[WantedEndangeredArizonaFishesF_17028]]
 - [[WildlifeViews_15875]]
 - [[ALeesFerryTalePowerPoliticsAnd_20673]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Arizona Game And Fish Department Hatcheries
 
@@ -34548,6 +34568,15 @@ Arizona State University is a major research institution that has played a signi
 > This scanned, OCR-degraded archive combines several unrelated items rather than a single study. The main components are: a methods paper on identifying [[Hantavirus]] rodent reservoirs; a 1995 national [[Hantavirus Pulmonary Syndrome]] case update; a student's statistics and probability exercise...
 > -- *[[CoyotesEagle_20922]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -34917,6 +34946,9 @@ Arizona State University is a major research institution that has played a signi
 - [[PesticidesAndFishesaReviewOfSe_19749]]
 - [[FishesOfTheRioYaquiBasinMexico_16633]]
 - [[CoyotesEagle_20922]]
+- [[AnnualNarrativeReportFy_PML1181]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Arizona State University (Asu)
 <!-- fm: auto_enriched: true -->
@@ -35050,11 +35082,19 @@ Arizona State University Research Park is a research facility in Arizona that ma
 > This is a one-page letter dated August 6, 1986, from the [[Arizona State University Research Park]] to [[Paul Marsh]], Associate Professor-Research at [[Arizona State University]] in Tempe, Arizona. It accepts Marsh's July 22 proposal for research in the Research Park's lakes and encourages him to...
 > -- *[[LetterToPaulMarshReceiptOfJuly_12348]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[BonytailChubSalvagedfromPalkLa_12812]]
 - [[SamplingAtAsuKarstenGolfCourse_19435]]
 - [[ABibliographyOfTheFederallyEnd_14370]]
 - [[LetterToPaulMarshReceiptOfJuly_12348]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Arizona State University Vertebrate Museum
 
@@ -41413,6 +41453,18 @@ The ASU Genetics Collection is a facility that maintains stocks of endangered na
 ### Mentioned In
 - [[SamplingAtAsuResearchParkApril_19429]]
 
+## ASU Golf Course
+
+### Summary
+The ASU Golf Course (ASUGC) in Tempe, Arizona, is an approximately 160-acre site with two lined lakes totaling about 6.9 acres, drawing water from the SRP canal and city water without aeration. In 1988 it received stocked juvenile Colorado squawfish, bonytail and razorback suckers, and the report counts its program among the successful ones. Triploid grass carp were added there for vegetation control.
+
+### Context
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
+### Mentioned In
+- [[RearingNativeColoradoRiverFish_PML1476]]
+
 ## Asu Karsten Golf Course
 <!-- fm: auto_enriched: true -->
 
@@ -41478,6 +41530,9 @@ The ASU Research Park is an experimental facility in central Arizona that served
 > This 1987 *ASU Research* feature describes the decline of three endemic Arizona fishes: the [[Colorado Squawfish]], [[Bonytail Chub]], and [[Razorback Sucker]]. All three are listed as endangered at the federal and state levels. Arizona State University researchers [[W.L. Minckley]] and [[Paul...
 > -- *[[WantedEndangeredArizonaFishesF_17028]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[AsuResearchParkYoungOfYearFish_1993_08_02]]
 - [[ColoradoSquawfishAndBonytailCh_1986_10_08]]
@@ -41495,6 +41550,7 @@ The ASU Research Park is an experimental facility in central Arizona that served
 - [[TripReportForTheAprilSurveyOfT_17204]]
 - [[EndangeredFishSoughtBreedingLa_13935]]
 - [[WantedEndangeredArizonaFishesF_17028]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Asu Research Park Ponds
 <!-- fm: auto_enriched: true -->

@@ -1807,6 +1807,18 @@ Madrean Montane Conifer Forest is a biotic community occurring at elevations abo
 - [[ManagementPlanSierraSanLuisWil_11399]]
 - [[ManagementPlanSierraSanLuisWil_18303]]
 
+## Madrean Montane Forest
+
+### Summary
+Madrean Montane Forest is a montane habitat type in the Sierra Madre Occidental region. In this source, it is one of the high-elevation habitats where Catostomus leopoldi occurs in pool-rich, high-gradient headwater streams, mostly above 2000 m, and where C. cahita ranges down from high elevations.
+
+### Context
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
+### Mentioned In
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
+
 ## Madrean Sky Islands
 
 ### Summary
@@ -4410,6 +4422,18 @@ The manini (Acanthurus triostegus), also called the convict surgeonfish, is a wi
 
 ### Mentioned In
 - [[FoodHabitsOfTheLarvalTigerSala_12865]]
+
+## Manipulative Study
+
+### Summary
+A manipulative study deliberately perturbs the system, such as altering or removing a habitat, to test whether that habitat is needed. According to the source, it is the only one of the three designs that can conclusively show necessity, and it requires careful planning before the study begins.
+
+### Context
+> This document is a chapter on the design of [[Radio-Tracking]] studies in wildlife research. It argues that radio-tracking is often used in poorly conceived, purely descriptive studies, and that the technique's real value lies in testing explicit hypotheses through the [[Scientific Method]]. The...
+> -- *[[DesignOfRadiotrackingStudies_PML0001]]*
+
+### Mentioned In
+- [[DesignOfRadiotrackingStudies_PML0001]]
 
 ## Manistee Lake
 <!-- fm: auto_enriched: true -->
@@ -36169,6 +36193,9 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > This 1985 paper by the Endangered Species Committee of the [[Desert Fishes Council]] (Williams, Bowman, Brooks, Echelle, Edwards, Hendrickson and Landye) identifies endangered aquatic ecosystems across the [[Great Basin Desert|Great Basin]], [[Mojave Desert|Mohave]], [[Sonoran Desert|Sonoran]] and...
 > -- *[[EndangeredAquaticEcosystemsInN_12035]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[APhysicoChemicalAndBiologicalA_1974_05_30]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -36450,6 +36477,7 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[PesticidesAndFishesaReviewOfSe_19749]]
 - [[FishesOfTheRioYaquiBasinMexico_16633]]
 - [[EndangeredAquaticEcosystemsInN_12035]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Mosquitofish and Kesterson Contamination
 
@@ -40353,6 +40381,18 @@ Mulberry Fork is a Warrior drainage population, represented in the study by Mill
 
 ### Mentioned In
 - [[EtheostomaChermockiANewSpecies_17733]]
+
+## Mulberry Pond
+
+### Summary
+Mulberry Pond is a roughly 1.4-acre pond within Floyd Lamb State Park in Las Vegas, Nevada, with a depth of about 10 feet. In 1984 about 5,000 juvenile razorback suckers were released into it, and the report tracks catches and mark-recapture estimates from it through 1992. Die-offs were recorded there in the late 1980s and 1991.
+
+### Context
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
+### Mentioned In
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Mulberry Wash
 

@@ -15114,6 +15114,9 @@ The Gila River is a major tributary system in the southwestern United States tha
 > This 1985 paper by the Endangered Species Committee of the [[Desert Fishes Council]] (Williams, Bowman, Brooks, Echelle, Edwards, Hendrickson and Landye) identifies endangered aquatic ecosystems across the [[Great Basin Desert|Great Basin]], [[Mojave Desert|Mohave]], [[Sonoran Desert|Sonoran]] and...
 > -- *[[EndangeredAquaticEcosystemsInN_12035]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -15550,6 +15553,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[CinegasvanishingClimaxCommunit_16637]]
 - [[TheColoradoRiverInstabilityAnd_19189]]
 - [[EndangeredAquaticEcosystemsInN_12035]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
 
 ## Gila River Above Yuma, Arizona
 <!-- fm: auto_enriched: true -->
@@ -18553,6 +18557,9 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 > This University of California Publications in Zoology monograph (Needham and Gard) analyzes variation in 306 rainbow trout (*Salmo gairdnerii*) from 17 population samples, ranging from Eagle Lake in northeastern California to headwater streams near Ciudad Durango, Mexico. Fourteen of the 17 samples...
 > -- *[[RainbowTroutInMexicoAndCalifor_19615]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -18700,6 +18707,7 @@ The Gila Trout is an endangered native salmonid endemic to the Gila River draina
 - [[NativeFishInTroubledWaters_16806]]
 - [[ForestsForeverAPlanToRestoreEc_11811]]
 - [[RainbowTroutInMexicoAndCalifor_19615]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Gila Trout Chihuahua Chub Recovery Team
 <!-- fm: auto_enriched: true -->
@@ -20075,9 +20083,13 @@ A continuous-time model of fitness variation in which the allele with the higher
 > This completion report documents wildlife habitat monitoring along the [[Gila River]] from Phoenix to [[Gillespie Dam]] during August 1965 to July 1966, in response to a proposed Army Corps of Engineers flood control project. The project would have cleared a 2,000-foot-wide channel through critical...
 > -- *[[GilaAndSaltRiverClearningAndCh_12483]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
 ### Mentioned In
 - [[GilaAndSaltRiverClearingAndCha_1967_03_31]]
 - [[GilaAndSaltRiverClearningAndCh_12483]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
 
 ## Gillespie Tuff
 
@@ -32094,6 +32106,9 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 > This FAO Fisheries Technical Paper (No. 352, 1995, 122 p.), written by Douglas Tave of Urania Unlimited (Coos Bay, Oregon, USA), is a practical manual for [[Extension Agents]] and aquaculturists on designing [[Selective Breeding]] programmes to improve cultured food fish on medium-sized farms,...
 > -- *[[SelectiveBreedingProgrammesFor_13481]]*
 
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[AsianTapewormAtHassayampaPalmL_1994_07_14]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -32171,6 +32186,7 @@ The grass carp (Ctenopharyngodon idella) is a large Asian cyprinid fish introduc
 - [[BiologicalPollutionThroughFish_17615]]
 - [[FishesInTheWesternMississippiB_18044]]
 - [[SelectiveBreedingProgrammesFor_13481]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Grass Carp As Biological Control
 <!-- fm: auto_enriched: true -->

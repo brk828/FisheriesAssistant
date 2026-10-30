@@ -4924,6 +4924,18 @@ A 74-acre impoundment in the Murderkill system in Delaware surveyed in 1952–19
 ### Mentioned In
 - [[DelawareLakeAndPondSurvey_20644]]
 
+## Killgore 1991
+
+### Summary
+A prior study whose light-trap design the authors adapted for this work. The source states that the trap used here was adapted from Killgore (1991), with modifications such as clear PVC construction, a black-painted top, and no flotation.
+
+### Context
+> This appendix to the [[Native Fish Work Group]] 1992 Annual Report tests whether modified [[Light Trap]] designs can capture larval [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], a stronghold for an otherwise rare, federally Endangered species. Razorback sucker larvae are...
+> -- *[[CaptureRatesOfRazorbackSuckerX_PML0886]]*
+
+### Mentioned In
+- [[CaptureRatesOfRazorbackSuckerX_PML0886]]
+
 ## Killifish
 <!-- fm: auto_enriched: true -->
 

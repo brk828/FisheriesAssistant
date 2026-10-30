@@ -5705,6 +5705,18 @@ Shallow treatment lagoons in which wastewater is held so that bacteria and algae
 ### Mentioned In
 - [[LongtermToxicityBioassayOfOilR_19191]]
 
+## Wastewater Effluent
+
+### Summary
+Treated sewage discharged into the river that the source identifies as the only steady flow source between 91st Avenue and 115th Avenue. The 91st Avenue plant discharges about 100,000 acre-feet per year, a figure projected to fall by up to 75 percent by 2000. The source notes effluent is high in BOD and nutrients, which degrades water quality.
+
+### Context
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
+### Mentioned In
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
+
 ## Wastewater Reclamation
 
 ### Summary
@@ -9086,6 +9098,9 @@ Weber's Grenzhorizont is a widespread bog-rejuvenation horizon in northern Germa
 > This 1960 Master of Science thesis in Zoology, submitted to [[Oklahoma State University]] by Anwar David Niazi, presents a comparative osteological study of the [[Weberian Apparatus]] in four North American minnow species of the genus [[Pimephales]]. Using alizarin-stained and dissected specimens,...
 > -- *[[AComparativeStudyOfTheWeberian_10836]]*
 
+> Siebert and Minckley (1986, *American Museum Novitates* no. 2849) describe two new species of *Catostomus* (sensu stricto) from northwestern Mexico: [[Catostomus Leopoldi]] (Bavispe sucker) and [[Catostomus Cahita]] (Cahita sucker). Both have unusually low [[Pharyngeal Teeth]] counts for the genus,...
+> -- *[[TwoNewCatostomidFishesCyprinif_PML2361]]*
+
 ### Mentioned In
 - [[DraftFishRemainsFromStantonSCa_15373]]
 - [[MinnowsFirstThenTrout_21137]]
@@ -9093,6 +9108,7 @@ Weber's Grenzhorizont is a widespread bog-rejuvenation horizon in northern Germa
 - [[AComparativeStudyOfTheWeberian_19005]]
 - [[OsteologyAndPhylogenyOfTheAmer_13238]]
 - [[AComparativeStudyOfTheWeberian_10836]]
+- [[TwoNewCatostomidFishesCyprinif_PML2361]]
 
 ## Weberian Mechanism
 
@@ -15162,6 +15178,9 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > This Natural Resources Institute Special Report (No. 4), by [[William Dovel]], synthesizes eleven years (1960 to 1968) of plankton-net sampling of fish eggs and larvae in the upper [[Chesapeake Bay]] and its tributaries, including the [[Patuxent River]], [[Magothy River]], [[Susquehanna River]] and...
 > -- *[[FishEggsAndLarvaeOfTheUpperChe_19101]]*
 
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
 ### Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
 - [[ComparisonOfSomeAnestheticProp_1968_10_31]]
@@ -15204,6 +15223,7 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[LakeOntarioEffectsOfExploitati_16150]]
 - [[FreshwaterFishesOfTheJamesRive_16761]]
 - [[FishEggsAndLarvaeOfTheUpperChe_19101]]
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## White Pine County
 
@@ -15499,6 +15519,9 @@ The White River refers to a river system in the south-central United States (pri
 > This 1967 faunal survey by [[Branley A. Branson]] (Department of Biology, Eastern Kentucky University) reports 103 fish species from the Oklahoma portion of the [[Neosho River]] and its tributaries, equal to 66% of the fish species known from Oklahoma. The study is based on field collections made...
 > -- *[[FishesOfTheNeoshoRiverSystemIn_12909]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[DeclineInYoungColoradoSquawfis_1989_11_07]]
@@ -15605,6 +15628,7 @@ The White River refers to a river system in the south-central United States (pri
 - [[TaxonomicStatusAndMorphologyOf_12034]]
 - [[ASurveyOfTheCommerciallyValuab_12458]]
 - [[FishesOfTheNeoshoRiverSystemIn_12909]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## White River (Arizona)
 <!-- fm: auto_enriched: true -->
@@ -21192,6 +21216,12 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 > McCarthy and Minckley (1987) evaluated seven bony structures for age estimation in the [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Lake Mohave]], Arizona and Nevada. Only [[Sectioned Otoliths]] gave reliable ages, especially for large, old fish. Seventy wild-caught fish were estimated at 24...
 > -- *[[AgeEstimationForRazorbackSucke_12257]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
+> This 1994 report, submitted by Paul C. Marsh of [[Arizona State University]] to the [[U.S. Bureau of Reclamation]] under Order Number 1425-4-PG-30-06810, reviews efforts to rear endangered [[Big River Fishes]] in artificial, non-hatchery ponds. It draws mainly on three sites: the [[Arizona State...
+> -- *[[RearingNativeColoradoRiverFish_PML1476]]*
+
 ### Mentioned In
 - [[AdultRazorbackSuckersToBeUsedF_1996_07_11]]
 - [[AdvancingKnowledgeOnCriticalEa_19494]]
@@ -21296,6 +21326,8 @@ Willow Beach National Fish Hatchery is a U.S. Fish and Wildlife Service facility
 - [[EffectOfIncubationTemperatureO_19412]]
 - [[TemperaturePreferenceAndAvoida_13892]]
 - [[AgeEstimationForRazorbackSucke_12257]]
+- [[AnnualNarrativeReportFy_PML1181]]
+- [[RearingNativeColoradoRiverFish_PML1476]]
 
 ## Willow Beach National Fish Hatchery And Technology Center
 <!-- fm: auto_enriched: true -->
@@ -25506,6 +25538,9 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 > This document is a preliminary conservation inventory of rare, restricted, and threatened North American freshwater fishes, compiled by [[Robert Rush Miller]] of the [[Museum of Zoology]], [[University of Michigan]]. It covers roughly 65 taxon entries, arranged alphabetically by U.S. state, with...
 > -- *[[ReviewPrinciplesOfPaleoecology_15343]]*
 
+> This annual narrative report from [[Dexter National Fish Hatchery]] in Dexter, New Mexico, covers fiscal year 1981. The station's program consists entirely of holding, spawning, rearing and distributing endangered, threatened and candidate southwestern fishes. Hatchery staff distributed 130,000...
+> -- *[[AnnualNarrativeReportFy_PML1181]]*
+
 ### Mentioned In
 - [[AnAnnotatedCheckListOfTheFishe_12726]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -25702,6 +25737,7 @@ Woundfin (Plagopterus argentissimus) is a small, endemic cyprinid fish native to
 - [[FishesOfTheGreatBasinAndTheCol_20654]]
 - [[BiologicalPollutionThroughFish_17615]]
 - [[ReviewPrinciplesOfPaleoecology_15343]]
+- [[AnnualNarrativeReportFy_PML1181]]
 
 ## Woundfin Minnow
 <!-- fm: auto_enriched: true -->

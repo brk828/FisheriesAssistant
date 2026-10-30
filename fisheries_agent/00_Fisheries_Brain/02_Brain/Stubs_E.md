@@ -5141,10 +5141,14 @@ Edgar A. Mearns was a surgeon and naturalist with the United States Army who col
 > This report by W. L. Minckley (Department of Zoology, Arizona State University, 1968) synthesizes periodic studies of the aquatic biota of the [[Sonoita Creek Basin]] since autumn 1963, with an intensive survey in 1967. The basin is small and largely dry, but its surviving perennial flows, two...
 > -- *[[AquaticBiotaOfTheSonoitaCreekB_18565]]*
 
+> This issue of *Wildlife Views* contains two items. The lead article by David E. Brown traces the history of recreational trout fishing for Arizona's native "speckled mountain trout" using 1870s–1910s newspapers, journals and early naturalist accounts. It describes how railroads brought tourists,...
+> -- *[[FishingForSpeckledMountainBeau_PML0296]]*
+
 ### Mentioned In
 - [[NotesOnACollectionOfFishesMade_21252]]
 - [[ManAndWildlifeInArizonaIiTheAm_17431]]
 - [[AquaticBiotaOfTheSonoitaCreekB_18565]]
+- [[FishingForSpeckledMountainBeau_PML0296]]
 
 ## Edgar Anderson
 
@@ -9275,6 +9279,9 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > This Summer 1991 issue of a trout-focused magazine combines a policy essay, advertising, and four feature pieces. The central story follows [[Steve Moore]], fisheries biologist for [[Great Smoky Mountains National Park]], through the decline and attempted restoration of the native [[Salvelinus...
 > -- *[[SavedByTheBarriers_20924]]*
 
+> This is a 4 April 1994 interagency memorandum from the [[Fish and Wildlife Service]] office in Parker, Arizona. It proposes a second removal of additional [[Bonytail Chub]] and [[Razorback Sucker]] from [[Palm Lake]] by [[Electrofishing]] before summer. The fish would be relocated to [[Lake...
+> -- *[[RemovalOfAdditionalBonytailChu_PML1771]]*
+
 ### Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -9406,6 +9413,7 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[CompetitionAmongJuvenilesOfCoh_16321]]
 - [[TheGrowthOfDaceLeuciscusLeucis_17982]]
 - [[SavedByTheBarriers_20924]]
+- [[RemovalOfAdditionalBonytailChu_PML1771]]
 
 ## Electrofishing Protocol
 
@@ -18145,6 +18153,9 @@ An Environmental Impact Statement (EIS) is a formal environmental assessment doc
 > This Autumn 1991 Trout Unlimited feature traces the history of the [[Colorado River]] at [[Lee's Ferry]], Arizona, and argues that the [[Lee's Ferry Fishery]], a wild and stocked [[Rainbow Trout]] tailwater, is being degraded by the peaking-power operations of [[Glen Canyon Dam]]. The article...
 > -- *[[ALeesFerryTalePowerPoliticsAnd_20673]]*
 
+> This draft environmental assessment, prepared by the [[Fish and Wildlife Service]] (USFWS), evaluates a proposed [[Pilot Channel]] (about 36 miles long) inside the existing 1,000-foot cleared corridor of the [[Salt River]] and [[Gila River]], from 91st Avenue to [[Gillespie Dam]]. The [[Flood...
+> -- *[[DraftEnvironmentalAssessmentSa_PML2656]]*
+
 ### Mentioned In
 - [[NotesOfTheBriefingHeldNovember_11848]]
 - [[ReviewOfTheDraftFederalLongter_19498]]
@@ -18164,6 +18175,7 @@ An Environmental Impact Statement (EIS) is a formal environmental assessment doc
 - [[IntegrationOfGrandCanyonPhysic_20124]]
 - [[BuyingAGilaMonster_19074]]
 - [[ALeesFerryTalePowerPoliticsAnd_20673]]
+- [[DraftEnvironmentalAssessmentSa_PML2656]]
 
 ## Environmental Justice
 

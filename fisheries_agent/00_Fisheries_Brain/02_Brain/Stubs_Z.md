@@ -400,6 +400,9 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This note covers the front matter of *Biological Pollution: The Control and Impact of Invasive Exotic Species*, a 1993 proceedings volume edited by Bill N. McKnight and published by the [[Indiana Academy of Science]]. The symposium was held in Indianapolis on October 25–26, 1991, and drew about 300...
 > -- *[[BiologicalPollutionThroughFish_17615]]*
 
+> This document is a compiled research file assembled by Carol Pacey (Arizona State University, Department of Biology) in early 2001. It brings together the EPA *Alternative Disinfectants and Oxidants* guidance chapter on ozone (April 1999), manufacturer and vendor material, email correspondence with...
+> -- *[[OzoneDisinfectionAndAquaticTox_PML2066]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -418,6 +421,7 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[TheCommonCarpCyprinusCarpioIts_17307]]
 - [[ConservationStatusOfFreshwater_12010]]
 - [[BiologicalPollutionThroughFish_17615]]
+- [[OzoneDisinfectionAndAquaticTox_PML2066]]
 
 ## Zebra-tailed Lizard
 
