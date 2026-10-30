@@ -24,8 +24,9 @@ Each document is extracted locally (OCR where needed) and gets two requests in t
      the permission is set by rule: government reports, company/consultant reports, correspondence and memos, meeting
      records, and drafts/unpublished material are "public domain"; published articles, books, chapters, theses,
      magazine/news pieces, anything undetermined or read with low confidence are "not public domain".
-     Business or personal records (contracts, leases, invoices, budgets, personnel or financial papers) are excluded:
-     no note is written.
+     Business or personal records (contracts, leases, invoices, budgets, personnel or financial papers, and proposals
+     that contain financial information) are ignored: no note, no full text, no FTP copy. Proposals without financial
+     information are library material ("draft_or_unpublished", public domain).
 Public-domain PDFs are copied to MARSH_FTP_DIR as <code>.pdf (for upload later; ftp_manifest.csv lists them).
 The full extracted text of every document goes to 00_Fisheries_Brain/full_text/<code>.md (gitignored; never synced,
 indexed or published). Notes carry marsh_id, library and permission in their frontmatter; the website reads those.
@@ -89,12 +90,12 @@ Categories:
 - "company_report": report by a consulting firm, utility, private company or non-profit (including reports prepared for an agency).
 - "correspondence": letter, memo, internal memorandum, email, fax, trip or field report, routing slip.
 - "meeting_record": minutes, agendas, meeting or workshop notes and handouts, recovery team or working group notes.
-- "draft_or_unpublished": draft or unpublished manuscript, review copy, field notes, data sheets, unpublished data or tables, permits, research proposals and progress notes.
+- "draft_or_unpublished": draft or unpublished manuscript, review copy, field notes, data sheets, unpublished data or tables, permits, progress notes, and research or project proposals that contain no financial information.
 - "published_article": article in a scientific journal or society publication, published proceedings paper, abstract volume, or a reprint/offprint of any of these.
 - "book_or_chapter": a commercially or university-press published book or a chapter of one.
 - "thesis": thesis or dissertation.
 - "magazine_or_news": magazine, newsletter feature or newspaper article (including agency-published popular magazines).
-- "business_or_personal": business or personal records rather than library material: contracts, leases, invoices, receipts, budgets and pricing, payroll, personnel, insurance, tax or bank papers, personal documents. Historical scientific correspondence is NOT this category.
+- "business_or_personal": business or personal records rather than library material: contracts, leases, invoices, receipts, budgets and pricing, payroll, personnel, insurance, tax or bank papers, personal documents, and any proposal that includes financial information (a budget, costs, rates, prices or a funding amount). Historical scientific correspondence is NOT this category.
 - "unknown": you cannot tell from the text.
 A copyright notice from a journal, society or commercial publisher means "published_article" or "book_or_chapter". Use only what the text and file name show; never guess a year or author. Use "low" confidence when the text is too garbled or short to judge."""
 
