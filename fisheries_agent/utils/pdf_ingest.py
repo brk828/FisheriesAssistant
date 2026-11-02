@@ -5,7 +5,7 @@ Drop PDFs into 00_Fisheries_Brain/pdfs_to_process/ and run:
     python -m utils.pdf_ingest status                 # what is waiting / already done (local only)
     python -m utils.pdf_ingest extract [files...]     # text (OCR where needed) + citation lookup, no LLM
     python -m utils.pdf_ingest process [files...] [--yes] [--limit N] [--model ID] [--no-crossref]
-        Full run: shows a token/cost estimate and asks before sending any document text to OpenRouter.
+        Full run: shows a token/cost estimate and asks before sending any document text to the LLM account.
 
 Pipeline per PDF
   1. Text: the PDF's own text layer (pypdf) page by page; pages with no usable text are OCRd
@@ -13,9 +13,19 @@ Pipeline per PDF
   2. Citation, best source first: Crossref record for a DOI printed on the first pages (verified against
      the text), then an LLM read of the first page (verified/upgraded through a Crossref title search),
      then the filename ("Hartman 2000 - Title.pdf"). Each entry records where it came from.
-  3. Note: LLM synthesis in the same layout as the existing 01_Sources notes. Frontmatter gets `title`,
-     `source_id` (X-<8 hex of the file hash>, so it can never collide with a numeric Minckley MID),
+  2b. Public-domain review (non-Minckley PDFs; utils/public_domain.py, same rules as the Marsh Library): one short
+     request on the file name and the first/last pages gives a category and permission. Business or personal records
+     (contracts, leases, invoices, proposals with financial information) get no note and move to pdfs_to_process/_excluded/.
+  3. Note: one of the three digests (analyses_and_modeling, sampling_design, ecological_and_biological; classified by
+     the model, --type forces one). Minckley PDFs keep the single original layout. Frontmatter gets `title`,
+     `source_id` (X-<8 hex of the file hash>, or the public-domain ID below), `permission`, `access_category`,
      `source_citation`, `doi`, `source_file`, `text_extraction`.
+  3b. Public domain: the document gets a permanent ID (FAL0001 ..., brain_meta/public_pdf_ids.csv) used as its
+     source_id and note name; the PDF is copied as <ID>.pdf to PUBLIC_PDF_DIR (default
+     C:/Obsidian/Fish_Science_Brain/PublicDomain_PDFs) and uploaded to the website's PDF folder (utils/site_ftp.py;
+     a failed upload never fails the note: `python -m utils.site_ftp pending` retries).
+  3c. Full text: every document's complete extracted text goes to 00_Fisheries_Brain/full_text/<source_id>.md
+     (gitignored; never synced, indexed or published).
   4. Citation fields go to brain_meta/external_citations.json (keyed by source_id), merged by
      brain_citations.load(); the Minckley sheet import never touches that file.
   5. Concept stubs: every [[link]] in the note gets its stub updated (a Mentioned In entry and a short Context
@@ -46,7 +56,7 @@ from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 
-from utils import brain_citations, brain_index, llm_provider
+from utils import brain_citations, brain_index, llm_provider, public_domain
 from utils.stub_store import StubStore, StubStoreError
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -743,7 +753,7 @@ def format_citation(c: dict) -> str:
 
 def note_stem(title: str, year: str, sid: str) -> str:
     letters = re.sub(r"[^A-Za-z ]", "", title or "").title().replace(" ", "")[:30] or "Untitled"
-    if sid.isdigit():  # Minckley convention: TitleLetters_MID
+    if sid.isdigit() or public_domain.is_id(sid):  # Minckley convention TitleLetters_MID; public-domain IDs alike
         return f"{letters}_{sid}"
     stem = f"{letters}_{year or sid}"
     if (SOURCES_DIR / f"{stem}.md").exists():
@@ -1156,7 +1166,7 @@ class PdfWatcher:
             in_tok, out_tok = estimate_tokens(sizes)
             print(f"   Model: {model}. {_cost_text(model, in_tok, out_tok)}")
             print(f"   {llm_provider.status_line()}. Switch with `provider anthropic` / `provider openrouter`.")
-            print(f"   Adding sends each document's text to {llm_provider.label()} (note, citation, concept summaries).")
+            print(f"   Adding sends each document's text to {llm_provider.label()} (public-domain review, note, citation, concept summaries).")
             retry = " / [r]etry the failed ones too" if failed else ""
             question = f"   Add them to the brain now? [y]es{' (new files only)' if failed else ''}{retry} / [n]o (ask again only for new files) / [l]ater"
             wait = add_prompt_timeout()
@@ -1217,7 +1227,7 @@ def cmd_extract(args) -> int:
     return 0
 
 
-def write_note(p: Path, ex: dict, cite: dict, mid: str, sid: str, note: str, kind: dict, catalog: list) -> tuple:
+def write_note(p: Path, ex: dict, cite: dict, mid: str, sid: str, note: str, kind: dict, catalog: list, extra: dict = None) -> tuple:
     """Sets the frontmatter, writes the note to 01_Sources and links its concept stubs.
     Returns (stem, title, final note, stubs updated, names of stubs created). Updates cite["title"]."""
     title = cite.get("title") or note_title(note) or p.stem
@@ -1234,6 +1244,7 @@ def write_note(p: Path, ex: dict, cite: dict, mid: str, sid: str, note: str, kin
         "doi": cite.get("doi", ""),
         "source_file": p.name,
         "text_extraction": ex["method"],
+        **(extra or {}),
     })
     SOURCES_DIR.mkdir(parents=True, exist_ok=True)
     (SOURCES_DIR / f"{stem}.md").write_text(note, encoding="utf-8")
@@ -1336,7 +1347,9 @@ def cmd_process(args) -> int:
 
     in_tok, out_tok = estimate_tokens([min(len(ex["text"]), limits[d]) for _, d, ex, _ in prepared])
     print(f"\nModel: {model} via {llm_provider.label()}\n{_cost_text(model, in_tok, out_tok)}")
-    print("This sends the full text of each document (and its first page for citation reading) to OpenRouter.")
+    print(f"This sends the full text of each document to {llm_provider.label()} (note, citation, and for non-Minckley PDFs a "
+          "short public-domain review of the first and last pages). Full text is saved locally to full_text/; "
+          "public-domain PDFs get an ID and are uploaded to the website.")
     if not args.yes and input("Proceed? [y/N] ").strip().lower() not in ("y", "yes"):
         for p, d, ex, _ in prepared:
             usage_records[d]["result"] = "cancelled_before_send"
@@ -1355,7 +1368,7 @@ def cmd_process(args) -> int:
         print(f"Failed to initialize the {llm_provider.label()} client: {e}")
         return 1
     citations = _load_json(EXTERNAL_CITATIONS_PATH)
-    done = 0
+    done = excluded = 0
     written = []
     for p, d, ex, cite in prepared:
         mid = mids.get(d, "")
@@ -1364,6 +1377,22 @@ def cmd_process(args) -> int:
         ACTIVE_DOCUMENT_USAGE = record
         print(f"-> {p.name} [{sid}]")
         try:
+            access = {}
+            if not mid:
+                access = public_domain.review(client, model, p.name, ex)
+                print(f"   access review: {access['permission']} ({access['category']}, {access.get('confidence') or '?'} confidence): "
+                      f"{access.get('reason', '')[:140]}")
+                if access["permission"] == public_domain.EXCLUDED:
+                    manifest[d] = _record(p, d, "skipped", reason=f"business or personal record: {access.get('reason', '')[:200]}")
+                    record["result"] = "excluded_business_or_personal"
+                    if not getattr(args, "keep", False):
+                        dest = PDF_DIR / "_excluded"
+                        dest.mkdir(parents=True, exist_ok=True)
+                        os.replace(p, dest / p.name)
+                        (CACHE_DIR / f"{d[:16]}.json").unlink(missing_ok=True)
+                    excluded += 1
+                    print(f"   Business or personal record: no note written" + ("" if getattr(args, "keep", False) else f"; moved to {PDF_DIR.name}/_excluded/"))
+                    continue
             if not mid and cite.get("citation_source") != "crossref":
                 llm = llm_citation(client, model, ex["text"])
                 upgraded = crossref_by_title(llm.get("title", ""), llm.get("authors", ""), llm.get("year", "")) if llm and not args.no_crossref else {}
@@ -1373,7 +1402,11 @@ def cmd_process(args) -> int:
                 print(f"   digest: {kind['doc_type']}" + (f" (also {kind['secondary_type']})" if kind["secondary_type"] else ""))
             note = synthesize_note(client, model, ex["text"], limits[d], kind["doc_type"], kind["secondary_type"],
                                    partial_path=CACHE_DIR / f"{d[:16]}_truncated.md")
-            stem, title, note, upd, created = write_note(p, ex, cite, mid, sid, note, kind, catalog)
+            if access.get("permission") == public_domain.PUBLIC:
+                sid = public_domain.assign_id(d, p.name, access["category"])
+                print(f"   public domain: ID {sid}")
+            extra = {"permission": access["permission"], "access_category": access["category"]} if access else {}
+            stem, title, note, upd, created = write_note(p, ex, cite, mid, sid, note, kind, catalog, extra)
             new = len(created)
             summarized = summarize_new_stubs(client, model, note, created) if created else 0
             if mid:
@@ -1381,7 +1414,24 @@ def cmd_process(args) -> int:
             else:
                 citations[sid] = {k: cite.get(k, "") for k in ("authors", "year", "title", "publication", "type", "doi", "citation_source")}
                 _save_json(EXTERNAL_CITATIONS_PATH, citations)
-            manifest[d] = _record(p, d, "done", note=f"{stem}.md", method=ex["method"], citation_source=cite.get("citation_source", ""), doc_type=kind["doc_type"])
+            try:
+                public_domain.save_full_text(sid, ex, {"source_id": sid, "minckley_id": mid, "title": title,
+                                                       "source_citation": format_citation({**cite, "mid": mid}),
+                                                       "permission": access.get("permission", ""), "note": f"[[{stem}]]"})
+            except Exception as e:
+                print(f"   could not save the full text ({e}); the note is unaffected")
+            if public_domain.is_id(sid):
+                try:
+                    public_domain.copy_public_pdf(p, sid)
+                    public_domain.update_registry(sid, note=f"{stem}.md")
+                    from utils import site_ftp
+                    res = site_ftp.publish_id(sid)
+                except Exception as e:
+                    res = f"failed: {e}"
+                ok = res in ("uploaded", "skipped")
+                print(f"   website PDF {sid}.pdf: {res}" + ("" if ok else "; the note is fine, retry with `python -m utils.site_ftp pending`"))
+            manifest[d] = _record(p, d, "done", note=f"{stem}.md", method=ex["method"], citation_source=cite.get("citation_source", ""),
+                                  doc_type=kind["doc_type"], source_id=sid, permission=access.get("permission", ""))
             record["result"] = "done"
             record["note"] = f"{stem}.md"
             done += 1
@@ -1411,8 +1461,9 @@ def cmd_process(args) -> int:
         kind = "list-price" if llm_provider.current() == "anthropic" else "exact"
         cost_text = f"{kind} {acct} cost ${USAGE['cost']:.6f}" if USAGE["cost_exact"] else f"partial {acct} cost ${USAGE['cost']:.6f}; one or more requests lack returned cost metadata (see generation IDs in the usage log)"
         print(f"\nActual usage: {USAGE['in']:,} input + {USAGE['out']:,} output tokens across {USAGE['requests']} request attempts, {USAGE['retries']} retries; {cost_text}.")
-    print(f"\n{done}/{len(prepared)} notes written to {SOURCES_DIR}. Citations that came from the filename or an LLM read are worth a glance in {EXTERNAL_CITATIONS_PATH.name}.")
-    return 0 if done == len(prepared) else 1
+    skipped = f" ({excluded} business/personal record(s) excluded, in pdfs_to_process/_excluded)" if excluded else ""
+    print(f"\n{done}/{len(prepared) - excluded} notes written to {SOURCES_DIR}{skipped}. Citations that came from the filename or an LLM read are worth a glance in {EXTERNAL_CITATIONS_PATH.name}.")
+    return 0 if done + excluded == len(prepared) else 1
 
 
 def smoke_check(stem: str, title: str) -> bool:

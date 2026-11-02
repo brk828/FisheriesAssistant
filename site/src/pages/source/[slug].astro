@@ -39,6 +39,11 @@ const base = import.meta.env.BASE_URL;
         ) : (
           <p><strong>{s.library} ID: {s.pdfKey}.</strong> {REQUEST_PDF_TEXT}</p>
         )
+      ) : s.pdfUrl ? (
+        <p>
+          <strong>Library ID: {s.pdfKey}.</strong> The full PDF of this document is available.
+          View it at <a href={s.pdfUrl} target="_blank" rel="noopener noreferrer"><strong>{s.pdfKey}</strong></a>.
+        </p>
       ) : (
         <p>
           {s.doi ? <>Full text: <a href={`https://doi.org/${s.doi}`}>doi.org/{s.doi}</a>. </> : null}
