@@ -36085,6 +36085,18 @@ A mitochondrial lineage is a major evolutionary branch of mtDNA haplotypes withi
 ### Mentioned In
 - [[GeographicVariationInMitochond_PML0844]]
 
+## Mitonuclear Incompatibility
+
+### Summary
+A reduced fitness that can arise when mitochondrial genes from one species are combined with nuclear genes from another, since the two genomes must work together. The source lists it as a related concept; its data show razorback mtDNA in 92.7% of hybrids, which is relevant to how mitochondrial and nuclear ancestry were compared.
+
+### Context
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
+### Mentioned In
+- [[SemipermeableSpeciesBoundaries_2026]]
+
 ## Mitotic Index
 
 ### Summary

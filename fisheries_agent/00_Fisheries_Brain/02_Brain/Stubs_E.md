@@ -19836,6 +19836,9 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 > This Arizona Game and Fish Department Technical Report (NGTR 146, August 1999, edited by Kirk L. Young and E. Patricia Lopez) presents an integrated fisheries management plan for the [[Little Colorado River Basin]], a 27,089 mi² (70,160 km²) watershed on the [[Colorado Plateau]]. It is a pilot...
 > -- *[[IntegratedFisheriesManagementP_PML0129]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[AcquiredLandsExoticFishRemoval_1987]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -21028,6 +21031,7 @@ The Endangered Species Act (ESA) is landmark U.S. federal legislation that manda
 - [[EndangeredAndThreatenedWildlif_PML0739]]
 - [[DexterNationalFishHatcheryAndT_PML2758]]
 - [[IntegratedFisheriesManagementP_PML0129]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Endangered Species Act - Colorado River Basin Fishes
 <!-- fm: auto_enriched: true -->

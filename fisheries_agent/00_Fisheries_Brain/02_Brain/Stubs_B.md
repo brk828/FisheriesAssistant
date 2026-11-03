@@ -718,8 +718,12 @@ Backcrossing is the repeated breeding of a hybrid with one of its parent species
 > This paper, by Robert R. Miller, argues that [[Hybridization]] between fish species is common in temperate freshwaters, especially in the [[Nearctic Region]], and that human-driven environmental change and species introductions have accelerated it. The author classifies hybrids into three types...
 > -- *[[HybridizationAsAFactorInTheSpe_15346]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[HybridizationAsAFactorInTheSpe_15346]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Background Law
 
@@ -37859,6 +37863,9 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 > This Colorado Division of Wildlife Technical Publication (No. 42, September 2004), by Darrel E. Snyder and Robert T. Muth with illustrations by G. Lynn Bjork, is an expanded and retitled update of the 1990 guide to larval and early juvenile suckers of the [[Upper Colorado River Basin]]. It provides...
 > -- *[[CatostomidFishLarvaeAndEarlyJu_PML2400]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[AbstractsAndCoordinationOnTheW_1994_05_17]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -38088,6 +38095,7 @@ The Bluehead Sucker (Pantosteus delphinus) is a native catostomid fish species f
 - [[TheEffectsOfAnExperimentalFloo_PML0120]]
 - [[HabitatUseByHumpbackChubGilaCy_PML2700]]
 - [[CatostomidFishLarvaeAndEarlyJu_PML2400]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Bluehead Wrasse
 <!-- fm: auto_enriched: true -->

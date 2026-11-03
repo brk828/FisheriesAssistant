@@ -14284,6 +14284,9 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 > This document has two parts. The main text is Chapter 17 of a volume on recovery of long-lived species, which reviews the decline of the [[Razorback Sucker]] (*Xyrauchen texanus*), an endemic fish of the [[Colorado River Basin]]. It covers the historic record, status and biology, the political...
 > -- *[[ManagementTowardRecoveryOfTheR_PML1884]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[AnimasLaPlataProjectColoradoNe_14136]]
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -14436,6 +14439,7 @@ The San Juan River is a major tributary of the Colorado River Basin that serves 
 - [[AnInterimReportOnTheFishesOfTh_PML2146]]
 - [[ExaminationOfNativeFishRecruit_PML1983]]
 - [[ManagementTowardRecoveryOfTheR_PML1884]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## San Juan River Arm
 
@@ -14523,6 +14527,9 @@ The San Juan River Basin Recovery Implementation Program is a multi-agency manag
 > This Colorado Division of Wildlife Technical Publication (No. 42, September 2004), by Darrel E. Snyder and Robert T. Muth with illustrations by G. Lynn Bjork, is an expanded and retitled update of the 1990 guide to larval and early juvenile suckers of the [[Upper Colorado River Basin]]. It provides...
 > -- *[[CatostomidFishLarvaeAndEarlyJu_PML2400]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[FishCommunityResponsesToMechan_2014]]
 - [[RecoveryGoalsForRazorbackSucke_15075]]
@@ -14534,6 +14541,7 @@ The San Juan River Basin Recovery Implementation Program is a multi-agency manag
 - [[RecoveryGoalsForTheFourColorad_PML2486]]
 - [[ComingTogetherCoordinationOfSc_PML2772]]
 - [[CatostomidFishLarvaeAndEarlyJu_PML2400]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## San Juan River Drainage
 

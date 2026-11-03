@@ -13478,6 +13478,9 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > This Arizona Game and Fish Department Technical Report (NGTR 146, August 1999, edited by Kirk L. Young and E. Patricia Lopez) presents an integrated fisheries management plan for the [[Little Colorado River Basin]], a 27,089 mi² (70,160 km²) watershed on the [[Colorado Plateau]]. It is a pilot...
 > -- *[[IntegratedFisheriesManagementP_PML0129]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -15537,6 +15540,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[BackwaterInventoryReachesStepI_PML1347]]
 - [[DexterNationalFishHatcheryAndT_PML2758]]
 - [[IntegratedFisheriesManagementP_PML0129]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -18583,6 +18587,18 @@ Recruitment is the addition of young fish to a population or fishery. The northe
 - [[PopulationStatusOfTheRazorback_PML0340]]
 - [[EffectOfFoodAvailabilityOnGrow_PML2084]]
 - [[NutriosoCreekSpinedaceSalvager_PML0385]]
+
+## Recruitment Bottleneck
+
+### Summary
+A stage in a population's life cycle where few young survive to join the adult population, limiting recovery even when adults reproduce. In this source, razorback sucker reproduce annually but recruitment is exceptionally rare, with non-admixed razorback largely absent from about 90 to 360 mm TL, and the authors identify this bottleneck as the main concern, likely affecting juveniles ≤90 mm TL from late summer through winter.
+
+### Context
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
+### Mentioned In
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Recruitment Dynamics
 

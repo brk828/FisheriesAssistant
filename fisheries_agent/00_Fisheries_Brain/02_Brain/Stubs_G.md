@@ -10199,6 +10199,18 @@ The structure of the male and female reproductive organs, used here as the main 
 ### Mentioned In
 - [[StationAllocationsAndFtesForOp_1994_03_29]]
 
+## Genomic Cline Analysis
+
+### Summary
+A method that compares how allele frequencies change along a hybrid index to find loci that deviate from genome-wide ancestry patterns, which can signal selection or barriers to gene flow. In this source, the authors used genomic cline analysis (BGC with ClineHelpR) on 2500 SNPs and found 72 outliers (2.9%), including 9 α-outliers favoring flannelmouth, 2 favoring razorback, and 61 β-outliers on chromosome 2 suggesting heterozygote advantage.
+
+### Context
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
+### Mentioned In
+- [[SemipermeableSpeciesBoundaries_2026]]
+
 ## Genotyping Error
 
 ### Summary

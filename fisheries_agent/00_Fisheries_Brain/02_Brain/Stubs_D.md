@@ -29283,6 +29283,18 @@ Theodosius Dobzhansky, a geneticist whose work on chromosome polymorphisms in Dr
 ### Mentioned In
 - [[QuantitativeAndExperimentalMet_12847]]
 
+## Dobzhansky-Muller Incompatibility
+
+### Summary
+A genetic incompatibility in which alleles at different loci that arose separately in two populations or species interact poorly when combined in hybrids. The source lists it as a related concept for this hybridizing sucker assemblage but does not report a specific DMI finding beyond the chromosome 2 β-outliers linked to heterozygote advantage.
+
+### Context
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
+### Mentioned In
+- [[SemipermeableSpeciesBoundaries_2026]]
+
 ## Doctoral Thesis
 
 ### Summary
@@ -31869,6 +31881,18 @@ Double cones are a type of paired photoreceptor found in the retinas of many fis
 
 ### Mentioned In
 - [[TheVisualCellsOfEricymbaBuccat_16572]]
+
+## Double Digest RADseq
+
+### Summary
+A reduced-representation genotyping method that sequences DNA fragments cut by two restriction enzymes to generate many SNP markers across the genome. In this study it was used to genotype 1128 sampled catostomid individuals, with SNP-based analyses including ADMIXTURE and NewHybrids.
+
+### Context
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
+### Mentioned In
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Double Fixed Sum Pollen Count
 

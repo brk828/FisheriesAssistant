@@ -67786,6 +67786,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > This March 1946 Bureau of Reclamation report, issued under Secretary J. A. Krug and the regional directors E. A. Moritz (Region III) and E. O. Larson (Region IV), presents a basin-wide plan for developing the water resources of the [[Colorado River Basin]] for irrigation, power production and other...
 > -- *[[TheColoradoRiverANaturalMenace_PML2607]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -68603,6 +68606,7 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[HatcheryFeasibilityStudyForEnd_PML2552]]
 - [[OntogenyAndTaxonomyOfHumpbackC_PML1989]]
 - [[TheColoradoRiverANaturalMenace_PML2607]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Colorado River Basin Coordinating Committee
 

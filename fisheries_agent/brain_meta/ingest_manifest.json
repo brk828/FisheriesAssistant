@@ -41536,6 +41536,17 @@
   "status": "done",
   "timestamp": "2026-10-18T04:43:41+00:00"
  },
+ "7a47bfc10282ed75226099fba3ddb5ce42a0d5257cb60d4798fdebc39686fa97": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Mussman et al 2026 rbs fms hybridization.pdf",
+  "method": "text",
+  "note": "SemipermeableSpeciesBoundaries_2026.md",
+  "permission": "not public domain",
+  "source_id": "X-7a47bfc1",
+  "status": "done",
+  "timestamp": "2026-11-03T21:33:41+00:00"
+ },
  "7a62e69bf5b41cc425ba0fdeaaffe461536ba8325095ed43f92f29cc5e35e442": {
   "citation_source": "minckley-sheet",
   "doc_type": "",

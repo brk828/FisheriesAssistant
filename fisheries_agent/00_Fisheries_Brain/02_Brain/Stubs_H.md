@@ -9210,6 +9210,9 @@ A hatchery repatriate is a fish that was reared in a hatchery or rearing pond an
 > This Wyoming Game and Fish Commission Fisheries Technical Report (Number 8, April 1958, authored by Robert Millis and Jack Kinaly) evaluates how much of the [[Hatchery Stocking|hatchery-reared trout]] planted in the [[Big Laramie River]] survived to anglers' creels between 1953 and 1957. It...
 > -- *[[AStudyOfTheSurvivalOfHatcheryR_PML1734]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[FisheriesInvestigationsAndSurv_14934]]
 - [[MonetaryValuesOfFish_14652]]
@@ -9231,6 +9234,7 @@ A hatchery repatriate is a fish that was reared in a hatchery or rearing pond an
 - [[FrankensteinsFish_PML2901]]
 - [[ASixyearStudyOfTheSurvivalAndV_PML2025]]
 - [[AStudyOfTheSurvivalOfHatcheryR_PML1734]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Hatchery Stocking Program
 
@@ -36842,8 +36846,12 @@ A hybrid swarm is a population in which interbreeding between two species has pr
 > This report, by [[Eric J. Loudenslager]] and [[Graham A. E. Gall]] (Department of Animal Science, University of California, Davis), uses [[Gel Electrophoresis]] of enzymes to assess the genetic structure, hybridization and taxonomy of [[Cutthroat Trout]] (*Salmo clarki*) and related western...
 > -- *[[CutthroatTroutABiochemicalgene_16205]]*
 
+> **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
+> -- *[[SemipermeableSpeciesBoundaries_2026]]*
+
 ### Mentioned In
 - [[CutthroatTroutABiochemicalgene_16205]]
+- [[SemipermeableSpeciesBoundaries_2026]]
 
 ## Hybrid Tilapia
 <!-- fm: auto_enriched: true -->
