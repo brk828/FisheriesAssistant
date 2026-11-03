@@ -43,6 +43,7 @@ Finished PDFs (and their extraction cache) are deleted from pdfs_to_process; the
 
 Newly created stubs also get a short LLM `## Summary` (part of the same consent/estimate).
 Also: python -m utils.pdf_ingest stubs [note stems...] [--summaries]   (re)applies step 5 to ingested notes; safe to repeat.
+      python -m utils.pdf_ingest cleanup [--dry-run]   removes PDFs that already have a note, stale text caches and diagnostic replies.
 """
 import argparse
 import hashlib
@@ -1466,6 +1467,68 @@ def cmd_process(args) -> int:
     return 0 if done + excluded == len(prepared) else 1
 
 
+def cmd_cleanup(args) -> int:
+    """Removes what pdfs_to_process no longer needs. Only PDFs whose note exists are deleted (copies: the library
+    originals live elsewhere); failed, unprocessed and excluded PDFs are never touched."""
+    dry = getattr(args, "dry_run", False)
+    manifest = _load_json(MANIFEST_PATH)
+    catalog = _vault_catalog()
+    sid_of = {c[0]: c[1] for c in catalog}
+    stems = set(sid_of)
+    remove, keep = [], []
+    for p in list_pdfs():
+        d = file_hash(p)
+        rec = manifest.get(d, {})
+        mid = detect_mid(p)
+        note = existing_note_for_minckley_id(mid, catalog) if mid else ""
+        if not note and rec.get("status") == "done" and rec.get("note"):
+            note = Path(rec["note"]).stem if Path(rec["note"]).stem in stems else ""
+        if note:
+            remove.append((p, d, note))
+        else:
+            keep.append((p, rec.get("status") or "not processed yet", rec.get("reason", "")))
+    waiting = {file_hash(p)[:16] for p, _, _ in keep}
+    caches, diags = [], []
+    if CACHE_DIR.is_dir():
+        for f in CACHE_DIR.iterdir():
+            if not f.is_file():
+                continue
+            if "_truncated" in f.name or "_catalog_reply" in f.name:
+                diags.append(f)  # partial or unreadable model replies kept for diagnosis
+            elif f.suffix == ".json" and f.name[:16] not in waiting:
+                caches.append(f)
+    print(f"{len(remove)} PDF(s) already have a note and can go" + (":" if remove else "."))
+    for p, _, note in remove:
+        sid = sid_of.get(note) or detect_mid(p)
+        missing = "" if (public_domain.FULL_TEXT_DIR / f"{sid}.md").is_file() else " (full text missing: saved first)"
+        print(f"   {p.name} -> {note}{missing}")
+    print(f"{len(caches)} text cache(s) with no waiting PDF; {len(diags)} diagnostic reply file(s) in {CACHE_DIR.name}/.")
+    if keep:
+        print(f"Kept ({len(keep)}): failed or not yet processed; the watcher offers the new ones, `process <file>` retries a failed one.")
+        for p, status, why in keep:
+            print(f"   {p.name}: {status}" + (f" ({why[:100]})" if why else ""))
+    if dry:
+        print("Dry run: nothing removed.")
+        return 0
+    for p, d, note in remove:
+        sid = sid_of.get(note) or detect_mid(p)
+        if sid and not (public_domain.FULL_TEXT_DIR / f"{sid}.md").is_file():  # keep the text before the PDF goes
+            try:
+                ex = extract_text(p, d, verbose=False)
+                public_domain.save_full_text(sid, ex, {"source_id": sid, "title": next((c[3] for c in catalog if c[0] == note), ""),
+                                                       "note": f"[[{note}]]", "backfilled": datetime.now(timezone.utc).date().isoformat()})
+                print(f"   saved the full text of {p.name} as full_text/{sid}.md")
+            except Exception as e:
+                print(f"   {p.name}: full text could not be saved ({e}); PDF kept")
+                continue
+        p.unlink(missing_ok=True)
+        (CACHE_DIR / f"{d[:16]}.json").unlink(missing_ok=True)
+    for f in caches + diags:
+        f.unlink(missing_ok=True)
+    print("Removed. Business/personal records in _excluded/ are left for you to delete or keep.")
+    return 0
+
+
 def smoke_check(stem: str, title: str) -> bool:
     """True when the note is in the search index (rebuilt if the vault changed) and its text is searchable.
     A generic title can legitimately rank below other sources, so ranking is not tested."""
@@ -1490,6 +1553,8 @@ def main(argv: list = None) -> int:
     ap = argparse.ArgumentParser(prog="pdf_ingest", description=__doc__.split("\n")[0])
     sub = ap.add_subparsers(dest="cmd", required=True)
     sub.add_parser("status")
+    sp = sub.add_parser("cleanup", help="remove PDFs that already have a note, stale text caches and diagnostic replies")
+    sp.add_argument("--dry-run", action="store_true", help="list what would be removed")
     sp = sub.add_parser("stubs")
     sp.add_argument("notes", nargs="*", help="note stems in 01_Sources; default is every ingested note")
     sp.add_argument("--summaries", action="store_true", help="also write LLM summaries for linked stubs that lack one (asks first)")
@@ -1507,7 +1572,7 @@ def main(argv: list = None) -> int:
             sp.add_argument("--model", default="")
             sp.add_argument("--provider", default="", help="LLM account for this run only: openrouter or anthropic (default: saved choice, see utils.llm_provider)")
     args = ap.parse_args(argv)
-    return {"status": cmd_status, "stubs": cmd_stubs, "extract": cmd_extract, "process": cmd_process}[args.cmd](args)
+    return {"status": cmd_status, "stubs": cmd_stubs, "extract": cmd_extract, "process": cmd_process, "cleanup": cmd_cleanup}[args.cmd](args)
 
 
 if __name__ == "__main__":
