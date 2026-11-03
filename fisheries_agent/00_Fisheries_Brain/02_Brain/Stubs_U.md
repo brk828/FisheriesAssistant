@@ -14430,6 +14430,9 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 > Technical Publication No. 47 (Colorado Parks and Wildlife, May 2016) provides a comprehensive guide to the morphology, meristics, morphometrics and pigmentation of the larvae and early juveniles of 15 cyprinid species in the [[Upper Colorado River Basin]] (UCRB). It was prepared by the [[Larval...
 > -- *[[CyprinidFishLarvaeAndEarlyJuve_PML2402]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[ActivityReportToTheBoardOfGove_1994_05_04]]
@@ -14623,6 +14626,7 @@ The Upper Colorado River Basin is a critical freshwater ecosystem spanning parts
 - [[CatostomidFishLarvaeAndEarlyJu_PML2400]]
 - [[CompendiumOfExistingKnowledgeF_PML1689]]
 - [[CyprinidFishLarvaeAndEarlyJuve_PML2402]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Upper Colorado River Basin Biological Subcommittee
 <!-- fm: auto_enriched: true -->

@@ -21064,6 +21064,9 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 > This September 1993 Final Report, prepared for the [[Colorado Water Conservation Board]] by URS Consultants, FishPro, Bio/West and Leonard Rice Consulting Water Engineers, assesses the feasibility of a propagation, broodstock/refugia and research facility for four endangered [[Upper Colorado River...
 > -- *[[HatcheryFeasibilityStudyForEnd_PML2552]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[AddendumToGeneticsManagementCo_1993]]
@@ -21680,6 +21683,7 @@ Dexter National Fish Hatchery is a federal aquaculture facility that serves as a
 - [[ABibliographyOfTheFederallyEnd_PML1149]]
 - [[NativeFishesAndNaturalAquaticH_PML1837]]
 - [[HatcheryFeasibilityStudyForEnd_PML2552]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Dexter National Fish Hatchery & Technology Center
 <!-- fm: auto_enriched: true -->

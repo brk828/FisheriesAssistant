@@ -3499,6 +3499,9 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 > This U.S. Fish and Wildlife Service handbook (FWS/OBS-78/56, October 1978) is a guide to the performance of fish and wildlife habitat and population improvement measures accompanying water resource development projects, mainly [[Dams]] and [[Reservoirs]] in the western United States. It was...
 > -- *[[WesternReservoirAndStreamHabit_PML2005]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -3748,6 +3751,7 @@ The walleye (Sander vitreum) is a freshwater percid fish species native to North
 - [[PreimpoundmentStudyOfTheFlamin_PML0255]]
 - [[AnnotatedBibliographyOnTheEffe_PML2512]]
 - [[WesternReservoirAndStreamHabit_PML2005]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Walleye Growth Comparison
 <!-- fm: auto_enriched: true -->

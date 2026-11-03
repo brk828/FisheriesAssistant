@@ -15910,6 +15910,18 @@ An oxbow pond is a small body of standing water left behind when a river or cree
 - [[TheEffectsOfDroughtConditionsO_18408]]
 - [[MonitoringStudyOfRazorbackSuck_PML1377]]
 
+## Oxbow Sanctuary Design
+
+### Summary
+Design guidance for constructing or managing off-channel sanctuary ponds for endangered suckers and minnows. The source proposes three pond sizes (medium 2–5 ha, small under 1 ha, large) and key features such as isolation from nonnative fishes, gravity drainage, maximum depth of 4 m, size under 2.5 ha, dissolved oxygen above 3 mg/L, spawning terraces at 0.5–2 m, and dark overhead cover.
+
+### Context
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
+### Mentioned In
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
+
 ## Oxbow Spring
 
 ### Summary

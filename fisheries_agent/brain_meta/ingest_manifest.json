@@ -9683,6 +9683,17 @@
   "status": "done",
   "timestamp": "2026-10-25T21:29:05+00:00"
  },
+ "1ac61020e340a21af094019aa9184ab76047abfb7d9a040b0c02c18347eaa15f": {
+  "citation_source": "llm",
+  "doc_type": "sampling_design",
+  "file": "Snyder  Meismer 97 light trap.pdf",
+  "method": "text",
+  "note": "EffectivenessOfLightTrapsForCa_FAL0002.md",
+  "permission": "public domain",
+  "source_id": "FAL0002",
+  "status": "done",
+  "timestamp": "2026-11-03T21:57:59+00:00"
+ },
  "1ac7a40435d96a378441cc082c8409f7bb1c42afac8dcd05fff04593a1ee4e5e": {
   "citation_source": "minckley-sheet",
   "file": "15600.pdf",
@@ -65694,6 +65705,17 @@
   "source_id": "X-c0992bfd",
   "status": "done",
   "timestamp": "2026-10-28T02:46:27+00:00"
+ },
+ "c09f53343b2e4bff9888f6dc0be06b967e4481c6e6297aa06215afd6912e467e": {
+  "citation_source": "crossref",
+  "doc_type": "ecological_and_biological",
+  "file": "Ecology of Bonytail and Razorback Sucker and the Role of Off-Channel Habitats in Their Recovery.pdf",
+  "method": "mixed",
+  "note": "EcologyOfBonytailAndRazorbackS_FAL0001.md",
+  "permission": "public domain",
+  "source_id": "FAL0001",
+  "status": "done",
+  "timestamp": "2026-11-03T21:57:04+00:00"
  },
  "c0a9f71334c4276af8f13ce46e328985a047226ab67d7449f2f1cbf8452f726e": {
   "citation_source": "minckley-sheet",

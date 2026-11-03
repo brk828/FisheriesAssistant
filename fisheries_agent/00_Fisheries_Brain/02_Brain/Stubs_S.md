@@ -62233,6 +62233,18 @@ A software company whose KeyEntry program was used to enter and verify the fish 
 ### Mentioned In
 - [[SummaryOfFishSurveysOfSaltRive_PML1497]]
 
+## Southern Concepts Trap
+
+### Summary
+This is the standard quatrefoil light trap used in the experiments: four clear plexiglass lobes, 32 cm tall and 24 cm in diameter, with a styrofoam float and a low-intensity lamp of about 2 lux at the perimeter. Entry slits of 2, 4, or 6 mm were customer-specified. For juvenile Razorback Sucker at matched slit sizes, it gave a capture rate of about 51%, well above the Jennings Trap.
+
+### Context
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
+### Mentioned In
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
+
 ## Southern Fire Ant
 
 ### Summary
@@ -88809,6 +88821,9 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > This document is a set of appendices from a study on the impact of non-native fishes on native fishes of the Lower Colorado River. It contains a species search-term list (Appendix I), a bibliography of reports documenting non-native fish predation on native Colorado River fishes (Appendix III), a...
 > -- *[[ResourceUseByNativeAndNonnativ_PML2063]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
@@ -89219,6 +89234,7 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
 - [[ResourceUseByNativeAndNonnativ_PML2065]]
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Striped Bass Aquaculture
 <!-- fm: auto_enriched: true -->
@@ -90377,6 +90393,18 @@ Student's T-Test is a classic form of the t-test used to compare group means, ty
 - [[RazorbackDatabuenosAiresNwrJun_19434]]
 - [[ComparisonOfMorphometricMeasur_16798]]
 - [[HabitatUseAndPreferenceOfGilaT_18784]]
+
+## Student-Newman-Keuls Test
+
+### Summary
+This is a post hoc multiple-comparison procedure that follows analysis of variance to determine which treatment means differ from one another. The source applied it to arcsine-transformed capture and retention proportions in the light trap experiments. Differences were considered significant at α = 0.05.
+
+### Context
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
+### Mentioned In
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Student-T Distribution
 

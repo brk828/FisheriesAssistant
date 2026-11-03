@@ -179,6 +179,24 @@
   "type": "Journal Article",
   "year": "1967"
  },
+ "FAL0001": {
+  "authors": "G. A. Mueller",
+  "citation_source": "crossref",
+  "doi": "10.3133/sir20065065",
+  "publication": "Scientific Investigations Report.",
+  "title": "Ecology of bonytail and razorback sucker and the role of off-channel habitats in their recovery",
+  "type": "Report",
+  "year": "2006"
+ },
+ "FAL0002": {
+  "authors": "D. E. Snyder, S. M. Meismer",
+  "citation_source": "llm",
+  "doi": "",
+  "publication": "LFL Contribution.",
+  "title": "Effectiveness of Light Traps For Capture and Retention of Larval and Early Juvenile Xyrauchen texanus and Larval Ptychocheilus lucius and Gila elegans",
+  "type": "Report",
+  "year": "1997"
+ },
  "FirstAnnualMeeting_1993_11_30": {
   "authors": "Wayne Gustaveson",
   "citation_source": "note-llm",

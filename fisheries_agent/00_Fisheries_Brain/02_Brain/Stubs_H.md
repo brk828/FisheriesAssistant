@@ -23091,8 +23091,12 @@ A passive gear method using baited, multi-hoop nets left in place for long perio
 > This Louisiana Wild Life and Fisheries Commission bulletin (Fisheries Bulletin No. 9, 1970) reports a three-year inventory (1966–1969) of anadromous and estuarine fishes in coastal Louisiana east of the [[Mississippi River]]. The study was designed to explain why the [[Striped Bass]] fishery...
 > -- *[[EcologicalFactorsAffectingAnad_13973]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[EcologicalFactorsAffectingAnad_13973]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Hoop Nets
 <!-- fm: auto_enriched: true -->

@@ -13481,6 +13481,9 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
 > -- *[[SemipermeableSpeciesBoundaries_2026]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -15541,6 +15544,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[DexterNationalFishHatcheryAndT_PML2758]]
 - [[IntegratedFisheriesManagementP_PML0129]]
 - [[SemipermeableSpeciesBoundaries_2026]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Razorback Sucker Age And Growth
 <!-- fm: auto_enriched: true -->
@@ -28181,9 +28185,13 @@ Repatriation stocking is the release of hatchery-raised fish into streams to res
 > Two records from [[Sport Fishing|sport-fish anglers]] in [[Lake Mohave]], Arizona-Nevada, document endangered [[Razorback Sucker]] and [[Bonytail]] in the stomachs of large (>13 kg) nonnative [[Striped Bass]]. The authors suggest that striped bass, present since about 1981, may have contributed to...
 > -- *[[PredationOfAdultRazorbackSucke_PML1259]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[EffectsOfHoldingEnvironmentAnd_PML2826]]
 - [[PredationOfAdultRazorbackSucke_PML1259]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Repatriation Studies
 <!-- fm: auto_enriched: true -->

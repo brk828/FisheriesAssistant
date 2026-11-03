@@ -5077,6 +5077,9 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > This scanned federal planning compilation, assembled by multiple agencies of the U.S. Government, sets out a coordinated program for the water resources of the [[Colorado River Basin]]. It covers stream gaging, ground-water investigation, water quality, reservoir siting, recreation, fish and...
 > -- *[[TheColoradoRiverANaturalMenace_PML2606]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[AgendaNativeFishRearingFacilit_1990_03_02]]
@@ -5292,6 +5295,7 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[EcologicalStudiesOfFloraAndFau_PML2920]]
 - [[NativeFishSanctuaryProjectsanc_PML1963]]
 - [[TheColoradoRiverANaturalMenace_PML2606]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## National Park Service Organic Act
 
@@ -22576,6 +22580,18 @@ Predation on native fishes by introduced species. The source names it as the sec
 ### Mentioned In
 - [[ThermalRequirementsOfTheBonyta_PML1258]]
 
+## Nonnative Predator Control
+
+### Summary
+Efforts to reduce introduced predators that eat larval and juvenile native fish. The source identifies nonnative predators as the primary cause of recruitment failure and reports that predator removal programs were ineffective and costly, with target species quickly recolonizing. At Cibola High Levee Pond, largemouth bass spawned in 2004 and made up 47% of the catch by 2005.
+
+### Context
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
+### Mentioned In
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
+
 ## Nonnative Predators
 
 ### Summary
@@ -27326,6 +27342,9 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 > This U.S. Fish and Wildlife Service handbook (FWS/OBS-78/56, October 1978) is a guide to the performance of fish and wildlife habitat and population improvement measures accompanying water resource development projects, mainly [[Dams]] and [[Reservoirs]] in the western United States. It was...
 > -- *[[WesternReservoirAndStreamHabit_PML2005]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[APreliminaryListOfMontanaFishe_13003]]
 - [[AbundanceDistributionAndPisciv_13062]]
@@ -27570,6 +27589,7 @@ Northern Pike (*Esox lucius*) is a large, predatory freshwater fish species nati
 - [[AnnotatedBibliographyOnTheEffe_PML2512]]
 - [[ReclamationOfPondsLakesAndStre_PML1356]]
 - [[WesternReservoirAndStreamHabit_PML2005]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Northern Pikeminnow
 <!-- fm: auto_enriched: true -->

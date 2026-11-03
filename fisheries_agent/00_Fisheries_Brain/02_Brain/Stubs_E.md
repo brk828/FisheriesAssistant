@@ -12017,6 +12017,9 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > This final report, submitted by Brian Bagley to the [[U.S. Fish and Wildlife Service]] under federal contract #22410-0-M525, describes a fisheries survey of Verde River tributaries conducted from August 2000 through July 2002. The survey targeted [[Loach Minnow]], a federally threatened cyprinid...
 > -- *[[SurveyOfVerdeRiverDrainageAriz_PML0150]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[ANonlethalTechniqueToRecoverGu_1994]]
 - [[ASimpleTransportableLakeShocke_1966]]
@@ -12334,6 +12337,7 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[FisheriesSurveyOfTheGilaAndMim_PML1133]]
 - [[TheCurrentDistributionAndStatu_PML0018]]
 - [[SurveyOfVerdeRiverDrainageAriz_PML0150]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Electrofishing Depletion Surveys
 

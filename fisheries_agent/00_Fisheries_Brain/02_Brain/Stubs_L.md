@@ -7928,6 +7928,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > This Bureau of Reclamation final report (contract 14-06-300-2529, May 1979, by W. L. Minckley, [[Arizona State University]]) surveys the lowermost [[Colorado River]] mainstream (Davis Dam to the International Boundary, 1974–1976). It characterizes physical, chemical and biological habitats,...
 > -- *[[AquaticHabitatsAndFishesOfTheL_PML1899]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[AgfdCommentsOnProposedRazorbac_1990_07_23]]
 - [[AnotherRazorbackCaughtInCanal_18270]]
@@ -8181,6 +8184,7 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[GilaTaxonomyProjectIssuesAndPr_PML2438]]
 - [[PotentialForIntroductionOfThre_PML0896]]
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Lake Havasu City
 
@@ -13880,6 +13884,12 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 > This document is a set of appendices from a study on the impact of non-native fishes on native fishes of the Lower Colorado River. It contains a species search-term list (Appendix I), a bibliography of reports documenting non-native fish predation on native Colorado River fishes (Appendix III), a...
 > -- *[[ResourceUseByNativeAndNonnativ_PML2063]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
 - [[ASummaryOfPertinentProblemsPer_1959_01_15]]
@@ -14660,6 +14670,8 @@ Lake Mohave is a large reservoir on the Colorado River between Arizona and Nevad
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
 - [[FishesOfArizona_PML1736]]
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Lake Mohave Backwater Network
 <!-- fm: auto_enriched: true -->
@@ -17274,6 +17286,9 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 > This is the front matter, introduction and species-account section of *Fishes of Arizona* by W. L. Minckley (Arizona State University), published 30 June 1973 by the Arizona Game and Fish Department. The book is a state-wide faunal treatment that combines an artificial family key, a glossary of...
 > -- *[[FishesOfArizona_PML1736]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[AProposalForConversionOfTheNau_1993_04_12]]
@@ -17650,6 +17665,7 @@ Lake Powell is a major reservoir in the Colorado River Basin that serves as a cr
 - [[FishOfLakeMeadAndLakeMohaveBas_PML0024]]
 - [[JobProgressReportLakeMead_PML2012]]
 - [[FishesOfArizona_PML1736]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Lake Powell Artificial Fish Habitat
 
@@ -42619,6 +42635,18 @@ A passive sampling device that uses a light source to attract phototactic fish o
 - [[EvaluationOfFlushingOfABackwat_PML0966]]
 - [[ExaminationOfNativeFishRecruit_PML1983]]
 
+## Light Trap Capture Efficiency
+
+### Summary
+This is the measure of how effectively a light trap catches fish that are drawn to its light. In this source, the efficiency of floating, low-intensity quatrefoil-style traps was tested in laboratory tanks for larval and early juvenile Razorback Sucker, Colorado Squawfish, and Bonytail. Capture was strongly dependent on the trap light, since captures with the light off were only 0–4%.
+
+### Context
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
+### Mentioned In
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
+
 ## Light Trap Sampling
 <!-- fm: auto_enriched: true -->
 
@@ -42626,9 +42654,13 @@ A passive sampling device that uses a light source to attract phototactic fish o
 > This memorandum from the [[Center for Environmental Studies]] at [[Arizona State University]] reports autumn 1992 fish sampling at the ASU Karsten Golf Course (ASUGC) lakes in Tempe, Arizona. The survey assessed the status of three native fishes stocked in 1988 after propagation at the [[Dexter...
 > -- *[[FishSamplingAtAsuKarstenGolfCo_19457]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[ProductionOfRazorbackSuckerInA_1993_01_15]]
 - [[FishSamplingAtAsuKarstenGolfCo_19457]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Light Trap Sampling Methodology
 <!-- fm: auto_enriched: true -->

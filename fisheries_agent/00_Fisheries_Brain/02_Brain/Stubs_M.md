@@ -1028,8 +1028,12 @@ The golden perch, a non-native percichthyid listed among the exotic species in t
 > This paper by [[Peter Unmack]] (2001, *Journal of Arid Environments*) documents the composition and distribution of fishes in the Alice Springs region of central Australia and evaluates the physical constraints on fish persistence in this arid landscape. Nine native and six exotic species were...
 > -- *[[FishPersistenceAndFluvialGeomo_PML2550]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[FishPersistenceAndFluvialGeomo_PML2550]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Macquarie Perch
 
@@ -9182,6 +9186,9 @@ Mark-recapture estimation is a method for estimating fish population size by mar
 > This technical report (Cooperative National Park Resources Studies Unit, Report No. 1) by [[Boyd E. Kynard]] of the University of Arizona, prepared for the [[National Park Service]] Western Region, documents a preliminary study of the [[Desert Pupfish]] (*Cyprinodon macularius*) and its habitat at...
 > -- *[[PreliminaryStudyOfTheDesertPup_PML1306]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[TheElectricShockerAndItsUseInM_18901]]
 - [[RecoveryOfMarkedFishFollowingA_17296]]
@@ -9194,6 +9201,7 @@ Mark-recapture estimation is a method for estimating fish population size by mar
 - [[SurvivalGrowthAndRecruitmentOf_PML0226]]
 - [[PopulationDynamicsOfColoradoPi_PML2054]]
 - [[PreliminaryStudyOfTheDesertPup_PML1306]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Mark-Recapture Experiment
 
@@ -15929,6 +15937,18 @@ Mean annual runoff is the average volume of water a stream drains per year from 
 ### Mentioned In
 - [[AnalysisOfFactorsAssociatedWit_16607]]
 
+## Mean Capture Percentage
+
+### Summary
+This is the response variable giving the average percentage of test fish that entered and were captured in a light trap during a trial. The source reports values of 13–36% for Razorback Sucker larvae in 1- and 4-h trials, 33–44% in 8-h trials, 3–16% for Colorado Squawfish larvae, and 5–30% for Bonytail larvae. It was compared among treatments using 95% confidence intervals and ANOVA.
+
+### Context
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
+### Mentioned In
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
+
 ## Mean Character Difference
 <!-- fm: auto_enriched: true -->
 
@@ -15958,6 +15978,18 @@ Mean monthly discharge is the average streamflow over a calendar month, also in 
 
 ### Mentioned In
 - [[SpawningEcologyOfFlannelmouthS_PML2868]]
+
+## Mean Retention Percentage
+
+### Summary
+This is the response variable giving the average percentage of fish that remained in the trap after retrieval, measured in retention trials where fish were first placed in the catch basin. The source reports 85–99% retention for larvae but only 65–73% for early juveniles. Retention failures were separated from non-entry in the experimental design.
+
+### Context
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
+### Mentioned In
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Mean Sea Level
 
@@ -51417,6 +51449,18 @@ A riverine spawning location of razorback sucker below Hoover Dam, documented by
 
 ### Mentioned In
 - [[RiskAssessmentForStrandingOfRa_PML0333]]
+
+## Mueller Trap
+
+### Summary
+This is a quatrefoil trap, 22 cm tall and 35 cm in diameter, with 10-mm slits and a 7-W lamp that gave about 300 lux at the perimeter. It was used as a high-intensity comparison treatment. Its slits had to be sealed with foam before lifting to prevent fish from draining out.
+
+### Context
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
+### Mentioned In
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Mueller-Dumbois and Ellenberg
 

@@ -10140,6 +10140,18 @@ A capture history is the pattern of an individual animal being observed or not a
 ### Mentioned In
 - [[LoglinearModelsForCapturerecap_PML0499]]
 
+## Capture Myopathy
+
+### Summary
+Stress-related physiological harm and delayed mortality caused by capturing and handling fish. In this source, each handling event reduced bonytail growth by 9.5% and weight by 24.8%, delayed mortality reached 77% after tissue sampling in one study, and 75% mortality occurred in a telemetry study. The report also notes that netting stress is a known driver of mortality.
+
+### Context
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
+### Mentioned In
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
+
 ## Capture Population Estimation Model
 <!-- fm: auto_enriched: true -->
 
@@ -17671,6 +17683,9 @@ Catch Per Unit Effort (CPUE) is a standardized fisheries metric that quantifies 
 > This document is a set of map and figure captions from a spinedace survey of the [[Virgin River]] Basin in southwestern Utah. The source text contains no narrative, methods section, or summary statistics. Its figures show where [[Spinedace]] were found, where streams have perennial flow but no...
 > -- *[[TheCurrentDistributionAndStatu_PML0017]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[AnEvaluationOfMarkAndRecapture_1993]]
 - [[ArizonaGameAndFishDepartmentFi_1961]]
@@ -17715,6 +17730,7 @@ Catch Per Unit Effort (CPUE) is a standardized fisheries metric that quantifies 
 - [[AravaipaCreekMonitoringData_PML0211]]
 - [[SystematicInvestigationsOfWarm_PML2447]]
 - [[TheCurrentDistributionAndStatu_PML0017]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Catch Per Unit Effort (Cpue)
 <!-- fm: auto_enriched: true -->
@@ -43860,6 +43876,9 @@ Cibola High Levee Pond is a 4.9-acre cutoff oxbow used as off-channel habitat fo
 > This USGS Open-File Report (Mueller, 2007 annual report, 59 p.) documents the development phase of the [[Native Fish Sanctuary Project]], funded by the [[Bureau of Reclamation]] and run in partnership with the [[U.S. Fish and Wildlife Service]], [[Arizona Game and Fish Department]], [[National Park...
 > -- *[[NativeFishSanctuaryProjectsanc_PML1963]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[MaturationOfAnOffchannelHabita_2024]]
 - [[GoodNewsBonytailsAndRazorbackS_PML1961]]
@@ -43881,6 +43900,7 @@ Cibola High Levee Pond is a 4.9-acre cutoff oxbow used as off-channel habitat fo
 - [[PreliminaryHabitatAssessmentEs_PML2580]]
 - [[ManagementTowardRecoveryOfTheR_PML1884]]
 - [[NativeFishSanctuaryProjectsanc_PML1963]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Cibola Lake
 
@@ -67789,6 +67809,9 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 > **Taxonomic & Life-History Summary:** Three native catostomids form a hybridizing assemblage in the San Juan River: bluehead sucker (*Catostomus discobolus*), flannelmouth sucker (*C. latipinnis*), and razorback sucker (*Xyrauchen texanus*). Razorback sucker is endangered and was extirpated from...
 > -- *[[SemipermeableSpeciesBoundaries_2026]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[ANonLethalStomachPumpingTechni_14917]]
@@ -68607,6 +68630,7 @@ The Colorado River Basin is a large inland watershed system spanning the southwe
 - [[OntogenyAndTaxonomyOfHumpbackC_PML1989]]
 - [[TheColoradoRiverANaturalMenace_PML2607]]
 - [[SemipermeableSpeciesBoundaries_2026]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Colorado River Basin Coordinating Committee
 
@@ -69620,6 +69644,9 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 > This final report (Echelle, Oklahoma State University, 30 August 1998, to C. O. Minckley, U.S. Fish and Wildlife Service) uses mitochondrial DNA (mtDNA) variation to assess the genetic structure of the [[Desert Pupfish]] across its extant natural range. Samples came from 11 wild populations (226...
 > -- *[[GeneticVariationInDesertPupfis_PML0690]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AnalysisOfPenaeidShrimpLanding_16892]]
@@ -69670,6 +69697,7 @@ The Colorado River Delta refers to the ecologically complex wetland and estuarin
 - [[EndangeredAndThreatenedWildlif_PML0729]]
 - [[FishesOfTheLowermostColoradoRi_PML1863]]
 - [[GeneticVariationInDesertPupfis_PML0690]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Colorado River Delta And Upper Gulf Of California Restoration Project
 <!-- fm: auto_enriched: true -->
@@ -75642,6 +75670,9 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 > This document is a set of appendices from a study on the impact of non-native fishes on native fishes of the Lower Colorado River. It contains a species search-term list (Appendix I), a bibliography of reports documenting non-native fish predation on native Colorado River fishes (Appendix III), a...
 > -- *[[ResourceUseByNativeAndNonnativ_PML2063]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[ADataStorageAndRetrievalSystem_13641]]
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -76622,6 +76653,7 @@ The Colorado Squawfish (*Ptychocheilus lucius*) is a large cyprinid native to th
 - [[ResourceUseByNativeAndNonnativ_PML2065]]
 - [[HatcheryFeasibilityStudyForEnd_PML2552]]
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Colorado Squawfish Habitat Use
 

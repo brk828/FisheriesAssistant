@@ -23205,6 +23205,9 @@ AMOVA is a statistical method that partitions genetic variation into components 
 > This 1996 summary report, prepared by Paul C. Marsh of [[Arizona State University]] for the [[U.S. Bureau of Reclamation]] (Lower Colorado Regional Office), analyzes 153 night-time collections of larval [[Razorback Sucker]] made in [[Lake Mohave]] between 22 January and 31 March 1996. It tests...
 > -- *[[AnalysisOfLarvalRazorbackSucke_PML1480]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[BookReviewsStatisticalMethodsF_20731]]
 - [[GrowthAndFeedingHabitsOfTheWhi_20544]]
@@ -23237,6 +23240,7 @@ AMOVA is a statistical method that partitions genetic variation into components 
 - [[EffectsOfAgriculturalDrainageD_PML1584]]
 - [[DeterminingConditionsThatPromo_PML0881]]
 - [[AnalysisOfLarvalRazorbackSucke_PML1480]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Analysis Of Variance In Creel Census Data
 <!-- fm: auto_enriched: true -->

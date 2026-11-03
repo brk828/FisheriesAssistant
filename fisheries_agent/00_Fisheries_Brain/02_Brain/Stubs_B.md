@@ -13327,6 +13327,18 @@ Numerous beaver dams present at the time of the survey in the Pleasant River str
 ### Mentioned In
 - [[EvaluationOfHabitatResourcesFo_1995_10_11]]
 
+## Beaver Habitat Association
+
+### Summary
+The use of beaver dens and the backwater habitat they create by early juvenile bonytail and razorback sucker. The source says early juveniles of both species are strongly tied to shallow, vegetated, or dark cover in backwaters and beaver dens. It does not give further detail on beaver-created habitat.
+
+### Context
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
+### Mentioned In
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
+
 ## Beaver Lake
 
 ### Summary
@@ -18239,6 +18251,18 @@ A field surgical method for implanting tags or transmitters in fish, described b
 
 ### Mentioned In
 - [[RadiotelemetryOfColoradoSquawf_PML2536]]
+
+## Bidyanus bidyanus
+
+### Summary
+Bidyanus bidyanus, the silver perch, is a freshwater fish native to the river systems of eastern Australia. It appears in this source only in the list of related species in the metadata and is not discussed in the experimental findings. The source reports no results for it.
+
+### Context
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
+### Mentioned In
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Bielschowsky Technique
 
@@ -43013,6 +43037,9 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 > This U.S. Fish & Wildlife Service annual report for fiscal year 2003 documents the activities of the [[Dexter National Fish Hatchery and Technology Center]] in Dexter, New Mexico. The Center propagates and maintains imperiled native fishes of the American Southwest, conducts applied research in...
 > -- *[[DexterNationalFishHatcheryAndT_PML2758]]*
 
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -43622,6 +43649,7 @@ The bonytail (*Gila elegans*) is a large cyprinid fish native to the Colorado Ri
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
 - [[BackwaterInventoryReachesStepI_PML1347]]
 - [[DexterNationalFishHatcheryAndT_PML2758]]
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
 
 ## Bonytail Chub
 <!-- fm: auto_enriched: true -->

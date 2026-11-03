@@ -4428,6 +4428,18 @@ An earlier set of Kansas fish records from this area, used by Cross as supplemen
 ### Mentioned In
 - [[FishesOfCedarCreekAndTheSouthF_18031]]
 
+## Jennings Trap
+
+### Summary
+This is a prototype three-lobed (trefoil) light trap, 50 cm tall and 41 cm in diameter, with 6–8 mm slits and a 6-W lamp giving about 160 lux on high and 0.5 lux on low. For early juvenile Razorback Sucker, its capture rate was 8–19%, much lower than the 51% achieved by the Southern Concepts Trap at similar slit sizes. Like the Mueller Trap, its slits were sealed before retrieval.
+
+### Context
+> **Primary Sampling Purpose:** Controlled laboratory experiments testing whether floating, low-intensity quatrefoil-style [[Light Trap Capture Efficiency]] units can capture and retain larval and early juvenile [[Razorback Sucker]], [[Colorado Squawfish]], and [[Bonytail]]. The stated goals were to...
+> -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
+
+### Mentioned In
+- [[EffectivenessOfLightTrapsForCa_FAL0002]]
+
 ## Jensen
 
 ### Summary

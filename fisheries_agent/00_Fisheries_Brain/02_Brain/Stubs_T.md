@@ -25573,6 +25573,9 @@ Trammel nets are passive fishing gear consisting of multiple layers of netting w
 > This U.S. Geological Survey Open File Report (2008-1245), prepared with the [[Bureau of Reclamation]] under the Multi-Species Conservation Program, evaluates methods for monitoring the endangered [[Razorback Sucker]] (*Xyrauchen texanus*) in the riverine reach of the [[Colorado River]] near...
 > -- *[[TechniquesForMonitoringRazorba_PML1976]]*
 
+> **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
+> -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
+
 ### Mentioned In
 - [[LakeMohaveSampling_1987_10_01]]
 - [[ImperialPondsConservationAreaA_2020]]
@@ -25627,6 +25630,7 @@ Trammel nets are passive fishing gear consisting of multiple layers of netting w
 - [[RazorbackSuckerStudiesOnLakeMe_PML1075]]
 - [[LowerColoradoRiverNativeFishes_PML2075]]
 - [[TechniquesForMonitoringRazorba_PML1976]]
+- [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 
 ## Trans Mojave-Sierran Shear Zone
 
