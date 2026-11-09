@@ -3,10 +3,10 @@ title: "Resolution relative to the protection of the shortnose sucker and Lost R
 source_id: "PML0578"
 marsh_id: "PML0578"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Desert Fishes Council (1986). Resolution relative to the protection of the shortnose sucker and Lost River sucker. Desert Fishes Council, Proceedings volume 18. Marsh Library ID: PML0578."
 source_file: "DFC 18 1986. All Xyrauchen Mentions.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 ---
 species:

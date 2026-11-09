@@ -1945,9 +1945,6 @@ Habitat time series analysis is a method in IFIM that shows how much usable habi
 <!-- fm: auto_enriched: true -->
 
 ### Context
-> - **No data available**: The OCR text supplied contains no scientific findings, measurements, or conclusions. - **Recommendation**: Re-submit the OCR text with full content from document "11948" (including all pages, tables, and captions) to enable a complete and accurate structured extraction. -...
-> -- *[[BonytailsInUpperVerde_11948]]*
-
 > This draft report by [[BIO/WEST]] re-analyzes the [[Virgin River Database]], a centralized record of fish monitoring at multiple stations since 1976, to explain declines in native fishes. The primary focus is [[Woundfin]], a federally endangered minnow, with secondary attention to [[Virgin River...
 > -- *[[AnEvaluationOfChangesInNativeF_20471]]*
 
@@ -1955,7 +1952,6 @@ Habitat time series analysis is a method in IFIM that shows how much usable habi
 > -- *[[FactorsAffectingTheSuccessOfGi_PML0284]]*
 
 ### Mentioned In
-- [[BonytailsInUpperVerde_11948]]
 - [[AnEvaluationOfChangesInNativeF_20471]]
 - [[FactorsAffectingTheSuccessOfGi_PML0284]]
 

@@ -49,10 +49,10 @@ title: "Razorback Sucker Research and Southwestern Native Fish Conservation Acti
 source_id: "PML0572"
 marsh_id: "PML0572"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "DFC (1980). Razorback Sucker Research and Southwestern Native Fish Conservation Activities (1980). Desert Fishes Council, Twelfth Annual Symposium (compiled excerpts). Marsh Library ID: PML0572."
 source_file: "DFC 12 1980. All Xyrauchen Mentions.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # Razorback Sucker Research and Southwestern Native Fish Conservation Activities (1980)
 

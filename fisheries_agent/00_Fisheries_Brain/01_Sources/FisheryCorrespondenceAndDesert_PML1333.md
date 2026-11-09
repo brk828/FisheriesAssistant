@@ -10,10 +10,10 @@ title: "1965 Fishery Correspondence and Desert Stream Flood Effects on Fishes"
 source_id: "PML1333"
 marsh_id: "PML1333"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Lanse (1965). 1965 Fishery Correspondence and Desert Stream Flood Effects on Fishes. California Department of Fish and Game (Resources Agency). Marsh Library ID: PML1333."
 source_file: "Lanse R.I 1965. fish backwaters topock rotenone.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # 1965 Fishery Correspondence and Desert Stream Flood Effects on Fishes
 

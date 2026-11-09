@@ -3590,14 +3590,10 @@ A provincial trout hatchery at Sault Ste. Marie, Ontario, where the rainbow trou
 <!-- fm: auto_enriched: true -->
 
 ### Context
-> - **No data available**: The OCR text supplied contains no scientific findings, measurements, or conclusions. - **Recommendation**: Re-submit the OCR text with full content from document "11948" (including all pages, tables, and captions) to enable a complete and accurate structured extraction. -...
-> -- *[[BonytailsInUpperVerde_11948]]*
-
 > This document is a 28-page set of field datasheets from a spring electrofishing survey, labelled "Vernal CREP Electrofishing Survey." Each sheet logs one sampling effort on a river reach. The forms capture location (river, stratum, river mile [[River Mile Index]] start and stop), effort (date,...
 > -- *[[VernalCrfpElectrofishingSurvey_13058]]*
 
 ### Mentioned In
-- [[BonytailsInUpperVerde_11948]]
 - [[VernalCrfpElectrofishingSurvey_13058]]
 
 ## Target Strength

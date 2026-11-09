@@ -10,10 +10,10 @@ title: "Bonytail Chub Foods and Feeding Habits, Cibola High Levee Pond, lower Co
 source_id: "PML1580"
 marsh_id: "PML1580"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "P. C. Marsh, J. D. Schooley (2004). Bonytail Chub Foods and Feeding Habits, Cibola High Levee Pond, lower Colorado River, Arizona and California, 2003-2004. Marsh Library ID: PML1580."
 source_file: "Marsh P.C. Schooley J.D. 2004. Bonytail chub foods and feeding habits,cibola high levee pond LCR.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # Diet and Feeding Ecology of Bonytail Chub in Cibola High Levee Pond, Lower Colorado River
 

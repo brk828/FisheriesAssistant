@@ -10,10 +10,10 @@ title: "Razorback Sucker caught in Colorado River"
 source_id: "PML0827"
 marsh_id: "PML0827"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Flint (1969). Razorback Sucker caught in Colorado River. California Department of Fish and Game. Marsh Library ID: PML0827."
 source_file: "Flint 1969.  Memorandum; Razorback Sucker caught in Colorado River.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # Furybook Sucker Specimen Memorandum, California Department of Fish and Game (1969)
 

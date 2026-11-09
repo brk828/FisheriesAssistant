@@ -10,10 +10,10 @@ title: "Report from the Entomology Lab re. the Caddisfly Survey"
 source_id: "PML0834"
 marsh_id: "PML0834"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "B. Frank (1986). Report from the Entomology Lab re. the Caddisfly Survey. Marsh Library ID: PML0834."
 source_file: "Frank B. 1986. Report from the entomology lab the caddisfly suvey.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # Report from the Entomology Lab on the Caddisfly Survey
 

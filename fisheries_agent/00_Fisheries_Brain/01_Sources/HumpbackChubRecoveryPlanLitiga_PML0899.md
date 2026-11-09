@@ -10,10 +10,10 @@ title: "Humpback Chub Recovery Plan Litigation: Order on Summary Judgment (D. Ar
 source_id: "PML0899"
 marsh_id: "PML0899"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Grand (2006). Humpback Chub Recovery Plan Litigation: Order on Summary Judgment (D. Ariz. 2006). United States District Court for the District of Arizona. Marsh Library ID: PML0899."
 source_file: "Grand Canyon trust 2004. chub lawsuit.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # Humpback Chub Recovery Plan Litigation: Order on Summary Judgment (D. Ariz. 2006)
 

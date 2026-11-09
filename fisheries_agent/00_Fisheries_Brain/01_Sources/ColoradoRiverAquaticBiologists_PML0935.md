@@ -10,10 +10,10 @@ title: "Colorado River Aquatic Biologists Annual Meeting: Utah Lake Powell Repor
 source_id: "PML0935"
 marsh_id: "PML0935"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "W. Gustaveson, Frank Agyagos, Susan Broderick, Deb Callahan (2001). Colorado River Aquatic Biologists Annual Meeting: Utah Lake Powell Report, with Bubbling Ponds Hatchery Report for 1999 & 2000 and Razorback Sucker Survivability Mapping. Colorado River Aquatic Biologists Annual Meeting, Laughlin, NV; Arizona Game and Fish Department; U.S. Bureau of Reclamation. Marsh Library ID: PML0935."
 source_file: "Gustaveson W. et al. 2001. Utah lake powell report.pdf"
 text_extraction: "mixed"
+permission: "public domain"
 ---
 # Colorado River Aquatic Biologists Annual Meeting Compilation (Laughlin, NV, January 2001)
 

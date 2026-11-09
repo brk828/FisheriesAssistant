@@ -10,10 +10,10 @@ title: "Appendix II: Partial Listing of Species Codes used in data files for bio
 source_id: "PML1738"
 marsh_id: "PML1738"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "W. L. Minckley (1976). Appendix II: Partial Listing of Species Codes used in data files for biological entities of the lower Colorado River basin. Marsh Library ID: PML1738."
 source_file: "Minckley 1976.  Aquatic habitats and Fishes of the Lower Colorado River Appendix II; Species Codes.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # Partial Listing of Species Codes for Lower Colorado River Basin Biological Data Files
 

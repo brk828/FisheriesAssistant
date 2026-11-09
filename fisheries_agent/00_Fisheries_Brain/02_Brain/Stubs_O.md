@@ -1122,14 +1122,10 @@ The U.S. federal agency that sets workplace safety standards. The source cites i
 <!-- fm: auto_enriched: true -->
 
 ### Context
-> - **No data available**: The OCR text supplied contains no scientific findings, measurements, or conclusions. - **Recommendation**: Re-submit the OCR text with full content from document "11948" (including all pages, tables, and captions) to enable a complete and accurate structured extraction. -...
-> -- *[[BonytailsInUpperVerde_11948]]*
-
 > The supplied document is a six-page scan whose text layer is almost entirely unreadable. Most lines are fragments of stray characters, symbols and broken letters, with no complete words, sentences, numbers or species names that could be verified. No scientific content (taxa, sample sizes,...
 > -- *[[EffectsOfGrassCarpOnNativeFish_PML2831]]*
 
 ### Mentioned In
-- [[BonytailsInUpperVerde_11948]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
 - [[EffectsOfGrassCarpOnNativeFish_PML2831]]
 
@@ -1567,16 +1563,6 @@ A 17,300-acre area associated with Alamo Dam that the Army Corps of Engineers, t
 
 ### Mentioned In
 - [[Letter_16156]]
-
-## Ocr Quality Control
-<!-- fm: auto_enriched: true -->
-
-### Context
-> - The source text appears to be a **failed or low-quality OCR scan**, likely resulting from a corrupted image, non-text page (e.g., a figure, table, or scanned noise), or unsupported character encoding. - **No fish taxa, families, or scientific concepts** could be identified or cross-linked in th...
-> -- *[[FiledNotesRequest_13765]]*
-
-### Mentioned In
-- [[FiledNotesRequest_13765]]
 
 ## OCR Quality Control for Scientific Documents
 <!-- fm: auto_enriched: true -->

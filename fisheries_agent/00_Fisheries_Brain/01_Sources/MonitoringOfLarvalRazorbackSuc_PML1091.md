@@ -10,10 +10,10 @@ title: "Monitoring of Larval Razorback Sucker (Xyrauchen texanus) Growth in Lake
 source_id: "PML1091"
 marsh_id: "PML1091"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "M. J. Horn (1992). Monitoring of Larval Razorback Sucker (Xyrauchen texanus) Growth in Lake Mohave, Arizona, Spring 1992. Marsh Library ID: PML1091."
 source_file: "Horn M.J. 1992. Larval RBS growth.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # Monitoring of Larval Razorback Sucker Growth in Lake Mohave, Arizona, Spring 1992
 
