@@ -20,10 +20,16 @@ Observations about the current brain (affects the design):
 * Current `search_fisheries_brain` returns the first 3 substring matches (1,500 characters each), which is why answers just echo the brain.
 
 ## Open questions
-- [ ] Marsh Library: confirm the server folder for the public-domain PDFs (`MARSH_PDF_BASE` in `site/scripts/build-data.mjs`, now the Minckley `textpdf/` folder), then upload `MarshLibrary_PublicDomain/`.
+- [x] Marsh Library: public-domain PDFs go to the Minckley `textpdf/` folder (owner, 2026-10-29); uploaded 2026-11-02.
 - [ ] Citation style: title and year, `source_id`, or both?
 - [ ] Per-question cost ceiling (limits how many chunks go to the model).
 - [ ] Where plans are saved: `runs/` or the user's project folder; `.md` or `.yaml`.
+
+## Library quality (2026-11-09)
+- [x] Spot check of 100 Marsh public-domain calls: 10 changed to public domain (`marsh_ingest apply-overrides`).
+- [x] Removed Minckley 11948 and 13765 (`utils/remove_notes.py`); full text saved for 13684, 13699, 15630, 16820.
+- [ ] Re-OCR the 220 garbled documents (`start_reocr.bat`), then `reocr apply` and rebuild the improved notes (batch, estimate and consent first); remove notes still empty after that.
+- [ ] Ingest: detect garbled text layers and rotated pages in `pdf_ingest.extract_text` (reuse `reocr.read_page`), and OCR at 300 dpi.
 
 ## Phase B: Brain as a reference
 
