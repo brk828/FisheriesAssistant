@@ -31,6 +31,7 @@ Observations about the current brain (affects the design):
 - [x] Re-OCR (2026-11-09/10): 243 documents, 172 full texts improved by 0.10 or more and applied; the 41 still below 0.45 are non-English papers (score counts English words), not bad scans.
 - [x] Rebuilt the 172 improved notes (2026-11-10, $0.36); 32 placeholder titles replaced (list: `python -m utils.rebuild_notes status`).
 - [ ] Owner to check the 32 replaced titles (files renamed 2026-11-10 with `utils/rename_notes.py`).
+- [ ] Re-review Marsh permissions for the 154 re-OCR'd documents (`start_marsh_rereview.bat`), then upload newly public PDFs and remove any that lost public status from the server.
 - [ ] PML0698, PML0978-0981 still empty after re-OCR: look at the PDFs, then keep or remove.
 - [x] Minckley 17604 removed (mislabeled PDF).
 - [ ] Ingest: detect garbled text layers and rotated pages in `pdf_ingest.extract_text` (reuse `reocr.read_page`), and OCR at 300 dpi.
