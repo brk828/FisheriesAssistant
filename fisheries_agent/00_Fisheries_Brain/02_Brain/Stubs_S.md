@@ -6554,9 +6554,6 @@ Salt Cedar (Tamarix ramosissima) is an introduced riparian plant species that co
 > This December 1978 Final Environmental Impact Statement (EIS) from the United States Section of the [[International Boundary and Water Commission]] (IBWC) evaluates how to restore and preserve the approximately 198.8-mile reach of the [[Rio Grande]] that forms the international boundary between...
 > -- *[[FinalEnvironmentalStatementRio_PML1140]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 ### Mentioned In
 - [[StreamflowNeedsOfRareAndEndang_14141]]
 - [[SanPedroRiverWildlifeUpdateveg_21107]]
@@ -6604,7 +6601,6 @@ Salt Cedar (Tamarix ramosissima) is an introduced riparian plant species that co
 - [[WildernessManagementPlanForThe_PML0241]]
 - [[GilaBoxRiparianNationalConserv_PML2561]]
 - [[FinalEnvironmentalStatementRio_PML1140]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 
 ## Salt Creek
 <!-- fm: auto_enriched: true -->
@@ -9541,9 +9537,6 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > This document is the introduction, bibliography and distributional checklist of the freshwater fishes of California, compiled by Paul C. Marsh with a senior author who began locality records in 1914. It traces the scientific history from the first descriptions (Gibbons, 1854) through the Pacific...
 > -- *[[ADistributedListOfTheSpeciesOf_PML0697]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This is a February 1964 newspaper page (Monday, February 17, 1964) with a regional map and articles on the revised [[Pacific Southwest Water Plan]], released by [[Stewart L. Udall]], Secretary of the Interior. The plan's first phase, estimated at about $3.1 billion, centers on the [[Central Arizona...
 > -- *[[UdallPutsCentralArizonaProject_14402]]*
 
@@ -9551,13 +9544,16 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > -- *[[SocialBehaviorOfTheDesertPupfi_PML0175]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 > This short-note section of [[California Fish and Game]] contains four items: a reference list for a mollusk-related paper (no fish data), and three research notes on fishes. The notes report (1) the first recorded fish capture at Badwater, [[Death Valley]], a single [[Amargosa Pupfish]]; (2) the...
 > -- *[[NewLocalityRecordForThePupfish_PML0028]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
 > -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
+
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
 
 ### Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -9696,12 +9692,12 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[ARevisedCheckListOfTheFreshwat_PML2344]]
 - [[OccurrenceOfElopsAffinisInTheC_PML0867]]
 - [[ADistributedListOfTheSpeciesOf_PML0697]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[UdallPutsCentralArizonaProject_14402]]
 - [[SocialBehaviorOfTheDesertPupfi_PML0175]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 - [[NewLocalityRecordForThePupfish_PML0028]]
 - [[HartsRivulusRecordsInCaliforni_PML1209]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Salton Sea Basin
 <!-- fm: auto_enriched: true -->
@@ -9795,6 +9791,9 @@ The Salton Sea pupfish, Cyprinodon macularius californiensis, is a small desert 
 > This student species account reviews the [[Desert Pupfish]] (*[[Cyprinodon Macularius]]*), a small cyprinodontid fish of the [[Sonoran Desert]] region. The document covers morphology, historical and current distribution, environmental tolerances, territorial and spawning behavior, growth, diet,...
 > -- *[[SpeciesAccountCyprinodonMacula_PML2291]]*
 
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
 ### Mentioned In
 - [[EvaluationOfDesertPupfishRecov_19158]]
 - [[QuaternaryPaleoclimatologyOfTh_14159]]
@@ -9807,6 +9806,7 @@ The Salton Sea pupfish, Cyprinodon macularius californiensis, is a small desert 
 - [[AllozymicVariationInDesertPupf_19163]]
 - [[TheGrowthRateOfXyrauchenTexanu_PML0392]]
 - [[SpeciesAccountCyprinodonMacula_PML2291]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Salton Trough
 <!-- fm: auto_enriched: true -->
@@ -10707,6 +10707,18 @@ Samuel Harding is a name that appears only in this source's cross-links, and the
 
 ### Mentioned In
 - [[ThinskinnedCrustalExtensionCon_12511]]
+
+## Samuel Hubbard
+
+### Summary
+A collector who, according to this source, reported the desert pupfish as very abundant at Saratoga Springs, Death Valley. On June 1 he brought 14 specimens of the Desert Cyprinodont from that site to the author.
+
+### Context
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
+### Mentioned In
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Samuel N. Penney
 

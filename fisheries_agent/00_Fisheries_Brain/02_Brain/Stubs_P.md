@@ -5131,18 +5131,6 @@ A source cited for station-length guidance in stream fish sampling. It suggests 
 ### Mentioned In
 - [[PowerAnalysisForLongtermMonito_PML0029]]
 
-## Pallid Coon
-
-### Summary
-The pallid coon is a name used in this source for a predator of fish in the lower Colorado River; the raccoon-like animal is not further described here. The report considers it to have only a minor impact on the fishery alongside piscivorous birds, bullfrogs, and turtles.
-
-### Context
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
-### Mentioned In
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
-
 ## Pallid Shiner
 
 ### Summary
@@ -10390,9 +10378,6 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > This short field report, issued from the [[Fish Cultural Laboratory]], describes a survey of [[Channel Catfish]] in the [[Colorado River]] near [[Parker Dam]]. The document is a partially damaged scan, so several passages are incomplete. Its clearest findings are that adult channel catfish occur in...
 > -- *[[ScannedDocumentOnARiverStudySe_PML1017]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This is a February 1964 newspaper page (Monday, February 17, 1964) with a regional map and articles on the revised [[Pacific Southwest Water Plan]], released by [[Stewart L. Udall]], Secretary of the Interior. The plan's first phase, estimated at about $3.1 billion, centers on the [[Central Arizona...
 > -- *[[UdallPutsCentralArizonaProject_14402]]*
 
@@ -10490,7 +10475,6 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
 - [[EcologicalInvestigationsOfBack_PML1271]]
 - [[ScannedDocumentOnARiverStudySe_PML1017]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[UdallPutsCentralArizonaProject_14402]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[MelampidTaxonomyAsiaticClamRei_PML1145]]
@@ -30239,10 +30223,10 @@ A named structure in the Mexican boundary to Laguna Dam reach of the lower Color
 
 ### Context
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Pilot Plant Study
 

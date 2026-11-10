@@ -7959,9 +7959,6 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > **Taxonomic & Life-History Summary:** Bonytail (*Gila elegans*) and Razorback Sucker (*Xyrauchen texanus*) are two of four endangered mainstem fishes of the [[Colorado River Basin]], endemic to the basin and part of the Big River Fish Community. Bonytail are medium-sized (most often 30–40 cm;...
 > -- *[[EcologyOfBonytailAndRazorbackS_FAL0001]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This U.S. Fish and Wildlife Service environmental assessment (September 1993), prepared with the [[Arizona Game And Fish Department]] and the [[U.S. Bureau Of Reclamation]], evaluates the construction of growout ponds at the [[Cibola National Wildlife Refuge]] to rear endangered [[Razorback...
 > -- *[[ProposedEndangeredFishGrowoutF_PML1591]]*
 
@@ -7969,7 +7966,7 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 > -- *[[AProgramToMaintainTheEndangere_PML1929]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 > This 1994 U.S. Fish & Wildlife Service memorandum, written by Ronald D. Major, Director of the [[Pinetop Fish Health Center]] (FHC), answers a request from the Albuquerque regional office about [[Asian Tapeworm]] infection at Hassayampa (Palm Lake). The author reports that a single bath treatment...
 > -- *[[AsianTapewormControlAndSpreadI_PML1411]]*
@@ -8231,10 +8228,9 @@ Lake Havasu is a major Colorado River reservoir in the Lower Colorado River Basi
 - [[PotentialForIntroductionOfThre_PML0896]]
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
 - [[EcologyOfBonytailAndRazorbackS_FAL0001]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[AProgramToMaintainTheEndangere_PML1929]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 - [[AsianTapewormControlAndSpreadI_PML1411]]
 - [[RoutingAndTransmittalSlipBonyt_PML1896]]
 
@@ -11090,7 +11086,7 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 > -- *[[SuspendedSedimentInTheColorado_PML1098]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
 > -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
@@ -11504,7 +11500,7 @@ Lake Mead is a large reservoir on the Colorado River that functions as a critica
 - [[NativePostlarvalFishesOfTheLow_PML2914]]
 - [[APreliminaryReportOnFisheriesS_PML0531]]
 - [[SuspendedSedimentInTheColorado_PML1098]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 - [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Lake Mead Fault System
@@ -27167,9 +27163,6 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > This document is the introduction, bibliography and distributional checklist of the freshwater fishes of California, compiled by Paul C. Marsh with a senior author who began locality records in 1914. It traces the scientific history from the first descriptions (Gibbons, 1854) through the Pacific...
 > -- *[[ADistributedListOfTheSpeciesOf_PML0697]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This 1950 National Park Service visitor brochure describes [[Lake Mead]], the reservoir formed by [[Hoover Dam]] on the [[Colorado River]], and the surrounding [[Lake Mead National Recreational Area]] in Nevada and Arizona. The document is not a research study. It covers the lake's size and...
 > -- *[[LakeMeadNationalRecreationArea_11518]]*
 
@@ -27201,7 +27194,7 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 > -- *[[ExperimentalVegetationControlB_PML0413]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
 > -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
@@ -28483,7 +28476,6 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[MohaveTrulyAFishermansHeaven_PML1916]]
 - [[AProgramForMaintainingTheRazor_PML1953]]
 - [[ADistributedListOfTheSpeciesOf_PML0697]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[EffectsOfGrassCarpOnNativeFish_PML2831]]
@@ -28494,7 +28486,7 @@ Largemouth bass (*Micropterus salmoides*) is a warmwater centrarchid fish specie
 - [[APreliminaryReportOnFisheriesS_PML0531]]
 - [[LiquidChromatographicIdentific_PML2049]]
 - [[ExperimentalVegetationControlB_PML0413]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 - [[AStudyOfTheFishesOfUtah_PML2490]]
 - [[ListOfTheFishesOfCalifornia_PML1107]]
 - [[AmbientWaterQualityCriteriaFor_PML0687]]

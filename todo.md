@@ -34,7 +34,7 @@ Observations about the current brain (affects the design):
 - [x] PML0978-0981: handwritten notes (standard note, public domain). PML0698: JSTOR copy in place.
 - [ ] Rebuild PML0698's note from the JSTOR text (`start_rebuild_notes.bat --ids PML0698`).
 - [x] Marsh permission re-review done (2026-11-10, $0.05): 24 to public domain, PML0588 and PML2406 to not public domain.
-- [ ] Upload new public Marsh PDFs (`site_ftp folder`); decide on PML0588 (Dill 1944) and PML2406 (Snyder 1915), both already on the server.
+- [ ] Upload new public Marsh PDFs (`site_ftp folder`); PML2406 (Snyder 1915) public domain (owner); PML0588 is a duplicate of PML0589 (Dill 1944, The fishery of the lower Colorado River, public domain; the longer copy kept). PML0588.pdf on the server is now unlinked and can be deleted there.
 - [x] Minckley 17604 removed (mislabeled PDF).
 - [ ] Ingest: detect garbled text layers and rotated pages in `pdf_ingest.extract_text` (reuse `reocr.read_page`), and OCR at 300 dpi.
 

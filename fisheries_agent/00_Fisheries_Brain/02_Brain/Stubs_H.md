@@ -4133,6 +4133,18 @@ Cited as Hamman (1982), whose work showed that early life-stage survival of Hump
 - [[InterimReportOnStudiesOfGrowth_1985_12_03]]
 - [[BonytailGilaElegansGeneticsMan_PML2636]]
 
+## Hammer-head Shark
+
+### Summary
+A large shark in the family Sphyrnidae, named for its wide, flattened, hammer-shaped head. In this source, the author compared Atlantic and Pacific specimens of the hammer-head (Sphyrna zygaena) and found them essentially identical in all diagnostic characters, differing only in coloration, which he judged unimportant.
+
+### Context
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
+### Mentioned In
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
+
 ## Hammerhead Cove
 
 ### Summary
@@ -35024,9 +35036,6 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 > This 1963 report, prepared under a contract between the [[National Park Service]] and [[Colorado State University]], documents a summer-fall 1962 study of the fishes, habitat, water chemistry and invertebrates of the [[Green River]] in [[Dinosaur National Monument]]. Its main aim was to understand...
 > -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
 > -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
@@ -35040,7 +35049,7 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 > -- *[[ReaderLettersToTheEditorDegrad_PML0679]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 > This document contains two 1961 papers from *The Southwestern Naturalist*. The first, by [[Frederick R. Gehlbach]] and [[Robert Rush Miller]], reports three fish taxa recovered from Pueblo Indian ruins in northern New Mexico: [[Longnose Gar]], [[Bonytail]], and [[Blue Sucker]]. The authors argue...
 > -- *[[FishesFromArchaeologicalSitesI_PML0854]]*
@@ -35056,6 +35065,9 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 
 > A memorandum dated February 26, 1969, from the [[Department of Fish and Game]] (Blythe office) reports a single [[Humpback Sucker]] (*Xyrauchen texanus*) taken by angling from the [[Colorado River]] on February 22, 1969. The memo notes that the species was once common in the [[Lower Colorado...
 > -- *[[RazorbackSuckerCaughtInColorad_PML0827]]*
+
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
 
 ### Mentioned In
 - [[ArthropodsAndVertebratesOfAriz_16220]]
@@ -35135,17 +35147,17 @@ The Humpback Sucker (*Xyrauchen texanus*) is a large cyprinid species native to 
 - [[EcologicalInvestigationsOfBack_PML1271]]
 - [[EffectsOfRotenoneTreatmentOnTh_PML0221]]
 - [[EcologicalAndLimnologicalStudi_PML0942]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[ChangesInNativeFishDistributio_PML2466]]
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[DistributionOfFishesInTheDolor_PML1072]]
 - [[ReaderLettersToTheEditorDegrad_PML0679]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 - [[FishesFromArchaeologicalSitesI_PML0854]]
 - [[FishRemainsFromArchaeologicalS_PML1707]]
 - [[DistributionOfGreenRiverFishes_PML2789]]
 - [[HybridizationBetweenCatostomus_PML1116]]
 - [[RazorbackSuckerCaughtInColorad_PML0827]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Humpback Whale
 <!-- fm: auto_enriched: true -->

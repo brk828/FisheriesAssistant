@@ -14,7 +14,7 @@ source_citation: "J. O. Snyder (1915). Collection of fishes made by Dr. Edgar Me
 source_file: "Snyder. 1915. Collection of fishes by Edgar Mearns from rivers tributary to Gulf of CA.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
-permission: "not public domain"
+permission: "public domain"
 ---
 # Collection of fishes made by Dr. Edgar Mearns from rivers tributary to Gulf of California
 

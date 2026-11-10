@@ -50817,9 +50817,6 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > The source is an OCR scan of a page that is almost entirely unreadable. Only one fragment resembles a binomial species name, and it cannot be verified. The text contains no data on habitat, sampling, population, water chemistry, or ecology that could support a research summary.
 > -- *[[FishCollectionDataUpperSanPedr_1946_04_02]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This U.S. Fish and Wildlife Service environmental assessment (September 1993), prepared with the [[Arizona Game And Fish Department]] and the [[U.S. Bureau Of Reclamation]], evaluates the construction of growout ponds at the [[Cibola National Wildlife Refuge]] to rear endangered [[Razorback...
 > -- *[[ProposedEndangeredFishGrowoutF_PML1591]]*
 
@@ -51440,7 +51437,6 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
 - [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 - [[FishCollectionDataUpperSanPedr_1946_04_02]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
 - [[DistributionReproductionAndHab_PML2530]]
@@ -55706,9 +55702,6 @@ The Gulf of California is a biogeographically significant marine basin in northw
 > This short California Department of Fish and Game note contains two items. The first is a commentary on the [[Tiger Shark]] (*Galeocerdo arcticus*), a shark recorded in California only from a pair of jaws near San Diego. The second reports the first known occurrence of [[Elops Affinis]] (a...
 > -- *[[OccurrenceOfElopsAffinisInTheC_PML0867]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This Spanish-language proposal, prepared by the [[Centro Ecológico de Sonora]] (CES), Área de Ecología Acuática, outlines a conservation plan for the [[Desert Pupfish]] ([[Cyprinodon Macularius]]) in the Sonoyta and Colorado river basins of Sonora and Baja California, Mexico. The document is dated...
 > -- *[[PlanDeRecuperacinDelPupoDelDes_PML1244]]*
 
@@ -55825,7 +55818,6 @@ The Gulf of California is a biogeographically significant marine basin in northw
 - [[ColoradoRiverInstabilityAndBas_PML0897]]
 - [[KarGeochronologyAndGeologicHis_PML2339]]
 - [[OccurrenceOfElopsAffinisInTheC_PML0867]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[PlanDeRecuperacinDelPupoDelDes_PML1244]]
 
 ## Gulf Of California Harbor Porpoise

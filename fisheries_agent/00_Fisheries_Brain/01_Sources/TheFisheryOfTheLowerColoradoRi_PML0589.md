@@ -58,17 +58,17 @@ tags:
   - fisheries
   - colorado-river
   - freshwater-ecology
-title: "Fishing of the Lower Colorado River"
 source_id: "PML0589"
 marsh_id: "PML0589"
 library: "Marsh Library"
-permission: "public domain"
-source_citation: "Dill (1944). Fishing of the Lower Colorado River. California Department of Fish and Game (report series; issue number not legible in text). Marsh Library ID: PML0589."
 source_file: "Dill. 1944. Fishing of the Lower Colorado River.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+title: "The fishery of the lower Colorado River"
+source_citation: "W. A. Dill (1944). The fishery of the lower Colorado River. California Department of Fish and Game (report series; issue number not legible in text). Marsh Library ID: PML0589."
+permission: "public domain"
 ---
-# Fishing of the Lower Colorado River
+# The fishery of the lower Colorado River
 
 #ichthyology #marine-biology #Centrarchidae #Ictaluridae #Cyprinidae
 

@@ -8523,6 +8523,9 @@ Barton W. Evermann was an American ichthyologist and museum curator. The author 
 > This annotated publication reproduces the unpublished 1904 field manuscript of [[Frederic Morton Chamberlain]], an assistant with the U.S. Fish Commission (later the U.S. Bureau of Fisheries), who surveyed fishes and aquatic habitats across Arizona from 15 January to 28 April 1904, with about 30...
 > -- *[[FredericMortonChamberlainsSurv_PML1857]]*
 
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[TheFreshWaterFishFaunaOfCalifo_11392]]
@@ -8533,6 +8536,7 @@ Barton W. Evermann was an American ichthyologist and museum curator. The author 
 - [[NativePiscifaunaOfUtahLake_17541]]
 - [[FredericMortonChamberlainsSurv_PML1859]]
 - [[FredericMortonChamberlainsSurv_PML1857]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Bartow 1964 Evolutionary Scheme
 
@@ -21350,9 +21354,6 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 > This document is a set of six Arizona Game and Fish Department (AGFD) map sheets, dated January 2002, that overlay land ownership on streams with extant [[Roundtail Chub]] and [[Headwater Chub]] populations. Each stream is analysed within a 1.0 mile buffer zone. The maps cover the [[Bill Williams...
 > -- *[[RoundtailChubStatusSurveyOfThe_PML2797]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 ### Mentioned In
 - [[AlamoDamLandAndWaterProjectsSt_1966]]
 - [[CommentsAdvanceCopyOfThePrelim_1995_03_31]]
@@ -21412,7 +21413,6 @@ The Bill Williams River is a free-flowing desert river system in Arizona that se
 - [[RoundtailChubGilaRobustaStatus_PML2801]]
 - [[FishesOfArizona_PML1736]]
 - [[RoundtailChubStatusSurveyOfThe_PML2797]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 
 ## Bill Williams River Basin
 <!-- fm: auto_enriched: true -->
@@ -28192,9 +28192,6 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 > This document is a set of appendices from a study on the impact of non-native fishes on native fishes of the Lower Colorado River. It contains a species search-term list (Appendix I), a bibliography of reports documenting non-native fish predation on native Colorado River fishes (Appendix III), a...
 > -- *[[ResourceUseByNativeAndNonnativ_PML2063]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This 1950 National Park Service visitor brochure describes [[Lake Mead]], the reservoir formed by [[Hoover Dam]] on the [[Colorado River]], and the surrounding [[Lake Mead National Recreational Area]] in Nevada and Arizona. The document is not a research study. It covers the lake's size and...
 > -- *[[LakeMeadNationalRecreationArea_11518]]*
 
@@ -28457,7 +28454,6 @@ Black Crappie (*Pomoxis nigromaculatus*) is a centrarchid warmwater fish species
 - [[AnnotatedBibliographyOnTheEffe_PML2512]]
 - [[JobProgressReportLakeMead_PML2012]]
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
@@ -36655,9 +36651,6 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 > This 1995 paper by [[Gordon Mueller]] (National Biological Service) describes a field-level management program to sustain the [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], Arizona-Nevada, which holds the largest remaining population of the species. The reservoir population is...
 > -- *[[AProgramForMaintainingTheRazor_PML1953]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This 1950 National Park Service visitor brochure describes [[Lake Mead]], the reservoir formed by [[Hoover Dam]] on the [[Colorado River]], and the surrounding [[Lake Mead National Recreational Area]] in Nevada and Arizona. The document is not a research study. It covers the lake's size and...
 > -- *[[LakeMeadNationalRecreationArea_11518]]*
 
@@ -37350,7 +37343,6 @@ Bluegill (Lepomis macrochirus), commonly known as bream, is a small centrarchid 
 - [[GapeLimitedPiscivoresPlanktivo_PML0956]]
 - [[FisheriesSurveyOfTheGilaAndMim_PML1133]]
 - [[AProgramForMaintainingTheRazor_PML1953]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[EffectsOfGrassCarpOnNativeFish_PML2831]]
@@ -42089,15 +42081,15 @@ Bony tongue, Arapaima gigas, is a very large predatory freshwater fish of South 
 The bony-tail (Gila robusta) is a native cyprinid fish of the Colorado River system. According to this source it was once abundant in the lower river but had become scarce or absent by 1942-1944, part of the native fish decline that coincided with increases in exotic species.
 
 ### Context
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
+
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
 
 ### Mentioned In
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Bony-Tail Sucker
 
@@ -49031,18 +49023,6 @@ Boulder Canyon is a geographic feature that divides Lake Mead into two distinct 
 - [[FossilCreekNativeFishRestorati_PML2857]]
 - [[FishRemainsFromArchaeologicalS_PML1707]]
 
-## Boulder Canyon Project
-
-### Summary
-The federal dam and reservoir program on the Colorado River, including Boulder (Hoover) Dam, that regulated flow, trapped silt, and made the river clearer and more constant. According to this source, these changes transformed the lower river's fishery, favoring introduced sport fishes over native species.
-
-### Context
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
-### Mentioned In
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
-
 ## Boulder Canyon Project Act
 
 ### Summary
@@ -49292,9 +49272,6 @@ Boulder Creek is a tributary entering Cascade Reservoir from the east side in ce
 > This magazine feature by Bob Wedge profiles [[Lake Mohave]], a reservoir on the [[Colorado River]] that the author calls a "fisherman's melting pot." The article reports a seasonal run of [[Trout]] moving down the lake from the [[Willow Beach]] area, large catches of [[Bass]] and [[Catfish]], and a...
 > -- *[[TheFishermansMeltingPotLakeMoh_PML2849]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This preliminary report, prepared by R. S. Davis and P. R. Needham of the [[Fish and Wildlife Service]], summarizes a brief reconnaissance of [[Lake Mead]] and the [[Colorado River]] below [[Boulder Dam]] from August 25 to 27. The authors state that all conclusions are tentative and subject to...
 > -- *[[APreliminaryReportOnFisheriesS_PML0531]]*
 
@@ -49302,7 +49279,7 @@ Boulder Creek is a tributary entering Cascade Reservoir from the east side in ce
 > -- *[[SuspendedSedimentInTheColorado_PML1098]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[GilaCyphaARemarkableNewSpecies_15313]]
@@ -49321,10 +49298,9 @@ Boulder Creek is a tributary entering Cascade Reservoir from the east side in ce
 - [[WealthFromWater_PML2605]]
 - [[BasicSurveyOfLakeMohave_PML2808]]
 - [[TheFishermansMeltingPotLakeMoh_PML2849]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[APreliminaryReportOnFisheriesS_PML0531]]
 - [[SuspendedSedimentInTheColorado_PML1098]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Boulder Darter
 <!-- fm: auto_enriched: true -->
@@ -62688,7 +62664,7 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 > -- *[[ResourceInventoryForTheGilaRiv_PML1751]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
@@ -62754,7 +62730,7 @@ In aquatic ecology and fisheries sampling contexts, bullfrogs (*Lithobates cates
 - [[HistoricalOccurrenceOfNativeFi_PML2289]]
 - [[AThreatMoreRealThanImagined_PML2930]]
 - [[ResourceInventoryForTheGilaRiv_PML1751]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Bullfrog Bay
 
@@ -63252,7 +63228,7 @@ Bulrush (Scirpus sp.) is emergent vegetation that provides cover habitat utilize
 > -- *[[MonitoringStudyOfRazorbackSuck_PML1327]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[DistributionAndPoststockingSur_2016]]
@@ -63261,7 +63237,7 @@ Bulrush (Scirpus sp.) is emergent vegetation that provides cover habitat utilize
 - [[VegetationRecoveryFollowingLiv_14904]]
 - [[AnExperimentInRemovingCoarseFi_16850]]
 - [[MonitoringStudyOfRazorbackSuck_PML1327]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Bulrush and Three-Square
 

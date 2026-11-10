@@ -15759,18 +15759,6 @@ The Emory River is a Tennessee River tributary in Tennessee where the Spotfin Ch
 ### Mentioned In
 - [[DescriptionBiologyAndDistribut_PML1174]]
 
-## Emory's Soft-shelled Turtle
-
-### Summary
-Emory's soft-shelled turtle (Trionyx emoryi) is an aquatic turtle of the southwestern United States. This source considers it probably introduced to the lower Colorado, having spread from the upper Gila drainage, and reports a specimen collected at Headgate Rock Dam on May 19, 1942.
-
-### Context
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
-### Mentioned In
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
-
 ## Empetrichthyidae
 <!-- fm: auto_enriched: true -->
 

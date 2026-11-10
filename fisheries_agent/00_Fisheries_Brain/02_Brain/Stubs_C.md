@@ -4247,16 +4247,12 @@ The California Development Company was responsible for early irrigation developm
 > This 1950 paper by Leo Shapovalov and William A. Dill, of the Bureau of Fish Conservation, California Division of Fish and Game, presents a standardized checklist of the freshwater and anadromous fishes of [[California]]. It has two stated purposes: to provide a generally acceptable list of known...
 > -- *[[ACheckListOfTheFreshwaterAndAn_11395]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 ### Mentioned In
 - [[IntroductionOfKamloo_14422]]
 - [[SwimmingSpeedOfTheWesternSucke_14423]]
 - [[AKeyToSomeSouthernCaliforniaFi_15959]]
 - [[YieldOfHatcheryTroutInCaliforn_18106]]
 - [[ACheckListOfTheFreshwaterAndAn_11395]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 
 ## California Drought Water Bank
 
@@ -14804,6 +14800,9 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 > This paper reports a 1963–1966 survey of fish populations in the Green River below [[Flaming Gorge Dam]], Utah, which closed in November 1962. The study sampled 24,040 fish in 667 collections from the dam to Ouray, Utah, and compared the results with [[Pre-Impoundment Surveys]]. The authors found...
 > -- *[[DistributionOfGreenRiverFishes_PML2789]]*
 
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
 - [[AdditionOfMisgurnusAnguillicau_1969]]
@@ -15078,6 +15077,7 @@ Carp are freshwater cyprinid fishes that have been significant in both ecologica
 - [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
 - [[UtilizationOfAnInundatedFloodp_PML0919]]
 - [[DistributionOfGreenRiverFishes_PML2789]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Carp and Goldfish Hybridization
 
@@ -20820,7 +20820,7 @@ The Catskills are a region in New York State where streams support populations o
 > -- *[[TheLeveeRemovalProjectAssessme_PML0225]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[FishSamplingAtAsuResearchParkM_19416]]
@@ -20852,7 +20852,7 @@ The Catskills are a region in New York State where streams support populations o
 - [[HandbookOfIndianFoodsAndFibers_PML0651]]
 - [[AnEcologicalEvaluationOfGameFi_PML2280]]
 - [[TheLeveeRemovalProjectAssessme_PML0225]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Cattail Encroachment
 
@@ -29953,9 +29953,6 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > This short field report, issued from the [[Fish Cultural Laboratory]], describes a survey of [[Channel Catfish]] in the [[Colorado River]] near [[Parker Dam]]. The document is a partially damaged scan, so several passages are incomplete. Its clearest findings are that adult channel catfish occur in...
 > -- *[[ScannedDocumentOnARiverStudySe_PML1017]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This 1950 National Park Service visitor brochure describes [[Lake Mead]], the reservoir formed by [[Hoover Dam]] on the [[Colorado River]], and the surrounding [[Lake Mead National Recreational Area]] in Nevada and Arizona. The document is not a research study. It covers the lake's size and...
 > -- *[[LakeMeadNationalRecreationArea_11518]]*
 
@@ -29975,7 +29972,7 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 > -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
 > -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
@@ -30982,14 +30979,13 @@ Channel Catfish (*Ictalurus punctatus*) is a warmwater fish species widely used 
 - [[AProgramForMaintainingTheRazor_PML1953]]
 - [[EcologicalAndLimnologicalStudi_PML0942]]
 - [[ScannedDocumentOnARiverStudySe_PML1017]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
 - [[WaterQualityCriteriaForEuropea_PML0668]]
 - [[ColoradoRiverSquawfishPtychoch_PML1295]]
 - [[LiquidChromatographicIdentific_PML2049]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 - [[AStudyOfTheFishesOfUtah_PML2490]]
 - [[AnUnusuallyHighIncidenceOfSpin_PML1529]]
 - [[FoodOfChannelCatfish_PML1170]]
@@ -36381,10 +36377,10 @@ Co-author of this 1944 survey of the lower Colorado River fishery, written with 
 
 ### Context
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Chestnut Lamprey
 <!-- fm: auto_enriched: true -->
@@ -65179,9 +65175,6 @@ The Colorado River is a major southwestern North American river system that serv
 > This magazine feature by Bob Wedge profiles [[Lake Mohave]], a reservoir on the [[Colorado River]] that the author calls a "fisherman's melting pot." The article reports a seasonal run of [[Trout]] moving down the lake from the [[Willow Beach]] area, large catches of [[Bass]] and [[Catfish]], and a...
 > -- *[[TheFishermansMeltingPotLakeMoh_PML2849]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This 1950 National Park Service visitor brochure describes [[Lake Mead]], the reservoir formed by [[Hoover Dam]] on the [[Colorado River]], and the surrounding [[Lake Mead National Recreational Area]] in Nevada and Arizona. The document is not a research study. It covers the lake's size and...
 > -- *[[LakeMeadNationalRecreationArea_11518]]*
 
@@ -65216,7 +65209,7 @@ The Colorado River is a major southwestern North American river system that serv
 > -- *[[SpawningEcologyOfFlannelmouthS_PML2868]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 > This document is the front matter and checklist of Occasional Papers of the [[California Academy of Sciences]] No. 133 (1979), by Carl L. Hubbs, W. I. Follett and Lillian J. Dempster. It enumerates all marine, euryhaline and freshwater fishes reliably reported as native to California, or introduced...
 > -- *[[ListOfTheFishesOfCalifornia_PML1107]]*
@@ -65247,6 +65240,9 @@ The Colorado River is a major southwestern North American river system that serv
 
 > A memorandum dated February 26, 1969, from the [[Department of Fish and Game]] (Blythe office) reports a single [[Humpback Sucker]] (*Xyrauchen texanus*) taken by angling from the [[Colorado River]] on February 22, 1969. The memo notes that the species was once common in the [[Lower Colorado...
 > -- *[[RazorbackSuckerCaughtInColorad_PML0827]]*
+
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
 
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1962_10_31]]
@@ -66734,7 +66730,6 @@ The Colorado River is a major southwestern North American river system that serv
 - [[ScannedAquaticSurveyPagesWithL_PML2869]]
 - [[ScannedDocumentOnARiverStudySe_PML1017]]
 - [[TheFishermansMeltingPotLakeMoh_PML2849]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[FishCatchWeightReceiptCorrespo_PML1693]]
@@ -66746,7 +66741,7 @@ The Colorado River is a major southwestern North American river system that serv
 - [[APreliminaryReportOnFisheriesS_PML0531]]
 - [[SuspendedSedimentInTheColorado_PML1098]]
 - [[SpawningEcologyOfFlannelmouthS_PML2868]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 - [[ListOfTheFishesOfCalifornia_PML1107]]
 - [[FishRemainsFromArchaeologicalS_PML1707]]
 - [[HartsRivulusRecordsInCaliforni_PML1209]]
@@ -66757,6 +66752,7 @@ The Colorado River is a major southwestern North American river system that serv
 - [[RoutingAndTransmittalSlipBonyt_PML1896]]
 - [[WesternWaterBulletinFlowOfTheC_PML0922]]
 - [[RazorbackSuckerCaughtInColorad_PML0827]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Colorado River (Texas)
 <!-- fm: auto_enriched: true -->
@@ -66850,9 +66846,6 @@ The Colorado River Aqueduct (1941) is a 389-km aqueduct that moved water to the 
 > This U.S. Bureau of Reclamation report (Roline and Lieberman, August 1985) is the Phase I baseline limnological and water-quality dataset for [[Lake Havasu]], a [[Colorado River]] reservoir formed by [[Parker Dam]]. Sampling ran from January 1984 through June 1985, at six stations, before and...
 > -- *[[LimnologyAndWaterQualityOfLowe_PML2258]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This is a February 1964 newspaper page (Monday, February 17, 1964) with a regional map and articles on the revised [[Pacific Southwest Water Plan]], released by [[Stewart L. Udall]], Secretary of the Interior. The plan's first phase, estimated at about $3.1 billion, centers on the [[Central Arizona...
 > -- *[[UdallPutsCentralArizonaProject_14402]]*
 
@@ -66860,15 +66853,14 @@ The Colorado River Aqueduct (1941) is a 389-km aqueduct that moved water to the 
 > -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[InterbasinWaterTransferEcologi_PML1655]]
 - [[LimnologyAndWaterQualityOfLowe_PML2258]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[UdallPutsCentralArizonaProject_14402]]
 - [[InterbasinTransfersAndAquaticS_PML2455]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Colorado River Arm
 
@@ -73377,9 +73369,6 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 > This 1963 report, prepared under a contract between the [[National Park Service]] and [[Colorado State University]], documents a summer-fall 1962 study of the fishes, habitat, water chemistry and invertebrates of the [[Green River]] in [[Dinosaur National Monument]]. Its main aim was to understand...
 > -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This excerpt comes from the proceedings of the 1993 *Environmental Enhancement of Water Projects* seminar, held in Sacramento, California, and sponsored by the [[U.S. Committee on Irrigation and Drainage]] with co-sponsorship from the [[Bureau of Reclamation]]. It contains two items. The first is a...
 > -- *[[AProgramToMaintainTheEndangere_PML1929]]*
 
@@ -73387,7 +73376,7 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 > -- *[[ColoradoRiverSquawfishPtychoch_PML1295]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 > This 1955 paper by [[Robert Rush Miller]] identifies fish remains recovered from archaeological sites in Arizona, principally [[Catclaw Cave]] on the lower [[Colorado River]]. The bones show that Indigenous peoples relied on large native fishes, namely the [[Humpback Sucker]] and the [[Colorado...
 > -- *[[FishRemainsFromArchaeologicalS_PML1707]]*
@@ -73481,10 +73470,9 @@ The Colorado River Squawfish (*Ptychocheips lucius*) is an endangered native cyp
 - [[FishesOfArizona_PML1736]]
 - [[EffectsOfRotenoneTreatmentOnTh_PML0221]]
 - [[EcologicalAndLimnologicalStudi_PML0942]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[AProgramToMaintainTheEndangere_PML1929]]
 - [[ColoradoRiverSquawfishPtychoch_PML1295]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 - [[FishRemainsFromArchaeologicalS_PML1707]]
 
 ## Colorado River Storage Act
@@ -73957,8 +73945,12 @@ The Colorado River Trout (*Salmo pleuriticus*) is a native Utah salmonid listed 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
 > -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
 ### Mentioned In
 - [[AStudyOfTheFishesOfUtah_PML2490]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Colorado River Upper Basin Recovery Program
 <!-- fm: auto_enriched: true -->
@@ -82745,11 +82737,11 @@ A small native galaxiid fish of southeastern Australia. It occurred at 22 statio
 The common mullet (Mugil cephalus) is a schooling fish of the family Mugilidae. This source reports it as abundant in the lower river and Salton Sea, recognized as a potential sport fish, with Salton Sea fish averaging 5.6 lbs in October 1942 samples and commercial fishing reestablished there in May 1942.
 
 ### Context
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
 
 ### Mentioned In
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Common Name Stability
 
@@ -94397,7 +94389,7 @@ A plant-based feed made from cottonseed meal, used in this source as a low-cost 
 > -- *[[TheSocioeconomicImpactsOfTheLa_PML0051]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[CommentsOnTheProposedDevelopme_1975_04_01]]
@@ -94419,7 +94411,7 @@ A plant-based feed made from cottonseed meal, used in this source as a low-cost 
 - [[FinalRuleDeterminingEndangered_PML0769]]
 - [[RiparianHabitatAndInstreamFlow_PML1654]]
 - [[TheSocioeconomicImpactsOfTheLa_PML0051]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Cottonwood and Willow
 

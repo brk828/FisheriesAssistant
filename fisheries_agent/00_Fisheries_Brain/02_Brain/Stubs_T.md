@@ -6888,18 +6888,6 @@ Ten Pounder (Elops affinis) is a marine fish species. This 1951 report documents
 - [[FisheriesReportOfTheLowerColor_16429]]
 - [[AnElopidFishFromTheCodellSands_15279]]
 
-## Ten-Pounder
-
-### Summary
-The ten-pounder (Elops affinis), a member of the family Elopidae, is a large marine-related fish that entered the lower Colorado River system. This source reports it was first recorded from the river in 1941, is scarce but established in the Salton Sea, and was declared a California game fish in 1943.
-
-### Context
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
-### Mentioned In
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
-
 ## Ten-Spined Stickleback
 
 ### Summary
@@ -30671,7 +30659,7 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[AMethodOfMarkingFishEggsAndLar_1967_04_01]]
@@ -30749,7 +30737,7 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[LiveWildlifeRules_PML0114]]
 - [[TheFishermansMeltingPotLakeMoh_PML2849]]
 - [[ChangesInNativeFishDistributio_PML2466]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Trout and Salmon
 

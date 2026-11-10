@@ -7189,10 +7189,10 @@ The sampling approach used for the survey, combining physical and biological sam
 
 ### Context
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Field Surveys
 
@@ -7397,6 +7397,18 @@ Fig Spring (site 246) is one of the sites the report recommends not restocking. 
 
 ### Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
+
+## Figtree John Spring
+
+### Summary
+A small desert oasis about 7 miles southwest of Mecca, California, near the north end of the Salton Sea. The author describes it as thickly grown with cattails and algae, with water only a few inches deep that reached roughly 90–100°F on hot days. It was a site where the Desert Cyprinodont was found.
+
+### Context
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
+### Mentioned In
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Figtree Springs
 
@@ -27947,11 +27959,11 @@ Forage fishes are species, such as minnows and suckers, that serve as food for l
 > -- *[[WyomingFishes_PML2369]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[WyomingFishes_PML2369]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Forage Plants
 
@@ -30539,10 +30551,10 @@ Investigators whose estimates the source cites for the river's sediment load. Th
 
 ### Context
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Fortieth Parallel Survey
 

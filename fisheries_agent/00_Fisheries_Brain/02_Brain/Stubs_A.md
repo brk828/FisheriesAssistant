@@ -12717,7 +12717,7 @@ Alkyl benzene sulphonates (ABS) are synthetic anionic detergents. This study tes
 > -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
 - [[InvestigationOfTheUnlinedCoach_17022]]
@@ -12737,7 +12737,7 @@ Alkyl benzene sulphonates (ABS) are synthetic anionic detergents. This study tes
 - [[FeasibilityOfDevelopingAndMain_PML2922]]
 - [[UdallPutsCentralArizonaProject_14402]]
 - [[InterbasinTransfersAndAquaticS_PML2455]]
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## All-American Canal Desilting Works
 

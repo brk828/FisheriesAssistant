@@ -4325,9 +4325,6 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This September 2007 report from the [[Bureau of Reclamation]] (Lower Colorado Region) documents Step 1 of the five-step backwater screening process under the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP). Reclamation inventoried 768 backwaters in Reaches 5 and 6, screened...
 > -- *[[BackwaterInventoryReachesStepI_PML1347]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This is the thirty-third annual compilation (1992 data year) of stream discharge, stage, water-quality, climatological and irrigation data prepared jointly by the United States and Mexican Sections of the [[International Boundary And Water Commission]] (IBWC). It covers the [[Colorado River]] below...
 > -- *[[WesternWaterBulletinFlowOfTheC_PML0922]]*
 
@@ -4389,7 +4386,6 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[DescriptionAndAssessmentOfOper_PML2576]]
 - [[EcologicalInvestigationsOfBack_PML1271]]
 - [[BackwaterInventoryReachesStepI_PML1347]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[WesternWaterBulletinFlowOfTheC_PML0922]]
 
 ## Imperial Dam Impoundment
@@ -4985,6 +4981,9 @@ The Imperial Valley is an agricultural region in California that was developed t
 > This California Department of Fish and Game administrative report examines pesticide contamination of fish and other aquatic organisms in agricultural drains of the [[Imperial Valley]], [[Coachella Valley]], and [[Palo Verde Valley]]. The study combined two approaches: residue analysis of organisms...
 > -- *[[AStudyOfPesticideResidueOccurr_PML1043]]*
 
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
 ### Mentioned In
 - [[DeltaOfTheColoradoRiverpastAnd_12132]]
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
@@ -4999,6 +4998,7 @@ The Imperial Valley is an agricultural region in California that was developed t
 - [[FisheryInventoryOfTheCoachella_PML1877]]
 - [[ChronologyLowerColoradoRiver_PML2567]]
 - [[AStudyOfPesticideResidueOccurr_PML1043]]
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
 
 ## Imperial Valley Warmwater Fish Hatchery
 

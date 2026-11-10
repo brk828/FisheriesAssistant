@@ -12874,6 +12874,18 @@ The Desert Culture is Taylor's name for a widespread arid-America archaeological
 ### Mentioned In
 - [[SomeImplicationsOfTheCarbonDat_13511]]
 
+## Desert Cyprinodont
+
+### Summary
+A small desert pupfish (Cyprinodon maculatus) of the family Cyprinodontidae that lives in isolated springs and water holes in southern California. The source reports it at Figtree John Spring and, through Samuel Hubbard, at Saratoga Springs in Death Valley, where it was very abundant; the author kept two live specimens that were brought to San Francisco, one of which died.
+
+### Context
+> This document is a 1916 issue of *Copeia* containing two short notes. The main note, by [[Barton Warren Evermann]], surveys the fishes of the [[Salton Sea]] in southern California, a lake formed by a flood breach that let [[Colorado River]] water enter the [[Salton Sink]]. It lists seven species...
+> -- *[[UnreadableOcrScanNoRecoverable_PML0698]]*
+
+### Mentioned In
+- [[UnreadableOcrScanNoRecoverable_PML0698]]
+
 ## Desert Dace
 <!-- fm: auto_enriched: true -->
 
@@ -14190,10 +14202,10 @@ A snake listed among the piscivorous animals that may prey on fish in the lower 
 
 ### Context
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
-> -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0589]]*
 
 ### Mentioned In
-- [[FishingOfTheLowerColoradoRiver_PML0589]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0589]]
 
 ## Desert Goby
 <!-- fm: auto_enriched: true -->

@@ -15153,9 +15153,6 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 > This paper, published in the Bulletin of the [[Southern California Academy of Sciences]] (vol. 92, no. 3, December 1993), reviews the status and distribution of the native and introduced freshwater fishes of southern California, from the Carmel River to the Mexican border, plus the California...
 > -- *[[TheStatusAndDistributionOfTheF_PML2487]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This document is a multi-article excerpt from *The Southwestern Naturalist* (Vol. 9, No. 4, December 1964). It is mostly a fish paper. A short opening fragment and a literature list come from an earlier paper on the thermal and oxygen tolerance of [[Crenichthys Baileyi]]. The main article, by Hubbs...
 > -- *[[AdditionalIntroductionsOfTropi_PML1127]]*
 
@@ -15286,7 +15283,6 @@ The Western Mosquitofish (Gambusia affinis) is a small, highly adaptable livebea
 - [[EcologicalStudiesOfFloraAndFau_PML2920]]
 - [[EffectivenessOfFishBarriersAnd_PML0375]]
 - [[TheStatusAndDistributionOfTheF_PML2487]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[AdditionalIntroductionsOfTropi_PML1127]]
 
 ## Western Mudminnow
@@ -18234,9 +18230,6 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 > This U.S. Geological Survey Open-File Report (multiagency: USGS, Bureau of Reclamation, Utah Division of Wildlife Resources, National Park Service) documents fish communities sampled in the reservoir/river interface zones of the [[Colorado River]] and [[San Juan River]] arms of [[Lake Powell]]...
 > -- *[[ExaminationOfNativeFishRecruit_PML1983]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 > This study by Jearld and Brown (1971) describes the diet of [[Channel Catfish]] (*Ictalurus punctatus*) in [[Lake Carl Blackwell]], a turbid reservoir in Oklahoma. The authors examined stomachs from 196 fish collected between October 1967 and August 1969, 128 of which contained food. Catfish under...
 > -- *[[FoodOfChannelCatfish_PML1170]]*
 
@@ -18375,7 +18368,6 @@ White Crappie (*Pomoxis annularis*) is a freshwater sunfish species in the famil
 - [[ANewCrawfishOfTheGenusOrconect_PML1203]]
 - [[AListOfFishesOfOklahoma_PML1920]]
 - [[ExaminationOfNativeFishRecruit_PML1983]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[FoodOfChannelCatfish_PML1170]]
 - [[CalculatingGrowthOfChannelCatf_PML2399]]
 

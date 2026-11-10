@@ -22903,9 +22903,6 @@ The Metropolitan Water District of Southern California is one of the key partici
 > This 2001 socio-economic study by Bernard E. Anderson, Ph.D., evaluates the [[Lake Havasu Fisheries Improvement Program]], an eight-year artificial habitat and angler-access partnership on [[Lake Havasu]] in the lower [[Colorado River]]. The study uses a 2001 angler survey (n = 406 usable...
 > -- *[[TheSocioeconomicImpactsOfTheLa_PML0051]]*
 
-> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
-> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
-
 ### Mentioned In
 - [[RequestForProposalspresubmitta_18342]]
 - [[LowerColoradoRiverMultispecies_11766]]
@@ -22916,7 +22913,6 @@ The Metropolitan Water District of Southern California is one of the key partici
 - [[SupplementalNoticeOfIntentToPr_PML0776]]
 - [[MovementsOfSubadultRazorbackSu_PML1550]]
 - [[TheSocioeconomicImpactsOfTheLa_PML0051]]
-- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 
 ## Mettler HS1 Balance
 
