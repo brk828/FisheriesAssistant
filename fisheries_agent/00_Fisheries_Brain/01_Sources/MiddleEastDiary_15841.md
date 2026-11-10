@@ -5,40 +5,45 @@ family: N/A
 habitat: N/A
 ocean_basin: N/A
 location: N/A
-tags: [ichthyology, marine-biology, unidentified-taxon]
+tags: [ichthyology, marine-biology, no-taxon-identified]
 title: "Middle East Diary"
 source_id: "15841"
 minckley_id: "15841"
 source_citation: "W. Minckley (1996). Middle East Diary. Minckley Library ID: 15841."
 source_file: "15841.pdf"
-text_extraction: "ocr"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Illegible Handwritten Notes: No Extractable Aquatic Data
+# Middle East Diary
 
-#ichthyology #marine-biology #unidentified-taxon
+#ichthyology #marine-biology #no-taxon-identified
 
 ## Executive Summary
 
-The source is a set of seven scanned handwritten pages. The OCR output is too degraded to recover readable sentences, so this note cannot confirm any species, habitat, sampling method, or measurement. The document is not usable as a research record in its current form.
+The source is a seven-page scan whose text is almost entirely unreadable after OCR. Fragments of handwriting and print are visible, but no complete sentence, species name, sample size, location, or quantitative result can be reliably recovered. The document therefore contains no verifiable aquatic ecology, ichthyology, or water-science content. This note records what can and cannot be extracted so that the file is not mistaken for a data source.
 
 ## Background & Description
 
-The document appears to be informal handwritten material, possibly notes or correspondence, with no legible title, author, date, or institutional header. Most lines are fragmentary and contain partial letters or stray marks. Page 1 begins with a fragment resembling a heading but cannot be read reliably. The overall layout (short lines, margins, and page breaks) suggests a personal or working document rather than a formal report.
+- **Format:** Seven pages, apparently handwritten or low-quality printed material, processed by OCR.
+- **Document type:** Not determinable. The layout and fragments are consistent with correspondence, notes, or a form, but no heading, author, date, or institution is legible.
+- **Legible fragments:** Scattered tokens such as "Middle East"-like wording on page 2 and "Oman" on page 7 appear, but both are too corrupted to treat as confirmed geographic references. Other tokens (for example "Mall," "Colanues," "Thesiger") cannot be matched to any identifiable species, site, or person with confidence.
+- **Figures and tables:** None are identifiable as such. No tables, specimen lists, or figure captions could be recovered.
 
 ## Ecological & Environmental Context
 
-No ecological content can be identified with confidence. The OCR output contains no legible references to:
+No habitat, water body, depth, salinity, temperature, or community information is legible. Because the text cannot be confirmed, the following fields are recorded as N/A rather than inferred:
 
-- Fish or other aquatic organisms (species, families, or life-history traits)
-- Water bodies, habitats, or ocean basins
-- Water chemistry, plankton, invertebrates, or habitat measurements
-- Sampling sites, dates, or sample sizes
+- Species, common name, and family
+- Habitat and ocean basin
+- Sampling location and dates
+- Environmental parameters (chemistry, temperature, habitat condition)
+- Invertebrate, plankton, or other non-fish taxa
 
-One fragment on page 2 may read "Middle East" and another on page 7 may read "Oman." These are uncertain OCR readings and should not be treated as confirmed location data without checking the original scan.
+Any geographic reading of the fragments (such as a possible Middle Eastern or Omani locality) is speculative and should not be used for spatial analysis without checking the original scan.
 
 ## Key Findings
 
-- **No species, habitat, or ecosystem data are legible.** The scan cannot be used to extract taxonomic, ecological, or quantitative information.
-- **Possible location fragments:** The terms "Middle East" and "Oman" may appear but are not confirmed.
-- **Document type is unclear:** The content cannot be classified as a proposal, budget, correspondence, or research note with any certainty.
-- **Recommended next step:** Re-scan the original pages at higher resolution, or obtain a typed transcript from the author, before any structured data can be extracted.
+1. **No reliable scientific data could be extracted.** No species, count, measurement, statistic, or method is legible.
+2. **No plans, conclusions, or recommendations could be identified.** The main points the document might contain are unrecoverable.
+3. **Possible geographic fragments are unverified.** Tokens resembling place names appear but cannot be confirmed.
+4. **Recommended next step:** Re-scan the original pages at higher resolution, or obtain a typed transcript or the author's original, before this file is used as an evidence source. Once readable, a fuller note can be produced with the standard sections.

@@ -1,11 +1,11 @@
 ---
-species: N/A
-common_name: N/A
+species: "Epicrates inornatus; Epicrates subflavus; Ozotoceros bezoarticus"
+common_name: "Puerto Rican Boa; Jamaican Boa; Pampas Deer"
 family: N/A
-habitat: Freshwater and aquatic ecosystems (general); desert lands in California and Nevada
+habitat: "Freshwater and aquatic ecosystems (policy scope); desert public lands (Colorado Desert); mining and forest lands"
 ocean_basin: N/A
-location: United States (California, Nevada, Oregon, Washington)
-tags: [federal-notices, endangered-species-act, aquatic-conservation, land-management, fisheries-policy, public-comment]
+location: "United States (Colorado Desert, CA; Harney County, OR; Klickitat County, WA; Nevada); Canada (Granby Zoo); Argentina (Campos de Tuyu); South Africa (De Wildt Cheetah Centre)"
+tags: [ichthyology, marine-biology, recreational-fisheries, endangered-species, federal-register, public-lands, policy]
 title: "Draft Policy for Conserving Species Not Listed or Proposed for Listing Under the Endangered Species Act While Providing and Enhancing Recreational Opportunities; Request for Public Comment"
 source_id: "PML0767"
 marsh_id: "PML0767"
@@ -13,54 +13,67 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "U.S. Fish and Wildlife Service, National Marine Fisheries Service (1995). Draft Policy for Conserving Species Not Listed or Proposed for Listing Under the Endangered Species Act While Providing and Enhancing Recreational Opportunities; Request for Public Comment. Federal Register, No. 239 (Wednesday, December 13, 1995). Marsh Library ID: PML0767."
 source_file: "Federal register 1995. Draft policy for conserving list SPP request for comment.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Federal Register Notices (December 1995): Desert Land Planning, Aquatic Species Policy, and Land Conveyance
+# Draft Policy for Conserving Species Not Listed or Proposed for Listing Under the Endangered Species Act While Providing and Enhancing Recreational Opportunities; Request for Public Comment
 
-#ichthyology #marine-biology #endangered-fishes
+#ichthyology #marine-biology #recreational-fisheries
 
 ## Executive Summary
 
-This document is a compilation of Federal Register notices from late November to December 1995, reproduced from a low-quality OCR scan. Several passages are garbled, so figures and dates are reported as they appear and should be verified against the original. The notices cover three areas:
+This document is a compilation of U.S. federal notices from the *Federal Register* (Volume 60, No. 239, December 13, 1995). It is not a research paper. Its main items are:
 
-1. **Desert land planning.** The [[Bureau of Land Management]] (BLM) announces public workshops for the [[California Desert Conservation Area]] plan and an [[Environmental Impact Statement]] for a gold mine expansion in Nevada.
-2. **Federal aquatic species policy.** The [[U.S. Fish and Wildlife Service]] and the [[National Marine Fisheries Service]] propose a draft policy under the [[Endangered Species Act]] (ESA) for conserving species that are proposed for listing or candidates for listing, while also providing for recreational fisheries.
-3. **Land conveyance.** BLM transfers public land out of federal ownership in Oregon and Washington, opening about 1,280 acres to surface entry.
+- Public workshops on the draft [[Northern and Eastern Colorado Desert Coordinated Management Plan]], run by the [[Bureau Of Land Management]] in January 1996, and an environmental impact notice for the expansion of the [[Lone Tree Mine]] gold operation.
+- A conveyance order transferring public lands in Oregon and Washington out of federal ownership and opening 1,280 acres of reconveyed land to surface entry.
+- A joint draft policy from the [[Fish And Wildlife Service]] and the [[National Marine Fisheries Service]] on conserving species listed under the [[Endangered Species Act]] while providing and enhancing [[Recreational Fisheries]] opportunities. Comments were due February 12, 1996.
+- Notices of captive-breeding permit applications for three animal species.
+- A U.S. [[International Trade Commission]] notice of a limited exclusion order on imported products containing microsphere adhesives.
 
-The fish-related content is mainly policy background: the status of threatened and endangered fishes, the economic value of recreational angling, and the need for cooperative, ecosystem-based management.
+The aquatic-ecology content is concentrated in the draft fisheries policy, which supplies the main national statistics on imperiled aquatic species and the economic value of angling.
 
 ## Background & Description
 
-**Desert planning notice (Nevada and California).** The BLM Nevada and California Desert District offices published notices dated November 29–30, 1995. The notices describe an environmental impact statement examining possible effects of continued gold mining at a Nevada mine. Alternatives analyzed include a proposed action and a no-action alternative. The proposed expansion would involve a new pit, ore processing facilities, and overburden disposal. The notices also cover a [[California Desert Conservation Area]] management plan and the associated public workshops.
+**Colorado Desert management plan.** The Bureau of Land Management, with cooperating agencies including the National Park Service, Fish and Wildlife Service, National Biological Service, Marine Corps Air Station Yuma and the California Department of Fish and Game, announced seven public workshops (7–10 p.m. each) between January 8 and January 22, 1996, in Riverside, Long Beach, Twentynine Palms, Palm Springs, Needles, Blythe and El Centro, California, plus one at Cleveland National Forest. The meetings were to update the public on the draft plan's scope, issues, and information collected on wildlife habitats and vehicle routes. The contact was the California Desert District External Affairs Office.
 
-- **Lead agency:** BLM.
-- **Cooperating agencies:** [[National Park Service]], U.S. Fish and Wildlife Service, National Biological Service, Marine Corps Air Station Yuma, and the [[California Department of Fish and Game]].
-- **Public workshop purposes:** update the public on the plan's status, review the scope and summarized issues, invite inspection of collected resource data (including wildlife habitat and vehicle route inventories), gather public comment, and explain how to review the information and comment on the draft plan.
+**Lone Tree Mine expansion.** The environmental impact notice assessed the potential impacts of expanding the existing gold mine pit, ore processing facilities and overburden disposal areas onto public land. Two alternatives were analyzed: the Proposed Action (expansion) and No Action.
 
-**Federal aquatic species policy (Federal Register, Vol. 60, No. 239, December 1995).** The U.S. Fish and Wildlife Service and the National Marine Fisheries Service proposed a draft policy describing how they will identify species that are candidates or proposed for listing, and how they will address the conservation needs of those species. The policy also addresses how the agencies will work with states, tribes, and other stakeholders. Comments were due by a deadline the scan reads as "12, 1996" (exact date unclear). Contacts were listed at the Division of Endangered Species (Fish and Wildlife Service, Arlington, Virginia) and the Endangered Species Division (National Marine Fisheries Service, Silver Spring, Maryland).
+**Land conveyance.** Under Section 206 of the [[Federal Land Policy And Management Act]] of 1976 (43 U.S.C. 1716), the following transfers occurred:
 
-**Land conveyance notice.** A separate BLM notice announced the conveyance of public land from federal ownership in Oregon and Washington. The notice states that land in Oregon is open to mining and mineral leasing, while the Washington parcel is not in federal ownership. The effective date is given as January 18, 1996.
+- 3,310 acres in [[Harney County]], Oregon, and 1,846.04 acres in Washington (one OCR variant reads 1,846.44) were transferred from federal to private ownership.
+- In exchange, lands were reconveyed to the United States, including a 640-acre parcel in [[Klickitat County]], Washington (Township 32 South, Range 32 East, Section 15 and other sections).
+- The 640 acres in Harney County were already open to mining and mineral leasing. The Washington mineral estate was not in federal ownership.
+- Effective January 18, 1996, at 8:30 a.m., 1,280 acres of reconveyed land opened to public land laws, subject to valid existing rights and withdrawals. Applications received by that time were treated as simultaneously filed.
 
-**Public workshops.** Seven workshops were scheduled for January 9–22, 1996, from 7:00 to 10:00 p.m., at California desert locations including Lakewood, Twentynine Palms, Palm Springs, Needles, Blythe, El Centro, and Rancho Bernardo. Results for each location should be checked in the original.
+**Draft fisheries policy.** The policy responds to Executive Order 12962, *Recreational Fisheries*, signed by President Clinton on June 7, 1995. Section 4 of that order requires federal agencies to improve the quantity, function, sustainable productivity and distribution of aquatic resources, and to reduce conflicts between ESA administration and recreational fishing. The policy covers all Department of the Interior and Commerce efforts funded, authorized or carried out under the ESA. Its goals include consistency in ESA implementation, cooperation with states and tribes, evaluation of non-native species introductions, and periodic adjustment of recovery actions to minimize effects on anglers.
+
+**Permit notices.** Under Section 10(c) of the ESA, the following applications were listed for comment within 30 days:
+
+- PRT-808054, Wildlife Conservation Society (Bronx, NY): import of blood and tissue samples and carcasses of [[Pampas Deer]] (*Ozotoceros bezoarticus*), collected from free-living animals in the Campos de Tuyu Wildlife Preserve, Argentina, for scientific research and species enhancement.
+- PRT-809275, Philadelphia Zoological Garden: import of captive-born and captive-held [[Puerto Rican Boa]] (*Epicrates inornatus*) and [[Jamaican Boa]] (*Epicrates subflavus*) from the Granby Zoo, Canada, for captive propagation and survival of the species. The text gives five male and three female animals, not all clearly assigned to one species.
+- A third applicant (Sedgwick County Zoo, Wichita) sought a permit for captive-bred animals from the De Wildt Cheetah Centre, South Africa, for survival of the species through captive breeding. The species name is not clearly legible in the scan.
+
+**Other notices.** The International Trade Commission reported a limited exclusion order and termination of an investigation into imported products containing microsphere adhesives. The complaint was filed by Minnesota Mining and Manufacturing Co. (3M) and concerned infringement of U.S. Patent 4,166,152 by Kudos Finder Tape Industrial Ltd. and Kudos Finder Trading Co. Section 337 of the Tariff Act of 1930 was the basis for the order.
 
 ## Ecological & Environmental Context
 
-The policy notice gives the following aquatic conservation context:
+The draft policy provides the document's main aquatic-ecology data. It states that:
 
-- As of November 1, 1995, **105 fish species** and **57 mussel and clam species** in the United States were on the federal threatened and endangered species list (50 CFR 17.11 and 17.12).
-- About **36 percent of U.S. fishes** are considered imperiled or extinct. Percentages for crayfishes and freshwater mussels are garbled in the scan.
-- Degraded habitat and [[Habitat Loss]] are identified as the most common causes of decline for protected and threatened aquatic species. Loss of suitable habitat has also contributed to declines in many native sport and nongame fish species.
-- Federal laws that protect or restore aquatic resources are listed as the [[Fish and Wildlife Coordination Act]], the [[Anadromous Fish Conservation Act]], the [[Coastal Zone Management Act]], the [[National Environmental Policy Act]], and others.
-- Introduced nonnative species have often produced unexpected, harmful effects on other ecosystem components.
-- Conflicts can arise between conservation of listed species and sustainable recreational fishing. The notice states that the two goals are sometimes perceived as mutually exclusive.
+- **Listed species:** As of November 1, 1995, 105 fish species and 57 clam and mussel species were on the federal threatened or endangered list (50 CFR 17.11 and 17.12) in the United States.
+- **Imperilment:** Approximately 36% of U.S. fishes, 64% of crayfishes and 69% of freshwater mussels are considered imperiled or extinct. The source is the National Network of Natural Heritage Programs and Conservation Data Centers, with The Nature Conservancy's Eastern Regional Office.
+- **Causes of decline:** Habitat alteration and degradation, heavy fishing pressure, and introduction of non-native species are named as major causes of population decline and extirpation. Degraded habitats have reduced the capacity of aquatic ecosystems to support their former diversity and abundance.
+- **Ecosystem approach:** The policy calls for management based on life histories, habitat requirements and ecosystem processes, with recognition of multiple uses of aquatic systems.
+- **Conflict:** Conservation of native species and recreational fishing can conflict, especially where federally protected species are perceived as opposed to angling interests. The policy prioritizes reviewing fishing restrictions in unoccupied historical ranges, unoccupied critical habitat, and areas not essential to recovery.
 
-The notice argues for an ecosystem approach to management, based on sound science about species' life histories, habitat requirements, and ecosystem processes, with recognition of the multiple uses of aquatic systems.
+The desert plan notices also address habitat and travel routes on public land, but the document provides no quantitative ecological data for these areas.
 
 ## Key Findings
 
-- **Economic value of angling.** Approximately **50 million anglers** spend about **$24 billion** directly on tackle, equipment, food, lodging, and other fishing-related costs. Total economic output stimulated by angler spending exceeded **$69 billion in 1991**. The notice also says these expenditures generate federal and state tax revenues and support employment, with the scan reading "approximately 13 million people nationwide" (this figure should be verified).
-- **Status of listed species.** 105 fish and 57 mussel/clam species were federally listed as threatened or endangered on November 1, 1995.
-- **Main threats.** Habitat degradation and loss, heavy fishing pressure, and introduction of nonnative species are repeatedly identified as causes of aquatic species decline.
-- **Policy direction.** The draft policy would guide how the agencies identify candidate and proposed species and manage them while supporting sustainable recreational fisheries, with collaboration among federal, state, tribal, and private stakeholders.
-- **Public process.** Comments on the draft policy were invited, and public workshops on desert land planning were scheduled for January 1996.
-- **Land transfer.** About 1,280 acres of public land in Oregon and Washington were conveyed out of federal ownership, with the Oregon land open to mining and mineral leasing.
+- **Economic value of angling:** About 50 million anglers spend roughly $24 billion annually on tackle, equipment, food, lodging and related expenses. Angler spending generated total economic output exceeding $69 billion in 1991, over $2.1 billion in federal tax revenues, and employment for approximately 1.3 million people.
+- **Conservation status:** 105 fish species and 57 clam and mussel species are federally listed. Freshwater mussels (69%), crayfishes (64%) and fishes (36%) are among the most imperiled groups.
+- **Policy goals:** The joint draft policy seeks consistent ESA implementation, cooperative partnerships with states, tribes and anglers, careful evaluation of non-native introductions, and removal of unnecessary fishing restrictions where listed species do not need them.
+- **Policy timeline:** Comments were due February 12, 1996. The Services will consider comments before issuing a final decision, which may differ from the draft.
+- **Land transfers:** About 3,310 acres in Oregon and about 1,846 acres in Washington were transferred to private ownership. A total of 1,280 acres of reconveyed land opened to surface entry on January 18, 1996.
+- **Public process:** Seven Colorado Desert workshops were scheduled in January 1996 to present the draft plan and collect public input.
+- **Permits:** Pending permit applications seek to import captive-bred and salvaged animal material for scientific research and species enhancement. The document gives no decisions on these applications.
+- **Source limitations:** The text is an OCR scan with some numerical and name variants, which are noted above. Several entries are fragmentary, and the document does not report field data, sample sizes or population estimates for any species.

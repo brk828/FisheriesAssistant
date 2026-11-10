@@ -2,50 +2,47 @@
 species: N/A
 common_name: N/A
 family: N/A
-habitat: N/A
+habitat: Farm ponds (freshwater)
 ocean_basin: N/A
 location: N/A
-tags:
-  - ichthyology
-  - marine-biology
-  - ocr-illegible
-title: "Illegible Scanned Document: Aquatic Science Source (Content Unrecoverable)"
+tags: [fish-stocking, trip-record, fisheries-management, freshwater]
+title: "Fish Stocking Trip Record"
 source_id: "PML2663"
 marsh_id: "PML2663"
 library: "Marsh Library"
 permission: "not public domain"
-source_citation: "U.S. Fish and Wildlife Service (1987). Illegible Scanned Document: Aquatic Science Source (Content Unrecoverable). U.S. Fish and Wildlife Service. Marsh Library ID: PML2663."
+source_citation: "U.S. Fish and Wildlife Service (1987). Fish Stocking Trip Record. U.S. Fish and Wildlife Service. Marsh Library ID: PML2663."
 source_file: "USFWS. 1987. Trip Record Dexter NFH.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Illegible Scanned Document: Aquatic Science Source (Content Unrecoverable)
+# Fish Stocking Trip Record
 
-#ichthyology #marine-biology #unidentified-taxon
+#ichthyology #marine-biology #unidentified-fish-species
 
 ## Executive Summary
 
-The source is a two-page scan whose text is almost entirely corrupted by OCR failure. The recoverable fragments are isolated characters, symbols, and broken words with no readable sentences. The document cannot be identified as a research paper, proposal, budget, or correspondence, and no scientific claims can be extracted from it. No species, habitat, location, sample size, or statistic can be verified.
+This is a two-page fisheries field form, a hatchery-to-pond stocking trip record. It logs the hatchery of origin, the fish delivered (species, number, length, weight in pounds), the management area, mileage, truck costs, salary, per diem, departure and return times, and the farm ponds stocked with their acreage. The scan is heavily degraded, and most entries cannot be read reliably, so the species, quantities, locations and costs cannot be confirmed from this text.
 
 ## Background & Description
 
-- **Format:** Two pages of scanned material, labelled Page 1 and Page 2.
-- **Page 1:** Dense strings of scattered characters and punctuation, with no coherent words. Fragments such as "Flort," "lao," and "Hp" appear, but they cannot be linked to any meaning.
-- **Page 2:** Handwritten-looking or distorted marks, with numeric-like tokens and symbols (for example "%," "x," "/") and no legible prose.
-- **Language and structure:** No headings, figures, tables, or citations can be confirmed. Any apparent structure is an artefact of the scan.
+The form is a standard [[Fish Stocking]] trip record for a state-style [[Hatchery]] program. Its fields are:
+
+- **Trip logistics:** hatchery, management area, starting and ending mileage, total miles, departure and return times.
+- **Costs:** truck costs, salary, [[Per Diem]], total cost.
+- **Stock delivered:** species, number, length and pounds per load.
+- **Pond stocking:** number of farm pond applications, number of ponds stocked, and acreage stocked, with a remarks column.
+
+Handwritten entries on page 2 appear to be a continuation of the pond or remarks section. They are not legible enough to transcribe.
 
 ## Ecological & Environmental Context
 
-No ecological, environmental, or habitat information is legible in the document. The following are **not** addressed or cannot be determined from the text:
-
-- Species or taxonomic groups (fish, invertebrates, plankton, or otherwise)
-- Habitat type, ocean basin, or geographic location
-- Water chemistry, habitat condition, or sampling methods
-- Management, conservation, or regulatory content
-
-Any scientific interpretation would require a clean rescan or the original digital file. See [[Optical Character Recognition]] for the likely cause of the corruption.
+The document does not describe the ecology of any species, water chemistry, habitat condition or aquatic community. Its only environmental reference is the [[Farm Pond]] as the receiving habitat for stocked fish. Species identity, pond locations and the [[Management Area]] cannot be determined from the legible text.
 
 ## Key Findings
 
-1. **No extractable scientific data.** No readable species names, measurements, sample sizes, or statistics appear.
-2. **No discernible document type.** The text cannot be classed as research, proposal, budget, or correspondence.
-3. **Recommended action:** Re-scan the source at higher resolution, apply a handwriting-aware or manuscript-trained recognition model if the original is handwritten, or obtain the born-digital version. Then re-run extraction.
+- The record documents a stocking operation: fish were transported from a hatchery and released into farm ponds, with mileage, costs and personnel time tracked per trip.
+- The "Species," "Number," "Length" and "Pounds" fields in the delivery table are present but their entries are illegible, so the species stocked and the quantities are unknown.
+- Pond stocking entries (number of applications, ponds stocked, acreage stocked) are partly visible but not reliably readable.
+- Cost entries (truck costs, salary, per diem, total cost) and mileage (starting, ending, total) are present as fields, but their values cannot be verified.
+- No conclusions, recommendations or ecological data are stated. The document is an operational log.

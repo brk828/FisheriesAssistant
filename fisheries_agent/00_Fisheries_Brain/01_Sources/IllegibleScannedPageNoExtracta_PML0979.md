@@ -5,10 +5,7 @@ family: N/A
 habitat: N/A
 ocean_basin: N/A
 location: N/A
-tags:
-  - ichthyology
-  - marine-biology
-  - unidentified-document
+tags: [ichthyology, marine-biology, unclassified-document]
 title: "Illegible Scanned Page: No Extractable Aquatic Data"
 source_id: "PML0979"
 marsh_id: "PML0979"
@@ -16,29 +13,29 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "R. L. Hamman (1988). Illegible Scanned Page: No Extractable Aquatic Data. Marsh Library ID: PML0979."
 source_file: "Hamman R.L. 1988. Desert fishes recovery.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
 # Illegible Scanned Page: No Extractable Aquatic Data
 
-#ichthyology #marine-biology
+#ichthyology #marine-biology #unclassified-document
 
 ## Executive Summary
 
-The source is a single scanned page whose text is almost entirely illegible after OCR. It contains fragments of short strings, slash-separated number groups, and isolated characters, but no words, taxon names, locations, or methods can be reliably reconstructed. The document cannot be identified as a fish, invertebrate, habitat, or water-chemistry record, and no scientific claims can be attributed to it.
+This source is a short, poorly legible scan (apparent OCR output) of handwritten notes. It contains a few fragments, a personal-looking name, a possible brand name, and numerical entries with partial units. It does not describe any fish, aquatic organism, habitat, or ecological study that can be identified with confidence, so no scientific conclusions can be drawn from it.
 
 ## Background & Description
 
-The page has no readable title, heading, author, date, or institutional marking. Its layout is fragmentary: short lines of characters, mixed with punctuation and what appear to be numeric groupings (for example, strings resembling dates or sample identifiers). Because these fragments cannot be confirmed, they are not interpreted here. The document type (proposal, budget, correspondence, field notes, or other) is also undetermined.
+The document has one page. The text is fragmentary and garbled, with mixed characters, broken numbers, and no recognizable sentences. Legible elements are limited to a few words that look like a name or header and a set of figures that cannot be reliably interpreted. No methods, taxa, sampling sites, or units can be confirmed.
 
 ## Ecological & Environmental Context
 
-No habitat, ocean basin, geographic location, species, or environmental parameter (temperature, salinity, depth, water chemistry, or community composition) can be identified in the legible portions. The ecological context of the source therefore remains unknown. Any reading of the fragments as aquatic data would be speculative.
+N/A. The document does not address habitat, water chemistry, species interactions, or any other aquatic ecosystem component. Numerical fragments are too corrupted to link to environmental measurements, and any such link would be speculative.
 
 ## Key Findings
 
-- No species, family, or common name can be confirmed from the text.
-- No habitat, ocean basin, or location is identifiable.
-- No sample sizes, measurements, statistics, or methods are legible, so none are reported.
-- The numeric-looking fragments are too corrupted to attribute to any quantity or unit.
-- No plans, conclusions, or recommendations can be extracted.
-- Recovering this content would likely require a higher-resolution rescan, manual transcription by someone familiar with the original hand, or the original physical document.
+- No species, family, or taxonomic identification can be made from the text.
+- No habitat, ocean basin, or geographic location is stated or legible.
+- Numerical values appear in the scan (for example, figures near "4,571", "15,380", "13,970", and "16,466"), but their units, meaning, and context are unclear. They are not reported as data here.
+- The document may be a personal or administrative note rather than a research record. This cannot be confirmed.
+- A higher-quality scan or the original source is needed before any ichthyological or marine-biological content can be extracted.

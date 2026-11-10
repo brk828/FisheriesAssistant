@@ -2,51 +2,46 @@
 species: N/A
 common_name: N/A
 family: N/A
-habitat: N/A
+habitat: Freshwater river (Green River analog) and laboratory culture water
 ocean_basin: N/A
-location: N/A
-tags:
-  - ichthyology
-  - marine-biology
-  - unidentified-document
-title: "Unreadable OCR Scan: Aquatic Document (Content Not Recoverable)"
+location: Logan, Utah; Green River near Jensen, Utah
+tags: [ichthyology, marine-biology, freshwater-toxicology, water-quality, reconstituted-water]
+title: "Reconstituted Green River Water Preparation (Partially Legible Scan)"
 source_id: "PML2823"
 marsh_id: "PML2823"
 library: "Marsh Library"
 permission: "not public domain"
-source_citation: "D. L. Ward, M. Childs, W. Persons (2007). Unreadable OCR Scan: Aquatic Document (Content Not Recoverable). Marsh Library ID: PML2823."
+source_citation: "D. L. Ward, M. Childs, W. Persons (2007). Reconstituted Green River Water Preparation (Partially Legible Scan). Marsh Library ID: PML2823."
 source_file: "Ward D.L. Childs M. Persons W. 2007 factors affecting growth of razorback supplement.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Unreadable OCR Scan: Aquatic Document (Content Not Recoverable)
+# Reconstituted Green River Water Preparation (Partially Legible Scan)
 
-#ichthyology #marine-biology #unidentified-taxon
+#ichthyology #marine-biology #freshwater-toxicology
 
 ## Executive Summary
 
-The source is a two-page scan whose text layer is almost entirely corrupted by optical character recognition (OCR) failure. It contains no legible sentences, species names, sample sizes, locations, or statistics, so no scientific or administrative content can be reliably extracted. The fragments that appear to be tables or graphics are not interpretable. Nothing in this note has been inferred or reconstructed.
+This document is a badly degraded OCR scan. Only a few fragments are legible, and they describe laboratory water prepared for aquatic testing. The legible text indicates that water was heated and dechlorinated at the [[Utah Water Research Lab]] in [[Logan, Utah]], and that a [[Reconstituted Water]] was made to resemble the middle [[Green River]] near [[Jensen, Utah]]. No species, sample sizes, measurements, or results can be confirmed. The rest of the scan is non-textual symbol noise.
 
 ## Background & Description
 
-- **Document type:** Not determinable. The visible fragments resemble a table, figure, or graphic with scattered tokens, not running prose.
-- **Structure:** Two pages, with symbol-heavy, fragmented lines on both. Page 1 contains punctuation, isolated numerals, and broken characters. Page 2 contains mostly isolated letters, brackets, and punctuation.
-- **Likely cause:** Poor scan quality, a non-text image (such as a chart or map), or a failed OCR pass. Each of these would produce the same pattern.
-- **Recoverable tokens:** None with confidence. Individual characters such as "N," "O," and "t" recur, but they do not form words or identifiable terms.
+The legible fragments suggest a laboratory setting in which source water is conditioned before use:
+
+- **Source water:** Municipal-type water that is heated and [[Dechlorination|dechlorinated]] to remove residual chlorine.
+- **Facility:** Utah Water Research Lab, Logan.
+- **Target water type:** A constituted (reconstituted) water intended to match the chemistry of the middle Green River near Jensen.
+
+Page 1 also contains a partly illegible line that appears to be a note about deleting or revising an entry. Its meaning cannot be recovered. Page 2 consists almost entirely of scan artifacts (stray symbols and punctuation) with no recoverable content.
 
 ## Ecological & Environmental Context
 
-The document does not address any of the following, so each is recorded as not reported:
-
-- Fish or other aquatic taxa (species, family, or community composition)
-- Habitat type, water body, or ocean basin
-- Geographic location or sampling sites
-- Water chemistry, plankton, invertebrates, or other ecosystem variables
-- Methods, sample sizes, or statistical results
-
-Related concepts that would normally anchor such a note (for example, [[Marine Fish Survey]] or [[Optical Character Recognition]]) cannot be linked to any content in the source.
+The document implies that the aim of the water preparation was to represent a natural river environment, the middle [[Green River]] in Utah, under controlled laboratory conditions. This suggests the water was intended for biological testing or culture, but the text does not state the organisms, endpoints, or exposure design. No water chemistry values (hardness, pH, temperature, conductivity, or ion concentrations) are legible, so the match between the reconstituted water and the natural river cannot be evaluated from this document.
 
 ## Key Findings
 
-1. **No extractable scientific content.** The text layer does not yield species names, measurements, or conclusions.
-2. **No extractable administrative content.** No proposal, budget, correspondence, or plan can be identified, so no plans or conclusions are reported.
-3. **Recommended next step:** Re-scan the original at higher resolution, or supply a clean text or PDF export, then regenerate this note. If the source is a figure or chart, a description of the image would allow a more useful note.
+- The legible text documents a procedure: source water is heated and dechlorinated, then used as the basis for a reconstituted water.
+- The reconstituted water is designed to resemble the middle Green River near Jensen, Utah.
+- The work is associated with the Utah Water Research Lab in Logan.
+- No species, sample sizes, statistics, or quantitative water-quality data are recoverable.
+- The scan is too degraded to confirm whether this is a fish study. The ichthyology tags reflect the document's apparent aquatic-testing context and not confirmed fish content.

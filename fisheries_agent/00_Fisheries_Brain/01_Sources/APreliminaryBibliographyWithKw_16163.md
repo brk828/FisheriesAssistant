@@ -2,53 +2,63 @@
 species: N/A
 common_name: N/A
 family: N/A
-habitat: Estuaries and coastal waters
-ocean_basin: Western Atlantic
-location: Eastern United States, from the Bay of Fundy south to the Florida Keys
-tags: [ecology, estuary, bibliography, coastal-ecology, kwic-index, bureau-of-commercial-fisheries]
+habitat: Estuaries and coastal waters (shore to about the 100-fathom line)
+ocean_basin: Western North Atlantic
+location: Eastern United States coast, from the Bay of Fundy, Canada, south to the Florida Keys
+tags: [bibliography, estuarine-ecology, coastal-ecology, kwic-index, marine-biology]
 title: "A preliminary bibliography with KWIC index on the ecology of estuaries and coastal areas of the Eastern United States"
 source_id: "16163"
 minckley_id: "16163"
 source_citation: "R. J. Livingstone (1965). A preliminary bibliography with KWIC index on the ecology of estuaries and coastal areas of the Eastern United States. Special Scientific Report--Fisheries:US Fish and Wildlife Service. Minckley Library ID: 16163."
 source_file: "16163.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# A Preliminary Bibliography with KWIC Index on the Ecology of Estuaries and Coastal Areas of the Eastern United States
+# A preliminary bibliography with KWIC index on the ecology of estuaries and coastal areas of the Eastern United States
 
 #ichthyology #marine-biology #estuarine-ecology
 
 ## Executive Summary
 
-This document is a preliminary annotated reference compilation, not a primary research study. Compiled by [[Robert Livingstone Jr.]], a fishery biologist with the [[Bureau of Commercial Fisheries]] Biological Laboratory at Woods Hole, Massachusetts, it was published in May 1965 as U.S. Fish and Wildlife Service Special Scientific Report–Fisheries No. 507. It catalogues more than 5,470 references on estuarine and coastal ecology along the eastern United States, emphasizing the 1900–1960 period. The work has two parts: alphabetical bibliographic entries and a [[KWIC Index]] (keyword-in-context) for retrieving references by subject term. It is explicitly described as a "living bibliography" intended for future expansion.
+This document is the front matter and partial content of U.S. Fish and Wildlife Service Special Scientific Report–Fisheries No. 507 (May 1965), compiled by Robert Livingstone, Jr., of the Bureau of Commercial Fisheries Biological Laboratory, Woods Hole, Massachusetts. It is a preliminary bibliography of more than 5,470 references on the ecology of estuaries and coastal waters of the eastern United States, with emphasis on the period 1900–1960. It is presented in two parts: alphabetical bibliographic entries by author, and a Keyword-in-Context (KWIC) index of significant title words. The work is explicitly described as a "living bibliography" to be expanded as new items are submitted.
 
 ## Background & Description
 
-The project originated with the [[Atlantic States Marine Fisheries Commission]], which in 1958 asked each state to submit reference lists for an Atlantic Coast bibliography. All 15 states responded with about 1,800 references. Compilation was then transferred to the Bureau of Commercial Fisheries at Woods Hole, where the list grew to over 5,000 items with contributions from several people. The author notes that no bibliography is ever complete, and that the machine-processed format allows new items to be added at low cost.
+The project originated with the [[Atlantic States Marine Fisheries Commission]] at its 1958 annual meeting, when each of the 15 Atlantic states agreed to submit reference lists for its area. These State lists totaled about 1,800 references. Compilation proved far beyond the Commission's resources, so it was transferred to the U.S. Fish and Wildlife Service and assigned to the [[Bureau of Commercial Fisheries]] Biological Laboratory at Woods Hole, which benefited from the library of the [[Marine Biological Laboratory]]. The list grew to over 5,000 references before being published in its current form because estuarine researchers were requesting copies.
 
-Scope definitions:
-- **Estuary** is used broadly, including the adjacent coastal band of water extending from shore to roughly the 100-fathom line. The author acknowledges this departs from the definition of [[Cameron and Pritchard]] (1963).
-- **Subject**: emphasis on ecology of estuarine organisms, with substantial references on physical and chemical oceanography, geology, paleoecology, and laboratory physiology. Human activity is generally excluded except where it concerns waste disposal (human, industrial, atomic). Gear and technique papers were retained for their value to field ecologists.
-- **Area**: from the Bay of Fundy, Canada, south to the Florida Keys, treating both Florida coasts.
-- **Time**: originally 1900–1960, but earlier and more recent papers were added through machine indexing.
-- **Sources**: almost entirely published material; more than 450 sources were represented. Foreign journals were searched only to verify material in reprint series and other bibliographies. Serial titles follow the FAO and ISO abbreviation standards.
+**Scope and definitions**
+- **Ecology:** used in its broadest sense; "estuary" includes the coastal band from shore to about the 100-fathom line and considers life-history stages of estuarine and coastal organisms.
+- **Subject coverage:** estuarine organism ecology, plus physical and chemical oceanography, geology and paleoecology, laboratory physiology of estuarine organisms, and waste disposal (human, industrial, atomic). Gear and technique papers were included for field ecologists.
+- **Geographic area:** from the Bay of Fundy south to the Florida Keys, including the Gulf of Maine and both coasts of Florida.
+- **Time:** originally 1900–1960, extended to include earlier and more recent papers.
+
+**Sources and method**
+- More than 450 sources represented; foreign journals were searched only to verify material from collected reprint series and other bibliographies.
+- Unpublished items were generally excluded unless they were bibliographies or taxonomic lists.
+- All entries were verified against original documents.
+- Serial titles follow the FAO *World List of Periodicals for Aquatic Sciences and Fisheries* (1962) and related ISO/UNESCO conventions.
+- The IBM printer had a restricted character set, so special symbols stand in for italics, quotation marks, and punctuation.
+
+**Processing**
+The references were processed at the [[Aquatic Sciences Information and Retrieval Center]], University of Rhode Island. [[Raymond T. Shappy]] developed the KWIC indexing program.
 
 ## Ecological & Environmental Context
 
-The bibliography is organized around the life-history stages of estuarine and coastal organisms rather than a single taxonomic group, so it covers a broad range of fauna and flora, including oysters (*Ostrea* and *Crassostrea*), larval ecology, and currents. Subject indexing covers physical and chemical conditions, brackish-water classification, and biological responses to these conditions. Geographic keywords (e.g., Fundy, Bay of; Maine, Gulf of; Carolina, North) allow regional retrieval. The author cites [[Hedgpeth]] (1957) as a review of important foreign contributions to estuarine ecology and the 1959 *Oceanographia et Limnologica* supplement on brackish-water classification.
+The index is organized by keyword. Key terms are linked to accession numbers, and geographic names are indexed by place (e.g., "Fundy, Bay of"; "Maine, Gulf of"; "Carolina, North"). Index headings and the entries beneath them show the breadth of the field, including:
+
+- **Estuarine and coastal fauna:** very large numbers of entries on oysters ([[Crassostrea Virginica]]), clams ([[Mya Arenaria]], [[Venus Mercenaria]]), shad ([[Alosa Sapidissima]]), menhaden ([[Brevoortia Tyrannus]]), striped bass ([[Morone Saxatilis]]), blue crab ([[Callinectes Sapidus]]), American lobster ([[Homarus Americanus]]), American eel ([[Anguilla Rostrata]]), and winter flounder ([[Pseudopleuronectes Americanus]]). Sharks, rays, and other fishes are also indexed under species names.
+- **Plankton and primary production:** copepods (e.g., [[Acartia]], [[Calanus Finmarchicus]]), diatoms, dinoflagellates, and bloom and productivity studies.
+- **Benthos and fouling:** barnacles ([[Balanus]]), polychaetes, bryozoans, sponges, and wood-boring organisms.
+- **Physical and chemical environment:** salinity, temperature, currents, tides, sediments, radioactivity and isotope uptake, and water quality and pollution, especially coliform bacteria.
+- **Geology and paleoecology:** beach sediments, submarine canyons, and post-glacial deposits.
+- **Geographic focus:** the Chesapeake Bay, Woods Hole and Buzzards Bay, Beaufort (North Carolina), Biscayne Bay and the Florida Keys, Gulf of Maine, and Long Island Sound.
 
 ## Key Findings
 
-- **Scale:** More than 5,470 references, the product of a multi-stage compilation starting from state submissions totaling about 1,800 references.
-- **Structure:** Two parts: (1) full bibliographic entries, alphabetical and chronological by author; (2) a KWIC index of significant title words, each linked to an accession number.
-- **Retrieval example:** The author illustrates searching for "reactions of oyster larvae to currents" by scanning the KWIC index under REACTIONS, OYSTER, LARVAE, CURRENTS, and the generic terms *Ostrea* and *Crassostrea*.
-- **Database basis:** Processed by the Aquatic Sciences Information and Retrieval Center, University of Rhode Island; the KWIC program was developed by Raymond T. Shappy.
-- **Intended use:** A starting point for a future, more comprehensive bibliography, updated by researcher submissions.
-- **Symbol conventions:** Special characters stand in for missing type (e.g., "=" precedes generic names, "//" ends a title with added keywords, "$" marks a question mark), with language codes and asterisks marking translated titles and summaries.
-
-## Notes on Limitations
-
-The OCR-derived text of the KWIC index is heavily corrupted and largely unreadable as a list of entries. This note therefore summarizes the document's structure and stated scope and does not reproduce index records.
-
----
-
-Related concepts: [[Estuary]], [[Coastal Ecology]], [[KWIC Index]], [[Bureau of Commercial Fisheries]], [[Atlantic States Marine Fisheries Commission]], [[Woods Hole Marine Biological Laboratory]], [[Oyster]], [[Brackish Water]], [[Bay of Fundy]], [[Gulf of Maine]], [[Florida Keys]], [[Robert Livingstone Jr.]]
+- **Scale:** the bibliography contains more than 5,470 references from over 450 sources and is explicitly a preliminary, expandable effort.
+- **Structure:** two parts, an alphabetical author bibliography and a KWIC index with accession numbers. The reader locates a topic by scanning the index (e.g., for "oyster larvae" and "currents").
+- **Origin:** initial inputs were 1,800 references from 15 states; the list grew to over 5,000 through staff work.
+- **Purpose:** to serve estuarine researchers and to stay current through the submission of new items for future editions, inserted into the punchcard deck.
+- **Verification:** all entries were checked against originals; foreign journals were only partly searched.
+- **Limitations:** the author notes that no bibliography is ever complete and that the system's character set required substitute symbols. Users should consult the full bibliography for complete citations, as this excerpt reproduces only the front matter and KWIC index.
+- **Publication details:** Special Scientific Report–Fisheries No. 507, U.S. Department of the Interior, Fish and Wildlife Service, Washington, D.C., May 1965; price $1.75.

@@ -1,10 +1,10 @@
 ---
-species: Oreochromis mossambicus (Tilapia mossambica)
-common_name: Mozambique Tilapia
+species: Tilapia mossambica (Peters)
+common_name: Mozambique tilapia
 family: Cichlidae
-habitat: Freshwater ponds, rivers, lakes, brackish water
+habitat: N/A
 ocean_basin: N/A
-location: Global (Africa native range; introduced worldwide, including the United States, Southeast Asia, and Latin America)
+location: N/A
 tags: [ichthyology, marine-biology, cichlidae, tilapia, bibliography, aquaculture]
 title: "Bibliography of Publications Concerning Tilapia"
 source_id: "PML2431"
@@ -13,50 +13,42 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "J. A. St. Amant, M. C. Stevens (1967). Bibliography of Publications Concerning Tilapia. California Department of Fish and Game, Inland Fisheries Administrative Report No. 67-3. Marsh Library ID: PML2431."
 source_file: "St. Amant J.A. et al. 1967. bibliography on tilapia.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Bibliography of Publications Concerning Tilapia Mossambica
+# Bibliography of Publications Concerning Tilapia
 
 #ichthyology #marine-biology #cichlidae
 
 ## Executive Summary
 
-This document is a bibliography of 213 selected references on *Tilapia mossambica* (Mozambique Tilapia), compiled by James A. St. Amant and Marshall C. Stevens of the California Department of Fish and Game, Region 5 (Inland Fisheries), and published in January 1967 as Inland Fisheries Administrative Report No. 67-3. The compilation aims to cover all significant papers on the species, along with some reports that have applications to work with it. Sources were drawn from the Bio-Medical Library of the University of California at Los Angeles, the Crookshank Library of Pomona College, the China Fisheries Base Library, and the Resources Agency Library in Sacramento. The document contains no original data, experiments, or statistics; its value lies in the reference list itself.
+This is a 1967 annotated-style bibliography compiled by James A. St. Amant and Marschall C. Stevens of the Region 5 Inland Fisheries office of the California Department of Fish and Game (Inland Fisheries Administrative Report No. 67-3, submitted January 1967). It lists 213 selected references on [[Tilapia Mossambica]] (Mozambique tilapia), presented as all significant papers known to the authors on the species, plus reports of applied relevance. Sources searched include the Bio-Medical Library of UCLA, the Crookshank Hall Library of Pomona College, the Chino Fisheries Base Library, and the Resources Agency Library in Sacramento. The document is a reference list, not a research study; it contains no original data.
 
 ## Background & Description
 
-*Tilapia mossambica* is a cichlid fish native to Africa and introduced to many regions for aquaculture, bait, and vegetation control. The bibliography reflects research spanning the 1940s through the mid-1960s and covers a wide range of disciplines, including:
+The bibliography is organized alphabetically by first author, spanning roughly 1835-era taxonomic works through mid-1960s papers, and covers a broad range of topics:
 
-- Aquaculture and pond culture (e.g., rearing in rice paddies, fertilization, stocking rates, monoculture and polyculture)
-- Reproduction and breeding behavior (mouthbrooding, sex ratio, egg and sperm biology, hybridization)
-- Physiology and endocrinology (pituitary-adrenal axis, osmoregulation, digestion, neurosecretory systems)
-- Taxonomy and systematics of the genus *Tilapia* (African cichlids, species revisions, fossil cichlids)
-- Introduction and distribution (spread in Texas, Florida, Nicaragua, Vietnam, and elsewhere)
-- Transport and handling of live fish
-- Radionuclide uptake by marine and freshwater fishes
-- Ecological and environmental interactions (planktonic food, water temperature tolerance, sewage effluent)
+- **Taxonomy and systematics:** revisions of South African cichlids, East African tilapia species keys, and interspecific hybridization studies (e.g., [[Tilapia Nigra]] and *T. zillii* crosses).
+- **Physiology and endocrinology:** corticosteroid and neurosecretory studies, osmoregulation, thyroid and pituitary function, digestion, and radionuclide uptake (strontium and yttrium) in teleosts.
+- **Behaviour and reproduction:** mouthbrooding, parental care, breeding behaviour, fecundity, and social behaviour.
+- **Aquaculture and pond culture:** culture in rice paddies, monosex culture, stocking rates, growth and production, and integrated culture with carp or other species.
+- **Applied uses:** live bait for tuna fishing, aquatic weed control, malaria control, and use as a sport or panfish.
+- **Parasites and health:** trypanosome and isopod parasites, and hygienic evaluation of fish raised in sewage effluent.
 
-Notable related taxa in the list include other *Tilapia* species (e.g., *T. nilotica*, *T. rendalli*, *T. zillii*) and interspecific hybrids.
+Many entries are regional government reports, FAO bulletins, and conference proceedings from Africa, Asia, the Indo-Pacific, the Americas, and Australia/Pacific (including [[Nauru]] and [[Hawaii]] references).
 
 ## Ecological & Environmental Context
 
-The references document *Tilapia mossambica* in a variety of environments: freshwater ponds (including experimental and farm ponds), rice paddies, rivers, lakes such as [[Lake Victoria]] and Lake Malawi (Nyasa), and reservoirs. Several entries address:
-
-- **Temperature tolerance**, including high-temperature tolerance and winter survival in ponds
-- **Food habits and feeding**, including plankton and detritus consumption
-- **Population control**, such as restricting overpopulation through management in ponds
-- **Use as a biological control agent**, particularly for aquatic weed (e.g., *Eichhornia*) control and for mosquito/malaria control in Indonesia
-- **Invasive spread**, with records of introductions and establishment in Florida, Texas, Nicaragua, and parts of Asia and the Pacific
-
-The bibliography notes that the species is a successful colonizer, which motivated several regional surveys and introduction assessments.
+The references document the global spread of *T. mossambica* beyond its native range, with records from Southern Rhodesia, Malaya, Indonesia, Taiwan, the Philippines, Thailand, Hawaii, Texas, Arizona, Alabama, and California, among others. Several papers address tolerance limits, including high-temperature tolerance (Allanson and Nobel, 1964), hypoxia tolerance (Dusart, 1963), and manganese uptake (Ishac, 1964). Others address ecological interactions such as competition with indigenous species and the control of exotic fish in inland waters of the Philippines (Rabanal and Hosillos, 1958), and population control in ponds through restricted breeding (Kenny, 1960a). Work on the [[Lake Victoria]] and [[Lake Nyasa]] cichlid faunas places the species within its African lake context.
 
 ## Key Findings
 
-The document itself reports no new experimental results. Its principal contributions are:
+The bibliography's main contributions are as a reference resource rather than as findings:
 
-- **Scope:** 213 selected references covering taxonomy, reproduction, culture, physiology, ecology, and introduction history of *Tilapia mossambica*.
-- **Geographic breadth:** Literature from Africa, Asia, the Americas, Europe, and Australia, reflecting the species' global distribution.
-- **Major themes:** Pond aquaculture and fish farming dominate the list, followed by reproductive biology and hybridization studies.
-- **Introduction records:** Multiple accounts of the species' establishment outside its native range, including Texas (1951), Florida (1962), and Nicaragua (1965).
-- **Research sources:** Compiled from four major libraries, with an emphasis on California and West Coast holdings.
-- **Purpose:** Serves as a reference tool for researchers and fishery managers, particularly those in the western United States considering the species for aquaculture or biological control.
+- **Scope:** 213 references on *T. mossambica*, drawn from four named libraries.
+- **Breadth:** the literature spans taxonomy, physiology, behaviour, aquaculture, parasitology, and applied fisheries.
+- **Geographic reach:** the references cover Africa, Asia, the Americas, Europe, and Oceania, reflecting the species' wide introduction.
+- **Applied emphasis:** a large share of entries concern pond culture, fish farming, and live-bait use, reflecting the species' value to fisheries managers.
+- **Notable early works cited:** Boulenger's *Fishes of the Nile* (1907), Trewavas' work on East African cichlids (1937-1948), and Lowe's species keys and biology studies (1955-1959).
+- **Authors' own contributions:** St. Amant's Californian and Alabama pond-culture studies (1956-1960) and the California introduction record (1956) are included.
+- **Purpose:** the compilation supports Inland Fisheries staff in assessing the species for California waters.

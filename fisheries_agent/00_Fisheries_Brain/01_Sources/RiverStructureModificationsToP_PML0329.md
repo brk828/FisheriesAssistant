@@ -1,14 +1,11 @@
 ---
-species:
-  - "Flathead catfish (named in source)"
-  - "Freshwater drum (named in source)"
-  - "Blue sucker (named in source)"
-common_name: "Flathead catfish; freshwater drum; blue sucker; general Missouri River fish and wildlife"
-family: "N/A"
-habitat: "Large alluvial river channel, flood plain, backwaters, side channels, bank and dike structures"
-ocean_basin: "N/A (inland river draining to the Mississippi River)"
-location: "Missouri River Basin, United States; source in the Rocky Mountains, confluence with the Mississippi River"
-tags: [fish-habitat, river-engineering, missouri-river, habitat-diversity, bank-stabilization, ichthyology]
+species: N/A
+common_name: N/A
+family: N/A
+habitat: Missouri River (channelized and natural reaches), flood plain, side channels, backwaters, sandbars
+ocean_basin: N/A
+location: Missouri River Basin, United States (Montana, Wyoming, Colorado headwaters to confluence with Mississippi near St. Louis, Missouri)
+tags: [river-engineering, habitat-restoration, freshwater-ecology, fish-habitat, missouri-river]
 title: "River Structure Modifications to Provide Habitat Diversity"
 source_id: "PML0329"
 marsh_id: "PML0329"
@@ -16,77 +13,46 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "T. D. Burke, J. W. Robinson (1979). River Structure Modifications to Provide Habitat Diversity. Paper presented at the Mitigation Symposium, Colorado State University (proceedings). Marsh Library ID: PML0329."
 source_file: "Burke & Robinson 1979. River Structure Modifications to Provide Habitat Diversity.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
 # River Structure Modifications to Provide Habitat Diversity
 
-#ichthyology #marine-biology #river-fish-habitat
+#ichthyology #marine-biology #freshwater-fish-habitat
 
 ## Executive Summary
 
-This paper, by [[Thomas D. Burke]] of the [[Kansas City District]], [[Corps of Engineers]], and [[John W. Robinson]], a fisheries research biologist with the [[Missouri Department of Conservation]], reviews the benefits and adverse effects of the [[Missouri River Bank Stabilization and Navigation Project]]. It describes the in-channel structures used to improve fish and wildlife habitat, flood-carrying capacity, and bank control. The main structure types are [[Notched Dikes]], [[Rootless Dikes]], [[Low-Elevation Dikes]], and [[Chevron Dikes]]/[[Closure Structures]]. The authors argue that modified structures can restore habitat diversity lost through channelization, while noting that full restoration of the original river is not feasible.
+This paper, by Thomas D. Burke (Corps of Engineers, Kansas City) and John W. Robinson (Missouri Department of Conservation), reviews the effects of the [[Missouri River Bank Stabilization and Navigation Project]] on fish and wildlife habitat and describes structure modifications introduced from 1974 to restore habitat diversity while protecting flood-carrying capacity and navigation. The authors conclude that the channelization removed most side channels, islands, backwaters and sloughs, reducing habitat diversity and contributing to fishery declines. Modified structures (notched, low elevation, rootless/vane dikes, and chute closures) appear to slow land accretion and create aquatic edge, although direct proof of fish population improvement is not yet available. The paper was presented at a 1979 mitigation symposium at Colorado State University.
 
 ## Background & Description
 
-The Missouri River rises in the Rocky Mountains of Montana, Wyoming, and Colorado and flows about 2,522 mi (4,058 km) to its confluence with the Mississippi River, approximately 15 mi (24 km) above St. Louis. Its basin covers over 500,000 sq mi, roughly one-fifth of the conterminous United States. Average annual rainfall ranges from under 10 in (25.4 cm) in the semi-arid west to over 40 in (101 cm) in the humid lower basin.
-
-Historically the river was a dynamic, braided, shifting system with eroding banks, sandbars, and frequent channel relocation through lateral migration and cutoffs during floods. Average gradient was about 1 ft per mile (0.00019), and velocities in the lower reach ranged from about 6 ft/s (1.8 m/s) near Nebraska to 3.7 ft/s (1.1 m/s) near Hermann, Missouri. Discharge was about 31,000 cfs (889 m³/s) at Omaha, Nebraska, and about 54,000 cfs (1,530 m³/s) at Hermann.
-
-Navigation improvement began in 1912, when Congress authorized a 6 ft deep by 200 ft wide channel from Kansas City to Sioux City, Iowa. Later authorizations, the most recent in 1945, increased the design to 9 ft deep by 300 ft wide. Channel training used dikes and revetments, with cutoffs and channel shortening reducing the navigable length by about 25 mi (40 km). Mainstem reservoirs built between 1930 and 1964 added flood control, irrigation, and power functions.
+- **Basin:** The [[Missouri River]] rises in the Rocky Mountains of Montana, Wyoming and Colorado and flows 2,522 mi (4,058 km) to its confluence with the [[Mississippi River]]. The basin drains over 500,000 sq mi (4,049,700 ha), including all or parts of ten states and part of Canada, about one-fifth of the conterminous United States.
+- **Climate and terrain:** Average annual rainfall ranges from under 10 in (25.4 cm) in the semi-arid west to over 40 in (101 cm) in the humid lower basin. The river crosses canyons, mountains, glaciated and unglaciated plains, badlands, central lowlands and the Ozark Plateau.
+- **Hydrology:** Two historic annual floods occurred: an April flood (ice breakup and snowmelt, one to two weeks) and the "June Rise" (mountain snowmelt, three to five weeks). The river's slope is about 1 ft per mile (0.000189), with rapid current for its size. Average discharge ranges from about 31,000 ft³/s (889 m³/s) at Omaha, Nebraska, to about 54,000 ft³/s (1,530 m³/s) at Hermann, Missouri. Average velocities fall from about 6 ft/s (1.8 m/s) at Omaha to 3.7 ft/s (1.1 m/s) at Hermann.
+- **Natural condition:** The unchannelized river was dynamic, with shifting sandbars, braided channels, snags, eroding banks and marshes. The authors note that the 50 mi (80.5 km) reach downstream of Yankton, South Dakota, approximates this natural state.
+- **Development history:** Snag removal began in 1832. Congress authorized a bank stabilization and navigation project in 1912 (6 ft by 200 ft channel, Kansas City to the mouth). A 1945 modification extended it to Sioux City, Iowa, and increased the channel to 9 ft (2.7 m) deep by 300 ft (91.4 m) wide. Construction used dikes (perpendicular to flow) and revetments (parallel to flow), plus cutoffs that shortened the river by about 75 mi (121 km) since 1890, to a present length of 732 mi (1,178 km) between Sioux City and the mouth. Six large multipurpose dams were built between 1940 and 1964 on the upper river, the farthest downstream being [[Gavins Point Dam]] near Yankton.
 
 ## Ecological & Environmental Context
 
-Channelization and bank stabilization caused major habitat loss:
-
-- **Surface area:** Water surface area between Sioux City and Kansas City, over 500 mi (804 km) long, fell from 111,700 acres in 1879 to 60,900 acres (24,645 ha) in 1912.
-- **Channel width:** Average width was substantially reduced, though some source figures are illegible in the scan.
-- **Flood plain:** Cultivated flood plain rose from 26 percent (1926) to 43 percent (1972), with forest and wetland clearing reducing riparian habitat.
-- **Commercial fishery:** The reported commercial harvest declined from 450,000 lb (204,100 kg) to 90,000 lb (40,800 kg), a decline of about 80 percent since 1963. The 1963 low was the lowest since the 1940s.
-- **Habitat loss:** Loss of side channels, backwaters, sandbars, and snags reduced habitat diversity for fish and wildlife, including furbearers, waterfowl, and other wildlife.
-
-The Fish and Wildlife Coordination Act of 1958 provided the opportunity to restore fish and wildlife habitat in the project.
+- **Channel narrowing:** Reducing the average channel width from about 3,000 ft (4,900 m) to 1,100 ft (1,770 m) eliminated nearly all islands and side channels. The water surface area in the lower 500 mi (804 km) fell from 121,700 acres (49,250 ha) in 1879 to 60,900 acres (24,645 ha) in 1972 (Funk and Robinson 1974), and the water surface below Sioux City was estimated to be reduced by about one-half.
+- **Flood plain loss:** Along the lower 500 mi, flood plain forest cover declined from 76 percent (1826) to 13 percent (1972), while cultivated land rose from 18 to 83 percent (Bragg and Tatschl 1977).
+- **Fishery decline:** The [[Lake Sturgeon]] is virtually extinct in the river, [[Paddlefish]] numbers are greatly reduced, and large [[Blue Catfish]] are rarely caught. Reported commercial harvest fell about 80 percent between 1947 and 1963, from 430,000 lb (204,100 kg) to 90,000 lb (40,800 kg). Harvests have since partly recovered but have not returned to late-1940s levels (Robinson 1979a).
+- **Wildlife:** Loss of quiet backwater habitat has affected muskrat, mink, raccoon and waterfowl use. Whitetail deer are limited by lack of forest cover, and river otter is rare.
+- **Flood stages:** Levees, dikes, revetments, and highway and railroad fills have raised flood heights. Corps of Engineers studies indicate that most of the increase stems from private levees, and that the 1951 flood of record would produce stages about 3 ft (0.9 m) higher today.
+- **Regulatory framework:** The [[Fish and Wildlife Coordination Act]] (1958) provided the opportunity to restore lost habitat diversity.
 
 ## Key Findings
 
-**Structure types and objectives**
+1. **Structure modifications:** Four modification types were developed through joint meetings and field inspections by the Missouri River Division, Corps of Engineers, and federal and state fish and wildlife agencies:
+   - **Notched structures:** Notches 20–100 ft (6.1–30.5 m) wide and 3–12 ft (0.9–3.7 m) below the structure crest. Since 1974, about 1,100 structures were notched (150 new, 400 repaired with a section left unrepaired, and 550 existing structures excavated). Most formed small chutes with submerged sandbars, approximately doubling aquatic edge.
+   - **Low elevation structures:** In 1975 dike design elevation was lowered 4 ft (1.2 m), below the water surface 95 percent of the time. This reduced cost, limited permanent vegetation on accretions, created varied depths, and reduced flood-capacity impacts. Deep holes form downstream, and submerged bars 2–5 ft (0.6–1.5 m) deep develop.
+   - **Rootless (vane) dikes:** Structures 150–300 ft (45.7–91.4 m) long, not tied into the bank, with the landward end 50–250 ft (15.2–76.2 m) from it, angled 15–30 degrees downstream. Field inspections reported excellent results with little silting, but accretion occurred at four vane-dike sites because of length and spacing. Shorter structures or wider spacing are recommended, and lower priority now applies to new vane dikes given their cost-effectiveness.
+   - **Chute closure modifications:** Pile or rock closures were notched or fitted with pipes. Three structures with 30–48 in (76–122 cm) pipes silted or clogged with debris. Landowner access needs led to development of large culverts or bridges that permit flow while preserving access.
 
-- The Corps and state wildlife agencies developed four main modifications: notched dikes, low-elevation (lowered) dikes, rootless dikes, and chevron/closure structures.
-- Modifications aimed to maintain navigation, reduce bank erosion, increase flood-carrying capacity, and create diverse habitats.
-- Structures were built to create deep holes, backwaters, and variable-velocity habitat, with some structures designed to use water level variation.
+2. **Principles of habitat design:** Lowering structures and notching or detaching them from the bank helps stop permanent land accretion while maintaining navigation. Diverse water depths and flows at varying stages support fish and wildlife, and habitat is least abundant during floods, when the river runs free bank to bank.
 
-**Notched dikes**
+3. **Species use:** [[Flathead Catfish]], [[Freshwater Drum]] and [[Blue Sucker]] appear to prefer the fast water at notches, which also attracts pole and line anglers. Shallow sandbars serve as nursery areas for young fish and minnows and as harvest areas for blue catfish, channel catfish, freshwater drum and [[Shovelnose Sturgeon]]. Deep holes concentrate fish during winter low flows.
 
-- Notches were cut into dike crests to allow flow through, creating deeper pools and varied flow.
-- Notches generally work well, but the sinking of notch sections or closure with rock or debris has occurred.
-- Notched dikes are cheaper than some other types and can be used by landowners for access, which was discussed as a potential issue.
+4. **Limitations of evidence:** The authors state it is nearly impossible to demonstrate fish population improvement from modified structures, given difficult sampling in a large turbid river, shifting habitat from annual water-level changes and ice cover, and difficulty isolating structure preference. Total benefits may not be known for several years.
 
-**Low-elevation dikes**
-
-- In 1975 the design lowered dikes by 4 ft (1.2 m) to an elevation below the water surface 95 percent of the time.
-- Lowered dikes reduce cost and maintenance, improve habitat, and reduce the effect on flood carrying capacity.
-- Low structures create high sediment deposition and vegetated islands and banks.
-
-**Rootless and chevron/closure structures**
-
-- Rootless dikes are not attached to the bank, which leaves a flow gap at the shore and prevents excessive bank erosion.
-- Closure structures are used to create deep, high-quality habitat and reduce the amount of deposition.
-
-**Scale and inventory**
-
-- A 1974 inventory reported about 1,100 structures, including about 550 dikes, though the exact breakdown is partly illegible in the scan.
-
-**Fish and wildlife response**
-
-- Studies by Robinson (1979b) indicated that modified structures were desirable for fish.
-- [[Flathead Catfish]], [[Freshwater Drum]], and [[Blue Sucker]] appear to prefer the faster water provided by notched dikes.
-- Shallow bays and backwaters provide nursery habitat for young fish.
-- Deep holes adjacent to modified structures provide refuge for fish during high flow.
-
-**Limitations and conclusions**
-
-- Full restoration of the pre-channelization river is not possible given the scale of the altered system.
-- Structures are effective only when designed for specific habitat goals; a diversity of structures across varying water levels is important.
-- Modified structures are considered a major step toward restoring habitat diversity, though long-term monitoring is needed to quantify fish and wildlife benefits.
-
-**Cross-references:**
-- Related concepts: [[Habitat Diversity]], [[Channelization]], [[Flood Control]], [[Lateral Channel Migration]], [[Mainstem Dams]], [[Commercial Fishery]].
+5. **Conclusions:** Channelization eliminated much fish and wildlife habitat and most side channels, backwaters and sloughs, which are key feeding, nursery, resting and spawning areas. Modified structures appear to halt accretion and provide habitat usable at various stages. Future work should aim to identify limiting factors for specific species and to design structures accordingly, with careful coordination between biologists and engineers.

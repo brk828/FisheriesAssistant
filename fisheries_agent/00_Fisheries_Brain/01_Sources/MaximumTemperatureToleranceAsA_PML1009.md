@@ -1,11 +1,11 @@
 ---
-species: N/A
-common_name: N/A
-family: N/A
-habitat: Freshwater spring-fed pond and spring source (Monkey Spring)
+species: Poeciliopsis occidentalis
+common_name: Gila Topminnow
+family: Poeciliidae
+habitat: Spring source and adjacent pond, Monkey Spring, Upper Sonoran woodland
 ocean_basin: N/A
-location: Southeastern Arizona, USA
-tags: [ichthyology, marine-biology, thermal-tolerance, freshwater-fish, dissertation]
+location: Monkey Spring, Santa Cruz County, southeastern Arizona (ca. 32° N)
+tags: [ichthyology, marine-biology, poeciliidae, thermal-tolerance, physiological-adaptation]
 title: "Maximum temperature tolerance as a function of constant temperature acclimation in the gila topminnow"
 source_id: "PML1009"
 marsh_id: "PML1009"
@@ -13,40 +13,62 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "W. G. Heath (1962). Maximum temperature tolerance as a function of constant temperature acclimation in the gila topminnow. University of Arizona, Graduate College (dissertation). Marsh Library ID: PML1009."
 source_file: "Heath W.G. 1962. Maximum temperature tolerance as a function of constant temperature acclimation in the gila topminnow.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Upper Temperature Tolerance of a Desert Spring Fish as a Function of Acclimation and Season
+# Maximum temperature tolerance as a function of constant temperature acclimation in the gila topminnow
 
-#ichthyology #marine-biology #freshwater-fish
+#ichthyology #marine-biology #poeciliidae
 
 ## Executive Summary
 
-This University of Arizona dissertation examines the genetic and physiological limits of upper temperature tolerance in a fish population from a unique spring habitat in southeastern Arizona, [[Monkey Spring]]. The study compares fish from the spring source with fish from an adjacent, highly variable pond, and uses [[Critical Thermal Maximum]] (CTM) and [[Resistance-Time]] methods to separate genetic from environmental effects. The central result is that the upper thermal tolerance plateau reflects a genetic limit, while seasonal differences largely reflect the rate of [[Thermal Acclimation]]. The OCR text is heavily degraded, so the species name, exact figures and some methods are only partly recoverable and are noted as such.
+This 1962 University of Arizona doctoral dissertation by Wallace G. Heath examines how [[Critical Thermal Maximum]] (CTM) and [[Resistance-Time]] vary with [[Acclimation Temperature]] and acclimation time in the [[Gila Topminnow]], a native fish of southeastern Arizona. The study compares fish from a constant-temperature spring with fish from an adjacent, highly variable pond at [[Monkey Spring]]. The central aim is to develop a laboratory method that separates genetic tolerance limits from acclimation and environmental effects, so that populations can be compared on a genetic basis.
 
 ## Background & Description
 
-- **Document type:** Doctoral dissertation, Graduate College, University of Arizona, submitted in partial fulfilment of the Degree of Doctor of Philosophy. Front matter includes acknowledgments to the author's advisors and committee, and support from a [[Rockefeller Foundation]] program.
-- **Study system:** A native fish living in a natural spring (Monkey Spring) and a pond fed by it. Fish from both habitats were tested at a given season and at different seasons.
-- **Scope:** Methods for measuring genetic limits of maximum temperature tolerance; the effects of acclimation temperature, acclimation time, heating rate, season, photoperiod, body size, sex, dissolved oxygen, and water quality.
-- **Theoretical framing:** The introduction reviews the history of physiological adaptation in evolutionary biology and argues that physiological adaptation, including tolerance to extreme temperatures, is a key but under-studied component of adaptation.
+*Poeciliopsis occidentalis* (Baird and Girard) is a small live-bearing fish. Field-collected individuals ranged from 15 to 50 mm standard length. The study population at Monkey Spring is estimated at roughly 5000 individuals at the spring alone, with many thousands in the pond. More than 3100 fish were used across the experiments, with individual collections usually comprising 200 to 300 fish.
+
+The introduction frames the work within research on [[Physiological Adaptation]]. Physiological differences between organisms may arise from genetic differences (true adaptation), developmental history (ontogenetic effects), or recent environmental exposure (acclimation or adjustment). Separating these is the central methodological problem. The author notes that drying of Southwestern drainages over roughly the last 100 years has left isolated remnant populations in springs and ponds with frequent thermal extremes. Because so little time has passed for evolution, genetic differences are expected to be subtle, which motivated the sensitive measurement approach.
 
 ## Ecological & Environmental Context
 
-- **Habitat contrast:** The spring source has stable, cool-to-moderate temperatures, while the pond is highly variable in temperature and dissolved oxygen through time. Comparing lab results with the pond's environmental conditions allowed the author to assess how tolerance and its variability operate in nature.
-- **Seasonal effects:** Fish from the same habitat reached the same maximum tolerance levels, but differed in the acclimation time needed to reach them. Seasonal differences in natural thermal environments therefore mainly affected the speed of adjustment rather than the final tolerance achieved.
-- **Water quality:** Dissolved oxygen and fish concentration had no detectable effect on maximum tolerance. Water quality (spring water versus tap water) had an effect only at high proportions of natural spring water.
-- **Field data:** Temperature and oxygen were recorded in both the spring and pond for several summers and winters, using field-collected fish for summer and winter acclimation experiments.
+**Study site.** Monkey Spring lies in oak-grass woodland (Upper Sonoran Life Zone) at about 4,200 feet elevation, 5.6 miles southwest of Sonoita. A constant-temperature spring source (27.3° C) flows into a pond about one-half mile away, and the pond is highly variable in temperature. The pond has roughly four times the oxygen level of the spring and is one unit higher in pH. Breeding occurs year-round at the source but ceases from November through February in the pond.
+
+**Field conditions.** Field measurements recorded at collection included temperature, pH, dissolved oxygen, total dissolved salts (hardness), and photoperiod. Photoperiod was interpolated from the *American Ephemeris* (1946) for the site latitude. Accuracy was ±0.5 ppm O₂, ±0.25 pH unit, ±2 gr/gal dissolved salts, and ±0.05° C.
+
+**Water quality.** Spring water hardness was nearly five times that of Tucson tap water, mainly due to magnesium sulfate. University tap water did not support maximum tolerance even after aeration and standing. Pond water and a 50:50 pond–tap mixture gave statistically similar CTM values, so the mixture was used for most of the work.
+
+**Laboratory setup.** Fish were acclimated in ten-gallon glass aquaria lined with polyethylene, at about 7.5 gallons of half spring and half tap water, with thermoregulated heaters. Temperature stability within tanks was ±0.04° C. CTM tests used a stainless steel water bath heated at approximately 0.6° C per minute.
 
 ## Key Findings
 
-1. **Genetic maximum tolerance:** The maximum CTM occurs as a plateau between approximately 35.0 and 36.0 °C; the plateau is the best criterion for comparing tolerance among populations because it reflects the genetic maximum.
-2. **Plateau method:** A roughly 24-hour experimental procedure, followed by complete acclimation (about four to five days), defines the plateau. The author recommends this method as a standard for estimating genetic tolerance limits.
-3. **Population differences:** Statistically significant differences in maximum tolerance were detected between populations with small sample sizes (reported as n = 10 to 15), indicating detectable genetic divergence between the spring and pond fish.
-4. **Seasonal effects:** Summer plateau values were higher than winter plateau values, and the winter plateau was reached at lower acclimation temperatures. Photoperiod was identified as the primary factor driving the seasonal difference.
-5. **Acclimation time:** Reaching the maximum tolerance depends on acclimation temperature and duration; fish from the same environment but different seasons reached the same tolerance levels at different acclimation rates.
-6. **Non-effects:** Sex, body size, and dissolved oxygen did not measurably change maximum tolerance.
-7. **Water quality:** Water quality had no effect on maximum tolerance except at high concentrations of natural spring water (≥50%), which produced the same maximum values as standard conditions.
-8. **Methodology:** The author recommends the plateau method (rather than single-point estimates) and warns that acclimation temperatures and times must be standardised before comparing populations.
-9. **Broader implication:** Differences in natural thermal environments primarily affect the rate of adjustment to stress, not the maximum tolerance reached, which strengthens the case for the genetic basis of tolerance.
+**Measurement of tolerance**
+- CTM is defined as the temperature at which locomotory control is lost, marked by a sudden loss of equilibrium, followed by gill-related and paralytic signs. The endpoint adopted for resistance-time is cessation of opercular movement.
+- Heating rates up to about 0.4° C/min gave no detectable difference in CTM. Rates above about 0.6° C/min did not allow adequate time to record responses.
+- Resistance-time follows the expected negative exponential relationship with temperature, and the regression is shown for 35.5°–37.0° C.
 
-**Caveat:** Numeric values in the OCR text (for example, exact plateau temperatures, sample sizes for every test, and seasonal magnitudes) are partly illegible and have been reported only where the text is reasonably clear. Verify against the original scan before citing.
+**Acclimation dynamics**
+- Maximum CTM occurs on a **plateau between 34.5° and 36.0° C** acclimation temperature. Gain in CTM with acclimation temperature is linear up to the plateau, with a slope that is consistent across seasons.
+- A 24-hour acclimation experiment reliably identifies the plateau region (12 hours or less was sufficient to indicate it). Complete acclimation requires about four to five days, with minimum times of about three days at 36.0° C and longer at lower temperatures.
+- Acclimation at 37.0° C did not measurably raise CTM in winter. Fish at the highest temperatures (36.5°–37.0° C) died before full acclimation, which sets an upper limit for acclimation.
+
+**Plateau values**
+- Summer CTM plateau: **43.15 ± 0.07° C** (as reported in the Summary).
+- Resistance-time peaks at 35.0–35.5° C acclimation, at about **21 hours at 38.0° C**.
+
+**Habitat and genetic inference**
+- Source and pond fish reached the same CTM plateau within a season, so habitat did not affect the final maximum. Pond and source fish differed in the rate of adjustment, with source fish adjusting about twice as fast in winter during the first days.
+- Differences of about 0.3° C in CTM were statistically detectable with sample sizes of 10 to 15 per group. The author concludes that such differences could reveal genetic differences between populations.
+
+**Seasonal effects**
+- Winter CTM plateau was about 0.3° C lower than summer, and it occurred 0.5° C lower in acclimation temperature. Photoperiod was considered the most likely cause, because the spring's temperature was constant year-round.
+- Season affected CTM but not resistance-time after laboratory acclimation.
+
+**Factors with no detectable effect**
+- Sex, body size (two size extremes), fish density (3 vs. 10 fish per gallon), and preacclimation to 30–36° C had no effect on the plateau CTM.
+- Food type had no effect on CTM.
+
+**Synthesis and conclusions**
+- Maximum tolerance is represented as a three-dimensional surface with four regions: (A) rapid adjustment, (B) linear increase, (C) the CTM plateau, and (D) lethal stress.
+- The plateau provides the most reliable standard for comparing genetic tolerance limits between populations.
+- The author notes that habitat differences mainly affect the rate of acclimation, while final tolerance depends more on season and photoperiod.

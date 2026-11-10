@@ -435,18 +435,6 @@ The first well-documented flood of Lake Eyre North, which reached -10.30 m AHD b
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
 
-## 1964 Supreme Court Decree
-
-### Summary
-The 1964 Supreme Court Decree in Arizona v. California is a legal ruling governing the allocation of Colorado River water among the basin states. In this report, concerns were raised about it, and the report lists a need to clarify how it applies to the project; the report gives no further detail.
-
-### Context
-> This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of...
-> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
-
-### Mentioned In
-- [[StatusReportOnTheLowerColorado_PML1780]]
-
 ## 1964 Wilderness Act
 
 ### Summary
@@ -709,6 +697,9 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 > This 1968 review by Donald W. Johnson of the [[Arizona State University]] Department of Zoology surveys the literature on pesticide interactions in aquatic habitats, with emphasis on effects on fishes. The author argues that research to date has focused on acute, directly lethal effects, measured...
 > -- *[[PesticidesAndFishesaReviewOfSe_19749]]*
 
+> This extension publication, prepared by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Laboratory]] (La Crosse, Wisconsin) and the [[University of Arkansas Cooperative Extension Service]], is a reference guide to chemicals approved for use in [[Aquaculture]] and fishery...
+> -- *[[AGuideToApprovedChemicalsInFis_PML2295]]*
+
 ### Mentioned In
 - [[SafetyAsRelatedToTheUseOfChemi_11812]]
 - [[ChemicalControlOfSubmergedWate_19910]]
@@ -722,6 +713,7 @@ A phenoxy herbicide used in this program mainly in a mixture with 2,4-D. The sou
 - [[ControlOfAquaticWeedsInFarmPon_16551]]
 - [[RangeExpansionAndEnvironmental_17623]]
 - [[PesticidesAndFishesaReviewOfSe_19749]]
+- [[AGuideToApprovedChemicalsInFis_PML2295]]
 
 ## 2,4-D and 2,4,5-T Herbicides
 
@@ -986,6 +978,18 @@ A section of the U.S. Code requiring that federal contracts generally be awarded
 ### Mentioned In
 - [[ConservationOfEndangeredSpecie_19348]]
 
+## 4200 Diet
+
+### Summary
+A commercial fry diet from Bio-Marine (Hawthorne, CA) tested on larval razorback sucker. It gave the lowest survival (20.0%) but weight gain (0.066 g) that did not differ significantly from the top-growth diet, and its particles were mostly 150–250 µm.
+
+### Context
+> This study by Tyus and Severson (U.S. Fish and Wildlife Service, Vernal, Utah) tested whether larval [[Razorback Sucker]] (*Xyrauchen texanus*) can be reared from sac-fry to 40 days old on commercially available dry [[Artificial Diets]] instead of pond-cultured natural foods. A total of 600 fish...
+> -- *[[LarvalRazorbackSuckerResponseT_PML2526]]*
+
+### Mentioned In
+- [[LarvalRazorbackSuckerResponseT_PML2526]]
+
 ## 43 CFR Part 12
 
 ### Summary
@@ -1079,6 +1083,18 @@ This is the Code of Federal Regulations part that governs endangered and threate
 
 ### Mentioned In
 - [[EndangeredAndThreatenedWildlif_PML0774]]
+
+## 50 CFR Part 402
+
+### Summary
+Part 402 of Title 50 of the Code of Federal Regulations contains the general interagency consultation rules under the Endangered Species Act. This proposal would leave subparts A and B of that part in place and add a new subpart C with an alternative, earlier, and more flexible framework for Forest Service and Bureau of Land Management actions.
+
+### Context
+> This document is a regulatory package rather than a fish study. It contains the August 4, 1995 *Federal Register* proposal (60 FR 39923) by the [[U.S. Fish and Wildlife Service]] (FWS) and the [[National Marine Fisheries Service]] (NMFS) to adopt joint counterpart regulations under [[Section 7...
+> -- *[[EndangeredAndThreatenedSpecies_PML0770]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedSpecies_PML0770]]
 
 ## 50 Cfr Part 424
 <!-- fm: auto_enriched: true -->

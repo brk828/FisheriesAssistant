@@ -2,10 +2,10 @@
 species: N/A
 common_name: N/A
 family: N/A
-habitat: Lower Colorado River, Imperial Division tailwater channel and adjacent floodplain
+habitat: Backwaters and channels of the Lower Colorado River (dredged restoration and enhancement areas)
 ocean_basin: N/A
-location: Imperial Division, Lower Colorado River, California and Arizona, USA
-tags: [ichthyology, marine-biology, freshwater-habitat-restoration, water-management, environmental-review]
+location: Imperial Division, Lower Colorado River (Arizona and California), Imperial National Wildlife Refuge area
+tags: [ichthyology, marine-biology, freshwater-habitat, restoration-planning]
 title: "Status Report on the Lower Colorado River Imperial Division Backwater Restoration and Enhancement Plan"
 source_id: "PML1780"
 marsh_id: "PML1780"
@@ -13,57 +13,52 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "C. O. Minckley (1997). Status Report on the Lower Colorado River Imperial Division Backwater Restoration and Enhancement Plan. Imperial Division Work Group (fax transmission). Marsh Library ID: PML1780."
 source_file: "Minckley C.O. 1997. Status report on the LCR river imperial division backwater restoration and enhancement plan.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Status Report on the Lower Colorado River Imperial Division Tailwater Restoration and Enhancement Plant
+# Status Report on the Lower Colorado River Imperial Division Backwater Restoration and Enhancement Plan
 
-#ichthyology #marine-biology #freshwater-habitat-restoration
+#ichthyology #marine-biology #freshwater-habitat
 
 ## Executive Summary
 
-This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of Reclamation]]. The report describes a plan to merge the plan and EA into one document, address comments from more than one agency, and complete the planning process. It does not report any biological sampling, species data, or measured environmental results. Its content concerns administrative and permitting status, open technical questions, and next steps.
+This fax-transmitted status report, issued by the [[Imperial Division Work Group]] (IDWG), tracks progress on a [[Backwater Restoration And Enhancement Plan]] for the [[Imperial Division]] of the [[Lower Colorado River]]. A preliminary plan and [[Environmental Assessment]] (EA) were circulated for comment in early 1997. A meeting on March 4, 1997 set an action plan, with a target completion date of May 1 for the combined document. The May 1 date was driven by [[Bureau Of Reclamation]] internal planning deadlines for the dredge crew, which must be met before any work can begin. The report does not describe fish populations or species data. Its focus is planning, permitting, and interagency coordination, with some references to federally listed Colorado River fish.
 
 ## Background & Description
 
-The IDWG began drafting the restoration plan and EA after an earlier review round, when the group discussed concerns from agencies and outside parties and set out what remained to be done. The group received all comments and held a review meeting on March 4, 1997. The plan was intended to be near completion by the end of that spring.
+The restoration effort covers backwater habitats in the Imperial Division. The plan and EA were drafted by agencies involved in the IDWG, then reviewed by agencies and outside groups. Reviewers included the [[Colorado River Board Of California]], the [[U.S. Fish And Wildlife Service]] (USFWS), the [[Army Corps Of Engineers]], the Backwater Committee, the [[Arizona Department Of Water Resources]] (ADWR), the Imperial Division Steering Committee, and the [[Imperial Irrigation District]].
 
-The project addresses tailwater conditions on the Lower Colorado River below the [[Imperial Dam]] area. The report refers to dredging and sediment handling, but gives no quantities, volumes, or lengths of channel for the work.
+The plan is being merged with the EA into one document in the style used by the [[Bureau Of Land Management]]. The merged document is meant to have the support of all IDWG members. Comments that were not incorporated must be accompanied by an explanation.
 
 ## Ecological & Environmental Context
 
-The report does not present any ecological data. It names the agencies and groups that provided comments on environmental and resource concerns, including:
+The work is physical habitat modification, mainly dredging and excavation in backwaters, with material side-cast or relocated. The report raises these environmental issues:
 
-- [[Colorado River Board Of California]]
-- [[U.S. Fish And Wildlife Service]] (USFWS)
-- [[Army Corps Of Engineers]]
-- [[Arizona Department Of Water Resources]]
-- [[Imperial Irrigation District]]
-- The [[Imperial Division Steering Committee]]
-
-Several concerns were raised about cultural resources and coordination with the [[Multi-Species Conservation Program]] (MSCP). The report asks that a clear copy of the document go to the [[Bureau Of Reclamation]] archaeologist for review of cultural resources, and that the project's relationship to the [[State Historic Preservation Office]] (SHPO) be clarified.
-
-Several comments asked for the on-the-ground dredging process to be described in more detail, including how public participation would be involved. Concerns about the [[1964 Supreme Court Decree]] in [[Arizona V. California]] were also raised, and the report lists a need to clarify it.
+- **Relocated sediment:** The ultimate disposition of dredged material needs clear documentation. Options under review are side-casting into the main river channel, using additional booster pumps to move material farther away, and depositing it in upland areas both inside and outside the 100-year flood plain.
+- **Water budget:** ADWR has raised concerns about water budget accounting. Possible responses include clarifying the 1964 [[Arizona Vs. California Decision]] and the historical configuration of open water, and adding Impact Ledger columns for surface water gains and vegetation changes.
+- **Federally listed fish:** Where activities are expected to benefit [[Native Colorado River Fish]], the project summary will say so. The same notation will apply to activities that benefit non-native species.
+- **Multi-species coordination:** Concerns about overlap with the ongoing [[Multi-Species Conservation Program]] (MSCP) must be addressed.
+- **Cultural resources:** A clean copy is to go to the USFWS archaeologist for clearance, and the report says SHPO clearance for the full project area needs clarifying.
 
 ## Key Findings
 
-**Procedural status**
-- The plan and EA will be combined into one document, styled and reviewed by the Bureau of Reclamation.
-- The revised document will incorporate all constructive comments, with an explanation given for any comment not included.
-- The revised document will address concerns and deficiencies raised by key agencies and groups, and will be circulated to all IDWG members.
+**Schedule and process**
+- The target completion date for the combined plan and EA was May 1, 1997, set at the March 4, 1997 meeting.
+- Discussions with ADWR were to begin as early as March 10, 1997.
 
-**Technical revisions requested**
-- Add a specific description of the on-the-ground dredging process, including the amount of area to be dredged and the volume of material.
-- Consider additional alternatives for handling dredged material, including:
-  - Side-casting the material into the main river channel.
-  - Obtaining additional booster pumps to relocate material farther from the operation.
-  - Depositing material in upland areas both inside and outside the floodplain.
-- Address concerns about how the project area fits into a group of projects.
+**Required revisions**
+- Add a Dredge Plan describing the on-the-ground process with dredge crew participation, including field marking of areas to be excavated or dredged.
+- Add a Sedimentation Section covering the disposition of relocated material.
+- Prepare a separate map or set of maps for each project so that individual projects or groups can be funded separately.
+- Expand the scoping, public involvement, and coordination sections.
+- Expand the treatment of federally listed Colorado River fish and label each project's benefit to native or non-native species.
 
-**Permits and consultation**
-- The IDWG has begun the paperwork for two [[Section 404 Permit]]s, one for the Almond Channel project and one for the Calhoun Channel project.
-- A [[Section 7 Consultation]] is requested for the entire document.
-- A [[Finding Of No Significant Impact]] (FONSI) will be drafted by the Bureau of Reclamation once the combined plan and EA are finalized.
+**Permits and compliance**
+- Permit paperwork has started for:
+  1. [[Section 404 Permit]] for the Arizona Channel Project.
+  2. [[Section 404 Permit]] for the California Channel Project.
+  3. [[Section 7 Consultation]] covering the entire document.
+- The EA and [[Finding Of No Significant Impact]] (FONSI) are to be signed by Gary Bryant once the Imperial Backwater Steering Committee accepts the combined plan.
 
-**Next steps**
-- The Bureau of Reclamation will circulate the draft to key agencies, including USFWS, the Army Corps of Engineers, and the Arizona and California water agencies.
-- Reviewers were asked to send comments within a stated timeframe, with a meeting offered to address any issues.
+**Next step**
+- After revisions, the Bureau of Reclamation will send a final review copy to the key agencies and groups, with a cover letter inviting further comments or a meeting.

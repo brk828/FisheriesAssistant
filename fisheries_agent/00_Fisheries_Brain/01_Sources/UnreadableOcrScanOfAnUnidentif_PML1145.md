@@ -1,53 +1,77 @@
 ---
-species: N/A
-common_name: N/A
-family: N/A
-habitat: N/A
-ocean_basin: N/A
-location: N/A
-tags:
-  - ichthyology
-  - marine-biology
-  - unreadable-scan
-title: "Unreadable OCR Scan of an Unidentified Document"
+species:
+  - Corbicula fluminea
+  - Melampus (Micromelampus) bidentatus
+  - Pira monile
+  - Detracia floridana
+  - Melampus (Melampus) flavus
+  - Rochefortia cuneata
+common_name: Asiatic clam; N/A (Melampus, Pira, and Detracia species); N/A (Rochefortia cuneata)
+family: Corbiculidae; Melampidae; Mysellidae (as Mysella, per Dall 1899)
+habitat: Freshwater canals, rivers, and irrigation systems; coastal and brackish shores; subtidal sediments as a commensal of a sipunculid worm
+ocean_basin: Atlantic; Indo-Pacific; Pacific (Colorado River drainage, freshwater)
+location: Parker, Arizona; Colorado River; Tennessee River; Ohio River; Western Atlantic coasts (Quebec to Texas, West Indies); Quisset Harbor and Buzzards Bay, Massachusetts
+tags: [malacology, mollusca, corbiculidae, melampidae, invasive-species, commensalism]
+title: "Melampid Taxonomy, Asiatic Clam Reinfestation, and a Commensal Pelecypod"
 source_id: "PML1145"
 marsh_id: "PML1145"
 library: "Marsh Library"
 permission: "not public domain"
-source_citation: "W. M. Ingram, L. Keup, C. Henderson (1964). Unreadable OCR Scan of an Unidentified Document. Marsh Library ID: PML1145."
+source_citation: "W. M. Ingram, L. Keup, C. Henderson (1964). Melampid Taxonomy, Asiatic Clam Reinfestation, and a Commensal Pelecypod. Marsh Library ID: PML1145."
 source_file: "Ingram W.M. Keup L. Henderson C 1964. asiatic clams at parker az.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Unreadable OCR Scan of an Unidentified Document
+# Melampid Taxonomy, Asiatic Clam Reinfestation, and a Commensal Pelecypod
 
-#ichthyology #marine-biology #unidentified-taxon
+#malacology #mollusca #corbiculidae #melampidae
 
 ## Executive Summary
 
-The supplied source is a four-page scan whose text layer is almost entirely corrupted. The characters are fragmented, jumbled and mixed with stray symbols, so no coherent sentences, names, numbers or data can be recovered. The document cannot be identified as a research paper, proposal, budget or correspondence, and no species, habitat or location is legible. This note therefore records the document's status rather than its content.
+This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives shell-sculpture characters for identification. The second is a report on a second infestation of the [[Asiatic Clam]] (*Corbicula fluminea*) in an irrigation canal at [[Parker Arizona]], with notes on dispersal hypotheses and population structure. The third is a redescription of the commensal bivalve *Rochefortia cuneata*, with ecological notes on its host and associated fauna. A plate of [[Agaronia]] (Olividae) figures is also included but carries no accompanying text.
 
 ## Background & Description
 
-- **Format:** Four pages, each with a dense block of garbled characters, with partial stray glyphs at the margins.
-- **Page structure:** Some pages show what may be page-edge or header artifacts, but none yields a readable heading, author, date or institution.
-- **Scan quality:** The OCR output appears to have failed on the original image, possibly because of low resolution, skew, or a non-text or heavily graphic layout. Fragments such as isolated letters and symbols do not form words in any language that can be reliably reconstructed.
-- **Scope:** Whether the original concerns fish, invertebrates, plankton, water chemistry or habitat cannot be determined from the recoverable text.
+**Melampidae (Melampus, Micromelampus, Detracia, Pira).** The author reviews a treatment by [[Holle And Dineen]] and notes that they overlooked earlier work showing that all known Texas *Melampus* belong to *M. bidentatus*. Three American species are discussed:
+
+- *Melampus (Micromelampus) bidentatus* Say: ranges from southern Quebec to Texas and the West Indies.
+- *Detracia floridana* (Pfeiffer): restricted to Atlantic United States shores, from New Jersey (Delaware Bay) to New Orleans, Louisiana.
+- *Pira monile* (Bruguière): from southern Florida across the West Indies to South America. This is the "group C" of Holle and Dineen.
+
+**Corbicula fluminea.** The Asiatic clam is a freshwater bivalve that infests cement-lined irrigation canals and water-intake systems. It creates nuisance conditions in canals, ditches, pumps, and cooling systems.
+
+**Rochefortia (Pythinella) cuneata.** Originally described as *Montacuta cuneata* by Verrill and Bush (1898), this small commensal pelecypod was later placed in *Mysella* (Dall 1899) and *Rochefortia* (Morrison 1962). The original description gave no ecological information.
 
 ## Ecological & Environmental Context
 
-No ecological or environmental content can be confirmed. The following fields are not addressed by any legible text in the document:
+**Parker, Arizona canal.** The Colorado Indian Reservation irrigation system was cleaned by the Bureau of Reclamation in January 1962. Clams were still present, and large populations were found 16 months later in May 1963. Sampling on May 23, 1963, in the "Main Canal," 4 miles southwest of Parker, found 135 to 275 clams per square foot of canal bottom. The substrate was heavy gravel, sand, and decomposing organics, primarily dead *Cladophora* buried in sand and compacted by roots of rooted pondweed (*Potamogeton* spp.), with *Chara* spp. and *Cladophora* spp. Associated fauna included physid snails, dragonflies, planarians, simuliids, and tendipedids. The closest clam source is the [[Colorado River]], where the species is relatively abundant from [[Parker Dam]] to the Mexican border. It has also been recorded in Metropolitan Water District of Southern California intake structures and in Phoenix irrigation canals.
 
-- Species and taxonomy
-- Habitat type and ocean basin
-- Geographic location
-- Water chemistry, habitat conditions or sampling methods
-- Population, abundance or survey data
+**Eastern United States.** The clam was first reported in the [[Tennessee River]] in 1959 and spread along the [[Ohio River]] (Metropolis, Illinois; Dayton, Kentucky; Cincinnati, Ohio, to Warsaw, Kentucky). It was also reported in the lower Green River, a tributary of the Ohio.
 
-Any ecological interpretation would be speculation, so none is offered here.
+**Dispersal hypotheses.** The authors list four possible mechanisms:
+- Transport in gravel dredged for cement aggregate and lost during barge transport or at construction sites. The senior author kept clams alive out of water for at least five days.
+- Bird transport, either by clinging to waterfowl or by surviving passage through a duck's gut after being swallowed while closed (suggested by [[William J Clench]]).
+- Human release of bait or aquarium specimens.
+- Introduction as aquarium contents later dumped into waterways.
+
+**Rochefortia habitat.** *R. cuneata* lives in association with the sipunculid worm *Phascolion strombi* (Montagu). Ten empty gastropod shells, including *Nassarius trivittatus* (Say) and *Eupleura caudata* (Say), were also collected. Specimens came from subtidal sites in Quisset Harbor, Falmouth, Massachusetts, at 5 meters depth, and from Buzzards Bay, Massachusetts. Work was supported by the [[National Science Foundation]] and carried out at the [[Woods Hole Oceanographic Institution]].
 
 ## Key Findings
 
-1. **No legible content:** The document's text cannot be recovered in a form that supports data extraction.
-2. **No verifiable scientific data:** No sample sizes, statistics, species counts or measurements appear in a readable form.
-3. **No plans, conclusions or regulatory statements:** The document's purpose, whether proposal, budget, correspondence or research, cannot be identified.
-4. **Recommended next step:** Obtain a higher-resolution or re-scanned copy, or the original born-digital file, and re-run OCR before extraction.
+**Melampid nomenclature and identification**
+- The name *Pira monile* (Bruguière, 1789) must be used for "group C." It predates *Voluta flava* Gmelin (1791) and refers to a different species.
+- *Melampus (Melampus) flavus* (Gmelin, 1791) is the earliest and only correct name for the Indo-Pacific species later called *M. luteus* by Quoy and Gaimard (1833). Gmelin's name was based solely on a poorly colored figure in Martini-Chemnitz (1771), described as the "Golden Shell" of the East Indies. The name *flavus* as used in American literature was a confused mixture of at least three American species.
+- The author designates *Tralia (Pira) kusteri* Kuster (1844) = *Pira fasciata* (Deshayes, 1830) as the genotype of *Pira*. This corrects the 1880 Kobelt designation, which was invalid because *fasciata* was not among the originally included names.
+- Shell-sculpture characters separate the species: *M. bidentatus* has spiral incised lines on the shell above the body-whorl shoulder; *M. coffeus* lacks them; *Pira monile* has a single spiral row of epidermal setae (or pit-scars) mid-whorl on the spire.
+- Equivalent sculpture-based groups occur in the Indo-Pacific: *Melampus nucleolus* Martens (1865), *Detracia pulchella* (Petit, 1842), and *Pira fasciata*.
+
+**Asiatic clam reinfestation**
+- Clams reappeared in the cleaned canal within 16 months, at densities of 135 to 275 per square foot. This shows rapid repopulation capacity.
+- Size-class analysis (anterior-posterior length) at Parker found three classes: 30% at 3 to 7 mm, 65% at 9 to 18 mm, and 57% at 22 to 28 mm, as printed in the source. These percentages sum to more than 100%, so they may contain a transcription error. The Ohio River showed the same three classes.
+- The three classes likely represent year-classes. Their presence suggests that some clams survived the 1962 cleaning or entered the canal afterward. The absence of a fourth class suggests clams rarely live beyond about 3 years, or that growth slows markedly after year three.
+- The authors expect that increased attention to the species will lead to more distribution records and further studies of its life history, ecology, and physiology.
+
+**Rochefortia cuneata**
+- The paper provides an improved illustration and identification features for *R. cuneata*, and it documents its commensal association with *Phascolion strombi* for the first time.
+
+Related reading: [[Corbicula Fluminea]], [[Rochefortia Cuneata]], [[Melampidae]], [[Ingram]], [[Public Health Service]].

@@ -853,8 +853,12 @@ Quantitative Ecology (Bio 526) was a graduate-level field class proposed for the
 > This 1994 memorandum from [[W. L. Minckley]] to [[Arizona State University]] administration proposes establishing a formal summer field ecology program at the [[Sierra Ancha Field Station]]. The proposal addresses nationwide reductions in field training opportunities during the 1970s and responds...
 > -- *[[DraftEvaluationOfPotentialsFor_15827]]*
 
+> This memorandum, dated 24 August 1994 from W. L. Minckley to Zoology Faculty and Staff, outlines a proposed field-based upper-division and graduate summer session in ecology at the [[Sierra Ancha Station]] for Summer Session 1995. The program is a joint effort of the Department of Zoology and the...
+> -- *[[AFieldBasedUpperDivisionAndGra_1994_08_24]]*
+
 ### Mentioned In
 - [[DraftEvaluationOfPotentialsFor_15827]]
+- [[AFieldBasedUpperDivisionAndGra_1994_08_24]]
 
 ## Quantitative Genetic Variation
 
@@ -877,8 +881,12 @@ Quantitative genetics is the study of traits influenced by many genes and the en
 > This theoretical paper by [[Sara Via]] and [[Russell Lande]] (*Evolution* 39(3): 505–522, 1985; University of Chicago) uses [[Quantitative Genetics]] models to ask how the level of [[Phenotypic Plasticity]] of a polygenic trait evolves in spatially variable environments. The authors treat a trait...
 > -- *[[GenotypeenvironmentInteraction_12095]]*
 
+> This document is a book chapter by Michael Lynch on how [[Quantitative Genetics]] should inform the conservation of endangered species. Its central argument is that molecular markers are weak proxies for the adaptive genetic variation that determines whether a population can survive environmental...
+> -- *[[UnreadableScannedDocumentAquat_PML1389]]*
+
 ### Mentioned In
 - [[GenotypeenvironmentInteraction_12095]]
+- [[UnreadableScannedDocumentAquat_PML1389]]
 
 ## Quantitative Sampler
 
@@ -938,18 +946,6 @@ The set of procedures used to isolate and treat newly collected fish before they
 ### Mentioned In
 - [[BubblingPondsHatcheryDevelopme_PML0421]]
 
-## Quarantine Protocols
-
-### Summary
-Quarantine protocols are controlled isolation and screening procedures for fish before they are moved between facilities. The memo recommends that any future transfers from the source hatchery be avoided or made only under strict quarantine, and that fish be screened for the parasite before movement.
-
-### Context
-> This internal memorandum, dated in the header but with the year illegible in the scan, reports on efforts to control the [[Asian Tapeworm]] in hatchery fish. The author states that the parasite is panzootic and was probably spread through [[Grass Carp]] and their transport. The memo describes a...
-> -- *[[AsianTapewormControlAndSpreadI_PML1411]]*
-
-### Mentioned In
-- [[AsianTapewormControlAndSpreadI_PML1411]]
-
 ## Quartermaster Canyon
 <!-- fm: auto_enriched: true -->
 
@@ -985,6 +981,30 @@ Quarantine protocols are controlled isolation and screening procedures for fish 
 ### Mentioned In
 - [[EffectsOfInterimFlowsFromGlenC_13659]]
 - [[EffectsOfInterimFlowsFromGlenC_13660]]
+
+## Quarters Maintenance
+
+### Summary
+A capital and maintenance category on the Form 3-110 template, and the source of the "Quarters Maintenance (Fisheries)" funding column. The source records a column total of $6,318.26, but it does not describe the work involved.
+
+### Context
+> This document is a Form 3-110 operations and maintenance cost summary for the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC) for [[Fiscal Year 1997]]. It is a financial record, not a biological study. It contains no species, habitat, or population data. Its main content...
+> -- *[[DnfhFyAnnualReport_PML2725]]*
+
+### Mentioned In
+- [[DnfhFyAnnualReport_PML2725]]
+
+## Quartz
+
+### Summary
+Quartz is a common crystalline form of silicon dioxide. In this source, it is the mineral that serpentine was reported to alter into, based on specimens described by Theodore D. Rand in the mineralogical section minutes.
+
+### Context
+> This 1880 *Proceedings of the Academy of Natural Sciences of Philadelphia* excerpt contains a formal description of a new sucker, [[Catostomus Cypho]] (sp. nov.), by [[William N. Lockington]]. The species is known from a single, damaged specimen collected from the [[Colorado River]] at its junction...
+> -- *[[NewSpeciesOfCatostomusFromTheC_PML1373]]*
+
+### Mentioned In
+- [[NewSpeciesOfCatostomusFromTheC_PML1373]]
 
 ## Quartz Monzonite
 
@@ -1597,14 +1617,10 @@ A modest marine advance of the Pleistocene, followed by a regression. The author
 Quercus is the genus of oaks. This source lists oak as one of the legible plant entries in its vegetation inventory, without a species-level identification.
 
 ### Context
-> This document is a multi-page field log, not a fish study. It records a small-mammal trapping effort and a plant inventory at two roadside sites near creek drainages. The scan is heavily degraded, and most pages are unreadable. The legible entries cover a September field session, a group of student...
-> -- *[[AzGilaCoSierraAnchaMtFieldNote_19357]]*
-
 > This is the second installment of a floristic survey of the [[Cuatro Ciénegas Basin]] region of [[Coahuila]], Mexico, by [[Donald J. Pinkava]] (Department of Botany and Microbiology, Arizona State University). It covers the dicotyledonous families from Casuarinaceae through Loasaceae and was...
 > -- *[[VegetationAndFloraOfTheBolsonO_11095]]*
 
 ### Mentioned In
-- [[AzGilaCoSierraAnchaMtFieldNote_19357]]
 - [[VegetationAndFloraOfTheBolsonO_11095]]
 
 ## Quercus arizonica
@@ -1692,8 +1708,12 @@ A Sobaipuri village site (c. A.D. 1150–1760) on the San Pedro River in Cochise
 > This 1955 paper by [[Robert Rush Miller]] identifies fish remains recovered from three Arizona archaeological sites: [[Catclaw Cave]] on the lower [[Colorado River]], the Hohokam settlement of [[Snaketown]], and the Sobaipuri village of [[Quiburi]]. Using skeletal elements, Miller confirms that...
 > -- *[[FishRemainsFromArchaeologicalS_15324]]*
 
+> This 1955 paper by [[Robert Rush Miller]] identifies fish remains recovered from archaeological sites in Arizona, principally [[Catclaw Cave]] on the lower [[Colorado River]]. The bones show that Indigenous peoples relied on large native fishes, namely the [[Humpback Sucker]] and the [[Colorado...
+> -- *[[FishRemainsFromArchaeologicalS_PML1707]]*
+
 ### Mentioned In
 - [[FishRemainsFromArchaeologicalS_15324]]
+- [[FishRemainsFromArchaeologicalS_PML1707]]
 
 ## Quiburis Formation
 
@@ -2205,18 +2225,18 @@ A habitat restoration project at Quitobaquito Springs, begun in November 1989 wi
 > This document is a meeting agenda and logistics sheet for a May 28, 2009 status review of the low-water situation at [[Quitobaquito Pond]] within [[Organ Pipe Cactus National Monument]]. The agenda covers the pond's history, its current condition, and management options, and includes a subgroup...
 > -- *[[QuitobaquitoPondLowwaterSituat_PML0003]]*
 
-> This document is a letter from a zoologist at [[Arizona State University]] to [[E. Peter Sennett]] of the [[National Park Service]]. It reports preliminary limnological findings and management recommendations for [[Quitobaquito Pond]] and its spring-fed system at [[Quitobaquito Springs]], within...
-> -- *[[QuitobaquitoPondLimnologicalFi_PML0817]]*
-
 > This technical report (Cooperative National Park Resources Studies Unit, Technical Report No. 22; Quitobaquito Science Series No. 8, June 1989) by [[Stuart G. Fisher]] characterizes the hydrology and limnology of [[Quitobaquito Pond]] and its springs in the Sonoran Desert. It develops a midsummer...
 > -- *[[HydrologicAndLimnologicFeature_PML0820]]*
+
+> This is a letter from [[Arizona State University]] (Department of Zoology) to Dr. Peter Bennett of the [[National Park Service]]. It summarizes a limnological assessment of [[Quitobaquito Springs]] and [[Quitobaquito Pond]], based on a field visit on 26–27 July (recorded as "7/26-27/64" in the OCR)...
+> -- *[[QuitobaquitoPondLimnologicalFi_PML0817]]*
 
 ### Mentioned In
 - [[NonNativeFishSurveyOfTheQuitob_11721]]
 - [[ReportOnTheAnnualCensusOfCypri_18280]]
 - [[QuitobaquitoPondLowwaterSituat_PML0003]]
-- [[QuitobaquitoPondLimnologicalFi_PML0817]]
 - [[HydrologicAndLimnologicFeature_PML0820]]
+- [[QuitobaquitoPondLimnologicalFi_PML0817]]
 
 ## Quitobaquito Pool
 
@@ -2634,9 +2654,6 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 > This document is a comprehensive bibliography on the native fishes and aquatic resources of the [[Death Valley System]], a Pleistocene drainage network spanning eastern California and southwestern Nevada. Compiled by Robert Rush Miller (University of Michigan), David L. Soltz (California State...
 > -- *[[FishesAndAquaticResourcesOfThe_PML1712]]*
 
-> This document is a letter from a zoologist at [[Arizona State University]] to [[E. Peter Sennett]] of the [[National Park Service]]. It reports preliminary limnological findings and management recommendations for [[Quitobaquito Pond]] and its spring-fed system at [[Quitobaquito Springs]], within...
-> -- *[[QuitobaquitoPondLimnologicalFi_PML0817]]*
-
 > This paper formally describes a new subspecies of desert pupfish, *Cyprinodon macularius eremus*, endemic to the spring-fed pond and outflow springs at [[Quitobaquito Springs]] in [[Organ Pipe Cactus National Monument]], Arizona. Morphometric comparison of 26 measurements from 12 localities across...
 > -- *[[ANewSubspeciesOfPupfishCyprino_PML1717]]*
 
@@ -2654,6 +2671,9 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 
 > Miller and Fuiman (1987, *Copeia*) describe *Cyprinodon macularius eremus* as a new subspecies of the [[Desert Pupfish]] (*C. macularius*) endemic to the spring-fed pond at [[Quitobaquito Springs]] in [[Organ Pipe Cactus National Monument]], Arizona. Morphometric and meristic analyses separate the...
 > -- *[[DescriptionAndConservationStat_PML1702]]*
+
+> This is a letter from [[Arizona State University]] (Department of Zoology) to Dr. Peter Bennett of the [[National Park Service]]. It summarizes a limnological assessment of [[Quitobaquito Springs]] and [[Quitobaquito Pond]], based on a field visit on 26–27 July (recorded as "7/26-27/64" in the OCR)...
+> -- *[[QuitobaquitoPondLimnologicalFi_PML0817]]*
 
 ### Mentioned In
 - [[ADescriptiveAnalysisOfWoodyRip_12995]]
@@ -2687,13 +2707,13 @@ Quitobaquito Springs is a critical desert spring ecosystem located in southweste
 - [[MitochondrialDnaVariationInDes_PML0655]]
 - [[SpeciesAccountCyprinodonMacula_PML2291]]
 - [[FishesAndAquaticResourcesOfThe_PML1712]]
-- [[QuitobaquitoPondLimnologicalFi_PML0817]]
 - [[ANewSubspeciesOfPupfishCyprino_PML1717]]
 - [[QuitobaquitoDesertPupfishMonit_PML0611]]
 - [[StatusOfTheSonoranTopminnowPoe_PML0155]]
 - [[PreliminaryStudyOfTheDesertPup_PML1306]]
 - [[HistoricalOccurrenceOfNativeFi_PML2289]]
 - [[DescriptionAndConservationStat_PML1702]]
+- [[QuitobaquitoPondLimnologicalFi_PML0817]]
 
 ## Quitobaquito Springs And Pond
 <!-- fm: auto_enriched: true -->

@@ -294,6 +294,18 @@ Zapus sp. (jumping mice) are small mammals that possibly occur in the upper reac
 ### Mentioned In
 - [[LiteratureReviewAndImpactRepor_14988]]
 
+## Zapus Princeps
+
+### Summary
+The western jumping mouse, a small meadow-dwelling rodent. The source lists it among eleven species reported from nearby localities that could also occur at Bodie, not among the 30 species trapped there.
+
+### Context
+> This document combines two short natural history reports. The first, by [[Andrew T. Smith]], documents the terrestrial mammal fauna of [[Bodie, California]], a small area of about 8 km² in the [[Great Basin]] with 30 species, nearly one-tenth of the mammal species in North America north of Mexico....
+> -- *[[DiscoveryOfLossOfANewLocalityF_PML1652]]*
+
+### Mentioned In
+- [[DiscoveryOfLossOfANewLocalityF_PML1652]]
+
 ## Zar Biostatistical Analysis
 
 ### Summary
@@ -317,6 +329,18 @@ Zaret and Rand (1971) are cited as supporting competition-based views of resourc
 
 ### Mentioned In
 - [[HistoricalPerspectivesOnTheStu_PML1015]]
+
+## Zaret and Rand 1971
+
+### Summary
+A study cited by the source of a fluctuating tropical system. The source notes that it provided no quantitative microhabitat data, which is one of the gaps the South Canadian River study addresses.
+
+### Context
+> This study by [[William J. Matthews]] and [[Loren G. Hinz]] (Biological Station and Department of Zoology, University of Oklahoma) quantifies microhabitat use by the four numerically dominant fishes of the [[South Canadian River]] during one annual wet-dry cycle (May 1976 to January 1977). The...
+> -- *[[HabitatPartitioningInTheFishCo_PML1617]]*
+
+### Mentioned In
+- [[HabitatPartitioningInTheFishCo_PML1617]]
 
 ## Zdenka Svobodova
 
@@ -499,6 +523,9 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 > This USDA Forest Service technical document (Gen. Tech. Rep. RMRS-GTR-53, 2000) by [[Andrew J. Loftus]] and [[Curtis H. Flather]] supports the 2000 [[RPA Assessment]] required under the Renewable Resources Planning Act of 1974. It reviews national trends in water quality, habitat, fish and aquatic...
 > -- *[[FishAndOtherAquaticResourceTre_PML1375]]*
 
+> This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
+> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
 - [[BibliographyOfStudiesOnIntrodu_13347]]
@@ -526,6 +553,7 @@ The zebra mussel (Dreissena polymorpha) is an invasive freshwater bivalve that p
 - [[IssuesInDefiningDetectingAndQu_PML0010]]
 - [[LiveWildlifeRules_PML0114]]
 - [[FishAndOtherAquaticResourceTre_PML1375]]
+- [[UnreadableOcrScanNoExtractable_PML2455]]
 
 ## Zebra-tailed Lizard
 
@@ -1531,6 +1559,9 @@ Zoogeography in fish science refers to the study of how fish species are distrib
 > This study by [[Matthews and Robison]] provides the first comprehensive, quantitative account of the distribution of native stream fishes across [[Arkansas]]. It draws on 2,323 collections made over roughly 20 years by the authors and other ichthyologists, assigned to 101 defined drainage units...
 > -- *[[TheDistributionOfTheFishesOfAr_PML1618]]*
 
+> This document contains two 1961 papers from *The Southwestern Naturalist*. The first, by [[Frederick R. Gehlbach]] and [[Robert Rush Miller]], reports three fish taxa recovered from Pueblo Indian ruins in northern New Mexico: [[Longnose Gar]], [[Bonytail]], and [[Blue Sucker]]. The authors argue...
+> -- *[[FishesFromArchaeologicalSitesI_PML0854]]*
+
 ### Mentioned In
 - [[ARevisionOfTheSandDartersOfThe_1969]]
 - [[FishFaunaOfTheThornForestOnPac_1988_07_27]]
@@ -1543,6 +1574,7 @@ Zoogeography in fish science refers to the study of how fish species are distrib
 - [[ZoogeographyAndPaleozoologyOfL_19947]]
 - [[TheAmericanCyprinidFishesOfThe_16991]]
 - [[TheDistributionOfTheFishesOfAr_PML1618]]
+- [[FishesFromArchaeologicalSitesI_PML0854]]
 
 ## Zoogeography Of The Levant
 <!-- fm: auto_enriched: true -->
@@ -1888,9 +1920,6 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This memorandum, dated May 5, 1992, from [[Francisco J. Abarca]] (Native Fish Program Manager) to file, summarizes a response to reports of fish dying at [[Palm Lake]] in the [[Hassayampa River Preserve]], April 21–24, 1992. The team of [[Rob Bettaso]], [[Bruce Denova]] and [[David A. Weedman]]...
 > -- *[[SummaryOfEventsAtPalmLake_PML2853]]*
 
-> This document compiles two hatchery-focused studies. The first, a 1985 pond culture trial at [[Dexter National Fish Hatchery]], measured survival of [[Razorback Sucker]] (*Xyrauchen texanus*) from swim-up fry through fingerlings in earthen ponds. Survival was high at every stage, and the authors...
-> -- *[[SurvivalOfRazorbackSuckersCult_PML0977]]*
-
 > This interim report from the [[Arizona State University]] Department of Zoology, prepared for the [[U.S. Fish and Wildlife Service]], describes preliminary pond experiments on larval [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). The species has been extirpated from much of its range, and the only...
 > -- *[[InterimReportOnStudiesOfGrowth_PML2082]]*
 
@@ -1921,9 +1950,6 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 > This study by Rinne, Minckley and Bersell (1981, *Hydrobiologia* 80: 31-42) examines what controls the vertical and horizontal distribution of fishes in two multi-purpose [[Desert Reservoirs]] on the Salt River, Central Arizona: [[Roosevelt Lake]] and [[Apache Lake]]. Sampling ran from summer 1970...
 > -- *[[FactorsInfluencingFishDistribu_PML2234]]*
 
-> The source is a four-page scan whose text layer is almost entirely unreadable. Most lines are character noise, and the legible content is limited to table and figure labels. The labels indicate a dietary or prey-analysis study with two recurring themes: [[Zooplankton]] prey and [[Larval Fish]]...
-> -- *[[InteractiveInfluenceOfTurbidit_PML1895]]*
-
 > This study by [[Scoppettone]], [[Coleman]], and [[Wedemeyer]] (U.S. Fish and Wildlife Service) examines the endangered [[Cui-ui]] (*[[Chasmistes Cujus]]*), a [[Catostomidae|catostomid]] endemic to [[Pyramid Lake]], Nevada. Adults congregate off the mouth of the [[Truckee River]] from mid-March to...
 > -- *[[LifeHistoryAndStatusOfTheEndan_PML2317]]*
 
@@ -1941,6 +1967,12 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 
 > This Arizona Game and Fish Department technical report (Federal Aid Project F-14-R, 1993–1995) investigates why the [[Hoover Dam]] tailwater lost its trophy [[Rainbow Trout]] fishery, which had been productive in the 1960s and early 1970s. The fishery is now a put-and-take system supported by...
 > -- *[[FactorsAffectingTheRainbowTrou_PML0121]]*
+
+> This paper tests the idea that the effectiveness of a [[Trophic Cascade Hypothesis]] depends on how strongly piscivores can reduce planktivorous fish. The authors argue that not all planktivore populations are equally vulnerable to [[Gape-Limited Piscivory]]. Large, deep-bodied planktivores can...
+> -- *[[GapeLimitedPiscivoresPlanktivo_PML0956]]*
+
+> This document contains two short communications from *The Progressive Fish-Culturist* (vol. 49, 1987), both concerned with improving survival of cultured fish. 1. **Razorback sucker culture.** Roger L. Hamman (U.S. Fish and Wildlife Service, [[Dexter National Fish Hatchery]], New Mexico) reports...
+> -- *[[SurvivalOfRazorbackSuckersCult_PML0977]]*
 
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
@@ -1995,7 +2027,6 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[CurrentStatusOfRuddScardiniusE_PML1175]]
 - [[HopperstephensOsageSpawnBlackC_PML2837]]
 - [[SummaryOfEventsAtPalmLake_PML2853]]
-- [[SurvivalOfRazorbackSuckersCult_PML0977]]
 - [[InterimReportOnStudiesOfGrowth_PML2082]]
 - [[ToxapheneAsAFishToxin_PML1018]]
 - [[SomeObservationsOnTheFlexibleF_PML2281]]
@@ -2006,13 +2037,14 @@ Zooplankton are small, often microscopic aquatic animals that form a critical in
 - [[FeedingAndFateOfWildLarvalRazo_PML1557]]
 - [[FeedingAndFateOfWildLarvalRazo_PML1532]]
 - [[FactorsInfluencingFishDistribu_PML2234]]
-- [[InteractiveInfluenceOfTurbidit_PML1895]]
 - [[LifeHistoryAndStatusOfTheEndan_PML2317]]
 - [[LarvalRazorbackSuckerAndBonyta_PML0427]]
 - [[PredictionAndTheAquaticScience_PML2062]]
 - [[ColoradoRiverFishesProjectFina_PML0974]]
 - [[ScannedAquaticEcologyDocumentL_PML2194]]
 - [[FactorsAffectingTheRainbowTrou_PML0121]]
+- [[GapeLimitedPiscivoresPlanktivo_PML0956]]
+- [[SurvivalOfRazorbackSuckersCult_PML0977]]
 
 ## Zooplankton Bloom
 <!-- fm: auto_enriched: true -->
@@ -2103,9 +2135,13 @@ Zooplankton feeding is the consumption of small planktonic crustaceans such as c
 > - **Target material**: whole plankton samples, ranging from small protists (e.g., *Ceratium*) to larger crustaceans (e.g., amphipods), as well as heterogeneous **drift samples** containing insects, insect remains, detritus, and plant fragments. - **Typical working volume**: 60 mL original sample ...
 > -- *[[APlanktonSubSampler_18114]]*
 
+> This journal section gathers four short research notes. Three concern aquatic organisms: a high incidence of spinal deformity in [[Threadfin Shad]] from concrete-lined canals in Arizona and California; the southward spread of the predatory cladoceran [[Leptodora Kindtii]] into southern Louisiana;...
+> -- *[[AnUnusuallyHighIncidenceOfSpin_PML1529]]*
+
 ### Mentioned In
 - [[APlanktonSubSampler_18114]]
 - [[AugustSamplingAtBuenosAiresNwr_19399]]
+- [[AnUnusuallyHighIncidenceOfSpin_PML1529]]
 
 ## Zooplankton Seasonal Succession
 <!-- fm: auto_enriched: true -->

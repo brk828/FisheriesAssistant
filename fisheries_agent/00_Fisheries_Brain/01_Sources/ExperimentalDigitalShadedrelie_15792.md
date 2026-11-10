@@ -5,37 +5,43 @@ family: N/A
 habitat: N/A
 ocean_basin: N/A
 location: Southwestern United States
-tags: [administrative, survey, experimental, shaded-fistail]
+tags: [ichthyology, marine-biology, non-taxonomic-source, cartography]
 title: "Experimental Digital Shaded-Relief Maps of Southwestern United States"
 source_id: "15792"
 minckley_id: "15792"
 source_citation: "K. Edwards and R. M. Batson (1990). Experimental Digital Shaded-Relief Maps of Southwestern United States. . Minckley Library ID: 15792."
 source_file: "15792.pdf"
-text_extraction: "ocr"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Experimental Shaded Fistail Investigations - Southwestern United States
+# Experimental Digital Shaded-Relief Maps of Southwestern United States
 
-#ichthyology #marine-biology #administrative-document
+#ichthyology #marine-biology #non-taxonomic-source
 
 ## Executive Summary
 
-This document appears to be an administrative cover page or header for a U.S. Department of the Interior geological survey related to experimental shaded fistail investigations in the [[Southwestern United States]]. The document references miscellaneous investigations and includes a budget allocation of $2,000,000 for experimental shaded fistail research activities.
+This source is a cartographic item, not an aquatic research document. It is Sheet 2 of 2 of the [[U.S. Geological Survey]] Miscellaneous Investigations Series, Map I-1850, titled *Experimental Digital Shaded-Relief Maps of Southwestern United States*. It was published at a scale of 1:2,000,000 and dated 1983-84. It contains no fish, invertebrate, plankton, water chemistry, or habitat data. The taxonomic and aquatic fields are therefore recorded as N/A.
 
 ## Background & Description
 
-The document is a header or title page from the [[U.S. Geological Survey]] within the [[Department of the Interior]]. It pertains to "Maps of Experimental Shaded Fistail" investigations conducted in the southwestern United States. The document appears to be part of a larger series of miscellaneous investigations, designated as Map I-1 (or similar alphanumeric identifier).
+- **Series:** Miscellaneous Investigations Series, [[U.S. Geological Survey]], [[U.S. Department of the Interior]]
+- **Map number:** I-1850 (Sheet 2 of 2)
+- **Scale:** 1:2,000,000
+- **Date:** 1983-84
+- **Authors:** Kathleen Edwards and R.M. Batson
+- **Compilers:** Kathleen Edwards and E.M. Sanchez
+- **Product type:** Experimental digital [[Shaded Relief Mapping]] of the [[Southwestern United States]]
 
-The reference number 0661 is noted at the top of the document. The formatting and structure suggest this is an administrative or organizational document rather than a scientific research paper.
+The map is a terrain visualization. It uses simulated illumination to show relief and does not depict biological or hydrological features.
 
 ## Ecological & Environmental Context
 
-The document references the [[Southwestern United States]] as the geographic area of focus. No specific habitat details, water chemistry parameters, or ecological conditions are provided in this administrative header. The term "shaded fistail" may refer to a specific species, habitat feature, or research methodology, though the document does not provide clarification.
+The document does not address any aquatic organisms, habitats, ocean basins, or water bodies. Its only environmental content is the physical relief of the [[Southwestern United States]] as a region. Any link between this terrain product and aquatic ecology would have to come from external sources, not from this document.
 
 ## Key Findings
 
-- Budget allocation: $2,000,000 for experimental shaded fistail investigations
-- Geographic scope: [[Southwestern United States]]
-- Administrative designation: Miscellaneous Investigations Map series
-- Issuing agency: [[U.S. Geological Survey]], [[Department of the Interior]]
-- Document type: Maps of experimental investigations
-- The document serves as a cover or title page for a larger investigation series
+- The document is a USGS experimental digital shaded-relief map at 1:2,000,000 scale covering the Southwestern United States.
+- It was produced in 1983-84 by Kathleen Edwards and R.M. Batson, with compilation by Kathleen Edwards and E.M. Sanchez.
+- It is part of the [[Miscellaneous Investigations Series]] (Map I-1850, Sheet 2 of 2).
+- It contains no ichthyological, marine, or aquatic ecological data. No species, habitats, or water parameters are reported.
+- Its main contribution is methodological: it documents an early attempt at [[Digital Shaded-Relief Mapping]] of a large region.

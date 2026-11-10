@@ -1,52 +1,59 @@
 ---
-species: N/A
-common_name: N/A
-family: N/A
-habitat: N/A
-ocean_basin: N/A
-location: N/A
-tags:
-  - ichthyology
-  - marine-biology
-  - unreadable-source
-title: "Unreadable Scanned Document: Aquatic Content Not Recoverable"
+species: "Oncorhynchus mykiss"
+common_name: "Rainbow Trout (albino strain)"
+family: "Salmonidae"
+habitat: "Freshwater: hatchery raceways, lakes, reservoirs, creeks"
+ocean_basin: "N/A"
+location: "Arizona (Page Springs Hatchery and stocking waters); Utah (Wasatch Front lakes); Montana (Ennis National Fish Hatchery); Colorado (Leadville Hatchery)"
+tags: [ichthyology, marine-biology, salmonidae, albinism, fish-stocking, arizona]
+title: "Albino Rainbow Trout: Stocking Program and Public Reception"
 source_id: "PML0098"
 marsh_id: "PML0098"
 library: "Marsh Library"
 permission: "not public domain"
-source_citation: "AZGFD (1989). Unreadable Scanned Document: Aquatic Content Not Recoverable. Arizona Game and Fish Department. Marsh Library ID: PML0098."
+source_citation: "AZGFD (1989). Albino Rainbow Trout: Stocking Program and Public Reception. Arizona Game and Fish Department. Marsh Library ID: PML0098."
 source_file: "AZGFD 1989. Albino Rainbow Trout.pdf"
-text_extraction: "ocr"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Unreadable Scanned Document: Aquatic Content Not Recoverable
+# Albino Rainbow Trout: Stocking Program and Public Reception
 
-#ichthyology #marine-biology #unidentified-taxon
+#ichthyology #marine-biology #salmonidae
 
 ## Executive Summary
 
-The supplied text is a scanned page set that cannot be reliably read. Nearly every line is letter-scrambled, with characters reversed, substituted, or rotated, so the original wording cannot be reconstructed. The text does not identify any fish, invertebrate, plankton, water-chemistry measurement, habitat, or survey method in a form that can be extracted with confidence. No species, location, or statistic is reported here, because any such value would be invented.
+This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department planned to stock eight- to nine-inch catchables the following November and invited public comment on whether the strain should continue to be offered to Arizona anglers. The text also traces the strain's history from its origin at a federal hatchery in Montana, through Utah's stocking program, to its arrival in Arizona in 1989.
 
 ## Background & Description
 
-The document has two pages, each carrying a dense block of OCR output. Recognizable fragments include short tokens such as "NOA," "Moquio," "sejoeds," and "Bupjooys," which recur but do not form interpretable sentences. Page headers and fragments appear to contain numeric strings (for example "6961," "Z96L," "0461," "ZZ61," and "Z/6L"). These could be dates or reference numbers, but their meaning and their connection to the text are uncertain, so they are not treated as data.
+**Origin.** The pure albino strain was developed by the U.S. Fish and Wildlife Service at the [[Ennis National Fish Hatchery]] in Montana. Workers separated the extremely rare white fish from several million normal rainbow fry for novelty exhibition. The FWS did not stock them but kept them on display at Ennis and at its Leadville Hatchery in Colorado.
 
-The layout is consistent with a page rotated or mirrored during scanning, which would explain the reversed character patterns. Restoring the text would need the original scan, a re-scan at correct orientation, or a higher-quality OCR pass.
+**Cause of albinism.** Albinism occurs when normally [[Recessive Genes]] that suppress pigment production come to be expressed in an animal. Albinos rarely survive in the wild because they are conspicuous to predators. Under hatchery protection they thrive, and a mating of two albinos produces only albino offspring.
+
+**Appearance.** The fish have pink to red eyes and bodies ranging from white to gold. Their lateral lines are colorless but visible, and parr markings are faintly visible on young fish. They lack the black-speckled green back and red lateral stripe typical of normal rainbows.
+
+**Utah history.** In 1967, eggs from older Ennis albinos went to the [[Utah Division Of Wildlife Resources]] for [[Genetic Research]]. Surplus eggs from the 1969 spawn were used for field trials. Stocking of three-inch fingerlings from 1970 to 1972 failed, largely from [[Predation]] by birds and other fishes. In 1972, managers began stocking catchables on an experimental basis, and survival matched or exceeded that of normal rainbows. Since then about 50,000 catchable albinos have been stocked each year in heavily fished lakes along the [[Wasatch Front]].
+
+**Arizona.** Arizona received its first albino trout as eggs from brood fish at the [[Egan Hatchery]] in Bicknell, Utah. The text dates this to February 1989, although the publication's cover is dated 1984. This discrepancy is noted here as it appears in the source.
 
 ## Ecological & Environmental Context
 
-No ecological or environmental content can be confirmed from this text. The document does not establish:
-
-- Any species, genus, or family
-- Any habitat type, such as freshwater, estuarine, or marine
-- Any ocean basin, waterbody, or geographic location
-- Any water-quality, temperature, salinity, or habitat-condition measurement
-- Any sampling design, sample size, or survey effort
-
-Any aquatic-science interpretation would require the document to be read correctly first.
+- **Genetic risk:** The text states that albinos pose no danger to existing populations because they are genetically the same as any other rainbow trout. It adds that a different species would have required careful evaluation before introduction.
+- **Habitat use:** The fish avoid direct sunlight. Their reduced eye pigment affects feeding by sight, though they strike the same baits, lures, and flies as normal rainbows.
+- **Hatchery performance:** Arizona's albinos were "well adapted to the hatchery environment" and "surprisingly disease-resistant" in their first attempt at rearing the strain.
+- **Proposed stocking waters:** Pena Blanca, Patagonia, Parker Canyon, Roper, Kearny, Lynx and Canyon Lakes, Cluff Pond #3, and Deadhorse Ranch State Park were listed as possible sites. The text also describes [[Frye Mesa]] and the following locations:
+  - [[Cluff Pond 3]]: 10 miles south of Pima on the Cluff Ranch Wildlife Area.
+  - [[Deadhorse Ranch State Park]]: near Cottonwood.
+  - Frye Mesa: 15 miles south of Pima.
+  - [[Parker Canyon Lake]]: 25 miles southeast of Sonoita in the Coronado National Forest.
+  - [[Patagonia State Park]]: 15 miles southwest of Patagonia.
+  - [[Pena Blanca Lake]]: 25 miles northwest of Nogales off I-19.
 
 ## Key Findings
 
-1. **Source legibility:** The text is not legible enough to support scientific extraction.
-2. **No verifiable data:** No species records, counts, measurements, or statistics are recoverable.
-3. **Possible dates:** Numeric fragments resembling years in the 1960s appear, but they are unverified and should not be cited.
-4. **Recommended action:** Obtain a correctly oriented scan or the original digital file, then re-run extraction. Check whether the source is a fisheries or ichthyology report before assigning a taxon, habitat, or location.
+- **Genetic equivalence:** Albino rainbows are genetically identical to normal rainbows except for pigment loss, so stocking them poses no stated genetic threat to wild stocks.
+- **Stocking plan:** About eight- to nine-inch catchables were expected the following November. A few were to remain at the hatchery for exhibition, and the rest were to go into waters normally stocked with rainbows at that time. Final sites were to be announced later.
+- **Angling guidance:** Glenn Davis, fish management coordinator for the Utah Division of Wildlife, advised that the fish are easy to see but stay out of direct sun. Anglers who can catch normal rainbows should be able to land albinos. Most albinos taken in Utah were caught on bait. Eating quality is the same as normal rainbows.
+- **Public reception in Utah:** An initial study by [[James Kennedy]] of Utah State University found that about 20 percent of anglers loved the fish, about 20 percent hated them, and the rest were neutral. After 15 years of stocking, the albino had a strong following. [[Walt Donaldson]], Utah Fisheries Manager for the Southeast Region, reported that albino stocking increases fishing pressure and has drawn anglers from popular lakes to under-used reservoirs.
+- **Arizona's future:** No plans for future albino stocking had been made. Eggs were expected to be available if anglers responded favorably. The Department invited positive and negative comments. If reaction was mostly negative, this winter could be the last opportunity for Arizona anglers to obtain the fish.
+- **Visitor interest:** Visitors at Page Springs viewed the albinos daily from 8 a.m. to 4 p.m., seven days a week. Common reactions included mistaking them for carp, goldfish, or dead fish.

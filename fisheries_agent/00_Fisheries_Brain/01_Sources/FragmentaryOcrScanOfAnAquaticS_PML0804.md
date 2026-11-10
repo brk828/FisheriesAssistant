@@ -1,62 +1,79 @@
 ---
-species: N/A
-common_name: N/A
-family: N/A
-habitat: N/A
+species:
+  - Catostomus commersoni
+  - Catostomus catostomus
+  - Catostomus columbianus
+  - Catostomus plebeius
+  - Carpiodes carpio
+  - Carpiodes velifer
+  - Carpiodes cyprinus
+  - Cycleptus elongatus
+  - Erimyzon sucetta
+  - Erimyzon oblongus
+  - Erimyzon tenuis
+  - Hypentelium nigricans
+  - Ictiobus bubalus
+  - Ictiobus cyprinellus
+  - Minytrema melanops
+  - Moxostoma erythrurum
+  - Moxostoma duquesnei
+  - Moxostoma macrolepidotum
+  - Moxostoma cervinum
+common_name: Tetraploid catostomid fishes (suckers)
+family: Catostomidae
+habitat: Freshwater rivers and streams (Ictiobinae primarily large rivers; other subfamily primarily small streams)
 ocean_basin: N/A
-location: N/A
+location: North America (freshwater; specific sampling localities not stated in the excerpt)
 tags:
   - ichthyology
   - marine-biology
-  - fisheries-literature
-  - ocr-fragment
-title: "Fragmentary OCR Scan of an Aquatic Science Reference Document"
+  - catostomidae
+  - polyploidy
+  - allozymes
+  - genetic-variability
+title: "Genetic Variability in Species with Extensive Gene Duplication: The Tetraploid Catostomid Fishes"
 source_id: "PML0804"
 marsh_id: "PML0804"
 library: "Marsh Library"
 permission: "not public domain"
-source_citation: "S. D. Ferris (1980). Fragmentary OCR Scan of an Aquatic Science Reference Document. Marsh Library ID: PML0804."
+source_citation: "S. D. Ferris (1980). Genetic Variability in Species with Extensive Gene Duplication: The Tetraploid Catostomid Fishes. Marsh Library ID: PML0804."
 source_file: "Ferris S.D. et al. 1980. genetic variability tetraploid catostomids.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Fragmentary OCR Scan of an Aquatic Science Reference Document
+# Genetic Variability in Species with Extensive Gene Duplication: The Tetraploid Catostomid Fishes
 
-#ichthyology #marine-biology #fisheries-literature
+#ichthyology #marine-biology #catostomidae
 
 ## Executive Summary
 
-The source is a 10-page scan of a scientific publication, most likely a fisheries or aquatic ecology journal issue, that has been degraded by optical character recognition (OCR). Most pages contain rotated, mirrored or garbled text, so the body of the paper cannot be reconstructed. The only legible structure is a reference list spanning pages 8 and 9, which shows a bibliography of journal articles, reports and books, plus several numeric and tabular fragments on pages 3 to 7. No species, study site, sample size, method or result can be verified from the text, so this note records what is recoverable and flags what is not. The original scan should be re-processed or consulted directly before any data are cited, as its content cannot be confirmed from this text.
+This 1980 *American Naturalist* article by [[Ferris and Whitt]] (Department of Genetics and Development, University of Illinois) examines allozyme (isozyme) genetic variability in 19 species of [[Catostomidae]] (suckers), a sexually reproducing family that has been tetraploid for at least 50 million years. The study asks how much genetic variability tetraploids carry and how that variability is distributed between duplicate and singly expressed loci. The authors conclude that, per locus, catostomids are about as variable as diploid teleosts, that singly expressed loci are more polymorphic than duplicated loci, and that the loss of duplicate gene expression depends on several interacting factors rather than a single mechanism. The results only marginally support the mutation-rate model of [[Allendorf Model of Gene Diploidization]].
 
 ## Background & Description
 
-- **Document type:** Journal-style scientific publication, identified from its structure: multi-column pages, a numbered reference list with author-year-title-journal entries, and tabular numeric blocks.
-- **Length:** Ten scanned pages (pages 1 to 10). Page 1 to 2 are almost entirely vertical or mirrored character strings. Pages 3 to 7 hold mixed tables and columns. Pages 8 and 9 contain the reference list. Page 10 has only scattered fragments.
-- **Legibility:** Most text is unreadable. Recoverable items are limited to:
-  - Reference entries with author surnames, years and journal or report titles.
-  - Column headers that appear to be genetic or tabulated data (for example, a fragment reading "Total Loci" on page 3).
-  - Numeric columns of decimal values on pages 4 and 5. These cannot be matched to variables, so no values are reported here.
-- **Taxonomic content:** No species names or binomial nomenclature can be confidently recovered. Some reference titles appear to relate to fish stocks and fisheries management, but this cannot be confirmed.
+- **Study system:** Catostomids are tetraploid, with 2n = 100 chromosomes versus 2n = 50 in most diploid cypriniforms (Uyeno and Smith 1972). Whether they are auto- or allotetraploids is unresolved, though allopolyploidy is considered reasonable because cypriniforms hybridize frequently.
+- **Gene duplication:** On average, catostomid species express 47% of their genes in duplicate; the remainder have been silenced through genic diploidization. Ictiobinae show 58% duplicate expression versus 41% in Catostominae.
+- **Taxonomy:** The family has two main subfamilies discussed in the paper, [[Ictiobinae]] and [[Catostominae]] (plus Cycleptinae), with relationships based on morphology (Miller 1959) and loss of duplicate gene expression (Ferris and Whitt 1978).
+- **Sampling:** Nineteen species (about one-third of catostomid species) across eight genera were chosen. The only selection criterion was availability of at least 15 individuals per species. Some species' estimates pooled several small populations.
+- **Methods:** Tissues were homogenized and run on vertical starch-gel electrophoresis with histochemical staining. Polymorphism was defined as an allele frequency of 0.05 or greater. Duplicate loci were distinguished by numerical superscripts and ancient duplications by capital letters (e.g., Ldh-A, Ldh-B).
 
 ## Ecological & Environmental Context
 
-Because the body text is not legible, the ecological setting cannot be determined. The following are not confirmed by the text:
-
-- Habitat type (marine, estuarine, freshwater or otherwise).
-- Geographic location or ocean basin.
-- Target taxa, whether fish, invertebrates, plankton or a mixed community.
-- Water chemistry, habitat variables or environmental drivers.
-
-The reference list, which is the most legible part of the scan, suggests that the source draws on a long-running body of work on aquatic populations and fisheries, with publication dates spanning several decades. Related concepts that would be expected in a document of this type, if confirmed, include [[Fish Stock Assessment]], [[Population Genetics]] and [[Fisheries Management]].
+- Ictiobine species inhabit larger rivers, which the authors argue have been more stable environments. This stability may have produced fewer speciation events and fewer population bottlenecks, conditions less favorable to fixation of null alleles.
+- Catostominae primarily inhabit small streams.
+- The authors note that [[Hybridization]] is frequent among cypriniforms and that some high heterozygosity in *Ictiobus* may reflect recent introgression (Johnson and Minckley 1969).
+- Large catostomid population sizes make the random-drift model of null-allele fixation (Nei and Roychoudhury 1973) unhelpful for these taxa.
 
 ## Key Findings
 
-1. **No verifiable research findings.** The main body text of the paper (introduction, methods, results and discussion) cannot be read in any page, so no conclusions are attributed to the study.
-2. **Reference list present.** Pages 8 and 9 contain a numbered bibliography of roughly several dozen entries. Publication years appear to range from the 1960s through the 1990s. The individual titles and authors are too degraded to list accurately.
-3. **Tabular data present but unusable.** Pages 3 to 5 contain numeric columns and headers. The header "Total Loci" suggests genetic marker data, possibly allele or locus counts, but the column meanings and values cannot be reliably linked, so no statistics are reported.
-4. **Scan quality is the main limitation.** Pages 1, 2, 6, 7 and 10 are almost entirely unreadable. Re-scanning at higher resolution, with the pages correctly oriented, is required before any content can be extracted.
-
-### Recommended Next Steps
-
-- Re-scan the document at a higher resolution with correct page orientation, or obtain the digital original.
-- Re-run OCR on the reference list and tables to recover citations and numeric values.
-- Confirm the species, study area and sample sizes before adding this note to a [[Literature Review]] or data synthesis.
+- **Polymorphism at singly versus duplicate loci:** 53 of 203 singly expressed loci (26%) were polymorphic, versus 65 of 354 duplicate loci (18%). The difference is significant (χ² = 4.64, df = 1, P < .05).
+- **Concordance of duplicate pairs:** Both members of duplicate pairs were either monomorphic or polymorphic more often than expected (χ² = 6.27, df = 1, P < .02). Seven of the 11 doubly polymorphic sets involved GPI isozymes.
+- **Average heterozygosity:** The overall mean H was 0.055. Singly expressed loci (H₁ = 0.076) were significantly more heterozygous than duplicate loci (H_d = 0.043) (P = .02). The Ictiobinae averaged 0.092 versus 0.042 for the other subfamilies.
+- **Sensitivity:** Omitting two loci (M-mdh and Mdh-A) removed the significance of the single-versus-duplicate difference (P = .2), so the result depends on a small number of enzymes.
+- **Within-enzyme comparison:** For enzymes present in both states, heterozygosity at single loci was about twice that at duplicate loci (χ² = 74.76, df = 1, P < .001).
+- **Comparison with diploids:** The tetraploid mean (0.055) did not differ significantly from noncypriniform diploids (0.054) or cypriniform diploids (0.052). Per locus, catostomids are about as variable as diploid teleosts.
+- **Comparison with rainbow trout:** The mean for ten tetraploid catostomids is close to the H = 0.058 reported for 38 populations of rainbow trout, another tetraploid.
+- **Test of the mutation-rate model:** Correlations between percent genic diploidization and heterozygosity were inconsistent across datasets (r = .29 for catostomids; r = -.61 for cyprinids, P < .05; r = .49, not significant for Powell's fish data). The authors judged the support for [[Allendorf Model of Gene Diploidization]] marginal.
+- **Null alleles:** Null alleles were segregating at appreciable levels in only one catostomid population, which conflicts with predictions of Bailey et al. (1978).
+- **Interpretation:** The authors favor an interplay of factors: intrinsic mutation rate, interactions among subunits in heteropolymeric isozymes (per [[Harris et al. Fixed Heterozygote Hypothesis]]), divergence in tissue expression and gene dosage, and population history. The majority of duplicate genes examined across ten tissues were expressed differentially within or between tissues.
+- **Summary conclusion:** Tetraploid catostomids show greater isozyme diversity than diploids but the same per-locus variability, and duplicate loci appear retained partly through subunit interactions or divergence in tissue specificity.

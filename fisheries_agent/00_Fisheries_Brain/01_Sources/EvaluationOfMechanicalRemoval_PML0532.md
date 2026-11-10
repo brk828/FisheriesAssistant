@@ -1,19 +1,11 @@
 ---
-species:
-  - "Daphnia sp."
-  - "Ceriodaphnia sp."
-  - "Cyclops sp."
-  - "Parastacidae (freshwater crayfish, genera not legible)"
-common_name: "Freshwater invertebrates (Cladocera, Copepoda, Ostracoda, Decapoda, Ephemeroptera, Odonata, Hemiptera, Coleoptera)"
-family: "Chydoridae; Macrothricidae; Daphniidae; Parastacidae; Leptophlebiidae; Baetidae; Coenagrionidae; Gomphidae; Aeschnidae; Corduliidae; Libellulidae; Veliidae; Mesoveliidae; Notonectidae; Corixidae; Nepidae; Dytiscidae; Gyrinidae"
-habitat: "Freshwater aquatic sites (specific habitat type not legible in source)"
-ocean_basin: "N/A"
-location: "George Gill Range, Australia"
-tags:
-  - freshwater-ecology
-  - aquatic-invertebrates
-  - biogeography
-  - australia
+species: ["Hoplostethus atlanticus", "Sclerocyphon fuscus", "Cherax destructor"]
+common_name: ["Orange roughy", "Waterpenny (beetle)", "Yabby"]
+family: ["Trachichthyidae", "Psephenidae", "Parastacidae"]
+habitat: "Deep-water marine aggregations (orange roughy); arid-zone freshwater streams, springs and pools (invertebrates)"
+ocean_basin: "Southwest Pacific (orange roughy); N/A (freshwater invertebrates)"
+location: "North Chatham Rise, New Zealand and southeast Australian waters (orange roughy); George Gill Range, Central Australia (invertebrates)"
+tags: [ichthyology, marine-biology, trachichthyidae, acoustics, freshwater-ecology, macroinvertebrates, arid-zone]
 title: "Evaluation of mechanical removal"
 source_id: "PML0532"
 marsh_id: "PML0532"
@@ -21,42 +13,52 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "J. A. Davis (2004). Evaluation of mechanical removal. Marsh Library ID: PML0532."
 source_file: "Davis J.A. 2004. Evaluation of mechanical removal.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Freshwater Invertebrate Fauna of the George Gill Range, Australia
+# Evaluation of mechanical removal
 
-#freshwater-ecology #entomology #crustacea
+#ichthyology #marine-biology #trachichthyidae #freshwater-ecology #macroinvertebrates
 
 ## Executive Summary
 
-This document is a scanned, partly legible set of tables from a freshwater invertebrate survey of the [[George Gill Range]] in [[Australia]]. It contains no fish records in the readable text. Its core content is (1) a distribution table of taxa across the 16 biogeographical regions of Australia proposed by [[Watson Biogeographical Regions]] (1974), and (2) an appendix checklist of invertebrate taxa recorded at George Gill Range sites and at other sites. Most pages are heavily corrupted by OCR, so species names, counts and site data are only partly recoverable. The findings below are limited to what could be read with reasonable confidence.
+This document combines two unrelated studies from the journal *Australian Journal of Marine and Freshwater Research* (1993, vol. 44). The first is the closing portion of an acoustic assessment of [[Orange Roughy]] (*Hoplostethus atlanticus*), a highly aggregating deep-water fish. The authors conclude that acoustic data are potentially more reliable and accurate than catch-and-effort data for this species. The second is a full paper on the macroinvertebrate communities of the [[George Gill Range]] in [[Central Australia]]. It reports 109 species from arid-zone streams, a relictual lotic fauna, and high conservation value. **No fish are reported in the invertebrate study.** The document is therefore best read as two separate research contributions sharing one journal issue.
 
 ## Background & Description
 
-The survey concerns small freshwater invertebrates and aquatic insects. The readable taxa include:
+**Orange roughy acoustic survey (partial text).** The study used a [[Biosonics Echo-Integrator]] to estimate the abundance of orange roughy in a dense aggregation. The excerpt covers only the discussion, acknowledgments and references. The full methods and results are not included.
 
-- **Cladocera** (water fleas): [[Daphnia]], [[Ceriodaphnia]], *Alona*, *Ilyocryptus*, *Simocephalus*; families Chydoridae, Macrothricidae and Daphniidae.
-- **Copepoda**: calanoid and cyclopoid copepods, including *Cyclops*-group and *Mesocyclops*-group forms.
-- **Ostracoda** (seed shrimps): *Cypretta*, *Cypricercus*, *Candonopsis*, *Limnocythere* and others.
-- **Decapoda**: freshwater crayfish of the family Parastacidae.
-- **Ephemeroptera** (mayflies): Leptophlebiidae (e.g. *Atalophlebia australis*) and Baetidae (e.g. *Cloeon* sp.).
-- **Odonata** (dragonflies and damselflies): Coenagrionidae, Gomphidae, Aeschnidae, Corduliidae and Libellulidae.
-- **Hemiptera** (true bugs): Veliidae, Mesoveliidae, Notonectidae, Corixidae and Nepidae.
-- **Coleoptera** (beetles): Dytiscidae (predaceous diving beetles, e.g. *Hydrovatus*, *Hyphydrus*, *Necterosoma*) and Gyrinidae (whirligig beetles).
-
-Taxa are coded by presence at the George Gill Range sites (SC, PS, KS, KC, TT, RR, WC, BS) and at other sites (GS, SC, RW, BH, OC). Some entries are marked as ["A"] or ["N, A"] or ["L"], which likely denote additional collection categories, though the key is not legible.
+**George Gill Range study.** The George Gill Range lies at about 24°S, 132°E, roughly 220 km southwest of [[Alice Springs]] in the Northern Territory. It sits within one of Australia's driest regions. Mean annual rainfall is about 250 mm, and rain is non-seasonal. The streams of the range are the largest group in the Central Ranges and are described as relatively pristine. The geology comprises [[Mereenie Sandstone]] overlying [[Carmichael Sandstone]]. Field work was conducted in July 1986 and from 27 December 1986 to 2 January 1987.
 
 ## Ecological & Environmental Context
 
-The distribution table is built on the biogeographical framework of Watson (1974), which divides Australia into 16 regions. It records which taxa occur in the George Gill Range and how widely they are distributed across those regions. This framing places the local fauna within a continental pattern of endemism and range. The source also cites earlier Australian freshwater invertebrate work, including Watson et al. (1991) and several 1950s–1980s taxonomic and faunal studies. Those works are referenced in the table but are not fully legible.
+**Orange roughy.** The authors caution that the acoustic estimate may be biased upward. Other species associated with orange roughy aggregations either have swim bladders or are elasmobranchs, which probably have higher [[Target Strength]] values. The authors suggest that acoustic sampling variance could be assessed in future by repeating transects within each daily survey.
 
-Community composition is given as a percentage table, but the values, the grouping variable and the site labels are largely unreadable, so no quantitative conclusions about relative abundance can be drawn.
+**George Gill Range.** Diel and seasonal temperatures are extreme. Streams are episodic but deep rock pools act as reservoirs of surface runoff and may receive groundwater from the [[Mereenie Aquifer]]. Isolated topography has limited access by cattle and feral animals.
+
+Water chemistry varied widely among sites:
+- **Conductivity:** 27 µS cm⁻¹ at Kings Canyon to 573 µS cm⁻¹ at Kathleen Springs. The authors attribute the higher values at Kathleen Springs and Reedy Rockhole to unknown causes and suggest groundwater input at fresher sites and evapoconcentration at less dilute sites.
+- **pH:** generally just below neutral, from 5.7 (Kings Canyon) to 6.9 (Stokes Creek).
+- **Trophic status:** total phosphorus indicated mesotrophic conditions under the [[Trophic Status]] scheme of Wetzel (1983). Stokes Creek and Reedy Rockhole were eutrophic for total nitrogen. Kathleen Springs was eutrophic in winter and mesotrophic in summer.
+
+Shredders were almost absent (<1% of individuals on both occasions). The authors link this to sparse riparian vegetation and low allochthonous inputs, and note that the pattern departs from the predictions of the [[River Continuum Concept]].
 
 ## Key Findings
 
-- The readable material confirms a freshwater invertebrate assemblage at the George Gill Range spanning at least seven orders: Cladocera, Ostracoda, Copepoda, Decapoda, Ephemeroptera, Odonata, Hemiptera and Coleoptera.
-- The checklist spans eight sites within the George Gill Range plus five additional sites, allowing comparison of local and regional faunas.
-- Distribution of taxa is assessed against the 16 biogeographical regions of Australia (Watson, 1974), placing the local fauna within a continental context.
-- Several genera are recorded in more than one group (e.g. Dytiscidae and Gyrinidae within Coleoptera; Cyclopoida and Calanoida within Copepoda), indicating a diverse micro- and macro-invertebrate community.
-- No fish species appear in the readable text, so this document is not an ichthyological source despite its general aquatic focus.
-- Exact site-by-site presence values, abundance counts, sample sizes, survey dates and percentage composition figures cannot be reliably recovered from the scan, and no numerical claims are made here.
+### Orange roughy acoustic survey
+- The authors judge acoustic data to be potentially more reliable and more accurate than catch-and-effort data for highly aggregating, deep-water species such as orange roughy.
+- Acoustic estimates may overestimate abundance because non-target species in the aggregation (swim-bladdered fish and elasmobranchs) may have higher target strengths.
+- Future work should quantify acoustic sampling variance through repeated transects.
+- The study was funded by FIRDC research grant No. 87/129. The Australian Maritime College loaned the echo-integrator, and the FRV *Soela* crew supported the work.
+
+### George Gill Range macroinvertebrates
+- **Richness:** 109 species were recorded. The authors state this is an underestimate because sampling was seasonal and some groups (for example, [[Chironomidae]]) were not fully resolved.
+- **Resolution:** only 51 taxa (45%) could be identified to species and 95 (83%) to genus.
+- **Absences:** no Plecoptera, Isopoda or Amphipoda were collected.
+- **Dominant taxa:** [[Ostracoda]], [[Copepoda]] and [[Chironomidae]]. Ostracods made up as much as 94% of individuals at some sites. Kings Canyon (July) was dominated by corixids and Reedy Creek (July) by ceratopogonid larvae.
+- **Feeding groups:** collectors dominated abundance (80% in winter, 74% in summer). Predators (51 taxa) and collectors (36 taxa) were the most numerous taxa. Grazers were important only at Kathleen Springs, where [[Gyraulus]] snails were abundant.
+- **Relict fauna:** the authors argue that a small part of the fauna is relictual. Low-vagility taxa such as the waterpenny [[Sclerocyphon Fuscus]] could not have crossed the arid tracts that now separate the range from southern Australia. The species *Atalophlebia australis*, *Hellyethira simplex* and *Ecnomus continentalis* are cited as further support. Phylogenetic evidence places *S. fuscus* among recently derived species, which suggests dispersal during a more recent wetter phase.
+- **Endemism and speciation:** *Hemicordulia flava* appears endemic to the Central Ranges. The authors propose the range as a likely site of [[Allopatric Speciation]], citing the variable *Micronecta* nr *annae*.
+- **Introduced species:** the [[Cherax Destructor]] (yabby) was found at Stokes Creek. It was introduced about 18 years earlier for sport fishing.
+- **Fish:** the Horn Expedition of 1894 observed neither fish nor frogs in the area. The 1986–87 study contains no fish records.
+- **Conservation:** the authors conclude that the conservation value of the aquatic habitats and communities of the George Gill Range is extremely high. Comparable value is attributed to [[Giles Springs]] in the Chewings Range.

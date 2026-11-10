@@ -1,48 +1,55 @@
 ---
-species: "Xyrauchen texanus (tentative, inferred from garbled OCR; unconfirmed)"
-common_name: "Furybook Sucker (as written; possibly Razorback Sucker)"
-family: "Catostomidae"
-habitat: "Freshwater river"
-ocean_basin: "N/A"
-location: "Lower Colorado River, California"
-tags: [ichthyology, freshwater-fish, catostomidae, conservation, california]
+species: Xyrauchen texanus
+common_name: Humpback Sucker
+family: N/A
+habitat: Freshwater river (lower Colorado River)
+ocean_basin: N/A
+location: Colorado River near Ehrenberg Bridge, adjacent to Blythe, California
+tags:
+  - ichthyology
+  - marine-biology
+  - xyrauchen
 title: "Razorback Sucker caught in Colorado River"
 source_id: "PML0827"
 marsh_id: "PML0827"
 library: "Marsh Library"
 source_citation: "Flint (1969). Razorback Sucker caught in Colorado River. California Department of Fish and Game. Marsh Library ID: PML0827."
 source_file: "Flint 1969.  Memorandum; Razorback Sucker caught in Colorado River.pdf"
-text_extraction: "text"
 permission: "public domain"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Furybook Sucker Specimen Memorandum, California Department of Fish and Game (1969)
+# Razorback Sucker caught in Colorado River
 
-#ichthyology #marine-biology #catostomidae
+#ichthyology #marine-biology #xyrauchen
 
 ## Executive Summary
 
-This short internal memorandum from the [[California Department Of Fish And Game]] (Department of Fish and Game, Resources Agency) reports the capture and examination of a single large sucker from the [[Lower Colorado River]]. The memo describes the fish's size and weight and notes that the species is native to the river, where it was once abundant and used as food. It also states that the species has become rare, and that it has been the subject of research and attention. The OCR scan is badly degraded, so several names, figures and phrases below are reconstructed with uncertainty.
+A memorandum dated February 26, 1969, from the [[Department of Fish and Game]] (Blythe office) reports a single [[Humpback Sucker]] (*Xyrauchen texanus*) taken by angling from the [[Colorado River]] on February 22, 1969. The memo notes that the species was once common in the [[Lower Colorado River]] and used by Indigenous peoples as food, but has become rare since dam construction. The fish was a male of about four pounds and was held alive for documentation.
 
 ## Background & Description
 
-- **Document type:** Interoffice memorandum (date given as 1969, partly illegible).
-- **Subject:** A "Furybook Sucker" specimen, handled by a Department biologist.
-- **Specimen:** One fish. Reported measurements (OCR-uncertain): total length about 2? inches (the second digit is illegible), standard length about 19 inches, and weight given only as "approximately" with an illegible figure in pounds.
-- **Species identity:** The name "Furybook Sucker" is not a recognized common name. The garbled scientific-name fragment resembles *Xyrauchen*, which points to the [[Razorback Sucker]] (*Xyrauchen texanus*), a catostomid of the Colorado River basin. This identification is an inference and should be verified against the original record.
+- **Species:** [[Humpback Sucker]], *Xyrauchen texanus*. The memo also lists the names razorback sucker, camelback, and buffalo.
+- **Native range:** Indigenous to the lower Colorado River.
+- **Historical status:** Before the dams were built, the species was "quite common" and was used by the Indians as food. In recent times it has become "quite rare."
+- **Specimen measurements:**
+  - Total length: 22 inches
+  - Standard length: 19 inches
+  - Fork length: value not legible in the scan
+  - Weight: approximately four pounds
+  - Sex: male
 
 ## Ecological & Environmental Context
 
-- **Native range:** The memo states the species is indigenous to the Lower Colorado River, which is the basis for its significance to the memo's authors.
-- **Historical status:** The fish was reportedly quite abundant before the river was impounded and was used as a food source, probably by local Indigenous peoples. The garbled text links this decline to river regulation or impoundment ("...of this river").
-- **Current status:** The memo says the species has become rare in recent times, which is the main conservation concern.
-- **Research context:** The memo indicates that the species has been under study, including reference to a research or monitoring program, and that photographs of the fish were taken for documentation.
+- **Capture site:** The boat basin immediately north of the [[Ehrenberg Bridge]], on the [[Colorado River]].
+- **Capture method:** Taken on a red worm bait by Mrs. G. A. Runnels while she was fishing for [[Bluegill]], which indicates the fish was caught incidentally during panfish angling.
+- **Handling:** The fish was kept alive by a neighbor, Otto De Boer, who contacted the local office.
+- **Anthropogenic pressure:** The memo explicitly ties the species' decline to the construction of dams on the lower Colorado River.
 
 ## Key Findings
 
-1. A single large sucker specimen was captured and documented by Department staff from the Lower Colorado River.
-2. The species is native to the Lower Colorado River and was historically abundant and used as food.
-3. The species had become rare by the time of the memo, consistent with habitat change from impoundment and river regulation.
-4. The specimen was photographed for the record, and the memo suggests ongoing or planned study of the species.
-5. Key measurements (total length, standard length, weight) are only partly legible in the scan and should be checked against the source.
-
-**Data quality note:** The scan contains substantial OCR corruption. The species name, several measurements, and the recipient and author names could not be reliably read. Figures are reported as legible, with uncertain values flagged.
+1. A rare [[Humpback Sucker]] was documented on February 22, 1969, from the [[Colorado River]] near the Ehrenberg Bridge.
+2. The specimen was a male measuring 22 inches total length and 19 inches standard length, weighing about four pounds.
+3. The species is indigenous to the lower Colorado River, was formerly abundant and used as food by Indigenous peoples, and has declined markedly since dam construction.
+4. The capture was incidental to [[Bluegill]] fishing, and the live fish was reported to the [[Department of Fish and Game]] office in [[Blythe, California]].
+5. Photographs of the fish were taken by Jim Maddox. The memo was prepared by Assistant Fisheries Biologist [[Richard A. Flint]] and circulated to Fisheries Management.

@@ -1,11 +1,19 @@
 ---
-species: "Salmo clarkii (Cutthroat Trout, as described), Salmo mykiss, Salmo gairdneri, Salmo stomias, Catostomus latipinnis, Catostomus discobolus, Ptychocheilus lucius, Cottus bairdi punctulatus, Ictalurus punctatus, Rhinichthys dulcis, Gila robusta, Agosia yarrowi, Gila elegans, Pantosteus plebeius, Leuciscus robustus, Notropis cayuga, Platygobio gracilis"
-common_name: "Cutthroat trout (Rocky Mountain trout forms), Mountain sucker, Colorado River squawfish-related suckers, Razorback sucker, Humpback chub, Bonneville/Utah Lake trout, Rio Grande trout, Dace, Sculpin, Channel catfish, Minnow species"
-family: "Salmonidae, Catostomidae, Cyprinidae, Ictaluridae, Cottidae, Percidae, Ictaluridae"
-habitat: "Freshwater: mountain streams, lakes, rivers, plains streams and reservoirs, ditches, and alkaline lakes"
-ocean_basin: "N/A"
-location: "Colorado, Utah, Kansas, New Mexico, Wyoming, Arizona (Arkansas, Platte, Rio Grande, Colorado, Great Basin/Salt Lake and Snake/Sevier drainages)"
-tags: [ichthyology, freshwater-fish, colorado, utah, survey, salmonidae, catostomidae, cyprinidae]
+species:
+  - Salmo mykiss
+  - Salvelinus fontinalis
+  - Catostomus griseus
+  - Xyrauchen cypho
+  - Gila robusta
+  - Ptychocheilus lucius
+  - Agosia yarrowi
+  - Cottus bairdi punctulatus
+common_name: Rocky Mountain trout complex, Colorado suckers, chubs and minnows
+family: Salmonidae; Catostomidae; Cyprinidae; Cottidae
+habitat: Freshwater rivers, streams, lakes, irrigation ditches and mountain meadows
+ocean_basin: N/A
+location: Colorado, Utah, New Mexico (Rocky Mountain and Great Basin drainages)
+tags: [ichthyology, freshwater-ecology, trout, irrigation, biogeography, 1889-survey]
 title: "Explorations in Colorado and Utah during the Summer of 1889, with an Account of the Fishes Found in Each of the River Basins Examined"
 source_id: "PML1241"
 marsh_id: "PML1241"
@@ -13,40 +21,48 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "D. S. Jordan (1891). Explorations in Colorado and Utah during the Summer of 1889, with an Account of the Fishes Found in Each of the River Basins Examined. Bulletin of the United States Fish Commission, vol. 9. Marsh Library ID: PML1241."
 source_file: "Jordan. 1891. Explorations in CO and UT.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Explorations in Colorado and Utah during the Summer of 1889
+# Explorations in Colorado and Utah during the Summer of 1889, with an Account of the Fishes Found in Each of the River Basins Examined
 
 #ichthyology #marine-biology #salmonidae #catostomidae #cyprinidae
 
 ## Executive Summary
 
-This 1889 *Bulletin of the United States Fish Commission* report by [[David Starr Jordan]] documents an ichthyological survey of freshwater drainages in Colorado and Utah. The expedition, which left Bloomington, Indiana, in July 1889, was undertaken under the direction of the U.S. Commissioner of Fish and Fisheries, [[Spencer Fullerton Baird]]'s successor framework, with two aims: to characterize the general fish fauna of the Rocky Mountain and Great Basin regions and their suitability for introduced species, and to catalogue the fishes native to each stream in order to clarify the geographic distribution of species. The report combines an itinerary, habitat descriptions for each drainage, systematic notes on species, and descriptions of trout varieties.
+This 1889 survey by [[David Starr Jordan]], published as a Bulletin of the [[United States Fish Commission]], documents the streams, lakes and fish faunas of Colorado and Utah. The survey had two aims: to judge the suitability of western waters for food-fish introductions, and to catalogue native fishes to clarify geographic distribution. Collections were made at roughly 60 localities across the Platte, Arkansas, Rio Grande, Colorado, Salt Lake and Sevier basins. The report describes the fish fauna of each basin, the effects of mining and irrigation, several new trout varieties, and new species of sucker and minnow.
 
 ## Background & Description
 
-The survey was carried out by Jordan with [[Barton W. Evermann]] and assistance from several collaborators, including [[George W. Fisher]] of the U.S. Fish Commission at Leadville and [[Shermon Davis]] of Wichita, Kansas. Collections were made at more than 60 localities across the Arkansas, Platte, Rio Grande, Colorado, Salt Lake and Snake/Sevier basins. The itinerary ran from July 16 to August 25, 1889.
+The survey ran from 16 July to 25 August 1889 under the direction of [[Marshall McDonald]], with students [[Barton W. Evermann]], [[Bert Fesler]] and [[Bradley M. Davis]]. [[Richard Rathbun]] assisted from the Fish Commission. Local helpers included [[George R. Fisher]] of Leadville, [[Gordon Land]] (Colorado fish commissioner) and [[Peter Madsen]] of Provo, Utah. Sherman Davis supplied the Wichita, Kansas collection.
 
-The author describes Colorado's physiography in detail: lofty mountain ranges, high parks, mesas and buttes in the west, and a gently sloping plains region in the east draining toward the [[Missouri River]]. Mountain streams are cold and clear, with trout dominant above canyons, while plains rivers (the [[Platte River]] and [[Arkansas River]]) are wide, shallow, sandy and turbid.
-
-Systematic notes cover trout (*Salmo* spp.), suckers (*Catostomus*, *Pantosteus*, *Chasmistes*), chubs and minnows (*Rhinichthys*, *Notropis*, *Semotilus*), sculpins (*Cottus*), catfishes (*Ictalurus*, *Ameiurus*) and the Colorado basin endemics (*Gila*, *Ptychocheilus*, *Agosia*, *Xyrauchen*).
+Colorado is described as arid and elevated, with the [[Continental Divide]] crossing its mountains. Its streams rise in snowbanks and mountain meadows, are cold and clear at their sources, and grow warmer and turbid downstream. Mesas and gorges mark the west, and "parks" (former lake beds) occupy the mountain valleys. Utah east of the [[Wasatch Range]] is largely desert, while the [[Great Basin]] to the west is alkaline and dotted with closed basins. The area includes the ancient [[Lake Bonneville]], whose former presence is suggested by shoreline terraces and is used to explain the similar fish faunas of isolated basins.
 
 ## Ecological & Environmental Context
 
-- **Irrigation impact:** Irrigation ditches are identified as the most destructive factor for trout in Colorado. Fish drawn into ditches cannot be screened effectively because screens become clogged by silt, dead leaves and sage brush. The author states that destruction of trout by irrigation exceeds that caused by all other agencies combined.
-- **Mining:** Mining operations and stamp-mills fouled waters of otherwise clear streams, and iron springs appear to exclude all fishes in some streams.
-- **Biogeography:** Four distinct fish basins occur within Colorado. Plains fishes such as the Platte fauna were excluded from the Rio Grande and Colorado by turbid water and physical barriers. Cyprinids and suckers dominate the lower Arkansas and Platte.
-- **Introductions:** The author recommends introducing large catfishes (*Ictalurus punctatus* and *Ameiurus nebulosus*) to the lower Colorado tributaries, and notes that the Western Brook Trout (*Salvelinus fontinalis*) and Rainbow Trout had been successfully established. Lake trout (*Salvelinus namaycush*) had been introduced to Twin Lakes.
-- **Utah lakes:** Utah Lake is described as a shallow alkaline lake with milky-blue, alkaline water. Its fish fauna includes suckers (*Catostomus* spp.), chub (*Gila*) and the endemic Utah Lake trout. Introduced carp were reported to damage eggs and young of native fishes.
+- **Trout zone and temperature limits:** Trout (Salmo mykiss) disappear where summer temperatures reach 60–65°F. They extend farther in clear streams with gravel bottoms than in turbid streams or those with clay beds.
+- **Silt and mining:** Placer mining and stamp mills at Leadville, Granite, and Ouray turned some clear streams yellow or red and damaged the upper Arkansas and Grand rivers as trout waters. Iron springs appeared to exclude fishes entirely.
+- **Irrigation losses:** Irrigation diverted most of the water from lowland streams. Trout were lost in large numbers in ditches, especially during fall migration. The author judged that this destruction exceeded all other causes combined. Screens clogged with silt and debris, so the author suggested a law to close ditches after harvest. Trout were estimated to have been reduced by nine-tenths in San Luis Park.
+- **Salinity:** Lakes such as the San Luis Lakes and Great Salt Lake lacked fishes. Utah Lake fishes were pale, which was attributed to alkaline water.
+- **Predation and competition:** Mountain minnows (Rhinichthys dulcis) and Agosia were eaten by trout. Blob (Cottus) and chubs destroyed trout eggs. Chubs such as Leuciscus atrarius destroyed young trout in the Great Basin.
 
 ## Key Findings
 
-- **Trout systematics:** Multiple trout forms were examined and named. Notes distinguish *Salmo mykiss* forms by spot pattern, body shape and scale count, including the Yellow-finned Trout of Twin Lakes (*S. mykiss macdonaldi*) and the Utah Lake trout. The Rio Grande trout (*S. mykiss virginalis* forms) and Colorado River trout (*S. mykiss pleuriticus*) were distinguished from related forms.
-- **Irrigation as primary threat:** Screens cannot reliably exclude trout from ditches; losses via irrigation are the greatest cause of trout mortality in the region.
-- **Native suckers:** The author identifies *Catostomus latipinnis* (Flannel-mouthed Sucker), *Catostomus discobolus* (Mountain Sucker), *Pantosteus plebeius* and *Xyrauchen* as characteristic of different basins.
-- **Colorado River fauna:** The fish fauna of the Colorado basin is very sparse in the highlands and grows richer downstream. Downstream habitat supports *Gila robusta*, *Gila elegans*, *Ptychocheilus* (White Salmon), *Xyrauchen cypho* (Razorback Sucker) and *Agosia yarrowi*.
-- **Taxonomic revisions:** Several names are proposed or reassessed. *Agosia yarrowi* is proposed as a new species, and *Xyrauchen cypho* is retained. Names for *Rhinichthys dulcis* and *Notropis* are reviewed against type specimens.
-- **Utah Lake trout:** The Utah Lake form is described as the most valuable food trout in the region, reaching 3 to 10 pounds. It is noted for an excellent account by Dr. Henry C. Yarrow.
-- **Recommendation:** Large catfishes should be introduced to lower Colorado tributaries for food, as conditions appear favourable and the existing fauna is considered of poor food value.
+**Fish faunas**
+- Colorado has very few native fish species despite four faunal basins. Trout dominate the headwaters. Suckers, chubs and minnows enter the lower rivers. Mississippi Valley fishes such as darters, sunfishes and catfishes reach only the lower Platte and Arkansas near Denver and Pueblo.
+- Lower Colorado Basin fishes include the Flannel-mouth Sucker (Catostomus latipinnis), Razor-back Sucker (Xyrauchen cypho, up to about 10 lb), Blue-head Sucker (Pantosteus delphinus), Round-tail (Gila robusta), Bony-tail (Gila elegans) and White Salmon (Ptychocheilus lucius, the largest American cyprinid).
+- Utah Lake supported very large numbers of Catostomus ardens, with fifty trout weighing 2–3¼ lb taken in one haul of the seine.
 
-[[Colorado River]] · [[Rio Grande]] · [[Arkansas River]] · [[Platte River]] · [[Utah Lake]] · [[Salt Lake Basin]] · [[Rainbow Trout]] · [[Cutthroat Trout]] · [[Irrigation Ditches]] · [[Fish Screening]] · [[Mountain Sucker]] · [[Razorback Sucker]] · [[Utah Lake Trout]] · [[Carp Introduction]] · [[Fish Introductions]] · [[Biogeography]]
+**Introductions**
+- Eastern brook trout (Salvelinus fontinalis) was established in many streams and grew faster than native trout.
+- Rainbow trout (Salmo irideus) and land-locked salmon (Salmo salar sebago) were introduced sparingly. The salmon grew slowly and rarely exceeded half a pound.
+- The author recommended introducing large catfishes (Leptops olivaris, Ictalurus punctatus, Ameiurus nebulosus) into the lower Colorado tributaries.
+
+**New taxa and nomenclature**
+- Salmo mykiss macdonaldi, the yellow-finned trout of Twin Lakes, was described as a new subspecies and named for Marshall McDonald.
+- Several trout varieties were recognised within the Salmo mykiss complex, including the green-back trout (stomias), Colorado River trout (pleuriticus), Rio Grande trout (spilurus) and Utah Lake trout (virginalis).
+- New species were described: Agosia yarrowi (Colorado Basin), Agosia adobe (Sevier River), Xyrauchen uncompahgre (a single young specimen from Delta), and Chasmistes liorus from Utah Lake.
+- The report proposed that Tigoma, Telestes and Squalius be united under Leuciscus, and that Rutilus be used for Cyprinus rutilus.
+
+**Conservation concerns**
+- Trout would survive only in mountain lakes and meadows if present irrigation practices continued. The author suggested legal limits on ditch use after harvest, although the practicability of this was uncertain.

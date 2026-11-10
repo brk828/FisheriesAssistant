@@ -416,9 +416,6 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > A comprehensive fisheries survey was conducted along the [[Blue River]] in [[Greenlee County]], Arizona from June 16-19, 1997. The survey team from [[Arizona State University]] and [[United States Forest Service]] sampled 90 pools between [[Smith Ranch]] and F.S. Road 475 ([[Juan Miller...
 > -- *[[BlueRiverPoolSamplingGreenleeC_17213]]*
 
-> This document describes the standardized stream habitat survey used by the [[Arizona Game and Fish Department]] in Region II. It also contains scanned 1979 field data sheets from several central Arizona streams. The method combines three kinds of measurement: - Physico-chemical habitat: channel...
-> -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
-
 > This 1935 report by M. J. Madsen, Temporary Assistant Biologist for the [[U.S. Bureau of Fisheries]] (Department of Commerce), documents a field survey of the streams and lakes of the [[Coconino National Forest]] in north central Arizona. The survey was conducted from May to August 1934, during a...
 > -- *[[ABiologicalSurveyOfStreamsAndL_19340]]*
 
@@ -461,6 +458,9 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 > This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program, Technical Report 81, June 1995) summarizes six years (1988–1994) of data from the [[Fall Fish Count]] (FFC), a volunteer-based survey of fish communities in Arizona streams. The FFC yielded collections...
 > -- *[[FallFishCountSummary_PML0119]]*
 
+> This document is a set of six Arizona Game and Fish Department (AGFD) map sheets, dated January 2002, that overlay land ownership on streams with extant [[Roundtail Chub]] and [[Headwater Chub]] populations. Each stream is analysed within a 1.0 mile buffer zone. The maps cover the [[Bill Williams...
+> -- *[[RoundtailChubStatusSurveyOfThe_PML2797]]*
+
 ### Mentioned In
 - [[ACreelCensusOfStreamsInDistric_1962_10_31]]
 - [[FishnetFisheriesProgramReviewU_1999_05_24]]
@@ -476,7 +476,6 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[GrandCanyonFieldNotesFromAndVa_15334]]
 - [[MorphologicalVariationInGilaPi_12778]]
 - [[BlueRiverPoolSamplingGreenleeC_17213]]
-- [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[ABiologicalSurveyOfStreamsAndL_19340]]
 - [[EvaluationOfTheAndCatchableTro_15816]]
 - [[PetitionToDesignateCriticalHab_20448]]
@@ -491,6 +490,7 @@ Oak Creek is a small montane stream system in Arizona that served as a significa
 - [[SurveyOfVerdeRiverDrainageAriz_PML0149]]
 - [[ABiologicalSurveyOfStreamsAndL_PML1404]]
 - [[FallFishCountSummary_PML0119]]
+- [[RoundtailChubStatusSurveyOfThe_PML2797]]
 
 ## Oak Creek Canyon
 
@@ -770,18 +770,6 @@ The Oasis Valley Springsnail (Pyrgulopsis micrococcus) is a hydrobiid snail foun
 ### Mentioned In
 - [[DraftDayFindingForDesertFishes_20489]]
 
-## Oatmeal Bait
-
-### Summary
-Oatmeal bait is a food lure placed inside traps to attract small mammals. According to this source, the Sherman traps at the first site were baited with oatmeal.
-
-### Context
-> This document is a multi-page field log, not a fish study. It records a small-mammal trapping effort and a plant inventory at two roadside sites near creek drainages. The scan is heavily degraded, and most pages are unreadable. The legible entries cover a September field session, a group of student...
-> -- *[[AzGilaCoSierraAnchaMtFieldNote_19357]]*
-
-### Mentioned In
-- [[AzGilaCoSierraAnchaMtFieldNote_19357]]
-
 ## Oax Pa
 
 ### Summary
@@ -915,6 +903,18 @@ Obliquaria reflexa is a unionid mussel found rarely at West Creek (Station 6) in
 ### Mentioned In
 - [[MolluscaFromGreenwoodCountyKan_20276]]
 - [[EffectsOfImpoundmentsOnFreshwa_12028]]
+
+## Observation Rate
+
+### Summary
+Observation rate is the proportion of attempted locations that an automated tracking system successfully records. The chapter reports rates from 0% to 100%, often lower in dense forest and on steep or concave slopes. The authors describe a five-step spatial correction to address the resulting bias.
+
+### Context
+> This book chapter, by [[Edward O. Garton]], [[Michael J. Wisdom]], [[Frederick A. Leban]], and [[Bruce K. Johnson]], is a guide to planning [[Radiotelemetry]] studies of wildlife. It works through a series of "critical questions" covering study purpose, inference population, sample unit, sampling...
+> -- *[[ExperimentalDesignForRadioTele_PML0850]]*
+
+### Mentioned In
+- [[ExperimentalDesignForRadioTele_PML0850]]
 
 ## Observation-Area Curve
 
@@ -1122,12 +1122,12 @@ The U.S. federal agency that sets workplace safety standards. The source cites i
 <!-- fm: auto_enriched: true -->
 
 ### Context
-> The supplied document is a six-page scan whose text layer is almost entirely unreadable. Most lines are fragments of stray characters, symbols and broken letters, with no complete words, sentences, numbers or species names that could be verified. No scientific content (taxa, sample sizes,...
-> -- *[[EffectsOfGrassCarpOnNativeFish_PML2831]]*
+> This note covers a two-page scanned document whose text layer is almost entirely corrupted by optical character recognition (OCR) errors. Only fragments of characters and isolated words can be seen, and none form readable sentences. The document cannot be confirmed as addressing fish,...
+> -- *[[AlbuquerqueDraftMeetingNotesDe_13759]]*
 
 ### Mentioned In
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]
-- [[EffectsOfGrassCarpOnNativeFish_PML2831]]
+- [[AlbuquerqueDraftMeetingNotesDe_13759]]
 
 ## Ocean Current Gyres
 
@@ -1364,6 +1364,18 @@ A river in Northwest Florida surveyed over 48.5 miles from the Georgia line to L
 ### Mentioned In
 - [[FishAndFishingInLeonAndGadsden_12267]]
 
+## Ochotona Princeps
+
+### Summary
+The American pika, a small alpine and subalpine lagomorph. At Bodie it was trapped at the same sites as several Great Basin species, which the author found unusual, and it now uses mine tailings and old mine buildings heavily.
+
+### Context
+> This document combines two short natural history reports. The first, by [[Andrew T. Smith]], documents the terrestrial mammal fauna of [[Bodie, California]], a small area of about 8 km² in the [[Great Basin]] with 30 species, nearly one-tenth of the mammal species in North America north of Mexico....
+> -- *[[DiscoveryOfLossOfANewLocalityF_PML1652]]*
+
+### Mentioned In
+- [[DiscoveryOfLossOfANewLocalityF_PML1652]]
+
 ## Ochromonas Malhamensis
 
 ### Summary
@@ -1553,16 +1565,6 @@ A 17,300-acre area associated with Alamo Dam that the Army Corps of Engineers, t
 ### Mentioned In
 - [[MUSSEL DISTRIBUTION IN RELATION TO STREAM CONFLUENCE IN NORTHERN MICHIGAN]]
 - [[StatusOfSeaLampreyProblem_15264]]
-
-## Ocr Data Quality
-<!-- fm: auto_enriched: true -->
-
-### Context
-> > ⚠️ **Data Quality Flag:** This note is a placeholder reflecting an unusable source extraction. No scientific claims should be drawn from it. Cross-linking to related concepts such as [[Ichthyology Methods]] or [[OCR Data Quality]] is provided only for workflow tracking purposes, not for substan...
-> -- *[[Letter_16156]]*
-
-### Mentioned In
-- [[Letter_16156]]
 
 ## OCR Quality Control for Scientific Documents
 <!-- fm: auto_enriched: true -->
@@ -3105,6 +3107,12 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > This Wildlife Monographs issue (September 1963, No. 11) is W. L. [[Minckley]]'s comprehensive study of Doe Run, a limestone spring stream in Meade County, Kentucky, that drains directly to the [[Ohio River]]. Sponsored jointly by the [[United States Atomic Energy Commission]] and the [[University...
 > -- *[[TheEcologyOfASpringStreamDoeRu_PML1812]]*
 
+> This document is a compilation of three items from the early *Proceedings* of the [[Academy of Natural Sciences of Philadelphia]], written by [[Charles Girard]] and, in part, [[Spencer F. Baird]]. The first is a taxonomic essay on the North American pikes and pickerels of the genus *Esox*, which...
+> -- *[[TheCommitteeOnTheFollowingPape_PML0871]]*
+
+> This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
+> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
 - [[AgeAndGrowthOfTheWesternBlackn_1968]]
@@ -3171,6 +3179,8 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[ExtensionOfTheRangeOfCorbicula_PML0179]]
 - [[ResearchesUponTheCyprinoidFish_PML0873]]
 - [[TheEcologyOfASpringStreamDoeRu_PML1812]]
+- [[TheCommitteeOnTheFollowingPape_PML0871]]
+- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
 
 ## Ohio River Basin
 
@@ -4419,6 +4429,9 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 > This Utah Division of Wildlife Resources final report (Publication 02-17, June 2002, Upper Colorado River Endangered Fish Recovery Program, Project CAP-6-LR) evaluates whether removing or breaching [[Levee Removal]] structures to reconnect [[Floodplain Wetlands]] with the [[Green River]] can aid...
 > -- *[[TheLeveeRemovalProjectAssessme_PML0225]]*
 
+> This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
+> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+
 ### Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -4440,6 +4453,7 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 - [[FloodplainWetlandSuitabilityAc_PML1903]]
 - [[NurserySuitabilityAndRazorback_PML2730]]
 - [[TheLeveeRemovalProjectAssessme_PML0225]]
+- [[UnreadableScannedDocumentOcrFa_PML1902]]
 
 ## Old Charlie Inlet
 
@@ -5068,6 +5082,18 @@ A family of mayflies (order Ephemeroptera) whose members are typically found in 
 ### Mentioned In
 - [[AnnualReportOfTheUtahCooperati_1967]]
 
+## Oligoporus
+
+### Summary
+A new echinoderm subgenus proposed by Abbott within Melonites. It is based on the observation that its form has four rows of pores per ambulacrum, whereas the type species of Melonites has eight double rows, and Abbott notes that it may not yet merit full generic status. The name is from Greek for 'few' and 'opening.'
+
+### Context
+> This OCR-scanned excerpt from the *Proceedings of the Academy of Natural Sciences of Philadelphia* (1860, pp. 472–475) is a taxonomic compilation by [[Charles C. Abbott]]. It contains formal descriptions of new fish species, a taxonomic note on a new echinoderm subgenus, a set of nomenclatural...
+> -- *[[DescriptionOfANewSpeciesOfExoc_PML0014]]*
+
+### Mentioned In
+- [[DescriptionOfANewSpeciesOfExoc_PML0014]]
+
 ## Oligotrophic
 <!-- fm: auto_enriched: true -->
 
@@ -5512,25 +5538,13 @@ Cited in the note as an author associating the gar (Lepisosteus) with the closes
 ### Mentioned In
 - [[ReevaluationOfTheCaudalSkeleto_11281]]
 
-## Olsen Bay
-
-### Summary
-Olsen Bay is a location in Port Gravina on the eastern side of Prince William Sound, Alaska, where Olsen Creek is situated. It serves as the geographic setting for this pink salmon spawning study.
-
-### Context
-> This report documents biological characteristics of [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning populations in [[Olsen Creek]], [[Prince William Sound]], Alaska during 1962-63. [[Prince William Sound]] is unique among major pink salmon-producing areas in that a significant portion (35-77%)...
-> -- *[[BiologicalCharacteristicsOfInt_16617]]*
-
-### Mentioned In
-- [[BiologicalCharacteristicsOfInt_16617]]
-
 ## Olsen Creek
 
 ### Summary
-Olsen Creek is a pink salmon spawning stream located in Olsen Bay, Port Gravina, on the eastern side of Prince William Sound, Alaska. The creek has two branches (East Fork and West Fork) that converge at the 11-foot tide level, with salmon able to ascend each fork approximately 2.5 km, and it received 1-2% of the total Prince William Sound pink salmon escapement during 1962-63. The study found that 70% of the even-year line (1962) spawned in intertidal zones while only 34% of the odd-year line (1963) used intertidal areas, with streambed quality showing progressive increases in fine sediments from higher to lower intertidal levels.
+Olsen Creek is a stream at the head of Olsen Bay in Port Gravina, Prince William Sound, Alaska, and one of the major pink and chum salmon spawning streams in the sound. The study divided it into five sections and compared it with two small intertidal streams nearby. Pink salmon spawned in both its intertidal and fresh-water reaches.
 
 ### Context
-> This report documents biological characteristics of [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning populations in [[Olsen Creek]], [[Prince William Sound]], Alaska during 1962-63. [[Prince William Sound]] is unique among major pink salmon-producing areas in that a significant portion (35-77%)...
+> This U.S. Fish and Wildlife Service Special Scientific Report (No. 602, 1970) by [[John H. Helle]] examines [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning in both the [[Intertidal Zone]] and fresh-water reaches of [[Olsen Creek]] in [[Prince William Sound]], Alaska, in 1962 and 1963. Prince...
 > -- *[[BiologicalCharacteristicsOfInt_16617]]*
 
 ### Mentioned In
@@ -5773,6 +5787,15 @@ Omura Bay is a body of water north of Nagasaki in southern Japan. Jordan and Sny
 ### Mentioned In
 - [[ThePlaceOfEcologyInScience_11353]]
 
+## On-Site Spawning and Rearing
+
+### Context
+> This excerpt comes from the proceedings of the 1993 *Environmental Enhancement of Water Projects* seminar, held in Sacramento, California, and sponsored by the [[U.S. Committee on Irrigation and Drainage]] with co-sponsorship from the [[Bureau of Reclamation]]. It contains two items. The first is a...
+> -- *[[AProgramToMaintainTheEndangere_PML1929]]*
+
+### Mentioned In
+- [[AProgramToMaintainTheEndangere_PML1929]]
+
 ## On-Site Toxicity Test
 
 ### Summary
@@ -5784,18 +5807,6 @@ An on-site toxicity test places organisms in suspended containers such as bags o
 
 ### Mentioned In
 - [[TrifluoromethylnitrophenolTfmC_17879]]
-
-## Once-Through Cooling
-
-### Summary
-Once-through cooling is a design in which water is pumped from a river, lake or marine source, passed through heat exchangers once, and returned to the source. The paper notes that most existing power plants use this open-system design, and that a very large plant using it could require enormous daily volumes of water.
-
-### Context
-> This 1970 conference paper, presented at the Tenth Biennial Veterinary Conference and Annual Conference of the Wildlife Disease Association, by J.A. Mihursky, A.J. McErlean and V.S. Kennedy of the [[University of Maryland]] Natural Resources Institute and [[Chesapeake Biological Laboratory]],...
-> -- *[[ThermalPollutionAquacultureAnd_15270]]*
-
-### Mentioned In
-- [[ThermalPollutionAquacultureAnd_15270]]
 
 ## Onchidium
 
@@ -5954,6 +5965,18 @@ Oncorhynchus apache is the Apache Trout, a salmonid species native to the Gila R
 ### Mentioned In
 - [[NotesOnFishesCollectedByCaptCh_15664]]
 
+## Oncorhynchus Clarkii Henshawi
+
+### Summary
+Oncorhynchus clarkii henshawi is the scientific name of the Lahontan cutthroat trout, a salmonid fish endemic to the Lahontan Basin in northern Nevada, eastern California, and southern Oregon. This source identifies it as the subject of a draft recovery plan because it is listed as threatened under the Endangered Species Act. Its principal threats are habitat modification and nonnative fish introductions.
+
+### Context
+> This compilation of February 1993 *Federal Register* notices is mostly administrative. Its one fish-related item is a notice from the [[U.S. Fish And Wildlife Service]] (Service) announcing a draft recovery plan for the threatened [[Lahontan Cutthroat Trout]] (*[[Oncorhynchus Clarkii Henshawi]]*)...
+> -- *[[NoticeOfAvailabilityOfDraftRec_PML0749]]*
+
+### Mentioned In
+- [[NoticeOfAvailabilityOfDraftRec_PML0749]]
+
 ## Oncorhynchus Gilae
 <!-- fm: auto_enriched: true -->
 
@@ -6090,6 +6113,9 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 > This simulation study compares two [[Capture-Mark-Recapture]] approaches for estimating juvenile [[Steelhead]] survival in tributary streams: the traditional [[Cormack-Jolly-Seber Model]] (CJS) and the [[Barker Model]], which can incorporate [[Resight Data]] from [[PIT Tag]] interrogation sites....
 > -- *[[ComparisonOfTributarySurvivalE_PML0483]]*
 
+> This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
+> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+
 ### Mentioned In
 - [[LeesFerryTrophyTroutFishery_18301]]
 - [[LetterToFisheriesSummitPartici_1993_09_10]]
@@ -6106,6 +6132,7 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 - [[StockingPropagationAndRecovery_PML2293]]
 - [[BioticAndAbioticEffectsOfFlash_PML1390]]
 - [[ComparisonOfTributarySurvivalE_PML0483]]
+- [[UnreadableScannedDocumentAquat_PML0098]]
 
 ## Oncorhynchus mykiss nelsoni
 
@@ -6908,6 +6935,18 @@ Open Draw is a location on the North Fork of the East Fork of the Black River in
 ### Mentioned In
 - [[StatusOfLoachMinnowInTheBlackR_PML1496]]
 
+## Open Population
+
+### Summary
+A population whose size changes during the study because of immigration, emigration, mortality or recruitment. The source contrasts it with a closed population, where these processes are assumed negligible, and notes that open populations require different estimation approaches.
+
+### Context
+> This text is the opening material and early chapters of a statistical monograph on estimating animal population size and related parameters. It sets out the notation and terminology used throughout, reviews general statistical tools (maximum-likelihood estimation, moment estimation, the [[Delta...
+> -- *[[TheEstimationOfAnimalAbundance_PML2332]]*
+
+### Mentioned In
+- [[TheEstimationOfAnimalAbundance_PML2332]]
+
 ## Open Population Models
 
 ### Summary
@@ -6987,6 +7026,18 @@ A fishery in which access is not restricted, so effort adjusts toward the point 
 
 ### Mentioned In
 - [[AdditivityPropertiesInMetapopu_PML2286]]
+
+## Open-Cycle Cooling
+
+### Summary
+A cooling method, also called once-through cooling, in which river, lake or marine water is pumped through heat exchangers and returned to the source. The source notes that most S.E.S. plants use this system.
+
+### Context
+> This 1970 conference paper by [[J. A. Mihursky]], [[A. J. McErlean]] and [[V. S. Kennedy]] of the University of Maryland's [[Chesapeake Biological Laboratory]] argues that [[Thermal Pollution]] from [[Steam Electric Station]] (S.E.S.) cooling is a growing threat to aquatic life. It links elevated...
+> -- *[[ThermalPollutionAquacultureAnd_15270]]*
+
+### Mentioned In
+- [[ThermalPollutionAquacultureAnd_15270]]
 
 ## Open-Population Model
 
@@ -7962,119 +8013,31 @@ The optic lobe is the midbrain region that processes visual information. In this
 Optical Character Recognition (OCR) is software that converts images of printed text into machine-readable text. In this source, the text was extracted by OCR, and the result is heavily degraded: words are truncated, reversed, or replaced by symbols, and page 1 is rotated. The note therefore treats the OCR output as unreliable and does not use its fragments as data.
 
 ### Context
-> The source is a two-page scan of a newspaper edition dated Monday, February 17, 1964, with the masthead "ARIZONA." Most of the text is too degraded to read reliably. Page 1 is rotated and dominated by OCR noise, and Page 2 contains numbered, column-style text with some dollar-like figures. No...
-> -- *[[UdallPutsCentralArizonaProject_14402]]*
-
-> The supplied document is a three-page scan whose text layer is almost entirely corrupted. Most lines appear rotated, mirrored, or upside down, and the resulting character strings are not recoverable words in any language. Because of this, the note cannot report species, sites, sample sizes,...
-> -- *[[LakeMeadNationalRecreationArea_11518]]*
-
 > The source is a six-page scan whose text is almost entirely unreadable. The characters are fragmented and scrambled, with no legible words, numbers, species names, place names or headings that could be reliably transcribed. The document cannot be confirmed as fish-related, ecological or otherwise....
 > -- *[[TurkeyCreekCoronadoNationalFor_18313]]*
-
-> The source text is an OCR output of two pages that contains no legible words, sentences, numbers, or identifiable scientific content. It cannot be attributed to a specific species, habitat, region, or document type. No ecological, taxonomic, or management information can be extracted with...
-> -- *[[Description_PML2480]]*
-
-> The source is a two-page scan whose text is almost entirely corrupted by OCR failure. The recoverable fragments are isolated characters, symbols, and broken words with no readable sentences. The document cannot be identified as a research paper, proposal, budget, or correspondence, and no...
-> -- *[[IllegibleScannedDocumentAquati_PML2663]]*
-
-> The supplied source is an OCR output of a scanned page in which almost all text is corrupted into symbol strings, stray punctuation, and fragmented letters. No readable words, species names, locations, sample sizes, or statistics can be reliably recovered. No aquatic ecological, ichthyological, or...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
-
-> The source is a heavily degraded OCR output with almost no legible text. It contains no species names, habitat descriptions, water chemistry values, sample counts, or ecological observations. The only recognizable fragments are road-related words such as "ROAD" and "RD," which suggest a map, street...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
-
-> The source is a two-page scan whose text layer is almost entirely corrupted by optical character recognition (OCR) failure. It contains no legible sentences, species names, sample sizes, locations, or statistics, so no scientific or administrative content can be reliably extracted. The fragments...
-> -- *[[UnreadableOcrScanAquaticDocume_PML2823]]*
-
-> The source is a scanned page whose text layer is corrupted beyond reliable recovery. The OCR output consists of fragmented symbols, stray punctuation and broken character strings, with no legible words, sentences, numbers or proper nouns. The document cannot be identified as a research paper,...
-> -- *[[TheFishermansMeltingPotLakeMoh_PML2849]]*
-
-> The source is a two-page scanned document, and the OCR output is almost entirely garbled. It contains fragments of symbols, punctuation and isolated characters, but no recoverable words, sentences, species names, locations, sample sizes or statistics. The document's type (research paper, proposal,...
-> -- *[[GrowthOfCagedTilapiaAureaInFer_PML0068]]*
-
-> The source text is a four-page scan whose [[Optical Character Recognition]] output is almost entirely corrupted. Character sequences are fragmented, mis-segmented, or rotated, and no complete sentences, species names, locations, sample sizes, or statistics can be reliably reconstructed. The...
-> -- *[[UnreadableOcrScanNoRecoverable_PML0526]]*
-
-> The source document is a six-page scanned file whose OCR output is almost entirely corrupted. The text consists of fragmented characters, stray punctuation, rotated or overlapping glyphs, and isolated symbols with no recoverable words, sentences, or numbers. It does not contain identifiable species...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
-
-> The source is a two-to-three-page scanned document whose text layer is almost entirely corrupted by optical character recognition (OCR) errors. Only isolated fragments are legible, and no coherent sentences, species names, site names, numbers, or methods can be reliably recovered. No...
-> -- *[[TheCommitteeOnTheFollowingPape_PML0871]]*
-
-> The source text is an OCR output of two scanned pages in which nearly all characters are corrupted, fragmented, or rotated. No legible words, species names, locations, measurements, or sample sizes can be recovered with confidence. The document therefore cannot be characterized as fish research, an...
-> -- *[[MohaveTrulyAFishermansHeaven_PML1916]]*
-
-> The source is a scanned document whose text layer is almost entirely corrupted. The recovered characters are fragmentary symbols, broken glyphs and scattered letters with no coherent words, sentences, or numbers. No species, locality, habitat, method, or result can be reliably extracted. The...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
-
-> The source is a three- to four-page scanned document whose text layer is almost entirely corrupted by OCR errors. Scattered character strings, symbols and fragments were recovered, but no complete word, sentence, species name, locality or numerical result could be reliably reconstructed. The...
-> -- *[[TilapiaAureaARapidlySpreadingE_PML0319]]*
-
-> The source document is a 10-page scan whose OCR output contains no legible words, sentences, or numbers. The text consists almost entirely of fragmented glyphs, stray punctuation, and garbled character sequences, such as "Noo\I", "=o.g", and "ETg e'-o6FA". It is not possible to determine whether...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
-
-> The source document is a scanned page set (three pages) whose OCR output consists almost entirely of scattered characters, symbols and fragments with no recoverable words, sentences, tables or figure captions. No species, habitat, location, sample size, statistic or conclusion can be reliably...
-> -- *[[DescriptionsOfNewSpeciesOfFish_PML0159]]*
 
 > The supplied document is a 13-page scan whose OCR output is almost entirely scrambled, rotated or mirrored, so its purpose, subject and source cannot be identified with confidence. No species, habitat, location, sample size, or statistic can be verified from the text, so this note records only what...
 > -- *[[DnfhFyAnnualReport_PML2704]]*
 
-> The supplied document is a six-page scan whose text layer is almost entirely unreadable. Most lines are fragments of stray characters, symbols and broken letters, with no complete words, sentences, numbers or species names that could be verified. No scientific content (taxa, sample sizes,...
-> -- *[[EffectsOfGrassCarpOnNativeFish_PML2831]]*
-
-> The source is a five-page scan whose OCR output is almost entirely scrambled symbols, fragmented table cells, and rotated text. No complete sentence, species name, locality, sample size, or statistic can be reliably recovered, so no ecological or taxonomic claims are made here. The one partly...
-> -- *[[UnreadableOcrScanNoRecoverable_PML2282]]*
-
-> The source is a scanned, multi-page document whose OCR output is almost entirely corrupted into random symbols, fragments and stray characters. No readable words, names, numbers, dates, locations or taxonomic terms could be recovered. The document cannot be confidently classified as a fish study,...
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
-
-> The supplied document is a multi-page scan whose text layer is almost entirely corrupted by optical character recognition (OCR) errors. Across six pages, the extracted text consists of scattered symbols, fragmented letters and non-word character strings, with no legible sentences, headings, species...
-> -- *[[ObservationsOnNuptialTubercles_PML0273]]*
-
-> The source is a six-page scanned document whose OCR text layer is almost entirely corrupted. Its characters are fragmented symbols, stray punctuation and scrambled glyphs, with no recoverable words, sentences, tables or numbers. The document cannot be reliably identified as a fish study, a plankton...
-> -- *[[MigrationsOfAdultKingSalmonBas_PML0953]]*
-
-> The supplied text is an OCR output of a scanned document in which almost every line is fragmented, rotated, or corrupted. No complete sentences, species names, locations, sample sizes, or statistics can be reliably recovered. The document's type (research paper, proposal, budget, or correspondence)...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
-
-> The source is a multi-page scan whose OCR output is almost entirely corrupted. Words, tables and figure labels are fragmented into symbol strings, so no species, habitat, location, method or result can be reliably recovered. No scientific claims are reported here, and no values have been inferred.
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
-
-> The supplied document is a five-page scan whose text layer is almost entirely corrupted by optical character recognition (OCR) errors. It contains no legible sentences, species names, locations, sample sizes, statistics, or conclusions. The document's type (research paper, proposal, budget, or...
-> -- *[[StatusOfTheFishFaunaOfLakeMead_PML2813]]*
-
-> The supplied document is a 15-page scan whose text layer is almost entirely corrupted by optical character recognition (OCR) errors. Most lines consist of scattered letters, symbols and column fragments with no readable words, so no species, sample data, locations, methods or conclusions can be...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> This note covers a two-page scanned document whose text layer is almost entirely corrupted by optical character recognition (OCR) errors. Only fragments of characters and isolated words can be seen, and none form readable sentences. The document cannot be confirmed as addressing fish,...
+> -- *[[AlbuquerqueDraftMeetingNotesDe_13759]]*
 
 ### Mentioned In
-- [[UdallPutsCentralArizonaProject_14402]]
-- [[LakeMeadNationalRecreationArea_11518]]
 - [[TurkeyCreekCoronadoNationalFor_18313]]
-- [[Description_PML2480]]
-- [[IllegibleScannedDocumentAquati_PML2663]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
-- [[UnreadableOcrScanAquaticDocume_PML2823]]
-- [[TheFishermansMeltingPotLakeMoh_PML2849]]
-- [[GrowthOfCagedTilapiaAureaInFer_PML0068]]
-- [[UnreadableOcrScanNoRecoverable_PML0526]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
-- [[TheCommitteeOnTheFollowingPape_PML0871]]
-- [[MohaveTrulyAFishermansHeaven_PML1916]]
-- [[UnreadableScannedDocumentOcrFa_PML2027]]
-- [[TilapiaAureaARapidlySpreadingE_PML0319]]
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
-- [[DescriptionsOfNewSpeciesOfFish_PML0159]]
 - [[DnfhFyAnnualReport_PML2704]]
-- [[EffectsOfGrassCarpOnNativeFish_PML2831]]
-- [[UnreadableOcrScanNoRecoverable_PML2282]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
-- [[ObservationsOnNuptialTubercles_PML0273]]
-- [[MigrationsOfAdultKingSalmonBas_PML0953]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
-- [[IllegibleScannedDocumentNoReco_PML2793]]
-- [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AlbuquerqueDraftMeetingNotesDe_13759]]
+
+## Optical Character Recognition Errors
+
+### Summary
+Optical character recognition (OCR) errors are mistakes made when software converts a scanned image into machine-readable text, such as misread letters, broken words, or garbled symbols. In this source, the OCR output is so corrupted that no reliable sentences, names, or numbers can be recovered. The note treats the resulting text as unusable for extracting ecological data.
+
+### Context
+> The source is a two-page scan whose OCR output is almost entirely garbled. No legible sentences, headings, or scientific terms can be recovered with confidence. The note therefore records no species, habitat, location, or quantitative data. Fields that cannot be determined are marked N/A. The...
+> -- *[[RazorbackDataTequilaTawkBuenos_19449]]*
+
+### Mentioned In
+- [[RazorbackDataTequilaTawkBuenos_19449]]
 
 ## Optical Density
 
@@ -8170,6 +8133,9 @@ The optimal foraging model is an ecological framework in which a predator ranks 
 > This study by Alasdair Scott and Paul C. Marsh (Freshwater Biology, 1987) examines how juvenile [[Dace]], [[Roach]] and yearling [[Minnow]] select prey in flowing and still water. The three [[Cyprinidae]] species showed broadly similar feeding behaviour and prey preferences. Prey selection depended...
 > -- *[[PreySelectionByJuvenileCyprini_PML2323]]*
 
+> The document combines two sections of a journal issue. The first is a discussion of [[Ralston Plots]], a rapid graphical method for estimating the functional form of fishing gear selectivity, applied mainly to [[Hook Selectivity]] in longline and handline fisheries. The second, and main, part is a...
+> -- *[[InteractiveInfluenceOfTurbidit_PML1895]]*
+
 ### Mentioned In
 - [[FoodHabitsOfLakeTrou_17691]]
 - [[SizeBiasedPredationByTheGilaTo_1980]]
@@ -8179,6 +8145,7 @@ The optimal foraging model is an ecological framework in which a predator ranks 
 - [[ProfitableStreamPositionsForSa_16319]]
 - [[EffectsOfPredationByNonnativeS_PML0841]]
 - [[PreySelectionByJuvenileCyprini_PML2323]]
+- [[InteractiveInfluenceOfTurbidit_PML1895]]
 
 ## Optimal Sustained Yield
 
@@ -8480,8 +8447,12 @@ The water-transfer scheme of which the Orange-Fish Tunnel was a part. The tunnel
 > This paper presents a primer on colonisation theory and applies it to invasive fishes in the [[Great Fish River]], South Africa. It aims to (a) characterise successful invader species in aquatic systems and (b) identify habitat properties that make a system susceptible to invasion. The authors also...
 > -- *[[ColonisationTheoryAndInvasiveB_20200]]*
 
+> This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
+> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+
 ### Mentioned In
 - [[ColonisationTheoryAndInvasiveB_20200]]
+- [[UnreadableOcrScanNoExtractable_PML2455]]
 
 ## Orange Roughy
 
@@ -8498,10 +8469,14 @@ A long-lived, slow-growing deep-sea fish that is vulnerable to overfishing. The 
 > This paper, by [[Steven K. Thompson]], [[Fred L. Ramsey]] and [[George A. F. Seber]] (published in [[Biometrics]], 1992), develops an **adaptive stratified sampling procedure** for animal populations. In this design, the number of samples taken in one stratum or primary unit depends on the...
 > -- *[[AnAdaptiveProcedureForSampling_PML2502]]*
 
+> This document combines two unrelated studies from the journal *Australian Journal of Marine and Freshwater Research* (1993, vol. 44). The first is the closing portion of an acoustic assessment of [[Orange Roughy]] (*Hoplostethus atlanticus*), a highly aggregating deep-water fish. The authors...
+> -- *[[EvaluationOfMechanicalRemoval_PML0532]]*
+
 ### Mentioned In
 - [[ReviewOfTheStateOfWorldFishery_16311]]
 - [[NetLossFishJobsAndTheMarineEnv_19658]]
 - [[AnAdaptiveProcedureForSampling_PML2502]]
+- [[EvaluationOfMechanicalRemoval_PML0532]]
 
 ## Orange-Fish Tunnel
 
@@ -8771,9 +8746,6 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 > This master's thesis documents a comprehensive ichthyological survey of the [[Verdigris River]] drainage in Oklahoma conducted during summer 1956 and spring 1957. The survey sampled 88 locations using seines, rotenone, and gill nets to determine species composition and relative abundance. A total...
 > -- *[[FishesOfTheVerdigrisRiverInOkl_14847]]*
 
-> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
-> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
-
 > This 1956 report, prepared by Tom Eady, Ward Faulkner, Jerry Kerbs, and Art Metcalf of the Fisheries Management Class at Kansas State College, documents a preliminary seine survey of [[Mill Creek]] in Riley County, Kansas, carried out between March 21 and early April 1956. The survey sampled six...
 > -- *[[PreliminarySurveyOfTheFishFaun_15760]]*
 
@@ -8806,7 +8778,6 @@ The Orangethroat Darter is a small benthic fish species belonging to the family 
 - [[NaturalProductivityOfFishAndCr_1940]]
 - [[SurveyOfFishPopulationsInStrea_13990]]
 - [[FishesOfTheVerdigrisRiverInOkl_14847]]
-- [[ObservationsOnTheFoodHabitsOfD_20140]]
 - [[PreliminarySurveyOfTheFishFaun_15760]]
 - [[TheLifeHistoryOfTheSloughDarte_12872]]
 - [[DistributionStatusAndLifeHisto_11159]]
@@ -9048,8 +9019,8 @@ Orchopeas howardii howardii is a flea associated with the eastern gray squirrel 
 > This paper describes the previously unknown first-form (form I) male of the crawfish [[Orconectes Bisectus]], a species known until then only from the [[Rhoades Holotype]] and a unique female [[Annulus Ventralis]]. Form I males are needed for reliable identification and for judging relationships,...
 > -- *[[TheFirstformMaleOfOrconectesBi_18691]]*
 
-> The source is a scanned document with heavy OCR degradation. Most running text is unreadable, so this note relies mainly on the legible portions of **Table VIII**. That table summarizes morphological characters that separate three [[Orconectes]] crayfish species, based on monospecific populations,...
-> -- *[[HybridizationBetweenCrayfishOf_PML0359]]*
+> This taxonomic work by Horton H. Hobbs, Jr. (Smithsonian Institution, National Museum of Natural History) updates the 1974 checklist of North and Middle American crayfishes and extends it to South American parastacids. It covers all American crayfishes, including two fossil species, described...
+> -- *[[AnIllustratedChecklistOfTheAme_PML1063]]*
 
 ### Mentioned In
 - [[ANewFaxonellaFromNortheastLoui_1968_12_30]]
@@ -9059,7 +9030,7 @@ Orchopeas howardii howardii is a flea associated with the eastern gray squirrel 
 - [[NewCrayfishesOfTheGenusCambaru_20415]]
 - [[SpeciationAndDistributionOfThe_12069]]
 - [[TheFirstformMaleOfOrconectesBi_18691]]
-- [[HybridizationBetweenCrayfishOf_PML0359]]
+- [[AnIllustratedChecklistOfTheAme_PML1063]]
 
 ## Orconectes Australis
 <!-- fm: auto_enriched: true -->
@@ -9327,6 +9298,18 @@ A crayfish subspecies in the genus Orconectes. In this source, Horton Hobbs judg
 ### Mentioned In
 - [[ThreeNewCrawfishesRelatedToOrc_1972_02_29]]
 
+## Orconectes Propinquus
+
+### Summary
+Orconectes propinquus is a freshwater crayfish of the family Cambaridae that co-occurs with O. virilis and O. rusticus in Wisconsin lakes. The source identifies it reliably by the rostral carina, which is always present in this species, and by dentate incisor margins. It was the most common of the three species in Turtle Lake, with 86 individuals assigned unequivocally.
+
+### Context
+> This is a compilation of three short crustacean studies from *Crustaceana* (vol. 39, 1980), not a fish study. The papers cover: 1. **Feeding mechanics in [[Typton Dentatus]]**, a commensal shrimp of the [[Pontoniinae]], including a second record from [[Heron Island]], Queensland. 2. **Morphological...
+> -- *[[HybridizationBetweenCrayfishOf_PML0359]]*
+
+### Mentioned In
+- [[HybridizationBetweenCrayfishOf_PML0359]]
+
 ## Orconectes rusticus
 
 ### Summary
@@ -9336,8 +9319,12 @@ Orconectes rusticus is the rusty crayfish, a freshwater crayfish. The source lis
 > This Wildlife Monographs issue (September 1963, No. 11) is W. L. [[Minckley]]'s comprehensive study of Doe Run, a limestone spring stream in Meade County, Kentucky, that drains directly to the [[Ohio River]]. Sponsored jointly by the [[United States Atomic Energy Commission]] and the [[University...
 > -- *[[TheEcologyOfASpringStreamDoeRu_PML1812]]*
 
+> This is a compilation of three short crustacean studies from *Crustaceana* (vol. 39, 1980), not a fish study. The papers cover: 1. **Feeding mechanics in [[Typton Dentatus]]**, a commensal shrimp of the [[Pontoniinae]], including a second record from [[Heron Island]], Queensland. 2. **Morphological...
+> -- *[[HybridizationBetweenCrayfishOf_PML0359]]*
+
 ### Mentioned In
 - [[TheEcologyOfASpringStreamDoeRu_PML1812]]
+- [[HybridizationBetweenCrayfishOf_PML0359]]
 
 ## Orconectes Rusticus Rusticus
 
@@ -9425,6 +9412,9 @@ Orconectes sloani is a crayfish species related to O. bisectus. The source state
 > This final report (IIPAM Project No. 194054, dated 31 December 1996) by [[Philip J. Fernandez]] and [[Philip C. Rosen]] for the [[Arizona Game and Fish Department]] Heritage Program documents the effects of the introduced crayfish [[Orconectes virilis]] on native aquatic herpetofauna and stream...
 > -- *[[EffectsOfTheIntroducedCrayfish_PML0802]]*
 
+> This is a compilation of three short crustacean studies from *Crustaceana* (vol. 39, 1980), not a fish study. The papers cover: 1. **Feeding mechanics in [[Typton Dentatus]]**, a commensal shrimp of the [[Pontoniinae]], including a second record from [[Heron Island]], Queensland. 2. **Morphological...
+> -- *[[HybridizationBetweenCrayfishOf_PML0359]]*
+
 ### Mentioned In
 - [[NotesOnTheFishesOfTheColoradoR_13441]]
 - [[FishIntroductionsGoodManagemen_17630]]
@@ -9437,6 +9427,7 @@ Orconectes sloani is a crayfish species related to O. bisectus. The source state
 - [[SurveyOfCrayfishesOfTheGilaRiv_PML1155]]
 - [[SurveyOfCrayfishesOfTheGilaRiv_PML1152]]
 - [[EffectsOfTheIntroducedCrayfish_PML0802]]
+- [[HybridizationBetweenCrayfishOf_PML0359]]
 
 ## Orconectes Wrighti
 <!-- fm: auto_enriched: true -->
@@ -9941,12 +9932,28 @@ Oregon Trout is an conservation organization that the source cites for its estim
 > This experimental study tests how grazing by the omnivorous fish [[Oreochromis Aureus]] (blue tilapia) at two stocking densities affects phytoplankton abundance, biomass and community composition. The experiment ran for 15 weeks in five outdoor [[Solar Silos]] (free-standing, mixed microcosms). The...
 > -- *[[BioticEffectsOfGrazingByTilapi_PML2129]]*
 
+> This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
+> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+
 ### Mentioned In
 - [[EvaluationOfThePotentialOfTila_15172]]
 - [[KeyToCichlidFishesOfFlorida_21211]]
 - [[IdentificationOfFourTilapiaSpe_16122]]
 - [[TheFishesOfTheJordanRiverDrain_12463]]
 - [[BioticEffectsOfGrazingByTilapi_PML2129]]
+- [[UnreadableOcrScanNoExtractable_PML0503]]
+
+## Oreochromis Hornorum
+
+### Summary
+Oreochromis hornorum is a cichlid tilapia species from West Africa, known as the Wami tilapia. In this source it appears only as a component of introgressed hybrid assignments, mainly in Phoenix Zoo, Phoenix nursery, Lower Colorado River and Arizona Game and Fish stock samples, rather than as a pure-species record.
+
+### Context
+> This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
+> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+
+### Mentioned In
+- [[UnreadableOcrScanNoExtractable_PML0503]]
 
 ## Oreochromis Mortimeri
 <!-- fm: auto_enriched: true -->
@@ -9979,12 +9986,28 @@ Oreochromis mossambica, the Mozambique tilapia, is a cichlid fish native to sout
 > This workshop paper, presented at the Australian Society for Fish Biology workshop on introduced and translocated fishes (Magnetic Island, 1989), reviews the history, scale and consequences of [[Introduced Fishes]] in the United States. The author argues that introductions, whether deliberate or...
 > -- *[[IntroducedAndTranslocatedFishe_18622]]*
 
+> This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
+> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+
 ### Mentioned In
 - [[CichlasomaLoiselleiANewNandops_1989]]
 - [[EffectsOfSalinityOnPreferredAn_14746]]
 - [[RequestByUecToImportAndPossess_18439]]
 - [[KeyToCichlidFishesOfFlorida_21211]]
 - [[IntroducedAndTranslocatedFishe_18622]]
+- [[UnreadableOcrScanNoExtractable_PML0503]]
+
+## Oreochromis Nilotica
+
+### Summary
+Oreochromis niloticus is the Nile tilapia, a widely farmed cichlid from Africa. This source reports it only as a possible contributor to introgression, noted at the Gila River site and in Arizona Game and Fish stock 29C and 29D, and does not confirm it as a pure species at any site.
+
+### Context
+> This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
+> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+
+### Mentioned In
+- [[UnreadableOcrScanNoExtractable_PML0503]]
 
 ## Oreochromis Niloticus
 <!-- fm: auto_enriched: true -->
@@ -10300,9 +10323,6 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 > This report, the second of three studies on the [[Quitobaquito Pupfish]] (*[[Cyprinodon Macularius]]*), covers June 1976 to September 1977 and was prepared at the University of Arizona. It addresses five topics: water quality at [[Quitobaquito Pool]] and [[Williams Spring]], population size and age...
 > -- *[[StudyOfQuitobaquitoPupfishSyst_PML1307]]*
 
-> This document is a letter from a zoologist at [[Arizona State University]] to [[E. Peter Sennett]] of the [[National Park Service]]. It reports preliminary limnological findings and management recommendations for [[Quitobaquito Pond]] and its spring-fed system at [[Quitobaquito Springs]], within...
-> -- *[[QuitobaquitoPondLimnologicalFi_PML0817]]*
-
 > This Federal Register final rule, issued by the [[U.S. Fish and Wildlife Service]] (Interior Department), lists the [[Desert Pupfish]] (*Cyprinodon macularius*) as an endangered species under the [[Endangered Species Act]] and designates [[Critical Habitat]] in Imperial County, California, and Pima...
 > -- *[[EndangeredAndThreatenedWildlif_PML0729]]*
 
@@ -10383,7 +10403,6 @@ Organ Pipe Cactus National Monument is a protected desert landscape in southwest
 - [[SpeciesAccountCyprinodonMacula_PML2291]]
 - [[StudyOfQuitobaquitoPupfishPres_PML1304]]
 - [[StudyOfQuitobaquitoPupfishSyst_PML1307]]
-- [[QuitobaquitoPondLimnologicalFi_PML0817]]
 - [[EndangeredAndThreatenedWildlif_PML0729]]
 - [[ProposedThreatenedAndEndangere_PML0095]]
 - [[DesertPupfishCyprinodonMacular_PML0719]]
@@ -10535,18 +10554,6 @@ Organic nitrogen is nitrogen bound in organic compounds, measured as a water che
 
 ### Mentioned In
 - [[EffectOfDifferentNitrogenSourc_19233]]
-
-## Organic Nitrogen Sources
-
-### Summary
-Nitrogen supplied in organic compounds, such as amino acids or protein breakdown products, rather than in inorganic forms like nitrate or ammonium. In this study, marine bacteria grew better on organic nitrogen sources than on inorganic ones.
-
-### Context
-> This short research note examines how [[Marine Bacteria]] break down the dead leaves of [[Spartina Alterniflora]], the dominant grass of [[Salt Marsh]] systems near [[Sapelo Island]], Georgia. The study combined field decomposition experiments with laboratory tests of bacterial growth on media...
-> -- *[[DecompositionOfMarshGrassByAer_PML0338]]*
-
-### Mentioned In
-- [[DecompositionOfMarshGrassByAer_PML0338]]
 
 ## Organic Phosphorus Compounds
 
@@ -10794,13 +10801,9 @@ A freshwater snail listed by the authors among the exotic species whose introduc
 > This Illinois Natural History Survey bulletin (Laird and Page, 1996, Vol. 35, Art. 1) catalogs the non-native fishes established or occasionally found in Illinois streams and lakes. Of the 22 species treated, 13 were established by 1996 (six by 1979, seven more since) and nine are periodically...
 > -- *[[NonnativeFishesInhabitingTheSt_12682]]*
 
-> This Occasional Paper of the [[California Academy of Sciences]] (June 12, 1979; about 133 pages) is an annotated checklist of the fishes of California, compiled by [[Carl L. Hubbs]], [[W. I. Follett]], and [[L. J. Dempster]]. It enumerates species that have been reliably recorded from the state,...
-> -- *[[ListOfTheFishesOfCalifornia_PML1107]]*
-
 ### Mentioned In
 - [[LetterFromPeterBMoyleToWalterR_1991_01_22]]
 - [[NonnativeFishesInhabitingTheSt_12682]]
-- [[ListOfTheFishesOfCalifornia_PML1107]]
 
 ## Orientation Responses
 
@@ -11152,10 +11155,14 @@ Ornithodiplostomum is a genus of trematode (fluke) parasites whose metacercariae
 > This memorandum from April 7, 1997 documents a comprehensive curriculum revision for the Wildlife Conservation Biology major at [[Arizona State University]]'s Department of Zoology. The proposal renames the major to "Conservation Biology," restructures core courses to eliminate the...
 > -- *[[ModificationOfTheWildlifeConse_20526]]*
 
+> This memorandum, dated 24 August 1994 from W. L. Minckley to Zoology Faculty and Staff, outlines a proposed field-based upper-division and graduate summer session in ecology at the [[Sierra Ancha Station]] for Summer Session 1995. The program is a joint effort of the Department of Zoology and the...
+> -- *[[AFieldBasedUpperDivisionAndGra_1994_08_24]]*
+
 ### Mentioned In
 - [[ReportOfTheCommitteeOnNamesOfF_17233]]
 - [[DraftEvaluationOfPotentialsFor_15827]]
 - [[ModificationOfTheWildlifeConse_20526]]
+- [[AFieldBasedUpperDivisionAndGra_1994_08_24]]
 
 ## Orocastus
 
@@ -11246,8 +11253,12 @@ The Orr Ditch Decree is the 1944 court decree that established water rights on t
 > This 1994 [[U.S. Fish And Wildlife Service]] (Service) document, prepared by the Nevada Ecological Services State Office and the Northern Nevada Fishery Resource Office, is the "action plan" required by the [[Cui-ui Recovery Plan]] (Second Revision) for [[Cui-ui]] (*[[Chasmistes Cujus]]*). It...
 > -- *[[HabitatConservationMeasuresFor_11652]]*
 
+> The cui-ui (*Chasmistes cujus*) is a large, long-lived, omnivorous sucker endemic to [[Pyramid Lake]], Nevada. Its survival depends on river flows in the [[Truckee River]] that were sharply reduced by [[Newlands Project]] diversions, upstream withdrawals, and drought. Listed as endangered by the...
+> -- *[[TheCuiui_PML0311]]*
+
 ### Mentioned In
 - [[HabitatConservationMeasuresFor_11652]]
+- [[TheCuiui_PML0311]]
 
 ## Orsanco
 <!-- fm: auto_enriched: true -->
@@ -11550,6 +11561,9 @@ Oryzias is a new genus established by Jordan and Snyder in 1906 to accommodate t
 > This monograph by [[Carl L. Hubbs]] and Laura C. Hubbs examines left-right differences in paired and median structures of fishes. Its main focus is the flatfishes (order Heterosomata), the most asymmetric vertebrates, but it also surveys essentially symmetrical fishes such as [[Leptocottus...
 > -- *[[BilateralAsymmetryAndBilateral_14309]]*
 
+> This ethological study describes the motor patterns, reproductive sequence, aggressive behavior, territoriality, and schooling of the [[Desert Pupfish]] ([[Cyprinodon Macularius]]), a small toothcarp of the [[Cyprinodontidae]]. Observations came from shore pools of the [[Salton Sea]] in California,...
+> -- *[[SocialBehaviorOfTheDesertPupfi_PML0175]]*
+
 ### Mentioned In
 - [[GeneticsOfTissueTransplantatio_17874]]
 - [[ProductivityRelationsInCarboyM_12276]]
@@ -11557,6 +11571,7 @@ Oryzias is a new genus established by Jordan and Snyder in 1906 to accommodate t
 - [[TheGeneticsOfFishDiseases_11040]]
 - [[JahreGenestischeUntersuchungen_12397]]
 - [[BilateralAsymmetryAndBilateral_14309]]
+- [[SocialBehaviorOfTheDesertPupfi_PML0175]]
 
 ## Osage Catfisheries
 
@@ -11847,6 +11862,18 @@ Oscillatoria neglecta is a species of blue-green algae (cyanobacteria). Accordin
 
 ### Mentioned In
 - [[FurtherStudiesOnTheMetalimneti_15723]]
+
+## Oscillatoria Princeps
+
+### Summary
+Oscillatoria princeps is a filamentous blue-green alga found in the irrigation canals studied. It was the test organism for laboratory culture work in this project. Its cultures grew vigorously for 7 to 10 days and then collapsed, which the author linked to high media pH of 9.5 to 10.0.
+
+### Context
+> This final progress report, prepared by Janet D. Wien, Research Associate and Principal Investigator, summarizes the Salt River Valley Water User's Algae Research Project at [[Arizona State University]]. The project ran for about two and one-half years and was sponsored by several Arizona...
+> -- *[[TheStudyOfTheAlgaeOfIrrigation_PML2888]]*
+
+### Mentioned In
+- [[TheStudyOfTheAlgaeOfIrrigation_PML2888]]
 
 ## Oscillatoria Prolifica
 <!-- fm: auto_enriched: true -->
@@ -12681,6 +12708,9 @@ A coastal lagoon in Veracruz named among the major estuaries and lagoons include
 > This short research note by [[Paul C. Marsh]] (Center for Environmental Studies and Department of Zoology, [[Arizona State University]]) reports the digestive tract contents of 34 preserved adult [[Razorback Sucker]] (*Xyrauchen texanus*) collected from [[Lake Mohave]], Arizona-Nevada. Contents...
 > -- *[[DigestiveTractContentsOfAdultR_PML1455]]*
 
+> This document combines two unrelated studies from the journal *Australian Journal of Marine and Freshwater Research* (1993, vol. 44). The first is the closing portion of an acoustic assessment of [[Orange Roughy]] (*Hoplostethus atlanticus*), a highly aggregating deep-water fish. The authors...
+> -- *[[EvaluationOfMechanicalRemoval_PML0532]]*
+
 ### Mentioned In
 - [[APreliminarySurveyOfFoodHabits_1954]]
 - [[EndangeredSpeciesInformationSy_14003]]
@@ -12690,6 +12720,7 @@ A coastal lagoon in Veracruz named among the major estuaries and lagoons include
 - [[DistributionAndSeasonalAbundan_21217]]
 - [[EcologyAndPopulationDynamicsOf_20405]]
 - [[DigestiveTractContentsOfAdultR_PML1455]]
+- [[EvaluationOfMechanicalRemoval_PML0532]]
 
 ## Ostracode
 
@@ -12904,6 +12935,18 @@ Otis et al. (1978) is an earlier work on capture-recapture estimation that the C
 ### Mentioned In
 - [[UsersGuideForInteractiveProgra_PML2192]]
 
+## Otis et al. 1978
+
+### Summary
+A set of capture-recapture models cited in the source as addressing capture heterogeneity, where animals differ in their capture probability. The source names these models in this context but does not give their details.
+
+### Context
+> This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
+> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+
+### Mentioned In
+- [[IllegibleScannedFisheriesDocum_PML0693]]
+
 ## Otis et Al. 1978 Closed-Model Estimators
 
 ### Summary
@@ -13004,9 +13047,6 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 > This presentation, given by Bill Stewart of the [[Arizona State University]] Computational Biology Program, describes a project to build a program that estimates a fish's age by analyzing digital images of its [[Otolith]]s. The work covers otolith structure and growth, how biologists use otoliths,...
 > -- *[[OtolithAgingAndAnalysis_PML2460]]*
 
-> This is a set of 1993 draft protocol materials and interagency memoranda concerning the handling, collection, holding, transport and tissue sampling of [[Bonytail Chub]] (*Gila elegans*), an endangered [[Colorado River Basin]] cyprinid. The core documents are a June 1993 memorandum from Chuck...
-> -- *[[BonytailProtocol_PML1179]]*
-
 > This 1986 review by Jones (Fishery Bulletin, Vol. 84, No. 1) evaluates whether [[Otolith Increment Technique]] can accurately age field-captured larval fish. The technique assumes that growth increments in [[Otolith]] microstructure are deposited daily. The author reviewed the literature to test...
 > -- *[[DeterminingAgeOfLarvalFishWith_PML1232]]*
 
@@ -13028,7 +13068,6 @@ Otoliths are calcified structures in fish inner ears used for balance and hearin
 - [[TheForgottenRequirementForAgeV_PML0182]]
 - [[AgeEstimationFromOtolithsOfRou_PML1489]]
 - [[OtolithAgingAndAnalysis_PML2460]]
-- [[BonytailProtocol_PML1179]]
 - [[DeterminingAgeOfLarvalFishWith_PML1232]]
 - [[ComparisonOfAgingStructuresAnd_PML2267]]
 - [[InterimProgressReportOnAStudyO_PML1033]]
@@ -13185,6 +13224,18 @@ Otolith daily growth rings are microstructure increments in the ear bones that c
 
 ### Mentioned In
 - [[ManuscriptlongevityAndGrowthOf_11310]]
+
+## Otolith Extraction
+
+### Summary
+Otolith extraction is the removal of the calcium carbonate ear bones (otoliths) from a fish, which are often used in age and identity studies. This source places it as the final step before formalin fixation, so that removing the otoliths does not damage the head contour needed for morphological analysis. For specimens already at ASU, otoliths are removed only after video recording, and the memo's author declines involvement in the otolith examination.
+
+### Context
+> This 1993 interoffice memorandum sets out a sequenced protocol for collecting genetic tissue and morphological data from deceased [[Bonytail Chub]] specimens. The memo was written in reply to a request from G. Carmichael of the [[U.S. Fish and Wildlife Service]] Southwest Region and was copied to...
+> -- *[[ScannedFaxCorrespondenceOnFish_PML2439]]*
+
+### Mentioned In
+- [[ScannedFaxCorrespondenceOnFish_PML2439]]
 
 ## Otolith Geochemistry
 
@@ -14176,6 +14227,12 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > This 1994 plan, prepared under the [[Recovery Implementation Program]] for Endangered Fishes in the Upper Colorado River Basin, is a joint U.S. Fish and Wildlife Service, state and Bureau of Reclamation effort. It establishes the need for captive-reared [[Endangered Colorado River Fishes]] (the...
 > -- *[[CoordinatedHatcheryFacilityPla_PML2925]]*
 
+> This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
+> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+
+> This study by Tyus and Severson (U.S. Fish and Wildlife Service, Vernal, Utah) tested whether larval [[Razorback Sucker]] (*Xyrauchen texanus*) can be reared from sac-fry to 40 days old on commercially available dry [[Artificial Diets]] instead of pond-cultured natural foods. A total of 600 fish...
+> -- *[[LarvalRazorbackSuckerResponseT_PML2526]]*
+
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
 - [[BrookSticklebackCulaeaInconsta_1996]]
@@ -14224,6 +14281,8 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[SurvivalAndGrowthOfStockedRazo_PML1912]]
 - [[PreliminaryConceptualApproachT_PML2655]]
 - [[CoordinatedHatcheryFacilityPla_PML2925]]
+- [[UnreadableScannedDocumentOcrFa_PML1902]]
+- [[LarvalRazorbackSuckerResponseT_PML2526]]
 
 ## Ouray Reach
 
@@ -14272,10 +14331,14 @@ Ouray Wildlife Refuge is a wildlife management area containing multiple intercon
 > This revised 1995 conceptual design report, prepared for the [[Fish and Wildlife Service]] (FWS) by FLO Engineering, Inc., evaluates ways to reconnect the Leota Ponds, a set of waterfowl refuge ponds near Ouray, Utah, to the [[Green River]]. The goal is to restore flooded [[Nursery Habitat]] for...
 > -- *[[OurayWildlifeRefugeleotaPondsC_18736]]*
 
+> This document is a engineering site exhibit (Exhibit 1, "Natural Flood Inflow") for the [[Leota Unit]] of the [[Ouray Wildlife Refuge]]. It maps existing and proposed hydraulic works and shows how [[Natural Flood Inflow]] reaches the odd-numbered management units (L-2 through L-10). The exhibit was...
+> -- *[[OurayWildlifeRefugeNaturalFloo_16476]]*
+
 ### Mentioned In
 - [[OurayWildlifeRefugeSeminatural_16475]]
 - [[RadioTelemetryMonitoringOfStoc_11424]]
 - [[OurayWildlifeRefugeleotaPondsC_18736]]
+- [[OurayWildlifeRefugeNaturalFloo_16476]]
 
 ## Outbreeding
 
@@ -15188,9 +15251,13 @@ Owens Lake is a lake in Inyo County, California, that marked the southern extent
 > This review by [[Peter J. Mehringer Jr.]] (Washington State University), published in the [[Desert Research Institute]] symposium volume edited by [[Don D. Fowler]] (1977), synthesizes evidence for the magnitude and chronology of late Quaternary environmental change in the [[Great Basin]]. The...
 > -- *[[GreatBasinLateQuaternaryEnviro_20097]]*
 
+> This is a February 1964 newspaper page (Monday, February 17, 1964) with a regional map and articles on the revised [[Pacific Southwest Water Plan]], released by [[Stewart L. Udall]], Secretary of the Interior. The plan's first phase, estimated at about $3.1 billion, centers on the [[Central Arizona...
+> -- *[[UdallPutsCentralArizonaProject_14402]]*
+
 ### Mentioned In
 - [[OwensPupfishCyprinodonRadiosus_13308]]
 - [[GreatBasinLateQuaternaryEnviro_20097]]
+- [[UdallPutsCentralArizonaProject_14402]]
 
 ## Owens Pupfish
 <!-- fm: auto_enriched: true -->
@@ -15307,6 +15374,9 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 > This is the fifth biennial report of the California Department of Fish and Game on the status of state-listed endangered and rare fish and wildlife, prepared under the California Species Preservation Act. It covers 63 forms of fish and wildlife (the list was 43 in 1971), describes their current...
 > -- *[[AtTheCrossroadsAReportOnTheSta_PML0400]]*
 
+> This document is the front matter and checklist of Occasional Papers of the [[California Academy of Sciences]] No. 133 (1979), by Carl L. Hubbs, W. I. Follett and Lillian J. Dempster. It enumerates all marine, euryhaline and freshwater fishes reliably reported as native to California, or introduced...
+> -- *[[ListOfTheFishesOfCalifornia_PML1107]]*
+
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
 - [[AgendaForDeathValleyAreaCommit_1986_03_03]]
@@ -15352,6 +15422,7 @@ The Owens Pupfish (Cyprinodon radiosus) is an endangered endemic species native 
 - [[RecoveryPlanForTheOwensPupfish_PML2653]]
 - [[OurVanishingFishesCanTheyBeSav_PML2893]]
 - [[AtTheCrossroadsAReportOnTheSta_PML0400]]
+- [[ListOfTheFishesOfCalifornia_PML1107]]
 
 ## Owens River
 <!-- fm: auto_enriched: true -->
@@ -15605,6 +15676,9 @@ The Owens Valley represents a significant case study in the historical transitio
 > This document is an ethnographic and archaeological compilation on how Indigenous peoples of arid western North America and central Mexico used lakes, rivers, marshes and coastal waters for food, tools and materials. Fish are one strand among many. Most of the text covers wild plants, mammals,...
 > -- *[[HandbookOfIndianFoodsAndFibers_PML0651]]*
 
+> This document is the introduction, bibliography and distributional checklist of the freshwater fishes of California, compiled by Paul C. Marsh with a senior author who began locality records in 1914. It traces the scientific history from the first descriptions (Gibbons, 1854) through the Pacific...
+> -- *[[ADistributedListOfTheSpeciesOf_PML0697]]*
+
 ### Mentioned In
 - [[AgendaForDeathValleyAreaCommit_1987_03_13]]
 - [[DesertPupfishesReflectionsOnRe_11118]]
@@ -15625,6 +15699,7 @@ The Owens Valley represents a significant case study in the historical transitio
 - [[ManagementOfTheOwensPupfishCyp_PML1716]]
 - [[RecoveryPlanForTheOwensPupfish_PML2653]]
 - [[HandbookOfIndianFoodsAndFibers_PML0651]]
+- [[ADistributedListOfTheSpeciesOf_PML0697]]
 
 ## Owens Valley Native Fish Sanctuary
 <!-- fm: auto_enriched: true -->
@@ -16408,6 +16483,12 @@ The Retuse ambersnail, a related Oxyloma species found in south-central Utah. Th
 > This hatchery study tested whether [[Bonytail Chub]] (*Gila elegans*) can hybridize with [[Roundtail Chub]] (*G. robusta*) and [[Humpback Chub]] (*G. cypha*), three chub species of the [[Gila Complex]] in the [[Upper Colorado River Basin]]. Using induced spawning with hormones and heated water at...
 > -- *[[HybridizationOfThreeSpeciesOfC_PML0983]]*
 
+> This extension publication, prepared by the [[U.S. Fish and Wildlife Service]] [[National Fisheries Research Laboratory]] (La Crosse, Wisconsin) and the [[University of Arkansas Cooperative Extension Service]], is a reference guide to chemicals approved for use in [[Aquaculture]] and fishery...
+> -- *[[AGuideToApprovedChemicalsInFis_PML2295]]*
+
+> This 1985 Colorado Division of Wildlife newsletter article, reproduced on an OPTIONAL FORM 41 routing and transmittal slip, covers three linked topics: the recovery of endangered [[Bonytail]] and other "big river" fishes in Colorado, the radio tracking of [[Colorado Squawfish]], and a 1985 capture...
+> -- *[[RoutingAndTransmittalSlipBonyt_PML1896]]*
+
 ### Mentioned In
 - [[DrugSensitivityOfChondrococcus_1969]]
 - [[AgeDeterminationMethodsForFish_16137]]
@@ -16416,6 +16497,8 @@ The Retuse ambersnail, a related Oxyloma species found in south-central Utah. Th
 - [[HybridizationOfThreeSpeciesOfC_PML0972]]
 - [[SurvivalOfColoradoSquawfishCul_PML0982]]
 - [[HybridizationOfThreeSpeciesOfC_PML0983]]
+- [[AGuideToApprovedChemicalsInFis_PML2295]]
+- [[RoutingAndTransmittalSlipBonyt_PML1896]]
 
 ## Oxytetracycline Marking
 
@@ -16488,13 +16571,9 @@ The Oyashio Current is a cold subarctic current flowing southward along the west
 > - **New England States** (Connecticut, Maine, Massachusetts): Associations centered on [[Clam]] digging, [[Lobster]] fishing, [[Sardine]] packing, and groundfish ("draggers," "seiners," "weirmen"). - **Middle Atlantic States** (Maryland, New Jersey, New York, Pennsylvania, Virginia): Heavy focus ...
 > -- *[[ListOfFisheryAssociationsInThe_12333]]*
 
-> This document is a preliminary annotated reference compilation, not a primary research study. Compiled by [[Robert Livingstone Jr.]], a fishery biologist with the [[Bureau of Commercial Fisheries]] Biological Laboratory at Woods Hole, Massachusetts, it was published in May 1965 as U.S. Fish and...
-> -- *[[APreliminaryBibliographyWithKw_16163]]*
-
 ### Mentioned In
 - [[ListOfFisheryAssociationsInThe_12333]]
 - [[RoleOfEstuarineWatersInGulfFis_19019]]
-- [[APreliminaryBibliographyWithKw_16163]]
 
 ## Oyster Beds
 

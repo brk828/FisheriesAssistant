@@ -1,11 +1,11 @@
 ---
-species: N/A
-common_name: N/A
-family: N/A
-habitat: Irrigation canals and lined laterals of the Roosevelt canal system (Salt River Valley)
-ocean_basin: N/A
-location: Salt River Valley, Arizona, USA
-tags: [algae, limnology, irrigation-canals, aquatic-weeds, water-chemistry, phycology]
+species: ["Oscillatoria princeps", "Cladophora", "Potamogeton pectinatus"]
+common_name: "N/A (filamentous algae; aquatic weeds; Bermuda grass referenced)"
+family: "N/A"
+habitat: "Irrigation canals and laterals (freshwater)"
+ocean_basin: "N/A"
+location: "Salt River Valley, Arizona (Roosevelt Irrigation District, Maricopa County)"
+tags: [phycology, aquatic-weeds, irrigation-canals, freshwater-ecology, chemical-weed-control]
 title: "The Study of the Algae of Irrigation Waters: Final Progress Report"
 source_id: "PML2888"
 marsh_id: "PML2888"
@@ -13,62 +13,50 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "Janet D. Wien (1959). The Study of the Algae of Irrigation Waters: Final Progress Report. Salt River Valley Water Users' Association, Roosevelt Irrigation District, and Roosevelt Water Conservation District (Salt River Valley Algae Research Project, Arizona State University). Marsh Library ID: PML2888."
 source_file: "Wien J.D. 1959. Study of algae of irrigation waters..pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Final Progress Report: Algae Research on the Salt River Valley Canal System
+# The Study of the Algae of Irrigation Waters: Final Progress Report
 
-#phycology #limnology #algae
+#phycology #aquatic-weeds #freshwater-ecology
 
 ## Executive Summary
 
-This final progress report, prepared by principal investigator Janet D. Slee, covers an algae research project run by [[Arizona State University]] for the [[Salt River Valley Water Users Association]] and the [[Roosevelt Water Conservation District]]. The project studied algal and aquatic weed growth in irrigation canals of the [[Salt River Valley]], Arizona. It combined a roughly 1.5-year record of ecological and water-chemistry data, an assessment of canal distribution patterns, laboratory culture experiments, and a field trial of [[Chemical Weed Control]] agents on a canal plot. The author states that the work is not complete. The project was intended to identify the most promising approaches and to remove less promising ones, so that later work could concentrate on a few methods. The report does not reach firm conclusions on algal control.
+This final progress report, prepared by Janet D. Wien, Research Associate and Principal Investigator, summarizes the Salt River Valley Water User's Algae Research Project at [[Arizona State University]]. The project ran for about two and one-half years and was sponsored by several Arizona irrigation bodies, including the [[Salt River Valley Water Users Association]] and the [[Roosevelt Irrigation District]]. Its goal was to understand and control nuisance algae and aquatic weeds in irrigation canals. The author states that the work was preliminary and exploratory, meant to identify promising approaches rather than to solve the problem. The report covers weekly ecological monitoring at three sites, the canal distribution of infestations, laboratory culture of filamentous algae, and chemical weed control trials.
 
 ## Background & Description
 
-- **Project scope:** The study was a preliminary, broad survey. It aimed to define the main problems, examine possible approaches, and narrow the field of candidate control methods.
-- **Study system:** Irrigation canals and laterals. Weed problems were most severe in lined concrete-type canals where growth of [[Filamentous Algae]] and [[Bermuda Grass]] (in treated areas) was reported.
-- **Sponsors and support:** Field and laboratory work was supported through the agricultural department, a cooperating chemical company, and several federal and industry laboratories. Student research assistants handled much of the field and lab work.
-- **Report structure:** The report has sections on ecological data, the distribution of algae in canals, laboratory culture studies, [[Chemical Weed Control]] trials, and a summary with acknowledgments.
+The project was a continuation of earlier work, and this report summarizes data since the second annual report of April 1959. It aims to tie the three reports into one framework. The organisms of interest are filamentous algae and rooted or floating aquatic weeds that clog canals and require regular control each season. The test organism for culture work was [[Oscillatoria Princeps]]. The ecological discussion also refers to [[Cladophora]] and [[Potamogeton Pectinatus]], which the author describes as plants with wide ecological tolerances.
+
+The author stresses that the data are not final. Monitoring covered about two and one-half years, which the author considers too short to confirm annual cycles. Several patterns are therefore described as tentative.
 
 ## Ecological & Environmental Context
 
-**Water temperature**
-- Temperatures show a regular seasonal pattern, with a warm period from roughly April to October and a cool period in winter.
-- Reported summer ranges were about 20 to 28 °C. Winter temperatures were at or below about 20 °C.
-- The warm season coincides with the period of heaviest algal growth. Algal growth also responds to light and to water-level changes linked to canal operation (flow, drying, and refilling).
+**Temperature and seasonal succession.** Water temperature divides the year into four zones. Water stays near 20°C or below from November through April, when [[Filamentous Algae]] dominate. From July to mid-October it reaches 28°C or higher, when [[Aquatic Weeds]] dominate. October–November and April–July form change-over periods when both groups occur. A rapid autumn temperature drop precedes the decay of weed beds, often followed by a gap of several weeks with few plants before algae appear. The author concludes that temperature strongly regulates seasonal succession, though it is not the only factor.
 
-**Hydrogen ion (pH)**
-- Recorded pH values were between 7.8 and 8.1 at 1 p.m.
-- The author notes that the usual daily range of pH was only about 0.3 units. Daily variation was therefore considered a fairly stable part of the environment and unlikely to be ecologically important.
+**Light and turbidity.** [[Light Intensity]] is high from April to June, which favors young weed seedlings and sprouts. [[Turbidity]] is high from mid-May to mid-October and rises sharply with the spring release of gravity water, usually in mid-March. Turbidity rises in early June, after mature weeds have reached the surface and need less light, so it has little effect on them.
 
-**Dissolved oxygen**
-- Dissolved oxygen followed an annual cycle, with values expressed as percent saturation.
-- The report states that dissolved oxygen depends on many physical, chemical, and biological factors. Algal photosynthesis is one source of oxygen, but the report does not reach a firm conclusion about the mechanism.
+**pH.** [[PH]] values were available for only about one and one-half years. Once sampling-time shifts were corrected, the pH of all canals regularly fell between 7.8 and 8.3 at 1 p.m. The annual range was only about 0.5 pH units, so the author considers pH a fairly stable environmental factor that is unlikely to be ecologically significant for these plants.
 
-**Calcium and related ions**
-- Calcium concentrations showed an annual pattern. They were highest in winter and lowest at the time of heaviest algal development in spring and summer.
-- The report suggests that calcium is taken up by growing algae and released when they decay in the fall. It also notes that this could be an artifact of analytical error.
-- Chloride, carbonate, bicarbonate, and nitrate records covered only about 1.5 years, which was too short to confirm annual cycles. Test accuracy for nitrate and carbonate was reduced by technical difficulties.
+**Dissolved oxygen.** [[Dissolved Oxygen]], expressed as percent saturation, showed no clear annual cycle after correcting for sampling time. The author suggests that complex physico-chemical interactions may have masked expected seasonal changes.
 
-**Iron**
-- Iron readings were generally between 0.2 and 0.3 ppm. The full range was 0 to 0.5 ppm.
-- The author considered the variation too small to be ecologically important for algal growth, but relevant for controlling which species occur.
+**Calcium.** [[Calcium]] showed an apparent annual pattern. It peaked at the start of the algal season in December and January and reached its lowest values in April and May, at peak algal development. The author suggests that weed decay in autumn may release calcium back into the water. Whether algae cause or respond to these changes is unresolved, and the cycle needs further data.
 
-**Distribution of algae in canals**
-- Algal and weed growth generally began only after water had run well into the spring.
-- Growth was patchy and seemed to be controlled by water-level fluctuations, flow changes, and the timing of canal operations.
-- Weed beds were often followed by a period of several weeks with little or no growth. Some areas were consistently free of weeds.
-- Chemical inputs from the canal system may also affect growth, though the report does not establish this.
+**Other chemistry.** Data for [[Magnesium]], [[Nitrate]], chloride, carbonate, bicarbonate and [[Iron]] covered only a year and a half, which the author considers too short to confirm annual cycles. Chloride, magnesium and bicarbonate showed possible patterns. Nitrate and carbonate results were affected by technical problems and reagent aging. Iron readings were almost always 0.2 to 0.3 ppm, with extremes of 0 to 0.5 ppm. This variation is too small to affect plant growth quantitatively, though it may influence which species can occur.
+
+**Canal distribution.** Heavy infestations were mapped with the help of canal maintenance staff. A canal counted as heavily infested if it needed control every year during the weed season. Three patterns stand out:
+- Weeds appear only after water has run well into the district. The author suggests that fast flow and shifting sand and silt prevent permanent beds in the upper canals. Agricultural runoff and tail-water returns may also enrich the water.
+- Chronic lateral infestations occur mainly toward the ends of the distribution system. The heaviest main-canal growth occurs in the last few miles, which the author links to nutrient enrichment with distance from the source.
+- Algal infestations are more sporadic. They regularly accompany heavy weed growth but also occur in some canal sections without clear pattern.
 
 ## Key Findings
 
-1. **Seasonal control of growth:** Algal and aquatic weed growth in the canals appears strongly linked to temperature, light, and water-level regulation, and to the timing of canal operations.
-2. **Water chemistry:** Most measured parameters, including pH, iron, and the major ions, were stable over the study period. Changes in calcium showed an annual cycle that may reflect algal uptake and release, but this could not be confirmed. The author recommends further data and physiological experiments.
-3. **Laboratory culture:** Laboratory culture of filamentous algae in soil-water medium was attempted. Cultures often collapsed when pH rose, and calcium sulfate was used to lower pH. Problems with culture contamination and reliable pH control were identified as obstacles to further work.
-4. **Chemical control field trial (February 1959):**
-   - Herbicides were applied to test plots on February 14, 1959, at rates listed in pounds per acre (for example, 30 lb/acre on one plot).
-   - No significant rainfall occurred between application and the next water delivery, so the canal was not flushed.
-   - At the October 2, 1959 inspection, no aquatic weeds were visible in treated areas. Bermuda grass was starting to establish in treated areas, but plots 4, 5, and 6 remained free of growth.
-   - The author concluded that the results were inconclusive. Because the canal had been reshaped and weed problems varied from year to year, the effects could not be attributed to the treatments with confidence.
-5. **Proposed mechanisms for weed distribution:** Hypotheses include delayed growth after spring flow, the influence of water exchange with lateral canals, and the effect of chemical inputs on uneven weed beds. These remain untested.
-6. **Recommendations:** Further controlled experiments are needed, including laboratory tests with better pH control, longer field trials, and analysis of the costs and benefits of different control methods. The author stresses that the current evidence is insufficient to recommend a specific method, and that the work should continue to narrow the options.
+**Culture studies.** Laboratory culture of canal filamentous algae was identified as a prerequisite for experimental work. A soil-water medium gave reasonable success. Cultures of Oscillatoria princeps grew vigorously for 7 to 10 days and then collapsed. Media pH was found to be between 9.5 and 10.0 in all cultures, which the author identifies as the likely cause of failure. Adding calcium sulfate and acid did not prevent the rise in pH, and cultures remained healthy for only about two weeks. Suggested remedies include a non-toxic pH indicator and ammonium salts, which would act as both a nitrogen source and an acidifying agent. Aeration and electrical currents were considered but remain speculative without a reliable culture method, and the author judged aeration of doubtful value.
+
+**Chemical control, Beardsley plots.** On February 14, 1959, seven soil-sterilant materials were applied to dry canal bottoms, including [[Simazine]], Karmex, chlorea granular, Chlorax 40, Simazin granular, chlorea DE and Chip-Cal. The canal was not filled until mid-June. By October 2, 1959, the plots showed no aquatic weeds, but Bermuda grass had begun to establish, most heavily in plot 3. Plots 4, 5 and 6 were free of plant growth. The district engineer reported that weed control was unnecessary in the treated sections. The author judged the results inconclusive but possibly positive and recommended further tests.
+
+**Chemical control, Western Canal plots.** A second set of plots used [[Monuron]] at 30 lb per acre, disced in, in plot 1, and Novon at 20 gal per acre with aminotriazole and Phygon XL in plot 2. Weeds were eliminated, but about a week after the dry-up, fine seedlings of Potamogeton appeared with attached seed coats, and healthy tubers were found. The author concluded that residual chemical in the soil was apparently too low to affect the seedlings and tubers. The test section still needed chaining twice during the weed season. The author considered the evidence inconclusive and argued that control must be much more effective to justify its cost.
+
+**Biological and other control prospects.** The author highlights three prospects for future work: [[Biological Control]] using the herbivorous fish [[Tilapia]], which should be studied by a qualified investigator; electrical impulses for control, which need a working culture method first; and the use of aquatic plants as stock feed.
+
+**Recommendations.** The author argues that chemical control should be tailored to district operations and that weed specialists need broad training in both science and practical agriculture. The project was framed as an open search for unconventional ideas, with the aim of building a scientific base for each one.

@@ -1,61 +1,73 @@
 ---
-species: "Agosia chrysogaster (OCR-reconstructed; longfin dace); dace (unidentified species)"
-common_name: "Longfin dace; unidentified dace; unspecified nonnative fishes"
+species: "Dorosoma petenense (threadfin shad, identified by common name only); Micropterus salmoides (largemouth bass); Agosia chrysogaster (longfin dace); carp, yellow bullhead, bluegill and green sunfish (identified by common name only)"
+common_name: "Threadfin shad, largemouth bass, yellow bullhead, bluegill, carp, green sunfish, longfin dace"
 family: "N/A"
-habitat: "Desert streams; flood-affected stream channels"
+habitat: "Freshwater sidewaters (backwaters) of the Colorado River; desert stream and river channel margins"
 ocean_basin: "N/A"
-location: "N/A"
-tags: [ichthyology, marine-biology, desert-stream-fishes, flood-ecology, freshwater-fish-management]
+location: "Topock Gorge Division, Colorado River, Arizona-California border (near Needles, Havasu Lake National Wildlife Refuge)"
+tags: [ichthyology, freshwater-fisheries, rotenone-survey, desert-streams, flood-ecology]
 title: "1965 Fishery Correspondence and Desert Stream Flood Effects on Fishes"
 source_id: "PML1333"
 marsh_id: "PML1333"
 library: "Marsh Library"
 source_citation: "Lanse (1965). 1965 Fishery Correspondence and Desert Stream Flood Effects on Fishes. California Department of Fish and Game (Resources Agency). Marsh Library ID: PML1333."
 source_file: "Lanse R.I 1965. fish backwaters topock rotenone.pdf"
-text_extraction: "text"
 permission: "public domain"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
 # 1965 Fishery Correspondence and Desert Stream Flood Effects on Fishes
 
-#ichthyology #marine-biology #cyprinidae
+#ichthyology #marine-biology #cyprinidae #centrarchidae
 
 ## Executive Summary
 
-This document is a badly degraded OCR scan of roughly six pages. Pages 1–6 are mostly 1965 memoranda and tables on fish catch weights, handled through a [[Fish And Wildlife Service Correspondence]] format, with references to a [[Colorado River]]-era fisheries project. Page 7 is a fragment of a scientific discussion on how floods affect fish assemblages in [[Desert Streams]], citing [[Minckley And Meffe 1987]] and [[Minckley And Barber 1971]]. Most numerical entries on pages 1–6 cannot be reliably recovered, so the figures below are limited to what can be read. The clearest content is the flood-ecology discussion on page 7.
+This document is a 1965 Fisheries Management (Region 5) memorandum packet, with a supporting excerpt on flood effects. It reports a rotenone-based population estimate of fishes in two sidewaters of the [[Colorado River]] in the [[Topock Gorge]] Division, conducted on June 24 and June 30, 1965. Liquid [[Rotenone]] was applied, and fish were collected from the treated areas with a [[Block Net]] and [[Gill Net]]. The rough fish weights recovered were low for game species, and the authors suggested several explanations, including fish escaping the block net and an unknown influence of the standing crop of game fish. The packet also includes recommendations for water-quality and fish-food studies. The final page is a literature summary (citing [[Minckley and Meffe 1987]]) on how floods affect native and nonnative fishes in desert streams.
 
 ## Background & Description
 
-- **Administrative pages (1–6):** Memoranda dated 1965 (including references to June and July dates) discuss fish collection and handling. Tables list fish weights in pounds and ounces, grouped by lot and species, plus notes on surface area and sampling. Specific species names and totals are not legible.
-- **Scientific fragment (page 7):** Describes the response of stream fishes to flooding in arid-region channels. The text is incomplete at the start and end.
-- **Document type:** Mixed. It combines routine fisheries correspondence and tabulated catch weights with a literature-based ecological argument. It is not a single coherent research report.
+The survey was a [[Fish Population Estimation]] exercise carried out by the Arizona Game and Fish Department and the [[Havasu Lake National Wildlife Refuge]], with a California Department of Fish and Game memorandum also included. Staff involved include Roger I. Lanse (Fishery Biologist II) and Paul C. Marsh, with copies sent to the [[Arizona Game and Fish Department]] (Kingman) and the refuge (Needles). Page 2 was issued as a corrected copy on July 19, 1965, replacing an earlier version dated July 15, 1965.
+
+Methods, as reported:
+
+- **Toxicant:** Five gallons of liquid rotenone (Pro-Noxfish, as named in the packet) were poured into the propwash of the boat on June 24 and June 30, 1965. A separate page-3 memo describes five gallons of liquid rotenone from the Chino Fisheries Base, held at the Blythe office for two years, as used on June 24. The packet does not reconcile these two sources.
+- **Collection:** A block net, described as 100 ft × 6 ft with gill-net mesh (the mesh size is given inconsistently in the scan), was used to catch fish.
+- **Sidewater 1 (June 24):** About 9,000 sq ft, roughly 1/5 surface acre, on the Arizona side of the river about 100 yards upstream of the U.S. Geological Survey river gage.
+- **Sidewater 2 (June 30):** About 12,500 sq ft (scan reading), on the Arizona side about 300 yards upstream of a U.S. survey station. The table heading gives its treated area as 1/2 surface acre, which conflicts with the stated square footage.
 
 ## Ecological & Environmental Context
 
-**Desert stream hydrology.** The text states that discharge in desert streams can increase three to four times during floods (cited to Minckley and Meffe, 1987). Large amounts of organic and inorganic material are transported through the water column.
+The packet lists the fish species collected: [[Threadfin Shad]], [[Largemouth Bass]] (adults and young-of-year fry and fingerlings), [[Yellow Bullhead]], [[Bluegill]], [[Green Sunfish]], and [[Common Carp]] (listed as "carp"). The report notes that the rotenone did not kill some species that are known to be tolerant of it. Carp and bullheads were seen at the surface, but the authors also reported that some fish, including many shad and yellow bullheads, were caught in the block net. The authors identified possible causes for the low game-fish yield, such as fish escaping under, over, or around the block net, and a possible cathedral-like sandbar or sediment barrier that formed at the mouth of one sidewater. They also noted that the water depth at the sandbar was less than three feet.
 
-**Physical effects of suspended material.** Suspended sediment can damage gills and other body tissues, cause suffocation of fishes, and smother eggs and larvae (cited to Minckley and Meffe, 1987; Naiman, 1981; OCR-garbled author names).
+The final page provides a broader ecological framework from Minckley and Meffe (1987) on desert streams:
 
-**Displacement and mortality.** In extreme floods, fishes may be displaced downstream. Nonnative fishes are described as particularly affected and are often destroyed. Native fishes are described as able to withstand high discharge by occupying channel margins, persisting in microhabitats, or quickly recolonizing after displacement.
-
-**Behavioral response.** The longfin dace (*Agosia chrysogaster*, reconstructed from OCR "Instiagosia chrvsoqs=ter") is described as negotiating high discharge by moving laterally toward the stream margins as turbulence increases. It moves back into the main channel as discharge falls (Minckley and Barber, 1971).
+- Discharge in desert streams can increase three to four times during floods.
+- Floods can transport large amounts of organic and inorganic material, and suspended sediment can damage gills and body tissues, suffocate fish, and smother eggs and larvae.
+- Nonnative fishes are particularly vulnerable to floods and are often destroyed when displaced downstream.
+- Native fishes can withstand high discharges by using channel margins, persisting in microrefugia, or recolonizing quickly after displacement.
+- The [[Longfin Dace]] (*Agosia chrysogaster*) is given as an example. It moves directly into the current at the start of a flood, then moves laterally as turbulence increases, riding out the flood at the stream margins and returning to the main channel as discharge falls.
 
 ## Key Findings
 
-1. **Flood-driven shifts in fish composition.** Where fish communities were compared before and after flood events, a general pattern emerged. Relative numbers of native fish species increased, and exotic species declined. The text reports that these changes were correlated with the magnitude of flooding (Minckley and Meffe, 1987).
+**Rough fish biomass from the rotenone treatments (as reported; OCR-affected values):**
 
-2. **Native fish composition largely stable.** The text states that native fish composition did not change significantly overall. No native species was extirpated by high discharge, although some species were better adapted to resist displacement (Minckley and Meffe, 1987).
+- The June 24 sidewater (about 1/5 surface acre) yielded about 15 lb 10 oz of rough fish per surface acre.
+- The June 30 sidewater yielded about 3 lb 6 oz per surface acre.
+- The average of the two treated sidewaters was about 11 lb 9 oz per surface acre.
+- Species-level weights were given in Tables 1 through 3 (for example, threadfin shad, largemouth bass adults, young largemouth bass, yellow bullhead, bluegill, green sunfish, and carp). Many values are difficult to read in the scan, so verify them against the original tables before reuse.
 
-3. **Flood resistance strategies.** Native fishes persist through several strategies:
-   - Occupying channel margins during high flow.
-   - Persisting in microrefugia.
-   - Quickly recolonizing after displacement.
-   - Lateral movement as turbulence increases (longfin dace).
+**Interpretation and limitations:**
 
-4. **Nonnative vulnerability.** Nonnative fishes are particularly vulnerable to floods and are often destroyed, which is consistent with the observed decline in exotic species after floods.
+- The authors concluded that the yield of game fish was low. They considered three explanations: fish escaped the block net, some species were not killed by the rotenone, and a sandbar or sediment barrier may have limited fish movement. The packet says there was not enough information to assess other possible factors, such as the relationship between the game fish and the standing crop of carp.
 
-5. **Fisheries administrative content (pages 1–6).** Memoranda and tables record fish weights and catch data from 1965. These entries are too degraded to extract reliable species-level counts, sample sizes or statistics. The following items could be confirmed only as headings or partial fragments:
-   - Weight tables for fish lots, given in pounds and ounces.
-   - Lists of field sites and sampling dates.
-   - Reference to a survey or project under a [[Colorado River]] heading.
+**Recommendations (as stated in the packet):**
 
-6. **Source limitations.** Because of OCR degradation, species names, numerical values and some author names on pages 1–6 and 7 may be incorrect. Any figure drawn from this document should be checked against the original scan before citing.
+- Determine the extent of fish-food production in the sidewaters.
+- Analyze water samples for dissolved oxygen, temperature, carbon dioxide, alkalinity, and pH, as [[Water Quality]] indicators.
+- Carry out additional studies depending on time, manpower, and equipment.
+
+**Flood effects (from Minckley and Meffe 1987, as summarized in the excerpt):**
+
+- The percentage of native fish species increased, and exotic species declined, as flood magnitude increased.
+- Native fish community composition did not change significantly.
+- No native fish species was eliminated by high discharge, although some species were better able to resist displacement.

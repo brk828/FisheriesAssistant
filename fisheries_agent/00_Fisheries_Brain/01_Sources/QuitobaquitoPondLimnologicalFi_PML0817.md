@@ -1,11 +1,11 @@
 ---
-species: N/A
-common_name: N/A
+species: "Scirpus olneyi; pupfish (unspecified species)"
+common_name: "Olney's bulrush; pupfish"
 family: N/A
-habitat: Spring-fed freshwater pond and outflow channel (Quitobaquito Springs system)
+habitat: "Spring-fed desert pond and outflow stream; riparian vegetation; sediments"
 ocean_basin: N/A
-location: Quitobaquito Springs and Pond, southwestern Arizona, USA
-tags: [limnology, aquatic-ecology, freshwater-ecology, water-budget, water-quality]
+location: "Quitobaquito Springs and Pond, Arizona, near the Mexico border"
+tags: [limnology, freshwater-ecology, aquatic-macrophytes, water-budget, nutrient-dynamics, national-park-service]
 title: "Quitobaquito Pond: Limnological Findings and Management Recommendations"
 source_id: "PML0817"
 marsh_id: "PML0817"
@@ -13,51 +13,67 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "S. G. Fisher (1985). Quitobaquito Pond: Limnological Findings and Management Recommendations. Arizona State University, Department of Zoology. Marsh Library ID: PML0817."
 source_file: "Fisher S.G 1985. Quitobaquito contract report to NPS.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
 # Quitobaquito Pond: Limnological Findings and Management Recommendations
 
-#limnology #aquatic-ecology #freshwater-ecology
+#limnology #freshwater-ecology #aquatic-macrophytes
 
 ## Executive Summary
 
-This document is a letter from a zoologist at [[Arizona State University]] to [[E. Peter Sennett]] of the [[National Park Service]]. It reports preliminary limnological findings and management recommendations for [[Quitobaquito Pond]] and its spring-fed system at [[Quitobaquito Springs]], within [[Organ Pipe Cactus National Monument]]. The findings are based on field data collected in July and on chemical data provided by the Park Service. The author stresses that the work is a single-time-point sample, so the conclusions are provisional. The letter recommends establishing a water budget, monitoring sedimentation and vegetation change, and building a long-term monitoring program with a limited set of diagnostic variables. The scan is partly degraded, so some dates, units and values are uncertain. No fish species are named in the readable text.
+This is a letter from [[Arizona State University]] (Department of Zoology) to Dr. Peter Bennett of the [[National Park Service]]. It summarizes a limnological assessment of [[Quitobaquito Springs]] and [[Quitobaquito Pond]], based on a field visit on 26–27 July (recorded as "7/26-27/64" in the OCR) and on chemical data supplied by the NPS. The author states that the findings are tentative because they rest on only a few days of data. The letter argues that the system is scientifically interesting and "eminently manageable," and it recommends that the first priority be establishing the normal range of natural variation. Its main recommendations are to build a hydrologic water budget, use physical-only control of macrophytes, set up long-term monitoring of pond shoaling and vegetation, design any spring-to-pond channel with a mix of habitats, and improve nitrate and phosphate methods.
 
 ## Background & Description
 
-- **Setting:** The pond is fed by springs and drains through a channel. The letter refers to a concrete-lined channel from the springs to the pond, and to a ditch associated with [[Cottonwood Ditch]].
-- **Purpose:** The letter responds to a brief summary of the Park Service's field data and chemical data. It also builds on earlier work by [[Cole and Whiteside 1965]], whose limnological study of the pond the author was preparing to parallel. The author notes that the invertebrate identifications from that manuscript were the major holdup.
-- **Scope:** The author describes the letter as a summary of preliminary impressions, not a complete analysis, and offers to help with further work.
+The letter is an advisory summary, not a formal research paper. The author notes that a fuller manuscript on Quitobaquito was in preparation to parallel [[Cole and Whiteside 1965]]. Macroinvertebrate identification was the main holdup on that manuscript, and the author says the paper would be strengthened by data from more than a single point in time.
+
+The system is a small spring-fed pond with a small drainage basin, connected to its springs by a pipeline and a short run of stream. Summer storms deliver sediment to the pond, and the author witnessed one such event on 26 July, while [[Phil Rosen]] described another on 29 July. Water is also lost through evaporation and through transpiration by riparian vegetation, and the author suspects the pipeline has been leaking. The pond is dominated by macrophytes, mainly [[Scirpus olneyi]].
+
+Pupfish are mentioned as possible breeders in sediment deposits within any new channel. Turtles are mentioned as a reason macrophyte reduction might be justified for their reproduction. No fish survey or species list is given.
 
 ## Ecological & Environmental Context
 
-**Water budget.** The author considers a water budget essential, since the system has been extensively studied but its water balance is poorly defined. Key open questions include:
-- How much water is lost to evaporation from the pond surface?
-- How much is lost to transpiration through riparian vegetation?
-- Does storm runoff contribute significantly?
-- What would be the cost to the water budget of changes such as lining the channel from springs to pond?
-
-The author is particularly concerned about the potential loss of vegetation along the current channel if water levels drop. The recommended first step is a hydrologic budget for a typical summer day.
-
-**Sedimentation.** Sediment pulses from storm runoff enter the pond and will eventually fill it, requiring periodic dredging. The author witnessed one such event and was told of another in late July. The inflow drainage is small, and the sediment source is probably limited to a few localized spots. A simple trench could divert overland flow away from the pond, though the author cautions against a large-scale intervention. Monitoring sedimentation rate, using distance measurements from a fixed bench mark on the shore to the water surface, is recommended because sediment could prolong the pond's life substantially.
-
-**Vegetation and invertebrates.** Based on surveys, the author judges that the encroachment of aquatic vegetation over the past 20 years has not been substantial. Some management of the margins may still be useful for non-target benefits, such as turtle reproduction. The author sees no urgent need to control invertebrates to preserve the natural habitat. Any control of unwanted aquatic plants should use only physical methods.
-
-**Water chemistry.** The chemistry is described as unusual for a spring-fed system. Nutrient concentrations appear to change within the pond:
-- Nitrogen and phosphate concentrations are higher where water enters the pond than at its center. The text gives a figure of 2.8 where water enters, falling to 0.5 in the center. Units are garbled in the scan.
-- Neither the ratio of these nutrients nor the nitrogen levels in the pond appear to be the controlling factor for the system's productivity.
-- [[Cole and Whiteside 1965]] reported nitrate as undetectable in 1964. The author appears to report a similar finding in 1982, but this is hard to read in the scan.
-
-**Dissolved oxygen and physical conditions.** Dissolved oxygen shows only weak vertical stratification, with variation during the day. The pond is described as probably polymictic, meaning it mixes frequently. Physical parameters were measured, but the letter gives few quantitative values.
+- **Hydrology:** The water budget is unknown. Key open questions are water lost between spring heads and pond, evaporative loss from the pond surface, transpiration loss, and how much storm sheetflow contributes.
+- **Sediment and morphometry:** Summer storms bring substantial sediment that will eventually fill the pond and may require costly dredging. Sediments in the existing streams are fine-grained, highly organic, and anoxic. Little macroscopic benthic life exists below about 1 cm.
+- **Macrophytes:** Based on cursory observation, encroachment by *Scirpus olneyi* over the past 20 years is not substantial. The author cannot explain why.
+- **Plankton and biota:** Sorted samples of stream and pond biota were similar to those described by Cole in 1964. Plankton was strikingly depressed. The water column held a flocculent, apparently amorphous organic material that accounts for most of the light attenuation.
+- **Nutrients:** Nitrogen and phosphorus concentrations are low for Arizona waters, especially in the springs. Nitrate was undetectable at Quitobaquito in May 1964 (Cole and Whiteside) and in April 1982 (the author).
+- **Light and oxygen:** Dissolved oxygen is highest at the pond bottom and shows little vertical stratification at 0700. The pond was thermally stratified on 26 July and then turned over overnight. The pond is probably polymictic in summer.
 
 ## Key Findings
 
-1. **Water budget is undefined.** A hydrologic budget should be established, including evapotranspiration, runoff and spring inflow. The budget should be used to judge the effects of any channel modification.
-2. **Sedimentation is an ongoing threat.** Episodic storm sediment delivery is likely to fill the pond. A fixed-point monitoring system for sedimentation rate is recommended, along with physical diversion of overland flow if warranted.
-3. **Vegetation change is modest.** Over the past 20 years, aquatic vegetation encroachment has not been substantial. Only physical control methods are recommended.
-4. **Nutrient gradient exists.** Nitrogen and phosphate concentrations decrease from the inflow point to the pond center. Nitrate levels appear low, consistent with the earlier 1964 record.
-5. **Biological data are limited.** The author cautions that a single sampling event cannot describe the system's seasonal or annual variation. Plankton and invertebrate data are still needed to establish a baseline for judging change.
-6. **Chemical monitoring should be streamlined.** Core parameters (including calcium, magnesium, sodium, potassium, chloride, sulfate, nitrogen compounds and phosphate) should be monitored at the spring and at the pond. Other parameters should be studied only at the levels needed.
-7. **Methods need improvement.** Some measurements are difficult to make reliably and are sensitive to sampling methods. The author strongly recommends developing better techniques for these measures.
-8. **Diagnostic monitoring program.** The author recommends a short list of simple, low-cost diagnostic measures that can be taken by a park staff member once or twice a year. Such measures would flag abnormal changes early and trigger deeper investigation.
-9. **Data supplements.** The author offers to provide the full data set and further analysis. The attached data tables (Tables 1–4) are referenced but are not reproduced in the scanned text.
+**1. Water budget (top priority).** A hydrologic budget for a typical summer day is needed before any manipulation. The author is especially concerned about losses to vegetation if the pipeline leaks are repaired, and about the effects of a concrete-lined channel.
+
+**2. Sediment diversion.** Ditching the pond perimeter to divert overland flow around the pond could prolong its life. This should not be done until the storm-runoff input is shown to be unimportant to the water budget. The diversion should be gentle trenching, not a "moat-like eyesore."
+
+**3. Macrophyte control.** The author sees no urgent need to control macrophytes to preserve natural habitat. If control is required (for example, for turtle reproduction), only physical means should be used. Monitoring should include:
+- Measuring the distance from shoreline benchmarks to the *Scirpus*–open water boundary at 6–8 fixed sites.
+- Fixed bottom-elevation stations in the pond to measure shoaling rate.
+
+**4. Spring-to-pond channel.** A lined channel could enhance lotic habitat, using gunite to limit water loss, provided vegetation loss stays within acceptable limits. Losing deep sediments is considered likely insignificant. The design should include a mix of habitats, depths, and velocities rather than a straight ditch, with sediment allowed to accumulate in places for possible pupfish breeding. Maintenance access should also be planned.
+
+**5. Baseline limnology.** A repeated sampling program is needed to capture seasonal and diel variation. The author suggests:
+- Quantitative zooplankton tows (major taxa only) and qualitative benthos sampling.
+- Chemical parameters such as conductivity, major cations, chloride, sulfate, bicarbonate, nitrate, phosphate, dissolved organic carbon, and dissolved oxygen. DOC and phosphate should be sampled around the clock and in depth profiles at one central pond site.
+- Physical measures including light attenuation (or Secchi disk) and thermal profiles.
+- A once- or twice-yearly measurement after the baseline is set. The author also proposes a simple checklist that a moderately trained observer could use, costing about one man-day per year.
+
+**6. Existing NPS chemistry data.** Total dissolved solids, calcium, magnesium, sodium, potassium, bicarbonate, chloride, and sulfate data appear reasonable and should be continued at the springs, the inlet, and the Cottonwood sites if funds allow. Total suspended solids, iron, and silica have limited limnological use at the levels measured. Heavy metal analyses are not generally useful unless they serve a specific purpose, so the author would not continue them.
+
+**7. Nitrate and phosphate methods.** Nitrate and phosphate show more variability than expected in natural systems, and phosphate resolution is poor. These variables are important but sensitive to sampling method, preservation, and transport. The author recommends developing better techniques before continuing them.
+
+**8. Water chemistry patterns.**
+- Spring conductivity is higher than pond conductivity. This may reflect recent rain or a sub-basin inflow of low-conductivity water, and it may help with the water budget.
+- Ammonium is very low, while dissolved organic nitrogen is very abundant.
+- Spring and stream N:P ratios are very high, indicating potential phosphorus limitation, and phosphorus concentrations are so low that phosphorus is probably actually limiting. Channelization is therefore unlikely to cause algal problems.
+- In the pond, phosphorus rises markedly (perhaps from sediment release or a subsurface source), while nitrogen falls from 2.8 ppm where water enters the pond to 0.5 ppm at the center.
+- Neither nutrient was limiting photosynthesis at the time of sampling, but continued uptake could quickly reduce nitrogen to limiting levels. The author suspects the pond is nitrogen-limited for part of the year.
+
+**9. Light and productivity.** The 1% light level is calculated by extrapolation to be at 1.17 m, so nearly all the pond bottom receives enough light for photosynthesis. Turbidity was high on 29 July, probably from the floc. If the 1% depth were about 0.17 m shallower on average, photosynthesis could be greatly reduced. The Secchi disk reading is given as 0.58 in the figure notes, without units.
+
+**10. Floc and filling.** The floc is sensitive to pH and metal concentrations and can precipitate rapidly under suitable conditions. This could increase production and accelerate pond filling when nutrients are abundant, so it should be studied further.
+
+**11. Oxygen and stratification.** Oxygen data suggest benthic photosynthesis, but rates are probably low because of high light attenuation. Polymixis can carry high oxygen to lower layers, but it can also trap low-oxygen water at depth, for example overnight. The author found no evidence of anoxia but recommends monitoring.
+
+**12. Management outlook.** Maintaining the present pond depth requires ongoing filling control. Draining and dredging may eventually be necessary, and the depth for that should rest on sound limnological data. The author offers to supply the full raw data set and to help further with the project.

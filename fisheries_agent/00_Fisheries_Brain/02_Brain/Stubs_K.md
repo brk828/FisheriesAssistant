@@ -1368,18 +1368,6 @@ An early Pleistocene glacial episode in North America. In this source it serves 
 - [[SpeciationAndDistributionOfThe_12069]]
 - [[FishesOfElDoradoCityLakeButler_19274]]
 
-## Kansas City District
-
-### Summary
-The Kansas City District is a unit of the Corps of Engineers, and Thomas D. Burke was affiliated with it. The source places the district's work within the Missouri River Bank Stabilization and Navigation Project.
-
-### Context
-> This paper, by [[Thomas D. Burke]] of the [[Kansas City District]], [[Corps of Engineers]], and [[John W. Robinson]], a fisheries research biologist with the [[Missouri Department of Conservation]], reviews the benefits and adverse effects of the [[Missouri River Bank Stabilization and Navigation...
-> -- *[[RiverStructureModificationsToP_PML0329]]*
-
-### Mentioned In
-- [[RiverStructureModificationsToP_PML0329]]
-
 ## Kansas Farm Ponds
 
 ### Summary
@@ -1651,18 +1639,6 @@ Kansas Till is glacial till from the Kansan glaciation, which left deposits in n
 
 ### Mentioned In
 - [[PleistoceneGeologyOfKansas_18863]]
-
-## Kansas University Museum
-
-### Summary
-The Kansas University Museum is a natural history collection that houses preserved fish specimens. This study examined darter specimens from the museum's collections, which were used to analyze stomach contents of fish collected from Kansas streams in 1957.
-
-### Context
-> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
-> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
-
-### Mentioned In
-- [[ObservationsOnTheFoodHabitsOfD_20140]]
 
 ## Kansas University Science Bulletin
 
@@ -3305,12 +3281,12 @@ Kelp beds are nearshore underwater forests of large brown algae along the Pacifi
 > - **Deep rocky reef habitat (30+ fathoms):** The [[Turkey-red Rockfish]] and [[Vermilion Rockfish]] are strongly associated with deep water over rocky bottom, consistent with conditions at [[Northwest Seal Rock]] (St. George Reef), roughly 6.5 miles offshore — indicating open-water, boat-based fi...
 > -- *[[FishSpeciesFromThePointStGeorg_1965_02_22]]*
 
-> This Occasional Paper of the [[California Academy of Sciences]] (June 12, 1979; about 133 pages) is an annotated checklist of the fishes of California, compiled by [[Carl L. Hubbs]], [[W. I. Follett]], and [[L. J. Dempster]]. It enumerates species that have been reliably recorded from the state,...
-> -- *[[ListOfTheFishesOfCalifornia_PML1107]]*
+> This short-note section of [[California Fish and Game]] contains four items: a reference list for a mollusk-related paper (no fish data), and three research notes on fishes. The notes report (1) the first recorded fish capture at Badwater, [[Death Valley]], a single [[Amargosa Pupfish]]; (2) the...
+> -- *[[NewLocalityRecordForThePupfish_PML0028]]*
 
 ### Mentioned In
 - [[FishSpeciesFromThePointStGeorg_1965_02_22]]
-- [[ListOfTheFishesOfCalifornia_PML1107]]
+- [[NewLocalityRecordForThePupfish_PML0028]]
 
 ## Kelp Perch
 <!-- fm: auto_enriched: true -->
@@ -3671,9 +3647,13 @@ A coefficient of concordance used in this study to measure how consistently the 
 > This study uses a 30-year record from [[Aravaipa Creek]], Arizona, to test how well different metrics detect long-term change in a native desert stream fish assemblage, and what environmental drivers explain that change. The creek is intrinsically variable, with [[Flash Floods]] and temperature...
 > -- *[[VariabilityAndDynamicsOfADeser_PML0654]]*
 
+> This study tests the long-term stability and persistence of summer fish assemblages in three freshwater streams of the [[White River]] and [[Red River]] drainages: [[Piney Creek]] (Arkansas), [[Brier Creek]] (Oklahoma), and the [[Kiamichi River]] (Oklahoma). The authors distinguish *persistence*...
+> -- *[[StabilityAndPersistenceOfFishF_PML1610]]*
+
 ### Mentioned In
 - [[PersistenceAndStabilityOfFishA_20076]]
 - [[VariabilityAndDynamicsOfADeser_PML0654]]
+- [[StabilityAndPersistenceOfFishF_PML1610]]
 
 ## Kendall's W Concordance
 
@@ -4635,6 +4615,18 @@ Kentucky spotted bass (Micropterus pseudaplites) is a closely related black bass
 ### Mentioned In
 - [[TheFoodOfSpottedBassInStreamsO_21197]]
 
+## Kenward (1987)
+
+### Summary
+Kenward (1987) is a book on wildlife radio tagging. The chapter lists it among the earlier handbooks and reviews that cover radiotelemetry methods.
+
+### Context
+> This book chapter, by [[Edward O. Garton]], [[Michael J. Wisdom]], [[Frederick A. Leban]], and [[Bruce K. Johnson]], is a guide to planning [[Radiotelemetry]] studies of wildlife. It works through a series of "critical questions" covering study purpose, inference population, sample unit, sampling...
+> -- *[[ExperimentalDesignForRadioTele_PML0850]]*
+
+### Mentioned In
+- [[ExperimentalDesignForRadioTele_PML0850]]
+
 ## Kenya
 <!-- fm: auto_enriched: true -->
 
@@ -4645,9 +4637,25 @@ Kentucky spotted bass (Micropterus pseudaplites) is a closely related black bass
 > This synthesis paper, published in *Ecological Applications* (Supplement, 2003), distills existing theoretical and modeling results into general principles for designing [[Marine Reserves]]. The authors, from the University of California, Davis and the University of Pisa, note that marine reserve...
 > -- *[[PrinciplesForTheDesignOfMarine_PML0256]]*
 
+> This document comprises two papers from *Freshwater Crayfish* (vol. 3, 1977). The first, by Jay V. Huner of [[Southern University]], updates the status of [[Procambarus Clarkii]] introductions outside its native range and reports new introductions in Africa, Central America, and Europe. The second,...
+> -- *[[ScannedAquaticDocumentUnreadab_PML1130]]*
+
 ### Mentioned In
 - [[BiologicalNotesOnSomeEastAfric_14561]]
 - [[PrinciplesForTheDesignOfMarine_PML0256]]
+- [[ScannedAquaticDocumentUnreadab_PML1130]]
+
+## Kenyatta University
+
+### Summary
+Kenyatta University is the institution of R. S. Lowery and A. J. Mendes, authors of the second paper in this source. Their 1977 work documents the biology of P. clarkii in Lake Naivasha, Kenya, and its effect on the local gill-net fishery.
+
+### Context
+> This document comprises two papers from *Freshwater Crayfish* (vol. 3, 1977). The first, by Jay V. Huner of [[Southern University]], updates the status of [[Procambarus Clarkii]] introductions outside its native range and reports new introductions in Africa, Central America, and Europe. The second,...
+> -- *[[ScannedAquaticDocumentUnreadab_PML1130]]*
+
+### Mentioned In
+- [[ScannedAquaticDocumentUnreadab_PML1130]]
 
 ## Keo Fish Farm
 
@@ -4831,8 +4839,12 @@ Kermit E. Sneed was the co-author with Howard P. Clemens of this 1957 channel ca
 > This 1957 study by [[Howard P. Clemens]] and [[Kermit E. Sneed]] documents the spawning behavior of [[Channel Catfish]] (*Ictalurus punctatus*) induced to spawn in glass aquaria via fish pituitary injections. The research was conducted under the [[Saltonstall-Kennedy Act]] at the [[U.S. Fish...
 > -- *[[TheSpawningBehaviorOfTheChanne_15949]]*
 
+> This study by [[Kermit E. Sneed]] (Fisheries Research Laboratory, Norman, Oklahoma) tests whether annual rings on the left pectoral spines of [[Channel Catfish]] (*Ictalurus lacustris punctatus*) can be used to age fish and calculate their growth in length. Spines were collected from 204 fish taken...
+> -- *[[CalculatingGrowthOfChannelCatf_PML2399]]*
+
 ### Mentioned In
 - [[TheSpawningBehaviorOfTheChanne_15949]]
+- [[CalculatingGrowthOfChannelCatf_PML2399]]
 
 ## Kern Brook Lamprey
 <!-- fm: auto_enriched: true -->
@@ -5024,6 +5036,18 @@ Kern River Valley is the adjacent valley where P. giulianii occurs in one stream
 
 ### Mentioned In
 - [[ANewPyrgulopsisFromSoutheaster_20362]]
+
+## Kernel Density Estimation
+
+### Summary
+Kernel density estimation is a nonparametric method for estimating an animal's home range or utilization distribution from its locations. The chapter lists it among common home range estimators. The adaptive kernel is one version that the authors used in their elk simulations.
+
+### Context
+> This book chapter, by [[Edward O. Garton]], [[Michael J. Wisdom]], [[Frederick A. Leban]], and [[Bruce K. Johnson]], is a guide to planning [[Radiotelemetry]] studies of wildlife. It works through a series of "critical questions" covering study purpose, inference population, sample unit, sampling...
+> -- *[[ExperimentalDesignForRadioTele_PML0850]]*
+
+### Mentioned In
+- [[ExperimentalDesignForRadioTele_PML0850]]
 
 ## Kerner
 
@@ -5638,6 +5662,9 @@ The Kiamichi River is a stream system in southeastern Oklahoma that has been stu
 > This paper, the third report of the [[University of Oklahoma Fish Survey]], presents the fishes collected during summer 1927 by a field party from the Museum of Zoology of the University of Oklahoma, led by A. I. Ortenburger, with [[Carl L. Hubbs]] as co-author. The party seined streams in...
 > -- *[[FishesCollectedInOklahomaAndAr_14452]]*
 
+> This study tests the long-term stability and persistence of summer fish assemblages in three freshwater streams of the [[White River]] and [[Red River]] drainages: [[Piney Creek]] (Arkansas), [[Brier Creek]] (Oklahoma), and the [[Kiamichi River]] (Oklahoma). The authors distinguish *persistence*...
+> -- *[[StabilityAndPersistenceOfFishF_PML1610]]*
+
 ### Mentioned In
 - [[FactorAnalysisOfSpeciesAssocia_15740]]
 - [[FishCommunityStructureAndStabi_15186]]
@@ -5646,6 +5673,7 @@ The Kiamichi River is a stream system in southeastern Oklahoma that has been stu
 - [[OklahomaFishesWithDistribution_16567]]
 - [[LifeHistoryOfTheGrassPickerelE_16501]]
 - [[FishesCollectedInOklahomaAndAr_14452]]
+- [[StabilityAndPersistenceOfFishF_PML1610]]
 
 ## Kiamichi Shiner
 <!-- fm: auto_enriched: true -->
@@ -5834,6 +5862,18 @@ A 1959 paper of new Florida fish records cited in the series of statewide invent
 
 ### Mentioned In
 - [[RecordsOfFreshwaterFishesInFlo_20885]]
+
+## Kilgen
+
+### Summary
+Cited as a 1969 prior study of Tilapia aurea. Kilgen reported that stocking tilapia with catfish increased the catfish crop.
+
+### Context
+> This paper by William Armbrester, Jr. (Agricultural Experiment Station, [[Auburn University]], Alabama) reports a 10-week experiment on caged [[Blue Tilapia]] (*Tilapia aurea*) stocked in four fertile farm ponds. The study tested how efficiently the fish convert [[Plankton]] into growth and whether...
+> -- *[[GrowthOfCagedTilapiaAureaInFer_PML0068]]*
+
+### Mentioned In
+- [[GrowthOfCagedTilapiaAureaInFer_PML0068]]
 
 ## Kill Creek
 <!-- fm: auto_enriched: true -->
@@ -6332,6 +6372,9 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 > This document is an ethnographic and archaeological compilation on how Indigenous peoples of arid western North America and central Mexico used lakes, rivers, marshes and coastal waters for food, tools and materials. Fish are one strand among many. Most of the text covers wild plants, mammals,...
 > -- *[[HandbookOfIndianFoodsAndFibers_PML0651]]*
 
+> This report, [[Fish Bulletin 151]] from the California Department of Fish and Game, documents a four-year study (1964–1967) of adult [[King Salmon]] (*Oncorhynchus tshawytscha*) migrating through the [[San Joaquin Delta]]. The authors used [[Sonic Tagging]] to follow individual fish. A total of 316...
+> -- *[[MigrationsOfAdultKingSalmonBas_PML0953]]*
+
 ### Mentioned In
 - [[CaliforniaTroutSalmonAndWarmwa_14864]]
 - [[CaliforniaTroutSalmonAndWarmwa_14866]]
@@ -6356,6 +6399,7 @@ King Salmon (*Oncorhynchus tshawytscha*) are anadromous salmonids native to Cali
 - [[AnEvaluationOfStockingHatchery_20980]]
 - [[GuideToTheCoastalMarineFishesO_15272]]
 - [[HandbookOfIndianFoodsAndFibers_PML0651]]
+- [[MigrationsOfAdultKingSalmonBas_PML0953]]
 
 ## King Snake
 
@@ -6973,14 +7017,26 @@ Kirkpatrick (1983), together with Kirkpatrick & Harwood (1983), developed an app
 ## Kirkwood
 
 ### Summary
-Kirkwood conducted a 1962 study that demonstrated survival of pink and chum salmon was highest in the 8-12 foot (2.4-3.7 m) tide levels, lower in 4-8 foot (1.2-2.4 m) levels, and negligible below the 4-foot (1.2 m) tide mark. This survival pattern was found to correlate with streambed permeability in the intertidal spawning zones.
+Kirkwood is a researcher whose work is cited in this report. The source reports Kirkwood's finding that survival of pink and chum salmon was higher at 8 to 12 feet tide levels than at 4 to 8 feet, and negligible below 4 feet.
 
 ### Context
-> This report documents biological characteristics of [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning populations in [[Olsen Creek]], [[Prince William Sound]], Alaska during 1962-63. [[Prince William Sound]] is unique among major pink salmon-producing areas in that a significant portion (35-77%)...
+> This U.S. Fish and Wildlife Service Special Scientific Report (No. 602, 1970) by [[John H. Helle]] examines [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning in both the [[Intertidal Zone]] and fresh-water reaches of [[Olsen Creek]] in [[Prince William Sound]], Alaska, in 1962 and 1963. Prince...
 > -- *[[BiologicalCharacteristicsOfInt_16617]]*
 
 ### Mentioned In
 - [[BiologicalCharacteristicsOfInt_16617]]
+
+## Kirkwood Method
+
+### Summary
+A mark-recapture growth approach (Kirkwood 1983) that fits the three-parameter von Bertalanffy model and combines likelihoods from age-size and mark-recapture data. Baker et al. chose not to combine the two data types, arguing that growth parameters from them may not be comparable (after Francis 1988).
+
+### Context
+> Baker, Lafferty and Quinn (1991, *Fisheries Research* 11: 257–281) extend [[Schnute Growth Model]], a general four-parameter size-age growth model that contains many classical curves (von Bertalanffy, Gompertz, Richards, logistic, linear, power) as submodels, to [[Mark-Recapture Data]]....
+> -- *[[UnreadableScannedAquaticDocume_PML0163]]*
+
+### Mentioned In
+- [[UnreadableScannedAquaticDocume_PML0163]]
 
 ## Kirkwood Scale-Body Relationship
 
@@ -7003,12 +7059,8 @@ Kirsch (1892) is the author who first described Etheostoma obeyense, the Barchee
 > Page and Braasch (1976) revisit the barcheek darters of the subgenus [[Catonotus]] (family [[Percidae]]) in the Cumberland River drainage. The [[Barcheek Darter]], [[Etheostoma obeyense]] Kirsch 1892, had long been treated as a single species, but the authors show that it comprises two...
 > -- *[[SystematicStudiesOfDartersOfTh_18392]]*
 
-> This taxonomic paper reports on a collection of freshwater fishes made by [[Dr. Edgar A. Mearns]], US Army medical officer and naturalist, while in charge of the biological section of the Mexican Boundary Survey (1892–1894). The specimens came from the [[Colorado River]] and its tributaries, the...
-> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
-
 ### Mentioned In
 - [[SystematicStudiesOfDartersOfTh_18392]]
-- [[CollectionOfFishesMadeByDrEdga_PML2406]]
 
 ## Kirsch 1893
 
@@ -7485,11 +7537,11 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 > This short 1946 scientific article, reprinted from *Science* (December 6, 1946, vol. 104), argues that the freshwater fish faunas of the major rivers of western North America are poorly known and are being degraded faster than they can be documented. It makes the case for systematic ichthyological...
 > -- *[[TheNeedForIchthyologySurveysOf_PML1704]]*
 
-> This document is a heavily degraded scan (OCR text with many transcription errors) of a historical bibliography and specimen-record catalogue of freshwater fishes from California and the wider Pacific slope. It compiles mid-to-late nineteenth and early twentieth century publications, principally by...
-> -- *[[ADistributedListOfTheSpeciesOf_PML0697]]*
-
 > This 1947 monograph by [[Carl L. Hubbs]] and [[Robert R. Miller]] (Bulletin of the University of Utah, Vol. X, No. 1) reconstructs the Pleistocene ("Pluvial") lake history of the Great Basin and adjacent desert drainages by combining physiographic evidence with the zoogeography of freshwater...
 > -- *[[TheGreatBasinWithEmphasisOnGla_PML1105]]*
+
+> This document is the introduction, bibliography and distributional checklist of the freshwater fishes of California, compiled by Paul C. Marsh with a senior author who began locality records in 1914. It traces the scientific history from the first descriptions (Gibbons, 1854) through the Pacific...
+> -- *[[ADistributedListOfTheSpeciesOf_PML0697]]*
 
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -7515,8 +7567,8 @@ The Klamath River is a major Pacific Coast drainage system in northern Californi
 - [[DifferentialSelectionByFloodin_16485]]
 - [[LampetraEntosphenusLethophagaN_14188]]
 - [[TheNeedForIchthyologySurveysOf_PML1704]]
-- [[ADistributedListOfTheSpeciesOf_PML0697]]
 - [[TheGreatBasinWithEmphasisOnGla_PML1105]]
+- [[ADistributedListOfTheSpeciesOf_PML0697]]
 
 ## Klamath River Basin
 
@@ -7795,6 +7847,18 @@ Klevevž Cave (Spodnja Klevevška jama) is a Slovene cave with three water strea
 
 ### Mentioned In
 - [[SubterraneanAnimalsInThermalWa_19013]]
+
+## Klickitat County
+
+### Summary
+A county in southern Washington State. The source says a 640-acre parcel in this county was reconveyed to the United States as part of a land exchange under Section 206 of the Federal Land Policy and Management Act.
+
+### Context
+> This document is a compilation of U.S. federal notices from the *Federal Register* (Volume 60, No. 239, December 13, 1995). It is not a research paper. Its main items are: - Public workshops on the draft [[Northern and Eastern Colorado Desert Coordinated Management Plan]], run by the [[Bureau Of...
+> -- *[[DraftPolicyForConservingSpecie_PML0767]]*
+
+### Mentioned In
+- [[DraftPolicyForConservingSpecie_PML0767]]
 
 ## Klitgord and Schouten
 
@@ -8882,6 +8946,9 @@ Kolmer's fluid is a fixative used in histology to preserve tissue for microscopi
 > This Utah Division of Wildlife Resources final report (Publication 03-5, December 2003) estimates adult [[Humpback Chub]] (*Gila cypha*) and [[Roundtail Chub]] (*Gila robusta*) abundance in [[Westwater Canyon]] on the [[Colorado River]] for 1998-2000. The study was conducted under the [[Upper...
 > -- *[[PopulationEstimatesForHumpback_PML1120]]*
 
+> This note combines two unrelated research items. The first is a short conservation profile of the [[Spotted Handfish]] ([[Brachionichthys Hirsutus]]), a small, critically endangered marine fish endemic to southeastern [[Tasmania]]. The second is a study of spawning behavior, spawning habitat, and...
+> -- *[[SpawningEcologyOfFlannelmouthS_PML2868]]*
+
 ### Mentioned In
 - [[IntegrationAndEvaluationOfGlen_13851]]
 - [[HabitatSuitabilityIndexCurvesF_13603]]
@@ -8896,6 +8963,7 @@ Kolmer's fluid is a fixative used in histology to preserve tissue for microscopi
 - [[StatusAndTrendsOfTheEndangered_PML2050]]
 - [[WildlifeAndFishHabitatRelation_PML0436]]
 - [[PopulationEstimatesForHumpback_PML1120]]
+- [[SpawningEcologyOfFlannelmouthS_PML2868]]
 
 ## Kolmogorov–Smirnov Test
 
@@ -8973,10 +9041,14 @@ A German physicist who co-invented the proposed electric sea-fishing system with
 > This 1971 taxonomic paper by [[Paul V. Loiselle]] and [[Roger L. Welcomme]] describes two new cyprinid species, *Barbus (Enteromius) sylvaticus* and *Barbus lorenzi*, from the [[Iguidi River]], a small permanent forest stream in extreme southeastern Dahomey (now Benin). Both were collected during a...
 > -- *[[TwoNewSpeciesOfBarbusPiscesCyp_16192]]*
 
+> This ethological study describes the motor patterns, reproductive sequence, aggressive behavior, territoriality, and schooling of the [[Desert Pupfish]] ([[Cyprinodon Macularius]]), a small toothcarp of the [[Cyprinodontidae]]. Observations came from shore pools of the [[Salton Sea]] in California,...
+> -- *[[SocialBehaviorOfTheDesertPupfi_PML0175]]*
+
 ### Mentioned In
 - [[CatecholAminesAndSocialRelatio_1968]]
 - [[TheCuriousBehaviorOfTheStickle_13352]]
 - [[TwoNewSpeciesOfBarbusPiscesCyp_16192]]
+- [[SocialBehaviorOfTheDesertPupfi_PML0175]]
 
 ## Konza Prairie
 
@@ -9129,8 +9201,24 @@ Kopec (1949) is cited as an early study of the early life history of the White R
 > This study examines [[Crenichthys Baileyi]], a springfish endemic to a chain of isolated warm springs in the pluvial [[White River]] system of southeastern Nevada. Drying of the pluvial river and the species' obligate spring existence have isolated populations, and differing spring temperature and...
 > -- *[[TaxonomicStatusAndMorphologyOf_12034]]*
 
+> This document is a multi-article excerpt from *The Southwestern Naturalist* (Vol. 9, No. 4, December 1964). It is mostly a fish paper. A short opening fragment and a literature list come from an earlier paper on the thermal and oxygen tolerance of [[Crenichthys Baileyi]]. The main article, by Hubbs...
+> -- *[[AdditionalIntroductionsOfTropi_PML1127]]*
+
 ### Mentioned In
 - [[TaxonomicStatusAndMorphologyOf_12034]]
+- [[AdditionalIntroductionsOfTropi_PML1127]]
+
+## Kopec 1949
+
+### Summary
+A previous study cited by Winn and Miller as part of the earlier literature on larval fish figures and identification. The source does not describe its specific findings.
+
+### Context
+> This paper by [[Howard Elliott Winn]] and [[Robert Rush Miller]] (Museum of Zoology, University of Michigan) provides a developmental framework and an artificial identification key for the postlarval stages of native minnows (Cyprinidae) and suckers (Catostomidae) of the [[Lower Colorado River]]...
+> -- *[[NativePostlarvalFishesOfTheLow_PML2914]]*
+
+### Mentioned In
+- [[NativePostlarvalFishesOfTheLow_PML2914]]
 
 ## Koples Canyon
 
@@ -10738,18 +10826,6 @@ Thomas J. Kwak is a co-author of this 2003 review of tagging methods for fish po
 
 ### Mentioned In
 - [[AReviewOfTaggingMethodsForEsti_PML2136]]
-
-## KWIC Index
-
-### Summary
-A keyword-in-context index, which lists significant title words with the surrounding title text so references can be retrieved by subject term. In this source it forms the second part of the bibliography, with each keyword linked to an accession number. The source notes the OCR text of this index is largely unreadable.
-
-### Context
-> This document is a preliminary annotated reference compilation, not a primary research study. Compiled by [[Robert Livingstone Jr.]], a fishery biologist with the [[Bureau of Commercial Fisheries]] Biological Laboratory at Woods Hole, Massachusetts, it was published in May 1965 as U.S. Fish and...
-> -- *[[APreliminaryBibliographyWithKw_16163]]*
-
-### Mentioned In
-- [[APreliminaryBibliographyWithKw_16163]]
 
 ## Kynard 1979
 

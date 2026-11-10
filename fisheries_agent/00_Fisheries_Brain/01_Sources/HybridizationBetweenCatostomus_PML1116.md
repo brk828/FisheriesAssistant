@@ -1,14 +1,17 @@
 ---
-species: N/A
-common_name: N/A
-family: N/A
-habitat: N/A
+species:
+  - Catostomus latipinnis
+  - Catostomus insignis
+  - Xyrauchen texanus
+common_name:
+  - Flannelmouth Sucker
+  - Gila Sucker (C. insignis)
+  - Humpback Sucker
+family: Catostomidae
+habitat: Freshwater rivers and reservoirs (swift main channels, pool-and-riffle tributaries, impoundments)
 ocean_basin: N/A
-location: N/A
-tags:
-  - ichthyology
-  - marine-biology
-  - unidentified-document
+location: Colorado River system (upper Colorado River, Utah and Colorado; lower Colorado basin); Gila River system (Tonto Creek, Salt River, Arizona)
+tags: [ichthyology, marine-biology, catostomidae, hybridization, freshwater-fish]
 title: "Hybridization between Catostomus and Xyrauchen"
 source_id: "PML1116"
 marsh_id: "PML1116"
@@ -16,40 +19,41 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "C. L. Hubbs, R. R. Miller (1952). Hybridization between Catostomus and Xyrauchen. Marsh Library ID: PML1116."
 source_file: "Hubbs C.L. Miller R.R. 1952. Hybridization betweekn catostomus and xyrauchen.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Illegible Scanned Document: No Extractable Aquatic Data
+# Hybridization between Catostomus and Xyrauchen
 
-#ichthyology #marine-biology #unidentified-document
+#ichthyology #marine-biology #catostomidae
 
 ## Executive Summary
 
-The source is a 20-page scanned document whose text layer is almost entirely corrupted by OCR errors. The pages contain dense fragments of characters, symbols, and table-like grids, but no readable sentences, headings, or scientific terms can be reliably reconstructed. No species, habitat, location, or quantitative result can be verified from the text, so this note records the document's structure and limitations rather than its content.
+Hubbs and Miller (1953) document natural hybridization between suckers of the genus [[Catostomus]] and the endemic [[Humpback Sucker]] (*Xyrauchen texanus*) in western North America. Two new interspecific combinations are described: *Catostomus latipinnis* × *X. texanus* (eight specimens, upper Colorado River system) and *Catostomus insignis* × *X. texanus* (six specimens, Gila River system, Tonto Creek, Arizona). The authors also conclude that the nominal species *Xyrauchen uncompahgre* is based on a single hybrid holotype and should be deleted. The paper argues that hybridization is consistent with close generic relationship within the tribe Catostomini, and that crossability is only one of several criteria for taxonomic ranking.
 
 ## Background & Description
 
-- **Format:** Scanned, multi-page document (20 pages as numbered in the source). Page images appear to be photographed or scanned at varying orientations.
-- **Document type:** Cannot be determined. The layout suggests tables or dense columns, but no captions, titles, author names, or dates are legible.
-- **Text quality:** Character-level noise dominates. Most lines are random strings of letters, digits, and punctuation (for example, sequences such as "gEH+ EEEt€iEEi'tE" and "i;s;5FF;sgFf"). Some pages contain fragments of recognizable-looking text, but these do not form coherent words or phrases that can be confirmed.
-- **Orientation:** Page 17 contains upside-down or rotated text, and pages 18 and 19 contain sparse, fragmentary symbols with no readable content.
+- **Study taxa:** [[Flannelmouth Sucker]] (*Catostomus latipinnis*), *Catostomus insignis* (Gila sucker), and [[Humpback Sucker]] (*Xyrauchen texanus*), the latter endemic to the [[Colorado River System]].
+- **Diagnostic features of *Xyrauchen*:** a high, sharp, skeletally supported nuchal hump with keel; flattened breast and depressed head; relatively long, rectangular scales with lobate anterior borders; many gillrakers (44–50 in adults of the upper Colorado) that are fuzzy, reflecting adaptation to feeding on minute organisms.
+- **Diagnostic features of *Catostomus latipinnis*:** full, strongly papillate upper lip; elongate lower-lip lobes that give the vernacular "flannelmouth" name; slender caudal peduncle; fewer gillrakers (25–32 in adults).
+- **Excluded parentage:** [[Pantosteus]] was excluded because hybrids lacked its modified lip characters. Other *Catostomus* species in the upper Colorado were excluded on hybrid characters; introduced *C. commersoni suckleyi* and *C. catostomus griseus* were judged less consistent than *C. latipinnis*.
+- **Methods:** Criteria followed [[Hubbs]] and colleagues (1943). Measurements followed Hubbs and Lagler (1947), using precision dial calipers. Hybrid intermediacy was assessed against graphically derived parental growth curves, and hybrid indices were computed on a 0–100 scale.
 
 ## Ecological & Environmental Context
 
-No ecological or environmental content can be confirmed. The following are absent or unreadable in the source:
-
-- Species names (scientific or common)
-- Habitat types, water bodies, or ocean basins
-- Geographic locations or study sites
-- Water chemistry, temperature, or salinity values
-- Sampling methods, sample sizes, or survey dates
-- Population, growth, or abundance statistics
-
-Any apparent numerals, abbreviations, or word fragments in the scan should not be treated as data without manual verification against the original document.
+- **Upper Colorado (*C. latipinnis* × *X. texanus*):** The humpback sucker was "very abundant" in 1889 but became markedly scarce; only seven of about 700 suckers caught in 1946 at the mouth of the Gunnison River were *Xyrauchen*. Seven of the eight known hybrids were collected after *Xyrauchen* declined. The hybrid-to-*C. latipinnis* ratio is estimated at well below 1:100.
+- **Gila/Salt River system (*C. insignis* × *X. texanus*):** Hybrids occurred in lower Tonto Creek, a tributary of [[Roosevelt Lake]]. *Xyrauchen* is extirpated from Roosevelt Lake (lake dried in July 1930) but is common in impoundments such as [[Sahuaro Lake]], where a local fisherman reportedly caught more than six tons in 1949.
+- **Spawning:** *X. texanus* spawns from February into April in the lower Colorado, later in the upper system. Historical spawning migrations were extensive. Spawning in reservoirs such as Sahuaro Lake may now reduce hybridization because other sucker species are absent there.
+- **Habitat preference:** The authors link *Xyrauchen* to swift, deep main channels of the Colorado, and *Chasmistes* to lacustrine plankton feeding. Freshwater habitats are described as unstable and ephemeral, promoting chance gamete mixing in stream currents.
+- **Human impacts:** Damming and diversion of streams caused the decline of *Xyrauchen*. Recent collections include specimens from 1889, 1926, 1947, and 1950.
 
 ## Key Findings
 
-1. **No verifiable scientific content.** The text layer cannot support extraction of species records, measurements, or conclusions.
-2. **No species, family, or location can be assigned.** All taxonomic and geographic metadata fields are therefore recorded as N/A.
-3. **Structure suggests tabular or list-based material.** Dense column-like arrangements on many pages could indicate checklists, specimen records, or data tables, but this is an inference from layout only.
-4. **Orientation problems.** At least one page (page 17) is rotated, which further degrades OCR output.
-5. **Recommended next step.** Re-scan or re-run OCR at higher resolution with correct page orientation, then re-process the note. Manual transcription of any tables or species lists is advisable, because automated extraction from this scan would produce unreliable results.
+- **Hybrids confirmed:** Eight *C. latipinnis* × *X. texanus* specimens (102–442 mm standard length; 3 males, 5 females) and six *C. insignis* × *X. texanus* specimens (54–78 mm) are reported.
+- **Intermediacy:** Hybrids are intermediate in most characters. Lateral-line scale counts for *C. latipinnis* hybrids ranged 72–110 (mean 85.25), against parental means of 103.02 and 77.61. Gillraker counts were 33–38 in adult hybrids against parental ranges of 25–32 and 44–50.
+- **Hybrid indices:** For *C. latipinnis* hybrids, the average index was 45 for counts, 42 for measurements, and 43 overall. For *C. insignis* hybrids, the average was 30 for counts, 67 for measurements, and 57 overall.
+- **Nuchal hump:** Hybrids show a partly developed hump and keel, with expanded neural spines and interneurals, intermediate between the parents.
+- **Lip structure:** Lip and gape proportions are highly variable in hybrids, with some approaching each parent.
+- **Dorsal rays:** Lower ray counts in *Catostomus* appear "imperfectly dominant" over *Xyrauchen*.
+- **Xyrauchen uncompahgre:** The holotype is a hybrid, so the name is deleted and treated as unavailable. Gilbert and Scofield (1898) were in error in linking it to *X. cypha*.
+- **Taxonomic conclusions:** Hybridization occurs only among closely related genera within the tribe Catostomini (*Catostomus*, *Pantosteus*, *Chasmistes*, *Xyrauchen*), so it does not cross tribal limits. Crossability should not by itself justify synonymy or reduction to subspecies.
+- **Freshwater versus marine:** Hybridization is more common in freshwater fishes, attributed to unstable habitats and chance gamete mixing in currents. Abundance imbalance, with a rare species drawn to spawning grounds of a common one, is identified as a factor increasing hybrid frequency.

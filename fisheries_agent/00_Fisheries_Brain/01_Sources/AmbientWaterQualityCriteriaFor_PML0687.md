@@ -1,24 +1,11 @@
 ---
-species:
-  - Daphnia pulex
-  - Oncorhynchus mykiss (Salmo gairdneri)
-  - Pimephales promelas
-  - Ictalurus punctatus
-  - Lepomis macrochirus
-  - Micropterus salmoides
-  - Carassius auratus
-  - Salvelinus fontinalis
-  - Salmo salar
-  - Anguilla rostrata
-  - Morone saxatilis
-  - Gambusia affinis
-  - Netrium digitus
-common_name: Rainbow Trout, Fathead Minnow, Channel Catfish, Bluegill, Largemouth Bass, Goldfish, Brook Trout, Atlantic Salmon, American Eel, Striped Bass, Mosquitofish, Water Flea (multiple taxa)
-family: Multiple (Salmonidae, Cyprinidae, Ictaluridae, Centrarchidae, Poeciliidae, Anguillidae, Moronidae, Daphniidae)
-habitat: Freshwater (lakes, streams, rivers, Great Lakes)
+species: ["Daphnia pulex", "Daphnia magna", "Oncorhynchus mykiss (as Salmo gairdneri)", "Pimephales promelas", "Anguilla rostrata", "Lepomis macrochirus", "Carassius auratus", "Ictalurus punctatus", "Micropterus salmoides", "Gambusia affinis"]
+common_name: ["Water flea", "Rainbow trout", "Fathead minnow", "American eel", "Bluegill", "Goldfish", "Channel catfish", "Largemouth bass", "Mosquitofish"]
+family: N/A
+habitat: Freshwater (North American surface waters, including Great Lakes tributaries and streams)
 ocean_basin: N/A
-location: North America (Great Lakes region and U.S. freshwater systems)
-tags: [aquatic-toxicology, water-quality, chloride, freshwater-ecotoxicology, regulation]
+location: United States (national criteria; Great Lakes, Kentucky, Illinois and Lake Erie references)
+tags: [water-quality, chloride, aquatic-toxicology, regulatory-criteria, freshwater]
 title: "Ambient Water Quality Criteria for Chloride"
 source_id: "PML0687"
 marsh_id: "PML0687"
@@ -26,82 +13,75 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "D. A. Benoit, C. E. Stephan (1988). Ambient Water Quality Criteria for Chloride. U.S. Environmental Protection Agency, Office of Water Regulations and Standards (EPA 440/5-88-001; NTIS PB88-175047). Marsh Library ID: PML0687."
 source_file: "EPA. 1988. Ambient Water Quality Criteria for Chloride.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Ambient Water Quality Criteria for Chloride (1988)
+# Ambient Water Quality Criteria for Chloride
 
-#ichthyology #aquatic-toxicology #freshwater-ecotoxicology
+#ichthyology #marine-biology #aquatic-toxicology
 
 ## Executive Summary
 
-This U.S. Environmental Protection Agency (EPA) document, prepared by the [[Environmental Research Laboratory]] in Duluth, Minnesota, revises the national aquatic life criteria for [[Chloride]] in freshwater. It was issued under Section 304(a)(1) of the [[Clean Water Act]] as a non-regulatory scientific assessment. It compiles acute and chronic toxicity data for freshwater animals and plants, and concludes with a [[National Water Quality Criterion]] for chloride associated with sodium. The document covers freshwater species only, because anthropogenic chloride is unlikely to threaten saltwater organisms.
+This U.S. Environmental Protection Agency (EPA) document, published February 1988 (EPA 440/5-88-001) by the [[Environmental Research Laboratory]] in Duluth, Minnesota, derives national [[Water Quality Criteria]] for [[Chloride]] to protect freshwater aquatic life. It assesses acute and chronic toxicity to animals, toxicity to plants, and bioaccumulation, then sets a national criterion under the [[Guidelines For Deriving Numerical National Water Quality Criteria]]. The document's scope is freshwater species only, because anthropogenic chloride is judged unlikely to threaten saltwater organisms.
+
+The recommended national criterion is a four-day average of 230 mg/L and a one-hour average of 860 mg/L, each not to be exceeded more than once every three years on average. These values apply when chloride is associated with sodium. The document warns that they may not protect adequately where chloride is paired with potassium, calcium or magnesium.
 
 ## Background & Description
 
-**Scope and sources.** Chloride reaches surface waters mainly through [[Deicing Salt]], urban and agricultural runoff, municipal and industrial wastewater, and oil and gas well drilling. Chloride concentrations rose in [[Great Lakes]] waters through the twentieth century, but later analyses indicated that the rate of increase had stabilized or declined.
+**Sources and context.** The main anthropogenic sources of chloride in surface waters are [[Deicing Salt]], urban and agricultural runoff, municipal and industrial wastewater, and oil and gas well drilling. Chloride concentrations rose in Lake Erie, Lake Ontario and Lake Michigan from the early 1900s and in Lake Huron from the 1950s. Later work indicated that chloride inputs to the [[Great Lakes]] had stabilized or declined.
 
-**Historical context.** Chloride has long been of interest to fish biologists. Its role in osmotic balance was recognized early, and salts have been used as nutrients, prophylactics, and a possible [[Reference Toxicant]].
+**Scope and conventions.** All concentrations are expressed as chloride, not as the salt tested. The document relies on the [[Guidelines For Deriving Numerical National Water Quality Criteria]] (Stephan et al. 1985). Intermediate values are reported to four significant figures to avoid roundoff error, not to imply precision. The literature search was completed in August 1985, with some later material added.
 
-**Methods.** The assessment follows the [[Guidelines for Deriving Numerical National Water Quality Criteria]] (Stephan et al. 1985). Its data were drawn from a literature search completed in August 1985, with some later material added. Concentrations are reported as chloride, not as the test compound. Intermediate values are given to four significant figures to limit rounding error.
-
-**Data screening.** Many studies were excluded. Reasons included:
-- Tests on non-North American species.
-- Tests in distilled or deionized water without appropriate salts, or in chlorinated water.
-- Missing or inadequate controls, too few organisms, or poor acclimation.
-- Studies that addressed metabolism or transport instead of toxicity.
-- Foreign-language reports without usable English abstracts.
-
-The reference list contains roughly 150 citations.
+**Regulatory framing.** Under Section 304(a)(1) of the [[Clean Water Act]], these criteria are non-regulatory scientific assessments. They become enforceable only when a State adopts them into [[Water Quality Standards]] under Section 303. States may adjust the values to local conditions and exposure patterns.
 
 ## Ecological & Environmental Context
 
-**Acute toxicity to animals.** Potassium, calcium, and magnesium chlorides are generally more toxic than sodium chloride when compared on a mg chloride/L basis. Only sodium chloride had enough data to derive a criterion. Most anthropogenic chloride is thought to be associated with sodium. Some acute tests ran 24 or 48 hours rather than the specified 96 hours. These were accepted because chloride acute values changed little over those periods. Invertebrates were generally more sensitive than vertebrates. No consistent relationship was found between chloride toxicity and hardness, alkalinity, or pH.
+**Animal toxicity.** Among the cations tested, the chlorides of potassium, calcium and magnesium were generally more toxic to freshwater animals than [[Sodium Chloride]] on a mg/L chloride basis. This pattern is described as a [[Cation-Anion Toxicity Relationship]]. Sodium chloride is the only salt with enough data for a criterion, and most anthropogenic chloride is thought to be sodium-associated.
 
-**Chronic toxicity.** Chronic tests were run with [[Daphnia Pulex]], [[Rainbow Trout]], and the [[Fathead Minnow]].
+**Life stage, time and water chemistry.** Adult [[Fingernail Clam]]s were more sensitive than juveniles. Small [[American Eel]] and [[Bluegill]] were slightly more sensitive than large ones. No consistent relationship was found between acute toxicity and hardness, alkalinity or pH. The document notes that if animals survive the first 24 hours, they generally survive the 48-hour to 11-day periods examined.
 
-**Plants.** Freshwater plants show a wide range of sensitivity. A [[Netrium Digitus]] growth endpoint was affected at 200 mg/L. A filamentous alga was extremely sensitive, with inhibition at about 71 mg/L. No Final Plant Value could be derived because no chloride-measured test with an important plant species and a biologically relevant endpoint existed.
+**Plants.** Sensitivity varies widely. The alga *Spirogyra setiformis* was affected at 71 mg/L. The desmid *Netrium digitus* was affected at 200 mg/L, while sixteen other species were affected between 642 and 36,400 mg/L. Low concentrations (0.18 mg/L) stimulated growth in many algae, and concentrations above 10 mg/L were suggested to favor nuisance blue-green algae. A 610 mg/L addition to a small stream reduced algal density while increasing bacterial density.
 
-**Cation–anion effects.** Potassium chloride was about 2.3 times more toxic than sodium chloride to a diatom, and calcium chloride was about 1.3 times less toxic. Other studies reported similar cation-anion patterns in animals and plants.
+**Bioaccumulation.** No usable data exist on chloride accumulation by freshwater organisms.
 
-**Bioaccumulation.** No usable data on chloride bioaccumulation in freshwater organisms were available.
-
-**Other effects.** Chloride reduced the acute toxicity of nitrite to fish, including [[Channel Catfish]] and [[Common Carp]]. Dietary sodium chloride had little effect on trout and Atlantic salmon growth at the levels tested, but tests on [[Brook Trout]] showed toxic effects from concentrated oral doses.
+**Other effects.** The rotifer *Brachionus rubens* tolerated chloride up to at least 1,400 mg/L. Chloride reduced the acute toxicity of nitrite to fish, as reported for [[Common Carp]] and [[Channel Catfish]].
 
 ## Key Findings
 
-**Acute values (sodium chloride, freshwater animals):**
-- Acute LC50 values ranged from roughly 1,470 mg/L for [[Daphnia Pulex]] to about 11,940 mg/L for the [[American Eel]]. Some scanned values are partly garbled.
-- The [[Final Acute Value]] was 1,720 mg/L, calculated from Genus Mean Acute Values for twelve genera.
-- The most sensitive genus was only about 6 times more sensitive than the most resistant genus.
+**Acute toxicity (animals).**
+- Based on sodium chloride tests, the [[Final Acute Value]] is 1,720 mg/L, calculated from twelve genus mean acute values.
+- Species mean acute values range from 1,470 mg/L for [[Daphnia Pulex]] to 11,940 mg/L for the [[American Eel]].
+- The most sensitive genus, *Daphnia*, is about six times more sensitive than the most resistant, *Anguilla*.
+- Invertebrates were generally more sensitive than vertebrates.
+- The criterion maximum concentration is 860.0 mg/L (Final Acute Value divided by 2).
+- The *Daphnia pulex* acute value lies below the Final Acute Value.
 
-**Chronic values and acute-chronic ratios (ACRs):**
+**Chronic toxicity (animals).**
+- *Daphnia pulex* (life cycle): chronic limits 314 to 441 mg/L, chronic value 372.1 mg/L, [[Acute-Chronic Ratio]] 3.951. Reproduction fell by 27% at 441 mg/L and 39% at 625 mg/L.
+- [[Rainbow Trout]] (early life stage): chronic value 922.7 mg/L, ratio 7.308. Survival was 54% at 1,324 mg/L, and all fish died at 2,740 mg/L.
+- [[Fathead Minnow]] (early life stage): chronic value 433.1 mg/L, ratio 15.17. Survival fell 9% at 352 mg/L and 15% at 533 mg/L.
+- Final Acute-Chronic Ratio: 7.594, the geometric mean of the three ratios.
+- Final Chronic Value: 226.5 mg/L, substantially below all three measured chronic values.
 
-| Species | Chronic value (mg/L) | ACR |
-|---|---|---|
-| [[Daphnia Pulex]] (life cycle) | 372.1 | 3.951 |
-| [[Rainbow Trout]] (early life stage) | 922.7 | 7.308 |
-| [[Fathead Minnow]] (early life stage) | 433.1 | 15.17 |
+**Toxicity to plants.**
+- No Final Plant Value could be derived, because no test measuring chloride with a biologically important endpoint has been run on an important aquatic plant species.
+- Plants were affected at 71 to 36,400 mg/L.
 
-- Daphnia survival was unaffected up to 625 mg/L. Reproduction fell by 27% at 441 mg/L and 39% at 625 mg/L.
-- Rainbow trout survival was 54% at 1,324 mg/L, and 97% or higher at lower concentrations.
-- Fathead minnow weight was unaffected up to 533 mg/L. Survival fell 9% at 352 mg/L and 16% at 533 mg/L.
-- The geometric mean of the three ACRs, 7.594, was used as the [[Final Acute-Chronic Ratio]].
+**Other data.**
+- [[Largemouth Bass]] and [[Channel Catfish]] 24-hour and 14-day LC50 ratios were about 1.0, suggesting that short tests are acceptable for chloride.
+- Potassium chloride was about 2.3 times more toxic than sodium chloride to a diatom, while calcium chloride was about 1.3 times less toxic.
+- Magnesium chloride was less toxic than sodium chloride to [[Mosquitofish]], though those tests were run in very turbid water.
+- A 12% sodium chloride diet did not affect the growth of Atlantic salmon.
 
-**Final Chronic Value:** The Final Acute Value divided by the Final Acute-Chronic Ratio gives 226.5 mg/L. This is substantially lower than all three individual chronic values.
+**National criterion (proposed).**
+- Four-day average: 230 mg/L of dissolved chloride associated with sodium, not to be exceeded more than once every three years on average.
+- One-hour average: 860 mg/L, not to be exceeded more than once every three years on average.
+- Because freshwater animals have a narrow range of acute susceptibilities, excursions above these values could affect a substantial number of species.
+- The criterion probably will not protect adequately where chloride is associated with potassium, calcium or magnesium.
 
-**National criterion (as stated in the document, scan-corrected):**
-- Four-day average: about 230 mg/L of dissolved chloride (associated with sodium), not to be exceeded more than once every three years on average.
-- One-hour average: about 860 mg/L, not to be exceeded more than once every three years on average.
-- The criterion probably will not be fully protective where chloride is associated with potassium, calcium, or magnesium. Because freshwater animals have a narrow range of acute susceptibilities, excursions above the criterion may affect a substantial number of species.
+**Implementation.**
+- States designate uses and adopt criteria, either the national values or justified site-specific values.
+- Averaging periods and excursion frequencies may be adjusted when adequately justified.
+- Dynamic wasteload allocation models are preferred, with steady-state models acceptable when data are limited.
 
-**Plant data:** Freshwater plants were affected at concentrations from about 71 to 36,400 mg/L. A Final Plant Value could not be derived.
-
-**Implementation:**
-- Criteria have regulatory force only after a State adopts them into [[Water Quality Standards]].
-- States may adopt the national criterion or develop site-specific criteria. Site-specific durations and frequencies of excursions are also allowed with adequate justification.
-- Permit limits and [[Wasteload Allocation]] modeling should use dynamic models where possible. Steady-state models may be used when data are limited.
-
-**Research gaps identified:**
-- Little data exist for chloride salts other than sodium chloride.
-- No usable bioaccumulation data were found.
-- No plant toxicity test met the criteria for deriving a Final Plant Value.
+**Excluded data.** Studies were excluded for using non-North American species, using distilled or tap water without appropriate salts, lacking controls, inadequate acclimation or feeding, or addressing metabolism rather than toxicity. Foreign-language reports without usable English abstracts were also excluded.

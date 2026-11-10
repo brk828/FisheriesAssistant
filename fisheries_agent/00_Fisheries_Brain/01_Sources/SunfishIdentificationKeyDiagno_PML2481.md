@@ -1,32 +1,11 @@
 ---
-species:
-  - Lepomis macrochirus
-  - Lepomis gibbosus
-  - Lepomis microlophus
-  - Lepomis megalotis
-  - Lepomis punctatus
-  - Ambloplites rupestris
-  - Lepomis auritus
-  - Lepomis cyanellus
-common_name:
-  - Bluegill
-  - Pumpkinseed
-  - Redear Sunfish
-  - Longear Sunfish
-  - Spotted Sunfish
-  - Rock Bass
-  - Redbreast Sunfish
-  - Green Sunfish
-family: Centrarchidae
+species: N/A
+common_name: N/A
+family: N/A
 habitat: N/A
 ocean_basin: N/A
 location: N/A
-tags:
-  - ichthyology
-  - marine-biology
-  - centrarchidae
-  - sunfish
-  - fish-identification
+tags: [ichthyology, marine-biology, fish-identification]
 title: "Sunfish Identification Key: Diagnostic Features of Eight Centrarchid Species"
 source_id: "PML2481"
 marsh_id: "PML2481"
@@ -34,59 +13,37 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "Unknown author (n.d.). Sunfish Identification Key: Diagnostic Features of Eight Centrarchid Species. Marsh Library ID: PML2481."
 source_file: "Sunfish Family ID Card.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
 # Sunfish Identification Key: Diagnostic Features of Eight Centrarchid Species
 
-#ichthyology #marine-biology #centrarchidae
+#ichthyology #marine-biology #fish-identification-key
 
 ## Executive Summary
 
-This source is a two-page identification plate (a labelled illustration key) for eight North American panfish species, mostly [[Sunfish]] of the family [[Centrarchidae]]. Each species is shown with short diagnostic labels for body markings, ear flap (opercular) features, fin shape and spine counts. The document gives no scientific names, specimen counts, locations, or quantitative data. Page 2 contains no legible content. The text is OCR-degraded, so some labels were interpreted with caution.
+This document is a short, OCR-scanned fragment of a fish identification key. It lists paired morphological and colour-pattern characters, such as body markings, fin spines and body shape, but names no species, families, localities or sample data. The characters are fragmentary and cannot be matched to specific taxa from the text alone.
 
 ## Background & Description
 
-The plate covers the following species:
+The fragment is a two-page item. Page 1 contains the character descriptors. Page 2 is blank apart from scan residue. The descriptors are arranged as contrasting pairs, typical of a dichotomous or matrix-style key. Each pair describes an alternative state of one feature:
 
-- [[Bluegill]]
-- [[Pumpkinseed]]
-- [[Redear Sunfish]]
-- [[Longear Sunfish]]
-- [[Spotted Sunfish]]
-- [[Rock Bass]]
-- [[Redbreast Sunfish]]
-- [[Green Sunfish]]
+- **Colour and banding:** blue and reddish bands, dark bands, black with a light border, black with a red border, black with a red tip, orange.
+- **Spots, blotches and bars:** rows of spots, dark spots or bars, dark blotch, 6–8 vertical bars.
+- **Head and eye:** a marking that extends to the eye, or one that does not.
+- **Fins and spines:** 5–8 spines, 3 spines, and long and pointed or broad and rounded fin or body forms.
+- **Body shape and size:** long and black, short and rounded, small and rounded, broad and rounded.
 
-Scientific names are not given in the source. The names listed in the YAML were added from general taxonomic knowledge and are not drawn from the document. The family assignment is likewise not stated in the text.
-
-The plate is organised as a visual key. Each species panel has short text labels pointing to diagnostic traits, which is the standard approach for telling closely related sunfish apart in the field. Labels that are legible include:
-
-- **Bluegill:** vertical bars (the OCR reads "vertacat bars", probably "vertical bars"), a black blotch and a black gill flap, and a long, pointed fin.
-- **Pumpkinseed:** bluish bands, a black marking on the gill flap, and a pointed fin.
-- **Redear Sunfish:** a black ear flap with a red tip, and a long, pointed fin.
-- **Longear Sunfish:** a long, black ear flap, and blue and reddish bands.
-- **Spotted Sunfish:** rows of spots, a short, stiff fin, and a short, rounded body feature with a light border.
-- **Rock Bass:** a stiff, short fin, and a fin or feature extending to the eye.
-- **Redbreast Sunfish:** a long, black ear flap, bluish bands, and rows of spots.
-- **Green Sunfish:** a black ear flap with a red border, a broad and rounded fin, a red eye, and a spine count given as 5–8.
-
-Several labels are partly illegible, and the mapping of some labels to specific body parts is an interpretation. Verify against the original plate before using these traits in field work.
+The text gives no key number, taxon names or illustrations, so the intended identification target cannot be determined.
 
 ## Ecological & Environmental Context
 
-The source includes no habitat, water chemistry, distribution, population or behavioural data. Habitat, ocean basin and location are therefore recorded as N/A. The panfish species shown are generally freshwater, but this is not stated in the document.
-
-Because the labelled traits separate species that often co-occur, the plate is most useful for [[Fish Identification]] during surveys or angling, and for teaching [[Morphological Characters]] in sunfish.
+The document does not address habitat, ocean basin, location, depth, water chemistry, community composition or ecological relationships. Any ecological interpretation would be speculative.
 
 ## Key Findings
 
-- The document is an identification key covering eight sunfish species. It contains no quantitative data, sample sizes, or study results.
-- The main diagnostic characters used are:
-  - body markings (spots, bars, bands, and blotches);
-  - ear flap (opercular) colour and shape, which includes black, red-tipped and red-bordered forms;
-  - fin shape and stiffness;
-  - eye colour (red eye in Green Sunfish);
-  - anal spine counts (5–8 in Green Sunfish).
-- Several species share features, such as black ear flaps in Longear Sunfish, Redbreast Sunfish and Redear Sunfish. These are best separated by combining several characters.
-- The page 2 content is blank or illegible.
-- No scientific names, geographic records or ecological measurements are provided, so the document cannot be used as a source for distribution or abundance claims.
+- The fragment contains roughly ten to twelve contrasting character states covering colour bands, spot and bar patterns, eye-associated markings, spine counts and body form.
+- Spine counts are given as ranges or values: 5–8 spines and 3 spines.
+- Pattern counts are given as 6–8 vertical bars and rows of spots, but no sample sizes or measurements are reported.
+- No species, geographic range, habitat preference or quantitative survey results are present.
+- The scan is incomplete. Page 2 is blank, and the key structure (couplets, numbering and taxon endpoints) is missing, so the fragment cannot be used as a standalone identification tool.

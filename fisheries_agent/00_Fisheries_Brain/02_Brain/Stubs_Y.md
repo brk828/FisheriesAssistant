@@ -1111,9 +1111,6 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This 1980 report by [[Bio/West Inc]], prepared for the [[National Park Service]] to support a reserved water right claim for [[Dinosaur National Monument]], tests whether flow in the [[Yampa River]] controls the reproductive success of endangered [[Colorado Squawfish]] in the upper [[Green River]]....
 > -- *[[TheRelationshipBetweenFlowsInT_PML1080]]*
 
-> This 1952 report documents a field survey of the [[Green River]] and its tributary the [[Yampa River]] within [[Dinosaur National Monument]]. It was prepared by [[Harold K. Hagen]] (Associate Professor, Fisheries Science) and [[Joe L. Banks]] (Graduate Student) at [[Colorado State University]]...
-> -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
-
 > This final report by [[Kevin R Bestgen]] and [[Lawrence W Crist]] evaluates the restoration protocol of Stanford et al. (1996) for regulated rivers, using the 105 km reach of the [[Green River]] between [[Flaming Gorge Dam]] and its confluence with the unregulated [[Yampa River]]. Closure of the...
 > -- *[[ResponseOfTheGreenRiverFishCom_PML0200]]*
 
@@ -1147,9 +1144,6 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > This final report (Colorado River Recovery Implementation Program Project 115, March 2006) by the [[Larval Fish Laboratory]] at Colorado State University and the [[U.S. Fish and Wildlife Service]] evaluates how changes in [[Flaming Gorge Dam]] operations affected physical habitat and the fish...
 > -- *[[ResponseOfTheGreenRiverFishCom_PML0207]]*
 
-> This Colorado State University [[Larval Fish Laboratory]] report examines how spawning timing and relative abundance of [[Yampa River]] fishes relate to river discharge and water temperature. The study covers native and nonnative species, with emphasis on [[Colorado Squawfish]], [[Humpback Chub]],...
-> -- *[[AssociationsAmongFlowAndTemper_PML1992]]*
-
 > This 1967 Utah State University dissertation by Charles David Vanicek documents the post-impoundment fish fauna, habitat use, growth, food habits, parasites, reproduction and movements of native fishes in the Green River from [[Flaming Gorge Dam]] to Ouray, Utah, from May 1964 to October 1966. The...
 > -- *[[EcologicalStudiesOfNativeGreen_PML2788]]*
 
@@ -1161,6 +1155,27 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 
 > This 1977 status report, published by the [[Colorado River Wildlife Council]] and prepared by its Endemic Species Committees, reviews the 34 endemic fish species of the Colorado River drainage and assesses each species' status in the seven member states. It is an educational booklet intended to...
 > -- *[[EndemicFishesOfTheColoradoRive_PML2238]]*
+
+> This excerpt from *The Southwestern Naturalist* (vol. 30, no. 1, March 1985) contains two research papers. The main paper, by [[Tamara Black]] and [[Ross V. Bulkley]], measures the acute and final thermal preferenda of yearling [[Colorado Squawfish]], an endangered endemic minnow of the [[Colorado...
+> -- *[[PreferredTemperatureOfYearling_PML0230]]*
+
+> This 1963 report, prepared under a contract between the [[National Park Service]] and [[Colorado State University]], documents a summer-fall 1962 study of the fishes, habitat, water chemistry and invertebrates of the [[Green River]] in [[Dinosaur National Monument]]. Its main aim was to understand...
+> -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
+
+> This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
+> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+
+> This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
+> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+
+> This final report (April 1993) by T. Muth of the [[Larval Fish Laboratory]] at Colorado State University and Thomas P. Nesler of the [[Colorado Division of Wildlife]] analyzes seine and dipnet collections of small fishes made in low-velocity habitats of the lower [[Yampa River]] in 1980–1984. The...
+> -- *[[AssociationsAmongFlowAndTemper_PML1992]]*
+
+> This paper reports a 1963–1966 survey of fish populations in the Green River below [[Flaming Gorge Dam]], Utah, which closed in November 1962. The study sampled 24,040 fish in 667 collections from the dam to Ouray, Utah, and compared the results with [[Pre-Impoundment Surveys]]. The authors found...
+> -- *[[DistributionOfGreenRiverFishes_PML2789]]*
+
+> This 1985 Colorado Division of Wildlife newsletter article, reproduced on an OPTIONAL FORM 41 routing and transmittal slip, covers three linked topics: the recovery of endangered [[Bonytail]] and other "big river" fishes in Colorado, the radio tracking of [[Colorado Squawfish]], and a 1985 capture...
+> -- *[[RoutingAndTransmittalSlipBonyt_PML1896]]*
 
 ### Mentioned In
 - [[AProtocolForTheHandlingAndTran_13066]]
@@ -1448,7 +1463,6 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[RazorbackSuckerXyrauchenTexanu_PML0203]]
 - [[EndemicFishesOfTheColoradoRive_PML0064]]
 - [[TheRelationshipBetweenFlowsInT_PML1080]]
-- [[EcologicalAndLimnologicalStudi_PML0942]]
 - [[ResponseOfTheGreenRiverFishCom_PML0200]]
 - [[StatusReviewOfTheRazorbackSuck_PML0205]]
 - [[InteractionsBetweenEndangeredF_PML2008]]
@@ -1460,11 +1474,17 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[InstreamFlowsToAssistTheRecove_PML2436]]
 - [[ABibliographyOfTheFederallyEnd_PML1761]]
 - [[ResponseOfTheGreenRiverFishCom_PML0207]]
-- [[AssociationsAmongFlowAndTemper_PML1992]]
 - [[EcologicalStudiesOfNativeGreen_PML2788]]
 - [[EcologicalAndLimnologicalStudi_PML0941]]
 - [[AFisheriesSurveyOfTheLittleSna_PML2039]]
 - [[EndemicFishesOfTheColoradoRive_PML2238]]
+- [[PreferredTemperatureOfYearling_PML0230]]
+- [[EcologicalAndLimnologicalStudi_PML0942]]
+- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[AssociationsAmongFlowAndTemper_PML1992]]
+- [[DistributionOfGreenRiverFishes_PML2789]]
+- [[RoutingAndTransmittalSlipBonyt_PML1896]]
 
 ## Yampa River Basin
 <!-- fm: auto_enriched: true -->
@@ -1693,11 +1713,15 @@ The Yaqui Basin is a geographic region in Arizona that was the focus of a major 
 > This document is a meristic data table, the only legible content in an otherwise heavily garbled scan. It reports counts of fin rays and lateral-line scales for [[Gila]] chubs from river systems south and east of the lower [[Colorado River Basin]] and from streams tributary to the middle Colorado...
 > -- *[[CyprinidFishesOfTheGenusGilaFr_PML2239]]*
 
+> This systematic paper by [[John Otterbein Snyder]] (Stanford University) reports on a freshwater fish collection made by [[Edgar A. Mearns]], a major and surgeon of the United States Army who worked on the Mexican boundary survey between January 1892 and September 1894. The collection came from...
+> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
+
 ### Mentioned In
 - [[ProgressAndLackOfSameNextMeeti_13734]]
 - [[ReportOnYaquiCatfishReceived_15380]]
 - [[ConvergenceOfDifferentiallyInv_PML2545]]
 - [[CyprinidFishesOfTheGenusGilaFr_PML2239]]
+- [[CollectionOfFishesMadeByDrEdga_PML2406]]
 
 ## Yaqui Beautiful Shiner
 
@@ -2387,6 +2411,12 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > This Arizona Game and Fish Department technical report (Nongame and Endangered Wildlife Program, Technical Report 81, June 1995) summarizes six years (1988–1994) of data from the [[Fall Fish Count]] (FFC), a volunteer-based survey of fish communities in Arizona streams. The FFC yielded collections...
 > -- *[[FallFishCountSummary_PML0119]]*
 
+> This short collection summary records fish captured during a [[San Bernardino River]] field trip in October 2010, led by [[C.O. Minckley]]. Specimens of five native freshwater species were tallied at four sites. [[Yaqui Topminnow]] dominated the catch, while [[Yaqui Chub]] and [[Longfin Dace]] were...
+> -- *[[UnreadableScannedDocumentNoExt_PML1792]]*
+
+> This paper by Buddy L. Jensen of the [[U.S. Fish and Wildlife Service]] describes the endangered fishes program at [[Dexter National Fish Hatchery]] (Dexter NFH), New Mexico. Following the [[Endangered Species Act]] of 1973, Dexter began holding and culturing imperiled southwestern fishes in 1974,...
+> -- *[[TheRoleOfFishCultureInEndanger_PML1189]]*
+
 ### Mentioned In
 - [[AmendmentToEndangeredSpeciesSu_1989_12_01]]
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -2546,6 +2576,8 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[ThreatenedNativeWildlifeInAriz_PML0097]]
 - [[DraftBiologicalOpinionOngoingA_PML2744]]
 - [[FallFishCountSummary_PML0119]]
+- [[UnreadableScannedDocumentNoExt_PML1792]]
+- [[TheRoleOfFishCultureInEndanger_PML1189]]
 
 ## Yaqui Fish Collection Expedition
 
@@ -2742,9 +2774,6 @@ The Yaqui Longfin Dace (Agosia chrysogaster, "Yaqui form") is a native cyprinid 
 > This field report by [[C. O. Minckley]] documents a seine-based fish collection made on 18 July 2009 in the [[Cajon Bonito]], a northern tributary of the [[Yaqui River]] in [[Sonora]], Mexico. Fourteen seine hauls over roughly 1 km of stream yielded 102 individuals representing six native...
 > -- *[[AReportOnACollectionOfFishFrom_PML1791]]*
 
-> This taxonomic paper reports on a collection of freshwater fishes made by [[Dr. Edgar A. Mearns]], US Army medical officer and naturalist, while in charge of the biological section of the Mexican Boundary Survey (1892–1894). The specimens came from the [[Colorado River]] and its tributaries, the...
-> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
-
 > This book chapter (Minckley, Hendrickson and Bond, 1986) examines the distribution of freshwater fishes across western North America in relation to Cenozoic geology, paleohydrography, and paleoclimate. The authors argue that the region's fish distributions reflect a long history of plate-tectonic...
 > -- *[[GeographyOfWesternNorthAmerica_PML1838]]*
 
@@ -2763,7 +2792,6 @@ The Yaqui Longfin Dace (Agosia chrysogaster, "Yaqui form") is a native cyprinid 
 - [[StatusOfTheNativeArizonaIchthy_18579]]
 - [[NotesOnACollectionOfFishesMade_21252]]
 - [[AReportOnACollectionOfFishFrom_PML1791]]
-- [[CollectionOfFishesMadeByDrEdga_PML2406]]
 - [[GeographyOfWesternNorthAmerica_PML1838]]
 - [[TheGreatBasinWithEmphasisOnGla_PML2497]]
 
@@ -3258,6 +3286,9 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > This Arizona Game and Fish Department special report assesses the status of the [[Sonoran Topminnow]] (*Poeciliopsis occidentalis*) and [[Desert Pupfish]] (*Cyprinodon macularius*) using field surveys from June 1989 to April 1990 and a review of historic records. Both species were federally listed...
 > -- *[[StatusOfTheSonoranTopminnowPoe_PML0155]]*
 
+> This short collection summary records fish captured during a [[San Bernardino River]] field trip in October 2010, led by [[C.O. Minckley]]. Specimens of five native freshwater species were tallied at four sites. [[Yaqui Topminnow]] dominated the catch, while [[Yaqui Chub]] and [[Longfin Dace]] were...
+> -- *[[UnreadableScannedDocumentNoExt_PML1792]]*
+
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
 - [[ApplicationForRenewedScientifi_1998_12_28]]
@@ -3357,6 +3388,7 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[GilaTopminnowPoeciliopsisOccid_PML0012]]
 - [[GilaTopminnowPoeciliopsisOccid_PML2852]]
 - [[StatusOfTheSonoranTopminnowPoe_PML0155]]
+- [[UnreadableScannedDocumentNoExt_PML1792]]
 
 ## Yaqui Trout
 
@@ -3895,18 +3927,6 @@ Trout raised in hatcheries for about a year before being stocked into streams an
 
 ### Mentioned In
 - [[ReviewOfComparativeTroutFeedCo_PML2313]]
-
-## Yeast Extract
-
-### Summary
-A nutrient preparation made from yeast cells, rich in amino acids, vitamins and other organic compounds. The authors suggest that adding organic supplements such as yeast extract to a grass-based medium could help in culturing aerobic heterotrophic marine bacteria.
-
-### Context
-> This short research note examines how [[Marine Bacteria]] break down the dead leaves of [[Spartina Alterniflora]], the dominant grass of [[Salt Marsh]] systems near [[Sapelo Island]], Georgia. The study combined field decomposition experiments with laboratory tests of bacterial growth on media...
-> -- *[[DecompositionOfMarshGrassByAer_PML0338]]*
-
-### Mentioned In
-- [[DecompositionOfMarshGrassByAer_PML0338]]
 
 ## Yeatman 1956
 <!-- fm: auto_enriched: true -->
@@ -4587,6 +4607,12 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 > This biological report, prepared by [[EnviroNet Inc]] for [[Arizona Public Service]] in October 1998, supports the [[Federal Energy Regulatory Commission]] (FERC) relicensing of the [[Childs & Irving Hydroelectric Plant]] on [[Fossil Creek]], about 5 miles southwest of Strawberry, Arizona. It...
 > -- *[[ChildsIrvingHydroelectricPlant_PML0685]]*
 
+> This document is a 1965 Fisheries Management (Region 5) memorandum packet, with a supporting excerpt on flood effects. It reports a rotenone-based population estimate of fishes in two sidewaters of the [[Colorado River]] in the [[Topock Gorge]] Division, conducted on June 24 and June 30, 1965....
+> -- *[[FisheryCorrespondenceAndDesert_PML1333]]*
+
+> This document is a methods manual and set of 1979 field data sheets from the [[Arizona Game And Fish Department]] Region II Stream Habitat Survey. It defines a standard protocol for measuring stream physical habitat, water chemistry, fish populations, benthic invertebrates and vegetation, then...
+> -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
+
 ### Mentioned In
 - [[AFishPopulationStudyOfThirdSis_1942]]
 - [[AnEvaluationOfWaterQualityStan_1968_06_24]]
@@ -4775,6 +4801,8 @@ The Yellow Bullhead (*Ameiurus natalis*) is a small catfish species (family Icta
 - [[FishesOfAravaipaCreekGrahamAnd_PML2454]]
 - [[FishesOfArizona_PML1690]]
 - [[ChildsIrvingHydroelectricPlant_PML0685]]
+- [[FisheryCorrespondenceAndDesert_PML1333]]
+- [[RegionIiStreamHabitatSurveyMet_15919]]
 
 ## Yellow Creek
 
@@ -5446,6 +5474,15 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > This mid-twentieth-century identification guide, prepared by W. Harry Brickley of the [[Colorado Cooperative Fishery Research Unit]] and sponsored by Colorado A&M College, the [[Colorado Game and Fish Department]], and the U.S. Fish and Wildlife Service, catalogs the fishes found in Colorado...
 > -- *[[GuideToTheFishesOfColorado_PML0185]]*
 
+> This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
+> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+
+> The document combines two sections of a journal issue. The first is a discussion of [[Ralston Plots]], a rapid graphical method for estimating the functional form of fishing gear selectivity, applied mainly to [[Hook Selectivity]] in longline and handline fisheries. The second, and main, part is a...
+> -- *[[InteractiveInfluenceOfTurbidit_PML1895]]*
+
+> This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
+> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
 - [[AContributionTowardABibliograp_12687]]
@@ -5662,6 +5699,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[BasicSurveyOfVerdeRiverAndItsO_PML2806]]
 - [[EcologicalStudiesOfFloraAndFau_PML2920]]
 - [[GuideToTheFishesOfColorado_PML0185]]
+- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InteractiveInfluenceOfTurbidit_PML1895]]
+- [[UnreadableOcrScanNoExtractable_PML2490]]
 
 ## Yellow Pike Perch
 
@@ -5807,6 +5847,18 @@ The Yellow Springs Instrument Model 57 is a temperature and oxygen meter. The st
 
 ### Mentioned In
 - [[StudyOfQuitobaquitoPupfishpres_12500]]
+
+## Yellow Stonecat
+
+### Summary
+A small North American catfish of the family Ictaluridae, related to the madtoms. This source mentions it only in its review of age-determination work, citing prior studies of its aging structures, and reports no findings specific to it.
+
+### Context
+> This study by [[Kermit E. Sneed]] (Fisheries Research Laboratory, Norman, Oklahoma) tests whether annual rings on the left pectoral spines of [[Channel Catfish]] (*Ictalurus lacustris punctatus*) can be used to age fish and calculate their growth in length. Spines were collected from 204 fish taken...
+> -- *[[CalculatingGrowthOfChannelCatf_PML2399]]*
+
+### Mentioned In
+- [[CalculatingGrowthOfChannelCatf_PML2399]]
 
 ## Yellow Walleye
 
@@ -6166,12 +6218,16 @@ Yellowfin tuna (*Thunnus albacares*) is a pelagic fish species belonging to the 
 > This Portuguese-language fisheries analysis (Barros and Fonseca, published 1965 in the *Boletim do Estado da Pesca*) reports the 1963 catch data of tuna longliners based at [[Recife]], [[Pernambuco]], [[Brazil]]. It continues earlier work covering 1961–1962 and assesses the fishing grounds, species...
 > -- *[[AnaliseDasPesacariasDeAtunsEEs_12789]]*
 
+> This document is the front matter and checklist of Occasional Papers of the [[California Academy of Sciences]] No. 133 (1979), by Carl L. Hubbs, W. I. Follett and Lillian J. Dempster. It enumerates all marine, euryhaline and freshwater fishes reliably reported as native to California, or introduced...
+> -- *[[ListOfTheFishesOfCalifornia_PML1107]]*
+
 ### Mentioned In
 - [[EcologicalFactorsInvolvedInThe_1957]]
 - [[StomachContentsAndOrganWeights_12449]]
 - [[ThunnusSouthPiscesProposedVali_17128]]
 - [[NatureOfVariabilityInBloodLact_17323]]
 - [[AnaliseDasPesacariasDeAtunsEEs_12789]]
+- [[ListOfTheFishesOfCalifornia_PML1107]]
 
 ## Yellowmouth Rockfish
 
@@ -6980,10 +7036,14 @@ The Yolo Bypass is a floodway in the Sacramento Valley that receives Putah Creek
 > This paper describes **Corophium aquafuscum** new species, a tube-dwelling amphipod discovered in 1968 in low salinity marsh areas of Georgia estuaries. The species is characterized by a completely segmented urosome, two strong distoventral teeth on antenna 2 segment 4, absence of distinct rostrum...
 > -- *[[ANewSpeciesOfCorophiumLatreill_20748]]*
 
+> This compiled document contains three components: a reference list of roughly 33 freshwater fisheries and biology publications, a full research paper on the rapid spread of [[Tilapia Aurea]] in south central Florida, and an abstract for a study of the 1966 year class of [[Striped Bass]] in three...
+> -- *[[TilapiaAureaARapidlySpreadingE_PML0319]]*
+
 ### Mentioned In
 - [[ChecklistOfTheFishesOfTheCentr_1982_04_13]]
 - [[OccurrenceGrowthAndFoodHabitsO_14072]]
 - [[ANewSpeciesOfCorophiumLatreill_20748]]
+- [[TilapiaAureaARapidlySpreadingE_PML0319]]
 
 ## York River-Lower Chesapeake Bay
 <!-- fm: auto_enriched: true -->
@@ -8379,8 +8439,12 @@ The Yuma gaging station was a U.S. Geological Survey stream gage on the lower Co
 > This U.S. Geological Survey Water-Supply and Irrigation Paper, compiled under [[Edward Charles Murphy]] and others and published in 1906, documents the destructive floods of 1905 in the United States. Its main focus is the [[Colorado River Basin]] and the [[Gila River Basin]] of the arid Southwest....
 > -- *[[DestructiveFloodsInTheUnitedSt_15522]]*
 
+> This U.S. Geological Survey water-supply report by C. S. Howard presents sediment-sampling results for the [[Colorado River]] basin covering 1 October 1925 to 30 September 1941. The core record is a 16-year program at the [[Grand Canyon Gaging Station]], supplemented by shorter records at other...
+> -- *[[SuspendedSedimentInTheColorado_PML1098]]*
+
 ### Mentioned In
 - [[DestructiveFloodsInTheUnitedSt_15522]]
+- [[SuspendedSedimentInTheColorado_PML1098]]
 
 ## Yuma Gauging Station
 
@@ -8427,12 +8491,8 @@ The Yuma Project is a federal irrigation project on the lower Colorado River in 
 > This document is a [[Bureau Of Reclamation]] public-information brochure describing the planned [[Central Arizona Project]] (CAP), a large water-importation scheme authorized by the [[Colorado River Basin Project Act]] (Public Law 90-537, September 30, 1968) but not yet constructed. The project...
 > -- *[[CentralArizonaProject_13261]]*
 
-> This is the thirty-third annual Western Water Bulletin, issued by the [[International Boundary and Water Commission]] (IBWC) of the United States and Mexico. It reports streamflow, reservoir storage, water quality, climatological and irrigation data for 1992 on the western boundary streams: the...
-> -- *[[WesternWaterBulletinFlowOfTheC_PML0922]]*
-
 ### Mentioned In
 - [[CentralArizonaProject_13261]]
-- [[WesternWaterBulletinFlowOfTheC_PML0922]]
 
 ## Yuma Projects Office
 
@@ -8458,9 +8518,13 @@ Yuma Valley refers to canal systems in Arizona that were compared to the Coachel
 > This appendix to a study report characterises the aquatic habitats, fish fauna, benthos, higher aquatic plants, pigments and physico-chemical conditions of the [[Limitrophe Division]] of the lower [[Colorado River]] and the surrounding [[Yuma Valley]], sampled in 1974–75. The river segment below...
 > -- *[[AquaticHabitatsAndFishesOfTheL_PML1749]]*
 
+> This appendix is a coding manual, not a field study. It defines the numerical and abbreviated codes used to store data from [[Aquatic And Semi-Aquatic Systems Of The Lower Colorado River Basin]] studies. The codes cover habitat parameters, sampling devices, sampling localities, field data sheets,...
+> -- *[[AppendixINumericalAndAbbreviat_PML1743]]*
+
 ### Mentioned In
 - [[FisheryInventoryOfTheCoachella_13687]]
 - [[AquaticHabitatsAndFishesOfTheL_PML1749]]
+- [[AppendixINumericalAndAbbreviat_PML1743]]
 
 ## Yuma, Arizona
 

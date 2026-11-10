@@ -1,11 +1,15 @@
 ---
-species: "Multiple taxa (vertebrates and invertebrates; see Key Findings)"
-common_name: "Multiple taxa (fishes, amphibians, reptiles, birds, mammals, mollusks, insects, plants, and others)"
-family: "Multiple families"
-habitat: "Multiple: freshwater (rivers, springs, caves, reservoirs), marine and coastal, terrestrial"
+species:
+  - "Xyrauchen texanus"
+  - "Ptychocheilus lucius"
+  - "Gila cypha"
+  - "Gila elegans"
+common_name: "Razorback Sucker, Colorado Squawfish, Humpback Chub, Bonytail Chub"
+family: "Catostomidae; Cyprinidae"
+habitat: "Large river mainstems, backwaters, eddies, floodplain habitats, reservoirs"
 ocean_basin: "N/A"
-location: "United States (50 states and territories: Puerto Rico, Guam, CNMI, American Samoa, Virgin Islands, Trust Territory of the Pacific Islands, Navassa Island), with foreign ranges noted"
-tags: [endangered-species, wildlife-policy, federal-register, species-review, conservation-status]
+location: "Colorado River Basin, Western United States and Mexico"
+tags: [ichthyology, marine-biology, endangered-species, freshwater-fish, colorado-river, habitat-conservation]
 title: "Endangered and Threatened Wildlife and Plants; Animal Notice of Review"
 source_id: "PML0739"
 marsh_id: "PML0739"
@@ -13,68 +17,48 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "U.S. Fish and Wildlife Service (1989). Endangered and Threatened Wildlife and Plants; Animal Notice of Review. Federal Register, Vol. 54, No. 4 (Proposed Rules), U.S. Fish and Wildlife Service, Department of the Interior. Marsh Library ID: PML0739."
 source_file: "Federal register 1989. Threatened plants and animals 4 endangered colorado river fishes.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Endangered and Threatened Wildlife and Plants: Notice of Review and Related Federal Actions (1989-1994 Compilation)
+# Endangered and Threatened Wildlife and Plants; Animal Notice of Review
 
-#ichthyology #marine-biology #endangered-species-review
+#ichthyology #marine-biology #cyprinidae #catostomidae
 
 ## Executive Summary
 
-The document is a compilation of U.S. Fish and Wildlife Service (FWS) regulatory material on species listed under the [[Endangered Species Act]] of 1973, as amended. It contains three main components. First, a 1989 Notice of Review (Federal Register, Vol. 54, No. 4, January 6, 1989) that revises the candidate list of vertebrate and invertebrate taxa for possible listing. Second, the 1989 compilation of Title 50 CFR 17.11 and 17.12 (the official lists of endangered and threatened wildlife and plants, current as of January 1, 1989). Third, two 1994 Federal Register rules on critical habitat for four endangered Colorado River fishes, plus a 1985 Notice of Review update. The text is mostly tables and legal language. The most substantive scientific content concerns the four Colorado River fishes and the economic and biological reasoning behind their critical habitat designation.
+The document is a compilation of U.S. Fish and Wildlife Service (Service) regulatory material spanning 1989 to 1994. Its core parts are (1) a January 6, 1989 Notice of Review identifying native U.S. animal taxa under consideration for listing under the [[Endangered Species Act]] of 1973, (2) a reprint of the January 1, 1989 lists of endangered and threatened wildlife and plants (50 CFR 17.11 and 17.12), and (3) a March 21, 1994 final rule designating 3,168 km (1,980 mi) of [[Critical Habitat]] for four endemic [[Colorado River Basin]] fishes. The 1989 notice is not a listing proposal and confers no legal protection on the taxa it names, although the Service encourages agencies to consider them in planning. The 1994 rule concerns the [[Razorback Sucker]], [[Colorado Squawfish]], [[Humpback Chub]] and [[Bonytail Chub]].
 
 ## Background & Description
 
-**Legal basis.** The notices are issued under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), as amended by several public laws through 1988. The Act defines a "species" for listing purposes and provides for critical habitat designation, Section 7 consultation, and prohibitions on taking.
+**Notice of Review (1989).** The notice covers vertebrate and invertebrate taxa, including fishes, amphibians, reptiles, birds, mammals, sponges, crustaceans, arachnids, insects, snails and bivalve mollusks. Taxa are sorted into three categories:
 
-**Candidate categories (1989 notice).** Taxa are sorted into three categories:
-- **Category 1:** Taxa for which the Service has enough information to propose listing.
-- **Category 2:** Taxa for which information suggests listing may be appropriate, but data are insufficient. Category 2 was described as possibly extinct or not valid species in some cases.
-- **Category 3:** Taxa considered for listing but not currently proposed. Subcategories were 3A (presumed extinct), 3B (not valid species or subspecies, or not meeting the Act's definition), and 3C (more abundant or widespread than previously thought).
+- **Category 1:** substantial information supports proposing listing; proposals are precluded at present.
+- **Category 2:** listing may be appropriate, but conclusive data on vulnerability and threat are lacking.
+- **Category 3:** former candidates now presumed extinct (3A), not valid taxa (3B), or more abundant and widespread than thought (3C).
 
-**Table format.** Each entry gives the category, common name, scientific name (with authority and date for molluscs), family, and historic range by state abbreviation. "sp." denotes undescribed species; "ssp." denotes undescribed subspecies. Taxa were arranged from fishes to mammals among vertebrates and from sponges to molluscs among invertebrates.
+The accompanying table is long, and the document lists several hundred entries. Fish entries alone include lampreys, trouts, ciscoes, dace, chubs, suckers, madtoms, pupfishes, darters, sculpins and many others. Most fish are listed in Category 2. Notable Category 1 fish include the Razorback Sucker, Shoshone Pupfish, Neosho Madtom and O'opu alamo'o. The Service solicited data on taxonomy, threats, distributions and critical habitat. Comments were accepted "until further notice."
 
-**Authority and authors.** The notice was compiled by the endangered species staff of the Regional and Field Offices and the Division of Endangered Species and Habitat Conservation. Dr. George Drewry served as editor. It was dated December 22, 1988, and signed by the Assistant Secretary for Fish and Wildlife and Parks.
+**Endangered and Threatened Lists (1989).** The reprinted 50 CFR 17.11 and 17.12 define the list columns, including "Status" (E, T, or T(S/A) for similarity of appearance), "Historic range," "When listed," "Critical habitat" and "Special rules." The lists include a fish table with numerous endangered and threatened species, and the sections also cover birds, mammals, reptiles, amphibians, invertebrates and plants. Historic ranges are given by state, and many entries are populations rather than full species. The document also lists species removed from the lists, mostly for extinction, original data error or recovery. Examples include the Pine Barrens Treefrog, Sampson's Pearly Mussel and the Santa Barbara Song Sparrow.
+
+**Critical Habitat Final Rule (1994).** The four species are endemic to the [[Colorado River Basin]], which drains about 627,000 km² (242,000 mi²) in the U.S. and has an Upper and Lower Basin. An additional 5,000 km² (2,000 mi²) lies in Mexico. Historically the Basin's native fauna was dominated by cyprinids and catostomids.
 
 ## Ecological & Environmental Context
 
-The four [[Colorado River Endangered Fishes]] are the main ecological focus. They were historically dominant in the Colorado River Basin, which covers about 627,000 km2 (242,000 mi2) across seven western states and has been divided into an Upper and Lower Basin. The fishes evolved under a natural regime of seasonal flows, diverse habitats (whitewater, low-gradient meandering channels, backwaters), and varying water quality.
+The four fishes evolved under highly fluctuating seasonal and annual flows, varied habitats (whitewater, lower-gradient meanders, off-channel backwaters) and natural variation in sediment, temperature and salinity. Dams and diversions have fragmented habitat, blocked genetic exchange, and removed high flood flows that once carried nutrients to floodplain habitats. Altered river conditions favor [[Nonnative Fish]] species, which have proliferated. The document states that no completely unaltered habitat remains in the Basin for these fishes.
 
-Documented threats include:
-- Habitat loss from altered natural flows, temperature and sediment regimes
-- Proliferation of nonnative fishes
-- Dams and water diversions that fragment habitat and block fish movement
-- Reduced genetic interchange among populations
-- Low recruitment, with mostly old adults surviving in many populations
+- **Razorback Sucker:** Once abundant. Lake Mohave holds an estimated 25,000 individuals, but recruitment is virtually nonexistent. The largest riverine population, in the upper Green River, numbered about 1,000 fish in 1989 and may have fallen below 500. Spawning occurs over mixed substrates at 10.5 to 21°C.
+- **Colorado Squawfish:** Survives only in the Upper Basin, with relatively high numbers only in the Green River Basin. Spawning is linked to declining June to August flows at 22 to 25°C. The mainstream population may have been harmed by a 48 percent reduction in discharge. Larvae drift about 6 days, roughly 160 km (100 mi), to nursery areas.
+- **Humpback Chub:** Populations in the Little Colorado River, Black Rocks and Westwater Canyon appear relatively stable, while declines occurred elsewhere.
+- **Bonytail Chub:** Populations are dominated by old adults and persist mainly through longevity. Recruitment is limited.
 
-Other aquatic and terrestrial taxa in the lists face similar pressures. Many are restricted to springs, caves, desert washes, or small watersheds. The lists include cave beetles, crayfishes, freshwater mussels and snails, and desert and island plants. The 1985 notice also notes that several threatened species may be extinct in the wild but persist in cultivation, and that certain taxa have had very limited survey work.
+The document notes that [[Genetic Diversity]] loss in small remnant stocks could eventually cause extinction by reducing adaptability to environmental change.
 
 ## Key Findings
 
-**1. Candidate-list structure (1989 notice).** The notice lists taxa grouped by category, with the taxa of greatest concern in Category 1. Vertebrate groups receive separate headings. Fishes include species such as the Kern brook lamprey, Owens pupfish, Colorado squawfish, and multiple dace and sucker taxa; the candidate list is extensive and includes many freshwater mollusc and crayfish entries.
-
-**2. Scope of the 1989 review.** Category 1 covered many endemic freshwater and cave species, including numerous mussels, snails (e.g., Hydrobiidae in springs and caves), crayfishes, amphipods, isopods, and aquatic insects. The Service requested information on seven points: category reassignment, nominations, critical habitat, threats, taxonomic changes, names, and errors in distributions.
-
-**3. Official list status (50 CFR 17.11 and 17.12, as of January 1, 1989).** The compiled lists include hundreds of entries for animals and plants, with status codes E (endangered), T (threatened), and E or T (S/A) for similarity of appearance. Species listed as "XE" (essential experimental population) or "XN" (nonessential experimental population) are flagged separately. Delisting criteria are defined in 50 CFR 424.11, covering extinction, recovery, and original data in error.
-
-**4. Critical habitat for the four Colorado River fishes (Federal Register, March 21, 1994).** The Service designated 3,168 km (1,980 mi) of critical habitat for the razorback sucker (*Xyrauchen texanus*), Colorado squawfish (*Ptychocheilus lucius*), humpback chub (*Gila cypha*), and bonytail chub (*Gila elegans*) in Colorado, Utah, New Mexico, Arizona, Nevada, and California. Most habitat lies on Federal land. Reported shoreline mileage by species includes:
-- Razorback sucker: about 771 km (479 mi)
-- Colorado squawfish: about 1,948 km (1,210 mi)
-- Humpback chub: about 610 km (379 mi)
-- Bonytail chub: about 312 mi
-
-**5. Economic analysis.** The economic analysis (Brookshire et al. 1994) covered the seven Basin states from 1991 through 2020. It modeled effects on output, employment, and income using a regional input-output model and a computable general equilibrium model. Results included:
-- New Mexico: employment impact of roughly 2 jobs lost in 1995, rising to 613 jobs by 2020 under the "with fish" scenario
-- California: a gain of about 20 jobs in 1995, rising to 1,162 jobs by 2020
-- Whole Basin: employment impacts were positive through the study period, reaching about 393 jobs by 2020
-These figures were updated in response to public comment, and the Service concluded that much of the economic impact derived from Section 7 consultation rather than from critical habitat designation itself.
-
-**6. Exclusion decisions.** The Service considered excluding reaches on economic grounds, but did not exclude areas, since exclusion would risk extinction of the species.
-
-**7. Legal challenge context.** A 1992 court ruling found that the Service had violated the Act by not designating critical habitat for the razorback sucker at the time of listing. The 1994 rule responded to this ruling.
-
-**8. Recovery context.** The Upper Colorado River Endangered Fish Recovery Implementation Program and the San Juan River Basin Recovery Implementation Program are cooperative efforts that provide reasonable and prudent alternatives under Section 7 for water development projects.
-
-**9. Miscellaneous 1985 notice.** A companion 1985 notice (50 FR 39526, Sept. 27, 1985) updates the candidate status for plants and animals and summarizes categories 1 through 3 with counts. It also requests information on taxa that may be extinct or have insufficient data.
-
-**Caveat.** The document is OCR-scanned and contains many transcription errors in species names. Names above are standardized as far as the source allows. Taxonomic authorities and distributions should be verified against the original Federal Register documents.
+1. **Notice of Review (1989):** The Service identifies taxa for possible listing, but the notice does not propose listing and provides no protection under the Act. Federal agencies are encouraged to consider these taxa in planning.
+2. **Fish taxa in the 1989 notice:** Most fishes are Category 2. Category 1 includes the Razorback Sucker, Shoshone Pupfish, Neosho Madtom and O'opu alamo'o.
+3. **Endangered and threatened lists (1989):** The lists define status symbols, historic range and special rules, and document delistings for extinction, error or recovery.
+4. **Critical habitat (1994):** The Service designates 3,168 km (1,980 mi) of critical habitat across Colorado, Utah, New Mexico, Arizona, Nevada and California for the four fishes, with overlapping designations among species.
+5. **Legal history:** The Razorback Sucker was listed as endangered in 1991 without critical habitat. A lawsuit followed, and a federal court ruled in October 1992 that the Service had violated the Act. The Court ordered designation, and the final rule was published by March 15, 1994.
+6. **Recovery planning:** Plans exist for the Colorado Squawfish (revised 1991), Humpback Chub (revised 1990) and Bonytail Chub (revised 1990). The Service considers maintaining populations across distinct thermal, chemical and physical conditions essential to species survival.
+7. **Threats:** Habitat loss from dams, diversions and altered flows; proliferation of nonnative fish; and reduced recruitment, which together threaten all four species.

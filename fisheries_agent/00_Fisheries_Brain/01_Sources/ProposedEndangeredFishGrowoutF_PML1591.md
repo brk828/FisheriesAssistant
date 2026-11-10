@@ -1,11 +1,11 @@
 ---
-species: "Xyrauchen texanus; Gila elegans"
-common_name: "Razorback Sucker; Bonytail Chub"
-family: "Catostomidae; Cyprinidae"
-habitat: "Freshwater: large river backwaters, ponds, and reservoirs of the Colorado River system"
+species: "Xyrauchen texanus, Gila elegans, Gila elegans (Bonytail Chub)"
+common_name: "Razorback Sucker, Bonytail Chub, Colorado River native fishes"
+family: "Catostomidae, Cyprinidae"
+habitat: "Freshwater backwaters, oxbows and lateral habitats of the lower Colorado River"
 ocean_basin: "N/A"
-location: "Cibola National Wildlife Refuge, Arizona, Colorado River"
-tags: [ichthyology, endangered-species, freshwater-fish, colorado-river, fish-conservation, razorback-sucker, bonytail-chub]
+location: "Cibola National Wildlife Refuge, lower Colorado River, Arizona-California border, near Parker Dam"
+tags: [ichthyology, marine-biology, catostomidae, cyprinidae, freshwater-fish, endangered-species, habitat-restoration]
 title: "Proposed Endangered Fish Growout Facilities: Environmental Assessment"
 source_id: "PML1591"
 marsh_id: "PML1591"
@@ -13,74 +13,43 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "U.S. Fish and Wildlife Service (1993). Proposed Endangered Fish Growout Facilities: Environmental Assessment. U.S. Fish and Wildlife Service, Department of the Interior (Cibola National Wildlife Refuge). Marsh Library ID: PML1591."
 source_file: "Martin W. 1993. Proposed endangered fish growout.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Endangered Fish Grow-Out Facility Proposal: Cibola National Wildlife Refuge
+# Proposed Endangered Fish Growout Facilities: Environmental Assessment
 
 #ichthyology #marine-biology #catostomidae #cyprinidae
 
 ## Executive Summary
 
-This document is a proposal and environmental assessment (partly illegible from scanning) for a [[Endangered Fish Grow-Out Facility]] at the [[Cibola National Wildlife Refuge]] in Arizona. The U.S. Fish and Wildlife Service, with the Arizona Game and Fish Department and the U.S. Bureau of Reclamation among the listed parties, would develop ponds to rear endangered [[Razorback Sucker]] and [[Bonytail Chub]] fingerlings to a larger size before releasing them into the [[Colorado River]]. The aim is to improve survival by reducing predation on small fish. The proposal compares a pond-based grow-out alternative (Alternative A), direct release of hatchery fish (Alternative B), and a No Action alternative (Alternative C).
+This U.S. Fish and Wildlife Service environmental assessment (September 1993), prepared with the [[Arizona Game And Fish Department]] and the [[U.S. Bureau Of Reclamation]], evaluates the construction of growout ponds at the [[Cibola National Wildlife Refuge]] to rear endangered [[Razorback Sucker]] and [[Bonytail Chub]] to a large size before reintroduction into the lower [[Colorado River]]. Three alternatives are considered: a proposed on-site growout pond program (Alternative A), direct release of larger hatchery fish (Alternative B), and no action (Alternative C).
 
 ## Background & Description
 
-**Target species**
+The lower Colorado River historically supported a diverse native fish fauna, including the Razorback Sucker (*Xyrauchen texanus*) and Bonytail Chub (*Gila elegans*). These large-river species were adapted to arid, highly variable conditions, with flooding and seasonal flows. Damming, particularly the closure of [[Hoover Dam]] and [[Parker Dam]] in the late 1930s, altered habitat and caused a rapid decline in native fish. The present fish fauna is composed almost exclusively of introduced species, several of which prey on native fry.
 
-- **[[Razorback Sucker]]** (*Xyrauchen texanus*, Catostomidae): Once common in the Colorado River, now listed as endangered. The document states that it has nearly disappeared from the river, with only scattered individuals remaining.
-- **[[Bonytail Chub]]** (*Gila elegans*, Cyprinidae): Also listed as endangered. The document describes it as having largely disappeared from the Colorado River, with few individuals reported in recent decades. Remaining fish are generally long-lived adults (the text notes lifespans longer than 30 years).
+The document notes that native fish are disappearing rapidly in Arizona. Of 33 native fish species in the state, 12 are federally listed as threatened or endangered, and 14 are under review for listing. The text states "12" and "14" only as read from a scan; the OCR for these counts is partly garbled, so the exact figures should be checked against the original.
 
-**Purpose and need**
-
-The stated purpose is to develop and construct facilities to rear fingerlings of both species to a larger size for release. Young fish are said to be vulnerable to predation by non-native fish, and recovery requires establishing and maintaining a population of adult, reproducing fish. The document notes that if efforts are not made, wild populations may not persist.
-
-**Project participants**
-
-The document lists the Arizona Game and Fish Department, the U.S. Bureau of Reclamation, the Cibola National Wildlife Refuge (refuge operations and environmental staff), and the Region 2 fishery resource office. Preparer and submitter details are partly illegible.
+The proposed project is to rear fish in growout facilities for later reintroduction, while also providing education displays to raise public awareness of southwestern fishes.
 
 ## Ecological & Environmental Context
 
-**Habitat change and non-native fish**
+**Air quality:** The Refuge generally meets National Ambient Air Quality standards. Air quality is good except during temporary high winds and farming activity, which raise dust.
 
-The document links the decline of native fish to changes in the Colorado River, including altered flows, water temperature, and water quality, as well as the introduction of non-native species. Backwaters, sloughs, and isolated ponds on the refuge are described as habitat that is suitable for rearing larval and juvenile native fish. Non-native fish are thought to compete with and prey on them.
+**Water quality:** The Refuge contains wetlands, oxbow backwaters, Cibola Lake and Colorado River habitats. Water quality varies between habitats but generally falls within ranges suitable for fish. Dissolved oxygen was high at all sites. Relationships between selenium contamination, diversity indices and fish abundance were weak, though a strong inverse relationship was found between selenium and catch per unit effort for all species combined (Welsh and Maughan 1995). Selenium may be limiting abundances, and impacts could increase if selenium inputs rise.
 
-**Non-native species**
+**Vegetation:** Vegetation at the High Levee Pond includes cattail (*Typha* sp.), bulrush (*Scirpus* sp.), sedges (*Carex* sp.) and stonewort (*Chara* sp.). Proposed new ponds will most likely be located in areas dominated by salt cedar.
 
-The document lists more than a dozen non-native species recorded in the project area or the lower Colorado River, summarized here rather than reproduced in full. Examples include:
+**Fish and wildlife:** Twenty-one fish species have been recorded from Parker Dam to the Refuge (Ohmart et al. 1988). Species collected near the proposed action include [[Threadfin Shad]], [[Common Carp]], [[Goldfish]], [[Mosquitofish]], [[Largemouth Bass]], [[Green Sunfish]], [[Bluegill]], [[Redear Sunfish]] and [[Black Crappie]]. Other fauna include coyote, beaver, raccoon, striped skunk, western diamondback rattlesnake, mourning dove, Gambel's quail and water birds.
 
-- Common Carp (*Cyprinus carpio*)
-- Goldfish (*Carassius auratus*)
-- Fathead Minnow (*Pimephales promelas*)
-- Green Sunfish, Bluegill, and Redear Sunfish (*Lepomis* spp.)
-- Black Crappie (*Pomoxis* spp.)
-- Channel Catfish and other catfishes
-
-Scanned text is partly illegible, so some names and the full count are uncertain. The document notes that the proposed pond site may support non-native fish, which would have to be removed before stocking.
+**Special status species:** The Razorback Sucker, endangered, once occurred throughout the Colorado River basin. The largest remaining population is in [[Lake Mohave]], and only a few individuals remain in [[Lake Havasu]]. The federally endangered Bonytail Chub also ranged throughout the basin, is still found in Lake Mohave, and was formerly abundant in the Gila River drainage.
 
 ## Key Findings
 
-**Alternative A: Grow-out ponds (proposed action)**
-
-- Development of grow-out ponds on the refuge, built with a ditch and water control structures, so they can be managed and drained.
-- Fish would be stocked as fingerlings. Dexter National Fish Hatchery and Technology Center (Dexter, New Mexico) would supply fish about 2 inches long.
-- Non-native fish would be removed before stocking. The removal method is stated only partly in the document; it involves an application-specific pesticide, and a licensed applicator would be on site during application.
-- Captured fish would be weighed, measured, and counted, and biological data (length, weight, fish counts, and biomass) would be recorded.
-- Water chemistry (dissolved oxygen, temperature, and related parameters) would be monitored during rearing.
-- Fish reaching about 12 inches would be tagged with passive integrated transponder (PIT) tags and released into the river.
-- Ponds that are part of a larger system would be managed to remove any non-native fish that could be present.
-
-**Alternative B: Direct release of hatchery fish**
-
-Fish from the Dexter hatchery would be released directly into the river without grow-out ponds. Fish would be released at the size they reach in the hatchery (about 12 inches). The document presents this as an alternative to the ponds rather than as the preferred option.
-
-**Alternative C: No Action**
-
-Under the No Action alternative, the endangered fish would not be given additional support, and the document concludes that the native fish populations would continue to decline.
-
-**Conclusions**
-
-The proposal is presented as a measure to support recovery of two endangered fish species through controlled rearing and release, reducing early-life predation and allowing monitoring of survival and growth. Because of partial scan damage, precise sample sizes, timelines, and monitoring periods are not reliably available in this text.
-
-## Related Concepts
-
-[[Colorado River]] · [[Cibola National Wildlife Refuge]] · [[Razorback Sucker]] · [[Bonytail Chub]] · [[Dexter National Fish Hatchery and Technology Center]] · [[Endangered Fish Grow-Out Facility]] · [[Non-Native Fish Removal]] · [[PIT Tagging]] · [[Predation on Juvenile Fish]]
+- **Purpose:** Develop and construct facilities to rear Razorback Sucker and Bonytail Chub to large size for reintroduction. Self-reproducing populations of long-lived individuals (>30 years) are considered critical for species recovery.
+- **Proposed Action (Alternative A):** Construct growout ponds of under 2 acres, with depths below the groundwater table so water levels can be maintained by flow exchange. Two locations are planned, still undetermined.
+- **Procedure:** Remove all non-target fish by netting and electrofishing, then apply [[Rotenone]] (up to two applications one month apart). Stock fish from [[Dexter National Fish Hatchery]] at 2 to 6 inches after at least two weeks. Monitor physico-chemical factors and growth monthly. Release fish at 12 inches total length after PIT tagging into the main channel.
+- **Recovery trade-off:** Bonytail Chub are predators and must be removed before future stocking. Endangered fish not recovered before rotenone treatment are considered "expendable" under the plan.
+- **Alternative B:** Release 12-inch hatchery fish directly into the river without an on-site pond.
+- **Alternative C (No Action):** Endangered fish would not be reintroduced, and the Refuge would remain without historically native fishes.
+- **Stated benefits:** Reintroduction would aid recovery and restore biodiversity on the Refuge and along the lower Colorado River.

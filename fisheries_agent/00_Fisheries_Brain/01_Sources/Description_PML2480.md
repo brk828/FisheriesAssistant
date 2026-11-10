@@ -1,11 +1,33 @@
 ---
-species: N/A
-common_name: N/A
-family: N/A
-habitat: N/A
+species:
+  - Lepomis macrochirus
+  - Lepomis cyanellus
+  - Lepomis microlophus
+  - Chaenobryttus gulosus
+  - Lepomis gibbosus
+  - Ambloplites rupestris
+  - Lepomis punctatus
+  - Lepomis megalotis
+  - Lepomis auritus
+common_name:
+  - Bluegill
+  - Green Sunfish
+  - Redear Sunfish
+  - Warmouth
+  - Pumpkinseed
+  - Rock Bass
+  - Spotted Sunfish
+  - Longear Sunfish
+  - Redbreast Sunfish
+family: Centrarchidae
+habitat: Freshwater (implied by the freshwater record listings; no habitat description given)
 ocean_basin: N/A
 location: N/A
-tags: [ichthyology, marine-biology, unidentified-document]
+tags:
+  - ichthyology
+  - marine-biology
+  - centrarchidae
+  - fish-identification
 title: "description"
 source_id: "PML2480"
 marsh_id: "PML2480"
@@ -13,27 +35,41 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "Unknown author (n.d.). description. Marsh Library ID: PML2480."
 source_file: "Sunfish Family ID Card - description.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Unreadable Scanned Document (OCR Failure)
+# description
 
-#ichthyology #marine-biology #unidentified-document
+#ichthyology #marine-biology #centrarchidae
 
 ## Executive Summary
 
-The source text is an OCR output of two pages that contains no legible words, sentences, numbers, or identifiable scientific content. It cannot be attributed to a specific species, habitat, region, or document type. No ecological, taxonomic, or management information can be extracted with confidence. The [[Optical Character Recognition]] output appears to be corrupted by scan artifacts, so the original page should be re-scanned or supplied as a clean text or PDF file.
+This is a one-page field identification card for nine members of the [[Sunfish Family]] (Centrarchidae). Each entry gives a scientific name, a set of diagnostic features (gill flap shape and colour, fin spine counts, body markings, mouth size) and, for five species, a freshwater angling record weight. The card is a printed guide (copyright 1974, Barcum House, Wheaton, Illinois) and contains no population, habitat, ecological or survey data.
 
 ## Background & Description
 
-The document consists of two page markers (Page 1 and Page 2). Page 1 contains a block of symbol-like character strings, fragmented letters, and punctuation (for example, sequences such as "lFt:l'^)", "rHE", and "utE'"). Page 2 contains only a single stray character. Neither page includes a title, author, date, institution, or recognizable body text. The original document type (research article, survey report, proposal, budget, or correspondence) cannot be determined from the text.
+The card covers the following species, with the diagnostic traits given in the source:
+
+- **[[Bluegill]] (*Lepomis macrochirus*)**, also called bream. Solid black gill flap, black blotch at the back of the dorsal fin, six to eight vertical bars on the sides. Freshwater record 4 lb 12 oz.
+- **[[Green Sunfish]] (*Lepomis cyanellus*)**. Three spines in the anal fin, black gill flap with a red tip, large mouth extending beyond the front of the eye. Freshwater record 2 lb.
+- **[[Redear Sunfish]] (*Lepomis microlophus*)**, also called shellcracker. Closely resembles the [[Pumpkinseed]] but lacks bluish bands on the head and has no spots on the dorsal fin. Freshwater record 4 lb 8 oz.
+- **[[Warmouth]] (*Chaenobryttus gulosus*)**. Resembles the [[Rock Bass]] but has only three anal fin spines, rows of small spots on the dorsal and anal fins, and irregular bars on the sides. Freshwater record 1 lb 13 oz.
+- **[[Pumpkinseed]] (*Lepomis gibbosus*)**. Bright red or orange tip on the black gill flap; bluish bands radiate backward from the snout and eye.
+- **[[Rock Bass]] (*Ambloplites rupestris*)**. Red eyes, five to eight anal fin spines, rows of spots forming lateral lines on the sides. Freshwater record 2 lb 2 oz.
+- **[[Spotted Sunfish]] (*Lepomis punctatus*)**. Short, stiff ear flap and even rows of spots on the sides.
+- **[[Longear Sunfish]] (*Lepomis megalotis*)**. Exceptionally long, flexible black gill flap with a light border; blue and reddish bands on the head.
+- **[[Redbreast Sunfish]] (*Lepomis auritus*)**. Long black gill flap without a border. Spawning males have reddish-orange breasts.
 
 ## Ecological & Environmental Context
 
-No habitat, water body, ocean basin, geographic location, species, or environmental condition is identifiable in the source. The text provides no information on water chemistry, habitat type, biological communities, or any other aquatic ecosystem factor.
+The document does not address habitat preferences, water chemistry, diet, distribution, reproduction timing or community ecology. The only environmental statement is that the freshwater angling records apply to these species, which places them in freshwater systems. Behavioural information is limited to the note that spawning redbreast sunfish show reddish-orange breasts.
+
+The identification features described (gill flap form and colour, fin spine counts, ear flap, eye colour, body banding) are the morphological characters used to separate these closely related [[Lepomis]] species and their relatives from one another in the field.
 
 ## Key Findings
 
-- No usable scientific or administrative content could be recovered from the document.
-- No species, sample sizes, measurements, statistics, or locations are present or recoverable.
-- The text is garbled by scanning or OCR errors and cannot be reliably corrected without the original source.
-- Recommended action: obtain a higher-quality scan or the native digital version of the document, then re-run extraction to produce a complete note.
+- The card lists **nine** sunfish species, eight of them in the genus *Lepomis* or closely related genera, with the rock bass and warmouth in separate genera.
+- Diagnostic characters are mostly external and relate to the gill flap (shape, border, colour), anal fin spine count, and body markings.
+- Several species are easily confused. The redear sunfish is distinguished from the pumpkinseed by the absence of bluish head bands and dorsal spots. The warmouth is separated from the rock bass by its three anal fin spines (the rock bass has five to eight) and its spot pattern.
+- Freshwater angling records are given for five species: Bluegill 4 lb 12 oz, Redear Sunfish 4 lb 8 oz, Rock Bass 2 lb 2 oz, Green Sunfish 2 lb, and Warmouth 1 lb 13 oz. No records are given for the Pumpkinseed, Spotted Sunfish, Longear Sunfish or Redbreast Sunfish.
+- The card is a field identification aid. It provides no quantitative survey data, sample sizes, or conservation or management content.

@@ -1,103 +1,127 @@
 ---
-species: ["Agosia chrysogaster", "Rhinichthys osculus", "Salmo gairdneri", "Pantosteus clarki"]
-common_name: ["Longfin Dace", "Speckled Dace", "Rainbow Trout", "Desert Sucker"]
-family: ["Cyprinidae", "Salmonidae", "Catostomidae"]
-habitat: Freshwater streams, with riffle and pool reaches, in central Arizona
+species:
+  - Gila intermedia
+  - Gila robusta
+  - Pantosteus clarki
+  - Salmo apache
+  - Salmo gairdneri
+  - Catostomus insignis
+  - Rhinichthys osculus
+  - Agosia chrysogaster
+  - Micropterus dolomieui
+  - Ictalurus natalis
+  - Ictalurus punctatus
+  - Pimephales promelas
+  - Notropis lutrensis
+  - Chaenobryttus cyanellus
+  - Cyprinus carpio
+common_name:
+  - Gila chub
+  - Roundtail chub
+  - Pantosteus sucker (common name not given in source)
+  - Apache trout
+  - Rainbow trout
+  - Sonora sucker
+  - Speckled dace
+  - Longfin dace
+  - Smallmouth bass
+  - Yellow bullhead
+  - Channel catfish
+  - Fathead minnow
+  - Red shiner
+  - Green sunfish
+  - Common carp
+family:
+  - Cyprinidae
+  - Catostomidae
+  - Salmonidae
+  - Ictaluridae
+  - Centrarchidae
+habitat: Freshwater streams and tributaries (riffle and pool reaches, instream macrophytes)
 ocean_basin: N/A
-location: Arizona (Region II; Verde River and Agua Fria drainages; Maricopa, Yavapai and Coconino Counties)
-tags: [stream-habitat-survey, arizona-game-and-fish, electrofishing, fish-population-inventory, verde-river, methods, 1979]
+location: Arizona; Yavapai, Coconino, Gila, and Maricopa counties (Verde, Colorado, Gila and Agua Fria drainages)
+tags:
+  - ichthyology
+  - marine-biology
+  - Cyprinidae
+  - Salmonidae
+  - stream-habitat-survey
 title: "Region II stream habitat survey methods and materials"
 source_id: "15919"
 minckley_id: "15919"
 source_citation: "R. W. Clarkson (1979). Region II stream habitat survey methods and materials. Arizona Game and Fish Department. Minckley Library ID: 15919."
 source_file: "15919.pdf"
-text_extraction: "ocr"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Arizona Game & Fish Department Region II Stream Habitat Survey: Methods and 1979 Field Sheets
+# Region II stream habitat survey methods and materials
 
-#ichthyology #marine-biology #Cyprinidae #Catostomidae #Salmonidae
+#ichthyology #marine-biology #Cyprinidae #Salmonidae #Catostomidae #Ictaluridae #Centrarchidae
 
 ## Executive Summary
-This document describes the standardized stream habitat survey used by the [[Arizona Game and Fish Department]] in Region II. It also contains scanned 1979 field data sheets from several central Arizona streams. The method combines three kinds of measurement:
-- Physico-chemical habitat: channel geometry, pool quality, substrate, gradient, velocity and water chemistry.
-- Fish standing-crop estimates from [[Electrofishing]] on fixed transects.
-- Biological habitat: benthic invertebrates and vegetation.
 
-Most of the data sheets are badly garbled OCR and cannot be read reliably. The methods text is largely intact and is the main usable content. Only the sheet headers (stream, drainage, county, elevation, date, crew, temperature) and a few species names can be recovered.
+This document is a methods manual and set of 1979 field data sheets from the [[Arizona Game And Fish Department]] Region II Stream Habitat Survey. It defines a standard protocol for measuring stream physical habitat, water chemistry, fish populations, benthic invertebrates and vegetation, then applies that protocol to roughly two dozen stream reaches in central and northern Arizona, sampled between roughly February and December 1979. Fish were collected by [[Electrofishing]] and converted to standing-crop estimates (numbers and weight per unit length and area). Benthic invertebrates were collected with a [[Surber Sampler]] and identified mainly to family. The scanned sheets are partly illegible, so many chemistry values and some totals cannot be recovered reliably; the note reports only what is legible.
 
 ## Background & Description
-The survey divides streams into sections using known habitat variation. Each stream or tributary gets at least one transect, and major streams may get several. Starting points are chosen on topographic maps of at least 15-minute, preferably 7.5-minute, series, based on known stream characteristics and access.
 
-**Transect layout**
-- To avoid bias, the actual start is set 100 ft upstream of the point first identified on the ground.
-- The second transect is 132 ft above the first, and the third is 132 ft above the second.
-- The endpoint is 132 ft upstream of the third transect.
-- Occasionally 164 ft (50 m) intervals are used and noted on the data sheets.
+The survey was organized around transects. Each stream reach was divided into sections of known habitat variation, using 7.5-minute (preferred) or 15-minute topographic maps to pick starting points. Transects were normally spaced 132 ft apart (occasionally 164 ft, or 50 m), and each reach included at least three transects in the data sheets.
 
-**Physical measurements** (taken perpendicular to flow at each transect)
-- Number of channels.
-- Total width to the nearest foot.
-- Riffle width (non-laminar flow) and pool width (laminar or nearly laminar flow).
-- Percent riffle and percent pool in the reach.
-- Depth to the nearest inch at 1/4, 1/2 and 3/4 of the channel width, plus their average.
-- Bottom material, as percent of each class:
-  - Boulder: over 12 in.
-  - Rubble: 3 to 11.9 in.
-  - Gravel: 0.1 to 2.9 in.
-  - Silt-sand: under 0.1 in.
-  - Bedrock.
-- Bank stability: each bank is rated stable (usually bedrock) or unstable (loose rock, dirt), and the count of stable or unstable banks is recorded as 0, 1 or 2.
-- Average gradient, from two hand-level readings at 100 ft upstream and downstream, in ft/100 ft or percent.
-- Current velocity by the "float a chip" method, in ft/s.
-- Channel cross-section, graphed at the first transect and combined with velocity to estimate discharge where no USGS gage exists.
+**Physical habitat measurements** included:
+- Number of channels, total width, riffle width and pool width
+- Percent riffle and percent pool in each reach
+- Channel depth at 1/4, 1/2 and 3/4 of channel width, with the average recorded
+- Bottom material classes: boulder (over 12 in), rubble (3 to 11.9 in), gravel (0.1 to 2.9 in), silt-sand (under 0.1 in) and bedrock
+- Bank stability (stable or unstable, scored 0 to 2)
+- Average gradient (ft/100 ft or percent)
+- Current velocity by the float-a-chip method
+- Channel cross section, which with velocity gives discharge where no USGS gage exists
 
-**Pool quality rating.** Four parameters of the pool intersecting a transect are scored and summed:
-- Length, width and depth are each scored 0 to 3. Length and width are relative to average channel width (a.c.w.). Depth is scored against fractions of a.c.w.
-- Cover is scored 0, 2, 4 or 6. It is a subjective parameter weighted more heavily because of its assumed importance for fish distribution.
-- Final ratings: 12–15 excellent, 8–11 good, 4–7 fair, 0–3 poor.
+**Pool quality** was scored on four parameters (length, width, depth and cover), each rated 0 to 3, with cover weighted most heavily (0 to 6). Totals were rated excellent (12–15), good (8–11), fair (4–7) or poor (0–3). See [[Pool Quality Rating]].
 
-**Chemistry.** A Hach Water Ecology Kit Model AL-36B is used to measure CO₂ (mg/l), hardness (gpg), dissolved oxygen (mg/l), pH, free acidity, total acidity and alkalinity (gpg). Time of day and water temperature (°F) are also recorded.
+**Water chemistry** was measured with a Hach Water Ecology Kit (Model AL-36B). Parameters were CO₂ (mg/l), hardness (gpg), dissolved oxygen (mg/l), pH, free and total acidity (gpg), alkalinity (gpg), together with water temperature (°F) and time of day.
+
+**Fish inventory** used electrofishing with a 115 V AC battery backpack shocker or a 120 V gasoline generator unit. Fish were sorted, counted and weighed to the nearest 1/16 lb, and minimum, maximum and average lengths were recorded (to the nearest 1/2 in). Each species received a subjective capture-effectiveness percentage. Larger fish were usually given higher effectiveness ratings because of sampling bias. The factor 100/effectiveness scales raw counts: for example, 90% effectiveness gives a multiplier of 1.11111. Estimates were averaged across the three transects.
+
+**Vegetation** was assessed as floodplain cover (forest, brush and open, each estimated across roughly 200 ft squares) and as the percent of stream volume occupied by macrophytes, identified to species.
 
 ## Ecological & Environmental Context
-**Fish inventory**
-- The same transect format is used to estimate fish standing crop. All or part of each transect is electrofished.
-- Two shockers are used:
-  - A 115 V A.C. battery backpack unit, which requires a worker downstream to pick up fish.
-  - A 120 V gasoline-generator unit with net-fitted electrodes, which needs only one collector.
-- Operators usually work upstream. In swift, obstruction-free water, fish are occasionally shocked downstream into a blocking net or seine.
-- After shocking, a subjective percent effectiveness is estimated for each species. Larger species usually get higher ratings than smaller ones because of sampling bias.
-- Fish are sorted to species, counted, and weighed to the nearest 1/16 lb on a Chatillon 10-lb platform scale. Maximum and minimum lengths (to the nearest 1/2 in.) and an average size are recorded for each species.
 
-**Benthic invertebrates**
-- Samples are taken with a [[Surber Sampler]] at each transect (area given as 132 or 228 in.²).
-- Identification is to family, and to genus where practical.
-- Quantities are estimated by wet weight.
+The surveyed streams span steep, high-elevation reaches to low desert washes. Elevations range from about 2020 ft (Sycamore Creek, Maricopa County) to 7740 ft (North Canyon Creek, Coconino County). Water temperatures recorded on the sheets range from 42°F (North Canyon Creek, December) to 74°F (Lime Creek and Fossil Creek, September). Current velocities recorded at the first transect run from about 0.2 to 2.5 ft/sec. Macrophyte cover is generally below 1% of stream volume, with watercress (*Nasturtium*), *Chara*, *Ranunculus* and *Potamogeton* the most frequently named species. Floodplain cover is recorded as forest, brush or open categories, and the instream habitat types are riffle and pool.
 
-**Vegetation**
-- Floodplain cover is estimated within roughly 200 ft square at each transect, in three classes:
-  - Forest: woody trees and shrubs.
-  - Brush: herbaceous and semi-herbaceous shrubs and grasses.
-  - Open: bare ground or sparse annual grasses.
-- Aquatic vegetation is estimated as percent of stream volume holding macrophytes. It is identified to species, and only instream plants are counted.
-
-**Sites recoverable from sheet headers** (all dated 1979)
-
-| Stream | Drainage / County | Elevation | Date | Notes |
-|---|---|---|---|---|
-| Seven Springs Wash | Agua Fria / Maricopa | 3390 ft | 27 Sep | Crew Clarkson; water 65 °F; *Agosia chrysogaster* |
-| Lime Creek | Verde River / Maricopa | 2075 ft | 26 Sep | Crew Clarkson, Benda; water 74 °F; *Agosia chrysogaster* and *Pantosteus clarki* |
-| Tangle Creek | Verde River / Yavapai | 2800 ft | 29 Nov | Crew Clarkson-Young; water 48 °F |
-| Houston Creek | Verde River / Yavapai | 3360 ft | 17 Nov | Crew Clarkson-Grayson; water 45 °F; *Agosia chrysogaster* |
-| Oak Creek | Verde River / Coconino | 5590 ft | 18 Sep | *Rhinichthys osculus* and *gairdneri*, apparently *Salmo gairdneri*; one transect "data not taken" |
-| Red Creek | Verde River / Yavapai | Not legible | Not legible | Crew Clarkson-Young |
-
-Other sheets from the [[Verde River]] system have unreadable headers. They carry station dates in late September to early November 1979 and elevations between about 2,000 and 4,000 ft.
+The fish assemblages mix native and introduced species. Native or regionally native taxa include [[Gila Chub]], [[Roundtail Chub]], [[Apache Trout]] (only at North Canyon Creek), [[Speckled Dace]], [[Longfin Dace]] and the sucker *Pantosteus clarki*. Introduced or non-native taxa include [[Rainbow Trout]], [[Smallmouth Bass]], [[Channel Catfish]], [[Common Carp]], [[Green Sunfish]], [[Fathead Minnow]], [[Red Shiner]] and [[Yellow Bullhead]]. The benthic invertebrate samples include mayflies (Ephemeroptera), caddisflies (Trichoptera), stoneflies (Plecoptera), true flies (Diptera), dragonfly and damselfly nymphs, snails (Gastropoda), crustaceans (Ostracoda) and flatworms (Turbellaria). Specific invertebrate names are given on the sheets for several reaches, for example *Hyponeura fugens* and tricorythid nymphs, and Capniidae stoneflies.
 
 ## Key Findings
-- The protocol standardizes sampling on three transects of 132 ft (occasionally 164 ft), plus an endpoint, so that habitat and fish data are comparable across streams.
-- Fish density and biomass are corrected for imperfect capture. Observed counts and weights are multiplied by 100 divided by the percent effectiveness. For example, 90% effectiveness gives a factor of 1.11111.
-- Each transect is computed separately for numbers and weight per length and per area, to show variation among transects. The mean of the three is the final estimate for each species, and the average width of the three transects is used for areal computations.
-- The pool rating weights cover most heavily (0–6 points, versus 0–3 for each geometric parameter), reflecting the assumption that cover mainly controls fish distribution. The maximum total is 15.
-- The legible 1979 headers show a warm-water native assemblage at low and mid elevations, led by [[Longfin Dace]] (*Agosia chrysogaster*). They also show [[Desert Sucker]] (*Pantosteus clarki*) at Lime Creek. Higher-elevation [[Oak Creek]] has [[Speckled Dace]] (*Rhinichthys osculus*) and [[Rainbow Trout]] (*Salmo gairdneri*).
-- Recorded water temperatures ranged from 45 °F (Houston Creek, November) to 74 °F (Lime Creek, September), consistent with elevation and season.
-- The quantitative columns (number per mile, lb per mile, No./sq. yd, lb/sq. yd, lengths, water chemistry and substrate percentages) are illegible in the scans. No site-level abundance, biomass or chemistry values can be reported without risking fabrication.
+
+**Survey scope and reach list (from the data sheets):**
+
+- **Spring Creek (Oak Creek drainage, Yavapai Co.)**, 3560 ft, 25 Aug 1979: fish inventory with *Gila intermedia* and *Pantosteus clarki*. Surber sampling on 6 Sep 1979 (228 sq in sample area) at three transects.
+- **North Canyon Creek (Colorado drainage, Coconino Co.)**, 7740 ft, 19 Oct 1979, 42°F: *Salmo apache* is the main reported species.
+- **Webber Creek (East Verde River, Gila Co.)**, 4610 ft, 20 Sep 1979, 67°F: *Gila robusta*, *Pantosteus clarki* and *Rhinichthys osculus*. Macrophytes were *Chara* sp. and others.
+- **Rye Creek (Tonto Creek, Gila Co.)**, 2720 ft, 14 Oct 1979, 70°F: the most species-rich listing, with *Agosia chrysogaster*, *Pantosteus clarki*, *Catostomus insignis*, *Ictalurus natalis*, *Gila intermedia*, *Pimephales promelas*, *Notropis lutrensis* and *Rhinichthys osculus*.
+- **Seven Springs Wash (Agua Fria River, Maricopa Co.)**, 3390 ft, 27 Sep 1979, 65°F: *Agosia chrysogaster* only, with Chara and watercress.
+- **Sycamore Creek (Agua Fria River, Yavapai Co.)**, 3960 ft, 26 Oct 1979, 62°F: *Gila intermedia*, *Pantosteus clarki*, *Agosia chrysogaster* and *Rhinichthys osculus*.
+- **Little Ash Creek (Agua Fria River, Yavapai Co.)**, 3680 ft, 6 Dec 1979, 43°F: *Pantosteus clarki* and *Rhinichthys osculus*.
+- **Tangle Creek (Verde River, Yavapai Co.)**, 2800 ft, 29 Nov 1979, 48°F.
+- **Oak Creek (Verde River, Coconino Co.)**, 5590 ft, 18 Sep 1979, 58°F: *Salmo gairdneri* and *Rhinichthys osculus*.
+- **Oak Creek (Verde River, Yavapai Co.)**, 3670 ft, 11 Oct 1979, 69°F: *Gila robusta*, *Ictalurus natalis*, *Ictalurus punctatus*, *Rhinichthys osculus*, *Chaenobryttus cyanellus*, *Catostomus insignis* and *Micropterus dolomieui*.
+- **Sycamore Creek (Verde River, Maricopa Co.)**, 2020 ft, 3 Nov 1979, 68°F: dominated by *Agosia chrysogaster* with *Pimephales promelas* and *Pantosteus clarki*.
+- **Camp Creek (Verde River, Maricopa Co.)**, 3360 ft, 13 Sep 1979: *Agosia chrysogaster* and *Rhinichthys osculus*.
+- **Red Creek (Verde River, Yavapai Co.)**, 2540 ft, 29 Nov 1979, 47°F.
+- **Houston Creek (Verde River, Yavapai Co.)**, 3360 ft, 17 Nov 1979, 45°F: *Agosia chrysogaster*.
+- **Lime Creek (Verde River, Maricopa Co.)**, 2075 ft, 26 Sep 1979, 74°F.
+- **East Verde River (Verde River, Gila Co.)**, 4570 ft, 19 Sep 1979, 64°F, with *Potamogeton* sp. as the dominant macrophyte.
+- **Fossil Creek (Verde River, Gila–Yavapai line)**, 3360 ft, 29 Sep 1979, 74°F: *Chaenobryttus cyanellus*, *Catostomus insignis*, *Agosia chrysogaster* and *Pantosteus clarki*.
+- **Wet Beaver Creek (Verde River, Yavapai Co.)**, 3840 ft, 9 Sep 1979: *Pantosteus clarki*.
+- **Sycamore Creek (Yavapai Co.)**, 3625 ft, 15 Dec 1979: *Pantosteus clarki*, *Catostomus insignis*, *Gila robusta*, *Micropterus dolomieui* and *Cyprinus carpio*.
+
+**Quantitative results:** Standing-crop estimates were recorded as no./mile, lb/mile, no./sq yd and lb/sq yd per species. Several totals are legible; for example, Sycamore Creek (Verde, 2020 ft) reports a summary of about 42,768 fish/mile and 115.5 lb/mile for all species at the 50 ft transects. Many other totals are garbled in the scan and should be verified against the originals.
+
+**Water chemistry:** Most CO₂, hardness, dissolved oxygen, pH and alkalinity values are illegible or missing from the scans. Temperature and time of sampling are legible for most reaches.
+
+**Methodological notes:**
+- Fish effectiveness adjustments are subjective and biased toward larger fish.
+- Transect lengths vary (50 ft, 132 ft or 164 ft), so per-length values are not strictly comparable across reaches.
+- The Surber sampler area is given as 132 or 228 sq in, and invertebrate identification is only to family or genus where practical.
+- Quantitative invertebrate estimates use wet weight.
+
+**Overall conclusion:** The document is a survey protocol and raw data archive rather than a research paper. It documents a consistent method for comparing stream habitat quality and fish standing crops across Region II in 1979, and it records a mix of native and non-native fish in the Verde, Gila, Agua Fria and Colorado drainages.

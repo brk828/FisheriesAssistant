@@ -1,11 +1,26 @@
 ---
-species: "Ptychocheilus lucius; Ictalurus punctatus (OCR-uncertain)"
-common_name: "Colorado Squawfish; Channel Catfish; larval fishes (unspecified)"
-family: "Cyprinidae; Ictaluridae"
-habitat: "Freshwater rivers, reservoirs, larval drift and concrete-lined canals"
-ocean_basin: "N/A"
-location: "Lower Mississippi River and Atchafalaya River, Louisiana; Colorado River Basin; Apache Lake, Arizona (OCR-uncertain)"
-tags: [ichthyology, freshwater-fish, larval-fish, colorado-squawfish, larval-ecology, notes]
+species:
+  - Dorosoma petenense
+  - Ptychocheilus lucius
+  - Ictalurus punctatus
+  - Leptodora kindtii
+  - Echinocereus triglochidiatus
+common_name:
+  - Threadfin Shad
+  - Colorado Squawfish
+  - Channel Catfish
+  - Leptodora (cladoceran)
+  - Hedgehog cactus
+family:
+  - Clupeidae
+  - Cyprinidae
+  - Ictaluridae
+  - Leptodoridae
+  - Cactaceae
+habitat: Freshwater canals, reservoirs, rivers and river backwaters; Chihuahuan Desert scrub
+ocean_basin: N/A
+location: Southwestern USA (Arizona, California, Colorado River basin, Texas), southern Louisiana (Mississippi and Atchafalaya Rivers)
+tags: [ichthyology, marine-biology, clupeidae, cyprinidae, ictaluridae, freshwater-ecology, spinal-deformity, invasive-species, zooplankton]
 title: "An unusually high incidence of spinal deformity among threadfin shad"
 source_id: "PML1529"
 marsh_id: "PML1529"
@@ -13,50 +28,64 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "P. C. Marsh (1983). An unusually high incidence of spinal deformity among threadfin shad. vol. 28, no. 1 (February 1983), journal name not legible in OCR. Marsh Library ID: PML1529."
 source_file: "Marsh P.C. et al. 1983. An unusually high incidence of spinal defomity among threadfin shad.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Freshwater Fish Notes: Larval Collections, Squawfish Predation and Canal Data
+# An unusually high incidence of spinal deformity among threadfin shad
 
-#ichthyology #marine-biology #cyprinidae
+#ichthyology #marine-biology #clupeidae #cyprinidae #ictaluridae
 
 ## Executive Summary
 
-This document is a multi-part "Notes" section from a fish-biology journal issue (volume 28, number 1, February 1983, per the OCR header). The scan is heavily degraded, so many words, numbers and species names cannot be read with confidence. The legible material covers three topics: (1) larval fish collections from the [[Mississippi River]] and [[Atchafalaya River]] in Louisiana, (2) predation and decline concerns for the [[Colorado Squawfish]] in the [[Colorado River Basin]], and (3) a regression table of fish data from [[Concrete-Lined Canals]]. Figures, sample sizes and statistics are reproduced only where the OCR is clear enough to trust.
+This journal section gathers four short research notes. Three concern aquatic organisms: a high incidence of spinal deformity in [[Threadfin Shad]] from concrete-lined canals in Arizona and California; the southward spread of the predatory cladoceran [[Leptodora Kindtii]] into southern Louisiana; and a [[Colorado Squawfish]] found with a lodged [[Channel Catfish]] in its throat. The fourth note, on a [[Hedgehog Cactus]] population decline in the Chihuahuan Desert, is terrestrial and only briefly summarised. The most substantial fish data are the deformity frequencies and condition comparisons in shad. The note on squawfish is a single documented case of possible predation-related mortality.
 
 ## Background & Description
 
-- **Document type:** Short scientific notes in a fisheries journal, with a running header and page numbers 1 to 3.
-- **Sampling context:** Early-life-stage (larval) fishes were sampled with coarse-mesh plankton nets in the Mississippi River and Atchafalaya Basin. The notes mention sampling at a site near St. Francisville, Louisiana, and collections in the Atchafalaya River basin in March 1973 and 1974.
-- **Taxa named (partly legible):** Colorado Squawfish (*Ptychocheilus lucius*), Channel Catfish (*Ictalurus punctatus*), and several larval and juvenile fishes that the OCR does not allow to be identified reliably.
-- **Methods referenced:** Plankton-net sampling, length measurement (total length in mm), weighing, and regression analysis of body measurements. A regression table is included, but its column headers are unreadable.
+**Threadfin Shad** (*Dorosoma petenense*, Clupeidae) inhabit most warmwater habitats in the southern USA. They have spread since their introduction in the 1950s. Spinal deformities had not previously been reported in the species, although they occur in other clupeids. Wild-population frequencies are generally a few percent or less.
+
+**Colorado Squawfish** (*Ptychocheilus lucius*, Cyprinidae) is a large, endemic fish of the [[Colorado River Basin]]. It was historically widespread in the mainstem and its tributaries, but habitat modification has caused its decline. It was listed as endangered by the [[U.S. Fish and Wildlife Service]] in 1974.
+
+**Leptodora kindtii** is a large predatory cladoceran (Crustacea: Cladocera). It is a significant zooplankton predator, so its distribution may affect other plankton communities.
+
+**Hedgehog Cactus** (*Echinocereus triglochidiatus*) is a desert succulent studied in the [[Chihuahuan Desert]] at sites including [[White Sands]] and the Organ Mountains area. It is not an aquatic organism.
 
 ## Ecological & Environmental Context
 
-**Larval fish in the lower Mississippi and Atchafalaya systems**
-- Larval fishes were reported in the lower Mississippi and Atchafalaya, with sampling described as starting in early spring and reaching high abundance in early summer.
-- The notes state that a species was "always present" in some samples and that reproduction appeared to continue into early autumn.
-- Larval lengths were reported as roughly 2 to 10 mm total length for some specimens. Catches were reported as numbers per 100 m³ for several years (e.g., 1972 through 1977), but the values are not reliable in the scan.
-- Earlier surveys, cited to the 1970s, are described as sampling larger fishes with different gear.
+**Shad deformity sites.** Concrete-lined canals (Coachella and South/Tempe canals) were compared with earthen canals and reservoirs. Concrete-lined canals are fed by confluent waters and are not sustained by natural impoundments. Earthen canal and reservoir samples were drawn from the Coachella Canal (earthen section), the Eastern Canal, and [[Apache Lake]].
 
-**Colorado Squawfish and predation**
-- The notes discuss the decline of the Colorado Squawfish. Cited concerns include:
-  - Predation by introduced or established Channel Catfish, which are described as having eaten Colorado Squawfish in the Colorado River Basin.
-  - Possible starvation as a contributing factor.
-  - Reference to a U.S. Fish and Wildlife Service listing in the Federal Register (1974).
-- A passage refers to a squawfish of about 620 mm length found in a catfish's stomach in a specific observation. The reading is uncertain.
-- The notes suggest that predation by catfish is probably a limited factor, because the catfish that were examined were few and did not regularly consume squawfish.
+**Leptodora distribution.** Records come from the lower Mississippi River and the Atchafalaya River, a Mississippi distributary. The authors suggest that the species is spreading southward, possibly as a result of reservoir proliferation. Sampling used coarse-mesh conical nets, which catch larger, strong-swimming zooplankters that fine-meshed bottle samples miss.
 
-**Concrete-lined canals and regression data**
-- A regression table lists fish data for "Concrete-lined Canals." Several entries include values such as 0.965 for r and "<0.01" for a significance level, but the rest of the table cannot be recovered.
-- The table also lists regional entries such as "Eastern" and "Apache Lake," with percentages and counts that are unreliable in the OCR.
+**Colorado squawfish.** The Colorado River Basin has been heavily studied by universities, consultants and state and federal agencies. Ingestion of introduced channel catfish is one suggested factor in the species' decline.
+
+**Hedgehog cactus.** All three sites had been heavily grazed and the White Sands and Organ Mountains sites contain remains of former ranch facilities. Population structure was interpreted as possibly reflecting climatic change or a general ecosystem process, but the authors could not confirm this without accurate plant ages.
 
 ## Key Findings
 
-1. **Larval fish sampling in the lower Mississippi and Atchafalaya** documented larval fishes over several years, with the earliest recorded collections in spring. These samples show that reproduction and larval drift were ongoing in the region.
-2. **Colorado Squawfish decline** is linked in part to predation or competition by Channel Catfish in the Colorado River Basin, although the author(s) suggest that the effect may be limited. Starvation is also raised as a possible cause.
-3. **Federal listing context:** The notes cite the U.S. Fish and Wildlife Service's Federal Register action on the Colorado Squawfish (1974) as a reason for conservation attention.
-4. **Canal and regression data** provide a statistical comparison, but the only clearly legible result is an r of 0.965 with p < 0.01. The table's other results cannot be confirmed.
+### Spinal deformity in Threadfin Shad
+- Collections were made by hand, dip net and seine in three concrete-lined canals in October–November 1981 (Coachella Canal, Imperial Co., California; South and Tempe canals, Maricopa Co., Arizona).
+- Specimens were fixed in 10% formalin and stored in 70% ethanol. Radiographs were taken at 30 kV for vertebral examination.
+- Spinal deformity was evident in **26.7%** of shad from the South Canal and **10.7%** from the Coachella Canal. The Tempe canal value is garbled in the scan and is not reported here.
+- Deformed individuals were mostly fish with severe lordosis (dorsoventral curvature) or mild to relatively severe lateral curvature.
+- Earthen-canal and reservoir populations showed lower rates. Deformed fish were present in the Coachella earthen canal (13 deformed) and at Apache Lake, but the Eastern Canal recorded none among the examined fish.
+- Condition factor (K) and length–weight relationships did not differ significantly between normal and deformed fish within populations. The authors state that differences among populations could not be attributed to incidence of deformity alone.
+- For comparison, the authors note that deformity frequencies in wild fishes are typically below 1.0%, and that frequencies above 70% occur in hatchery stocks, where the anomalies usually originate during early embryonic development.
 
-## Data Quality Note
+### Southward spread of *Leptodora kindtii*
+- The earliest Louisiana record is from the lower Mississippi near St. Francisville, dated 6 June 1973.
+- A March 1974 specimen came from the Atchafalaya River near Bayou Chene, about 300 km south of Lake Texoma, the southernmost previously published record.
+- Mean annual numbers per 100 m³ at one Mississippi River station (OCR-uncertain years) were: 1973 (3.3), 1974 (1.4), 1975 (0.9), 1976 (12.6), 1977 (0.2). The 1976 peak is the highest.
+- Specimens have been taken from March to November, with peak abundance in June and July. Early summer collections (1973–77) ranged from about 30 to 100 individuals per 100 m³.
+- Specimens of 2–10 mm total length suggest local reproduction, with the smallest specimens (<3 mm) appearing in summer and early autumn.
 
-The source is an OCR scan with very high noise. Taxonomic names, locations, years, sample counts and statistics were checked against legible fragments only. Any figure not clearly readable has been omitted rather than guessed. Verify all values against the original journal before citing.
+### Colorado Squawfish with lodged Channel Catfish
+- In December 1974, an adult Colorado squawfish was collected by trammel net at Sand Wash on the Green River, 318 km upstream from its mouth.
+- A channel catfish was lodged in its esophagus, with the pectoral fins locked against the throat. The catfish was entirely within the squawfish's mouth and was not caught in the net, so the authors judged it unlikely that the catfish had been caught before ingestion.
+- Undocumented reports of similar cases exist, and the authors suggest that the squawfish may have been feeding on the catfish, which was introduced to the basin.
+
+### Chihuahuan Desert cactus
+- The population decline is interpreted as possibly linked to climatic change or ecosystem processes, but this remains unconfirmed.
+- The authors call for better correlation between plant ages and population structure before the changes can be explained.
+
+## Related Concepts
+
+[[Clupeidae]] · [[Cyprinidae]] · [[Ictaluridae]] · [[Threadfin Shad]] · [[Colorado Squawfish]] · [[Channel Catfish]] · [[Leptodora Kindtii]] · [[Spinal Deformity]] · [[Lordosis]] · [[Hatchery Stock]] · [[Colorado River Basin]] · [[Atchafalaya River]] · [[Mississippi River]] · [[Coachella Canal]] · [[Apache Lake]] · [[Zooplankton Sampling]] · [[Endangered Species Act]] · [[Introduced Species]] · [[Chihuahuan Desert]]

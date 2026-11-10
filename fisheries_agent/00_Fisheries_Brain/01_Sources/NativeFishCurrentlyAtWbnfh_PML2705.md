@@ -1,11 +1,26 @@
 ---
-species: N/A
-common_name: Native fish (unspecified)
-family: N/A
-habitat: Hatchery raceways and holding facilities (freshwater, inferred)
+species:
+  - Xyrauchen texanus
+  - Gila elegans
+common_name:
+  - Razorback Sucker
+  - Bonytail Chub
+family:
+  - Catostomidae
+  - Cyprinidae
+habitat: Freshwater; hatchery holding systems (aquaria, fry tanks, raceways) and Colorado River system waters (Lake Mohave, Grand Canyon)
 ocean_basin: N/A
-location: N/A
-tags: [ichthyology, aquaculture, native-fish, hatchery]
+location: Willow Beach National Fish Hatchery, Arizona; Lake Mead Complex; Lake Mohave; Grand Canyon
+tags:
+  - ichthyology
+  - marine-biology
+  - catostomidae
+  - cyprinidae
+  - razorback-sucker
+  - bonytail-chub
+  - hatchery-propagation
+  - endangered-species
+  - colorado-river
 title: "Native fish currently at WBNFH"
 source_id: "PML2705"
 marsh_id: "PML2705"
@@ -13,34 +28,46 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "U.S. Fish and Wildlife Service (1995). Native fish currently at WBNFH. U.S. Fish and Wildlife Service. Marsh Library ID: PML2705."
 source_file: "USFWS. 1995. Native fish currently at WBNFH.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Native Fish Hatchery Operations Fax (1995)
+# Native fish currently at WBNFH
 
-#ichthyology #aquaculture #native-fish
+#ichthyology #marine-biology #catostomidae #cyprinidae
 
 ## Executive Summary
 
-This is a heavily degraded 1995 facsimile transmission, with OCR corruption throughout, concerning the operations of a [[Native Fish Hatchery]]. It reports on the holding of [[Fingerlings]] and fry, the receipt and incubation of [[Broodstock]] eggs, disease status, and plans for a new [[Raceway Culture]] production system supplied by heated, recirculated water. Species names, several figures and the sender and recipient identities are unreadable, so the content below is reconstructed with uncertainty noted.
+This internal memo from the [[Willow Beach National Fish Hatchery]] manager to the [[Recovery Coordinator]] (George Divine) inventories the [[Razorback Sucker]] and [[Bonytail Chub]] held at the station ahead of a Native Fish Work Group meeting. The memo is dated June 13, 1985, although the fax header reads 1995. It reports large but partly estimated razorback sucker stocks, several breeding lines, cryopreserved material, and a smaller bonytail chub population, along with plans for expanded solar-heated recirculating raceways.
 
 ## Background & Description
 
-- **Document type:** Fax correspondence, dated 1995, with sender and recipient header fields largely illegible.
-- **Subject:** Status report on native fish rearing, egg and fry handling, and hatchery expansion.
-- **Format:** Two pages of numbered status items and a short narrative on facility planning. Header and routing text is corrupted beyond reliable recovery.
+- **Razorback Sucker (*Xyrauchen texanus*):** Held as fingerlings, crosses, cryopreserved progeny, wild-collected larvae, and eggs.
+- **Bonytail Chub (*Gila elegans*):** Held as fingerlings and as a small group of adults.
+- **Source stocks:** Fish originated from [[Dexter National Fish Hatchery]], [[Valley City National Fish Hatchery]], [[Lake Mohave]] wild larvae, and eggs supplied by [[Chuck Minckley]].
+- **Context:** The memo states the station is contributing to a hatchery program for both species, with the stated goal of producing fish for augmentation in native habitats. It also notes the program was just beginning in the [[Grand Canyon]].
 
 ## Ecological & Environmental Context
 
-- **Stock management:** The hatchery was holding several lots of juvenile fish. Reported counts are partly garbled. One lot was described as roughly 35,000 fingerlings, and an estimated 9,300 fry were noted as well. Both figures should be verified against the original.
-- **Source lots:** Three lots of fingerlings were reported as transferred from another facility, described as "[[Native Fish Stocking]]" material.
-- **Egg supply:** Eggs were received from broodstock in four batches. The sender reported that the eggs showed no disease.
-- **Disease status:** Fish health was described as good, with no disease reported in the batches received.
-- **Water and facilities:** The planned system uses heated water, with a reported target of about 100 degrees, and recirculation of up to about 65 units of flow (OCR-uncertain; likely gallons per minute). Discharge is to be treated or reused in a [[Water Recirculation]] loop. A fish-production system using raceways is described as part of a larger project, with the intent that the output supports native fish restoration.
+- **Holding systems:** About 27-gallon aquaria supplied with air from a blower and heated, sterile water; one indoor experimental [[Recirculating Aquaculture System]] with automatic feeders; and a steel fry tank with air and heated flow-through water.
+- **Planned upgrades:** Solar-heated water for four raceways (dimensions written as "8 x 100," likely feet), with UV sterilization, recirculation using up to 40 gpm make-up water, and a biological filter. The [[Bureau of Reclamation]] was in final planning of a separate solar raceway project: two raceways for fish production and two for heating and storing water.
+- **Disease:** One razorback sucker egg lot was lost to *Costia* (a protozoan parasite), and one lot did not hatch.
+- **Feeding:** Adult bonytail chub were taking trout pellets, and several trout were used as feeding trainers.
 
 ## Key Findings
 
-1. **Stock holdings:** The hatchery holds multiple lots of fingerlings and fry. The largest single count is roughly 35,000 (uncertain).
-2. **Egg receipt and incubation:** Broodstock eggs arrived in four batches and were incubated with no disease reported.
-3. **Facility expansion:** A [[Raceway Culture]] production project is planned, relying on heated, recirculated water.
-4. **Production goal:** Output from the raceways is intended for native fish production and restoration. The text suggests that the stock is destined for native habitats, with [[Fish Disease Management]] and water quality highlighted as priorities.
-5. **Data reliability:** Many species names, counts and units are corrupted by the OCR process. Any figure cited here should be checked against the original fax before use.
+**Razorback Sucker**
+
+1. **Fingerlings:** An estimate of approximately 35,000 fingerlings, 10–30 cm long, is given. The figure appears garbled in the scan ("35–35,000"), and the memo states it is a "ballpark estimate" with no inventory done.
+2. **Crosses:** Fourteen lots of single-male by single-female crosses were held, to be sent to [[Northeast Fishery Center]] when facilities allowed.
+3. **Cryopreserved stock:** One lot of "cryobabies" was produced from frozen sperm, some of it one year old. See [[Cryopreservation]].
+4. **Wild larvae:** Three lots were collected as larvae from Lake Mohave by the [[Native Fish Work Group]]. Of 16,800 fish brought to the station, about 9,300 remained and were healthy.
+5. **Egg-derived stock:** Several thousand fish hatched from eggs supplied by Chuck Minckley in four batches. Two lots were lost, one to disease and one that failed to hatch.
+
+**Bonytail Chub**
+
+1. **Fingerlings:** About 1,500–2,000 fingerlings are on feed and doing well. All are hatchery-produced from Dexter National Fish Hatchery, some via Valley City. The size range is garbled in the scan. The memo asks to keep some or all of them for grow-out, which both the Work Group and Minckley had expressed interest in.
+2. **Adults:** Five to eight adult bonytail chub are taking trout pellets. The exact total is unknown because trout were used as feeding trainers. Minckley was planning to move these fish to a research facility.
+
+**Outlook**
+
+The memo expects that within a year the station should produce "top quality" razorback sucker and, hopefully, bonytail chub for [[Captive Propagation]] and stocking into native habitats.

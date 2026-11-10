@@ -1063,8 +1063,12 @@ A large sucker (Catostomidae) of the Colorado Basin. In this survey the authors 
 > This note summarises a 1890 field survey and taxonomic report by [[Charles Henry Gilbert]] and [[Norman Bishop Scofield]]. The expedition, made by the senior author and A. B. Alexander of the [[U.S. Fish Commission]] during the late April and early May 1890 detached from the [[Albatross...
 > -- *[[NotesOnACollectionOfFishesFrom_16994]]*
 
+> This taxonomic note by [[Philip H. Kirsch]] reports a small collection of fishes made by [[Lieutenant W. L. Carpenter]] at Fort Thomas on the [[Gila River]], Arizona Territory. The collection was sent to the museum of the University of Indiana in June 1887. Carpenter held that only seven species...
+> -- *[[NotesOnACollectionOfFishesObta_PML1281]]*
+
 ### Mentioned In
 - [[NotesOnACollectionOfFishesFrom_16994]]
+- [[NotesOnACollectionOfFishesObta_PML1281]]
 
 ## Xyrauchen Cypho
 <!-- fm: auto_enriched: true -->
@@ -1073,8 +1077,12 @@ A large sucker (Catostomidae) of the Colorado Basin. In this survey the authors 
 > **5. [[Xyrauchen Cypho]]** (Lockington) — "Buffalo Fish" [new genus: *Xyrauchen* Eigenmann & Kirsch] - Recognized as the type species of a new genus, distinguished from *Catostomus* by a large, sharp-edged nuchal hump formed by highly modified anterior interneural bones. - Detailed osteological d...
 > -- *[[NotesOnACollectionOfFishesObta_1889]]*
 
+> This taxonomic note by [[Philip H. Kirsch]] reports a small collection of fishes made by [[Lieutenant W. L. Carpenter]] at Fort Thomas on the [[Gila River]], Arizona Territory. The collection was sent to the museum of the University of Indiana in June 1887. Carpenter held that only seven species...
+> -- *[[NotesOnACollectionOfFishesObta_PML1281]]*
+
 ### Mentioned In
 - [[NotesOnACollectionOfFishesObta_1889]]
+- [[NotesOnACollectionOfFishesObta_PML1281]]
 
 ## Xyrauchen Lexanus
 
@@ -1248,9 +1256,6 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This experimental study by Clarkson and Childs (2000, *Copeia* 2:402–412) tests how cold water released from [[Hypolimnial-Release Dams]] affects early life stages of four imperiled [[Colorado River Basin]] big-river fishes: [[Razorback Sucker]], [[Flannelmouth Sucker]], [[Humpback Chub]], and...
 > -- *[[TemperatureEffectsOfHypolimnia_PML0440]]*
 
-> This taxonomic paper reports on a collection of freshwater fishes made by [[Dr. Edgar A. Mearns]], US Army medical officer and naturalist, while in charge of the biological section of the Mexican Boundary Survey (1892–1894). The specimens came from the [[Colorado River]] and its tributaries, the...
-> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
-
 > This study tested whether site acclimation and rearing environment affect the postrelease dispersal of hatchery-reared [[Razorback Sucker]] (*[[Xyrauchen Texanus]]*). Dispersal from the stocking sites was rapid and declined over time in all tests. Downstream drift was greatest from a small...
 > -- *[[FactorsInfluencingPoststocking_PML1970]]*
 
@@ -1266,14 +1271,17 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 > This taxonomic paper describes *Gila cypha*, a new species of cyprinid fish from the [[Colorado River]] in [[Grand Canyon]], Arizona. The holotype, a specimen about 305 mm standard length, was collected near [[Phantom Ranch]]. The author distinguishes the species from congeners mainly by its...
 > -- *[[GilaCyphaNSp_PML1727]]*
 
-> This document is a scanned, multi-page research table (OCR-degraded) that reports the total length, in millimetres, at which selected morphological characters develop during the larval stage of several [[Minnow]] (Cyprinidae) and [[Sucker]] (Catostomidae) species. The characters tracked are the...
-> -- *[[NativePostlarvalFishesOfTheLow_PML2914]]*
-
 > This document bundles a peer-review solicitation from [[Southwestern Naturalist]] with the manuscript it concerns (F-05-87), a field study of [[Razorback Sucker]] spawning in [[Lake Mohave]] during 1982-1983. The authors (Bozek, Paulson, Wilde and Deacon) report a protracted, seven-month spawning...
 > -- *[[SpawningCharacteristicsOfTheRa_PML0261]]*
 
 > This symposium paper by W. L. Follett reviews the indigenous fishes recorded from fresh water in [[Baja California]]. It reports 29 species in 25 genera and 17 families. Nearly all are of marine affinity, and the only endemic species is [[Fundulus Lima]]. The author concludes that Baja California...
 > -- *[[TheFreshwaterFishesTheirOrigin_PML0830]]*
+
+> This document contains two short communications from *The Progressive Fish-Culturist* (vol. 49, 1987), both concerned with improving survival of cultured fish. 1. **Razorback sucker culture.** Roger L. Hamman (U.S. Fish and Wildlife Service, [[Dexter National Fish Hatchery]], New Mexico) reports...
+> -- *[[SurvivalOfRazorbackSuckersCult_PML0977]]*
+
+> This systematic paper by [[John Otterbein Snyder]] (Stanford University) reports on a freshwater fish collection made by [[Edgar A. Mearns]], a major and surgeon of the United States Army who worked on the Mexican boundary survey between January 1892 and September 1894. The collection came from...
+> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
 
 ### Mentioned In
 - [[ATelemetricStudyOfTheMovements_1980]]
@@ -1363,15 +1371,15 @@ Xyrauchen texanus, commonly known as the razorback sucker, is an endangered fres
 - [[RazorbackHumpbackSuckerXyrauch_PML1822]]
 - [[EffectsOfAmbientLakeMohaveTemp_PML0665]]
 - [[TemperatureEffectsOfHypolimnia_PML0440]]
-- [[CollectionOfFishesMadeByDrEdga_PML2406]]
 - [[FactorsInfluencingPoststocking_PML1970]]
 - [[AnnotatedListOfTheFishesOfNeva_PML0537]]
 - [[ObservationsOnBreedingTubercle_PML0274]]
 - [[MitochondrialDnaVariabilityInT_PML1901]]
 - [[GilaCyphaNSp_PML1727]]
-- [[NativePostlarvalFishesOfTheLow_PML2914]]
 - [[SpawningCharacteristicsOfTheRa_PML0261]]
 - [[TheFreshwaterFishesTheirOrigin_PML0830]]
+- [[SurvivalOfRazorbackSuckersCult_PML0977]]
+- [[CollectionOfFishesMadeByDrEdga_PML2406]]
 
 ## Xyrauchen-Catostomus Hybridization
 <!-- fm: auto_enriched: true -->

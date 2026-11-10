@@ -1,11 +1,11 @@
 ---
-species: N/A
-common_name: N/A
-family: N/A
-habitat: N/A
+species: Gila elegans
+common_name: Bonytail Chub
+family: Cyprinidae
+habitat: Freshwater (Colorado River system; specimens from Mohave area per memo)
 ocean_basin: N/A
-location: Washington, D.C. area (inferred from the 202 area code in the fax header; not confirmed in the text)
-tags: [fisheries-correspondence, ocr-degraded, habitat-restoration, artificial-reef]
+location: Mohave specimens held at Dexter; tissue and morphology work at Arizona State University (ASU); Mexico referenced for a team member
+tags: [ichthyology, marine-biology, cyprinidae, bonytail-chub, tissue-sampling, genetics, conservation-genetics]
 title: "Scanned Fax Correspondence on Fisheries and Habitat (1993, Largely Illegible)"
 source_id: "PML2439"
 marsh_id: "PML2439"
@@ -13,39 +13,48 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "W. C. Starnes (1993). Scanned Fax Correspondence on Fisheries and Habitat (1993, Largely Illegible). Marsh Library ID: PML2439."
 source_file: "Starnes W.C. 1993. bonytail chub tissues.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
 # Scanned Fax Correspondence on Fisheries and Habitat (1993, Largely Illegible)
 
-#ichthyology #marine-biology #fisheries-correspondence
+#ichthyology #marine-biology #cyprinidae
 
 ## Executive Summary
 
-This two-page fax is a scanned letter or memorandum dated 1993 (the date is only partly legible). Its OCR is so degraded that most sentences cannot be reconstructed reliably. The legible fragments point to a fisheries-related communication about [[Fish Spawning Habitat]], fish stocks, and a proposed structure or pilot project, possibly an [[Artificial Reef]] of about 3 x 3 units. The author discusses fish habitat, the risk of degradation, and the need for restoration or conservation action. No species names, sample sizes, or quantitative results can be verified from the text.
+This 1993 interoffice memorandum sets out a sequenced protocol for collecting genetic tissue and morphological data from deceased [[Bonytail Chub]] specimens. The memo was written in reply to a request from G. Carmichael of the [[U.S. Fish and Wildlife Service]] Southwest Region and was copied to several project colleagues. Its central aim is to take tissue samples for two genetic approaches (DNA and [[Allozyme Analysis]]) and otoliths without damaging the head contour needed for [[Morphological Analysis]]. The author stresses that the condition of the frozen fish is unknown, so usable genetic material cannot be predicted.
 
 ## Background & Description
 
-- **Document type:** Two-page fax transmission with a header line showing a telephone and fax number beginning with 202 (Washington, D.C. area code) and a page-sequence marker (Page 1, Page 2).
-- **Date:** 1993, as far as can be read in the header.
-- **Format:** Informal letter or memorandum addressing a recipient on a technical matter. The first page opens with a salutation and a reference to a prior arrangement, and the second page closes with a sign-off and a signature block that cannot be read.
-- **Legibility:** Most lines contain heavy OCR substitution errors (for example, garbled words and symbols scattered through the text). Words like "spawning," "habitat," "fish," and "reef" appear to be partly recoverable, but the surrounding context cannot be reconstructed with confidence.
+- **Subject species:** [[Bonytail Chub]] (*Gila elegans*), a deceased specimen series from the Mohave area and held in frozen storage at the Dexter facility.
+- **Purpose:** Combine [[Genetic Tissue Sampling]] with [[Morphological Analysis]] on the same specimens, using a fixed order of operations.
+- **Key priority:** The head's dorsal contour is an area of close focus for morphological work, so [[Otolith Extraction]] must be the last step before [[Formalin Preservation]].
+- **Team roles:** The author is the memo writer, the [[Gila Taxonomy Project]] is the sponsoring group, and tasks are split among Dexter staff (Tom Dowling), ASU (Mike Douglas, video documentation), and colleagues including George Divine and John Hamill.
+- **Preliminary consultation:** The author asks that Douglas and Dowling review the plan before any work starts.
 
 ## Ecological & Environmental Context
 
-The legible fragments suggest the letter concerns:
+The memo does not describe habitat conditions, population status, or ecological interactions. Its environmental content is limited to:
 
-- **Habitat conditions:** References to the quality and condition of habitat, with a concern that a site "may be degraded" or "should not be disturbed."
-- **Fish reproduction and stock status:** Apparent discussion of spawning and of whether stocks are being maintained, with the author stating a view that certain practices may have effects over time.
-- **Physical habitat enhancement:** A proposal involving a structure that could provide shelter or spawning cover, described as a possible "3 x 3" unit pilot. The text also mentions a "cube" and an artificial structure.
-- **Management and regulation:** Words suggesting permits, a review process, or action by an agency. The text does not name the agency or the regulation.
-- **Location:** The text names no specific water body. Fragments that may refer to a river or bay cannot be verified, so no site is recorded here.
+- Specimens are **frozen carcasses**, some described as "brick-hard," and their freezing circumstances are unknown.
+- Degradation risk: under poor conditions, allozymes may be partly recoverable, while more fragile markers such as esterases and DNA may be degraded.
+- Transport: specimens travel to ASU in large coolers of dry ice, and tissue vials go separately in small dry-ice containers.
+- Regulatory context: work falls under [[Federal Permit]] 91-07, held by the [[Gila Taxonomy Project]], which covers the Gila (lower) basin and Gila (upper) basin specimens and was renewed on 3/24 (year garbled in scan).
 
 ## Key Findings
 
-1. **Purpose:** The letter appears to respond to a fisheries or habitat concern and to propose a practical measure, such as a pilot habitat structure, subject to review.
-2. **Proposed measure:** A possible reef or cube-shaped structure in a 3 x 3 configuration, possibly intended for fish habitat or recruitment. This is the most specific design element that can be partly read, but its size units, location, and purpose cannot be confirmed.
-3. **Concern for habitat:** The author indicates that habitat or stock conditions are a problem and that delay or inaction could worsen them.
-4. **Recommendation:** The author seems to recommend a staged approach, with monitoring or a follow-up review, rather than an immediate full-scale action. This is inferred from fragmentary phrasing only.
-5. **Data availability:** The document contains no verifiable sample sizes, measurements, species counts, or statistics. Any figures in the original would need to be checked against a clearer copy.
+The memo lays out a five-step protocol and supporting logistics:
 
-**Recommended action:** Obtain a higher-resolution or original copy of the fax before citing this document. Confirm the date, sender, recipient, species, and location, and re-run OCR on the original scan. Until then, treat this note as a low-confidence record of a fisheries and habitat communication, not as a source of data.
+1. **Large tissue sample at Dexter:** Take a tissue cube of about 1 × 2 cm (or similar) from the right dorsolateral area, below the dorsal midline and anterior to the dorsal fin. Subdivide immediately into three labeled [[Nunc Tubes]]: one for [[Dna Analysis]], one for [[Allozyme Analysis]], and one held in reserve at Dexter. Link vials and jaw tags to the carcass by unique specimen number. DNA tissue stays frozen and goes straight into ultracold storage.
+2. **Caudal fin clip:** Cut the outer third of the pectoral fin and punch the base of the caudal fin. Place these in a separate vial labeled "GAL" (for allozymes), with the specimen number and an "F" designation, and freeze. Fin and muscle samples go to the GAL team as soon as possible, since they are nearing the end of their data-generation phase.
+3. **Shipping:** Send carcasses to ASU in large dry-ice coolers. Tissue is taken before shipping whenever possible. If carcasses arrive partly thawed, pre-subsampled DNA tissue from Dexter reduces contamination risk. DNA tissue vials ship separately.
+4. **Video documentation at ASU:** Allow carcasses to thaw enough to handle and reposition, then film and photograph them for morphological records.
+5. **Otolith removal and preservation:** Remove [[Otolith Extraction]] samples for the requesting researcher, then fix the specimens in formalin.
+
+**Additional points:**
+- Genetic tissue sampling does not harm morphological quality, based on prior project experience.
+- Two specimens may already be at ASU and need separate handling, with otoliths removed only after video recording.
+- The author declines involvement in the otolith examination.
+- The memo presents this sequence as the best route to the desired data, with backups in case of shipping problems.
+
+**Pending actions:** Confirm the plan with Douglas and Dowling, copy George Divine and John Hamill, and arrange separate shipment of tissue vials.

@@ -86,6 +86,18 @@ Cited (1954), along with Wilimovsky, for the change of genus name from Leucichth
 ### Mentioned In
 - [[AgeAndGrowthStudiesOnTwoSpecie_16001]]
 
+## V. S. Kennedy
+
+### Summary
+Co-author of this 1970 paper with J. A. Mihursky and A. J. McErlean, from the University of Maryland's Chesapeake Biological Laboratory. The source does not describe his individual contributions beyond co-authorship.
+
+### Context
+> This 1970 conference paper by [[J. A. Mihursky]], [[A. J. McErlean]] and [[V. S. Kennedy]] of the University of Maryland's [[Chesapeake Biological Laboratory]] argues that [[Thermal Pollution]] from [[Steam Electric Station]] (S.E.S.) cooling is a growing threat to aquatic life. It links elevated...
+> -- *[[ThermalPollutionAquacultureAnd_15270]]*
+
+### Mentioned In
+- [[ThermalPollutionAquacultureAnd_15270]]
+
 ## V9 coded acoustic tags
 
 ### Summary
@@ -952,10 +964,14 @@ A physiographic region of northeastern Alabama where most of Calhoun County lies
 > This 1998 email from a [[Utah Division of Wildlife Resources]] field contact reports on the [[Wahweap Hatchery]] near [[Lake Powell]]. The hatchery propagates endangered [[Razorback Sucker]] and [[Bonytail]] for recovery stocking in the Colorado River system. The update covers facility...
 > -- *[[WahweapHatchery_PML0522]]*
 
+> This internal memo from the [[Willow Beach National Fish Hatchery]] manager to the [[Recovery Coordinator]] (George Divine) inventories the [[Razorback Sucker]] and [[Bonytail Chub]] held at the station ahead of a Native Fish Work Group meeting. The memo is dated June 13, 1985, although the fax...
+> -- *[[NativeFishCurrentlyAtWbnfh_PML2705]]*
+
 ### Mentioned In
 - [[StationProfileValleyCitybaldhi_1993_12_13]]
 - [[StationProfileValleyCitybaldhi_19516]]
 - [[WahweapHatchery_PML0522]]
+- [[NativeFishCurrentlyAtWbnfh_PML2705]]
 
 ## Valley City Nfh
 <!-- fm: auto_enriched: true -->
@@ -2279,6 +2295,18 @@ A diagnostic statistic that measures how much the variance of a regression coeff
 - [[WestAfricanRiversAsBiogeograph_PML1126]]
 - [[ImprovingInferencesFromFisheri_PML1050]]
 
+## Variated Platy
+
+### Summary
+Xiphophorus variatus is a Mexican fish. In this note, about 200 adults and juveniles were collected from the Avenue 82 Drain on December 24, 1969, and the authors call this the first verified established population in California. The likely source was escape from a fish-farm pond around 1956.
+
+### Context
+> This short-note section of [[California Fish and Game]] contains four items: a reference list for a mollusk-related paper (no fish data), and three research notes on fishes. The notes report (1) the first recorded fish capture at Badwater, [[Death Valley]], a single [[Amargosa Pupfish]]; (2) the...
+> -- *[[NewLocalityRecordForThePupfish_PML0028]]*
+
+### Mentioned In
+- [[NewLocalityRecordForThePupfish_PML0028]]
+
 ## Variation Threshold
 
 ### Summary
@@ -2409,6 +2437,18 @@ Layered lake-bottom deposits in which each year forms a pair of bands, one from 
 
 ### Mentioned In
 - [[StudiesOnAKentuckyKnobsLakeISo_16008]]
+
+## Vasco M. Tanner
+
+### Summary
+Tanner is the author of this 1936 Utah Academy of Sciences paper, a regional review of Utah's native and introduced fishes. The paper draws mainly on the Brigham Young University zoological collection and gives keys and a distributional list for non-specialists.
+
+### Context
+> This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
+> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+
+### Mentioned In
+- [[UnreadableOcrScanNoExtractable_PML2490]]
 
 ## Vasco Tanner
 
@@ -3580,8 +3620,12 @@ Venus mercenaria is the hard-shell clam, also called the quahog, an edible bival
 > This 1949 Fish and Wildlife Service Special Scientific Report, by Walter A. Chipman and Paul S. Galtsoff, was prepared at the request of the US Navy Bureau of Ships. It tests whether crude oil and other oils, anchored on the bottom by [[Carbonized Sand]], remain toxic to marine organisms....
 > -- *[[EffectsOfOilMixedWithCarbonize_16141]]*
 
+> This document is the front matter and partial content of U.S. Fish and Wildlife Service Special Scientific Report–Fisheries No. 507 (May 1965), compiled by Robert Livingstone, Jr., of the Bureau of Commercial Fisheries Biological Laboratory, Woods Hole, Massachusetts. It is a preliminary...
+> -- *[[APreliminaryBibliographyWithKw_16163]]*
+
 ### Mentioned In
 - [[EffectsOfOilMixedWithCarbonize_16141]]
+- [[APreliminaryBibliographyWithKw_16163]]
 
 ## Venus Roach
 <!-- fm: auto_enriched: true -->
@@ -4066,9 +4110,6 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This Draft Environmental Assessment (DEA), jointly prepared by the [[Federal Energy Regulatory Commission]] (FERC) and the [[Coconino National Forest]] (USDA Forest Service), evaluates the relicense application of Arizona Public Service Company (Public Service) for the [[Childs Irving Hydroelectric...
 > -- *[[NoticeOfAvailabilityOfDraftEnv_16326]]*
 
-> This document describes the standardized stream habitat survey used by the [[Arizona Game and Fish Department]] in Region II. It also contains scanned 1979 field data sheets from several central Arizona streams. The method combines three kinds of measurement: - Physico-chemical habitat: channel...
-> -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
-
 > This 1977 symposium paper (Tucson, Arizona, July 9, 1977) by a U.S. Forest Service fisheries and non-game biologist argues that stream fisheries in the Southwest depend on energy and nutrients from riparian vegetation and the surrounding watershed. Uncontrolled livestock grazing removes riparian...
 > -- *[[WildlifeConflictsInRiparianMan_17945]]*
 
@@ -4375,9 +4416,6 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This 1955 Arizona Game and Fish Wildlife Restoration Division completion report (Project F-22-R-2, Job 1, by Richard A. Wagner) surveys the [[Verde River]] and its tributaries in central Arizona. It documents seasonal flow, water temperature, turbidity, and reservoir fluctuation during 1954, and...
 > -- *[[BasicSurveyOfTheVerdeRiverAndT_PML2807]]*
 
-> This taxonomic paper reports on a collection of freshwater fishes made by [[Dr. Edgar A. Mearns]], US Army medical officer and naturalist, while in charge of the biological section of the Mexican Boundary Survey (1892–1894). The specimens came from the [[Colorado River]] and its tributaries, the...
-> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
-
 > This Arizona Game and Fish Department document reports the stocking of 125 [[Spikedace]] and 125 [[Loach Minnow]] into [[Fossil Creek]], a perennial, travertine-forming tributary of the [[Verde River]] in Central Arizona. The fish were released on November 2, 2007, above a fish barrier and...
 > -- *[[FossilCreekSpikedaceAndLoachMi_PML0386]]*
 
@@ -4540,6 +4578,12 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 > This draft final report, prepared by contractor Brian Bagley for the [[U.S. Fish And Wildlife Service]] (Arizona Ecological Services Field Office), documents a multi-year fisheries survey of tributaries of the [[Verde River]] in central Arizona. The survey targeted [[Loach Minnow]] (*Tiaroga...
 > -- *[[SurveyOfVerdeRiverDrainageAriz_PML0148]]*
 
+> This document is a set of six Arizona Game and Fish Department (AGFD) map sheets, dated January 2002, that overlay land ownership on streams with extant [[Roundtail Chub]] and [[Headwater Chub]] populations. Each stream is analysed within a 1.0 mile buffer zone. The maps cover the [[Bill Williams...
+> -- *[[RoundtailChubStatusSurveyOfThe_PML2797]]*
+
+> This systematic paper by [[John Otterbein Snyder]] (Stanford University) reports on a freshwater fish collection made by [[Edgar A. Mearns]], a major and surgeon of the United States Army who worked on the Mexican boundary survey between January 1892 and September 1894. The collection came from...
+> -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
+
 ### Mentioned In
 - [[AListOfTheFishFoundInTheVerdeR_12284]]
 - [[AgenciesWorkingToReverseSetbac_1999_05_12]]
@@ -4691,7 +4735,6 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[CommentsOnEnvironmentalAssessm_11570]]
 - [[NativeArizonaFishesPartIispiny_18572]]
 - [[NoticeOfAvailabilityOfDraftEnv_16326]]
-- [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[WildlifeConflictsInRiparianMan_17945]]
 - [[ArizonaStreamWaterQuality_19603]]
 - [[UtilizationOfBenthicfeedingFis_20740]]
@@ -4794,7 +4837,6 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[ReportOnPrtActivityFromDecembe_PML2359]]
 - [[ConservationAndStatusOfGilaTro_PML2177]]
 - [[BasicSurveyOfTheVerdeRiverAndT_PML2807]]
-- [[CollectionOfFishesMadeByDrEdga_PML2406]]
 - [[FossilCreekSpikedaceAndLoachMi_PML0386]]
 - [[ProposalToDetermineTheLoachMin_PML0725]]
 - [[ReportOnPrtActivityFromDecembe_PML1229]]
@@ -4849,6 +4891,8 @@ The Verde River is a major tributary of the Salt River in Arizona that serves as
 - [[EvaluationOfTheRazorbackSucker_PML1032]]
 - [[SurveyOfVerdeRiverDrainageAriz_PML0150]]
 - [[SurveyOfVerdeRiverDrainageAriz_PML0148]]
+- [[RoundtailChubStatusSurveyOfThe_PML2797]]
+- [[CollectionOfFishesMadeByDrEdga_PML2406]]
 
 ## Verde River Aquatic Ecology
 
@@ -5455,8 +5499,12 @@ A method of estimating a fish's age by counting growth rings in its vertebrae. T
 > This 1992 internal memorandum from the [[U.S. Fish and Wildlife Service]] in Parker, Arizona, comments on a draft plan for handling tissue, [[Otolith Aging]] structures, and related specimens from [[Bonytail]] (*Gila elegans*), a rare fish. The bonytail specimens come from recent mortalities at a...
 > -- *[[DraftMemorandumOnDispositionOf_PML1764]]*
 
+> This study by [[Kermit E. Sneed]] (Fisheries Research Laboratory, Norman, Oklahoma) tests whether annual rings on the left pectoral spines of [[Channel Catfish]] (*Ictalurus lacustris punctatus*) can be used to age fish and calculate their growth in length. Spines were collected from 204 fish taken...
+> -- *[[CalculatingGrowthOfChannelCatf_PML2399]]*
+
 ### Mentioned In
 - [[DraftMemorandumOnDispositionOf_PML1764]]
+- [[CalculatingGrowthOfChannelCatf_PML2399]]
 
 ## Vertebral Annuli
 
@@ -6681,8 +6729,12 @@ Viosca (1943) is cited in this bibliography for reporting phenomenal growth rate
 > This Inland Fisheries Administrative Report, submitted by the [[California Department of Fish and Game]] (Region 5, Inland Fisheries) in August 1966, is an annotated-style bibliography of **106 papers and books** on the [[Scale Method]] of determining fish age and growth rate from growth rings...
 > -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
 
+> This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
+> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+
 ### Mentioned In
 - [[ABibliographyOfSomeAgeAndGrowt_18720]]
+- [[IllegibleScannedDocumentNoExtr_PML0919]]
 
 ## Viperidae
 
@@ -7420,9 +7472,6 @@ The Virgin River refers to a specific river system in the southwestern United St
 > This 1978 study by [[Paul C. Marsh]] and J. N. Cross, published in the *Great Basin Naturalist*, describes the distribution, ecology and status of the [[Virgin River Roundtail Chub]], a native cyprinid of the [[Virgin River]] in Utah, Arizona and Nevada. The chub occurred in about half of...
 > -- *[[StatusAndEcologyOfTheVirginRiv_PML0515]]*
 
-> This document is a regional water-quality record for surface waters of the [[Colorado River Basin]] in the southwestern United States, covering roughly 1956 to 1957. It combines explanatory notes on physical and chemical water properties with station-by-station tables and station descriptions from...
-> -- *[[QualityOfSurfaceWatersOfTheUni_PML2565]]*
-
 > This Bureau of Reclamation memorandum transmits the Preliminary Findings Report (PFR) on a proposed dual-purpose [[Lower Virgin River Project]], prepared jointly with the [[Las Vegas Valley Water District]] (LVVWD). The project would divert saline water from the lower [[Virgin River]] in Nevada,...
 > -- *[[LowerVirginRiverProjectPrelimi_PML2608]]*
 
@@ -7449,6 +7498,15 @@ The Virgin River refers to a specific river system in the southwestern United St
 
 > This document is a set of map and figure captions from a spinedace survey of the [[Virgin River]] Basin in southwestern Utah. The source text contains no narrative, methods section, or summary statistics. Its figures show where [[Spinedace]] were found, where streams have perennial flow but no...
 > -- *[[TheCurrentDistributionAndStatu_PML0017]]*
+
+> This is a February 1964 newspaper page (Monday, February 17, 1964) with a regional map and articles on the revised [[Pacific Southwest Water Plan]], released by [[Stewart L. Udall]], Secretary of the Interior. The plan's first phase, estimated at about $3.1 billion, centers on the [[Central Arizona...
+> -- *[[UdallPutsCentralArizonaProject_14402]]*
+
+> This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
+> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+
+> This 1994 U.S. Fish & Wildlife Service memorandum, written by Ronald D. Major, Director of the [[Pinetop Fish Health Center]] (FHC), answers a request from the Albuquerque regional office about [[Asian Tapeworm]] infection at Hassayampa (Palm Lake). The author reports that a single bath treatment...
+> -- *[[AsianTapewormControlAndSpreadI_PML1411]]*
 
 ### Mentioned In
 - [[AbstractsFromTheConferenceGeol_1999_10_28]]
@@ -7646,7 +7704,6 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[EndemicFishesOfTheColoradoRive_PML0064]]
 - [[ParasitesOfTheWoundfinMinnowPl_PML1010]]
 - [[StatusAndEcologyOfTheVirginRiv_PML0515]]
-- [[QualityOfSurfaceWatersOfTheUni_PML2565]]
 - [[LowerVirginRiverProjectPrelimi_PML2608]]
 - [[EndangeredAndThreatenedFishesO_PML0541]]
 - [[RazorbackSuckerStudiesOnLakeMe_PML0021]]
@@ -7656,6 +7713,9 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[EndemicFishesOfTheColoradoRive_PML2238]]
 - [[PhysicalLimnologyOfLakeMead_PML0054]]
 - [[TheCurrentDistributionAndStatu_PML0017]]
+- [[UdallPutsCentralArizonaProject_14402]]
+- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AsianTapewormControlAndSpreadI_PML1411]]
 
 ## Virgin River At Littlefield, Arizona
 <!-- fm: auto_enriched: true -->

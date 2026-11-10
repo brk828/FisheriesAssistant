@@ -4,8 +4,8 @@ common_name: N/A
 family: N/A
 habitat: N/A
 ocean_basin: N/A
-location: United States (U.S. Fish and Wildlife Service, Washington, D.C.; NOAA National Marine Fisheries Service, Silver Spring, Maryland)
-tags: [endangered-species, policy, federal-register, fish-and-wildlife, marine-biology]
+location: United States
+tags: [endangered-species, policy, federal-register, conservation-policy, marine-biology]
 title: "Endangered and Threatened Wildlife and Plants; Policy Statements; Notices"
 source_id: "PML0762"
 marsh_id: "PML0762"
@@ -13,61 +13,77 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "U.S. Fish and Wildlife Service, National Marine Fisheries Service (1994). Endangered and Threatened Wildlife and Plants; Policy Statements; Notices. Federal Register, Vol. 39, No. 126 (as OCR'd; July 1, 1994). Marsh Library ID: PML0762."
 source_file: "Federal register 1994. NOAA policy statement.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Endangered and Threatened Wildlife and Plants: Federal Policy Notices (1994)
+# Endangered and Threatened Wildlife and Plants; Policy Statements; Notices
 
-#ichthyology #marine-biology #endangered-species
-
-> **Source note:** The OCR text is heavily degraded. Section headings and most policy wording are recoverable, but many sentences are fragmentary. Details below are limited to what can be read with reasonable confidence. Where the text is unclear, this note says so rather than guessing.
+#ichthyology #marine-biology #endangered-species-policy
 
 ## Executive Summary
 
-This is a multi-page *Federal Register* notice from **Friday, July 1, 1994** (Vol. 59, No. 126, Notices). It was published jointly by the [[U.S. Fish and Wildlife Service]] (FWS) and the [[NOAA National Marine Fisheries Service]] (NMFS). It contains several **policy statements** under the [[Endangered Species Act]] of 1973 (16 U.S.C. 1531–1544), as amended. The policies cover peer review, recovery planning, federal–state cooperation, and related ESA implementation. They are effective July 1, 1994. The document covers the general ESA regime for listed species and does not address any single named fish species.
+This section of the *Federal Register* (Vol. 59, No. 126, Friday, July 1, 1994, Notices) reproduces a set of six interagency policy statements issued jointly by the [[U.S. Fish And Wildlife Service]] (FWS, Department of the Interior) and the [[National Marine Fisheries Service]] (NMFS, part of [[National Oceanic And Atmospheric Administration]], Department of Commerce). The policies govern how the Services implement the [[Endangered Species Act]] of 1973, as amended. All six were signed June 27, 1994 (FWS, by Director Mollie H. Beattie) and June 24, 1994 (NMFS, by Assistant Administrator for Fisheries Rolland A. Schmitten), and took effect July 1, 1994.
+
+The document is a policy and regulatory notice, not research. It contains no species data, population counts, or field measurements. Its content concerns peer review, information standards, Section 9 prohibitions, recovery planning, ecosystem-based conservation, and State agency participation.
 
 ## Background & Description
 
-- **Issuing agencies:** FWS, Department of the Interior, and NMFS, NOAA, Department of Commerce. The two agencies share ESA responsibilities, with NMFS handling most marine and anadromous species.
-- **Legal basis:** The policies implement the [[Endangered Species Act]], with references to Sections 4, 6, 7, 9 and 10. The text also references 50 CFR Part 424 (listing procedures) and other ESA regulations.
-- **Purpose:** The notice states that the policies are intended to guide agency practice and to encourage public participation in ESA decision-making. The text indicates that policies are non-binding guidance on how the Services will carry out their responsibilities.
-- **Contacts listed:** The FWS contact is the Chief, Division of Endangered Species, Washington, D.C. (telephone 703/358-2171, as printed). The NMFS contact is the Chief, Endangered Species Division, Office of Protected Resources, 1335 East-West Highway, Silver Spring, Maryland 20910 (telephone 301/713-2322, as printed).
+The notice covers the following six policies:
+
+1. **Peer Review in ESA Activities**: independent expert review for listing and recovery decisions.
+2. **Information Standards**: procedures to ensure that the science used is reliable, credible, and the best available.
+3. **Section 9 Prohibitions**: identification of activities likely or not likely to violate the Act's take and trade prohibitions at the time a species is listed.
+4. **Recovery Plan Participation and Implementation**: recovery planning that minimizes social and economic impacts while meeting recovery timelines.
+5. **Ecosystem Considerations**: incorporating ecosystem-level conservation into listing, interagency cooperation, recovery, and status reviews.
+6. **Role of State Agencies**: formal involvement of [[State Wildlife Agencies]] in prelisting, listing, consultation, habitat conservation planning, and recovery.
+
+Each policy states a scope, a legal authority, and an effective date. The scope applies Servicewide to "all species of fish and wildlife and plants" as defined in Section 3 of the Act (16 U.S.C. 1532). The authority cited is the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1544).
 
 ## Ecological & Environmental Context
 
-The ESA framework in this notice is concerned with conservation of listed species and their habitats. The text refers to:
+The notice places the policies within the broader legal framework of the Act. Several provisions are cited:
 
-- **Listing and delisting** of endangered and threatened species, including criteria for listing priority.
-- **Critical habitat** designation and its relation to listing decisions.
-- **Recovery** of listed species through recovery plans, implementation, and monitoring.
-- **Interagency consultation** to ensure federal actions do not jeopardize listed species.
-- **Cooperation with states, tribes, foreign governments and private parties**, including the role of state wildlife agencies in conservation.
+- **Section 2(b)**: the purpose of the Act is to provide a means whereby the ecosystems upon which endangered and threatened species depend may be conserved.
+- **Section 4(d)**: authorizes regulations applying section 9 prohibitions to threatened species.
+- **Section 6**: authorizes partnerships with States for cooperative conservation programs.
+- **Section 7(a)(1)**: obligates all Federal agencies to use their authorities to further the purposes of the Act.
+- **Section 10**: provides for conservation planning, including habitat conservation plans, with non-federal partners.
 
-The OCR does not reliably reproduce any species-specific population data, habitat measurements, or ecological statistics. None are reported here.
+The ecosystem policy notes that species are "best conserved not by a species-by-species approach but by an ecosystem approach," and that future prospects for endangered and threatened species depend on how well agencies integrate ecosystem conservation with growing demand for resource use. It links ESA work to other statutes, including the [[National Environmental Policy Act]], the [[Magnuson-Stevens Fishery Conservation And Management Act]], and the [[Fish And Wildlife Coordination Act]].
+
+The Section 9 policy lists the prohibited activities under the Act: take (defined to include harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect), import, export, interstate or foreign commerce, and possession of illegally taken wildlife. For plants, the prohibitions cover import, export, commercial trade, and removal from Federal land, along with malicious damage on Federal areas.
 
 ## Key Findings
 
-The notice contains several distinct policy statements. The headings below reflect the most reliably identifiable content. Exact wording and the final scope of each policy should be checked against the original document.
+**Peer Review Policy**
+- The Services will solicit independent expert opinions, "three appropriate and independent specialists," on the scientific or commercial data behind listing decisions.
+- For recovery, independent peer review will be actively solicited from local, State, and Federal agencies, Tribal governments, academic groups, and other parties.
+- Special independent peer review is reserved for cases where it is likely to reduce or resolve an unacceptable level of scientific uncertainty. Results must enter the administrative record and be available for public review when a public comment period applies.
 
-1. **Peer review policy.** The Services state that they will solicit independent peer review of scientific information used in listing, recovery, and related ESA decisions. Peer reviewers are to be selected for expertise, and their comments are to be made public. Public comment periods are referenced for certain actions.
+**Information Standards Policy**
+- Biologists must evaluate all scientific and other information used to determine species status, issue biological opinions, or issue take permits, to ensure it is reliable, credible, and represents the best available data.
+- Primary and original sources are preferred where consistent with sections 4, 7, and 10 of the Act. Sources must be retained in the administrative record and cited in Federal Register notices.
+- The policy explicitly covers "gray literature" from State heritage programs, Tribal governments, consulting firms, and similar sources, whose reliability "can be as variable as the sources themselves."
 
-2. **Recovery planning and participation policy.** The text describes recovery planning as a cooperative process. It refers to:
-   - Developing recovery plans that identify actions, priorities, and estimated costs.
-   - Including [[Federal Agencies]], [[State Agencies]], tribal governments, landowners and other interested parties.
-   - Publishing draft and final recovery plans for public review.
-   - Using **recovery priority numbers** to rank species where more than one is involved.
+**Section 9 Prohibitions Policy**
+- At the time a species is listed, the Services will identify, as far as known, specific activities that will and will not be considered likely to violate section 9.
+- Where the likelihood of violation is uncertain, a contact will be named in the final listing document.
+- The policy applies to species listed after October 1, 1994.
 
-3. **Federal–state cooperation policy.** The Services commit to using the expertise and information of state agencies. Coordination covers:
-   - Listing decisions and identification of species status.
-   - Developing cooperative agreements under ESA Section 6.
-   - Participating in recovery planning and implementation.
-   - Sharing scientific and commercial data where available.
+**Recovery Plan Policy**
+- Recovery plans are to be developed within 2½ years of final listing: 18 months for a draft and an additional 12 months for the final plan.
+- Recovery teams should include recognized experts, and affected groups should be involved in plan development.
+- The policy aims to minimize social and economic impacts while maintaining timely recovery.
 
-4. **Controlled propagation and captive breeding.** The text refers to a policy on propagation of listed species. Propagation is discussed in relation to recovery goals and the use of captive stock. (The exact terms and the number of related provisions are not fully legible.)
+**Ecosystem Policy**
+- Recovery should restore or rehabilitate the structure, distribution, connectivity, and function of the ecosystems on which listed species depend.
+- Agencies are directed to develop multi-agency agreements for shared resources on wide-ranging species, and to prioritize actions and monitoring for ecological processes.
+- Integrated research is to be linked with management initiatives that serve other uses.
 
-5. **Listing and listing priority.** The notice includes guidance on how the Services assign listing priority to candidate species. Priority depends on the magnitude and immediacy of threats, and the agencies' resources.
+**State Agency Role Policy**
+- States hold "primary authority and responsibility" for managing fish, wildlife, and plants within their borders, unless preempted by Federal law.
+- States are to be consulted on candidate lists, population surveys, listing rules, consultations, habitat conservation planning, and recovery implementation, including post-delisting monitoring.
+- Federal agencies must provide State agencies with copies of final biological opinions after 10 working days if the action agency has not already done so.
 
-6. **Notification and enforcement of ESA Section 9 prohibitions.** The text references a policy to inform the public and affected parties about the effect of listing on activities that could result in "take" of listed species. Notification is connected to clear identification of prohibited activities.
-
-7. **Designation of Federal Agency roles.** The notice describes the responsibilities of federal agencies under ESA Section 7, including consultation on actions that may affect listed species or their critical habitat.
-
-**Overall conclusion:** The notice sets out the Services' approach to peer review, recovery planning, federal and state cooperation, listing priority, and ESA enforcement. Its purpose is to make ESA implementation more transparent and collaborative. The policies apply to all species under ESA jurisdiction of the two agencies, including marine and freshwater fish, and do not focus on any single taxon.
+**Overall Conclusion**
+The notice contains no quantitative results. Its main outcome is a set of procedural commitments by the two Services to strengthen scientific rigor, transparency, public participation, and cooperation with States, Tribes, and other partners in administering the Endangered Species Act.

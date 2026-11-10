@@ -1,11 +1,19 @@
 ---
-species: "Multiple vertebrate taxa (fishes, amphibians, reptiles; see Key Findings)"
-common_name: "Multiple (sturgeons, trouts, chubs, shiners, darters, salamanders, frogs, turtles)"
-family: "Acipenseridae; Salmonidae; Cyprinidae; Catostomidae; Percidae; Cottidae; Poeciliidae; Plethodontidae; Ranidae; Emydidae"
-habitat: "Freshwater (rivers, streams, springs, lakes, and associated wetlands)"
-ocean_basin: "N/A"
-location: "United States (conterminous states, Alaska, Hawaii, Puerto Rico, Virgin Islands, Pacific Islands)"
-tags: [ichthyology, marine-biology, conservation, endangered-species, federal-register, notice-of-review]
+species:
+  - Acipenser fulvescens
+  - Scaphirhynchus albus
+  - Polyodon spathula
+  - Salvelinus confluentus
+  - Eucyclogobius newberryi
+  - Xyrauchen texanus
+  - Plethodon shenandoah
+  - Gopherus polyphemus
+common_name: "Lake Sturgeon; Pallid Sturgeon; Paddlefish; Bull Trout; Tidewater Goby; Razorback Sucker; Shenandoah Salamander; Gopher Tortoise (representative entries from a multi-taxon list)"
+family: "Acipenseridae; Polyodontidae; Salmonidae; Cyprinidae; Catostomidae; Ictaluridae; Cyprinodontidae; Percidae; Gobiidae; Cottidae; Plethodontidae; Ambystomatidae; Ranidae; Chelydridae; Testudinidae; and others (see Key Findings)"
+habitat: "Predominantly freshwater: rivers, streams, lakes, springs, spring-fed pools, caves, and desert wetlands; tidewater goby is a brackish coastal lagoon/estuary species"
+ocean_basin: "N/A (predominantly freshwater; tidewater goby is coastal brackish)"
+location: "United States (all states and listed territories), with some ranges extending into Canada and Mexico"
+tags: [endangered-species, wildlife-policy, federal-register, taxonomy, conservation-status]
 title: "Endangered and Threatened Wildlife and Plants; Review of Vertebrate Wildlife"
 source_id: "PML0728"
 marsh_id: "PML0728"
@@ -13,56 +21,88 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "U.S. Fish and Wildlife Service (1985). Endangered and Threatened Wildlife and Plants; Review of Vertebrate Wildlife. Federal Register, Vol. 50, No. 181, p. 37958 (Department of the Interior, Fish and Wildlife Service). Marsh Library ID: PML0728."
 source_file: "Federal Register 1985. review of endangered vertebrates.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Review of Vertebrate Wildlife: Notice of Review (Federal Register, September 18, 1985)
+# Endangered and Threatened Wildlife and Plants; Review of Vertebrate Wildlife
 
-#ichthyology #marine-biology #endangered-species
+#ichthyology #marine-biology #Vertebrata
 
 ## Executive Summary
 
-This *Federal Register* notice (Vol. 50, No. 181, Wednesday, September 18, 1985, Proposed Rules, 50 CFR Part 17) was issued by the [[U.S. Fish and Wildlife Service]] (Department of the Interior) under the [[Endangered Species Act]] of 1973, as amended. It is a notice of review that identifies native U.S. vertebrate taxa (fishes, amphibians, reptiles, birds, and mammals) that are being considered, or were previously considered, for listing as endangered or threatened. The notice revises the candidate lists and sorts taxa into three categories. Its main message is that listing of the identified taxa is not being proposed by this notice, and that the taxa receive no substantive legal protection under the Act unless and until a separate rule is issued. The Service encourages federal agencies and other parties to consider these taxa in environmental planning.
+This document is a *Federal Register* notice (Vol. 50, No. 181, Wednesday, September 18, 1985; Proposed Rules; 50 CFR Part 17) issued by the [[Fish and Wildlife Service]] (Department of the Interior). It is a revised **Notice of Review** that identifies vertebrate taxa native to the United States under consideration for possible addition to the List of Endangered and Threatened Wildlife under the [[Endangered Species Act]] of 1973, as amended.
 
-OCR quality is poor. Table text (species names, status codes, and ranges) is partly garbled, so names below are given only where they are reasonably legible.
+The notice states plainly that it is **not a proposal** for listing, and that no listed taxon in it receives substantive or procedural protection under the Act unless a proposed or final rule has been published for it. The Service encourages federal agencies and other parties to account for these taxa in environmental planning. The table covers fishes, amphibians, reptiles, birds, and mammals, but the portion reproduced here covers fishes, amphibians, and reptiles.
 
 ## Background & Description
 
-The notice is a periodic update of the Service's review of candidate taxa. It defines three categories:
+The Endangered Species Act requires a determination of whether wildlife and plant species are endangered or threatened, based on the best available scientific and commercial data. The notice places each taxon (species, subspecies, or unnamed "sp."/"ssp." entities) into one of three categories:
 
-- **[[Category 1 Taxa]]:** Taxa for which the Service has sufficient information on biological vulnerability and threat to support proposing listing as endangered or threatened.
-- **[[Category 2 Taxa]]:** Taxa for which listing as endangered or threatened is possibly appropriate, but conclusive data on biological vulnerability and threat are not yet available.
-- **[[Category 3 Taxa]]:** Taxa that were once considered for listing but now appear more abundant or widespread, or less threatened, than previously thought, or that may not be valid species or subspecies. Category 3 has three subcategories:
-  - **3A:** Persuasive evidence of extinction. If rediscovered, these taxa might warrant high priority for listing.
-  - **3B:** Taxa once thought to be biological species or subspecies that, on recent systematic work, are not distinctive and do not meet the Act's legal definition of species.
-  - **3C:** Taxa now considered more abundant or widespread, and/or substantially less subject to identifiable threats.
+- **[[Category 1 Taxa]]:** The Service has substantial information supporting proposed listing. Proposals are precluded at present by other listing activity but are anticipated.
+- **[[Category 2 Taxa]]:** Listing may be appropriate, but conclusive data on vulnerability and threat are lacking. Further research and field study may be needed, and many taxa in this category are likely to be found not to warrant listing.
+- **[[Category 3 Taxa]]:** Taxa once considered for listing but no longer under active consideration. These are divided into three subcategories:
+  - **Subcategory 3A:** Persuasive evidence of extinction. If rediscovered, they might warrant high priority for listing.
+  - **Subcategory 3B:** Taxa once thought to be valid species or subspecies but, based on recent systematic work (usually published revisions and monographs), not considered distinctive or not meeting the Act's legal definition of species.
+  - **Subcategory 3C:** Taxa now considered more abundant or widespread, or substantially less subject to identifiable threats, than previously thought. Renewed decline would make them candidates for transfer to Category 1 or 2.
 
-The notice also explains the accompanying table's codes. "sp." or "ssp." after a name marks taxa not yet formally described in the scientific literature. "N" marks nesting range and "V" marks areas where a species is a regular visitor. Range codes are state or territory abbreviations.
+The notice supersedes a previous Review of Vertebrate Wildlife published in the *Federal Register* on December 30, 1982 (47 FR 58454–58460), as corrected on May 17, 1983 (48 FR 22173–22174). Taxa that have already received emergency, proposed, or final endangered or threatened determinations are excluded from this notice.
 
-Comments and information were requested on taxonomic changes, range extensions, threats, and other data. Contacts are listed for the Chief of the Office of Endangered Species in Washington, D.C., and for regional offices in Regions 1 through 6 (Portland, Albuquerque, Atlanta, Newton Corner MA, Denver, and Albuquerque-based offices), with details of their jurisdictions in the notice.
+The primary authors are C. Kenneth Dodd, Jr. (herpetologist), George E. Drewry (programmer), Ronald M. Nowak (mammalogist), Jay M. Sheppard (ornithologist), and [[James D. Williams]] (ichthyologist), Office of Endangered Species, Washington, DC.
 
 ## Ecological & Environmental Context
 
-Most aquatic taxa in the table are freshwater fishes of western and southeastern U.S. river systems, springs, and isolated desert or montane waters. Notable groups include:
+The table is arranged in general systematic order, beginning with fishes and ending with mammals. Each entry lists the assigned category, common name, scientific name, family, and known range. Ranges are given as state abbreviations, with territorial abbreviations (AS, CM, GU, PR, TT, VI) and full names for foreign regions and Navassa Island. The notice warns that some listed species may no longer occur in parts of their indicated ranges.
 
-- **Sturgeons (Acipenseridae):** Gulf sturgeon and pallid sturgeon are among those listed, reflecting large-river habitat loss and fragmentation.
-- **Trouts and grayling (Salmonidae):** Several cutthroat trout forms (e.g., Colorado, Rio Grande, and Montana Arctic grayling) reflect threats from habitat degradation and hybridization.
-- **Minnows and chubs (Cyprinidae):** Many species of chubs, shiners, and minnows from the Great Basin, Southwest, and Southeast, including Devils River minnow and numerous "tui chub" forms of isolated desert springs. Many are restricted to single drainages or springs.
-- **Suckers (Catostomidae), darters and perches (Percidae), and sculpins (Cottidae):** Numerous darters and sculpins are listed, many with narrow ranges in Southeastern streams.
-- **Livebearers and killifishes (Poeciliidae, Cyprinodontidae):** Several pupfish and gambusia forms from desert springs and Texas or Puerto Rican waters.
+Many listed fishes and aquatic herpetofauna are restricted to small or fragmented habitats. Examples include:
 
-Amphibians and reptiles include many salamanders (Plethodontidae, including cave and spring forms), frogs (Ranidae, including leopard frogs), and aquatic turtles (Emydidae, Kinosternidae, and others). These reflect stream, wetland, and spring habitat threats across the Southeast, Midwest, and Southwest.
+- **Desert and Great Basin aquatic systems** in Nevada, Oregon, California, Utah, and Arizona, where many [[Tui Chub]] (*Gila bicolor* complex), [[Speckled Dace]] (*Rhinichthys osculus* ssp.), and [[Pupfish]] (*Cyprinodon*) forms are endemic to individual springs or valleys.
+- **Cave and spring systems** in Texas, Alabama, Tennessee, and Missouri, which host blind cavefish, blind salamanders (e.g., *Typhlotriton*, *Eurycea*), and springfish.
+- **Large river systems** such as the Mississippi basin, Rio Grande, and Arkansas River, which support sturgeons, paddlefish, and several shiners and suckers.
+- **Coastal and estuarine habitats** of California, where the [[Tidewater Goby]] occupies brackish lagoons.
 
-The table lists the taxa's category, scientific name, common name, family, and range. Exact entries are not fully legible after OCR, so the counts below are approximate.
+Many entries are represented only by unnamed or undescribed forms ("sp.," "ssp."), reflecting ongoing systematic uncertainty. Several Category 3B entries were removed because subsequent taxonomic revision found them not distinct.
 
 ## Key Findings
 
-- **Purpose:** The notice identifies vertebrate taxa for possible addition to the Endangered and Threatened Wildlife list. It does not propose listing any of them.
-- **Scope:** The accompanying table covers fishes, amphibians, reptiles, birds, and mammals native to the United States. Aquatic fishes, amphibians, and reptiles make up most of the table, which contains several hundred entries across three categories.
-- **Category 1 and 2 taxa:** These are the taxa most likely to receive future listing proposals. Category 1 includes taxa with sufficient threat information; Category 2 includes taxa that may warrant listing but need more data.
-- **Category 3 taxa:** Many fishes and herpetofauna are placed here because of new data on abundance, distribution, or taxonomy. Subcategory 3A flags possibly extinct taxa, while 3B flags questionable taxonomy.
-- **Notable fish taxa mentioned by name:** Gulf sturgeon, pallid sturgeon, Colorado cutthroat trout, Rio Grande cutthroat trout, Montana Arctic grayling, Devils River minnow, Independence Valley tui chub, Oregon chub, and Sandhill chub. Many more are named in the table.
-- **Herpetofauna:** Notable entries include the Chiricahua leopard frog, Ouachita map turtle, Alabama red-bellied turtle, Carolina gopher frog, Cascade Caverns salamander, and numerous cave and spring salamanders.
-- **Legal status:** Species on this list receive no protection under the Act from this notice alone. Protection requires a subsequent proposed and final rule.
-- **Management implication:** The Service encourages federal agencies and other parties to consider these taxa in environmental planning, including impact assessments for river projects, spring development, and wetland drainage.
-- **Public input:** Comments, data, and information on listed or candidate taxa were requested from the public. Information on distributions, taxonomy, and threats was especially sought.
-- **Future action:** Further biological research and field study may be needed. The Service anticipates that many taxa will be found not to warrant listing, and that status changes will be published in periodic notices.
+**1. Scope and legal status**
+- The notice identifies candidate taxa for review but does not propose listing and provides no statutory protection.
+- Federal agencies are encouraged to consider these taxa in environmental planning.
+
+**2. Structure of the table**
+- The table is organized by vertebrate class, beginning with fishes. The fish section is the largest block, running from sturgeons (Acipenseridae) and paddlefish (Polyodontidae) through salmonids, cyprinids, catostomids, ictalurids, cyprinodontids, poeciliids, centrarchids, percids, gobiids, and cottids.
+- Amphibian entries span Plethodontidae, Ambystomatidae, Cryptobranchidae, Proteidae, Sirenidae, Bufonidae, Hylidae, Leptodactylidae, and Ranidae.
+- Reptile entries include Chelydridae, Emydidae, Kinosternidae, Testudinidae, Anguidae, and Anniellidae.
+
+**3. Representative fish taxa**
+- Sturgeons and paddlefish: [[Lake Sturgeon]] (*Acipenser fulvescens*), [[Gulf Sturgeon]] (*Acipenser oxyrinchus desotoi*), [[Pallid Sturgeon]] (*Scaphirhynchus albus*), Alabama shovelnose sturgeon, and [[Paddlefish]] (*Polyodon spathula*).
+- Salmonids: Colorado, Bonneville, Rio Grande, Alvord, and Willow/Whitehorse cutthroat trout; Kern River rainbow trout; redband trout; [[Bull Trout]] (*Salvelinus confluentus*); Montana Arctic grayling.
+- Suckers: [[Lost River Sucker]], [[Shortnose Sucker]], and [[Razorback Sucker]] (*Xyrauchen texanus*), among others.
+- Coastal fish: [[Tidewater Goby]] (*Eucyclogobius newberryi*).
+- Many cyprinids (chubs, shiners, daces), catfishes, pupfishes, topminnows, sunfishes, darters, and sculpins are also listed, many with restricted ranges.
+
+**4. Representative amphibian and reptile taxa**
+- Salamanders: [[Shenandoah Salamander]] (*Plethodon shenandoah*), Cheat Mountain salamander, Texas salamander, Barton Springs salamander, Carolina waterdog, and the Gulf Hammock dwarf siren.
+- Frogs and toads: Puerto Rican toad, Black toad, Amargosa toad, Illinois chorus frog, and California red-legged frog.
+- Turtles: Alligator snapping turtle, Western pond turtle, Bog turtle, Texas map turtle, Desert tortoise, and [[Gopher Tortoise]] (*Gopherus polyphemus*).
+- Lizards: Baker's legless lizard, Panamint alligator lizard, and black legless lizard.
+
+**5. Category and subcategory counts**
+- The notice does not present summary totals in the reproduced text. Category assignments appear only as column entries in the table, so exact counts per category cannot be derived from the source.
+
+**6. Solicitation of public information**
+The Service seeks data on:
+1. Taxa that belong in a different category.
+2. Taxa not yet included in the table.
+3. Areas that should be designated as [[Critical Habitat]], or reasons why critical habitat may not be prudent or determinable.
+4. Threats to any listed taxon.
+5. Taxonomic changes.
+6. New or more appropriate names.
+7. Errors, such as in indicated distributions.
+
+Comments were to be submitted to the Director, Office of Endangered Species, 500 Broyhill Building, Washington, DC 20240, with no fixed deadline ("until further notice"). Substantive status changes may be announced by periodic *Federal Register* notices.
+
+**7. Regional offices**
+Seven regional offices handle taxon-specific inquiries: Region 1 (Pacific states and Pacific territories), Region 2 (Arizona, New Mexico, Oklahoma, Texas), Region 3 (Midwest Great Lakes states), Region 4 (Southeast states, Puerto Rico, Virgin Islands), Region 5 (Northeast and Mid-Atlantic states), Region 6 (Mountain and Plains states), and Region 7 (Alaska).
+
+**8. Contact**
+Mr. John L. Spinks, Jr., Chief, Office of Endangered Species, served as the primary federal contact, with [[Endangered Species Act]] authority cited as 16 U.S.C. 1531 et seq.

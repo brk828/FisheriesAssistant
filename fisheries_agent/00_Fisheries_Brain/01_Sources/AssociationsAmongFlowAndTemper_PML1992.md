@@ -1,29 +1,11 @@
 ---
-species:
-  - Ptychocheilus lucius
-  - Gila cypha
-  - Gila elegans
-  - Xyrauchen texanus
-  - Gila robusta
-  - Catostomus latipinnis
-  - Catostomus discobolus
-  - Rhinichthys osculus
-  - Richardsonius balteatus
-  - Cyprinella lutrensis
-  - Pimephales promelas
-  - Notropis stramineus
-common_name: Colorado Squawfish, Humpback Chub, Bonytail, Razorback Sucker, Roundtail Chub, Flannelmouth Sucker, Bluehead Sucker, Speckled Dace, Redside Shiner, Red Shiner, Fathead Minnow, Sand Shiner
-family: Cyprinidae; Catostomidae
-habitat: Riverine (main channel, runs, riffles, backwaters, and shoreline habitats of the Yampa River)
-ocean_basin: N/A (freshwater; Colorado River Basin)
-location: Yampa River, northwestern Colorado, USA (including Yampa Canyon and Dinosaur National Monument reaches)
-tags:
-  - ichthyology
-  - marine-biology
-  - cyprinidae
-  - catostomidae
-  - spawning-phenology
-  - river-regulation
+species: "Gila robusta; Ptychocheilus lucius; Rhinichthys osculus; Catostomus discobolus; Catostomus latipinnis; Cyprinella lutrensis; Notropis stramineus; Pimephales promelas; Richardsonius balteatus"
+common_name: "Colorado Roundtail Chub; Colorado Pikeminnow (Squawfish); Speckled Dace; Bluehead Sucker; Flannelmouth Sucker; Red Shiner; Sand Shiner; Fathead Minnow; Redside Shiner"
+family: "Cyprinidae; Catostomidae"
+habitat: "Low-velocity backwaters and shoreline habitats (seine-sampled nursery habitat), riverine mainchannel and tributary reaches"
+ocean_basin: "N/A"
+location: "Lower Yampa River, northwestern Colorado (river km 0.0-94.1), Colorado River Basin, USA"
+tags: [ichthyology, marine-biology, cyprinidae, catostomidae, flow-regime, larval-fish, colorado-river-basin, yampa-river]
 title: "Associations among flow and temperature regimes and spawning periods and abundance of young selected fishes in the Yampa River"
 source_id: "PML1992"
 marsh_id: "PML1992"
@@ -31,53 +13,62 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "R. T. Muth (1993). Associations among flow and temperature regimes and spawning periods and abundance of young selected fishes in the Yampa River. Colorado State University Larval Fish Laboratory Contribution 58. Marsh Library ID: PML1992."
 source_file: "Muth R.T. et al. 1993. associations among flow and temperature rises and spawning periods and abundance of young selected fishes.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Spawning Periods and Relative Abundance of Native and Nonnative Fishes in the Yampa River, Colorado
+# Associations among flow and temperature regimes and spawning periods and abundance of young selected fishes in the Yampa River
 
 #ichthyology #marine-biology #cyprinidae #catostomidae
 
 ## Executive Summary
 
-This Colorado State University [[Larval Fish Laboratory]] report examines how spawning timing and relative abundance of [[Yampa River]] fishes relate to river discharge and water temperature. The study covers native and nonnative species, with emphasis on [[Colorado Squawfish]], [[Humpback Chub]], [[Bonytail]], and [[Razorback Sucker]], all federally listed as endangered. Spawning periods were estimated from age-0 fish and linked to [[Peak Discharge]] and [[Degree-Days]] over the spring and summer. The authors conclude that flow and temperature conditions during spring and early summer likely influence reproductive success and recruitment of native fishes, and they recommend flow management that supports native species while limiting nonnative establishment.
+This final report (April 1993) by T. Muth of the [[Larval Fish Laboratory]] at Colorado State University and Thomas P. Nesler of the [[Colorado Division of Wildlife]] analyzes seine and dipnet collections of small fishes made in low-velocity habitats of the lower [[Yampa River]] in 1980–1984. The authors estimated spawning-period parameters and relative abundance of age-0 fish for eight common taxa (four native, four nonnative) and correlated them with annual April–July discharge and degree-day measures. Native and nonnative fishes responded in opposite directions to flow and temperature regimes, and the authors suggest that flow management approximating natural hydrographs, with periodic above-average spring-summer peaks, may benefit natives and suppress prolific nonnatives.
 
 ## Background & Description
 
-The Yampa River is a major tributary of the [[Green River]] and part of the [[Colorado River Basin]]. Many native fishes in the upper basin have declined since the mid-twentieth century, largely because of flow alteration and the spread of nonnative species. The report notes that earlier work on these fishes is largely descriptive, and that the Yampa had been less studied than other upper basin rivers.
+Declines in [[Colorado River Basin]] native fishes have been attributed to habitat modification and interactions with nonnative species. The study was a secondary analysis of data originally gathered by the [[Colorado Division of Wildlife]] in 1980–1984 to document [[Colorado Pikeminnow]] (formerly squawfish) reproduction, a species listed as endangered, along with [[Humpback Chub]] studies. The primary objective was to link annual spawning periods and relative abundance of young fish with spring-summer flow and temperature regimes.
 
-The study tracked spawning of nine focal species, grouped as native or nonnative:
+The Yampa River is the principal tributary of the [[Green River]] and is among the few large Colorado Basin rivers not greatly affected by water development. The lower 94.1 river km, between Cross Mountain Canyon and the Yampa–Green confluence, was divided into five reaches. Reach 5 (Cross Mountain Canyon) is high-gradient with boulder and cobble substrates; Reach 4 is low- to moderate-gradient; Reach 3 (Lily Park to Deerlodge Park) is a broad, braided, meandering section with numerous backwaters; Reaches 2 and 1 lie within Yampa Canyon, with Reach 1 showing more backwater development.
 
-- **Native:** [[Flannelmouth Sucker]], [[Bluehead Sucker]], [[Speckled Dace]], [[Redside Shiner]], [[Roundtail Chub]], and the four endangered species listed above.
-- **Nonnative:** [[Red Shiner]], [[Fathead Minnow]], and [[Sand Shiner]].
+Fish data came from seine hauls (1.0 or 3.0 × 1.2 m, 0.8-mm mesh) in backwaters and shoreline habitats with water velocity typically below 0.2 m/s, using a qualitative-representative sampling approach. Fish were fixed in 10% formalin and identified in the laboratory. Spawning start (SPAWN-I, days from April 1) and duration (SPAWN-T) were estimated from length-frequency distributions. Abundance was indexed by catch-per-unit-effort (CPUE) and percentage of occurrence (PO). Correlations were Pearson r values.
 
-Field sampling used seines, larval nets, and electrofishing across river reaches, and collected water temperature and discharge records. Spawning periods were estimated from the length-frequency distribution of age-0 fish and were expressed as SPAWN-S (start date, days after April 1), SPAWN-E (end date), and SPAWN-T (total duration in days). Degree-days were calculated from daily water temperatures above a threshold. Relative abundance was expressed as catch per unit effort (CPUE).
-
-Sampling was organized by river reach and season, and specimens were preserved and processed at the Colorado State University laboratory. The report also reviews earlier studies on [[Colorado River Basin]] fishes, including work on the [[Green River]] and upper Colorado River.
+Study-area flow data were drawn from USGS records for the Maybell gage (river km 138.9) and the Deerlodge Park gage (river km 72.2), with Deerlodge Park values for 1980–1981 estimated from Maybell and Little Snake River data. Temperature data were USGS mainchannel records at Maybell, expressed as degree-days above five thresholds (12, 14, 16, 18, and 20°C).
 
 ## Ecological & Environmental Context
 
-**Hydrology and temperature.** Discharge in the Yampa is strongly seasonal, with spring snowmelt runoff peaking typically in May and June, and low baseflows in late summer and winter. The report states that the spring–summer hydrograph and temperature regime strongly affect spawning phenology and abundance. Spring spawning depends on discharge and degree-days, and warmer, higher-flow years generally moved spawning earlier. Annual peak flows and the timing of peaks varied considerably among the study years.
-
-**Physical habitat.** The report divides the study area into reaches with contrasting habitat:
-
-- **Upper reaches** (above Yampa Canyon) are high-gradient, with boulder, cobble, and gravel substrates, and are dominated by riffles and runs.
-- **Middle reaches** (Yampa Canyon) are high-gradient but more confined, with deep pools and backwaters.
-- **Lower reaches** (below Yampa Canyon, through Dinosaur National Monument) are lower-gradient, with meanders, braids, sand and gravel bars, and extensive backwaters.
-
-**Species habitat and life history.** Native species generally spawn in spring or early summer over gravel or cobble substrates, and their eggs are typically demersal and adhesive. Several species are associated with riffles and runs, and many use shoreline or backwater habitat as young. Nonnative species such as red shiner and fathead minnow are generally more tolerant of warm, turbid, and variable conditions, and some were associated with the lower-flow, warmer conditions of the study.
-
-**Management concerns.** The authors identify flow regulation, habitat alteration, and nonnative fish as the main threats to native fishes. Recommendations include managing reservoir releases to mimic natural peak flows and temperatures, and maintaining adequate spring flows for spawning and rearing. The report also notes that temporary removal of nonnatives may be insufficient without the restoration of natural flow patterns.
+- **Fish fauna:** The Yampa River supports 12 native fish species and at least 20 introduced nonnative species. Seven natives are considered in jeopardy or declining, four are federally endangered, and three are candidates for federal listing. Most nonnatives have established reproducing populations.
+- **Flow regime:** The Yampa's flow approximates historic patterns, with high spring and early-summer flows and low flows from late summer through winter. Long-term (1922–1987) mean discharge was about 61 m³/s annually and 153 m³/s during April–July runoff.
+- **Habitat zones:** Headwater reaches are cold and clear; middle reaches are cool to tepid and sometimes turbid; lower canyon reaches are warm and usually turbid.
+- **Spawning context:** Earlier fish-spawning studies (Vanicek and Kramer 1969; Tyus et al. 1981; Haynes et al. 1984) indicated that Colorado Pikeminnow spawn from late June through early August in lower Yampa Canyon, and that larvae appear about 3–4 weeks after water reaches 18°C.
+- **Hydrologic extremes:** Peak discharge in 1984 was the highest recorded in the 58-year Maybell record (1934–1991). Peak discharge in 1981 had a percentile rank of 13.
 
 ## Key Findings
 
-1. **Native spawning timing shifted with hydrology.** Spawning of native fishes started earlier in years with higher spring discharge and higher degree-days, and spawning seasons varied substantially among years. Native species such as speckled dace, bluehead sucker, and flannelmouth sucker spawned in early spring in most years.
+**Flow and temperature regimes (1980–1984)**
+- Total April–July discharge at Maybell (m³) was about 5.7 × 10⁶ in 1981, 1.4 × 10⁷ in 1980, 1.5 × 10⁷ in 1982, 1.6 × 10⁷ in 1983, and 2.4 × 10⁷ in 1984.
+- 1981 was a low-flow year, and 1983 and 1984 were high-flow years. Peak discharge percentile ranks were 13 (1981), 79 (1980), 57 (1982), and 89 (1983).
+- Rate of warming was fastest in 1981 and slowest in 1983. Cumulative degree-days in 1982, 1983, and 1984 were 28–56%, 49–65%, and 28–53% lower, respectively, than in 1981.
 
-2. **Native and nonnative species differed in phenology.** For most years and most species, native fishes began spawning earlier than nonnative species. Red shiner and fathead minnow spawning generally started later and sometimes lasted longer than native spawning.
+**Spawning periods**
+- Natives generally started spawning earlier than nonnatives, and nonnatives generally ended later.
+- Across years, spawning for all taxa started and ended earliest in 1981 and latest in 1983.
+- Among natives, flannelmouth sucker started spawning earliest, and speckled dace ended latest. Among nonnatives, fathead minnow started earliest and sand shiner ended latest.
+- For all nonnatives except redside shiner, SPAWN-I and SPAWN-T were significantly negatively correlated among years. For natives, spawning periods were fairly consistent, and correlations were weak.
 
-3. **Relative abundance responded to flow and temperature.** CPUE for several native species showed associations with peak discharge, degree-days, and spawning-period parameters. The relationships were generally weak to moderate, and the authors caution that they reflect correlations rather than established cause-and-effect relationships.
+**Relative abundance**
+- Total CPUE and PO were highest for natives in 1984 (Gila sp. in 1981). For nonnatives, they were highest in 1981, except fathead minnow (highest CPUE in 1982, PO in 1984).
+- Native CPUE was highest across all years in reaches 1–3 and lowest in reaches 4 and 5.
 
-4. **Environmental variability is high.** The Yampa's spring hydrograph and temperature regime varied widely across the study years. The authors argue that this variability drives year-to-year differences in recruitment and that single-season data cannot fully represent population dynamics.
+**Flow and temperature associations**
+- Nonnatives: earlier spawning onset and higher CPUE were associated with low peak discharge, low-to-moderate daily mean and total discharge, and moderate-to-high cumulative degree-days. The opposite pattern held for later onset and lower CPUE.
+- Natives: associations were opposite those of nonnatives, except for Gila sp., which responded similarly to nonnatives. Speckled dace, bluehead sucker, and flannelmouth sucker had higher CPUE with high discharge and low-to-moderate degree-days.
+- Redside shiner's spawning-season length was associated with flow and degree-days in the opposite direction from other nonnatives, which the authors attributed to its preference for cooler water.
 
-5. **Flow management is a key lever.** The authors suggest that managing river flows, especially spring peak discharge and summer baseflows, could favor native spawning and recruitment while constraining nonnative establishment. They note that the results apply specifically to the Yampa and similar regulated rivers in the upper [[Colorado River Basin]].
+**Management implications**
+- The authors suggest that managing flows to approximate natural hydrographs, with periodic above-average spring-summer discharges, may benefit native fishes and suppress certain prolific nonnatives. Cautioning that correlations from a descriptive survey do not establish causal relationships, they note that flow and temperature explain only part of the variation in reproduction and recruitment.
 
-6. **Conservation significance.** The four endangered species (Colorado Squawfish, Humpback Chub, Bonytail, and Razorback Sucker) are the report's central conservation focus. Their protection is governed by the [[Endangered Species Act]], and the report supports recovery planning through flow and habitat recommendations.
+**Key species notes**
+- [[Red Shiner]] is a short-lived fractional spawner with an estimated 5–19 clutches per season (mean 585 eggs per clutch) and is considered a pioneer species.
+- [[Fathead Minnow]] tolerates high temperature, turbidity, and low dissolved oxygen.
+- [[Speckled Dace]] has a fecundity of about 174–514 eggs per female.
+- [[Flannelmouth Sucker]] is a riverine species with a reported fecundity of 4,000–40,000 eggs per fish.

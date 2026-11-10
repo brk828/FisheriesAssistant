@@ -1,11 +1,11 @@
 ---
-species: Gila cypha
-common_name: Humpback Chub
-family: Cyprinidae
-habitat: Freshwater riverine (Colorado River system, including the Little Colorado River)
-ocean_basin: N/A
-location: Grand Canyon, Colorado River, Arizona
-tags: [ichthyology, marine-biology, cyprinidae, humpback-chub, fish-handling, radiotelemetry]
+species: ["Gila cypha", "Catostomus latipinnis", "Catostomus discobolus", "Oncorhynchus mykiss", "Salmo trutta", "Morone saxatilis", "Ictalurus punctatus"]
+common_name: ["Humpback Chub", "Flannelmouth Sucker", "Bluehead Sucker", "Rainbow Trout", "Brown Trout", "Striped Bass", "Channel Catfish"]
+family: ["Cyprinidae", "Catostomidae", "Salmonidae", "Moronidae", "Ictaluridae"]
+habitat: "Mainstem Colorado River and tributaries (including the Little Colorado River)"
+ocean_basin: "N/A (freshwater)"
+location: "Colorado River, Grand Canyon, Arizona"
+tags: [ichthyology, marine-biology, cyprinidae, fish-handling, humpback-chub, radiotelemetry, grand-canyon]
 title: "Fish handling improvement Grand Canyon humpback chub"
 source_id: "PML2782"
 marsh_id: "PML2782"
@@ -13,58 +13,72 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "R. Valdez (1991). Fish handling improvement Grand Canyon humpback chub. BIO/WEST memorandum to D. Wegner, Glen Canyon Environmental Studies, and W. Williams, Bureau of Reclamation. Marsh Library ID: PML2782."
 source_file: "Valdez, R. 1991. Fish handling improvement Grand Canyon humpback chub.pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Fish Handling Effects on Humpback Chub
+# Fish handling improvement Grand Canyon humpback chub
 
 #ichthyology #marine-biology #cyprinidae
 
 ## Executive Summary
 
-This memorandum from [[BIO-WEST]] (Logan, Utah) to the [[Bureau of Reclamation]] reports on a study of how capture, handling, and holding affect [[Humpback Chub]] (*Gila cypha*) in the [[Grand Canyon]] reach of the [[Colorado River]]. The memo was prepared for [[Glen Canyon Environmental Studies]] and its principal investigator, and is dated September 25, 1991. It summarizes capture and tagging records, describes observed handling injuries and post-release behavior (notably fish swimming upright and apparent buoyancy problems), and recommends changes to handling protocols. Its central concern is minimizing handling-related impacts on the species while keeping the monitoring program effective.
+This memorandum from [[BIO/WEST]] (dated September 25, 1991) answers a request from the [[Bureau of Reclamation]] and the [[Glen Canyon Environmental Studies]] program about the possible effects of fish-handling during research on native and endangered fish in the mainstem [[Colorado River]] in [[Grand Canyon]]. It covers capture, tagging, and handling data from eleven monthly field trips (October 1990 through August 1991). Stress signs were rare in [[Humpback Chub]]. Net scars were common but superficial. Three humpback chub mortalities were recorded. The memo lists handling refinements and the switch from [[Radiotelemetry]] to [[PIT Tagging]]. A fuller evaluation was promised for the 1991 Annual Report.
 
 ## Background & Description
 
-- **Subject species:** [[Humpback Chub]], a riverine cyprinid of the Colorado River system. The document treats it as a federally sensitive fish whose handling must be carefully managed.
-- **Context:** The memo responds to a request for an update on fish handling procedures and related studies, prompted by concerns about [[Glen Canyon Dam]] operations and humpback chub welfare.
-- **Study history:** BIO-WEST completed a full year of field work (September 1990 to September 1991), with two field trips in the reporting period (October and November). An earlier report was issued in February 1991, and a related 1991 pilot study tested holding tanks.
-- **Prior work:** The memo references earlier work on radio-tagged humpback chub and on fish handling and holding effects, including a 1992 annual report.
+The memo responds to a request for information on handling impacts. It encloses the study's Data Collection Plan, which includes a [[Fish Handling Protocol]]. The protocol was to be updated for the 1992 Work Plan. The author, Rich Valdez (Principal Investigator, BIO/WEST Humpback Chub Studies), states that the 1991 field season was not yet complete. Two more field trips (October and November 1991) remained before full data analysis. September 1997 data were not yet entered in the database (the OCR text reads "1997," but the context points to 1991).
+
+Target species and fish captured:
+
+- **[[Humpback Chub]]** (*Gila cypha*): the focal endangered species.
+- **[[Flannelmouth Sucker]]** and **[[Bluehead Sucker]]**: native catostomids with net scars.
+- **[[Rainbow Trout]]** and **[[Brown Trout]]**: noted for burn marks and as predators for stomach-pumping.
+- **[[Striped Bass]]** and **[[Channel Catfish]]**: large predators proposed for stomach-pumping.
 
 ## Ecological & Environmental Context
 
-- **Habitat and water conditions:** Field observations describe cold water temperatures, and the memo notes that fish were held in tanks under conditions that could approach ambient river temperatures. Exact temperature values are not legible in the scanned source and are not reported here.
-- **Capture settings:** Fish were captured in the Little Colorado River and the main Colorado River near the mouth of the Little Colorado, where some fish drifted into nets after activity elsewhere in the system.
-- **Observed effects:** The memo describes fish held in tanks, with water-column behavior and post-release conditions observed, including fish that appeared to swim upright or had possible swim-bladder problems. Injuries from net and gear use were also noted.
-- **Gear and methods:** [[Electrofishing]], [[Trammel Net]]s, and seines were used. Net and seine use was linked to handling stress and to fish held in tanks before release.
+- **Temperature:** Mainstem water was cold (45–50 °F), which the memo describes as more favorable for handling than the warmer waters of some tributaries.
+- **Net-related injury:** Net scars were seen on many humpback chub, flannelmouth suckers, bluehead suckers, and trout. The author judged these marks superficial. Most came from 2-inch mesh [[Gill Net]]s, which were being phased out because some fish were held by the gill area. [[Trammel Net]]s were considered less injurious because they entangle and hold fish before gilling occurs.
+- **Air in the gut:** Humpback chub often had trouble uprighting because air was trapped in the intestine. This was attributed to pressure equalization in the swim bladder or to swallowing air during handling. Gentle abdominal massage helped fish expel air and swim normally.
+- **Tag-related lesions:** Open lesions and inflammation were reported from fish carrying Carlin tags, Floy tags, or scars from older tags placed by earlier investigators. These old tags were being removed and the fish PIT-tagged.
 
 ## Key Findings
 
-**1. Capture effort and gear**
-- Fish were captured by [[Electrofishing]] (494 individuals, per the memo's capture tally) and [[Trammel Net]] (33 individuals). A seine was also used, and a total figure of 83 appears in the record but is partly illegible in the scan.
+**Capture and tagging totals (October 1990–August 1991, eleven monthly trips):**
 
-**2. Radiotagging and tracking**
-- A number of humpback chub were fitted with [[Radiotelemetry]] tags for surveillance and monitoring. The memo notes that the tagging number was considered sufficient to meet the study's objectives, and that tagged fish were recaptured and tracked.
-- One radio-tagged fish was recaptured in the Little Colorado River, and two others were found in a trammel net at the mouth of the Little Colorado River.
+- Total humpback chub PIT-tagged by BIO/WEST: **468**.
+- Recaptures on BIO/WEST PIT tags: **39 (61%)**. The OCR label is partly illegible, so this figure should be checked against the source.
+- Humpback chub under 200 mm TL: **110**.
+- Humpback chub radiotagged: **42** (the text gives "4+ 6 in Sept," which is likely 42 total including 6 in September).
+- Capture methods: **[[Minnow Trap]]** (hoop and minnow traps) 32; **[[Electrofishing]]** 81; seine 2.
 
-**3. Handling effects and observed injuries**
-- Some fish showed buoyancy and orientation problems after release, which the authors link to air in the swim bladder, possibly from the handling or holding process.
-- The memo states that pressure changes and air-bladder expansion during handling may contribute to these effects, and that complete documentation was to be provided in a later report.
+**Stress and injury:**
 
-**4. Pilot holding study (January 1991)**
-- Eight adult humpback chub were held in tanks in January 1991 as a pilot study of holding effects, to assess survival and handling impacts.
+- Little evidence of stress (lethargy, sliming, inability to upright, color change) was seen in humpback chub. The memo notes that eliminating the need to video every fish reduced handling time and stress. A still photo is now taken of each fish instead.
+- One humpback chub (about 175 mm TL) had a deformity at the posterior margin of the anal fin. It showed stress signs and fought capture strongly. The deformity did not appear to affect swimming, and the fish was released.
+- Burn marks on trout were reported, but the data had not yet been analyzed for percentage of occurrence.
+- No adverse effects were noted from PIT tagging.
 
-**5. Recommendations to reduce handling impacts**
-The memo recommends the following measures:
-1. Reduce handling and minimize the time fish are held out of water.
-2. Eliminate unnecessary handling where possible.
-3. Release fish with shorter holding times.
-4. Use a tracking or holding protocol that limits stress and air exposure.
-5. Minimize time between capture and release for each fish.
-6. Use [[Electrofishing]] only where other methods are not practical.
-7. Radiotag only the number of fish needed for surveillance and monitoring.
+**Mortalities (three humpback chub):**
 
-**6. Reducing sacrifice of fish**
-- A stomach-flushing or similar non-lethal procedure is being developed to evaluate the diet of other fish species, such as [[Rainbow Trout]], [[Brown Trout]], and [[Smallmouth Bass]]. This would eliminate the need to sacrifice humpback chub for diet analysis.
+1. A recaptured radiotagged fish (432 mm TL) died.
+2. One fish (51 mm TL) was found in a minnow trap.
+3. One fish (340 mm TL) was found unentangled in a trammel net at the mouth of the Little Colorado River. It may have drifted in already fatigued.
 
-**7. Overall conclusion**
-- The memo concludes that the report will clarify the scope of handling impacts on humpback chub in the Grand Canyon and that the recommended protocol changes should reduce harm while preserving the monitoring program's objectives.
+**Stomach-pumping pilot study:**
+
+- In January 1991, eight adult humpback chub were stomach-pumped to test feasibility for diet analysis. The fish showed no stress. The procedure seemed to relieve the trapped-air problem. One of the eight was later recaptured with no detrimental effects.
+- The plan is to use stomach pumping for adult humpback chub and for large predators (rainbow trout, brown trout, striped bass, channel catfish) to reduce sacrifice of fish for gut analysis. See [[Stomach Pumping]].
+
+**Handling refinements listed in the memo:**
+
+- Experienced handlers only. No volunteer or inexperienced handler is allowed to handle fish unsupervised.
+- Still photos instead of video for each fish.
+- Processing all fish on site (except radiotagged fish) to reduce holding time.
+- Recirculating live-well systems.
+- Gill and trammel nets checked at intervals of about 2 hours.
+- Shorter electrofishing runs to prevent crowding of fish in live wells.
+- Radiotagging limited to the number needed. Of 60 fish anticipated for the first year, 48 were radiotagged, judged sufficient for the study's objectives.
+- Old Carlin and Floy tags being removed, with the fish PIT-tagged.
+
+**Pending work:** A complete evaluation of radiotelemetry effects (radio implant, surgery, and related impacts) on humpback chub was planned for the 1991 Annual Report, due February 1992. The updated Data Collection Plan and protocols were to follow for the 1992 Work Plan.

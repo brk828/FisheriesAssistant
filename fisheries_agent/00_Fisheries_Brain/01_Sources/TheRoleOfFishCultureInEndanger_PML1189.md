@@ -2,18 +2,28 @@
 species:
   - Ptychocheilus lucius
   - Gila elegans
-  - Xyrauchen texanus
   - Gila cypha
   - Gila nigrescens
+  - Gila robusta jordani
+  - Gila purpurea
+  - Plagopterus argentissimus
+  - Notropis formosus
+  - Notropis formosus formosus
+  - Notropis formosus mearnsii
+  - Ictalurus pricei
   - Cyprinodon elegans
-  - Cyprinodon pecosensis
+  - Cyprinodon bovinus
   - Cyprinodon macularius
-common_name: Colorado Squawfish, Bonytail, Razorback Sucker, Humpback Chub, Chihuahua Chub, Comanche Springs Pupfish, Leon Springs Pupfish, Desert Pupfish
-family: Cyprinidae, Catostomidae, Cyprinodontidae
-habitat: Freshwater; spring-fed hatchery ponds and raceways, rivers and reservoirs of the Colorado River basin and northern Mexico
+  - Poeciliopsis occidentalis occidentalis
+  - Gambusia gaigei
+  - Xyrauchen texanus
+  - Catostomus bernardini
+common_name: Colorado Squawfish; Bonytail; Humpback Chub; Chihuahua Chub; Pahranagat Roundtail Chub; Yaqui Chub; Woundfin; Beautiful Shiner; Yaqui Shiner; Yaqui Catfish; Comanche Springs Pupfish; Leon Springs Pupfish; Desert Pupfish; Gila Topminnow; Big Bend Gambusia; Razorback Sucker; Yaqui Sucker
+family: Cyprinidae; Ictaluridae; Cyprinodontidae; Poeciliidae; Catostomidae
+habitat: Desert springs, reservoirs, rivers and earthen ponds (captive culture at Dexter NFH)
 ocean_basin: N/A
-location: Dexter National Fish Hatchery, Pecos River Valley, southeastern New Mexico, USA; release sites in Arizona (Verde River, Lake Mohave, Cherry Creek)
-tags: [ichthyology, marine-biology, cyprinidae, catostomidae, endangered-species, aquaculture, conservation-hatchery, genetic-diversity]
+location: Pecos River Valley, southeastern New Mexico; historic ranges in Colorado River basin, Arizona and southwestern U.S.
+tags: [ichthyology, marine-biology, endangered-species, fish-culture, hatchery, conservation]
 title: "The Role of Fish Culture in Endangered Fishes Recovery"
 source_id: "PML1189"
 marsh_id: "PML1189"
@@ -21,86 +31,55 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "B. L. Jensen (1986). The Role of Fish Culture in Endangered Fishes Recovery. U.S. Fish and Wildlife Service, Dexter National Fish Hatchery. Marsh Library ID: PML1189."
 source_file: "Jensen B.L. 1986. The note of fish culture.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
 # The Role of Fish Culture in Endangered Fishes Recovery
 
-#ichthyology #marine-biology #cyprinidae #catostomidae
+#ichthyology #marine-biology #cyprinidae #fish-culture
 
 ## Executive Summary
 
-This U.S. Fish and Wildlife Service document, by Eddy L. Jensen, describes how captive culture at the [[Dexter National Fish Hatchery]] (Dexter NFH) supports recovery of endangered and threatened native fishes of the Southwest. Since 1979 the facility has held and propagated many species, with up to 20 species held at one time. Work covers spawning, rearing, genetic management, fish health, and stocking of hatchery-reared fish into the wild. Key taxa include the [[Colorado Squawfish]], [[Bonytail]], [[Razorback Sucker]], [[Humpback Chub]] and [[Chihuahua Chub]]. The document is an overview of program activities and results rather than a formal experimental study.
+This paper by Buddy L. Jensen of the [[U.S. Fish and Wildlife Service]] describes the endangered fishes program at [[Dexter National Fish Hatchery]] (Dexter NFH), New Mexico. Following the [[Endangered Species Act]] of 1973, Dexter began holding and culturing imperiled southwestern fishes in 1974, and has been fully engaged in this work since 1978. The program aimed to maintain a genetically viable captive gene pool, develop culture techniques, study biology, supply fish to cooperating agencies, and inform the public. Its reported results include propagation of [[Razorback Sucker]], [[Colorado Squawfish]], [[Bonytail]] and [[Woundfin]], successful reintroductions, and ongoing management of fish health problems such as the [[Asian Tapeworm]] and [[Anchorworm]].
 
 ## Background & Description
 
-The hatchery operates under the [[Endangered Species Act]] (ESA) of 1973. Table 1 in the source lists fish species planned for culture at Dexter NFH, with their federal status (Endangered, Threatened, Proposed, Candidate, or No Federal Status). The list includes about 20 species, among them:
+The document presents the Dexter NFH program as an effort to recover fishes that are mostly federally listed. Its stated objectives were:
 
-- **Cyprinidae:** Colorado squawfish, bonytail, humpback chub, Chihuahua chub, Yaqui chub, beautiful shiner, Yaqui shiner, roundtail chub
-- **Catostomidae:** razorback sucker, Yaqui sucker
-- **Cyprinodontidae:** [[Comanche Springs Pupfish]], Leon Springs pupfish, [[Desert Pupfish]]
-- **Ictaluridae:** Yaqui catfish
-- **Poeciliidae:** Gila topminnow
-
-Three additional introductions were planned for 1986. The program's stated objectives are to:
-
-1. Maintain a viable, protected gene pool of imperiled Southwestern fishes.
+1. Maintain a viable, protected gene pool of imperiled desert fishes.
 2. Develop culture techniques.
-3. Study their biological requirements.
-4. Provide live and preserved fish to scientific agencies and institutions.
-5. Exchange information and data on culture and management.
+3. Study biological requirements.
+4. Provide live and preserved fish to cooperating agencies and institutions.
+5. Exchange expertise and data on culture and management.
 6. Publish findings.
-7. Launch a public information program.
+7. Implement a public information program.
+
+Up to 20 species were held at one time. In 1986, 14 species were held, with three more planned for introduction (Table 1 of the source). Table 1 lists 17 species across six families. Of these, 9 are Cyprinidae and the rest are Ictaluridae, Cyprinodontidae, Poeciliidae and Catostomidae. Listing categories include Endangered, Threatened, Proposed, Candidate and no federal status.
+
+The facility sits at 3,500 ft in the Pecos River Valley. Annual rainfall is about 12 inches, and the growing season is 180–200 days. Water comes from three shallow wells, with pH 7.2–7.5 and a constant temperature of 64°F. Total hardness averages 2,100 ppm and total dissolved solids about 3,500 ppm. Facilities include a holding house with sixteen 350-gallon tanks, a hatching battery and a laboratory, plus 48 earthen ponds totaling 20.8 acres. Wastewater is impounded on site and isolated from other surface waters.
 
 ## Ecological & Environmental Context
 
-Dexter NFH is in the Pecos River Valley of southeastern New Mexico at about 3,500 ft elevation. Reported conditions are:
+The document identifies several causes of decline for southwestern fishes:
 
-- Average annual rainfall of about 12 inches (value partly illegible in scan).
-- Spring-fed water supply, nearly alkaline (pH about 7.2 to 7.5).
-- Constant water temperature of about 64°F.
-- Total dissolved solids of approximately 3,500 ppm.
-- Facilities include about 35 raceways, a hatching battery, a laboratory, and earthen ponds ranging from 0.1 to 1.8 acres.
-- The water source is groundwater isolated from other surface waters, which helps protect against introduced pathogens and hybridization.
+- Altered thermal regimes below reservoirs from hypolimnetic releases of stored water.
+- Reduced or dried desert springs as groundwater declines under irrigation demand.
+- Habitat alteration from siltation and deposition caused by poor land management.
+- Introduced fishes that prey on, compete with, or otherwise interact with natives.
 
-Genetic management is a central concern. The document notes that fish produced in artificial habitats risk losing genetic variability and fitness for reestablishment in historic habitats. The hatchery responds with strict operating procedures:
+These factors have caused a continuous and progressive reduction in the endemic ichthyofauna of the region (Johnson and Rinne 1982).
 
-- Each species is kept in a separate pond or raceway to prevent hybridization and predation by other species.
-- Closely related species are held in widely separated ponds.
-- Broodstock are identified by genetic and taxonomic verification.
-- Fish are screened for disease organisms that could endanger other fish or affect reintroduction efforts.
+Genetic management was a central concern. Electrophoretic work by Tony Echelle (pers. comm.) on wild and Dexter-held Pecos Pupfish, Comanche Springs and Leon Springs pupfish found that genetic diversity did not change and heterozygosity was retained. Buth and Murphy (1984) found that hatchery razorback suckers were "at least as good as, if not better than" Lake Mohave natural populations for introgressed genes. In 1985, 2,000 larval razorback suckers were collected from Lake Mohave. Of 1,539 survivors, 625 were kept as broodfish, 100 were sent for electrophoretic analysis, and 914 were stocked in Eagle Creek, Arizona.
+
+Isolation practices included separate ponds for each species, widely separated ponds for congeneric species, and disinfection of gear between ponds. Wild fish were periodically added to captive stocks to maintain diversity.
 
 ## Key Findings
 
-**Program outcomes and species successes**
-
-- Several species, including [[Comanche Springs Pupfish]], Leon Springs pupfish, [[Desert Pupfish]], beautiful shiner, and Chihuahua chub, have been held and reproduced successfully. Pupfish and chubs spawn primarily from spring through early fall.
-- The Chihuahua chub was thought extinct for about 40 years until it was rediscovered in 1975. After severe flooding in 1979 only 10 fish could be salvaged, and these were brought to Dexter in April 1979. The hatchery has since produced more than 1,000 Chihuahua chubs, and hatchery-reared fish were reintroduced in 1986.
-- Several species, including bonytail and humpback chub, have produced large populations at Dexter, although reproductive success fluctuates from year to year.
-- Razorback suckers and Colorado squawfish were spawned by hormone injection of females, with eggs fertilized and incubated in hatchery jars. Reported hatching rates were roughly 61 to 62 percent (values partly illegible in the scan).
-
-**Razorback sucker spawning**
-
-- Captive females were injected with hormones to induce ovulation, and eggs were stripped and fertilized.
-- A group of 134 domestic razorback suckers averaging about 3.3 pounds was spawned in 1985.
-- Eggs were clay-treated to reduce adhesiveness before incubation.
-
-**Colorado squawfish**
-
-- Wild Colorado River squawfish numbers declined during the 1960s to 1980s. Hatchery broodstock were supplemented from wild fish.
-- Hatchery-reared fish were released into Arizona waters, including the Verde River near Perkinsville and Cherry Creek. Further releases included about 200 twelve-year-old broodfish and 800 five-year-old adults (values as given in the scan).
-
-**Bonytail**
-
-- A total of 54,135 bonytail fingerlings were stocked into Lake Mohave, Arizona, in 1985, along with yaqui chub and desert pupfish.
-- Bonytail are long-lived, and the species was thought to be nearly extinct in the wild. The hatchery has provided fish for stocking and for an established broodstock.
-
-**Fish health**
-
-- Fish health is a primary concern. Parasites have caused problems in some cases, but no disease outbreak was reported to have caused major losses at Dexter.
-- A parasitic copepod was eradicated from the station in 1974.
-- Some fish were found infected with a parasite whose spores cause spiral swimming similar to whirling disease. The document says this has posed no serious problem for the survival of infected fish or other fish culture operations, though its life cycle and spore transmission remain poorly understood.
-
-**Limitations noted**
-
-- Some reported values are illegible in the scanned text, including several hatch and survival percentages and certain chemistry values. They are omitted or flagged here rather than estimated.
-- The document is an agency program overview. It presents no formal statistical analysis.
+- **Holding success:** Dexter held more imperiled species than any single prior site. [[Comanche Springs Pupfish]], [[Leon Springs Pupfish]], [[Desert Pupfish]], [[Yaqui Chub]] and [[Beautiful Shiner]] were readily maintained. Pupfish numbers peak in August–September. All species are multiple spawners, with young present from mid-April to early October.
+- **Live-bearer fluctuations:** [[Big Bend Gambusia]] and [[Gila Topminnow]] can lose 90% of their numbers over winter. About 100 or more individuals are overwintered in aquaria and restocked in spring.
+- **Chihuahua Chub:** Rediscovered in 1975 after roughly 40 years considered extinct. Only 10 fish were captured after 1978 flooding, and they reached more than 1,900 at Dexter. Reintroduction was planned for 1986.
+- **Razorback Sucker:** Sexual maturity is more closely linked to size (15") than age (2–6 years). Females were induced with chorionic gonadotropin (CG) at 100 IU per pound. In 1985, 134 domestic fish averaging 3.2 pounds produced 8,714,214 eggs (mean 65,030 per female). Egg viability averaged 62.5%. Heath trays outperformed jars for swimup fry (54% vs 46.7% of expected). From 1981–1985, Dexter distributed 8,766,037 fry, 790,772 fingerlings and 232 adults into historic habitats in Arizona.
+- **Colorado Squawfish:** Hatchery fish mature in their sixth year. Spawning occurs in late May or early June at about 70°F. In 1985, 18 females produced 1,490,005 eggs. Only 220 fish (0.90%) survived the winter because of cannibalism, bird predation and other factors. On August 26, 1985, 196 four-year-old fish were released into the Verde River, Arizona, under experimental population status. A total of 116,789 fingerlings and 301 subadults were released in Arizona in 1985.
+- **Bonytail:** Only 24 wild fish were collected in 11 years, and all were dead. Otoliths indicated ages of 40 and 42 years for two Lake Mohave specimens. Spawning in 1983 yielded eggs from 24 females, with a mean of 4,677 eggs per fish. A total of 54,135 fingerlings have been stocked in Lake Mohave.
+- **Woundfin:** In 1984, natural spawning on prepared gravel beds was more successful than hormone induction. Twelve of twenty induced females (60%) spawned, producing 2,067 eggs, and 3,500 fish were recovered by late summer.
+- **Fish health:** Anchorworm (*Lernaea* sp.) was eradicated from the station in 1984. Asian tapeworm was detected in Colorado Squawfish in 1982 and in Beautiful Shiner in 1983. No young-of-the-year tested positive. A pathogenic fungus (*Ichthyophonus hoferi*) was diagnosed in Comanche Springs Pupfish in 1981, but it has not posed serious problems.

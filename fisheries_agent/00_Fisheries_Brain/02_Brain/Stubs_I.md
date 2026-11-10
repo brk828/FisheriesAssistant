@@ -777,9 +777,6 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 > The source is an OCR scan whose text layer is almost entirely corrupted. Fragments of character strings, stray punctuation and isolated letters appear across the pages, but no complete words, sentences, numbers or tables can be recovered. The document's type (research paper, proposal, budget,...
 > -- *[[NoticeOfTheMyaNodulosaWood_PML1348]]*
 
-> The supplied text is an OCR output of a scanned document in which almost every line is fragmented, rotated, or corrupted. No complete sentences, species names, locations, sample sizes, or statistics can be reliably recovered. The document's type (research paper, proposal, budget, or correspondence)...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
-
 > This is a scanned page excerpt from a September 1856 natural history journal (likely the *Proceedings of the Academy of Natural Sciences of Philadelphia*). It contains taxonomic descriptions of several freshwater minnow genera, mainly from eastern and midwestern North American rivers, plus a short...
 > -- *[[ResearchesUponTheCyprinoidFish_PML0873]]*
 
@@ -827,7 +824,6 @@ Ichthyology is the scientific study of fish, encompassing their taxonomy, physio
 - [[ModificationOfTheWildlifeConse_20526]]
 - [[EndangeredFreshwaterFishOfTheU_14937]]
 - [[NoticeOfTheMyaNodulosaWood_PML1348]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
 - [[ResearchesUponTheCyprinoidFish_PML0873]]
 
 ## Ichthyology Collection
@@ -842,6 +838,18 @@ The Ichthyology Collection at the Museum of Northern Arizona is where the preser
 ### Mentioned In
 - [[SurveyOfFishesOfTheLittleColor_PML1754]]
 
+## Ichthyology Course
+
+### Summary
+An ASU lecture/laboratory course on fishes, with field trips, listed among the existing courses the memo proposes for the Sierra Ancha summer program. The source gives no further detail about its content.
+
+### Context
+> This memorandum, dated 24 August 1994 from W. L. Minckley to Zoology Faculty and Staff, outlines a proposed field-based upper-division and graduate summer session in ecology at the [[Sierra Ancha Station]] for Summer Session 1995. The program is a joint effort of the Department of Zoology and the...
+> -- *[[AFieldBasedUpperDivisionAndGra_1994_08_24]]*
+
+### Mentioned In
+- [[AFieldBasedUpperDivisionAndGra_1994_08_24]]
+
 ## Ichthyology Data Extraction
 <!-- fm: auto_enriched: true -->
 
@@ -851,16 +859,6 @@ The Ichthyology Collection at the Museum of Northern Arizona is where the preser
 
 ### Mentioned In
 - [[AsurpSampling_19410]]
-
-## Ichthyology Methods
-<!-- fm: auto_enriched: true -->
-
-### Context
-> > ⚠️ **Data Quality Flag:** This note is a placeholder reflecting an unusable source extraction. No scientific claims should be drawn from it. Cross-linking to related concepts such as [[Ichthyology Methods]] or [[OCR Data Quality]] is provided only for workflow tracking purposes, not for substan...
-> -- *[[Letter_16156]]*
-
-### Mentioned In
-- [[Letter_16156]]
 
 ## Ichthyology Notes
 <!-- fm: auto_enriched: true -->
@@ -1536,6 +1534,12 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 > This document is the front matter and reference body of the proceedings of a workshop on the identification of Great Lakes fish eggs and larvae, edited by John Bonnell, sponsored by the [[National Power Plant Team]] and the [[U.S. Fish and Wildlife Service]], and published in Ann Arbor, Michigan,...
 > -- *[[GreatLakesFishEggAndLarvaeIden_PML2646]]*
 
+> This journal section gathers four short research notes. Three concern aquatic organisms: a high incidence of spinal deformity in [[Threadfin Shad]] from concrete-lined canals in Arizona and California; the southward spread of the predatory cladoceran [[Leptodora Kindtii]] into southern Louisiana;...
+> -- *[[AnUnusuallyHighIncidenceOfSpin_PML1529]]*
+
+> This study by [[Kermit E. Sneed]] (Fisheries Research Laboratory, Norman, Oklahoma) tests whether annual rings on the left pectoral spines of [[Channel Catfish]] (*Ictalurus lacustris punctatus*) can be used to age fish and calculate their growth in length. Spines were collected from 204 fish taken...
+> -- *[[CalculatingGrowthOfChannelCatf_PML2399]]*
+
 ### Mentioned In
 - [[ACaseOfAlbinismInTheTadpoleMad_20472]]
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -1611,6 +1615,8 @@ Ictaluridae is a family of North American catfishes that comprises numerous fres
 - [[DevelopmentOfFishesOfTheChesap_PML1415]]
 - [[ImmiscibilityOfNativeAndNonnat_PML1423]]
 - [[GreatLakesFishEggAndLarvaeIden_PML2646]]
+- [[AnUnusuallyHighIncidenceOfSpin_PML1529]]
+- [[CalculatingGrowthOfChannelCatf_PML2399]]
 
 ## Ictalurus
 <!-- fm: auto_enriched: true -->
@@ -2186,8 +2192,12 @@ A subfamily of Catostomidae, represented here by genera such as Ictiobus. In thi
 > This paper compiles myomere and vertebra counts for North American minnows ([[Cyprinidae]]) and suckers ([[Catostomidae]]) to support larval fish identification. Myomere counts had been reported for only about 20% of the roughly 260 species in these families, but vertebra counts exist for most...
 > -- *[[MyomereAndVertebraCountsOfTheN_PML2401]]*
 
+> This 1980 *American Naturalist* article by [[Ferris and Whitt]] (Department of Genetics and Development, University of Illinois) examines allozyme (isozyme) genetic variability in 19 species of [[Catostomidae]] (suckers), a sexually reproducing family that has been tetraploid for at least 50...
+> -- *[[FragmentaryOcrScanOfAnAquaticS_PML0804]]*
+
 ### Mentioned In
 - [[MyomereAndVertebraCountsOfTheN_PML2401]]
+- [[FragmentaryOcrScanOfAnAquaticS_PML0804]]
 
 ## Ictiobus
 <!-- fm: auto_enriched: true -->
@@ -2214,6 +2224,9 @@ A subfamily of Catostomidae, represented here by genera such as Ictiobus. In thi
 > This paper compiles myomere and vertebra counts for North American minnows ([[Cyprinidae]]) and suckers ([[Catostomidae]]) to support larval fish identification. Myomere counts had been reported for only about 20% of the roughly 260 species in these families, but vertebra counts exist for most...
 > -- *[[MyomereAndVertebraCountsOfTheN_PML2401]]*
 
+> This study by [[Branley A. Branson]] describes the arrangement of breeding (nuptial) tubercles on several genera of [[Catostomidae]] (suckers). The observations come mainly from breeding males collected while preparing a skeletal study of the family, supplemented by data from earlier authors. The...
+> -- *[[ObservationsOnNuptialTubercles_PML0273]]*
+
 ### Mentioned In
 - [[ObservationsOnTheDistributionO_1961]]
 - [[MethodsOfCollectingAndHatching_17372]]
@@ -2222,6 +2235,7 @@ A subfamily of Catostomidae, represented here by genera such as Ictiobus. In thi
 - [[StateOfTheArtOfIdentificationF_18889]]
 - [[NaturalHybridizationInBuffalof_PML1208]]
 - [[MyomereAndVertebraCountsOfTheN_PML2401]]
+- [[ObservationsOnNuptialTubercles_PML0273]]
 
 ## Ictiobus Bubalus
 <!-- fm: auto_enriched: true -->
@@ -3373,9 +3387,6 @@ The Illinois Natural History Survey is a research institution that conducted ele
 > This systematic paper by W. E. Ricker, published in the *Journal of the Fisheries Research Board of Canada* (1965), describes new stonefly (Plecoptera) species and subgenera from North America and revises several known taxa. The paper is dedicated to Dr A. G. Huntsman and documents gaps in the...
 > -- *[[NewRecordsAndDescriptionsOfPle_16878]]*
 
-> This study, published in the *Journal of Wildlife Management* (Vol. 31, No. 3, July 1967) by Childers and Senner of the [[Illinois Natural History Survey]], tests whether [[Mozambique Tilapia]] (*Tilapia mossambica*) can control nuisance submersed aquatic vegetation in a farm pond when stocked...
-> -- *[[ExperimentalVegetationControlB_PML0413]]*
-
 ### Mentioned In
 - [[GlenCanyonEnvironmentalStudies_16902]]
 - [[NewSpeciesOfNorthAmericanDelto_21086]]
@@ -3414,7 +3425,6 @@ The Illinois Natural History Survey is a research institution that conducted ele
 - [[SystematicStudiesOfDartersOfTh_18392]]
 - [[DistributionOfQuebecStoneflies_16879]]
 - [[NewRecordsAndDescriptionsOfPle_16878]]
-- [[ExperimentalVegetationControlB_PML0413]]
 
 ## Illinois Natural History Survey Resurvey (1950-1971)
 
@@ -3900,6 +3910,18 @@ In this model, immigration refers to new animals joining the population between 
 - [[ExplicitEstimatesFromCapturere_PML1231]]
 - [[LossOfGeneticDiversityFromMana_PML1310]]
 
+## Imminent Threat
+
+### Summary
+In the proposal, actions posing an imminent threat to listed species would be reviewed and possibly halted during consultation. The FWS Arizona memo notes that the term 'imminence' is not defined in the rule, leaving its application open.
+
+### Context
+> This document is a regulatory package rather than a fish study. It contains the August 4, 1995 *Federal Register* proposal (60 FR 39923) by the [[U.S. Fish and Wildlife Service]] (FWS) and the [[National Marine Fisheries Service]] (NMFS) to adopt joint counterpart regulations under [[Section 7...
+> -- *[[EndangeredAndThreatenedSpecies_PML0770]]*
+
+### Mentioned In
+- [[EndangeredAndThreatenedSpecies_PML0770]]
+
 ## Immune Memory
 
 ### Summary
@@ -4044,6 +4066,18 @@ A small pimelodid catfish described as new in this paper from Panama, named for 
 
 ### Mentioned In
 - [[TheSheddingOfGillRakerFilament_1975]]
+
+## Imperial Aqueduct
+
+### Summary
+A Southern California water conveyance labeled on the January 1964 Bureau of Reclamation regional map included with this page. The source mentions it only as a map feature and gives no further details about its operation or ecological effects.
+
+### Context
+> This is a February 1964 newspaper page (Monday, February 17, 1964) with a regional map and articles on the revised [[Pacific Southwest Water Plan]], released by [[Stewart L. Udall]], Secretary of the Interior. The plan's first phase, estimated at about $3.1 billion, centers on the [[Central Arizona...
+> -- *[[UdallPutsCentralArizonaProject_14402]]*
+
+### Mentioned In
+- [[UdallPutsCentralArizonaProject_14402]]
 
 ## Imperial Canal
 
@@ -4210,9 +4244,6 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This 1972 study by Donald W. Johnson examines how the interrenal tissue and corpuscles of Stannius (CS) of the [[Striped Mullet]] (*Mugil cephalus*) vary with environmental salinity, season, and health status. Fish were sampled from a freshwater population below [[Imperial Dam]] on the [[Colorado...
 > -- *[[VariationsInTheInterrenalAndCo_19751]]*
 
-> This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of...
-> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
-
 > This 1980 file set contains a California Department of Fish and Game memorandum, a cover letter, and an Arizona Game and Fish capture report on the [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Lower Colorado River]]. The memo argues that the species has declined sharply since dam...
 > -- *[[GeneralStatementOfRazorbackSuc_PML0036]]*
 
@@ -4294,6 +4325,12 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 > This September 2007 report from the [[Bureau of Reclamation]] (Lower Colorado Region) documents Step 1 of the five-step backwater screening process under the [[Lower Colorado River Multi-Species Conservation Program]] (LCR MSCP). Reclamation inventoried 768 backwaters in Reaches 5 and 6, screened...
 > -- *[[BackwaterInventoryReachesStepI_PML1347]]*
 
+> This 1944 report by William A. Dill of the [[California Division of Fish and Game]] compiles existing knowledge of the fishery of the lower [[Colorado River]], from [[Boulder Dam]] to the Mexican boundary and including [[Lake Havasu]], [[Imperial Dam]], and associated canals. It combines a physical...
+> -- *[[TheFisheryOfTheLowerColoradoRi_PML0588]]*
+
+> This is the thirty-third annual compilation (1992 data year) of stream discharge, stage, water-quality, climatological and irrigation data prepared jointly by the United States and Mexican Sections of the [[International Boundary And Water Commission]] (IBWC). It covers the [[Colorado River]] below...
+> -- *[[WesternWaterBulletinFlowOfTheC_PML0922]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedNonessent_1987_10_07]]
 - [[HabitatUseByRazorbackSuckersRe_1995]]
@@ -4325,7 +4362,6 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[TheColoradoRiverLifelineOfTheA_17416]]
 - [[LowerColoradoRiverMaps_11471]]
 - [[VariationsInTheInterrenalAndCo_19751]]
-- [[StatusReportOnTheLowerColorado_PML1780]]
 - [[GeneralStatementOfRazorbackSuc_PML0036]]
 - [[TheEffectOfChannelizationOnThe_PML0189]]
 - [[RazorbackSuckerCriticalHabitat_PML2687]]
@@ -4353,6 +4389,8 @@ Imperial Dam is a water control structure on the Colorado River that creates a r
 - [[DescriptionAndAssessmentOfOper_PML2576]]
 - [[EcologicalInvestigationsOfBack_PML1271]]
 - [[BackwaterInventoryReachesStepI_PML1347]]
+- [[TheFisheryOfTheLowerColoradoRi_PML0588]]
+- [[WesternWaterBulletinFlowOfTheC_PML0922]]
 
 ## Imperial Dam Impoundment
 <!-- fm: auto_enriched: true -->
@@ -4416,9 +4454,6 @@ The Imperial Diversion is a water diversion on the Lower Colorado River that the
 > This is an administrative memorandum from the [[Arizona Game and Fish Department]] Habitat Branch (Larry Riley), dated May 28, 1997, with enclosed notes from the May 20, 1997 meeting of the [[Biological Subcommittee]] of the [[Lower Colorado River Multi-Species Conservation Program]] (LCRMSCP). The...
 > -- *[[NotesFromMayMeeting_14977]]*
 
-> This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of...
-> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
-
 > This February 1987 monthly report from the [[California Department of Fish and Game]] covers the [[Razorback Sucker]] reintroduction and monitoring study on the [[Colorado River]]. Work in February focused on three areas: recovering juvenile razorbacks from hatchery ponds, surveying the river and...
 > -- *[[RazorbackSuckerReintroductionM_PML1319]]*
 
@@ -4443,6 +4478,12 @@ The Imperial Diversion is a water diversion on the Lower Colorado River that the
 > This Arizona Game and Fish Department contract report (Contract Report No. 05, September 27, 2002) presents Phase IV of a multi-phase study of [[Razorback Sucker]] habitat use in the [[Imperial Division]] of the [[Lower Colorado River]]. The work was funded under a cooperative agreement with the...
 > -- *[[HabitatSelectionAndUseByHatche_PML2378]]*
 
+> This fax-transmitted status report, issued by the [[Imperial Division Work Group]] (IDWG), tracks progress on a [[Backwater Restoration And Enhancement Plan]] for the [[Imperial Division]] of the [[Lower Colorado River]]. A preliminary plan and [[Environmental Assessment]] (EA) were circulated for...
+> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
+
+> This appendix is a coding manual, not a field study. It defines the numerical and abbreviated codes used to store data from [[Aquatic And Semi-Aquatic Systems Of The Lower Colorado River Basin]] studies. The codes cover habitat parameters, sampling devices, sampling localities, field data sheets,...
+> -- *[[AppendixINumericalAndAbbreviat_PML1743]]*
+
 ### Mentioned In
 - [[CommentsOnTheUSFishAndWildlife_1997_07_08]]
 - [[ContinuedResearchOfTheLowerCol_1996_09_04]]
@@ -4452,7 +4493,6 @@ The Imperial Diversion is a water diversion on the Lower Colorado River that the
 - [[LowerColoradoRiverMaps_12161]]
 - [[LowerColoradoRiverMaps_11471]]
 - [[NotesFromMayMeeting_14977]]
-- [[StatusReportOnTheLowerColorado_PML1780]]
 - [[RazorbackSuckerReintroductionM_PML1319]]
 - [[LowerColoradoRiverEndangeredFi_PML0265]]
 - [[UseOfExistingAndReconnectedBac_PML0925]]
@@ -4461,26 +4501,16 @@ The Imperial Diversion is a water diversion on the Lower Colorado River that the
 - [[InventoryOfFishSpeciesAndTheAq_PML2154]]
 - [[HabitatUseAndAssociatedHabitat_PML0924]]
 - [[HabitatSelectionAndUseByHatche_PML2378]]
-
-## Imperial Division Steering Committee
-
-### Summary
-The Imperial Division Steering Committee is one of the groups named in this report as having provided comments on the restoration plan and its environmental concerns. The report does not describe its membership or activities in further detail.
-
-### Context
-> This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of...
-> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
-
-### Mentioned In
 - [[StatusReportOnTheLowerColorado_PML1780]]
+- [[AppendixINumericalAndAbbreviat_PML1743]]
 
 ## Imperial Division Work Group
 
 ### Summary
-The Imperial Division Work Group (IDWG) is the group that drafted the preliminary tailwater restoration plan and Environmental Assessment for the Imperial Division of the Lower Colorado River. According to this 1997 status report, it received agency comments, held a review meeting on March 4, 1997, and was preparing the combined plan and EA.
+The Imperial Division Work Group (IDWG) is the group of agencies that drafted the backwater restoration plan and Environmental Assessment for the Lower Colorado River's Imperial Division. This report is a fax status update from the group, which reviewed the plan and worked toward a combined final document in 1997.
 
 ### Context
-> This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of...
+> This fax-transmitted status report, issued by the [[Imperial Division Work Group]] (IDWG), tracks progress on a [[Backwater Restoration And Enhancement Plan]] for the [[Imperial Division]] of the [[Lower Colorado River]]. A preliminary plan and [[Environmental Assessment]] (EA) were circulated for...
 > -- *[[StatusReportOnTheLowerColorado_PML1780]]*
 
 ### Mentioned In
@@ -4550,9 +4580,6 @@ A Neogene sedimentary unit in the Salton Trough. Howard (1996) interprets its ma
 > This 1974 preliminary report by [[William J. Hauser]], Assistant Research Biologist at the [[University Of California-Riverside]], was sent under a cover letter dated 15 October 1974 to three Southern California irrigation districts. It evaluates whether [[Grass Carp]] can control nuisance aquatic...
 > -- *[[PreliminaryReportOnTheAbilityO_PML0994]]*
 
-> This status report, issued in early 1997 by the [[Imperial Division Work Group]] (IDWG), tracks progress on a preliminary tailwater restoration plan and an [[Environmental Assessment]] (EA) for the [[Imperial Division]] of the [[Lower Colorado River]]. The work is led by the [[Bureau Of...
-> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
-
 > This memorandum transmits the minutes of the [[Lake Havasu Fisheries Improvement Program]] Technical Committee meeting held on July 29, 1998, at the [[Bill Williams Refuge]] office. The committee is a partnership among the [[Arizona Game And Fish Department]], the [[California Department Of Fish...
 > -- *[[LakeHavasuFisheriesImprovement_PML2739]]*
 
@@ -4580,6 +4607,9 @@ A Neogene sedimentary unit in the Salton Trough. Howard (1996) interprets its ma
 > This 1975 annual report from the [[University Of California Riverside]] and the [[Biological Control Project]] evaluates the use of [[Tilapia Zillii]] as a biological herbicide for aquatic weed control in irrigation canals of the Lower Colorado River Basin. Fish were stocked in canals and drains...
 > -- *[[BiologicalControlOfAquaticWeed_PML0996]]*
 
+> This fax-transmitted status report, issued by the [[Imperial Division Work Group]] (IDWG), tracks progress on a [[Backwater Restoration And Enhancement Plan]] for the [[Imperial Division]] of the [[Lower Colorado River]]. A preliminary plan and [[Environmental Assessment]] (EA) were circulated for...
+> -- *[[StatusReportOnTheLowerColorado_PML1780]]*
+
 ### Mentioned In
 - [[RazorbackSuckersFoundInGallean_1993_12_17]]
 - [[AgendaAttendeesAndSummariesOfP_14401]]
@@ -4590,7 +4620,6 @@ A Neogene sedimentary unit in the Salton Trough. Howard (1996) interprets its ma
 - [[WesternWaterLawInTransition_11983]]
 - [[LaypersonsGuideToTheColoradoRi_14920]]
 - [[PreliminaryReportOnTheAbilityO_PML0994]]
-- [[StatusReportOnTheLowerColorado_PML1780]]
 - [[LakeHavasuFisheriesImprovement_PML2739]]
 - [[InfluenceOfDietOnGrowthOfJuven_PML1102]]
 - [[ThermalRequirementsOfTilapiaZi_PML0995]]
@@ -4600,6 +4629,7 @@ A Neogene sedimentary unit in the Salton Trough. Howard (1996) interprets its ma
 - [[MonitoringProgramForOperationa_PML2500]]
 - [[ADistributionSurveyOfDesertPup_PML0243]]
 - [[BiologicalControlOfAquaticWeed_PML0996]]
+- [[StatusReportOnTheLowerColorado_PML1780]]
 
 ## Imperial National Wildlife Refuge
 <!-- fm: auto_enriched: true -->
@@ -4889,6 +4919,9 @@ Imperial Reservoir is a 2955-hectare impoundment on the Lower Colorado River nor
 > This report from the [[Arizona Cooperative Fishery Research Unit]] (University of Arizona, Tucson) examines whether [[Typha latifolia]] (broadleaf cattail) supports the sport fishery of [[Imperial Reservoir]], a eutrophic, partly brackish reservoir on the [[Lower Colorado River]] in Arizona and...
 > -- *[[TheEcologyOfTyphaLatifoliaInIm_PML0952]]*
 
+> This appendix is a coding manual, not a field study. It defines the numerical and abbreviated codes used to store data from [[Aquatic And Semi-Aquatic Systems Of The Lower Colorado River Basin]] studies. The codes cover habitat parameters, sampling devices, sampling localities, field data sheets,...
+> -- *[[AppendixINumericalAndAbbreviat_PML1743]]*
+
 ### Mentioned In
 - [[EcologyOfJuvenileFishInImperia_19643]]
 - [[DraftmanagementPlanForTheRazor_11427]]
@@ -4905,6 +4938,7 @@ Imperial Reservoir is a 2955-hectare impoundment on the Lower Colorado River nor
 - [[ReportOnTheFisheryOfTheLowerCo_PML0190]]
 - [[EcologyOfJuvenileFishInImperia_PML2844]]
 - [[TheEcologyOfTyphaLatifoliaInIm_PML0952]]
+- [[AppendixINumericalAndAbbreviat_PML1743]]
 
 ## Imperial Valley
 
@@ -5760,10 +5794,14 @@ Fish taken unintentionally while targeting other species, here game fish caught 
 > This formal Section 7 consultation under the [[Endangered Species Act]] (1973) evaluates the U.S. [[Fish and Wildlife Service]] (Service) program to stock hatchery-raised catchable [[Rainbow Trout]] (eight to ten inches) and [[Channel Catfish]] into reservoirs and river reaches of the Lower...
 > -- *[[BiologicalOpinionOnStockingOfR_PML2697]]*
 
+> This document is a regulatory package rather than a fish study. It contains the August 4, 1995 *Federal Register* proposal (60 FR 39923) by the [[U.S. Fish and Wildlife Service]] (FWS) and the [[National Marine Fisheries Service]] (NMFS) to adopt joint counterpart regulations under [[Section 7...
+> -- *[[EndangeredAndThreatenedSpecies_PML0770]]*
+
 ### Mentioned In
 - [[ReminderNoticeOnReportingRequi_1993_07_02]]
 - [[GilaTopminnowIntroductionTonto_17278]]
 - [[BiologicalOpinionOnStockingOfR_PML2697]]
+- [[EndangeredAndThreatenedSpecies_PML0770]]
 
 ## Incidental Take Permit
 
@@ -6073,6 +6111,18 @@ An artificial channel placed in a stream where eyed eggs are incubated and the f
 
 ### Mentioned In
 - [[TheUseOfIncubationChannelsForT_20297]]
+
+## Incubation System
+
+### Summary
+The hatchery's incubators, where artificially fertilized fish eggs are held and hatched. In this incident, chlorinated backup water flowed through the heaters and incubators, and the eggs from a dead female razorback sucker were lost.
+
+### Context
+> This document is an internal memorandum from the director of the [[Dexter National Fish Hatchery]] in [[Dexter, New Mexico]], sent on March 24, 1992 to the Regional Director of the U.S. Fish and Wildlife Service, Region 2, in Albuquerque. It reports a serious fish loss on March 23, 1992, and a...
+> -- *[[MarchFishLoss_PML2684]]*
+
+### Mentioned In
+- [[MarchFishLoss_PML2684]]
 
 ## Incubation Temperature
 
@@ -6863,16 +6913,12 @@ Indiana is one of four U.S. states that, as of early 1957, was planning to imple
 > This 1945 paper by W. E. Ricker of [[Indiana University]] presents the first compiled list of stonefly species recorded from [[Indiana]]. The list contains 38 species in seven families, assembled from the [[Purdue University]] and Indiana University teaching and research collections, supplemented...
 > -- *[[AFirstListOfIndianaStonefliesP_16854]]*
 
-> This is a scanned page of reader correspondence, most likely letters to the editor of an outdoor or fishing publication. It is not a research document. Optical character recognition has badly degraded most of the text, so the content can only be partly recovered. The few legible fragments mention a...
-> -- *[[ReaderLettersToTheEditorDegrad_PML0679]]*
-
 ### Mentioned In
 - [[StatesIncorporateScubaDivingIn_16035]]
 - [[FurtherStudiesOnTheMetalimneti_15723]]
 - [[ACytotaxonomicStudyOfTheCharac_19927]]
 - [[AnnotatedKeyToTheFishesOfIndia_19632]]
 - [[AFirstListOfIndianaStonefliesP_16854]]
-- [[ReaderLettersToTheEditorDegrad_PML0679]]
 
 ## Indiana Academy of Science
 
@@ -7013,10 +7059,14 @@ A stream in Indiana whose fish assemblage was studied by Grossman et al. (1982) 
 > This 1945 paper by W. E. Ricker of [[Indiana University]] presents the first compiled list of stonefly species recorded from [[Indiana]]. The list contains 38 species in seven families, assembled from the [[Purdue University]] and Indiana University teaching and research collections, supplemented...
 > -- *[[AFirstListOfIndianaStonefliesP_16854]]*
 
+> This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
+> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[SymposiumOnEvaluationOfFishPop_14380]]
 - [[AFirstListOfIndianaStonefliesP_16854]]
+- [[UnreadableScannedDocumentOcrFa_PML1282]]
 
 ## Indiana University Biological Station
 <!-- fm: auto_enriched: true -->
@@ -7213,6 +7263,18 @@ Measured characteristics of each animal, such as body weight, ectoparasite load,
 
 ### Mentioned In
 - [[ModelsWhereTheFateOfEveryIndiv_PML1913]]
+
+## Individual Fitness
+
+### Summary
+Individual fitness refers to an animal's contribution to future generations, through survival and reproduction. The authors propose linking radiotelemetry data on animal choices, such as habitat use, to fitness measures to estimate population growth by habitat.
+
+### Context
+> This book chapter, by [[Edward O. Garton]], [[Michael J. Wisdom]], [[Frederick A. Leban]], and [[Bruce K. Johnson]], is a guide to planning [[Radiotelemetry]] studies of wildlife. It works through a series of "critical questions" covering study purpose, inference population, sample unit, sampling...
+> -- *[[ExperimentalDesignForRadioTele_PML0850]]*
+
+### Mentioned In
+- [[ExperimentalDesignForRadioTele_PML0850]]
 
 ## Individual Heterogeneity
 
@@ -7971,8 +8033,12 @@ Ingram was a co-author of a 1967 publication that this review identifies as "the
 > This comprehensive literature review, prepared by [[Max Katz]] and [[Albert K. Sparks]] at the [[University of Washington]] College of Fisheries, synthesizes the 1967 scientific literature on the biological effects of water pollution on freshwater fish. The review was commissioned by the [[Water...
 > -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
 
+> This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
+> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
+- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
 
 ## Ingram 1959
 
@@ -8607,6 +8673,18 @@ Insects are a large group of arthropods, and some species are aquatic at part of
 ### Mentioned In
 - [[WhereToFindWaterExpertiseAtSta_13523]]
 
+## Inslee 1982
+
+### Summary
+Inslee (1982) is cited in this source as one of the studies on the reproductive biology of the razorback sucker, which the author notes had been studied before this work. The source gives no findings from it, so its specific content is not described here.
+
+### Context
+> This document contains two short communications from *The Progressive Fish-Culturist* (vol. 49, 1987), both concerned with improving survival of cultured fish. 1. **Razorback sucker culture.** Roger L. Hamman (U.S. Fish and Wildlife Service, [[Dexter National Fish Hatchery]], New Mexico) reports...
+> -- *[[SurvivalOfRazorbackSuckersCult_PML0977]]*
+
+### Mentioned In
+- [[SurvivalOfRazorbackSuckersCult_PML0977]]
+
 ## Insolation
 
 ### Summary
@@ -8725,10 +8803,14 @@ A production-estimation approach that the source says Waters (1966) applied to B
 > Carlander (1958) argues that the effects of fishing on fish populations and catch can be explored with models that use no more than simple algebra. The study uses [[Walleye]] biology from [[Clear Lake Iowa]] as its base. [[Model A]], modeled on [[Baranoff Model|Baranoff]] (1918) and Thompson...
 > -- *[[SomeSimpleMathematicalModelsAs_17400]]*
 
+> This text is the opening material and early chapters of a statistical monograph on estimating animal population size and related parameters. It sets out the notation and terminology used throughout, reviews general statistical tools (maximum-likelihood estimation, moment estimation, the [[Delta...
+> -- *[[TheEstimationOfAnimalAbundance_PML2332]]*
+
 ### Mentioned In
 - [[FreshwaterDrumAplodinotusGrunn_14145]]
 - [[TheoreticalYieldsAtVariousRate_1953]]
 - [[SomeSimpleMathematicalModelsAs_17400]]
+- [[TheEstimationOfAnimalAbundance_PML2332]]
 
 ## Instar Stadia
 
@@ -10817,10 +10899,14 @@ The artificial withdrawal of water from a source in one drainage basin for use i
 > This document is a petition dated November 7, 2009, submitted to the [[U.S. Fish and Wildlife Service]] (FWS) by four biologists: Sally E. Stefferud, Jerome A. Stefferud, [[Paul C. Marsh]] and [[Thomas E. Dowling]]. It requests two actions for the [[Headwater Chub]], an endemic [[Cyprinidae]] fish...
 > -- *[[PetitionForListingPriorityRest_PML2451]]*
 
+> This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
+> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+
 ### Mentioned In
 - [[AReviewOfInterbasinWaterTransf_18377]]
 - [[PathwaysForAquaticBiotaTransfe_16237]]
 - [[PetitionForListingPriorityRest_PML2451]]
+- [[UnreadableOcrScanNoExtractable_PML2455]]
 
 ## Interbasin Water Transfers
 
@@ -10857,6 +10943,18 @@ Intercellular bridges are connections between adjacent cells. In the Rio Grande 
 
 ### Mentioned In
 - [[TheLaterallineSystemInTheRioGr_12897]]
+
+## Interdemic Selection
+
+### Summary
+Interdemic selection is selection acting among local populations (demes) that differ genetically, so that some populations spread or persist while others go extinct. In this source, the increased variance among local populations created by repeated disturbance may speed adaptive evolution over long periods through interdemic selection, within Wright's shifting balance framework. The author notes that the result depends on disturbance timescales and the balance among drift, migration, and selection.
+
+### Context
+> This chapter, by [[Robert C. Vrijenhoek]], appears in *The Ecology of Natural Disturbance and Patch Dynamics* (1985, edited by [[S. T. A. Pickett]] and [[P. S. White]]). It argues that natural disturbances such as fire, drought, flood, and population crashes reshape the genetic structure of...
+> -- *[[EcologyOfNaturalDisturbanceAnd_PML2128]]*
+
+### Mentioned In
+- [[EcologyOfNaturalDisturbanceAnd_PML2128]]
 
 ## Interdisciplinary Collaboration
 
@@ -11507,6 +11605,18 @@ Intermittent streams, especially on the plains, can be dammed to form ponds for 
 ### Mentioned In
 - [[FishCultureForFunForProfit_11333]]
 
+## Intermontane West
+
+### Summary
+The broad western North American region that the source identifies as the likely regional species pool for the Bodie fauna. The author notes there are no major barriers between the Sierra Nevada and the Great Basin, so dispersal could occur within species' physiological limits.
+
+### Context
+> This document combines two short natural history reports. The first, by [[Andrew T. Smith]], documents the terrestrial mammal fauna of [[Bodie, California]], a small area of about 8 km² in the [[Great Basin]] with 30 species, nearly one-tenth of the mammal species in North America north of Mexico....
+> -- *[[DiscoveryOfLossOfANewLocalityF_PML1652]]*
+
+### Mentioned In
+- [[DiscoveryOfLossOfANewLocalityF_PML1652]]
+
 ## Intermountain Forest And Range Experiment Station
 
 ### Summary
@@ -11859,14 +11969,14 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 > A 1994 final rule from the [[Fish And Wildlife Service]] lists the [[Rio Grande Silvery Minnow]] (*Hybognathus amarus*) as an endangered species under the [[Endangered Species Act]]. The rule was published in the Federal Register on July 20, 1994 and took effect August 19, 1994. The species now...
 > -- *[[EndangeredAndThreatenedWildlif_PML0760]]*
 
-> This is the thirty-third annual Western Water Bulletin, issued by the [[International Boundary and Water Commission]] (IBWC) of the United States and Mexico. It reports streamflow, reservoir storage, water quality, climatological and irrigation data for 1992 on the western boundary streams: the...
-> -- *[[WesternWaterBulletinFlowOfTheC_PML0922]]*
-
 > This 1993 report, prepared by Robert D. Ohmart, Paul C. Marsh, Scott Gende and Anthony Zamora of the [[Center for Environmental Studies]] at Arizona State University for the U.S. Section of the [[International Boundary and Water Commission]] (contract IBWC-91-29), reassesses riparian vegetation and...
 > -- *[[ReassessmentOfVegetationAndTer_PML2043]]*
 
 > This December 1978 Final Environmental Impact Statement (EIS) from the United States Section of the [[International Boundary and Water Commission]] (IBWC) evaluates how to restore and preserve the approximately 198.8-mile reach of the [[Rio Grande]] that forms the international boundary between...
 > -- *[[FinalEnvironmentalStatementRio_PML1140]]*
+
+> This is the thirty-third annual compilation (1992 data year) of stream discharge, stage, water-quality, climatological and irrigation data prepared jointly by the United States and Mexican Sections of the [[International Boundary And Water Commission]] (IBWC). It covers the [[Colorado River]] below...
+> -- *[[WesternWaterBulletinFlowOfTheC_PML0922]]*
 
 ### Mentioned In
 - [[CoordinatedResourceActivitiesC_1997_04_16]]
@@ -11883,9 +11993,9 @@ The International Boundary and Water Commission (IBWC) is a binational U.S.-Mexi
 - [[DraftimplementationOfTheNorthA_11640]]
 - [[ADescriptionAndEvaluationOfArc_14586]]
 - [[EndangeredAndThreatenedWildlif_PML0760]]
-- [[WesternWaterBulletinFlowOfTheC_PML0922]]
 - [[ReassessmentOfVegetationAndTer_PML2043]]
 - [[FinalEnvironmentalStatementRio_PML1140]]
+- [[WesternWaterBulletinFlowOfTheC_PML0922]]
 
 ## International Code of Botanical Nomenclature
 
@@ -11955,6 +12065,9 @@ The International Code of Botanical Nomenclature is the standardized system of s
 > This document is a special reprint of the U.S. federal [[Endangered and Threatened Wildlife]] list, compiled from [[Code of Federal Regulations]] Title 50, sections 17.11 and 17.12, and current as of October 31, 1996. It was prepared by the Division of Endangered Species of the [[Fish and Wildlife...
 > -- *[[EndangeredAndThreatenedWildlif_PML2713]]*
 
+> This document is the front matter and checklist of Occasional Papers of the [[California Academy of Sciences]] No. 133 (1979), by Carl L. Hubbs, W. I. Follett and Lillian J. Dempster. It enumerates all marine, euryhaline and freshwater fishes reliably reported as native to California, or introduced...
+> -- *[[ListOfTheFishesOfCalifornia_PML1107]]*
+
 ### Mentioned In
 - [[CommentsOnTheProposedRejection_14473]]
 - [[RequestForARulingToCorrectHomo_17135]]
@@ -11969,6 +12082,7 @@ The International Code of Botanical Nomenclature is the standardized system of s
 - [[RevisionOfTheGilaRobustaTeleos_PML0498]]
 - [[EndangeredAndThreatenedWildlif_PML2682]]
 - [[EndangeredAndThreatenedWildlif_PML2713]]
+- [[ListOfTheFishesOfCalifornia_PML1107]]
 
 ## International Commission for the Northwest Atlantic Fisheries
 
@@ -12354,6 +12468,18 @@ The International Sonoran Desert Biosphere Reserve is a proposed protected area 
 ### Mentioned In
 - [[FinalDraftEcosystemPlanForTheL_11674]]
 
+## International Trade Commission
+
+### Summary
+A U.S. federal agency that handles trade disputes, including unfair import cases under Section 337 of the Tariff Act of 1930. The source reports that it issued a limited exclusion order and ended an investigation into imported products containing microsphere adhesives, a complaint brought by 3M.
+
+### Context
+> This document is a compilation of U.S. federal notices from the *Federal Register* (Volume 60, No. 239, December 13, 1995). It is not a research paper. Its main items are: - Public workshops on the draft [[Northern and Eastern Colorado Desert Coordinated Management Plan]], run by the [[Bureau Of...
+> -- *[[DraftPolicyForConservingSpecie_PML0767]]*
+
+### Mentioned In
+- [[DraftPolicyForConservingSpecie_PML0767]]
+
 ## International Union for Conservation of Nature
 
 ### Summary
@@ -12384,6 +12510,9 @@ An international conservation organization whose lists of threatened species are
 > This 1989 field survey, published in *Copeia*, assesses the conservation status of the endangered [[Desert Pupfish]] ([[Cyprinodon Macularius]]) at 23 historic and potential habitats in northwestern Mexico and Arizona. The authors found the species persisting at several localities, but usually at...
 > -- *[[ConservationStatusOfDesertPupf_PML1035]]*
 
+> This Spanish-language proposal, prepared by the [[Centro Ecológico de Sonora]] (CES), Área de Ecología Acuática, outlines a conservation plan for the [[Desert Pupfish]] ([[Cyprinodon Macularius]]) in the Sonoyta and Colorado river basins of Sonora and Baja California, Mexico. The document is dated...
+> -- *[[PlanDeRecuperacinDelPupoDelDes_PML1244]]*
+
 ### Mentioned In
 - [[ComancheSpringsPupfishCyprinod_13298]]
 - [[InterestInConservationInLatinA_15353]]
@@ -12393,6 +12522,7 @@ An international conservation organization whose lists of threatened species are
 - [[ThreatenedFreshwaterFishesOfTh_PML1732]]
 - [[TheDeclineInAbundanceDiversity_PML2290]]
 - [[ConservationStatusOfDesertPupf_PML1035]]
+- [[PlanDeRecuperacinDelPupoDelDes_PML1244]]
 
 ## International Union for Conservation of Nature and Natural Resources
 
@@ -12505,8 +12635,16 @@ Interneural bones are small bones located between the neural arches along the ba
 > This FY 1993 annual project report, submitted under the [[Colorado River Recovery Program]] (Project Number 18-6), describes a desk-based study that re-examines existing preserved collections of young fishes from the [[Green River]] to determine whether late larvae and early juveniles of...
 > -- *[[AnalysisOfPastCollectionsFromT_16529]]*
 
+> This 1880 *Proceedings of the Academy of Natural Sciences of Philadelphia* excerpt contains a formal description of a new sucker, [[Catostomus Cypho]] (sp. nov.), by [[William N. Lockington]]. The species is known from a single, damaged specimen collected from the [[Colorado River]] at its junction...
+> -- *[[NewSpeciesOfCatostomusFromTheC_PML1373]]*
+
+> This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
+> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+
 ### Mentioned In
 - [[AnalysisOfPastCollectionsFromT_16529]]
+- [[NewSpeciesOfCatostomusFromTheC_PML1373]]
+- [[UnreadableScannedDocumentOcrFa_PML1282]]
 
 ## Internships
 
@@ -12875,6 +13013,18 @@ Intertidal reef fishes are species living in the narrow Pacific Coast intertidal
 
 ### Mentioned In
 - [[TheRelationOfHydrologicalCondi_PML1117]]
+
+## Intertidal Zone
+
+### Summary
+The intertidal zone is the stretch of shoreline between high and low tide, where tidal action changes conditions such as water flow, temperature, salinity, and oxygen. In this source, Olsen Creek's intertidal reaches were used by pink salmon for spawning, and the report found that egg and fish survival tended to be higher at higher tide levels.
+
+### Context
+> This U.S. Fish and Wildlife Service Special Scientific Report (No. 602, 1970) by [[John H. Helle]] examines [[Pink Salmon]] (*Oncorhynchus gorbuscha*) spawning in both the [[Intertidal Zone]] and fresh-water reaches of [[Olsen Creek]] in [[Prince William Sound]], Alaska, in 1962 and 1963. Prince...
+> -- *[[BiologicalCharacteristicsOfInt_16617]]*
+
+### Mentioned In
+- [[BiologicalCharacteristicsOfInt_16617]]
 
 ## Intertropical Convergence Zone
 
@@ -13344,6 +13494,12 @@ The most general term in the recommended AFS set, meaning a plant or animal move
 > This Bureau of Reclamation final report (contract 14-06-300-2529, May 1979, by W. L. Minckley, [[Arizona State University]]) surveys the lowermost [[Colorado River]] mainstream (Davis Dam to the International Boundary, 1974–1976). It characterizes physical, chemical and biological habitats,...
 > -- *[[AquaticHabitatsAndFishesOfTheL_PML1899]]*
 
+> This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
+> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+
+> This journal section gathers four short research notes. Three concern aquatic organisms: a high incidence of spinal deformity in [[Threadfin Shad]] from concrete-lined canals in Arizona and California; the southward spread of the predatory cladoceran [[Leptodora Kindtii]] into southern Louisiana;...
+> -- *[[AnUnusuallyHighIncidenceOfSpin_PML1529]]*
+
 ### Mentioned In
 - [[AnOrientalGobyCollectedInTheSa_12952]]
 - [[TerminologyAssociatedWithIntro_11384]]
@@ -13363,6 +13519,8 @@ The most general term in the recommended AFS set, meaning a plant or animal move
 - [[SpawningSeasonOfTheRazorbackSu_PML0262]]
 - [[FishesOfTheGreatBasinANaturalH_PML2363]]
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
+- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[AnUnusuallyHighIncidenceOfSpin_PML1529]]
 
 ## Introduced Species Impacts
 
@@ -13451,6 +13609,18 @@ Introductions are the deliberate movement of fish species into water bodies wher
 
 ### Mentioned In
 - [[GlobalCharacterizationOfInland_16308]]
+
+## Introductory Ecology Laboratory
+
+### Summary
+An ASU course (Bio 321) listed as one of five existing field classes that could be taught at the Sierra Ancha Station. The memo proposes it as one of the 3-credit field options in the 12-credit summer block.
+
+### Context
+> This memorandum, dated 24 August 1994 from W. L. Minckley to Zoology Faculty and Staff, outlines a proposed field-based upper-division and graduate summer session in ecology at the [[Sierra Ancha Station]] for Summer Session 1995. The program is a joint effort of the Department of Zoology and the...
+> -- *[[AFieldBasedUpperDivisionAndGra_1994_08_24]]*
+
+### Mentioned In
+- [[AFieldBasedUpperDivisionAndGra_1994_08_24]]
 
 ## Introductory Pool
 
@@ -13555,6 +13725,9 @@ Introgressive hybridization in fish science refers to the process by which genet
 > This study uses mitochondrial DNA (mtDNA) variation to test how far [[Introgressive Hybridization]] has shaped the [[Gila Robusta Complex]], a group of endemic cyprinid fishes of the [[Colorado River Basin]]. Lower-basin populations of *G. robusta*, *G. elegans* and *G. cypha* carried largely...
 > -- *[[TheRoleOfIntrogressiveHybridiz_PML0856]]*
 
+> This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
+> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
 - [[EvolutionarySignificanceOfIntr_19106]]
@@ -13569,6 +13742,7 @@ Introgressive hybridization in fish science refers to the process by which genet
 - [[CytogeneticStudiesInNorthAmeri_PML1172]]
 - [[LateCenozoicFreshwaterFishesOf_PML2385]]
 - [[TheRoleOfIntrogressiveHybridiz_PML0856]]
+- [[UnreadableOcrScanNoExtractable_PML0503]]
 
 ## Introgressive Hybridization In Salmonids
 <!-- fm: auto_enriched: true -->
@@ -13762,6 +13936,12 @@ An invasive species in fish science refers to a non-native fish species that has
 > This concepts-and-questions paper argues that the [[Endangered Species Act]] (ESA) needs a more nuanced definition of "recovery." The authors contend that many listed species will not be fully independent of management even after delisting. Human pressures such as habitat loss, disruption of...
 > -- *[[RecoveryOfImperiledSpeciesUnde_PML2325]]*
 
+> This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
+> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+
+> This short-note section of [[California Fish and Game]] contains four items: a reference list for a mollusk-related paper (no fish data), and three research notes on fishes. The notes report (1) the first recorded fish capture at Badwater, [[Death Valley]], a single [[Amargosa Pupfish]]; (2) the...
+> -- *[[NewLocalityRecordForThePupfish_PML0028]]*
+
 ### Mentioned In
 - [[ConcernAboutThePresenceOfASpec_14235]]
 - [[DistributionAndStatusOfTheGras_11158]]
@@ -13783,6 +13963,8 @@ An invasive species in fish science refers to a non-native fish species that has
 - [[WhenCanEffortsToControlNuisanc_PML2949]]
 - [[GlobalChangeAndFreshwaterEcosy_PML0360]]
 - [[RecoveryOfImperiledSpeciesUnde_PML2325]]
+- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[NewLocalityRecordForThePupfish_PML0028]]
 
 ## invasive species biocontrol
 <!-- fm: auto_enriched: true -->
@@ -14885,9 +15067,13 @@ A metal measured in river water, present largely in suspended material. In this 
 > This 1968 study by [[Keith V. Slack]] and [[Herman R. Feltz]] (U.S. Geological Survey) examines how autumn leaf fall from [[Riparian Vegetation]] degrades the chemistry of a small, otherwise unpolluted stream, the [[North Fork Quantico Creek]]. Field measurements in 1963 were paired with...
 > -- *[[TreeLeafControlOnLowFlowWaterQ_19023]]*
 
+> This final progress report, prepared by Janet D. Wien, Research Associate and Principal Investigator, summarizes the Salt River Valley Water User's Algae Research Project at [[Arizona State University]]. The project ran for about two and one-half years and was sponsored by several Arizona...
+> -- *[[TheStudyOfTheAlgaeOfIrrigation_PML2888]]*
+
 ### Mentioned In
 - [[SeasonalVariationInSelectedNut_19305]]
 - [[TreeLeafControlOnLowFlowWaterQ_19023]]
+- [[TheStudyOfTheAlgaeOfIrrigation_PML2888]]
 
 ## Iron Bacteria
 
@@ -15205,6 +15391,18 @@ The irrigation ditch that carries water from the Montezuma Well outlet about 1.5
 ### Mentioned In
 - [[DynamicsOfAnArizonaTravertineF_17110]]
 
+## Irrigation Canal Network
+
+### Summary
+The network of open canals that conveys irrigation water across the Salt River Valley, shown on the 1959 Salt River Valley Water Users' Association map. It includes main canals, numbered laterals, and waste and pump ditches. The source describes only its physical layout and does not give flow or water-quality data.
+
+### Context
+> This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
+> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+
+### Mentioned In
+- [[IllegibleOcrScanNoExtractableA_PML2863]]
+
 ## Irrigation Canals
 
 ### Summary
@@ -15240,18 +15438,6 @@ The growth of irrigated agriculture in Arizona, which drove much of the ground-w
 
 ### Mentioned In
 - [[UseOfGroundWaterInArizona_20682]]
-
-## Irrigation Ditches
-
-### Summary
-Irrigation ditches are man-made water channels that divert stream flow for agriculture. Jordan identifies them as the most destructive factor for trout in Colorado, since fish drawn into ditches are lost and cannot be effectively screened out.
-
-### Context
-> This 1889 *Bulletin of the United States Fish Commission* report by [[David Starr Jordan]] documents an ichthyological survey of freshwater drainages in Colorado and Utah. The expedition, which left Bloomington, Indiana, in July 1889, was undertaken under the direction of the U.S. Commissioner of...
-> -- *[[ExplorationsInColoradoAndUtahD_PML1241]]*
-
-### Mentioned In
-- [[ExplorationsInColoradoAndUtahD_PML1241]]
 
 ## Irrigation Diversion
 
@@ -15482,6 +15668,18 @@ The irrigation system is the water network linked to the golf course lakes at th
 
 ### Mentioned In
 - [[AsuGolfCourseFishResearchPlan_PML0554]]
+
+## Irrigation Wells
+
+### Summary
+Pumped wells used to supply irrigation water in the valley. The legend distinguishes irrigation, contract, and R.A.D. wells. The source gives no information on their depth, yield, or water quality.
+
+### Context
+> This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
+> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+
+### Mentioned In
+- [[IllegibleOcrScanNoExtractableA_PML2863]]
 
 ## Irrving Development
 
@@ -16116,11 +16314,11 @@ A population structure in which subpopulations (islands) exchange migrants at so
 > This 1980 report by [[Bio/West Inc]], prepared for the [[National Park Service]] to support a reserved water right claim for [[Dinosaur National Monument]], tests whether flow in the [[Yampa River]] controls the reproductive success of endangered [[Colorado Squawfish]] in the upper [[Green River]]....
 > -- *[[TheRelationshipBetweenFlowsInT_PML1080]]*
 
-> This 1952 report documents a field survey of the [[Green River]] and its tributary the [[Yampa River]] within [[Dinosaur National Monument]]. It was prepared by [[Harold K. Hagen]] (Associate Professor, Fisheries Science) and [[Joe L. Banks]] (Graduate Student) at [[Colorado State University]]...
-> -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
-
 > This 1963 report by [[Harold K. Hagen]] (Associate Professor, Fisheries Science) and [[Joe L. Banks]] (Graduate Student) of [[Colorado State University]] documents the 1962 field season of an ecological and limnological survey of the [[Green River]] in [[Dinosaur National Monument]]. The study was...
 > -- *[[EcologicalAndLimnologicalStudi_PML0941]]*
+
+> This 1963 report, prepared under a contract between the [[National Park Service]] and [[Colorado State University]], documents a summer-fall 1962 study of the fishes, habitat, water chemistry and invertebrates of the [[Green River]] in [[Dinosaur National Monument]]. Its main aim was to understand...
+> -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
 
 ### Mentioned In
 - [[AvailabilityOfHabitatCharacter_1993]]
@@ -16131,8 +16329,8 @@ A population structure in which subpopulations (islands) exchange migrants at so
 - [[AnEcologicalAndLimnologicalStu_20953]]
 - [[EvaluationOfYampaRiverHumpback_PML0813]]
 - [[TheRelationshipBetweenFlowsInT_PML1080]]
-- [[EcologicalAndLimnologicalStudi_PML0942]]
 - [[EcologicalAndLimnologicalStudi_PML0941]]
+- [[EcologicalAndLimnologicalStudi_PML0942]]
 
 ## Island Province
 
@@ -16386,18 +16584,18 @@ An enzyme locus (IDH-B) that is expressed mainly in the liver. The source report
 > This 1996 paper reports molecular genetic tests on tissue from an alleged Mexican [[Onza]], a large cat shot in the western [[Sierra Madre]] of [[Sinaloa]] in 1986. The authors compared protein markers ([[Isoenzyme Electrophoresis]] and [[Albumin]] [[Isoelectric Focusing]]) and [[Mitochondrial...
 > -- *[[MolecularGeneticIdentification_19135]]*
 
-> This methods paper by Ashoor, Marsh and Knopp (Arizona State University) describes a [[Liquid Chromatography]] (LC) method for identifying fish species from their water-soluble [[Sarcoplasmic Proteins]]. Chromatographic profiles from 31 fish species were separated, quantified and used as species...
-> -- *[[LiquidChromatographicIdentific_PML2049]]*
-
 > This book chapter, by Morizot, [[Schmidt]], [[Carmichael]], [[Stock]] and Williamson, evaluates whether genetic data (chiefly allozyme and other protein markers) can be obtained from fishes without killing them. It introduces the term **[[Minimally Invasive Tissue Sampling]]** and compares...
 > -- *[[MinimallyInvasiveTissueSamplin_PML1923]]*
+
+> This study presents a simple [[Liquid Chromatography]] (LC) method for identifying fish species from their [[Sarcoplasmic Proteins]], the water-soluble proteins extracted from fish blends. The method was applied to 31 fresh fish species (23 marine, 8 freshwater), each first authenticated by...
+> -- *[[LiquidChromatographicIdentific_PML2049]]*
 
 ### Mentioned In
 - [[LactateDehydrogenaseLdhIsozyme_1978]]
 - [[BriefVerbalSynopsisOfFindingsO_13416]]
 - [[MolecularGeneticIdentification_19135]]
-- [[LiquidChromatographicIdentific_PML2049]]
 - [[MinimallyInvasiveTissueSamplin_PML1923]]
+- [[LiquidChromatographicIdentific_PML2049]]
 
 ## Isoenzyme Analysis
 <!-- fm: auto_enriched: true -->
@@ -16644,6 +16842,18 @@ In this laboratory study, each predator fish was acclimated for 30 minutes in an
 ### Mentioned In
 - [[DetectionOfLarvalRemainsAfterC_PML2308]]
 
+## Isolation Cove
+
+### Summary
+Enclosed cove areas in Pomme de Terre Reservoir, Missouri, where the muskellunge stocking study was conducted. A block-net closed off each cove, letting stocked fingerlings feed and move while limiting their movement out, and SCUBA observations were used to measure mortality.
+
+### Context
+> This scanned document bundles three components: a literature-cited list on the effects of thermal effluents on fish and aquatic invertebrates, a research paper on how an exotic [[Blue Tilapia]] population suppresses [[Largemouth Bass]] reproduction in [[Trinidad Lake]], Texas, and the opening pages...
+> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
+
+### Mentioned In
+- [[UnreadableScannedDocumentOcrFa_PML2027]]
+
 ## Isolation Facility
 
 ### Summary
@@ -16857,9 +17067,6 @@ Isopods are small crustaceans (woodlice-like animals) that the source identifies
 > This transition is not merely qualitative but deeply **quantitative**: - In the Salmonid region, [[Trichoptera]] and [[Plecoptera]] comprise ~25% of total individual abundance - In the Barbel region, these groups are largely displaced - Conversely, [[Isopoda]], [[Nematoda]], [[Hirudinea]] (leeche...
 > -- *[[VersuchEinerAllgemeinenBiozöno_1961]]*
 
-> This study documents stomach contents of four darter species collected from Kansas streams in 1957. The author examined specimens from the [[Kansas University Museum]] and personal collections to identify food items consumed by [[Etheostoma spectabile]], [[Etheostoma caeruleum]], [[Etheostoma...
-> -- *[[ObservationsOnTheFoodHabitsOfD_20140]]*
-
 > This study mapped the spatial distribution of abundant benthic invertebrates in a 16-foot riffle section of [[Muddy Fork]], [[Jefferson County Kentucky]], sampled on March 3, 1962. Using a [[Surber Sampler]] (1 square foot quadrats), the authors took 18 samples along three transects. The community...
 > -- *[[DispersionOfMacrofaunaInASecti_16206]]*
 
@@ -16877,7 +17084,6 @@ Isopods are small crustaceans (woodlice-like animals) that the source identifies
 
 ### Mentioned In
 - [[VersuchEinerAllgemeinenBiozöno_1961]]
-- [[ObservationsOnTheFoodHabitsOfD_20140]]
 - [[DispersionOfMacrofaunaInASecti_16206]]
 - [[ANewIsopodOfTheGenusLironecaPa_18874]]
 - [[UnNouveauGenreEtUneNouvelleEsp_15149]]
@@ -17484,6 +17690,9 @@ The IUCN (International Union for Conservation of Nature) is a global authority 
 > This is a brief manuscript, circulated for internal review in January 1990 by J. N. Rinne of the USDA Forest Service, Rocky Mountain Forest and Range Experiment Station. It was prepared as a poster paper for the International Symposium on the Biology and Conservation of Rare Fish (London, July...
 > -- *[[StatusDistributionEcologyAndCo_PML2216]]*
 
+> This Spanish-language proposal, prepared by the [[Centro Ecológico de Sonora]] (CES), Área de Ecología Acuática, outlines a conservation plan for the [[Desert Pupfish]] ([[Cyprinodon Macularius]]) in the Sonoyta and Colorado river basins of Sonora and Baja California, Mexico. The document is dated...
+> -- *[[PlanDeRecuperacinDelPupoDelDes_PML1244]]*
+
 ### Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
@@ -17494,6 +17703,7 @@ The IUCN (International Union for Conservation of Nature) is a global authority 
 - [[RareAndEndangeredFish_15354]]
 - [[ANewAbundanceEstimateForVaquit_21035]]
 - [[StatusDistributionEcologyAndCo_PML2216]]
+- [[PlanDeRecuperacinDelPupoDelDes_PML1244]]
 
 ## Iucn Freshwater Fish Specialist Group
 <!-- fm: auto_enriched: true -->
@@ -17562,6 +17772,9 @@ The IUCN Red Data Book provides the major international framework for assessing 
 > This chapter, by [[Robert A. Leidy]] and [[Peter B. Moyle]], appears in the edited volume *[[Conservation Biology for the Coming Decade]]* (1998). It reviews the status of the world's fish fauna as an indicator of aquatic biodiversity. The authors argue that aquatic ecosystems, especially...
 > -- *[[ConservationStatusOfTheWorldsF_PML1354]]*
 
+> This note combines two unrelated research items. The first is a short conservation profile of the [[Spotted Handfish]] ([[Brachionichthys Hirsutus]]), a small, critically endangered marine fish endemic to southeastern [[Tasmania]]. The second is a study of spawning behavior, spawning habitat, and...
+> -- *[[SpawningEcologyOfFlannelmouthS_PML2868]]*
+
 ### Mentioned In
 - [[GlobalActionPlanForFreshwaterF_1993_05_05]]
 - [[Status of Atlantic, Acipenser oxyrhynchus, and Shortnose, A. brevirostrum, Sturgeons in North Carolina (Pisces, Acipense]]
@@ -17571,6 +17784,7 @@ The IUCN Red Data Book provides the major international framework for assessing 
 - [[RecoveryOfAUsEndangeredFish_PML0158]]
 - [[TaxonomicConsiderationsInListi_PML0944]]
 - [[ConservationStatusOfTheWorldsF_PML1354]]
+- [[SpawningEcologyOfFlannelmouthS_PML2868]]
 
 ## IUCN Red List Categories
 
@@ -17691,8 +17905,12 @@ Cited in the source (1945) as one of the researchers whose work argued that simp
 > This 1958 report by [[Rexford M. Darnell]] (Marquette University) presents stomach and intestine analyses of fishes and larger invertebrates of [[Lake Pontchartrain]], a turbid, brackish estuary in southeastern Louisiana. The study is a first step toward quantifying energy transfer through the...
 > -- *[[FoodHabitsOfFishesAndLargerInv_13943]]*
 
+> This field study documents a rare case of large-scale natural mortality among 2-year-old [[Largemouth Bass]] (*Micropterus salmoides*) in [[Deer Island Lake]], a 40.7 ha backwater of the [[Lower Colorado River]] in Arizona. The authors, Michael K. Saiki and Jerry C. Tash of the Arizona Cooperative...
+> -- *[[UnreadableOcrScanNoRecoverable_PML2282]]*
+
 ### Mentioned In
 - [[FoodHabitsOfFishesAndLargerInv_13943]]
+- [[UnreadableOcrScanNoRecoverable_PML2282]]
 
 ## Ivlev 1961
 <!-- fm: auto_enriched: true -->

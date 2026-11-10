@@ -2,10 +2,10 @@
 species: N/A
 common_name: N/A
 family: N/A
-habitat: Rivers and streams (surface water)
+habitat: Rivers, streams and reservoirs of the western United States (surface waters)
 ocean_basin: N/A
-location: Colorado River basin, southwestern United States (Arizona, New Mexico, Utah, Colorado)
-tags: [limnology, water-quality, surface-water-chemistry]
+location: Colorado River Basin, Great Basin, Pacific Slope basins of California, Oregon and Washington, Lower Columbia River Basin, Snake River Basin
+tags: [water-quality, hydrology, surface-water, USGS, freshwater]
 title: "Quality of surface waters of the United States, 1957"
 source_id: "PML2565"
 marsh_id: "PML2565"
@@ -13,44 +13,49 @@ library: "Marsh Library"
 permission: "public domain"
 source_citation: "U.S. Geological Survey (1961). Quality of surface waters of the United States, 1957. U.S. Geological Survey, Water-Supply Paper series (quality of surface waters data report). Marsh Library ID: PML2565."
 source_file: "USBOR. et al. 1961. quality of surface water of the US 1957.pdf"
-text_extraction: "mixed"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Quality of Surface Waters in the Colorado River Basin, 1956–57
+# Quality of surface waters of the United States, 1957
 
-#limnology #water-quality #surface-water-chemistry
+#hydrology #water-quality #freshwater-ecology #usgs-water-supply
 
 ## Executive Summary
 
-This document is a regional water-quality record for surface waters of the [[Colorado River Basin]] in the southwestern United States, covering roughly 1956 to 1957. It combines explanatory notes on physical and chemical water properties with station-by-station tables and station descriptions from the [[U.S. Geological Survey]] network. The material is entirely physicochemical and hydrological. It contains no fish, invertebrate, plankton, or other biological data, so it provides context on aquatic habitat chemistry rather than species information. OCR damage is extensive in the tables. Values below are reported as legible in the source, and any uncertain figure is flagged.
+This U.S. Geological Survey Water-Supply Paper (WSP 1523) is the 1957 annual record of chemical quality, water temperature and suspended-sediment data for surface waters in six major hydrologic regions of the western United States: the [[Colorado River Basin]], the [[Great Basin]], [[Pacific Slope Basins]] of California, Pacific Slope basins of Washington and the Upper Columbia River, the [[Snake River Basin]], and Pacific Slope basins of Oregon and the Lower Columbia River. Data cover the water year October 1, 1956 to September 30, 1957. The volume is a data compendium rather than a research study: it contains station descriptions, extremes, and tables of analyses, with an introduction defining methods, units and interpretive constituents.
 
 ## Background & Description
 
-The opening section defines the parameters used throughout the record:
+The report is one of four volumes (Parts 1-4, 5-6, 7-8 and 9-14) in the 1957 series covering surface-water quality across the country. It was prepared by the Water Resources Division under the direction of S. K. Love, Chief, Quality of Water Branch, and L. B. Leopold, chief hydraulic engineer, in cooperation with the States of California, New Mexico and Utah, the [[U.S. Bureau of Reclamation]] and other agencies. District chemists supervised data collection: Eugene Brown (Sacramento, Calif.), J. G. Connor (Salt Lake City, Utah), J. M. Stow (Albuquerque, N. Mex.) and H. A. Swenson (Portland, Oreg.).
 
-- **[[Water Color]]:** Color comes mainly from organic matter leached from leaves, roots, and soils. Industrial wastes and sewage can also add color. Colors below 10 units generally go unnoticed, and some [[Swamp Waters]] reach 200 to 300 units or more.
-- **[[Hydrogen-Ion Concentration]] (pH):** Neutral water is pH 7.0. Most natural surface waters fall between pH 6 and 8. Alkaline waters can exceed 8.0, and waters with free mineral acid usually fall below 4.5. pH governs corrosiveness and coagulation treatment.
-- **[[Specific Conductance]]:** Measured in micromhos per centimeter at 25°C, it reflects the concentration of dissolved minerals and tracks changes in total dissolved solids.
-- **[[Water Hardness]]:** Caused almost entirely by calcium and magnesium. Hardness below about 60 ppm is rated soft. Hardness of 61 to 120 ppm is moderately hard. Hardness of 121 to 200 ppm usually requires softening for many uses, and hardness above 200 ppm requires softening for most purposes.
-- **[[Acidity]]:** Arises from carbon dioxide, organic acids, and dissolved salts of iron and aluminum. Mine drainage and industrial wastes are common sources.
-- **[[Corrosiveness]]:** Soft, low-mineral waters are generally more corrosive than hard waters containing carbonates and bicarbonates of calcium and magnesium. Dissolved salts and low pH drive corrosion of pipes and boilers.
-- **[[Percent Sodium]]:** The proportion of sodium to total cations, used to judge suitability for irrigation.
+Records of chemical analysis, suspended sediment and temperature began publication in 1941. Coverage during the year included:
+
+- 227 regular chemical sampling stations on 145 streams.
+- Daily water temperatures at 124 stations.
+- Suspended-sediment quantities at 37 stations, with particle sizes determined at 35.
+
+Sampling methods are described in the introduction. Composite samples were prepared by the equal-volume method or the discharge-weighted method (the latter limited to streams west of the Mississippi River). Suspended sediment was collected with depth-integrating [[Cable-Suspended Samplers]]. Bedload was excluded because no reliable routine method existed for it.
 
 ## Ecological & Environmental Context
 
-The record is set against a large, sediment-laden, seasonally variable river system. Stations include the [[Colorado River]] (including sites near the Grand Canyon), the [[Little Colorado River]], the [[San Juan River]], the [[Gila River]], the [[Virgin River]], and tributary and canal sites. Key environmental features reported include:
+The report frames water quality in terms of its suitability for industrial, agricultural and domestic use, and notes several effects relevant to aquatic life:
 
-- **Sediment loads:** Very high suspended-sediment concentrations occur during storm runoff. The source gives a maximum daily sediment concentration of 151,000 ppm at a Little Colorado site on Oct. 19, 1949, and daily sediment loads reaching several million tons at major stations.
-- **Dissolved solids:** Concentrations vary widely by season and site. At the Colorado River near the Grand Canyon, the 1956–57 record gives a maximum of 1,370 ppm (Oct. 1–31) and a minimum of 269 ppm (July 1–20).
-- **Temperature:** Water temperatures recorded range from near freezing (about 33°F) in winter to roughly 78–88°F in summer, depending on site and year.
-- **Discharge and ice:** Gauging stations report daily and monthly discharge. Some stations were affected by ice in winter, and stations on canals or diversions have records that reflect water withdrawals.
+- **Temperature:** Water at high temperature holds less dissolved oxygen, so temperature can determine a stream's pollution characteristics. "A few degrees rise in temperature may seriously limit the capacity of a stream to support fish life."
+- **Oxygen consumed:** Used as a partial measure of polluting materials such as sewage and oxidizable industrial wastes.
+- **Dissolved solids:** Waters under 500 ppm are generally satisfactory for domestic use; waters above about 2,000 ppm are considered unsuitable for long-term irrigation under average conditions.
+- **Nitrate:** Concentrations above 44 ppm (as NO3) are regarded as unsafe for infant feeding, following a National Research Council conclusion.
+- **Boron:** Irrigation water above 1 ppm is detrimental to [[Citrus Crops]] and other boron-sensitive plants.
+- **Sediment:** Sediment loads follow discharge, and during floods concentrations vary over wide ranges. Natural erosion is accelerated in some areas by agriculture, mining, logging and oil-field activity.
 
-Stations are described with location, drainage area, record availability, and remarks. The Gila and Colorado basins show elevated mineral content and high sediment loads relative to humid-region rivers.
+Natural mineralization depends on the rock and soil types a water contacts and the length of contact. Ground-water-fed streams are more concentrated in dry periods and more dilute during heavy rain. Mine drainage, oil-field brines, municipal and industrial wastes, and irrigation return flows can all increase dissolved solids.
 
 ## Key Findings
 
-- The document is a physicochemical and hydrological record. It has no biological content and no fish data.
-- Standard parameters are defined: color, pH, specific conductance, hardness, acidity, corrosiveness, and percent sodium. Thresholds for hardness and color are given for domestic and industrial use.
-- Natural surface-water pH in the region generally ranges from 6 to 8, with alkaline waters above 8.0.
-- Dissolved solids and sediment concentrations vary by orders of magnitude across seasons and stations, with peak sediment transport during floods.
-- Station records include daily values for discharge, temperature, sediment, dissolved solids, and major ions (calcium, magnesium, sodium, sulfate, chloride, bicarbonate, nitrate, boron, and others), mostly as monthly or periodic analyses.
-- Data are drawn from numerous gauging stations across the basin. Many tables are summarized here rather than reproduced because the OCR is badly degraded and the full site lists are long.
+- **Scope of record:** The volume includes detailed station records for the Colorado, Great Basin, Pacific Slope (California, Washington, Oregon) and Snake River basins. Each station entry gives location, drainage area, record availability, extremes of dissolved solids, hardness, conductance, temperature and sediment, and remarks.
+- **Dissolved solids gradient:** Colorado River at Lees Ferry, Ariz., ranged from 271 ppm (June 10-30) to 1,280 ppm (Oct. 1-31) in water year 1956-57. The Virgin River at Littlefield, Ariz., ranged from 1,270 to 2,680 ppm, and the Gila River at Kelvin, Ariz., reached 3,080 ppm in July 1957.
+- **Sediment extremes:** The Colorado River at Lees Ferry reached a maximum daily load of 3,000,000 tons (Sept. 1) and a maximum daily concentration of 27,500 ppm. The Paria River at Lees Ferry reached 309,000 ppm (July 13). The Little Colorado River at Cameron, Ariz., had a maximum daily concentration of 136,000 ppm (July 30).
+- **Temperature extremes:** The Colorado River at Lees Ferry ranged from 33°F (Dec. 27) to 78°F (Aug. 14, 19). The Gila River at Kelvin reached 89°F (July 30).
+- **Interpretive thresholds:** The report gives thresholds for fluoride (mottled enamel above 1.5 to 2.0 ppm), manganese (stains at 0.2 ppm), iron (turbidity above 1 ppm in aerated basic water), hardness classes (61-120 ppm moderately hard; 121-200 ppm hard; above 200 ppm requires softening), and irrigation sodium hazard (SAR dividing points).
+- **Methods:** Chemical constituents are reported in ppm; hardness is expressed as CaCO3; dissolved solids are residue at 180°C; specific conductance is in micromhos per cm at 25°C; and pH is in units. Discharge-weighted averages are usually lower than arithmetic averages for most streams.
+- **Cooperation and funding:** The Bureau of Reclamation co-funded stations in Arizona and Utah; Tacoma funded sediment work on the Green River near Palmer, Wash.; and the Colorado River basin program in Arizona, Colorado, New Mexico and Utah has been a continuing federal project since 1925.
+- **Publication series:** The report cites a long series of earlier Survey papers (1904-1952) on quality of surface waters by state and basin, many now out of print.

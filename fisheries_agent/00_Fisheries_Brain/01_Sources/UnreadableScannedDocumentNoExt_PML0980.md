@@ -5,7 +5,7 @@ family: N/A
 habitat: N/A
 ocean_basin: N/A
 location: N/A
-tags: [ichthyology, marine-biology, unclassified-text]
+tags: [ichthyology, marine-biology, unidentified-taxon, ocr-unreadable]
 title: "Unreadable Scanned Document: No Extractable Aquatic Data"
 source_id: "PML0980"
 marsh_id: "PML0980"
@@ -13,27 +13,27 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "R. L. Hamman (1988). Unreadable Scanned Document: No Extractable Aquatic Data. Marsh Library ID: PML0980."
 source_file: "Hamman R.L. 1988. letter to mincklet W.L..pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
 # Unreadable Scanned Document: No Extractable Aquatic Data
 
-#ichthyology #marine-biology #unclassified
+#ichthyology #marine-biology #unidentified-taxon
 
 ## Executive Summary
 
-The source is an OCR scan whose text is almost entirely corrupted. It contains only fragmentary character strings with no recoverable words, sentences, numbers, species names, or locations. It is not possible to determine whether it is a research article, proposal, budget, or correspondence, and no ecological, taxonomic, or environmental claims can be reliably extracted.
+The supplied document is a single scanned page whose text is almost entirely illegible after optical character recognition. The fragments that can be seen (for example "Soh", "GEG", "APPL", "PR OTHE SS") do not form words, sentences, or numbers that can be reliably interpreted. The document does not identify any fish, invertebrate, habitat, water body, or aquatic ecosystem, and no scientific data can be extracted from it.
 
 ## Background & Description
 
-The document shows a short run of garbled glyphs across several lines, followed by a partial fragment that may be a heading or name, but none of it can be read with confidence. No fish, invertebrate, plankton, or habitat descriptions are identifiable. Because fabricating content would be misleading, all taxonomic and geographic fields are recorded as N/A.
+The page contains no legible title, author, institution, date, or subject heading. It shows no recognizable taxonomic names, specimen records, sampling methods, or measurements. Because the source is unreadable, the species, family, habitat, ocean basin, and location fields in this note are recorded as N/A rather than inferred.
 
 ## Ecological & Environmental Context
 
-No habitat, water chemistry, ecosystem, or management context is legible in the text. The document does not address any identifiable aquatic environment, so no [[Habitat Characterization]] or [[Ecosystem Context]] can be drawn from it.
+No ecological or environmental context can be established. The document does not mention species interactions, habitat conditions, water chemistry, plankton, benthic communities, fisheries, or any other aquatic topic that could be verified from the text.
 
 ## Key Findings
 
-- No species, family, or location can be identified from the source text.
-- No sample sizes, statistics, or measurements are recoverable.
-- No plans, budgets, or conclusions can be confidently extracted.
-- Re-scanning at higher resolution, or supplying the original digital file, would be needed before a meaningful note can be produced.
+- No species, habitat, or location information is legible in the document.
+- No sample sizes, statistics, or measurements can be reported.
+- The text is too degraded to support any reliable summary. A higher-quality scan or a retyped copy would be needed before any data can be extracted.

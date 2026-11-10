@@ -1,11 +1,21 @@
 ---
-species: [Catostomus latipinnis, Catostomus clarkii, Xyrauchen cypha, Gila emoryi, Catostomus sp. (OCR "gila"), Catostomus sp. (OCR "luaigula")]
-common_name: [Flannelmouth Sucker, Clarke's Sucker, Humpback Sucker, Gila Chub, N/A]
-family: [Catostomidae, Cyprinidae]
-habitat: Freshwater rivers (Gila River system)
+species:
+  - Catostomus latipinnis
+  - Catostomus gila
+  - Catostomus insignis
+  - Catostomus clarki
+  - Xyrauchen cypha
+  - Ptychochilus lucius
+  - Gila emorii
+common_name:
+  - Flannelmouth Sucker
+  - Buffalo Fish
+  - Gila Salmon
+family: Catostomidae; Cyprinidae
+habitat: Freshwater, Gila River
 ocean_basin: N/A
-location: Gila River at Fort Thomas, Arizona Territory
-tags: [ichthyology, freshwater-fish, catostomidae, cyprinidae, gila-river, historical-collection]
+location: Fort Thomas, Gila River, Arizona Territory
+tags: [ichthyology, marine-biology, catostomidae, cyprinidae, freshwater, taxonomy]
 title: "Notes on a collection of fishes obtained in the Gila River, at Fort Thomas, Arizona"
 source_id: "PML1281"
 marsh_id: "PML1281"
@@ -13,37 +23,38 @@ library: "Marsh Library"
 permission: "not public domain"
 source_citation: "P. R. Kirsch (1888). Notes on a collection of fishes obtained in the Gila River, at Fort Thomas, Arizona. Proceedings of the United States National Museum, vol. 11. Marsh Library ID: PML1281."
 source_file: "Kirsch R.H. 1888. Notes on collection of fishes obtained in the gila river at fort thomas arizona .pdf"
-text_extraction: "text"
+text_extraction: "reocr (300 dpi, rotation)"
+rebuilt: "2026-11-10"
 ---
-# Notes on a Collection of Fishes Obtained in the Gila River, at Fort Thomas, Arizona
+# Notes on a collection of fishes obtained in the Gila River, at Fort Thomas, Arizona
 
 #ichthyology #marine-biology #catostomidae
 
 ## Executive Summary
 
-This short historical paper describes a collection of fishes gathered by Lieutenant W. L. Carpenter, U.S. Army, from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]], and sent to a university museum for study. The collection is small, and the author treats it as a set of brief species notes rather than a full survey. Most entries are [[Catostomidae|suckers]] (family Catostomidae), with one [[Cyprinidae|minnow-family]] species. The source scan is heavily degraded by OCR, so many measurements, counts and author names below are approximate or partly illegible and should be checked against the original.
+This taxonomic note by [[Philip H. Kirsch]] reports a small collection of fishes made by [[Lieutenant W. L. Carpenter]] at Fort Thomas on the [[Gila River]], Arizona Territory. The collection was sent to the museum of the University of Indiana in June 1887. Carpenter held that only seven species occur at this site and that several species previously described from the stream are not distinct. He also observed that two taxa vary with growth stage. Kirsch describes one new species, [[Catostomus Gila]], and a new genus, [[Xyrauchen Cypho]]-related, based on a sucker cranial and vertebral structure. The paper is a morphological comparison of specimens against published descriptions by [[Jordan and Gilbert]] and [[Baird and Girard]].
 
 ## Background & Description
 
-- **Collector:** Lieutenant W. L. Carpenter, U.S. Army, stationed at Fort Thomas.
-- **Locality:** The Gila River near Fort Thomas, Arizona Territory.
-- **Purpose:** The author notes that Carpenter had also sent a number of notes on the habits and local names of the fishes. The author believes several species collected at this site are not found in other parts of the river.
-- **Material:** Specimens were sent to a university museum. The text mentions a further collection by the same collector being sent on to a museum in the University of Indiana system.
-- **Descriptive format:** Each species entry gives approximate total length, and in some cases scale counts, fin ray counts, mouth position, body proportions and colour notes. Descriptions follow the conventions of 19th-century systematic ichthyology, comparing each species with its close relatives.
+The collection comprises seven species, mostly suckers (family [[Sucker Family]], Catostomidae), plus one minnow-family taxon ([[Minnow Family]], Cyprinidae) and [[Gila Emorii]]. Specimens were measured in inches and examined for fin-ray counts, scale counts, head and body proportions, and colour in alcohol. Kirsch compared each specimen with the [[Synopsis of the Fishes of North America]] and with original descriptions.
+
+- **[[Catostomus Latipinnis]]** (Baird & Girard): one specimen, 19 inches long. It matches the published description except for a longer preorbital bone, more than twice as long as deep, and a dorsal fin that is not deeply incised.
+- **[[Catostomus Gila]] sp. nov.**: three specimens, 12 to 14 inches long. Kirsch states it is closely allied to [[Catostomus Ardens]] but has a more compressed body, a less elevated antedorsal region, a shorter and more compressed caudal peduncle, and a shorter, higher dorsal fin. The head is subconic, with a preorbital twice as long as wide, and the lips bear papillae. Anal fin and pectoral fin proportions are given. Colour in alcohol is dark brown above and yellow below. One type was sent to the [[United States National Museum]].
+- **[[Catostomus Insignis]]** (Baird & Girard): one specimen, about 12¼ inches (OCR-uncertain). Notable for large scales on the back and very small scales on the belly, about half the size of the dorsal scales.
+- **[[Catostomus Clarki]]** (Baird & Girard): one specimen, 12 inches long. Scales are similar in size and arrangement to *C. insignis*. Lateral-line scale count is given as 68.
+- **[[Xyrauchen Cypha]]** (Lockington), known as the Buffalo Fish: originally *Catostomus cypho* Lockington. Kirsch assigns it to a new genus, *Xyrauchen* Eigenmann & Kirsch, defined by a large sharp-edged hump behind the occiput formed by greatly enlarged anterior interneurals, and by associated vertebral processes that connect the air bladder to the skull. Colour in December is dark brown with brassy reflection; the peritoneum is black; intestine is simple, about 5½ times body length.
+- **[[Ptychochilus Lucius]]** (Girard), the Gila Salmon: one specimen, 16 inches long. It agrees with Jordan & Gilbert except for vertebral count, given as 45 to 46 (Carpenter).
+- **[[Gila Emorii]]** (Baird & Girard): described relative to Jordan & Gilbert's account. In most specimens the maxillary does not reach the front of the orbit, and the pectorals do not quite reach the front of the pubic bones.
 
 ## Ecological & Environmental Context
 
-- **Habitat:** The species are benthic or bottom-oriented freshwater fishes of a desert river system, which fits the suckers' sub-terminal, ventral mouths for feeding on the substrate.
-- **Local distribution:** The author suggests several species are restricted to the Gila River locality and are not common elsewhere.
-- **Morphological notes:** Scale size varies between the dorsal and ventral surfaces in several species, and some show strong colour differences between sexes or life stages.
-- **Taxonomic context:** The text places *Catostomus cypha* as the type of a new genus, *Xyrauchen*, distinguished from *Catostomus* by a large, sharp, keeled lower jaw and a prominent dorsal hump. The paper reflects the period's debate over generic boundaries within the sucker group.
+The paper addresses fish taxonomy rather than habitat or ecosystem processes. The only ecological information comes from Carpenter's field notes, which record that the fishes were studied for habits and local names, and that *Gila emorii* and *Ptychochilus lucius* change appearance with growth stage. Carpenter believed these variations may have led to the description of several separate species. Habitat is limited to the Gila River at Fort Thomas. No water chemistry, flow, or community data are reported.
 
 ## Key Findings
 
-1. **Catostomus latipinnis** (Flannelmouth Sucker): one specimen, roughly 11 inches long (OCR uncertain). The author describes a broad, depressed head, a large mouth, and a body covered with scales that are large on the back and small on the belly. The author also compares it closely with [[Catostomus Clarkii]].
-2. **Catostomus gila** (OCR "glla"): a short species, roughly 3 to 11 inches (OCR unclear). The author links it with a group of similar suckers and notes differences in scale size and the shape of the lower jaw.
-3. **Catostomus sp.** (OCR "luaigula"): one specimen, about 19 inches long (OCR uncertain). Scales on the back are very large and those on the belly much smaller, roughly half the size.
-4. **Catostomus clarkii** (Clarke's Sucker): one specimen, about 11 inches long (OCR uncertain). The scales are not quite as large as in *C. latipinnis* but otherwise similar in size and arrangement.
-5. **Xyrauchen cypha** (Humpback Sucker): the author treats *Catostomus cypha* as the type of a new genus, *Xyrauchen*. Key features include a large, keeled lower jaw forming a sharp edge, a hump-like dorsal profile, and a fleshy lip. The text compares it with *Catostomus* and describes the fin rays and scale count in detail.
-6. **Gila emoryi** (OCR "emorii"): a minnow-family species (Cyprinidae) described from this collection. The author notes it is a small, slender fish with a silvery body and a dark lateral band. The text compares it with a related species and records its habitat and migration behaviour in the Gila River.
-7. **Overall:** The author concludes that the collection contains several species not previously recorded from this stretch of river, and that the group's variation in scale and jaw form calls for careful comparative work.
+- Carpenter's collection is recognized as containing **seven species** from the Gila River at Fort Thomas.
+- Carpenter argued that several species described from the Gila River are not distinct, and that *Gila emorii* and *Ptychochilus lucius* vary with growth stage.
+- **[[Catostomus Gila]]** is described as new, distinguished from *C. ardens* by body compression, dorsal fin shape, caudal peduncle, and lip papillae.
+- **[[Xyrauchen Cypha]]** is placed in a new genus, based on a large occipital hump formed by anterior interneurals and associated vertebral processes connecting to the air bladder.
+- Specimen sizes range from about 12 to 19 inches.
+- Several scale, fin-ray, and proportion counts in the original are garbled by OCR and should be checked against the source before reuse.
