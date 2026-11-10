@@ -10,11 +10,11 @@ title: "Scanned Fax Correspondence on Fisheries and Habitat (1993, Largely Illeg
 source_id: "PML2439"
 marsh_id: "PML2439"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "W. C. Starnes (1993). Scanned Fax Correspondence on Fisheries and Habitat (1993, Largely Illegible). Marsh Library ID: PML2439."
 source_file: "Starnes W.C. 1993. bonytail chub tissues.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Scanned Fax Correspondence on Fisheries and Habitat (1993, Largely Illegible)
 

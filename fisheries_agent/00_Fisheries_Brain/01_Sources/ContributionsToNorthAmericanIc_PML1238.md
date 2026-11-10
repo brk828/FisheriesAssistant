@@ -48,11 +48,11 @@ title: "Contributions to North American Ichthyology"
 source_id: "PML1238"
 marsh_id: "PML1238"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Jordan, Gilbert (1883). Contributions to North American Ichthyology. Marsh Library ID: PML1238."
 source_file: "Jordan and Gilbert. 1883. Contributions to North American Ichthyology.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Contributions to North American Ichthyology
 

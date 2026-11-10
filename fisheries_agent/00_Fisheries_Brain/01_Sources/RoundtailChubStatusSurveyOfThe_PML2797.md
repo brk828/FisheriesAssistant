@@ -10,11 +10,11 @@ title: "Roundtail Chub Status Survey of the Lower Colorado River Basin - Map Sup
 source_id: "PML2797"
 marsh_id: "PML2797"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Voeltz (2002). Roundtail Chub Status Survey of the Lower Colorado River Basin - Map Supplemental. Marsh Library ID: PML2797."
 source_file: "Voeltz 2002. Roundtail Chub Status Survey of the Lower Colorado River Basin - Map Supplemental.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Roundtail Chub Status Survey of the Lower Colorado River Basin - Map Supplemental
 

@@ -10,11 +10,11 @@ title: "Migrations of adult king salmon based on sonic telemetry"
 source_id: "PML0953"
 marsh_id: "PML0953"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "R. J. Hallock et al. (1970). Migrations of adult king salmon based on sonic telemetry. Marsh Library ID: PML0953."
 source_file: "Hallock R.J. et al. 1970. Migrations of adult king salmon based on sonic telemetry.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Migrations of adult king salmon based on sonic telemetry
 

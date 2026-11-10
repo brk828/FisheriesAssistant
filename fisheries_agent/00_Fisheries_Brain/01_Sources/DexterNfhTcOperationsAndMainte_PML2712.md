@@ -10,11 +10,11 @@ title: "Dexter NFH & TC Operations and Maintenance Cost Data, FY1996"
 source_id: "PML2712"
 marsh_id: "PML2712"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "U.S. Fish and Wildlife Service (1996). Dexter NFH & TC Operations and Maintenance Cost Data, FY1996. U.S. Fish and Wildlife Service. Marsh Library ID: PML2712."
 source_file: "USFWS. 1996. DNFH FY 1996 annual report.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Dexter NFH & TC Operations and Maintenance Cost Data, FY1996
 

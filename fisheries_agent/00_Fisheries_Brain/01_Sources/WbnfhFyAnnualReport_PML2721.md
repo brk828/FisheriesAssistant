@@ -24,11 +24,11 @@ title: "WBNFH FY 1996 Annual Report"
 source_id: "PML2721"
 marsh_id: "PML2721"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "U.S. Fish and Wildlife Service (1996). WBNFH FY 1996 Annual Report. U.S. Fish and Wildlife Service. Marsh Library ID: PML2721."
 source_file: "USFWS. 1996. WBNFH FY 1996 annual report.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # WBNFH FY 1996 Annual Report
 

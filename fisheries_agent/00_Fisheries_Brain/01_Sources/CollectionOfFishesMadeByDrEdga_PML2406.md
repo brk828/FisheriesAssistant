@@ -10,11 +10,11 @@ title: "Collection of fishes made by Dr. Edgar Mearns from rivers tributary to G
 source_id: "PML2406"
 marsh_id: "PML2406"
 library: "Marsh Library"
-permission: "public domain"
 source_citation: "J. O. Snyder (1915). Collection of fishes made by Dr. Edgar Mearns from rivers tributary to Gulf of California. Proceedings of the United States National Museum, vol. 48, pp. 573-. Marsh Library ID: PML2406."
 source_file: "Snyder. 1915. Collection of fishes by Edgar Mearns from rivers tributary to Gulf of CA.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "not public domain"
 ---
 # Collection of fishes made by Dr. Edgar Mearns from rivers tributary to Gulf of California
 

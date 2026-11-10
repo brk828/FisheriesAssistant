@@ -10,11 +10,11 @@ title: "Scanned Document on a River Study Section (Largely Illegible OCR)"
 source_id: "PML1017"
 marsh_id: "PML1017"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "J. E. Hemphill (1962). Scanned Document on a River Study Section (Largely Illegible OCR). Marsh Library ID: PML1017."
 source_file: "Hemphill J.E 1962. Rotenone letter.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Scanned Document on a River Study Section (Largely Illegible OCR)
 

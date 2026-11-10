@@ -10,11 +10,11 @@ title: "Distribution, reproduction and habitat use of the razorback sucker"
 source_id: "PML2529"
 marsh_id: "PML2529"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "H. M. Tyus (1986). Distribution, reproduction and habitat use of the razorback sucker. Marsh Library ID: PML2529."
 source_file: "Tyus H.M. 1986. Distribution, reproduction and habitat use of the razorback sucker draft.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Distribution, reproduction and habitat use of the razorback sucker
 

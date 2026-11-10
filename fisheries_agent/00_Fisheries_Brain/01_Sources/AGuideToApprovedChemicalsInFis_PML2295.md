@@ -10,11 +10,11 @@ title: "A guide to approved chemicals in fish production and fishery resource ma
 source_id: "PML2295"
 marsh_id: "PML2295"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "R. A. Schnick, et al. (n.d.). A guide to approved chemicals in fish production and fishery resource management. Marsh Library ID: PML2295."
 source_file: "Schnick R.A et al. A guide to approved chemicals in fish production and fishery resource management.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # A guide to approved chemicals in fish production and fishery resource management
 

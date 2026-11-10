@@ -10,11 +10,11 @@ title: "Razorback Sucker Roundup Summary: Lake Mohave, AZ-NV, 2007"
 source_id: "PML2070"
 marsh_id: "PML2070"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "C. A. Pacey, B. R. Kesner, P. C. Marsh (2008). Razorback Sucker Roundup Summary: Lake Mohave, AZ-NV, 2007. Marsh Library ID: PML2070."
 source_file: "Pacey C.A. Kesner B.R. Marsh P.C. 2008. Razorback sucker roundup summary mohave.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Razorback Sucker Roundup Summary: Lake Mohave, AZ-NV, 2007
 

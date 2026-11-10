@@ -10,11 +10,11 @@ title: "DNFH FY 1997 annual report"
 source_id: "PML2725"
 marsh_id: "PML2725"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "U.S. Fish and Wildlife Service (1997). DNFH FY 1997 annual report. U.S. Fish and Wildlife Service. Marsh Library ID: PML2725."
 source_file: "USFWS. 1997. DNFH FY 1997 annual report.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # DNFH FY 1997 annual report
 

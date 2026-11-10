@@ -25,11 +25,11 @@ title: "Native fish currently at WBNFH"
 source_id: "PML2705"
 marsh_id: "PML2705"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "U.S. Fish and Wildlife Service (1995). Native fish currently at WBNFH. U.S. Fish and Wildlife Service. Marsh Library ID: PML2705."
 source_file: "USFWS. 1995. Native fish currently at WBNFH.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Native fish currently at WBNFH
 

@@ -10,11 +10,11 @@ title: "Suspended sediment in the Colorado River"
 source_id: "PML1098"
 marsh_id: "PML1098"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "C. S. Howard (1947). Suspended sediment in the Colorado River. Marsh Library ID: PML1098."
 source_file: "Howard C.S 1947. suspended sediment in the colorado river.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Suspended sediment in the Colorado River
 

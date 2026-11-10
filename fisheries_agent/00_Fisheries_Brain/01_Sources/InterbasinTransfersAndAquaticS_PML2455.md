@@ -26,11 +26,11 @@ title: "Interbasin Transfers and Aquatic Species Dispersal Through Canals"
 source_id: "PML2455"
 marsh_id: "PML2455"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "S. E. Stefferud (1998). Interbasin Transfers and Aquatic Species Dispersal Through Canals. Marsh Library ID: PML2455."
 source_file: "Stefferud S.E. 1998. DFC Nonnative species.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Interbasin Transfers and Aquatic Species Dispersal Through Canals
 

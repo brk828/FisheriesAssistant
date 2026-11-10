@@ -10,11 +10,11 @@ title: "Plan de Recuperación del Pupo del Desierto (Cyprinodon macularius)"
 source_id: "PML1244"
 marsh_id: "PML1244"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "L. Juárez Romero (1990). Plan de Recuperación del Pupo del Desierto (Cyprinodon macularius). Marsh Library ID: PML1244."
 source_file: "Juarez Romero L. 1990. pupfish conservation plan .pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Plan de Recuperación del Pupo del Desierto (Cyprinodon macularius)
 

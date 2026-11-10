@@ -10,11 +10,11 @@ title: "Tilapia Collection Records and Hybridization in Arizona (1983–1984)"
 source_id: "PML0503"
 marsh_id: "PML0503"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "W. R. Courtenay (from file name only) (1989). Tilapia Collection Records and Hybridization in Arizona (1983–1984). Marsh Library ID: PML0503."
 source_file: "Courtenay W.R. 1989. electronoretic results on arizona tilapias.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Tilapia Collection Records and Hybridization in Arizona (1983–1984)
 

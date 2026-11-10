@@ -10,11 +10,11 @@ title: "Appendix I: Numerical and Abbreviated Codes Used in Aquatic and Semi-aqu
 source_id: "PML1743"
 marsh_id: "PML1743"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Minckley (1976). Appendix I: Numerical and Abbreviated Codes Used in Aquatic and Semi-aquatic Systems of the Lower Colorado River Basin Studies. Marsh Library ID: PML1743."
 source_file: "Minckley 1976. Appendix 1 Numerical and Abbreviated Codes Used in Aquatic and Semi-Aquatic.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Appendix I: Numerical and Abbreviated Codes Used in Aquatic and Semi-aquatic Systems of the Lower Colorado River Basin Studies
 

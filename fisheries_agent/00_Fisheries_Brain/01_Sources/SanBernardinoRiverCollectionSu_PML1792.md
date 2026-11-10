@@ -15,11 +15,11 @@ title: "San Bernardino River Collection Summary, October 2010"
 source_id: "PML1792"
 marsh_id: "PML1792"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "C. O. Minckley (2010). San Bernardino River Collection Summary, October 2010. Marsh Library ID: PML1792."
 source_file: "Minckley C.O. 2010. collection summary san bernadino river.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # San Bernardino River Collection Summary, October 2010
 

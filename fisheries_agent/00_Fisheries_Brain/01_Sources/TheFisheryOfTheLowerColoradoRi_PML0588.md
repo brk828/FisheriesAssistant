@@ -10,11 +10,11 @@ title: "The fishery of the lower Colorado River"
 source_id: "PML0588"
 marsh_id: "PML0588"
 library: "Marsh Library"
-permission: "public domain"
 source_citation: "W. A. Dill (1944). The fishery of the lower Colorado River. California Fish and Game, vol. 30, pp. 109-211. Marsh Library ID: PML0588."
 source_file: "Dill W.A. 1944. The fishery of the lower colorado river .pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "not public domain"
 ---
 # The fishery of the lower Colorado River
 

@@ -32,11 +32,11 @@ title: "description"
 source_id: "PML2480"
 marsh_id: "PML2480"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Unknown author (n.d.). description. Marsh Library ID: PML2480."
 source_file: "Sunfish Family ID Card - description.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # description
 

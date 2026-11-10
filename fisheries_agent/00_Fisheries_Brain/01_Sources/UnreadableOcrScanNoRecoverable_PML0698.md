@@ -10,10 +10,10 @@ title: "Unreadable OCR Scan: No Recoverable Aquatic Science Content"
 source_id: "PML0698"
 marsh_id: "PML0698"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "Evermann (1916). Unreadable OCR Scan: No Recoverable Aquatic Science Content. Marsh Library ID: PML0698."
 source_file: "Evermann. 1916. Fishes of the Salton Sea.pdf"
 text_extraction: "text"
+permission: "public domain"
 ---
 # Unreadable OCR Scan: No Recoverable Aquatic Science Content
 

@@ -10,11 +10,11 @@ title: "A distributed list of the species of freshwater fishes in California"
 source_id: "PML0697"
 marsh_id: "PML0697"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "B. W. Evermann, H. W. Clark (1931). A distributed list of the species of freshwater fishes in California. Marsh Library ID: PML0697."
 source_file: "Evermann and Clark. 1931. A distributed list of the species of freshwater fishes in California.pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # A distributed list of the species of freshwater fishes in California
 

@@ -10,11 +10,11 @@ title: "Fish Catch Weight Receipt Correspondence (May 1993)"
 source_id: "PML1693"
 marsh_id: "PML1693"
 library: "Marsh Library"
-permission: "not public domain"
 source_citation: "L. R. Miller (1993). Fish Catch Weight Receipt Correspondence (May 1993). Marsh Library ID: PML1693."
 source_file: "Miller L.R 1993. WBNFH bonytail .pdf"
 text_extraction: "reocr (300 dpi, rotation)"
 rebuilt: "2026-11-10"
+permission: "public domain"
 ---
 # Fish Catch Weight Receipt Correspondence (May 1993)
 
