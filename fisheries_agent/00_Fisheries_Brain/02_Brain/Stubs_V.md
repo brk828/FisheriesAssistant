@@ -10288,12 +10288,6 @@ A loading-based model used to estimate the phosphorus input that a lake or reser
 ### Mentioned In
 - [[InfluenceOfLasVegasWashDensity_17284]]
 
-## Vollestad & Jonsson 1988
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Volodin
 
 ### Summary

@@ -30,7 +30,7 @@ LISTS = {
     "public_missing": (BRAIN_DIR / "unprocessed_public_missing_mids.csv", BRAIN_DIR / "process_public_missing_mids.csv"),
 }
 LIBRARY_CSV = META_DIR / "minckley_library.csv"
-DEFAULT_SOURCE = "C:/Obsidian/Fish_Science_Brain/PDFs_To_Process"
+DEFAULT_SOURCE = "C:/Obsidian/Fish_Science_Brain/MinckleyLibrary"
 SUPPLEMENT_RE = re.compile(r"\b(plates?|maps?|appendix|appendices)\b", re.I)
 DIGITS = re.compile(r"\d+")
 

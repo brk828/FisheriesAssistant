@@ -46618,12 +46618,6 @@ Single-Stranded Conformational Polymorphism (SSCP) is a laboratory method that d
 - [[TheRoleOfIntrogressiveHybridiz_PML0857]]
 - [[GeneticMonitoringOfWildAndRepa_PML0634]]
 
-## Sinha & Jones 1966
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Sinkhole Formation
 
 ### Summary
@@ -56132,12 +56126,6 @@ Sol Resnick is listed as Director Emeritus and is the expert the directory's exa
 
 ### Mentioned In
 - [[WhereToFindWaterExpertiseAtSta_13522]]
-
-## Sola Et Al. 1980
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Solano Project
 

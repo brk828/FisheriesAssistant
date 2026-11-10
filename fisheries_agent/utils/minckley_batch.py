@@ -3,7 +3,7 @@
 Run from fisheries_agent (with main_orchestrator.py running in another terminal to answer the ingest prompt):
     python -m utils.minckley_batch
 
-PDFs are read from MINCKLEY_PDF_DIR (.env) or C:/Obsidian/Fish_Science_Brain/PDFs_To_Process.
+PDFs are read from MINCKLEY_PDF_DIR (.env) or C:/Obsidian/Fish_Science_Brain/MinckleyLibrary.
 Finished MIDs are appended to 00_Fisheries_Brain/process_public_domain_mids.csv.
 When the backlog is done, remove this file, the two CSVs, and brain_meta/minckley_batch_state.json.
 """
@@ -23,7 +23,7 @@ from utils.pdf_ingest import BRAIN_DIR, MANIFEST_PATH, META_DIR, PDF_DIR, _load_
 TODO_CSV = BRAIN_DIR / "unprocessed_public_domain_mids.csv"
 DONE_CSV = BRAIN_DIR / "process_public_domain_mids.csv"
 STATE_PATH = META_DIR / "minckley_batch_state.json"
-DEFAULT_SOURCE = "C:/Obsidian/Fish_Science_Brain/PDFs_To_Process"
+DEFAULT_SOURCE = "C:/Obsidian/Fish_Science_Brain/MinckleyLibrary"
 FIELDS = ["source_filename", "mid"]
 BATCH_SIZE = 10
 MAX_BATCH_SIZE = 100

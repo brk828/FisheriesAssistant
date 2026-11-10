@@ -36953,12 +36953,6 @@ Chiapas is a Mexican state included in the geographic extent of this climatologi
 - [[BiologicalInvestigationsOnTheC_20538]]
 - [[ObservationsOnBreedingTubercle_PML0274]]
 
-## Chiarelli Et Al. 1969
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Chica Cave
 
 ### Summary
@@ -59145,12 +59139,6 @@ The Columbia River Inter-Tribal Fish Commission, a tribal organization for fishe
 
 ### Mentioned In
 - [[IndianWaterTrendsAndDirections_10920]]
-
-## Colombo Et Al. 1984
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Colonel Brook Dam
 
@@ -93888,12 +93876,6 @@ Costa is a researcher mentioned in this 1967 literature review on water pollutio
 
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
-
-## Costa 1989
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Costa Rica
 

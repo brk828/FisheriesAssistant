@@ -6608,12 +6608,6 @@ Authors of this 1988 study in the Canadian Journal of Fisheries and Aquatic Scie
 ### Mentioned In
 - [[OnTheDorsalLightResponseInAMay_14496]]
 
-## De Silva & Wijeyaratne 1977
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## De Silva And Perera 1976
 <!-- fm: auto_enriched: true -->
 

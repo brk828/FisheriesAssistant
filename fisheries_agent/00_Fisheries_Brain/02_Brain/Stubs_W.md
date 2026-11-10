@@ -22501,12 +22501,6 @@ The overall rate at which an entire aquatic ecosystem produces and respires orga
 - [[TheHistoricStatusOfTheWoundfin_PML1104]]
 - [[EndangeredAndThreatenedWildlif_PML0772]]
 
-## Wiberg 1983
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Wichita Mountains
 
 ### Summary

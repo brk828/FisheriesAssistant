@@ -7616,12 +7616,6 @@ A researcher cited for 1961 work reporting buried plant beds at 8.1 to 14.2 m de
 - [[SomeObservationsOnTheGrowthOfP_18857]]
 - [[AKeyToTheBritishFreshwaterCycl_20631]]
 
-## Hartley 1940
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Hartley 1947
 
 ### Summary
@@ -13146,12 +13140,6 @@ A cited general reference the source uses to describe facultative planktivores, 
 ### Mentioned In
 - [[AnEnergybasedAnalysisOfParticu_20913]]
 
-## Helfman Et Al. 1987
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Helgoland
 
 ### Summary
@@ -17686,12 +17674,6 @@ Hickling was a researcher who, along with colleagues in 1963, discovered that cr
 
 ### Mentioned In
 - [[EvaluationOfBalanceBetweenFish_13453]]
-
-## Hickling 1970
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Hickman 1959
 <!-- fm: auto_enriched: true -->

@@ -3186,12 +3186,6 @@ The routine release of hatchery-raised fish into waters to supplement population
 ### Mentioned In
 - [[RestorationProposalForSanBerna_13383]]
 
-## Maitland 1978
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Maize Beck
 
 ### Summary
@@ -6528,12 +6522,6 @@ A drainage basin to the northeast of the Magdalena system, which the author reco
 
 ### Mentioned In
 - [[TheFishesOfLakeValenciaCaracas_15801]]
-
-## Marais 1980
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Marais Des Cygnes River
 <!-- fm: auto_enriched: true -->
@@ -44227,18 +44215,6 @@ A small, spring-fed stony stream in Otter Creek Park, Meade County, Kentucky, th
 - [[NotesOnTheLifeHistoryAndEcolog_16509]]
 - [[EcologicalAndMorphologicalStud_15871]]
 
-## Moriarty 1976
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
-## Moriarty 1987
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Morimotoa phreatica
 
 ### Summary
@@ -52120,7 +52096,6 @@ Mugilidae is a family of euryhaline fishes commonly known as mullets, characteri
 
 ### Mentioned In
 - [[AChecklistOfTexasFreshWaterFis_14208]]
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 - [[ArtificialKeyToTheFamiliesOfFi_18315]]
 - [[ChecklistOfPecosRiverAndMexica_18282]]
 - [[ClaveParaLosPecesDeLasAguasCon_1968]]

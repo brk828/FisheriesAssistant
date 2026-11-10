@@ -8,6 +8,7 @@ FAL0001), which is matched against the `_<ID>.md` suffix. For each note this:
   * deletes 01_Sources/<stem>.md;
   * removes its `[[stem]]` line from every stub's Mentioned In list and every Context excerpt that cites it;
   * deletes stubs left with no Mentioned In entry (concepts that only that note created);
+  * drops the note's entry from brain_meta/source_titles.json;
   * deletes full_text/<ID>.md when --full-text is given (kept by default: it is local only).
 It does not touch the library spreadsheets, the work lists (so removed IDs are not fed to ingest again), the
 citation files or the website PDF folder; a public-domain PDF already uploaded stays on the server until it is
@@ -65,6 +66,22 @@ def clean_stubs(store: StubStore, stems: list) -> tuple:
     return edited, deleted, excerpts
 
 
+def drop_titles(stems: list) -> int:
+    """Removes the notes' entries from source_titles.json as text, so the rest of the file keeps its layout."""
+    path = pdf_ingest.BASE_DIR / "brain_meta" / "source_titles.json"
+    if not path.is_file():
+        return 0
+    text = path.read_text(encoding="utf-8")
+    n = 0
+    for s in stems:
+        text, k = re.subn(r'\s*"' + re.escape(s) + r'": \{[^{}]*\},?', "", text, count=1)
+        n += k
+    if n:
+        text = re.sub(r",(\s*\})\s*$", r"\1\n", text)  # a trailing comma left by removing the last entry
+        path.write_text(text, encoding="utf-8")
+    return n
+
+
 def main(argv: list = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("notes", nargs="+")
@@ -91,6 +108,7 @@ def main(argv: list = None) -> int:
         print("Dry run; add --apply to make these changes.")
         return 0
     store.flush()
+    drop_titles(stems)
     for p in paths + texts:
         p.unlink()
     print("Done. Commit and push 01_Sources and 02_Brain so the website drops these notes.")

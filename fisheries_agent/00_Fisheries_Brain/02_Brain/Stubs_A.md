@@ -10210,16 +10210,6 @@ Albertanella minuta is a tiny land snail. In this source it occurs mostly in low
 ### Mentioned In
 - [[OncolitesPaleoecologyAndLarami_12134]]
 
-## Albertini-Berhaut 1974
-<!-- fm: auto_enriched: true -->
-
-### Context
-> - **Mullets (Fam. Mugilidae)** - Digestive tract morphology allows filtering of suspended solids ([[Odum 1970a]]), enabling opportunistic feeding on organic matter from sewage outfalls. - Diet-related morphology shifts with ontogeny: juveniles (*Liza ramada*, *L. aurata*) show a gradual dietary t...
-> -- *[[AlgunasNotasSobreLaBiologiaYLa_17604]]*
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Albinism
 <!-- fm: auto_enriched: true -->
 
@@ -11635,12 +11625,6 @@ Alexandria Bay is a village on the St. Lawrence River in the Thousand Islands re
 
 ### Mentioned In
 - [[ConservationOfTheBlackBassReso_19213]]
-
-## Alexandrino 1990
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Alfalfa Farming
 
@@ -14982,12 +14966,6 @@ ALMAZ is a satellite synthetic aperture radar system used in this study, operati
 
 ### Mentioned In
 - [[ComparativeEvaluationOfAlmazEr_PML0598]]
-
-## Almeida 1989
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Almo Cordone
 
@@ -26727,12 +26705,6 @@ Anomalopidae is a family of bioluminescent fishes. The source mentions them only
 
 ### Mentioned In
 - [[NoteSurDesFormationsDeTufCalca_1951]]
-
-## Anonimo 1990a,B,C
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Anopheles
 
@@ -52544,12 +52516,6 @@ A southern Manitoba river in the drainage system of the Red and Winnipeg rivers.
 
 ### Mentioned In
 - [[SupplementToHinksTheFishesOfMa_17920]]
-
-## Assis 1990
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Assistant Program Coordinator
 

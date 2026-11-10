@@ -1412,7 +1412,6 @@ A researcher whose work using acetic alcohol and Carnoy's mixture found contact-
 <!-- fm: auto_enriched: true -->
 
 ### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 - [[LeechControlPlatybdellaSoleaeH_1992]]
 
 ## TAHAL
@@ -9140,12 +9139,6 @@ Tesch 1971 is a reference the authors followed for reading scales. The source us
 
 ### Mentioned In
 - [[ManuscriptlongevityAndGrowthOf_11310]]
-
-## Tesch 1977
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Tesch Age Classification
 

@@ -2114,22 +2114,6 @@ Odum's 1957 paper is listed as a notable linked work on the trophic structure an
 ### Mentioned In
 - [[ThePatchinessOfDiatomDistribut_1978_05_09]]
 
-## Odum 1970a
-<!-- fm: auto_enriched: true -->
-
-### Context
-> - **Mullets (Fam. Mugilidae)** - Digestive tract morphology allows filtering of suspended solids ([[Odum 1970a]]), enabling opportunistic feeding on organic matter from sewage outfalls. - Diet-related morphology shifts with ontogeny: juveniles (*Liza ramada*, *L. aurata*) show a gradual dietary t...
-> -- *[[AlgunasNotasSobreLaBiologiaYLa_17604]]*
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
-## Odum 1970b
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
-
 ## Odum 1971
 
 ### Summary
@@ -8301,12 +8285,6 @@ Opuntia anteojoensis is a prickly pear described by Pinkava in this survey. It i
 
 ### Mentioned In
 - [[VegetationAndFloraOfTheBolsonO_11096]]
-
-## Opuszynski & Leszczynski 1967
-<!-- fm: auto_enriched: true -->
-
-### Mentioned In
-- [[AlgunasNotasSobreLaBiologiaYLa_17604]]
 
 ## Oracle
 <!-- fm: auto_enriched: true -->
