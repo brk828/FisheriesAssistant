@@ -2698,7 +2698,7 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 > -- *[[TheFeedingHabitsOfGambusiaAffi_20368]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[NotesOnTheSexCycleOfGambusiaAf_11364]]
@@ -2706,7 +2706,7 @@ Gambusia affinis, commonly known as the western mosquitofish, is a small live-be
 - [[AGameFishForTheSaltonSeaTheTen_12860]]
 - [[TheMosquitofishGambusiaAffinis_12751]]
 - [[TheFeedingHabitsOfGambusiaAffi_20368]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Gambusia affinis holbrooki
 
@@ -9868,10 +9868,10 @@ Scientific study of inherited traits. In this source, Utah's Division of Wildlif
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Genetic Reserves
 
@@ -10159,14 +10159,14 @@ Genetics management is the set of practices used to keep the genetic integrity a
 > -- *[[ArtificialPropagationPlanFishN_PML2904]]*
 
 > This is a one-page-set cost form (Form 3-110, Rev 1/89) for the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC) for [[Fiscal Year 1996]]. It reports operations and maintenance expenditures by category and funding source. The document contains no species, habitat, or...
-> -- *[[UnreadableScannedDocumentNoExt_PML2712]]*
+> -- *[[DexterNfhTcOperationsAndMainte_PML2712]]*
 
 ### Mentioned In
 - [[GeneticsManagementGuidelines_11717]]
 - [[SectionConsultationSufficientP_11751]]
 - [[SectionConsultationSufficientP_11961]]
 - [[ArtificialPropagationPlanFishN_PML2904]]
-- [[UnreadableScannedDocumentNoExt_PML2712]]
+- [[DexterNfhTcOperationsAndMainte_PML2712]]
 
 ## Genetics Management Coordinated Hatchery Facility Report
 <!-- fm: auto_enriched: true -->
@@ -11729,10 +11729,10 @@ American ornithologist and artist. In this source he is named as the collector o
 
 ### Context
 > This short miscellany of natural history notes contains one substantive fish record and two bird notes. The main item, by William J. Koster, reports the first known specimens of the [[Colorado River Squawfish]] from the San Juan portion of the [[Colorado River Basin]], documented by two fish...
-> -- *[[UnreadableOcrScanAquaticDocume_PML1295]]*
+> -- *[[ColoradoRiverSquawfishPtychoch_PML1295]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticDocume_PML1295]]
+- [[ColoradoRiverSquawfishPtychoch_PML1295]]
 
 ## George Miller
 
@@ -16984,12 +16984,12 @@ Gila elegans, commonly known as the roundtail chub, is a native cyprinid fish sp
 > -- *[[NotesOnACollectionOfFishesObta_PML1281]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[NotesOnACollectionOfFishesObta_1889]]
 - [[NotesOnACollectionOfFishesObta_PML1281]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Gila Emoryi
 <!-- fm: auto_enriched: true -->
@@ -19647,7 +19647,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 > -- *[[FishesOfArizona_PML1736]]*
 
 > This short scientific note, published in *The Nautilus* (Vol. 85, No. 4, April 1972), reports several freshwater mollusk records from New Mexico, western Texas, Oklahoma, and Montana. The notes document likely human-mediated introductions of a freshwater mussel, a clam, and a snail, and they...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1683]]*
+> -- *[[FreshwaterMolluskIntroductions_PML1683]]*
 
 > This Project Completion Report (July 1955, [[Federal Aid Project F-1-R]], prepared by Earl H. Huntington with Homer C. Pickens and Roy E. Barker) summarizes a 1952–1955 survey of the fish resources of the [[Gila River]] and [[Mimbres River]] drainages in southwestern New Mexico. The survey aimed to...
 > -- *[[FisheriesSurveyOfTheGilaAndMim_PML1133]]*
@@ -19659,7 +19659,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 > -- *[[NewSpeciesOfCatostomusFromTheC_PML1373]]*
 
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 > This paper by [[Howard Elliott Winn]] and [[Robert Rush Miller]] (Museum of Zoology, University of Michigan) provides a developmental framework and an artificial identification key for the postlarval stages of native minnows (Cyprinidae) and suckers (Catostomidae) of the [[Lower Colorado River]]...
 > -- *[[NativePostlarvalFishesOfTheLow_PML2914]]*
@@ -19668,7 +19668,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 > -- *[[BehavioralInteractionsBetweenD_PML1176]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 > This 1955 paper by [[Robert Rush Miller]] identifies fish remains recovered from archaeological sites in Arizona, principally [[Catclaw Cave]] on the lower [[Colorado River]]. The bones show that Indigenous peoples relied on large native fishes, namely the [[Humpback Sucker]] and the [[Colorado...
 > -- *[[FishRemainsFromArchaeologicalS_PML1707]]*
@@ -19680,7 +19680,7 @@ The Gila River is a major tributary system in the southwestern United States tha
 > -- *[[ContributionsToNorthAmericanIc_PML1238]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[ASurveyForExoticFishTheAravaip_1987_08_12]]
@@ -20297,18 +20297,18 @@ The Gila River is a major tributary system in the southwestern United States tha
 - [[GilaScienceForumPaulCMarshPres_PML1513]]
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
 - [[FishesOfArizona_PML1736]]
-- [[UnreadableScannedDocumentOcrFa_PML1683]]
+- [[FreshwaterMolluskIntroductions_PML1683]]
 - [[FisheriesSurveyOfTheGilaAndMim_PML1133]]
 - [[NotesOnACollectionOfFishesObta_PML1281]]
 - [[NewSpeciesOfCatostomusFromTheC_PML1373]]
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 - [[NativePostlarvalFishesOfTheLow_PML2914]]
 - [[BehavioralInteractionsBetweenD_PML1176]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 - [[FishRemainsFromArchaeologicalS_PML1707]]
 - [[CollectionOfFishesMadeByDrEdga_PML2406]]
 - [[ContributionsToNorthAmericanIc_PML1238]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Gila River Above Yuma, Arizona
 <!-- fm: auto_enriched: true -->
@@ -25939,10 +25939,10 @@ A road in the Salt River Valley area used on the map as a reference point for lo
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Gilbert System
 
@@ -26489,7 +26489,7 @@ Gill net sampling used 46-m × 1.8-m sinking nets with five ascending mesh panel
 > -- *[[CaptureOfRareFishInLakePowell_PML0930]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
 - [[MechanicalSuppressionOfInvasiv_2024]]
@@ -26498,7 +26498,7 @@ Gill net sampling used 46-m × 1.8-m sinking nets with five ascending mesh panel
 - [[FeedingHabitsOfTheMontanaGrayl_20280]]
 - [[TheIntroducedAquaticMacrophyte_17904]]
 - [[CaptureOfRareFishInLakePowell_PML0930]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Gill Net Sampling Methodology
 <!-- fm: auto_enriched: true -->
@@ -27343,17 +27343,17 @@ Gillnet sampling is a method of catching fish by setting nets that entangle fish
 > -- *[[FactorsInfluencingFishDistribu_PML2234]]*
 
 > This study examined [[Blue Tilapia]] (*Oreochromis aureus*, cited as *Tilapia aurea*) in [[Trinidad Lake]], a 303 ha cooling reservoir for a steam electric generating station in Texas. Monthly [[Gillnet Sampling]] ran from January 1973 to December 1975, and a [[Petersen Mark-Recapture]] estimate...
-> -- *[[UnreadableScannedDocumentNoExt_PML0862]]*
+> -- *[[PopulationDynamicsOfBlueTilapi_PML0862]]*
 
 > This scanned document bundles three components: a literature-cited list on the effects of thermal effluents on fish and aquatic invertebrates, a research paper on how an exotic [[Blue Tilapia]] population suppresses [[Largemouth Bass]] reproduction in [[Trinidad Lake]], Texas, and the opening pages...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
+> -- *[[ThermalEffluentLiteratureBlueT_PML2027]]*
 
 ### Mentioned In
 - [[ChangesInYellowBassReproductio_13887]]
 - [[RegionIiiFisheriesSurveyOfTheV_PML0430]]
 - [[FactorsInfluencingFishDistribu_PML2234]]
-- [[UnreadableScannedDocumentNoExt_PML0862]]
-- [[UnreadableScannedDocumentOcrFa_PML2027]]
+- [[PopulationDynamicsOfBlueTilapi_PML0862]]
+- [[ThermalEffluentLiteratureBlueT_PML2027]]
 
 ## Gillnet Selectivity
 <!-- fm: auto_enriched: true -->
@@ -28416,7 +28416,7 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 > -- *[[GapeLimitedPiscivoresPlanktivo_PML0956]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 > This study by Jearld and Brown (1971) describes the diet of [[Channel Catfish]] (*Ictalurus punctatus*) in [[Lake Carl Blackwell]], a turbid reservoir in Oklahoma. The authors examined stomachs from 196 fish collected between October 1967 and August 1969, 128 of which contained food. Catfish under...
 > -- *[[FoodOfChannelCatfish_PML1170]]*
@@ -28571,7 +28571,7 @@ Gizzard Shad (*Dorosoma cepedianum*) is a forage fish species that occupies an i
 - [[GuideToTheFishesOfColorado_PML0185]]
 - [[ArizonaGameAndFishDepartmentSp_PML0138]]
 - [[GapeLimitedPiscivoresPlanktivo_PML0956]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 - [[FoodOfChannelCatfish_PML1170]]
 
 ## Gizzard Shad Management
@@ -29149,10 +29149,10 @@ Gleastine (1974) is an earlier study of the Trinidad Lake tilapia population, ci
 
 ### Context
 > This study examined [[Blue Tilapia]] (*Oreochromis aureus*, cited as *Tilapia aurea*) in [[Trinidad Lake]], a 303 ha cooling reservoir for a steam electric generating station in Texas. Monthly [[Gillnet Sampling]] ran from January 1973 to December 1975, and a [[Petersen Mark-Recapture]] estimate...
-> -- *[[UnreadableScannedDocumentNoExt_PML0862]]*
+> -- *[[PopulationDynamicsOfBlueTilapi_PML0862]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentNoExt_PML0862]]
+- [[PopulationDynamicsOfBlueTilapi_PML0862]]
 
 ## Gleeson
 
@@ -30638,13 +30638,13 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 > -- *[[ScannedAquaticSurveyPagesWithL_PML2869]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This is a February 1964 newspaper page (Monday, February 17, 1964) with a regional map and articles on the revised [[Pacific Southwest Water Plan]], released by [[Stewart L. Udall]], Secretary of the Interior. The plan's first phase, estimated at about $3.1 billion, centers on the [[Central Arizona...
 > -- *[[UdallPutsCentralArizonaProject_14402]]*
 
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 > This note combines two unrelated research items. The first is a short conservation profile of the [[Spotted Handfish]] ([[Brachionichthys Hirsutus]]), a small, critically endangered marine fish endemic to southeastern [[Tasmania]]. The second is a study of spawning behavior, spawning habitat, and...
 > -- *[[SpawningEcologyOfFlannelmouthS_PML2868]]*
@@ -31174,9 +31174,9 @@ Glen Canyon Dam is a major hydroelectric facility on the Colorado River whose op
 - [[BiologicalAndConferenceOpinion_PML2630]]
 - [[CompendiumOfExistingKnowledgeF_PML1689]]
 - [[ScannedAquaticSurveyPagesWithL_PML2869]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[UdallPutsCentralArizonaProject_14402]]
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 - [[SpawningEcologyOfFlannelmouthS_PML2868]]
 
 ## Glen Canyon Dam Adaptive Management Program
@@ -32804,14 +32804,14 @@ GLOBEC (Global Ocean Ecosystem Dynamics) is a large research program whose missi
 > -- *[[ASurveyOfTheCommerciallyValuab_12458]]*
 
 > This short scientific note, published in *The Nautilus* (Vol. 85, No. 4, April 1972), reports several freshwater mollusk records from New Mexico, western Texas, Oklahoma, and Montana. The notes document likely human-mediated introductions of a freshwater mussel, a clam, and a snail, and they...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1683]]*
+> -- *[[FreshwaterMolluskIntroductions_PML1683]]*
 
 ### Mentioned In
 - [[TheMusselPopulationOfAnAreaOfL_14967]]
 - [[AReportOfInvestigationsConcern_16518]]
 - [[AnEasternAmericanFreshwaterMus_13489]]
 - [[ASurveyOfTheCommerciallyValuab_12458]]
-- [[UnreadableScannedDocumentOcrFa_PML1683]]
+- [[FreshwaterMolluskIntroductions_PML1683]]
 
 ## Glochidium
 <!-- fm: auto_enriched: true -->
@@ -34144,10 +34144,10 @@ The Golden Hybrid Stock is a hatchery line held by the Arizona Game and Fish Dep
 
 ### Context
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Golden Lion Tamarin
 
@@ -34618,7 +34618,7 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 > -- *[[AGuideToApprovedChemicalsInFis_PML2295]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
 - [[ACheckListOfSouthernIllinoisFi_12934]]
@@ -34761,7 +34761,7 @@ The Golden Shiner is a small freshwater minnow species commonly used in ichthyol
 - [[FishesOfArizona_PML1736]]
 - [[GapeLimitedPiscivoresPlanktivo_PML0956]]
 - [[AGuideToApprovedChemicalsInFis_PML2295]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Golden Shiner Group
 <!-- fm: auto_enriched: true -->
@@ -35421,7 +35421,7 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 > -- *[[AquaticResourcesOfTheYumaDivis_PML1441]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 > This U.S. Fish and Wildlife Service environmental assessment (September 1993), prepared with the [[Arizona Game And Fish Department]] and the [[U.S. Bureau Of Reclamation]], evaluates the construction of growout ponds at the [[Cibola National Wildlife Refuge]] to rear endangered [[Razorback...
 > -- *[[ProposedEndangeredFishGrowoutF_PML1591]]*
@@ -35590,7 +35590,7 @@ Goldfish (*Carassius auratus*) are small cyprinid fishes that have become widesp
 - [[SynopsisOfBiologicalDataOnTheG_PML2351]]
 - [[ReclamationOfPondsLakesAndStre_PML1356]]
 - [[AquaticResourcesOfTheYumaDivis_PML1441]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[ListOfTheFishesOfCalifornia_PML1107]]
 
@@ -36592,10 +36592,10 @@ A reproductive measure calculated as ovary weight divided by (fish weight minus 
 
 ### Context
 > This scanned document bundles three components: a literature-cited list on the effects of thermal effluents on fish and aquatic invertebrates, a research paper on how an exotic [[Blue Tilapia]] population suppresses [[Largemouth Bass]] reproduction in [[Trinidad Lake]], Texas, and the opening pages...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
+> -- *[[ThermalEffluentLiteratureBlueT_PML2027]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML2027]]
+- [[ThermalEffluentLiteratureBlueT_PML2027]]
 
 ## Gonostomatidae
 
@@ -39770,7 +39770,7 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 > -- *[[NativeFishCurrentlyAtWbnfh_PML2705]]*
 
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 > This note combines two unrelated research items. The first is a short conservation profile of the [[Spotted Handfish]] ([[Brachionichthys Hirsutus]]), a small, critically endangered marine fish endemic to southeastern [[Tasmania]]. The second is a study of spawning behavior, spawning habitat, and...
 > -- *[[SpawningEcologyOfFlannelmouthS_PML2868]]*
@@ -40144,7 +40144,7 @@ The Grand Canyon, as it relates to fish science, refers to the ecologically sign
 - [[FishHandlingImprovementGrandCa_PML2782]]
 - [[ScannedAquaticSurveyPagesWithL_PML2869]]
 - [[NativeFishCurrentlyAtWbnfh_PML2705]]
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 - [[SpawningEcologyOfFlannelmouthS_PML2868]]
 
 ## Grand Canyon Adaptive Management Program
@@ -46496,11 +46496,11 @@ The Great Salt Lake Basin is one of the drainages where isolation after Lake Bon
 > -- *[[TheFishesOfUtah_18742]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[TheFishesOfUtah_18742]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Great Salt Lake Limnology
 <!-- fm: auto_enriched: true -->
@@ -48402,7 +48402,7 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > -- *[[EffectsOfRotenoneTreatmentOnTh_PML0221]]*
 
 > This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+> -- *[[JuvenileRazorbackSuckerInAMana_PML1902]]*
 
 > This excerpt from *The Southwestern Naturalist* (vol. 30, no. 1, March 1985) contains two research papers. The main paper, by [[Tamara Black]] and [[Ross V. Bulkley]], measures the acute and final thermal preferenda of yearling [[Colorado Squawfish]], an endangered endemic minnow of the [[Colorado...
 > -- *[[PreferredTemperatureOfYearling_PML0230]]*
@@ -48414,7 +48414,7 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > -- *[[ThermalPollutionAquacultureAnd_15270]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This U.S. Fish and Wildlife Service study by [[Harold M. Tyus]] assesses the distribution, spawning, growth and habitat use of the rare [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Green River]] of Utah and Colorado, 1979–85. Field work combined electrofishing, seining and trammel netting...
 > -- *[[DistributionReproductionAndHab_PML2529]]*
@@ -48423,7 +48423,7 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > -- *[[DistributionReproductionAndHab_PML2530]]*
 
 > This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
-> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+> -- *[[DistributionOfFishesInTheDolor_PML1072]]*
 
 > This final report (April 1993) by T. Muth of the [[Larval Fish Laboratory]] at Colorado State University and Thomas P. Nesler of the [[Colorado Division of Wildlife]] analyzes seine and dipnet collections of small fishes made in low-velocity habitats of the lower [[Yampa River]] in 1980–1984. The...
 > -- *[[AssociationsAmongFlowAndTemper_PML1992]]*
@@ -48432,10 +48432,10 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 > -- *[[SuspendedSedimentInTheColorado_PML1098]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 > This document is a badly degraded OCR scan. Only a few fragments are legible, and they describe laboratory water prepared for aquatic testing. The legible text indicates that water was heated and dechlorinated at the [[Utah Water Research Lab]] in [[Logan, Utah]], and that a [[Reconstituted Water]]...
-> -- *[[UnreadableOcrScanAquaticDocume_PML2823]]*
+> -- *[[ReconstitutedGreenRiverWaterPr_PML2823]]*
 
 > This study by Tyus and Severson (U.S. Fish and Wildlife Service, Vernal, Utah) tested whether larval [[Razorback Sucker]] (*Xyrauchen texanus*) can be reared from sac-fry to 40 days old on commercially available dry [[Artificial Diets]] instead of pond-cultured natural foods. A total of 600 fish...
 > -- *[[LarvalRazorbackSuckerResponseT_PML2526]]*
@@ -48880,18 +48880,18 @@ The Green River is a major tributary of the Colorado River Basin that serves as 
 - [[FlamingGorgeStudiesReproductio_PML0408]]
 - [[TheLeveeRemovalProjectAssessme_PML0225]]
 - [[EffectsOfRotenoneTreatmentOnTh_PML0221]]
-- [[UnreadableScannedDocumentOcrFa_PML1902]]
+- [[JuvenileRazorbackSuckerInAMana_PML1902]]
 - [[PreferredTemperatureOfYearling_PML0230]]
 - [[EcologicalAndLimnologicalStudi_PML0942]]
 - [[ThermalPollutionAquacultureAnd_15270]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[DistributionReproductionAndHab_PML2529]]
 - [[DistributionReproductionAndHab_PML2530]]
-- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[DistributionOfFishesInTheDolor_PML1072]]
 - [[AssociationsAmongFlowAndTemper_PML1992]]
 - [[SuspendedSedimentInTheColorado_PML1098]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
-- [[UnreadableOcrScanAquaticDocume_PML2823]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
+- [[ReconstitutedGreenRiverWaterPr_PML2823]]
 - [[LarvalRazorbackSuckerResponseT_PML2526]]
 
 ## Green River (Colorado River Basin)
@@ -49064,10 +49064,10 @@ The Green River Fish Manipulation Program was a fish management program on the G
 
 ### Context
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 
 ## Green River Fish Studies
 <!-- fm: auto_enriched: true -->
@@ -50812,7 +50812,7 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 > -- *[[ResourceUseByNativeAndNonnativ_PML2063]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 > The source is an OCR scan of a page that is almost entirely unreadable. Only one fragment resembles a binomial species name, and it cannot be verified. The text contains no data on habitat, sampling, population, water chemistry, or ecology that could support a research summary.
 > -- *[[FishCollectionDataUpperSanPedr_1946_04_02]]*
@@ -51438,7 +51438,7 @@ The Green Sunfish (*Lepomis cyanellus*) is a small centrarchid (sunfish family) 
 - [[TheLeveeRemovalProjectAssessme_PML0225]]
 - [[SurveyOfVerdeRiverDrainageAriz_PML0148]]
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 - [[FishCollectionDataUpperSanPedr_1946_04_02]]
 - [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
@@ -51836,10 +51836,10 @@ A road in the Salt River Valley area used on the map as a reference point for lo
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Greenhouse Effect
 
@@ -57215,14 +57215,14 @@ Author of a 1945 study of the Texas coast cited as the foundational Gulf of Mexi
 > -- *[[RecordsOfAtherinidFishesAtInla_PML1814]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
 - [[AnEcologicalStudyOfTheFishesOf_11938]]
 - [[FecundityOfTheSpottedSeatroutC_14676]]
 - [[DistributionOfMenhadenInTheGul_15042]]
 - [[RecordsOfAtherinidFishesAtInla_PML1814]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Gunter 1945
 

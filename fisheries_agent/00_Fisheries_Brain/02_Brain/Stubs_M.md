@@ -4637,10 +4637,10 @@ A management area is a geographic unit that a fisheries agency uses to organize 
 
 ### Context
 > This is a two-page fisheries field form, a hatchery-to-pond stocking trip record. It logs the hatchery of origin, the fish delivered (species, number, length, weight in pounds), the management area, mileage, truck costs, salary, per diem, departure and return times, and the farm ponds stocked with...
-> -- *[[IllegibleScannedDocumentAquati_PML2663]]*
+> -- *[[FishStockingTripRecord_PML2663]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentAquati_PML2663]]
+- [[FishStockingTripRecord_PML2663]]
 
 ## Management Area 2E
 
@@ -9098,7 +9098,7 @@ A field method for estimating animal population size by capturing, marking, rele
 > -- *[[StockAssessmentAndFisheriesMon_PML2784]]*
 
 > This summary reports the results of three [[Razorback Sucker]] roundups conducted on [[Lake Mohave]] (Arizona-Nevada) in March, May and November 2007. The document was prepared by Carol Pacey, Brian Kesner and Paul Marsh for the [[Colorado River Aquatic Biologists Meeting]] (January 9-10, 2008,...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
+> -- *[[RazorbackSuckerRoundupSummaryL_PML2070]]*
 
 ### Mentioned In
 - [[SeasonalAndYearlyPopulationEst_PML0601]]
@@ -9106,7 +9106,7 @@ A field method for estimating animal population size by capturing, marking, rele
 - [[LakeMohaveSamplingForBonytailA_PML2688]]
 - [[SurvivalRateEstimationAndMovem_PML2948]]
 - [[StockAssessmentAndFisheriesMon_PML2784]]
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
+- [[RazorbackSuckerRoundupSummaryL_PML2070]]
 
 ## Mark-Recapture Data
 
@@ -9118,11 +9118,11 @@ These are records from fish that were tagged, released, and later recaptured, al
 > -- *[[ExplanationOfRbsGrowthRateGrap_PML1148]]*
 
 > Baker, Lafferty and Quinn (1991, *Fisheries Research* 11: 257–281) extend [[Schnute Growth Model]], a general four-parameter size-age growth model that contains many classical curves (von Bertalanffy, Gompertz, Richards, logistic, linear, power) as submodels, to [[Mark-Recapture Data]]....
-> -- *[[UnreadableScannedAquaticDocume_PML0163]]*
+> -- *[[AGeneralGrowthModelForMarkreca_PML0163]]*
 
 ### Mentioned In
 - [[ExplanationOfRbsGrowthRateGrap_PML1148]]
-- [[UnreadableScannedAquaticDocume_PML0163]]
+- [[AGeneralGrowthModelForMarkreca_PML0163]]
 
 ## Mark-Recapture Design
 
@@ -9848,7 +9848,7 @@ A marsh is a reedy wetland, dominated by grasses, that forms near salt water. Th
 > -- *[[IndigenousFishesOfWesternNorth_PML0609]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[Bogs_12759]]
@@ -9863,7 +9863,7 @@ A marsh is a reedy wetland, dominated by grasses, that forms near salt water. Th
 - [[BiologicalEvaluationForDevelop_PML0592]]
 - [[ThreeNewPupfishSpeciesCyprinod_PML1888]]
 - [[IndigenousFishesOfWesternNorth_PML0609]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Marsh & Associates
 
@@ -13194,10 +13194,10 @@ This is a model Lynch uses to estimate how fast a population can track environme
 
 ### Context
 > This document is a book chapter by Michael Lynch on how [[Quantitative Genetics]] should inform the conservation of endangered species. Its central argument is that molecular markers are weak proxies for the adaptive genetic variation that determines whether a population can survive environmental...
-> -- *[[UnreadableScannedDocumentAquat_PML1389]]*
+> -- *[[QuantitativeGeneticsInConserva_PML1389]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML1389]]
+- [[QuantitativeGeneticsInConserva_PML1389]]
 
 ## Maximum Sustainable Yield
 
@@ -14309,10 +14309,10 @@ McBay (1961) is an earlier source on the thermal tolerance of blue tilapia, cite
 
 ### Context
 > This study examined [[Blue Tilapia]] (*Oreochromis aureus*, cited as *Tilapia aurea*) in [[Trinidad Lake]], a 303 ha cooling reservoir for a steam electric generating station in Texas. Monthly [[Gillnet Sampling]] ran from January 1973 to December 1975, and a [[Petersen Mark-Recapture]] estimate...
-> -- *[[UnreadableScannedDocumentNoExt_PML0862]]*
+> -- *[[PopulationDynamicsOfBlueTilapi_PML0862]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentNoExt_PML0862]]
+- [[PopulationDynamicsOfBlueTilapi_PML0862]]
 
 ## McBirney Flow Meter
 
@@ -18147,10 +18147,10 @@ Melampidae is a family of mostly small, air-breathing marine and brackish-water 
 
 ### Context
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Melampus bidentatus
 
@@ -20762,14 +20762,14 @@ The valley where the party arrived on March 13, 1854, after crossing the desert 
 > -- *[[ReportOfExplorationsForThatPor_18430]]*
 
 > This short scientific note, published in *The Nautilus* (Vol. 85, No. 4, April 1972), reports several freshwater mollusk records from New Mexico, western Texas, Oklahoma, and Montana. The notes document likely human-mediated introductions of a freshwater mussel, a clam, and a snail, and they...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1683]]*
+> -- *[[FreshwaterMolluskIntroductions_PML1683]]*
 
 > This compiled section of *Nautilus* Vol. 80 (1) contains two short bivalve (clam) studies and a bibliographic note. The first is a distributional note on the genus [[Mya]] in Alaska, which reports [[Mya Truncata]] from the Anchorage area and other Alaskan localities and suggests that Anchorage...
 > -- *[[CorbiculaManilensisInTheMesill_PML1682]]*
 
 ### Mentioned In
 - [[ReportOfExplorationsForThatPor_18430]]
-- [[UnreadableScannedDocumentOcrFa_PML1683]]
+- [[FreshwaterMolluskIntroductions_PML1683]]
 - [[CorbiculaManilensisInTheMesill_PML1682]]
 
 ## Mesocapnia Arizonensis
@@ -23242,10 +23242,10 @@ A small freshwater fish native to the region. In this October 2010 San Bernardin
 
 ### Context
 > This short collection summary records fish captured during a [[San Bernardino River]] field trip in October 2010, led by [[C.O. Minckley]]. Specimens of five native freshwater species were tallied at four sites. [[Yaqui Topminnow]] dominated the catch, while [[Yaqui Chub]] and [[Longfin Dace]] were...
-> -- *[[UnreadableScannedDocumentNoExt_PML1792]]*
+> -- *[[SanBernardinoRiverCollectionSu_PML1792]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentNoExt_PML1792]]
+- [[SanBernardinoRiverCollectionSu_PML1792]]
 
 ## Mexican Collaboration
 
@@ -24106,7 +24106,7 @@ The Mexican Stoneroller (*Campostoma ornatum*) is a small cyprinid fish native t
 > -- *[[FallFishCountSummary_PML0119]]*
 
 > This short collection summary records fish captured during a [[San Bernardino River]] field trip in October 2010, led by [[C.O. Minckley]]. Specimens of five native freshwater species were tallied at four sites. [[Yaqui Topminnow]] dominated the catch, while [[Yaqui Chub]] and [[Longfin Dace]] were...
-> -- *[[UnreadableScannedDocumentNoExt_PML1792]]*
+> -- *[[SanBernardinoRiverCollectionSu_PML1792]]*
 
 ### Mentioned In
 - [[ArizonaEndangeredSpeciesLeadRe_1989_01_20]]
@@ -24146,7 +24146,7 @@ The Mexican Stoneroller (*Campostoma ornatum*) is a small cyprinid fish native t
 - [[ReevaluationOfTheNativeFishesO_PML1651]]
 - [[AnAnnotatedChecklistOfTheFresh_PML1113]]
 - [[FallFishCountSummary_PML0119]]
-- [[UnreadableScannedDocumentNoExt_PML1792]]
+- [[SanBernardinoRiverCollectionSu_PML1792]]
 
 ## Mexican Tetra
 
@@ -30537,10 +30537,10 @@ A road in the Salt River Valley area used on the map as a reference point for lo
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Miller Taxonomic Description
 
@@ -31507,7 +31507,7 @@ Minckley refers to W.L. Minckley, a seminal ichthyologist and conservation biolo
 > -- *[[TheEcologyOfASpringStreamDoeRu_PML1812]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[LetterToDrWLMinckleyRegardingE_1993_10_25]]
@@ -31594,7 +31594,7 @@ Minckley refers to W.L. Minckley, a seminal ichthyologist and conservation biolo
 - [[LoachMinnowTiarogaCobitisSurve_PML2874]]
 - [[ParkerIiAquaticStudyFinalRepor_PML1054]]
 - [[TheEcologyOfASpringStreamDoeRu_PML1812]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Minckley & Cole 1968
 <!-- fm: auto_enriched: true -->
@@ -33038,10 +33038,10 @@ An enumeration method that estimates population size as the number of animals ca
 
 ### Context
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Minimum Size Limit
 
@@ -34810,7 +34810,7 @@ The Mississippi River represents a major North American fluvial system of critic
 > -- *[[RiverStructureModificationsToP_PML0329]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 > This journal section gathers four short research notes. Three concern aquatic organisms: a high incidence of spinal deformity in [[Threadfin Shad]] from concrete-lined canals in Arizona and California; the southward spread of the predatory cladoceran [[Leptodora Kindtii]] into southern Louisiana;...
 > -- *[[AnUnusuallyHighIncidenceOfSpin_PML1529]]*
@@ -34907,7 +34907,7 @@ The Mississippi River represents a major North American fluvial system of critic
 - [[AbundanceGrowthAndDietOfChanne_PML2524]]
 - [[GuideToTheFishesOfColorado_PML0185]]
 - [[RiverStructureModificationsToP_PML0329]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 - [[AnUnusuallyHighIncidenceOfSpin_PML1529]]
 
 ## Mississippi River Basin
@@ -35593,7 +35593,7 @@ The Missouri River is a major North American river system of significant importa
 > -- *[[RiverStructureModificationsToP_PML0329]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 > This source contains two fisheries papers. The first assesses the present status of the fish fauna of the [[Lake Mead National Recreational Area]] on the [[Colorado River]] in Arizona and Nevada. It records 3 native and 11 exotic species, and reports that native fishes have declined as exotic...
 > -- *[[StatusOfTheFishFaunaOfLakeMead_PML2813]]*
@@ -35664,7 +35664,7 @@ The Missouri River is a major North American river system of significant importa
 - [[AmericasCarp_PML1925]]
 - [[ChangesInTheChannelOfTheLowerM_PML0843]]
 - [[RiverStructureModificationsToP_PML0329]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 - [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
 - [[FoodOfChannelCatfish_PML1170]]
 
@@ -37266,7 +37266,7 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 > -- *[[TaxonomicStatusAndMorphologyOf_PML2899]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[DistributionOfFishesInTheSanRa_1980_01_30]]
@@ -37294,7 +37294,7 @@ The Moapa River is a thermally distinctive aquatic system in Clark County, Nevad
 - [[OriginOfGilaSeminudaTeleosteiC_PML0560]]
 - [[ProposedListingOfVirginRiverCh_PML0733]]
 - [[TaxonomicStatusAndMorphologyOf_PML2899]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Moapa River Chub
 
@@ -41769,10 +41769,10 @@ A tilapia farming approach aimed at producing all-male or all-female stocks, whi
 
 ### Context
 > This preliminary report tests whether exogenous gonadotrophins can induce out-of-season spawning in mature female [[Tilapia Aurea]] held at the [[Dor Fish Culture Research Station]], Israel. Seven experimental series compared [[Carp Pituitary]] (CP), [[Luteinizing Hormone]] (LH), [[Human Chorionic...
-> -- *[[UnreadableOcrScanNoRecoverable_PML0526]]*
+> -- *[[InducedSpawningOfTilapiaAureaW_PML0526]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoRecoverable_PML0526]]
+- [[InducedSpawningOfTilapiaAureaW_PML0526]]
 
 ## Monosodium Methanearsonate
 
@@ -43745,12 +43745,12 @@ Morales Dam is located on the Colorado River, 120 miles upstream from the Gulf o
 > -- *[[ALimnologicalSurveyOfTheLowerC_PML0278]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
 - [[DifferentialDistributionOfTheS_19750]]
 - [[ALimnologicalSurveyOfTheLowerC_PML0278]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Morales et al.
 
@@ -46954,13 +46954,13 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > -- *[[ProposedEndangeredFishGrowoutF_PML1591]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 > This doctoral dissertation (Mark Russell Jennings, [[University Of Arizona]], 1986; School of Renewable Natural Resources, Wildlife and Fisheries Science) tests whether [[Desert Pupfish]] and [[Mosquitofish]] regulate their numbers through emigration in experimental habitats, and whether the two...
 > -- *[[BehavioralInteractionsBetweenD_PML1176]]*
 
 > This document is a book chapter by Michael Lynch on how [[Quantitative Genetics]] should inform the conservation of endangered species. Its central argument is that molecular markers are weak proxies for the adaptive genetic variation that determines whether a population can survive environmental...
-> -- *[[UnreadableScannedDocumentAquat_PML1389]]*
+> -- *[[QuantitativeGeneticsInConserva_PML1389]]*
 
 > This document is a multi-article excerpt from *The Southwestern Naturalist* (Vol. 9, No. 4, December 1964). It is mostly a fish paper. A short opening fragment and a literature list come from an earlier paper on the thermal and oxygen tolerance of [[Crenichthys Baileyi]]. The main article, by Hubbs...
 > -- *[[AdditionalIntroductionsOfTropi_PML1127]]*
@@ -46969,7 +46969,7 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 > -- *[[NewLocalityRecordForThePupfish_PML0028]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 > This U.S. Environmental Protection Agency (EPA) document, published February 1988 (EPA 440/5-88-001) by the [[Environmental Research Laboratory]] in Duluth, Minnesota, derives national [[Water Quality Criteria]] for [[Chloride]] to protect freshwater aquatic life. It assesses acute and chronic...
 > -- *[[AmbientWaterQualityCriteriaFor_PML0687]]*
@@ -47435,12 +47435,12 @@ Mosquitofish (Gambusia affinis) are small, highly adaptable livebearing fishes n
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
 - [[GapeLimitedPiscivoresPlanktivo_PML0956]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 - [[BehavioralInteractionsBetweenD_PML1176]]
-- [[UnreadableScannedDocumentAquat_PML1389]]
+- [[QuantitativeGeneticsInConserva_PML1389]]
 - [[AdditionalIntroductionsOfTropi_PML1127]]
 - [[NewLocalityRecordForThePupfish_PML0028]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 - [[AmbientWaterQualityCriteriaFor_PML0687]]
 
 ## Mosquitofish and Kesterson Contamination
@@ -54793,7 +54793,7 @@ The Museum of Vertebrate Zoology at the University of California is the institut
 > -- *[[ThreatenedFreshwaterFishesOfTh_PML1732]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[CurriculumVitaeOfRobertRushMil_15383]]
@@ -54803,7 +54803,7 @@ The Museum of Vertebrate Zoology at the University of California is the institut
 - [[EcologicalSurveyOfFishesInTheR_21164]]
 - [[ReviewPrinciplesOfPaleoecology_15343]]
 - [[ThreatenedFreshwaterFishesOfTh_PML1732]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Museum of Zoology University of Michigan
 
@@ -55076,7 +55076,7 @@ Muskellunge (Esox masquinongy) is a large, predatory freshwater fish species in 
 > -- *[[DispersalPatternsOfColoradoSqu_PML2059]]*
 
 > This scanned document bundles three components: a literature-cited list on the effects of thermal effluents on fish and aquatic invertebrates, a research paper on how an exotic [[Blue Tilapia]] population suppresses [[Largemouth Bass]] reproduction in [[Trinidad Lake]], Texas, and the opening pages...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
+> -- *[[ThermalEffluentLiteratureBlueT_PML2027]]*
 
 ### Mentioned In
 - [[BigGameFishSpeciesMostSuitedTo_14647]]
@@ -55137,7 +55137,7 @@ Muskellunge (Esox masquinongy) is a large, predatory freshwater fish species in 
 - [[AnAnnotatedBibliographyOfTheMu_18066]]
 - [[FrankensteinsFish_PML2901]]
 - [[DispersalPatternsOfColoradoSqu_PML2059]]
-- [[UnreadableScannedDocumentOcrFa_PML2027]]
+- [[ThermalEffluentLiteratureBlueT_PML2027]]
 
 ## Muskellunge Biology
 
@@ -55495,10 +55495,10 @@ Mutational meltdown is a process in which mutation accumulation and genetic drif
 
 ### Context
 > This document is a book chapter by Michael Lynch on how [[Quantitative Genetics]] should inform the conservation of endangered species. Its central argument is that molecular markers are weak proxies for the adaptive genetic variation that determines whether a population can survive environmental...
-> -- *[[UnreadableScannedDocumentAquat_PML1389]]*
+> -- *[[QuantitativeGeneticsInConserva_PML1389]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML1389]]
+- [[QuantitativeGeneticsInConserva_PML1389]]
 
 ## Mute Swan
 

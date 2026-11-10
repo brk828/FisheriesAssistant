@@ -7033,10 +7033,10 @@ A mark-recapture growth approach (Kirkwood 1983) that fits the three-parameter v
 
 ### Context
 > Baker, Lafferty and Quinn (1991, *Fisheries Research* 11: 257–281) extend [[Schnute Growth Model]], a general four-parameter size-age growth model that contains many classical curves (von Bertalanffy, Gompertz, Richards, logistic, linear, power) as submodels, to [[Mark-Recapture Data]]....
-> -- *[[UnreadableScannedAquaticDocume_PML0163]]*
+> -- *[[AGeneralGrowthModelForMarkreca_PML0163]]*
 
 ### Mentioned In
-- [[UnreadableScannedAquaticDocume_PML0163]]
+- [[AGeneralGrowthModelForMarkreca_PML0163]]
 
 ## Kirkwood Scale-Body Relationship
 

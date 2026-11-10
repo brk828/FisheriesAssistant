@@ -619,10 +619,10 @@ J. T. Nichols was an ichthyologist who described Arizonichthys psammophilus in 1
 
 ### Context
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## J. T. Plummer
 <!-- fm: auto_enriched: true -->
@@ -2596,10 +2596,10 @@ A researcher at Utah State University who conducted an initial study of Utah ang
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## James L. Bischoff
 
@@ -4629,10 +4629,10 @@ Jensen is a small town in northeastern Utah near the Green River. The source use
 
 ### Context
 > This document is a badly degraded OCR scan. Only a few fragments are legible, and they describe laboratory water prepared for aquatic testing. The legible text indicates that water was heated and dechlorinated at the [[Utah Water Research Lab]] in [[Logan, Utah]], and that a [[Reconstituted Water]]...
-> -- *[[UnreadableOcrScanAquaticDocume_PML2823]]*
+> -- *[[ReconstitutedGreenRiverWaterPr_PML2823]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticDocume_PML2823]]
+- [[ReconstitutedGreenRiverWaterPr_PML2823]]
 
 ## Jenynsia Lineata
 
@@ -6139,10 +6139,10 @@ John C. Frémont was an American explorer who, in 1844, was among the first non-
 
 ### Context
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## John C. Priscu
 
@@ -7187,12 +7187,12 @@ John O. Snyder wrote a 1940 work on the trouts of California that the leaflet qu
 > -- *[[AStudyOfTheFishesOfUtah_13456]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[TheTroutsOfNorthAmericaGeneral_20390]]
 - [[AStudyOfTheFishesOfUtah_13456]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## John Otterbein Snyder
 <!-- fm: auto_enriched: true -->
@@ -8339,11 +8339,11 @@ The Joint Hypergeometric Estimator is a mark-recapture method for estimating pop
 > -- *[[PopulationCharacteristicsAndMo_PML0308]]*
 
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
 - [[PopulationCharacteristicsAndMo_PML0308]]
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Joint Live and Dead Recovery Model
 
@@ -8456,10 +8456,10 @@ A study cited by the source showing that the Minimum Number Alive estimate is ne
 
 ### Context
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Jolly Model
 
@@ -8509,13 +8509,13 @@ The Jolly-Seber method is a mark-recapture approach for estimating the size of a
 > -- *[[RecoveryOfAUsEndangeredFish_PML0158]]*
 
 > This Wildlife Monograph (No. 62, October 1978) by David L. Otis, Kenneth P. Burnham, Gary C. White, and David R. Anderson presents statistical methods for estimating the size (N) and density (D) of closed animal populations from multiple-occasion capture-recapture and removal data. The monograph is...
-> -- *[[IllegibleScannedDocumentUnreco_PML2061]]*
+> -- *[[StatisticalInferenceFromCaptur_PML2061]]*
 
 ### Mentioned In
 - [[ProvisionalWorldListOfComputer_17320]]
 - [[TheStatisticsOfCapturerecaptur_17595]]
 - [[RecoveryOfAUsEndangeredFish_PML0158]]
-- [[IllegibleScannedDocumentUnreco_PML2061]]
+- [[StatisticalInferenceFromCaptur_PML2061]]
 
 ## Jolly-Seber Model
 
@@ -9072,10 +9072,10 @@ A published taxonomic reference work that Kirsch compares his specimens against.
 
 ### Context
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Jordan (1879)
 

@@ -3741,10 +3741,10 @@ Dave Foster of the Arizona Game and Fish Department compiled historical records 
 
 ### Context
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 
 ## Dave Hales
 
@@ -4738,10 +4738,10 @@ David Starr Jordan was a pioneering American ichthyologist and naturalist of the
 > -- *[[ExplorationsInColoradoAndUtahD_PML1241]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
@@ -4777,8 +4777,8 @@ David Starr Jordan was a pioneering American ichthyologist and naturalist of the
 - [[OurVanishingFishesCanTheyBeSav_PML2893]]
 - [[ADistributedListOfTheSpeciesOf_PML0697]]
 - [[ExplorationsInColoradoAndUtahD_PML1241]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## David Townsend Hoopes
 
@@ -5748,7 +5748,7 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 > -- *[[MohaveTrulyAFishermansHeaven_PML1916]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 > This 1995 paper by [[Gordon Mueller]] (National Biological Service) describes a field-level management program to sustain the [[Razorback Sucker]] (*Xyrauchen texanus*) in [[Lake Mohave]], Arizona-Nevada, which holds the largest remaining population of the species. The reservoir population is...
 > -- *[[AProgramForMaintainingTheRazor_PML1953]]*
@@ -5941,7 +5941,7 @@ Davis Dam is a hydroelectric dam on the Colorado River located between Lake Mead
 - [[LakeMeadAndLakeMohaveInvestiga_PML1235]]
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
 - [[MohaveTrulyAFishermansHeaven_PML1916]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 - [[AProgramForMaintainingTheRazor_PML1953]]
 - [[TheFishermansMeltingPotLakeMoh_PML2849]]
 - [[UdallPutsCentralArizonaProject_14402]]
@@ -7051,10 +7051,10 @@ A state park near Cottonwood, Arizona, listed in the source as one of the possib
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Deadman Creek
 
@@ -8226,10 +8226,10 @@ Dechlorination is the removal of residual chlorine from water, often done before
 
 ### Context
 > This document is a badly degraded OCR scan. Only a few fragments are legible, and they describe laboratory water prepared for aquatic testing. The legible text indicates that water was heated and dechlorinated at the [[Utah Water Research Lab]] in [[Logan, Utah]], and that a [[Reconstituted Water]]...
-> -- *[[UnreadableOcrScanAquaticDocume_PML2823]]*
+> -- *[[ReconstitutedGreenRiverWaterPr_PML2823]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticDocume_PML2823]]
+- [[ReconstitutedGreenRiverWaterPr_PML2823]]
 
 ## Decibel Re 1 Microbar
 
@@ -9016,14 +9016,14 @@ A small (about 40.7 ha), shallow backwater of the Lower Colorado River on the Co
 > -- *[[ResourceUseByNativeAndNonnativ_PML2063]]*
 
 > This field study documents a rare case of large-scale natural mortality among 2-year-old [[Largemouth Bass]] (*Micropterus salmoides*) in [[Deer Island Lake]], a 40.7 ha backwater of the [[Lower Colorado River]] in Arizona. The authors, Michael K. Saiki and Jerry C. Tash of the Arizona Cooperative...
-> -- *[[UnreadableOcrScanNoRecoverable_PML2282]]*
+> -- *[[UnusualPopulationDynamicsInLar_PML2282]]*
 
 ### Mentioned In
 - [[SomeObservationsOnTheFlexibleF_PML2281]]
 - [[ParkerFisheryStudyOctoberOctob_PML1051]]
 - [[AnEcologicalEvaluationOfGameFi_PML2280]]
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
-- [[UnreadableOcrScanNoRecoverable_PML2282]]
+- [[UnusualPopulationDynamicsInLar_PML2282]]
 
 ## Deer Keds
 
@@ -9818,10 +9818,10 @@ Deleterious mutations are changes in DNA that reduce fitness. In this source, Ly
 
 ### Context
 > This document is a book chapter by Michael Lynch on how [[Quantitative Genetics]] should inform the conservation of endangered species. Its central argument is that molecular markers are weak proxies for the adaptive genetic variation that determines whether a population can survive environmental...
-> -- *[[UnreadableScannedDocumentAquat_PML1389]]*
+> -- *[[QuantitativeGeneticsInConserva_PML1389]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML1389]]
+- [[QuantitativeGeneticsInConserva_PML1389]]
 
 ## Delhi Fish Farm
 
@@ -15493,7 +15493,7 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 > -- *[[NewLocalityRecordForThePupfish_PML0028]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
 - [[AProposalToEvaluateTheLowerCol_15819]]
@@ -15983,7 +15983,7 @@ The Desert Pupfish (Cyprinodon maculatus) is a small, highly adaptable cyprinodo
 - [[BehavioralInteractionsBetweenD_PML1176]]
 - [[TheRoleOfFishCultureInEndanger_PML1189]]
 - [[NewLocalityRecordForThePupfish_PML0028]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Desert Pupfish Conservation
 <!-- fm: auto_enriched: true -->
@@ -22052,7 +22052,7 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 > -- *[[LossOfLakeMohaveBonytailChub_PML2693]]*
 
 > This is a one-page-set cost form (Form 3-110, Rev 1/89) for the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC) for [[Fiscal Year 1996]]. It reports operations and maintenance expenditures by category and funding source. The document contains no species, habitat, or...
-> -- *[[UnreadableScannedDocumentNoExt_PML2712]]*
+> -- *[[DexterNfhTcOperationsAndMainte_PML2712]]*
 
 > This 1993 document set is a draft proposal and internal correspondence from the [[Fish and Wildlife Service]] (FWS) on collecting, handling, holding and transporting wild [[Bonytail]] from [[Lake Mohave]] to the [[Dexter National Fish Hatchery and Technology Center]] for [[Captive Propagation]] and...
 > -- *[[BonytailProtocol_PML1179]]*
@@ -22135,7 +22135,7 @@ Dexter National Fish Hatchery and Technology Center is a U.S. Fish and Wildlife 
 - [[BonytailChubRearingStudiesLite_PML2077]]
 - [[DexterNationalFishHatcheryAndT_PML2758]]
 - [[LossOfLakeMohaveBonytailChub_PML2693]]
-- [[UnreadableScannedDocumentNoExt_PML2712]]
+- [[DexterNfhTcOperationsAndMainte_PML2712]]
 - [[BonytailProtocol_PML1179]]
 - [[DnfhFyAnnualReport_PML2725]]
 
@@ -25685,13 +25685,13 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 > -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This study by [[Harold M. Tyus]] of the [[U.S. Fish and Wildlife Service]] evaluated the distribution, habitat use, relative abundance, and reproduction of the rare [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Green River]] of Colorado and Utah, 1979-1986. The work combined electrofishing,...
 > -- *[[DistributionReproductionAndHab_PML2530]]*
 
 > This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
-> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+> -- *[[DistributionOfFishesInTheDolor_PML1072]]*
 
 > This paper reports a 1963–1966 survey of fish populations in the Green River below [[Flaming Gorge Dam]], Utah, which closed in November 1962. The study sampled 24,040 fish in 667 collections from the dam to Ouray, Utah, and compared the results with [[Pre-Impoundment Surveys]]. The authors found...
 > -- *[[DistributionOfGreenRiverFishes_PML2789]]*
@@ -25803,9 +25803,9 @@ Dinosaur National Monument refers to a protected landscape area in the Green Riv
 - [[LifeHistoryAndEcologyOfTheColo_PML1261]]
 - [[EcologicalAndLimnologicalStudi_PML0941]]
 - [[EcologicalAndLimnologicalStudi_PML0942]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[DistributionReproductionAndHab_PML2530]]
-- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[DistributionOfFishesInTheDolor_PML1072]]
 - [[DistributionOfGreenRiverFishes_PML2789]]
 
 ## Dinosaur National Park
@@ -27433,10 +27433,10 @@ A facility listed on the map legend that, together with the divisional offices, 
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Dispersal
 
@@ -29548,10 +29548,10 @@ A road in the Salt River Valley area used on the map as a reference point for lo
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Dobsonfly
 
@@ -30321,7 +30321,7 @@ The Dolores Project is a related water development project in the Colorado River
 > -- *[[ReintroductionAndMonitoringOfH_PML0142]]*
 
 > This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
-> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+> -- *[[DistributionOfFishesInTheDolor_PML1072]]*
 
 ### Mentioned In
 - [[AdultBonytailFromDexterForStom_13615]]
@@ -30345,7 +30345,7 @@ The Dolores Project is a related water development project in the Colorado River
 - [[ReProposedRuleDesignatingCriti_PML2362]]
 - [[StatusOfEndangeredAndThreatene_PML1217]]
 - [[ReintroductionAndMonitoringOfH_PML0142]]
-- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[DistributionOfFishesInTheDolor_PML1072]]
 
 ## Dolphinfish
 
@@ -31240,10 +31240,10 @@ Donald W. Johnson was a co-author of this paper, affiliated with Arizona State U
 
 ### Context
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Donald Wilhite
 
@@ -31436,11 +31436,11 @@ The research station at Dor, Israel, where J. Chervinski was based and where the
 > -- *[[SexualDimorphismInTilapiaAurea_PML0411]]*
 
 > This preliminary report tests whether exogenous gonadotrophins can induce out-of-season spawning in mature female [[Tilapia Aurea]] held at the [[Dor Fish Culture Research Station]], Israel. Seven experimental series compared [[Carp Pituitary]] (CP), [[Luteinizing Hormone]] (LH), [[Human Chorionic...
-> -- *[[UnreadableOcrScanNoRecoverable_PML0526]]*
+> -- *[[InducedSpawningOfTilapiaAureaW_PML0526]]*
 
 ### Mentioned In
 - [[SexualDimorphismInTilapiaAurea_PML0411]]
-- [[UnreadableOcrScanNoRecoverable_PML0526]]
+- [[InducedSpawningOfTilapiaAureaW_PML0526]]
 
 ## Doration
 <!-- fm: auto_enriched: true -->

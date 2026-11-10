@@ -3095,7 +3095,7 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 > -- *[[TheCommitteeOnTheFollowingPape_PML0871]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
@@ -3164,7 +3164,7 @@ The Ohio River serves as a significant freshwater aquatic ecosystem and model sy
 - [[ResearchesUponTheCyprinoidFish_PML0873]]
 - [[TheEcologyOfASpringStreamDoeRu_PML1812]]
 - [[TheCommitteeOnTheFollowingPape_PML0871]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Ohio River Basin
 
@@ -4414,7 +4414,7 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 > -- *[[TheLeveeRemovalProjectAssessme_PML0225]]*
 
 > This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+> -- *[[JuvenileRazorbackSuckerInAMana_PML1902]]*
 
 ### Mentioned In
 - [[AdditionalRazorbackSuckerGenet_1994_04_28]]
@@ -4437,7 +4437,7 @@ I appreciate your question, but I must be transparent: I cannot provide a reliab
 - [[FloodplainWetlandSuitabilityAc_PML1903]]
 - [[NurserySuitabilityAndRazorback_PML2730]]
 - [[TheLeveeRemovalProjectAssessme_PML0225]]
-- [[UnreadableScannedDocumentOcrFa_PML1902]]
+- [[JuvenileRazorbackSuckerInAMana_PML1902]]
 
 ## Old Charlie Inlet
 
@@ -6098,7 +6098,7 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 > -- *[[ComparisonOfTributarySurvivalE_PML0483]]*
 
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
 - [[LeesFerryTrophyTroutFishery_18301]]
@@ -6116,7 +6116,7 @@ Oncorhynchus mykiss, commonly known as rainbow trout, is a highly adaptable salm
 - [[StockingPropagationAndRecovery_PML2293]]
 - [[BioticAndAbioticEffectsOfFlash_PML1390]]
 - [[ComparisonOfTributarySurvivalE_PML0483]]
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Oncorhynchus mykiss nelsoni
 
@@ -8426,11 +8426,11 @@ The water-transfer scheme of which the Orange-Fish Tunnel was a part. The tunnel
 > -- *[[ColonisationTheoryAndInvasiveB_20200]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[ColonisationTheoryAndInvasiveB_20200]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Orange Roughy
 
@@ -9911,7 +9911,7 @@ Oregon Trout is an conservation organization that the source cites for its estim
 > -- *[[BioticEffectsOfGrazingByTilapi_PML2129]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[EvaluationOfThePotentialOfTila_15172]]
@@ -9919,7 +9919,7 @@ Oregon Trout is an conservation organization that the source cites for its estim
 - [[IdentificationOfFourTilapiaSpe_16122]]
 - [[TheFishesOfTheJordanRiverDrain_12463]]
 - [[BioticEffectsOfGrazingByTilapi_PML2129]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Oreochromis Hornorum
 
@@ -9928,10 +9928,10 @@ Oreochromis hornorum is a cichlid tilapia species from West Africa, known as the
 
 ### Context
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Oreochromis Mortimeri
 <!-- fm: auto_enriched: true -->
@@ -9965,7 +9965,7 @@ Oreochromis mossambica, the Mozambique tilapia, is a cichlid fish native to sout
 > -- *[[IntroducedAndTranslocatedFishe_18622]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[CichlasomaLoiselleiANewNandops_1989]]
@@ -9973,7 +9973,7 @@ Oreochromis mossambica, the Mozambique tilapia, is a cichlid fish native to sout
 - [[RequestByUecToImportAndPossess_18439]]
 - [[KeyToCichlidFishesOfFlorida_21211]]
 - [[IntroducedAndTranslocatedFishe_18622]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Oreochromis Nilotica
 
@@ -9982,10 +9982,10 @@ Oreochromis niloticus is the Nile tilapia, a widely farmed cichlid from Africa. 
 
 ### Context
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Oreochromis Niloticus
 <!-- fm: auto_enriched: true -->
@@ -12920,10 +12920,10 @@ A set of capture-recapture models cited in the source as addressing capture hete
 
 ### Context
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Otis et Al. 1978 Closed-Model Estimators
 
@@ -14206,7 +14206,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 > -- *[[CoordinatedHatcheryFacilityPla_PML2925]]*
 
 > This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+> -- *[[JuvenileRazorbackSuckerInAMana_PML1902]]*
 
 > This study by Tyus and Severson (U.S. Fish and Wildlife Service, Vernal, Utah) tested whether larval [[Razorback Sucker]] (*Xyrauchen texanus*) can be reared from sac-fry to 40 days old on commercially available dry [[Artificial Diets]] instead of pond-cultured natural foods. A total of 600 fish...
 > -- *[[LarvalRazorbackSuckerResponseT_PML2526]]*
@@ -14259,7 +14259,7 @@ Ouray National Wildlife Refuge is a protected area located along the Green River
 - [[SurvivalAndGrowthOfStockedRazo_PML1912]]
 - [[PreliminaryConceptualApproachT_PML2655]]
 - [[CoordinatedHatcheryFacilityPla_PML2925]]
-- [[UnreadableScannedDocumentOcrFa_PML1902]]
+- [[JuvenileRazorbackSuckerInAMana_PML1902]]
 - [[LarvalRazorbackSuckerResponseT_PML2526]]
 
 ## Ouray Reach

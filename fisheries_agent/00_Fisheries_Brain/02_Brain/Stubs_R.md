@@ -1131,10 +1131,10 @@ Animals fitted with radio transmitters so they can be tracked. The source says r
 
 ### Context
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Radio-Iodine
 
@@ -1954,10 +1954,10 @@ Radium-226 is a long-lived alpha-emitting isotope in the uranium-radium decay se
 
 ### Context
 > This short scientific note, published in *The Nautilus* (Vol. 85, No. 4, April 1972), reports several freshwater mollusk records from New Mexico, western Texas, Oklahoma, and Montana. The notes document likely human-mediated introductions of a freshwater mussel, a clam, and a snail, and they...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1683]]*
+> -- *[[FreshwaterMolluskIntroductions_PML1683]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML1683]]
+- [[FreshwaterMolluskIntroductions_PML1683]]
 
 ## Radon
 
@@ -2586,7 +2586,7 @@ Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to At
 > -- *[[ProposedIntroductionOfRainbowS_PML0931]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[AResponseToTheProposalToIntrod_1987]]
@@ -2657,7 +2657,7 @@ Rainbow Smelt (*Osmerus mordax*) is a small, anadromous forage fish native to At
 - [[NonnativeFishesOfTheGrandCanyo_PML0940]]
 - [[ABibliographyOfTheFederallyEnd_PML1153]]
 - [[ProposedIntroductionOfRainbowS_PML0931]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Rainbow Snake
 <!-- fm: auto_enriched: true -->
@@ -5071,16 +5071,16 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > -- *[[MohaveTrulyAFishermansHeaven_PML1916]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 > This source contains two separate fish studies. The first is a short [[Threatened Fishes of the World]] profile of the [[Spotted Handfish]] (*Brachionichthys hirsutus*), a small, critically endangered benthic species endemic to south-eastern [[Tasmania]]. Its population has declined substantially...
 > -- *[[ScannedAquaticSurveyPagesWithL_PML2869]]*
 
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This 1950 National Park Service visitor brochure describes [[Lake Mead]], the reservoir formed by [[Hoover Dam]] on the [[Colorado River]], and the surrounding [[Lake Mead National Recreational Area]] in Nevada and Arizona. The document is not a research study. It covers the lake's size and...
 > -- *[[LakeMeadNationalRecreationArea_11518]]*
@@ -5107,10 +5107,10 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 > -- *[[SpawningEcologyOfFlannelmouthS_PML2868]]*
 
 > Baker, Lafferty and Quinn (1991, *Fisheries Research* 11: 257–281) extend [[Schnute Growth Model]], a general four-parameter size-age growth model that contains many classical curves (von Bertalanffy, Gompertz, Richards, logistic, linear, power) as submodels, to [[Mark-Recapture Data]]....
-> -- *[[UnreadableScannedAquaticDocume_PML0163]]*
+> -- *[[AGeneralGrowthModelForMarkreca_PML0163]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 > This U.S. Environmental Protection Agency (EPA) document, published February 1988 (EPA 440/5-88-001) by the [[Environmental Research Laboratory]] in Duluth, Minnesota, derives national [[Water Quality Criteria]] for [[Chloride]] to protect freshwater aquatic life. It assesses acute and chronic...
 > -- *[[AmbientWaterQualityCriteriaFor_PML0687]]*
@@ -6178,10 +6178,10 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[FishHandlingImprovementGrandCa_PML2782]]
 - [[FisheriesSurveyOfTheGilaAndMim_PML1133]]
 - [[MohaveTrulyAFishermansHeaven_PML1916]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 - [[ScannedAquaticSurveyPagesWithL_PML2869]]
-- [[UnreadableScannedDocumentAquat_PML0098]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
 - [[WaterQualityCriteriaForEuropea_PML0668]]
@@ -6190,8 +6190,8 @@ Rainbow Trout (Oncorhynchus mykiss) is a highly adaptable salmonid species nativ
 - [[LiquidChromatographicIdentific_PML2049]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[SpawningEcologyOfFlannelmouthS_PML2868]]
-- [[UnreadableScannedAquaticDocume_PML0163]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AGeneralGrowthModelForMarkreca_PML0163]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 - [[AmbientWaterQualityCriteriaFor_PML0687]]
 - [[DistributionOfGreenRiverFishes_PML2789]]
 
@@ -13576,7 +13576,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > -- *[[EffectivenessOfLightTrapsForCa_FAL0002]]*
 
 > This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+> -- *[[JuvenileRazorbackSuckerInAMana_PML1902]]*
 
 > This excerpt from *The Southwestern Naturalist* (vol. 30, no. 1, March 1985) contains two research papers. The main paper, by [[Tamara Black]] and [[Ross V. Bulkley]], measures the acute and final thermal preferenda of yearling [[Colorado Squawfish]], an endangered endemic minnow of the [[Colorado...
 > -- *[[PreferredTemperatureOfYearling_PML0230]]*
@@ -13588,7 +13588,7 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > -- *[[AProgramForMaintainingTheRazor_PML1953]]*
 
 > This summary reports the results of three [[Razorback Sucker]] roundups conducted on [[Lake Mohave]] (Arizona-Nevada) in March, May and November 2007. The document was prepared by Carol Pacey, Brian Kesner and Paul Marsh for the [[Colorado River Aquatic Biologists Meeting]] (January 9-10, 2008,...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
+> -- *[[RazorbackSuckerRoundupSummaryL_PML2070]]*
 
 > This source contains two separate fish studies. The first is a short [[Threatened Fishes of the World]] profile of the [[Spotted Handfish]] (*Brachionichthys hirsutus*), a small, critically endangered benthic species endemic to south-eastern [[Tasmania]]. Its population has declined substantially...
 > -- *[[ScannedAquaticSurveyPagesWithL_PML2869]]*
@@ -13621,13 +13621,13 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 > -- *[[WbnfhFyAnnualReport_PML2721]]*
 
 > This short miscellany of natural history notes contains one substantive fish record and two bird notes. The main item, by William J. Koster, reports the first known specimens of the [[Colorado River Squawfish]] from the San Juan portion of the [[Colorado River Basin]], documented by two fish...
-> -- *[[UnreadableOcrScanAquaticDocume_PML1295]]*
+> -- *[[ColoradoRiverSquawfishPtychoch_PML1295]]*
 
 > This paper by Buddy L. Jensen of the [[U.S. Fish and Wildlife Service]] describes the endangered fishes program at [[Dexter National Fish Hatchery]] (Dexter NFH), New Mexico. Following the [[Endangered Species Act]] of 1973, Dexter began holding and culturing imperiled southwestern fishes in 1974,...
 > -- *[[TheRoleOfFishCultureInEndanger_PML1189]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 > This study by Tyus and Severson (U.S. Fish and Wildlife Service, Vernal, Utah) tested whether larval [[Razorback Sucker]] (*Xyrauchen texanus*) can be reared from sac-fry to 40 days old on commercially available dry [[Artificial Diets]] instead of pond-cultured natural foods. A total of 600 fish...
 > -- *[[LarvalRazorbackSuckerResponseT_PML2526]]*
@@ -15693,11 +15693,11 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[IntegratedFisheriesManagementP_PML0129]]
 - [[SemipermeableSpeciesBoundaries_2026]]
 - [[EffectivenessOfLightTrapsForCa_FAL0002]]
-- [[UnreadableScannedDocumentOcrFa_PML1902]]
+- [[JuvenileRazorbackSuckerInAMana_PML1902]]
 - [[PreferredTemperatureOfYearling_PML0230]]
 - [[SurvivalOfRazorbackSuckersCult_PML0977]]
 - [[AProgramForMaintainingTheRazor_PML1953]]
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
+- [[RazorbackSuckerRoundupSummaryL_PML2070]]
 - [[ScannedAquaticSurveyPagesWithL_PML2869]]
 - [[NativeFishCurrentlyAtWbnfh_PML2705]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
@@ -15708,9 +15708,9 @@ The Razorback Sucker (*Xyrauchen texanus*) is a large native catostomid fish end
 - [[AProgramToMaintainTheEndangere_PML1929]]
 - [[BonytailProtocol_PML1179]]
 - [[WbnfhFyAnnualReport_PML2721]]
-- [[UnreadableOcrScanAquaticDocume_PML1295]]
+- [[ColoradoRiverSquawfishPtychoch_PML1295]]
 - [[TheRoleOfFishCultureInEndanger_PML1189]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 - [[LarvalRazorbackSuckerResponseT_PML2526]]
 - [[EndangeredAndThreatenedWildlif_PML0728]]
 - [[ResultsOfDiseaseWorkOnTheRazor_PML2262]]
@@ -16532,10 +16532,10 @@ Genes whose effects appear only when inherited in a particular way; in this sour
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Rechinger
 
@@ -16908,12 +16908,12 @@ Reconstituted water is the standardized test medium used in the delineative bioa
 > -- *[[ToxicityOfSimulatedAgricultura_PML0969]]*
 
 > This document is a badly degraded OCR scan. Only a few fragments are legible, and they describe laboratory water prepared for aquatic testing. The legible text indicates that water was heated and dechlorinated at the [[Utah Water Research Lab]] in [[Logan, Utah]], and that a [[Reconstituted Water]]...
-> -- *[[UnreadableOcrScanAquaticDocume_PML2823]]*
+> -- *[[ReconstitutedGreenRiverWaterPr_PML2823]]*
 
 ### Mentioned In
 - [[ToxicityOfBayerToFish_13282]]
 - [[ToxicityOfSimulatedAgricultura_PML0969]]
-- [[UnreadableOcrScanAquaticDocume_PML2823]]
+- [[ReconstitutedGreenRiverWaterPr_PML2823]]
 
 ## Record Of Decision
 <!-- fm: auto_enriched: true -->
@@ -28378,7 +28378,7 @@ The return of captive-raised or otherwise propagated fish to the wild to rebuild
 > -- *[[DraftEnvironmentalAssessmentFo_PML2597]]*
 
 > This summary reports the results of three [[Razorback Sucker]] roundups conducted on [[Lake Mohave]] (Arizona-Nevada) in March, May and November 2007. The document was prepared by Carol Pacey, Brian Kesner and Paul Marsh for the [[Colorado River Aquatic Biologists Meeting]] (January 9-10, 2008,...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
+> -- *[[RazorbackSuckerRoundupSummaryL_PML2070]]*
 
 ### Mentioned In
 - [[PopulationEstimates_PML1527]]
@@ -28388,7 +28388,7 @@ The return of captive-raised or otherwise propagated fish to the wild to rebuild
 - [[RazorbackSuckerRepatriationGen_PML1432]]
 - [[WildAtHeartProgramsToDiminishN_PML2048]]
 - [[DraftEnvironmentalAssessmentFo_PML2597]]
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
+- [[RazorbackSuckerRoundupSummaryL_PML2070]]
 
 ## Repatriation Plan
 
@@ -35996,10 +35996,10 @@ Rimstone pools are small basins built by carbonate deposition at the edges of po
 
 ### Context
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Rincon
 
@@ -37861,7 +37861,7 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 > -- *[[TheGreatBasinWithEmphasisOnGla_PML2497]]*
 
 > This short scientific note, published in *The Nautilus* (Vol. 85, No. 4, April 1972), reports several freshwater mollusk records from New Mexico, western Texas, Oklahoma, and Montana. The notes document likely human-mediated introductions of a freshwater mussel, a clam, and a snail, and they...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1683]]*
+> -- *[[FreshwaterMolluskIntroductions_PML1683]]*
 
 > This compiled section of *Nautilus* Vol. 80 (1) contains two short bivalve (clam) studies and a bibliographic note. The first is a distributional note on the genus [[Mya]] in Alaska, which reports [[Mya Truncata]] from the Anchorage area and other Alaskan localities and suggests that Anchorage...
 > -- *[[CorbiculaManilensisInTheMesill_PML1682]]*
@@ -37983,7 +37983,7 @@ The Rio Grande (Río Bravo del Norte) is a major river system in North America t
 - [[FinalEnvironmentalStatementRio_PML1140]]
 - [[GuideToTheFishesOfColorado_PML0185]]
 - [[TheGreatBasinWithEmphasisOnGla_PML2497]]
-- [[UnreadableScannedDocumentOcrFa_PML1683]]
+- [[FreshwaterMolluskIntroductions_PML1683]]
 - [[CorbiculaManilensisInTheMesill_PML1682]]
 - [[BenthicInvertebrateStandingCro_PML0168]]
 
@@ -44530,10 +44530,10 @@ Rivularia haematites is a cyanobacterium that forms hemispherical calcified colo
 
 ### Context
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Rivulidae
 <!-- fm: auto_enriched: true -->
@@ -44647,10 +44647,10 @@ Hart's Rivulus (Rivulus harti) is a small South American cyprinodont fish. This 
 
 ### Context
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Rivulus Hartii
 
@@ -44775,7 +44775,7 @@ Roach (Rutilus rutilus) is a common cyprinid fish species inhabiting the benthic
 > -- *[[HabitatUseByRoachRutilusRutilu_PML2276]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
@@ -44799,7 +44799,7 @@ Roach (Rutilus rutilus) is a common cyprinid fish species inhabiting the benthic
 - [[TheGrowthOfDaceLeuciscusLeucis_17982]]
 - [[PreySelectionByJuvenileCyprini_PML2323]]
 - [[HabitatUseByRoachRutilusRutilu_PML2276]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Road Building
 
@@ -46169,10 +46169,10 @@ Robert K. Vickery Jr. is the author of a separate, truncated paper on the monkey
 
 ### Context
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 
 ## Robert K. Wayne
 
@@ -46717,7 +46717,7 @@ Robert R. Miller was a pioneering ichthyologist and conservation biologist who m
 > -- *[[TheGreatBasinWithEmphasisOnGla_PML2497]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[CorrespondenceBetweenRobertRMi_15382]]
@@ -46768,7 +46768,7 @@ Robert R. Miller was a pioneering ichthyologist and conservation biologist who m
 - [[BiogeographyAndTimingOfEvoluti_PML2392]]
 - [[TheGreatBasinWithEmphasisOnGla_PML1105]]
 - [[TheGreatBasinWithEmphasisOnGla_PML2497]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Robert R. Miller (ichthyologist)
 <!-- fm: auto_enriched: true -->
@@ -47929,10 +47929,10 @@ Rochefortia cuneata is a small commensal bivalve, originally described as Montac
 
 ### Context
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Rochester
 
@@ -51175,7 +51175,7 @@ Roots Lake is a 15.6-acre lake in Grand Traverse County, Michigan, with a maximu
 > -- *[[NewFishHabitatRestorationAndPa_PML2737]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[HistoryOfBylasTopminnowPopulat_1989_02_08]]
@@ -51187,7 +51187,7 @@ Roots Lake is a 15.6-acre lake in Grand Traverse County, Michigan, with a maximu
 - [[DraftProposalMiddleSpringSAndT_20270]]
 - [[MiddleSpringSAndTheEndangeredG_PML2715]]
 - [[NewFishHabitatRestorationAndPa_PML2737]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Roper's Lake
 
@@ -55386,7 +55386,7 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > -- *[[RoundtailChubStatusSurveyOfThe_PML2797]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This Forest Service document, a fisheries and riparian management plan for the [[Apache-Sitgreaves National Forests]] in east-central Arizona, sets out the legal basis, current condition, supply and value, and management practices for [[Riparian Habitat]] and [[Fish Habitat]]. It states that 72...
 > -- *[[FisheriesAndRiparianHabitatImp_PML0824]]*
@@ -55395,7 +55395,7 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 > -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 > This document contains two 1961 papers from *The Southwestern Naturalist*. The first, by [[Frederick R. Gehlbach]] and [[Robert Rush Miller]], reports three fish taxa recovered from Pueblo Indian ruins in northern New Mexico: [[Longnose Gar]], [[Bonytail]], and [[Blue Sucker]]. The authors argue...
 > -- *[[FishesFromArchaeologicalSitesI_PML0854]]*
@@ -55951,10 +55951,10 @@ The Roundtail Chub (*Gila robusta*, family Cyprinidae) is a native cyprinid minn
 - [[SurveyOfVerdeRiverDrainageAriz_PML0148]]
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
 - [[RoundtailChubStatusSurveyOfThe_PML2797]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[FisheriesAndRiparianHabitatImp_PML0824]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 - [[FishesFromArchaeologicalSitesI_PML0854]]
 
 ## Roundtail Chub Survey Protocol

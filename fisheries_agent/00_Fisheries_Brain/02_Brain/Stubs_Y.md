@@ -1163,10 +1163,10 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 > -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
-> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+> -- *[[DistributionOfFishesInTheDolor_PML1072]]*
 
 > This final report (April 1993) by T. Muth of the [[Larval Fish Laboratory]] at Colorado State University and Thomas P. Nesler of the [[Colorado Division of Wildlife]] analyzes seine and dipnet collections of small fishes made in low-velocity habitats of the lower [[Yampa River]] in 1980–1984. The...
 > -- *[[AssociationsAmongFlowAndTemper_PML1992]]*
@@ -1480,8 +1480,8 @@ The Yampa River is a critical tributary of the Upper Colorado River Basin and de
 - [[EndemicFishesOfTheColoradoRive_PML2238]]
 - [[PreferredTemperatureOfYearling_PML0230]]
 - [[EcologicalAndLimnologicalStudi_PML0942]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
-- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[ChangesInNativeFishDistributio_PML2466]]
+- [[DistributionOfFishesInTheDolor_PML1072]]
 - [[AssociationsAmongFlowAndTemper_PML1992]]
 - [[DistributionOfGreenRiverFishes_PML2789]]
 - [[RoutingAndTransmittalSlipBonyt_PML1896]]
@@ -2412,7 +2412,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 > -- *[[FallFishCountSummary_PML0119]]*
 
 > This short collection summary records fish captured during a [[San Bernardino River]] field trip in October 2010, led by [[C.O. Minckley]]. Specimens of five native freshwater species were tallied at four sites. [[Yaqui Topminnow]] dominated the catch, while [[Yaqui Chub]] and [[Longfin Dace]] were...
-> -- *[[UnreadableScannedDocumentNoExt_PML1792]]*
+> -- *[[SanBernardinoRiverCollectionSu_PML1792]]*
 
 > This paper by Buddy L. Jensen of the [[U.S. Fish and Wildlife Service]] describes the endangered fishes program at [[Dexter National Fish Hatchery]] (Dexter NFH), New Mexico. Following the [[Endangered Species Act]] of 1973, Dexter began holding and culturing imperiled southwestern fishes in 1974,...
 > -- *[[TheRoleOfFishCultureInEndanger_PML1189]]*
@@ -2576,7 +2576,7 @@ The Yaqui Chub is a federally endangered fish endemic to the Yaqui River Basin i
 - [[ThreatenedNativeWildlifeInAriz_PML0097]]
 - [[DraftBiologicalOpinionOngoingA_PML2744]]
 - [[FallFishCountSummary_PML0119]]
-- [[UnreadableScannedDocumentNoExt_PML1792]]
+- [[SanBernardinoRiverCollectionSu_PML1792]]
 - [[TheRoleOfFishCultureInEndanger_PML1189]]
 
 ## Yaqui Fish Collection Expedition
@@ -3287,7 +3287,7 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 > -- *[[StatusOfTheSonoranTopminnowPoe_PML0155]]*
 
 > This short collection summary records fish captured during a [[San Bernardino River]] field trip in October 2010, led by [[C.O. Minckley]]. Specimens of five native freshwater species were tallied at four sites. [[Yaqui Topminnow]] dominated the catch, while [[Yaqui Chub]] and [[Longfin Dace]] were...
-> -- *[[UnreadableScannedDocumentNoExt_PML1792]]*
+> -- *[[SanBernardinoRiverCollectionSu_PML1792]]*
 
 ### Mentioned In
 - [[AnnualReportAndSubPermitApplic_1990_12_09]]
@@ -3388,7 +3388,7 @@ The Yaqui Topminnow is a small-bodied livebearing fish species endemic to the Ri
 - [[GilaTopminnowPoeciliopsisOccid_PML0012]]
 - [[GilaTopminnowPoeciliopsisOccid_PML2852]]
 - [[StatusOfTheSonoranTopminnowPoe_PML0155]]
-- [[UnreadableScannedDocumentNoExt_PML1792]]
+- [[SanBernardinoRiverCollectionSu_PML1792]]
 
 ## Yaqui Trout
 
@@ -5475,13 +5475,13 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 > -- *[[GuideToTheFishesOfColorado_PML0185]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 > The document combines two sections of a journal issue. The first is a discussion of [[Ralston Plots]], a rapid graphical method for estimating the functional form of fishing gear selectivity, applied mainly to [[Hook Selectivity]] in longline and handline fisheries. The second, and main, part is a...
 > -- *[[InteractiveInfluenceOfTurbidit_PML1895]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[AColourMutantOfTheYellowPerchF_18051]]
@@ -5699,9 +5699,9 @@ Yellow Perch (*Perca flavescens*) is a freshwater panfish species commonly class
 - [[BasicSurveyOfVerdeRiverAndItsO_PML2806]]
 - [[EcologicalStudiesOfFloraAndFau_PML2920]]
 - [[GuideToTheFishesOfColorado_PML0185]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 - [[InteractiveInfluenceOfTurbidit_PML1895]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Yellow Pike Perch
 

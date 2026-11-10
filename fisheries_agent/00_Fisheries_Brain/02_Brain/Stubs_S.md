@@ -7748,7 +7748,7 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 > -- *[[RoundtailChubStatusSurveyOfThe_PML2797]]*
 
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 ### Mentioned In
 - [[AgeAndGrowthOfChannelCatfishIc_14101]]
@@ -8019,7 +8019,7 @@ The Salt River is a major tributary system of the Lower Colorado River Basin in 
 - [[SurveyOfVerdeRiverDrainageAriz_PML0150]]
 - [[SurveyOfVerdeRiverDrainageAriz_PML0148]]
 - [[RoundtailChubStatusSurveyOfThe_PML2797]]
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 
 ## Salt River Basin
 
@@ -8625,11 +8625,11 @@ The Salt River Valley Water Users' Association was one of the Arizona irrigation
 > -- *[[TheStudyOfTheAlgaeOfIrrigation_PML2888]]*
 
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
 - [[TheStudyOfTheAlgaeOfIrrigation_PML2888]]
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Salt River Valley Water Users' Association
 
@@ -9557,7 +9557,7 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 > -- *[[NewLocalityRecordForThePupfish_PML0028]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
 - [[AfricanCichlidsGenusTilapiaInL_13767]]
@@ -9701,7 +9701,7 @@ The Salton Sea is California's largest inland water body, a closed-basin, hypers
 - [[SocialBehaviorOfTheDesertPupfi_PML0175]]
 - [[FishingOfTheLowerColoradoRiver_PML0589]]
 - [[NewLocalityRecordForThePupfish_PML0028]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Salton Sea Basin
 <!-- fm: auto_enriched: true -->
@@ -11591,10 +11591,10 @@ A river in northern Mexico and southeastern Arizona where this 2010 collection w
 
 ### Context
 > This short collection summary records fish captured during a [[San Bernardino River]] field trip in October 2010, led by [[C.O. Minckley]]. Specimens of five native freshwater species were tallied at four sites. [[Yaqui Topminnow]] dominated the catch, while [[Yaqui Chub]] and [[Longfin Dace]] were...
-> -- *[[UnreadableScannedDocumentNoExt_PML1792]]*
+> -- *[[SanBernardinoRiverCollectionSu_PML1792]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentNoExt_PML1792]]
+- [[SanBernardinoRiverCollectionSu_PML1792]]
 
 ## San Bernardino Snail
 
@@ -15470,11 +15470,11 @@ The San Miguel River is a mountain stream in southwestern Colorado that joins th
 > -- *[[TheEffectsOfUraniumMillWastesO_18951]]*
 
 > This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
-> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+> -- *[[DistributionOfFishesInTheDolor_PML1072]]*
 
 ### Mentioned In
 - [[TheEffectsOfUraniumMillWastesO_18951]]
-- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[DistributionOfFishesInTheDolor_PML1072]]
 
 ## San Nicolas Island
 
@@ -19326,7 +19326,7 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 > -- *[[FishMovementThroughIntermitten_PML2450]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 > This systematic paper by [[John Otterbein Snyder]] (Stanford University) reports on a freshwater fish collection made by [[Edgar A. Mearns]], a major and surgeon of the United States Army who worked on the Mexican boundary survey between January 1892 and September 1894. The collection came from...
 > -- *[[CollectionOfFishesMadeByDrEdga_PML2406]]*
@@ -19410,7 +19410,7 @@ The Santa Cruz River is a critical aquatic system within the Gila River basin of
 - [[BioticCommunitiesSouthwesternU_PML0300]]
 - [[HistoricalOccurrenceOfNativeFi_PML2289]]
 - [[FishMovementThroughIntermitten_PML2450]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 - [[CollectionOfFishesMadeByDrEdga_PML2406]]
 - [[WesternWaterBulletinFlowOfTheC_PML0922]]
 
@@ -22195,7 +22195,7 @@ Scale ageing estimates fish age by counting annual growth rings (annuli) on scal
 > -- *[[ComparisonOfAgingStructuresAnd_PML2267]]*
 
 > This study examined [[Blue Tilapia]] (*Oreochromis aureus*, cited as *Tilapia aurea*) in [[Trinidad Lake]], a 303 ha cooling reservoir for a steam electric generating station in Texas. Monthly [[Gillnet Sampling]] ran from January 1973 to December 1975, and a [[Petersen Mark-Recapture]] estimate...
-> -- *[[UnreadableScannedDocumentNoExt_PML0862]]*
+> -- *[[PopulationDynamicsOfBlueTilapi_PML0862]]*
 
 ### Mentioned In
 - [[FailureOfSomeYellowBassToFormA_1958_12_15]]
@@ -22207,7 +22207,7 @@ Scale ageing estimates fish age by counting annual growth rings (annuli) on scal
 - [[DraftMemorandumOnDispositionOf_PML1764]]
 - [[ComparisonOfFourTechniquesForA_PML1004]]
 - [[ComparisonOfAgingStructuresAnd_PML2267]]
-- [[UnreadableScannedDocumentNoExt_PML0862]]
+- [[PopulationDynamicsOfBlueTilapi_PML0862]]
 
 ## Scale Aging (Fisheries Science)
 <!-- fm: auto_enriched: true -->
@@ -24572,10 +24572,10 @@ A general four-parameter size-age growth model (Schnute 1981) in which many clas
 
 ### Context
 > Baker, Lafferty and Quinn (1991, *Fisheries Research* 11: 257–281) extend [[Schnute Growth Model]], a general four-parameter size-age growth model that contains many classical curves (von Bertalanffy, Gompertz, Richards, logistic, linear, power) as submodels, to [[Mark-Recapture Data]]....
-> -- *[[UnreadableScannedAquaticDocume_PML0163]]*
+> -- *[[AGeneralGrowthModelForMarkreca_PML0163]]*
 
 ### Mentioned In
-- [[UnreadableScannedAquaticDocume_PML0163]]
+- [[AGeneralGrowthModelForMarkreca_PML0163]]
 
 ## Schoenemund Key
 
@@ -27966,7 +27966,7 @@ Sea lamprey are parasitic jawless fish that became a major invasive threat to Gr
 > -- *[[GreatLakesFishEggAndLarvaeIden_PML2646]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -28028,7 +28028,7 @@ Sea lamprey are parasitic jawless fish that became a major invasive threat to Gr
 - [[EffectivenessOfElectricalFishB_PML0451]]
 - [[IssuesInDefiningDetectingAndQu_PML0010]]
 - [[GreatLakesFishEggAndLarvaeIden_PML2646]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Sea Lamprey Invasion
 <!-- fm: auto_enriched: true -->
@@ -32567,7 +32567,7 @@ A fish-collection method in which a net is drawn through the water to capture fi
 > -- *[[SurveyOfVerdeRiverDrainageAriz_PML0148]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 > This study tests the long-term stability and persistence of summer fish assemblages in three freshwater streams of the [[White River]] and [[Red River]] drainages: [[Piney Creek]] (Arkansas), [[Brier Creek]] (Oklahoma), and the [[Kiamichi River]] (Oklahoma). The authors distinguish *persistence*...
 > -- *[[StabilityAndPersistenceOfFishF_PML1610]]*
@@ -32598,7 +32598,7 @@ A fish-collection method in which a net is drawn through the water to capture fi
 - [[AnInterimReportOnTheFishesOfTh_PML2146]]
 - [[ResponseOfTheGreenRiverFishCom_PML0207]]
 - [[SurveyOfVerdeRiverDrainageAriz_PML0148]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 - [[StabilityAndPersistenceOfFishF_PML1610]]
 
 ## Seine Sampling Bias
@@ -36106,10 +36106,10 @@ A water transfer scheme in England linking the Severn and Thames river systems. 
 
 ### Context
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Seversmith 1953
 
@@ -37865,10 +37865,10 @@ Clarias gariepinus, an African air-breathing catfish of the family Clariidae. In
 
 ### Context
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Shasta County
 
@@ -40613,10 +40613,10 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 > -- *[[APreliminaryKeyToTheIdentifica_PML1620]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[AgeAndGrowthOfSaugerStizostedi_1964_05_15]]
@@ -40637,8 +40637,8 @@ The Shortnose Gar (*Lepisosteus platostomus*) is a primitive holostean fish spec
 - [[ThePreimpoundmentFishFaunaOfBi_18491]]
 - [[FishesOfTheBigBlueRiverBasinKa_18551]]
 - [[APreliminaryKeyToTheIdentifica_PML1620]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Shortnose Sturgeon
 <!-- fm: auto_enriched: true -->
@@ -45225,7 +45225,7 @@ The silvery lamprey (Ichthyomyzon concolor) is a parasitic lamprey that is rare 
 > -- *[[ConservationNativeFishesRareOr_15258]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
 - [[BaitMinnowsAndTheirPropagation_14538]]
@@ -45238,7 +45238,7 @@ The silvery lamprey (Ichthyomyzon concolor) is a parasitic lamprey that is rare 
 - [[UtilizationOfAnInundatedFloodp_17817]]
 - [[TheBreedingHabitsOfTheSilveryM_16751]]
 - [[ConservationNativeFishesRareOr_15258]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Silvery Minnow Group
 <!-- fm: auto_enriched: true -->
@@ -47758,10 +47758,10 @@ The idea that mortality after release depends on fish size, so some size classes
 
 ### Context
 > This summary reports the results of three [[Razorback Sucker]] roundups conducted on [[Lake Mohave]] (Arizona-Nevada) in March, May and November 2007. The document was prepared by Carol Pacey, Brian Kesner and Paul Marsh for the [[Colorado River Aquatic Biologists Meeting]] (January 9-10, 2008,...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
+> -- *[[RazorbackSuckerRoundupSummaryL_PML2070]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
+- [[RazorbackSuckerRoundupSummaryL_PML2070]]
 
 ## Size-Selective Predation
 <!-- fm: auto_enriched: true -->
@@ -50295,13 +50295,13 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 > -- *[[ADistributedListOfTheSpeciesOf_PML0697]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 > This document is a methods manual and set of 1979 field data sheets from the [[Arizona Game And Fish Department]] Region II Stream Habitat Survey. It defines a standard protocol for measuring stream physical habitat, water chemistry, fish populations, benthic invertebrates and vegetation, then...
 > -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[ABriefStudyOfTheLevisaForkAndR_12557]]
@@ -50708,9 +50708,9 @@ Smallmouth bass (*Micropterus dolomieu*) is a centrarchid (sunfish family) speci
 - [[RoundtailChubGilaRobustaStatus_PML2798]]
 - [[FisheriesSurveyOfTheGilaAndMim_PML1133]]
 - [[ADistributedListOfTheSpeciesOf_PML0697]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Smallmouth Black Bass
 <!-- fm: auto_enriched: true -->
@@ -50759,7 +50759,7 @@ The Smallmouth Black Bass (Micropterus dolomieu) is a warmwater centrarchid fish
 > -- *[[ABiologicalSurveyOfStreamsAndL_PML1404]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 ### Mentioned In
 - [[AgeAndGrowthOfASmallStreamPopu_15038]]
@@ -50775,7 +50775,7 @@ The Smallmouth Black Bass (Micropterus dolomieu) is a warmwater centrarchid fish
 - [[PropagationAndDistributionOfFo_20212]]
 - [[AnIntensiveCreelCensusOnClearw_17892]]
 - [[ABiologicalSurveyOfStreamsAndL_PML1404]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 
 ## Smallmouth Blackbass
 
@@ -53687,13 +53687,13 @@ Thyrsites atun, a predatory fish of southern African waters. The source lists it
 > -- *[[ConstructionAndOperationOfASol_16784]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[FishDistributionNumbersAndWeig_1992]]
 - [[SpeciesStockingHistoryInTexasD_1987]]
 - [[ConstructionAndOperationOfASol_16784]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Snorkel Survey
 
@@ -54754,7 +54754,7 @@ Sockeye salmon (Oncorhynchus nerka) are anadromous Pacific salmon species charac
 > -- *[[ThermalPollutionAquacultureAnd_15270]]*
 
 > Baker, Lafferty and Quinn (1991, *Fisheries Research* 11: 257–281) extend [[Schnute Growth Model]], a general four-parameter size-age growth model that contains many classical curves (von Bertalanffy, Gompertz, Richards, logistic, linear, power) as submodels, to [[Mark-Recapture Data]]....
-> -- *[[UnreadableScannedAquaticDocume_PML0163]]*
+> -- *[[AGeneralGrowthModelForMarkreca_PML0163]]*
 
 ### Mentioned In
 - [[AReviewOfKokaneeInCalifornia_1963]]
@@ -54817,7 +54817,7 @@ Sockeye salmon (Oncorhynchus nerka) are anadromous Pacific salmon species charac
 - [[ParasitesOfTheWoundfinMinnowPl_PML1010]]
 - [[FishesOfArizona_PML1690]]
 - [[ThermalPollutionAquacultureAnd_15270]]
-- [[UnreadableScannedAquaticDocume_PML0163]]
+- [[AGeneralGrowthModelForMarkreca_PML0163]]
 
 ## Socorro
 
@@ -68458,7 +68458,7 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 > -- *[[SpawningEcologyOfFlannelmouthS_PML2868]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 > This document is a *Federal Register* notice (Vol. 50, No. 181, Wednesday, September 18, 1985; Proposed Rules; 50 CFR Part 17) issued by the [[Fish and Wildlife Service]] (Department of the Interior). It is a revised **Notice of Review** that identifies vertebrate taxa native to the United States...
 > -- *[[EndangeredAndThreatenedWildlif_PML0728]]*
@@ -68923,7 +68923,7 @@ The Speckled Dace (*Rhinichthys osculus*) is a small-bodied cyprinid minnow nati
 - [[AssociationsAmongFlowAndTemper_PML1992]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[SpawningEcologyOfFlannelmouthS_PML2868]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 - [[EndangeredAndThreatenedWildlif_PML0728]]
 - [[DistributionOfGreenRiverFishes_PML2789]]
 
@@ -72365,11 +72365,11 @@ The spiny water flea is a small predatory zooplankton crustacean that has invade
 > -- *[[BiologicalPollutionThroughFish_17615]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[BiologicalPollutionThroughFish_17615]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Spiny-Headed Worms
 
@@ -76428,10 +76428,10 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 > -- *[[AnInvestigationOfTheSpawningHa_PML1142]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[BattleAgainstExtinctionNativeF_17606]]
@@ -76456,8 +76456,8 @@ Squawfish (genus *Ptychocheilus*, family Cyprinidae) are native North American c
 - [[ColoradoRiverFishesRecoveryTea_PML0040]]
 - [[ColoradoRiverFishesRecoveryTea_PML0037]]
 - [[AnInvestigationOfTheSpawningHa_PML1142]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Squawfish Recovery Team
 
@@ -77544,10 +77544,10 @@ Stagecoach Reservoir is an existing water project that depletes 12,800 acre-feet
 
 ### Context
 > This short scientific note, published in *The Nautilus* (Vol. 85, No. 4, April 1972), reports several freshwater mollusk records from New Mexico, western Texas, Oklahoma, and Montana. The notes document likely human-mediated introductions of a freshwater mussel, a clam, and a snail, and they...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1683]]*
+> -- *[[FreshwaterMolluskIntroductions_PML1683]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML1683]]
+- [[FreshwaterMolluskIntroductions_PML1683]]
 
 ## Stago Bridge
 
@@ -89597,7 +89597,7 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 > -- *[[ADistributedListOfTheSpeciesOf_PML0697]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 > The document combines two sections of a journal issue. The first is a discussion of [[Ralston Plots]], a rapid graphical method for estimating the functional form of fishing gear selectivity, applied mainly to [[Hook Selectivity]] in longline and handline fisheries. The second, and main, part is a...
 > -- *[[InteractiveInfluenceOfTurbidit_PML1895]]*
@@ -90019,7 +90019,7 @@ Striped bass (*Morone saxatilis*) is a non-native piscivorous fish species intro
 - [[FishHandlingImprovementGrandCa_PML2782]]
 - [[AProgramForMaintainingTheRazor_PML1953]]
 - [[ADistributedListOfTheSpeciesOf_PML0697]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 - [[InteractiveInfluenceOfTurbidit_PML1895]]
 - [[TilapiaAureaARapidlySpreadingE_PML0319]]
 
@@ -90295,7 +90295,7 @@ Striped Mullet (*Mugil cephalus*) is a euryhaline fish species of significant co
 > -- *[[ResourceUseByNativeAndNonnativ_PML2063]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
 - [[AReportOnCommercialFishingStud_1955]]
@@ -90343,7 +90343,7 @@ Striped Mullet (*Mugil cephalus*) is a euryhaline fish species of significant co
 - [[AquaticResourcesOfTheYumaDivis_PML1564]]
 - [[AquaticResourcesOfTheYumaDivis_PML1441]]
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Striped Parrotfish
 <!-- fm: auto_enriched: true -->
@@ -93707,7 +93707,7 @@ A man-made waterway linking the Mediterranean and Red Seas, opened in 1869. Earl
 > -- *[[LifeHistoryStrategiesOfFourSma_18794]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[FurtherContributionsOnNaturalH_13137]]
@@ -93717,7 +93717,7 @@ A man-made waterway linking the Mediterranean and Red Seas, opened in 1869. Earl
 - [[NotesOnTheEcologyOfAphaniusDis_20948]]
 - [[LateCretaceousThroughQuaternar_20805]]
 - [[LifeHistoryStrategiesOfFourSma_18794]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Sufficiency of Natural Selection
 
@@ -94954,11 +94954,11 @@ Sumner and Sargent (1940) conducted a transplant experiment between Preston Spri
 > -- *[[TaxonomicStatusAndMorphologyOf_12034]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[TaxonomicStatusAndMorphologyOf_12034]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Sumner and Smith
 
@@ -97295,10 +97295,10 @@ The level of harvest a fish stock can support over time without reducing its pro
 
 ### Context
 > Baker, Lafferty and Quinn (1991, *Fisheries Research* 11: 257–281) extend [[Schnute Growth Model]], a general four-parameter size-age growth model that contains many classical curves (von Bertalanffy, Gompertz, Richards, logistic, linear, power) as submodels, to [[Mark-Recapture Data]]....
-> -- *[[UnreadableScannedAquaticDocume_PML0163]]*
+> -- *[[AGeneralGrowthModelForMarkreca_PML0163]]*
 
 ### Mentioned In
-- [[UnreadableScannedAquaticDocume_PML0163]]
+- [[AGeneralGrowthModelForMarkreca_PML0163]]
 
 ## Sustained Yield
 <!-- fm: auto_enriched: true -->
@@ -100775,10 +100775,10 @@ A genus of catostomid suckers erected by Kirsch and Eigenmann in this paper, wit
 
 ### Context
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Syrauchen cypho
 
@@ -100787,10 +100787,10 @@ A sucker-like fish, originally described as Catostomus cypho by Lockington and k
 
 ### Context
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Syrian Rift Valley
 

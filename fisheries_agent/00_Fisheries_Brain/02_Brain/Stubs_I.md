@@ -2193,11 +2193,11 @@ A subfamily of Catostomidae, represented here by genera such as Ictiobus. In thi
 > -- *[[MyomereAndVertebraCountsOfTheN_PML2401]]*
 
 > This 1980 *American Naturalist* article by [[Ferris and Whitt]] (Department of Genetics and Development, University of Illinois) examines allozyme (isozyme) genetic variability in 19 species of [[Catostomidae]] (suckers), a sexually reproducing family that has been tetraploid for at least 50...
-> -- *[[FragmentaryOcrScanOfAnAquaticS_PML0804]]*
+> -- *[[GeneticVariabilityInSpeciesWit_PML0804]]*
 
 ### Mentioned In
 - [[MyomereAndVertebraCountsOfTheN_PML2401]]
-- [[FragmentaryOcrScanOfAnAquaticS_PML0804]]
+- [[GeneticVariabilityInSpeciesWit_PML0804]]
 
 ## Ictiobus
 <!-- fm: auto_enriched: true -->
@@ -7060,13 +7060,13 @@ A stream in Indiana whose fish assemblage was studied by Grossman et al. (1982) 
 > -- *[[AFirstListOfIndianaStonefliesP_16854]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[AHistoryOfTheStudyOfFishesInIn_16964]]
 - [[SymposiumOnEvaluationOfFishPop_14380]]
 - [[AFirstListOfIndianaStonefliesP_16854]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Indiana University Biological Station
 <!-- fm: auto_enriched: true -->
@@ -8034,11 +8034,11 @@ Ingram was a co-author of a 1967 publication that this review identifies as "the
 > -- *[[BiologyOfFreshwaterFishInARevi_17896]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[BiologyOfFreshwaterFishInARevi_17896]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Ingram 1959
 
@@ -10900,13 +10900,13 @@ The artificial withdrawal of water from a source in one drainage basin for use i
 > -- *[[PetitionForListingPriorityRest_PML2451]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[AReviewOfInterbasinWaterTransf_18377]]
 - [[PathwaysForAquaticBiotaTransfe_16237]]
 - [[PetitionForListingPriorityRest_PML2451]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Interbasin Water Transfers
 
@@ -12639,12 +12639,12 @@ Interneural bones are small bones located between the neural arches along the ba
 > -- *[[NewSpeciesOfCatostomusFromTheC_PML1373]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[AnalysisOfPastCollectionsFromT_16529]]
 - [[NewSpeciesOfCatostomusFromTheC_PML1373]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Internships
 
@@ -13495,7 +13495,7 @@ The most general term in the recommended AFS set, meaning a plant or animal move
 > -- *[[AquaticHabitatsAndFishesOfTheL_PML1899]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 > This journal section gathers four short research notes. Three concern aquatic organisms: a high incidence of spinal deformity in [[Threadfin Shad]] from concrete-lined canals in Arizona and California; the southward spread of the predatory cladoceran [[Leptodora Kindtii]] into southern Louisiana;...
 > -- *[[AnUnusuallyHighIncidenceOfSpin_PML1529]]*
@@ -13519,7 +13519,7 @@ The most general term in the recommended AFS set, meaning a plant or animal move
 - [[SpawningSeasonOfTheRazorbackSu_PML0262]]
 - [[FishesOfTheGreatBasinANaturalH_PML2363]]
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 - [[AnUnusuallyHighIncidenceOfSpin_PML1529]]
 
 ## Introduced Species Impacts
@@ -13726,7 +13726,7 @@ Introgressive hybridization in fish science refers to the process by which genet
 > -- *[[TheRoleOfIntrogressiveHybridiz_PML0856]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -13742,7 +13742,7 @@ Introgressive hybridization in fish science refers to the process by which genet
 - [[CytogeneticStudiesInNorthAmeri_PML1172]]
 - [[LateCenozoicFreshwaterFishesOf_PML2385]]
 - [[TheRoleOfIntrogressiveHybridiz_PML0856]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Introgressive Hybridization In Salmonids
 <!-- fm: auto_enriched: true -->
@@ -13937,7 +13937,7 @@ An invasive species in fish science refers to a non-native fish species that has
 > -- *[[RecoveryOfImperiledSpeciesUnde_PML2325]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 > This short-note section of [[California Fish and Game]] contains four items: a reference list for a mollusk-related paper (no fish data), and three research notes on fishes. The notes report (1) the first recorded fish capture at Badwater, [[Death Valley]], a single [[Amargosa Pupfish]]; (2) the...
 > -- *[[NewLocalityRecordForThePupfish_PML0028]]*
@@ -13963,7 +13963,7 @@ An invasive species in fish science refers to a non-native fish species that has
 - [[WhenCanEffortsToControlNuisanc_PML2949]]
 - [[GlobalChangeAndFreshwaterEcosy_PML0360]]
 - [[RecoveryOfImperiledSpeciesUnde_PML2325]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 - [[NewLocalityRecordForThePupfish_PML0028]]
 
 ## invasive species biocontrol
@@ -15398,10 +15398,10 @@ The network of open canals that conveys irrigation water across the Salt River V
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Irrigation Canals
 
@@ -15676,10 +15676,10 @@ Pumped wells used to supply irrigation water in the valley. The legend distingui
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Irrving Development
 
@@ -16849,10 +16849,10 @@ Enclosed cove areas in Pomme de Terre Reservoir, Missouri, where the muskellunge
 
 ### Context
 > This scanned document bundles three components: a literature-cited list on the effects of thermal effluents on fish and aquatic invertebrates, a research paper on how an exotic [[Blue Tilapia]] population suppresses [[Largemouth Bass]] reproduction in [[Trinidad Lake]], Texas, and the opening pages...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
+> -- *[[ThermalEffluentLiteratureBlueT_PML2027]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML2027]]
+- [[ThermalEffluentLiteratureBlueT_PML2027]]
 
 ## Isolation Facility
 
@@ -17906,11 +17906,11 @@ Cited in the source (1945) as one of the researchers whose work argued that simp
 > -- *[[FoodHabitsOfFishesAndLargerInv_13943]]*
 
 > This field study documents a rare case of large-scale natural mortality among 2-year-old [[Largemouth Bass]] (*Micropterus salmoides*) in [[Deer Island Lake]], a 40.7 ha backwater of the [[Lower Colorado River]] in Arizona. The authors, Michael K. Saiki and Jerry C. Tash of the Arizona Cooperative...
-> -- *[[UnreadableOcrScanNoRecoverable_PML2282]]*
+> -- *[[UnusualPopulationDynamicsInLar_PML2282]]*
 
 ### Mentioned In
 - [[FoodHabitsOfFishesAndLargerInv_13943]]
-- [[UnreadableOcrScanNoRecoverable_PML2282]]
+- [[UnusualPopulationDynamicsInLar_PML2282]]
 
 ## Ivlev 1961
 <!-- fm: auto_enriched: true -->

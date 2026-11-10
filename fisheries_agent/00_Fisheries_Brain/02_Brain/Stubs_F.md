@@ -1358,10 +1358,10 @@ Falling Spring Creek is a stream studied by Herman and Lorah (1987) as a site of
 
 ### Context
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Fallon
 
@@ -1974,7 +1974,7 @@ A program under a recent federal law that lets the U.S. Fish and Wildlife Servic
 > -- *[[ControlOfAquaticWeedsInFarmPon_16551]]*
 
 > This is a two-page fisheries field form, a hatchery-to-pond stocking trip record. It logs the hatchery of origin, the fish delivered (species, number, length, weight in pounds), the management area, mileage, truck costs, salary, per diem, departure and return times, and the farm ponds stocked with...
-> -- *[[IllegibleScannedDocumentAquati_PML2663]]*
+> -- *[[FishStockingTripRecord_PML2663]]*
 
 ### Mentioned In
 - [[FoodsOfImpoundmentAndStreamDwe_1963]]
@@ -1983,7 +1983,7 @@ A program under a recent federal law that lets the U.S. Fish and Wildlife Servic
 - [[BaitFishProductionInNewYorkPon_18780]]
 - [[PondsForFishAndWildlifeProduct_16513]]
 - [[ControlOfAquaticWeedsInFarmPon_16551]]
-- [[IllegibleScannedDocumentAquati_PML2663]]
+- [[FishStockingTripRecord_PML2663]]
 
 ## Farm Pond Fish Populations
 <!-- fm: auto_enriched: true -->
@@ -3733,10 +3733,10 @@ Father Escalante was a Spanish priest and explorer who, in 1776, was among the f
 
 ### Context
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Father Kino's Tryonia
 
@@ -4770,10 +4770,10 @@ The Federal Bureau of Fisheries was a U.S. federal agency that had begun investi
 
 ### Context
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Federal Columbia River Power System
 
@@ -6576,11 +6576,11 @@ Ferris and Whitt are researchers whose 1977 and 1978 studies examined enzyme sys
 > -- *[[DuplicateIsozymeLociInFishesOr_14129]]*
 
 > This 1980 *American Naturalist* article by [[Ferris and Whitt]] (Department of Genetics and Development, University of Illinois) examines allozyme (isozyme) genetic variability in 19 species of [[Catostomidae]] (suckers), a sexually reproducing family that has been tetraploid for at least 50...
-> -- *[[FragmentaryOcrScanOfAnAquaticS_PML0804]]*
+> -- *[[GeneticVariabilityInSpeciesWit_PML0804]]*
 
 ### Mentioned In
 - [[DuplicateIsozymeLociInFishesOr_14129]]
-- [[FragmentaryOcrScanOfAnAquaticS_PML0804]]
+- [[GeneticVariabilityInSpeciesWit_PML0804]]
 
 ## Ferris-Haggerty Mine
 
@@ -9392,10 +9392,10 @@ Fiscal Year 1996 is the federal accounting period this cost form covers, the per
 
 ### Context
 > This is a one-page-set cost form (Form 3-110, Rev 1/89) for the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC) for [[Fiscal Year 1996]]. It reports operations and maintenance expenditures by category and funding source. The document contains no species, habitat, or...
-> -- *[[UnreadableScannedDocumentNoExt_PML2712]]*
+> -- *[[DexterNfhTcOperationsAndMainte_PML2712]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentNoExt_PML2712]]
+- [[DexterNfhTcOperationsAndMainte_PML2712]]
 
 ## Fiscal Year 1997
 
@@ -12600,14 +12600,14 @@ Mayflies convert microscopic food and plant detritus into larger prey, and they 
 > -- *[[TheMayfliesOrEphemeropteraOfIl_14035]]*
 
 > This is a one-page-set cost form (Form 3-110, Rev 1/89) for the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC) for [[Fiscal Year 1996]]. It reports operations and maintenance expenditures by category and funding source. The document contains no species, habitat, or...
-> -- *[[UnreadableScannedDocumentNoExt_PML2712]]*
+> -- *[[DexterNfhTcOperationsAndMainte_PML2712]]*
 
 > This document is a Form 3-110 operations and maintenance cost summary for the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC) for [[Fiscal Year 1997]]. It is a financial record, not a biological study. It contains no species, habitat, or population data. Its main content...
 > -- *[[DnfhFyAnnualReport_PML2725]]*
 
 ### Mentioned In
 - [[TheMayfliesOrEphemeropteraOfIl_14035]]
-- [[UnreadableScannedDocumentNoExt_PML2712]]
+- [[DexterNfhTcOperationsAndMainte_PML2712]]
 - [[DnfhFyAnnualReport_PML2725]]
 
 ## Fish Food Chain
@@ -13041,11 +13041,11 @@ A training course for fish hatchery managers, held at Leetown. In 1980, Dexter N
 
 ### Context
 > This is a one-page-set cost form (Form 3-110, Rev 1/89) for the [[Dexter National Fish Hatchery and Technology Center]] (Dexter NFH & TC) for [[Fiscal Year 1996]]. It reports operations and maintenance expenditures by category and funding source. The document contains no species, habitat, or...
-> -- *[[UnreadableScannedDocumentNoExt_PML2712]]*
+> -- *[[DexterNfhTcOperationsAndMainte_PML2712]]*
 
 ### Mentioned In
 - [[InterstateinternationalStockin_17947]]
-- [[UnreadableScannedDocumentNoExt_PML2712]]
+- [[DexterNfhTcOperationsAndMainte_PML2712]]
 
 ## Fish Hatchery Production
 
@@ -15109,7 +15109,7 @@ Fish stock assessment is the analysis of exploited fish and shellfish population
 > -- *[[AnAnnotatedBibliographyOfLimno_PML1298]]*
 
 > This is a two-page fisheries field form, a hatchery-to-pond stocking trip record. It logs the hatchery of origin, the fish delivered (species, number, length, weight in pounds), the management area, mileage, truck costs, salary, per diem, departure and return times, and the farm ponds stocked with...
-> -- *[[IllegibleScannedDocumentAquati_PML2663]]*
+> -- *[[FishStockingTripRecord_PML2663]]*
 
 ### Mentioned In
 - [[ExperimentalIntroductionsOfFre_1960_01_01]]
@@ -15120,7 +15120,7 @@ Fish stock assessment is the analysis of exploited fish and shellfish population
 - [[ReBonytailStockings_PML1628]]
 - [[FossilCreekLongfinDaceStocking_PML0383]]
 - [[AnAnnotatedBibliographyOfLimno_PML1298]]
-- [[IllegibleScannedDocumentAquati_PML2663]]
+- [[FishStockingTripRecord_PML2663]]
 
 ## Fish Stocking Dynamics
 <!-- fm: auto_enriched: true -->
@@ -19228,7 +19228,7 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 > -- *[[PreferredTemperatureOfYearling_PML0230]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This U.S. Fish and Wildlife Service study by [[Harold M. Tyus]] assesses the distribution, spawning, growth and habitat use of the rare [[Razorback Sucker]] (*Xyrauchen texanus*) in the [[Green River]] of Utah and Colorado, 1979–85. Field work combined electrofishing, seining and trammel netting...
 > -- *[[DistributionReproductionAndHab_PML2529]]*
@@ -19495,7 +19495,7 @@ Flaming Gorge Dam is a major hydroelectric structure on the Green River in Utah 
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
 - [[EffectsOfRotenoneTreatmentOnTh_PML0221]]
 - [[PreferredTemperatureOfYearling_PML0230]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[DistributionReproductionAndHab_PML2529]]
 - [[DistributionReproductionAndHab_PML2530]]
 - [[DistributionOfGreenRiverFishes_PML2789]]
@@ -19787,7 +19787,7 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 > -- *[[EcologicalAndLimnologicalStudi_PML0942]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 ### Mentioned In
 - [[CompetitionBetweenKokaneesAndU_1996]]
@@ -19857,7 +19857,7 @@ Flaming Gorge Reservoir is a large impoundment on the Green River created by fed
 - [[ManagementTowardRecoveryOfTheR_PML1884]]
 - [[FishesOfTheUpperColoradoRiverS_PML1722]]
 - [[EcologicalAndLimnologicalStudi_PML0942]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 
 ## Flaming Gorge Studies Program
 
@@ -21025,7 +21025,7 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > -- *[[ScannedAquaticSurveyPagesWithL_PML2869]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This source contains two fisheries papers. The first assesses the present status of the fish fauna of the [[Lake Mead National Recreational Area]] on the [[Colorado River]] in Arizona and Nevada. It records 3 native and 11 exotic species, and reports that native fishes have declined as exotic...
 > -- *[[StatusOfTheFishFaunaOfLakeMead_PML2813]]*
@@ -21037,7 +21037,7 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 > -- *[[AssociationsAmongFlowAndTemper_PML1992]]*
 
 > This short miscellany of natural history notes contains one substantive fish record and two bird notes. The main item, by William J. Koster, reports the first known specimens of the [[Colorado River Squawfish]] from the San Juan portion of the [[Colorado River Basin]], documented by two fish...
-> -- *[[UnreadableOcrScanAquaticDocume_PML1295]]*
+> -- *[[ColoradoRiverSquawfishPtychoch_PML1295]]*
 
 > This note combines two unrelated research items. The first is a short conservation profile of the [[Spotted Handfish]] ([[Brachionichthys Hirsutus]]), a small, critically endangered marine fish endemic to southeastern [[Tasmania]]. The second is a study of spawning behavior, spawning habitat, and...
 > -- *[[SpawningEcologyOfFlannelmouthS_PML2868]]*
@@ -21513,11 +21513,11 @@ The Flannelmouth Sucker (*Catostomus latipinnis*) is a large native catostomid f
 - [[FishHandlingImprovementGrandCa_PML2782]]
 - [[EcologicalAndLimnologicalStudi_PML0942]]
 - [[ScannedAquaticSurveyPagesWithL_PML2869]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
 - [[DistributionReproductionAndHab_PML2530]]
 - [[AssociationsAmongFlowAndTemper_PML1992]]
-- [[UnreadableOcrScanAquaticDocume_PML1295]]
+- [[ColoradoRiverSquawfishPtychoch_PML1295]]
 - [[SpawningEcologyOfFlannelmouthS_PML2868]]
 - [[DistributionOfGreenRiverFishes_PML2789]]
 - [[HybridizationBetweenCatostomus_PML1116]]
@@ -25868,10 +25868,10 @@ Flowstone is a cave deposit of calcium carbonate formed by water flowing as a th
 
 ### Context
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Flox Canal
 
@@ -27353,7 +27353,7 @@ The Food and Agriculture Organization (FAO) is an international organization tha
 > -- *[[ClupeoidFishesOfTheWorldSubord_PML2881]]*
 
 > This preliminary report tests whether exogenous gonadotrophins can induce out-of-season spawning in mature female [[Tilapia Aurea]] held at the [[Dor Fish Culture Research Station]], Israel. Seven experimental series compared [[Carp Pituitary]] (CP), [[Luteinizing Hormone]] (LH), [[Human Chorionic...
-> -- *[[UnreadableOcrScanNoRecoverable_PML0526]]*
+> -- *[[InducedSpawningOfTilapiaAureaW_PML0526]]*
 
 ### Mentioned In
 - [[ListOfCurrentFisheriesAndWildl_20304]]
@@ -27374,7 +27374,7 @@ The Food and Agriculture Organization (FAO) is an international organization tha
 - [[ReportOfTheTwentysecondSession_PML0671]]
 - [[SafetyAtSeaAsAnIntegralPartOfF_PML0706]]
 - [[ClupeoidFishesOfTheWorldSubord_PML2881]]
-- [[UnreadableOcrScanNoRecoverable_PML0526]]
+- [[InducedSpawningOfTilapiaAureaW_PML0526]]
 
 ## Food and Drug Administration
 
@@ -30424,13 +30424,13 @@ Fort Thomas is a location on the Gila River in Arizona that has historical signi
 > -- *[[SedimentologyAndStratigraphyOf_20628]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[BiologicalOpinionToRepairErosi_11916]]
 - [[BiologicalOpinionForReroutingO_11747]]
 - [[SedimentologyAndStratigraphyOf_20628]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Fort Thomas Test Plot
 
@@ -31353,10 +31353,10 @@ A road in the Salt River Valley area used on the map as a reference point for lo
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Four-Dimensional Lotic Ecosystem Concept
 <!-- fm: auto_enriched: true -->
@@ -36983,10 +36983,10 @@ A proposed albino trout stocking water about 15 miles south of Pima, Arizona, li
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Frye Mesa Lake
 

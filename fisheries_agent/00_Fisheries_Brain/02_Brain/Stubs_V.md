@@ -2445,10 +2445,10 @@ Tanner is the author of this 1936 Utah Academy of Sciences paper, a regional rev
 
 ### Context
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Vasco Tanner
 
@@ -6730,11 +6730,11 @@ Viosca (1943) is cited in this bibliography for reporting phenomenal growth rate
 > -- *[[ABibliographyOfSomeAgeAndGrowt_18720]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
 - [[ABibliographyOfSomeAgeAndGrowt_18720]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Viperidae
 
@@ -7503,7 +7503,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 > -- *[[UdallPutsCentralArizonaProject_14402]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 > This 1994 U.S. Fish & Wildlife Service memorandum, written by Ronald D. Major, Director of the [[Pinetop Fish Health Center]] (FHC), answers a request from the Albuquerque regional office about [[Asian Tapeworm]] infection at Hassayampa (Palm Lake). The author reports that a single bath treatment...
 > -- *[[AsianTapewormControlAndSpreadI_PML1411]]*
@@ -7714,7 +7714,7 @@ The Virgin River refers to a specific river system in the southwestern United St
 - [[PhysicalLimnologyOfLakeMead_PML0054]]
 - [[TheCurrentDistributionAndStatu_PML0017]]
 - [[UdallPutsCentralArizonaProject_14402]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 - [[AsianTapewormControlAndSpreadI_PML1411]]
 
 ## Virgin River At Littlefield, Arizona

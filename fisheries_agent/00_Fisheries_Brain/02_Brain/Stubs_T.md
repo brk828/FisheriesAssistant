@@ -1879,10 +1879,10 @@ A water transfer in Spain that moves water from the Tagus (Tajo) basin toward th
 
 ### Context
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Takahashi
 
@@ -3718,7 +3718,7 @@ Tarpon (*Megalops atlanticus*) is a large, euryhaline marine fish species that w
 > -- *[[OccurrenceOfElopsAffinisInTheC_PML0867]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[ExperimentalIntroductionOfFish_1955]]
@@ -3730,7 +3730,7 @@ Tarpon (*Megalops atlanticus*) is a large, euryhaline marine fish species that w
 - [[AnElopidFishFromTheCodellSands_15279]]
 - [[OnTheLocomotorAndFeedingBehavi_12924]]
 - [[OccurrenceOfElopsAffinisInTheC_PML0867]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Tarpon atlanticus
 
@@ -5592,10 +5592,10 @@ Ted Whitmoyer was a National Park Service naturalist from Boulder City who ident
 
 ### Context
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 
 ## Ted Williams
 
@@ -6994,7 +6994,7 @@ A woody species of the park noted in the source as one of the most conspicuous p
 > -- *[[TheExoticIchthyofaunaOfTheCont_PML0504]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[ActivityCyclesInTheBrownTroutS_1962_10_29]]
@@ -7010,7 +7010,7 @@ A woody species of the park noted in the source as one of the most conspicuous p
 - [[TheIrrigationOfTheGillsInFishe_20530]]
 - [[FishesOfColorado_PML0696]]
 - [[TheExoticIchthyofaunaOfTheCont_PML0504]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Tendipedid Larvae
 
@@ -7276,10 +7276,10 @@ A U.S. waterway connecting the Tombigbee River to the Tennessee River in the sou
 
 ### Context
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Tennant Method
 
@@ -7508,7 +7508,7 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 > -- *[[PreliminaryGuideToTheIdentific_PML1070]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[AComparisonOfTheHoopNetCatches_1943]]
@@ -7552,7 +7552,7 @@ The Tennessee River is a major freshwater drainage system in the southeastern Un
 - [[ExtensionOfTheRangeOfCorbicula_PML0179]]
 - [[DescriptionBiologyAndDistribut_PML1174]]
 - [[PreliminaryGuideToTheIdentific_PML1070]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Tennessee River Drainage
 <!-- fm: auto_enriched: true -->
@@ -9123,10 +9123,10 @@ Tesch (1971) is a cited methodological source for the length-frequency analysis 
 
 ### Context
 > This field study documents a rare case of large-scale natural mortality among 2-year-old [[Largemouth Bass]] (*Micropterus salmoides*) in [[Deer Island Lake]], a 40.7 ha backwater of the [[Lower Colorado River]] in Arizona. The authors, Michael K. Saiki and Jerry C. Tash of the Arizona Cooperative...
-> -- *[[UnreadableOcrScanNoRecoverable_PML2282]]*
+> -- *[[UnusualPopulationDynamicsInLar_PML2282]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoRecoverable_PML2282]]
+- [[UnusualPopulationDynamicsInLar_PML2282]]
 
 ## Tesch 1971
 
@@ -12591,7 +12591,7 @@ Thermal pollution refers to the degradation of aquatic ecosystems caused by the 
 > -- *[[AnAnnotatedBibliographyOfTheEf_18153]]*
 
 > This study examined [[Blue Tilapia]] (*Oreochromis aureus*, cited as *Tilapia aurea*) in [[Trinidad Lake]], a 303 ha cooling reservoir for a steam electric generating station in Texas. Monthly [[Gillnet Sampling]] ran from January 1973 to December 1975, and a [[Petersen Mark-Recapture]] estimate...
-> -- *[[UnreadableScannedDocumentNoExt_PML0862]]*
+> -- *[[PopulationDynamicsOfBlueTilapi_PML0862]]*
 
 > This 1970 conference paper by [[J. A. Mihursky]], [[A. J. McErlean]] and [[V. S. Kennedy]] of the University of Maryland's [[Chesapeake Biological Laboratory]] argues that [[Thermal Pollution]] from [[Steam Electric Station]] (S.E.S.) cooling is a growing threat to aquatic life. It links elevated...
 > -- *[[ThermalPollutionAquacultureAnd_15270]]*
@@ -12606,7 +12606,7 @@ Thermal pollution refers to the degradation of aquatic ecosystems caused by the 
 - [[WaterQualityCriteriaToProtectA_14646]]
 - [[BiologyInAReviewOfTheLiteratur_17895]]
 - [[AnAnnotatedBibliographyOfTheEf_18153]]
-- [[UnreadableScannedDocumentNoExt_PML0862]]
+- [[PopulationDynamicsOfBlueTilapi_PML0862]]
 - [[ThermalPollutionAquacultureAnd_15270]]
 
 ## Thermal Power Plant
@@ -15097,11 +15097,11 @@ A Mississippi River tributary into which the poorly defined channels of the stud
 > -- *[[UtilizationOfAnInundatedFloodp_17817]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
 - [[UtilizationOfAnInundatedFloodp_17817]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Thompson Model
 
@@ -16169,10 +16169,10 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 > -- *[[ProposedEndangeredFishGrowoutF_PML1591]]*
 
 > This field study documents a rare case of large-scale natural mortality among 2-year-old [[Largemouth Bass]] (*Micropterus salmoides*) in [[Deer Island Lake]], a 40.7 ha backwater of the [[Lower Colorado River]] in Arizona. The authors, Michael K. Saiki and Jerry C. Tash of the Arizona Cooperative...
-> -- *[[UnreadableOcrScanNoRecoverable_PML2282]]*
+> -- *[[UnusualPopulationDynamicsInLar_PML2282]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 > This document is a 1965 Fisheries Management (Region 5) memorandum packet, with a supporting excerpt on flood effects. It reports a rotenone-based population estimate of fishes in two sidewaters of the [[Colorado River]] in the [[Topock Gorge]] Division, conducted on June 24 and June 30, 1965....
 > -- *[[FisheryCorrespondenceAndDesert_PML1333]]*
@@ -16511,8 +16511,8 @@ Threadfin Shad (*Dorosoma petenense*) is a small, planktivorous forage fish in t
 - [[ResourceUseByNativeAndNonnativ_PML2063]]
 - [[MohaveTrulyAFishermansHeaven_PML1916]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
-- [[UnreadableOcrScanNoRecoverable_PML2282]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UnusualPopulationDynamicsInLar_PML2282]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 - [[FisheryCorrespondenceAndDesert_PML1333]]
 - [[AnUnusuallyHighIncidenceOfSpin_PML1529]]
 
@@ -19547,7 +19547,7 @@ Tilapia aurea, commonly known as the blue tilapia, is a cichlid species native t
 > -- *[[TheFecundityAndFrequencyOfSpaw_PML0525]]*
 
 > This preliminary report tests whether exogenous gonadotrophins can induce out-of-season spawning in mature female [[Tilapia Aurea]] held at the [[Dor Fish Culture Research Station]], Israel. Seven experimental series compared [[Carp Pituitary]] (CP), [[Luteinizing Hormone]] (LH), [[Human Chorionic...
-> -- *[[UnreadableOcrScanNoRecoverable_PML0526]]*
+> -- *[[InducedSpawningOfTilapiaAureaW_PML0526]]*
 
 > This compiled document contains three components: a reference list of roughly 33 freshwater fisheries and biology publications, a full research paper on the rapid spread of [[Tilapia Aurea]] in south central Florida, and an abstract for a study of the 1966 year class of [[Striped Bass]] in three...
 > -- *[[TilapiaAureaARapidlySpreadingE_PML0319]]*
@@ -19578,7 +19578,7 @@ Tilapia aurea, commonly known as the blue tilapia, is a cichlid species native t
 - [[CichlidaeOfTheGenusTilapiaInIs_PML0815]]
 - [[SystematicsOfFishesOfTheGenusT_PML0178]]
 - [[TheFecundityAndFrequencyOfSpaw_PML0525]]
-- [[UnreadableOcrScanNoRecoverable_PML0526]]
+- [[InducedSpawningOfTilapiaAureaW_PML0526]]
 - [[TilapiaAureaARapidlySpreadingE_PML0319]]
 
 ## Tilapia Culture
@@ -20030,7 +20030,7 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 > -- *[[BibliographyOfPublicationsConc_PML2431]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
 - [[ComparativeEvaluationOfTwoTila_15110]]
@@ -20068,7 +20068,7 @@ Tilapia mossambica is a cichlid fish species widely utilized in aquaculture and 
 - [[SpeciesOfTilapiaInEastAfrica_PML1638]]
 - [[BiologicalControlOfAquaticWeed_PML0996]]
 - [[BibliographyOfPublicationsConc_PML2431]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Tilapia Nigra
 
@@ -20396,7 +20396,7 @@ Tilapia zillii, commonly known as the redbelly tilapia, is a cichlid species nat
 > -- *[[CharacteristicsOfTheFishFaunaO_PML2104]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 > This 1981 Occidental College [[Master Of Arts Thesis]] by Margaret L. Matsui examines whether introduced fishes alter the [[Lek Mating System]] of the endangered [[Salton Sea Pupfish]]. Field work in drainage canals showed that reproductive success depends on a male's position on the lek....
 > -- *[[TheEffectsOfIntroducedTeleostS_PML1602]]*
@@ -20429,7 +20429,7 @@ Tilapia zillii, commonly known as the redbelly tilapia, is a cichlid species nat
 - [[BreedingBehaviourPatternsAndEc_PML1639]]
 - [[BiologicalControlOfAquaticWeed_PML0996]]
 - [[CharacteristicsOfTheFishFaunaO_PML2104]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 - [[TheEffectsOfIntroducedTeleostS_PML1602]]
 
 ## Tilapias
@@ -20471,10 +20471,10 @@ Subsurface drainage lines included in the valley's irrigation system, shown in t
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Tilefish
 
@@ -21445,10 +21445,10 @@ Tivoli (ancient Tibur) is an Italian town near Rome whose name gave rise to the 
 
 ### Context
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Tlaloc Mexicanus
 <!-- fm: auto_enriched: true -->
@@ -25605,7 +25605,7 @@ A trammel net is a passive fishing gear consisting of three layers of netting de
 > -- *[[StockAssessmentAndFisheriesMon_PML2784]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
 - [[LakeMohaveSamplingNovember_1997_12_12]]
@@ -25621,7 +25621,7 @@ A trammel net is a passive fishing gear consisting of three layers of netting de
 - [[SpawningSeasonOfTheRazorbackSu_PML0262]]
 - [[ResponseOfTheGreenRiverFishCom_PML0207]]
 - [[StockAssessmentAndFisheriesMon_PML2784]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Trammel Net Sampling Methodology
 <!-- fm: auto_enriched: true -->
@@ -26985,7 +26985,7 @@ Travertine in aquatic ecology refers to porous, calcium carbonate mineral deposi
 > -- *[[ChildsIrvingHydroelectricPlant_PML0685]]*
 
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
 - [[ExplanationOfSnailDiversityAnd_15845]]
@@ -27001,7 +27001,7 @@ Travertine in aquatic ecology refers to porous, calcium carbonate mineral deposi
 - [[FossilCreekGilaTopminnowStocki_PML0387]]
 - [[EcologyOfSpawningHumpbackChubG_PML0893]]
 - [[ChildsIrvingHydroelectricPlant_PML0685]]
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Travertine Canyon
 
@@ -27547,10 +27547,10 @@ A canal and river navigation system in Ontario, Canada, linking Lake Ontario wit
 
 ### Context
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Tres Alamos
 
@@ -28779,15 +28779,15 @@ The reservoir formed behind Trinidad Dam, located upstream of the studied reach.
 > -- *[[FishesMacroinvertebratesAndAqu_PML0271]]*
 
 > This study examined [[Blue Tilapia]] (*Oreochromis aureus*, cited as *Tilapia aurea*) in [[Trinidad Lake]], a 303 ha cooling reservoir for a steam electric generating station in Texas. Monthly [[Gillnet Sampling]] ran from January 1973 to December 1975, and a [[Petersen Mark-Recapture]] estimate...
-> -- *[[UnreadableScannedDocumentNoExt_PML0862]]*
+> -- *[[PopulationDynamicsOfBlueTilapi_PML0862]]*
 
 > This scanned document bundles three components: a literature-cited list on the effects of thermal effluents on fish and aquatic invertebrates, a research paper on how an exotic [[Blue Tilapia]] population suppresses [[Largemouth Bass]] reproduction in [[Trinidad Lake]], Texas, and the opening pages...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
+> -- *[[ThermalEffluentLiteratureBlueT_PML2027]]*
 
 ### Mentioned In
 - [[FishesMacroinvertebratesAndAqu_PML0271]]
-- [[UnreadableScannedDocumentNoExt_PML0862]]
-- [[UnreadableScannedDocumentOcrFa_PML2027]]
+- [[PopulationDynamicsOfBlueTilapi_PML0862]]
+- [[ThermalEffluentLiteratureBlueT_PML2027]]
 
 ## Trinidad Reservoir
 
@@ -30355,11 +30355,11 @@ A fish farm beside the hot mineral spring ditch in Imperial County, California, 
 > -- *[[AdditionOfHartsRivulusRivulusH_PML2429]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
 - [[AdditionOfHartsRivulusRivulusH_PML2429]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Tropical Fish Hobbyist
 
@@ -30668,7 +30668,7 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 > -- *[[TheFishermansMeltingPotLakeMoh_PML2849]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
 > -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
@@ -30748,7 +30748,7 @@ Trout are a group of freshwater and anadromous fish species (including Brown, Ra
 - [[TheUtilityOfHabitatAndBiotaFor_PML2212]]
 - [[LiveWildlifeRules_PML0114]]
 - [[TheFishermansMeltingPotLakeMoh_PML2849]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[FishingOfTheLowerColoradoRiver_PML0589]]
 
 ## Trout and Salmon
@@ -33137,14 +33137,14 @@ Tufa is a spring-deposited carbonate rock. The authors identify it by fossilized
 > -- *[[MicrobialOriginOfTravertineFab_12588]]*
 
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
 - [[PaleohydrologyOfTheSouthernGre_12116]]
 - [[WaterLevelFluctuationsDevilsHo_20100]]
 - [[TimingOfTheLastHighstandOfLake_18174]]
 - [[MicrobialOriginOfTravertineFab_12588]]
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Tufa Deposition
 
@@ -37433,11 +37433,11 @@ Researchers whose 1989 and 1991 work the letter cites for flow recommendations f
 > -- *[[UseOfFloodplainHabitatByAgeRaz_16530]]*
 
 > This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+> -- *[[JuvenileRazorbackSuckerInAMana_PML1902]]*
 
 ### Mentioned In
 - [[UseOfFloodplainHabitatByAgeRaz_16530]]
-- [[UnreadableScannedDocumentOcrFa_PML1902]]
+- [[JuvenileRazorbackSuckerInAMana_PML1902]]
 
 ## Tyus and Karp 1991
 

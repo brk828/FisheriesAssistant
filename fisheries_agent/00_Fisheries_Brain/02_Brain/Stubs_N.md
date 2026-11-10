@@ -5107,7 +5107,7 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 > -- *[[BenthicInvertebrateStandingCro_PML0168]]*
 
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -5327,7 +5327,7 @@ The National Park Service (NPS) is a federal agency that plays a significant rol
 - [[LakeMeadNationalRecreationArea_11518]]
 - [[StatusOfTheFishFaunaOfLakeMead_PML2813]]
 - [[BenthicInvertebrateStandingCro_PML0168]]
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 
 ## National Park Service Organic Act
 
@@ -5934,7 +5934,7 @@ National Scenic Areas are special management designations within the California 
 > -- *[[FisheriesAndAquaticResourcesBu_PML2312]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[TheRoleAndInfluenceOfTheUSNati_1995_07_06]]
@@ -5995,7 +5995,7 @@ National Scenic Areas are special management designations within the California 
 - [[FishesOfDinosaurNationalMonume_PML1730]]
 - [[SecondYearProgressReportOnTheM_PML0803]]
 - [[FisheriesAndAquaticResourcesBu_PML2312]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## National Science Resources Center
 
@@ -9252,11 +9252,11 @@ The Nautilus is a malacological journal. The source reports it as the most-cited
 > -- *[[WestAmericanFreshwaterMollusca_13492]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[WestAmericanFreshwaterMollusca_13492]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Nautopaedium
 
@@ -9389,7 +9389,7 @@ Navajo Dam is one of nine potential sites evaluated in the feasibility study for
 > -- *[[CompendiumOfExistingKnowledgeF_PML1689]]*
 
 > This short miscellany of natural history notes contains one substantive fish record and two bird notes. The main item, by William J. Koster, reports the first known specimens of the [[Colorado River Squawfish]] from the San Juan portion of the [[Colorado River Basin]], documented by two fish...
-> -- *[[UnreadableOcrScanAquaticDocume_PML1295]]*
+> -- *[[ColoradoRiverSquawfishPtychoch_PML1295]]*
 
 ### Mentioned In
 - [[DraftcoloradoRiverEndangeredFi_13664]]
@@ -9411,7 +9411,7 @@ Navajo Dam is one of nine potential sites evaluated in the feasibility study for
 - [[EndangeredAndThreatenedWildlif_PML0757]]
 - [[ColoradoRiverBasinChubsRecover_PML0366]]
 - [[CompendiumOfExistingKnowledgeF_PML1689]]
-- [[UnreadableOcrScanAquaticDocume_PML1295]]
+- [[ColoradoRiverSquawfishPtychoch_PML1295]]
 
 ## Navajo Fish And Game Department
 <!-- fm: auto_enriched: true -->
@@ -13032,10 +13032,10 @@ A density-estimation approach that uses at least four nested trapping grids to e
 
 ### Context
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Nested-Grid Approach
 
@@ -18209,13 +18209,13 @@ A cove in Lake Mohave where razorback sucker larvae were collected during the st
 > -- *[[RazorbackSuckerLarvalPhototact_PML1150]]*
 
 > This summary reports the results of three [[Razorback Sucker]] roundups conducted on [[Lake Mohave]] (Arizona-Nevada) in March, May and November 2007. The document was prepared by Carol Pacey, Brian Kesner and Paul Marsh for the [[Colorado River Aquatic Biologists Meeting]] (January 9-10, 2008,...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
+> -- *[[RazorbackSuckerRoundupSummaryL_PML2070]]*
 
 ### Mentioned In
 - [[TheEcologyOfRazorbackSuckerLar_14369]]
 - [[ProtocolForCaptureOfWildRazorb_PML1475]]
 - [[RazorbackSuckerLarvalPhototact_PML1150]]
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
+- [[RazorbackSuckerRoundupSummaryL_PML2070]]
 
 ## Nine Mile Coves
 
@@ -24459,10 +24459,10 @@ A lakeside backwater site on Lake Mohave listed in the source as one of the loca
 
 ### Context
 > This summary reports the results of three [[Razorback Sucker]] roundups conducted on [[Lake Mohave]] (Arizona-Nevada) in March, May and November 2007. The document was prepared by Carol Pacey, Brian Kesner and Paul Marsh for the [[Colorado River Aquatic Biologists Meeting]] (January 9-10, 2008,...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
+> -- *[[RazorbackSuckerRoundupSummaryL_PML2070]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
+- [[RazorbackSuckerRoundupSummaryL_PML2070]]
 
 ## North Chemehueve
 

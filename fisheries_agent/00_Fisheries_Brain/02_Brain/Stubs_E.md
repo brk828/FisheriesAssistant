@@ -2742,7 +2742,7 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 > -- *[[JobProgressReportLakeMohaveCla_PML2011]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[AQualitativeAndQuantitativeStu_15094]]
@@ -2794,7 +2794,7 @@ Eastern Brook Trout (*Salvelinus fontinalis*) is a coldwater salmonid species na
 - [[YellowstoneFishes_18992]]
 - [[HypnoticDrugsAsAnAidInFishTran_PML0355]]
 - [[JobProgressReportLakeMohaveCla_PML2011]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Eastern Brown Pelican
 
@@ -3497,10 +3497,10 @@ A method that estimates abundance from before-and-after index counts combined wi
 
 ### Context
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Eberly
 
@@ -3609,10 +3609,10 @@ Ecanto Park is an urban park in Maricopa County, Arizona, where tilapia were sam
 
 ### Context
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Eccoptura
 
@@ -6814,7 +6814,7 @@ Edward Cope was a 19th-century American paleontologist and zoologist. According 
 > -- *[[ReportUponTheCollectionsOfFish_PML0495]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[RecordsOfFishesForTheSouthernS_18800]]
@@ -6822,7 +6822,7 @@ Edward Cope was a 19th-century American paleontologist and zoologist. According 
 - [[FishesOfAPleistoceneLakeInSout_18353]]
 - [[TypeCatalogueOfTheNorthAmerica_16993]]
 - [[ReportUponTheCollectionsOfFish_PML0495]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Edward D. DeLamater
 
@@ -7877,7 +7877,7 @@ Effective population size (Ne) is the number of individuals in an idealized popu
 > -- *[[PopulationDynamicsOfColoradoPi_PML2054]]*
 
 > This document is a book chapter by Michael Lynch on how [[Quantitative Genetics]] should inform the conservation of endangered species. Its central argument is that molecular markers are weak proxies for the adaptive genetic variation that determines whether a population can survive environmental...
-> -- *[[UnreadableScannedDocumentAquat_PML1389]]*
+> -- *[[QuantitativeGeneticsInConserva_PML1389]]*
 
 ### Mentioned In
 - [[AmericanFisheriesSocietyPositi_11162]]
@@ -7903,7 +7903,7 @@ Effective population size (Ne) is the number of individuals in an idealized popu
 - [[RecentDevelopmentsInConservati_PML1022]]
 - [[LossOfGeneticDiversityFromMana_PML1310]]
 - [[PopulationDynamicsOfColoradoPi_PML2054]]
-- [[UnreadableScannedDocumentAquat_PML1389]]
+- [[QuantitativeGeneticsInConserva_PML1389]]
 
 ## Effectiveness Monitoring Team
 
@@ -8002,10 +8002,10 @@ A hatchery in Bicknell, Utah, whose brood fish supplied the eggs that gave Arizo
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Ege
 
@@ -12111,7 +12111,7 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 > -- *[[FisheriesSurveyOfTheGilaAndMim_PML1133]]*
 
 > This field study documents a rare case of large-scale natural mortality among 2-year-old [[Largemouth Bass]] (*Micropterus salmoides*) in [[Deer Island Lake]], a 40.7 ha backwater of the [[Lower Colorado River]] in Arizona. The authors, Michael K. Saiki and Jerry C. Tash of the Arizona Cooperative...
-> -- *[[UnreadableOcrScanNoRecoverable_PML2282]]*
+> -- *[[UnusualPopulationDynamicsInLar_PML2282]]*
 
 > This 1993 document set is a draft proposal and internal correspondence from the [[Fish and Wildlife Service]] (FWS) on collecting, handling, holding and transporting wild [[Bonytail]] from [[Lake Mohave]] to the [[Dexter National Fish Hatchery and Technology Center]] for [[Captive Propagation]] and...
 > -- *[[BonytailProtocol_PML1179]]*
@@ -12441,7 +12441,7 @@ Electrofishing is a sampling technique used in ichthyology and fisheries researc
 - [[EcologyOfBonytailAndRazorbackS_FAL0001]]
 - [[FishHandlingImprovementGrandCa_PML2782]]
 - [[FisheriesSurveyOfTheGilaAndMim_PML1133]]
-- [[UnreadableOcrScanNoRecoverable_PML2282]]
+- [[UnusualPopulationDynamicsInLar_PML2282]]
 - [[BonytailProtocol_PML1179]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
 - [[TilapiaAureaARapidlySpreadingE_PML0319]]
@@ -13237,7 +13237,7 @@ Elephant Butte Reservoir is a large impoundment on the Rio Grande in New Mexico 
 > -- *[[ThePotentialEconomicConsequenc_PML0659]]*
 
 > This short scientific note, published in *The Nautilus* (Vol. 85, No. 4, April 1972), reports several freshwater mollusk records from New Mexico, western Texas, Oklahoma, and Montana. The notes document likely human-mediated introductions of a freshwater mussel, a clam, and a snail, and they...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1683]]*
+> -- *[[FreshwaterMolluskIntroductions_PML1683]]*
 
 ### Mentioned In
 - [[CompositionAndDerivationOfTheN_15363]]
@@ -13261,7 +13261,7 @@ Elephant Butte Reservoir is a large impoundment on the Rio Grande in New Mexico 
 - [[EndangeredAndThreatenedWildlif_PML0780]]
 - [[EndangeredAndThreatenedWildlif_PML0794]]
 - [[ThePotentialEconomicConsequenc_PML0659]]
-- [[UnreadableScannedDocumentOcrFa_PML1683]]
+- [[FreshwaterMolluskIntroductions_PML1683]]
 
 ## Elephant Mountain
 
@@ -15824,7 +15824,7 @@ Empetrichthys is a genus of small cyprinodont fish endemic to the Death Valley r
 > -- *[[AnnotatedListOfTheFishesOfNeva_PML0537]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[APilgrimSProgressFromGroupAToG_1987]]
@@ -15837,7 +15837,7 @@ Empetrichthys is a genus of small cyprinodont fish endemic to the Death Valley r
 - [[TaxonomicStatusAndMorphologyOf_12034]]
 - [[SpeciationInFishesOfTheGeneraC_PML1696]]
 - [[AnnotatedListOfTheFishesOfNeva_PML0537]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Empetrichthys Erdisi
 <!-- fm: auto_enriched: true -->
@@ -22367,10 +22367,10 @@ Endemism in fish science refers to the occurrence of fish species or populations
 > -- *[[ThreeDecadesNearCuatroCinegasM_PML1850]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 ### Mentioned In
 - [[BiotaOfCuatroCienegasCoahuilaM_17006]]
@@ -22392,8 +22392,8 @@ Endemism in fish science refers to the occurrence of fish species or populations
 - [[AreaAndEndemism_PML0058]]
 - [[LarvalRazorbackSuckerXyrauchen_PML1060]]
 - [[ThreeDecadesNearCuatroCinegasM_PML1850]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 
 ## Endemism In Desert Aquatic Systems
 <!-- fm: auto_enriched: true -->
@@ -23358,10 +23358,10 @@ A U.S. Fish and Wildlife Service hatchery in Montana where the pure albino rainb
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Ennis Nfh
 <!-- fm: auto_enriched: true -->
@@ -27219,11 +27219,11 @@ A canal completed in 1835 that opened western farmland to eastern markets. McKib
 > -- *[[AnExplosionOfGreen_12326]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[AnExplosionOfGreen_12326]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Erie-Saginaw Interlobate Moraine
 <!-- fm: auto_enriched: true -->

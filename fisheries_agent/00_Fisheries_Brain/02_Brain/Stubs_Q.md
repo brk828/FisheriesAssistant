@@ -882,11 +882,11 @@ Quantitative genetics is the study of traits influenced by many genes and the en
 > -- *[[GenotypeenvironmentInteraction_12095]]*
 
 > This document is a book chapter by Michael Lynch on how [[Quantitative Genetics]] should inform the conservation of endangered species. Its central argument is that molecular markers are weak proxies for the adaptive genetic variation that determines whether a population can survive environmental...
-> -- *[[UnreadableScannedDocumentAquat_PML1389]]*
+> -- *[[QuantitativeGeneticsInConserva_PML1389]]*
 
 ### Mentioned In
 - [[GenotypeenvironmentInteraction_12095]]
-- [[UnreadableScannedDocumentAquat_PML1389]]
+- [[QuantitativeGeneticsInConserva_PML1389]]
 
 ## Quantitative Sampler
 

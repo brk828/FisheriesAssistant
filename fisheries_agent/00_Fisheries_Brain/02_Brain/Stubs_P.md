@@ -2106,11 +2106,11 @@ The Pacific yew is a tree whose bark yields Taxol, a breast cancer drug. The sou
 > -- *[[PeopleAndBiodiversity_16215]]*
 
 > This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+> -- *[[JuvenileRazorbackSuckerInAMana_PML1902]]*
 
 ### Mentioned In
 - [[PeopleAndBiodiversity_16215]]
-- [[UnreadableScannedDocumentOcrFa_PML1902]]
+- [[JuvenileRazorbackSuckerInAMana_PML1902]]
 
 ## Pacific-Farallon Ridge
 
@@ -2917,7 +2917,7 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 > -- *[[ArizonaGameAndFishDepartmentSp_PML0138]]*
 
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
 - [[AnnualReintroductionAndMonitor_1986_03_10]]
@@ -2943,7 +2943,7 @@ Page Springs Hatchery was a fish propagation facility involved in razorback suck
 - [[SummaryOfEventsAtPalmLake_PML2853]]
 - [[AnnualReintroductionAndMonitor_PML0280]]
 - [[ArizonaGameAndFishDepartmentSp_PML0138]]
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Page Springs Rearing Station
 <!-- fm: auto_enriched: true -->
@@ -3472,7 +3472,7 @@ The Pahranagat Spinedace (Lepidomeda altivelis) was one of six native fish speci
 > -- *[[TaxonomicStatusAndMorphologyOf_PML2899]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[GilaTaxonomy_14730]]
@@ -3488,7 +3488,7 @@ The Pahranagat Spinedace (Lepidomeda altivelis) was one of six native fish speci
 - [[PatternAndExtentOfMitochondria_PML0632]]
 - [[RecoveryPlanForTheAquaticAndRi_PML2631]]
 - [[TaxonomicStatusAndMorphologyOf_PML2899]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Pahranagut Roundtail Chub
 
@@ -3883,10 +3883,10 @@ The Painted Rock Borrow Pit is a water body in Yuma County, Arizona, sampled on 
 
 ### Context
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Painted Rock Dam
 <!-- fm: auto_enriched: true -->
@@ -6411,7 +6411,7 @@ A waterway in Panama linking the Atlantic and Pacific. In this source, Hildebran
 > -- *[[AppliedBiogeography_12093]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[EleotrisPictaAddedToTheFishFau_20054]]
@@ -6419,7 +6419,7 @@ A waterway in Panama linking the Atlantic and Pacific. In this source, Hildebran
 - [[HybridizationAsAFactorInTheSpe_15346]]
 - [[ThePanamicBiotaSomeObservation_16164]]
 - [[AppliedBiogeography_12093]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Panama Canal Zone
 
@@ -10024,13 +10024,13 @@ Parker is a town in western Arizona, along the Colorado River, where the Fishery
 > -- *[[WbnfhFyAnnualReport_PML2721]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[RazorbackSuckers_PML2929]]
 - [[CaptureOfASuspectedJuvenileRaz_PML0595]]
 - [[WbnfhFyAnnualReport_PML2721]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Parker Backwater
 
@@ -10094,7 +10094,7 @@ Parker Canyon Lake is an Arizona reservoir constructed in 1963 that functions as
 > -- *[[ManagementAssessmentOfTheImpac_PML1900]]*
 
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
 - [[CentralArizonaProjectCompletio_1966_07_31]]
@@ -10111,7 +10111,7 @@ Parker Canyon Lake is an Arizona reservoir constructed in 1963 that functions as
 - [[ParkerCanyonLakeNorthernPikeDe_PML0130]]
 - [[FisheriesPublicationList_PML0100]]
 - [[ManagementAssessmentOfTheImpac_PML1900]]
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Parker Canyon Research Station
 
@@ -10400,7 +10400,7 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 > -- *[[ProposedEndangeredFishGrowoutF_PML1591]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[HumpbackChubGilaCypha_18257]]
@@ -10493,7 +10493,7 @@ Parker Dam is a major hydroelectric facility on the Lower Colorado River that pl
 - [[TheFisheryOfTheLowerColoradoRi_PML0588]]
 - [[UdallPutsCentralArizonaProject_14402]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Parker Dam Pond
 
@@ -12628,10 +12628,10 @@ A state park about 15 miles southwest of Patagonia, Arizona, named in the source
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Patagonia, Arizona
 <!-- fm: auto_enriched: true -->
@@ -13250,7 +13250,7 @@ A researcher who, with Stalnaker in 1970, provided early work on the taxonomy of
 > -- *[[HabitatRequirementsOfJuvenileC_PML1078]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 ### Mentioned In
 - [[PartReviewOfExistingInformatio_14721]]
@@ -13258,7 +13258,7 @@ A researcher who, with Stalnaker in 1970, provided early work on the taxonomy of
 - [[LetterToHoldenPbSquawfishKaryo_PML1698]]
 - [[HabitatUseAndMovementOfTheRare_PML1079]]
 - [[HabitatRequirementsOfJuvenileC_PML1078]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 
 ## Paul B. Sears
 
@@ -17377,7 +17377,7 @@ Pena Blanca Lake is a warmwater Arizona reservoir that served as a study site fo
 > -- *[[ManagementAssessmentOfTheImpac_PML1900]]*
 
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
 - [[AnnualReportArizonaCooperative_1966]]
@@ -17396,7 +17396,7 @@ Pena Blanca Lake is a warmwater Arizona reservoir that served as a study site fo
 - [[FisheryImplicationsAssociatedW_20936]]
 - [[FoodHabitsAndSpawningOfTheThre_PML0860]]
 - [[ManagementAssessmentOfTheImpac_PML1900]]
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Pena Blanca Reservoir
 
@@ -18193,10 +18193,10 @@ The Pentland Hills are a range near Edinburgh in Scotland. The source lists them
 
 ### Context
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Pentobarbital
 <!-- fm: auto_enriched: true -->
@@ -18436,10 +18436,10 @@ Per diem is a fixed daily allowance paid to employees to cover meals and inciden
 
 ### Context
 > This is a two-page fisheries field form, a hatchery-to-pond stocking trip record. It logs the hatchery of origin, the fish delivered (species, number, length, weight in pounds), the management area, mileage, truck costs, salary, per diem, departure and return times, and the farm ponds stocked with...
-> -- *[[IllegibleScannedDocumentAquati_PML2663]]*
+> -- *[[FishStockingTripRecord_PML2663]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentAquati_PML2663]]
+- [[FishStockingTripRecord_PML2663]]
 
 ## Perazzo Creek
 
@@ -22652,13 +22652,13 @@ A mark-recapture method for estimating animal population size: a sample is marke
 > -- *[[NorthernPikeRemovalSmallmouthB_PML0814]]*
 
 > This study examined [[Blue Tilapia]] (*Oreochromis aureus*, cited as *Tilapia aurea*) in [[Trinidad Lake]], a 303 ha cooling reservoir for a steam electric generating station in Texas. Monthly [[Gillnet Sampling]] ran from January 1973 to December 1975, and a [[Petersen Mark-Recapture]] estimate...
-> -- *[[UnreadableScannedDocumentNoExt_PML0862]]*
+> -- *[[PopulationDynamicsOfBlueTilapi_PML0862]]*
 
 ### Mentioned In
 - [[FisheryInvestigationsProgressR_11557]]
 - [[SportFishingForTheNativeArizon_PML2225]]
 - [[NorthernPikeRemovalSmallmouthB_PML0814]]
-- [[UnreadableScannedDocumentNoExt_PML0862]]
+- [[PopulationDynamicsOfBlueTilapi_PML0862]]
 
 ## Petersen Mark-Recapture Method
 
@@ -24990,11 +24990,11 @@ Author of this 1888 taxonomic note in the Proceedings of the United States Natio
 > -- *[[NotesOnACollectionOfFishesObta_PML1281]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[NotesOnACollectionOfFishesObta_PML1281]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Philip H. Mitchell
 
@@ -25937,7 +25937,7 @@ The Phoenix Zoo refers to a conservation facility that developed a significant r
 > -- *[[WbnfhFyAnnualReport_PML2721]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[BiologicalAssessmentForDevelop_18529]]
@@ -25964,7 +25964,7 @@ The Phoenix Zoo refers to a conservation facility that developed a significant r
 - [[RecoveryPlanForTheRazorbackSuc_PML1824]]
 - [[InterimConservationPlanForOxyl_PML2409]]
 - [[WbnfhFyAnnualReport_PML2721]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Phoenix, Arizona
 
@@ -33670,7 +33670,7 @@ Pit tagging is a non-lethal fish identification and tracking method that involve
 > -- *[[AProgramForMaintainingTheRazor_PML1953]]*
 
 > This summary reports the results of three [[Razorback Sucker]] roundups conducted on [[Lake Mohave]] (Arizona-Nevada) in March, May and November 2007. The document was prepared by Carol Pacey, Brian Kesner and Paul Marsh for the [[Colorado River Aquatic Biologists Meeting]] (January 9-10, 2008,...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
+> -- *[[RazorbackSuckerRoundupSummaryL_PML2070]]*
 
 ### Mentioned In
 - [[DatabaseManagementProgramColor_1993]]
@@ -33747,7 +33747,7 @@ Pit tagging is a non-lethal fish identification and tracking method that involve
 - [[StockAssessmentAndFisheriesMon_PML2784]]
 - [[FishHandlingImprovementGrandCa_PML2782]]
 - [[AProgramForMaintainingTheRazor_PML1953]]
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
+- [[RazorbackSuckerRoundupSummaryL_PML2070]]
 
 ## Pit Tagging In Fisheries Research
 <!-- fm: auto_enriched: true -->
@@ -38513,10 +38513,10 @@ The Plitvice Lakes are a series of lakes in Croatia (then part of Yugoslavia) wi
 
 ### Context
 > This review by H.A. Viles and A.S. Goudie (1990, *Progress in Physical Geography*) synthesizes knowledge of [[Tufa]], [[Travertine]] and related freshwater calcium carbonate deposits. It covers terminology, classification, global distribution, morphology, biology, petrology, geochemistry, [[Calcium...
-> -- *[[IllegibleScannedDocumentNoReco_PML2793]]*
+> -- *[[TufasTravertinesAndAlliedCarbo_PML2793]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoReco_PML2793]]
+- [[TufasTravertinesAndAlliedCarbo_PML2793]]
 
 ## Plorabunda Section
 
@@ -40278,7 +40278,7 @@ Poeciliopsis is a genus of small livebearing fish native to Mexico and the south
 > -- *[[EcologyOfNaturalDisturbanceAnd_PML2128]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[AnnualReportUnderUsfwsSubpermi_20894]]
@@ -40305,7 +40305,7 @@ Poeciliopsis is a genus of small livebearing fish native to Mexico and the south
 - [[PhenotypicPlasticityOfLifeHist_PML2860]]
 - [[TheRoleOfHybridizationAndIntro_PML0631]]
 - [[EcologyOfNaturalDisturbanceAnd_PML2128]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Poeciliopsis Baenschi
 <!-- fm: auto_enriched: true -->
@@ -40595,7 +40595,7 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 > -- *[[ANewCyprinidFishFromSouthernAr_PML1726]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
 - [[AnnualReportFishesOfArizonaCon_1997_09_23]]
@@ -40641,7 +40641,7 @@ Poeciliopsis occidentalis, commonly known as the Gila topminnow, is a small nati
 - [[TheGilaTopminnowInSouthernAriz_PML2856]]
 - [[MitochondrialDnaVariabilityInT_PML1901]]
 - [[ANewCyprinidFishFromSouthernAr_PML1726]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Poeciliopsis Occidentalis Occidentalis
 <!-- fm: auto_enriched: true -->
@@ -41860,10 +41860,10 @@ A proposed two-stage removal design in which x-types are removed first and then 
 
 ### Context
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Pollock et al. 1990
 
@@ -41872,10 +41872,10 @@ A study cited by the source that compared estimators and found Jolly-Seber estim
 
 ### Context
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Pollock Et Al. 1995
 
@@ -43066,10 +43066,10 @@ An 8,000-acre (3238 ha) flood-control impoundment in Missouri with clear water, 
 
 ### Context
 > This scanned document bundles three components: a literature-cited list on the effects of thermal effluents on fish and aquatic invertebrates, a research paper on how an exotic [[Blue Tilapia]] population suppresses [[Largemouth Bass]] reproduction in [[Trinidad Lake]], Texas, and the opening pages...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
+> -- *[[ThermalEffluentLiteratureBlueT_PML2027]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML2027]]
+- [[ThermalEffluentLiteratureBlueT_PML2027]]
 
 ## Pomme De Terre River
 <!-- fm: auto_enriched: true -->
@@ -44700,13 +44700,13 @@ A PHVA is a structured workshop process, described here as run by the Captive Br
 > -- *[[PolicyRegardingControlledPropa_PML0778]]*
 
 > This document is a book chapter by Michael Lynch on how [[Quantitative Genetics]] should inform the conservation of endangered species. Its central argument is that molecular markers are weak proxies for the adaptive genetic variation that determines whether a population can survive environmental...
-> -- *[[UnreadableScannedDocumentAquat_PML1389]]*
+> -- *[[QuantitativeGeneticsInConserva_PML1389]]*
 
 ### Mentioned In
 - [[ScheduledMeetingNativeFishWork_1990_06_04]]
 - [[MissouriRiverupperColoradoRive_20366]]
 - [[PolicyRegardingControlledPropa_PML0778]]
-- [[UnreadableScannedDocumentAquat_PML1389]]
+- [[QuantitativeGeneticsInConserva_PML1389]]
 
 ## Population Balance
 <!-- fm: auto_enriched: true -->
@@ -49716,7 +49716,7 @@ Predation in fish science and aquatic ecology refers to the ecological interacti
 > -- *[[GeneticMonitoringOfWildAndRepa_PML0634]]*
 
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
 - [[ChemicalTreatmentOfOrdCreekApa_15012]]
@@ -49762,7 +49762,7 @@ Predation in fish science and aquatic ecology refers to the ecological interacti
 - [[ProposedListingForBonytailChub_PML0714]]
 - [[AquaticNongameResearchEndanger_PML2009]]
 - [[GeneticMonitoringOfWildAndRepa_PML0634]]
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Predation By Catfish
 
@@ -54059,7 +54059,7 @@ Program CAPTURE is a software tool for estimating animal population size from ma
 > -- *[[CapturerecaptureAndRemovalMeth_PML2877]]*
 
 > This chapter of a population-ecology text explains how to estimate abundance and density when animals are captured once (removal methods) or identified by sightings without recapture (resight methods). It covers change-in-ratio estimators, Eberhardt's index-removal method, catch-effort (Leslie and...
-> -- *[[IllegibleScannedFisheriesDocum_PML0693]]*
+> -- *[[EstimatingAbundanceRemovalMeth_PML0693]]*
 
 ### Mentioned In
 - [[PopulationTrendsAndDistributio_PML0143]]
@@ -54071,7 +54071,7 @@ Program CAPTURE is a software tool for estimating animal population size from ma
 - [[EstimatingAnimalAbundanceRevie_PML2316]]
 - [[EcologyAndConservationBiologyO_PML0613]]
 - [[CapturerecaptureAndRemovalMeth_PML2877]]
-- [[IllegibleScannedFisheriesDocum_PML0693]]
+- [[EstimatingAbundanceRemovalMeth_PML0693]]
 
 ## Program Code
 
@@ -58016,12 +58016,12 @@ Ptychocheilus umpquae is a pikeminnow in the minnow family Cyprinidae. The sourc
 > -- *[[NotesOnACollectionOfFishesObta_PML1281]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[NotesOnACollectionOfFishesObta_1889]]
 - [[NotesOnACollectionOfFishesObta_PML1281]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Ptychodus Mortoni
 <!-- fm: auto_enriched: true -->
@@ -58132,7 +58132,7 @@ A federal public health agency that was represented on the Aquatic-Life Advisory
 > -- *[[ResumeOfTheDetoxificationPhase_PML0049]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[ProceduresForInvestigationOfFi_21178]]
@@ -58143,7 +58143,7 @@ A federal public health agency that was represented on the Aquatic-Life Advisory
 - [[EffectsOfUraniumOreRefineryWas_13407]]
 - [[ResearchInTheRadioactiveContam_14606]]
 - [[ResumeOfTheDetoxificationPhase_PML0049]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Public Hearing
 

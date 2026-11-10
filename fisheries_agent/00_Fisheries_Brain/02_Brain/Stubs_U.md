@@ -1267,13 +1267,13 @@ The U.S. Department of Energy sponsored or prepared this U.S. Geological Survey 
 > -- *[[TypeBTechnicalInformationDocum_PML2662]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This source is a cartographic item, not an aquatic research document. It is Sheet 2 of 2 of the [[U.S. Geological Survey]] Miscellaneous Investigations Series, Map I-1850, titled *Experimental Digital Shaded-Relief Maps of Southwestern United States*. It was published at a scale of 1:2,000,000 and...
 > -- *[[ExperimentalDigitalShadedrelie_15792]]*
 
 > This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
-> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+> -- *[[DistributionOfFishesInTheDolor_PML1072]]*
 
 ### Mentioned In
 - [[UniversityOfGeorgiaProfessorTa_1994_05_02]]
@@ -1285,9 +1285,9 @@ The U.S. Department of Energy sponsored or prepared this U.S. Geological Survey 
 - [[RequestForProposalsRfpProgramF_18343]]
 - [[ReJeopardyOpinionOnTheTranspor_16909]]
 - [[TypeBTechnicalInformationDocum_PML2662]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[ExperimentalDigitalShadedrelie_15792]]
-- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[DistributionOfFishesInTheDolor_PML1072]]
 
 ## U.S. Department Of The Interior 1984
 <!-- fm: auto_enriched: true -->
@@ -7115,7 +7115,7 @@ The U.S. National Museum served as a major institutional repository for fish spe
 > -- *[[DistributionalRecordsForNorthA_PML1695]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[DistributionalRecordsForNorthA_1946_06_15]]
@@ -7132,7 +7132,7 @@ The U.S. National Museum served as a major institutional repository for fish spe
 - [[AnalysisOfAPopulationOfTheTrop_13942]]
 - [[HistoricalBackgroundToSouthwes_PML0303]]
 - [[DistributionalRecordsForNorthA_PML1695]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## U.S. National Museum of Natural History
 
@@ -7157,10 +7157,10 @@ The U.S. National Parasite Collection (USNPC) is a repository that catalogues pa
 
 ### Context
 > This excerpt from *Great Basin Naturalist* (vol. 56, no. 4, 1996, pp. 374–378) contains three unrelated items. The main fish paper, by Timothy Modde, reports juvenile and adult [[Razorback Sucker]] (*Xyrauchen texanus*) from [[Old Charley Wash]], a managed 60-ha wetland beside the [[Green River]]...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1902]]*
+> -- *[[JuvenileRazorbackSuckerInAMana_PML1902]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML1902]]
+- [[JuvenileRazorbackSuckerInAMana_PML1902]]
 
 ## U.S. National Park Service
 
@@ -10459,7 +10459,7 @@ The United States National Marine Fisheries Service is a federal government agen
 > -- *[[NotesOnACollectionOfFishesObta_PML1281]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[GirardinusSonoriensisMczCatalo_1994_09_01]]
@@ -10515,7 +10515,7 @@ The United States National Marine Fisheries Service is a federal government agen
 - [[ArizonaHydrobiidaeProsobranchi_PML1047]]
 - [[AnIllustratedChecklistOfTheAme_PML1063]]
 - [[NotesOnACollectionOfFishesObta_PML1281]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## United States Power Squadrons
 
@@ -12964,10 +12964,10 @@ A university in Scotland. The author, Stephen Dadzie, was affiliated with it at 
 
 ### Context
 > This preliminary report tests whether exogenous gonadotrophins can induce out-of-season spawning in mature female [[Tilapia Aurea]] held at the [[Dor Fish Culture Research Station]], Israel. Seven experimental series compared [[Carp Pituitary]] (CP), [[Luteinizing Hormone]] (LH), [[Human Chorionic...
-> -- *[[UnreadableOcrScanNoRecoverable_PML0526]]*
+> -- *[[InducedSpawningOfTilapiaAureaW_PML0526]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoRecoverable_PML0526]]
+- [[InducedSpawningOfTilapiaAureaW_PML0526]]
 
 ## University of São Paulo
 
@@ -19236,18 +19236,18 @@ The earliest of the cooperative units, established in December 1961. The source 
 > -- *[[LetterToHoldenPbSquawfishKaryo_PML1698]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
-> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+> -- *[[DistributionOfFishesInTheDolor_PML1072]]*
 
 ### Mentioned In
 - [[AnnualReportForCooperativeFish_11527]]
 - [[RecreationalUsePatternsAtFlami_20379]]
 - [[CodedWireSnoutTagForInlandFish_PML0195]]
 - [[LetterToHoldenPbSquawfishKaryo_PML1698]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
-- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[ChangesInNativeFishDistributio_PML2466]]
+- [[DistributionOfFishesInTheDolor_PML1072]]
 
 ## Utah Cooperative Wildlife Research Unit
 
@@ -19259,11 +19259,11 @@ A cooperative research unit that helped launch the 1948 fishery investigation of
 > -- *[[AgeAndGrowthOfTheBrownTroutSal_18947]]*
 
 > This Wildlife Monograph (No. 62, October 1978) by David L. Otis, Kenneth P. Burnham, Gary C. White, and David R. Anderson presents statistical methods for estimating the size (N) and density (D) of closed animal populations from multiple-occasion capture-recapture and removal data. The monograph is...
-> -- *[[IllegibleScannedDocumentUnreco_PML2061]]*
+> -- *[[StatisticalInferenceFromCaptur_PML2061]]*
 
 ### Mentioned In
 - [[AgeAndGrowthOfTheBrownTroutSal_18947]]
-- [[IllegibleScannedDocumentUnreco_PML2061]]
+- [[StatisticalInferenceFromCaptur_PML2061]]
 
 ## Utah Cutthroat Trout
 <!-- fm: auto_enriched: true -->
@@ -19295,13 +19295,13 @@ The state agency that issued this completion report under Federal Aid Project F-
 > -- *[[EcologicalStudiesOfTheFloraAnd_20822]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[PreimpoundmentInvestigationsOf_12301]]
 - [[ThePlanningOperationAndAnalysi_17632]]
 - [[EcologicalStudiesOfTheFloraAnd_20822]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Utah Department Of Natural Resources
 <!-- fm: auto_enriched: true -->
@@ -19659,7 +19659,7 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 > -- *[[ProposedIntroductionOfRainbowS_PML0931]]*
 
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
 - [[AnnualAssessmentOfColoradoSqua_1993]]
@@ -19756,7 +19756,7 @@ The Utah Division of Wildlife Resources is the state agency responsible for mana
 - [[EvaluationOfHatcheryrearedBony_PML0407]]
 - [[DraftSummaryReportOnTheIchthyo_PML2174]]
 - [[ProposedIntroductionOfRainbowS_PML0931]]
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Utah Fish And Game Commission
 
@@ -19958,7 +19958,7 @@ Utah Lake is a large, shallow freshwater lake in Utah, USA, characterized by dyn
 > -- *[[ReportUponTheCollectionsOfFish_PML0496]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[CompensatoryRecruitmentDynamic_2020]]
@@ -19982,7 +19982,7 @@ Utah Lake is a large, shallow freshwater lake in Utah, USA, characterized by dyn
 - [[LakeSuckerLifeHistoryAndManage_PML2320]]
 - [[ExtinctionsOfNorthAmericanFish_PML1718]]
 - [[ReportUponTheCollectionsOfFish_PML0496]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Utah Lake Chub
 
@@ -19991,10 +19991,10 @@ The Utah Lake Chub (*Siboma atraria*) is a native cyprinid of Utah. The source n
 
 ### Context
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Utah Lake Fish Management Advisory Team
 
@@ -20025,10 +20025,10 @@ The Utah Lake Sucker (*Catostomus fecundus*) is a native catostomid that was abu
 
 ### Context
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Utah Lake Trout
 
@@ -20040,11 +20040,11 @@ The Utah Lake trout is a form of Salmo mykiss endemic to Utah Lake and described
 > -- *[[ReportUponTheCollectionsOfFish_PML0495]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[ReportUponTheCollectionsOfFish_PML0495]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Utah Power and Light
 
@@ -20266,7 +20266,7 @@ Utah State University, particularly through its Institute for Natural Systems En
 > -- *[[DraftProspectusOnIntegrationOf_PML0016]]*
 
 > This 1975 field study, published in *The Southwestern Naturalist* and produced by the [[Utah Cooperative Fishery Unit]] at [[Utah State University]], documents fish distribution in the [[Dolores River]] (sampled 1971) and the [[Yampa River]] system (sampled 1968–1971) of northwestern Colorado. The...
-> -- *[[UnreadableScannedDocumentAquat_PML1072]]*
+> -- *[[DistributionOfFishesInTheDolor_PML1072]]*
 
 ### Mentioned In
 - [[LetterToTedStewartRegardingThe_1997_08_28]]
@@ -20301,7 +20301,7 @@ Utah State University, particularly through its Institute for Natural Systems En
 - [[BonytailAnnualReport_PML0516]]
 - [[EndemicFishesOfTheColoradoRive_PML0064]]
 - [[DraftProspectusOnIntegrationOf_PML0016]]
-- [[UnreadableScannedDocumentAquat_PML1072]]
+- [[DistributionOfFishesInTheDolor_PML1072]]
 
 ## Utah Stocking Plan
 
@@ -20380,7 +20380,7 @@ The Utah Sucker (*Catostomus ardens*) is a native cyprinid species of the Colora
 > -- *[[CatostomidFishLarvaeAndEarlyJu_PML2400]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[EndangeredAndThreatenedFishInT_1979]]
@@ -20404,7 +20404,7 @@ The Utah Sucker (*Catostomus ardens*) is a native cyprinid species of the Colora
 - [[ReportUponTheCollectionsOfFish_PML0495]]
 - [[BiogeographyAndTimingOfEvoluti_PML2392]]
 - [[CatostomidFishLarvaeAndEarlyJu_PML2400]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Utah Tiger Salamander
 
@@ -20425,10 +20425,10 @@ The Utah Water Research Lab is the facility named in this source as the place in
 
 ### Context
 > This document is a badly degraded OCR scan. Only a few fragments are legible, and they describe laboratory water prepared for aquatic testing. The legible text indicates that water was heated and dechlorinated at the [[Utah Water Research Lab]] in [[Logan, Utah]], and that a [[Reconstituted Water]]...
-> -- *[[UnreadableOcrScanAquaticDocume_PML2823]]*
+> -- *[[ReconstitutedGreenRiverWaterPr_PML2823]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticDocume_PML2823]]
+- [[ReconstitutedGreenRiverWaterPr_PML2823]]
 
 ## Utah Water Research Laboratory
 

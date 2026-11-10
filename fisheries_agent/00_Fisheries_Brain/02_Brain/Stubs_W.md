@@ -1287,7 +1287,7 @@ The Wabash River is a major tributary of the Ohio River in the midwestern United
 > -- *[[DifferentialUseOfStreamHabitat_PML0521]]*
 
 > This scanned document bundles three components: a literature-cited list on the effects of thermal effluents on fish and aquatic invertebrates, a research paper on how an exotic [[Blue Tilapia]] population suppresses [[Largemouth Bass]] reproduction in [[Trinidad Lake]], Texas, and the opening pages...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2027]]*
+> -- *[[ThermalEffluentLiteratureBlueT_PML2027]]*
 
 ### Mentioned In
 - [[ASystematicStudyOfTheGreenside_1964]]
@@ -1307,7 +1307,7 @@ The Wabash River is a major tributary of the Ohio River in the midwestern United
 - [[ASurveyOfTheCommerciallyValuab_12458]]
 - [[ExtensionOfTheRangeOfCorbicula_PML0179]]
 - [[DifferentialUseOfStreamHabitat_PML0521]]
-- [[UnreadableScannedDocumentOcrFa_PML2027]]
+- [[ThermalEffluentLiteratureBlueT_PML2027]]
 
 ## Waccamaw Darter
 <!-- fm: auto_enriched: true -->
@@ -4194,10 +4194,10 @@ Utah Fisheries Manager for the Southeast Region in the source, who reported that
 
 ### Context
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Walter A. Chipman
 
@@ -5934,10 +5934,10 @@ A road in the Salt River Valley area used on the map as a reference point for lo
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Warner Sucker
 <!-- fm: auto_enriched: true -->
@@ -6319,12 +6319,12 @@ The Wasatch Front is a geological feature that isolated the Bonneville Basin in 
 > -- *[[RecreationOpportunitiesAndProb_14544]]*
 
 > This Arizona Game & Fish Department publication introduces a colorless strain of [[Rainbow Trout]] (*[[Oncorhynchus Mykiss]]*, formerly *Salmo gairdneri*) held at the [[Page Springs Hatchery]]. The albino fish are genetically identical to normal rainbows apart from lacking pigment. The Department...
-> -- *[[UnreadableScannedDocumentAquat_PML0098]]*
+> -- *[[AlbinoRainbowTroutStockingProg_PML0098]]*
 
 ### Mentioned In
 - [[AllozymicVariationAndSystemati_12782]]
 - [[RecreationOpportunitiesAndProb_14544]]
-- [[UnreadableScannedDocumentAquat_PML0098]]
+- [[AlbinoRainbowTroutStockingProg_PML0098]]
 
 ## Wasatch Front Spotted Frog Population
 
@@ -12401,7 +12401,7 @@ The report's system for locating wells by land survey: a quadrant letter, townsh
 > -- *[[BiologicalPollutionThroughFish_17615]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[OriginAndDispersalOfTheAlewife_1957]]
@@ -12413,7 +12413,7 @@ The report's system for locating wells by land survey: a quadrant letter, townsh
 - [[NonnativeFishesInhabitingTheSt_12682]]
 - [[OriginAndGeographyOfTheFishFau_17264]]
 - [[BiologicalPollutionThroughFish_17615]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Wells 1932
 <!-- fm: auto_enriched: true -->
@@ -15725,7 +15725,7 @@ The Western Whiptail Lizard (Cnemidophorus tigris) is a desert teiid lizard. Gre
 > -- *[[AnInvestigationOfEndangeredAnd_PML0047]]*
 
 > This note combines two fisheries papers. The first surveys the status of the fish fauna of the [[Lake Mead National Recreational Area]] on the lower [[Colorado River]], Arizona-Nevada, which has been reshaped by [[Hoover Dam]] and [[Davis Dam]]. The author recorded 3 native and 11 exotic species...
-> -- *[[UnreadableScannedDocumentNoExt_PML2812]]*
+> -- *[[FishFaunaOfLakeMeadNationalRec_PML2812]]*
 
 ### Mentioned In
 - [[GrowthRateOfFourSpeciesOfFishB_17891]]
@@ -15734,7 +15734,7 @@ The Western Whiptail Lizard (Cnemidophorus tigris) is a desert teiid lizard. Gre
 - [[CommunityStructureOfBenthicMac_15163]]
 - [[ToxicologyOfTiodanInSeveralFis_20589]]
 - [[AnInvestigationOfEndangeredAnd_PML0047]]
-- [[UnreadableScannedDocumentNoExt_PML2812]]
+- [[FishFaunaOfLakeMeadNationalRec_PML2812]]
 
 ## Western White-Winged Dove
 
@@ -16827,7 +16827,7 @@ The Wheeler Survey was a U.S. government survey of the American West that this s
 > -- *[[ReportUponTheCollectionsOfFish_PML0495]]*
 
 > This 1936 Utah Academy of Sciences paper by [[Vasco M. Tanner]] is a regional fish fauna review. It aims to gather what was known about the native fishes of Utah, give keys for non-specialists, and compile a distributional list and bibliography. It recognizes 25 native species in 5 families, plus...
-> -- *[[UnreadableOcrScanNoExtractable_PML2490]]*
+> -- *[[AStudyOfTheFishesOfUtah_PML2490]]*
 
 ### Mentioned In
 - [[ManAndWildlifeInArizonaIiTheAm_17431]]
@@ -16837,7 +16837,7 @@ The Wheeler Survey was a U.S. government survey of the American West that this s
 - [[DeterminationOfEndangeredStatu_PML0738]]
 - [[ProposedListingOfVirginRiverCh_PML0733]]
 - [[ReportUponTheCollectionsOfFish_PML0495]]
-- [[UnreadableOcrScanNoExtractable_PML2490]]
+- [[AStudyOfTheFishesOfUtah_PML2490]]
 
 ## Whelpside Ghyll
 
@@ -19191,7 +19191,7 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 > -- *[[ThermalPollutionAquacultureAnd_15270]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[ChangingChemicalAndBiologicalC_12793]]
@@ -19240,7 +19240,7 @@ White Perch (*Morone americana*) is a panfish species that occupies an important
 - [[ManualForIdentificationOfEarly_PML1370]]
 - [[GreatLakesFishEggAndLarvaeIden_PML2646]]
 - [[ThermalPollutionAquacultureAnd_15270]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## White Pine County
 
@@ -19624,13 +19624,13 @@ The White River refers to a river system in the south-central United States (pri
 > -- *[[LoachMinnowTiarogaCobitisSurve_PML2874]]*
 
 > This 1973 paper from the *Utah Academy Proceedings* (Vol. 50, Part 1) reports on the [[Utah Cooperative Fishery Unit]]'s 1963–1966 field studies and later collections on native fishes of the [[Green River]] system. The authors, [[Clair B. Stalnaker]] and [[Paul B. Holden]], examine how the closure...
-> -- *[[UnreadableOcrScanAquaticScienc_PML2466]]*
+> -- *[[ChangesInNativeFishDistributio_PML2466]]*
 
 > This study tests the long-term stability and persistence of summer fish assemblages in three freshwater streams of the [[White River]] and [[Red River]] drainages: [[Piney Creek]] (Arkansas), [[Brier Creek]] (Oklahoma), and the [[Kiamichi River]] (Oklahoma). The authors distinguish *persistence*...
 > -- *[[StabilityAndPersistenceOfFishF_PML1610]]*
 
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 > This 1985 Colorado Division of Wildlife newsletter article, reproduced on an OPTIONAL FORM 41 routing and transmittal slip, covers three linked topics: the recovery of endangered [[Bonytail]] and other "big river" fishes in Colorado, the radio tracking of [[Colorado Squawfish]], and a 1985 capture...
 > -- *[[RoutingAndTransmittalSlipBonyt_PML1896]]*
@@ -19770,9 +19770,9 @@ The White River refers to a river system in the south-central United States (pri
 - [[StatusOfWildRazorbackSuckerInT_PML0206]]
 - [[ColoradoSquawfishAndHumpbackCh_PML1329]]
 - [[LoachMinnowTiarogaCobitisSurve_PML2874]]
-- [[UnreadableOcrScanAquaticScienc_PML2466]]
+- [[ChangesInNativeFishDistributio_PML2466]]
 - [[StabilityAndPersistenceOfFishF_PML1610]]
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 - [[RoutingAndTransmittalSlipBonyt_PML1896]]
 
 ## White River (Arizona)
@@ -22520,10 +22520,10 @@ A wildlife refuge in Comanche County, Oklahoma. In this source it is the locatio
 
 ### Context
 > This short miscellany of natural history notes contains one substantive fish record and two bird notes. The main item, by William J. Koster, reports the first known specimens of the [[Colorado River Squawfish]] from the San Juan portion of the [[Colorado River Basin]], documented by two fish...
-> -- *[[UnreadableOcrScanAquaticDocume_PML1295]]*
+> -- *[[ColoradoRiverSquawfishPtychoch_PML1295]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticDocume_PML1295]]
+- [[ColoradoRiverSquawfishPtychoch_PML1295]]
 
 ## Wick And Hawkins 1989
 <!-- fm: auto_enriched: true -->
@@ -25134,10 +25134,10 @@ William J. Clench was a malacologist cited in this source. He suggested that bir
 
 ### Context
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## William J Wiltzius
 
@@ -26166,10 +26166,10 @@ A road in the Salt River Valley area used on the map as a reference point for lo
 
 ### Context
 > This document is a scanned, partially legible map legend and key for the irrigation system and properties of the [[Salt River Valley Water Users Association]], Phoenix, Arizona. It is not a fish or aquatic-ecology study. It names no species, habitats, water-quality measurements, or sample data. Its...
-> -- *[[IllegibleOcrScanNoExtractableA_PML2863]]*
+> -- *[[SaltRiverValleyIrrigationSyste_PML2863]]*
 
 ### Mentioned In
-- [[IllegibleOcrScanNoExtractableA_PML2863]]
+- [[SaltRiverValleyIrrigationSyste_PML2863]]
 
 ## Williams Fork
 
@@ -26729,13 +26729,13 @@ A federal fish hatchery on the Colorado River system that raised razorback sucke
 > -- *[[MohaveTrulyAFishermansHeaven_PML1916]]*
 
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 ### Mentioned In
 - [[RazorbackSuckerManagementAndHa_PML1169]]
 - [[RazorbackSuckerResearchAndSout_PML0572]]
 - [[MohaveTrulyAFishermansHeaven_PML1916]]
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 
 ## Willow Beach Hatchery
 <!-- fm: auto_enriched: true -->
@@ -28530,10 +28530,10 @@ Windell (1971) is a cited methodological source whose approach the authors follo
 
 ### Context
 > This field study documents a rare case of large-scale natural mortality among 2-year-old [[Largemouth Bass]] (*Micropterus salmoides*) in [[Deer Island Lake]], a 40.7 ha backwater of the [[Lower Colorado River]] in Arizona. The authors, Michael K. Saiki and Jerry C. Tash of the Arizona Cooperative...
-> -- *[[UnreadableOcrScanNoRecoverable_PML2282]]*
+> -- *[[UnusualPopulationDynamicsInLar_PML2282]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanNoRecoverable_PML2282]]
+- [[UnusualPopulationDynamicsInLar_PML2282]]
 
 ## Windell 1966
 <!-- fm: auto_enriched: true -->
@@ -31775,7 +31775,7 @@ The Woods Hole Laboratory was the U.S. Fish Commission facility at Woods Hole, M
 > -- *[[TheSchoolingOfFishes_11405]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[ThePlanktonSamplerAnInstrument_1950]]
@@ -31784,7 +31784,7 @@ The Woods Hole Laboratory was the U.S. Fish Commission facility at Woods Hole, M
 - [[NoLongerEndangered_14638]]
 - [[ThePlanktonSampleranInstrument_15916]]
 - [[TheSchoolingOfFishes_11405]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Woods Hole Region
 

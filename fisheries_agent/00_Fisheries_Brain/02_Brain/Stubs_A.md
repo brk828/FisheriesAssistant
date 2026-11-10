@@ -2832,10 +2832,10 @@ A woodpecker species (Melanerpes formicivorus). This source reports an adult fem
 
 ### Context
 > This short miscellany of natural history notes contains one substantive fish record and two bird notes. The main item, by William J. Koster, reports the first known specimens of the [[Colorado River Squawfish]] from the San Juan portion of the [[Colorado River Basin]], documented by two fish...
-> -- *[[UnreadableOcrScanAquaticDocume_PML1295]]*
+> -- *[[ColoradoRiverSquawfishPtychoch_PML1295]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticDocume_PML1295]]
+- [[ColoradoRiverSquawfishPtychoch_PML1295]]
 
 ## Acorns
 
@@ -6023,10 +6023,10 @@ Agaronia is a genus of marine snails in the family Olividae. In this source it a
 
 ### Context
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Agarose Overlay Staining
 
@@ -11424,7 +11424,7 @@ The alewife (*Alosa pseudoharengus*) is a small, schooling forage fish species t
 > -- *[[GreatLakesFishEggAndLarvaeIden_PML2646]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 ### Mentioned In
 - [[AlewifeBarrierResponseSummaryL_1999_07_22]]
@@ -11476,7 +11476,7 @@ The alewife (*Alosa pseudoharengus*) is a small, schooling forage fish species t
 - [[WhenCanEffortsToControlNuisanc_PML2949]]
 - [[ReviewOfPotentialForageFishInt_PML0640]]
 - [[GreatLakesFishEggAndLarvaeIden_PML2646]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 
 ## Alewife-Zooplankton Trophic Cascade
 <!-- fm: auto_enriched: true -->
@@ -12714,7 +12714,7 @@ Alkyl benzene sulphonates (ABS) are synthetic anionic detergents. This study tes
 > -- *[[UdallPutsCentralArizonaProject_14402]]*
 
 > This document is a U.S. Fish and Wildlife Service (USFWS) information request and compiled table of inter-basin water transfers worldwide. It lists engineered canals, aqueducts, diversions and waterways that connect previously separate drainages, together with the fish and other aquatic taxa...
-> -- *[[UnreadableOcrScanNoExtractable_PML2455]]*
+> -- *[[InterbasinTransfersAndAquaticS_PML2455]]*
 
 > This 1940s survey by the California Division of Fish and Game, written by the author with [[Chester Woodhull]] and compiled in the wartime period (fieldwork largely in early 1942), describes the fishery of the lower [[Colorado River]] from the Mexican boundary to [[Boulder Dam]]. The river was...
 > -- *[[FishingOfTheLowerColoradoRiver_PML0589]]*
@@ -12736,7 +12736,7 @@ Alkyl benzene sulphonates (ABS) are synthetic anionic detergents. This study tes
 - [[FeasibilityOfDevelopingAndMain_PML0110]]
 - [[FeasibilityOfDevelopingAndMain_PML2922]]
 - [[UdallPutsCentralArizonaProject_14402]]
-- [[UnreadableOcrScanNoExtractable_PML2455]]
+- [[InterbasinTransfersAndAquaticS_PML2455]]
 - [[FishingOfTheLowerColoradoRiver_PML0589]]
 
 ## All-American Canal Desilting Works
@@ -13310,10 +13310,10 @@ A 1997 paper in Conservation Biology (vol. 11, pp. 140–152) on prioritizing Pa
 
 ### Context
 > This 1980 *American Naturalist* article by [[Ferris and Whitt]] (Department of Genetics and Development, University of Illinois) examines allozyme (isozyme) genetic variability in 19 species of [[Catostomidae]] (suckers), a sexually reproducing family that has been tetraploid for at least 50...
-> -- *[[FragmentaryOcrScanOfAnAquaticS_PML0804]]*
+> -- *[[GeneticVariabilityInSpeciesWit_PML0804]]*
 
 ### Mentioned In
-- [[FragmentaryOcrScanOfAnAquaticS_PML0804]]
+- [[GeneticVariabilityInSpeciesWit_PML0804]]
 
 ## Allenrolfea Occidentalis
 
@@ -13394,10 +13394,10 @@ Alligator Bayou is a small floodplain tributary of the Mississippi River in the 
 
 ### Context
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Alligator Bend
 
@@ -26641,10 +26641,10 @@ Anodonta grandis is a freshwater mussel in the family Unionidae. This species wa
 
 ### Context
 > This short scientific note, published in *The Nautilus* (Vol. 85, No. 4, April 1972), reports several freshwater mollusk records from New Mexico, western Texas, Oklahoma, and Montana. The notes document likely human-mediated introductions of a freshwater mussel, a clam, and a snail, and they...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1683]]*
+> -- *[[FreshwaterMolluskIntroductions_PML1683]]*
 
 ### Mentioned In
-- [[UnreadableScannedDocumentOcrFa_PML1683]]
+- [[FreshwaterMolluskIntroductions_PML1683]]
 
 ## Anodontia Imbecillis
 
@@ -31959,7 +31959,7 @@ Aquarium testing refers to the controlled experiments Loeb ran on carp in large 
 > -- *[[LiveWildlifeRules_PML0114]]*
 
 > This document is a two-part Notes section from a fisheries journal. The first note reports the first confirmed record of [[Hart's Rivulus]] (*Rivulus harti*) in California, a South American species collected in 1967 and 1968 from a ditch near a closed [[Tropical Fish Farm]] on the eastern side of...
-> -- *[[IllegibleScannedDocumentNoExtr_PML1209]]*
+> -- *[[HartsRivulusRecordsInCaliforni_PML1209]]*
 
 ### Mentioned In
 - [[EstablishmentAndEarlyDispersal_20617]]
@@ -31972,7 +31972,7 @@ Aquarium testing refers to the controlled experiments Loeb ran on carp in large 
 - [[RedescripcinDeCaracolExgenoThi_PML0486]]
 - [[BiologicalInvasionOfTheIndopac_PML2880]]
 - [[LiveWildlifeRules_PML0114]]
-- [[IllegibleScannedDocumentNoExtr_PML1209]]
+- [[HartsRivulusRecordsInCaliforni_PML1209]]
 
 ## Aquarium Trade And Fish Introductions
 <!-- fm: auto_enriched: true -->
@@ -36098,7 +36098,7 @@ Arctic Char (Salvelinus alpinus) is a cold-water salmonid species distributed ac
 > -- *[[ProductiveCapacityOfCanadianFi_16874]]*
 
 > Baker, Lafferty and Quinn (1991, *Fisheries Research* 11: 257–281) extend [[Schnute Growth Model]], a general four-parameter size-age growth model that contains many classical curves (von Bertalanffy, Gompertz, Richards, logistic, linear, power) as submodels, to [[Mark-Recapture Data]]....
-> -- *[[UnreadableScannedAquaticDocume_PML0163]]*
+> -- *[[AGeneralGrowthModelForMarkreca_PML0163]]*
 
 ### Mentioned In
 - [[GrowthRatesOfTheCharSalvelinus_15166]]
@@ -36118,7 +36118,7 @@ Arctic Char (Salvelinus alpinus) is a cold-water salmonid species distributed ac
 - [[VernalAndHiemalRacesAmongAnadr_18184]]
 - [[TrophicDynamicsInAnArcticLagoo_17991]]
 - [[ProductiveCapacityOfCanadianFi_16874]]
-- [[UnreadableScannedAquaticDocume_PML0163]]
+- [[AGeneralGrowthModelForMarkreca_PML0163]]
 
 ## Arctic Charr
 
@@ -38071,7 +38071,7 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 > -- *[[LowerColoradoRiverNativeFishes_PML2075]]*
 
 > This summary reports the results of three [[Razorback Sucker]] roundups conducted on [[Lake Mohave]] (Arizona-Nevada) in March, May and November 2007. The document was prepared by Carol Pacey, Brian Kesner and Paul Marsh for the [[Colorado River Aquatic Biologists Meeting]] (January 9-10, 2008,...
-> -- *[[UnreadableScannedDocumentOcrFa_PML2070]]*
+> -- *[[RazorbackSuckerRoundupSummaryL_PML2070]]*
 
 ### Mentioned In
 - [[LakeMohaveSamplingForBonytailC_1997_09_14]]
@@ -38110,7 +38110,7 @@ Arizona Bay is a shallow nearshore habitat within Lake Mohave (on the Arizona-Ne
 - [[AnalysisOfLarvalRazorbackSucke_PML1481]]
 - [[SpawningSeasonOfTheRazorbackSu_PML0262]]
 - [[LowerColoradoRiverNativeFishes_PML2075]]
-- [[UnreadableScannedDocumentOcrFa_PML2070]]
+- [[RazorbackSuckerRoundupSummaryL_PML2070]]
 
 ## Arizona Bay Backwater
 
@@ -41441,7 +41441,7 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > -- *[[AProgramToMaintainTheEndangere_PML1929]]*
 
 > A large squawfish (*Ptychocheilus lucius*), a rare and nearly extinct member of the minnow family, was caught below [[Hoover Dam]] at [[Willow Beach Fish Hatchery]] and [[Lake Mohave]]. The fish was identified by a [[National Park Service]] naturalist. The article reviews historical records showing...
-> -- *[[UnreadableScannedDocumentNoExt_PML2016]]*
+> -- *[[NearextinctColoradoSquawfishTa_PML2016]]*
 
 > This document is a 1965 Fisheries Management (Region 5) memorandum packet, with a supporting excerpt on flood effects. It reports a rotenone-based population estimate of fishes in two sidewaters of the [[Colorado River]] in the [[Topock Gorge]] Division, conducted on June 24 and June 30, 1965....
 > -- *[[FisheryCorrespondenceAndDesert_PML1333]]*
@@ -41450,7 +41450,7 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 > -- *[[RegionIiStreamHabitatSurveyMet_15919]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[ABasicSurveyOfWatersInDistrict_1959_01_15]]
@@ -42260,10 +42260,10 @@ The Arizona Game and Fish Department (AGFD) is the state wildlife agency respons
 - [[PlanDeRecuperacinDelPupoDelDes_PML1244]]
 - [[ProposedEndangeredFishGrowoutF_PML1591]]
 - [[AProgramToMaintainTheEndangere_PML1929]]
-- [[UnreadableScannedDocumentNoExt_PML2016]]
+- [[NearextinctColoradoSquawfishTa_PML2016]]
 - [[FisheryCorrespondenceAndDesert_PML1333]]
 - [[RegionIiStreamHabitatSurveyMet_15919]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Arizona Game And Fish Department Hatcheries
 
@@ -44743,7 +44743,7 @@ Arizona State University is a major research institution that has played a signi
 > -- *[[TheStudyOfTheAlgaeOfIrrigation_PML2888]]*
 
 > This document is a site-by-site collection register of tilapia (Cichlidae: *Oreochromis* and *Tilapia*) sampled at 15 entries across Arizona in 1983 and 1984. Specimens were collected at public parks, a zoo, a nursery, a borrow pit, the [[Lower Colorado River]], the [[Gila River]], a pump station...
-> -- *[[UnreadableOcrScanNoExtractable_PML0503]]*
+> -- *[[TilapiaCollectionRecordsAndHyb_PML0503]]*
 
 ### Mentioned In
 - [[AStudyOfTheMovementsAndDistrib_15476]]
@@ -45317,7 +45317,7 @@ Arizona State University is a major research institution that has played a signi
 - [[QuitobaquitoPondLimnologicalFi_PML0817]]
 - [[LossOfLakeMohaveBonytailChub_PML2693]]
 - [[TheStudyOfTheAlgaeOfIrrigation_PML2888]]
-- [[UnreadableOcrScanNoExtractable_PML0503]]
+- [[TilapiaCollectionRecordsAndHyb_PML0503]]
 
 ## Arizona State University (Asu)
 <!-- fm: auto_enriched: true -->
@@ -45749,11 +45749,11 @@ Arizona Territory refers to the pre-statehood political entity that existed befo
 > -- *[[ABotanistInArizonaTerritoryJac_13225]]*
 
 > This taxonomic note, written by [[Philip H. Kirsch]] and published in the Proceedings of the [[United States National Museum]] (dated [[Indiana University]], April 16, 1889), reports a collection of fishes from the [[Gila River]] at [[Fort Thomas]], [[Arizona Territory]]. The specimens were...
-> -- *[[UnreadableScannedDocumentOcrFa_PML1282]]*
+> -- *[[NotesOnACollectionOfFishesObta_PML1282]]*
 
 ### Mentioned In
 - [[ABotanistInArizonaTerritoryJac_13225]]
-- [[UnreadableScannedDocumentOcrFa_PML1282]]
+- [[NotesOnACollectionOfFishesObta_PML1282]]
 
 ## Arizona Tiger Salamander
 
@@ -46421,10 +46421,10 @@ Arizonichthys is a genus of small desert fish that Nichols proposed in 1940. Thi
 
 ### Context
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Arizonichthys Psammophilus
 
@@ -46433,10 +46433,10 @@ Arizonichthys psammophilus is a small desert fish described by J. T. Nichols in 
 
 ### Context
 > This Occasional Paper from the [[Museum of Zoology]], University of Michigan (No. 433, June 23, 1941), by [[Carl L. Hubbs]] and [[Robert R. Miller]], is a taxonomic and nomenclatural study of cyprinodont fishes (order Cyprinodontes) of the [[Colorado River System]]. It covers four genera and...
-> -- *[[UnreadableOcrScanAquaticScienc_PML1115]]*
+> -- *[[StudiesOfTheFishesOfTheOrderCy_PML1115]]*
 
 ### Mentioned In
-- [[UnreadableOcrScanAquaticScienc_PML1115]]
+- [[StudiesOfTheFishesOfTheOrderCy_PML1115]]
 
 ## Ariëns 1964
 <!-- fm: auto_enriched: true -->
@@ -51812,7 +51812,7 @@ The Asian tiger mosquito is a mosquito native to Asia that has spread widely to 
 > -- *[[CorbiculaManilensisInTheMesill_PML1682]]*
 
 > This is a multi-article section of the [[Nautilus]] journal (Vol. 77, No. 4, April 1964) covering three malacological topics. The first is a taxonomic note on New World and Indo-Pacific [[Melampidae]] that corrects name usage, fixes the type designation of the genus *Pira*, and gives...
-> -- *[[UnreadableOcrScanOfAnUnidentif_PML1145]]*
+> -- *[[MelampidTaxonomyAsiaticClamRei_PML1145]]*
 
 ### Mentioned In
 - [[TrophicInterrelationsAmongIntr_1982]]
@@ -51862,7 +51862,7 @@ The Asian tiger mosquito is a mosquito native to Asia that has spread widely to 
 - [[AquaticHabitatsAndFishesOfTheL_PML1749]]
 - [[AquaticHabitatsAndFishesOfTheL_PML1899]]
 - [[CorbiculaManilensisInTheMesill_PML1682]]
-- [[UnreadableOcrScanOfAnUnidentif_PML1145]]
+- [[MelampidTaxonomyAsiaticClamRei_PML1145]]
 
 ## Asiatic Freshwater Clam
 
@@ -53782,12 +53782,12 @@ A large river-floodplain system in Louisiana. Lambou (1963), as cited here, foun
 > -- *[[LandWaterWildlifeAndFloodContr_17828]]*
 
 > This paper examines how fishes from the [[Mississippi River]] main channel use an adjoining floodplain when river flooding inundates it. Fish were sampled in 1973 with [[Seine Sampling]], [[Gill Net Sampling]], and [[Trammel Net Sampling]] on a backswamp floodplain near St. Francisville, Louisiana....
-> -- *[[IllegibleScannedDocumentNoExtr_PML0919]]*
+> -- *[[UtilizationOfAnInundatedFloodp_PML0919]]*
 
 ### Mentioned In
 - [[UtilizationOfAnInundatedFloodp_17817]]
 - [[LandWaterWildlifeAndFloodContr_17828]]
-- [[IllegibleScannedDocumentNoExtr_PML0919]]
+- [[UtilizationOfAnInundatedFloodp_PML0919]]
 
 ## Atchafalaya River
 
