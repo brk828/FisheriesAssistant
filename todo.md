@@ -28,7 +28,9 @@ Observations about the current brain (affects the design):
 ## Library quality (2026-11-09)
 - [x] Spot check of 100 Marsh public-domain calls: 10 changed to public domain (`marsh_ingest apply-overrides`).
 - [x] Removed Minckley 11948 and 13765 (`utils/remove_notes.py`); full text saved for 13684, 13699, 15630, 16820.
-- [ ] Re-OCR the 220 garbled documents (`start_reocr.bat`), then `reocr apply` and rebuild the improved notes (batch, estimate and consent first); remove notes still empty after that.
+- [x] Re-OCR (2026-11-09/10): 243 documents, 172 full texts improved by 0.10 or more and applied; the 41 still below 0.45 are non-English papers (score counts English words), not bad scans.
+- [ ] Rebuild the 172 improved notes (`start_rebuild_notes.bat`), check retitled ones, remove notes still empty.
+- [ ] Minckley 17604: catalogued as a Spanish shrimp paper (Mar de Cortes) but the PDF text is a Portuguese paper by Costa et al.; check the file.
 - [ ] Ingest: detect garbled text layers and rotated pages in `pdf_ingest.extract_text` (reuse `reocr.read_page`), and OCR at 300 dpi.
 
 ## Phase B: Brain as a reference
